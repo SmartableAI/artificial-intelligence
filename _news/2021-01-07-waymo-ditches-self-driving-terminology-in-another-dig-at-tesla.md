@@ -240,22 +240,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Watch this Tesla Model 3 with 'full self-driving' make a 358-mile trip across California with almost no human intervention"
-    excerpt: "The driver of the Tesla Model 3 with the $10,000 'full self-driving' add-on only had to step in once — for a one-minute charging stop."
-    publishedDateTime: 2021-01-05T13:20:00Z
-    webUrl: "https://www.businessinsider.com/tesla-model-3-full-self-driving-no-human-input-driverless-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/tesla-model-3-full-self-driving-no-human-input-driverless-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-model-3-full-self-driving-no-human-input-driverless-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/5ff45ca36056b60018721eb9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Waymo To Stop Calling Their Technology “Self-Driving,” Criticizes Automakers Who Do"
     excerpt: "However, some companies use generic terms such as “self-driving.” Tesla is the most obvious example and they even admit “currently enabled features require active driver supervision and do not make the vehicle autonomous.” Safety groups have called ..."
     publishedDateTime: 2021-01-07T00:12:00Z

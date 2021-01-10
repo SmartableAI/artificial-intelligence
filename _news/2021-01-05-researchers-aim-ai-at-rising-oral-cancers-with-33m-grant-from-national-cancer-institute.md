@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Researchers aim artificial intelligence at rising oral cancers with $3.3 million grant from National Cancer Institute"
-    excerpt: "Case Western Reserve and partners local and global team up to better predict which patients with oral squamous cell carcinomas will need radiation"
-    publishedDateTime: 2021-01-05T14:06:00Z
-    webUrl: "https://www.miragenews.com/researchers-aim-artificial-intelligence-at-rising-oral-cancers-with-33-million-grant-from-national-cancer-institute/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 31
-    images:
-      - url: "https://dailymedia.case.edu/wp-content/uploads/2018/06/21172154/doctor-scans-cancer-feat-768x329.jpg"
-        width: 768
-        height: 329
-        isCached: true
   - title: "Ways fashion brands are virtually connecting with customers - from custom designs to AI searches"
     excerpt: "The pandemic has fundamentally changed the way people shop. Fashion brands like Suitsupply and Shop Your Fit have developed innovative ways to virtually connect with customers."
     publishedDateTime: 2021-01-07T16:07:00Z

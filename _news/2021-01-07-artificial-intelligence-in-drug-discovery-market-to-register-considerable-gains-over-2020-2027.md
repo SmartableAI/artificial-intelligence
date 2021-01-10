@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2025"
+    excerpt: "Jan 06, 2021 (CDN Newswire via Comtex) -- The latest informative study entitled Global Edge Artificial Intelligence (AI) Chip Market Growth 2020-2025 released for the database of MarketandResearch.biz helps a reader to understand the market in depth."
+    publishedDateTime: 2021-01-06T20:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2025-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size 2020 | Industry Report, COVID-19 Impact Analysis and Scope-2025"
     excerpt: "Jan 06, 2021 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"Artificial Intelligence in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial ..."
     publishedDateTime: 2021-01-06T00:00:00Z
@@ -121,6 +135,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Computer Vision Market Report 2021-2023 by Technology, Future Trends, Opportunities, Top Key Players and more..."
+    excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020."
+    publishedDateTime: 2021-01-06T10:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-2021-2023-by-technology-future-trends-opportunities-top-key-players-and-more-2021-01-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -163,20 +191,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
-    excerpt: "Global Artificial Intelligence of Things (AIoT) Market Growth (Status and Outlook) 2020-2025 introduced by MarketandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
-    publishedDateTime: 2021-01-05T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2021-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -275,6 +289,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Recruitment Market Growing Business Factors 2021: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2025"
+    excerpt: "This is likely to impel the growth of AI Recruitment Market over the period 2019-2026. As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
+    publishedDateTime: 2021-01-05T20:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-recruitment-market-growing-business-factors-2021-industry-trends-share-size-growth-opportunity-and-forecast-2025-2021-01-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

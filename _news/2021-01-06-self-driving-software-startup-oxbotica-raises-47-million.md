@@ -41,20 +41,6 @@ related:
         width: 772
         height: 545
         isCached: true
-  - title: "Edtech Startup Practically Raises $4 Mn In Pre-Series B Funding Round Led By Siana Capital"
-    excerpt: "The funding raised will strengthen its market position in Andhra Pradesh and Telangana, and gear up for a pan-India presence"
-    publishedDateTime: 2021-01-05T13:46:00Z
-    webUrl: "https://www.entrepreneur.com/article/362755"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 57
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1609854190-Practicallyteamv1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Tencent backed self-driving software startup Oxbotica in a $47 million funding round after seeing this pitch deck"
     excerpt: "The University of Oxford spin-out was also backed by BGF and BP Ventures."
     publishedDateTime: 2021-01-07T11:59:00Z

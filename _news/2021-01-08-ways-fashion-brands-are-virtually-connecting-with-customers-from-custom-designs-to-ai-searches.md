@@ -40,20 +40,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Researchers aim artificial intelligence at rising oral cancers with $3.3 million grant from National Cancer Institute"
-    excerpt: "Case Western Reserve and partners local and global team up to better predict which patients with oral squamous cell carcinomas will need radiation"
-    publishedDateTime: 2021-01-05T14:06:00Z
-    webUrl: "https://www.miragenews.com/researchers-aim-artificial-intelligence-at-rising-oral-cancers-with-33-million-grant-from-national-cancer-institute/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 31
-    images:
-      - url: "https://dailymedia.case.edu/wp-content/uploads/2018/06/21172154/doctor-scans-cancer-feat-768x329.jpg"
-        width: 768
-        height: 329
-        isCached: true
   - title: "Researchers aim AI at rising oral cancers with $3.3M grant from National Cancer Institute"
     excerpt: "Researchers at Case Western Reserve University and partners in the United States and India are applying artificial intelligence (AI) to help physicians customize treatments for patients with the most common oral cancer,"
     publishedDateTime: 2021-01-05T15:38:00Z

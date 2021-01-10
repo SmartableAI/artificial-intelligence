@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Light-Based Processor Chips Advance Machine Learning"
+    excerpt: "International team of researchers uses photonic networks for pattern recognition. In the digital age, data traffic is growing at an exponential rate. The demands on computing power for applications in artificial intelligence such as pattern and speech recognition in particular,"
+    publishedDateTime: 2021-01-10T05:36:00Z
+    webUrl: "https://scitechdaily.com/light-based-processor-chips-advance-machine-learning/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Light-Processor-for-Matrix-Multiplications.jpg"
+        width: 1404
+        height: 577
+        isCached: true
   - title: "Light-carrying chips advance machine learning, say experts"
     excerpt: "And with the advent of machine learning and Artificial Intelligence (AI) in, for example, self-driving vehicles and speech recognition, the upward trend is set to continue. All this places a heavy burden on the ability of current computer processors to keep up with demand."
     publishedDateTime: 2021-01-07T07:48:00Z

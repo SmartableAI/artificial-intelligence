@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "E2E Networks, K-Tech Center of Excellence join hands"
-    excerpt: "India largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data ScienceampAI Government of Karnataka GoK - powered by NASSCOM a pivota"
-    publishedDateTime: 2021-01-08T14:37:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267474367/e2e-networks-k-tech--center-of-excellence-join-hands"
+  - title: "Eindhoven looks to bolster AI and data science prowess for the future"
+    excerpt: "Two recent announcements from the Brainport region are emphasizing the importance artificial intelligence and data science will play in future technologies, and focus on creating bright futures for young talent in the fields."
+    publishedDateTime: 2021-01-07T11:01:00Z
+    webUrl: "https://bits-chips.nl/artikel/eindhoven-looks-to-bolster-ai-and-data-science-prowess-for-the-future/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
+      name: Bits&Chips
+      domain: bits-chips.nl
+    quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1610114355.jpg"
-        width: 630
-        height: 420
+      - url: "https://bits-chips.nl/wp-content/uploads/2021/01/AI.jpg"
+        width: 500
+        height: 425
         isCached: true
   - title: "E2E Networks Joins Hands With K-Tech Center of Excellence for Data Science & AI – powered by NASSCOM to Pave Way to an AI-driven digital future"
     excerpt: "Bangalore: India’s largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) – powered by NASSCOM, a pivotal initiative"

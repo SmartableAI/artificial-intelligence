@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/here-are-the-robots-taking-the-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: CNET
@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Here are the robots taking the virtual stage at CES 2021"
-    excerpt: "This story is part of CES, where our editors will bring you the latest news and the hottest gadgets of the entirely virtual CES 2021. This year's all-digital CES is going to be a tough one for everyone involved,"
-    publishedDateTime: 2021-01-05T13:07:00Z
-    webUrl: "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/"
+  - title: "AI clothing for improved sports performance unveiled at CES 2021"
+    excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
+    publishedDateTime: 2021-01-08T11:46:00Z
+    webUrl: "https://www.techdigest.tv/2021/01/ai-clothing-for-improved-sports-performance-unveiled-at-ces-2021.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 37
     images:
-      - url: "https://cnet2.cbsistatic.com/img/JGUzgEzR4jP1EdJeaQKYKvFiIXI=/1200x630/2019/01/09/6851653c-d1df-4274-a1ef-1d4125740260/yukai-bocco-emo-product-photos-1.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2021/01/impulse-product-shot-just-phones.png?fit=552%2C545&#038;ssl=1"
+        width: 552
+        height: 545
         isCached: true
 
 secured: "IxxynKEbOtxw3jIQFFpda9zl6E+WMVIWjIySZan8cBA/EzLd3iePp/sxhwqAdx0EKJTIJ4pUyjtJ/p2LLxgdVXlgQvvWKGGnQxNGptXcqk1OFAmmASPyneMkGzt79P5d3Vs+JUs/NMWIhZHCl/Sg8Da0nKrIS+fQpR1xp7C0/VrczYK0haMrlPoJG4O0NYj5husy2o2nA9xcEXZ5Vi4jAug50avX+rrghkiAKuvQjaLqAA+1VLhfSbgTSQUXXQIymOFvq7FIsKTv+ZSFgCKGAQpku5FZMNmFhnoEqxDfWnmmy6LB+nsJfdhyxZvb5nZ/QlhKzR/3Twrdu0wybZEojcKY6EUnqFbVoHUT56HtjMmlhSZigHEebxsqNHZkV3wI0WOWa/7sE3FSQD+EhVStYd9Q/xWAYH2Xmdj+Aw7wVsBFWs9rTF2yFkg3DD6puDynYtJx3MYqSxgSGiBsUBDFZZFbSHGFLq5LZqsvauZag6xBPIGZIWEs2+qrRhl3j5hwnidWa9RyXN1pfAd3imMV8Q==;DfLJuifyzo2kbrzXkOtbJw=="

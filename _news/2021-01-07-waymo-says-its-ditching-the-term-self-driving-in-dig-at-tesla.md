@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla"
 type: article
 quality: 104
-heat: 324
+heat: 314
 published: true
 
 provider:
@@ -229,22 +229,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F30794e20-4df3-11eb-97b6-ecf57a2a6461&client=amp-blogside-v2&signature=1bc35f6811f3379e0ed8e10e95802aa7404a4744"
         width: 945
         height: 630
-        isCached: true
-  - title: "Watch this Tesla Model 3 with 'full self-driving' make a 358-mile trip across California with almost no human intervention"
-    excerpt: "The driver of the Tesla Model 3 with the $10,000 'full self-driving' add-on only had to step in once — for a one-minute charging stop."
-    publishedDateTime: 2021-01-05T13:20:00Z
-    webUrl: "https://www.businessinsider.com/tesla-model-3-full-self-driving-no-human-input-driverless-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/tesla-model-3-full-self-driving-no-human-input-driverless-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-model-3-full-self-driving-no-human-input-driverless-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/5ff45ca36056b60018721eb9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Waymo Ditches “Self-Driving” Terminology in Another Dig at Tesla"
     excerpt: "If subtle digs were arrows, Elon Musk would be bleeding profusely by now. At least, that’s what industry watchers like to imagine goes through the mind of the Powers That Be at Waymo."

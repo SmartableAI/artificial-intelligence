@@ -121,22 +121,6 @@ related:
         width: 1024
         height: 437
         isCached: true
-  - title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
-    publishedDateTime: 2021-01-05T15:40:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 74
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
-        width: 1199
-        height: 674
-        isCached: true
   - title: "Microsoft’s AI Model Outperforms Humans In Natural Language Understanding"
     excerpt: "Microsoft on Tuesday announced that its AI model has surpassed humans In Natural Language Understanding (NLU) With SuperGLUE benchmarks."
     publishedDateTime: 2021-01-08T14:53:00Z

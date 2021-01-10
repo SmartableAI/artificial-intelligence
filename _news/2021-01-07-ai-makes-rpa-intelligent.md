@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20210104PD214.html"
 webUrl: "https://www.digitimes.com/news/a20210104PD214.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: All About Circuits
       domain: allaboutcircuits.com
-    quality: 37
+    quality: 58
     images:
       - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Graphcore%E2%80%99s_ColossusTM_Mk2_GC200_IPU.jpg"
         width: 700

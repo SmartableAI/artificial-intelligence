@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-10T03:15:00Z
 originalUrl: "https://www.allaboutcircuits.com/news/ai-chipmaker-raises-funding-unique-intelligent-processing-units/"
 webUrl: "https://www.allaboutcircuits.com/news/ai-chipmaker-raises-funding-unique-intelligent-processing-units/"
 type: article
-quality: 37
-heat: -1
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -16,6 +16,9 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Graphcore%E2%80%99s_ColossusTM_Mk2_GC200_IPU.jpg"
@@ -39,6 +42,6 @@ related:
         height: 427
         isCached: true
 
-secured: "GHjJFLE91h0EvLCyYPX5U4HOPtGrhzbo7DLnfJ5KkpZ7kztqDpQ0hy9dpa+s+rMUH2kMVXgVXJt8DqXUntoqaaNsxOjLTKKQtaYkomUWAW62/Z20cIFWx9nTgdJOtW7NWgq7pirSorYeu1rNwAjE7Zp75DEAw+02DFE+U3XX++quorr42yv5ESEw73r1tJFr7YzKaOlWhjFkUcQZlPROR/dND1Y98QZIQLjF+1C4LeSwYxiWZ9Llwqim8/G/XyrT0U7DBwdqD3EC4mjU0wG4fdyS7C9qbAh9NBZjdSX5RdfsCgmhkgAm87PbffqA6R+84JgdgTj+s54st1YPqK3qfXI3FjTCN29lNE7l+d8yIxc=;rsCST3+VYpXv+YJklr8X5g=="
+secured: "CN02mUDs1J+JSLswA6qZqqr9PxGiJhqXqGwy3LI0YuhoKvRyGvaJUnW608CjBh8ayMFNkzuOkNLXC7K6pokGuXlW+7QKsEFw7tI0PRh2Qij4o4DbYR8n0T4yqGHaGhRLIhwpCeq3GY3kG7p7QSNrBRXCgvSA9Z6V8uJTkUdYxXzE6TMhb7mtCwwegoONCxXhVgXl7tVQbY7U7UzrgokwOe84Wul9/bon8YpHfUZlm/kZRRzrMcg7cngxwDoJmb8djKiM62R9gQxmNhlFDQMfMJVbsJVro5DCjSfdgqMZc0iKag9FacixvIMVvdE0MUG6hrBemQIFh5l7N9Uf5sQdewp037e4pn1soKlQcyVU4hmKFY3V+UHkehzv20Z6C4AOGi/cPe/UY9LyhlDj4HcN/aa42md7D3nXbLAzg2MlELB5Jh5lu8pp+MUP0FTmrpzSwtKl8SjgMVvCu6EVDYhO0bnw7WWHX7EC05zYIo6NoBv3/Z/Mx3RAmW5fzb64vraG9aP0uF8qEzgaNpwbGUFP6A==;YKdCuM0sM55coy3ih8h1PA=="
 ---
 

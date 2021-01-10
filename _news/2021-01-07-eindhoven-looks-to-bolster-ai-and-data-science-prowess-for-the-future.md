@@ -7,7 +7,7 @@ originalUrl: "https://bits-chips.nl/artikel/eindhoven-looks-to-bolster-ai-and-da
 webUrl: "https://bits-chips.nl/artikel/eindhoven-looks-to-bolster-ai-and-data-science-prowess-for-the-future/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,36 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "TU/e launches new master Data Science and Artificial Intelligence"
-    excerpt: "TU/e starts a new Master's program focussed on Data Science and Artificial Intelligence. The new DS&AI program has"
-    publishedDateTime: 2021-01-05T14:50:00Z
-    webUrl: "https://www.miragenews.com/tu-e-launches-new-master-data-science-and-artificial-intelligence/"
+  - title: "E2E Networks Joins Hands With K-Tech Center of Excellence for Data Science & AI – powered by NASSCOM to Pave Way to an AI-driven digital future"
+    excerpt: "Bangalore: India’s largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) – powered by NASSCOM, a pivotal initiative"
+    publishedDateTime: 2021-01-07T06:00:00Z
+    webUrl: "https://indiaeducationdiary.in/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future/"
+    ampWebUrl: "https://indiaeducationdiary.in/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future/?amp"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 23
     images:
-      - url: "https://assets.tue.nl/fileadmin/_processed_/7/9/csm_AI%20Master%20W%26I%20shutterstock_1463069348_2d0079f5f2.jpg"
-        width: 465
-        height: 315
+      - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/01/E2E-Networks.png?fit=400%2C400&ssl=1"
+        width: 400
+        height: 400
         isCached: true
-  - title: "E2E Networks joins hands with K-Tech Center of Excellence for Data Science and AI - powered by NASSCOM to pave.."
-    excerpt: "India's largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) - powered by NASSCOM, a pivotal initiative by GoK to"
-    publishedDateTime: 2021-01-08T13:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-and-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future-121010801121_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-and-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future-121010801121_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-and-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future-121010801121_1.html"
+  - title: "E2E Networks joins hands with K-Tech Center of Excellence for Data Science and AI - powered by NASSCOM to pave way to an AI driven digital future"
+    excerpt: "India's largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) - powered by NASSCOM, a pivotal initiative by GoK to foster disruptive innovation by creating an entrepreneurial ecosystem and create quality human capital to meet the AI talent requirements."
+    publishedDateTime: 2021-01-08T14:01:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20210108/3687719.html"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 38
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/08/full/20210108183935.jpg"
-        width: 600
-        height: 450
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "Wy5sxPvWilvTtuapzg66Q0Ofw4Xi07GsG24oUBaLzAgKmevOqdoiwY8Ny64yKV7E/kWv6UfgLaS55AeBHHmdyJRASqw7ldBFysDNM8YXbM4zJi0IggTzqFv00mtmdjoSvDseHoNyxPx34a26a6rnokT17A8cTLUfAHU4PPkB4cdpk0HE3Y3Ure1x0IaInOpaGMkBSPlpLxY9vaq/vxWSqGDVP/3shYKbJ6ECsN2kI2HX5CWUMiFvO4BQhNyauMNgu0ktfxFmbSAIui1T0sQkc9zekhRrr54F9vT7Is8hzRkv4RxIMCwpGTRVIxSZesLVuj53lseBEH9fqzUD43R03VFaYT3tO5+Qu/z0nH9MO7l3IhZg5HGq+yN2vuVnbPXKDDP4gnwYmQ8Xc3PjQND/6ZAPc+8z5A0jxkwxH9i7usNhxHjaKM0zRUVQOif3NiQYNUBuk7VFWZPD0oT3f3aDgsuFx5vyhcyx+0e1QKs24DxqLObvvNbmzHbcmPUf/bzXUfMNKU9LcDWX5zEJjSLIxg==;oY/5VjczL1hdzQlwlijpBQ=="
 ---

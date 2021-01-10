@@ -3,8 +3,8 @@ category: news
 title: "GM's Cruise Founder Expects Consolidation for Makers of Lidar Self-Driving Vehicle Sensors"
 excerpt: "In a series of tweets, Cruise President Kyle Vogt said recent valuations of lidar firms that have cut deals to go public with SPACs are overvalued."
 publishedDateTime: 2021-01-09T17:23:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/gms-cruise-founder-expects-consolidation-for-makers-of-lidar-self-driving-vehicle-sensors/2821749/"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/gms-cruise-founder-expects-consolidation-for-makers-of-lidar-self-driving-vehicle-sensors/2821749/"
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/gms-cruise-founder-expects-consolidation-for-makers-of-lidar-self-driving-vehicle-sensors/2821749/?amp"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/gms-cruise-founder-expects-consolidation-for-makers-of-lidar-self-driving-vehicle-sensors/2821749/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/gms-cruise-founder-expects-consolidation-for-makers-of-lidar-self-driving-vehicle-sensors/2821749/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/gms-cruise-founder-expects-consolidation-for-makers-of-lidar-self-driving-vehicle-sensors/2821749/?amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "+KjrZNEqKvXXAzgjtXuX2IBVz4KM5SsnXz5dJxxZzMAH6graODMlRc7YcVwgtrDnfgVrNgwNkQSPHcAhHFpU9cpcVCO1Rd4au4Z1LbbNYuC3/YOckVBRuBkV4Zewmn3m/xBx0vshwLF9jXfF6ZNLHHsn0IsabJ2WLbSfebTHdg1wdSbSg8SsDkotwr1oCy91ArKN5UbCD/IJC3dxGyA9Pqp12YGhxKEBAqRO35uq18gPLN4tIz/PFWmPLGAcN4uAXPcHnUdjB9DYCX8gcSxvl9PWIiZLpDdZ7ad0IufDhsTWqSlFEc+axI/5LrGMGXvCdbhgHPEClpA1n3TLJuCj0M3FJddwWKzmbzCdMXA1AZwjbvlEGfiu+01CInRtjlpH+nPidPDnOSWdFHYXp3HDXiRldQpE6NfIX/JddeVZo/VIqo2e7KaeuGhq2YBpatOrhBDH0iIN7ZJeXoeGy/Twtq/7gsWETSoUtUZjg70qnttb9AKHUjxJ37bY9giI8yA4FVnfPHOEAoOmXXUoSUylNg==;BWfExFwqN0RjKwWG90dUxg=="
+secured: "0XOunTUTx4ynJVfZOKenxovzs0guw38zHNttc/XdHWapC53EB9dKJLRemiOcgLkFb+GqB4KY/trx1leB4a3i17LFdzPWMPxE4QMl0MR9nhlS9DQR6XRIe1juYUeiYH6kwMNAzjDThcpC3H2wf2kygouTI6xSMdp7cUl5ZrLqX7fNRtvKBVi37axzb19E65kjGbtwQo2Vk5iGJO0OL2ifWkgsB/jw2c4zG7n6ql1LcDNb6SnSzdPNSClccnETyr6OiAFgA1TmC2ytIehtdbygTp+EVL64YD66l7HzYpmv9/gwgPp2i0YWHRnIbMwZTa48K1Fjryy1UVaUrsmx2NynRXrze9K2KVXCi8i9T2ndr5c=;yzxdxTCYBbVr95XM42pTzA=="
 ---
 

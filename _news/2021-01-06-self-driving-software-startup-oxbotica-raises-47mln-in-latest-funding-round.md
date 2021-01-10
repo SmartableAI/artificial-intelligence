@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edtech Startup Practically Raises $4 Mn In Pre-Series B Funding Round Led By Siana Capital"
-    excerpt: "The funding raised will strengthen its market position in Andhra Pradesh and Telangana, and gear up for a pan-India presence"
-    publishedDateTime: 2021-01-05T13:46:00Z
-    webUrl: "https://www.entrepreneur.com/article/362755"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 57
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1609854190-Practicallyteamv1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Self-driving Software Startup Oxbotica Raises $47 million"
     excerpt: "Oxbotica, a global leader in autonomous vehicle software, has announced the completion of a $47 million Series B investment with partners"
     publishedDateTime: 2021-01-06T02:10:00Z

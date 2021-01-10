@@ -28,7 +28,7 @@ related:
   - title: "Silicon Valley Robotics Presents Industry Awards"
     excerpt: "Silicon Valley Robotics, the world’s largest cluster of innovation in robotics, announces the inaugural ‘Good Robot’ Industry Awards, celebrating the robotics, automation and Artificial Intelligence (AI) that will help us solve global challenges."
     publishedDateTime: 2021-01-07T19:51:00Z
-    webUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards"
+    webUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards?listname=Automation & Control News & Articles"
     type: article
     provider:
       name: Automation
