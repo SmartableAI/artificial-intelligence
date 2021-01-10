@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI's role in responding to Covid-19 hasn't eased ethical concerns"
+    excerpt: "Linkedin poll about changes in how people feel about their ethical concerns regarding AI doesn't prove much, but it does show that 2020 did little to ease those concerns. Opinions and our level of understanding about artificial intelligence can vary a great deal from person to person."
+    publishedDateTime: 2021-01-07T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/ais-role-responding-covid-19-hasnt-eased-ethical-carrington-malin-/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE2lDvozVagrg/article-cover_image-shrink_600_2000/0/1609935685364?e=1616025600&v=beta&t=iATHOH7i3A_9k9o8CUc0oMEUjALjJlnRzpz0gUwet_s"
+        width: 1800
+        height: 600
+        isCached: true
 
 secured: "3bChCrUyXxASyB9PLCTm62/D+vdITQT3c+2iGNR0SsuMyJTBOJCD2tj6sXqTVcoXP17p6rJOR7ALHlyj0snhe8zLch+f14krPssDZ5zZgZYEjkCwXaxz8/4vPO8GsCcNEZaJDXvUMq2LH6SX8281rKuc/NcuxWgEM34FememSWTcPmE0MlzhKfqALiR90rORAmML4gu5LUfaqvMCEqzWMnvOWE//wYw0QZJe4b48G8xaesdXQ2X2J2eWw1XosH6W5z7vA8cHsxhrpntGcqKrrLc7vwUUjfZvKzIgwTJMNWyb1GEychL+Gd1PSXtsJDW5GRY1S3aYpjkLq0O1yJDRX9TD9SiApyLLAw4Gc50brAw=;bqs+nIPqHv/9ZIfiDJUlsg=="
 ---

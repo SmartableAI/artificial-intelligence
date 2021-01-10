@@ -9,7 +9,7 @@ ampWebUrl: "https://www.smartdatacollective.com/data-governance-is-vital-to-futu
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/data-governance-is-vital-to-future-of-a-world-ruled-by-artificial-intelligence/amp/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "This avocado armchair could be the future of AI"
-    excerpt: "OpenAI has released two new models that pair GPT-3 with image recognition to produce AIs that have a better understanding of everyday concepts."
-    publishedDateTime: 2021-01-05T19:13:00Z
-    webUrl: "https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/"
-    ampWebUrl: "https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/amp/"
+  - title: "E2E Networks Joins Hands With K-Tech Center of Excellence for Data Science & AI – powered by NASSCOM to Pave Way to an AI-driven digital future"
+    excerpt: "Bangalore: India’s largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) – powered by NASSCOM, a pivotal initiative"
+    publishedDateTime: 2021-01-07T06:00:00Z
+    webUrl: "https://indiaeducationdiary.in/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future/"
+    ampWebUrl: "https://indiaeducationdiary.in/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future/?amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 23
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/avocado-upres.jpg?w=3000"
-        width: 3000
-        height: 1798
-        isCached: true
-  - title: "Lack of Sleep Could Be a Problem for Artificial Intelligence"
-    excerpt: "One of the distinguishing features of machines is that they don’t need to sleep, unlike humans and any other creature with a central nervous system. Someday though, your toaster might need a nap from time to time,"
-    publishedDateTime: 2021-01-09T21:49:00Z
-    webUrl: "https://scitechdaily.com/lack-of-sleep-could-be-a-problem-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/AI-Sleeping.jpg"
-        width: 777
-        height: 507
+      - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/01/E2E-Networks.png?fit=400%2C400&ssl=1"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "r8VPZoYPI8t8pEKeFQgl/bs9Y7jJpn+SRawFmpQhL5TcpNcF846FuFdEdp6vBirYNu80QTcmE+wH4Rj4d+/ajImPUg8Dw5O9xl0G38mS8o8n4NDlbPR354gCgKJysHRSCFRUMRAgQ+srO1BG/hdgdBY4xDjm3ZYjpgnNl0np/En5q/3Der7Aqp65+lSf9+Ws1D/t787PbGfiIkjEAlQ2lyfhJ7gFwjQEKtmSjnrfYYUr+x0KvXqs37WqHcTpwWG09jtR47eRk6SDMLgYfYrkA6ohFmGb6VXIY/1zjw2deRy6Ok8QIcygISteTn+NmjVwkIb6UlshPjYKEvq+mTOtPdpSnP+da7nLaMPH8CJf4G8Vwoe/fqpRqgIOqSMIkdCjrzp31DLVTfZn6p4LZkeVrvatdCMDyPoPl81ZWQztNA8W61eHHEA5Aq/uYPhCGp5816/wibEzorclD6lC+2YnoBGcv6o7aoWRURhiTLF/D2x+qfE+u04pwom2q0WM0EeeLV3AkqhRt+Cl2EZ7ocC7cw==;pN4bpK1b1nHmqC0rMUMGIQ=="

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "E2E Networks Joins Hands With K-Tech Center of Excellence for Data Science & AI – powered by NASSCOM to Pave Way to an AI-driven digital future"
-    excerpt: "Bangalore: India’s largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) – powered by NASSCOM, a pivotal initiative"
-    publishedDateTime: 2021-01-07T06:00:00Z
-    webUrl: "https://indiaeducationdiary.in/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future/"
-    ampWebUrl: "https://indiaeducationdiary.in/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/e2e-networks-joins-hands-with-k-tech-center-of-excellence-for-data-science-ai-powered-by-nasscom-to-pave-way-to-an-ai-driven-digital-future/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 23
-    images:
-      - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/01/E2E-Networks.png?fit=400%2C400&ssl=1"
-        width: 400
-        height: 400
-        isCached: true
   - title: "E2E Networks joins hands with K-Tech Center of Excellence for Data Science and AI - powered by NASSCOM to pave way to an AI driven digital future"
     excerpt: "India's largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) - powered by NASSCOM, a pivotal initiative by GoK to foster disruptive innovation by creating an entrepreneurial ecosystem and create quality human capital to meet the AI talent requirements."
     publishedDateTime: 2021-01-08T14:01:00Z
