@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/09/technology/facial-recognition-cle
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/technology/facial-recognition-clearview-capitol.amp.html"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Local Police Force Uses Facial Recognition to Identify Capitol Riot Suspects"
-    excerpt: "An Alabama police department is using facial recognition software to help identify people who were present during the riot at the U.S. Capitol this week, one of its officers said."
-    publishedDateTime: 2021-01-09T03:53:00Z
-    webUrl: "https://www.wsj.com/articles/local-police-force-uses-facial-recognition-to-identify-capitol-riot-suspects-11610164393"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 66
-    images:
-      - url: "https://images.wsj.net/im-283101/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "jouprxVZwRK25kXcbwxSL36+07FLpY7Wi9EBkR/cjlemWMttdYuXT9sjLqcHt+f/w7GkJdQcj2NZ2KLd79AsZVJO/QDFN3GZ8jb39kOadWV/+bnTIggS0OVbMAtcj9LR3MGxMZHsMtuQYmk2wKlhKx3lsqSrlT8AEgKqPeDXBfIQ4F2zCNp06KjbaGPoXauT7lYLocOh+SiA6tbu5O04jYaUjfY6CsHxwVEzVZexlQWBOK6dZkiH7t7oU223PdaOj+JWQREErFo80vqhWUENuVS+JcV1vDI5p9SggZ7b5uO307a/olRYj0zQWTyAC+2go2D/FqE1WCMkMXpKM0tYKBK0M/rJhuB4ZXnVKhBYEUgmxxU3v1809DBDsZVlzGACf3rb2TgJIy5yHWLE8XVBwgWsevaWx+G0OhtL+l0hrg+i6ZMOMIXJgTXzaNkI4nKiMg6afjWoobxPlVNdFnUvg35Sg6MUZYbf6O+uStnw7qt6ni33e9DxEq6OMmustRYbBs2hmv/klGBSuQqWes1qWw==;sBoQpTOJGpE6f/BlIoi4uA=="
 ---

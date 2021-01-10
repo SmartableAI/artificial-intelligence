@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/biometrics-is-transforming-
 webUrl: "https://www.biometricupdate.com/202101/biometrics-is-transforming-the-face-of-flying-facial-recognition-compliance-tips-for-airports-and-airlines"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,61 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Military researchers ask industry to develop long-range biometrics and facial recognition algorithms"
-    excerpt: "BRIAR aims to develop algorithm-based systems capable of performing whole-body biometric identification at long-range and from elevated platforms."
-    publishedDateTime: 2021-01-08T08:36:00Z
-    webUrl: "https://www.militaryaerospace.com/sensors/article/14189954/facial-recognition-longrange-biometrics"
+  - title: "How to Opt Out of Facial Recognition at the Airport"
+    excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"
+    publishedDateTime: 2021-01-05T23:29:00Z
+    webUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport"
+    ampWebUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
+    cdnAmpWebUrl: "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 24
+      name: Condé Nast Traveler
+      domain: cntraveler.com
+    quality: 74
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/biometrics_8_Jan_2020.5ff73ae0c21a6.png?auto=format&fit=max&w=1200"
-        width: 800
-        height: 534
+      - url: "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg"
+        width: 5568
+        height: 3712
         isCached: true
-  - title: "Bill to limit police biometrics use tabled in New York state as legislators struggle with facial recognition"
-    excerpt: "A state legislator in New York has introduced a curious bill to prohibit arrests on the sole basis of “facial recognition and biometric information”."
-    publishedDateTime: 2021-01-07T00:53:00Z
-    webUrl: "https://www.biometricupdate.com/202101/bill-to-limit-police-biometrics-use-tabled-in-new-york-state-as-legislators-struggle-with-facial-recognition"
+  - title: "How far can facial recognition go in finding rioters in DC?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-09T04:50:00Z
+    webUrl: "https://www.kvue.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.kvue.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
+      name: KVUE
+      domain: kvue.com
+    quality: 59
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
-        width: 1024
-        height: 662
+      - url: "https://media.kvue.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Time to comply with the nation’s newest biometric privacy law: Portland’s private sector facial recognition ban"
-    excerpt: "The Portland ordinance continues a growing trend of states and cities enacting biometric laws directly targeting the use of facial recognition technology."
-    publishedDateTime: 2021-01-08T17:20:00Z
-    webUrl: "https://www.biometricupdate.com/202101/time-to-comply-with-the-nations-newest-biometric-privacy-law-portlands-private-sector-facial-recognition-ban"
+  - title: "How far can facial recognition go in finding rioters in DC?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-09T23:24:00Z
+    webUrl: "https://www.khou.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
+      name: KHOU 11
+      domain: khou.com
+    quality: 59
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/03124853/blue-line-biometric-facial-recognition-retail-1024x625.png"
-        width: 1024
-        height: 625
+      - url: "https://media.khou.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "DHS Tests Ability of Biometric Acquisition Systems in Identifying People With Face Masks"
-    excerpt: "Preliminary test results of the third Biometric Technology Rally held by the Department of Homeland Security’s (DHS) science and technology (S&T) directorate in the fall of 2020 showed that biometric acquisition tools and matching algorithms were up to 96 percent accurate in identifying individuals with protective face masks."
-    publishedDateTime: 2021-01-05T21:44:00Z
-    webUrl: "https://www.executivegov.com/2021/01/dhs-tests-ability-of-biometric-acquisition-systems-in-identifying-people-with-face-masks/"
+  - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
+    excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://www.analyticsinsight.net/covid-19-pandemic-is-encouraging-facial-recognition-technology/"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 15
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 36
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2020/12/04/cf/a3/89/3f/73/fc/a7/74/facial_recognition_20201125.png"
-        width: 272
-        height: 270
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/facial-recognition.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "57BpquJGNbaY0NFct1U9/pp+w9GNVpQBfYUU9HX8nVlg5mRjk2Ta6pO3kfWWmaqcWiHYGdG7j9jCcL57ZLZ0KnOLq/jpbHupmEa9Qk6+Str5SCXeY1i6CsPjoUO5emvnDdtvHZV4G+599yubIUR5T4lIfow/02rYnbC7WdeHHLrke/ZX2dMj1RmMeqRYnGprGvf78tfOhN8+aYIa68QC3/WfFh7b0ghJnw0NiT6iCyPuFKSRUraW2uVGo01aEpc6tj67pbaQLoyoAr/UCKQarPug9YYArZpMdBjQYKr5pt4kBRC0XDa3Bk5A3O3TSw+YjQte8AK2++H1KmegfOKcAFp9A4yRUi8gWj+Qlmkrue/jpmatJNcA8shg+4njttd+jv1cNTz/3TG2P+mKk49Jeq1GffP6PImgdiCjScfsMnfCIkImBiVuk02fa3pv7ta8XWhUHKzOv5XoqsVihnUKZnqpG8RkJEtVX1eYhPOFIe4+dfL6R5Gu3613pU4sKJpC4cPM/YkF1P+AlK09XZl2Zg==;LnBp18SY25iGlUzQ6p04GQ=="

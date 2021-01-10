@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biometrics is transforming the face of flying: Facial recognition compliance tips for airports and airlines"
-    excerpt: "Companies operating in the commercial aviation sector should implement robust, adaptable biometric privacy programs to ensure compliance with the law."
-    publishedDateTime: 2021-01-05T23:01:00Z
-    webUrl: "https://www.biometricupdate.com/202101/biometrics-is-transforming-the-face-of-flying-facial-recognition-compliance-tips-for-airports-and-airlines"
+  - title: "Facial recognition up to 96 percent accurate with masks in 2020 Biometric Technology Rally tests"
+    excerpt: "A facial recognition system similar to the one used by the DHS had a 96 percent biometric accuracy rate with masked faces in testing."
+    publishedDateTime: 2021-01-05T21:50:00Z
+    webUrl: "https://www.biometricupdate.com/202101/facial-recognition-up-to-96-percent-accurate-with-masks-in-2020-biometric-technology-rally-tests"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 36
+    quality: 26
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks-1024x683.jpg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
         width: 1024
-        height: 683
+        height: 512
         isCached: true
   - title: "Military researchers ask industry to develop long-range biometrics and facial recognition algorithms"
     excerpt: "BRIAR aims to develop algorithm-based systems capable of performing whole-body biometric identification at long-range and from elevated platforms."

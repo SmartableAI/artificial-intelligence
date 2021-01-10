@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Intel Pivots Its RealSense Cameras Into Facial Recognition Tech"
+    excerpt: "Intel announced today that it will make its RealSense 3D cameras available for customers hoping to utilize the tech for faster facial recognition in the form of RealSense ID."
+    publishedDateTime: 2021-01-06T21:30:00Z
+    webUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990"
+    ampWebUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mwvgcouoofelt0sd5tt8.png"
+        width: 800
+        height: 482
+        isCached: true
   - title: "Intel launches RealSense ID camera system for on-device facial recognition"
     excerpt: "Intel on Wednesday expanded its family of RealSense 3D cameras with an on-device system for facial recognition. Intel said its new RealSense ID camera system combines an active depth sensor with a specialized neural network designed to perform facial ..."
     publishedDateTime: 2021-01-06T19:50:00Z
@@ -201,6 +217,20 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Intel adds facial recognition tech to its RealSense cameras"
+    excerpt: "Intel Corp. is transforming its RealSense cameras into a facial recognition system that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
+    publishedDateTime: 2021-01-07T00:12:00Z
+    webUrl: "https://siliconangle.com/2021/01/06/intel-adds-facial-recognition-tech-realsense-cameras/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel adds facial recognition tech to its RealSense portfolio"
     excerpt: "Intel Corp. today announced new facial recognition hardware and software that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
     publishedDateTime: 2021-01-07T03:42:00Z
@@ -214,6 +244,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Intel is Repositioning its Depth-Sensing Camera into Facial Recognition"
+    excerpt: "Intel has officially launched RealSense ID, a facial recognition camera module that is built on its RealSense depth-sensing technology. Originally"
+    publishedDateTime: 2021-01-08T19:08:00Z
+    webUrl: "https://petapixel.com/2021/01/08/intel-is-repositioning-its-depth-sensing-camera-into-facial-recognition/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 39
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/01/Intel-is-Repositioning-its-Camera-Depth-Sensing-Tech-into-Facial-Recognition.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "/icCS2M1HXd/fu7M4Hy1bvDElzT7+BzzgTDrSQ/rGUF62IQyRZgwlCc6ym6CT1xTmDKLUc+mrLWXW2EINh1jN8ylCGrP84755MTMsmcZGQnR2SRFhet3AN923ezCjPBVvhgRlWKtxWfy7VJHNrh7QNA/S4ynA2BCk+Wb03lybwnf2PD6yWNn+6pi8REZtdk8HtAOkg57MsRV6LMnjoHBqZCuMd1/VZaT0x7+PLGYZSzp354US7m7+Bv75s7b9t48f38ZNPCPrhI2hGSBSc2hwzcVsYW+QvS5tFmHksySehcl5l/U62CgL4OVn6on1bu0Y/GL0K1Of1rZsoiE0IZJKbp6YycybNSKajtt4KhkUKw=;jASlp6NWFlfYFlVLbR74yw=="

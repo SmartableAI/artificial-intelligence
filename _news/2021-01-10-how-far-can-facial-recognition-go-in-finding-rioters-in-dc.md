@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to Opt Out of Facial Recognition at the Airport"
+    excerpt: "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,"
+    publishedDateTime: 2021-01-05T23:29:00Z
+    webUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport"
+    ampWebUrl: "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
+    cdnAmpWebUrl: "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp"
+    type: article
+    provider:
+      name: Condé Nast Traveler
+      domain: cntraveler.com
+    quality: 74
+    images:
+      - url: "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg"
+        width: 5568
+        height: 3712
+        isCached: true
   - title: "How far can facial recognition go in finding rioters in DC?"
     excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
     publishedDateTime: 2021-01-09T04:50:00Z
@@ -43,47 +59,33 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Facial recognition technology to help identify U.S. Capitol rioters"
-    excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."
-    publishedDateTime: 2021-01-09T23:54:00Z
-    webUrl: "https://www.wbir.com/video/tech/facial-recognition-technology-to-help-identify-us-capitol-rioters/51-e8c3fd7c-791d-4a55-8a71-45f2a8b2c492"
+  - title: "Biometrics is transforming the face of flying: Facial recognition compliance tips for airports and airlines"
+    excerpt: "Companies operating in the commercial aviation sector should implement robust, adaptable biometric privacy programs to ensure compliance with the law."
+    publishedDateTime: 2021-01-05T23:01:00Z
+    webUrl: "https://www.biometricupdate.com/202101/biometrics-is-transforming-the-face-of-flying-facial-recognition-compliance-tips-for-airports-and-airlines"
     type: article
     provider:
-      name: 10 News
-      domain: wbir.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://media.wbir.com/assets/WBIR/images/108f2419-edc9-4bdf-8ad2-3ec70e50ad00/108f2419-edc9-4bdf-8ad2-3ec70e50ad00_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Video, cellphone and facial recognition data may lead police to Capitol rioters"
-    excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologies to assist in the identification of anyone who was there that day."
-    publishedDateTime: 2021-01-08T23:31:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/01/08/video-cellphone-and-facial-recognition-data-may-lead-police-to-capitol-rioters/"
+  - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
+    excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."
+    publishedDateTime: 2021-01-06T06:57:00Z
+    webUrl: "https://www.analyticsinsight.net/covid-19-pandemic-is-encouraging-facial-recognition-technology/"
     type: article
     provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 35
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 36
     images:
-      - url: "https://www.adn.com/resizer/6hlNomXm9Wyx1O2tjZc6-h6gu_M=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/adn/PJGQ2VB3IZH6FB7XO5ZMKJS7PM.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Video, cellphone and facial recognition data may lead police to US Capitol rioters"
-    excerpt: "The countless hours of video — much of it taken by the rioters themselves — is a treasure trove of evidence for authorities looking to prosecute members of the pro-Trump mob."
-    publishedDateTime: 2021-01-08T22:41:00Z
-    webUrl: "https://www.stuff.co.nz/world/americas/donald-trumps-america/300201409/video-cellphone-and-facial-recognition-data-may-lead-police-to-us-capitol-rioters"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 33
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/q/c/p/x/image.related.StuffLandscapeSixteenByNine.1420x800.4yqcw1.png/1610145520138.jpg"
-        width: 1420
-        height: 798
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/facial-recognition.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "iYhFSCs9yjzDMEs2tm7QkY2Ef/8HQzJviFvUkLg8uDMTJ2vylEhapcZvWvHZRsEdYx9HIhRXEAUCQGKKMZcloxUrUZNTqwM8RWF2+sdJoYFdyhqLiMVYZLMyTBldtIbGZeNSqW67e7LlN3AMpAKinmbqNdL/nV4Q7lknOPfPkElSioEJutuSyD7Q7eoptCKfk4Bpq+L299ufbO/QoRERho0fSe+ZbjZXJhk+CIAzg2jVe9aOn0vjZB2+Gjb+QO87hjYeVWiOM7Tq1T4QwibaBACckzIk7ODO8nwwomDL4zuld3WVIOT8izFl/Kx+VqBVznM9rS+esLIAXTH23Yi4Lic1+HlQ/dxXr7LnmfoFd5ZFj8z8M8+gqsa4HvJqfDPOJa2oo1T4nuQxXtAVS68VqWeJlzaeD9SUiLH5yaWlQba8CvvDNlr+fczqf4SrvvraEBTbZNPQu2HaAJVlYGn0K6e0t626DhfwODp+ks5j0xE7fngPnOQgEocLqZZR+6WpODKCZYNwFTHXwoJsLJuNXw==;EX7vCnnKFKydB65Df65QxQ=="

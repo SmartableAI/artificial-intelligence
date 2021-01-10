@@ -37,20 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "AI On The Highway"
-    excerpt: "A couple of announcements caught our attention last week regarding AI-controlled cars. South Korea’s Kakao Mobility and local startup Autonomous A2G launched a limited self-driving taxi"
-    publishedDateTime: 2021-01-05T16:43:00Z
-    webUrl: "https://hackaday.com/2021/01/05/ai-on-the-highway/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 37
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/01/aidriver-feature.jpg"
-        width: 672
-        height: 378
-        isCached: true
 
 secured: "IrP5wZpAnp99R68oFQK/InTS4KzisXJlHzP2bl2Hh9D5pkzDIZyTFOv1CkWR+7EvaR76fmoyGNaHlZ9P32yPPArg854Uazqed6dMH8ZYg43COf+4Lwns4ssi1FvmugDIKckgvLI8KW9mopPK+ehOm905SVXp58+RXNMD448qfGGIAu5p2EK3pyXsDCdrbzwQFjIvomjVT1wHCXduXVIMYFmUPKjXF9z/MSzKaWR+4EBngRXe49jQTnd2etOGeeizEwAdjND7RFcWkNzzyvIbKYfRv1zmIn8/e7XEK3WXSXtoHMQOoNU5ymTEi2cs87t68O0hxigjIPSa6aFmQN02CaGnx6FNryn5M+2fe3RuMluoWcu0QUzDpE7XFqVAggdB7O1AbZL7bX+sIm6Mczf8uVHlBXkJlwXfbuolu2oEIzYlqljuhtQX99CTkeupoc/4IjWw4VNQTu0ALJPcQ3q+L2PWIufe0fkurY09Fk7VLxu4Q+Q8eZREa+lYGANDNk8AWmQELwAeD1Yx8YEXfLT8Bg==;Nk4wpD7ocqXGQFvOvVn2lA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Self-Driving Cars And Asimov’s Three Laws About Robots"
-    excerpt: "Asimov's famous Three Laws of robotics are considered in the use case of self-driving cars, and found to be aspirational but not ironclad."
-    publishedDateTime: 2021-01-05T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbda74b146f4f451dec796%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4743%26cropY1%3D0%26cropY2%3D3751"
-        width: 1200
-        height: 949
-        isCached: true
 
 secured: "zCpveFmWDp+z0hRImPZpYgGS7wLzrFZ26BeWBGQpaWLGI1Rjj5xW9ggXjIzeI1Aiq8otfXCOiCmWxDpPgaZDU5f5ABEuEX1vbgBSheoJp7jtK6jofFtU/zZ2NspVj+JNVerqyzAzCxgsyL0KNa2iX0knydrDPWKlLBttrU2U+GSpONJUUs7+rS0iqeh9jQuDAMLAMTQbEKALwEWMM/ff1mku4Fiu5Ulk+O8K+QyAKErSxwBkVusTOPFlT3aoymZmYOdUQ8387+7DMvJ8Pm08gwslRfGjxtOEGFHNQn393r8b/eDHbvGfDXK9VMKfanRS/fqiO6EALkNtnH/NHGOxAn2GwfcglWZv/PobeimIF/AQJlBEvZ19Llc6OnqZfaK3v8J0kx1QmB2ex2lwp6S5U/kddusBUeC55IWXxAOvEnqGUcm46sSoe/mKtYc+GQWHq5TvnRKpOpKOGRnExDwI6NVc80wmKuyhGwlGj041AgkdlRpVeAbn7tnlvlJvzYCawqclBDBxMVwjdgZcjcNk2w==;Z89Kbpr8uLcaFpJbfDHIeA=="
 ---

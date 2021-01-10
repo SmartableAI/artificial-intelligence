@@ -30,20 +30,6 @@ images:
 
 related:
   - title: "HealthWorksAI announces the release of ProductIntel™ - AI/ML platform for Medicare Advantage bid design and Product Lifecycle Management."
-    excerpt: "Leading healthcare analytics organization HealthWorksAI releases ProductIntel, a solution inspired by the evolving role of Product"
-    publishedDateTime: 2021-01-05T15:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/healthworksai-announces-the-release-of-productintel---aiml-platform-for-medicare-advantage-bid-design-and-product-lifecycle-management-301201115.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "HealthWorksAI announces the release of ProductIntel™ - AI/ML platform for Medicare Advantage bid design and Product Lifecycle Management."
     excerpt: "Leading healthcare analytics organization HealthWorksAI releases ProductIntel, a solution inspired by the evolving role of Product Managers (PM) as innovators in the “Triple Aim” program of Medicare Advantage."
     publishedDateTime: 2021-01-06T10:15:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/government-programs-medicare-government-funded-health-insurance-government-and-politics-daf8e4703e78c1682d375fc1d004b8a1"

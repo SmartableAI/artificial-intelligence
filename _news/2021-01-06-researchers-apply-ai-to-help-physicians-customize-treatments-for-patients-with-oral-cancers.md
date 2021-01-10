@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers aim AI at rising oral cancers with $3.3M grant from National Cancer Institute"
-    excerpt: "Researchers at Case Western Reserve University and partners in the United States and India are applying artificial intelligence (AI) to help physicians customize treatments for patients with the most common oral cancer,"
-    publishedDateTime: 2021-01-05T15:38:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/cwru-raa010521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 30
-    images:
-      - url: "https://media.eurekalert.org/multimedia_prod/pub/web/252709_web.jpg"
-        width: 1440
-        height: 2016
-        isCached: true
   - title: "Ways fashion brands are virtually connecting with customers - from custom designs to AI searches"
     excerpt: "The pandemic has fundamentally changed the way people shop. Fashion brands like Suitsupply and Shop Your Fit have developed innovative ways to virtually connect with customers."
     publishedDateTime: 2021-01-07T16:07:00Z
