@@ -110,6 +110,22 @@ related:
         width: 1024
         height: 437
         isCached: true
+  - title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
+    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
+    publishedDateTime: 2021-01-05T15:40:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Firstlight Media, Microsoft Azure to power new streaming venture Struum"
     excerpt: "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,"
     publishedDateTime: 2021-01-08T10:17:00Z
@@ -188,20 +204,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-    publishedDateTime: 2021-01-05T13:15:00Z
-    webUrl: "https://www.imdb.com/news/ni63147427/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 54
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Microsoft AI Transformation Customer Stories"
     excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."
     publishedDateTime: 2021-01-09T08:27:00Z
@@ -258,15 +260,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
-    excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
-    publishedDateTime: 2021-01-05T12:23:00Z
-    webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 29
 
 secured: "mfvfU6auxI035c+KxitTQyOAjMUZhi57Q5Z6RGS25Y7uiwU4xQVHPoDXf75YLBn9/aEnUT6QsK1KGFqRuqpWgqqS9g+Jpk8Ervw4H2FaIrvoCMIN9wRvgTf+y3tStVSwiv6wQDTxdCeUtaIbwFntJzuixEramP/j6VEIJJt3cB3TEwtubt8kSJ0iE9JwfaEye2hrf10KmPJ+Ln7R3j1C6/x+D5pUZPDx3dAHAwVhHy6ksaC8XKm9QY37HXrZdyxWtPUFx7oWCqsBCNy3sL/oR2s09Be4HJgfkmRkgdHI/ie8Jer+lm9jqX5IiLHlMcbCOl5SsATXaky3sWM9tn0c2iWndaJuFLWIC0rrQH5xcEk=;W5scs1HUVt6+StU0oaq/wA=="
 ---

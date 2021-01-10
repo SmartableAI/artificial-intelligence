@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-by-key-players-product-and-production-information-analysis-and-forecast-to-2026-2021-01-06"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -29,115 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Hardware Market Size – Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2027"
-    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) Hardware Market Size study, by Technology (Machine Learning, Computer Vision, Natural Language Processing,"
-    publishedDateTime: 2021-01-05T12:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2020-2027-2021-01-05"
+  - title: "HealthWorksAI announces the release of ProductIntel™ - AI/ML platform for Medicare Advantage bid design and Product Lifecycle Management."
+    excerpt: "Leading healthcare analytics organization HealthWorksAI releases ProductIntel, a solution inspired by the evolving role of Product"
+    publishedDateTime: 2021-01-05T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/healthworksai-announces-the-release-of-productintel---aiml-platform-for-medicare-advantage-bid-design-and-product-lifecycle-management-301201115.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Cloud Natural Language Processing (NLP) Market 2020 – 2027 | Future Trends, Historical Analysis, Competitive Landscape and Regional Forecast"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
-    publishedDateTime: 2021-01-05T11:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-2027-future-trends-historical-analysis-competitive-landscape-and-regional-forecast-2021-01-05"
+  - title: "HealthWorksAI announces the release of ProductIntel™ - AI/ML platform for Medicare Advantage bid design and Product Lifecycle Management."
+    excerpt: "Leading healthcare analytics organization HealthWorksAI releases ProductIntel, a solution inspired by the evolving role of Product Managers (PM) as innovators in the “Triple Aim” program of Medicare Advantage."
+    publishedDateTime: 2021-01-06T10:15:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/government-programs-medicare-government-funded-health-insurance-government-and-politics-daf8e4703e78c1682d375fc1d004b8a1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Automotive Gesture Recognition Market Share Current and Future Industry Trends, 2020-2026"
-    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Automotive Gesture Recognition Report\" provides data, information, brief analysis, company profiles,"
-    publishedDateTime: 2021-01-06T07:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-current-and-future-industry-trends-2020-2026-2021-01-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Financial Analytics Market Key Manufacturers, Development Trends and Competitive Analysis 2024"
-    excerpt: "The global financial analytics market is expected to register a CAGR of 10.4% during the forecast period to reach USD"
-    publishedDateTime: 2021-01-07T14:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-key-manufacturers-development-trends-and-competitive-analysis-2024-2021-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Statistics, Future Plans, COVID-19 Impact Analysis, Competitive Landscape and Trends by Forecast 2023"
-    excerpt: "The global natural language processing is growing continually. The market growth attributes to the increased adoption rate of NLP technology across various industry verticals. Besides, the growing demand for M2M translation and increasing application areas ..."
-    publishedDateTime: 2021-01-06T14:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-statistics-future-plans-covid-19-impact-analysis-competitive-landscape-and-trends-by-forecast-2023-2021-01-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data Storage Market Share, Latest Industry Trends, Statistics, Competition Strategies and Latest Industry Share by 2026"
-    excerpt: "The digitalization of the world led industries to generate a tremendous amount of data. As the paper-based work is"
-    publishedDateTime: 2021-01-08T09:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-share-latest-industry-trends-statistics-competition-strategies-and-latest-industry-share-by-2026-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) Market 2020 - 2025 | Development, News and significant Growth With Regional Trends By Forecast"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2021-01-05T18:09:00Z
-    webUrl: "https://menafn.com/1101386371/Natural-Language-Processing-NLP-Market-2020-2025-Development-News-and-significant-Growth-With-Regional-Trends-By-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849361"
-        width: 450
-        height: 250
-        isCached: true
-  - title: "Machine Learning Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Machine Learning Market – Global Industry Analysis, Size, Share,"
-    publishedDateTime: 2021-01-07T08:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19053604/machine-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2030"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19053604"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19053604"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
 
 secured: "l+4vE30+kgCnn/OtMqq7/p2GBC+FyFL7VQPDhx0ubu+Picbc1BS5L7VZJ8PAPNmJaLGhWAj+l3wq33WRWQIU7rq0+0lHkQR2JauhofHHstYhGTY/H4WjebUBNiRgzJ7iET1v190+b2uHofRqT4wPLNWte2I3QT85ha0nbkS1IWhZ0GDviLyVPwREWoftyESVCnBdgVp6Nv0RrqwZ7N4Itvj8yYop5g4kgF4lp8MUv5TZ/dpooGf2c9U6T/wRRfW6yH3OCArLnOleQtnMewf4U3161AGZ/0JdK0r/69Aa7hWyd1ACV0bHPrJjBUGXX1GIPBzWhl3bweVfoYSoDYuxXiPsp8km4p9XGp0jZMGt+F8=;07Q4kkxgun64F1BrSiwfLQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-1
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html"
 type: article
 quality: 91
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -159,6 +159,22 @@ related:
       - url: "https://www.iclarified.com/images/news/79213/79213/79213-640.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Intel's Israeli facial recognition technology is going to change the way you draw cash"
+    excerpt: "Powered by Intel, Israel's RealSense ID develops a facial recognition system that aims to make debit cards obsolete... Facial recognition technology has already found its way into almost everyone’s pocket nowadays."
+    publishedDateTime: 2021-01-10T04:27:00Z
+    webUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/"
+    ampWebUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 51
+    images:
+      - url: "https://www.geektime.com/content/images/2021/01/1ca31571-f685-4bee-85be-b55bac1216ec-1609950288.jpeg"
+        width: 1431
+        height: 966
         isCached: true
   - title: "Intel Has Developed Facial Recognition Technology for Its RealSense Depth-Sensing Camera"
     excerpt: "Intel has now developed its RealSense depth-sensing camera with facial recognition technology, which it hopes could be applied for uses on ATMs or smart locks. Named RealSense ID, the company ..."

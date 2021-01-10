@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-publishedDateTime: 2021-01-05T13:15:00Z
-originalUrl: "https://www.imdb.com/news/ni63147427/"
-webUrl: "https://www.imdb.com/news/ni63147427/"
+title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
+excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
+publishedDateTime: 2021-01-05T15:40:00Z
+originalUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: IMDb
-  domain: imdb.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-    width: 1000
-    height: 1000
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
+    width: 1199
+    height: 674
     isCached: true
 
 related:
@@ -253,16 +255,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
-    excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
-    publishedDateTime: 2021-01-05T12:23:00Z
-    webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 29
 
-secured: "/DhfgeLdLtHIgCJ8vBAznmvA1r7UpfClfjQ3ruYU2xzECLQkxzZUZTX2To+9WrReX1TRKUW38r+jbdTOXxmOjI4IG7OB44GbrmSbz/YssX30AOU8lLehbcfveyGfZ0SgjAQl/+T4YkUJfjHu0wivFUxN1TzWNzQsxwG80l+L52Uuu2XZ3PydVppmZIj23la8ztEGkbXtUym3I74HMOv7qUOnjD4F3g3g4syx38Sgdw9w7aW9BlRsxi9SC5TSws/7p0U9Si6h8NerOZPd4MX5aoEhv+vU1V9/IF1E826iYDRwflyYhH3cG3hN19FpDv5w1F7Pk543ouU5mPtul6EcJ2JaezHaNPyb3R8DYEymvHY=;s0cih+pOf3RpuWpMNLJnXA=="
+secured: "TbcCPvWCXFf99LZbhtQ+BE0R7yHG9XqGxaq3p01KlopB00IUVsS7/FpF8t9y7zSpgKW+rwpMQ4vt3VQSogzN2xl+ylbnhGmvN5w6HMH7PC+VY2M+1C93g8+DyIR+FYZDcOvQkFvbaakZ6cE1xM1JhvvAw49geBEEZcIvJy29wYFCM3oVEuEn4LD5N0Atvudzw5RI8gRchFPyB1KdEb9yYI0moVepIf7lSAhRPy3ZSfV/C0E2yluw+i+t+occvWYJI+h/sG2abYp3oEedP7kv2SfelAQMXmDrwefCwdVOi0lpQ8D1TmKbPLQNmthdvvGdGIBq3eJwB6nJXYh+oZJXBP9S8zObDfJNxYh7xpZ7ZW0=;/VuYSnhbTiZPtRnJSn4Z7w=="
 ---
 

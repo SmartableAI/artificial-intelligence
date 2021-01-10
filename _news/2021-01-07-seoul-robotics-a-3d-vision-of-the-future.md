@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-roboti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Who Is Funding Robotics?"
-    excerpt: "With the use of Crunchbase database, this article tries to analyse who is investing across different stages in robotics."
-    publishedDateTime: 2021-01-05T11:32:00Z
-    webUrl: "https://analyticsindiamag.com/who-is-funding-robotics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/banner.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
   - title: "Seoul Robotics launches ‘breakthrough’ perception software platform"
     excerpt: "Seoul Robotics​, a 3D computer vision company using AI and machine learning to power the future of mobility, has made its formal debut in the US market with the launch of its first commercial"
     publishedDateTime: 2021-01-08T15:10:00Z

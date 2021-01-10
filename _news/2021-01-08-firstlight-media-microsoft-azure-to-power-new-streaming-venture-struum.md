@@ -121,6 +121,22 @@ related:
         width: 1024
         height: 437
         isCached: true
+  - title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
+    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot."
+    publishedDateTime: 2021-01-05T15:40:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Microsoft’s AI Model Outperforms Humans In Natural Language Understanding"
     excerpt: "Microsoft on Tuesday announced that its AI model has surpassed humans In Natural Language Understanding (NLU) With SuperGLUE benchmarks."
     publishedDateTime: 2021-01-08T14:53:00Z
@@ -183,20 +199,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
-    publishedDateTime: 2021-01-05T13:15:00Z
-    webUrl: "https://www.imdb.com/news/ni63147427/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 54
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Microsoft AI Transformation Customer Stories"
     excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."
     publishedDateTime: 2021-01-09T08:27:00Z
@@ -253,15 +255,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
-    excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
-    publishedDateTime: 2021-01-05T12:23:00Z
-    webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 29
 
 secured: "2EMilyfAgUbsRzdclwD518ai+jOf8ONu8DQ1QQ8u6aCoeSHQs7jxktIo2NDvS0XgeOdPe+tVQJ6NlG/EObBxts7jPznl2c852wAsZYsZmgtfzmAlE+DzY3/LlX7MD//5SYXyVmrduoAxU56qSClNV/v1erD9AXX7UhvpWtVQqZvaByp91kgPqE23EIPVoQ+/DDDN7JCiZRgBwtFeYQhcm3xXaDrXaEDkzk0SHMvMCW1YzANgmOPhuARPfKZYTgGLEjj4zgIw8t+cnlosi+/4C1Tr9x27+HHLCGks/Wu1N1emoYJSrGvXpL/LE71TAUHPyy9ZeytLqnNxollFuJDzOkhn96J7gPnqqtoQP9cMnV55ZdtqV8dkb0U7awKxQ8maPNdSV24obyJ1ZUWO267PfRXtm7HeIbmiNzRZ6Zyjb1QkkZlkFuaconIcTEHRd2KmzfWOKVBdRGkA9NbBvQhK8+KK7/E9k5KyvNq6nZFpyg/veNWC/CL5XvGdbQ4B8ZbMi65Ce5xaJxbQu/5U0xTwNQ==;593TWkWJkmYLaG1xPi5dow=="
 ---

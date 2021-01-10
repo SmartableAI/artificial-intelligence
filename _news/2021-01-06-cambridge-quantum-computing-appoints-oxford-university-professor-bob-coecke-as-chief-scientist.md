@@ -1,30 +1,38 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist"
-excerpt: "PRNewswire/ -- (CQC), a global leader in quantum computing software and algorithms, is pleased to announce the appointment of Professor Bob Coecke"
-publishedDateTime: 2021-01-06T08:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
+excerpt: "PRNewswire/ -- Cambridge Quantum Computing ( CQC ), a global leader in quantum computing software and algorithms, is pleased to announce the appointment of Professor Bob Coecke as its Chief Scientist."
+publishedDateTime: 2021-01-06T02:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210106ln36851/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210106ln36851/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist"
 type: article
-quality: 12
-heat: 12
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
 related:
+  - title: "Global guru named chief scientist of Cambridge Quantum Computing"
+    excerpt: "World leading authority and Oxford don Bob Coecke has added yet another dimension to the non-stop progress of Cambridge Quantum Computing (CQC) by becoming chief scientist. Coecke who has previously served as senior scientific adviser to CQC with a focus on developing and building a leading Quantum Natural Language Processing (QNLP) capability,"
+    publishedDateTime: 2021-01-06T11:29:00Z
+    webUrl: "https://www.businessweekly.co.uk/news/recruitment/global-guru-named-chief-scientist-cambridge-quantum-computing"
+    type: article
+    provider:
+      name: Business Weekly
+      domain: businessweekly.co.uk
+    quality: 24
+    images:
+      - url: "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/bob-coecke.jpg?itok=KKbrJf__"
+        width: 605
+        height: 400
+        isCached: true
   - title: "Cambridge Quantum Computing Appoints Oxford Professor Bob Coecke as Chief Scientist"
     excerpt: "Coecke who has previously served as senior scientific advisor to CQC with a focus on developing a Quantum Natural Language Processing (QNLP) capability, joins from the University of Oxford after a tenure of over 20 years where he was professor of quantum ..."
     publishedDateTime: 2021-01-06T19:52:00Z
@@ -35,6 +43,6 @@ related:
       domain: insidehpc.com
     quality: 0
 
-secured: "uzIq0PWNkQaDyBtckWzSNGNCGcuPpMnz8tmdDFbGnPO6AVXOh36zsRfen1t5C0xp+5NRUIr+mc5By+AUpDIw/z+y1nhwtNwAC4dNO8CZg8UQQPMtoBR2x82MugbtTHouV5dmJelX/upHWdAWgRCiUsf6ZcXMbuLUH7fX0rfAbENRzdnoxmQ2HvIHVX59pQAUlwDcF8a5sjVaM0oRJcs9NfxLNMG7Lx9vFoUHtZYduDbIrpedUEWn4OhdCEs6LY3Fz0fJGRVL9GkvnXgKg4VYKDzLNZt82Txua+3lvTf9CxfAmq2BlbnVSwGr+r8BNCFLEyzm8yUG1szjjGuhXGCfHQJn+DWnMt7DZVoeeBltYcE=;Heg6U8rpKh1z1VLpzibA8Q=="
+secured: "dC+DzPPocOcnvpw3JKf7J6LbsmfSU7BpueJXmV96JPpOoCbdnjJccbNPz4fjjsyyzcty4qJ62kxWwNYOyO7wFaw2bTqPY3rjr9791Rb11VUtnFp39vHSDf1F5JWT3qA0KO9Av2X8ZnwQAkoinJb75jmT3GcgGIpHzkvANABIT2sdcRhieHjsmPW1IHJ6pM1DskM6yDf/m6prI4BvjOAClRjtrA/M/1EnEYpPBlGQSnYtRFw/vCwz6hLFmhfElMGyTMLPLXg7Nw23FOA19xjSD3OZUvq/uXhKr/QrouNXUmBAMKTE/rj0V9gq54M89oKzrp55Zgs09pg4BRJ7yx18NHtzKjyCMASOqKUxzSD4SzA=;54k8k/mHPo7R3ZFEnri7OA=="
 ---
 

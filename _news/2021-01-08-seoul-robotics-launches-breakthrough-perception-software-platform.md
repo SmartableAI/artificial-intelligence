@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Who Is Funding Robotics?"
-    excerpt: "With the use of Crunchbase database, this article tries to analyse who is investing across different stages in robotics."
-    publishedDateTime: 2021-01-05T11:32:00Z
-    webUrl: "https://analyticsindiamag.com/who-is-funding-robotics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/banner.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
   - title: "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform"
     excerpt: "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,"
     publishedDateTime: 2021-01-08T06:55:00Z

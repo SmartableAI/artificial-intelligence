@@ -3,10 +3,10 @@ category: news
 title: "How some companies are solving the issues with language and AI"
 excerpt: "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved."
 publishedDateTime: 2021-01-04T20:21:00Z
-originalUrl: "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-webUrl: "https://www.techrepublic.com/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-some-companies-are-solving-the-issues-with-language-and-ai/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "tXSPjeV3K3gASsSCVZzplv2s5eXb9hAh8baLzBFy1GcUstd08EMfwPMPiy1xXBdIQXNPjm56Zw9S2BX9jHJsUhspzTy34aS4edB8Ey1BAfJpR3oYwSs+cjzNagOLeV57Wao/MFPdDxinSCB8KilMvMaOlABh2RMD8mVOlmMGNlHXAPW4ZvUofPccTVSdGA88m5hQLO5bzIXZjhSy2eE/uPybK8ysLdGMbFTD1LkaVQ9Y1/mtI8IcBSz9+5hoQCD6ub6M4MiCqcoThH5MDwuG+yFc8er+AkR/jlh+SOETWd/JIQFZv08hjxkW18Z5twuaiYqOf1nbMSFNa/C8O4KaYnh3O0VW6uLZLBlJeOQkNEw=;+kNGkL6rw1Ulkv0/DdRZlg=="
+secured: "GQ+vAm1E1kx9FVRVbOPvWVST6UfriSciN9yYBFwDh9tdi+od+GkMl5UClfMHlumdLiBlQJEN6J4MAwXP69BbPqClfYYX/1dwNnhlPx0bCL0k9aWXuS+BeVkt/4MulMW+VCLVGlaDaVxxrGnA/38wxgeWzfNXWNAF78OYuh43pFj4x7Ev0WdPtKCznr4KiphKW8A7UYg1Y3RueP8/sYzQTLvrTEZSNLjlie5EXocPaKINJL6u4Bmp6C6Yem/5o/iFHFqKMiKsWXJxjv9WAU5uNW2wksfUeRan2Dlj4h+Ep0c9qCSDOiCN2KMnvRGvrc2WwGmht73SAxK1WXrq5Aes5vvo0mNeGUuSHd0j8bzeLlU=;RyOvfvgX7f1+AzbdPR3riA=="
 ---
 

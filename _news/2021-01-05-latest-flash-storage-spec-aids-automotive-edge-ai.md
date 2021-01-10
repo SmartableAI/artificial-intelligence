@@ -7,7 +7,7 @@ originalUrl: "https://www.embedded.com/latest-flash-storage-spec-aids-automotive
 webUrl: "https://www.embedded.com/latest-flash-storage-spec-aids-automotive-edge-ai/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Jarvis Meets Automotive: How Artificial Intelligence Is Remodeling Computer-Aided Design"
-    excerpt: "The world of computer-aided design is transforming from a visual, drafting tool to an artificial intelligence agent that uses feedback and weighted goals to design an integrated system."
-    publishedDateTime: 2021-01-05T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/"
-    ampWebUrl: "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/"
+  - title: "2020’s Biggest Stories in AI"
+    excerpt: "AlphaFold: Protein Folding Outside of Natural Language Processing, 2020 also saw important progress in biotechnology. Starting early in the year, we got the rapid and timely advancement of mRNA vaccines. Throughout the year, clinical trials proved these to ..."
+    publishedDateTime: 2021-01-07T14:37:00Z
+    webUrl: "https://insidebigdata.com/2021/01/07/2020s-biggest-stories-in-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce6fad7d46dc2167aa1ac4%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 21
 
 secured: "/ynUDNxYfM/iNM9wcY1sfxhIwFLm4eASzoy/Yn7T+ZnnTGzTj97eaDkFRePUQ6qzJjv642KjXyHAyQqm87aTLmEWoeWWfCqVapCvFqrECRz/YJOVZtkMbcNvWWx6BRth2bSeojm5dgOr0rU7hKNcHfqQZDpL1FG9eRmMNp1SoRPaZrXbTcNVuRd073ZHX1eXn+AvL3QN/NmBEPjdH5KJamGiax4LueAsFYWuDf2f1PjAZ70uZ2kwKQGyNtSKKBimGnbwPGu+2GUmrPzw9fvSQfzXPTzFlcaewKkuOiURQexVIy164adLJDP25XncD7GrLm4WnNGX3GYUlIoYKhIrgUxizCT1eMwZx1VHWeOv20MjQKPO5iA1ZoWNZQUA1rMOqxgc3bD4XL7Lq9x42Aum8yHL5qxD36xivVdpCDeUV0qSJRYuBeY4FD/NCNNg0WH66f3sxgtSErwTGGCW9kJ9NhACQfEob8VG2vp1ll9LMtrB1wd7midqiLAIU9fbovsBeXuQ3o4vc4MabV3z9VmctA==;BtOFgAHRkHgC3i48Ji9S7w=="
 ---

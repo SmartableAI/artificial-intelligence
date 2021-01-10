@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-goo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
 type: article
 quality: 161
-heat: 191
+heat: 182
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/95hf94h48a1-620x250.png"
         width: 620
         height: 250
-        isCached: true
-  - title: "AI and data science predictions for 2021"
-    excerpt: "Artificial intelligence saw rapid growth in 2020. The global pandemic and the resulting digital transformation forced upon companies and individuals as we moved from offices to homes accelerated AI usage and development."
-    publishedDateTime: 2021-01-05T11:02:00Z
-    webUrl: "https://dataconomy.com/2021/01/ai-data-science-predictions-2021/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 37
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/01/ai-data-science-predictions-2021.jpg"
-        width: 1920
-        height: 768
         isCached: true
   - title: "Conversational AI in 2021: 3 top trends to look out for"
     excerpt: "AI space, fueled by a global pandemic that has necessitated a shift in how vendors, businesses and consumers view the technology. That’s not to say that business has been bad. Markets and Markets reports that the conversational AI market capped off the year at $4."
