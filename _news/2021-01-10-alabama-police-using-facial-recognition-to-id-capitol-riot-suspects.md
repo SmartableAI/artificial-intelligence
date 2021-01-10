@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Police Use of Clearview AI's Facial Recognition Tech Spiked After Capitol Raid"
+    excerpt: "Clearview AI’s controversial facial-recognition app has seen a spike in use as police track down the pro-Trump insurgents who descended on the Capitol on Wednesday. With so many of those idiots snapping selfies and livestreaming the raid as if it was a school field trip,"
+    publishedDateTime: 2021-01-10T22:40:00Z
+    webUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687"
+    ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 100
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lk5ifyehxrqpzqqo03oe.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Facial recognition identifies people wearing masks"
     excerpt: "Japanese company NEC, which develops facial-recognition systems, has launched one that can identify people even when they are wearing masks. It hones in on parts of the face that are not covered up, such as the eyes,"
     publishedDateTime: 2021-01-07T12:05:00Z
@@ -43,115 +59,37 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Facial recognition: Now algorithms can see through face masks"
-    excerpt: "The US Department of Homeland Security has carried out trials to test whether facial recognition algorithms could correctly identify masked individuals."
-    publishedDateTime: 2021-01-06T16:23:00Z
-    webUrl: "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/"
+  - title: "The facial-recognition app Clearview sees a spike in use after Capitol attack."
+    excerpt: "After the Capitol riot, Clearview AI, a facial-recognition app used by law enforcement, has seen a spike in use, said the company’s chief executive, Hoan Ton-That. “There was a 26 percent increase of searches over our usual weekday search volume,"
+    publishedDateTime: 2021-01-09T17:42:00Z
+    webUrl: "https://www.nytimes.com/2021/01/09/technology/facial-recognition-clearview-capitol.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/09/technology/facial-recognition-clearview-capitol.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/technology/facial-recognition-clearview-capitol.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: New York Times
+      domain: nytimes.com
+    quality: 70
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/09/us/09transition-briefing-clearview/09transition-briefing-TK2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Facial recognition firm claims antifa infiltrated Trump protesters who stormed Capitol"
+    excerpt: "A retired military officer told The Washington Times that the firm XRVision used its software to do facial recognition of protesters and matched ... Fox News cuts away from Donald Trump Jr. speech following profanities Violence, destruction halt ..."
+    publishedDateTime: 2021-01-07T01:46:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Masks no obstacle for new NEC facial recognition system"
-    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T10:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
-        width: 743
-        height: 545
-        isCached: true
-  - title: "NEC says new facial recognition system isn't stopped by masks"
-    excerpt: "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,"
-    publishedDateTime: 2021-01-07T15:57:00Z
-    webUrl: "https://mashable.com/article/nec-face-recognition-mask/"
-    ampWebUrl: "https://mashable.com/article/nec-face-recognition-mask.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Masks no obstacle for new NEC facial recognition system"
-    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T22:20:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-japan-facial-recognit/masks-no-obstacle-for-new-nec-facial-recognition-system-idUSL4N2JH1U7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C0JZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C0JZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
-        width: 743
-        height: 545
-        isCached: true
-  - title: "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots"
-    excerpt: "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa."
-    publishedDateTime: 2021-01-08T13:25:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "A Facial Recognition Company Says That Viral Washington Times “Antifa” Story Is False"
-    excerpt: "Matt Gaetz had cited the story in Congress as supposed evidence that antifa was involved in the Capitol assault. But the company says it’s “outright false.”"
-    publishedDateTime: 2021-01-07T16:55:00Z
-    webUrl: "https://www.buzzfeednews.com/article/craigsilverman/facial-recognition-antifa-washington-times-false"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 82
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-01/7/15/asset/4b24ac414e7e/sub-buzz-13891-1610033744-11.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-        width: 640
-        height: 425
-        isCached: true
-  - title: "Face Masks Can't Confuse NEC's New Facial Recognition System"
-    excerpt: "Studies have shown that facial recognition algorithms created before the pandemic are easily confused when their subject matter is wearing a mask. As Reuters reports, NEC is ahead of the curve because the company was already working on a recognition system capable of dealing with masks before the pandemic started."
-    publishedDateTime: 2021-01-07T16:58:00Z
-    webUrl: "https://uk.pcmag.com/security/130840/face-masks-cant-confuse-necs-new-facial-recognition-system"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/face-masks/face-masks-cant-confuse-necs-new-facial-recognition-system_mpue.1200.jpg"
-        width: 1200
-        height: 675
+        height: 700
         isCached: true
   - title: "Local Police Force Uses Facial Recognition to Identify Capitol Riot Suspects"
     excerpt: "An Alabama police department is using facial recognition software to help identify people who were present during the riot at the U.S. Capitol this week, one of its officers said."
@@ -166,146 +104,6 @@ related:
       - url: "https://images.wsj.net/im-283101/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Fact check: False claim of facial recognition of antifa members during U.S. Capitol riot"
-    excerpt: "Facial recognition software firm XRVision has refuted a now-retracted story that its product matched rioters at the U.S. Capitol to members of antifa."
-    publishedDateTime: 2021-01-08T03:53:00Z
-    webUrl: "https://www.azcentral.com/story/news/factcheck/2021/01/07/fact-check-false-claim-facial-recognition-antifa-capitol/6580679002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6580679002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6580679002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/7ce53165-1d79-47b5-a5c2-f8322c17a71a-AP_Congress_Electoral_College.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facial recognition system can identify people wearing masks"
-    excerpt: "A facial recognition system that can identify individuals even when they are wearing a mask has launched in Japan. The technology, created by Japanese company NEC, works in less t"
-    publishedDateTime: 2021-01-07T15:27:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 61
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/07/10/A-hacker_trans_NvBQzQNjv4BqNUHzxaamNmHDqK-YksWRz2o-yMLyYquKCawpyDOW254.jpg"
-        width: 560
-        height: 350
-        isCached: true
-  - title: "Fact check: Facial recognition company did not identify Antifa members among Capitol mob"
-    excerpt: "A news outlet that reported that a facial recognition company identified members of Antifa among the mob that stormed the U.S. Capitol has now apologised and issued a correction. Screenshots featuring the original report,"
-    publishedDateTime: 2021-01-09T02:13:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-antifa-idUSKBN29D2WV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547153800&r=LYNXMPEH071CI&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Government Facial Recognition Can Identify 96 Percent of Masked People"
-    excerpt: "A powerful new facial recognition system can recognize and identify people 96 percent of the time — even when they’re wearing a mask to protect against the coronavirus. It goes without saying ..."
-    publishedDateTime: 2021-01-06T21:32:00Z
-    webUrl: "https://futurism.com/the-byte/government-facial-recognition-identify-96-percent-masked-people"
-    ampWebUrl: "https://futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/01/government-facial-recognition-identify-96-percent-masked-people-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Masks no obstacle for Japan’s new facial recognition system"
-    excerpt: "The system determines when a person is wearing a mask and hones in on the parts that are not covered up, such as the eyes and surrounding areas, to verify the subject's identity."
-    publishedDateTime: 2021-01-07T12:04:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/amxeem/article33520942.ece/ALTERNATES/LANDSCAPE_615/japan-facial-recognitionjpg"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Masks no obstacle for new facial recognition system"
-    excerpt: "Japan’s NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal"
-    publishedDateTime: 2021-01-07T10:37:00Z
-    webUrl: "https://arynews.tv/en/mask-facial-recognition-system/"
-    ampWebUrl: "https://arynews.tv/en/mask-facial-recognition-system/amp/"
-    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/mask-facial-recognition-system/amp/"
-    type: article
-    provider:
-      name: ARY News Live
-      domain: arynews.tv
-    quality: 59
-    images:
-      - url: "https://arynews.tv/wp-content/uploads/2021/01/facial-recognition.jpg"
-        width: 750
-        height: 369
-        isCached: true
-  - title: "CORRECTED: Facial recognition identifies extremists storming the Capitol"
-    excerpt: "Trump supporters say that Antifa members disguised as one of them infiltrated the protesters who stormed the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-08T15:26:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 58
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "A new normal: Face masks no obstacle for this new Japanese facial recognition system"
-    excerpt: "Japan's NEC Corp launches facial recognition system that identifies people even when they are wearing face masks"
-    publishedDateTime: 2021-01-07T10:44:00Z
-    webUrl: "https://www.geo.tv/latest/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
-    ampWebUrl: "https://www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
-    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
-    type: article
-    provider:
-      name: Geo News
-      domain: www.geo.tv
-    quality: 52
-    images:
-      - url: "https://www.geo.tv/assets/uploads/updates/2021-01-07/l_328610_122102_updates.jpg"
-        width: 700
-        height: 390
-        isCached: true
-  - title: "Homeland Security test sees 96% facial recognition success for those wearing face masks"
-    excerpt: "News; Homeland Security test sees 96% facial recognition success for those wearing face masks. 06/01/2021 ; Results from a controlled test from the US' Department of Homeland Secu"
-    publishedDateTime: 2021-01-06T10:31:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/homeland-security-test-sees-96-facial-recognition-success-for-those-wearing-face-masks"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 48
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/v1609928904/widgetdocs/facial-recognition_f8jukk.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Ann Arbor considering ban on police use of facial-recognition technology"
     excerpt: "Ann Arbor officials are considering a ban on police use of a facial-recognition technology. The issue came up this week as City Council reconsidered its recent approval of a $348,308 contract for new dashboard cameras for Ann Arbor Police Department vehicles."
@@ -323,48 +121,6 @@ related:
         width: 3745
         height: 2500
         isCached: true
-  - title: "Masks no problem for NEC's facial recognition"
-    excerpt: "Look into my eyes NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T10:40:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/52160-masks-no-problem-for-nec-s-facial-recognition"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7bf467bf754a86923bd12df78ba60421_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
-    excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
-    publishedDateTime: 2021-01-07T22:05:00Z
-    webUrl: "https://mobileidworld.com/new-dell-video-conferencing-monitors-support-facial-recognition-010709/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
-        width: 359
-        height: 400
-        isCached: true
-  - title: "Facial recognition technology used to identify alleged rioters"
-    excerpt: "Facial recognition technology is being used to identify those accused of crimes committed at the U.S. Capitol building this week. But it's not perfect."
-    publishedDateTime: 2021-01-09T12:35:00Z
-    webUrl: "https://www.kvue.com/video/tech/facial-recognition-technology-used-to-identify-alleged-rioters/269-7004ac76-6cf4-479b-bb46-f406fe0a2fe3"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 39
-    images:
-      - url: "https://media.kvue.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Facial recognition technology to help identify U.S. Capitol rioters"
     excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."
     publishedDateTime: 2021-01-09T23:54:00Z
@@ -378,20 +134,6 @@ related:
       - url: "https://media.wbir.com/assets/WBIR/images/108f2419-edc9-4bdf-8ad2-3ec70e50ad00/108f2419-edc9-4bdf-8ad2-3ec70e50ad00_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "NIST to Update Facial Recognition Standards Amid Pandemic-Driven Mask Norm"
-    excerpt: "The National Institute of Standards and Technology (NIST) has begun assessments on the use of facial recognition amid the pandemic where individuals usually wear masks that cover up most of the face,"
-    publishedDateTime: 2021-01-06T22:58:00Z
-    webUrl: "https://www.executivegov.com/2021/01/nist-to-update-facial-recognition-standards-amid-pandemic-driven-mask-norm/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 37
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2020/12/04/cf/a3/89/3f/73/fc/a7/74/facial_recognition_20201125.png"
-        width: 272
-        height: 270
         isCached: true
   - title: "Video, cellphone and facial recognition data may lead police to Capitol rioters"
     excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologies to assist in the identification of anyone who was there that day."
@@ -407,70 +149,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Japan firm launches facial recognition system that identifies mask-wearing users"
-    excerpt: "Japan's NEC Corp had already been working on a system to meet the needs of allergy sufferers who wear masks.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-07T07:50:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/masks-no-obstacle-for-new-nec-facial-recognition-system"
+  - title: "Video, cellphone and facial recognition data may lead police to US Capitol rioters"
+    excerpt: "The countless hours of video — much of it taken by the rioters themselves — is a treasure trove of evidence for authorities looking to prosecute members of the pro-Trump mob."
+    publishedDateTime: 2021-01-08T22:41:00Z
+    webUrl: "https://www.stuff.co.nz/world/americas/donald-trumps-america/300201409/video-cellphone-and-facial-recognition-data-may-lead-police-to-us-capitol-rioters"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 34
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/07/nz_nec_070167.jpg?itok=ni3rFtrR"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Were Antifa Members Identified at Capitol Riot with Facial Recognition Software?"
-    excerpt: "False rumors on social media were given the appearance of credibility when they were rehashed in a new article."
-    publishedDateTime: 2021-01-07T18:40:00Z
-    webUrl: "https://www.snopes.com/fact-check/antifa-facial-recognition-capitol/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 34
-    images:
-      - url: "https://www.snopes.com/tachyon/2021/01/eye-5814965_1920-e1610038979612.jpg"
-        width: 1200
-        height: 717
-        isCached: true
-  - title: "Smart cameras and facial recognition could assist in identifying Capitol protesters"
-    excerpt: "Weapons, beards, tattoos and cell phones -- any of those might assist in identifying people involved in storming the Capitol."
-    publishedDateTime: 2021-01-08T02:29:00Z
-    webUrl: "https://abc13.com/technology/facial-recogniton-could-help-to-id-capitol-protesters/9446533/"
-    ampWebUrl: "https://abc13.com/amp/facial-recoginition-capitol-protesters-security-cameras-chaos-at/9446533"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/facial-recoginition-capitol-protesters-security-cameras-chaos-at/9446533"
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 33
-  - title: "This Facial Recognition Program Can Tell Who You Are Even If You're Wearing a Mask"
-    excerpt: "One Japanese company says they've developed a system that can bypass face coverings for facial recognition. Veuer's Tony Spitz has the details."
-    publishedDateTime: 2021-01-07T21:14:00Z
-    webUrl: "https://www.11alive.com/video/syndication/veuer/this-facial-recognition-program-can-tell-who-you-are-even-if-youre-wearing-a-mask/602-c6550d31-d5f5-41e7-b22e-4faec5bab6b0"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
+      name: Stuff.co.nz
+      domain: stuff.co.nz
     quality: 33
     images:
-      - url: "https://media.11alive.com/assets/VEUER/images/6688031b-cbcf-428d-891d-20bda669d7e6/6688031b-cbcf-428d-891d-20bda669d7e6_1140x641.jpeg"
-        width: 1140
-        height: 641
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/q/c/p/x/image.related.StuffLandscapeSixteenByNine.1420x800.4yqcw1.png/1610145520138.jpg"
+        width: 1420
+        height: 798
         isCached: true
-  - title: "Major facial-recognition supplier builds system to identify masked faces"
-    excerpt: "Facial-recognition supplier claims new system can accurately identify masked faces and therefore promote public health during the pandemic, but questions remain about whether its existing UK law enfor"
-    publishedDateTime: 2021-01-08T14:49:00Z
-    webUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces"
-    ampWebUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 23
 
 secured: "QfHC6VpwY8ysV40es4Gt6cC0h7mY6odXjGGQbGW/6NeEvzsrY5Rix9n//e2nuNI3W/whO8XVVU59rEdPZPO0XkY47kospsiYIAU6AHftI6QJ1XZyMlX2MDXNaxIxTjQwe972UvzSaETqAakdri3cMaDnw954BCsUmqcGbAGobGytBHnp3LBVO21SFlBJKQyKpzLHuAI7Y5OQkJpqoP7mKYgzLWtSjLl6BCVGI1wp7rDeVxGyMzsGNg7V++vP80x5Jpjoi0Vi3BegNrANnH8e3AxBG+L+kexwe3O7WELCUEdQBMaX2g4E/c43SjWQcoKQXtk2jb9cDbucFqOBZg+HvLPblEvd18jyru7N5ZmqvJb27jy3o3rN8ddKIjYKsQBx+Qn89RX3orvpscANRi7+OSTsAGh3dFMzjkDbMl00gyqQWSMuaSwZuTRC/NhE/lrRzt/s4c2yoSlbva6D7jGJJGRIPa1xlMip/qo90Th6gIBV6LPAQQWestB+Tv5qApUo1Da0yGOzL0lfEat1anCHog==;O2QZl8Th8bxj5+UPMV2rfg=="
 ---

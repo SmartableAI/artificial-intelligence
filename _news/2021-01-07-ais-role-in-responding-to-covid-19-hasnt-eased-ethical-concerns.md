@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ais-role-responding-covid-19-hasnt-
 webUrl: "https://www.linkedin.com/pulse/ais-role-responding-covid-19-hasnt-eased-ethical-carrington-malin-/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1800
     height: 600
     isCached: true
-
-related:
-  - title: "New AI Tools Aim to Automate Aspects of Covid-19 Response"
-    excerpt: "Hyro Inc., a company that makes plug-and-play conversational artificial-intelligence software, has developed an AI-powered virtual assistant designed to lessen the load of incoming calls for vaccination information and scheduling queries handled by call ..."
-    publishedDateTime: 2021-01-06T05:53:00Z
-    webUrl: "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 167
-    images:
-      - url: "https://images.wsj.net/im-281112/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "DFcvYHMbN0crni81S8cKY5d5AyzJVdjXQTNre7NuSn9RexdQ616iwbZf6eD2TxN/DsGGyHRkbK736vc9DhBmqsN6/ZHyXYc+SF4ie2c0zgySE3iFsfKvJfRP+3okgd242OunUdFrENqAXrYZc8k7CSq0+XyUv3ECP+nA7FcqvQUGE97PUXjJZiGme9e5Y7eQdgl/5L7A049W00ZrOk/nl/v/xL//VDmAojdWctxK8LS2O4BaKb/WXI/gnlBaMiqMkXZNXAQGgF251Jjfu5nlQPFxCLygKALlaw292QX2WQMVOTauj4p+yD/J/hKM1Y4EUt1ruRZoU+Susq7/GyImfqYohrEXXWstYj3EIQSJbCYYvschuEj9PbCRQ2T9LCMzbmdwTq8JdOAwhXdLOtZben5NiT17qHv6JdNAhKsJyI5CVo4gbvG3A+ksyR+k6MewPuOGvx3126Fra9l8HoYtjToraPiTDo7xuTV+BuoSyPQ5+mPHXCLsvfHdqCry6/+tvFrI2Nzw/17TPKUhMaCNrg==;OxLHXy+gH79VD34mALrCiA=="
 ---

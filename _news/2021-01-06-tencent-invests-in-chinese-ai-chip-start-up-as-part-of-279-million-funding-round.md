@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-ch
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-chip-unicorn-horizon-gets-usd400-million-in-new-funding-round-led-by-catl-others/10520200526954496.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Tencent backed self-driving software startup Oxbotica in a $47 million funding round after seeing this pitch deck"
+    excerpt: "The University of Oxford spin-out was also backed by BGF and BP Ventures."
+    publishedDateTime: 2021-01-07T11:59:00Z
+    webUrl: "https://www.businessinsider.com/tencent-oxbotica-technology-startup-pitch-deck-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/5ff6dd7a6d61c10019cce15a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Sequoia, Tencent join the $190m series C and D rounds of Chinese HR startup"
     excerpt: "The latest investment comes after WorkTrans raised US$23 million in a series B1 round from Qiming Venture Partners and Lightspeed China Partners in 2018."

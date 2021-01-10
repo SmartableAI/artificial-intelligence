@@ -8,8 +8,8 @@ webUrl: "https://scienceblog.com/520409/neural-networks-playing-video-games-teac
 ampWebUrl: "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/amp/"
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/amp/"
 type: article
-quality: 74
-heat: 104
+quality: 76
+heat: 106
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scienceblog.com/wp-content/uploads/2021/01/AI-VideoGames-03-WEB.width-600.jpg"

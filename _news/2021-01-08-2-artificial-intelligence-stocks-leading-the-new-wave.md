@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-lea
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "How AI Is Helping New Startups Succeed"
+    excerpt: "Artificial intelligence or AI is beginning to have a large impact on businesses of all sizes. Startup businesses are also taking part in the AI revolution. The importance of AI in today’s business world cannot be overstated."
+    publishedDateTime: 2021-01-10T21:57:00Z
+    webUrl: "https://www.smartdatacollective.com/how-ai-is-helping-new-startups-succeed/"
+    ampWebUrl: "https://www.smartdatacollective.com/how-ai-is-helping-new-startups-succeed/amp/"
+    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-ai-is-helping-new-startups-succeed/amp/"
+    type: article
+    provider:
+      name: SmartData Collective
+      domain: smartdatacollective.com
+    quality: 59
+    images:
+      - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/05/image-from-rawpixel-id-1199041-jpeg.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "DcodeAI, an AI-focused EdTech startup launches new AI learning platform for students"
     excerpt: "It aims to democratize AI learning among primary and secondary level students across 10,000+ schools that are currently part of its network."
     publishedDateTime: 2021-01-07T08:23:00Z

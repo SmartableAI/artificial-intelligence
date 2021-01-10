@@ -2,17 +2,17 @@
 category: news
 title: "Rafael combines technologies to give combat robots a ‘brain’ to map threats indoors"
 excerpt: "A robotic four-legged dog and a small drone infiltrated and mapped a building in an Israeli coastal community recently as part of Rafael Advanced Defense Systems demonstration of new technological capabilities for indoor battlefields."
-publishedDateTime: 2021-01-06T19:48:00Z
-originalUrl: "https://www.federaltimes.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
-webUrl: "https://www.federaltimes.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
+publishedDateTime: 2021-01-06T22:15:00Z
+originalUrl: "https://www.defensenews.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
+webUrl: "https://www.defensenews.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: Federal Times
-  domain: federaltimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "NgdikZBNHY/bdeEfP9NvYiQVQ620ZebnBcWdoIrPqhniZmQK3GM+Sivx7rz/+fMm9qu0fuy4IE9CKQQ93aOYrqYFjClxj7QOVPnOi44ceiPGaHfawd/XQpsH6lMrtfnB7d/8hUlDs/gzCtHi2LY+rxtCnqVZtwatuZ8hEG/EDdmg6737QDV3iM+eCvImptL8H0RpY5estg6szD0PJFuxYgm3WgXVeDSzHJOiD3Fr21bknnKYmFQeA24YJaBi+/9lg2Sh+69THOOmCUq/yJQOr5pBvH/M8wlpbvZWHZIDMxL+omDbuG35uAIKxs3oVODVcL9QI5GBK9PruZqsoRakH7E3sCvKHpqDsnkih3awpTFZPnI/aJnYFey20RgXAOQihVZqO/blTp82GD5LlYedcwLDVn3JQj96rlK3BOAQpMqpCh3H2aaRtuoB5xbHNBREK9tNUSCebsKEPzDNLuRjygn0E4246Jo/4HrCQ/6h2ZMHgiTm11Xv4mhOKZPgrAY7dsEDNfyyCM3IFRRl1+TJ/g==;AWFj3J+F2R3lhUvKMgu1GQ=="
+secured: "pBhXolG7bDbL8B+CpJsVO/FLQiiI56klQzYsxiX0yaz1nJQCpTokgvYzzR/QwIeUv4ct6cJry026VF1kMiXGuEzLqXV9QWK6J8+MjOHtB4mOg8EaUW8DRjvyT1SlFLV0nGPOxsaC+k51d5QJlTJc8iOB9WuC6nbNg0LJMYO+1u8vbl/bxpyGxtRpnLK0iKplmurCpQLdjhgwcDm2wPPxbq2CFcTme26hwFsp4Tw+dHW5O4ygmtxv/CzEF2cI4XfKkAzrWVqdxGaTCFTgL2oAb/OBG7lrLeRKxqzacBE6wbIYF+E/z6wp0ljvuzniyMnytO8EjzARqS4gZIeM5PDIqA+cGcWifLTVwLOk089OCUs=;cZo9X6CDZc6kgQ09f0eiAw=="
 ---
 

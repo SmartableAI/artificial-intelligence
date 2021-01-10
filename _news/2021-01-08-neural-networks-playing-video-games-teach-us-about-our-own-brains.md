@@ -35,7 +35,7 @@ related:
     provider:
       name: ScienceBlog
       domain: scienceblog.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://scienceblog.com/wp-content/uploads/2021/01/AI-VideoGames-03-WEB.width-600.jpg"
         width: 600

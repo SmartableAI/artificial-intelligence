@@ -68,6 +68,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Tencent backed self-driving software startup Oxbotica in a $47 million funding round after seeing this pitch deck"
+    excerpt: "The University of Oxford spin-out was also backed by BGF and BP Ventures."
+    publishedDateTime: 2021-01-07T11:59:00Z
+    webUrl: "https://www.businessinsider.com/tencent-oxbotica-technology-startup-pitch-deck-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/5ff6dd7a6d61c10019cce15a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "1HKB/nwyET0vMOH/GdHwHGTKbJiyEmlLG12R9cyTaxg1LySjW6PKFmyTvSMjlrbv0nvFawVL4t6rebzxKum32MdKVJ4BKBtfzZN57YoeZqaCDVGjVDW+P5RFcdHKZbJ/HxKFPS4kiPurvRQObaIZESbIJ/kI/7w5MslTfvlifSqsjP9gWEG8YGawBu1SiV5ncs5l3fwAj+qd1MLXh16GapMKkqR0cIMFnfkqd386VWQSWwnMCvWFOe981hbleifgg8dX2bCsIM8XYQbmfthKu8YtWwOAmdObBlGwndpzjb5HXpmilDF321qCd60NxAUFXzMo8NCn3Trf1TcMOX8Uma59bxlCYu2kOQ/S3xBdnmljZnbmKUAreohosA7LJDdOZ8gVwvBdRGw9QWEjNuRUReC2/VDNN0T0mhHoQrKDlV12w7mjEtQGW18lZNFxWt7mnZ8Sb6AlBDNCYAYDFJPKpiZGcJvQnS3xXtNeA3LOVhisOWlklBmttRHYrt9/JZdcRPRi+g3ftb2RUiGLOyuQcQ==;e2mTA8UldsARpPttKGOo9g=="
 ---

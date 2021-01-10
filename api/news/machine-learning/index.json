@@ -10,7 +10,7 @@
       "originalUrl": "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {

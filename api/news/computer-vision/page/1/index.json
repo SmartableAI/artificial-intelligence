@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-10-the-facial-recognition-app-clearview-sees-a-spike-in-use-after-capitol-attack.md",
-      "title": "The facial-recognition app Clearview sees a spike in use after Capitol attack.",
-      "excerpt": "After the Capitol riot, Clearview AI, a facial-recognition app used by law enforcement, has seen a spike in use, said the company’s chief executive, Hoan Ton-That. “There was a 26 percent increase of searches over our usual weekday search volume,",
+      "path": "_news/2021-01-11-police-use-of-clearview-ais-facial-recognition-tech-spiked-after-capitol-raid.md",
+      "title": "Police Use of Clearview AI's Facial Recognition Tech Spiked After Capitol Raid",
+      "excerpt": "Clearview AI’s controversial facial-recognition app has seen a spike in use as police track down the pro-Trump insurgents who descended on the Capitol on Wednesday. With so many of those idiots snapping selfies and livestreaming the raid as if it was a school field trip,",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/09/technology/facial-recognition-clearview-capitol.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/09/technology/facial-recognition-clearview-capitol.html",
+      "webUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687",
+      "originalUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 190,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/01/09/us/09transition-briefing-clearview/09transition-briefing-TK2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lk5ifyehxrqpzqqo03oe.jpg",
+          "width": 800,
+          "height": 449,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/09/technology/facial-recognition-clearview-capitol.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/technology/facial-recognition-clearview-capitol.amp.html",
-      "publishedDateTime": "2021-01-09T09:42:00-08:00",
+      "ampWebUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp",
+      "publishedDateTime": "2021-01-10T14:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-09-how-far-can-facial-recognition-go-in-finding-rioters-in-dc.md",
-      "title": "How far can facial recognition go in finding rioters in DC?",
-      "excerpt": "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case.",
+      "path": "_news/2021-01-10-neural-networks-playing-video-games-teach-us-about-our-own-brains.md",
+      "title": "Neural Networks Playing Video Games Teach Us About Our Own Brains",
+      "excerpt": "When you are driving a car, your brain is taking in an enormous amount of visual information and using it to make driving decisions, such as when to brake",
       "sourceUrl": null,
-      "webUrl": "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "originalUrl": "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "webUrl": "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/",
+      "originalUrl": "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wcnc.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
+          "url": "https://scienceblog.com/wp-content/uploads/2021/01/AI-VideoGames-03-WEB.width-600.jpg",
+          "width": 600,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "cdnAmpWebUrl": "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "publishedDateTime": "2021-01-08T20:47:00-08:00",
+      "ampWebUrl": "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/amp/",
+      "publishedDateTime": "2021-01-10T06:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WCNC",
-        "domain": "wcnc.com",
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,8 +92,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -203,6 +204,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-a-facial-recognition-company-says-that-viral-washington-times-antifa-story-is-false.md",
+      "title": "A Facial Recognition Company Says That Viral Washington Times “Antifa” Story Is False",
+      "excerpt": "Matt Gaetz had cited the story in Congress as supposed evidence that antifa was involved in the Capitol assault. But the company says it’s “outright false.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/craigsilverman/facial-recognition-antifa-washington-times-false",
+      "originalUrl": "https://www.buzzfeednews.com/article/craigsilverman/facial-recognition-antifa-washington-times-false",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-01/7/15/asset/4b24ac414e7e/sub-buzz-13891-1610033744-11.jpg?output-quality=auto&output-format=auto&downsize=640:*",
+          "width": 640,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false",
+      "publishedDateTime": "2021-01-07T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-seoul-robotics-a-3d-vision-of-the-future.md",
       "title": "Seoul Robotics: A 3D Vision Of The Future",
       "excerpt": "Seoul Robotics leverages LiDAR 3D vision to make robots intelligent and enable autonomous systems from smart cities to smart factories",
@@ -256,102 +309,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-facial-recognition-identifies-people-wearing-masks.md",
-      "title": "Facial recognition identifies people wearing masks",
-      "excerpt": "Japanese company NEC, which develops facial-recognition systems, has launched one that can identify people even when they are wearing masks. It hones in on parts of the face that are not covered up, such as the eyes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-55573802",
-      "originalUrl": "https://www.bbc.com/news/technology-55573802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 389,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_116381970_facemask.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-55573802",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55573802",
-      "publishedDateTime": "2021-01-07T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-facial-recognition-firm-claims-antifa-infiltrated-trump-protesters-who-stormed-capitol.md",
-      "title": "Facial recognition firm claims antifa infiltrated Trump protesters who stormed Capitol",
-      "excerpt": "A retired military officer told The Washington Times that the firm XRVision used its software to do facial recognition of protesters and matched ... Fox News cuts away from Donald Trump Jr. speech following profanities Violence, destruction halt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/",
-      "publishedDateTime": "2021-01-06T17:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-intel-is-using-its-realsense-tech-for-facial-recognition.md",
       "title": "Intel is using its RealSense tech for facial recognition",
       "excerpt": "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance.",
@@ -402,6 +359,58 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-facial-recognition-now-algorithms-can-see-through-face-masks.md",
+      "title": "Facial recognition: Now algorithms can see through face masks",
+      "excerpt": "The US Department of Homeland Security has carried out trials to test whether facial recognition algorithms could correctly identify masked individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "originalUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "publishedDateTime": "2021-01-06T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {

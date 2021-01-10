@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup"
-    excerpt: "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips."
-    publishedDateTime: 2021-01-06T05:31:00Z
-    webUrl: "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 94
   - title: "In a sign of AI’s fundamental impact on computing, legendary chip designer Keller joins startup Tenstorrent"
     excerpt: "In a sign of the profound changes being wrought in computing by artificial intelligence, Toronto-based AI chip startup Tenstorrent on Wednesday announced it has hired legendary chip designer Jim Keller to be its chief technology officer. Keller most ..."
     publishedDateTime: 2021-01-06T20:42:00Z

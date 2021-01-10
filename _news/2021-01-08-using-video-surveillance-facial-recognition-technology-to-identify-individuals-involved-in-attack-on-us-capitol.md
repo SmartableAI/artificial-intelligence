@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2222088/using-video-surveillance-facial-r
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222088/using-video-surveillance-facial-recognition-technology"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "How Covid-19 has influenced the adoption of facial recognition technologies?"
-    excerpt: "The COVID-19 pandemic additionally leads to facial recognition systems, joined with other biometric procedures. As it's expected digitization and digitalization will grow in a few territories, some definitely will see expanding utilization of facial recognition technologies."
-    publishedDateTime: 2021-01-06T06:57:00Z
-    webUrl: "https://www.analyticsinsight.net/covid-19-pandemic-is-encouraging-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 36
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/facial-recognition.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "Uaigiy9RUp4luaJsUJ+NwOrcM1AKJVunsKH6Xj8fdIel+9zcbN7q7UcrwLZi+LYiZzoz3U4bNW3w4Z61w+kg1g54tjSCqcqAonjv/R5KsskZUXfJsKxKGuNbkmCYmpGklBU89aG8+kNv1tGsdxoBSWQOeaQ2dNJxK6v3gg0CZAozan8VW9oPhb0JavJ0cYgiRAuN574HAxO1cZsdetFG1W3lN70cd34isEUde5EX73c3PqtFum0X8CSRoVX4E8BrGt7hks4VlU/7Ks3086+6N/P6Ss5Bc2ayMh0/Vt0ciOLBtaLSPQkN86/avbd/1APs/WA+6nlUi87pYqsxEXvDLPYYtVTGJIa1rmEN7z7HMBs=;a46xBBJMoRxeev+ZN8KKng=="
 ---

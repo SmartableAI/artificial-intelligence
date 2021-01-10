@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamenta
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 136
+published: true
 
 provider:
   name: ZDNet
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup"
-    excerpt: "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips."
-    publishedDateTime: 2021-01-06T05:31:00Z
-    webUrl: "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 94
   - title: "Intel-Apple-AMD-Tesla Chip Architect Jim Keller Joins AI Startup Tenstorrent"
     excerpt: "Jim Keller, one of the leading names in HPC, AI and data center chip architecture, has landed at a Toronto hardware startup developing AI chips after a two-year stint at Intel that ended “for personal reasons,” according to the company, last June."
     publishedDateTime: 2021-01-06T19:52:00Z

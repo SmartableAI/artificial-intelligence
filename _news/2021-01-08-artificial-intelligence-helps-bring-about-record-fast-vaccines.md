@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-08T10:32:00Z
 originalUrl: "https://www.swissinfo.ch/eng/business/artificial-intelligence-helps-bring-about-record-fast-vaccines/46256752"
 webUrl: "https://www.swissinfo.ch/eng/business/artificial-intelligence-helps-bring-about-record-fast-vaccines/46256752"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://www.swissinfo.ch/resource/image/46243338/landscape_ratio16x9/1920/1080/45103c8981b71c84e59be8b841241571/7B84FFDB83B64E7473851EC8D3E37FA1/227505803_highres.jpg"

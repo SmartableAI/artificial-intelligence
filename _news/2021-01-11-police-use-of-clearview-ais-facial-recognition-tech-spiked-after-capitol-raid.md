@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Ann Arbor considering ban on police use of facial-recognition technology"
-excerpt: "Ann Arbor officials are considering a ban on police use of a facial-recognition technology. The issue came up this week as City Council reconsidered its recent approval of a $348,308 contract for new dashboard cameras for Ann Arbor Police Department vehicles."
-publishedDateTime: 2021-01-07T15:42:00Z
-originalUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html"
-webUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html"
-ampWebUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
+title: "Police Use of Clearview AI's Facial Recognition Tech Spiked After Capitol Raid"
+excerpt: "Clearview AI’s controversial facial-recognition app has seen a spike in use as police track down the pro-Trump insurgents who descended on the Capitol on Wednesday. With so many of those idiots snapping selfies and livestreaming the raid as if it was a school field trip,"
+publishedDateTime: 2021-01-10T22:40:00Z
+originalUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687"
+webUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687"
+ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 100
+heat: 190
+published: true
 
 provider:
-  name: MLive
-  domain: mlive.com
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LRAIIY7Z5REOPG7ZNW2XLR2YQY.jpg"
-    width: 3745
-    height: 2500
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lk5ifyehxrqpzqqo03oe.jpg"
+    width: 800
+    height: 449
     isCached: true
 
 related:
-  - title: "Police Use of Clearview AI's Facial Recognition Tech Spiked After Capitol Raid"
-    excerpt: "Clearview AI’s controversial facial-recognition app has seen a spike in use as police track down the pro-Trump insurgents who descended on the Capitol on Wednesday. With so many of those idiots snapping selfies and livestreaming the raid as if it was a school field trip,"
-    publishedDateTime: 2021-01-10T22:40:00Z
-    webUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687"
-    ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 100
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lk5ifyehxrqpzqqo03oe.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Facial recognition identifies people wearing masks"
     excerpt: "Japanese company NEC, which develops facial-recognition systems, has launched one that can identify people even when they are wearing masks. It hones in on parts of the face that are not covered up, such as the eyes,"
     publishedDateTime: 2021-01-07T12:05:00Z
@@ -121,6 +109,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Ann Arbor considering ban on police use of facial-recognition technology"
+    excerpt: "Ann Arbor officials are considering a ban on police use of a facial-recognition technology. The issue came up this week as City Council reconsidered its recent approval of a $348,308 contract for new dashboard cameras for Ann Arbor Police Department vehicles."
+    publishedDateTime: 2021-01-07T15:42:00Z
+    webUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html"
+    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 43
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LRAIIY7Z5REOPG7ZNW2XLR2YQY.jpg"
+        width: 3745
+        height: 2500
+        isCached: true
   - title: "Facial recognition technology to help identify U.S. Capitol rioters"
     excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."
     publishedDateTime: 2021-01-09T23:54:00Z
@@ -164,6 +168,6 @@ related:
         height: 798
         isCached: true
 
-secured: "5X0LcS87q6QLvja6WAtzzq78NqG188kpjn3SkAFOUaxLmVuU7nP7XtgOw8egOHmJdx5SJIalvYXrN0jDebidATBHqvjeriz63ob8KgAjwDyqIDj+wfHeo7+SDyyeKZieV0PnIK12R/7sxhoGMi2nHZADHgt7R6dmstEzqPNLU+7GC+mf6i51GbQfoWbPWnxHjykpxZHZS8+VFLr+xA9fc4fcC4MbXfTEJd7iH8mVShJoePorQJz7sesH1IxbFm+WMoexUp3I6BEo6yCP5UDjLK3BRT9r+3mT4YrSIZ59IS1pj9uNeBDt/c4+cVbJao4L9euGSEvDPzZR3eQwh25vzqnkHD7Xvu4HF+c/hMjqBUGuO5GVg2hlcWv11qr7imSzyd1SwBw6Hgk4nEF0kHcetI4v7vhHkNLvkeUJ8LphxyARlEQqPjv+l89K8Hy9V5H+6cAxruIWDqZcG7/mMLjpoHeIFZLUy1haXoWk+eclDy50QGDz9Wgfw6SKx2LUn/wCCOBuMMq0KptksQmxuxJu2w==;CDM7IR9i9HqMBx2Vj6y4hA=="
+secured: "xEiPpG3o8PyspAoYDmGTWKSncMQIfO0CexxoSuRCM1O+L1xkphP2OTTpHOO/wu9MeQycE7v4DOMu6KajtnOc3PK3fF5SNCVs6KU9iCT+MbhhVeObmXnkjsIgtSuZeKdS8E+E3DhpekQJySCj3iZuLDHffJzNBYrlSQksQJjGfphdYNxg6j/Q6vk0GuYhUJvgO3BRKVqaSk0J5Xcy0T6IDUxMxDBtRpwo8OrIPw1ec478DNxdrfgwK/oJ2DfO+WV+now9L7vL+aHiDTaWiVt8vS06YhBR7nCW9HOnk46x74Vvrg2+1jYY+FToqGP2OvYjuByWH3At2b9detVI9eoKMsCXSDh9uEr/1eeD5dpxt3g=;fXafqSJuVE9hSGFm9m1CyA=="
 ---
 

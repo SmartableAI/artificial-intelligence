@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla"
 type: article
 quality: 104
-heat: 314
+heat: 304
 published: true
 
 provider:
@@ -273,22 +273,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Why self-driving cars are still a distant dream for India"
-    excerpt: "Among several other problems, policy decision is just one of the many hurdles that self-driving cars must clear before zooming in to India"
-    publishedDateTime: 2021-01-06T05:27:00Z
-    webUrl: "https://www.dqindia.com/self-driving-cars-still-distant-dream-india/"
-    ampWebUrl: "https://www.dqindia.com/self-driving-cars-still-distant-dream-india/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/self-driving-cars-still-distant-dream-india/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/navigation-1048294_640.jpg"
-        width: 640
-        height: 406
         isCached: true
   - title: "Self-driving cars are dangerous in the wrong hands"
     excerpt: "We have long been promised that fully self-driving cars are about to take to our roads, but the technology remains out of reach. “It’s an extraordinary grind . . . a bigger challenge than launching a rocket and putting it in orbit around the Earth,"

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
-publishedDateTime: 2021-01-05T16:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
-webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
+excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
+publishedDateTime: 2021-01-06T06:03:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
+webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
-    width: 1460
-    height: 766
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "W5C44qGZ7DCho/8ZGB6ee+APwBMe+X1goaCUGLUhVbRKurHv24894P2b3hY3Ae7/n7Hdciywq54d5U3QCQ/cAih6yg+QGpYscTsrAO01EKbRRhUaWc9J421scpSOrzoSvg1chBp0YjVeQ+7wKcsWqrBRnGe3ri9qytT1Tzt6GNcY2XU1AdoWyK14VnY3ahEpdnZN91OosdDhtQenBGifHlidNhvqRv7f1epOFUpZG6lCLupamEqkFy1IQXZ+Ynse+meZO8DGKIzu+PJr0wPmc80tC0CdncYRWfutiXmjyB6PP582chtOUOG4pIDbPjGpJ1Q/bjSc3Rewp+5uf0/IB7vU8jLaUTytCioh89f6fbk=;wskXNi51cVBx11ttVDLFtw=="
+secured: "ifnuAwpGgQWrMoLD8G9fKJmnAU2AvdElaUKPkuCTdq2Xxf5AhVY6ipgykRCZD6nc7zenW1/WgmvTVFnzhzgOEvIHEaBbNFlZAT7Scrk7uOQezuPwbkPWm+OBIIhBpEuw0e9iUNi8LKh3fKOy9g8OYT7AE1pxlpmePlXtkQ8VpmYIJ+NJzfCgZzoYLg/4fXue8IYKrjnAlgBPtYzsh/q+Z9QEfdWSHE4Z3T8SxE+y/2VTYu8RA8NAKsqm79a04s6A5oNBiAv/1abLvAmTKmdsmE/s+aWI7ITQUVrEsrMHXsymtjPoIQ04+aQNUMyGhcvvp7OLjAvUnSQVMKE0wXc7A1btvbHIFbOztk33jXsOhF0=;JYdEhHBeTcGLNxEOitOHog=="
 ---
 

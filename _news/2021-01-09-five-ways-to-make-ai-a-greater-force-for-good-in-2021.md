@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-goo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
 type: article
 quality: 161
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/95hf94h48a1-620x250.png"
         width: 620
         height: 250
-        isCached: true
-  - title: "Conversational AI in 2021: 3 top trends to look out for"
-    excerpt: "AI space, fueled by a global pandemic that has necessitated a shift in how vendors, businesses and consumers view the technology. That’s not to say that business has been bad. Markets and Markets reports that the conversational AI market capped off the year at $4."
-    publishedDateTime: 2021-01-06T06:57:00Z
-    webUrl: "https://customerthink.com/conversational-ai-in-2021-3-top-trends-to-look-out-for/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/chatbot-3589528_1280-pixabay-service-ai.jpg"
-        width: 1280
-        height: 1106
         isCached: true
 
 secured: "Z7fYqiyONJQyrCp6AG9LqXPHsOzJtQs0JCIET9qiEuwXDUctu4F82ixqwjwV0+5A6XNTFKaicUG3Ppg4HKTyd74GAtwKGP5ubCbXR6Ut4NWf2ub4MBl+RLtdJsXvojC35qOpi5+NnGQPYWBGXwAuMIjkQ1VZKpABO43SOfWY/4IWLqEdKj1FB3DE2/AH1xc5lGdKojXtAlZvz4T2pvzmjxdAjfZLCFlaKJE7CSpCcEWcL0riP2bSmMlTspt3cYucJZWiicPwpyNE5PEtP2ip1RfDopRuKRHQ0FSvj363HOtH0qBmyk/so7SQAwoT5UZP5dR6sZi6b8Gt55AFYr0f1dQIs8m9WKdSqMtOBXmKyHSX5HMIB9aeZR4nVOcK9Yj0HqQmXGbOU1HC7PQoxP4FE4ghzKmcV6junJ3l8sHx/6Zeof7TWYBA8Cy94KZdo2/oVhL3JDhCkyclW7U4krD8UodQJdepfGJ7+zuiQTOPaCUasukTxxpAsbK0hBhiDPQ84MNrQGSpqvJCB5f4mRHKQYcBJyn8JwLWBvzCbcA+TM8=;4LrWu0u6ktl/FeBT5NLLDA=="
