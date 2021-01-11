@@ -3,7 +3,7 @@ name: "Vishal Sikka"
 bio: "Vishal Sikka is the Founder and CEO of Vianai, a startup based in the San Francisco Bay Area that provides advanced technological software and services in Artificial Intelligence and Machine Learning to large companies around the world."
 location: Palo Alto, CA
 type: "profile"
-heat: 0
+heat: 18
 
 affiliation:
   name: Vianai
@@ -12,7 +12,7 @@ affiliation:
 twitter:
   username: vsikka
   url: https://twitter.com/vsikka
-  followers: 248684
+  followers: 248685
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Vishal_Sikka
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Vishal Sikka"
 
-secured: "yWXZKwwZc5+NqKP0V1tpoHjQULExH/RywyT4GX5w9IaZ5et5wANxUnZImWrJLX5TIkyXlBHUFMd/+G0BK5dKpFxhIjW+2XeTU1rXYSDuK2fYyP14mqoL+SqATavz5VcXTIdIkhW2KzqZZlhKB//DyD1THBoNY3+UvAZ0pedQlGBhheqYi1QR6O2sFgvhWKy4Lb0txztWs8HLB3T8XvDsfEQxDeN/VAAy/vLTNqQQerg+iOpoOVnTrHnQFgM3yh2XTvUYaTAfdiN2edBN++SyYm/zKNlfJLpLDn50xm/yDcL7gbeFy7Vnrbxp2LaJFgvW7vYY42LObg7aGVrQZmVLEQPWXAdHUyvyKpQbfTgqKKce8kQox7EG+ebTjQdZRtLfqLrUFm6MXZc9EGOEBa1xOLkBaQm7PFlKK7pAIQ1vBfI=;RvphKnbqkJaMRmtsyITvvQ=="
+secured: "JO5dBmZ9o2qcytGq+Zc8WDG+FdD1e6IKgPVpRMQ0oJMouIssPFvvPjw+7axiAQP474PpGRSYZZrSCCfUTb8Y+V/ZpM6kZ18U/dc+91AyxZR6P48TO2fqPO3PVxJpO6wzisUxwdRtf6u/6Lx0IwCG+zROb2BVg1tp59XDTKVoWNPa3dVLYI4oUBXiFKs1V5aZHkTRjB9Io2Fs6O5gT98jJ2WyX6JjlXtIK/2npYHEPA1y3sgCTa7OSzz2wXl5GUImAw8+c/8tl2NfmC3EpbMfLNPE+GWWaVnKByn7OqJqJKyBHJa3OwlRqoUFyPzxd5/58gXDZ6l4CbWfijS9R0CctMFDo3iwvYKnOTudeSu6ZV6oBUxGEsMGuxtonQCs/3LPKeQHiZsKl0E69a+obuwjbux32fUBvu33JQS4HZnVafg=;8rTQ8Gd4i9cIN/2iyDrTFw=="
 ---
 

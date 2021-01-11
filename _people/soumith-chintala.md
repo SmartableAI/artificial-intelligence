@@ -14,7 +14,7 @@ website: https://soumith.ch/
 twitter:
   username: soumithchintala
   url: https://twitter.com/soumithchintala
-  followers: 84576
+  followers: 84574
 
 linkedin:
   url: https://www.linkedin.com/in/soumith
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Soumith Chintala"
 
-secured: "JH5kY4fxrbl0oT90tgtpEDRg2UhRwcTp/TYNVP8WoaYCDP1sUoEj2KWI6EbQ8M6aEM2S+yxzEOVFPtCr4HNezsNrofffaBzlD9a+kC6athmEpw3Sre8SdvChrBonl7JPMI3x3HA14miqiKL5xcusdqZxV0eS/83tzcryxrLoDzxZPa5pNK0ZasfYovwdgwvPIEUp82r9wkYWnlT1yrwBqZWzHXLdxuw7DgcmTa2oM8iiXxJv9jntGGAzkyR2ms3VVpIG34L+2TJ3JHZ3mn1SJJT1V0DtzJ1YImB9LUCsv3sltHQqPcaM35wu6t0SQFOyJ1W7CUDAgKqeaOml4iy4euO2bhHTc/wC8jAaxuhii2cTWiv90DzPzNSdFKjDh3n1wjFtf+Au61LZ3Je+copYMEi+0Nmm7UgQUzw0RUoLfLM=;A1LjyjJoXisCEs71o2HX8Q=="
+secured: "wgsZV81zRSBiaO2Z5E5v7+9bPQI/ZytguG9GHT87YKtPhWbnHjciJ0tjhzSigcjXmRx/sOmcJIEp4i0FQ3RGNkIWNW405sVkcdR271QoiBSpeyvYWARtLjaaAOm9R4+drGajJpBHLAnuzYw58ToAU5lCyfQrHuV9hUISQGkI2rKWd7YQVaKkCABLc9QcHlw46phmgxev+YMWTaVHmbcUPM50cppkljrd7UVJj0O9KEu9OBNH0HZ59WCnFqpNYYQzZ6tf6W1EwKU2Zg2D1QxxXGk6K2we+DaJemGVX8GoIQtU4qaF/bavPN6S+AcN7EJCOsh8rnxYgqOxlPis1fv4NrKuxdqkaITbKWvbQX45nnaF9qyXJ9WwLUvKMGWpV1m6TVPsh+AfOlST9MtV87nZzTC8dgdlOKDjzIqrlMF6A9U=;fCzCENuApSGCE2TNT75uSg=="
 ---
 
