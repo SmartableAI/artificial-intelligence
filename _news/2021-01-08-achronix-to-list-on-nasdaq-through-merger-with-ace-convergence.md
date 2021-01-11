@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Achronix to List on Nasdaq Through Merger with ACE Convergence"
+    excerpt: "Achronix Semiconductor Corporation, a leader in high-performance field-programmable gate arrays (FPGAs) and embedded"
+    publishedDateTime: 2021-01-11T16:35:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/achronix-to-list-on-nasdaq-through-merger-with-ace-convergence/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 24
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_sequence_coronavirus-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Achronix to List on Nasdaq Through Merger With ACE Convergence"
     excerpt: "Achronix Semiconductor Corporation, a leader in high-performance field-programmable gate arrays (FPGAs) and embedded FPGA (eFPGA) IP, and ACE Convergence Acquisition Corp. (ACE) (Nasdaq: ACEV), a special-purpose acquisition company,"
     publishedDateTime: 2021-01-07T15:41:00Z

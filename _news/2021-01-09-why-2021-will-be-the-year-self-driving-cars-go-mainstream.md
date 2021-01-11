@@ -7,7 +7,7 @@ originalUrl: "https://www.kabc.com/news/why-2021-will-be-the-year-self-driving-c
 webUrl: "https://www.kabc.com/news/why-2021-will-be-the-year-self-driving-cars-go-mainstream/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Apple's self-driving electric vehicle is at least five years away, engineers say"
-    excerpt: "It looks like #Apple has been working in earnest on its self-driving electric car project, but insiders say it'll be several years before it can challenge #Tesla, #LucidMotors, #GM and other carmakers."
-    publishedDateTime: 2021-01-08T12:32:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/01/08/apple-self-driving-car-five-years-away.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/01/08/apple-self-driving-car-five-years-away.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/01/08/apple-self-driving-car-five-years-away.amp.html"
+  - title: "Robotaxis and Self-Driving Cars Are Coming. This Company Will Be the Brains Behind Them."
+    excerpt: "Aptiv unveiled new technology that makes robotaxis and consumer autonomous-car models feasible. It supplies Tesla and other auto makers."
+    publishedDateTime: 2021-01-11T16:39:00Z
+    webUrl: "https://www.barrons.com/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
+    ampWebUrl: "https://www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: Barron's
+      domain: barrons.com
+    quality: 50
+    images:
+      - url: "https://images.barrons.com/im-283368/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "BpRZjEpLxx78SQmgELEvTetfs9HBmsUceZPnasvRgD76FFeRQPrjQiDETleKAgNLcxaMvTr1WcxkHT1OhA12DaRgLWj1XGKqp2axQxhiUeHVl1O5yDakSKTrtwH26VH/gsHE2FcLYoKImKkphjc4oFJZJM1m6vHxYBuNKCGaRZCEp3F2B+EPr2md5MteWHXtO1FG17MDBJPgy3Y7zHTNlG08b4dQS7yh+aat+/aFAXCPIMahtA5FqxtP+EyhbJcu9yNHa9b1GHdTLO+/9up+T6MSngqNjUXMff+NngRzxP/qwPfOjsfhhOB+pvTD1yQKrA+lQMaS5D1iMn1e5xFnS6fFY1MSvIxi6T16ZeTXWYg4mzVCmkx7Jie+dMYmNzkz8Qgn6sGyZd5KKGUDQlPbwptIqguy3RzbHWRJ9i30LfVmCN/LH6uEuoT0A9OLRrEK7ugBKx1izUcSuR3AReEKEAPqah8XFvbizb69eRe+Go1K2DddrN6VpNO6yspnu201wIRvRyXaa4B8fhEvp2FVSQ==;Fm2N2pUmSKa2V3SeECZaFg=="
 ---

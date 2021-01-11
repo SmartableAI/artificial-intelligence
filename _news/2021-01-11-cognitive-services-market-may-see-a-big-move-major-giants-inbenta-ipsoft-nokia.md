@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2223026/cognitive-services-market-may-see-a
 ampWebUrl: "https://www.openpr.com/amp/2223026/cognitive-services-market-may-see-a-big-move-major-giants"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2223026/cognitive-services-market-may-see-a-big-move-major-giants"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Finance
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.openpr.com/U/1/U111594928_g.jpg"

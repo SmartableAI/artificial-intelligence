@@ -1,28 +1,32 @@
 ---
 category: news
-title: "This AI-Enabled, 56-Inch Touchscreen Will Be in Mercedes' New Electric Car—Take a Look"
-excerpt: "The Mercedes “Hyperscreen” incorporates multiple displays within one sheet of curved glass that extends completely from one side of the vehicle to the other."
-publishedDateTime: 2021-01-10T15:31:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
+title: "This AI-enabled, 56-inch touchscreen will be in Mercedes' new electric car—take a look"
+excerpt: "The Mercedes \"Hyperscreen\" incorporates multiple displays within one sheet of curved glass that extends completely from one side of the vehicle to the other."
+publishedDateTime: 2021-01-10T13:00:00Z
+originalUrl: "https://www.cnbc.com/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
+webUrl: "https://www.cnbc.com/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
+ampWebUrl: "https://www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
 type: article
-quality: 49
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2021/01/106124705-1568233045516gettyimages-1167204689.jpeg?resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://image.cnbcfm.com/api/v1/image/106124705-1568233045516gettyimages-1167204689.jpeg?v=1610137376"
+    width: 3010
+    height: 1781
     isCached: true
 
 related:
@@ -57,6 +61,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IzwgW+zHktWGAkxFzeN+3CWNGnBEu1ocG1W0e4Ffpv9jADJkSpGBbyB99lmI7oI+MM7N9NSkUelB1xYqtSxsl70EWMdWnllJg1V1lQKXKltGwSJRc9cuQi1x13OjQT1iaWmqK2LZPymgX9GH7WcZLlRevK7gvdqNFVvf8z386vq3xY5wSUnx/Zq4u7D/FGM12Y+Qi5Xw7hxNBON4h1M7uEVktwqtjy69X/YQPZvwo1QrEI/emRViC0KTdr069wsV28KGdtAoIUPENp0Zew6/uTWq1b59oENdsx/v7tOf1X0QV8aGprZa5ZXT1uc66MP7XcEx6l/guZA9abFhdREA24f3FVseB43JfrJ+XEtoDG0=;PI0kkt9GzvayyMJx1ufFuQ=="
+secured: "b6ANG24+u3T23VZzY+ga6399LV/izuwBidgVVmXN7WFQmC3NWUmY4D/QH+grU9mgOeGj3QoB5jEDVr+QjuhR0ZaolGq6eKYKcy2VGZLNFpI9LnS97sOSbWCEyjLdj2a79SUHxnDqMSbnY/XyvUh+Scd9YurI50Ht2i1GYu5Jo4hhVgthzmK0MxTfL2J22JJ8RM2q+GJkq7m5yJBseNBG1jh73zeRrJeJG322218NXHffCnheFjqfRqVib/UhNYMFaDB/OyTJFu0qNrx6lszO0Ulfnw8P0xKdkXg/i95EUZjZWLWMcQ7Ag+RKThk51LoEEtiA0lnGMc4+9x4yBGEJGi5gqNtTOEDQx+5VtHgJlsg=;ELROqVGCyXDrrNYzQHnhcg=="
 ---
 

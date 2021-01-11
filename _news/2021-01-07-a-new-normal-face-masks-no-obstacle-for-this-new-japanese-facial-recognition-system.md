@@ -167,6 +167,22 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "This facial recognition system can identify people who are wearing masks"
+    excerpt: "For this reason, the NEC company has been working for some time to develop a facial recognition system that can identify people even if they are wearing masks. Mission accomplished. The Japanese company has been marketing its mask-proof face recognition system,"
+    publishedDateTime: 2021-01-11T14:43:00Z
+    webUrl: "https://galusaustralis.com/2021/01/1047366/this-facial-recognition-system-can-identify-people-who-are-wearing-masks/"
+    ampWebUrl: "https://galusaustralis.com/2021/01/1047366/this-facial-recognition-system-can-identify-people-who-are-wearing-masks/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047366/this-facial-recognition-system-can-identify-people-who-are-wearing-masks/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 58
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/01/coro-usa-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Intel’s RealSense Finds A New Lease On Life As A Facial Recognition System"
     excerpt: "Intel debuted its RealSense depth-sensing technology several years ago where it made its way onto devices like laptops. Thanks to the use of"
     publishedDateTime: 2021-01-07T14:01:00Z

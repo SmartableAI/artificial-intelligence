@@ -5,6 +5,8 @@ excerpt: "Machine learning, a form of artificial intelligence, can predict which
 publishedDateTime: 2020-12-22T15:32:00Z
 originalUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-gestational-diabetes-chinese.html"
 webUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-gestational-diabetes-chinese.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-gestational-diabetes-chinese.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-gestational-diabetes-chinese.amp"
 type: article
 quality: 37
 heat: -1
@@ -16,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-pregnancy.jpg"

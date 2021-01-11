@@ -87,6 +87,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "First online CES tech event lures fewer Chinese participants"
+    excerpt: "The first online-only CES will kick off on Monday, with tech executives and industry experts participating remotely from around the world, instead of shaking hands in Las Vegas. The annual four-day conference -- formerly known as the Consumer Electronics Show -- will enter its 54th year with no physical presence due to the COVID-19 pandemic."
+    publishedDateTime: 2021-01-11T09:10:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/First-online-CES-tech-event-lures-fewer-Chinese-participants"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F0%252F8%252F5%252F18775800-1-eng-GB%252FRTS29K38.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
     excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
     publishedDateTime: 2021-01-10T22:22:00Z
@@ -111,6 +125,6 @@ related:
         height: 1262
         isCached: true
 
-secured: "5lqHJmaK9VfOyRv03Yw8rQzzDjNW39+/5mWSR/Pri4+Ay+h4S/ih8lNVMFCapNv4spjEsyHH5XXh2eE2QT3EZ129htyd7Lfzi4+je2bSTn8LrDXZsmbchUnBHYkjr2icYfE9NL7HBkIYE76+B/xDEUAtYM6iVqS+0LSfrxUHQAtKbfUiB9ORgFFG6dRWMDqCBSJwy4nOe4vgFUU6ZWJxvQ534bQytiuGV1HZVnNGYl6Gjf+3Wbs0p7pa9U21jsg8mrUnGy/DkG95NQDkZ1S+Z41p58LCNmXEuLIy1tL7sgQWupdnM+uUsP5ws7SN1ToH8ttqLwB6KtB2uGh9aXNe9ZrbRjg/3v5YrbzCTVjbeqU=;6yTST08mL2SbTHvEVUe5tg=="
+secured: "gPkvpNFl3Hqv4B0t7/YSXJn13fmOourwGAL6CYOw/JnPpVbcb//80u3xp8k6tOej7JdymuHp03bGOSeyIx5hw/9MdfpziC9nWesPDaSghIfAYosmp0D04vADOhCWUK3EeYBhk0pkPNJpjbqYPv89f0vrFykwTBYPtihN0eLg7CI5WR4377nszywhJ6Vi6J7/Q6i9Q01tLkPsh4Js1Gr2wTh3neMedRMjsrZqOuDnomMSuFveTijbWFXu3zv1PKZVN9p1++vDvMIDAOxhNJCvyFTbbm4+RgLznL8WL/px2l3bzG7upQmUpiDsvj6ZPMDISjoXO8B6e10EfwWgZhxHB+HqtMgVRU7I/am1w9fhzZ8XGlLIhoLzqm0cJuapnwlzYEiTGJu6hZFaktzrRI1Dp7F5auU7m6vUs6c0GfIevkp5nJBtjr58QFz4kGWP51L1AHY4f9w3i8vBGUXoe9iZZm7a75WbGCuASAFdt4l8mK4KWs9sw8Sc0+Km0C7pUzDrw49PueqsyXkp9vqTMYKxew==;7f7vrrc2jF8Mv8K4Q8FaDA=="
 ---
 

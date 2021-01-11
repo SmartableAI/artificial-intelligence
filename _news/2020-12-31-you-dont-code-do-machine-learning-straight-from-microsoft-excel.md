@@ -21,6 +21,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all"

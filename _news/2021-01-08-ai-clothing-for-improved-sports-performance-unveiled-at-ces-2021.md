@@ -56,6 +56,17 @@ related:
         width: 412
         height: 255
         isCached: true
+  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
+    excerpt: "Seoul/New Delhi, Jan 11 (IANS) Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show. Under the ..."
+    publishedDateTime: 2021-01-11T14:49:00Z
+    webUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
+    ampWebUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 56
   - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
     excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."
     publishedDateTime: 2021-01-11T13:27:00Z
@@ -81,18 +92,13 @@ related:
         isCached: true
   - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
     excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
-    publishedDateTime: 2021-01-11T14:55:00Z
-    webUrl: "https://www.lelezard.com/en/news-19593777.html"
+    publishedDateTime: 2021-01-11T08:43:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210111005733/grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 20
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "H6VmfnIFM2TZkZ+dwqBNymMfJtVXsUXD7Fr3NUYSNnYK1eZCAcHTJyrXu4VyUqQNH+18/5Ok+veWali0vjJm744G8Pxyfdc6yuV55vR1TkO2QC/dTEOMZpL5DeXKlPoouEtLfGpw5jYQIx/vPdqGnetRvrtO7JbdxaJZez7+wVpcvDXnBzlDNAC7sruNAUCQT0gxQdnmz5NuAinDJQ70WJCpnwZ3zgNyasX6bOQhbhNapH7xPy0S0993s0UMqWqUyIn6FuQx4gpV5K/xBfj+krhMOMP6R7chs85kg23hWQTvTpG+MhSZqzxu4G42jbY/YThIiZG0sbRbZH0hVMW9fN6uxnb4yZasHQO83yTHx8Y=;SW2+Of+jVivLeZTehGrYOg=="
 ---

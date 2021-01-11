@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-08T08:46:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-size-share-global-industry-covid-19-impact-trends-and-forecast-2020-2026-2021-01-08"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-size-share-global-industry-covid-19-impact-trends-and-forecast-2020-2026-2021-01-08"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -234,6 +235,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
+    excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
+    publishedDateTime: 2021-01-11T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19095932/global-vision-guided-robotics-market-forecast-2020-2027-covid-19-impact-and-analysis-by-component-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19095932"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19095932"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
   - title: "Robotic Vision Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook Until 2023"
     excerpt: "Market Research Future published a research report on \"Robotic Vision Market Research Report – Global Forecast till 2023\""
     publishedDateTime: 2021-01-08T16:29:00Z

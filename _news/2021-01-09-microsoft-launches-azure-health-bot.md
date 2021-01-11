@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 1137
         isCached: true
-  - title: "Microsoft's new Azure data services explained"
-    excerpt: "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our Premium library. Enjoy expert IT analyst briefings and access ..."
-    publishedDateTime: 2021-01-07T00:56:00Z
-    webUrl: "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 119
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft's AI model has outperformed humans in natural language understanding"
     excerpt: "Microsoft's DeBERTa model for natural language understanding has outperformed humans in SuperGLUE benchmarks, defeating Google's model which just set the previous record a couple of days ago too."
     publishedDateTime: 2021-01-07T09:48:00Z

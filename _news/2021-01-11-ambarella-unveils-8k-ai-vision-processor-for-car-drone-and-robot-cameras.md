@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-pr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI vision processor enables 8K video at 30fps in under 2W"
+    excerpt: "Using CES 2021 as the launch platform, Ambarella has announced its fifth generation artificial intelligence (AI) vision processor system on chip (SoC)"
+    publishedDateTime: 2021-01-11T15:19:00Z
+    webUrl: "https://www.embedded.com/ai-vision-processor-enables-8k-video-at-30fps-in-under-2w/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 41
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/01/Ambarella-CV5-SoC-Applications.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
   - title: "Ambarella Introduces CV5 High Performance AI Vision Processor for Single 8K and Multi-Imager AI Cameras"
     excerpt: "Ambarella, Inc., an AI vision silicon company, today unveiled CV5, an artificial intelligence vision processor capable of recording 8 K video or four 4 K video streams. The new system on chip will enable the development of intelligent automotive camera systems,"
     publishedDateTime: 2021-01-11T10:00:00Z

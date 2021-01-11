@@ -2,27 +2,21 @@
 category: news
 title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
 excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
-publishedDateTime: 2021-01-11T14:55:00Z
-originalUrl: "https://www.lelezard.com/en/news-19593777.html"
-webUrl: "https://www.lelezard.com/en/news-19593777.html"
+publishedDateTime: 2021-01-11T08:43:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210111005733/grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021"
+webUrl: "https://www.morningstar.com/news/business-wire/20210111005733/grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Meet the robots taking the virtual stage at CES 2021"
@@ -57,6 +51,17 @@ related:
         width: 412
         height: 255
         isCached: true
+  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
+    excerpt: "Seoul/New Delhi, Jan 11 (IANS) Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show. Under the ..."
+    publishedDateTime: 2021-01-11T14:49:00Z
+    webUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
+    ampWebUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 56
   - title: "AI clothing for improved sports performance unveiled at CES 2021"
     excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
     publishedDateTime: 2021-01-08T11:46:00Z
@@ -95,6 +100,6 @@ related:
         height: 600
         isCached: true
 
-secured: "rgogf+et4kqQELQaq+y2yq+qB+h/xhr1jpWbTYJOE9oKbGCc9o8JwGLTz3gbPzu5jLgqF5Dh0Aj8P50ze82y6u+BWPG6yxtSGixgYChkms32P1jBhPWmXJ9aPd0avuevHiXDk5FhyHaNlmLlRRNEMdhmK7v6OXDX/mGg5b6MNNaCPqnyjAiHTlXo27eZh6/JjorHOGvyZUmjlzicO/UWvgJ1RsYzBmmIjLOjK7JN6r0e70BfsHb0LtupC2/eDcUe/kEBJyo5I0L7bDgSxgKOxOZxXgw5dnesmApbp3Q1n7iFyDKHTzQB6kH8UeDK3rM7yqV0fkTbZs/eZh+QFlBIzun5Shd7WUz29pI5MnArbqI=;FD1zHmrMW03iPu8OG8WTew=="
+secured: "BMgDqjhUwCMyF64ukgT3iqb5EQN/r9grGhG6RdqQv+BbnpWaAItdh8HMNO/8qyGAiipYrPKR6oj4BOQ0ggg+/k3eAqdC4U5W9ko/znUvH9YhzexlglpVdnWmsSMtiY9KHhsYW8opkIYqF71N5adXu/9SJ6yKjsxL41KgneriA3K/poxFBqStat5ciOg0R3+NONGtgQS0YLto9vOXn9OsYljRHsMpMEm/4ugshJDz5LUn8hncp/2Muz0UDDdS8KBJinnw1Y7sEvENUn3ViQQRcZjX1mkXbSEWO5fmbLFsfdqXdKlAfSyds+ZP54vtijSrBCCu7MWl9SxDUNWMWpJ6US1paBDVgjZlW1m8gSxGKqY=;bNwVNUNutzYSNfG3+uBoEA=="
 ---
 

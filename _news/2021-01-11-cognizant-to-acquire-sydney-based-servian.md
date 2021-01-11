@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/cognizant-to-acquire-sydney-based-serv
 webUrl: "https://www.crn.com.au/news/cognizant-to-acquire-sydney-based-servian-559600"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 690
     height: 428
     isCached: true
+
+related:
+  - title: "Cognizant to bolster Australia and New Zealand presence with Servian acquisition"
+    excerpt: "The 'transformation' consultancy specialises in data analytics, artificial intelligence, digital services, experience design, and cloud."
+    publishedDateTime: 2021-01-10T23:07:00Z
+    webUrl: "https://www.zdnet.com/article/cognizant-to-bolster-australia-and-new-zealand-presence-with-servian-acquisition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/cognizant-to-bolster-australia-and-new-zealand-presence-with-servian-acquisition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cognizant-to-bolster-australia-and-new-zealand-presence-with-servian-acquisition/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "cMhOw5qgsm/KhsRKlT2GUrz2UKPl5yz9AhRNWcHrqb2L1bRqvtIyEHc3NJT4pWzPZR46O/LHYjrGH/PQ6rmasVVeVGxwG2yf4/tbRnN+pthtrkrkadaQmbfRMUCXcshNNLivKaBgeNNQ1pyF3pu0k5muvWxAJDRoMgk/iJEqgemA4ljHUL/vefoek+SePsr8SYlJGoCkeygY6A62e2fJvcUXdQ5TLdRqz5W6DKDrc+zVOWPJ7wsvAaauPscFjhdTpx40R9c7Gds/Bh9CeaEwTIsaxlfhwDm6koWe76DZ1t/TYH6i8jY68R5lsH3rw99VvtJpwheUV2qCo1twt8qsjIJsZXIEpzcitkPOxUvdnBrJAr/5dLZNGuojSZIV95qN86mGfZpt50a83QBJnwu/Lb2mgWmADd8NuvskYwx1HtHYaNmimY7yIVVcFU7cbwbtRqVYv4spVcU7RLrUY3iUxfp4KTvzTINM7P6U7PRzMatTLT9hB74KiI2iCm220FzWu5gI3fW/UXgcRZv9y8KDew==;c/WrWX11eSaU7YKA0iZwDw=="
 ---

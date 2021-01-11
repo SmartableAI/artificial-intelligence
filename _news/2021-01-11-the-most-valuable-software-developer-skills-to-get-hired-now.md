@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3583931/the-most-valuable-software-de
 ampWebUrl: "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.amp.html"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 77
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2018/01/red-balloon_leader_unique_one-of-a-kind-100746953-large.jpg"

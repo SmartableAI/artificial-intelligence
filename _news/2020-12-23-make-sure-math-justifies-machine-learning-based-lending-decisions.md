@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Math for AI
+  - AI in Finance
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/efc55fc/2147483647/strip/true/crop/6720x3528+0+788/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F40%2F71%2Fc46fc7424c719bdef7e16832cd8f%2Fadobestock-159346179.jpeg"

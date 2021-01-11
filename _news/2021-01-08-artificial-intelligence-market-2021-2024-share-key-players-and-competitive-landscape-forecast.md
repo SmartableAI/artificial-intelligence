@@ -142,6 +142,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Report Size & Share Global Industry, COVID-19 Impact, Trends and Forecast 2020-2026"
+    excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, The Artificial Intelligence Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2021-01-08T08:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-size-share-global-industry-covid-19-impact-trends-and-forecast-2020-2026-2021-01-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice and Speech Recognition Market Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
     excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
     publishedDateTime: 2021-01-08T19:16:00Z
@@ -160,20 +174,6 @@ related:
     excerpt: "AI in aviation market is anticipated to expand at a striking CAGR of 46.83% during the forecast period of 2017-2023 and reach the valuation of 1014.81 Mn by the end of 2023 from USD 113.29 Mn in 2017."
     publishedDateTime: 2021-01-08T12:14:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-cagr-revenue-company-analysis-and-forecast-2021-2023-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Report Size & Share Global Industry, COVID-19 Impact, Trends and Forecast 2020-2026"
-    excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, The Artificial Intelligence Market is estimated to record a significant growth throughout the forecast period."
-    publishedDateTime: 2021-01-08T08:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-size-share-global-industry-covid-19-impact-trends-and-forecast-2020-2026-2021-01-08"
     type: article
     provider:
       name: MarketWatch
@@ -235,6 +235,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
+    excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
+    publishedDateTime: 2021-01-11T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19095932/global-vision-guided-robotics-market-forecast-2020-2027-covid-19-impact-and-analysis-by-component-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19095932"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19095932"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
   - title: "Robotic Vision Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook Until 2023"
     excerpt: "Market Research Future published a research report on \"Robotic Vision Market Research Report – Global Forecast till 2023\""
     publishedDateTime: 2021-01-08T16:29:00Z

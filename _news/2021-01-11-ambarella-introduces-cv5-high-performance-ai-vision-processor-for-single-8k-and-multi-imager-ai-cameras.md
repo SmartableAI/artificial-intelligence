@@ -37,6 +37,20 @@ related:
         width: 480
         height: 300
         isCached: true
+  - title: "AI vision processor enables 8K video at 30fps in under 2W"
+    excerpt: "Using CES 2021 as the launch platform, Ambarella has announced its fifth generation artificial intelligence (AI) vision processor system on chip (SoC)"
+    publishedDateTime: 2021-01-11T15:19:00Z
+    webUrl: "https://www.embedded.com/ai-vision-processor-enables-8k-video-at-30fps-in-under-2w/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 41
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/01/Ambarella-CV5-SoC-Applications.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
 
 secured: "Yv9tAneU5bUi5//49Q/mQPBQUicccPqe4fxqhs2grSVVqf2xs4O/FVTvSuV2Bdjd0MGQq3lT0v/SWDz52Us+8J9AL6ev+9zH5nl+0YLjmFjJMHX0WZ45nw5vTD/q9NbBqLqpLeZjAKIydDeU4qiQoL5y4aiMR96uE4RDBKOrVsrVA2s66amAOXjIy7plpMaa/RVJfSVG3HbOSVGu78rkggk6Og6e5Zoudxw0J4fkuhB5+toJF+Qc4LRvdZuQ+GZ4eqD1LYwhSPo1CqpH74346Zacbnab9ULyIOySK/WC5ni1SQEkAwLHUXwrL5acqX7/aQPYMeM6+zporyzocgzpwMVFF6uh/RY55dTT16+Iuvg=;iWvtoT0vUHwoDsG8S94Irg=="
 ---

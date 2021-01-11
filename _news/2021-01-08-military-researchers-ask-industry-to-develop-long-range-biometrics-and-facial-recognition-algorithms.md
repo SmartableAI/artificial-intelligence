@@ -7,7 +7,7 @@ originalUrl: "https://www.militaryaerospace.com/sensors/article/14189954/facial-
 webUrl: "https://www.militaryaerospace.com/sensors/article/14189954/facial-recognition-longrange-biometrics"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Australian researchers collect children’s voice biometrics to help with speech impairments"
-    excerpt: "The purpose of the voice recordings is to help the researchers build automatic speech recognition systems to aid speech development."
-    publishedDateTime: 2021-01-07T00:51:00Z
-    webUrl: "https://www.biometricupdate.com/202101/australian-researchers-collect-childrens-voice-biometrics-to-help-with-speech-impairments"
+  - title: "Time to comply with the nation’s newest biometric privacy law: Portland’s private sector facial recognition ban"
+    excerpt: "The Portland ordinance continues a growing trend of states and cities enacting biometric laws directly targeting the use of facial recognition technology."
+    publishedDateTime: 2021-01-08T17:20:00Z
+    webUrl: "https://www.biometricupdate.com/202101/time-to-comply-with-the-nations-newest-biometric-privacy-law-portlands-private-sector-facial-recognition-ban"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 29
+    quality: 19
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
-        isCached: true
-  - title: "Bill to limit police biometrics use tabled in New York state as legislators struggle with facial recognition"
-    excerpt: "A state legislator in New York has introduced a curious bill to prohibit arrests on the sole basis of “facial recognition and biometric information”."
-    publishedDateTime: 2021-01-07T00:53:00Z
-    webUrl: "https://www.biometricupdate.com/202101/bill-to-limit-police-biometrics-use-tabled-in-new-york-state-as-legislators-struggle-with-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/03124853/blue-line-biometric-facial-recognition-retail-1024x625.png"
         width: 1024
-        height: 662
+        height: 625
         isCached: true
 
 secured: "JwNTkTM5/oIeURBdw5FdSbi57trYH7fPzEzPXsDbw1XdAWpubcnSeuMTlOjdG0mKclDBBLkq28q+IU7ZpfpkEJeHKofnMle+ALr6xokvMP70Q1awK2QS9NMrBiCoDd0vXVns2PyhH8Qd9YM0N+eQjWhNW1ajjk/5KNc1jz7mAbQW+HVe7t6eEKDACqW4zxEqpjaJ44w6bbvql+K+RIZYnSgqVmbnu89Hm6nzSJTF5Vxb7l6YE/QWvNW9JEy4pOHGFTsJvPM2eWfeM7amfW8CUsZNgaqU66RenCjcSo2TbbZH69uiPH7CUOz5itRVdQU3IXKASeWTUKvtVfcF8OwgT0b7K2pHIS0VwtkOeweVNZ65V5vSypFthNLcst6FshpDQcEm2EU92zJPrsY1LkfjOhv7o2ZgysCGwhFnHThPNpDZsM/fy+1DIYVBewvsjKwLE5nOu8WuSes/9a/dWaefo7vj/s7nRwidte55pJIzaiCQGV5Lb+TfTtr2J+ppLx+4hS1hWp34D2hv44UzQMf2UQ==;FAa7zxsBMTcNRAHYNEVPmA=="

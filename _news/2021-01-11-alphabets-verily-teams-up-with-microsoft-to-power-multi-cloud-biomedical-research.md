@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-mi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -61,7 +61,21 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Broad Institute and Verily partner with Microsoft to accelerate the next generation of the Terra platform for health and life science research"
+    excerpt: "On Monday, Broad Institute of MIT and Harvard, Verily, an Alphabet company, and Microsoft Corp. announced a strategic partnership to accelerate new innovations in biomedicine through the Terra platform."
+    publishedDateTime: 2021-01-11T15:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-biomedical-research-services-genomics-e9f0bb3d3a02248d416610763cb60e50"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "3qPW0hjptwM5GX3zWeVSSU7vtkvKquwmDZTjqNDk6I5pk5tdXYC0mgEDVH1aHcu7n1SjpSdO/4/tRjCBS1qV0xW1neuOBobGxHuvwXCfOxkQZcCrLWz1SIOGXMJSbhXvLaXmU6StI0J3oifF2k5Og5wXtCmTg90+cZUkU0yc6exZ7S5JRELFpItDYA7ePeCAts1nBADOHS75CsL6+vaiUFtvGzRhoQ5rmlfin1h0WYXKpYWIKk5Ek5wffdhkdpouUD0xNILy9qqu9Ce4Jd2T1JKOqWuRg7SkkBpCvwxCDmG508MUf4U/brhaF9aWhAY2SNfS0jUKAdtd5rEqaKT8NmV44/7PV3YK/1Hkw2UIRtM=;nZNmv+/7XXRaDNAC1RPxWw=="
+secured: "gaXopg2cxiazS0UDESWamD3gsLtml99bx/WVg8EFoAuygG7jC5nmTXFvcRNNRw8/CGneGMkjFQ9eI3KotsNATHcAzHsXrBcRYq0NKHdbo293dr6x2pK80z0xrdT1wAW46EBcqhWs8tnoMjlxfuaPW2b2QxFfHWpmXdj9jsSdPoWdYjfJEI5JkHqOLun4rkQyu/N7co0C2tWI9mItKAwOAmeF17y2MG0PQT8qaOUfJhhn/3jEiAyt+bEQwUlOGiy9aE5CBzXFWB43D6JVa+aGg6vQiy4JQQrcuAQ8mOzpoBlynpK6mvPQfsN+jKh1YUUTD7B9mKNq4tkoWdkGFf52EuT6HF3MWJ49bzAXYB+teIpidzUzQZgxEQJsdrX+k62k2wQ7J/X73PGqYDS6WNu3i/LmAFGkeeAzAcKI8gUTu6qc2kKy2jS5ZXPQVV2jC23E+lqmreyc++rERNtjpW5Td5ydkF3itc05nZV3ACOl8gzeRfJwIEQNIM/Y3QGL8yfy+ILc33lCUUxX1a7x145sBw==;3RHn0RXISvbd6agJPhLpxw=="
 ---
 

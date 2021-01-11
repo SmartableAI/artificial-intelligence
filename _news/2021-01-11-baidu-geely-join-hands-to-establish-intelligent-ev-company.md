@@ -3,28 +3,22 @@ category: news
 title: "Baidu, Geely join hands to establish intelligent EV company"
 excerpt: "Beijing, Jan 11 (IANS) China-based search engine giant Baidu Inc on Monday announced its partnership with multinational auto manufacturer Zhejiang Geely Holding Group (Geely) to establish a company to produce intelligent electric vehicles (EV)."
 publishedDateTime: 2021-01-11T12:36:00Z
-originalUrl: "https://newsd.in/baidu-geely-join-hands-to-establish-intelligent-ev-company/"
-webUrl: "https://newsd.in/baidu-geely-join-hands-to-establish-intelligent-ev-company/"
-ampWebUrl: "https://newsd.in/baidu-geely-join-hands-to-establish-intelligent-ev-company/amp/"
-cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/baidu-geely-join-hands-to-establish-intelligent-ev-company/amp/"
+originalUrl: "https://www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
+webUrl: "https://www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
+ampWebUrl: "https://www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Newsd
-  domain: newsd.in
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-    width: 1080
-    height: 582
-    isCached: true
 
 related:
   - title: "EV Dreams Power Baidu but May Not Last"
@@ -172,6 +166,6 @@ related:
         height: 799
         isCached: true
 
-secured: "8hzjOiPCc4f4Q14m/aEstZoERNEkaxMjXlQd4w9EpAYQf4kPejETLGP2UgMvTVeAgLFF0wPJvGGLH2waMT6UwbZDfG3zdaM0vcZeEUdf6j5MKC5ASi7A4uLq2d42gX4JMCvJX2QJAeeqGD1kgO8UxQ2hMbgd5pd1FJ2xW77dHTc/1pw4PaWMv49a19vzGNc9Aopv8yyN/y295EzRvvNX3bQHTO2ljskY6FAr/r319JtCgCDWUxh1LSRsl+6YflmZYBiihKhASB1YxZnTDKMecYj/r6iMgpzgwjjKEcN3vox9UKwyG3LnA6OKgAGfDgpSzOdpCEVwX9ejzImjK5OOMIXAt5q3dF/c9dzc8dEl1fE=;C++C6aiSt66LSj9QitCG2A=="
+secured: "cWP7gsfgCt26vSVccrILCkKq2JtQ4dxFc/xOqbDJiXc36a1hPUW8TDgHb+qPA+Ak/EwvFlDBmcCNry7pTd9mn5RJEpFCFhLc+8iFPeWVdr52ZlMsVGkZgZ7wgyxnzj7mBKUVY9GejgfqO7nCVkvN83IOBQ0jGdfr/Oa4wXKkIU78kxKkXTQK1i6HRBUkuQP+pP8wQ3o1xuGZp0hPW7eSuiC5MIMv0urYkLOnhTV7yihI8e5xj4e9Gv+utMr4O8QJz/Xh5chFUzMiuDVmUkxzMowudmRhpl/M2shc4TMNkvhxAELrnWJaInSi2wNu143HViDBMc3myRZjuTV0I/AALfqTXpv8nS2IqFG35HjtnR0=;cYFHSLt8gYxogy+WeLLo8Q=="
 ---
 

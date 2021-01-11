@@ -102,22 +102,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Baidu, Geely join hands to establish intelligent EV company"
-    excerpt: "Beijing, Jan 11 (IANS) China-based search engine giant Baidu Inc on Monday announced its partnership with multinational auto manufacturer Zhejiang Geely Holding Group (Geely) to establish a company to produce intelligent electric vehicles (EV)."
-    publishedDateTime: 2021-01-11T12:36:00Z
-    webUrl: "https://newsd.in/baidu-geely-join-hands-to-establish-intelligent-ev-company/"
-    ampWebUrl: "https://newsd.in/baidu-geely-join-hands-to-establish-intelligent-ev-company/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/baidu-geely-join-hands-to-establish-intelligent-ev-company/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-        width: 1080
-        height: 582
-        isCached: true
   - title: "Baidu to set up EV manufacturing venture"
     excerpt: "Chinese tech giant Baidu is preparing to set up its new electric vehicle manufacturing venture, the company said on Monday."
     publishedDateTime: 2021-01-11T13:16:00Z
@@ -143,6 +127,17 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Baidu, Geely join hands to establish intelligent EV company"
+    excerpt: "Beijing, Jan 11 (IANS) China-based search engine giant Baidu Inc on Monday announced its partnership with multinational auto manufacturer Zhejiang Geely Holding Group (Geely) to establish a company to produce intelligent electric vehicles (EV)."
+    publishedDateTime: 2021-01-11T12:36:00Z
+    webUrl: "https://www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
+    ampWebUrl: "https://www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
   - title: "Baidu to join China EV race with Geely support"
     excerpt: "Zhejiang Geely Holding Group, China's largest private automotive group, will act as a strategic partner. The move positions Baidu as the latest Chinese challenger to Tesla at a time when investors are sending shares of the Elon Musk-led company and its rivals soaring,"
     publishedDateTime: 2021-01-11T04:46:00Z
@@ -172,6 +167,6 @@ related:
         height: 799
         isCached: true
 
-secured: "P0kJ8ZoAzBvT3FbzoFdtjaAOph10XSyjLaDTWtxKJhhPSgyd/RTMbqzZbbRAr0IiFCkZ/1iqVptH90nXkPjbR04IBw0kziyzjUdBi2bAMLsWFPK5c0rWz2Z3NpApVxZA0dNMGH9M1Weou7asyGCQomILeQ8wytzqwLMlhuisH4X4mnBpYyZ2NeOg3pQlA483qK3NbnIfb+tG35BHSNNSSxKtM9GJYbpDe5CODvPQPtCDAGQHUDyp4EeGdxNsjBh7wQ/q1bG+ZapUHOb9vViRQ/tKtErOwR6THGUpRD7uJK1lcna1KcnAuxATyarLavjBpS8mpcal72BZVbQ1Pe31MpL/xP7QtShhsRJLo/JPXvQ=;T6ntBwQL+8zjUJYzlrcJ/w=="
+secured: "JFupuAI3eUeDJI5bKxcYQXFm0Rmxl8TCinWCnpUxAj85w87Cc6HuGK+hR0ndstidBpwWPXuT5Q0tylMhdaFCdA2PwK7yY5FF0aKxxcKbe/UeHbzEv7db32e9nhn2ZXgUG037xhTmPnn4PIK/JPFeUMc5s/FpPv9geDGdcrYfB/ef1O3kW05dhou8VWFytXAmKIcPMsJ6HDPXh8kwzvbJrye3X3XEuMVUoOgqSjAPtIjyHhyO417ykeLydfp8NB2IEllYkqd2FhzkyIAjVkyJ4QT5fAuMFjRkg3iY62wIwL72alC8ahyhNzj70PyeIsDj5qjpB+4nzlXGEj6LPnX/s9cSyO1suCrUML55wDspu+1HpnhVbJAehnkdRZKfWqO6EQTT/vy8Kbaf/4PHKqYpmzQ4KuBJi16r+gYjG5iDFBfU1OPbAf6LqgZzGnqMVAGTOCFPpNRYNIVt1wT0+Lh/rEu3DtjTFnpWFjTBxL9uScdI7Prc7aHFVS9ejhCrGJsiuMGPL54RCtIY3N1R8q/Czw==;DTcpXYLeiUOcCeZOxHpBGA=="
 ---
 

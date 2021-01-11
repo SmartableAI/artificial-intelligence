@@ -44,21 +44,21 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "This AI-Enabled, 56-Inch Touchscreen Will Be in Mercedes' New Electric Car—Take a Look"
-    excerpt: "The Mercedes “Hyperscreen” incorporates multiple displays within one sheet of curved glass that extends completely from one side of the vehicle to the other."
-    publishedDateTime: 2021-01-10T15:31:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
+  - title: "This AI-enabled, 56-inch touchscreen will be in Mercedes' new electric car—take a look"
+    excerpt: "The Mercedes \"Hyperscreen\" incorporates multiple displays within one sheet of curved glass that extends completely from one side of the vehicle to the other."
+    publishedDateTime: 2021-01-10T13:00:00Z
+    webUrl: "https://www.cnbc.com/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 49
+      name: CNBC
+      domain: cnbc.com
+    quality: 79
     images:
-      - url: "https://media.nbcnewyork.com/2021/01/106124705-1568233045516gettyimages-1167204689.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://image.cnbcfm.com/api/v1/image/106124705-1568233045516gettyimages-1167204689.jpeg?v=1610137376"
+        width: 3010
+        height: 1781
         isCached: true
 
 secured: "QkxisC6yzO1XR8UXvwCNifqqTpBA5zTYoMzRmiI9zl2Y1PrepDTumu/PAmW7r1bwbV14NcVl/wUZgOiBRnYFkZAtjRtVXyt6E+52NTqUbV5szZWPwS/95XG8g5Cd17UKV0H1Uz3DwaLMtG6TjjjO7UCPqASRRMmq3dSZY2v5S0iFSkBFmgA8hiwwcgtwotq/Mt93PicZcwhtYHLTlaN9kxHIOZk1DY77jj4EYjbOwtl2DGj7TA0eD0JJGOsAf/WTc69+Yw2Wrq+tstd7/xbQ1nbMSIZgy6MU9WXArhwn2Pr3WPnufIlLMUucnKOr3LPG5x3GFq3sGM1S6W81RfIWFPZ+AFYwEsYkyaHb4rVjkZk=;+CjB+AHKcV2oQFfJe/0wVg=="

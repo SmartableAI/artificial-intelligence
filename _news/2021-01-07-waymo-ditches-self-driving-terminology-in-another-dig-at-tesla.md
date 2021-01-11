@@ -114,22 +114,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Waymo To Stop Calling Their Technology “Self-Driving,” Criticizes Automakers Who Do"
-    excerpt: "However, some companies use generic terms such as “self-driving.” Tesla is the most obvious example and they even admit “currently enabled features require active driver supervision and do not make the vehicle autonomous.” Safety groups have called ..."
-    publishedDateTime: 2021-01-07T00:12:00Z
-    webUrl: "https://www.carscoops.com/2021/01/waymo-to-stop-calling-their-technology-self-driving-criticizes-automakers-who-do/"
-    ampWebUrl: "https://www.carscoops.com/2021/01/waymo-to-stop-calling-their-technology-self-driving-criticizes-automakers-who-do/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/waymo-to-stop-calling-their-technology-self-driving-criticizes-automakers-who-do/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 53
-    images:
-      - url: "https://i.ytimg.com/vi/NJ3zuBjVLWo/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Self-driving cars are dangerous in the wrong hands"
     excerpt: "We have long been promised that fully self-driving cars are about to take to our roads, but the technology remains out of reach. “It’s an extraordinary grind . . . a bigger challenge than launching a rocket and putting it in orbit around the Earth,"
     publishedDateTime: 2021-01-08T05:04:00Z
@@ -143,20 +127,6 @@ related:
     quality: 44
     images:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7771b980-3096-4057-8e1d-b67fa5e631ee.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Self-driving pioneer Waymo dumps the term ‘self-driving’"
-    excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it’s done with the term, “self-driving.” Waymo says that some automakers are using the phrase “self-driving” inaccurately,"
-    publishedDateTime: 2021-01-07T00:08:00Z
-    webUrl: "https://kvia.com/news/business-technology/2021/01/06/self-driving-pioneer-waymo-dumps-the-term-self-driving/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
         width: 500
         height: 281
         isCached: true
