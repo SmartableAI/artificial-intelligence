@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-is-expected-to-grow-at-usd-18-billion-by-2023-with-cagr-of-19-2021-01-07"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "At 29.8% CAGR, Artificial Intelligence in Construction Market Size is Expected to Exhibit US$ 1649.7 million by 2025"
-    excerpt: "Jan 06, 2021 (Market Insight Reports) -- Selbyville, Delaware, Growth forecast report \" Artificial Intelligence (AI) in Construction Market size by Product Type (Solution and Service), By Application (Project Management, Field Management, Risk Management ..."
-    publishedDateTime: 2021-01-06T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-298-cagr-artificial-intelligence-in-construction-market-size-is-expected-to-exhibit-us-16497-million-by-2025-2021-01-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8D06lunKDqV8wJzO2fo98V8dSYMzy3omnmEDg1Afi/XDtub3DicUjZuBlvz38LZ7an7OB5t0dsvPkoHDDbA5wJwMY8ClUJCLrKdngnDx5oX99JgLwgwxSG8vSUJSEvTCvOAwLV7h5jcPrcuNokSIxSHina/0PVvKnf1MaDYra8iXaEJcomg6TBIaUfmUlw+PmD+rNQRVvUxCcWdH1TOm2wSvgSJGIXXNrXknsHXzZqf/AT+XzKD0TP6FgtSaVMXNv2wsCxCjPzYcJUJuF4bIJOCkmL6eP2sFK5gYNv6y9TZLfg5lm/h06Mt9oqUaiqQ6IiWkZtFXvuIiJOjuJzsC0UWN3R/edtGrfNUIh9kCqv4=;j3yrKKbboUqDQd/1uKtNjg=="
 ---

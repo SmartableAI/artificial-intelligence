@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,9 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI Hardware",
+        "Computer Vision"
       ]
     },
     {
@@ -200,7 +202,7 @@
       "originalUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -389,7 +391,7 @@
       "originalUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {

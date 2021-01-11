@@ -65,6 +65,22 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Hyundai Could Co-develop Apple’s Rumored Self-driving Car For 2024"
+    excerpt: "While reports suggest talks of this are at an early stage, a tie-up with an established carmaker like Hyundai would make the endeavour much easier for the tech giant"
+    publishedDateTime: 2021-01-11T12:16:00Z
+    webUrl: "https://www.zigwheels.com/news-features/news/hyundai-could-codevelop-apples-rumored-selfdriving-car-for-2024/40832/"
+    ampWebUrl: "https://www.zigwheels.com/news-features/news/hyundai-could-codevelop-apples-rumored-selfdriving-car-for-2024/40832/?is_amp=1"
+    cdnAmpWebUrl: "https://www-zigwheels-com.cdn.ampproject.org/c/s/www.zigwheels.com/news-features/news/hyundai-could-codevelop-apples-rumored-selfdriving-car-for-2024/40832/?is_amp=1"
+    type: article
+    provider:
+      name: ZigWheels
+      domain: zigwheels.com
+    quality: 59
+    images:
+      - url: "https://media.zigcdn.com/media/content/2021/Jan/hyundiapptitle_640x480.jpg"
+        width: 640
+        height: 479
+        isCached: true
   - title: "Hyundai might build Apple’s self-driving electric car: Launch by 2027"
     excerpt: "Apple is reportedly working on a self-driving electric car which is expected to make its market launch by 2027. Reuters reports that Apple is exploring the possibility to outsource its manufacturing to the Korean automaker - Hyundai Motor Group."
     publishedDateTime: 2021-01-11T05:33:00Z

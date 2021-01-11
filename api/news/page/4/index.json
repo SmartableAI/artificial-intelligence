@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-06-ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon.md",
+      "title": "AI security cameras inspired by frog eyes could be coming soon",
+      "excerpt": "As well as taking cues from the natural world, the AI cameras also rely heavily on a new camera-processor chip called SCAMP. The chip has a processor embedded in every pixel, making it ideal for AI algorithms looking to rapidly assess visual data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "originalUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/orPkbTPEcv9Z2g5J2ATLYX-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "publishedDateTime": "2021-01-06T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech.md",
+      "title": "Researchers find machine learning models still struggle to detect hate speech",
+      "excerpt": "Detecting hate speech is a task even state-of-the-art machine learning models struggle with. That’s because harmful speech comes in many different forms, and models must learn to differentiate ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/",
+      "originalUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/amp/",
+      "publishedDateTime": "2021-01-06T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-ai-draws-dog-walking-baby-radish-in-a-tutu.md",
       "title": "AI draws dog-walking baby radish in a tutu",
       "excerpt": "These pictures were generated from the command \"An illustration of a baby daikon radish in a tutu walking a dog\" Avocado-shaped armchairs, radishes in tutus and cats in sunglasses are among some surreal works of art created by an artificial-intelligence system.",
@@ -400,34 +505,34 @@
     {
       "path": "_news/2021-01-06-cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist.md",
       "title": "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist",
-      "excerpt": "PRNewswire/ -- (CQC), a global leader in quantum computing software and algorithms, is pleased to announce the appointment of Professor Bob Coecke",
+      "excerpt": "Influential high-level quantum computing pioneer, Coecke has made foundational contributions to Quantum Natural Language Processing CAMBRIDGE,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T00:00:00-08:00",
+      "publishedDateTime": "2021-01-06T00:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1082,102 +1187,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-self-driving-cars-and-asimovs-three-laws-about-robots.md",
-      "title": "Self-Driving Cars And Asimov’s Three Laws About Robots",
-      "excerpt": "Asimov's famous Three Laws of robotics are considered in the use case of self-driving cars, and found to be aspirational but not ironclad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbda74b146f4f451dec796%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4743%26cropY1%3D0%26cropY2%3D3751",
-          "width": 1200,
-          "height": 949,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
-      "publishedDateTime": "2021-01-05T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-machine-learning-improves-particle-accelerator-diagnostics.md",
-      "title": "Machine learning improves particle accelerator diagnostics",
-      "excerpt": "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
-      "originalUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-machinelearn.jpg",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine-particle-diagnostics.amp",
-      "publishedDateTime": "2021-01-05T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

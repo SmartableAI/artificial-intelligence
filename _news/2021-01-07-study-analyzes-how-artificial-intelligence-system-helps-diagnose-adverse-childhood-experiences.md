@@ -26,22 +26,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Diagnoses Adverse Childhood Experiences"
-    excerpt: "Using real-time data and explainable artificial intelligence, researchers developed a system that could help clinicians diagnose and treat adverse childhood experiences."
-    publishedDateTime: 2021-01-06T20:57:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-diagnoses-adverse-childhood-experiences"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
-        isCached: true
-
 secured: "Z88KQP9UZRq264KHyFogYaX18HCfAOUgFkYSSxPiaFHip13ddKlQl0W0nTw2IJStenR3GSp2hJY5oaADkaofQ2M24WDCQXdsG1YkUj+vBSS/Uxg6Q9UAqf2AJSPCI+3n++pbw78NfLMxQccGv9Anf5v1rGPZnSzLch5le96Geb8HdfvpqiUK3kRoDrGNJ32ZaEZNgZyWmzrDpcZpBYCWyxz2LftSHYXccYgkcTNQIoPuuEnJur9OX1rFvNTFy77cgYjeQZ2pxBrtf4EORpq8kLCbpeyGDyne+yab2tfjrp8JEXlw7WO+DurYZyhdj/dsmR4sFrG7xz6xRi70lSKio7fYoVVj9vuXq4x1NU/CKgc=;Ytf2cAobrPp6/rERSZQ41g=="
 ---
 

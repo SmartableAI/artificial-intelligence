@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-01-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers.md",
+      "title": "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial services provider, is expanding its relationship with AWS and has selected AWS as its preferred cloud provider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/category/news/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers/",
+      "originalUrl": "https://www.globalbankingandfinance.com/category/news/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers/",
+      "publishedDateTime": "2020-12-31T21:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021.md",
+      "title": "Tirias Research Predicts A Healthy But Cautious Outlook For Tech In 2021",
+      "excerpt": "As a result, the technology outlook looks incredibly positive going into 2021 but there are caveats that warrant concern for the latter half of 2021 and beyond. The analysts at TIRIAS Research assembled the following review of key 2020 trends and an outlook for 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee5040c4c1d81a9c5a75d6%2F0x0.jpg",
+          "width": 1200,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021/amp/",
+      "publishedDateTime": "2020-12-31T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-a-disembodied-robot-mouth-and-14-other-2020-stories-we-laughed-at.md",
       "title": "A disembodied robot mouth and 14 other 2020 stories we laughed at",
       "excerpt": "Forget the challenges of the last 12 months and instead have some fun reading our pick of the quirkiest tech stories from the past year.",
@@ -1071,101 +1166,6 @@
         "name": "thetechportal.com",
         "domain": "thetechportal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-facial-recognition-market-future-adoption-overview-2028-airborne-biometrics.md",
-      "title": "Facial Recognition Market Future Adoption Overview 2028 | Airborne Biometrics",
-      "excerpt": "Global Facial Recognition Market Snapshot A few international vendors such as Cognitec Systems 3M Cogent Safran Gemalto and NEC have stronghold over the global facial recognition market dominating with their technological and financial might feeding their biometric technology customers However",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "originalUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc31301324_g.jpg",
-          "width": 800,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "publishedDateTime": "2020-12-30T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-assistive-robotics-market-by-mobility-product-type-applications-and-geography-global-forecast-to-2024.md",
-      "title": "Assistive Robotics Market by Mobility, Product Type, Applications, and Geography - Global Forecast to 2024",
-      "excerpt": "The assistive robotics market is expected to grow from USD 4.1 billion in 2019 to USD 11.2 billion by 2024, at a CAGR of 22.3% during the forecast period. The assistive robotics market is expected to grow from USD 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-30T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

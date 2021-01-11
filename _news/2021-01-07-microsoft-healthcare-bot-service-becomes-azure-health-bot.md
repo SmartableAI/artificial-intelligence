@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
+    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+    publishedDateTime: 2021-01-11T11:04:00Z
+    webUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html"
+    ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 138
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg"
+        width: 1200
+        height: 1137
+        isCached: true
   - title: "Microsoft's new Azure data services explained"
     excerpt: "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our Premium library. Enjoy expert IT analyst briefings and access ..."
     publishedDateTime: 2021-01-07T00:56:00Z
@@ -76,38 +92,6 @@ related:
         width: 760
         height: 429
         isCached: true
-  - title: "AI models from Microsoft and Google already surpass human performance on the SuperGLUE language benchmark"
-    excerpt: "“There’s no reason to believe that SuperGLUE will be able to detect further progress in natural language processing, at least beyond a small remaining margin.” But SuperGLUE isn’t a ..."
-    publishedDateTime: 2021-01-06T19:06:00Z
-    webUrl: "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/"
-    ampWebUrl: "https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Firstlight Media, Microsoft Azure to power new streaming venture Struum"
-    excerpt: "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,"
-    publishedDateTime: 2021-01-08T10:17:00Z
-    webUrl: "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum"
-    ampWebUrl: "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 74
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/01/struum.jpg"
-        width: 681
-        height: 383
-        isCached: true
   - title: "Microsoft’s AI Model Outperforms Humans In Natural Language Understanding"
     excerpt: "Microsoft on Tuesday announced that its AI model has surpassed humans In Natural Language Understanding (NLU) With SuperGLUE benchmarks."
     publishedDateTime: 2021-01-08T14:53:00Z
@@ -140,20 +124,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Microsoft extends reach into healthcare: 13 things to know"
-    excerpt: "Microsoft launched significant healthcare products in the last year and deepened existing partnerships to support healthcare providers during the pandemic. Hospitals across the U.S. use Microsoft's cloud service,"
-    publishedDateTime: 2021-01-08T14:50:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-extends-reach-into-healthcare-13-things-to-know.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/5.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft AI Transformation Customer Stories"
     excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."
     publishedDateTime: 2021-01-09T08:27:00Z
@@ -182,6 +152,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Industry Preview: AI And Privacy Will Come Together In 2021"
+    excerpt: "This podcast is sponsored by IBM Watson Advertising. Will 2021 be a pivotal year for AI? In the second episode of AdExchanger’s Industry Preview podcast series, IBM’s Sheri Bachstein outlines the huge stakes as the industry scrambles to retrofit its ..."
+    publishedDateTime: 2021-01-07T22:22:00Z
+    webUrl: "https://www.adexchanger.com/podcast/industry-preview-ai-and-privacy-will-come-together-in-2021/"
+    type: article
+    provider:
+      name: AdExchanger
+      domain: adexchanger.com
+    quality: 19
 
 secured: "nVWobaOiuvkPT6GnAHlgRnb+nh0Bt1JPL1KcvpBe+f5THLw6fdC6qh5Rcf4uqVdm5BsRwH7tESgWb39tpJwniVP5sETgqQassLCQxL7kmM/FyvBBGzj5BhDU7EfyCiIfZpV2hgDV0Qqw+fYnsMg0IZBr15v9vlRjuyNGdbfsARC3U+R5kgDnSmdFDUk4EqIA+ZHu3bjgqrEfTSzCi+xqkOh6AO3p/T93ABuJyYwfEWcAIKaGMS9bO4B+g1hjDWxBw3DjsmUg5zZRhtrALPepypJASzC6fmsQri7lnhYe59lFJoIeEaut58SjcPDxeU1lec336+hrOZbGLQ2W1DfkOVkuo08BqpTIr3q9rWvylDshLwRi4NqpC7c72hLMdO1PnGDTgVXpmWvyn5fJyZ/E5XC2EyrphKyxE3W2sH1Tnb/czjewtzzBpM9ii8hzSgrIDs8jVBJRzd0HwQ39g6NqN2rWT6iKVLi/qa1pyXrq9RZSQe5iIPiguLyKEeS5YJw7BERiFSvFL52GgXspTcvLjA==;D/lhZseMWDCavrgcxwshnQ=="
 ---

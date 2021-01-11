@@ -75,22 +75,6 @@ related:
         width: 800
         height: 482
         isCached: true
-  - title: "Intel launches RealSense ID camera system for on-device facial recognition"
-    excerpt: "Intel on Wednesday expanded its family of RealSense 3D cameras with an on-device system for facial recognition. Intel said its new RealSense ID camera system combines an active depth sensor with a specialized neural network designed to perform facial ..."
-    publishedDateTime: 2021-01-06T19:50:00Z
-    webUrl: "https://www.zdnet.com/article/intel-launches-realsense-id-camera-system-for-on-device-facial-recognition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-launches-realsense-id-camera-system-for-on-device-facial-recognition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-launches-realsense-id-camera-system-for-on-device-facial-recognition/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/06/67b3978a-270f-4e7f-9674-1961746546af/intel-realsense-id-2-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Intel's new RealSense ID packs on-device facial recognition"
     excerpt: "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data."
     publishedDateTime: 2021-01-07T06:36:00Z
@@ -259,6 +243,15 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Intel launched RealSense ID, a facial recognition tech"
+    excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
+    publishedDateTime: 2021-01-11T11:36:00Z
+    webUrl: "https://techstory.in/intel-launched-realsense-id-a-facial-recognition-tech/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 19
 
 secured: "e8Juhz8yNb+4TvnBveazZ2sXpP71JzIwxZYdDh7KLHvw+XGv9Pj4Yk4jzV3Ew1qzYTsTh1hrBAmBuJfu/c4xrmKK17CPIa+M6j4VvPOyOA364JHdYhHPjkYSHi3Uu9Vo+G8XkF1z983N6l7GW0toEKvwLvYlbaIsdJgXR0rlseqX+XG7D1rksMMktmvbmuuZ7baCo07W15H+8j22vuH1+8a4sDTYdKK7XDmv6WBYpBEbog67C3lK24iqkQvanDge6VPslmdsY3PxwzZ3A/tmdSbWqB/W4WRYH0mhcn41gzpZMDgalueFXPY9jeJCzkb2RSFD66yeG9VO6Lai9PVfW9PPIaFsHudEoX70us0KAYg=;8132lm6Nlk4nfax0+R7iKA=="
 ---

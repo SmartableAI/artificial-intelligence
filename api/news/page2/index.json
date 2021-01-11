@@ -2,6 +2,112 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-09-is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks.md",
+      "title": "Is neuroscience the key to protecting AI from adversarial attacks?",
+      "excerpt": "Deep neural networks are a key component of computer vision applications, from video editors to medical software and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "originalUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "publishedDateTime": "2021-01-08T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-self-driving-cars-and-the-newest-move-over-slow-down-laws.md",
+      "title": "Self-Driving Cars And The Newest ‘Move Over, Slow Down’ Laws",
+      "excerpt": "The law and prudent driving dictate that you should move over and slow down when nearing stranded vehicles on the side of the road, which is easier to say than for self-driving cars to achieve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff392b289032e7d9ad91594%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/",
+      "publishedDateTime": "2021-01-08T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock.md",
       "title": "The Robot Revolution Will Spark a 15X Rally in This Micro-Cap Tech Stock",
       "excerpt": "This has coupled with significant advancements in tech hardware production, and ultimately brought us on the cusp of creating a new generation of advanced robots that can think and act like humans. The Robot Revolution is starting.",
@@ -216,7 +322,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -268,7 +374,7 @@
       "originalUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -407,6 +513,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum.md",
+      "title": "Firstlight Media, Microsoft Azure to power new streaming venture Struum",
+      "excerpt": "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum",
+      "originalUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/01/struum.jpg",
+          "width": 681,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp",
+      "publishedDateTime": "2021-01-08T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-meet-the-robots-taking-the-virtual-stage-at-ces-2021.md",
       "title": "Meet the robots taking the virtual stage at CES 2021",
       "excerpt": "This year's all-digital CES is going to be a tough one for everyone involved, but it may be even harder if you're a robot. Robots can pique people's interest via the written word or videos, but there's nothing like showing people what you can do in person to really make a good first impression.",
@@ -415,7 +564,7 @@
       "originalUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -999,7 +1148,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1021,153 +1170,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips.md",
-      "title": "Researchers design AI that can infer whole floor plans from short video clips",
-      "excerpt": "Researchers at Facebook, Carnegie Mellon, and the University of Texas at Austin designed an AI system that generates floor plans from videos.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/",
-      "originalUrl": "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Screenshot-45_auto_x2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/amp/",
-      "publishedDateTime": "2021-01-07T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-seoul-robotics-a-3d-vision-of-the-future.md",
-      "title": "Seoul Robotics: A 3D Vision Of The Future",
-      "excerpt": "Seoul Robotics leverages LiDAR 3D vision to make robots intelligent and enable autonomous systems from smart cities to smart factories",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff7162c24227293870c722f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
-      "publishedDateTime": "2021-01-07T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
-      "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
-      "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cox-automotive-motional/cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture-idUSL4N2JH3AX",
-      "originalUrl": "https://www.reuters.com/article/cox-automotive-motional/cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture-idUSL4N2JH3AX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "publishedDateTime": "2021-01-07T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

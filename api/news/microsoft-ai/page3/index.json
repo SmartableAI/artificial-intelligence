@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-using-cameras-and-ai-to-build-an-automatic-litter-detection-system.md",
+      "title": "Using Cameras And AI To Build an Automatic Litter Detection System",
+      "excerpt": "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
+      "originalUrl": "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2019-10%2F38396726-f256-40bc-a791-0609c92c6fb4%2F28101_pti10_28_2019_000100b.jpg?rect=0%2C0%2C3990%2C2244&auto=format%2Ccompress&w=1200&enlarge=true",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
+      "publishedDateTime": "2020-12-01T19:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-andy-jassys-aws-keynote-revealed-little-about-multicloud-plans.md",
       "title": "Andy Jassy’s AWS keynote revealed little about multicloud plans",
       "excerpt": "In a market moving increasingly toward multi and hybrid cloud models, people are eager to see how AWS’s attitude will evolve.",

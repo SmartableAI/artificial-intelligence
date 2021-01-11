@@ -38,15 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Army looks to pave way for autonomous vehicles with new AI research"
-    excerpt: "New research in reinforcement learning systems could help the Army make better use of its data and training of robots in battle."
-    publishedDateTime: 2021-01-06T20:46:00Z
-    webUrl: "https://www.fedscoop.com/ai-research-army-ground-vehicles-reinforcement-learning/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
 
 secured: "ts25auja7tGcZ5PvcZt7qerVMmNq7pyxarcR/fFJHnJ+7ukY4hQtF6+gSReW8xVzJAfU8BwXuOz0f8QsIJJVdIxVrVZjr3HLSpdoAG0cQVKvPXUdFtZLUPR6YwMtW6Evcjtr/72SVzjPSGmyu7gWe5hg71WQICKRMDDZ8LTj1FSNTHI9Bp0QvtO44BDepmpQKBw3tk83vlL06KoIz/eFzzz35Jbv3G5Rnz14e/UYYZJBixCtsLMc1+uPJis8+v+YReSf3AW5WotqpgLpOf3CjkR1AvnvCU9+BcCcw8DYZNOaPZjpYhUHMdFZDxtyBoibZeLt+sy1pwWd+aB+EPnrBosmZnfMPpN5keoebgT5YhISSExr2wmcHRNw4tJ2Ab2KZTd4EBFoCKe9g2s4Od3iMjziUxTkal2CG90ijlLwF/KhZv7Wy/ExpYPqbk4ifwtFY3Ugortm1NXg3YncKO9GWKqw8DmCw2sEvFdAFrI6H2vmfDdc1q2FgrmyU9s883SX64VncTBDJ+/THEB8Erwqzg==;bHwc0Un0f8WuCriGMyw2NQ=="
 ---

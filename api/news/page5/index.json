@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-06-self-driving-cars-and-asimovs-three-laws-about-robots.md",
+      "title": "Self-Driving Cars And Asimov’s Three Laws About Robots",
+      "excerpt": "Asimov's famous Three Laws of robotics are considered in the use case of self-driving cars, and found to be aspirational but not ironclad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbda74b146f4f451dec796%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4743%26cropY1%3D0%26cropY2%3D3751",
+          "width": 1200,
+          "height": 949,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
+      "publishedDateTime": "2021-01-05T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-machine-learning-improves-particle-accelerator-diagnostics.md",
+      "title": "Machine learning improves particle accelerator diagnostics",
+      "excerpt": "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
+      "originalUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-machinelearn.jpg",
+          "width": 799,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine-particle-diagnostics.amp",
+      "publishedDateTime": "2021-01-05T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-cox-acquires-ai3d-scanner-maker-fyusion-to-aid-used-car-dealerships.md",
       "title": "Cox acquires AI/3D scanner maker Fyusion to aid used car dealerships",
       "excerpt": "The Atlanta-based media and internet conglomerate has purchased an AI and 3D scanning company to help dealerships digitize used car listings.",
@@ -1150,102 +1246,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025.md",
-      "title": "Global Artificial Intelligence (AI) in Cyber Security Market 2020 In-depth Assessment, Key Trend, Industry Drivers, Future Roadmap by 2025",
-      "excerpt": "Global Artificial Intelligence (AI) in Cyber Security Market Growth (Status and Outlook) 2020-2025 announced by MarketandResearch.biz provides an expert and in-depth analysis of key business trends and future market development prospects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025-2021-01-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025-2021-01-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-artificial-intelligence-project-aims-to-find-new-uses-for-old-drugs.md",
-      "title": "Artificial Intelligence Project Aims To Find New Uses For Old Drugs",
-      "excerpt": "Medical researchers at Ohio State University have received promising results from a project that uses artificial intelligence to suggest new uses for old drugs. The team, led by D",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359",
-      "originalUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/14/artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/artificial-intelligence-project-aims-find-new-uses-old-drugs-3114359?amp=1",
-      "publishedDateTime": "2021-01-04T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

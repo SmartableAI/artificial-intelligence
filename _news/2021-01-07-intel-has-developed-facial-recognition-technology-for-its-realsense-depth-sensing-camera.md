@@ -75,22 +75,6 @@ related:
         width: 800
         height: 482
         isCached: true
-  - title: "Intel launches RealSense ID camera system for on-device facial recognition"
-    excerpt: "Intel on Wednesday expanded its family of RealSense 3D cameras with an on-device system for facial recognition. Intel said its new RealSense ID camera system combines an active depth sensor with a specialized neural network designed to perform facial ..."
-    publishedDateTime: 2021-01-06T19:50:00Z
-    webUrl: "https://www.zdnet.com/article/intel-launches-realsense-id-camera-system-for-on-device-facial-recognition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-launches-realsense-id-camera-system-for-on-device-facial-recognition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-launches-realsense-id-camera-system-for-on-device-facial-recognition/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/06/67b3978a-270f-4e7f-9674-1961746546af/intel-realsense-id-2-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Intel's new facial recognition system for ATMs is made in Israel"
     excerpt: "Traditional authentication methods leave users vulnerable to ID theft and security breaches, Intel said, leading companies to pursue facial authentication technology for higher security standards."
     publishedDateTime: 2021-01-07T14:30:00Z
@@ -259,6 +243,15 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Intel launched RealSense ID, a facial recognition tech"
+    excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
+    publishedDateTime: 2021-01-11T11:36:00Z
+    webUrl: "https://techstory.in/intel-launched-realsense-id-a-facial-recognition-tech/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 19
 
 secured: "UeCoZEyzeQC55ENvYzuj8/vv30hKq+CsRGqcNHgmrXnqu2K/yoczWxPHbxrLwIRuy3uEaC7KSf+qUCL7tlwMaFWqqxS9C8iTTO/rdi7z6B196zmmpybRu3hY7p0IiEJ4nUuN7M+ZcPYRKm3lOmNsN2lD9/4Fw+Gc2uEDcPO/L7HJSfSr9gOGIyinAwQiQ1EAdwPyjn71oLkHR0FwWLzg5aSshwIVpndyrdpwVir5bnP9q+C/RWEo7xUj3KCZ/THUBExumbX3KjoMzL9MjTG7nudExUesIZBLORE39JFu0+iguFauB7y0DiG8fi5x5s0xRr3IynLe1hneFX+ynOE9rrKcHP6y/oGQQweVE3OJWEhtZDJi2aloawwHnqM6P8B3DB1RqaJMp2ExQhMwu8yjaRi+2/+ye8A8y0z4QkU2wzb92AtGekcRPb2HW2oTlzZRW8e1hgUUcB6uPkxE0Dx1ZzJd7FoYWBA0j/sa61a+NQoTCLvD8pyMHd4oHMqWsjJtsHXDvFWgpg4PBjuUJtMUXA==;vjWDLHfGCAX44UkuqN/UGA=="
 ---

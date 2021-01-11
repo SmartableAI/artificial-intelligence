@@ -76,7 +76,7 @@ related:
   - title: "Fact check: Facial recognition company did not identify Antifa members among Capitol mob"
     excerpt: "A news outlet that reported that a facial recognition company identified members of Antifa among the mob that stormed the U.S. Capitol has now apologised and issued a correction. Screenshots featuring the original report,"
     publishedDateTime: 2021-01-09T02:13:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-antifa/fact-check-facial-recognition-company-did-not-identify-antifa-members-among-capitol-mob-idUSKBN29D2WV"
+    webUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-antifa-idUSKBN29D2WV"
     type: article
     provider:
       name: Reuters

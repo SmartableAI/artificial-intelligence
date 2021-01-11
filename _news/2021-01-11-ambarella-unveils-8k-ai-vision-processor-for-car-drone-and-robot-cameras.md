@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-proce
 ampWebUrl: "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/amp/"
 type: article
-quality: 102
-heat: 112
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Hardware
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/ambarella-ces.jpg?w=1200&strip=all"
@@ -39,8 +41,8 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 35
+    quality: 37
 
-secured: "ppAzxJlj+cD1nD3acbFomG8WchkVsEC9I9b8fZlG+KKYel1A310Z/U2Fq8i24inVZY+c1AAsEYHnSfT4Prol2IEpH6v+Vh+oaYtu36rG1ORY+ytvur0fIRMtfT2H6ioQQnkYV5SkW0aecNinKm/bL851Dka7cqy0cQqOVMm3Dr2gM6DljZwC6YBm/ixj+44ZGqhwk7B9s+NqF/QrDp04OWRh/kaK+MsqSr2tlcJMTFsKYmShVPXlSVryJwh12028l4rkdYQdjyuc8kYda5C6CJxJJMcfDjxaN80nmfnKvoVikclM6gXhnIY2jekYEVqlfTJSgiySeURUR2CczyG2DUsDOvBis9upQC3+lwLcBLM=;Pzh6k28bcITxLB1MH2jSYg=="
+secured: "q6e2ElJAmnE6vSAbk5qkIKIL0JjJJLXeM4l0+TtqKKRl32UPG0Ok/eaUVyQ0KGlWqmgk3D6IKIXKA1klPcuv/Z8QUCQvtbx2arrpG+BD6pSvJNrP6o0sav1cJFORvap1kQZ/E7pYjuOjTnSfVv4scLj2GXtMpYqkntPs6yL2zaWSbZCB9Ta62q7/4vaCQ92Q42JDkoRh51+9RjLyFzNf6yyeTmRpEJyXbOeYjDJW8/bxqeKudLTCaxVVYgYVrVKFht4D4iQ3BtoBjpTok58I1oFRYUtLjS+NGw2kmcJ6OktsgU/MgL8baU+oMCQ0UMcI3p07Zp8eAhO7/XmtF6wV48747zZRgwkNLbECUqNe8iHJt2trFNM4+9NH6rs/8u3zFZKTNpGZrPABkiBHCQOHGTJrOywF8Ik8n4s5jjbooWz3OMjOgAZWId7h3HQFK5k3FQrLIyMeGYJJnmDw0ueEwf0Mvyyj79syngCL2QKWhsl/dEl7Ixs4+pSFzOlKWKIManFVwzvy6SdmgGx9COZiHg==;4UMeGtmHxfmREcSO4a4Qeg=="
 ---
 

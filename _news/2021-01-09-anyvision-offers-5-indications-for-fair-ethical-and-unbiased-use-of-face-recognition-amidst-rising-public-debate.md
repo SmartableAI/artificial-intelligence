@@ -1,24 +1,30 @@
 ---
 category: news
 title: "AnyVision Offers 5 Indications for Fair, Ethical and Unbiased Use of Face Recognition Amidst Rising Public Debate"
-excerpt: "Prof Shlomit Yanisky Ravid, Visiting Professor of Law at Fordham Law School and Yale Law School (Photo:) The backdrop to this conference is the widespread public debate on the use of facial recognition technology – a debate encouraged by the Black Lives Matter (BLM) movement,"
-publishedDateTime: 2021-01-08T16:57:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210108005395/anyvision-offers-5-indications-for-fair-ethical-and-unbiased-use-of-face-recognition-amidst-rising-public-debate"
-webUrl: "https://www.morningstar.com/news/business-wire/20210108005395/anyvision-offers-5-indications-for-fair-ethical-and-unbiased-use-of-face-recognition-amidst-rising-public-debate"
+excerpt: "Prof Shlomit Yanisky Ravid, Visiting Professor of Law at Fordham Law School and Yale Law School (Photo: Business Wire) The backdrop to this conference is the widespread public debate on the use of facial recognition technology – a debate encouraged by the Black Lives Matter (BLM) movement,"
+publishedDateTime: 2021-01-08T17:11:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-industry-regulation-government-business-and-finance-technology-issues-ac039981ac6547c38da3306d301c6c20"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-industry-regulation-government-business-and-finance-technology-issues-ac039981ac6547c38da3306d301c6c20"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
   - AI Ethics
 
-secured: "lRymIAHELV9DElq8Y42TUIXWnSeSMfvpoNI7v4jXLRRBM9VgKrbcLxa47iU0IZL2YGPwKRxqAQz1ERorH1Q1n2bYXY94k5cVOVJpcdhNTw2Uff+AZ5i6CyALGJyaA8vgCR5OCH/F8VdLlxsrkB6Zk4gM7+KEfWXgSEXxAKy65RBR4yuftLrAdS9Imq42sezvjuyf09tFKl04MEqtz+q1X7cvhUps73ZDpJejU/oVlLpmLa2C6Y9lgLeshDRtoLFFIFHi1hJLcwM60JxXZ7crx1dCO+QwThtPU4o88yGqQGBodgxnx3S+LA+5RkiiLE8SXIXoJTcFoTDRrPkq3nwM/Uvv7se53ilm6hdMfPGgl74=;KcB7CDukD6TjPLhO9GDPRw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "wfhw1EOKUozecApbjF9l3DLxDoQzRAax5hC//SkrNhAVf6EjFDQRJnF7eZT7XRrg3y/9ikTQ7B/jcxwSCKJc2e17eVe0IL7o/7BfzER2AxemkLArOfq9Fwq/9i7dhMWuKfticDHO9j/aZQcOFUHGJysAkPrnDM9S+7NEhGFSMUFdt3X1iStwDK6w6O0PsmU/97GCvOVulFVoHe2xWTZHcD3RFli9W3kM7j61Ve3vUQYRiRyMdC6/4XveqmffFVAaNEdQj+Sratze6M48aUlO64hyIpnGJyAUSmWoWoqqkhZBtwg3NSQaUmpTHsAvLLaNptfZmw+mBw6Ts5WTd0TVGD69a1J1q55TIUdIpagjJ9k=;ia0iigP2pDZ37ZH4jV2roQ=="
 ---
 

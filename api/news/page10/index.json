@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-30-meet-the-women-leading-the-fight-for-more-women-in-ai.md",
+      "title": "Meet The Women Leading The Fight For More Women In AI",
+      "excerpt": "The exciting potential of women in AI is that their presence has such a wide reach. Not only is AI one of the most pervasive technologies industry-wise, the data it produces can have significant social impacts on our society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5febc497756ba71281a9e2d0%2F0x0.jpg%3FcropX1%3D143%26cropX2%3D879%26cropY1%3D0%26cropY2%3D414",
+          "width": 736,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/",
+      "publishedDateTime": "2020-12-29T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-highlights-from-the-year-in-science-2020.md",
+      "title": "Highlights from the year in science 2020",
+      "excerpt": "One of the biggest scientific breakthroughs of the year came just last month, with news that Alphabet's DeepMind AI has made huge strides in being able to accurately predict the 3D structures of ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/science-2020-year-review/",
+      "originalUrl": "https://newatlas.com/science/science-2020-year-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1957683/2147483647/strip/true/crop/1999x1333+0+46/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F40%2Fde%2F1497dbbb40b18507ebe95f4976d0%2Fdepositphotos-13261072-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/science/science-2020-year-review/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/science-2020-year-review/?amp=true",
+      "publishedDateTime": "2020-12-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-why-stateful-machine-learning-could-help-cybersecurity-efforts.md",
       "title": "Why stateful machine learning could help cybersecurity efforts",
       "excerpt": "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor.",
@@ -1078,109 +1182,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-nuro-robot-delivery-cars-will-start-operations-in-california-in-2021.md",
-      "title": "Nuro robot delivery cars will start operations in California in 2021",
-      "excerpt": "Robotic startup firm, Nuro has gotten official approval to start its paid delivery service with autonomous vehicles. This much was revealed by the California Department of Motor Vehicles (DMV). Steve Gordon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
-      "originalUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/12/nuro-2.png",
-          "width": 795,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-researchers-find-evidence-of-bias-in-art-generating-ai-systems.md",
-      "title": "Researchers find evidence of bias in art-generating AI systems",
-      "excerpt": "AI tools, apps, and platforms that generate artwork exhibit social and cultural bias, according to a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/",
-      "originalUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/ce701cf3-d857-4b1b-8075-f727d1aad8fc-e1609177599494.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/amp/",
-      "publishedDateTime": "2020-12-28T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

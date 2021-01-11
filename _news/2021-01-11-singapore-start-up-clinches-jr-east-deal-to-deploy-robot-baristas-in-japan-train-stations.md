@@ -24,6 +24,22 @@ images:
     height: 509
     isCached: true
 
+related:
+  - title: "Robots in Singapore: 4 Innovations that Operate Around the Island"
+    excerpt: "Autonomous robots are changing the way we live, work and play. Here are some robotic innovations that exist in our country"
+    publishedDateTime: 2021-01-11T11:50:00Z
+    webUrl: "https://sg.asiatatler.com/society/high-tech-robots-singapore-innovation"
+    type: article
+    provider:
+      name: Malaysia Tatler
+      domain: asiatatler.com
+    quality: 39
+    images:
+      - url: "https://cdn.asiatatler.com/asiatatler/i/sg/2021/01/11152729-67103153-2507715549462623-6603314601859743744-o_cover_2000x1333.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+
 secured: "oVnn9H3nVA+abzfWqbEIvUblex9hB5CAVzJZdgXTjeWjv7KEKt1OaBmb9SsdXPnwpSwpotCbe1OFqk3lXGyzhgyUsw3QWSHVWJ821BG0aVLZlOZfmzYX3CcGgWVqAhJsOlpQq9FkBUZ9I129+fXwAoduZCf39IBqmCqwfQ231GRG4KfMWzw9JRwry/4XRpEqsvAa+EEfQkLCLo3JjLTWmbwjxlft8r4ifb4QjKgRFiApjPBf05qqmCEvcFLPjnbLg8VMLr6mEHS5Zzznx1On7jO57a3IxFvJMnbHxNEOdzJo4k/9wwpwJjiqokyPCJQILg154eAQve5NCj1SkbSmaKEjlyFdPf1cGjRTWrfzVmc=;CRg/gNACWkiiTsGqhELwGg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/here-are-the-robots-taking-the-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "CES 2021 to get a virtual twist: Robotics, smart devices & digital health to take centrestage"
+    excerpt: "The big tech show will go on, but online only: the 2021 Consumer Electronics Show kicks off Monday aiming to create connections and showcase the latest in robotics, smart devices, digital health and more."
+    publishedDateTime: 2021-01-11T12:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/articleshow/80212322.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/amp_articleshow/80212322.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/amp_articleshow/80212322.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 63
+    images:
+      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-274280,msid-80212786/malinois-pups-to-train-for-itbp.jpg"
+        width: 412
+        height: 255
+        isCached: true
   - title: "AI clothing for improved sports performance unveiled at CES 2021"
     excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
     publishedDateTime: 2021-01-08T11:46:00Z

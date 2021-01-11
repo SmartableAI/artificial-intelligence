@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-11T10:00:00Z
 originalUrl: "https://www.nasdaq.com/press-release/ambarella-introduces-cv5-high-performance-ai-vision-processor-for-single-8k-and-multi"
 webUrl: "https://www.nasdaq.com/press-release/ambarella-introduces-cv5-high-performance-ai-vision-processor-for-single-8k-and-multi"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Google AI
   - AI
   - AI Hardware
+  - Computer Vision
 
 related:
   - title: "Ambarella unveils 8K AI vision processor for car, drone, and robot cameras"
@@ -30,7 +31,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/ambarella-ces.jpg?w=1200&strip=all"
         width: 480

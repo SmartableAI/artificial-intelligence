@@ -2,6 +2,145 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-12-07-artificial-network-model-describes-entire-movement-planning-in-the-brain.md",
+      "title": "Artificial network model describes entire movement planning in the brain",
+      "excerpt": "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
+      "publishedDateTime": "2020-12-07T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-simplemachines-inc-debuts-mozart-ai-chipdisrupts-ai-chip-landscape.md",
+      "title": "SimpleMachines, Inc. debuts Mozart AI Chip—Disrupts AI Chip Landscape",
+      "excerpt": "SimpleMachines and its new AI chip offer exciting option in the inference market, with radical new compiler approach and TensorFlow support.",
+      "sourceUrl": null,
+      "webUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
+      "originalUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://architosh.com/wp-content/uploads/2020/12/Mozart-angle-L-1.jpg",
+          "width": 1324,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
+      "cdnAmpWebUrl": "https://architosh-com.cdn.ampproject.org/c/s/architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
+      "publishedDateTime": "2020-12-07T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "architosh.com",
+        "domain": "architosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021.md",
+      "title": "How will companies use AI hiring software in the Great Rehire of 2021?",
+      "excerpt": "With record numbers of candidates looking to work remotely, recruiters will have to expand beyond their usual geographic footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/hiring.faces_.GettyImages-1145150839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
+      "publishedDateTime": "2020-12-07T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-mohsen-fakhrizadeh-machine-gun-with-ai-used-to-kill-iran-scientist.md",
       "title": "Mohsen Fakhrizadeh: 'Machine-gun with AI' used to kill Iran scientist",
       "excerpt": "A satellite-controlled machine-gun with \"artificial intelligence\" was used to kill Iran's top nuclear scientist, a Revolutionary Guards commander says. Mohsen Fakhrizadeh was shot dead in a convoy outside Tehran on 27 November.",
@@ -1051,145 +1190,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-panasonic-reveals-autonomous-wheelchair-and-wearable-robot-at-gitex.md",
-      "title": "Panasonic reveals autonomous wheelchair and wearable robot at GITEX",
-      "excerpt": "Panasonic is showcasing its autonomous wheelchair, PiiMO, which features object recognition, autonomous driving and controls via an app. Another Panasonic highlight at GITEX is the ATOUN MODEL Y, a high-tech wearable power assist suit that alleviates work ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arabianbusiness.com/technology/455489-panasonic-reveals-autonomous-wheelchair-wearable-robot-at-gitex",
-      "originalUrl": "https://www.arabianbusiness.com/technology/455489-panasonic-reveals-autonomous-wheelchair-wearable-robot-at-gitex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-06T03:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arabian Business",
-        "domain": "arabianbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-neuroscientists-find-a-way-to-make-object-recognition-models-perform-better.md",
-      "title": "Neuroscientists find a way to make object-recognition models perform better",
-      "excerpt": "Many of these convolutional networks perform very well, but in most cases, researchers don’t know exactly how the network is solving the object-recognition task. In 2013, researchers from DiCarlo’s lab showed that some of these neural networks could ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/object-recognition-v1-1203",
-      "originalUrl": "https://news.mit.edu/2020/object-recognition-v1-1203",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202012/MIT-BetterComputerVision-01-Press.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-06T01:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030.md",
-      "title": "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030",
-      "excerpt": "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-05T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.md",
+      "title": "Review: Microsoft Azure AI and Machine Learning aims for the enterprise",
+      "excerpt": "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
+      "originalUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg",
+          "width": 1200,
+          "height": 1137,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
+      "publishedDateTime": "2021-01-11T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-why-everyone-is-talking-about-an-image-generator-released-by-an-elon-musk-backed-ai-lab.md",
       "title": "Why everyone is talking about an image generator released by an Elon Musk-backed A.I. lab",
       "excerpt": "Armchairs in the shape of avocados and baby daikon radishes wearing tutus are among the quirky images created by a new piece of software from OpenAI, an Elon Musk-backed artificial intelligence lab in San Francisco.",
@@ -249,34 +303,34 @@
     {
       "path": "_news/2021-01-06-cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist.md",
       "title": "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist",
-      "excerpt": "PRNewswire/ -- (CQC), a global leader in quantum computing software and algorithms, is pleased to announce the appointment of Professor Bob Coecke",
+      "excerpt": "Influential high-level quantum computing pioneer, Coecke has made foundational contributions to Quantum Natural Language Processing CAMBRIDGE,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T00:00:00-08:00",
+      "publishedDateTime": "2021-01-06T00:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1400,49 +1454,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans.md",
-      "title": "'Carter Rubin Day' On LI As 'Voice' Winner Greets Hometown Fans",
-      "excerpt": "SHOREHAM-WADING RIVER, NY — Carter Rubin, 15, garnered millions of supporters as this year's winner of \"The Voice,\" but arguably ... he is a sophomore, with a recognition ceremony and a car ...",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
-      "originalUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/1296254/20201222/080245/styles/patch_image/public/carternewtoday___22195027135.jpg?width=984",
-          "width": 495,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
-      "publishedDateTime": "2020-12-22T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
         "images": null,
         "publishers": null,
         "authors": null

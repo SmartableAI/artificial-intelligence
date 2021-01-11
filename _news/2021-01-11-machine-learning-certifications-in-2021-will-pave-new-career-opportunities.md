@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-11T09:04:00Z
 originalUrl: "https://www.analyticsinsight.net/top-10-machine-learning-certifications-to-boost-career-in-2021/"
 webUrl: "https://www.analyticsinsight.net/top-10-machine-learning-certifications-to-boost-career-in-2021/"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
+  - AWS AI
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Machine-Learning.jpg"
@@ -24,6 +26,6 @@ images:
     height: 500
     isCached: true
 
-secured: "SF5aoRKxO9VDnR/hXb8HU2R53Xj4xyj5fOx08jDyIqAmMh5fK+vlpU3aGKW4cpJNJp5USHkpVKhTWs1JU2BytRg2Cq7GQx7U7cqJH65Yc2ELacZPNzj3D99N3dJvHnst0AJEXDMluCs+UAGB/msZbuoyKfWQD4VMrepi9duJfxl/iq9EurleodjEd3oGF51L3fe/j0/eYha7rPKj4udAz5rv/sUuIGxuKeSCHzv/+6nbWycmZOqlRSZZLPL7ZUxvU2Az82xkHrxee008GhHQSYngehbraBeiZ7u7HA1ifXWRIldJL6xnotRULFYN0TUxv/NQzhc2Hw41mwhbt5D0mgAVBJcVjCRbvYQJw3A0pgE=;IrEIiiqIp9dECaeBmEhTRw=="
+secured: "bcx1lgR7T4NIsKdkQDb0EMFwbZYwUM5CkeYZUAQzfO4NJnkfZaVLGnR3ZviJtRvDo1a6P3rm/VNru7MgyzMo1LftyfZxr/0OJMKYErj2tuqtZQVtQquM5yu6ggoax9T9fHNiByRmMA42sYttrTodbwnHgfUBOomQQQZGHTyKsaVTQGMXvChOKB2azHUWCoszOxpCFbFUYdyL1jEJsLSm0268oJIl/aMgT5U/VwskynayHqNcP2mAdqHr8hQ6qRuSMrns0YRtKgVu9KJkeMWkmMytfct07wwQlTyR8OYWEn2DezQ7lqDup4xw2a9F9vYwd2B8amt1RqC8RCnCFFuRGV5r1Xg3nm0FYJv/iREE8c1NaZclY9RcltTDyWTlhStl4dlEr6i8vNt6Za3ZuKL+F1a84Q3P8zFFO7mA4jAleNav3iaxbQUNVPwV/mN6sTGFItxbZKgB2G2xs20N1igbyQMcB2XrPa06ZVXbHlaq0iFkGfBtkIrq2A8cgXSzhpTmtrAWudHwOn9iL2ZflNqK+Q==;V27gAsTedwzQc9EM3HcYmw=="
 ---
 

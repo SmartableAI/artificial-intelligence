@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 811
         isCached: true
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "ITRI Exhibits Innovations in AI and Robotics at CES 2021 Technologies Include Dual Arm Robot System, Self-Learning Battery"
+    publishedDateTime: 2021-01-11T06:50:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210111ny41589/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg"
+        width: 400
+        height: 237
+        isCached: true
 
 secured: "u8ENiH5g3V3uYhI5OsS07f6dHYbu6BYRYxjNdpsAJfPLGBQ90Q8xr5wk6rBNiyffpqoTFBmfdIybPIgc2qhL8LOkcsJ/11JLL+JlkzGNUjtyfm3LLVCmRclQX18h0a7RzQIIsGmCuDaiwg7D2Y0D8V9mZ6f0qlDjtp9YMK7WfRagHXPb/AZrItG4J5efJDEt204EvMYF/cE9gGxZfZCxfx5lLsrzSfyQpW1/8C2cn1YOleQQ0ccSzt95OenZ5j7UBJWd7gEmcireDyzRPMNHxk/WZ4pdNrfqcE+VXTlyV5CU7RYplyEO2TOQ7t6/KX6W1i7Iozvd1roetbb1mxOaAswvS+0kpHRdxS/gTVjke18=;8RC34s+zszG8mgso6TY/GQ=="
 ---

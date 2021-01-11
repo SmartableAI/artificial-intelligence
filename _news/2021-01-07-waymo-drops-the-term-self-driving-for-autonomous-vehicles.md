@@ -57,22 +57,6 @@ related:
         width: 1680
         height: 1120
         isCached: true
-  - title: "Waymo shelves 'self-driving' term for its technology to shore up safety"
-    excerpt: "Waymo swears it's not out to pick nits and give us all an exercise in linguistics. The fact it will no longer use the term \"self-driving\" when describing its technology is about education and safety,"
-    publishedDateTime: 2021-01-06T19:23:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-technology-safety/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-technology-safety/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-technology-safety/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/9uba5kNbIBwHtaYmXNybVv9IYxM=/2019/07/02/ffa46822-32cb-4b06-81a6-aa82f237cb11/waymo-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Waymo is dropping the term 'self-driving' in an apparent shot at Tesla's controversially named software"
     excerpt: "\"Unfortunately, we see that some automakers use the term 'self-driving' in an inaccurate way,\" the autonomous-driving firm said Wednesday."
     publishedDateTime: 2021-01-06T22:11:00Z
@@ -221,20 +205,6 @@ related:
       - url: "https://kvia.b-cdn.net/2021/01/hypatia-h_51e931e3ce8a62a43c2b7bcf69327b74-h_7fda6d86ae8bc57efbb066e59419dda0_preview.jpg"
         width: 500
         height: 281
-        isCached: true
-  - title: "Waymo says goodbye to phrase 'self-driving'"
-    excerpt: "Much like the phrase \"horseless carriage\" fell from favor in describing motorized vehicles, might \"self-driving\" someday be replaced with a better way to delineate cars controlled by computers? Waymo would like to leave \"self-driving\" for the history books."
-    publishedDateTime: 2021-01-06T19:49:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-says-goodbye-phrase-self-driving"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "10Ea8heiUkA7Rhow24Bmpt+FEXNYq97NRLHAZnJKml1Bvp8GvYc+Ig+6sQts67Hhx7gcfZa5IezFclsSFVNFIgjCN71LDr4YtT9gXAhTtg5fkTIX7w5Par3eF6kWL+HVyAxASAFZQYMkVxseHnI+NTnMJ/rdEEEAvpI4Xhw9vC7RVI//5aRisLfv1ZL+oShuw7bP2SDw9SOtUolyULFWnIdfecMMP07eD84g4wZTWCSj8rcC0jOitnAIqravpvBC3CftOqmAkp+lLFSzQ5YxyKB5X/hQeynjbCwXzJWfTWjn1s0M1mIew/McBWErzjkva6KBeDO4n9XlV9WZNWk8i2Uc8ixSUoXahRo8/kETjUsYPI8Q7VqaoYBRfaUEROeAcOsbZuclD0iErHYQxH4sPr9bBxeS9rH70CrtpOUzvQkoy+tggaHfLnupzRuO/gXS33BlYrZ926gz2ud6u5bOCcHyjbDxOxZnwXrUWCdH4KNwSRo3n46me3NkowCxzo1PPMmyay3Cjuch0CZTVcRt1A==;2pwaVBLH/1QP3bTk1kI6Yg=="

@@ -40,17 +40,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "A Pair of ETFs to Consider as The Fintech Space Continues Evolving"
-    excerpt: "It's obviously been a rough 2020, but out of the ashes came opportunities for financial technology or fintech for short. As such, a pair of ETFs can afford investors opportunities in a space that's growing exponentially with the Global X Robotics & Artificial Intelligence Thematic ETF (NasdaqGM: BOTZ)."
-    publishedDateTime: 2021-01-06T20:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-pair-of-etfs-to-consider-as-the-fintech-space-continues-evolving-2021-01-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "AI in Fintech Market – Big Changes to Have Big Impact | Google, Intel, Salesforce.com"
     excerpt: "AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide AI in Fintech industry with an attention on the Global market The report gives key insights available status of"
     publishedDateTime: 2021-01-08T07:33:00Z

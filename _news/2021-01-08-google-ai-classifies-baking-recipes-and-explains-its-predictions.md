@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-ex
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "ITRI Exhibits Innovations in AI and Robotics at CES 2021 Technologies Include Dual Arm Robot System, Self-Learning Battery"
+    publishedDateTime: 2021-01-11T06:50:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210111ny41589/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg"
+        width: 400
+        height: 237
+        isCached: true
   - title: "New Offering from Reserved.ai Predicts, Automates, and Simplifies Cloud Costs, Bringing Cost Savings in Hours Instead of Weeks"
     excerpt: "Reserved.ai., the cloud cost management company that saves businesses the most time and money, today announced its Purchase Planner feature – the only solution that optimizes, customizes, and automates execution of cloud reservation purchasing,"
     publishedDateTime: 2021-01-07T17:20:00Z

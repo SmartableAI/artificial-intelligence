@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "How the Internet of Things and AI will Transform Sports Business?"
-    excerpt: "They can even enjoy auto-curated highlights packages as the game progresses. In this article, we are going to look into the two advanced technologies – IoT and AI which have brought some tremendous changes to the sports sector. Let us deep dive into ..."
-    publishedDateTime: 2021-01-06T19:52:00Z
-    webUrl: "https://www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/"
-    ampWebUrl: "https://www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-internet-of-things-and-ai-will-transform-sports-business/amp/"
+  - title: "AI and automation are linchpins for post-pandemic business success"
+    excerpt: "In both the short term and the long term, and across back- and front-office applications, AI has the potential to add value to business workflows, augment employee capabilities, and harness the power of man and machine to improve customer experience."
+    publishedDateTime: 2021-01-08T14:19:00Z
+    webUrl: "https://www.cio.com/article/3602812/ai-and-automation-are-linchpins-for-post-pandemic-business-success.html"
     type: article
     provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 57
+      name: CIO
+      domain: cio.com
+    quality: 37
     images:
-      - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/12/shutterstock_1034455687-scaled.jpg"
-        width: 2560
-        height: 1466
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "N4XqZj3ZXtue7rGsVaZlPwaezFAi8dUOeLEE4gH0tbeCPAftPYzjxpwnbjfIgVIfjw1+v7BA9rL9mxMPeVR2MjM0THrAh9uRxJpYpAkRFBpSC7e7TqYcqLPzpc+skhwqs7ecQNyTpCMO0C2iLmneFj3A8OZ/dwY4JA8F312+YGts0vmmx4j1GG69ZtDNanzKvH4hhH1MyyBFrjMLiZHWcuXbkIROX41bvyGVnh5+5vUrayYmwPRGVnKWAIlyyXdny4cF9b6wiyJqH+s9bwi06LckbfH+lugnRzVx8NbXkto8e6oMjgRBLNsgj7ITJWmL5oo42GpMyrcEV6l2Djwq2g3jTSCtz36roPL/tCCNJ70=;V7NBKyKewvfA0UVaeY1CBw=="
