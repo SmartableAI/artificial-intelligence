@@ -205,6 +205,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+  - title: "Robo Taxi Market Size, Growth Potential, Industry Revenue and Industry Research Forecast to 2027"
+    excerpt: "The global ''robo taxi market size'' is set to expand at an impressive rate in the forthcoming years as autonomous"
+    publishedDateTime: 2021-01-08T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robo-taxi-market-size-growth-potential-industry-revenue-and-industry-research-forecast-to-2027-2021-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market 2021 Growth and Business Prospects, Industry Size, Forecast by Share, Revenue, Development Status, Demand by Regions 2023"
     excerpt: "Comserve Inc. / -- Based on organization size, the sub-segments include small and medium enterprises (SMEs) and large enterprises. The Machine learning Market is estimated to record a significant growth throughout the forecast period."
     publishedDateTime: 2021-01-08T14:21:00Z

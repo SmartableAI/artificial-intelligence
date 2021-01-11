@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
+    excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
+    publishedDateTime: 2021-01-11T04:56:00Z
+    webUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/"
+    ampWebUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 55
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Intel's Israeli facial recognition technology is going to change the way you draw cash"
     excerpt: "Powered by Intel, Israel's RealSense ID develops a facial recognition system that aims to make debit cards obsolete... Facial recognition technology has already found its way into almost everyone’s pocket nowadays."
     publishedDateTime: 2021-01-10T04:27:00Z

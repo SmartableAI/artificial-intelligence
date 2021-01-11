@@ -221,6 +221,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+  - title: "Robo Taxi Market Size, Growth Potential, Industry Revenue and Industry Research Forecast to 2027"
+    excerpt: "The global ''robo taxi market size'' is set to expand at an impressive rate in the forthcoming years as autonomous"
+    publishedDateTime: 2021-01-08T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robo-taxi-market-size-growth-potential-industry-revenue-and-industry-research-forecast-to-2027-2021-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robotic Vision Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook Until 2023"
     excerpt: "Market Research Future published a research report on \"Robotic Vision Market Research Report – Global Forecast till 2023\""
     publishedDateTime: 2021-01-08T16:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/7/22218903/china-baidu-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
+    excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
+    publishedDateTime: 2021-01-10T22:22:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202101103570/baidu-partners-with-zhejiang-geely-to-produce-electric-cars"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
   - title: "Report: China’s biggest search engine is getting in the electric car business with Geely"
     excerpt: "Baidu is reportedly negotiating to use the SEA platform for upcoming Volvo and Polestar vehicles for a venture powered by its own software."
     publishedDateTime: 2021-01-08T14:00:00Z

@@ -69,20 +69,6 @@ related:
         width: 609
         height: 456
         isCached: true
-  - title: "Computer chip architect Jim Keller joins Tenstorrent Inc"
-    excerpt: "Jim Keller has been named president, CTO, and a board member at Tenstorrent Inc. The ex AMD, Apple, Intel and Tesla processor architect is now expected to leverage his talents to help Tenstorrent develop a leading-edge AI chip that mimics the way the human brain works ( neuromorphic computing )."
-    publishedDateTime: 2021-01-06T12:11:00Z
-    webUrl: "https://hexus.net/tech/news/cpu/147232-computer-chip-architect-jim-keller-joins-tenstorrent-inc/"
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: "https://hexus.net/media/uploaded/2021/1/e65acb8b-ef70-44d0-b22f-3b306717c49b.jpg"
-        width: 515
-        height: 221
-        isCached: true
   - title: "The story of Jim Keller and his pioneering work on chip design and architecture"
     excerpt: "... hands clean at almost every chip architecture and is genuinely is chip design superstar. Jim Keller is in the news, this time for being appointed as CTO of Tenstorrent, a fabless AI chip design and software company. While that’s making waves in the ..."
     publishedDateTime: 2021-01-09T08:30:00Z

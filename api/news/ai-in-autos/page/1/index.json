@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-11-baidu-teams-up-with-geely-to-create-new-self-driving-car-company.md",
+      "title": "Baidu teams up with Geely to create new self-driving car company",
+      "excerpt": "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
+      "publishedDateTime": "2021-01-10T19:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-self-driving-cars-and-the-newest-move-over-slow-down-laws.md",
       "title": "Self-Driving Cars And The Newest ‘Move Over, Slow Down’ Laws",
       "excerpt": "The law and prudent driving dictate that you should move over and slow down when nearing stranded vehicles on the side of the road, which is easier to say than for self-driving cars to achieve.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.theverge.com/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1274,6 +1317,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-30-robo-taxi-market-size-report-2020-recent-trends-share-and-growth-forecast-to-2027.md",
+      "title": "Robo Taxi Market Size Report 2020, Recent Trends, Share, and Growth forecast to 2027",
+      "excerpt": "Top companies covered in the robo taxi market are Ford Motor Company, EasyMile, Lyft Inc., Uber Technologies Inc., NAVYA Ridecell Inc., Daimler AG, Waymo LLC, and more players profiled",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43112114/robo-taxi-market-size-report-2020-recent-trends-share-and-growth-forecast-to-2027",
+      "originalUrl": "https://www.wboc.com/story/43112114/robo-taxi-market-size-report-2020-recent-trends-share-and-growth-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future.md",
       "title": "Tesla’s Musk Ponders In-Car Gaming Opportunities For The Driverless Future",
       "excerpt": "Envisioning an autonomous car that you can play games in may be forward looking, but that has never stopped Tesla or others from pondering the future.",
@@ -1347,92 +1424,6 @@
         "name": "unite",
         "domain": "unite.ai",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-zacks-analyst-blog-highlights-baidu-tesla-general-motors-ford-and-volkswagen.md",
-      "title": "The Zacks Analyst Blog Highlights: Baidu, Tesla, General Motors, Ford and Volkswagen",
-      "excerpt": "Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12",
-      "originalUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12?amp",
-      "publishedDateTime": "2020-12-29T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars.md",
-      "title": "Largest Ever Cyber Hack Provides Vital Lessons For Self-Driving Cars",
-      "excerpt": "Learning valuable cybersecurity lessons from the recent SolarWinds debacle and using those lessons for the advent of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea5d030b6c5fc034334221%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5991%26cropY1%3D266%26cropY2%3D3074",
-          "width": 1199,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/29/largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-12-29T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
