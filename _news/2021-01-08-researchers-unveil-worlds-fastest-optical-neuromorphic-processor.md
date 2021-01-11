@@ -61,6 +61,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 36
+  - title: "The World's Fastest Optical Neuromorphic Processor"
+    excerpt: "An international team of researchers led by Swinburne University of Technology has demonstrated the world’s fastest and most powerful optical neuromorphic processor for artificial intelligence ... leap forward for neural networks and neuromorphic ..."
+    publishedDateTime: 2021-01-11T14:13:00Z
+    webUrl: "https://www.realclearscience.com/2021/01/11/the_worlds_fastest_optical_neuromorphic_processor_655973.html?_escaped_fragment_&_escaped_fragment_"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 24
+    images:
+      - url: "https://assets.realclear.com/images/53/531902_6_.jpg"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "Ev+xYL7uNvScieTSoCZdbA3Mzu6BG+p0uiyLdAHFpfrQG296qS65YrqvSGPfCBNs/I4QM6k99ofOCzq6mhEEGUTZqT8KHqaGGWkwgUrmJLbuhLVRKuUp1t59B+J1gnvg5OJcD7ubnQW7nrs9XhqBA8BbDUTAMy+V3Xa4bkkHNz6WUT5O201jJBDS25iLyV4mDG37RG1U0IRkQOv0aas8foak/rOh0azeLnvuRXkZb6NtrLC9yqNLKjPd/Ula6eIdpwgBpb3vb+PvOprR5k8BXnaTqINMGnV95dWsTlxrO2cyqtHNQmz8oZ1hk5e4mNPAk8jXWj0XXAkDKqZrSwFcvHdeja9BzcxYoaX7fBcKcN4=;oB8qHuGTC96a0/SyJLeBKg=="
 ---

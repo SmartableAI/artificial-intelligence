@@ -27,53 +27,81 @@ images:
     isCached: true
 
 related:
-  - title: "Intel is using its RealSense tech for facial recognition"
-    excerpt: "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance."
-    publishedDateTime: 2021-01-06T21:21:00Z
-    webUrl: "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html"
-    ampWebUrl: "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html"
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T10:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 91
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F7daa7160-5050-11eb-a7fb-ebe8df925d58&client=amp-blogside-v2&signature=21ed96e62f4d4cf3a8e85595647849cb3e045c56"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Intel announces RealSense ID system for facial recognition"
-    excerpt: "Intel today announced a new facial recognition system that makes use of its RealSense depth-sensing camera from 2019. The RealSense ID technology is designed to provide access to smart locks, ATMs, point-of-sale terminals, and more devices with only a glance."
-    publishedDateTime: 2021-01-06T21:37:00Z
-    webUrl: "https://www.neowin.net/news/intel-announces-realsense-id-system-for-facial-recognition"
-    ampWebUrl: "https://www.neowin.net/amp/intel-announces-realsense-id-system-for-facial-recognition/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/intel-announces-realsense-id-system-for-facial-recognition/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
+      name: Reuters
+      domain: reuters.com
     quality: 89
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/01/1609962114_intel-realsense-id-2-scaled_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
+        width: 743
+        height: 545
         isCached: true
-  - title: "Intel Pivots Its RealSense Cameras Into Facial Recognition Tech"
-    excerpt: "Intel announced today that it will make its RealSense 3D cameras available for customers hoping to utilize the tech for faster facial recognition in the form of RealSense ID."
-    publishedDateTime: 2021-01-06T21:30:00Z
-    webUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990"
-    ampWebUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
+  - title: "NEC says new facial recognition system isn't stopped by masks"
+    excerpt: "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,"
+    publishedDateTime: 2021-01-07T15:57:00Z
+    webUrl: "https://mashable.com/article/nec-face-recognition-mask/"
+    ampWebUrl: "https://mashable.com/article/nec-face-recognition-mask.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
+      name: Mashable
+      domain: mashable.com
     quality: 89
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mwvgcouoofelt0sd5tt8.png"
+      - url: "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM="
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Masks Can't Confuse NEC's New Facial Recognition System"
+    excerpt: "Studies have shown that facial recognition algorithms created before the pandemic are easily confused when their subject matter is wearing a mask. As Reuters reports, NEC is ahead of the curve because the company was already working on a recognition system capable of dealing with masks before the pandemic started."
+    publishedDateTime: 2021-01-07T16:58:00Z
+    webUrl: "https://uk.pcmag.com/security/130840/face-masks-cant-confuse-necs-new-facial-recognition-system"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/face-masks/face-masks-cant-confuse-necs-new-facial-recognition-system_mpue.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Masks no obstacle for new NEC facial recognition system"
+    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T22:33:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-japan-facial-recognit-idINKBN29C0KQ?edition-redirect=in"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546914295&r=LYNXMPEH060C9&w=800"
         width: 800
-        height: 482
+        height: 572
+        isCached: true
+  - title: "Facial recognition system can identify people wearing masks"
+    excerpt: "A facial recognition system that can identify individuals even when they are wearing a mask has launched in Japan. The technology, created by Japanese company NEC, works in less t"
+    publishedDateTime: 2021-01-07T15:27:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 61
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/07/10/A-hacker_trans_NvBQzQNjv4BqNUHzxaamNmHDqK-YksWRz2o-yMLyYquKCawpyDOW254.jpg"
+        width: 560
+        height: 350
         isCached: true
   - title: "Intel's new facial recognition system for ATMs is made in Israel"
     excerpt: "Traditional authentication methods leave users vulnerable to ID theft and security breaches, Intel said, leading companies to pursue facial authentication technology for higher security standards."
@@ -91,21 +119,37 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Intel's new RealSense ID packs on-device facial recognition"
-    excerpt: "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data."
-    publishedDateTime: 2021-01-07T06:36:00Z
-    webUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
+  - title: "Masks no obstacle for Japan’s new facial recognition system"
+    excerpt: "The system determines when a person is wearing a mask and hones in on the parts that are not covered up, such as the eyes and surrounding areas, to verify the subject's identity."
+    publishedDateTime: 2021-01-07T12:04:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 59
     images:
-      - url: "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png"
-        width: 620
-        height: 387
+      - url: "https://www.thehindu.com/sci-tech/technology/amxeem/article33520942.ece/ALTERNATES/LANDSCAPE_615/japan-facial-recognitionjpg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Masks no obstacle for new facial recognition system"
+    excerpt: "Japan’s NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal"
+    publishedDateTime: 2021-01-07T10:37:00Z
+    webUrl: "https://arynews.tv/en/mask-facial-recognition-system/"
+    ampWebUrl: "https://arynews.tv/en/mask-facial-recognition-system/amp/"
+    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/mask-facial-recognition-system/amp/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 59
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2021/01/facial-recognition.jpg"
+        width: 750
+        height: 369
         isCached: true
   - title: "Intel’s RealSense Finds A New Lease On Life As A Facial Recognition System"
     excerpt: "Intel debuted its RealSense depth-sensing technology several years ago where it made its way onto devices like laptops. Thanks to the use of"
@@ -123,134 +167,97 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
-    excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
-    publishedDateTime: 2021-01-11T04:56:00Z
-    webUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/"
-    ampWebUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
-    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+  - title: "A new normal: Face masks no obstacle for this new Japanese facial recognition system"
+    excerpt: "Japan's NEC Corp launches facial recognition system that identifies people even when they are wearing face masks"
+    publishedDateTime: 2021-01-07T10:44:00Z
+    webUrl: "https://www.geo.tv/latest/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
+    ampWebUrl: "https://www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
+    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
     type: article
     provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 55
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Intel Introduces 'RealSense ID' Facial Recognition System for Smart Locks, ATMs, More"
-    excerpt: "Intel has announced a new 'RealSense ID' facial recognition system that combines an active depth sensor with a specialized neural network designed to deliver secure, accurate and user-aware facial authentication. Intel RealSense ID works with smart locks ..."
-    publishedDateTime: 2021-01-07T04:43:00Z
-    webUrl: "https://www.iclarified.com/79213/intel-introduces-realsense-id-facial-recognition-system-for-smart-locks-atms-more"
-    ampWebUrl: "https://www.iclarified.com/79213/intel-introduces-realsense-id-facial-recognition-system-for-smart-locks-atms-more/amp"
-    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79213/intel-introduces-realsense-id-facial-recognition-system-for-smart-locks-atms-more/amp"
-    type: article
-    provider:
-      name: iClarified
-      domain: iclarified.com
+      name: Geo News
+      domain: www.geo.tv
     quality: 52
     images:
-      - url: "https://www.iclarified.com/images/news/79213/79213/79213-640.jpg"
-        width: 640
-        height: 360
+      - url: "https://www.geo.tv/assets/uploads/updates/2021-01-07/l_328610_122102_updates.jpg"
+        width: 700
+        height: 390
         isCached: true
-  - title: "Intel's Israeli facial recognition technology is going to change the way you draw cash"
-    excerpt: "Powered by Intel, Israel's RealSense ID develops a facial recognition system that aims to make debit cards obsolete... Facial recognition technology has already found its way into almost everyone’s pocket nowadays."
-    publishedDateTime: 2021-01-10T04:27:00Z
-    webUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/"
-    ampWebUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
+  - title: "Masks no problem for NEC's facial recognition"
+    excerpt: "Look into my eyes NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
+    publishedDateTime: 2021-01-07T10:40:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52160-masks-no-problem-for-nec-s-facial-recognition"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 51
-    images:
-      - url: "https://www.geektime.com/content/images/2021/01/1ca31571-f685-4bee-85be-b55bac1216ec-1609950288.jpeg"
-        width: 1431
-        height: 966
-        isCached: true
-  - title: "Intel Has Developed Facial Recognition Technology for Its RealSense Depth-Sensing Camera"
-    excerpt: "Intel has now developed its RealSense depth-sensing camera with facial recognition technology, which it hopes could be applied for uses on ATMs or smart locks. Named RealSense ID, the company ..."
-    publishedDateTime: 2021-01-07T04:57:00Z
-    webUrl: "https://hypebeast.com/2021/1/intel-realsense-id-facial-recognition-technology"
-    ampWebUrl: "https://hypebeast.com/2021/1/intel-realsense-id-facial-recognition-technology?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/1/intel-realsense-id-facial-recognition-technology?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 50
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F01%2Fintel-realsense-id-facial-recognition-technology-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1170
-        height: 780
-        isCached: true
-  - title: "Intel adds facial recognition tech to its RealSense cameras"
-    excerpt: "Intel Corp. is transforming its RealSense cameras into a facial recognition system that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
-    publishedDateTime: 2021-01-07T00:12:00Z
-    webUrl: "https://siliconangle.com/2021/01/06/intel-adds-facial-recognition-tech-realsense-cameras/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7bf467bf754a86923bd12df78ba60421_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Intel adds facial recognition tech to its RealSense portfolio"
-    excerpt: "Intel Corp. today announced new facial recognition hardware and software that can be used in retail stores to facilitate payments or other settings to provide access to restricted areas."
-    publishedDateTime: 2021-01-07T03:42:00Z
-    webUrl: "https://siliconangle.com/2021/01/06/intel-adds-facial-recognition-tech-realsense-portfolio/"
+  - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
+    excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
+    publishedDateTime: 2021-01-07T22:05:00Z
+    webUrl: "https://mobileidworld.com/new-dell-video-conferencing-monitors-support-facial-recognition-010709/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Mobile ID News
+      domain: mobileidworld.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/intel-realsense-id-2-scaled.jpg"
-        width: 1200
-        height: 675
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
         isCached: true
-  - title: "Intel unveils on-device face recognition tech for ATMs, kiosks"
-    excerpt: "Chip maker Intel has introduced RealSense 3D cameras with an on-device solution for facial recognition, designed to perform facial authentication on consumer devices such as point-of-sale (PoS) systems,"
-    publishedDateTime: 2021-01-07T08:11:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks.html"
+  - title: "Japan firm launches facial recognition system that identifies mask-wearing users"
+    excerpt: "Japan's NEC Corp had already been working on a system to meet the needs of allergy sufferers who wear masks.. Read more at straitstimes.com."
+    publishedDateTime: 2021-01-07T07:50:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/masks-no-obstacle-for-new-nec-facial-recognition-system"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 34
     images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks-2021-01-07.jpg"
-        width: 1000
-        height: 800
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/07/nz_nec_070167.jpg?itok=ni3rFtrR"
+        width: 763
+        height: 509
         isCached: true
-  - title: "Intel is Repositioning its Depth-Sensing Camera into Facial Recognition"
-    excerpt: "Intel has officially launched RealSense ID, a facial recognition camera module that is built on its RealSense depth-sensing technology. Originally"
-    publishedDateTime: 2021-01-08T19:08:00Z
-    webUrl: "https://petapixel.com/2021/01/08/intel-is-repositioning-its-depth-sensing-camera-into-facial-recognition/"
+  - title: "This Facial Recognition Program Can Tell Who You Are Even If You're Wearing a Mask"
+    excerpt: "One Japanese company says they've developed a system that can bypass face coverings for facial recognition. Veuer's Tony Spitz has the details."
+    publishedDateTime: 2021-01-07T21:14:00Z
+    webUrl: "https://www.11alive.com/video/syndication/veuer/this-facial-recognition-program-can-tell-who-you-are-even-if-youre-wearing-a-mask/602-c6550d31-d5f5-41e7-b22e-4faec5bab6b0"
     type: article
     provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 39
+      name: 11Alive
+      domain: 11alive.com
+    quality: 33
     images:
-      - url: "https://petapixel.com/assets/uploads/2021/01/Intel-is-Repositioning-its-Camera-Depth-Sensing-Tech-into-Facial-Recognition.jpg"
-        width: 1600
-        height: 840
+      - url: "https://media.11alive.com/assets/VEUER/images/6688031b-cbcf-428d-891d-20bda669d7e6/6688031b-cbcf-428d-891d-20bda669d7e6_1140x641.jpeg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Intel launched RealSense ID, a facial recognition tech"
-    excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
-    publishedDateTime: 2021-01-11T11:36:00Z
-    webUrl: "https://techstory.in/intel-launched-realsense-id-a-facial-recognition-tech/"
+  - title: "Major facial-recognition supplier builds system to identify masked faces"
+    excerpt: "Facial-recognition supplier claims new system can accurately identify masked faces and therefore promote public health during the pandemic, but questions remain about whether its existing UK law enfor"
+    publishedDateTime: 2021-01-08T14:49:00Z
+    webUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces"
+    ampWebUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 23
+  - title: "Facial recognition that works with masks"
+    excerpt: "With so many casinos now implementing facial recognition systems it is interesting that a Japanese company has introduced one that will work even when guests ar"
+    publishedDateTime: 2021-01-11T07:51:00Z
+    webUrl: "https://www.intergameonline.com/casino/news/facial-recognition-that-works-with-masks"
+    type: article
+    provider:
+      name: InterGame
+      domain: intergameonline.com
     quality: 19
 
 secured: "WV65OSXKNiTLvnZmcO389P9kfti2ONeInibK15OggQGld015FNRSQoyQTULZq+t1nOqNzTBW3wCaysq1LM+q0Y84lQBllT4xUImrf9523iwFqR+Eddrs5pYmwH/X/nK7NBE3MLU/90Axglx81Kpo8ZmTQIynjv0avai0BhiUQ8UmWLHvgKCrTFtjo+RO298jBTRE+ZWLyXyHe2QmVcx2PGn0Rct9vJWaNmIsalbsqY8fORxZziJhNFsfDBEYno1edLn3jQ99OCWFUypGBwiuIULS2NY/j1MvHBo7GYrQcI8qo6i7fTjkhgPbdViw5QjfrozZ8RGVFXlamPHvMtg8IUGPE72uLBnYwPcnQUVV6Lbd2+Sd1MpNXkgEfZvsrGb0sremjdzC/qODahuM8Z+Jv1l93H3Yny5syfs3HfhNDjBQ37bGJtVuKAwlSV/BxKdF0Csr/BLCzXRk+Nj5JZWHUCX+77/Nsl+PXLV1y29uQui3S1y+3qUbmNSYrKPJTw47YuLvRDkMOO6eGzLbKVEkow==;/YTqySeOUtXwymwoCkywZQ=="

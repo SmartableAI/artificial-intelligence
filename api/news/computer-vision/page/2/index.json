@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
+      "title": "Cuomo signs facial recognition, voter registration bills",
+      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
+      "originalUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-panasonic-to-demonstrate-guidance-service-for-priority-elevators-in-cooperation-with-marui-department-store-in-tokyo.md",
       "title": "Panasonic to Demonstrate Guidance Service for Priority Elevators in Cooperation with Marui Department Store in Tokyo",
       "excerpt": "As a result, the object recognition technology was found highly effective in recognizing their entry and exit. A similar image recognition technology will be used for the demonstration at the ...",
@@ -1363,50 +1406,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur.md",
-      "title": "How to get face recognition on HomeKit security cameras in iOS 14 and macOS Big Sur",
-      "excerpt": "Once you know how it's meant to work, it's very easy to have your HomeKit security cameras recognize you and your family. It can just be a little frustrating when you first try to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur",
-      "originalUrl": "https://appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/39262-75132-000-lead-Face-Recognition-in-HomeKit-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur/amp/",
-      "publishedDateTime": "2020-12-10T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

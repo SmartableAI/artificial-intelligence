@@ -1,28 +1,28 @@
 ---
 category: news
 title: "£3m to fund new wave of Artificial Intelligence for the military"
-excerpt: "Innovation research announced for DASA Intelligent Ship Phase 2 competition The second phase of funded proposals has been announced for the Defence and Security Accelerator (DASA) Intelligent Ship competition to revolutionise military decision-making,"
-publishedDateTime: 2021-01-11T11:44:00Z
-originalUrl: "https://www.gov.uk/government/news/3m-to-fund-new-wave-of-artificial-intelligence-for-the-military"
-webUrl: "https://www.gov.uk/government/news/3m-to-fund-new-wave-of-artificial-intelligence-for-the-military"
+excerpt: "Phase 2 of Intelligent Ship, run by DASA on behalf of the Defence Science and Technology Laboratory (Dstl), sought novel technologies for use by the military in 2030 and beyond. Nine innovative projects have been funded,"
+publishedDateTime: 2021-01-11T13:03:00Z
+originalUrl: "https://www.politicmag.net/politics-news/3m-to-fund-new-wave-of-artificial-intelligence-for-the-military-31950-2021/"
+webUrl: "https://www.politicmag.net/politics-news/3m-to-fund-new-wave-of-artificial-intelligence-for-the-military-31950-2021/"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: gov.uk
-  domain: www.gov.uk
+  name: politicmag.net
+  domain: politicmag.net
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/112075/s960_Intelligent_Ships960x640.jpg"
+  - url: "https://www.politicmag.net/wp-content/uploads/2021/01/3m-to-fund-new-wave-of-Artificial-Intelligence-for-the-military.jpg"
     width: 960
     height: 640
     isCached: true
 
-secured: "L1zgk9+rkevLOe5tEiLhT7PKCMQSPUZ7u9Xg9gTSyphMpefDiE4sL3WKHHWqINyPCRd0/YoLpyXFoPHLUde13BMyoUTk22yBXQ4FketGrD3ixGE38pMuS0jAVMkwOyFUoipMBH8ba3uMGgMAVBlvxNX1vncMXYaUyEPLV4m7NOB0LyT3W8UpmJdso2KzfvW/PiY8+iNXLHNsfxrNXqrMX0u3WW1vlNZgM5sMaVbhw7PgtzjRBD7KmKbdtyvetY9r6k3aF9Yaj5aBiWCjvLv+8oC0OXzO4wZsURQhnVnWXhljdk1m8AeDX34v0i1NAKlgaCZh7Rr8rYk+OF/rfxRvWgRNCj9K6dY7B5TNx0QImsY=;c4W5zKu/8J0DVoVlYySuGg=="
+secured: "3qPE0rk/KvMrdzneVcH/VzgLPYFsG98D1yzZmBcjfPO2nN5TGVNhIfPWsqsuvUHnfS43B7PRY7ZdHQJrq6Ex6gZOcQedh6FcTAbbKGK8lPfKAcIyH5Ql3lyUy3U98MQRj6sVAtwx7ehk5E/+UMMF0Z0oRaJonUNWgDx7YSgaO/heHJObTtqLBWZzi2BN9aPTmLVhZbjFk82KxrPn75YedLsW4mv+INhVPrVI5OTOKAsf6jfkWGz/xt39K37Dqj8hrBFzFLMcJ0xjLoz/kDtQfEn2Vs26eBt9auIlxAgu9X03P1AWCFTTBq0LWV0o4OomS3PagIclxWn4sSz1lt3vCzCapWbgHpewb8bXfN/Qul4=;bPv4BeoKD0efLK6SsNWQcQ=="
 ---
 

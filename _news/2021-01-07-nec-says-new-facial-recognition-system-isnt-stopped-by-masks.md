@@ -59,17 +59,17 @@ related:
         isCached: true
   - title: "Masks no obstacle for new NEC facial recognition system"
     excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T22:20:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUSKBN29C0JZ"
+    publishedDateTime: 2021-01-07T22:33:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-japan-facial-recognit-idINKBN29C0KQ?edition-redirect=in"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 69
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546913023&r=LYNXMPEH060BW&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546914295&r=LYNXMPEH060C9&w=800"
         width: 800
-        height: 586
+        height: 572
         isCached: true
   - title: "Facial recognition system can identify people wearing masks"
     excerpt: "A facial recognition system that can identify individuals even when they are wearing a mask has launched in Japan. The technology, created by Japanese company NEC, works in less t"
@@ -87,21 +87,21 @@ related:
         width: 560
         height: 350
         isCached: true
-  - title: "Government Facial Recognition Can Identify 96 Percent of Masked People"
-    excerpt: "A powerful new facial recognition system can recognize and identify people 96 percent of the time — even when they’re wearing a mask to protect against the coronavirus. It goes without saying ..."
-    publishedDateTime: 2021-01-06T21:32:00Z
-    webUrl: "https://futurism.com/the-byte/government-facial-recognition-identify-96-percent-masked-people"
-    ampWebUrl: "https://futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-facial-recognition-identify-96-percent-masked-people/amp"
+  - title: "Intel's new facial recognition system for ATMs is made in Israel"
+    excerpt: "Traditional authentication methods leave users vulnerable to ID theft and security breaches, Intel said, leading companies to pursue facial authentication technology for higher security standards."
+    publishedDateTime: 2021-01-07T14:30:00Z
+    webUrl: "https://www.jpost.com/jpost-tech/intels-new-facial-recognition-system-for-atms-is-made-in-israel-654620"
+    ampWebUrl: "https://m.jpost.com/jpost-tech/intels-new-facial-recognition-system-for-atms-is-made-in-israel-654620/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/intels-new-facial-recognition-system-for-atms-is-made-in-israel-654620/amp"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
     quality: 59
     images:
-      - url: "https://wp-assets.futurism.com/2021/01/government-facial-recognition-identify-96-percent-masked-people-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/449775"
+        width: 640
+        height: 428
         isCached: true
   - title: "Masks no obstacle for Japan’s new facial recognition system"
     excerpt: "The system determines when a person is wearing a mask and hones in on the parts that are not covered up, such as the eyes and surrounding areas, to verify the subject's identity."
@@ -134,6 +134,38 @@ related:
       - url: "https://arynews.tv/wp-content/uploads/2021/01/facial-recognition.jpg"
         width: 750
         height: 369
+        isCached: true
+  - title: "Intel Launches RealSense ID, An On-Device Facial Recognition System"
+    excerpt: "Intel has launched RealSense ID, a new on-device facial recognition system that uses the company's RealSense 3D technology."
+    publishedDateTime: 2021-01-07T16:49:00Z
+    webUrl: "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Intel’s RealSense Finds A New Lease On Life As A Facial Recognition System"
+    excerpt: "Intel debuted its RealSense depth-sensing technology several years ago where it made its way onto devices like laptops. Thanks to the use of"
+    publishedDateTime: 2021-01-07T14:01:00Z
+    webUrl: "https://www.ubergizmo.com/2021/01/intel-realsense-facial-recognition/"
+    ampWebUrl: "https://www.ubergizmo.com/2021/01/intel-realsense-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/01/intel-realsense-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 57
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "A new normal: Face masks no obstacle for this new Japanese facial recognition system"
     excerpt: "Japan's NEC Corp launches facial recognition system that identifies people even when they are wearing face masks"

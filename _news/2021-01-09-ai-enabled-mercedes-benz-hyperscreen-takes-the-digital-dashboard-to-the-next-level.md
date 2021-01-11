@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI-enabled, 56-inch touchscreen will be in Mercedes' new electric car—take a look"
-    excerpt: "The Mercedes \"Hyperscreen\" incorporates multiple displays within one sheet of curved glass that extends completely from one side of the vehicle to the other."
-    publishedDateTime: 2021-01-10T13:00:00Z
-    webUrl: "https://www.cnbc.com/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 79
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106124705-1568233045516gettyimages-1167204689.jpeg?v=1610137376"
-        width: 3010
-        height: 1781
-        isCached: true
   - title: "Mercedes-Benz Hyperscreen User Interface Is Massive, Employs Artificial Intelligence"
     excerpt: "Benz EQS sedan, an all-electric addition to the maker’s flagship S-class lineup. Mercedes-Benz Set to debut in the upcoming Mercedes-Benz EQS S-class EV sedan, the MBUX Hyperscreen system is the latest evolution of the automaker’s MBUX (Mercedes-Benz User Experience) central command center."
     publishedDateTime: 2021-01-07T17:08:00Z
@@ -59,6 +43,22 @@ related:
       - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/01/2021-mercedes-benz-eqs-sedan-1200.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "This AI-Enabled, 56-Inch Touchscreen Will Be in Mercedes' New Electric Car—Take a Look"
+    excerpt: "The Mercedes “Hyperscreen” incorporates multiple displays within one sheet of curved glass that extends completely from one side of the vehicle to the other."
+    publishedDateTime: 2021-01-10T15:31:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-car-take-a-look/2822373/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 49
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/106124705-1568233045516gettyimages-1167204689.jpeg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "l/l5DXy2IzNsehBdJ6/0KqDXFnI21beV/CIjxQh+RntjjjavJPTWB4IcEX5LGqwc4jwRo5ei3jJ6L1pvpX4NLQOX2+59MndbKrlfnjuGsC4WZC8cbTdIEabGPO0S+mj8kyOmkhvzaFDqhgkWiza2kqUmyCWi0N0LWrA1cJoFKcHMgoJBMIXFKvr5aDLRpxIbfcHlKQvmPfPDNaF0R6wtozHjR/3YW1z1FsJGrBwiFtcsF5rv0m3K4NAkE/eLTo0fR1XCrOnwAIyvf0zzXxeySOkFu6u7AJHZBSVbyo+SBjBmTF52eyqgpFxaSlErOvjMw5R6L5JSq0NedJuBaNlVChhVos6FSWELjPwkLZpsrC8WiiZHK87nMzcI2fk7jHXxbpHDSO10VzaDxzgfwpu9RxUK8tKC+Pm6GyNN24lLvGYsTMRMHyGNrzlSCeuIB2RheRc8H+hZkGqKMMnDPNx4h7Njg1fUdDyxB3PGTLlZyO61nyigrmsGwPJzUUIU9Mni5VuGX3ccjO3ejUJWU1hOGg==;YFlew61odOZge5z+yJOvPg=="

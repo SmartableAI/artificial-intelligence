@@ -37,18 +37,18 @@ related:
       domain: zdnet.com
     quality: 69
   - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Form Strategic Partnership with Geely"
-    excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish"
-    publishedDateTime: 2021-01-11T00:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-301204806.html"
+    excerpt: "(NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV), and that it has entered into a strategic partnership with multinational auto manufacturer Zhejiang Geely Holding Group (\"Geely\")."
+    publishedDateTime: 2021-01-11T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-2021-01-10"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Y8zCtcJ9Q/vqOhfLn9gEgIwjK+VGj7rhX01W3oDPSb+sxsLDk7K84agUkzXVxOICB3roGcFNvSztOARNwUnGSSQdICmWAMxMfFgnmDxFLVRr7MUTNO+7y7nNi7hy8CVJqe+/QBuUuIKwURtdwDBMYj/X8nHIgu+SrbW0jpp5ooxo3mIqaIf+I5ql3FWVlCbUPfoJrHiIZTuYR0bTSBIFMN3/4WRMK5Y6OujfTy8r3qhYW+Gt9A7Oew96PYlYaCJMOe9+AHN6voVqScv+K+fphs1v8qzJUpAEttqWEuGDlIf3Yjja5PUpj5kXdTxoc1i9IU77yf0UmkcL2w8NoSHLAwg70xQtdvg9Ej4c8cvWZ8Y=;5Bdg9fILHxm/bIXPNi4UMA=="

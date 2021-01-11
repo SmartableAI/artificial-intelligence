@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azooptics.com/amp/news.aspx?newsID=26516"
 cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=26516"
 type: article
 quality: 59
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.newelectronics.co.uk/article-images/233440/neuromorphic.jpg?width=375&height=250&scale=canvas"
         width: 375
         height: 250
+        isCached: true
+  - title: "The World's Fastest Optical Neuromorphic Processor"
+    excerpt: "An international team of researchers led by Swinburne University of Technology has demonstrated the world’s fastest and most powerful optical neuromorphic processor for artificial intelligence ... leap forward for neural networks and neuromorphic ..."
+    publishedDateTime: 2021-01-11T14:13:00Z
+    webUrl: "https://www.realclearscience.com/2021/01/11/the_worlds_fastest_optical_neuromorphic_processor_655973.html?_escaped_fragment_&_escaped_fragment_"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 24
+    images:
+      - url: "https://assets.realclear.com/images/53/531902_6_.jpg"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "VIXbUKgjey7xY0xmIyRyOYP6T0CEZJ3UQeV2IffvtU6HL3GK5Jg/BDz+G5y0jUGvwf0fgn6YTwYAGKaX5LwXyR/pcG3VFke7Wp7tLj38PTbdrROLoya9xaN0w70+P8TfPZpWoOxromPvis3EvTmUVEGRZmcC6eK+AEU8Z5BusDdCWjYy2Xs79kjVor+dUr+WO3BCX+DlrlC5ScrdTDX/GfJMktnFIg0q1164GWCTkJxo0YaNFwd2SVfuMz5237QNWFa2XJZFJ4DzWV+y4o5znLyV360QAa5PkgsiGfPNYXcOADKSNRK/FfWoF6LDs5mLXzrpd9kBwRoZ/nHxuGBpThhBnPPxoL4C+vrPT5M1TDrOMEeCSUL7h0hICQ/oqNAYny8gcbTcdnggwxggl+c4bmJdukBM9nzqYvxZ1+arnNePa8qtN/R3WxHocMgZ0Xi3ZpWkaDmlGjLYUhL2cS2CvEcPyoBAeQZtd5nF3gm/BjGiIj6O8xtNuwM2CRxxAK20KZEcd/iq1uZruB0QXsc3uA==;A7MyUyxDMyO/E5gEcbUdqA=="

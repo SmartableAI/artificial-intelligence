@@ -24,6 +24,19 @@ images:
     height: 316
     isCached: true
 
+related:
+  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
+    excerpt: "Integration enables Alteryx customers to gain unparalleled insight into unstructured data sources Veritone, Inc. (NASDAQ:VERI), the creator of the world's first"
+    publishedDateTime: 2021-01-11T12:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19097090/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automat"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19097090"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19097090"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+
 secured: "qhHRXNYuPeI6D+MlwucKVL8ea1+6+DzUqbL5qS9gEw0ofjmJSf3zCO3FhTd+Xm1KM9yAvJhfFLom8lH7JXnEnF97pb7Ci6Yj5CUhsq96wpP3hQOA30mxMdGupsmDYFcs11b1rzOlrDkT+Biprdt/rkP9nXEQRuSLMWDSyWt+ncTr8W8dzk32tq9JrKUo1I3BwnXCPwu9BRiUzWzr3uDVpI6THw+gmgLZhjwPzGM6Hi3Kxw4VXOkhMxFjZgQ61zFp84QCeFh+QYQeG7bnXi46wnHWy/0ELRDZ6L3mTs5LbSlsQpI2BIMagAXv72inwov8sHy0KQJ5mPB4yKNVAp3j9h9saHc4mEYgB3aKjyGz/WE=;LRMto0mdyffqcl1WC7CXBQ=="
 ---
 

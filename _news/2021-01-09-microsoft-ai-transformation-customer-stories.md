@@ -39,7 +39,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 138
+    quality: 140
     images:
       - url: "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg"
         width: 1200
@@ -140,20 +140,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/53909/content/ai-robot.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
-    publishedDateTime: 2021-01-06T23:02:00Z
-    webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
   - title: "Industry Preview: AI And Privacy Will Come Together In 2021"
     excerpt: "This podcast is sponsored by IBM Watson Advertising. Will 2021 be a pivotal year for AI? In the second episode of AdExchanger’s Industry Preview podcast series, IBM’s Sheri Bachstein outlines the huge stakes as the industry scrambles to retrofit its ..."

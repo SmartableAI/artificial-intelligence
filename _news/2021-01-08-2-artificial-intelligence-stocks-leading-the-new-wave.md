@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-lea
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://www.thestatesman.com/wp-content/uploads/2021/01/QT-DcodeAI.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Opening the black box: AI, applied"
+    excerpt: "In the accounting profession, there is a similar uneasiness when dealing with the idea of AI, though it has nothing to with how the software looks. The technology has the potential for high-level automation of processes,"
+    publishedDateTime: 2021-01-11T14:08:00Z
+    webUrl: "https://www.accountingtoday.com/news/opening-the-black-box-ai-applied"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 41
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/538890f/2147483647/strip/true/crop/3150x1654+0+1048/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F18%2F95%2Fa04124434b48ac7dbdc768334c53%2Fact1021-cover-image.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "LUltPBKBaoccCZr3lTyu8pR0pdP8NVtAYD43VuZ9gZzNK794thvNuUgIkOTADkN+i1wea7PmFd0nVBqRIpreb255ay6SOCBBj0MHpS21i2SPHXXa9JVRBfW/9PiMsHEXtNcOwiS7NdjizgXUcz0lk1gYkXdlp2xKvhXpanQ3+9uB+p5vKw/Fc7akZlFhYNRdptM9y7pa2nhTnvd3Voemq+6iVYsOywTTe10iJ/kIXKEwOYbf0t1LptC0Lb6o/7AKpN8iwl0OK/HqqGtsK0Xg1ub3QH0f54sjVSaB9A+TxIJTYqbpHX5Eo3Iqbeu6h7Tp7GKLqirjFSc9RW+WJyqa8UT6W69kOG3qXj6Nul2DZR0=;LuAlBlrevuVyqmNV/Pgqmw=="

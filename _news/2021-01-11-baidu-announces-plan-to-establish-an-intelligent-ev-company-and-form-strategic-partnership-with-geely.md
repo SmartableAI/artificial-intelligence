@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Baidu Announces Plan to Establish an Intelligent EV Company and Form Strategic Partnership with Geely"
-excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish"
-publishedDateTime: 2021-01-11T00:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-301204806.html"
-webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-301204806.html"
+excerpt: "(NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV), and that it has entered into a strategic partnership with multinational auto manufacturer Zhejiang Geely Holding Group (\"Geely\")."
+publishedDateTime: 2021-01-11T05:28:00Z
+originalUrl: "https://www.marketwatch.com/press-release/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-2021-01-10"
+webUrl: "https://www.marketwatch.com/press-release/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-2021-01-10"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -51,6 +55,6 @@ related:
         height: 600
         isCached: true
 
-secured: "w1Irz8XFzmgnWVVqfZv2nrkhQMIQwGhxkthBJzC7Fi0I/UQZ5J0j3WFUE9XfAXwC4dtRUCgT3cleIIT9jXmFwq9QHbJZTgEgfXLf6PGBPzW0msup0xjHGXi6dxYVRbJ/IQXEVl4Coj937VKUl+6xEyr5D00nxBHQQ/cjpkhBQ50Pe581KRhsUr8xJFMStu2Ygs3zJx+ZlzgfakUZvLP1eCkdKkXOK+4zTmbRrCWx+8vl6Fd/5xQ4eTdHpqd6fxOnbFmrjiZ7PZlzTQTqjcoOd8AJEOushGEzObkRvfQXgAgSlfxXnXnYFTc9OctQpqT1OMpRVMjOH6772UroFaJA28mR/k9uD1/0+l1G+qBrj+g=;Vq/eQTOJ6W7C0XXT77AoaA=="
+secured: "AEtmUdJfUYst0I2A/4Hed91MLB/aOCLJcPvDLmqdtKf6QGNSP3OBVN/ANRylVwOmMWZz+v93HRHY3iROYj/r44781DZBQ4k0XKGOJt56EkYqTJJJSXXYTopSSa1dm6VcaXwYTd68NmJybElRkotFmGSjQZqFLFGn3MGfhIxiZaIbKVQGszOvLnaci2VPa8bhfsxeMb6br6c3Gq194P8GaQEnU6ABaqFarfjsK/IyqCUtPNdztFUXogDusZR3Sp23YoRqMw5MF1pK9ZffZzZdZg7KpORALDOU9cuJXmHgz9EMGO7l3Aeh1nEnGo3Rsz9LbyvqUOEJO27l9zvjIDGDGzHOTJ3t+v8kN0mG72nFia0=;psY1XYEMuJg1+TX6EHEr+Q=="
 ---
 

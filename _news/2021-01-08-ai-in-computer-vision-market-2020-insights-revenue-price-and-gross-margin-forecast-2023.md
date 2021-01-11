@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08"
 type: article
 quality: 74
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -248,6 +248,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence in Healthcare Report 2020 - Global Market Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
+    publishedDateTime: 2021-01-11T06:58:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210111005616/artificial-intelligence-in-healthcare-report-2020-global-market-forecast-to-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 16
   - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "COVID-19 Growth and Change\" report has been added to ResearchAndMarkets.com's offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists, marketers and senior management with the critical information they need to assess the global hr advisory services market."
     publishedDateTime: 2021-01-08T12:53:00Z

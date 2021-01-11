@@ -2,26 +2,26 @@
 category: news
 title: "How far can facial recognition go in finding rioters in DC?"
 excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-publishedDateTime: 2021-01-09T12:47:00Z
-originalUrl: "https://www.kgw.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-webUrl: "https://www.kgw.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-ampWebUrl: "https://www.kgw.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+publishedDateTime: 2021-01-09T04:47:00Z
+originalUrl: "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+webUrl: "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+ampWebUrl: "https://www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KGW8
-  domain: kgw.com
+  name: WCNC
+  domain: wcnc.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.kgw.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+  - url: "https://media.wcnc.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -78,7 +78,7 @@ related:
   - title: "Fact check: Facial recognition company did not identify Antifa members among Capitol mob"
     excerpt: "A news outlet that reported that a facial recognition company identified members of Antifa among the mob that stormed the U.S. Capitol has now apologised and issued a correction. Screenshots featuring the original report,"
     publishedDateTime: 2021-01-09T02:13:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-antifa-idUSKBN29D2WV"
+    webUrl: "https://www.reuters.com/article/reutersComService/idUSKBN29D2WV"
     type: article
     provider:
       name: Reuters
@@ -175,6 +175,6 @@ related:
         height: 392
         isCached: true
 
-secured: "kw9j8Xs7vKtQDQpTMWzjA4A3TrZkohhOieb0t+mR8oE7BRCICwCdyAWmgDaN12X4o0jbFoytEYae2LBCiUZ9j8K9ZIVMyvLxU6kLFeP0BOTQoSM22EYvX0WwdlGYBpTIohNDrZYxpuyiqr/vYq/gjr0vaZ2wpqtB13EXJDVjkr9HrC1i69u2Qu6qh0dCtMJfo0If5IaD1V+XbxkRwngCN7chwevtslZrbIIwN+bmONlwV1Q5+o7jjoAi3hjdPJ1nl45wT6o+NP4ztvA61lGiXAi9s7/BQx2Pnpo8koMrOgTe6NqW/kI5j8gkaR3m3UutlPTeMiTKO9gpYw1w0fUuFIrkXAAN04O5B1SrjyAjDpmGH9gh4c0c30uR+6d1VNquxz/ID3c4fuB6PSpqWQ88qOJ/ZHeeZoKMaBJ1qqFR/AHYjvkk0002kokDnxeazN20fnRHtg7gcuBhHrh1Z4r2M3+wHE2SgcBrGkf5KqLUhhKUmxp51qbvch7sMzv1z6urkDDrGQq8gOm7SADcFg1R4Q==;ZKHuHUljdwItBprpXezQGA=="
+secured: "YguHiKh2dCQvYoIZHUpCGXqzzVqDjO5pJDUR5zhmV2942t5ptPu3TgAzpE0tnFhX7tMhZnXtTZ2wObOn525b92lQeFZDgs5H9ozssSBtsqSYcqgj+PL8QMreWh0hGbL6xEmAmfkjHmZOPWn+rLXmGGla6puGszBYxZn4JXnPRBK1qrEAhML6HI+qz3Iz/yQIfX86axO4etjRhqGYHmXb4uAfXo+0dqs1cJXdRKr8BXqZVILcm4Sjq3xlpRhpEx41J6khdzQoJ+lH6NgjlcqlxTMHl//ssDTABOeH7CYjRSFoEZWvA1xwkaXmTRjxMg12Wj5u4SFXh3ZqbcmOa06Dv5djqsfbVCbTnjqH7HXcwaw=;u1U/K+O6FcKC2wCCPvqYow=="
 ---
 

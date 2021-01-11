@@ -61,22 +61,6 @@ related:
         width: 1680
         height: 1120
         isCached: true
-  - title: "Waymo is dropping the term 'self-driving' in an apparent shot at Tesla's controversially named software"
-    excerpt: "\"Unfortunately, we see that some automakers use the term 'self-driving' in an inaccurate way,\" the autonomous-driving firm said Wednesday."
-    publishedDateTime: 2021-01-06T22:11:00Z
-    webUrl: "https://www.businessinsider.com/waymo-drops-self-driving-term-in-apparent-shot-at-tesla-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/waymo-drops-self-driving-term-in-apparent-shot-at-tesla-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-drops-self-driving-term-in-apparent-shot-at-tesla-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/5ff6233bd184b30018aad61e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
     excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."
     publishedDateTime: 2021-01-07T04:12:00Z
@@ -119,22 +103,6 @@ related:
       - url: "https://i.insider.com/5ff862fad184b30018aadb8a?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Waymo will no longer say ‘self-driving’ in apparent shade to Tesla"
-    excerpt: "Waymo, a division of Google parent company Alphabet, will now refer to its technology as \"autonomous driving.\""
-    publishedDateTime: 2021-01-06T22:20:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/01/06/waymo-tesla-self-driving/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/06/waymo-tesla-self-driving/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/06/waymo-tesla-self-driving/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 74
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CPIYP2H2FQI6NPQFDI4BPLBBUU&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Waymo Ditches “Self-Driving” Terminology in Another Dig at Tesla"
     excerpt: "If subtle digs were arrows, Elon Musk would be bleeding profusely by now. At least, that’s what industry watchers like to imagine goes through the mind of the Powers That Be at Waymo."

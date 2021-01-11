@@ -29,7 +29,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 138
+    quality: 140
     images:
       - url: "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg"
         width: 1200
@@ -144,20 +144,6 @@ related:
       - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3tfwu?ver=6ced&q=90&m=8&h=600&w=1600&b=%23FFFFFFFF&l=f&x=0&y=0&s=1600&d=600&aim=true"
         width: 1600
         height: 600
-        isCached: true
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
-    publishedDateTime: 2021-01-06T23:02:00Z
-    webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "Se4zdp5xclwkfQSucQnIEpoTnbOdzJHRWXKVPX+L2VXasRIt1ARZZAFdiUaqjpwSVjll3xHC68KjK7i2RM+tdPF1nYLfNB+RA+9A+p5G4q8XbYWJw+fJsUgeUENQx5Gi3M3UsKU882c0nXFs6d1IyPtpBMd908ajQufNWjeneOR4HqxhA7Dk+vnzThFyRAhFdzjzq2IVzoYdOJqAD8sib59rjTP5qXta9NFAypWkhsOtxz4xQJ+sSDnp7Qw036OQWE8n9/Xr9/7BB7ZHcw3iemIEOziAMQo0BVXXJc1NCYq52l+ACWkIFkubMngzpzd4KV+ds0Z0tFf0562Yb83Q/VAFae0FrmEhuE13lkbr2cw=;eds26MRG9Ifpw+NTMS1FzQ=="

@@ -56,6 +56,15 @@ related:
         width: 412
         height: 255
         isCached: true
+  - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
+    excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."
+    publishedDateTime: 2021-01-11T13:27:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16176/raspberry-pi-top-4-robotics-kit-to-debut-at-ces-2021"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
   - title: "2021 CES Innovation Awards"
     excerpt: "Here are some of the 2021 CES Innovation Awards for vehicle intelligence and transportation. Have an opinion about this story? Click here to submit a Letter to the Editor, and we may publish it in print."
     publishedDateTime: 2021-01-11T05:00:00Z
@@ -69,6 +78,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AWARDSIBM.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-11T14:55:00Z
+    webUrl: "https://www.lelezard.com/en/news-19593777.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 20
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "H6VmfnIFM2TZkZ+dwqBNymMfJtVXsUXD7Fr3NUYSNnYK1eZCAcHTJyrXu4VyUqQNH+18/5Ok+veWali0vjJm744G8Pxyfdc6yuV55vR1TkO2QC/dTEOMZpL5DeXKlPoouEtLfGpw5jYQIx/vPdqGnetRvrtO7JbdxaJZez7+wVpcvDXnBzlDNAC7sruNAUCQT0gxQdnmz5NuAinDJQ70WJCpnwZ3zgNyasX6bOQhbhNapH7xPy0S0993s0UMqWqUyIn6FuQx4gpV5K/xBfj+krhMOMP6R7chs85kg23hWQTvTpG+MhSZqzxu4G42jbY/YThIiZG0sbRbZH0hVMW9fN6uxnb4yZasHQO83yTHx8Y=;SW2+Of+jVivLeZTehGrYOg=="

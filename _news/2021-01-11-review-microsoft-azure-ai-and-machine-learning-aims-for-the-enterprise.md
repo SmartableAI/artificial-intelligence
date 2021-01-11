@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and
 ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
-quality: 138
-heat: 228
+quality: 140
+heat: 221
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Machine Learning
   - Natural Language Processing
+  - AI in Finance
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg"
@@ -143,20 +144,6 @@ related:
         width: 1600
         height: 600
         isCached: true
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
-    publishedDateTime: 2021-01-06T23:02:00Z
-    webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Industry Preview: AI And Privacy Will Come Together In 2021"
     excerpt: "This podcast is sponsored by IBM Watson Advertising. Will 2021 be a pivotal year for AI? In the second episode of AdExchanger’s Industry Preview podcast series, IBM’s Sheri Bachstein outlines the huge stakes as the industry scrambles to retrofit its ..."
     publishedDateTime: 2021-01-07T22:22:00Z
@@ -167,6 +154,6 @@ related:
       domain: adexchanger.com
     quality: 19
 
-secured: "aoy2YguqXxbXUlZ0MPDER+kjNVqhF6XccslmoGSN1Au9hJ4mhWunRmpuFtokWQ61OdgAx1zZjlS3aMYX3tcFrEnHVGDT9viI36RgRkJfhZKz6oQ5nqlOPPLkjLG9QNq6Unwl5IDKNvQfkd5WVrPbnjqmvxj5g8mCf4L/ty63kRuhwe+36X5HlltIkYWZm8M9D05nofJ5be+W6EnZPa0EIibwnWV5sRgjntaD5uTGPkSGk7VL89fTcLMKU6dU4vOJdyTmD7FPf8LY9cjzRM3DJQtnnGpXD40H6WkUK192yaj0NH9EySm3pocHTP2ecTUULBAvqxLKuPb6CMyZwxV5zAexSZj6p13NoVkCD1DNyes=;7jPBRxElRPuBoFdS6WM7uA=="
+secured: "gSQQ+pg+YRTdPcU7XFFukrMS1A15FW9+oYUdIfpiPXagThbdjGJLPR0hhFPQNcMRi2+nBUF38pMn1P5f1P8zJ69iTESXis9ujU2j4prLFZCQs3oYhgvzm+whq2QC7KtyuxkmkWhUP2CXJ03KrKbPIpUVI/1CkCnYBPmATVgKpo8zzOVmgRvnnacmtMy130en4cr4XYSQHXIw/LM8oc4VG5SLGdsT9ODOIUK/LU/uhBrj5PCWPn6SeiPaF4itJe9+hDfpIdRj8B4vB6nk9YvNcf70VSwSk/kCW8U1woBPcOTyYgOWYCWvyTYvSR+qMqcwkCCvE5DtF6cRglh3r7iXQSB6g/04xPIldD9/QD3y0Tp/aA4O5s0BOzZHkKlQ/7/W6BG+3hjECeFBlyHXMiftIQTxNyhnsEQC0NswxEJ9qewGU5nxm+S4Y4OhbqEB8nQ7RybbKf0g7Q472/hJWC6PGZxTE0NoqhfSjIwIMPGnnqJzqe/f7rwmg641MQpptWETJanLF82TspfG8wW5YLU6fA==;hICOfNibGC5yJl6UsbdWJw=="
 ---
 

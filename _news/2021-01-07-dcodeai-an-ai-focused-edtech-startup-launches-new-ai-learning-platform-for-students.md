@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Opening the black box: AI, applied"
+    excerpt: "In the accounting profession, there is a similar uneasiness when dealing with the idea of AI, though it has nothing to with how the software looks. The technology has the potential for high-level automation of processes,"
+    publishedDateTime: 2021-01-11T14:08:00Z
+    webUrl: "https://www.accountingtoday.com/news/opening-the-black-box-ai-applied"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 41
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/538890f/2147483647/strip/true/crop/3150x1654+0+1048/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F18%2F95%2Fa04124434b48ac7dbdc768334c53%2Fact1021-cover-image.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IrP5wZpAnp99R68oFQK/InTS4KzisXJlHzP2bl2Hh9D5pkzDIZyTFOv1CkWR+7EvaR76fmoyGNaHlZ9P32yPPArg854Uazqed6dMH8ZYg43COf+4Lwns4ssi1FvmugDIKckgvLI8KW9mopPK+ehOm905SVXp58+RXNMD448qfGGIAu5p2EK3pyXsDCdrbzwQFjIvomjVT1wHCXduXVIMYFmUPKjXF9z/MSzKaWR+4EBngRXe49jQTnd2etOGeeizEwAdjND7RFcWkNzzyvIbKYfRv1zmIn8/e7XEK3WXSXtoHMQOoNU5ymTEi2cs87t68O0hxigjIPSa6aFmQN02CaGnx6FNryn5M+2fe3RuMluoWcu0QUzDpE7XFqVAggdB7O1AbZL7bX+sIm6Mczf8uVHlBXkJlwXfbuolu2oEIzYlqljuhtQX99CTkeupoc/4IjWw4VNQTu0ALJPcQ3q+L2PWIufe0fkurY09Fk7VLxu4Q+Q8eZREa+lYGANDNk8AWmQELwAeD1Yx8YEXfLT8Bg==;Nk4wpD7ocqXGQFvOvVn2lA=="
 ---

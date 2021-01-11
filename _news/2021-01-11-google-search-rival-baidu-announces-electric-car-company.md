@@ -73,6 +73,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Chinese tech giant Baidu gets into EV game with Geely"
+    excerpt: "Baidu now plans to establish a new company to launch electric vehicles leveraging its own AI, connectivity, mapping and self-driving technologies, and Geely's expertise in car manufacturing. The new company will be a subsidiary of Baidu,"
+    publishedDateTime: 2021-01-11T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1130885_chinese-tech-giant-baidu-gets-into-ev-game-with-geely"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/lrg/geely-and-baidu-logos_100776419_l.jpg"
+        width: 1024
+        height: 597
+        isCached: true
   - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
     excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
     publishedDateTime: 2021-01-10T22:22:00Z

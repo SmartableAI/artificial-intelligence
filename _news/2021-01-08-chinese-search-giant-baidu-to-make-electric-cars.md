@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/7/22218903/china-baidu-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9ff9819-acf6-423a-9909-d10db88a4f85.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Chinese tech giant Baidu gets into EV game with Geely"
+    excerpt: "Baidu now plans to establish a new company to launch electric vehicles leveraging its own AI, connectivity, mapping and self-driving technologies, and Geely's expertise in car manufacturing. The new company will be a subsidiary of Baidu,"
+    publishedDateTime: 2021-01-11T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1130885_chinese-tech-giant-baidu-gets-into-ev-game-with-geely"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/lrg/geely-and-baidu-logos_100776419_l.jpg"
+        width: 1024
+        height: 597
         isCached: true
   - title: "Google Search Rival Baidu Announces Electric Car Company"
     excerpt: "The tech industry is slowly but surely becoming more and more interested in the automotive market, and while Apple has so far remained completely tight-lipped on its plans for an electric vehicle, the Chinese over at Baidu have moved a lot faster."

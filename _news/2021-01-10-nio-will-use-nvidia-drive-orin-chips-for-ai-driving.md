@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp"
 type: article
 quality: 76
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 1870
         height: 1184
         isCached: true
+  - title: "NVIDIA's (NVDA) Self-Driving Solution Picked by NIO Limited"
+    excerpt: "NVIDIA Corporation NVDA last week announced that NIO Limited NIO, a Chinese electric vehicle (EV) maker, would use its self-driving solution to offer advanced automated driving capabilities in its new generation EVs."
+    publishedDateTime: 2021-01-11T13:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidias-nvda-self-driving-solution-picked-by-nio-limited-2021-01-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-nvda-self-driving-solution-picked-by-nio-limited-2021-01-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-nvda-self-driving-solution-picked-by-nio-limited-2021-01-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "P/aEcYeac1PHAT/S7uzbew6fJjC0HvjTuHdAfeOVIwE5hDFSNxuW2OgRrfS+LjAOixf4PUVxdqJkAg+sXTmtWfhSrlyXwpfkq19GH/rHjkWJnm+uqd4ZdukfMj1kziKChicsXHKqGyd/M03083u64P62XO+yKIvcot6OwVp8XEj18iuMEefNtocnyRZ51WeS44As1MXnkiGGlUcBBvpHgLWj3aJI0zJrPqJbm4Oz867hNK4kybCBQidQ8iwb8d3NwhOJbsnNSoKT/0wzOiKX5/FfR4fevM7RL8TGd+8eZxEOd+RzWjUwGEuFLNEQ3YpAnccSpxeXE2CmzYDn8/VaEZeIO0c4FqWEFkQp0LzScRAwta2P1QxFjEQBGiWb5eN0VL+k5P/2joZpfL2o/QuP0qU1Ia3Z5zMnFolx1dX0O8It+Ddpmk0zBdtk4DAUkUSfmqjZfjyh6r5jDZwYr7NQ5jy3uHLdGGOxSI+S1Lv4sEfqnMRllxZj65QVymDuZjyc6jAQ2i4rAl89Laky24zLZg==;CNkJjq5Pp7S4EJQcjytFqQ=="
 ---

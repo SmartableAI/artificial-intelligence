@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
-excerpt: "ITRI Exhibits Innovations in AI and Robotics at CES 2021 Technologies Include Dual Arm Robot System, Self-Learning Battery"
-publishedDateTime: 2021-01-11T06:50:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210111ny41589/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210111ny41589/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021"
+excerpt: "The Industrial Technology Research Institute (ITRI), Taiwan's largest and one of the world's leading high-tech applied research"
+publishedDateTime: 2021-01-11T12:50:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021-301204748.html"
+webUrl: "https://www.prnewswire.com/news-releases/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021-301204748.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg"
-    width: 400
-    height: 237
+  - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "eqdBTiZHIxMoeZ4gwV/kk4OIqgkWYjYkYGozE+IYZdb3afuX9ZgtpS3JRYvoZQFUG/+dlzBj4DT7e3hnN08m4w49TL5Ei2QyxCdLjo0oNyVSCaLyQ1sv0aNAiYiNXaUeoa0jktwRwOQ+hYIdFyhaIFY9EnsiUnXH1OzXmddqQZc8zzH/iWAiaxzl05nu1nTiB2ZIRBNTodg2plsp5khb3LA3bJ+PZKs58x/jDOvWWbcckioQizSnSJHyZ2HtVAbZZUR8AanCnadz1Qu+J43O1uk3pkjVpwbkvrxT9SeOxvd8x/jloEtpicd0hiVZLKA2gpUWV13RA3Ee/MvngbCC4p7qnkM5UPLaDbfW6/8s2xw=;MpemA6zMJk7aSXg+bdCyiA=="
+secured: "1V+DVNGDBJ22h5AElBdd3YHA/TLK8hDnurYvpCIzImlZzQ2uhNj3wQj72oaJKUwLadXqoaTE/LTfW/Y0uhf9nt8TsLzr1HCbgn4HbqHV5JDvB4UFZTGXLLfem3FronUAWeecJb7mY5XPGmQV6ipKorBwCvUyPmj11DLtfvpJp5wrSI0UVBHMbmO2kfUwrSIJ8iQM5xrHbUG0MRjdJ9zePMM36T8rlLTAHAt0FB0bFTYgBOmtEkJUHMzkdb4IglWx9AVPm4Eag3rf3ozHwrtS2eSGNmW1yZXO5niDG2UxTPa4vQ4voWSlD6l2x632m8uZlhNZRQhwD2dJ5Ud9KziMVQHYzmy0JSXcxO0WgvJEwW4=;YnYvQLn3tw40TE1Mv0fbYA=="
 ---
 

@@ -32,18 +32,18 @@ images:
 
 related:
   - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
-    excerpt: "ITRI Exhibits Innovations in AI and Robotics at CES 2021 Technologies Include Dual Arm Robot System, Self-Learning Battery"
-    publishedDateTime: 2021-01-11T06:50:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210111ny41589/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021"
+    excerpt: "The Industrial Technology Research Institute (ITRI), Taiwan's largest and one of the world's leading high-tech applied research"
+    publishedDateTime: 2021-01-11T12:50:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021-301204748.html"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg"
-        width: 400
-        height: 237
+      - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
   - title: "New Offering from Reserved.ai Predicts, Automates, and Simplifies Cloud Costs, Bringing Cost Savings in Hours Instead of Weeks"
     excerpt: "Reserved.ai., the cloud cost management company that saves businesses the most time and money, today announced its Purchase Planner feature – the only solution that optimizes, customizes, and automates execution of cloud reservation purchasing,"

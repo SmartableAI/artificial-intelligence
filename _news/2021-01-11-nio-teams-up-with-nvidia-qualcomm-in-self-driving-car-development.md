@@ -47,7 +47,18 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "NVIDIA's (NVDA) Self-Driving Solution Picked by NIO Limited"
+    excerpt: "NVIDIA Corporation NVDA last week announced that NIO Limited NIO, a Chinese electric vehicle (EV) maker, would use its self-driving solution to offer advanced automated driving capabilities in its new generation EVs."
+    publishedDateTime: 2021-01-11T13:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidias-nvda-self-driving-solution-picked-by-nio-limited-2021-01-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-nvda-self-driving-solution-picked-by-nio-limited-2021-01-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-nvda-self-driving-solution-picked-by-nio-limited-2021-01-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
-secured: "Ioxhw/cnSgYGeza8FDsjEBLYlKttOrygWiZI5Em8qfD41cHNabA0T2gHiLlwrQeErmyGTkvqueTpFoN2GGhOUm7/dFnwIe1aGSWH77XPYjAjAzW11drpqulPUz8Ltna6O+OCBKmJYaOsg2bZgXZIXG5fhspjw6jsKbTUjJ6UqaD/8yzbfQamHHwQ9k9UW5K4v0sRjxpCZD3pYlHphVfnQoTB5zNwAO8BiYW4urp0md0m+21nsMV3Yw+2dIq6/5yecqEU8LjKVhw1fuKFH/TvahngxTqHM9TC099lSx4R31AsAVjZ255mIjlnFGriszbb5ugzFsSqUTi4Qjtkup30YQCSwM5CWSz1iih6RIyd17A=;du8SyswjWLp+MSMG2u6rXw=="
+secured: "9i2X6UuxRkC7/t+fb/hDVvTECRibT7R5UY6VL08VCdtzHfFt/sZDScKyjRAh63aw23oin9XA8Bw5lrnyppyhdszuG95rWX4N4tWL41M5Zt7tAK9TbUFhMZ6nq9N1TzAPO62bmNiEHAsoafV5qUeHPHg59BE9FyGYzOTtrMjUOwY+vlsRIQhZeAh7CRq50GS34oVS4wPOYnRdACC68zvEeKeS7uqHer+13EgYG0/tS1PEAB28Z5dpEv83HiO0QtjPBYQOt6TX2DMEneJaG0boW/V+CD9CQGYEovSOrI5j5R2aaiqoe81csMcfo1/Hyi9f2VA38X5J/j6yiei1ilvouglxIIgE2aiR46KgzWddTl4UzK07NgGRwQ+joWQCsLFC0tlORtVinZkNJb3dBmfIyb7/LL50aP++r1hRncJLmIlQ2igqp3x2NDJi8opJ+eleImYcRvkzdjkwH5GJxbg30sCtMC8WG0+oBvYlntFL/r45OFHUg2Dl1uQ3r8+DQvgrysv8JMudI5qtlMVp94lOIw==;SlgTCOid5Uf5Nhq3cm7GNA=="
 ---
 

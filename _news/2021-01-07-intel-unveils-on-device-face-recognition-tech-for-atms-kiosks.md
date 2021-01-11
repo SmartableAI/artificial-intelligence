@@ -25,70 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel is using its RealSense tech for facial recognition"
-    excerpt: "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance."
-    publishedDateTime: 2021-01-06T21:21:00Z
-    webUrl: "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html"
-    ampWebUrl: "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 91
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F7daa7160-5050-11eb-a7fb-ebe8df925d58&client=amp-blogside-v2&signature=21ed96e62f4d4cf3a8e85595647849cb3e045c56"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Intel announces RealSense ID system for facial recognition"
-    excerpt: "Intel today announced a new facial recognition system that makes use of its RealSense depth-sensing camera from 2019. The RealSense ID technology is designed to provide access to smart locks, ATMs, point-of-sale terminals, and more devices with only a glance."
-    publishedDateTime: 2021-01-06T21:37:00Z
-    webUrl: "https://www.neowin.net/news/intel-announces-realsense-id-system-for-facial-recognition"
-    ampWebUrl: "https://www.neowin.net/amp/intel-announces-realsense-id-system-for-facial-recognition/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/intel-announces-realsense-id-system-for-facial-recognition/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 89
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/01/1609962114_intel-realsense-id-2-scaled_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Intel Pivots Its RealSense Cameras Into Facial Recognition Tech"
-    excerpt: "Intel announced today that it will make its RealSense 3D cameras available for customers hoping to utilize the tech for faster facial recognition in the form of RealSense ID."
-    publishedDateTime: 2021-01-06T21:30:00Z
-    webUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990"
-    ampWebUrl: "https://gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/intel-pivots-its-realsense-cameras-into-facial-recognit-1845995990/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mwvgcouoofelt0sd5tt8.png"
-        width: 800
-        height: 482
-        isCached: true
-  - title: "Intel's new facial recognition system for ATMs is made in Israel"
-    excerpt: "Traditional authentication methods leave users vulnerable to ID theft and security breaches, Intel said, leading companies to pursue facial authentication technology for higher security standards."
-    publishedDateTime: 2021-01-07T14:30:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/intels-new-facial-recognition-system-for-atms-is-made-in-israel-654620"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/intels-new-facial-recognition-system-for-atms-is-made-in-israel-654620/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/intels-new-facial-recognition-system-for-atms-is-made-in-israel-654620/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/449775"
-        width: 640
-        height: 428
-        isCached: true
   - title: "Intel's new RealSense ID packs on-device facial recognition"
     excerpt: "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data."
     publishedDateTime: 2021-01-07T06:36:00Z
@@ -104,38 +40,6 @@ related:
       - url: "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png"
         width: 620
         height: 387
-        isCached: true
-  - title: "Intel Launches RealSense ID, An On-Device Facial Recognition System"
-    excerpt: "Intel has launched RealSense ID, a new on-device facial recognition system that uses the company's RealSense 3D technology."
-    publishedDateTime: 2021-01-07T16:49:00Z
-    webUrl: "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Intel’s RealSense Finds A New Lease On Life As A Facial Recognition System"
-    excerpt: "Intel debuted its RealSense depth-sensing technology several years ago where it made its way onto devices like laptops. Thanks to the use of"
-    publishedDateTime: 2021-01-07T14:01:00Z
-    webUrl: "https://www.ubergizmo.com/2021/01/intel-realsense-facial-recognition/"
-    ampWebUrl: "https://www.ubergizmo.com/2021/01/intel-realsense-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/01/intel-realsense-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
     excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
