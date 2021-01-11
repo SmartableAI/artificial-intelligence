@@ -67,6 +67,50 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 56
+  - title: "Samsung unveils home robot that does the dishes at CES 2021 – latest updates"
+    excerpt: "Samsung has showed off a robotic waiter and butler that can pour you wine and do the washing up. Bot Handy was briefly on display as part of Samsung's presentation at the Consumer Electronics Show in Las Vegas."
+    publishedDateTime: 2021-01-11T18:06:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 56
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/01/11/LG-smartbed_trans_NvBQzQNjv4Bq3C4DDbsH65fm6X__oq5DkEHQvb2UFjW03QidnNDMhGA.jpg"
+        width: 690
+        height: 431
+        isCached: true
+  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
+    excerpt: "Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show."
+    publishedDateTime: 2021-01-11T18:33:00Z
+    webUrl: "https://www.imdb.com/news/ni63153935/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 56
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
+    publishedDateTime: 2021-01-11T14:01:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
     excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."
     publishedDateTime: 2021-01-11T13:27:00Z
@@ -90,6 +134,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T18:05:00Z
+    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 22
   - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
     excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
     publishedDateTime: 2021-01-11T08:43:00Z

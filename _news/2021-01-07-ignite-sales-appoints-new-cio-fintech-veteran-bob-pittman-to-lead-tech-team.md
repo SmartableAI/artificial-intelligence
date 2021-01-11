@@ -91,22 +91,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Big Tech Firms are Now Offering Fintech and Wealthtech Services in Singapore, but Startups are Also Launching Innovative Services"
-    excerpt: "Kristal.ai is an AI-enhanced Robo-advisory service that offers personalized ... Wealthtech100 is an annual list that’s prepared and released by Fintech Global. It aims to acknowledge the efforts and performance of the 100 most innovative or promising ..."
-    publishedDateTime: 2021-01-07T03:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 15
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Marina-Promenade-Singapore-600x492.jpeg"
-        width: 600
-        height: 492
-        isCached: true
 
 secured: "uLBPcIMIZXetfou3zaxUNwHnMRNuyMDbW9kqRioRzK3RUKRytPEOLn/laYK6LARJoWcwzbQnnWNbg8hGsxAxc55pPPWmoWh58HarQ+u3z4r3gQoq3+Ht6npq8PbrB2tNhj048X6CVmFkn1yw05sxNJj5T95aYNbMdTTzgPdByOU5AChy6ojS/D1tw5UYRxaPLCogHF51r5vupmSDhyfrrSX1CGxSD0NRxh5bJYZtunC0BidJf1NzQmMj70M9SwsOASO3jxW1qOekTp3Sxb89jfymcVaM02oJSEhJuuNsHOigCGrwrQ+Bn3+7IOrTZ7o5XVd2oPg0/4XWyAKRcbsoAROeP5eU/6kXAFhZu+xbiCw=;KPe5xCnWVRRrLR9cMX2kyw=="
 ---

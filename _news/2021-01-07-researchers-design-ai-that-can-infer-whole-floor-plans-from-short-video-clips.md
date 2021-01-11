@@ -40,7 +40,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
         width: 1200
@@ -62,6 +62,20 @@ related:
         width: 1029
         height: 516
         isCached: true
+  - title: "Stanford researchers combine processors and memory on multiple hybrid chips to run AI on battery-powered smart devices"
+    excerpt: "In traditional electronics, separate chips process and store data, wasting energy as they toss data back and forth over what engineers call a “memory wall.” New algorithms combine several energy-efficient hybrid chips to create the illusion of one mega–AI chip."
+    publishedDateTime: 2021-01-11T16:34:00Z
+    webUrl: "https://news.stanford.edu/2021/01/11/hybrid-chips-can-run-ai-battery-powered-devices/"
+    type: article
+    provider:
+      name: Stanford News
+      domain: stanford.edu
+    quality: 60
+    images:
+      - url: "https://news-media.stanford.edu/wp-content/uploads/2020/12/10130601/Illusion-art.jpg"
+        width: 1419
+        height: 946
+        isCached: true
   - title: "Stanford researchers propose AI that figures out how to use real-world objects – Jaweb"
     excerpt: "One longstanding goal of AI research is to allow robots to meaningfully interact with real-world environments. In a recent paper, researchers at Stanford and Facebook took a step toward this by extracting information related to actions like pushing or pulling objects with movable parts and using it to train an AI model."
     publishedDateTime: 2021-01-08T19:12:00Z
@@ -77,20 +91,6 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Stanford-researchers-propose-AI-that-figures-out-how-to-use.png"
         width: 1029
         height: 516
-        isCached: true
-  - title: "Stanford researchers combine processors and memory on multiple hybrid chips to run AI on battery-powered smart devices"
-    excerpt: "In traditional electronics, separate chips process and store data, wasting energy as they toss data back and forth over what engineers call a “memory wall.” New algorithms combine several energy-efficient hybrid chips to create the illusion of one mega–AI chip."
-    publishedDateTime: 2021-01-11T16:34:00Z
-    webUrl: "https://news.stanford.edu/2021/01/11/hybrid-chips-can-run-ai-battery-powered-devices/"
-    type: article
-    provider:
-      name: Stanford News
-      domain: stanford.edu
-    quality: 43
-    images:
-      - url: "https://news-media.stanford.edu/wp-content/uploads/2020/12/10130601/Illusion-art.jpg"
-        width: 1419
-        height: 946
         isCached: true
 
 secured: "8c2XYAm9jZSyUNx99yal6HhwxiErifSZILfRziKuItIUlf8NCCfxg81MIpjS1CwjaxekafhETA7FuQr3caQrYSUGnoZWajmvols39qNurFP93cAr0ac+SziKOtj+5kW+ecidFO4llDmYvm5FEE1uAAhu6GrnBvQieeRMZT9nNJHJVy5xnNpSaZp25czWvTXvHV3EjSYNcaXPhkeL4UqCOHiio34C3GfVAlKJay+mpfzj6sSsnbvii1BQfRyUEm8jqmd+WTqdGOc5jddaJV+EtxCkyGLRkNx24NGHFJV147Ehfb8CDDl2NO/n2AnzKsDeq4qLXFjgBvMWXX/vWKtQ1W6se54vEDU5+zotMNxdylBq2xqnPzjsYAy+8z22kkq2pr+9lQ1bY4qdq463d9WDHjFt7fvamzPmIJS7inrLhX9RRl0jf1Drn73/PUKRRGTzrS0YpDpnsdnhDIu8yCg9enLZy7dxA4Ke+AFC68E8QmDgXrFYR1NNK/HXFUxBkMqgtgJfhLQbxShmOHDzy10J4w==;wYXn2mDXCjyQoatvbCvBXQ=="

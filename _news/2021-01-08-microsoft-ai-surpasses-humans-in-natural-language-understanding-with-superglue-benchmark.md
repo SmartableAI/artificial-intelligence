@@ -121,6 +121,20 @@ related:
         width: 1600
         height: 600
         isCached: true
+  - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
+    excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
+    publishedDateTime: 2021-01-11T18:42:00Z
+    webUrl: "https://siliconangle.com/2021/01/11/microsoft-will-expand-verilys-terra-biomedical-data-platform-azure-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/verily-768x431.jpg"
+        width: 768
+        height: 431
+        isCached: true
   - title: "Industry Preview: AI And Privacy Will Come Together In 2021"
     excerpt: "This podcast is sponsored by IBM Watson Advertising. Will 2021 be a pivotal year for AI? In the second episode of AdExchanger’s Industry Preview podcast series, IBM’s Sheri Bachstein outlines the huge stakes as the industry scrambles to retrofit its ..."
     publishedDateTime: 2021-01-07T22:22:00Z

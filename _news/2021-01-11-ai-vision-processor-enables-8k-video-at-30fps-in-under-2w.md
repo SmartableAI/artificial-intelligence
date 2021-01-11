@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-11T15:19:00Z
 originalUrl: "https://www.embedded.com/ai-vision-processor-enables-8k-video-at-30fps-in-under-2w/"
 webUrl: "https://www.embedded.com/ai-vision-processor-enables-8k-video-at-30fps-in-under-2w/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Google AI
   - AI
   - AI Hardware
+  - Computer Vision
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2021/01/Ambarella-CV5-SoC-Applications.jpg"
@@ -52,6 +53,6 @@ related:
       domain: nasdaq.com
     quality: 37
 
-secured: "ChC1oOzlcYCbc9CnL/jI/d1B2lIEdkvcQG5OtwVVEhI4TFwJtEttnSQvUEoPIM+IXbT0s5EwafdEVCy7aghx96GrzJe1t5v1K4NsmKwZ2JbnUfRF2l0xDPYP2QKe2H3mbJttp6aqLglcLe9QGcr7JozoE4f+cu2xk+hJ8bbkUsNgDYXoon8hQ08AHBRd8jM87RrnF550Ukuo291vm+Sgh0JWEkVIhAI29DvqJH1xCgyP5DYdc1vEb3R/k/zyOIKzsYuA9025/2pLP23gRCR306lrWXcqMVZXQLlvqpUJAxiajariMMPIvMIstswRcmI8z9qc5NL2Do/JeeRGAx/lrBPA30R7/PSVk34g3/9C/pw=;QRcevnUhwLLVit5PTwMbQw=="
+secured: "xZXXoHQMO66w+mAGdLNgvnwpAO9KYGpyJSAqrq2Lbdv1l1BRXqb4K/HBJohQF3m/dHABAu2NKXFfCVqdsRQpCmhctX8lu9nxMufZfCKGOIgkBB/TC44g3u7R6q+2/hitYWj+RkV/PqS4FoaMNUWlDkELy7A2E/8nquQS9pbSJ0MRycMqSJ00YnnCoWrHRQc6CRddvOkn19Rnq5DCYcXJFAMnmWDwA7ws/cLFbRv7MJCg7OxngcFsL2WGiNkkJ/GBLWcgRgYohjK+MoUgZsiEH5rxalpuZ13JSMJSAf10+Yj2RG3FO31E0C4iJOwFKZOpfKMVJwSZWice38ipumo210gh0A2iSTmvqjgT+ywTtIrT+4lU0af2sr8OGB360boUCikatEfqvqeAGOu4Tu9oTUhDh6SY9H9R8VDbTXKtDJ67WkNPISDLYF9hgzFBvz41/qpPDpTGV/jnm7d1qaWzfC8BGbzhq5lGNAcDJvQ50wqNv++Vsib2YJ6yjgiWw2pL3b64uFU+2kxy+nCdkbKiaA==;YXEfvwnK4tvM3DBwKV1OWw=="
 ---
 

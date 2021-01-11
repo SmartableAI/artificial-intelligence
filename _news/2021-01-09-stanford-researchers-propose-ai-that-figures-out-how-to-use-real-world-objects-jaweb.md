@@ -37,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
         width: 1200
@@ -83,7 +83,7 @@ related:
     provider:
       name: Stanford News
       domain: stanford.edu
-    quality: 43
+    quality: 60
     images:
       - url: "https://news-media.stanford.edu/wp-content/uploads/2020/12/10130601/Illusion-art.jpg"
         width: 1419

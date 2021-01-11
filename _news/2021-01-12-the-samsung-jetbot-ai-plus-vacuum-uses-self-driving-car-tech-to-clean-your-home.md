@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidauthority.com/samsung-jetbot-robot-vacuum-1191587
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-jetbot-robot-vacuum-1191587/amp/"
 type: article
 quality: 85
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: Android Authority
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung's Newest Robovac Is an AI-Powered Poop Scout"
+    excerpt: "While it won't clean up pet poop, Samsung's newest robovac should at least know enough to avoid it in order to prevent making a bigger mess."
+    publishedDateTime: 2021-01-11T19:00:00Z
+    webUrl: "https://gizmodo.com/samsungs-newest-robovac-is-an-ai-powered-poop-scout-1846021197"
+    ampWebUrl: "https://gizmodo.com/samsungs-newest-robovac-is-an-ai-powered-poop-scout-1846021197/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/samsungs-newest-robovac-is-an-ai-powered-poop-scout-1846021197/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/edgo0tkelrppfhh2v5jj.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Samsung's new washers and dryers use AI to clean your clothes more efficiently"
     excerpt: "Samsung announced a new series of front-load washers and dryers that use artificial intelligence to reduce the time it takes to clean your clothes. The new models are part of the Samsung 8800 Series that sit near the top of the 2021 range and will be the only models to use the new AI-powered Optiwash mode."
     publishedDateTime: 2021-01-11T14:00:00Z
@@ -63,6 +79,22 @@ related:
         width: 715
         height: 402
         isCached: true
+  - title: "Samsung reveals smarter Family Hub fridge and a robo-vac that thinks it’s a guard dog"
+    excerpt: "Samsung’s big Galaxy S21 launch may be coming later this week, but it’s home appliances which are getting their moment in the spotlight today. Fresh for CES 2021 are updates in the"
+    publishedDateTime: 2021-01-11T14:00:00Z
+    webUrl: "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/"
+    ampWebUrl: "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/samsung-ces-2021-home-appliances-1.jpg"
+        width: 1680
+        height: 1050
+        isCached: true
   - title: "Samsung’s Newest Robovac Is an AI-Powered Poop Scout"
     excerpt: "In a perfect world, your robovac would be able to recognise pet poop and automatically clean it up without you ever knowing. Current technology hasn’t gotten there yet, Samsung’s JetBot 90 A.I.+ robovac attempts to do the next best thing."
     publishedDateTime: 2021-01-11T03:00:00Z
@@ -79,23 +111,39 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Samsung's smart home announcements include a robot with a big arm and a vacuum with LiDAR"
-    excerpt: "Samsung is one of the largest makers of smart home products, all connected through the company's SmartThings platform. Samsung has plenty to show off"
-    publishedDateTime: 2021-01-11T16:04:00Z
-    webUrl: "https://www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/"
-    ampWebUrl: "https://www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/?amp"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/?amp"
+  - title: "Samsung unveils trio of new robots to help out around the house"
+    excerpt: "Samsung has unveiled a range of new robots designed to help out around the home – capable of filling the dishwasher and even pouring owners a glass of wine."
+    publishedDateTime: 2021-01-11T18:09:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 52
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 59
     images:
-      - url: "https://www.androidpolice.com/wp-content/uploads/2021/01/11/CES-2021_Samsung-Press-Conference_Bringing-AI-and-Robots-to-Daily-Life.jpg"
-        width: 1600
-        height: 900
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/368c9412-3124-4fa6-809a-468ee7adf1ff-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "Samsung’s latest Handy robot does the laundry, sets the table, and pours the drinks"
+    excerpt: "Samsung us showing off its latest home robotics technology at CES 2021 with an AI-laden model known as Bot Handy that could do your chores."
+    publishedDateTime: 2021-01-11T18:16:00Z
+    webUrl: "https://9to5toys.com/2021/01/11/samsung-bot-handy-ces/"
+    ampWebUrl: "https://9to5toys.com/2021/01/11/samsung-bot-handy-ces/"
+    cdnAmpWebUrl: "https://9to5toys-com.cdn.ampproject.org/c/s/9to5toys.com/2021/01/11/samsung-bot-handy-ces/"
+    type: article
+    provider:
+      name: 9to5Toys
+      domain: 9to5toys.com
+    quality: 53
+    images:
+      - url: "https://i1.wp.com/9to5toys.com/wp-content/uploads/sites/5/2021/01/Bot-Handy-Samsung-CES-2021.jpg?resize=1200%2C628&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
-secured: "ADmttMu8Vuvl8+AId0ZNK4kPblYObSUS7Dq+c01Nrh2DDIjuQQpRPMvrSr6tk56VXlxJuh9DtagN6WPLwQj2e6J/On652M8FyPC4ncruHsrbTQvXRSFUomxdJAdQ1U6APRS4ocyZwCYYkdJDjFLC0KcPrOT5SmAg+HHiQdWXPqxnz3yI8m6fWVmDtKNM948Tqb+yHLyNlAHsU7zRGM/M+ikkO16xCdGMp2td19P08g6NY2etM8Z1kvATq3E/nzFjaCCOjaeLXKFkFcB27dt4f987Psu+Fco5sTI653kiCU+H6XT2izqB6drZs0hZ3nKL7JGJI0JtZhGf6a7NPjkyoJU64SsUdSJQRIyBg08v+14=;/7E88NKuUWH1oek/OWNv5w=="
+secured: "QwV4usGVkSn+VquZV+rQlPOcUH0GndnnKP5dbeOunokSxnb1I8zDf/2kpXIan2F4+ItuHuuzFv+wWHXmDqQ7S+nVLwwqC4L1/ryt+okp8o50kQKfoASIwu0LQfW8O7JpJdAnul/r6UtoQz3USb83P1A0/rCYGxKH2hmYJP1HrZA6MjXoXQrIIxLO/GcmoHlE2s2yq1YR36GpYA1LYv/dznx93DooniuAP4peX6B2CEvnmH24M6aVqnPu4FSDxTLKzJHfeAGCyTbQ902htTjukrzZzAwodrxcFJzxvNQXJUFqMu6xhlEdwUqLWZiRlUxh67lTy1pZ6xcDlLfNKndM2uIDYXDaxi2fWseI9xzmHcIWy8hjwSfDfkmzeR7xa+93HA6ddoUi5IneT8uZfkSrFKTbOV1UcycQDc9Vl0fiV41LOeQrwk308zRI5HfLABVV9SUqnsAQwVwulAy8bPn7COQSLBbhiT4Ca1QIQR+TZ31OgV6FX1GTDWn2tTP94ClwTbiabHtUHWh/brmGozl39A==;4uF9Lb30r+TJIcApdah/Uw=="
 ---
 

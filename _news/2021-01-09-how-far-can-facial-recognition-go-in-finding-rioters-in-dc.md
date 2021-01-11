@@ -3,25 +3,25 @@ category: news
 title: "How far can facial recognition go in finding rioters in DC?"
 excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
 publishedDateTime: 2021-01-09T04:47:00Z
-originalUrl: "https://www.wbir.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-webUrl: "https://www.wbir.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-ampWebUrl: "https://www.wbir.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+originalUrl: "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+webUrl: "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+ampWebUrl: "https://www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: 10 News
-  domain: wbir.com
+  name: WCNC
+  domain: wcnc.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wbir.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+  - url: "https://media.wcnc.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -175,6 +175,6 @@ related:
         height: 392
         isCached: true
 
-secured: "72jnq0Te8ehjwnCrrnvy5JXbm8LyjA3bmwkBYJgumpOrVUB1smAZTThKWhIrhL44TygjrBvc6BAQKPeKnUX/FDjMrd5zyLf16cQM067C91QBpvwTV0toqG2znpEZ2G9XZ6TJuvB8ScjCmA1RDOu4b3e87LzLE8aBy1lSl0HpuVhKc6qwThQMffUoRPLIRj7kQpiMmmzfXoFJ8iF+zwBHE8Ku/C2KPhgW2HHflliD0ChrBMOQt/23gEke1xnDiLxaQCY/YZnhUovjYCMPRWvFuK53wjyaLkf4npvPLHKxXWguQ/TOQnz+j51fhPdNt3HalOxpok0KBtkCYf/gXAY1bQUf/1fGsNuoiy5DtqT1O5s=;/EurM9wph/PipRXHWnJ1nA=="
+secured: "McIvNtNWTk5hgX0m98D25yS3vjO4hYfAvp7FDEQdhmsSyS94WmkJ/3AIc9TmGovIVNziTQRPavrulu7A+2I6x0+J23pIyZJrPjQbWzDSOSqAJQKa2Y0qfuVpnIyDsJT9gpUb1gpUrgEpjP4mkY1RCIPaVI0XkzMglei3XOz0RPyl8hROxpuBFuFXze12TmuHp3DLUcNqrR7bfD0OilvmxfhnxNkG28M+e8UIGu86V9flSYKqUBJ+2lTHxwok7NB88Z/fnM5ZJnHp5ywkzW77VVyDpN103tBWDq4FJuaa58OZrRgbMlkoR3K/ngvUOGTv/OAEm6FnTJkztyr+A2I9lAg4FUVi6b42s469gnKY7YQ=;cPHMNCg7y8Iod9D5DTypiw=="
 ---
 

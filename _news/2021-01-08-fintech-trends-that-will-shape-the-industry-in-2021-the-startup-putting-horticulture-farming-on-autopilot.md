@@ -91,22 +91,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 18
-  - title: "Big Tech Firms are Now Offering Fintech and Wealthtech Services in Singapore, but Startups are Also Launching Innovative Services"
-    excerpt: "Kristal.ai is an AI-enhanced Robo-advisory service that offers personalized ... Wealthtech100 is an annual list that’s prepared and released by Fintech Global. It aims to acknowledge the efforts and performance of the 100 most innovative or promising ..."
-    publishedDateTime: 2021-01-07T03:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 15
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Marina-Promenade-Singapore-600x492.jpeg"
-        width: 600
-        height: 492
-        isCached: true
 
 secured: "wzDo+rEQo+TFGRqxD7AOpjlxjDKiUZnR8w6pSMNFaISMKv+90B7qI9OdaMJ5n2C0e33ZUyIHipc9dEtJg60tH7TYuf+ZwlDwfj2qF36QDTLhvYjpnqD9bCQvqw7WwEGQw0Y4TnvUzto2rudUYmgQByBU2JUhwYkWU+jqbXeWmaXTdYPw3jiuYU4/cW6GmV5gLD/rxy+v5WsQwQpaUMGR+7Ect2uhGXBY32bnq3CakZc+vwGFjwPMqnUqc9v1tO+3ITlM2JDcrqAZSCmF9GtaiTQDk3cJxFcEgEi7fzfyWcrn83OeL79YpZ8bmD9j2JtpXOJRGy2Ko4lGZw39NxZY+z6n5YO3RkK6+1Pekr7/JT+hrXxvdbG4/FIdb60jAG8Wp/j7XArG7zGrGQ0r6RS5iYMXcHtq9ERjIibyjRApfAWoIGSwBfp2zQiAfWEZvrUO6Y+OdPsM/WOrbkdg6Rg7nvcNpsaFNI6RPbDHFHy3aE6OV9AGPfHRjTEokEucJh8j9GpyJOeB7V85sp0TsFjpkA==;cXMigwrTbMybUyVAJwFgJg=="
 ---

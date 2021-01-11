@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-drivi
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547111424&r=LYNXMPEH070U2&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Intel’s Mobileye Plans Self-Driving Cars for the Masses by 2025"
+    excerpt: "Mobileye NV is using the chip-making prowess of parent Intel Corp. to build laser sensors it says will make self-driving cars cheap enough to sell to retail buyers by 2025."
+    publishedDateTime: 2021-01-11T18:25:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-11/intel-s-mobileye-plans-self-driving-cars-for-the-masses-by-2025"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1aOyxIzxDog/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "0/i55H0wkWrDKQq7t6MXu2JWEQY3TbWf6BtpNVDiI+MfNcgdivOAPLbBWdQCTkkyltlLIm0pmlQwBQAGIYuAC37or9z0Lg9Zao6FhPYWWQUu+nJIKRpic6FlruedothOsWCHogw6jib0ndDU2R7D3sQEo5El9/+jmzqrZJBwgdlBhMP7gbQE9ld580DikX39qKhvp0nKC/lUlUg+18eQS6mHDaENKadt6B7/J1LIoSba+JPjaZVGG6DsMWz5BQOYRBXIUVdo3zMcXq86XXVhR5GDVt0CQMWmn5+DtCE9v3pwXiou/fP3intyo4vc8UuL4RsIegkXRKRtkPgTPUgWscFYZEGGQOJhRKLKcIgF5fTCsBUcBmK/n8qW4e2Yow5RByG7xnxWUYsNWuktfex7+WkeqnEoPpzd37XXCABdMo5BltIFE93CTBOILQq35U15VV9I2jwZIvEPxjCLemjvFi/T+0uzEfjYUoWacFJM+hL3x1LfAuAX936mwThIUajTUEU3TcyPjPaw5Ttk5Ipqcg==;KB5Y8ALBiarwmDvSLgQlJw=="

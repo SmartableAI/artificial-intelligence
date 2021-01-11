@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-11T16:34:00Z
 originalUrl: "https://news.stanford.edu/2021/01/11/hybrid-chips-can-run-ai-battery-powered-devices/"
 webUrl: "https://news.stanford.edu/2021/01/11/hybrid-chips-can-run-ai-battery-powered-devices/"
 type: article
-quality: 43
+quality: 60
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://news-media.stanford.edu/wp-content/uploads/2020/12/10130601/Illusion-art.jpg"
@@ -38,7 +39,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
         width: 1200
@@ -93,6 +94,6 @@ related:
         height: 516
         isCached: true
 
-secured: "wTUSaLL4pIJBY5YKZXlcoP9ISjgNcSdb6Py3BZzaD/PhILQA7B/yi8CT5GPe1st32/jxx8FqTWo18gqnUu8dtO4g0FXzQCjP8moGg61mfudO7p8UBGliYzLV80CCmOCFmhDoKhBEyyx/a3RoFgW+kNvGGx6oHMWcSJ7EY/N5QfHteIcMGjj9EW7TDcZy9t0cC/IiEszM1Nv1opsSL89xfzo2sZqgwnqxwI/qWBbTwC3p9giDPGd90eFdZIKmE3kvTj6yMsqLAxth5D7F1Ow0GFEKGea8NdIebL+Hxlr5jryy2Sb2lD+KsFjOj0R88+ZbqtQieHqmFHvBgKXptwbVxX3yKu1lZkgDqZ9DKmqCl5w=;RJCE4ARIIVDl3UyMuOhwvQ=="
+secured: "FZ5ZdoMzNv9eASN+A/3WHM+Iq1pGRy0IdEH/+RWF77Uj+Iml+liZAr4b++U6fcn+bqOyYGiulPWbbDE7hFZpnLTOW4YphCxJxcX4cAdfqZ85IQh3VyAr/irbYkdM2KKtcJwmM/zlOqoSmYvehfz+hZA+S+kZizM4rOFdsc0S22gZdWXK+mW3m8UlNKbDwBma9AjPn6wgUz5mcVzYIYuVYz1CM0unEaInYofuFno4QNhkwSXVvEzDvGh13Wf42Gv5+UUQ+qmci2MybycsIIbXnPCV3IipdqqbXm0jRB4Id80T1Twj0LnCRUxMcrdryP7KL7Qu52u0YPeD7qgxjs9e2liaCYpFpXOYCPMLMyd508IF6yZDFrh3MM7RJKseP0mNqggyKMFL6CNyH1AUp+4HVo7mH4Fb1NXQWNINdf9HDRd/aa/rX2Dn8k1eDowbpEhsmVa6PwZSecAlzDCkv71u8AGv5RTna1oZW5P3gq05sz4gd0+Ek1bJa1LvBsvgE/OybFIaT8sBsOycW4BbE27ewQ==;n/VqnOjqry4IIkDijhr9pg=="
 ---
 

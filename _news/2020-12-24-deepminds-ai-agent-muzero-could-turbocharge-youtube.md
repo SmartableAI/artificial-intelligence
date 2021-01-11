@@ -2,16 +2,20 @@
 category: news
 title: "DeepMind's AI agent MuZero could turbocharge YouTube"
 excerpt: "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved ..."
-publishedDateTime: 2020-12-24T12:23:00Z
-originalUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
-webUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-55403473"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-55403473"
+publishedDateTime: 2020-12-24T01:35:00Z
+originalUrl: "https://www.bbc.com/news/technology-55403473"
+webUrl: "https://www.bbc.com/news/technology-55403473"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-55403473"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55403473"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
@@ -23,6 +27,6 @@ images:
     height: 576
     isCached: true
 
-secured: "IVhjrCCw0qM6otfjvc6/cfTueLzG3tgpdwQr8pq0qvSbyzyYawyaWlRWw20EK0VPxGZEGcHh46grL5vCxs/cOLq6VvvYGVzgIe+k9drfOYhBC/gphAfbJ/9FPzo8bPeOEOy/Say7EY5uRkzdlxYD0aN8Eo4+dfRYpK20Ps5r/nWppkGW6AdzLjiSQEw3ckSNH1hFk8Lu9C2SjUbhgomQFOcrErhqyb8wdhora58FtfFc0ZeZ8ADCbt4KQlnCmBRaZmiWTpYTZPRgzMrdjbPB/zIfuV5lm7pGPIBlnVrzlK8NVvp4uuxRpx5GSTT1cSZuyOZVH1MIY5i5Nsb3xmyZ+SnHXYsC0b6PkYC4Gk+r554=;z1LbuW7YMoJikPcC0t+oyw=="
+secured: "Z0xP96RQUT7k367pvKw1xVk6dybyKylHGQ9+gAbl+nm01yU2jfaO0YaCDCF4iHQrVUJ7NHMIRRpwik+PTGiuofLhB89qvDYgEbNNeUhsTzg7pCBjmtOgC3ds0GUiQ6QKQFzWlgfo925HUOpPJtX0dNvhJaQUJUsawE/IS2EvwV2BN+3DntrM51ZfTsYAmy0xy7t5tloRLIBcqzLhiwg9iD8X+4x/mxtc4b5+YwK+opJUwzKPT0CKJW+FN8bGxb8/Zq47yiDsFqCmBbFR0xybCRhulkurHjzE0ir77xhLjBMbqeGs6odxc7w+HTpLkGaNaPwMWyVYrGsNOGuGq24poBLsZqSVEfJLJoPrE7dJnXo=;O51khBJhwTAQR9eTR+YFZA=="
 ---
 

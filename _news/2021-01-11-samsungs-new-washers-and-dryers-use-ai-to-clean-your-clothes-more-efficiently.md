@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung's Newest Robovac Is an AI-Powered Poop Scout"
+    excerpt: "While it won't clean up pet poop, Samsung's newest robovac should at least know enough to avoid it in order to prevent making a bigger mess."
+    publishedDateTime: 2021-01-11T19:00:00Z
+    webUrl: "https://gizmodo.com/samsungs-newest-robovac-is-an-ai-powered-poop-scout-1846021197"
+    ampWebUrl: "https://gizmodo.com/samsungs-newest-robovac-is-an-ai-powered-poop-scout-1846021197/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/samsungs-newest-robovac-is-an-ai-powered-poop-scout-1846021197/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/edgo0tkelrppfhh2v5jj.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The Samsung JetBot AI Plus vacuum uses self-driving car tech to clean your home"
     excerpt: "The Samsung JetBot AI Plus includes sensors and software designed to find the best possible path to clean your floors."
     publishedDateTime: 2021-01-11T16:24:00Z
@@ -62,6 +78,22 @@ related:
         width: 715
         height: 402
         isCached: true
+  - title: "Samsung reveals smarter Family Hub fridge and a robo-vac that thinks it’s a guard dog"
+    excerpt: "Samsung’s big Galaxy S21 launch may be coming later this week, but it’s home appliances which are getting their moment in the spotlight today. Fresh for CES 2021 are updates in the"
+    publishedDateTime: 2021-01-11T14:00:00Z
+    webUrl: "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/"
+    ampWebUrl: "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/samsung-ces-2021-home-appliances-1.jpg"
+        width: 1680
+        height: 1050
+        isCached: true
   - title: "Samsung’s Newest Robovac Is an AI-Powered Poop Scout"
     excerpt: "In a perfect world, your robovac would be able to recognise pet poop and automatically clean it up without you ever knowing. Current technology hasn’t gotten there yet, Samsung’s JetBot 90 A.I.+ robovac attempts to do the next best thing."
     publishedDateTime: 2021-01-11T03:00:00Z
@@ -78,21 +110,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Samsung's smart home announcements include a robot with a big arm and a vacuum with LiDAR"
-    excerpt: "Samsung is one of the largest makers of smart home products, all connected through the company's SmartThings platform. Samsung has plenty to show off"
-    publishedDateTime: 2021-01-11T16:04:00Z
-    webUrl: "https://www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/"
-    ampWebUrl: "https://www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/?amp"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/?amp"
+  - title: "Samsung unveils trio of new robots to help out around the house"
+    excerpt: "Samsung has unveiled a range of new robots designed to help out around the home – capable of filling the dishwasher and even pouring owners a glass of wine."
+    publishedDateTime: 2021-01-11T18:09:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 52
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 59
     images:
-      - url: "https://www.androidpolice.com/wp-content/uploads/2021/01/11/CES-2021_Samsung-Press-Conference_Bringing-AI-and-Robots-to-Daily-Life.jpg"
-        width: 1600
-        height: 900
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/368c9412-3124-4fa6-809a-468ee7adf1ff-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "Samsung’s latest Handy robot does the laundry, sets the table, and pours the drinks"
+    excerpt: "Samsung us showing off its latest home robotics technology at CES 2021 with an AI-laden model known as Bot Handy that could do your chores."
+    publishedDateTime: 2021-01-11T18:16:00Z
+    webUrl: "https://9to5toys.com/2021/01/11/samsung-bot-handy-ces/"
+    ampWebUrl: "https://9to5toys.com/2021/01/11/samsung-bot-handy-ces/"
+    cdnAmpWebUrl: "https://9to5toys-com.cdn.ampproject.org/c/s/9to5toys.com/2021/01/11/samsung-bot-handy-ces/"
+    type: article
+    provider:
+      name: 9to5Toys
+      domain: 9to5toys.com
+    quality: 53
+    images:
+      - url: "https://i1.wp.com/9to5toys.com/wp-content/uploads/sites/5/2021/01/Bot-Handy-Samsung-CES-2021.jpg?resize=1200%2C628&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "Qng7oVlsmXBHxPnjmu2xxEJ7W3V1C7Ro6IfnL4bSQ9RlEXMGUfpU01LwoDDKdi8Ctrr0T+N/wl/xe7n9LOiDsG6HM0HN9BNxQQgdSHOExN8Jctg7LcI5omOwMxK7fLycJzoFwTmWS/ytaEOHSQQVelHXcIG6Rk114hPF1igm0NaE/JZsryxFDPy5oDc6clUceu/TXoibhcXyFHGRgn2JiOoAwBo54IS2ciVQicHWO8BPuSvuNLsevGVYRlb1i2/Kz2zpvIwyPTRRFMenrWlqOHTPZvcKchVV8lBOoDXfMQRhNen0o9nqNs1xCOZ3pZ+9arLE90kP4jq1aW70wOmgxPXQGWBGW8ZahBnh3j2498w=;VCBTra3GXsWKeP9n1xxlMQ=="

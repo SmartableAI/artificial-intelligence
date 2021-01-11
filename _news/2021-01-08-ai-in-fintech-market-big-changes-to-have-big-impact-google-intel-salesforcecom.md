@@ -91,22 +91,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 18
-  - title: "Big Tech Firms are Now Offering Fintech and Wealthtech Services in Singapore, but Startups are Also Launching Innovative Services"
-    excerpt: "Kristal.ai is an AI-enhanced Robo-advisory service that offers personalized ... Wealthtech100 is an annual list that’s prepared and released by Fintech Global. It aims to acknowledge the efforts and performance of the 100 most innovative or promising ..."
-    publishedDateTime: 2021-01-07T03:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 15
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Marina-Promenade-Singapore-600x492.jpeg"
-        width: 600
-        height: 492
-        isCached: true
 
 secured: "I1afAIGWN1rcV6cQ67fIwWfld0QC4bmBjnzVee86V35OTzpBTttJB5OT/yTBNvb2+gmrceOcLC1E4kwZz+2tCR1OVV1rZN8HQdCSrwAUfIypj64XShCfzNorajLbtPNWwEQvy3Q/8oAB5J8ki4sHSvwtchTFYR1Gbqpd6wVLX2Lf6l+qxNUSjsTutAjFNxJk0lleclcN4xkwhKvpNk/oZ+gRyEobDmeyQtYTfq8+fnuFUa24HdHUUxl6ux0Xa78g8W8upaZ0G5L68t6Aw2xjow8vIFlQun87/vd3cFowLQoKAy2QqQ3t7k/gEWyO99bA+IHf9yFe+rHJr+hyzh1pZbVTN/c/8Wjuyldwg4XsaWkQAdTUH8Wq9IgkTyTSybXUIO1vHq9GQBpTl2LkrwrekQlwuMmKdZW9XK6nrlwy0KYfh/CPDrO1SgyyIKfip5vhLVj6Hrc3mO3Yh5JcssZRMOjyzKma8y0w92WVhQU79XbZNhSyTh3HdDmj3KMTP/y/ApEmOT8oOC0gU4MDXBmRbA==;866m267zfHwslr0lsONtiA=="
 ---

@@ -41,7 +41,7 @@ related:
     provider:
       name: Embedded
       domain: embedded.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.embedded.com/wp-content/uploads/2021/01/Ambarella-CV5-SoC-Applications.jpg"
         width: 1920

@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-11T16:10:00Z
 originalUrl: "https://www.umassmed.edu/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
 webUrl: "https://www.umassmed.edu/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.umassmed.edu/globalassets/umassmednow/top-story/vijayaraghavan-gopal-2-660.png"
@@ -26,15 +27,15 @@ images:
 
 related:
   - title: "RadNet’s DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer Detection in New Study"
-    excerpt: "(NASDAQ: RDNT) today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence (AI) for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
-    publishedDateTime: 2021-01-11T16:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/radnet-s-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast-cancer-detection-in-new-study-1029956356"
+    excerpt: "RadNet, Inc. today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
+    publishedDateTime: 2021-01-11T16:15:00Z
+    webUrl: "https://www.nasdaq.com/press-release/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 26
 
-secured: "2UfBgtsrtD8jrxXZfNW1JN9yhuYMZELVZpB6r3Iku7aLmtxZcV0lIWvgPYg6FJO0Z4xCrxJxxFrtPrqZZ+IbSW7oC891z04jFu+DsTc12mssLVGmLtRG8VlpxbUJC+vDoMrHp9uJetKZURGHU8IPphYN/2/UI7T/xJHBxdc4J7j0/Yr0PZOxbR+humJh5KLqJVcPO0M+N3AAN8q8CohnmtKsCbPfXQQDPmHayeHJQvVQdSg8PtKzmTDenSyUYmlk5ASmvPOAcaE5jtz5HtKFni/JdJNf1FwyqHGD6oxDn4FH4cAMsAAyAZvea8xGZQdry5qIv4pfivzugOc90Rs8ojzb8g2aVFpDlgr8D0uIoIE=;M28VPfOIzgruutl8TnlQjw=="
+secured: "DJIltcfHYjqb36hDG4PHQZayhgxKUvdU9L1BqweOWf13Tv43larNIZ1s1LXc1IKcoacryQscR0GLoJPj86xK4h6TiIXfJ9kDMJUfjFvVGdHlt8YrMjQFdW0BVuMQG4MvG7MTKjAXPhANTg8DpOkjuYqTHSqYBYMpoMLAnWdgUqp1ylokt50sJcAK2UynEQ8DPFSEEUtGxVkdK/2xeV5QASOs3zkQ3/xh3ITlZiI+J2KdsZ6d6JVqYSKLEMA5POhXCNmdoBaJpgWz3Xhyby27Fbmw33zyKF8syp8PqCeM37tjghg5yxK3bJihrvmNSSoF2c9RtaZaEMnVlvhlsU8Ib62gSMi7WkmUvvqK1zOrBzKHA7ohJpE7jh3K1AiByEjkuCfVXb8AJp3f15dXRVL7m1nN6WrT3xgZRN2VQyzRbhIOF1l9bqzX72/1nTYordXv1L4ZzWQNFJwQhTPQW/xvh/ogD3k8NUNNEGvm3x3aKPOXIc5V8mkgqwcKRP2WhNTlqgP4dNRU4d27eNqWi7V3Cw==;VxvzadRA6yhNEunzt56LFQ=="
 ---
 

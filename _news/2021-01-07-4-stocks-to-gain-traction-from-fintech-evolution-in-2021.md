@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-finte
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -90,22 +90,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 18
-  - title: "Big Tech Firms are Now Offering Fintech and Wealthtech Services in Singapore, but Startups are Also Launching Innovative Services"
-    excerpt: "Kristal.ai is an AI-enhanced Robo-advisory service that offers personalized ... Wealthtech100 is an annual list that’s prepared and released by Fintech Global. It aims to acknowledge the efforts and performance of the 100 most innovative or promising ..."
-    publishedDateTime: 2021-01-07T03:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/170964-big-tech-firms-are-now-offering-fintech-and-wealthtech-services-in-singapore-but-startups-are-also-launching-innovative-services/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 15
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Marina-Promenade-Singapore-600x492.jpeg"
-        width: 600
-        height: 492
-        isCached: true
 
 secured: "LySZACFKAE9mjKF2Bl3HCg3enfPnyd6TgNOVXjbDpCwasayV4YhjEFLwJcKpswcD5NhlNTOqmepRyPCFsSvRS1sSImsibFFbRf7yZI2j5cJ0L99pSnY/AvvudKoOr/3sCiqdMI3AB8lfKQo8EgU3E8XpfpXcaHywqvsDEFcE40Ad35zBAXSzNm082EI07lImU6V4rTc0Y0/O1bsXarB2gg58NPZ+Mk4LTRg1qn2d5qzfNh2nUQ7nxzJ+tSXYNXt0Xj9I+LE+CwFdtI313cFpkhvXaiF0GEQXfMge9hH/BbgKeoOo06s9kpPz+RoTkImkVRTgBuSSXJF0SY2kNzHXmkuyymvVsPDXe3RhXU93JjQ=;tuYeLOcTol5gVjF+lV08mg=="
 ---
