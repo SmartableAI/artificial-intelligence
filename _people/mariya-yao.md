@@ -9,7 +9,7 @@ website: https://mariyayao.com/
 twitter:
   username: thinkmariya
   url: https://twitter.com/thinkmariya
-  followers: 28219
+  followers: 28217
 
 topics:
   - AI
