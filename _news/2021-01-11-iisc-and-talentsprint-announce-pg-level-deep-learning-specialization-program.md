@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-11T06:59:00Z
 originalUrl: "https://www.businesswireindia.com/iisc-and-talentsprint-announce-pg-level-deep-learning-specialization-program-71035.html"
 webUrl: "https://www.businesswireindia.com/iisc-and-talentsprint-announce-pg-level-deep-learning-specialization-program-71035.html"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/companyLogo/talent_71035.png"

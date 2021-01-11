@@ -221,6 +221,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
+    publishedDateTime: 2021-01-11T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market 2021 Growth and Business Prospects, Industry Size, Forecast by Share, Revenue, Development Status, Demand by Regions 2023"
     excerpt: "Comserve Inc. / -- Based on organization size, the sub-segments include small and medium enterprises (SMEs) and large enterprises. The Machine learning Market is estimated to record a significant growth throughout the forecast period."
     publishedDateTime: 2021-01-08T14:21:00Z

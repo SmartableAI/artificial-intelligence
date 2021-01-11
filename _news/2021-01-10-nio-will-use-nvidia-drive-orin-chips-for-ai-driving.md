@@ -8,8 +8,8 @@ webUrl: "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-ch
 ampWebUrl: "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp"
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp"
 type: article
-quality: 74
-heat: 75
+quality: 76
+heat: 77
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/01/nvidia-orin-press.jpg"

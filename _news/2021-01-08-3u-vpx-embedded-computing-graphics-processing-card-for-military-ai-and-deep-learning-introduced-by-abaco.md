@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 733
         isCached: true
-  - title: "Light-based processors boost machine-learning processing"
-    excerpt: "An international team of scientists have developed a photonic processor that uses rays of light inside silicon chips to process information much faster than conventional electronic chips. Published in ,"
-    publishedDateTime: 2021-01-06T20:46:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/epfd-lpb010621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/252865_web.jpg"
-        width: 400
-        height: 598
-        isCached: true
 
 secured: "yeXDiBuzHvQp8P3VrNz8ScPwsW/LNO+Vt7/+RJy8P8WA557xWhwEgzCPiyzJW+8t4f2dZmV3es3wR7bR3M1OGRF2L9isPC5mauLnOo4VGAb8tahdr7fFZWrxWkToa3uK0OGDQf6mDAHHbJDeNXEyHw3wr59aO2lUavOctAwvfMFd3mjw1A93rGmvr9oII458X0Qe2HSiTV8aOPizzxs8vp3evJ/RECE7m/2YyuzeW2phzkk2DVFBYWV9X3As1j5GFS5EXFGc7SK93hGDLIZOlrxdr66xkBC42YWCE4UHpLn1EidWXaMbDHTiQJPJd3AdY+w8ddV20XgmMN6Qi3016oQIxG01ZpkoX9iOF2I+JLZsdhxYWbcr1lQiGf/PFgRS7GQ1xTyNKSLP13vjZyVfYGzIg3rjEZFufh2z8l1pJdOizYRl/cWEXYlUrN0I5dr4SYR3ZQ7dgnZ+aUl0t/aDa8CNe/BAjVlAamL2Y45oYeUrqgLuP1lzjtCyjmdvw7ZG/knxaCKQlxUxzSR8wzSIhQ==;IeqRis50kIA20rlxwezdJg=="
 ---

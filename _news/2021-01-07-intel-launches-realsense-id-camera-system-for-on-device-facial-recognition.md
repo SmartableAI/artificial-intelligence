@@ -63,22 +63,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Intel launches RealSense ID for on-device facial recognition"
-    excerpt: "Intel's RealSense ID performs facial authentication on-device. The company says it's designed to address needs in a range of industries."
-    publishedDateTime: 2021-01-06T16:42:00Z
-    webUrl: "https://venturebeat.com/2021/01/06/intel-launches-realsense-id-for-on-device-facial-recognition/"
-    ampWebUrl: "https://venturebeat.com/2021/01/06/intel-launches-realsense-id-for-on-device-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/intel-launches-realsense-id-for-on-device-facial-recognition/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/FA-scale-e1609799705593.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Intel Pivots Its RealSense Cameras Into Facial Recognition Tech"
     excerpt: "Intel announced today that it will make its RealSense 3D cameras available for customers hoping to utilize the tech for faster facial recognition in the form of RealSense ID."
     publishedDateTime: 2021-01-06T21:30:00Z

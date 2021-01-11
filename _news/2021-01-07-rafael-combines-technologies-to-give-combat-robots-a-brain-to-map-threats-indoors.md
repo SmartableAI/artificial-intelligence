@@ -2,17 +2,17 @@
 category: news
 title: "Rafael combines technologies to give combat robots a ‘brain’ to map threats indoors"
 excerpt: "A robotic four-legged dog and a small drone infiltrated and mapped a building in an Israeli coastal community recently as part of Rafael Advanced Defense Systems demonstration of new technological capabilities for indoor battlefields."
-publishedDateTime: 2021-01-06T22:15:00Z
-originalUrl: "https://www.defensenews.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
-webUrl: "https://www.defensenews.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
+publishedDateTime: 2021-01-06T19:48:00Z
+originalUrl: "https://www.federaltimes.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
+webUrl: "https://www.federaltimes.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Federal Times
+  domain: federaltimes.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "J5JfroIoTJJ7lz/eG1JpJv2VOurZiUrTtbBPQfuoa9/FRE6Ky0r0Yi7vHfjeCS4CprElXcS+oci5y922WNmqStQep9O1TMiaOIUk1JNlY3KxikdaC7BMChOc2aOkrbWRuh2aqjbo5D8N9p3iwfiMbZ5EdwmmmWsYJVOMn8JmQ6OfwoMaDIbi4ObOSkD/1faULv3I/Z/RFublEi80nAsm4TEVJdZn/Mu8FxcZUcozhIKOlclpmm+Bbw0d7+4wL7E2xVVn+jUbeJkwvGYJic66igeJUsX9F3W7K6dkbcNy9XdSUdpvXmWYoc+NjqJw+zi7ogEblSbRogrKVk5+w5yThoe32e7fO2baDu+aOxnZ5gE=;bax6QNAM+YLfq65URbB4mQ=="
+secured: "MHvEXKst9JQiv0NN5uvJWIzaLawTYwkpoO+p8XEqGKdbXIwRrR31wW+JXvtBxFjnBJttLSdor14dVs2AkX6yMpKf/DvNQq3EQ12+dkh62Vs4HVBq1a1/KtV+WybfWpZDBHDcnvkxZVoGG9PS8u+0ENjQE4Ch7l+iAxbVvFwtL7cR5lr4QsOqzkYoHWGbhgBggWM39yNAGIe2Tf1eyik05WxOiemnnx0QzmxL1Vh7GQkycB4MBMFNb7nl+XHBNSXp0Me9uq049Sd27Hno7yYP0oJZK8JplK8QOr/nnV4FyU++0S456LLmFd0KEOlrUvh/3hqKjWHUo1C3QnImhNGugOgIUFBboy6DLZmRJ7K+1eM=;ooEC/nwDfLCxg7FdkOLf5g=="
 ---
 

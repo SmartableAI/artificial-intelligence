@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Equifax to acquire AI fraud prevention specialist Kount"
+    excerpt: "US-based credit-reporting firm Equifax said it entered a definitive agreement to acquire Kount, a US-based provider of AI-driven fraud prevention and digital identity products for e-commerce retailers,"
+    publishedDateTime: 2021-01-11T08:59:00Z
+    webUrl: "https://www.telecompaper.com/news/equifax-to-acquire-ai-fraud-prevention-specialist-kount--1368049"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "QNuQuaiR4mfmbnEbNLHfmRRAzyTFDiBNsJUbCm+iqqtbE3l5WlOL8NdmOKskjhxWMRjkR3xHVYDUuMUTsoqbFM5ev0hY8awMF8fJ++bKdSUBY0H1s+/NR/mPXHdChewvPv9UfM32/4THtPlt9YxGSDusBN4+ZZhnrfurjFkX4lE4zYfTpCb/04lybz0qvBFloif9R/0n7nUOFWV3byGhlWOuTvqI+f8HApStTOsrTzZrf3mlodwu5F6w2lMOzk52T45Sf3M383A18OKxYZq9RNw7kszVzoNph3TuuV+dt6e0DzWW3MQ77h8K+/9DBnNq9FyToTrIdM6YFfWC8AeH2+oXqWBHA8KbRkIGyyuZjlE=;E4D+kezInHPeYnhGARj59w=="
 ---

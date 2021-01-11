@@ -9,8 +9,8 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/craigsilverman/facial-recogniti
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false"
 type: article
 quality: 82
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: BuzzFeed News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots"
+    excerpt: "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa."
+    publishedDateTime: 2021-01-08T13:25:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Fact check: False claim of facial recognition of antifa members during U.S. Capitol riot"
     excerpt: "Facial recognition software firm XRVision has refuted a now-retracted story that its product matched rioters at the U.S. Capitol to members of antifa."
     publishedDateTime: 2021-01-08T03:53:00Z
@@ -50,7 +66,7 @@ related:
   - title: "Fact check: Facial recognition company did not identify Antifa members among Capitol mob"
     excerpt: "A news outlet that reported that a facial recognition company identified members of Antifa among the mob that stormed the U.S. Capitol has now apologised and issued a correction. Screenshots featuring the original report,"
     publishedDateTime: 2021-01-09T02:13:00Z
-    webUrl: "https://www.reuters.com/article/reutersComService/idUSKBN29D2WV"
+    webUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-antifa/fact-check-facial-recognition-company-did-not-identify-antifa-members-among-capitol-mob-idUSKBN29D2WV"
     type: article
     provider:
       name: Reuters
@@ -60,6 +76,82 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547153800&r=LYNXMPEH071CI&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "How far can facial recognition go in finding rioters in DC?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-09T12:47:00Z
+    webUrl: "https://www.kgw.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.kgw.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    type: article
+    provider:
+      name: KGW8
+      domain: kgw.com
+    quality: 59
+    images:
+      - url: "https://media.kgw.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "How far can facial recognition go in finding rioters in DC?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-09T23:24:00Z
+    webUrl: "https://www.khou.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 59
+    images:
+      - url: "https://media.khou.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "CORRECTED: Facial recognition identifies extremists storming the Capitol"
+    excerpt: "Trump supporters say that Antifa members disguised as one of them infiltrated the protesters who stormed the U.S. Capitol on Wednesday."
+    publishedDateTime: 2021-01-08T15:26:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 58
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Facial recognition technology used to identify alleged rioters"
+    excerpt: "Facial recognition technology is being used to identify those accused of crimes committed at the U.S. Capitol building this week. But it's not perfect."
+    publishedDateTime: 2021-01-09T12:35:00Z
+    webUrl: "https://www.kvue.com/video/tech/facial-recognition-technology-used-to-identify-alleged-rioters/269-7004ac76-6cf4-479b-bb46-f406fe0a2fe3"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 39
+    images:
+      - url: "https://media.kvue.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Were Antifa Members Identified at Capitol Riot with Facial Recognition Software?"
+    excerpt: "False rumors on social media were given the appearance of credibility when they were rehashed in a new article."
+    publishedDateTime: 2021-01-07T18:40:00Z
+    webUrl: "https://www.snopes.com/fact-check/antifa-facial-recognition-capitol/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 34
+    images:
+      - url: "https://www.snopes.com/tachyon/2021/01/eye-5814965_1920-e1610038979612.jpg"
+        width: 1200
+        height: 717
         isCached: true
   - title: "Smart cameras and facial recognition could assist in identifying Capitol protesters"
     excerpt: "Weapons, beards, tattoos and cell phones -- any of those might assist in identifying people involved in storming the Capitol."

@@ -120,6 +120,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
+    excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
+    publishedDateTime: 2021-01-11T08:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130863_hyundai-and-apple-to-reportedly-build-self-driving-ev-in-us-from-2024"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/apple-store_100528844_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "X7WsVro+gBto/X5zGwnxwlzR1jYdTh+344EJj1W28aseaEf2hCqqLiwbJTXgONGu3KrtzR6O8cN3P86jdG7KqIMJO2Wz0pNxtA0dBB5k0F+KCKmB+LEbVdlB0vwPrwajOY+trRgtpPdesdtox8cUQ5iCD09UYttOeDFq8wdP5eyrTHaUbXgYW8JebhOA1DCLi/hwMVNMw6BzqBpTtoz8tKudShELYm/WO6DtiwkEPMKCLL6hoXPhKbwV9ZQPwx53aYldVCNzixwpXLOG91EJjgmp4+jfoebEySYExNIjWFGpDhDdpGlLANw6ht8U7xBgeRpNkOThP/xOJIUJwEqg9ORyHHfkgmpj7bYmt5tc0FU=;ivoqSCDLlf5wFhqPTZ4J0A=="
 ---

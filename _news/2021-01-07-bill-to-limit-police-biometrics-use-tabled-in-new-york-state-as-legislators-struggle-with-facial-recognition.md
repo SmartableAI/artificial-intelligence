@@ -40,6 +40,20 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "Military researchers ask industry to develop long-range biometrics and facial recognition algorithms"
+    excerpt: "BRIAR aims to develop algorithm-based systems capable of performing whole-body biometric identification at long-range and from elevated platforms."
+    publishedDateTime: 2021-01-08T08:36:00Z
+    webUrl: "https://www.militaryaerospace.com/sensors/article/14189954/facial-recognition-longrange-biometrics"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 24
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/biometrics_8_Jan_2020.5ff73ae0c21a6.png?auto=format&fit=max&w=1200"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "YcULXkeLHMizGff9cM+QU1+zKUseE4PPfEztvK0BovG9l9u2u3JtQu2E8kEegE2vhV/5FhiZ15S4TNECrm9idYwcuuHAGLdMMjIk7T2mbl+0mwNPjL6MbDVBgZBmkXQCOcQMqVM9YkVvntkyVXUG1C2RtEt0kJANyihBdr/0LGZvTnXwtGY8I1Zp44Axc7uzlzLrXIwgSCCdPZAn6T89nuhT9wbRo6Le+M9rzGqOUp6xuaXstwGRrGbnTwebQTCb4YPkki5Tz6EH308dBxObgGrCqKTFlJ6DU+7fdLM08/mTrAODvi+F7XGNcUrbR0e04rV4NaU26hpG6DukHZ467OuMUcwm2ryzootnkHxYKys=;d4Dn+Hie82j1BzQcD8EJ8w=="
 ---

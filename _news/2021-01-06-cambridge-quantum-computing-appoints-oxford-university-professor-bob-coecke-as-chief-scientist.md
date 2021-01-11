@@ -3,8 +3,8 @@ category: news
 title: "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist"
 excerpt: "PRNewswire/ -- (CQC), a global leader in quantum computing software and algorithms, is pleased to announce the appointment of Professor Bob Coecke"
 publishedDateTime: 2021-01-06T08:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TzLs5ZIw0C2PjJcVhwzchbfIwGdQhfmPYjJYTmLLcFtLnSLyfENe2b4ZrfRtI1kI9/Rh1rFWH0H3pfdsxtx0ys5cRSkx4qemcWGBFFmrkYuj1QmewAK8no6RWFe0vYSdTK7PB/MO9LAGun0eqXSS1FHWu/w5Iv5ITcct0m4x1B25igh8/AGaNeAPc7tqj0P7NEcEQyT0BWWB60JqAEr6Lc9ejn1CEOckHZ/GyLtlRaZaagT20jGMyIwFjk85Uu1RaBkhVPKV/milErvmM1PI5IicHO3CnuZM3NaJOWRGyF6ei0OpxIj28TjIngH9dif6Q38CfRdmbi5ERAd9WaX0skuudQSrLMR0EVNQ8h1rBK8=;ugqaSLbg5L8GA7DrFS4LzA=="
+secured: "FotCyYGuSc7JvyYsuuLFsQjFmk+8wmnpydtiGFHd3sKbs0QAjRabJs/AkXaKArZtuKAAhI4BX/2Eahn8wjcCLuckza07p1g42w2l06Zmi5kPPE6ZoZMD5EGIZC6qVufiqIfYKsjLE7+tGmfX3OqA7WrbQLt/fEqc2KHALiZL/BZw1b7x9mk/dLbv6G0o3WLenB7are0Co8c6ctMtNUki8Jv72xY9rRZUXKkoXplyrEytiu26cHdC+tsVddcbeemr8fHZxqduD4NyXHScH4Qi/PQafhz7M2gE9laQU2pH4h3yS6FyeTdEgKyqNwC/mKFHDnXccgkGVgyu6Knjqi0wAYgsN4OL/gZnN4nTLPxAJx8=;lG29HaKEtpA7r3HZyz0Ujw=="
 ---
 

@@ -109,6 +109,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
+    excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
+    publishedDateTime: 2021-01-11T08:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130863_hyundai-and-apple-to-reportedly-build-self-driving-ev-in-us-from-2024"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/apple-store_100528844_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Cox Automotive unit to service Motional's self-driving fleet"
     excerpt: "Cox Automotive Inc.'s Pivet unit will provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co. and auto supplier Aptiv . According to the agreement announced Thursday,"
     publishedDateTime: 2021-01-07T18:39:00Z

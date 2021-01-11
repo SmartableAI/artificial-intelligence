@@ -34,7 +34,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswireindia.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/companyLogo/talent_71035.png"
         width: 300

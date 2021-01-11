@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/amp/"
 type: article
 quality: 79
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Equifax to acquire AI fraud prevention specialist Kount"
+    excerpt: "US-based credit-reporting firm Equifax said it entered a definitive agreement to acquire Kount, a US-based provider of AI-driven fraud prevention and digital identity products for e-commerce retailers,"
+    publishedDateTime: 2021-01-11T08:59:00Z
+    webUrl: "https://www.telecompaper.com/news/equifax-to-acquire-ai-fraud-prevention-specialist-kount--1368049"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "qUFMMoK39W+PW18GRrwx1I0vJb9UOMxIiXVn0nudeR6K21AIx12jRx0Vg4ZsY+DjPuUWBT11YyUVLXBAGf7vzJMefPgQy+5XaMkZXnh1vVOXpFTlMTZg6ZB2IBZW7t7Oo2Gbdaok8Vy5jkYtI9uJPomJoF+2jjbJrCjiwOO9p/o+AKxGYD9031bMJt6kmYflW3vounisyptby3Zf2zJJTxqcgWD1zhRGR74Yzgno2XFw3AdAq+BfezvM9it4quRjtfa4JUgzjs58nJUgWC4+Xi47JEyyDpCZHj+8OhXgLVXrQfxRbgnc1eIvllUM2PtvPAIPDq2pFMB2i8RKvS9NDO7Oh7rqMgFmuO73U1jK9vwMxA7IZg+ljuXc+LjNrswjUJdfEkpAG/9RwczUJHfHREPqyYKF6DIV4nPB8LBC7Hy4lbvOoOFblDIu5nKa0NzM3Xr5hkT+e86tmLeB1JyFUjSNH3lmO4Z6fxbeWQ3T5mfCJiDP2cO2cAz+DWy76yNYk75lg1/IqZ7et1hUzIKD3A==;+sJ+urdAC/4nAAj5M1yX5g=="
 ---

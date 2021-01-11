@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "3U VPX embedded computing graphics processing card for military AI and deep learning introduced by Abaco"
-    excerpt: "Product supports signals intelligence (SIGINT), situational awareness, radar, video, and graphics applications with three output configurations."
-    publishedDateTime: 2021-01-07T06:44:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14189837/embedded-computing-3u-vpx-graphics-processing"
+  - title: "Photonic Chips Seem To Boost Speed of AI Processes Dramatically"
+    excerpt: "A team of researchers has recently applied photonic processors to artificial intelligence applications, demonstrating that photonic processors can greatly surpass the information processing capability of regular electronic chips."
+    publishedDateTime: 2021-01-11T07:24:00Z
+    webUrl: "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically/"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 39
+      name: unite
+      domain: unite.ai
+    quality: 54
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/Abaco7_Jan_2021.5ff4d6abc2d8c.png?auto=format&fit=max&w=1200"
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1200/h:900/q:auto/https://www.unite.ai/wp-content/uploads/2021/01/spectrum-113364_1920.jpg"
         width: 1200
-        height: 733
-        isCached: true
-  - title: "3U VPX embedded computing graphics processing card for military AI and deep learning introduced by Abaco"
-    excerpt: "Product supports signals intelligence (SIGINT), situational awareness, radar, video, and graphics applications with three output configurations."
-    publishedDateTime: 2021-01-08T12:03:00Z
-    webUrl: "https://www.intelligent-aerospace.com/military/article/14190009/sigint-radar-video-military-ai-deep-learning"
-    type: article
-    provider:
-      name: Intelligent Aerospace
-      domain: intelligent-aerospace.com
-    quality: 39
-    images:
-      - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/01/Abaco7_Jan_2021.5ff4d6abc2d8c.5ff7b23c62512.png?auto=format&fit=max&w=1200"
-        width: 720
-        height: 440
+        height: 900
         isCached: true
 
 secured: "B9jnNKsKoLecM5v62pA+sAlhMqocy48M+6yn5nNSbQzQY2f95U9G/FpET0EBItZzbfOoWde4DM+dUKbsg9gFd7C8hTuN7vRbKKqye+bq/iKzkhcy1iWv85Ta3dCH48e1X1rxXMuKQz+3BPS7AQTTuT6G06czr2/mrmUIiy0TdGnAW6MAwruU1pVXRqGhbFpO7aMSk6rxqfC8tNn/2yT8KVQq4/T/PGT1+nVcTpoFgIl/4T8ebUmcpudceWIBs/MQMWYCcB7qGZ2nYLEmn6LlFxhTYFjKlPD++vhEpJbvrnsm9KCbegLLqjc/ZBTadjRkxslWBvgjLX1Z+8hiDsDBzdfeznwM2+ZXcMjqwbFKWY9bL4npgEL4/7qZZ+5yqCOnOxESzBBFHP93UgO2uc/3InvGW0hsMytPtx6W2TfHnQcVWp77YJjD0lpOO3X7ZR6ikc6t2NOG0GaB9b54bRFO90LWz7r5Tpk17qZm/Rz+h9lEJhFZHXKGuarelHKWauBLbN3bK4ggCkMrKqM8IwpaqQ==;SbwNQTqdzi3jRIv5iwtMvA=="

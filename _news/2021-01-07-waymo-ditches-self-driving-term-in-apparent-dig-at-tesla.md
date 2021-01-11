@@ -125,22 +125,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Waymo Pushes “Autonomous” As The Right Generic Term For Self-Driving/Robocars"
-    excerpt: "Waymo and several partners want to push \"Autonomous\" as the generic term for what they do, and will stop saying self-driving. They are annoyed some players are using self-driving to refer to driver assist."
-    publishedDateTime: 2021-01-06T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/01/06/waymo-pushes-autonomous-as-the-right-generic-term-for-self-drivingrobocars/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/01/06/waymo-pushes-autonomous-as-the-right-generic-term-for-self-drivingrobocars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/01/06/waymo-pushes-autonomous-as-the-right-generic-term-for-self-drivingrobocars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff519e366060e91c33e6dfa%2F0x0.jpg"
-        width: 1080
-        height: 810
-        isCached: true
   - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
     excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."
     publishedDateTime: 2021-01-07T04:12:00Z
