@@ -55,20 +55,6 @@ related:
         width: 599
         height: 448
         isCached: true
-  - title: "AI Chip Startup Tenstorrent Hires Chip Design Legend Jim Keller"
-    excerpt: "AI chip startup Tenstorrent announced that it has hired chip design legend Jim Keller, formerly of Intel, AMD and Apple."
-    publishedDateTime: 2021-01-06T13:24:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/ai-chip-startup-tenstorrent-hires-chip-design-legend-jim-keller"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0265-114390cabf22-2050a6118ecc-1000/keller-jim-intel.jpg"
-        width: 609
-        height: 456
-        isCached: true
   - title: "The story of Jim Keller and his pioneering work on chip design and architecture"
     excerpt: "... hands clean at almost every chip architecture and is genuinely is chip design superstar. Jim Keller is in the news, this time for being appointed as CTO of Tenstorrent, a fabless AI chip design and software company. While that’s making waves in the ..."
     publishedDateTime: 2021-01-09T08:30:00Z

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2021 CES Innovation Awards"
+    excerpt: "Here are some of the 2021 CES Innovation Awards for vehicle intelligence and transportation. Have an opinion about this story? Click here to submit a Letter to the Editor, and we may publish it in print."
+    publishedDateTime: 2021-01-11T05:00:00Z
+    webUrl: "https://www.autonews.com/ces/2021-ces-innovation-awards"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AWARDSIBM.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "H6VmfnIFM2TZkZ+dwqBNymMfJtVXsUXD7Fr3NUYSNnYK1eZCAcHTJyrXu4VyUqQNH+18/5Ok+veWali0vjJm744G8Pxyfdc6yuV55vR1TkO2QC/dTEOMZpL5DeXKlPoouEtLfGpw5jYQIx/vPdqGnetRvrtO7JbdxaJZez7+wVpcvDXnBzlDNAC7sruNAUCQT0gxQdnmz5NuAinDJQ70WJCpnwZ3zgNyasX6bOQhbhNapH7xPy0S0993s0UMqWqUyIn6FuQx4gpV5K/xBfj+krhMOMP6R7chs85kg23hWQTvTpG+MhSZqzxu4G42jbY/YThIiZG0sbRbZH0hVMW9fN6uxnb4yZasHQO83yTHx8Y=;SW2+Of+jVivLeZTehGrYOg=="
 ---

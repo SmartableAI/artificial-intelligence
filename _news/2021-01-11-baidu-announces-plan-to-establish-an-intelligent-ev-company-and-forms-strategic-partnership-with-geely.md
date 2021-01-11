@@ -37,18 +37,18 @@ related:
       domain: zdnet.com
     quality: 69
   - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Form Strategic Partnership with Geely"
-    excerpt: "(NASDAQ: BIDU) (“Baidu” or the “Company”), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV), and that it has entered into a strategic partnership with multinational auto manufacturer Zhejiang Geely Holding Group (“Geely”)."
-    publishedDateTime: 2021-01-11T03:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-greater-china-products-and-services-online-media-342ac292f4392b481afa4b9cc79930ee"
+    excerpt: "(NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV), and that it has entered into a strategic partnership with multinational auto manufacturer Zhejiang Geely Holding Group (\"Geely\")."
+    publishedDateTime: 2021-01-11T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-2021-01-10"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Y8zCtcJ9Q/vqOhfLn9gEgIwjK+VGj7rhX01W3oDPSb+sxsLDk7K84agUkzXVxOICB3roGcFNvSztOARNwUnGSSQdICmWAMxMfFgnmDxFLVRr7MUTNO+7y7nNi7hy8CVJqe+/QBuUuIKwURtdwDBMYj/X8nHIgu+SrbW0jpp5ooxo3mIqaIf+I5ql3FWVlCbUPfoJrHiIZTuYR0bTSBIFMN3/4WRMK5Y6OujfTy8r3qhYW+Gt9A7Oew96PYlYaCJMOe9+AHN6voVqScv+K+fphs1v8qzJUpAEttqWEuGDlIf3Yjja5PUpj5kXdTxoc1i9IU77yf0UmkcL2w8NoSHLAwg70xQtdvg9Ej4c8cvWZ8Y=;5Bdg9fILHxm/bIXPNi4UMA=="

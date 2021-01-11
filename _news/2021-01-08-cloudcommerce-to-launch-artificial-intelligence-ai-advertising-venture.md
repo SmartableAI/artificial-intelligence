@@ -3,8 +3,8 @@ category: news
 title: "CloudCommerce to Launch Artificial Intelligence (AI) Advertising Venture"
 excerpt: "( CLWD), a leading provider of digital advertising solutions, today announced that it plans to launch an artificial intelligence (AI) venture that will focus on using AI to enhance its successful SWARM solution with the goal of cutting advertising costs by as much as 50%."
 publishedDateTime: 2021-01-08T09:09:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-038901cf480c7d5103719160e065255b"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-038901cf480c7d5103719160e065255b"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-computing-and-information-technology-artificial-intelligence-038901cf480c7d5103719160e065255b"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-computing-and-information-technology-artificial-intelligence-038901cf480c7d5103719160e065255b"
 type: article
 quality: 51
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 600
         isCached: true
 
-secured: "HK9j4GcIu91K7W+KsYD77WxFrLGsTb0VZw+vDV6PCXRGmEyWF5p8HRrAwjZE3lFU+XDiauvkEPrY8KT5N54DKC2sRlBOmFmC89NJNcf62ybwEiDH8n/6f3lWJ2Utemnwzs12fCFb14ERhVlTqKXQnRtNkUedRZN9mCRPe6Bs9cQYZQxbiZ2zJ7ZO1WhoGjLOrMqQHc169Suv4iILOqgomkVv8L40b9BeIRY2eNDdyeyjHKYo2syqcNX8TSH+NkiE33l/o0cxMdngDtoIpaiHa1LqlpVf/Wp1iXO8MWF74HsFh09xyANnD+xe7vdgQ6/STDDNAXJXSwhxgQZz2Jiw9px7r1TUh/FbUAFKUr3yfyE=;LcU55Z5WGm+fjbKAakI3hg=="
+secured: "dqPt4ki5F/wCDKa93rpMcRRxcBNp6EKyscxAS9AcoiaEObl358+mkyANwS3GwcBnEcjIkQsJShuAQePDHpUr9S5xZG7c0es4SF1DWxtoWLrjcZEJyPdlIDjoOsKYBZ8k4F7pvobhlByQmE0T0WujMlnQL8j26peONoxEjPzID7xiHYcHyuh8Vz0iZFamKGbqnKe2BaIWv7GOi7W28SHBCbN4l6Ia0E1P5PjZGyMHdJpulNLwZBCIV0YBShVHY/NR0F/mNzgugR3xv0ON4DVP+00HHyap+z0YWKevG6ZIx2GrYbp47LijAWBGgjDpmDUcIZmKxrA8iG2wEZUdhdlA8FOjQN4BYDdI+Jp3OfZ9Lfg=;YgtnP1mcJFDfU1dL8iPbmw=="
 ---
 

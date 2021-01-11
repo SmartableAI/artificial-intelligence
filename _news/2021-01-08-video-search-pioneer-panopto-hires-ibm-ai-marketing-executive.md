@@ -2,24 +2,28 @@
 category: news
 title: "Video Search Pioneer Panopto Hires IBM AI Marketing Executive"
 excerpt: "At IBM, he played an integral role in the brand launch of Watson Advertising while leading all go-to-market strategies for a suite of AI-powered solutions designed for the advertising ecosystem."
-publishedDateTime: 2021-01-07T16:09:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19061465"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19061465"
+publishedDateTime: 2021-01-07T17:39:00Z
+originalUrl: "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html"
+webUrl: "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html"
 type: article
 quality: 56
 heat: 66
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - IBM AI
   - AI
   - AI in Marketing
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/7/99/799538b5-1065-557b-bb6f-5475e38479a0/5ff737209670b.image.jpg?resize=420%2C630"
+    width: 420
+    height: 630
+    isCached: true
 
 related:
   - title: "Seattle video platform Panopto hires marketing exec from IBM"
@@ -34,6 +38,6 @@ related:
       domain: bizjournals.com
     quality: 41
 
-secured: "PvIOseUzZLQgqwfld56WlBta0/ftqijTm/xNK/WUFmnpieHXO00xdsZ8Fi8ibk9UKJ0sOzt8fZlabzSV3293M3ZD8EFUDdbN1h8xICu6hfZq8a/EH9WSCnRchofXs79OWxzXru4Kre5lnCGeRFDlG3F2uf/9TuijuWmEJz37/MMZL4gbexHNbRCJ4W8FwjWeUC2K7vmiIYT6snHVUcCy9mnLQd8IDyiIbrLbeFUltfiQierbnPh9rOQbuXM76wzzlAaDYR9lqtWmXqQjeq6L1ntcZ1qfc4YXFFFzZSNJfcQbzJTMDm5x+TsNApO4AyrxuKjWMwDgRVF13FqVs9C919sX2czAP2XZbV/kkZdocIg=;NNmM9lT6b0i3GHPiEdWQ5A=="
+secured: "UEicpeuuC/FdY6gecVzhPO9+C/PpJXFs9MyQ8UA/fIwppELkmnSsKqFcoDPORmxyOj4lyGw/23LW6Wa9xzPXVKJIm+/ocVa0HGlYAvyxjwmKNEYEwxGO/b86BEs83lapMZJqdP0/+etVng+iGOf3TSVTBZCDi73406urfvRPvpH3KnCU274Ar6QTMkOW0Vc/JcrEZaVCcvyae28LbHFaL7upP0uvGn91Yoz6CdTEah2eaZVuSJ8pNkGvBFpc01F3eVawR2+de7vsJKgDYsjw9Ba2L2nGYMBkLDpT6752LvGVVpGoLD/Pk/fRwQ5BqwMudTqRDHMBqBTbLtNIOoliiPgCF/w/P/oHelqZkzBlUlQ=;fUV71AMx87akrmNm2DW2pw=="
 ---
 

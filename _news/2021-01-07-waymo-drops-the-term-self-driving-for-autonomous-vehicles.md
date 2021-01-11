@@ -73,22 +73,6 @@ related:
         width: 1680
         height: 1120
         isCached: true
-  - title: "Why 2021 Will Be The Year Self-Driving Cars Go Mainstream"
-    excerpt: "Today, I’m going to reveal three ways to profit off the self-driving car megatrend, which is gaining momentum. The technology behind this trend has been ready for years. But I believe this is the year it’s about to finally be unleashed. And it’s ..."
-    publishedDateTime: 2021-01-06T14:31:00Z
-    webUrl: "https://www.forbes.com/sites/stephenmcbride1/2021/01/06/why-2021-will-be-the-year-self-driving-cars-go-mainstream/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenmcbride1/2021/01/06/why-2021-will-be-the-year-self-driving-cars-go-mainstream/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2021/01/06/why-2021-will-be-the-year-self-driving-cars-go-mainstream/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff5c6f66999edd06665732e%2F0x0.jpg"
-        width: 1200
-        height: 795
-        isCached: true
   - title: "Waymo drops “self-driving” term for autonomous vehicle focus"
     excerpt: "Waymo is drawing a line in the sand for driverless terminology, announcing today that it will no longer refer to its vehicles as “self-driving” and arguing that the industry needs more consistency in how it refers to cars that can operate themselves."
     publishedDateTime: 2021-01-06T17:07:00Z

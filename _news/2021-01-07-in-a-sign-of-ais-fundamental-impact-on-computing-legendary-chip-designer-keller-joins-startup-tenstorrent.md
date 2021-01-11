@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamenta
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/01/Jim-Keller-Tenstorrent-0121.jpg"
         width: 599
         height: 448
-        isCached: true
-  - title: "AI Chip Startup Tenstorrent Hires Chip Design Legend Jim Keller"
-    excerpt: "AI chip startup Tenstorrent announced that it has hired chip design legend Jim Keller, formerly of Intel, AMD and Apple."
-    publishedDateTime: 2021-01-06T13:24:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/ai-chip-startup-tenstorrent-hires-chip-design-legend-jim-keller"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0265-114390cabf22-2050a6118ecc-1000/keller-jim-intel.jpg"
-        width: 609
-        height: 456
         isCached: true
   - title: "Rock star chip designer Jim Keller joins Tenstorrent"
     excerpt: "Toronto startup Tenstorrent Inc. scored a major coup today with the news that legendary computer chip designer Jim Keller has signed on as its new president and chief technology officer. Keller (pictured) is widely regarded as a “rock star” chip designer who created breakthrough processors at a number of leading tech firms,"

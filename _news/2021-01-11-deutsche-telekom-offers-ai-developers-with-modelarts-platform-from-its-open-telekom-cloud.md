@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-11T02:49:00Z
 originalUrl: "https://www.thefastmode.com/technology-solutions/18805-deutsche-telekom-offers-ai-developers-with-modelarts-platform-from-its-open-telekom-cloud"
 webUrl: "https://www.thefastmode.com/technology-solutions/18805-deutsche-telekom-offers-ai-developers-with-modelarts-platform-from-its-open-telekom-cloud"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Google AI
 
 images:
   - url: "https://www.thefastmode.com/media/k2/items/src/66212909506d566776e29ca618fef649.jpg?t=20210111_024519"

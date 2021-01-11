@@ -65,6 +65,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Hyundai might build Apple’s self-driving electric car: Launch by 2027"
+    excerpt: "Apple is reportedly working on a self-driving electric car which is expected to make its market launch by 2027. Reuters reports that Apple is exploring the possibility to outsource its manufacturing to the Korean automaker - Hyundai Motor Group."
+    publishedDateTime: 2021-01-11T05:33:00Z
+    webUrl: "https://www.financialexpress.com/auto/industry/hyundai-might-build-apples-self-driving-electric-car-launch-by-2027-india-specs-features-hyundai-kia-mobis-korea-georgia-manufacturing-plant-us/2168476/"
+    ampWebUrl: "https://www.financialexpress.com/auto/industry/hyundai-might-build-apples-self-driving-electric-car-launch-by-2027-india-specs-features-hyundai-kia-mobis-korea-georgia-manufacturing-plant-us/2168476/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/industry/hyundai-might-build-apples-self-driving-electric-car-launch-by-2027-india-specs-features-hyundai-kia-mobis-korea-georgia-manufacturing-plant-us/2168476/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://images.financialexpress.com/2021/01/Apple-Electric-car-hyundai-collaboration.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Hyundai Motor Says It's in Early Talks With Apple to Develop a Self-Driving Car"
     excerpt: "A local report from the Korea Economic Daily that said Apple suggested the tie-up and Hyundai Motor was reviewing the terms."
     publishedDateTime: 2021-01-08T02:51:00Z

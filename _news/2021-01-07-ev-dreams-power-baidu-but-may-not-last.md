@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-l
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Baidu to join China EV race with Geely support"
+    excerpt: "Zhejiang Geely Holding Group, China's largest private automotive group, will act as a strategic partner. The move positions Baidu as the latest Chinese challenger to Tesla at a time when investors are sending shares of the Elon Musk-led company and its rivals soaring,"
+    publishedDateTime: 2021-01-11T04:46:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/Electric-cars-in-China/Baidu-to-join-China-EV-race-with-Geely-support"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F8%252F3%252F9%252F31679388-3-eng-GB%252FCropped-1610334061AP_20289239573989sm.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "nKF7Ho7jyAxPn27LHn8v23i9c01hS5AMTiiM2iTCz/XJ5mTyPy1XVSWMgXXBPJ8B1M/GsPZMw3GL2giALzoB/QJCy2SjwIOujCyCAZUQET2ImB0krTUGokVxVkVjqwEAoow20pkYpvk6FDpTxFGfLWgkUxcgVPNxNEVB/oJapp7IqyiKbO21yQKRFiY52J/v1nYngQXAOOj6LeMt10l6Whniw3g4lbFaHGqIwFyIyXR0+byJ5h5qsoTJTpSKsgcjdXREk09UU2gELek8Mq3s1ywxdu+udKhVvqLdI5/KdHEgL/zTOmxqZ3tfCvjlqHmPaCgVyZm1/5FnaSUdTRm8XL16iejzGk8/fKS8vbyv8xaHz1CwXohhv915mhJneQeVS2P1vRsHfGeE5kVH+zn8wEnmjoEacxiEeuVdXV1DA8OT7YIk/oafbvELyxYKuWywRLIrEnQYAxFwIHLcPeSobA7dVPJTs2BBn9JGJKQg5auRq/tziFZ16sczH9LwjIlN77eP2KGq8gqOwK+LDj2/DA==;UTuQhIsFp8gTzEnjWAcvLA=="
 ---

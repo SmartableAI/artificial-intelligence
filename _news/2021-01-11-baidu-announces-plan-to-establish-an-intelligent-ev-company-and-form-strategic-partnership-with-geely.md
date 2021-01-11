@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Baidu Announces Plan to Establish an Intelligent EV Company and Form Strategic Partnership with Geely"
-excerpt: "(NASDAQ: BIDU) (“Baidu” or the “Company”), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV), and that it has entered into a strategic partnership with multinational auto manufacturer Zhejiang Geely Holding Group (“Geely”)."
-publishedDateTime: 2021-01-11T03:35:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-greater-china-products-and-services-online-media-342ac292f4392b481afa4b9cc79930ee"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-greater-china-products-and-services-online-media-342ac292f4392b481afa4b9cc79930ee"
+excerpt: "(NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV), and that it has entered into a strategic partnership with multinational auto manufacturer Zhejiang Geely Holding Group (\"Geely\")."
+publishedDateTime: 2021-01-11T05:28:00Z
+originalUrl: "https://www.marketwatch.com/press-release/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-2021-01-10"
+webUrl: "https://www.marketwatch.com/press-release/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-2021-01-10"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -51,6 +55,6 @@ related:
         height: 600
         isCached: true
 
-secured: "RgZyGxAY/qn26sMS5OSqv8OiZLETR5ogY9YqABpqNFrwxzF4wlyDwchV7rzinzsDkwoV5jWwC273ibUwrN6sHUbWuGEvRG6SlTLDbpll/MickSXqnG8oyvlpW9MgYKRujnGqPPwxwV+Q6tE1xuGdoh1ugapx+bjvll3jb0XnH7IExfsY64uozbTd+/Unn4G7F9b6nNTDKm8G3N3uhA8f1MRH3XC000YCh03fX+acx6T3V95S3QQdKhec0wMrvwWgWsBSeGFddW/H6HNKCIu8MuT7jzS95pvJkkXhYXlQ8MP9SJXunHFvgVJOY0bZdFrWePvfsEafVgEtuEAEVeCWkLB1wxFpK+pW3AXNU1LDwkA=;Kk4HygiupMAc2gnIQgZslg=="
+secured: "HtxZUuT7RQ26EKtWGgAe5w+Bcq3qMKT46j6gqsIZl4eDMtAKkwjaNA1vPlnocId2IW4DLR7JCu5WvlYR26jHc1hGAqrq0umsssHJSqWY+t+tJOj6aayYn5TcicxytNLJTwa6pAHO70rUoWh63afW+QSwozF29SCIeQTSOLSm+ITTzGvsOte6CbNImi8azfYS6t7biFDMGQxxbkwoaP0KwG3lb04QTlIUc/0n8WwCoqv8tOaYEMGOqoEgGNXnlfUUTxdMZZS67QE/UmZzBE65GAesvsQRns77ELHjD39lgdsK94WRRBixhO1SYKpaFiegUNHLmoBOcjE7/voxb+ngYuR5sLRn4zQBSfGE9NV/FM8=;dKxSZreEMW/naVbJYazBWg=="
 ---
 

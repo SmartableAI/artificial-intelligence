@@ -9,7 +9,7 @@ ampWebUrl: "https://www.canadianinvestor.com/2021/01/06/poet-technologies-enters
 cdnAmpWebUrl: "https://www-canadianinvestor-com.cdn.ampproject.org/c/s/www.canadianinvestor.com/2021/01/06/poet-technologies-enters-artificial-intelligence-market/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 480
     isCached: true
-
-related:
-  - title: "POET Technologies Enters Artificial Intelligence Market with Technology Leader in Photonic Computing"
-    excerpt: "Artificial Intelligence, at the cusp of its own revolutionary impact to humanity, is driving an unprecedented demand for computation at the same time that the physics of digital semiconductors, driven by Moore’s law, is reaching its end. Transistor ..."
-    publishedDateTime: 2021-01-06T13:17:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8121471/poet-technologies-enters-artificial-intelligence-market-with-technology-leader-in-photonic-computing"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "bIzMws2iBjErdZdSN6RW+s+h96kJSS9j/dmUNZmzslqNKZfZ+Flc3bFhx0XNnVMEaxnqL11oWK+9hQJC5J2t6QP2Crngl+sPBELQJsLjJtEDhh/8tQItQieUZyqDzn0rhqPSoqiXwcSYsPz19Tkas7StLx3K8zd0CrrxUPNzhGNXJD8MiFrtMkgWnZADjY92vOAU/GIrE58idkKx8nE5OCaZgX75666E5CBOY2aZ57AiYpIklsPFY8DDNtazgQAPRMF3bt5BG4xduKGosfvX96xINI8e++Ih9ocHKv/o2cw2vZg3YfDwr+sKtCU7KJ8pDNFJLT1JJsT/Nhh5EYhX6GatAwsArIlUxNsdsHaeRy0=;1yxysDSjYZm5h9nyNPLxJg=="
 ---

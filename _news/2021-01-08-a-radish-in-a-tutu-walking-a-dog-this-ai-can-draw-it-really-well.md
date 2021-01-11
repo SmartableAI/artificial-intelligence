@@ -7,7 +7,7 @@ originalUrl: "https://keyt.com/news/money-and-business/2021/01/08/a-radish-in-a-
 webUrl: "https://keyt.com/news/money-and-business/2021/01/08/a-radish-in-a-tutu-walking-a-dog-this-ai-can-draw-it-really-well/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI draws dog-walking baby radish in a tutu"
-    excerpt: "These pictures were generated from the command \"An illustration of a baby daikon radish in a tutu walking a dog\" Avocado-shaped armchairs, radishes in tutus and cats in sunglasses are among some surreal works of art created by an artificial-intelligence system."
-    publishedDateTime: 2021-01-06T14:16:00Z
-    webUrl: "https://www.bbc.com/news/technology-55559463"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-55559463"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55559463"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15F6E/production/_116366998_radish.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "A radish in a tutu walking a dog? This AI can draw it really well"
     excerpt: "An artist can draw a baby daikon radish wearing a tutu and walking a dog, even if they’ve never seen one before. But this kind of visual mashup has long been a trickier task for computers. Now, a new artificial-intelligence model can create such images with clarity — and cuteness."
     publishedDateTime: 2021-01-09T01:15:00Z

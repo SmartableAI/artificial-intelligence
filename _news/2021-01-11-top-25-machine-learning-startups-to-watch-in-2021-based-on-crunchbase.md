@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-le
 ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "u9s6AvoR8EqK4+lDvAB79GexYOpOVzkB6ObtpPUnApyo+jkxMUVcB/L6XgAln7LsP1/TJGSO3RfmkauElT1nH3MkCUyQYW3hTRDQVxIUrfA2NpxoWKUksrPNgpEDc1Odo1/ENX+57AM0JyUA6SMtr4s87b7k1B9PXRBfm8EDduqLiuEtN/ykHUA+AobFw4lK+7U0e2hAH7ku8PrbwIkDbTlYUqfvcU3ejrBMpK4jfQTb0xa7MU30Lfi/VbfSgrfvQw6Ma+a+FpzgF/8d8lBSIcAHRlrvBdHSVwdqESpVLqKY7dZ2OUpWPTcV3HzI6BYcXFrJM6JH33UuRLwPIR7helYiFIO1s4I9A4GXTynvZME=;oBPttoTQcCGGVVe5mAgtfw=="
+secured: "QJJE+VKZyT0N8ULuBR2SeeEzpvV/qBnX+e1XNH7gGDPHveSiHPaXpxThYoVb3S5e08jYpSyI6fI8YKZmn0s7RWRT640xntSHIynO5ZmVMxWDIAwRisi9osBCaeIXcyIiESy8hqlCRPT1PosNGRWVNj6+pOQbr4Dzrj3MFny6rWkrmn1ZzAIR3FYiPUbz8b2SUflMM8dwb3e7PlZ6XxVTI45bx7qhzA0aL2+lJB9zjm2RECnpJttzoXgjyHwq5cwAuDqIxQwp4NoM5MoPZ0wlG8GWQMHnetbfquQZHkMKMnpY0f3ZkPg/i68oxuZLGugKTFqBCteR5PpT/hFFBQrh01f6jMkC01dXPDcxmfkzu2YiYU6faGXqSfhSW+gO5uZ5ITUyDQ6S58CNr3iQvy5gKnkJ0y1r+tHE0xxNCTl26D0z4iJDMesfR8tRY1srJxJlsyHHC0xBzA2ZlHZuPuC9iiuUPQWofi49G7uTDVoAf5J4bhJRF8h+aAH5NCUQOzEKBkAOWEnKXmAWgws1o7Dbjw==;yBfaMnU/uVD581FatdReRA=="
 ---
 

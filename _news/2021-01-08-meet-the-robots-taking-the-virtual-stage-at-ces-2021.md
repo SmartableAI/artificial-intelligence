@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/here-are-the-robots-taking-the-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2021/01/impulse-product-shot-just-phones.png?fit=552%2C545&#038;ssl=1"
         width: 552
         height: 545
+        isCached: true
+  - title: "2021 CES Innovation Awards"
+    excerpt: "Here are some of the 2021 CES Innovation Awards for vehicle intelligence and transportation. Have an opinion about this story? Click here to submit a Letter to the Editor, and we may publish it in print."
+    publishedDateTime: 2021-01-11T05:00:00Z
+    webUrl: "https://www.autonews.com/ces/2021-ces-innovation-awards"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AWARDSIBM.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "IxxynKEbOtxw3jIQFFpda9zl6E+WMVIWjIySZan8cBA/EzLd3iePp/sxhwqAdx0EKJTIJ4pUyjtJ/p2LLxgdVXlgQvvWKGGnQxNGptXcqk1OFAmmASPyneMkGzt79P5d3Vs+JUs/NMWIhZHCl/Sg8Da0nKrIS+fQpR1xp7C0/VrczYK0haMrlPoJG4O0NYj5husy2o2nA9xcEXZ5Vi4jAug50avX+rrghkiAKuvQjaLqAA+1VLhfSbgTSQUXXQIymOFvq7FIsKTv+ZSFgCKGAQpku5FZMNmFhnoEqxDfWnmmy6LB+nsJfdhyxZvb5nZ/QlhKzR/3Twrdu0wybZEojcKY6EUnqFbVoHUT56HtjMmlhSZigHEebxsqNHZkV3wI0WOWa/7sE3FSQD+EhVStYd9Q/xWAYH2Xmdj+Aw7wVsBFWs9rTF2yFkg3DD6puDynYtJx3MYqSxgSGiBsUBDFZZFbSHGFLq5LZqsvauZag6xBPIGZIWEs2+qrRhl3j5hwnidWa9RyXN1pfAd3imMV8Q==;DfLJuifyzo2kbrzXkOtbJw=="

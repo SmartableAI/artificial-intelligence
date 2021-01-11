@@ -3,12 +3,12 @@ category: news
 title: "The very real fear of artificial intelligence"
 excerpt: "By 2030, thousands of jobs in India, including those of call centre executives, translators, bank tellers and secretaries, could be lost to intelligent agents and robots."
 publishedDateTime: 2021-01-10T14:26:00Z
-originalUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html"
-webUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html"
-ampWebUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
+originalUrl: "https://www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html"
+webUrl: "https://www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html"
+ampWebUrl: "https://www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: moneycontrol.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
-  - AI in Autos
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2020/10/industrial-robots-in-japan-770x433.jpg?impolicy=website&width=770&height=431"
@@ -45,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "hCQpBlfkjA2hYeLz8DxMvS9bdDhFdnueChSpcx1kUmI49NWuGTFR8Dd/YKi22xwG1IyUB7zKolBn0K81GNEwd+4SHDzWo/+6sgTt98nDrJwYRrH/oc3Od2JQ2J6EOQ+MX/Rke5fmT6z5b+y/xIogdJGkbGKpnZPP/aoA1X+S1rlIqahn1IoDO1t8GB8FhQbhhCcMEG+etm8EnGnXSEVHldxUtTZP0XUBlRiDL3U7ZOI+kpyadzt5KA02BWmtRC7L5YOv+bokm2YjjFvCkx+QZ6s/vXUiyU6o7bpN7TUoqzktGA2TJdNLOmTqS7mOxrWx34Zi8tVj8W+4yTmP193e1yGxeKCq9YAtDAoFPom4jls=;NH5K/eCqDxwd/xO8Er6RAA=="
+secured: "6xavIJxn/toEaF1KXIv8/iSDkSHZ/vbEsgIcT15VdQdfhdFfgRe1WpdFLW/Hvx68sWd8nvU/7oIu2FXC4VA6ee+IRTWy+TLRbx8m1uoIQ4NsAOlpRJCjlmo9d0wxEOnUfndWIf+hxWm4FS9abPfDI3jjkMAiL1ObZtzi5cckkqVK0tBbmrmIY/ZknzskObDB+CuD6W4Q3jFaHMTCQY2LFAjOz4HRC/+35T/c7gCxm2B5QZv2ZeoQGWdG05SJU3LY2OubJZhCWLbmOaDFNP1dn5EnryKVgHdAwTwjT/R+Xh+nSi4gkaH3M4M36kjebrHiig65t+QYzP05+P6DCtxue9s4Qc4HzXwtS2V0FybTJPI=;bUhuTxeoOGicRVe+PfUT2A=="
 ---
 

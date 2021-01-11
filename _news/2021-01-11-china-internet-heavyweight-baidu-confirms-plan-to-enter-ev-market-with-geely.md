@@ -83,6 +83,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Baidu to join China EV race with Geely support"
+    excerpt: "Zhejiang Geely Holding Group, China's largest private automotive group, will act as a strategic partner. The move positions Baidu as the latest Chinese challenger to Tesla at a time when investors are sending shares of the Elon Musk-led company and its rivals soaring,"
+    publishedDateTime: 2021-01-11T04:46:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/Electric-cars-in-China/Baidu-to-join-China-EV-race-with-Geely-support"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F8%252F3%252F9%252F31679388-3-eng-GB%252FCropped-1610334061AP_20289239573989sm.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "azQ72vienpMNsMV9zn3frv7JJX0sPNDCdm+ccpVneRuGEYkyPRdY7OORbRfn7lDDfjcCMgCV/1gNGJ+vdwp5N8HJNsxZgFNZTY5bUVBEIqvJMq6fXUtIGww0pb2F+TjPu+B/7bPApXVlijqyuwp1/+hTkRZGS3O6cucUmsCycuH+vM80wdax6FZI3vVQA5MjvLWbNgZha38oRcLawKnYs0f5fyWkU5SAXd8EZUurFKygwDCfJyeB2YNW6EXwCO6Z5OR10EhBPD2ev/OwMEOCwGkoV3Kul7eBRD54B41XOLhuNSgewP8uCLtOrBs7Ad7RUCcW/3ZETBzZw2AwbnNDxMeesNuKDhHJJLnGUJs/zn1DmENhbLskZhlicAN0DeF5cuQWayhEYpNo6hTJoHwk56Pw6gb1QVhVeLYScLj09k8HsU/7nNPVLnG23PcLqu0ZNriMHVW3LDJIP1mB7AUk0TRGRFRAmverceYrtGxvjeKBMss/yGVZrOLDRYvTW2GJCadXsYwvsRfZNi6zpe4jcw==;VyqKzYizSDgi/8ssluhfGQ=="
 ---
