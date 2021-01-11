@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "agolo"
   url: "https://twitter.com/agolo"
-  followers: 748
+  followers: 747
 
 size: 11-50 employees
 yearFounded: 2013
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=rijPqvv1xSc"
 
-secured: "E+AWru/QWFTNO5HMMqpiskLYuV766AoYTPN2XjcUdZ21d/WnB5n15j4rrqpXy1exnHwakqPNYnnzthxPT2jvX78/pQ+ODY+Z5S+7Sbp9l9pTdB9yq4zyW9GePC9838gZY7XXSqX4JG8MmafKTVXDhkKIksDcEl7Lf6CiSPdZSYKAyibOkyTH/yzdl2lmbG9o6YnmuFrev1FJhUw/kNiUxpkeSIDZgJskpAZN6NwSnq93Zm+XjXxQay1mqalCtxtu+g//p+TpJ45+rgX7f3RWuOwrMook4gODjNxhlywKcPGASai5wZLEFHC/tb+lDmJH6JcYF4udOc54Chn2JIJq0hvecmPuFXZ40jStPLHl8I0PD07VhJcSmQqeYDc83KTG+v8hklhLzV7QZclomijWkA==;pQ68ZP8wa3mw22Rdx+Q9Qw=="
+secured: "AGW7SqvjG372IN6plkO72ip3+k3/wQ6VpznjlceVGFuVCF2Mt8v3hHqIiNiRpZqvL9XmSIqZYDcmIGwFvpy0XJCiMCciP3TROzjJaqleC/IdcBn2qoyEVxF1dRsSt2rMRcYC1tsH04E99LVMXn5fJT7U/Dvl3eXMaW34xGkFSDzoJqQuGN+ENtcNk9WZtypXaOtI99JWxio1I6FlGvgrkoL6LK7aeCVrkAOfSYgedM57/nhGtoGN7ZgIFG4AVALLXU3L1jk32w2VYfsoReRR00BLb1fLig8Wj6vwTmDz1NydHG3ayx+XA1q3fJQlW3ytXOj/8IOEz2AJsBEbA13feaD0tJ5BRMUKfNi8qoI8w7K5zkj3D4FpsiJ9bC4TXoW32dXgxEdv757CbqnvGVGqVA==;WuB/zLshI7BeVu84DjgHTA=="
 ---
 

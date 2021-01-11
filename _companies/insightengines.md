@@ -2,7 +2,7 @@
 name: "Insight Engines"
 overview: "Research discovery with artificial intelligence - for academia and chemical research."
 type: "profile"
-heat: 50
+heat: 31
 
 website: https://insightengines.com/
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=iD4tlJ-ECZo"
 
-secured: "nWVlol2v5iTMT5OrfBIHAEGNQ/CXkb0dFNq2QZl8fj1jEEzjeJPIvrnwOjuaDbAeDHhmoYa/KbXOsLMXxq5MawhLWQAd+XU5HD7eICM8UNMn9XLSYeJVLeVRNauirdApk7arBj57xtgIMCBNgQg042kfp6JsKDhzp3/9GRQ49lArhsEev8lCCs6CNG2zXPt6ebm8Rv+bOI6b4OcXvueWc4LMigJYe/mP0jsM+37hBf/UxrJCOCyHAuMhb01Tesc6SWlYyp8IiRJmhZ4fCsDpUMbwi+s0h3qH8GysZy31gQ9PuLnxS4FGX04xdpOcr3Rbi0kxIp4PBG5i3+VghDvX+tfApNPrGPTZSSaq4OA6pbrxu8o5b3xr2L0YVUcxqt4hpqMdTLGWOci5jvqfVOde5w==;tiYXtHvxJ14m+x0uBoHAuA=="
+secured: "PhAqC/7JrRAdGuGS1LEjoeGbhjlPPZ3CRl+uq8eZWlilHDavqildLGS6OEkbXd7MDGtj8D/aafL3H240mXEUWeFRylBehHJkxL1dFIl+wecgZ0riXjqxLY9v9Z28RIeNyT9kFqDmhMmi9zA7K2iMEa1jg0DjR/ZsCY8HXgJ7mjZHXRPDAf9OPGt2DibxIce+FnrxJh+7W/z3RDpgaJMmiKrYR1ctUzBKrXgV6wPVz4IwexnN2Oa365u4jaISEisqvpfasrdBBi5eswPlJ7+Gc8Uk+VgECmx1EGw91bQLJyXghBdpzXlZX459QY0IVrtvZLn5ZrgwOCUUqWspiQ1e3cWS0CGSS+HblFKMAVYtCAp/YvF9jBFEiNUsxIwjudYTBhZm38mrzfacdItTEjjEKw==;lVk7k/mgYFfFdsfCJE+2uQ=="
 ---
 

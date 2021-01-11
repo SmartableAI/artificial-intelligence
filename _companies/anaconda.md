@@ -2,7 +2,7 @@
 name: "Anaconda"
 overview: "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives."
 type: "profile"
-heat: 65
+heat: 98
 
 website: https://www.anaconda.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anacondainc"
   url: "https://twitter.com/anacondainc"
-  followers: 59248
+  followers: 59247
 
 size: 51-200 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "twIP/Ab9oQ/zl+6522xqtcbs6RtITJMwEZFDYPylmfJlU1ch07nlShsLlBQmdbVZuy5heyPdVHQC68wimXD3Y4WD7dVCvBOF7Tu+6e6yMhwMHROxaF3a96jreDNzQo4Q5VmcLBtSaWSLc+XsyUlkusP+1S0ynsGdHieR4pM67o9GkrtfhE08whoDuXNgq2zaxXg0L9vHumir1gbQ3A0c0ljbhJKTXnO/xSJtEjq/PYEkPYrlb2hpFaaVH+2WW1AdMrifVLCG1/NXweQwVgHTue8sOgqf9RH4++8XBH8ezM8L+VuP50tH5uwzAUr50Je3jBac4Brg4qrD6ibYKQTwz9nQ89MOAJU1CCrVyzhu5NhN71qd5LpKGEQkUPTBusXXpCtQNPu3hD6g2jkh5xrbG1KzJ4CPa0y0K8KwmwINnlA=;yCDdc7mb95qz1ka3KzoJkQ=="
+secured: "7GcSzW0xgRxb1nzAqUTHyEUkwBnyrzorwTVwz7LRAI7UTvbwOHxu6K7fFNaFsG71uwkcL7AKUadOMMycc+ythGQYaxbR1Yg0TPqnvi6TqmnJL/myZJKGowFbzQYeTYpBtepYrWLawnMgwFlB5iZgbHJs0VJsYNfq9t89tPFSSr1YX6VHoE7y5UTi41bPBsHvvOcOTf0MIMOiHSjLHnIu92SVtr6zeCiMB8629kJqGQjw4Z0qp4avboOutZn8rTlheE9ge4FdpmtxK+kUF2Cxk6Yojo2UN2d6I45akRITziATZDgn2ZKT59izqGw0ddanWOFGzYnNEaCTxLEiNltA0i7SK+gzJ8Dcco7XVw1/R0kPji4c6LBGRUYjgL7eJNVaCcLvFiTg+VRETC+dR42fFBZ2Hsuh0WCv2BEZY9Ww/5o=;CAdJgLKuV6utW6iQLF4upA=="
 ---
 
