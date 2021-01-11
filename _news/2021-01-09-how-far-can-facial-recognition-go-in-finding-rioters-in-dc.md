@@ -2,26 +2,26 @@
 category: news
 title: "How far can facial recognition go in finding rioters in DC?"
 excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-publishedDateTime: 2021-01-09T04:47:00Z
-originalUrl: "https://www.wbir.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-webUrl: "https://www.wbir.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-ampWebUrl: "https://www.wbir.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+publishedDateTime: 2021-01-09T12:47:00Z
+originalUrl: "https://www.kgw.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+webUrl: "https://www.kgw.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+ampWebUrl: "https://www.kgw.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: 10 News
-  domain: wbir.com
+  name: KGW8
+  domain: kgw.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wbir.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+  - url: "https://media.kgw.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -217,20 +217,6 @@ related:
         width: 700
         height: 390
         isCached: true
-  - title: "Homeland Security test sees 96% facial recognition success for those wearing face masks"
-    excerpt: "News; Homeland Security test sees 96% facial recognition success for those wearing face masks. 06/01/2021 ; Results from a controlled test from the US' Department of Homeland Secu"
-    publishedDateTime: 2021-01-06T10:31:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/homeland-security-test-sees-96-facial-recognition-success-for-those-wearing-face-masks"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 48
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/v1609928904/widgetdocs/facial-recognition_f8jukk.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Masks no problem for NEC's facial recognition"
     excerpt: "Look into my eyes NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
     publishedDateTime: 2021-01-07T10:40:00Z
@@ -341,6 +327,6 @@ related:
       domain: computerweekly.com
     quality: 23
 
-secured: "GRfBff6Dxk8ApxHoIY31+PHqbVIfa9Kc2p3oRsRVkUAM2IOTL5/QNKCyE/lTZlaZszRApEGvjhM9B1ItgL3Jv8acVjaA/bF4mM7JpwbSrEvOoFCeucNYapPXWl1C0nv524wbtwx5zoTZefYtQVR7Hdd1Kl0PHETasby2WVpUM7xZuV/+oYB6EeuKkrlzzulYRGjdfl5HQZ5Uf8uHanAPb+VKjzfc/73GCH89PmXaD/btehVXFf53zqV/N376A6jTAd0yCKUQaBzL7HmBj90KCT5uE9Ntw2yIay29CTrlNurIckGFmkUuu8hkaSObksmjxoU+h7db3vfzJVmm2r7C1CRVcz3PGhzC1kEXB8gK5bo=;KsU/NoHIHNotVcLtyDSD4w=="
+secured: "88IGjg6vHVjQeNw38jd3V+c+Rxli4DzxlXOKq9P5Z0NqmA1kzOf0hwPPM3NFJPd8aXUYgIurXqXzqVkNIhheKd8HYZXdPMpSuGwJu1njy2/7BczENQG1W0KIBLqh8kNOR7tHWhqqN+DhnJfr6boN/yQApMf6CzHjIxdwDWHSAjaeGmJLjDtuTVU+v5eG0LwCSHAlhRGPqWm609uAnvOG87A6iDI0GBB3cT9ScG73X3VZi9E23hae4rVjrpLIRA7eVpHvCJY4/bC6OmSAdVVDHoJL9BEpOg3Ajyt7zmxFAi4oZJSe5IK8dw+Xjee3UNr4kPa/XDy15iUoQigTVaOIBtaKmedjnjLGUxVSSU79XBs=;KakwgGdespk378mcZ87/AQ=="
 ---
 

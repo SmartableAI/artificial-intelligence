@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "China Internet Heavyweight Baidu Confirms Plan To Enter EV Market With Geely"
+    excerpt: "Baidu, one of China’s largest Internet businesses, on Monday confirmed a report last week that it plans to produce electric vehicles in a partnership with. Baidu will provide intelligent driving capabilities to power the passenger vehicles for the new venture,"
+    publishedDateTime: 2021-01-11T01:04:00Z
+    webUrl: "https://www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/"
+    ampWebUrl: "https://www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffba15f58cba2654bf632e1%2F0x0.jpg"
+        width: 1199
+        height: 800
+        isCached: true
   - title: "Baidu and Geely to Launch Standalone EV Company – Report"
     excerpt: "C hinese search giant, Baidu Inc., plans to form a standalone electric vehicle (EV) company with Chinese automaker, Geely, according to Reuters. Two sources familiar with the matter told Reuters that Baidu ( BIDU) will be the majority stakeholder and focus on the software side,"
     publishedDateTime: 2021-01-08T10:32:00Z

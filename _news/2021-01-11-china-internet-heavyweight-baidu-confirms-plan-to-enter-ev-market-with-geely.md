@@ -1,22 +1,22 @@
 ---
 category: news
-title: "EV Dreams Power Baidu but May Not Last"
-excerpt: "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy."
-publishedDateTime: 2021-01-07T10:59:00Z
-originalUrl: "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
-webUrl: "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
-ampWebUrl: "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
+title: "China Internet Heavyweight Baidu Confirms Plan To Enter EV Market With Geely"
+excerpt: "Baidu, one of China’s largest Internet businesses, on Monday confirmed a report last week that it plans to produce electric vehicles in a partnership with. Baidu will provide intelligent driving capabilities to power the passenger vehicles for the new venture,"
+publishedDateTime: 2021-01-11T01:04:00Z
+originalUrl: "https://www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/"
+webUrl: "https://www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/"
+ampWebUrl: "https://www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/amp/"
 type: article
-quality: 89
-heat: 129
-published: true
+quality: 86
+heat: -1
+published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-281927/social"
-    width: 1280
-    height: 640
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffba15f58cba2654bf632e1%2F0x0.jpg"
+    width: 1199
+    height: 800
     isCached: true
 
 related:
-  - title: "China Internet Heavyweight Baidu Confirms Plan To Enter EV Market With Geely"
-    excerpt: "Baidu, one of China’s largest Internet businesses, on Monday confirmed a report last week that it plans to produce electric vehicles in a partnership with. Baidu will provide intelligent driving capabilities to power the passenger vehicles for the new venture,"
-    publishedDateTime: 2021-01-11T01:04:00Z
-    webUrl: "https://www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/"
-    ampWebUrl: "https://www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/amp/"
+  - title: "EV Dreams Power Baidu but May Not Last"
+    excerpt: "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy."
+    publishedDateTime: 2021-01-07T10:59:00Z
+    webUrl: "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffba15f58cba2654bf632e1%2F0x0.jpg"
-        width: 1199
-        height: 800
+      - url: "https://images.wsj.net/im-281927/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Baidu and Geely to Launch Standalone EV Company – Report"
     excerpt: "C hinese search giant, Baidu Inc., plans to form a standalone electric vehicle (EV) company with Chinese automaker, Geely, according to Reuters. Two sources familiar with the matter told Reuters that Baidu ( BIDU) will be the majority stakeholder and focus on the software side,"
@@ -84,6 +84,6 @@ related:
       domain: techinasia.com
     quality: 49
 
-secured: "nKF7Ho7jyAxPn27LHn8v23i9c01hS5AMTiiM2iTCz/XJ5mTyPy1XVSWMgXXBPJ8B1M/GsPZMw3GL2giALzoB/QJCy2SjwIOujCyCAZUQET2ImB0krTUGokVxVkVjqwEAoow20pkYpvk6FDpTxFGfLWgkUxcgVPNxNEVB/oJapp7IqyiKbO21yQKRFiY52J/v1nYngQXAOOj6LeMt10l6Whniw3g4lbFaHGqIwFyIyXR0+byJ5h5qsoTJTpSKsgcjdXREk09UU2gELek8Mq3s1ywxdu+udKhVvqLdI5/KdHEgL/zTOmxqZ3tfCvjlqHmPaCgVyZm1/5FnaSUdTRm8XL16iejzGk8/fKS8vbyv8xaHz1CwXohhv915mhJneQeVS2P1vRsHfGeE5kVH+zn8wEnmjoEacxiEeuVdXV1DA8OT7YIk/oafbvELyxYKuWywRLIrEnQYAxFwIHLcPeSobA7dVPJTs2BBn9JGJKQg5auRq/tziFZ16sczH9LwjIlN77eP2KGq8gqOwK+LDj2/DA==;UTuQhIsFp8gTzEnjWAcvLA=="
+secured: "F0MlJC+YISl8iGMoRPDAMJryMe6TJvy43dHiajwdsXKPWcd1WuKc7T8ZQ8w/yDkcZu8spRrUx7WcpUGnTPv5gAikV6h9hayZA91Fs5kAan53d3Ux3LqhWZzsXVCe99a/0IT8BDV7k9q5oM7k7IrEAaJ8Opn+t/LKh8Wl9rVxEYq9YDCn+zmqFeu4Ju9+p9d1sYlbXkrNP6GD9+uW0T7xXD7ZF4w3U7YznY/7TNogBJY9Mt5Phf8+Qkb6nL4nrodVcYzAePSBMq3I46e6UQrSlQ+Z5GSnrhzjENEmH4tcMaQ9vcbv/+nJpK9u7b5FLtUzLX26RxJv12s5FVO8W4001Th0EzxLlD/KJqogQspSFAQ=;r9BLdZne859h/0vaCb9cpg=="
 ---
 

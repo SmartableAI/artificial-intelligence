@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/samsung-tvs-aid-your-workout-wi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-tvs-aid-your-workout-with-camera-based-ai-powered-smart-trainer/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Samsung's Lee visits research center to learn about 6G and AI"
-    excerpt: "Samsung Electronics Vice Chairman Lee Jae-yong called a meeting on Wednesday to check the development of next-generation technologies including 6G networking technology and artificial intelligence (AI)."
-    publishedDateTime: 2021-01-06T09:38:00Z
-    webUrl: "https://koreajoongangdaily.joins.com/2021/01/06/business/tech/Samsung-Electornics-6G/20210106182100555.html"
-    type: article
-    provider:
-      name: joongang
-      domain: joins.com
-    quality: 39
-    images:
-      - url: "https://koreajoongangdaily.joins.com/data/photo/2021/01/06/28b89dab-17d5-4f0b-8b63-a72c7ef4bd41.jpg"
-        width: 559
-        height: 321
-        isCached: true
 
 secured: "u+sNhlpAwo7HoigYthIGVrPx+Q7E0dwAmKsS4TJmo4DYUHUJFEEwRU1/sca89fB4lFnC065rvETtGh24Y7FxE+bwkd1K2QrAvP7RSamRcRuXY/cr2ml/XGUG/SnVF8oLyCwU+5pjKDxmCjPO2RKS3pqYyXfZCxHQKxqpyhkPN5mekBWVGtbhrMfBj2px7yfV1vLbU+IUDclbl06M3OegeCUYhFeVD+NIQpkJ8Rct94f95osPsHySZiLGEZBr6C5Mcmgwwc5QF+7mNt3kqsfFZYCwNUpXtRSu8QOovv4sppOsYsrRfKk25OG7Eh1q9XfMIRt/JmlY1kNONrE9suIWjnhY45voaL5A3aq8k9K7k6Y=;DXX9t9p05GyGbNt/WFgblA=="
 ---

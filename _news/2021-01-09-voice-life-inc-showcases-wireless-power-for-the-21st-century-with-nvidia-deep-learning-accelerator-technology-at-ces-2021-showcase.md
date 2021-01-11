@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Voice Life Inc. Showcases Wireless Power For The 21st Century With NVIDIA Deep Learning Accelerator Technology At CES 2021 Showcase"
-excerpt: "Voice Life Inc. today announced its digital presence at the CES 2021 Showcase launching the Life-Line Power Connect platform based upon a"
-publishedDateTime: 2021-01-08T16:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-life-inc-showcases-wireless-power-for-the-21st-century-with-nvidia-deep-learning-accelerator/article_e96a7063-c0b4-5064-b194-201589bbfa4a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-life-inc-showcases-wireless-power-for-the-21st-century-with-nvidia-deep-learning-accelerator/article_e96a7063-c0b4-5064-b194-201589bbfa4a.html"
+excerpt: "Voice Life Inc. today announced its digital presence at the CES 2021 Showcase launching the Life-Line Power Connect platform based upon a terahertz-based scalable network designed for far field wireless charging."
+publishedDateTime: 2021-01-08T17:20:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/4d/94d56f90-295f-5935-8610-f9ab1c90cc78/5ff88d1b4a673.image.jpg?resize=400%2C238"
-    width: 400
-    height: 238
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 238
         isCached: true
 
-secured: "8qm4Bh4+Ouf6LF0WZZquZvCW8Jwz5NqaGlt5LAtNCFr4BzG0Otn/rpOCVZq0/nrKDlxZLgCpv+IDQWxqc+Sg1Q9pUOPjYCiTsZg0XQlVwf859QfpwrRfPzNwfgJzjLtT30qqe+YT1LRHThcD9inKbK/WpbAgSUUfV9AK8eWxIjCXx+lrzWoslOohOtznfoT89KqYhhp3gHfp2okWr+Pv8MMuDvi81TBjHxwebONmo53AJKdtMreVSEQSTVw53Av9u5UtGHQZ3KCGxEZvxbLnlFEMV719M8F0OHDIMpzwZ0RWVe6Q0+1akNS8sR30MzzSsA2iNrcZhflFjuINxhpwb709QVJHY3mNtPOJWAuzt5U=;L3iU89qviSaBYxCxCL1Ibw=="
+secured: "E1f0z+IM9A7FPjuXBQCHbctxIhozjHHOGJgYHEwmt0zPJNOK4JXARrHMRQQ6mWmB7IVxDKHs+8eRmUeV6uNLpai+BNDNVI3N8mYFqoZb1hMeI8F3EZDAv84adRbFDlhb3L4/xRUCctYfYXK41/Z1SISKFlCsTLUfYWBD+3kaLkiLCA+ltYCPBw+tI3HOcWl189H6uowycr/MiaMTGnigL+L1V2dghlySQAYPk0sEMQ2eEhObb/gtilo1HcGaqkT4MygdNqueQcvwCNaLpg2+j3Eih0sWucq9/eDsQUyYvTf1u6vFOx0QriudK94KGzhXFsetRzQrdLdYg60VeoYmmn1XKFZYD9d4Z4vuPA8NgH4=;JobsUZpctcBYN98kD7Iw/w=="
 ---
 
