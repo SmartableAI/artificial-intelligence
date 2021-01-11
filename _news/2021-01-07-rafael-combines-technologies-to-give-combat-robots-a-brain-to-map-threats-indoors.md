@@ -2,17 +2,17 @@
 category: news
 title: "Rafael combines technologies to give combat robots a ‘brain’ to map threats indoors"
 excerpt: "A robotic four-legged dog and a small drone infiltrated and mapped a building in an Israeli coastal community recently as part of Rafael Advanced Defense Systems demonstration of new technological capabilities for indoor battlefields."
-publishedDateTime: 2021-01-06T22:15:00Z
-originalUrl: "https://www.defensenews.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
-webUrl: "https://www.defensenews.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
+publishedDateTime: 2021-01-06T19:48:00Z
+originalUrl: "https://www.federaltimes.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
+webUrl: "https://www.federaltimes.com/home/2021/01/06/rafael-combines-technologies-to-give-combat-robots-a-brain-to-map-threats-indoors/"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Federal Times
+  domain: federaltimes.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "pBhXolG7bDbL8B+CpJsVO/FLQiiI56klQzYsxiX0yaz1nJQCpTokgvYzzR/QwIeUv4ct6cJry026VF1kMiXGuEzLqXV9QWK6J8+MjOHtB4mOg8EaUW8DRjvyT1SlFLV0nGPOxsaC+k51d5QJlTJc8iOB9WuC6nbNg0LJMYO+1u8vbl/bxpyGxtRpnLK0iKplmurCpQLdjhgwcDm2wPPxbq2CFcTme26hwFsp4Tw+dHW5O4ygmtxv/CzEF2cI4XfKkAzrWVqdxGaTCFTgL2oAb/OBG7lrLeRKxqzacBE6wbIYF+E/z6wp0ljvuzniyMnytO8EjzARqS4gZIeM5PDIqA+cGcWifLTVwLOk089OCUs=;cZo9X6CDZc6kgQ09f0eiAw=="
+secured: "7McsFYSX+KqZb1zAe8UxnmG4FIhu6ZDPXTa75XR64UsCuIx/4qXKLGlIBkuwbrIldyEcjujaVqI/w/cOFT2W4gHno6dVLTAekQjxYuxY9T2V4lgZfK9xgy/w89q3cQvsPGlAlaw7B+rYAKh8R6ZqULtFMjGe1dg3FwgwOHcsDO3UJAb2W/1F0g2lHiltQ7wVAhF9LH+om1r5ncjqEJvF7W8EJAOxENVgVSLkEi28YCquqzVp2hwFxNR7bcRaH6WdJ8cYTXG4FHTDhGrRUAk2BBrWrBnk0YgEC8zoCp28mBQxbL/FgY2e+X+YG6kgvFwmz89byXceTOWd8qrD4Ovlk30Pu+UlHTZSmmz7orr1qOM=;4MoVrwd0ACvxLWrHC9WTeg=="
 ---
 

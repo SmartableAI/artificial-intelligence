@@ -66,6 +66,17 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Machine Learning Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030"
+    excerpt: "Reportlinker.com announces the release of the report \"Machine Learning Market – Global Industry Analysis, Size, Share,"
+    publishedDateTime: 2021-01-07T08:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19053604/machine-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19053604"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19053604"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "8xYQHOhGmF57d872f7Nc6h2saJYZo4yoo5XL9DqYghHdzBoJeWQj+Ub5PEljU4/exOrCNVQITIvbIeAGRRd7Ykghe7Di2fsvy2HkztFNKfNRXIfYdE24yFlNMCIFiTFNDr/ZJNsjhNAV6YFK/1MJSjGs0Xt08Cu71sDPqmWoMCq1zbwruOcdXoG9JuZmXkOwnopKhrOjW0RzNBJOb0wnmBSvy2qWzSGppd/R5FA5d/L9yEW2Tvvy1iKC2T3l1/E8TI9/hnguz0PX9dZFKzSCDsOAs/u+A4ITM6Ofj7PO3nIhGXPh8KXYLaKyBEfEpp6P+ugyAdXsx5ArUgERCLOGpMjhtc62xGF6+gyt+z0ai7Q=;bK/I9yQ1cd/irD4XNTdvwg=="
 ---

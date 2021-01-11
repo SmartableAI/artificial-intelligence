@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-07T12:18:00Z
 originalUrl: "https://www.eejournal.com/article/an-ai-storm-is-coming-as-analog-ai-surfaces-in-sensors/"
 webUrl: "https://www.eejournal.com/article/an-ai-storm-is-coming-as-analog-ai-surfaces-in-sensors/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://www.eejournal.com/wp-content/uploads/2021/01/max-0066-image-for-home-page.jpg"

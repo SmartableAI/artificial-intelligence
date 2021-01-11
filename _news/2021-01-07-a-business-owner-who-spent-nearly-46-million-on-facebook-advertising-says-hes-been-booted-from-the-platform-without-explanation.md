@@ -45,20 +45,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "Tech Behind Facebook AI’s Latest Technique To Train Computer Vision Models"
-    excerpt: "According to Facebook AI researchers, Data-efficient image Transformers (DeiT) will make advancements in training computer vision models."
-    publishedDateTime: 2021-01-06T07:33:00Z
-    webUrl: "https://analyticsindiamag.com/tech-behind-facebook-ais-latest-technique-to-train-computer-vision-models/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Tech-Behind-Facebook-AIs-Latest-Technique-To-Train-Computer-Vision-Models.jpeg"
-        width: 1201
-        height: 630
-        isCached: true
 
 secured: "hv7eU54ndUEvNf5l1Xry0jRiR3gQacZl7IODWd9lbToypH1w+/rOk0wteSX/TQFwAMFiNx77+BOH8PId7lMM+NcWGA43jPFfFQvF4X56VO9VQzqkNUp3gkQIC39liUyU79HkNdm5bPozNFQNn79ReCIc2MabznLShq93Kwn7n9yxwTHvXwos5HbSIWo+ATVOixwJ6DVT6hvjV7bhYvSJVU64jCCJC4ZhA2gh8OT+UbudpuNyhfZf+/4UFibtJUVz15EICZgqazOIYol0d+XTDU3bQlQEk8rPL7Iu5RBrqdhDQe9UaAfRti9VSQHh0o05ZiiBlcVl231T5iUTgyne/U9jDHqaEtwfYxCAwIBWIw74uJt5oec+mmvHxcpJWAhfWCB2lqauPf4y0xX0VJXTMTofT6tPKcTsGyigZ7cJsM1T8a7CCRYObVkA8K3/jh0ZIRKxk1juQoWPZOAo+b+9XwYVkcHg1FrI5KB1Ywo5R84yWsFXIXPpViLiJp+feCwQn5tNPBgR1inXDU70fxLBUg==;SP/9yvBNpPuWStWmYSq/2g=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Fact check: Facial recognition company did not identify Antifa members among Capitol mob"
 excerpt: "A news outlet that reported that a facial recognition company identified members of Antifa among the mob that stormed the U.S. Capitol has now apologised and issued a correction. Screenshots featuring the original report,"
 publishedDateTime: 2021-01-09T02:13:00Z
-originalUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-antifa/fact-check-facial-recognition-company-did-not-identify-antifa-members-among-capitol-mob-idUSKBN29D2WV"
-webUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-antifa/fact-check-facial-recognition-company-did-not-identify-antifa-members-among-capitol-mob-idUSKBN29D2WV"
+originalUrl: "https://www.reuters.com/article/reutersComService/idUSKBN29D2WV"
+webUrl: "https://www.reuters.com/article/reutersComService/idUSKBN29D2WV"
 type: article
 quality: 60
 heat: -1
@@ -87,6 +87,6 @@ related:
         height: 392
         isCached: true
 
-secured: "Y6K7WQ7xjBrmkmQyMXGmBc4ToHjMibZhzGUVZG/zC0sUzvC2fZ0EMf6KRPfjn+KKyI2vIHeaoK51m9LA9rqRgP2dm+qqzUBRIJ3/gO0cuwXGWVufIBvVAEarPvCGMOfHX6f4tTlGjkZQLGW/C+FLQDOq7lQbJZ46BjHF9LtTJbardRSsws88D0hbsGM3/LlpJVeEm87yLNt7rMgSwUSOw889znP9KKvimvZ1/OHBnypyR71R3YOkGTVg2mIKjIx/fyequkpwjQyiSM/iLyZkHpDSkTtn4+aMJCONRlHA9kRGvCjLXDdszja/TXunbULJ7j8kfMU6Kwd5DWx7t4QEHEbkFg1sssbQ9WT2+//AxdY=;5/I/kgCKpphMNaWp4539JQ=="
+secured: "hwfwry43MNfcFlS1uo2Gnw1tavAcdFYEFxfeBp/UpBB2aXJGxBew7xcseUqpNKFM+1DSy9lKEP6jNLsdJUCP6fK681rF452Sffap/s8tulxAqlaAcsKgJ0Htaftu9pNWC3B5GyVjcgVsyCFaEPocC4mUp68Cksz8d9FdCPu5MBPh6YglJBtsKOn08jlX1QEWdVUS0W6SylH1s9ExCF89RAWwj/gypCNR/bqTKYaRTgnd69Fx6TU9XcoBnqK4BHGVSDIUSoGLj/2kJUO3ArbwuEcs6uPEiXEZT5r4N/d6v1Y0cf3ZetWQATkc5nxFxfea74uRo4a5IEVkgX5eNY2x7YmwMMTraWcKZdHICpEf5sE=;oMr3HiVY++h//cVk079Zmw=="
 ---
 

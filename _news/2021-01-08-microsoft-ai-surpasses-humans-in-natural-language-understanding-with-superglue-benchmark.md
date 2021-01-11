@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Introducing Azure Health Bot—an evolution of Microsoft Healthcare Bot with new functionality"
-    excerpt: "Since the start of the pandemic, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with the patient engagement."
-    publishedDateTime: 2021-01-06T08:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 110
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7e6ec972-e979-41d4-8f12-317156c33b99.jpg"
-        width: 1024
-        height: 437
-        isCached: true
   - title: "Microsoft launches Azure Health Bot"
     excerpt: "Microsoft has announced it's moving its Healthcare Bot service to Azure to create the new Azure Health Bot. Built for developing virtual health care assistants, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with patient engagement amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-08T16:29:00Z

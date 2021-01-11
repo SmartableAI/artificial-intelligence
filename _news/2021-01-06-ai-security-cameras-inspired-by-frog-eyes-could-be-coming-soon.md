@@ -40,7 +40,7 @@ related:
     provider:
       name: Electronic Engineering Journal
       domain: eejournal.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.eejournal.com/wp-content/uploads/2021/01/max-0066-image-for-home-page.jpg"
         width: 800

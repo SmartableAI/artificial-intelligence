@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market 2020 Growth and Forecast Survey Till 2026"
-    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
-    publishedDateTime: 2021-01-06T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-growth-and-forecast-survey-till-2026-2021-01-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market to register considerable gains over 2020-2027"
     excerpt: "Global Artificial Intelligence in Drug Discovery Market is valued approximately at USD 259 million in 2019 and is anticipated to grow at a CAGR of 40.80% over the forecast period 2020-2027. Request Sample Copy of this report at:  Artificial Intelligence in Drug discovery has been gaining popularity as this technology adds value for scientists and researchers in the industry in decision making processes."
     publishedDateTime: 2021-01-07T07:15:00Z

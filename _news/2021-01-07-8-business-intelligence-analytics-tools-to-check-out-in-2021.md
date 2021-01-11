@@ -62,6 +62,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Machine Learning Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030"
+    excerpt: "Reportlinker.com announces the release of the report \"Machine Learning Market – Global Industry Analysis, Size, Share,"
+    publishedDateTime: 2021-01-07T08:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19053604/machine-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19053604"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19053604"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "uJUqupurQCCmIVz6LKDn6JQS+DnxMGHVysJqfjGhIVpGI+dWgS7ushZ3OQtnCfnwxm8bwZOVH997IBGBB7WIFDvmYwPVSTKvzDaO9GPSy3iXZSVckNWIGpYE+pkgVesOQu14rJenn3PuQMJq6QCVpf9JiD+oeDpawDCasqyDyELdXdFhNuuj8XRAC9xNLbQH7JGQZ2ILVobIpsH8URd0FhxEt65xlrq1TSsNTw4C1CpwNS+iR0wnHEr7vt1k9AXo3RxgNeDfx12ovTsyWnvjeAjeJxRXLkD6Z9Z4FL598xSt2oDks2TsSNcTILRXkLnrMNmYAo+2ep91vQCR0h+k+7ITJzaFt0tNsq2NsVZpyQ/KR2Oy1otDtiZvknm40WWr0bJZrZyX+J2l5YL5qNGBV4W9rbkZGeVPGUSKiJ7BHJDeGzLAAfnJwVawHiYkKdqCgcfEc7NSuSJUDHOfG1plBVl9LSmwSDYDbM5LEOjGhd6THSdoodC0DTjW2C3CSeRYEh0jxftyT7QfliB9YxMwvg==;5icMu1t2rtBki/FNj5+B+g=="
 ---

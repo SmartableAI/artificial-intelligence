@@ -8,7 +8,7 @@ webUrl: "https://www.smartdatacollective.com/how-ai-is-helping-new-startups-succ
 ampWebUrl: "https://www.smartdatacollective.com/how-ai-is-helping-new-startups-succeed/amp/"
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-ai-is-helping-new-startups-succeed/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/05/image-from-rawpixel-id-1199041-jpeg.jpg"

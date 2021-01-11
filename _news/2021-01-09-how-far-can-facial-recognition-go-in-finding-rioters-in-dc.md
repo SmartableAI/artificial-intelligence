@@ -3,25 +3,25 @@ category: news
 title: "How far can facial recognition go in finding rioters in DC?"
 excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
 publishedDateTime: 2021-01-09T04:47:00Z
-originalUrl: "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-webUrl: "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-ampWebUrl: "https://www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+originalUrl: "https://www.wbir.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+webUrl: "https://www.wbir.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+ampWebUrl: "https://www.wbir.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WCNC
-  domain: wcnc.com
+  name: 10 News
+  domain: wbir.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wcnc.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+  - url: "https://media.wbir.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -341,6 +341,6 @@ related:
       domain: computerweekly.com
     quality: 23
 
-secured: "YMz7aR7KRO+qI9sm3237hIKb83yFjqEtxFLPHkluz6LOb45FISqqkoXc7aexmZhFfCE8Px/sI1W9rrlOD6qdMz6U+WFLFHY8eYjwT7GIfMSuK162SyWOnEIG1qB7zPuCd75EJXKI5M/CEOQoPPe59C9NlWxZFgeqyG468XU7oP4nkFzpWUKTixXouyEBCEN9XOiupULOtB0rCzU+B7DJeiK33KR5H9ELBPHgxbiRQCITqGO/XQmc756IPTja0FZ6b8XOyc4kQTZiUi+SdWwEMQYVpG4ip9o0tkNlM5wxFLHbce6qMoeathHU3QAmaWxM+lst1AKlgyJVM6tZGuCBeyAiMtiuzy5Bj5YkwCSo+z4=;XG1USbZF816tqQL/RguJYw=="
+secured: "GRfBff6Dxk8ApxHoIY31+PHqbVIfa9Kc2p3oRsRVkUAM2IOTL5/QNKCyE/lTZlaZszRApEGvjhM9B1ItgL3Jv8acVjaA/bF4mM7JpwbSrEvOoFCeucNYapPXWl1C0nv524wbtwx5zoTZefYtQVR7Hdd1Kl0PHETasby2WVpUM7xZuV/+oYB6EeuKkrlzzulYRGjdfl5HQZ5Uf8uHanAPb+VKjzfc/73GCH89PmXaD/btehVXFf53zqV/N376A6jTAd0yCKUQaBzL7HmBj90KCT5uE9Ntw2yIay29CTrlNurIckGFmkUuu8hkaSObksmjxoU+h7db3vfzJVmm2r7C1CRVcz3PGhzC1kEXB8gK5bo=;KsU/NoHIHNotVcLtyDSD4w=="
 ---
 

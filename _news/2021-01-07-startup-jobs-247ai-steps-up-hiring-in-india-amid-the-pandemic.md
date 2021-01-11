@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/startup-jobs-247-ai-steps-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/startup-jobs-247-ai-steps-up-hiring-in-india-amid-the-pandemic/amp_articleshow/80141679.cms"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,56 +24,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Temasek Fund Backs India Startup Bringing AI Technology to Farms"
-    excerpt: "CropIn, an artificial intelligence and data-based agritech startup, has raised $20 million in a funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in farming."
-    publishedDateTime: 2021-01-06T08:34:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBCBhH8vKSWs/v0/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "Temasek Fund supports the start of India with AI Technology to farms"
-    excerpt: "(Bloomberg) – CropIn, an artificial intelligence and data-based agritech startup, has raised $ 20 million in funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in agriculture."
-    publishedDateTime: 2021-01-06T09:45:00Z
-    webUrl: "https://www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/temasek-fund-supports-the-start-of-india-with-ai-technology-to-farms/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 57
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-        width: 960
-        height: 675
-        isCached: true
-  - title: "Temasek Fund Backs Indian Start-Up Bringing AI Technology To Farms, Economic News And Top Stories"
-    excerpt: "The agricultural AI start-up headquartered in Bangalore provides Software as a Service or SaaS products to agricultural companies and development organizations worldwide to improve crop predictability,"
-    publishedDateTime: 2021-01-07T07:55:00Z
-    webUrl: "https://www.compsmag.com/news/technology/temasek-fund-backs-indian-start-up-bringing-ai-technology-to-farms-economic-news-and-top-stories/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/temasek-fund-backs-indian-start-up-bringing-ai-technology-to-farms-economic-news-and-top-stories/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/temasek-fund-backs-indian-start-up-bringing-ai-technology-to-farms-economic-news-and-top-stories/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Temasek-Fund-Backs-Indian-Start-Up-Bringing-AI-Technology-To-Farms.jpg"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "3Yt+Nbntn7CHfyxvVElqtTEIqPPVZCMdmeRkAYlu48u3GwfX3MIGkLyeqEkVg3A/eiFyQEGNlyY6qT2Kuos8bz8zPR5q33X3kNRuH/8WDXOZYLgoTAaVJmFo/Iu5zFX6JB0lfgNGkSNfOPsM7NwldNJ0gxkxdCDfQf2z9Ba+1n3BxI1Xf4oKsaWV1PTrggL0A1NH5NL+Bux+7nF3fjFq7hG1rZpRIxWAgZ3dyCI/oKjH69zUxZWscqDRZux5as7OBqWM+4Fej6w+FvJ+w/rCGYL+tr6eFRNl7tFV4ijeBduunJ0MfXFcvNZk3OUH4O6enxVuiNSsgsGwYt0npEJJzoUu3JZ2FiYTg7o5MNS9IC7ff8Gww6BBcPIN2GY1i6CuX1OHaE1aEEsiReUue0wv42bKMfgsc6t322NZ3AxTQFmZRqVQ3QlHD6Y+iv7h5ZgRS6MjX2qQrwU1AhItZwmjKBIghssDfAB98MPfk75hr/9NAyfH4UUPdxjPie5HO11QBIhvHNjnlhbLD2/k9YBqsQ==;LbNiTi7LMD8ZqS7wHfu5IQ=="
 ---

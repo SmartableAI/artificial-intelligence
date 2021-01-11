@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Introducing Azure Health Bot—an evolution of Microsoft Healthcare Bot with new functionality"
-    excerpt: "Since the start of the pandemic, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with the patient engagement."
-    publishedDateTime: 2021-01-06T08:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 110
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7e6ec972-e979-41d4-8f12-317156c33b99.jpg"
-        width: 1024
-        height: 437
-        isCached: true
   - title: "Microsoft's AI model has outperformed humans in natural language understanding"
     excerpt: "Microsoft's DeBERTa model for natural language understanding has outperformed humans in SuperGLUE benchmarks, defeating Google's model which just set the previous record a couple of days ago too."
     publishedDateTime: 2021-01-07T09:48:00Z

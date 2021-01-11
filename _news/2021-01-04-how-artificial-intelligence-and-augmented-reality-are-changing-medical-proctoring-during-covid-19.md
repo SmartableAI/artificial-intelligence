@@ -18,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://qtxasset.com/fiercehealthcare/1608746865/Image%202%20Remote%20Access.jpg?BdXkVK.VA7he6ZuzdwP58RSOiHFthGul"
+    width: 9000
+    height: 3000
+    isCached: true
+
 related:
   - title: "New AI Tools Aim to Automate Aspects of Covid-19 Response"
     excerpt: "Hyro Inc., a company that makes plug-and-play conversational artificial-intelligence software, has developed an AI-powered virtual assistant designed to lessen the load of incoming calls for vaccination information and scheduling queries handled by call ..."
@@ -50,6 +56,6 @@ related:
         height: 653
         isCached: true
 
-secured: "k/1ndyVB1iQo4YOnH8VgjPLxvQAuwtxz5+ogDyxnfswmmT2C+bAMg0PRogiQZZccrlekY1i96CyxHqR77jaCyitSULM10mpBgWTac4++R/jhoqLqdBNDITDuojrK4o6MwuooyBi1VpvY51kKlmBFCrEauKZjvgp+5WhUFAyV8ttEQvvNNgPFtGGLpqNU9fzSYp7WVAwzkKBiGOx6TrfJSYaKnc+SJAvj2otcza6aBycVlvfZQYIlXm51l8PWpvyaGdqNtmZstDENSm9jlW1hkSeaAsleAMhs+Vn0GMS+Wh4SNvYS9F9bfzosAOuglP/GlUpgCbgtPydd1AGCyOFA6eIniTY/c9c3yQ5s3zYnSdE=;RBjuIyQc3Yq5S/669J8fXw=="
+secured: "DoHkOGMnPZyLcUYbLziFY1Tc6K2boaya61JdXRbxiX5QTf4RIebQ/jD67bkjE0oX0MBghJPopzuKKxe7duPWIts06g2sbwVI/DW9k1u7WvOnBFCLhNGM8pUbUjnxWF65ysjZF/F8ouLER6sYxm0EWH2t9XZcfYsothiHnHPCUt6TctsVkRfGXmGx5SKNtQtmk1IiwaM9XlgLs3fnzFKN223l/NUOJ7sATu4ukOVSgVkZebd5Snl0Wcre/0ml0ty4IjzEGYMWP1uXAaqIOrr4GxV6fCCe5jDGlIiCTaapW+jP91AlqcXGsVXx1SJ2FgIqKc8AQJ/SqicWNidopXEsDGGoHPjMUWy380O1w9jxyiI=;jzLA+Q3nNH1UV1Dgd8lmaA=="
 ---
 

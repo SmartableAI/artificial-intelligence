@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08"
 type: article
 quality: 74
-heat: 314
+heat: 304
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market 2020 Growth and Forecast Survey Till 2026"
-    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
-    publishedDateTime: 2021-01-06T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-growth-and-forecast-survey-till-2026-2021-01-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Manufacturing Market Sales and Revenue by Companies, Regions, Type and Application till 2027"
     excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
     publishedDateTime: 2021-01-07T10:53:00Z
