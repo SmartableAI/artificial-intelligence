@@ -10,7 +10,7 @@ website: https://t.co/i1uBCCpct5
 twitter:
   username: johnkrafcik
   url: https://twitter.com/johnkrafcik
-  followers: 15123
+  followers: 15126
 
 linkedin:
   url: https://www.linkedin.com/in/johnkrafcik/
