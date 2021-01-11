@@ -8,7 +8,7 @@ webUrl: "https://economictimes.indiatimes.com/prime/technology-and-startups/five
 ampWebUrl: "https://m.economictimes.com/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future/amp_primearticleshow/80218989.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future/amp_primearticleshow/80218989.cms"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-820943,msid-80219046/.jpg"
@@ -59,6 +60,6 @@ related:
         height: 250
         isCached: true
 
-secured: "hOdiqctm6fWWsWm3D0I3QldcSuKwQ3NvfVQiAf41OQcJm8im3Ewj/0JVfwJu9Jz1u30d6azA5CiFwIReotS3zfGD+Ph59IwP+jUFG2u8M1vRT99GkGmGlwtjhXLIIxclkVnScP+9xrRWPb3NJ/mV34Yi5DYy3x8Z2MK5o4DgoOrzDt6Qn4tUI/dCt/842RhREg6odGIFnokTpdgKL19+LxqxIpHh4No6vY8hsbAuv9/ok8Ai8dZbm7wvoACnXmA9f66BLdsVm/zm+hzpaDAv8sDp9WS9+WfWEKALdDJgwjncFeoKla19oo7wE85nT6v4cQZ1yOTWzBLSg26a7SmzZlVxg8DCqXEajGSa6ZC9Q+Q=;yQ1a0WUrMGrhxFKkP70glg=="
+secured: "zr/2cdOpzX3mWZKL6p4j0rbxoJJkfVQB2VfqYAE+GhSxDXSp0J9leHI8/0njObebcM/pvG5oLnQYohYhGi329fhyOy1+BzpGN9Ti9moBY6hbECg/nEdbmjuDERk34jmZQrsDT7yaSVuiSqGZ3VtIIIochxZdJWV6Ok90oG+1LAKxs4IlyYzNdANwNO7B+cx3cYfIcgl/qskv4zxQCNaAd7xC7MGSraPb/p+7ht0EN0oCkh++Mkn4nmRjpCXBRjje60a7LfX7uTwPRbF2aqhHlxs15/CYI2LF8gFGc9SzA2DILxIaEYcUzyVv82xrT3F5hi0E3qLsznYXU4YiZLdhKe61W626EQmkzvT6lIubGTi4iLRLiAA3LmxY9/TuqZt79yHg/+9oCypAFNSC2KyCtGOdYZeKa3KJKHCAmXsifWVZic+jYScanzq698YaFdUclvdYIOU7weainGz9n9dwwM3DRfKksO/eWfG8wEDEBUnyokMa4zxANYr5vBw8HtU2Kc3Nd8oK5E1lrIZsLKW3QA==;gndfSanVNqypkK/U7dgIkQ=="
 ---
 

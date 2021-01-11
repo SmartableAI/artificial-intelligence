@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Intel's new RealSense ID packs on-device facial recognition"
-    excerpt: "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data."
-    publishedDateTime: 2021-01-07T06:36:00Z
-    webUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png"
-        width: 620
-        height: 387
-        isCached: true
   - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
     excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
     publishedDateTime: 2021-01-11T04:56:00Z
@@ -67,6 +51,20 @@ related:
         width: 1431
         height: 966
         isCached: true
+  - title: "AnyVision Offers 5 Indications for Fair, Ethical and Unbiased Use of Face Recognition Amidst Rising Public Debate"
+    excerpt: "Prof Shlomit Yanisky Ravid, Visiting Professor of Law at Fordham Law School and Yale Law School (Photo: Business Wire) The backdrop to this conference is the widespread public debate on the use of facial recognition technology – a debate encouraged by the Black Lives Matter (BLM) movement,"
+    publishedDateTime: 2021-01-08T17:11:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industry-regulation-government-business-and-finance-technology-issues-ac039981ac6547c38da3306d301c6c20"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Intel unveils on-device face recognition tech for ATMs, kiosks"
     excerpt: "Chip maker Intel has introduced RealSense 3D cameras with an on-device solution for facial recognition, designed to perform facial authentication on consumer devices such as point-of-sale (PoS) systems,"
     publishedDateTime: 2021-01-07T08:11:00Z
@@ -94,6 +92,34 @@ related:
       - url: "https://petapixel.com/assets/uploads/2021/01/Intel-is-Repositioning-its-Camera-Depth-Sensing-Tech-into-Facial-Recognition.jpg"
         width: 1600
         height: 840
+        isCached: true
+  - title: "The Army has built the largest facial recognition database of thermal images"
+    excerpt: "The Army’s work could make facial recognition technology even more ubiquitous down the line for federal agencies, giving them the ability to work in the dark and the light. Facial recognition is in the news of late for its use in identifying pro-Trump ..."
+    publishedDateTime: 2021-01-11T18:48:00Z
+    webUrl: "https://www.fedscoop.com/army-facial-recognition-database-thermal-scans/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 36
+    images:
+      - url: "https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2019/01/17101751/GettyImages-490070699.jpg"
+        width: 1920
+        height: 1113
+        isCached: true
+  - title: "Bemidji High School speech and debate coach receives national recognition"
+    excerpt: "Tom Lucas, coach of Bemidji High School’s speech and debate teams, was recently nationally recognized for his coaching work over the years."
+    publishedDateTime: 2021-01-09T14:41:00Z
+    webUrl: "https://www.bemidjipioneer.com/news/education/6832804-Bemidji-High-School-speech-and-debate-coach-receives-national-recognition"
+    type: article
+    provider:
+      name: Bemidji Pioneer
+      domain: bemidjipioneer.com
+    quality: 23
+    images:
+      - url: "https://www.bemidjipioneer.com/incoming/6474136-l49yoz-Bemidji-High-School-web-art.jpg/alternates/BASE_LANDSCAPE/Bemidji%20High%20School%20web%20art.jpg"
+        width: 1140
+        height: 712
         isCached: true
 
 secured: "6/ehvC9NBWHCQjZGEWfUR9IG11JLCpcK0fIF0O1zd2WE/ZheybNzjG1pNFDtQT6ZmRCoxHcA+68Ke4KTD6LhgMbWBx+UcsIgSCzFqphursfwOdj7Q/xRAbvTbg3psGz1waDp2jbwHvQhYfq7PXTJUG5NHeXPx1hmMSRhV4A8UzqvkgUhzq93RIjf0kafPIRBXGJteinNZFdR68pNkmgEYbISEqUEDbXCjRi9LyH+h56d6KHOR+r72v1MKN3bKRWTnMRL7KNxBrzvlVGnSPEjy/1W3zpjzGtuN3SnowAIJsTDrb3F6gfV86C8KawjbVRqBUmq+SSBsqgoiUTeB7u+jf5/DgccVOj1SiMZTRS8lHDz/rr53dL+umQ4uQJ4wxNcotU+UUzVj91XbrU2XNDs9J2oaF2f/bmPgo6eYy5ORC0KjglTlP3nDueqxjOVGbh1Qc/6bopZfF+atciqRL9YKl5zTvO7VALdN8Pm6MpjfGpFhJ7+u6OU3iuBI5bFUo4VqJPPkVPeeOAhQbmAyLSv1Q==;2vtdqfqBCTCP4jfcsx0A2w=="

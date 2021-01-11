@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Drone Data Services Market 2021 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2025"
+    excerpt: "The evolution of data analytics throughout major industry verticals is one of the significant factors positively"
+    publishedDateTime: 2021-01-11T22:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/drone-data-services-market-2021-global-analysis-share-trend-key-players-opportunities-forecast-to-2025-2021-01-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Cancer Diagnostics Leader Ibex Medical Analytics Expands to the Americas with Appointment of Joel Duckworth"
     excerpt: "Ibex Medical Analytics, a pioneer in artificial intelligence (AI)-based cancer diagnostics, today announced the creation of a United States subsidiary and the appointment of Joel Duckworth, an accomplished veteran of the digital pathology market,"
     publishedDateTime: 2021-01-07T14:46:00Z

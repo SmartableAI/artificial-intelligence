@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-24-new-york-issues-2-year-moratorium-on-facial-recognition-in-schools.md",
+      "title": "New York issues 2-year moratorium on facial recognition in schools",
+      "excerpt": "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/",
+      "originalUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/12/Facial-Recognition-Schools-New-York.jpg",
+          "width": 3838,
+          "height": 1919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp",
+      "publishedDateTime": "2020-12-23T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-new-york-temporarily-bans-facial-recognition-in-schools.md",
+      "title": "New York temporarily bans facial recognition in schools",
+      "excerpt": "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "originalUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
+      "publishedDateTime": "2020-12-23T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-stays-out-of-schools.md",
       "title": "Why Biden nominee Miguel Cardona should make sure facial recognition stays out of schools",
       "excerpt": "The man Biden intends to nominate to lead the Education Department cares deeply about racial and class inequality. This is one way to show it.",
@@ -1273,102 +1368,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-image-recognition-software-market-next-big-thing-major-giants-qualcomm-technologies-inc-nec-corporation-microsoft.md",
-      "title": "Image Recognition Software Market Next Big Thing | Major Giants: Qualcomm Technologies, Inc., NEC Corporation, Microsoft",
-      "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition, Optical Character Recognition), Industry Vertical (Banking, Financial Services, and Insurance (BFSI), Media & Entertainment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2208451/image-recognition-software-market-next-big-thing-major-giants",
-      "originalUrl": "https://www.openpr.com/news/2208451/image-recognition-software-market-next-big-thing-major-giants",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc12730861_g.jpg",
-          "width": 640,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2208451/image-recognition-software-market-next-big-thing-major-giants",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2208451/image-recognition-software-market-next-big-thing-major-giants",
-      "publishedDateTime": "2020-12-12T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system.md",
-      "title": "Privacy advocates poop on UK supermarket’s facial recognition system",
-      "excerpt": "The Southern Co-op supermarket's use of facial recognition to reduce crime has sparked concerns that it could wrongly flag innocent people as criminals.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system/amp/",
-      "publishedDateTime": "2020-12-11T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

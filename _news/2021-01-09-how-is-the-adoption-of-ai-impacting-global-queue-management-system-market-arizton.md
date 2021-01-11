@@ -30,17 +30,6 @@ related:
       name: formtek.com
       domain: formtek.com
     quality: 34
-  - title: "How is the Adoption of AI Impacting Global Queue Management System Market? | Arizton"
-    excerpt: "According to the latest Arizton s market research report the global queue management system market to be valued at around USD 671 million by 2025 growing at a CAGR of close to 6 during the forecast period Global Queue Management"
-    publishedDateTime: 2021-01-07T06:22:00Z
-    webUrl: "https://www.openpr.com/news/2221646/how-is-the-adoption-of-ai-impacting-global-queue-management"
-    ampWebUrl: "https://www.openpr.com/amp/2221646/how-is-the-adoption-of-ai-impacting-global-queue-management"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2221646/how-is-the-adoption-of-ai-impacting-global-queue-management"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
   - title: "2020 Insights into the Geospatial Value-added Services Global Market - IBM’s AI Contributions to the Geospatial Domain - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence Enabling the Global Geospatial Value-added Services Market” report has been added to ResearchAndMarkets.coms"
     publishedDateTime: 2021-01-07T13:33:00Z

@@ -39,6 +39,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "S'pore firm's robot baristas to serve up coffee in Japan"
+    excerpt: "Local start-up Crown Technologies has secured an investment from a subsidiary of East Japan Railway Company, which will boost the deployment of its robot baristas at selected JR East train stations in Japan."
+    publishedDateTime: 2021-01-11T22:30:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/spore-firms-robot-baristas-to-serve-up-coffee-in-japan"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/12/ST_20210112_YTCROWN12_6253102.jpg?itok=_1FU6h9X"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "oVnn9H3nVA+abzfWqbEIvUblex9hB5CAVzJZdgXTjeWjv7KEKt1OaBmb9SsdXPnwpSwpotCbe1OFqk3lXGyzhgyUsw3QWSHVWJ821BG0aVLZlOZfmzYX3CcGgWVqAhJsOlpQq9FkBUZ9I129+fXwAoduZCf39IBqmCqwfQ231GRG4KfMWzw9JRwry/4XRpEqsvAa+EEfQkLCLo3JjLTWmbwjxlft8r4ifb4QjKgRFiApjPBf05qqmCEvcFLPjnbLg8VMLr6mEHS5Zzznx1On7jO57a3IxFvJMnbHxNEOdzJo4k/9wwpwJjiqokyPCJQILg154eAQve5NCj1SkbSmaKEjlyFdPf1cGjRTWrfzVmc=;CRg/gNACWkiiTsGqhELwGg=="
 ---

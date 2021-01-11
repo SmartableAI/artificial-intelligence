@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-11-the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning.md",
+      "title": "The AI-Powered Robot That Learnt Curling Using Adaptive Deep Reinforcement Learning",
+      "excerpt": "Using adaptive reinforcement learning, an AI-powered robot named Curly was able to beat human competitors in three out of four curling matches, a sport that requires strategy and precision. While trained by a simulator,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffbdfdfe032a0b1f7da3deb%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/amp/",
+      "publishedDateTime": "2021-01-10T21:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-intel-launches-facial-recognition-solution-amid-debate-around-the-techs-biases.md",
+      "title": "Intel launches facial recognition solution amid debate around the tech’s biases",
+      "excerpt": "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks",
+      "sourceUrl": null,
+      "webUrl": "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/",
+      "originalUrl": "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/",
+      "cdnAmpWebUrl": "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/",
+      "publishedDateTime": "2021-01-10T20:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaNama",
+        "domain": "medianama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase.md",
+      "title": "Top 25 Machine Learning Startups To Watch In 2021 Based On Crunchbase",
+      "excerpt": "Throughout 2020, venture capital firms continued expanding into new global markets, with London, New York, Tel Aviv, Toronto, Boston, Seattle and Singapore startups receiving increased funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
+      "publishedDateTime": "2021-01-10T20:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-baidu-teams-up-with-geely-to-create-new-self-driving-car-company.md",
       "title": "Baidu teams up with Geely to create new self-driving car company",
       "excerpt": "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table.",
@@ -955,7 +1104,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1029,162 +1178,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-transparent-machine-learning-powers-business-intelligence.md",
-      "title": "Transparent Machine Learning Powers Business Intelligence",
-      "excerpt": "In the current data-driven decision-making world, digital colleagues are becoming more common. That’s why intelligent machines that are transparent about their predictions are a must.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff71955e676e64e9488c102%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/amp/",
-      "publishedDateTime": "2021-01-08T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023.md",
-      "title": "Ai In Computer Vision Market 2020 Insights, Revenue, Price and Gross Margin, Forecast 2023",
-      "excerpt": "The improved computing capabilities of processors are paving the way for the future growth in the AI in computer vision market. The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-google-ai-classifies-baking-recipes-and-explains-its-predictions.md",
-      "title": "Google AI classifies baking recipes and explains its predictions",
-      "excerpt": "One goal of AI researchers is to figure out how to make machine learning models more interpretable so researchers can understand why they make their predictions. Google says this is an improvement",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
-      "originalUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/cakie.jpg",
-          "width": 1280,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/",
-      "publishedDateTime": "2021-01-08T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos.md",
+      "title": "Ever app settles FTC allegations it trained facial recognition tech with users' photos",
+      "excerpt": "The developer of Ever, a photo storage and backup app that shut down in August, settled US Federal Trade Commission allegations that it \"deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "originalUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/r4gbG59o75cofJR_X7DHqvmqZ1E=/1200x630/2021/01/11/ce25c79c-01df-4fb0-9119-68fdc6904237/gettyimages-1199149697.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "publishedDateTime": "2021-01-11T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras.md",
       "title": "Ambarella unveils 8K AI vision processor for car, drone, and robot cameras",
       "excerpt": "Ambarella has unveiled the CV5 AI Vision Processor to handle 8K image processing for car, consumer, crone, and robot cameras.",
@@ -149,6 +201,49 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-intel-launches-facial-recognition-solution-amid-debate-around-the-techs-biases.md",
+      "title": "Intel launches facial recognition solution amid debate around the tech’s biases",
+      "excerpt": "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks",
+      "sourceUrl": null,
+      "webUrl": "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/",
+      "originalUrl": "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/",
+      "cdnAmpWebUrl": "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/",
+      "publishedDateTime": "2021-01-10T20:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaNama",
+        "domain": "medianama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -310,7 +405,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -362,7 +457,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -1341,101 +1436,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-new-york-issues-2-year-moratorium-on-facial-recognition-in-schools.md",
-      "title": "New York issues 2-year moratorium on facial recognition in schools",
-      "excerpt": "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/",
-      "originalUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/12/Facial-Recognition-Schools-New-York.jpg",
-          "width": 3838,
-          "height": 1919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp",
-      "publishedDateTime": "2020-12-23T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-new-york-temporarily-bans-facial-recognition-in-schools.md",
-      "title": "New York temporarily bans facial recognition in schools",
-      "excerpt": "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
-      "originalUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
-      "publishedDateTime": "2020-12-23T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

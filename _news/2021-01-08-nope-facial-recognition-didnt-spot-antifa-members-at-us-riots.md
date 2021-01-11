@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-ga
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Facial recognition technology used to identify alleged rioters"
-    excerpt: "Facial recognition technology is being used to identify those accused of crimes committed at the U.S. Capitol building this week. But it's not perfect."
-    publishedDateTime: 2021-01-09T12:35:00Z
-    webUrl: "https://www.kvue.com/video/tech/facial-recognition-technology-used-to-identify-alleged-rioters/269-7004ac76-6cf4-479b-bb46-f406fe0a2fe3"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 39
-    images:
-      - url: "https://media.kvue.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Were Antifa Members Identified at Capitol Riot with Facial Recognition Software?"
     excerpt: "False rumors on social media were given the appearance of credibility when they were rehashed in a new article."

@@ -54,7 +54,7 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-820943,msid-80219046/.jpg"
         width: 600

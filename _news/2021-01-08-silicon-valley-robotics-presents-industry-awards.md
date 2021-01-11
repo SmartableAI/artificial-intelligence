@@ -3,8 +3,8 @@ category: news
 title: "Silicon Valley Robotics Presents Industry Awards"
 excerpt: "Silicon Valley Robotics, the world’s largest cluster of innovation in robotics, announces the inaugural ‘Good Robot’ Industry Awards, celebrating the robotics, automation and Artificial Intelligence (AI) that will help us solve global challenges."
 publishedDateTime: 2021-01-07T19:51:00Z
-originalUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards"
-webUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards"
+originalUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards?listname=Automation & Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/january-2021/silicon-valley-robotics-presents-industry-awards?listname=Automation & Control News & Articles"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 313
     isCached: true
 
-secured: "f0u9ak9DXjGk7cCTOStyXvkJn6BZ1E/GjO9Wt5lvjzpwIgM4N7+SCzD+XGfT4QKBV+tfdIuuyaYo5Ya2PnP6JJ+LTrB23h1UUyrb3tN1DH3Kd9fPlXzR+BGRvFxpkIgMTNZ9MiLSkdr1piJA2blLZJFEQUlRrzh0lHyqwNe5BRbrMv+laikSs6zCuPfbdany12PKLUsf4kLvX5YGM2IT0JRl0TTLhZIhr0zhCV3q6/MEqz5LlZAJO3Gi6g3TKAXLy464FxHR/H5A/ZHSavO9AL0v7LLHFExoe41FQLOfJEtXa4LlJ+la21A9noXilJH399EuTvJQf18dPSCJw+ZpNfb1QuIjDe0uKzg8mfEw3Tr3Vf2OludikMRAfBE2/dkK+Gfgl+8OKHVQE8B3JXTxs7cSxpiOL9+Q4L1e7EQzlElp2DwRHLJ1+KOfrxL4xXo3Lg1It1RtMcT2Ahd/LBU4ts7muGpmRiK6pI5C+DRgReAs3hEHUUwjAKK1fDw1q/ed7+SqPUxJZWHPcPH7zMI+2w==;apq2w3hJFsKHWl8G2vvbUA=="
+secured: "dCPsCxUbldK3jUQVrW7R6b4ZQ/7JYLfMw65MbiHHsky6U+j05sRI45KBoXGsMUyahh+esQldDNddPW4VILXMZbWLX9cw+wMsWmDRPZkJrum3TXRxKkU+9yLnhlVwAFuLRAdU+iNCdHiSBqVRpfmH8WmYfbgf/mtxJboorFF/8z3FvoPqB6xVLVRl4HzjYxZoVv6oLcSRG8XrNg3ysZMTtt+C/CD5l6VgcZOtSEubm8aCC3X/TW968AGiT56YGCJqTYtbH91hkHd25sQ7iMrICxnWEtX5jCQPN+U4b4AcL9MfIrZCxzlxJnke1haPzEnLETLMBI22UYCqRN8SyvUY6YXAeLnaaKGnUEy6cZi3qSU=;1fylHk2odD8xhSURr6SVMw=="
 ---
 

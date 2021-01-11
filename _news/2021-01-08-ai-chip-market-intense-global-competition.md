@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How is the Adoption of AI Impacting Global Queue Management System Market? | Arizton"
-    excerpt: "According to the latest Arizton s market research report the global queue management system market to be valued at around USD 671 million by 2025 growing at a CAGR of close to 6 during the forecast period Global Queue Management"
-    publishedDateTime: 2021-01-07T06:22:00Z
-    webUrl: "https://www.openpr.com/news/2221646/how-is-the-adoption-of-ai-impacting-global-queue-management"
-    ampWebUrl: "https://www.openpr.com/amp/2221646/how-is-the-adoption-of-ai-impacting-global-queue-management"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2221646/how-is-the-adoption-of-ai-impacting-global-queue-management"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
   - title: "How is the Adoption of AI Impacting Global Queue Management System Market? – Arizton"
     excerpt: "The growth of social media also spurred the emergence of innovative platforms to promote hybrid and online networking which is fueling the growth of the global queue"
     publishedDateTime: 2021-01-08T20:05:00Z

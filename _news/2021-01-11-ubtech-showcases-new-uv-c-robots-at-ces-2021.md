@@ -3,23 +3,23 @@ category: news
 title: "UBTECH Showcases New UV-C Robots at CES 2021"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
 publishedDateTime: 2021-01-11T14:01:00Z
-originalUrl: "https://www.oaoa.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_98769306-0bb9-5cbe-928f-26e3ba800acf.html"
-webUrl: "https://www.oaoa.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_98769306-0bb9-5cbe-928f-26e3ba800acf.html"
+originalUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/7/c1/7c1950d9-b885-5236-a5af-7bd10e7492c9/5ffc610f775d6.image.jpg?resize=1120%2C630"
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
     width: 1120
     height: 630
     isCached: true
@@ -119,6 +119,15 @@ related:
       name: Adelaide Now
       domain: adelaidenow.com.au
     quality: 22
+  - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T21:39:00Z
+    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 15
   - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
     excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
     publishedDateTime: 2021-01-11T08:43:00Z
@@ -129,6 +138,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "awsdinCbtjH+E5ZAcskguxfk49XYpb5BTK5rqeZGjgrweE4FfLe6bwxQuQgQ+IWE6GtfbP95Axf32toczSts82kczJpxTeH/40f6MC4Lgd6Wbr2YVUM54PixPT2oLGSZ9hdZQggGWESlO9Gishh9OtMBeR51MGBzE9ec95kWW7IxJ9K1y1HWz7QoZr2Jjn3QMql1Mk2oCPWH6esBsz05WLSamlJS/Po0FPktzHtcTwkDQnSMROsn1yaneyK7fyqpZMwx3/EhENJR4R2hKGxzmBep/I95aZ7NZ2nTNYK0nR/dV8irVPmmZQClpC8tre3qBe7RiEFnArGrpWNfnyHdTo873bo4Y20ax+ZEtkC60Rs=;GfchhQVfMTZ0FEr+mRXoVA=="
+secured: "T2DeJ8qL1oBZhcRTjQUY6ggkFHMcWd02NINkqVxRw2N3QgVforhRJg+DRmr/gl75Sbn7uMvuBqSuTb+qeDLmDdRPDC3siSGuh1cNDm1WjWiCrg4mh9ernee6LyskQI1RsoYPQkPkN3ABI3Kdk6mQCoW6FSWvQY4O+QsiYjrlWwwu/6HOXFAAvbCIWFt1c2PvfDFpBHAFsxkVfhMkZ1BbDbk5mmKxVbrlNe4D9N7r3FPw+6XaDIMFegSZu5rujElbmJ3nRmIXriEJYYH+uJuxzM3cPh6RErlBnJAIy8/Af9VbjJCgbgsGbxnDkTU8SawS6uAHNnFU+2O9mep3wOScuTM5cv/I9aHKku/9Ho4n2+0=;TKQ4u+KtSSUZq/KwmL+5Cw=="
 ---
 

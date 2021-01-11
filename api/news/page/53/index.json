@@ -2,6 +2,135 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-11-26-weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows.md",
+      "title": "WeRide robotaxis gain loyal passengers but fixed pick-up, drop-off spots irk some, survey shows",
+      "excerpt": "Major self-driving companies, including Baidu, ride-hailing giant Didi Chuxing and start-up AutoX have all launched robotaxi services in different cities across the country. Autonomous driving is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/26/weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/26/weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/11/26/950956.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T22:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-misinformation-or-artifact-why-do-neural-networks-mess-up.md",
+      "title": "Misinformation or Artifact: Why Do Neural Networks Mess Up?",
+      "excerpt": "Neural networks can produce incredibly gains in speech and efficiency, but can also make simplistic mistake. A new study suggests that common assumptions about the cause behind these supposed malfunctions may be mistaken,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/cancer-research/news/misinformation-or-artifact-why-do-neural-networks-mess-up-343174",
+      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/misinformation-or-artifact-why-do-neural-networks-mess-up-343174",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/misinformation-or-artifact-why-do-neural-networks-mess-up-343174.jpg?v=10992130",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174",
+      "publishedDateTime": "2020-11-25T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-digital-health-smart-inhalers.md",
+      "title": "Digital Health: Smart Inhalers",
+      "excerpt": "The extensive scope of digital health encompasses technologies such as mobile health (mHealth) apps, artificial intelligence (AI)-enabled medical ... Traditional inhalers have long been the mainstay of therapy for patients with chronic respiratory diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmacytimes.com/news/digital-health-smart-inhalers",
+      "originalUrl": "https://www.pharmacytimes.com/news/digital-health-smart-inhalers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmacytimes.s3.amazonaws.com/uploadedmedia/images/2020-11-20_AdobeStock_126613568-644px.jpg",
+          "width": 644,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T13:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pharmacy Times",
+        "domain": "pharmacytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-researchers-taught-ai-how-to-judge-a-video-game-by-its-cover.md",
       "title": "Researchers taught AI how to judge a video game by its cover",
       "excerpt": "Have you ever seen the promo art or box cover for a video game and thought “what the hell is this even about?” Well, wonder no more. A pair of researchers have combined cutting-edge image recognition and natural language processing to create an AI system for video game genre classification.",
@@ -1016,152 +1145,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-system-discovers-useful-new-material.md",
-      "title": "AI system discovers useful new material",
-      "excerpt": "AI system discovers useful new material CAMEO algorithm identifies new compound potentially useful for photonic devices and biologically inspired computers Date: November 24, 2020 Source: National ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201124092150.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201124092150.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-amazon-forecast-now-supports-accuracy-measurements-for-individual-items.md",
-      "title": "Amazon Forecast now supports accuracy measurements for individual items",
-      "excerpt": "We’re excited to announce that you can now measure the accuracy of forecasts for individual items in Amazon Forecast, allowing you to better understand your forecasting model’s performance for the items that most impact your business. Improving forecast accuracy for specific items—such as those with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-now-supports-accuracy-measurements-for-individual-items/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-now-supports-accuracy-measurements-for-individual-items/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/Cropped.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T17:38:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-amazon-lex-launches-support-for-latin-american-spanish-and-german.md",
-      "title": "Amazon Lex launches support for Latin American Spanish and German",
-      "excerpt": "&iexcl;Amazon Lex lanza soporte para espa&ntilde;ol para Am&eacute;rica Latina! Amazon Lex startet auf Deutsch! Amazon Lex is a service for building conversational interfaces into any application using voice and text. Starting today, Amazon Lex supports Latin American Spanish and German. Now you can",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/LexLanguage_DE.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T17:32:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

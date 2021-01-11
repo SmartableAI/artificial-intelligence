@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-08-transparent-machine-learning-powers-business-intelligence.md",
+      "title": "Transparent Machine Learning Powers Business Intelligence",
+      "excerpt": "In the current data-driven decision-making world, digital colleagues are becoming more common. That’s why intelligent machines that are transparent about their predictions are a must.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff71955e676e64e9488c102%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/amp/",
+      "publishedDateTime": "2021-01-08T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023.md",
+      "title": "Ai In Computer Vision Market 2020 Insights, Revenue, Price and Gross Margin, Forecast 2023",
+      "excerpt": "The improved computing capabilities of processors are paving the way for the future growth in the AI in computer vision market. The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-google-ai-classifies-baking-recipes-and-explains-its-predictions.md",
+      "title": "Google AI classifies baking recipes and explains its predictions",
+      "excerpt": "One goal of AI researchers is to figure out how to make machine learning models more interpretable so researchers can understand why they make their predictions. Google says this is an improvement",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
+      "originalUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/cakie.jpg",
+          "width": 1280,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/",
+      "publishedDateTime": "2021-01-08T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-updated-amp-robotics-raises-55m-in-financing.md",
       "title": "Updated: Amp Robotics raises $55M in financing",
       "excerpt": "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors.",
@@ -148,7 +304,7 @@
       "originalUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1032,154 +1188,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
-      "title": "EV Dreams Power Baidu but May Not Last",
-      "excerpt": "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "originalUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-281927/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "publishedDateTime": "2021-01-07T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-masks-no-obstacle-for-new-nec-facial-recognition-system.md",
-      "title": "Masks no obstacle for new NEC facial recognition system",
-      "excerpt": "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW",
-          "width": 743,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ",
-      "publishedDateTime": "2021-01-07T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-explained-how-does-facebooks-ai-tool-for-suicide-prevention-work.md",
-      "title": "Explained | How does Facebook’s AI tool for suicide prevention work?",
-      "excerpt": "Along with its community operations team, the social media giant has an AI tool that picks up phrases or words that signal distress or trouble in posts as well as comments to alert authorities or get help to the person.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/11/Facebook_nov30-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
-      "publishedDateTime": "2021-01-07T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

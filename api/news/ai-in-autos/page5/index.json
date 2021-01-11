@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-07-fords-autonomous-cars-are-delivering-fresh-produce-in-miami.md",
+      "title": "Ford's autonomous cars are delivering fresh produce in Miami",
+      "excerpt": "Ford and Argo AI have launched a pilot that uses self-driving cars to deliver fresh produce to Miami-area students learning at home during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "originalUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F4b10add0-389c-11eb-b7d7-58c367381a24&client=amp-blogside-v2&signature=24c8c350119fc36ad9047a5f18cf73643e230d9b",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "publishedDateTime": "2020-12-07T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal.md",
       "title": "Amazon’s self-driving Zoox vehicle spotted ahead of next week’s reveal",
       "excerpt": "The first vehicle from Amazon-owned self-driving startup Zoox has been spotted on the streets of San Francisco ahead of its reveal next week.",
@@ -1341,58 +1393,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-tesla-could-widen-release-of-self-driving-software-in-two-weeks.md",
-      "title": "Tesla could widen release of 'self-driving' software in two weeks",
-      "excerpt": "(Reuters) - Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053",
-      "originalUrl": "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032",
-          "width": 716,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN288053",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053",
-      "publishedDateTime": "2020-11-27T19:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

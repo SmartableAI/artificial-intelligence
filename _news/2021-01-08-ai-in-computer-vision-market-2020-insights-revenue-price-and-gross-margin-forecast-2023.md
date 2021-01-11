@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08"
 type: article
 quality: 74
-heat: 274
+heat: 294
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Ai In Workspace Market Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2023"
+    excerpt: "The Telecommunication and IT vertical has the highest market share among the other verticals in this market. This is followed by BFSI, Retail and Manufacturing Kenneth Research has recently added a market research study on Artificial Intelligence (AI) in Workspace Market 2023 which provides a complete comprehensive analysis including the data by Segmentations,"
+    publishedDateTime: 2021-01-11T22:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-workspace-market-share-growing-rapidly-with-recent-trends-development-revenue-demand-and-forecast-to-2023-2021-01-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Report Size & Share Global Industry, COVID-19 Impact, Trends and Forecast 2020-2026"
     excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, The Artificial Intelligence Market is estimated to record a significant growth throughout the forecast period."
     publishedDateTime: 2021-01-08T08:46:00Z
@@ -229,6 +243,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Manufacturing Market Share 2021 Analysis, Revenue, Price, Market Size, Trends, Top Manufacturers, Growth Rate, Forecast by 2025"
+    excerpt: "Top Key Manufacturers in Machine Learning in Manufacturing Market Report: This report elaborates the market size, characteristics, and market growth factor of the Machine Learning in Manufacturing industry,"
+    publishedDateTime: 2021-01-11T22:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-share-2021-analysis-revenue-price-market-size-trends-top-manufacturers-growth-rate-forecast-by-2025-2021-01-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

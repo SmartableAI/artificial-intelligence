@@ -70,14 +70,14 @@ related:
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-11T14:01:00Z
-    webUrl: "https://www.oaoa.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_98769306-0bb9-5cbe-928f-26e3ba800acf.html"
+    webUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/7/c1/7c1950d9-b885-5236-a5af-7bd10e7492c9/5ffc610f775d6.image.jpg?resize=1120%2C630"
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
         isCached: true
@@ -127,6 +127,15 @@ related:
       name: Adelaide Now
       domain: adelaidenow.com.au
     quality: 22
+  - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T21:39:00Z
+    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 15
 
 secured: "BMgDqjhUwCMyF64ukgT3iqb5EQN/r9grGhG6RdqQv+BbnpWaAItdh8HMNO/8qyGAiipYrPKR6oj4BOQ0ggg+/k3eAqdC4U5W9ko/znUvH9YhzexlglpVdnWmsSMtiY9KHhsYW8opkIYqF71N5adXu/9SJ6yKjsxL41KgneriA3K/poxFBqStat5ciOg0R3+NONGtgQS0YLto9vOXn9OsYljRHsMpMEm/4ugshJDz5LUn8hncp/2Muz0UDDdS8KBJinnw1Y7sEvENUn3ViQQRcZjX1mkXbSEWO5fmbLFsfdqXdKlAfSyds+ZP54vtijSrBCCu7MWl9SxDUNWMWpJ6US1paBDVgjZlW1m8gSxGKqY=;bNwVNUNutzYSNfG3+uBoEA=="
 ---

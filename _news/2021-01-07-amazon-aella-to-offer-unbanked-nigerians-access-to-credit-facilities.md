@@ -24,19 +24,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "Tech firms to empower underbanked individuals"
-    excerpt: "Temiloluwa O’Peters Fintech company, Aella App, is working with Amazon Web Services, Inc. to empower underbanked individuals to have quicker access to credit and other financial services, using"
-    publishedDateTime: 2021-01-07T05:06:00Z
-    webUrl: "https://punchng.com/tech-firms-to-empower-underbanked-individuals/"
-    ampWebUrl: "https://punchng.com/tech-firms-to-empower-underbanked-individuals/?amp=1"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/tech-firms-to-empower-underbanked-individuals/?amp=1"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 24
-
 secured: "sT9jVc+fhD12TSdPUOBNhJRFSppzX4HWP4s+h1Kcbo6Z3VZkuncAHZ7gthXq4d6Di8T4aQrTeTsuygmdWlbo5IF8MmAHzJeDvB2ALG9Lhok6lPJ4xBdKkbbLsyfGQ9FLKOsGXurBjvmklQ7v0JAuVnZ4UVF2WBYdmZ3uPYj1cadUn5319hiN8k+6SnNHlkxZSZcia/QC7GbJvwoaj08V1Yb5UAY5dO9knwiWYBDyloU74xLeosgpfK+XV/s9cv8FuHVJXjc7ANBxgloFfPOFLG5Q/RPHwPAgE0Sd+CwX+c1J0hYBX5yAPP4wxhn81xgLqoV2+OT2DwrwT3GbpHI5UuBFZZFFWwM47dF2UqUPmGJBNYquSxofqo++L1vKn7MCq8Fc0iOrYV7J6i+zIua7HGgBq5eRsDRF38mUiTuEfMA/1hvEpGLovJ+cZZe9r8znMUXEgxhysgcwxTyAhCu2aoJT/+OBrjIRMnjta9s2cURDyH1TDec/Gyb5k+jr7CPy8WK8l5AMY+nZyhpu0GTARg==;K7+cz26kI3o8ovgnUQaeXw=="
 ---
 

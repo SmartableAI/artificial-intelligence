@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-self-driving-truck-company-kodiak-robotics-hauls-in-honor-at-ces-after-reaching-texas-milestone.md",
+      "title": "Self-driving truck company Kodiak Robotics hauls in honor at CES after reaching Texas milestone",
+      "excerpt": "The company completed two 800-mile roundtrip commercial shipments in December between Dallas and Houston relying only on Kodiak’s autonomous driving system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/",
+      "originalUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Pu_zi9B6UUK8EDHBMq5USWEQgSk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/B2EZVYMUTBHWBITYJZWEAB7WR4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/?outputType=amp",
+      "publishedDateTime": "2021-01-11T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera.md",
       "title": "Samsung's JetBot 90 AI+ Robot Vacuum Doubles as a Roving Security Camera",
       "excerpt": "The JetBot 90 AI+ works with the Samsung SmartThings app to let you access its integrated camera and keep an eye on your home from wherever you are.",
@@ -497,7 +541,7 @@
       "originalUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1301,49 +1345,6 @@
         "name": "iottechnews.com",
         "domain": "iottechnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-amp-robotics-raises-55m-for-its-ai-based-recycling-robot.md",
-      "title": "AMP Robotics raises $55M for its AI-based recycling robot",
-      "excerpt": "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp",
-      "publishedDateTime": "2021-01-04T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
