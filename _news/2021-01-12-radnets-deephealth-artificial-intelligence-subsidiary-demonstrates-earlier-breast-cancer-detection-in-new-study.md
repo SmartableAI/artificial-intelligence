@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-11T16:15:00Z
 originalUrl: "https://www.nasdaq.com/press-release/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast"
 webUrl: "https://www.nasdaq.com/press-release/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Mammography expert finds deep-learning artificial intelligence may improve cancer detection"

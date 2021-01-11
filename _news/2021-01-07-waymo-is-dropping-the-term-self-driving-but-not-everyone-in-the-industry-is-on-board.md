@@ -77,17 +77,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
-    excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."
-    publishedDateTime: 2021-01-07T04:12:00Z
-    webUrl: "https://www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 84
   - title: "Apple's 'Tesla killer' self-driving car is at least 5 years away, according to a new report"
     excerpt: "For years, rumors of Apple's self-driving car have swirled — but the latest report says it's still at least five years from its big debut."
     publishedDateTime: 2021-01-08T04:55:00Z

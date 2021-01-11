@@ -2,17 +2,17 @@
 category: news
 title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
 excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
-publishedDateTime: 2021-01-11T18:05:00Z
-originalUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
-webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+publishedDateTime: 2021-01-11T19:27:00Z
+originalUrl: "https://www.adelaidenow.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+webUrl: "https://www.adelaidenow.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: The Daily Telegraph
-  domain: dailytelegraph.com.au
+  name: Adelaide Now
+  domain: adelaidenow.com.au
 
 topics:
   - AI in Robotics
@@ -51,17 +51,6 @@ related:
         width: 412
         height: 255
         isCached: true
-  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
-    excerpt: "Seoul/New Delhi, Jan 11 (IANS) Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show. Under the ..."
-    publishedDateTime: 2021-01-11T14:49:00Z
-    webUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
-    ampWebUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
   - title: "Samsung unveils home robot that does the dishes at CES 2021 – latest updates"
     excerpt: "Samsung has showed off a robotic waiter and butler that can pour you wine and do the washing up. Bot Handy was briefly on display as part of Samsung's presentation at the Consumer Electronics Show in Las Vegas."
     publishedDateTime: 2021-01-11T18:06:00Z
@@ -78,31 +67,17 @@ related:
         width: 690
         height: 431
         isCached: true
-  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
-    excerpt: "Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show."
-    publishedDateTime: 2021-01-11T18:33:00Z
-    webUrl: "https://www.imdb.com/news/ni63153935/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 56
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-11T14:01:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
+    webUrl: "https://www.oaoa.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_98769306-0bb9-5cbe-928f-26e3ba800acf.html"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/7/c1/7c1950d9-b885-5236-a5af-7bd10e7492c9/5ffc610f775d6.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
         isCached: true
@@ -153,6 +128,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "KdFv+GjW5L/oORrV4bYGu+lOh13IF0R6PYC7ZnYJLTCosa737m1U0KQbPWHPGuFfoYqX+Zq8AeX9PDYUW04lPpxwSrhl2jS1t5QGei1En3tJqd07RpbwQijW3hjn1N2FSS4eDJN1GyJZ9AksBkev4vbwLuij6ByYjALc2PQ21q0QDhKwjF1edhhExuE/2WLDyqWv6rnLjgsg5T7cRhiHcvqslUHEMFhNmvGp0I87ZYLTm6OwFlXJgKHIr6rMT1qQRnWBiEcF16UaIzFsraar9pLoc5AvfMcOggmM5xg8VSdNxG8g4IfSX1CskO+IhVV1amm0t4Y/48eWBRCuC9k1iI1LL3j9gxzU9YN6AgcR7iR/SF8ltKxinFVPKQElNh3hEn7ANN14dMKlxQ93gb4Wr7dHoeizhEvae9ane7Qi92wGEy1glAYiK6dveHt2wIbv5JQbE/le7A0T0eeHdcyvb+iOhJIIhx7hBdiDjQ0AqncGQ0iAH5SF7RWVt82eFkqg7kvGO/kHtx418L9n7UTxwg==;BLiCAbkDtgPazuWfQaJgsA=="
+secured: "9yIIuNrc4fCXQW2R8X7SqsDyG1AqakoBkDEPHR70LENarXgHyDEplZB+Vsff/EoE+a7j9sZX2wU7UFpEbPs2ALwU/sPN+ul+KBX/cXcoCjZV/tL1MmQr1Yg3XNWLQVdKuldMFKJbhMdr4dRNDYLce9ZNf5+dU1XmxRmJ9y0B9kNT73kdy0ssMzuvIvutZx6dOYctja58Df+R0XMlULedpjcRoVbp/O0aU87qkviNyG92QX83cA12JZhYEk5AsStIeyOa9Y08y/ii90lWPT75n6XfIixa8dEHs+yyAO/yZ4pZflOu1YskmMumKLMPbcz71O/KgS5XKLOReoJ/+VaOjATumH/ArrM9EwJQmzki9P6YKin1sLlMO/dxS/vNh9xO9Z5KFjO3KdinB6J/waD0V8socPsOB5IMA97YzqD4Japd72Deuv0qvQ5+E5z6+Zz2kXsZel0zO9UbBYlf8eA0O/LczdAnP/JPw8bo/9Vxg5JvlZcC3LnU4M1dErMINuTK3Sl3dpPnhB7fdCv9VDLxOg==;qrVgwB3/lgnDEtctRQ6oRg=="
 ---
 

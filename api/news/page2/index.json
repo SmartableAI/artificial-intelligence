@@ -2,15 +2,293 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-10-the-edge-what-does-it-mean-for-ai-artificial-ingelligence.md",
-      "title": "The Edge: What Does It Mean For AI (Artificial Ingelligence)?",
-      "excerpt": "Currently AI training produces vast volumes of data that are almost exclusively implemented and stored in the cloud,” said Flavio Bonomi, who is the board advisor to Lynx Software. “But by placing compute at the edge,",
+      "path": "_news/2021-01-11-baidu-teams-up-with-geely-to-create-new-self-driving-car-company.md",
+      "title": "Baidu teams up with Geely to create new self-driving car company",
+      "excerpt": "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
+      "publishedDateTime": "2021-01-10T19:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-police-use-of-clearview-ais-facial-recognition-tech-spiked-after-capitol-raid.md",
+      "title": "Police Use of Clearview AI's Facial Recognition Tech Spiked After Capitol Raid",
+      "excerpt": "Clearview AI’s controversial facial-recognition app has seen a spike in use as police track down the pro-Trump insurgents who descended on the Capitol on Wednesday. With so many of those idiots snapping selfies and livestreaming the raid as if it was a school field trip,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687",
+      "originalUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lk5ifyehxrqpzqqo03oe.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp",
+      "publishedDateTime": "2021-01-10T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-neural-networks-playing-video-games-teach-us-about-our-own-brains.md",
+      "title": "Neural Networks Playing Video Games Teach Us About Our Own Brains",
+      "excerpt": "When you are driving a car, your brain is taking in an enormous amount of visual information and using it to make driving decisions, such as when to brake",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/",
+      "originalUrl": "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2021/01/AI-VideoGames-03-WEB.width-600.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/amp/",
+      "publishedDateTime": "2021-01-10T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-abu-dhabi-university-students-win-ega-grant-to-build-ai-powered-drones-and-robots.md",
+      "title": "Abu Dhabi University Students Win EGA Grant To Build AI-Powered Drones and Robots",
+      "excerpt": "Abu Dhabi University (ADU) has announced that Emirates Global Aluminum (EGA) has awarded an AED 150,000 grant to three proposals put forth by ADU Electr",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
+      "originalUrl": "https://www.albawaba.com/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/Project%202.jpeg?itok=Dgc7h8g-",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
+      "publishedDateTime": "2021-01-10T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai.md",
+      "title": "Young and fearless: Startups enter global race for space, robotics and AI",
+      "excerpt": "While overseas global corporations such as Elon Musk‘s Space X, are leading to charge to turn the stuff of science fiction into reality, in South Korea, the brave companies eyeing the",
+      "sourceUrl": null,
+      "webUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai",
+      "originalUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://business.inquirer.net/files/2021/01/20210107000667_0-620x465.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai/amp",
+      "cdnAmpWebUrl": "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai/amp",
+      "publishedDateTime": "2021-01-09T22:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-top-cloud-providers-in-2021-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
+      "title": "Top cloud providers in 2021: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
+      "excerpt": "Cloud computing in 2021 has become the de facto choice of IT due to digital transformation shifts accelerated by remote work and the COVID-19 pandemic. Here's a look the cloud leaders stack up, the hybrid market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "originalUrl": "https://www.zdnet.com/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg",
+          "width": 1600,
+          "height": 1068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "publishedDateTime": "2021-01-09T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-the-edge-what-does-it-mean-for-artificial-intelligence.md",
+      "title": "The Edge: What Does It Mean For Artificial Intelligence?",
+      "excerpt": "What Can Be Done At The Edge The most notable use case for the edge and AI is the self-driving car. The complexities are mind boggling, which is why the development of this technology has taken so long.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/01/09/the-edge-what-does-it-mean-for-ai-artificial-ingelligence/",
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/01/09/the-edge-what-does-it-mean-for-ai-artificial-ingelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -49,6 +327,7 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -458,7 +737,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -906,299 +1185,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-updated-amp-robotics-raises-55m-in-financing.md",
-      "title": "Updated: Amp Robotics raises $55M in financing",
-      "excerpt": "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/",
-      "originalUrl": "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop",
-          "width": 736,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Recycling Today",
-        "domain": "recyclingtoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms.md",
-      "title": "To make AI a success, every child needs to understand the risk and potential of algorithms",
-      "excerpt": "According to the AI Council, the biggest barrier to AI deployment is skills - and it starts as early as school.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "originalUrl": "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/13/1d2488f7-7d90-4718-9183-a7ba6a3e36b1/thumbnail/1200x675/3a290ad3c2420e8d73f71b23f5d76141/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "publishedDateTime": "2021-01-08T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum.md",
-      "title": "Firstlight Media, Microsoft Azure to power new streaming venture Struum",
-      "excerpt": "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum",
-      "originalUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/01/struum.jpg",
-          "width": 681,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp",
-      "publishedDateTime": "2021-01-08T02:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-meet-the-robots-taking-the-virtual-stage-at-ces-2021.md",
-      "title": "Meet the robots taking the virtual stage at CES 2021",
-      "excerpt": "This year's all-digital CES is going to be a tough one for everyone involved, but it may be even harder if you're a robot. Robots can pique people's interest via the written word or videos, but there's nothing like showing people what you can do in person to really make a good first impression.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
-      "originalUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/ZebjbmPSplDAGHsK9spL4tKz2bw=/1200x630/2021/01/04/e3a5f50a-cfd6-4c14-a479-cd5b4e3961f4/1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
-      "publishedDateTime": "2021-01-07T22:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-google-ai-concocts-breakie-and-cakie-hybrid-baked-goods.md",
-      "title": "Google AI concocts ‘breakie’ and ‘cakie’ hybrid baked goods",
-      "excerpt": "If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/",
-      "originalUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/cakie.jpg?w=1024",
-          "width": 1024,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/",
-      "publishedDateTime": "2021-01-07T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-top-consumer-ideas-to-start-off-2021.md",
-      "title": "Top Consumer Ideas To Start Off 2021",
-      "excerpt": "Our top consumer ideas for January as we enter 2021. As we exit the political season and with the Covid-19 vaccine in front of us, we go in-depth on our favorite consumer stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff791628b012174845f5771%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D60%26cropY2%3D1185",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/amp/",
-      "publishedDateTime": "2021-01-07T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

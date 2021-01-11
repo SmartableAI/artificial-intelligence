@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung's JetBot 90 AI+ Robot Vacuum Doubles as a Roving Security Camera"
+    excerpt: "The JetBot 90 AI+ works with the Samsung SmartThings app to let you access its integrated camera and keep an eye on your home from wherever you are."
+    publishedDateTime: 2021-01-11T20:42:00Z
+    webUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 100
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/s/samsungs-j/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-secur_k312.1200.jpg"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Samsung's Newest Robovac Is an AI-Powered Poop Scout"
     excerpt: "While it won't clean up pet poop, Samsung's newest robovac should at least know enough to avoid it in order to prevent making a bigger mess."
     publishedDateTime: 2021-01-11T19:00:00Z
@@ -59,22 +73,6 @@ related:
         width: 920
         height: 470
         isCached: true
-  - title: "Samsung's new washers and dryers use AI to clean your clothes more efficiently"
-    excerpt: "Samsung announced a new series of front-load washers and dryers that use artificial intelligence to reduce the time it takes to clean your clothes. The new models are part of the Samsung 8800 Series that sit near the top of the 2021 range and will be the only models to use the new AI-powered Optiwash mode."
-    publishedDateTime: 2021-01-11T14:00:00Z
-    webUrl: "https://www.techradar.com/au/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 83
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/H7pBB2544H9wYUgHdQ8zeW-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "CES 2021: Samsung unveils upgraded robots, AI-based solutions"
     excerpt: "Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show."
     publishedDateTime: 2021-01-11T16:34:00Z
@@ -90,22 +88,6 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/01/samsung-store-1593705143-1610382756.jpg"
         width: 715
         height: 402
-        isCached: true
-  - title: "Samsung reveals smarter Family Hub fridge and a robo-vac that thinks it’s a guard dog"
-    excerpt: "Samsung’s big Galaxy S21 launch may be coming later this week, but it’s home appliances which are getting their moment in the spotlight today. Fresh for CES 2021 are updates in the"
-    publishedDateTime: 2021-01-11T14:00:00Z
-    webUrl: "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/"
-    ampWebUrl: "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 67
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/samsung-ces-2021-home-appliances-1.jpg"
-        width: 1680
-        height: 1050
         isCached: true
   - title: "Samsung’s Newest Robovac Is an AI-Powered Poop Scout"
     excerpt: "In a perfect world, your robovac would be able to recognise pet poop and automatically clean it up without you ever knowing. Current technology hasn’t gotten there yet, Samsung’s JetBot 90 A.I.+ robovac attempts to do the next best thing."
@@ -123,21 +105,90 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Samsung unveils trio of new robots to help out around the house"
-    excerpt: "Samsung has unveiled a range of new robots designed to help out around the home – capable of filling the dishwasher and even pouring owners a glass of wine."
-    publishedDateTime: 2021-01-11T18:09:00Z
-    webUrl: "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/"
-    ampWebUrl: "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/"
-    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/"
+  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
+    excerpt: "Seoul/New Delhi, Jan 11 (IANS) Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show. Under the ..."
+    publishedDateTime: 2021-01-11T14:49:00Z
+    webUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
+    ampWebUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
     type: article
     provider:
-      name: Evening Express
-      domain: eveningexpress.co.uk
-    quality: 59
+      name: Sify.com
+      domain: sify.com
+    quality: 56
+  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
+    excerpt: "Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show."
+    publishedDateTime: 2021-01-11T18:33:00Z
+    webUrl: "https://www.imdb.com/news/ni63153935/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 56
     images:
-      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/368c9412-3124-4fa6-809a-468ee7adf1ff-scaled.jpg"
-        width: 2560
-        height: 1920
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "Samsung's smart home announcements include a robot with a big arm and a vacuum with LiDAR"
+    excerpt: "Samsung is one of the largest makers of smart home products, all connected through the company's SmartThings platform. Samsung has plenty to show off"
+    publishedDateTime: 2021-01-11T16:04:00Z
+    webUrl: "https://www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/"
+    ampWebUrl: "https://www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/?amp"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/?amp"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 52
+    images:
+      - url: "https://www.androidpolice.com/wp-content/uploads/2021/01/11/CES-2021_Samsung-Press-Conference_Bringing-AI-and-Robots-to-Daily-Life.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Samsung showcases two futuristic home robots, also announces JetBot 90 AI+ vacuum cleaner & SmartThings Cooking"
+    excerpt: "Samsung is one of the world’s largest electronics companies. The firm sells a wide variety of products across the world. Like any other tech giant, it has also announced certain cutting-edge home products at the virtual CES 2021 trade show."
+    publishedDateTime: 2021-01-11T18:48:00Z
+    webUrl: "https://www.gizmochina.com/2021/01/11/samsung-jetbot-90-ai-bot-care-handy-smartthings-cooking-ces-2021/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/Samsung-Bot-Handy-CES-2021-Featured.jpg"
+        width: 1726
+        height: 1151
+        isCached: true
+  - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars"
+    excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."
+    publishedDateTime: 2021-01-11T19:21:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9135279/amp/Samsung-unveils-AI-powered-robot-vacuum-CES-uses-sensors-self-driving-cars.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/01/11/18/37875880-0-image-a-5_1610389993945.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars to navigate around objects like tables and pet poop"
+    excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."
+    publishedDateTime: 2021-01-11T19:23:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9135279/Samsung-unveils-AI-powered-robot-vacuum-CES-uses-sensors-self-driving-cars.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9135279/amp/Samsung-unveils-AI-powered-robot-vacuum-CES-uses-sensors-self-driving-cars.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9135279/amp/Samsung-unveils-AI-powered-robot-vacuum-CES-uses-sensors-self-driving-cars.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 38
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/01/11/18/37875880-0-image-a-5_1610389993945.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "VGvVYk0yEr1nRjvsPBJ+DPalogye7rrii3wt75qzuk9IaQl8cPP26XI3dlgQOUQ9staCDVPwGKj4KyhUyVPSKnkv8BN9eeqVcDMdZfPwDM3PzP0FHEVLgd0huAMm1QAZ+G96yG2Gd4NRheDgYwTzzemgdzbCG7LYEoCy0h2X7lo5F61/1OBRdmwa+AJQGQTRfyseFEMgRh/YyBINcz/+VYzkdaspX9/GafOACf9VnwJ1DsiajoUiFH2en7OPgRbBxx4tziZdefq+jp7CdN1vrhYI8d3BT+Y3Ga6n+MBx00h/Zx6zqi9lLmDx1PeXGuoqt99EFX12SdwJeXv76lxszs/w5TQL2n3rfR2YIK0I+X8=;n7SOmb7YQkL2NLzEVqOwgg=="

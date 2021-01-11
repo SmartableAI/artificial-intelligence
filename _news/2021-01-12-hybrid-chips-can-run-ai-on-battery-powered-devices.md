@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Hybrid chips can run AI on battery-powered devices"
-excerpt: "Smartwatches and other battery-powered electronics would be even smarter if they could run AI algorithms. But efforts to build AI-capable chips for mobile"
-publishedDateTime: 2021-01-11T17:45:00Z
-originalUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/"
-webUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/"
-ampWebUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
-cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
+excerpt: "In traditional electronics, separate chips process and store data, wasting energy as they toss data back and forth over what engineers call a “memory wall.” New algorithms combine several energy-efficient hybrid chips to create the illusion of one mega–AI chip."
+publishedDateTime: 2021-01-11T20:39:00Z
+originalUrl: "https://news.stanford.edu/today/teaser/hybrid-chips-can-run-ai-battery-powered-devices/"
+webUrl: "https://news.stanford.edu/today/teaser/hybrid-chips-can-run-ai-battery-powered-devices/"
 type: article
-quality: 74
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: ScienceBlog
-  domain: scienceblog.com
+  name: Stanford News
+  domain: stanford.edu
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://scienceblog.com/wp-content/uploads/2021/01/Illusion-art-960x640-1.jpg"
-    width: 960
-    height: 640
+  - url: "https://news-media.stanford.edu/wp-content/uploads/sites/3/2021/01/08141905/Illusion-art.jpg"
+    width: 1419
+    height: 946
     isCached: true
 
 related:
@@ -44,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "pTyyPaA47Ci+hLLjXGpSQg0LEoVIqYAyFDOS224IXWsohflKn/WdYfCxBS7SRVVlCR8w2/rFfHQikqwRQeBa6Xb8UZgxXQSkngWeHV8rOKpN3Wt3NKX4Jyc1+b+JJ/+FOqpuqjKz7mZtY5GKlEIg2iKvDWCi8EPoOybiq16rIzy/B5KU0IrVp4TEGe1F8dt1e6c63tD7OyP3/BP/uS4pwAu7Ejd908bNhLJXN699ylLlwahQTVUSi5QgcbvGIfkjjbHHPXIgkoFo236TgMNUTHfGVTdsLXBz049h1+KLXgm6aIguJRtWgeF8xF1S44IJFyefLesFam6tt3UJifnuPLRW88tWxN+IQfoIb0nHoV4=;baU7+tjhwXTEqFi/sJP7Gw=="
+secured: "PXSlt3T0QJK2DRymvATxvflVTWYipqX7oJfKmUxCD7DC4dg/9/i47LK+UGGhwk3l/0Zu3/n5N/DNZUeHITwmdiMnGwe8Klf8A0HPQ+WGnTUq3z6WsWR5psIvTPMNqu/pkICAsS5/X4fSj0iZymvd5THPU/KNQw06mFEfv2qtUCxxw5kFOfPN/pkATMgTPKylFMhJaJjsg0rDbF7zbxjwJk6sjL8bFKWXUxFnoQi6w6pBzvEQ0Lbzytg92yaxN8LtKokHVG/YsfOQoilEd2q0DdR5OH0nGPmQrt4X4SINr50o0H22JeIr+moI/vDXDSwm+vYuaQVJ5MAB6DV6eYN+67BhnkB//0EfOqjLS07MNtM=;Zs3rnZrycmbG9tukkywgxA=="
 ---
 

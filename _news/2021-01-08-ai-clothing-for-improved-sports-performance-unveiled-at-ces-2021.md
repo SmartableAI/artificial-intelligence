@@ -56,17 +56,6 @@ related:
         width: 412
         height: 255
         isCached: true
-  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
-    excerpt: "Seoul/New Delhi, Jan 11 (IANS) Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show. Under the ..."
-    publishedDateTime: 2021-01-11T14:49:00Z
-    webUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
-    ampWebUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
   - title: "Samsung unveils home robot that does the dishes at CES 2021 – latest updates"
     excerpt: "Samsung has showed off a robotic waiter and butler that can pour you wine and do the washing up. Bot Handy was briefly on display as part of Samsung's presentation at the Consumer Electronics Show in Las Vegas."
     publishedDateTime: 2021-01-11T18:06:00Z
@@ -83,31 +72,17 @@ related:
         width: 690
         height: 431
         isCached: true
-  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
-    excerpt: "Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show."
-    publishedDateTime: 2021-01-11T18:33:00Z
-    webUrl: "https://www.imdb.com/news/ni63153935/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 56
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-11T14:01:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
+    webUrl: "https://www.oaoa.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_98769306-0bb9-5cbe-928f-26e3ba800acf.html"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/7/c1/7c1950d9-b885-5236-a5af-7bd10e7492c9/5ffc610f775d6.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
         isCached: true
@@ -136,12 +111,12 @@ related:
         isCached: true
   - title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
     excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
-    publishedDateTime: 2021-01-11T18:05:00Z
-    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    publishedDateTime: 2021-01-11T19:27:00Z
+    webUrl: "https://www.adelaidenow.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
+      name: Adelaide Now
+      domain: adelaidenow.com.au
     quality: 22
   - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
     excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."

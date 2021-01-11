@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI gives you a chance to prevent Alzheimer's Dementia"
-    excerpt: "AI brain mapping with EEG discovered Alzheimer's brainwave and could detect preclinical Alzheimer's dementia(AD). This has been enabled by"
-    publishedDateTime: 2021-01-08T13:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-gives-you-a-chance-to-prevent-alzheimers-dementia-301203391.html"
+  - title: "CES 2021: 5 show-stopping smart home tech innovations"
+    excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
+    publishedDateTime: 2021-01-11T19:57:00Z
+    webUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/"
+    ampWebUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-smart-home-tech/773534/?amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
+      name: Kim Komando
+      domain: komando.com
+    quality: 44
     images:
-      - url: "https://i1.ytimg.com/vi/GDOtrmfj5Jk/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "AI gives you a chance to prevent Alzheimer’s Dementia"
-    excerpt: "AI brain mapping with EEG discovered Alzheimer’s brainwave and could detect preclinical Alzheimer’s dementia(AD). This has been enabled by an innovative AI technology of iMediSync in brain mapping. iMediSync,"
-    publishedDateTime: 2021-01-09T06:49:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-seniors-health-diseases-and-conditions-a6836e6adaac2a16f3edde033f24f759"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.komando.com/wp-content/uploads/2021/01/ces.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "MwhyXw7elvMeWvPnx50cDizsvuKmLuNMMpdCnSRO8dzx+CY9Gwq7wK+IzLroGIN52kCHu7WxvP75FY0vmQlGbno5OEae06+6c5HgpLArDMoZZirWrq1B8Ygx7VdO7Z8kBzFUMg/MJ7OnUPeURfLrFu3eW1QoI1qmzbEwOn3af+EnalPo5eqe4bbXf7mwSgo75Dv/IXcrboAlvat9VOic7o9efd2XnesCH0XkoiD3OwTBQB4cXI5BwAP1TyW7kzIlJD0qMqGtfe821ogk6q2zG8I81UE4jArmmel4cO6XMiLOAAbCIq/3iPKcYrYeoVC1S/b6Ii7eS/Mpft+l1/smePZlH3Lhf7y8rWy3JYTWsfy4zF/OMhE4Z3CnEihhg5L5FBa0IsG/MJHC6xdqi8SpU1JUwa2YSXxLEJCCCFIB+7p4VYQ1DmOoppTzQHEm+st+xvjb0+34XUzjvlIkrXEmg2ssOPrfBfR2PUFGj4f1DPw24viOZzb8/jQVxszDO/4FVu9gjGJhDRCCoSTmKkcsNg==;NDWVo63qi6PnuivHSP+Cbg=="

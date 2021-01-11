@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Answer ALS Launches 'The Data is Here' Campaign to Announce the Release of the World's Largest Open Sourced ALS Data Portal"
-excerpt: "Answer ALS, in cooperation with the Stephen Hawking Foundation, launches \"The Data is Here\" campaign on January 8 and on what would have"
-publishedDateTime: 2021-01-08T16:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/answer-als-launches-the-data-is-here-campaign-to-announce-the-release-of-the-worlds-largest-open-sourced-als-data-portal-301203439.html"
-webUrl: "https://www.prnewswire.com/news-releases/answer-als-launches-the-data-is-here-campaign-to-announce-the-release-of-the-worlds-largest-open-sourced-als-data-portal-301203439.html"
+title: "Answer ALS Launches ‘The Data is Here’ Campaign to Announce the Release of the World’s Largest Open Sourced ALS Data Portal"
+excerpt: "Answer ALS, in cooperation with the Stephen Hawking Foundation, launches “The Data is Here” campaign on January 8 and on what would have been the famed Theoretical Physicist’s 79th birthday. The campaign features a video tribute to Stephen Hawking and his tireless efforts to solve complex universal questions,"
+publishedDateTime: 2021-01-08T16:33:00Z
+originalUrl: "https://apnews.com/press-release/newswire/business-corporate-news-diseases-and-conditions-products-and-services-health-f4355f092fcea49945530502e3c81a9b"
+webUrl: "https://apnews.com/press-release/newswire/business-corporate-news-diseases-and-conditions-products-and-services-health-f4355f092fcea49945530502e3c81a9b"
 type: article
 quality: 13
 heat: 13
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1396533/91c2ca559a485a1c6386fa310db5.jpg?p=facebook"
-    width: 1999
-    height: 1047
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "WWgqb76ff0n5nwdtUD5xOx59aVFWK3t2lJHWRbv8hvZT9iGxCbA6ZmQJRhoWg/IMaX2oddEXRV8HyfFmRfY93WX9E1fnZ/JxGMgzE+l17/Gvm83U/+NAPgc/y+5sKUNZQ9DOGj0grdaizTwVGFpqPc/E1WJNkg+aQgfkSdhl3u1+2lCo18tEi8XXYPWV412HKSbOJhdiUfF7fFO3QUHQTe9lA6wNF1hUx1+dyFkSIq5n4qvJL+1FN0lpHkVP3Uyf1xjvKZ4ak9M1KtEp5mliz3uH/IWTUQhuRQ5gmKXqbr3QdnIM2G/XDrdjNrl5oUivPOHKKZ64LKKL6qzGbZzI2ZyUyOz/Kslhby31eqHC4jI=;Nq69Ra0+m7udooYmuzp/QA=="
+secured: "5iaeOs995mFzJ9Kkwm8hNnhJX1Jgambofhfq865/+2qo/Taw8Ribi/KZHjAU9q3BCPArsYIClFrGLz+IVL/FRQQkY7SH5Xqs2Jtn1MEXkYNwadDSlQtWWyXayP5tw4qA8WoKf4Xg9E6hxOAY6/AN+ZQC56rJ6BCZTQrTiApkdJQ8kvheC2YK4KmTHIkGfjDVhiwdl1SbXUEVxI3p/M1mXGAR1C4yKbSf4bOGln+j/kVcbl02HGRyxf6/+90CaOGdv/zSkf9TCKBebXwh/Lj3APkUoYZnvRRWDt1oRiOcMe5OBjEehjmItF7lsX8j8uU/SiE6T4SlYLsU8+GEB2BKhFgylxsMl2L825jPdpZUyuI=;4RfYl5W8lYE65hnbLIrVIA=="
 ---
 

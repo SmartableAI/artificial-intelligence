@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Lantern Pharma Announces Launch of Antibody Drug Conjugate (ADC) Program to Target Solid Tumors & Blood Cancers through Agreement with Califia Pharma"
-excerpt: "PRNewswire/ -- Lantern Pharma (Nasdaq: LTRN), a clinical-stage biopharma company using its proprietary RADR ® artificial intelligence (\"A.I.\") platform to transform cancer drug development and identify patients who will benefit from its targeted oncology therapeutics,"
-publishedDateTime: 2021-01-04T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma-1029930022"
-webUrl: "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma-1029930022"
+excerpt: "PRNewswire/ -- Lantern Pharma (Nasdaq: LTRN), a clinical-stage biopharma company using its proprietary RADR® artificial intelligence (\"A.I.\") platform to transform cancer drug development and identify patients who will benefit from its targeted oncology therapeutics,"
+publishedDateTime: 2021-01-04T06:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210104da36411/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210104da36411/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
@@ -25,6 +21,6 @@ images:
     height: 296
     isCached: true
 
-secured: "4EX+oUhIwR3YdOUIyjYpgme6oaDcsDBHv0LAVzBccy8te2XHjEvQ+KC2+ID193SXv5jy7bkGFB9KUB0ZuMtuAoib5xh1cISOYBKlrHEgM8YUtR28Ca0D7q47Z3vivyOSr8o/tz5t+qi4zh96dgaAO/B9k48M4NTxfXxD1BwTTTC0m9Bm7UJayMPXOXCMO6dIC9VelrjDxGfB2aYFXJeTL4kupNGW/OtGlpQD+mxEKRdwtDtuDzPbdHFQppMtSfcYB+SLCrqWAtG0O3gyhofyqYW7C7GUNZVUz4uxt3Xtq/X7sV3XEsh07jht5SEF+GsNkCZzwWj+AKfIvjjlzM09G/rtqzhQzJHLGta9I04Gu30=;qog79UEYL0gFbUxz6Cux2A=="
+secured: "B2FsKvfNt1AY1CejJqDlqX0Rd6HWbHWFpYcoZq07Xh/G3BQppbX5OEz/IMaBMDDWo4Ki1ZWTQLMXhwHOuT9ijBFTSvMU72o/X7IPsUQsV1FTZ8M/ADmD6I2bJ+7Yn0Haq3qglJVq+X4row+G9aNmpFL7jUFaUNrn5rrm0yzdqCZEc2ox2mEra3o97DMqma86080HGJV7scsf1p2beZjfRh8sALg2RzH0Un72SUy+MbzIWuBiQrUFSffLvCKGJ/EAdJytV9l4lSx3pySh+/LuEi8DQBnzphpXdqJXP/pemVaDjzF8zlTB+2wJ+dwxRQWNWHEEDHbbjjF12C7j+kssCIs/PQNPFOaW2dfcO6OP4Ps=;w0OdWVkcF6RaVO/brMMuLg=="
 ---
 

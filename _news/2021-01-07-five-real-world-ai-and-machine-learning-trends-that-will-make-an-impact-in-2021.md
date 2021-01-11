@@ -44,6 +44,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Five ways to make AI a greater force for good despite Big Tech’s excessive control over its future"
+    excerpt: "The year 2018 had seen a series of failures for AI, and in 2019, the focus turned to AI ethics. As the pandemic struck in 2020, the conversations about algorithmic harms suddenly came to a head. At the start of 2021,"
+    publishedDateTime: 2021-01-11T20:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future/primearticleshow/80218989.cms"
+    ampWebUrl: "https://m.economictimes.com/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future/amp_primearticleshow/80218989.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future/amp_primearticleshow/80218989.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-820943,msid-80219046/.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "CbrgAMDSHP9ZjQ17DrUd3jU4mjp6NLfhQjvFlx9fMjgSTtrIQTrTusbrtAd8I2kseuRBvR/XhudyM3IERms6UiTn4tdDDXBVDZR+uYXZbBKwTEIao3SY7ExXctok4Ios2QfZbjXl6voCVgijHy2qwUu58mWaY4ogYooI1h2nD2TYRRF/qd7K9rIUhxg1AVTyIYyn6ZATCgGBmOrnUWfX7r0pzvgRokkgpa/bTm33do+dPnM//c5r/TWE6oSB8lg41mdFLGykvQoJpfhaWh7HSBUCSeyUyFleiCX3kiyR6XL4ANlhemQf78cxZwmMF8EzUp3WNBfUm+4kn+J0psSWpR6QXC0kzojsoapO48e6PMQsycjL2Uwy5QsoDJkZsLI+czqo51Obv00LJeeYlDN8IEhWPKOQprTFGUWfDtJyJsOw6J3W+sYH76KelPiP8I8gQUnrJQYqZksOVqRTfDi9NaiMAb2V7QWdc4n1FtjlBGrN/0+Iulb6JXloVHNIWvUofhz8LSEQ6xcjGNwTOwKucg==;GOIQcgTWiCNcc9tbWT2V8Q=="
 ---

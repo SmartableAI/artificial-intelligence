@@ -61,17 +61,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Waymo ditches the term ‘self-driving’ in apparent dig at Tesla"
-    excerpt: "Autonomous-car company Waymo says it will stop using the term “self-driving” in a move that many will see as a swipe at Tesla. Alphabet-owned Waymo said that from this year it will refer to its driving technology as “fully autonomous.” “It may ..."
-    publishedDateTime: 2021-01-07T04:12:00Z
-    webUrl: "https://www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-ditches-the-term-self-driving-in-apparent-dig-at-tesla/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 84
   - title: "Waymo is dropping the term ‘self-driving,’ but not everyone in the industry is on board"
     excerpt: "Waymo will no longer use the term ‘self-driving’ to describe the technology it has been developing for more than a decade, opting instead for ‘autonomous.’ The Alphabet company said that this seemingly small shift is an important effort to clarify what the technology does"
     publishedDateTime: 2021-01-07T12:03:00Z
