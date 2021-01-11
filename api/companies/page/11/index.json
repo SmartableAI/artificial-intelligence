@@ -4,6 +4,54 @@
   "page": 11,
   "value": [
     {
+      "path": "_companies/kensci.md",
+      "title": "KenSci",
+      "excerpt": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kensci/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kensci/",
+      "type": "profile",
+      "name": "KenSci",
+      "overview": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
+      "website": "https://www.kensci.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kensci",
+        "followers": 3545
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kensci"
+      },
+      "twitter": {
+        "username": "KenSci",
+        "url": "https://twitter.com/KenSci",
+        "followers": 1510
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/915268504244314113/m8aLPHU7_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "KenSci",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/knewton.md",
       "title": "Knewton",
       "excerpt": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
@@ -175,7 +223,7 @@
       "twitter": {
         "username": "Matterport",
         "url": "https://twitter.com/Matterport",
-        "followers": 11090
+        "followers": 11091
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -201,44 +249,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/metabiota.md",
-      "title": "Metabiota",
-      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
-      "type": "profile",
-      "name": "Metabiota",
-      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "website": "https://www.metabiota.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/metabiota"
-      },
-      "twitter": {
-        "username": "metabiota",
-        "url": "https://twitter.com/metabiota",
-        "followers": 1322
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1233442221384355840/VenlZMBb_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Metabiota",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -377,7 +387,7 @@
       "twitter": {
         "username": "RethinkRobotics",
         "url": "https://twitter.com/RethinkRobotics",
-        "followers": 30803
+        "followers": 30801
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -435,7 +445,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 531290
+        "followers": 531292
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -477,7 +487,7 @@
       "twitter": {
         "username": "sentifi",
         "url": "https://twitter.com/sentifi",
-        "followers": 4820
+        "followers": 4821
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -699,7 +709,7 @@
       "twitter": {
         "username": "sbreurope",
         "url": "https://twitter.com/sbreurope",
-        "followers": 16507
+        "followers": 16508
       },
       "yearFounded": 0,
       "locations": [
@@ -746,7 +756,7 @@
       "twitter": {
         "username": "sophiagenetics",
         "url": "https://twitter.com/sophiagenetics",
-        "followers": 21438
+        "followers": 21439
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -798,7 +808,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 9812
+        "followers": 9813
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -853,7 +863,7 @@
       "twitter": {
         "username": "StarskyRobotics",
         "url": "https://twitter.com/StarskyRobotics",
-        "followers": 912
+        "followers": 913
       },
       "size": "11-50 employees",
       "yearFounded": 0,
@@ -958,7 +968,7 @@
       "twitter": {
         "username": "Tanium",
         "url": "https://twitter.com/Tanium",
-        "followers": 6126
+        "followers": 6127
       },
       "yearFounded": 0,
       "locations": [
@@ -1000,7 +1010,7 @@
       "twitter": {
         "username": "textio",
         "url": "https://twitter.com/textio",
-        "followers": 7695
+        "followers": 7694
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1053,7 +1063,7 @@
       "twitter": {
         "username": "twilio",
         "url": "https://twitter.com/twilio",
-        "followers": 76337
+        "followers": 76346
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2008,
@@ -1091,7 +1101,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1048749
+        "followers": 1048747
       },
       "yearFounded": 0,
       "locations": [
@@ -1177,7 +1187,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 61891
+        "followers": 61889
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
