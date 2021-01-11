@@ -1,28 +1,29 @@
 ---
 category: news
 title: "TechNovus announces Artificial Intelligence powered body measurement platform"
-excerpt: "PRNewswire/ -- TechNovus Ltd, a UK-based artificial intelligence and virtual reality company, today announces an Artificial Intelligence-powered"
-publishedDateTime: 2021-01-11T08:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/technovus-announces-artificial-intelligence-powered-body-measurement-platform-301204679.html"
-webUrl: "https://www.prnewswire.com/news-releases/technovus-announces-artificial-intelligence-powered-body-measurement-platform-301204679.html"
+excerpt: "PRNewswire/ -- TechNovus Ltd, a UK-based artificial intelligence and virtual reality company, today announces an Artificial Intelligence-powered body measurement platform, Mezura AI 1 which lets customers instantly match their body measurements with desired clothing items as they browse fashion web sites,"
+publishedDateTime: 2021-01-11T09:34:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-united-kingdom-consumer-electronics-66194e9dcfab54e313b04a8193d8a05c"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-united-kingdom-consumer-electronics-66194e9dcfab54e313b04a8193d8a05c"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "CHtQWu0IElpzjA+uGsqrGuZRRFC0V2tbyOMeMPcYgXbZUsPoOQHNCGbqY9Q5bULOUT48gKmhncLYfoHW6J+VY88vd+RHs/jnwz8lFL8t7n5L5RC9hG4nhSjIvZuaZvpUgnivn9nlRPyKxlvZ9eJKgcgz9JLR+4QA+BnTUSpHW4yvU1Rg7euNx/3N+wg2fapbmMCaA6D5EWYiba2etL/qMzVGw6iQGXrRX1/plpDU3PIveVVGQkY5tnVxun9owrQ/Oomms/NzDajEfg3P0oBrLTEeCzymltGhVSTVDrRDkBLZrzhpX2OaVVyfLdElgFMAPZIfnduc2S72sD0GmRnC/66/mjTpZVgHZwq/0z3pMtw=;tQBsDObVHBE5aZHTNCRlFQ=="
+secured: "bnRqEFpC9WMlIcoNrvHewdwgIxH3QkWOhZA67AQpWazCvMKmIJJRNEQ+WUbGtkZvU8q2DGNRbR0asTmzqwLLLhxLTroB38T3YmtXk54jUARvEBEx3cbn6MJd3KygbEum/aRmO3XCcLpgbwiknoWlDr1G4n6p31tdYCqJ/X9mFSnxnGII5fNlgV2ytsHIUmrke8VOP7DmhKYI+1ZcrdCmPMWIBTC+VYbVO61U90/ueCpP26yG4ajLUdQGPi7guaHspDzOxW6Ay8gaIkYfcMqq4w2jDYhOI6gWW3IRm+YLNq4y993elqpWVHD4jleUI7jJrvqx9OPHdeURHZhH/6XREo3EhFLHyslIhL4RoqjECiA=;7PPvSbQHOMHWvgKcor+JCw=="
 ---
 

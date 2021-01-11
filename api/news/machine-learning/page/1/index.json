@@ -1386,21 +1386,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-28-neurals-ai-predictions-for-2021.md",
-      "title": "Neural’s AI predictions for 2021",
-      "excerpt": "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables.",
+      "path": "_news/2020-12-28-deep-learning-market-share-size-2021-to-2023-executive-summary-market-overview-and-top-company-profiles.md",
+      "title": "Deep Learning Market Share, Size 2021 to 2023: Executive Summary, Market Overview and Top Company Profiles",
+      "excerpt": "The Deep Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e ...",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
+      "webUrl": "https://menafn.com/1101348253/Deep-Learning-Market-Share-Size-2021-to-2023-Executive-Summary-Market-Overview-and-Top-Company-Profiles",
+      "originalUrl": "https://menafn.com/1101348253/Deep-Learning-Market-Share-Size-2021-to-2023-Executive-Summary-Market-Overview-and-Top-Company-Profiles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg",
-          "width": 796,
-          "height": 417,
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1408,23 +1408,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
-      "publishedDateTime": "2020-12-28T00:09:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T02:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1434,8 +1425,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     }
   ],

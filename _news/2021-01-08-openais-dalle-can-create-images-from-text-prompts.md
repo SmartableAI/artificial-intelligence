@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "OpenAI’s ‘DALL-E’ Generates Images From Text Descriptions"
-    excerpt: "E some instructions, and it can draw an image for you. Sometimes the renderings are little better than fingerpainting, but other times they're startlingly accurate portrayals."
-    publishedDateTime: 2021-01-06T18:25:00Z
-    webUrl: "https://www.extremetech.com/extreme/318881-openais-dall-e-generates-images-from-text-descriptions"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2019/05/569072-artificial-intelligence-for-sales.jpg"
-        width: 810
-        height: 456
-        isCached: true
 
 secured: "Avb4kMyoV4FJvdO6Q1ntbLCOuF6U/HSgWqtehxPv6TjqVHTFz1aFbeTOCeK7vdR/w7nE+BhjIkvzileKdRYfKeGW1Vzmm38IBW9WCqxsxBM9otwrH9LBQqzeR9403NPKcuxxShaEQSbMZio9FSZzBOnp7yIOTJ2ol18cuIABLciILshmlkmiV7VbXPJFzavGR3SWeledvgk0gMDoS3e97zar7QMs7Nhn/E6NYiOLWsAVQ278bpav4S1Xg5OEfItTi63gEUOsvL9A7c/b0yBzn/fjC+MskeGMF8XRXqiEU8fcKHfugUPCUWtU9SDG6v+J7MUQef70UVs/+QXAMkTsE6AQY8EFTF+nFQAbJjc8T+U=;JkWb3qzALQxsfPravB2fZg=="
 ---

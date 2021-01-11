@@ -3,10 +3,10 @@ category: news
 title: "The very real fear of artificial intelligence"
 excerpt: "By 2030, thousands of jobs in India, including those of call centre executives, translators, bank tellers and secretaries, could be lost to intelligent agents and robots."
 publishedDateTime: 2021-01-10T14:26:00Z
-originalUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html"
-webUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html"
-ampWebUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
+originalUrl: "https://www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html"
+webUrl: "https://www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html"
+ampWebUrl: "https://www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
 type: article
 quality: 59
 heat: -1
@@ -17,7 +17,7 @@ provider:
   domain: moneycontrol.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "siNNeMuLrzw8zGw2xqs/BhggrIc8chWlUCNika7ukeCzyTvOnkLi2o/RJ0cmpeoauqGCI0e6QMlCrnO1ez8OWJjNuiSPRPl9DtisIasOxlbdteJB4HcPNv/pGgupvRz8loo0/iHlMZ7KP1yNtpuS+XVInj8jAhRt+IFjuWsOQae1ZGasWVq1tcDY/yPKoEx4F+y5DxqmQ+PUl5iqz1LU2ikE+GeUgWybauXsdnV2cYG/qdsUHwFuxfZ3S2tIieRL3KrDXSpiOw3Q+KjVkLJ2OpQEERrHKijOr4fGC6VIlLnIfF8yPDiz4Kw5QiAusnkBqsx7DGtuuHU7/YZHbNg3rUskQBjaKkUziURGs7LZndc=;jznK3ZOLRLjXzNtu24EakA=="
+secured: "/CXKU1Vt5nJ/npOgAB1xNvPoff/Zfr2bysvezAFuvtO3YM8cV9xD9WQltAc+BMNjVXjgou3xs9R4vAoPrKT1ALeEdK9rhj7b6p6VrVZb9cAq+1/xcD3upP2y40NCOrezNyTSAErYVrmxWvHmvCitPUFW2X6dqVBjci/SNdkgRoRDtISNgmP2fg02PBupiUFEXB3FsgdJ4pCySIHsaCVdbTmI6zIkg7oG8Q+cmSpz2UC3I9E8RrTWXHcRscc7NkGkPWvMt+LTtqgiAk1bmA/NQiOQd0U0kOoy4g30Qc7HQQeNUK8h7MnA/qYX4oh73oVa2kYqsgQ7jR9jvSvGjlH0SNnA3ej1DjqvITyovuRPj4s=;vys0qLcgQ2NNSP89lsT6Tw=="
 ---
 

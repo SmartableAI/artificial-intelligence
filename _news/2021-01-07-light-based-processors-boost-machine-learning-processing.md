@@ -33,7 +33,7 @@ related:
     provider:
       name: unite
       domain: unite.ai
-    quality: 54
+    quality: 56
     images:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1200/h:900/q:auto/https://www.unite.ai/wp-content/uploads/2021/01/spectrum-113364_1920.jpg"
         width: 1200

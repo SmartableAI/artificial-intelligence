@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/08/stanford-researchers-propose-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Stanford-researchers-propose-AI-that-figures-out-how-to-use.png"
         width: 1029
         height: 516
+        isCached: true
+  - title: "Outlandish Stanford facial recognition study claims there are links between facial features and political orientation – Jaweb"
+    excerpt: "A paper published today in the journal Scientific Reports by controversial Stanford-affiliated researcher Michal Kosinski claims to show that facial recognition algorithms can expose people’s political views from their social media profiles."
+    publishedDateTime: 2021-01-11T10:17:00Z
+    webUrl: "https://elmoudjaweb.com/outlandish-stanford-facial-recognition-study-claims-there-are-links-between-facial-features-and-political-orientation-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/outlandish-stanford-facial-recognition-study-claims-there-are-links-between-facial-features-and-political-orientation-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/outlandish-stanford-facial-recognition-study-claims-there-are-links-between-facial-features-and-political-orientation-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 47
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Outlandish-Stanford-facial-recognition-study-claims-there-are-links-between.jpg"
+        width: 1198
+        height: 599
         isCached: true
 
 secured: "IEzqMFF2VUVGFCOPHhOVJQT+6189h5ioWY0c+QmoxkqlpfaHWk4j09Lyg9IoK2H51pabRcAhEyaRfX2ZGwUfY73xLhsxZp9yVlJyZPONrDXtG8B8DeGatt5o06IIjclxU9GCfKhAw5hEXvjbSdpYAvxOpaHakO5NMsAaBUYHhpTJzHkEmREP/s/ez/cI26SekmiVMQui6GCNpEYJSpjWl2NpAnxXy7MZjB61l7wUDoVQLf/TWXRwzHz3wb4ZajAgIdgTeubXEUIaFLBiMueSLDgXJYHNaO/2JK3j/e0qLzsv75CJfUFHblZRezRnYlR9ZpgC+Uan3Ptr8Y1L7tU5fUtlwHR9zxS3VzfNo5rwvn+8XqMDnWQFEj8lTrrgGYbVeAR25O2t9YvGO4iqIvYFyHWpj1WY+Bf+V+oKRM+EmOVzOHDcsKqcrnyrs6HKQPhhVWjTjpUXNbXLX/n9cvbUvaSh8WkTtL8lFuXZHHcdsDLep29dEtzpZHpzQMPDx8sY7JjhxIQIyDKXDe44kBSotQ==;7oSB5L/KHILFRQSEGQHngQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-l
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "China’s Baidu is building an EV with help from Polestar’s parent company"
+    excerpt: "Baidu has already developed autonomous vehicle tech but now the plans to produce electric vehicles in partnership with Geely."
+    publishedDateTime: 2021-01-11T09:14:00Z
+    webUrl: "https://www.engadget.com/china-baidu-teaming-with-geely-on-electric-vehicle-090704201.html"
+    ampWebUrl: "https://www.engadget.com/amp/china-baidu-teaming-with-geely-on-electric-vehicle-090704201.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-baidu-teaming-with-geely-on-electric-vehicle-090704201.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2Ff03264b0-53e6-11eb-b7ef-2adc86e40ea6&client=amp-blogside-v2&signature=3e8467d512859213b21e5dc16c0236d283ba41b2"
+        width: 600
+        height: 350
+        isCached: true
   - title: "China Internet Heavyweight Baidu Confirms Plan To Enter EV Market With Geely"
     excerpt: "Baidu, one of China’s largest Internet businesses, on Monday confirmed a report last week that it plans to produce electric vehicles in a partnership with. Baidu will provide intelligent driving capabilities to power the passenger vehicles for the new venture,"
     publishedDateTime: 2021-01-11T01:04:00Z
@@ -96,6 +112,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F8%252F3%252F9%252F31679388-3-eng-GB%252FCropped-1610334061AP_20289239573989sm.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Geely and Baidu in smart EV deal"
+    excerpt: "Chinese internet giant Baidu said it had agreed with local automaker Zhejiang Geely Holding to establish a strategic partnership to develop and produce smart electric vehicles (EVs)."
+    publishedDateTime: 2021-01-11T10:17:00Z
+    webUrl: "https://www.just-auto.com/news/geely-and-baidu-in-smart-ev-deal_id199569.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "nKF7Ho7jyAxPn27LHn8v23i9c01hS5AMTiiM2iTCz/XJ5mTyPy1XVSWMgXXBPJ8B1M/GsPZMw3GL2giALzoB/QJCy2SjwIOujCyCAZUQET2ImB0krTUGokVxVkVjqwEAoow20pkYpvk6FDpTxFGfLWgkUxcgVPNxNEVB/oJapp7IqyiKbO21yQKRFiY52J/v1nYngQXAOOj6LeMt10l6Whniw3g4lbFaHGqIwFyIyXR0+byJ5h5qsoTJTpSKsgcjdXREk09UU2gELek8Mq3s1ywxdu+udKhVvqLdI5/KdHEgL/zTOmxqZ3tfCvjlqHmPaCgVyZm1/5FnaSUdTRm8XL16iejzGk8/fKS8vbyv8xaHz1CwXohhv915mhJneQeVS2P1vRsHfGeE5kVH+zn8wEnmjoEacxiEeuVdXV1DA8OT7YIk/oafbvELyxYKuWywRLIrEnQYAxFwIHLcPeSobA7dVPJTs2BBn9JGJKQg5auRq/tziFZ16sczH9LwjIlN77eP2KGq8gqOwK+LDj2/DA==;UTuQhIsFp8gTzEnjWAcvLA=="

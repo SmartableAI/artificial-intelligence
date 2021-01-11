@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-te
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://galusaustralis.com/wp-content/uploads/2021/01/avocado-1-1024x538.jpg"
         width: 1024
         height: 538
-        isCached: true
-  - title: "OpenAI’s ‘DALL-E’ Generates Images From Text Descriptions"
-    excerpt: "E some instructions, and it can draw an image for you. Sometimes the renderings are little better than fingerpainting, but other times they're startlingly accurate portrayals."
-    publishedDateTime: 2021-01-06T18:25:00Z
-    webUrl: "https://www.extremetech.com/extreme/318881-openais-dall-e-generates-images-from-text-descriptions"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2019/05/569072-artificial-intelligence-for-sales.jpg"
-        width: 810
-        height: 456
         isCached: true
   - title: "OpenAI’s DALL.E Can Create Images From Text Prompts"
     excerpt: "OpenAI has released a 12-billion parameter version of GPT-3, called DALL.E, to generate images from text prompts."

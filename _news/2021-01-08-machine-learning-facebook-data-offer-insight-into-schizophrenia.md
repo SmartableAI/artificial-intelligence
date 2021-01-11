@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Northwell Health researchers using Facebook data and AI to spot early stages of severe psychiatric illness"
-    excerpt: "Study subjects with schizophrenia spectrum disorders and mood disorders were more prone to discuss anger, swearing, sex, and negative emotions in their Facebook posts, according to the study. RELATED: Northwell Health research arm develops AI tool to help ..."
-    publishedDateTime: 2021-01-06T18:55:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/northwell-health-researchers-using-machine-learning-to-predict-a-patient-s-psychiatric"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 21
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1609954525/2020_Feinstein%20Exterior_2.jpg?u5pfjKX7aIti0p3E16Co49MZQrxKSugP"
-        width: 1546
-        height: 1056
-        isCached: true
   - title: "Researchers Attempt to Use Facebook Data to Predict the Diagnosis of Schizophrenia and Mood Disorders"
     excerpt: "Using Facebook data, machine learning algorithms attempt to predict whether people will be diagnosed with schizophrenia and mood disorders."
     publishedDateTime: 2021-01-10T11:00:00Z

@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo says it’s ditching the term ‘self-driving’ in dig at Tesla"
-    excerpt: "The Google sister company says it is through using the term “self-driving cars” to describe its fleet of autonomous vehicles. And it is subtly pointing fingers at Elon Musk’s Tesla as the reason why. Waymo says it is committing to “using more ..."
-    publishedDateTime: 2021-01-06T17:06:00Z
-    webUrl: "https://www.theverge.com/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 104
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/mkSj7cZs4bdQWRRTiFF-8jqnpGI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68628290/waymo_chrysler_pacifica_detroit_auto_show_2017_0547.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Waymo won't talk about 'self-driving' cars anymore, in apparent dig at Tesla"
     excerpt: "Waymo takes a stab at Tesla over its use of the term \"self-driving\" in its new Full Self Driving feature. Alphabet-owned Waymo has stopped referring to \"self-driving\" to describe its technology and form now on will only use the term \"fully autonomous driving technology\" instead."
     publishedDateTime: 2021-01-07T13:00:00Z
@@ -76,22 +60,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-08-image-33.jpg"
         width: 1680
         height: 1120
-        isCached: true
-  - title: "Waymo drops “self-driving” term for autonomous vehicle focus"
-    excerpt: "Waymo is drawing a line in the sand for driverless terminology, announcing today that it will no longer refer to its vehicles as “self-driving” and arguing that the industry needs more consistency in how it refers to cars that can operate themselves."
-    publishedDateTime: 2021-01-06T17:07:00Z
-    webUrl: "https://www.slashgear.com/waymo-drops-self-driving-term-for-autonomous-vehicle-focus-06653695/"
-    ampWebUrl: "https://www.slashgear.com/waymo-drops-self-driving-term-for-autonomous-vehicle-focus-06653695/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-drops-self-driving-term-for-autonomous-vehicle-focus-06653695/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/waymo-autonomous-car-1.jpg"
-        width: 1680
-        height: 1119
         isCached: true
   - title: "Waymo shelves 'self-driving' term for its technology to shore up safety"
     excerpt: "Waymo swears it's not out to pick nits and give us all an exercise in linguistics. The fact it will no longer use the term \"self-driving\" when describing its technology is about education and safety,"
@@ -197,20 +165,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/waymo-ditches-self-driving-terminology-in-another-dig-at-tesla-154085-7.jpg"
         width: 728
         height: 300
-        isCached: true
-  - title: "Self-Driving Cars And The Chicken That Crossed The Road"
-    excerpt: "The fabled \"chicken crossing the road\" provides useful fodder for considering the advent of self-driving cars coping with erratic intrusions in the roadway."
-    publishedDateTime: 2021-01-10T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/10/self-driving-cars-and-the-chicken-that-crossed-the-road/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff545ffcda8add8ba6f4879%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3008%26cropY1%3D152%26cropY2%3D1845"
-        width: 1199
-        height: 675
         isCached: true
   - title: "Waymo To Stop Calling Their Technology “Self-Driving,” Criticizes Automakers Who Do"
     excerpt: "However, some companies use generic terms such as “self-driving.” Tesla is the most obvious example and they even admit “currently enabled features require active driver supervision and do not make the vehicle autonomous.” Safety groups have called ..."

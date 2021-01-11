@@ -43,6 +43,22 @@ related:
         width: 1029
         height: 516
         isCached: true
+  - title: "Outlandish Stanford facial recognition study claims there are links between facial features and political orientation – Jaweb"
+    excerpt: "A paper published today in the journal Scientific Reports by controversial Stanford-affiliated researcher Michal Kosinski claims to show that facial recognition algorithms can expose people’s political views from their social media profiles."
+    publishedDateTime: 2021-01-11T10:17:00Z
+    webUrl: "https://elmoudjaweb.com/outlandish-stanford-facial-recognition-study-claims-there-are-links-between-facial-features-and-political-orientation-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/outlandish-stanford-facial-recognition-study-claims-there-are-links-between-facial-features-and-political-orientation-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/outlandish-stanford-facial-recognition-study-claims-there-are-links-between-facial-features-and-political-orientation-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 47
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Outlandish-Stanford-facial-recognition-study-claims-there-are-links-between.jpg"
+        width: 1198
+        height: 599
+        isCached: true
 
 secured: "LSWsaKWEErkVGHl3ZNJ1+KMILvx7csN7a6+vRX1cnfQpzpmdnTnPH6ut3kVBLNG3GmQxLLVNcDs/fjyW0F5mY/8nQXLsGCGrFqIW8mqpnvCBRbuG34VY7WjnaWHwK7n5raAM6smu/R0Px6xIo4Un0rUUBN2DNJAsMrPeI6QmALoqu7dzsSoZz9nv+BoPgTUIbcDaa0l2CWwMDvPeYPsHNxgx16AJ7FeTRpvojc1chwGczuxYAC8MwcR5LIpHIs9tMKVJRTYFG/9V8fB4EERN56kxgcSC71kcrEWxQcYjsdvGKt/FzWPbEVSVT02jRGjRnOxg2fYPnR1RUn0d4My4bfdIMoPsF2Lx3DnYwbB1TqiUT39dCZH90DEbYqJkCZ/FvZn00504bNY0oIRArwtNABAEfWX+vqULssPS15nm3H+SVWq/aU5aLw4zpKUhx15Zsi5nt8CiBe6JhZrutyoyYAmwTayzMAaDOrTJUaUUPMAW+lAvFM8L1Yony7l4huQMppGbzPSxpc5INvo9zmb8LA==;94BqsERl2lb9SSLDmkjwug=="
 ---

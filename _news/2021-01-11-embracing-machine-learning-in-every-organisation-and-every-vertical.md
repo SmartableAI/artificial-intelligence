@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Embracing Machine Learning in every organisation and every vertical"
-excerpt: "Machine Learning (ML) has become more commonplace in enterprises as the number of areas where it is effective grows."
-publishedDateTime: 2021-01-11T08:48:00Z
-originalUrl: "https://talkiot.co.za/2021/01/11/embracing-machine-learning-in-every-organisation-and-every-vertical/"
-webUrl: "https://talkiot.co.za/2021/01/11/embracing-machine-learning-in-every-organisation-and-every-vertical/"
+title: "Embracing Machine Learning In Every Organisation And Every Vertical"
+excerpt: "Machine Learning (ML) has become more commonplace in enterprises as the number of areas where it is effective grows. If your organisation or vertical has not yet embraced ML, it is time to get on the adoption curve."
+publishedDateTime: 2021-01-11T08:47:00Z
+originalUrl: "https://africa.com/embracing-machine-learning-in-every-organisation-and-every-vertical/"
+webUrl: "https://africa.com/embracing-machine-learning-in-every-organisation-and-every-vertical/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Talk IoT
-  domain: talkiot.co.za
+  name: Africa.com
+  domain: africa.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://talkiot.co.za/wp-content/uploads/2021/01/Adam-Pantanowitz-Aura.jpg"
-    width: 1000
-    height: 667
+  - url: "https://i2.wp.com/africa.com/wp-content/uploads/2021/01/Machine-leraning.jpg?fit=800%2C566&#038;ssl=1"
+    width: 800
+    height: 566
     isCached: true
 
-secured: "ZvIcyeJ9eseWzWZkRZwTcUDPr3hqEwh7XoKpvB8+yCPg6EtOWj6mnXTHHlV/RTRZJTPOfJ/fEqD3xMamKmwXd9T6XxKLujwosX3aGvAanQ/dSxGU/7+SHnw4jfgZALTWHHdx37X6itEAprPaI+mseHDq2kO55+AL8NQIdTqSrtfIf4US07TnFxfBFTvXdCmKK8Nkk7nSRJMQ6IbZ3TqDKwKK4DQ/KPz0s0zrU+ph4mTszN/BHOMIc2SLmGAO142Z4zTurBQiRFeLbjSY486qxublhHhZIx4GqpzosSNk0t9sKnf3VQVOFpkMFRPEWf6+dB82oA8AUGYod+H4AbiIdNutUJSXOO1ji7c8S27Ny8c=;GH8EEqbHcX7Bsfix1LI6+w=="
+secured: "+HJdXA/gou6Yx1VpbWDEivcdgPWPFkU3NXfza7c0sSvv1dTZKqcohe7r4eULuSc4MHTjvFW/GQHcyi/YFNmnVeGoOWiicwp1pblOZMRLARk09NT61No1FjSIS6174dJYmjRc7tsJfQ54jDv80T+v84xdPkbImRHRNLpSNEtfuWSWFkIs7GFfy2eWquXDLUmo3yxM3IaxfGlwsfh8qGR2EJlVxGUxABwxxF/l4coYkBPhs6mFAisNtRQAs+AfBTViGB8zUxKnde4k+6OsO3qRoiFfpDuCi3CK1IXjl0Vm4HuILIm5+50xJcEY71l7clReJ6AQrbT+UCgesFRQRFMvfK4iDNzoUHmS+TyScLTSw0k=;VQzznS6AiTM+11EercqKtA=="
 ---
 

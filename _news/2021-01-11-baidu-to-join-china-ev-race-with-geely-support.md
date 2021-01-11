@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "China’s Baidu is building an EV with help from Polestar’s parent company"
+    excerpt: "Baidu has already developed autonomous vehicle tech but now the plans to produce electric vehicles in partnership with Geely."
+    publishedDateTime: 2021-01-11T09:14:00Z
+    webUrl: "https://www.engadget.com/china-baidu-teaming-with-geely-on-electric-vehicle-090704201.html"
+    ampWebUrl: "https://www.engadget.com/amp/china-baidu-teaming-with-geely-on-electric-vehicle-090704201.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-baidu-teaming-with-geely-on-electric-vehicle-090704201.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2Ff03264b0-53e6-11eb-b7ef-2adc86e40ea6&client=amp-blogside-v2&signature=3e8467d512859213b21e5dc16c0236d283ba41b2"
+        width: 600
+        height: 350
+        isCached: true
   - title: "China Internet Heavyweight Baidu Confirms Plan To Enter EV Market With Geely"
     excerpt: "Baidu, one of China’s largest Internet businesses, on Monday confirmed a report last week that it plans to produce electric vehicles in a partnership with. Baidu will provide intelligent driving capabilities to power the passenger vehicles for the new venture,"
     publishedDateTime: 2021-01-11T01:04:00Z
@@ -93,6 +109,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Geely and Baidu in smart EV deal"
+    excerpt: "Chinese internet giant Baidu said it had agreed with local automaker Zhejiang Geely Holding to establish a strategic partnership to develop and produce smart electric vehicles (EVs)."
+    publishedDateTime: 2021-01-11T10:17:00Z
+    webUrl: "https://www.just-auto.com/news/geely-and-baidu-in-smart-ev-deal_id199569.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "LyJNlyPraPDJYBVbNOwB91PLODjxwK7VY2UIEQLUNXUDqk9Z8vATXwX7gcoRwcHXShtK7feBg3eZfsyf1EyWytjtBlPLvgQZUA1HsawGn+Qmy14Uxosz/rkcaNwHEu11Ay+JC1pdOaLcvUazbSAIHm1uMrE0FMAobUbkYclV2/3J8rDh81hCnOw9APDoAMO0lsrRd5wQ+nB2nwUCvAncCBcg1tiUda3TkljSoVw0k7DoVZ/PCbxFdH3K+ohCw01YFwakPASrQlzMsrqHZ6+SrXzkyBJRWesxOmCm/5cfuhUcg+T/F9pgfo8OS8e6nsCWxv8gFCrzkyQjoQgqbEHhR+MqoTVJbJO4tkmSoogWFoOXYat9dJzsQXffdSlHM/ivglpGCCueJ1Gzm17a6UpjZrjB39AHXnAYpoebdcLG9rhBHJz07YBR1Ic5XItdl9uNY/j8kpSKctGG3QSKgR1rTK6+wsyk34v1K09yFm61DswoIMasbYjJc31PKdqxb4W8IZnWuMshC+Pt0SwpcpK4cQ==;q4D7GdqqxUHzPCjeBtf/Gw=="
 ---

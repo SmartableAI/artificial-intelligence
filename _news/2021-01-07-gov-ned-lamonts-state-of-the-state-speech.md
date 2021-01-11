@@ -7,7 +7,7 @@ originalUrl: "https://www.journalinquirer.com/politics_and_government/gov-ned-la
 webUrl: "https://www.journalinquirer.com/politics_and_government/gov-ned-lamonts-state-of-the-state-speech/article_dee90d9e-5053-11eb-ad33-a39ec1b813dd.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gov. Ned Lamont state of state speech: ‘Let this be the year of the Connecticut comeback’"
-    excerpt: "Gov. Ned Lamont said in his state of the state speech that this will be \"the year we changed the narrative of Connecticut. Let this be the year of the Connecticut comeback!.\""
-    publishedDateTime: 2021-01-06T18:10:00Z
-    webUrl: "https://www.courant.com/politics/hc-pol-lamont-state-of-speech-connecticut-20210106-vljqgwfajzcidhpkojzoeus4ym-story.html"
-    ampWebUrl: "https://www.courant.com/politics/hc-pol-lamont-state-of-speech-connecticut-20210106-vljqgwfajzcidhpkojzoeus4ym-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-lamont-state-of-speech-connecticut-20210106-vljqgwfajzcidhpkojzoeus4ym-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 35
-    images:
-      - url: "https://www.courant.com/resizer/SI1GGK3R8jUTl8zKzwuaVZVPjxw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5XFBM36G424F43P6ICMZYIR7B4.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Gov. Ned Lamont’s state of the state speech: ‘Connecticut’s comeback is happening’"
     excerpt: "Now, commentators across the country are applauding our budgetary approach. As a recognition of this hard work, outside analysts have repeatedly reported that Connecticut is getting its fiscal ..."
     publishedDateTime: 2021-01-06T19:53:00Z
