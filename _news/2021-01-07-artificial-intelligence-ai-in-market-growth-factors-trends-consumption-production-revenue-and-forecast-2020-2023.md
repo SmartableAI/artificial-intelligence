@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Manufacturing Market Sales and Revenue by Companies, Regions, Type and Application till 2027"
-    excerpt: "The global artificial intelligence (AI) in manufacturing market size is expected to rise owing to increasing demand"
-    publishedDateTime: 2021-01-07T10:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-manufacturing-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market 2021 – 2024 | Share, Key Players and Competitive Landscape Forecast"
     excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
     publishedDateTime: 2021-01-08T08:46:00Z

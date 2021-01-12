@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Masks no obstacle for new NEC facial recognition system"
-    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T10:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW"
-        width: 743
-        height: 545
-        isCached: true
   - title: "NEC says new facial recognition system isn't stopped by masks"
     excerpt: "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,"
     publishedDateTime: 2021-01-07T15:57:00Z
@@ -143,38 +127,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Masks no obstacle for new facial recognition system"
-    excerpt: "Japan’s NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal"
-    publishedDateTime: 2021-01-07T10:37:00Z
-    webUrl: "https://arynews.tv/en/mask-facial-recognition-system/"
-    ampWebUrl: "https://arynews.tv/en/mask-facial-recognition-system/amp/"
-    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/mask-facial-recognition-system/amp/"
-    type: article
-    provider:
-      name: ARY News Live
-      domain: arynews.tv
-    quality: 59
-    images:
-      - url: "https://arynews.tv/wp-content/uploads/2021/01/facial-recognition.jpg"
-        width: 750
-        height: 369
-        isCached: true
-  - title: "Intel Launches RealSense ID, An On-Device Facial Recognition System"
-    excerpt: "Intel has launched RealSense ID, a new on-device facial recognition system that uses the company's RealSense 3D technology."
-    publishedDateTime: 2021-01-07T16:49:00Z
-    webUrl: "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "This facial recognition system can identify people who are wearing masks"
     excerpt: "For this reason, the NEC company has been working for some time to develop a facial recognition system that can identify people even if they are wearing masks. Mission accomplished. The Japanese company has been marketing its mask-proof face recognition system,"
     publishedDateTime: 2021-01-11T14:43:00Z
@@ -206,50 +158,6 @@ related:
       - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "A new normal: Face masks no obstacle for this new Japanese facial recognition system"
-    excerpt: "Japan's NEC Corp launches facial recognition system that identifies people even when they are wearing face masks"
-    publishedDateTime: 2021-01-07T10:44:00Z
-    webUrl: "https://www.geo.tv/latest/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
-    ampWebUrl: "https://www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
-    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/328610-face-masks-no-problem-japanese-tech-firm-launches-facial-recognition-system"
-    type: article
-    provider:
-      name: Geo News
-      domain: www.geo.tv
-    quality: 52
-    images:
-      - url: "https://www.geo.tv/assets/uploads/updates/2021-01-07/l_328610_122102_updates.jpg"
-        width: 700
-        height: 390
-        isCached: true
-  - title: "Masks no problem for NEC's facial recognition"
-    excerpt: "Look into my eyes NEC has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T10:40:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/52160-masks-no-problem-for-nec-s-facial-recognition"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7bf467bf754a86923bd12df78ba60421_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
-    excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
-    publishedDateTime: 2021-01-07T22:05:00Z
-    webUrl: "https://mobileidworld.com/new-dell-video-conferencing-monitors-support-facial-recognition-010709/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
-        width: 359
-        height: 400
         isCached: true
   - title: "This Facial Recognition Program Can Tell Who You Are Even If You're Wearing a Mask"
     excerpt: "One Japanese company says they've developed a system that can bypass face coverings for facial recognition. Veuer's Tony Spitz has the details."

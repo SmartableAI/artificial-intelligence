@@ -2,27 +2,25 @@
 category: news
 title: "Using light to revolutionize artificial intelligence"
 excerpt: "An international team of researchers, including Professor Roberto Morandotti of the Institut national de la recherche scientifique (INRS), just introduced a new photonic processor that could revolutionize artificial intelligence,"
-publishedDateTime: 2021-01-11T18:22:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/indl-ult011121.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-01/indl-ult011121.php"
+publishedDateTime: 2021-01-12T01:57:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/253196_web.jpg"
-    width: 720
-    height: 468
-    isCached: true
+  - AI
 
 related:
   - title: "Two ways of performing massively parallel AI calculations using light"
@@ -54,6 +52,6 @@ related:
         height: 380
         isCached: true
 
-secured: "pkQAwdvtV7wAudgzQ4LUYrRDh3N0bRxPSDL6xZbs5f2ElnspexwoH8ddK1KqUVOjSgsHx91fT5iezdJFryRtJRDCpP5SyybQ17fxL5iHnZ1lbxEhz+emg39kRwf5zCmcVqfCr1Lu5osfSIGUpnjlFBfg/X5rCruHvNfaD5QwcTDbYMWjMxe/1J+7QPnpW4Ra5frgvieyHfsM+odevS4GZxK9TUqeHFF1Ifu6FCY7ZNaj0AEtvEORQCINU7evpSasrjt4bHhDrVj4UNLKA36ESm6iUquqMOHIpa+Slc5bqdRu5Hw7XL2jxnlsp2S4p2MrI8uaDukhDDz36c2hs0LFd2ignVHASCGJFsmysbwCMEB08sRevh0Xj+/i1rqaWkaZt/FC0A9fS3UFz/oao34AmBiug8ku8pU/KEqlOjbgZ7g8PEvCqlUk3BxmrAOixqt72IRhddHXUj+0SAZIk8tqJdOnETB7VGimHVxKFk28WVLkfmIfcaFfr+NgBz1wFizXmFS4nivFz/vcLKJ2MC+Zdg==;MBfoMHPYJSmLiUoTRpyQsQ=="
+secured: "deHzLbDUrh6IigQLrPLqzyvCwCFU69QiZOilw8R3CLkVicdopeZHvrnmvJVF8Kelw8uCORO4y0obV2XhvTQrvPuo0JfuxdV+wYi5YMjlCNluYaMmZhqgxpHbc+EvolYoH3VJnm3y9Niovcb7JUGCgQo7JGz1OMEEuowwNNMipa3rmmtY1ufw694XOddMRaqaMd1b9mtkHZMBpcZFlM4X6NSWDxKztKt8DRQHABiH6CtfvrnbQhkHrnjMtUiNmFcS+A42jmfApIcbIfhc4ai2JqBpnUWs2d0PKu+hllQ+rrpjRtGf16AdEMZlPV44SdeclYGfUYbVxhlApVK/9wogjbqdj0vjVheYHn3ZxhXwF78=;9vcvOJFcoct5F3S4hhtRKw=="
 ---
 

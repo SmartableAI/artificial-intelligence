@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/"
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7771b980-3096-4057-8e1d-b67fa5e631ee.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "Waymo drops the term 'self-driving' for autonomous vehicles"
-    excerpt: "Waymo would like to leave \"self-driving\" for the history books. The Google subsidiary said it will stop using the term. Instead, Waymo says it will refer to its technology as \"fully autonomous driving technology."
-    publishedDateTime: 2021-01-07T09:48:00Z
-    webUrl: "https://europe.autonews.com/automakers/waymo-drops-term-self-driving-autonomous-vehicles"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_1.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "pjPTY5U+2hfwzvM0qyKJhKHAi9xAQlHhnU5axh9uUsLaKWshg6YFoEuO7oR3FnOqS+ZR0+BrcgyWdRXqd4EjH/JCeiQuL5WbwEprWWDb8Wkh6fvuSV1ys8q2P7PW823flrnWB9uDUasWBedmHqa/ZLn2WhbjlMCRapcfGDv+KC/ZDWmYKk5+LiVA6MuljZYgSsogLM6umJdBB03svqXvvZTVzabw7+REXnzptwemrJtdY4voGFeMOjEYHr36W40zHmD4ia8ziATwQqThzwcl3SIBX8/TbsAMKFUUlB12zxGV06EhANbSRa9qnX84pgobSx4+ws3eT1MVn0ukyq7DHWEPHUEApxL4OSxJZ4pHjnUljAzKXqaUmL6wpplmQDC1nGYmZlC/E1ovR9OlISHYakLiT2O4VnJYIfYKz7eUn1YoTH4syyM62Pc5A7F2XXxK8NM8PEElAsTUDj62DNe4gnJx4LM9SKxnnmb4yMiE6q/0w9210HS1gzkTbyM4rOzWa0avZerLwRnYJQLE/biJrg==;M17aRKxSfHyQwmKMH3xpqA=="

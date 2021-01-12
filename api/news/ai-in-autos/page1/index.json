@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-baidu-is-entering-the-ev-industry-tesla-bulls-beware.md",
+      "title": "Baidu Is Entering the EV Industry. Tesla Bulls Beware.",
+      "excerpt": "The Chinese tech giant is working with a Chinese auto maker to build a smart electric vehicle. Investors should expect more partnerships between tech companies and auto makers in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681",
+      "originalUrl": "https://www.barrons.com/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-283366/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681",
+      "publishedDateTime": "2021-01-11T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-gm-self-driving-company-hires-former-delta-executive-as-coo.md",
       "title": "GM Self-Driving Company Hires Former Delta Executive as COO",
       "excerpt": "Cruise LLC, the self-driving car startup majority owned by General Motors Co., has hired former Delta Air Lines Inc. Chief Operating Officer Gil West for the same position as it prepares to start offering paid robotaxi rides in San Francisco.",
@@ -253,7 +296,7 @@
       "originalUrl": "https://www.theverge.com/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -348,7 +391,7 @@
       "originalUrl": "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -500,26 +543,17 @@
       "title": "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup",
       "excerpt": "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
-      "originalUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
+      "webUrl": "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6",
+      "originalUrl": "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6",
       "publishedDateTime": "2021-01-05T21:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1426,41 +1460,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-profitable-2021-portfolio.md",
-      "title": "3 Machine Learning Stocks for a Profitable 2021 Portfolio",
-      "excerpt": "Machine Learning (“ML”) is being integrated into everything, starting from business needs to consumer needs in the Artificial Intelligence ... on the back of its Waymo vehicles, which are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30?amp",
-      "publishedDateTime": "2020-12-30T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

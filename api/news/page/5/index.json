@@ -2,6 +2,163 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-07-facial-recognition-now-algorithms-can-see-through-face-masks.md",
+      "title": "Facial recognition: Now algorithms can see through face masks",
+      "excerpt": "The US Department of Homeland Security has carried out trials to test whether facial recognition algorithms could correctly identify masked individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "originalUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "publishedDateTime": "2021-01-06T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-nissan-source-code-leaked-online-after-git-repo-misconfiguration.md",
+      "title": "Nissan source code leaked online after Git repo misconfiguration",
+      "excerpt": "The source code of mobile apps and internal tools developed and used by Nissan North America has leaked online after the company misconfigured one of its Git servers. Cheat sheet: TensorFlow, an open source software library for machine learning Read More The leak originated from a Git server that was left exposed on the internet with its default username and password combo of admin/admin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
+      "originalUrl": "https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/06/d9b8188d-cc6f-470c-a927-3fe945025185/nissan-logo.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
+      "publishedDateTime": "2021-01-06T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon.md",
+      "title": "AI security cameras inspired by frog eyes could be coming soon",
+      "excerpt": "As well as taking cues from the natural world, the AI cameras also rely heavily on a new camera-processor chip called SCAMP. The chip has a processor embedded in every pixel, making it ideal for AI algorithms looking to rapidly assess visual data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "originalUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/orPkbTPEcv9Z2g5J2ATLYX-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "publishedDateTime": "2021-01-06T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech.md",
       "title": "Researchers find machine learning models still struggle to detect hate speech",
       "excerpt": "Detecting hate speech is a task even state-of-the-art machine learning models struggle with. That’s because harmful speech comes in many different forms, and models must learn to differentiate ...",
@@ -493,6 +650,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-06-sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience.md",
+      "title": "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience",
+      "excerpt": "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-new-ai-tools-aim-to-automate-aspects-of-covid-19-response.md",
       "title": "New AI Tools Aim to Automate Aspects of Covid-19 Response",
       "excerpt": "Hyro Inc., a company that makes plug-and-play conversational artificial-intelligence software, has developed an AI-powered virtual assistant designed to lessen the load of incoming calls for vaccination information and scheduling queries handled by call ...",
@@ -548,26 +748,17 @@
       "title": "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup",
       "excerpt": "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
-      "originalUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
+      "webUrl": "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6",
+      "originalUrl": "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6",
       "publishedDateTime": "2021-01-05T21:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -995,197 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-just-desserts-baking-with-ai-made-recipes.md",
-      "title": "Just desserts: Baking with AI-made recipes",
-      "excerpt": "It’s winter, it’s the holidays and it’s quarantine-times: It’s the perfect recipe for doing a ton of baking. In fact, U.S. search interest in \"baking\" spiked in both November and December 2020. But being in the AI field, we decided to dive a little deeper into the trend and try to understand the science",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/",
-      "originalUrl": "https://blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2021-01-05_at_9.03.38_AM.max-1100x1100.png",
-          "width": 1062,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/amp/",
-      "publishedDateTime": "2021-01-05T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch.md",
-      "title": "Scientists Broke This AI Robot's Leg Then Let It Teach Itself To Walk From Scratch",
-      "excerpt": "In a ground-breaking feat that shows Hebbian learning could be applied to artificial intelligence (AI), scientists have showcased a newly developed mathema",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "originalUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/cbadf7b8-269e-5ad8-ac68-a9bcb0364efa/default-1609856733-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "publishedDateTime": "2021-01-05T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman.md",
-      "title": "IBM appoints former Trump economic advisor Gary Cohn as vice chairman",
-      "excerpt": "In prepared remarks, Krishna said Cohn will serve as a senior representative of IBM as the company works to accelerate its hybrid cloud and AI strategy. Cohn was part of the Trump administration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman/",
-      "publishedDateTime": "2021-01-05T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-ai-cambrian-explosion-2021-predictions.md",
-      "title": "AI Cambrian Explosion: 2021 Predictions",
-      "excerpt": "For the last two years, in January, I have published my predictions about the new AI silicon I expect in the coming year. Like the weatherman, I’ve gotten some details wrong but I’ve been reasonably accurate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/01/05/ai-cambrian-explosion-2021-predictions/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/05/ai-cambrian-explosion-2021-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4950ccc50ec80741037d9%2F0x0.png",
-          "width": 902,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/01/05/ai-cambrian-explosion-2021-predictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/01/05/ai-cambrian-explosion-2021-predictions/amp/",
-      "publishedDateTime": "2021-01-05T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

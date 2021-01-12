@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-08-the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock.md",
+      "title": "The Robot Revolution Will Spark a 15X Rally in This Micro-Cap Tech Stock",
+      "excerpt": "This has coupled with significant advancements in tech hardware production, and ultimately brought us on the cusp of creating a new generation of advanced robots that can think and act like humans. The Robot Revolution is starting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08",
+      "originalUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp",
+      "publishedDateTime": "2021-01-08T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-robotics-continues-to-gain-strong-momentum-5-stocks-in-focus.md",
       "title": "Robotics Continues to Gain Strong Momentum: 5 Stocks in Focus",
       "excerpt": "Robotics technology is constantly gaining steam in the fast-paced world on the back of robust demand for automation, which increases efficiency and ease of work, and saves both time and labor. Further,",
@@ -44,7 +78,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -182,7 +216,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -801,7 +835,7 @@
       "originalUrl": "https://www.theverge.com/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -948,6 +982,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-intel-launches-realsense-id-an-on-device-facial-recognition-system.md",
+      "title": "Intel Launches RealSense ID, An On-Device Facial Recognition System",
+      "excerpt": "Intel has launched RealSense ID, a new on-device facial recognition system that uses the company's RealSense 3D technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp",
+      "publishedDateTime": "2021-01-07T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-how-ai-can-remove-bias-from-the-hiring-process-and-promote-diversity-and-inclusion.md",
       "title": "How AI Can Remove Bias From The Hiring Process And Promote Diversity And Inclusion",
       "excerpt": "Companies have been struggling with how to mitigate and reduce biases of all kinds in their hiring practices, while attempting to promote diversity and inclusion in their cultures and ecosystems, to help their organizations and employees thrive at the highest levels.",
@@ -1000,6 +1077,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-07-nec-says-new-facial-recognition-system-isnt-stopped-by-masks.md",
+      "title": "NEC says new facial recognition system isn't stopped by masks",
+      "excerpt": "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "originalUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/nec-face-recognition-mask.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp",
+      "publishedDateTime": "2021-01-07T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-4-stocks-to-gain-traction-from-fintech-evolution-in-2021.md",
       "title": "4 Stocks to Gain Traction From Fintech Evolution in 2021",
       "excerpt": "Certain behavioral changes induced by the pandemic like online shopping, cashless payments and no-contact deliveries are here to stay and will continue to boost the Fintech space in 2021 and the years to come.",
@@ -1030,145 +1150,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-dall-e-openais-ai-system-can-convert-words-and-sentences-into-images.md",
-      "title": "DALL-E: OpenAI’s AI System Can Convert Words And Sentences Into Images",
-      "excerpt": "OpenAI has developed an AI system that lays its foundations in GPT-3, DALL-E — capable of creating images from natural language texts.",
-      "sourceUrl": null,
-      "webUrl": "https://techlog360.com/dall-e-openai-ai-system/",
-      "originalUrl": "https://techlog360.com/dall-e-openai-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/tl360.b-cdn.net/wp-content/uploads/2021/01/DALL-E-OpenAI-AI-System.jpg?fit=1200%2C630&#038;ssl=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techlog360.com/dall-e-openai-ai-system/amp/",
-      "cdnAmpWebUrl": "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/dall-e-openai-ai-system/amp/",
-      "publishedDateTime": "2021-01-07T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techlog360.com",
-        "domain": "techlog360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-seoul-robotics-a-3d-vision-of-the-future.md",
-      "title": "Seoul Robotics: A 3D Vision Of The Future",
-      "excerpt": "Seoul Robotics leverages LiDAR 3D vision to make robots intelligent and enable autonomous systems from smart cities to smart factories",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff7162c24227293870c722f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
-      "publishedDateTime": "2021-01-07T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
-      "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
-      "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cox-automotive-motional/cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture-idUSL4N2JH3AX",
-      "originalUrl": "https://www.reuters.com/article/cox-automotive-motional/cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture-idUSL4N2JH3AX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "publishedDateTime": "2021-01-07T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

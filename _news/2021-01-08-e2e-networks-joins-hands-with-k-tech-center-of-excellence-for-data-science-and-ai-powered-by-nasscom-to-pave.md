@@ -41,6 +41,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "E2E Networks joins hands with K-Tech Center of Excellence for Data Science and AI - powered by NASSCOM to pave way to an AI driven digital future"
+    excerpt: "India's largest NSE-listed cloud provider E2E Networks has partnered with KTech CoE Data Science & AI Government of Karnataka (GoK) - powered by NASSCOM, a pivotal initiative by GoK to foster disruptive innovation by creating an entrepreneurial ecosystem and create quality human capital to meet the AI talent requirements."
+    publishedDateTime: 2021-01-08T14:01:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20210108/3687719.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "v/Vbhnr33VzEtDhbcRV5Yq1nD0E0I3JIL+92sSjf6p4TQgB9Qd7+jAOmXDOj5doNGsTcp5qEx9JyzHSBHMW+2eeawvIsHFVjtdQkDqIU4uii0c5tpIG5XTVbClE8WHY1rraZV64Fwye6NaL28d9fMZVY5Fj616ClblqsUZ+LcLhEhX+YpVhcJnRpjov67Xqc+xdEaOHl8nY8XOtkp2QML3/r3IKiadZ8Xabz1tO8q6S01KMaxpfRcu4ea6/s9HyigSoxdFkr3hPkwpam6lPMrM3an03bEufjtqNEXHoI+E394kzaRZtt20drXeJ3KdWPKdOXzgP7GP7DaRcOlHrhVxFNi+lpl6DtDV2a/SWGyapvE2RSw2NgFY6DfcAYenI9m9/u17UKzXQ+hySJHM89e1wujfFf7XMDm2Z+Qo4GU+ZCEzYdps3C28p5OnoyU2M/D4quC5qBFCkL391H7TXEuln0Glbm6ZC/H2/ZV3bLh2MucDjPscaZBsyX4z6/G1+GkAnNdIrYQmmzn/7EbYFpPQ==;/uhq3mf+sTeqLaZYiqUmLw=="
 ---

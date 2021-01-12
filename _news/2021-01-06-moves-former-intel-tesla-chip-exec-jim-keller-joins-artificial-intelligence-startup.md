@@ -3,8 +3,10 @@ category: news
 title: "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup"
 excerpt: "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips."
 publishedDateTime: 2021-01-06T05:31:00Z
-originalUrl: "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in"
+originalUrl: "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6"
+webUrl: "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6"
 type: article
 
 provider:
@@ -20,12 +22,6 @@ topics:
   - AI Hardware
   - AI in Autos
 
-images:
-  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "spK3xGN1D86cXUWWQMsy0YT7iWOp2+vlf2cz3MwchHyPlQ8xgSRwcbbpRZSkVXwoqmdyOynb8O9ovXeE7BW+Yes6yv3oXtRtBY2nD0WJQXNjK/8X2dmpCXoA3KrktencnZ93QPJV+agOaGIF+WgmnuuXkZXyEGU2TqIn/EdGXvWpB4QLSvV+kNONvXb/bG1jpYDHqSV17wrD+kee0OuajU7Zs1epafoXAo2Asa1pv3CiuwrVW9azzJ2q0bcgbtBX8db17K8dwhE3CZ1VSpN7/lvoj3SlU5FW3bNsobjQEYFTfjRivNleCS+LzBlha7ZtVPY/1hVNyGcAjIqgarJRwA0tIOttb2zvC0D165aMyrI=;3vM4bNeBA8YlouyzzgXVzQ=="
+secured: "nRYgfKSNhMRkLrv9rsch9SPU3ZGvqy+Qingnouj8I05R+hjGAtB7dlcmcJJcanXsLQ/9IaRVC4VwKO1v09M49F5vxvvRk02Es6kIHWl3OTNSoEm/yqcKAQsU2Wuoe/SNmiaKkgprONJCccBbZSU8E41INtdTupa1vKe8x1PRdSManaP1Cq1QOo4jO0TtHRah/NGnvETWasChOKxtvs5FZMlt06DDiPq5OE0n3Q/stINycAK+hUxjgaDFjeI18jum9PJL7PdGGck57+StsALnVAuFm1nKqWc0Vsqyr1ycuql1REeSR75EziC93lWH9vORYwpL+ExXiPvDdiV4TEOMrYU9ARAKbixwW2N3OZDAghU=;tRf44gZuYq6ZHe0EBC27tQ=="
 ---
 

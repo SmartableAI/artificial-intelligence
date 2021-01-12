@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
+    excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
+    publishedDateTime: 2021-01-07T22:05:00Z
+    webUrl: "https://mobileidworld.com/new-dell-video-conferencing-monitors-support-facial-recognition-010709/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
+        isCached: true
   - title: "Were Antifa Members Identified at Capitol Riot with Facial Recognition Software?"
     excerpt: "False rumors on social media were given the appearance of credibility when they were rehashed in a new article."
     publishedDateTime: 2021-01-07T18:40:00Z

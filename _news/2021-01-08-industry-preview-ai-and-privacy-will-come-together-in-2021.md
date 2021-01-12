@@ -51,22 +51,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Microsoft's AI model has outperformed humans in natural language understanding"
-    excerpt: "Microsoft's DeBERTa model for natural language understanding has outperformed humans in SuperGLUE benchmarks, defeating Google's model which just set the previous record a couple of days ago too."
-    publishedDateTime: 2021-01-07T09:48:00Z
-    webUrl: "https://www.neowin.net/news/microsofts-ai-model-has-outperformed-humans-in-natural-language-understanding"
-    ampWebUrl: "https://www.neowin.net/amp/microsofts-ai-model-has-outperformed-humans-in-natural-language-understanding/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-ai-model-has-outperformed-humans-in-natural-language-understanding/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 100
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2017/11/1510041776_robot_story.jpg"
-        width: 760
-        height: 429
-        isCached: true
   - title: "Microsoft Healthcare Bot Service Becomes Azure Health Bot"
     excerpt: "Microsoft Healthcare Bot has folded into Azure to become the Azure Health Bot services, with plenty of new abilities included."
     publishedDateTime: 2021-01-07T14:19:00Z
@@ -142,6 +126,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/verily-768x431.jpg"
         width: 768
         height: 431
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth | IBM, Google, Amazon Web Services, Microsoft"
+    excerpt: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth \\| IBM, Google, Amazon Web Services, Microsoft iCrowdNewswire Jan"
+    publishedDateTime: 2021-01-12T01:15:00Z
+    webUrl: "https://menafn.com/1101419667/Artificial-Intelligence-as-a-Service-Market-is-Booming-Worldwide-to-Reach-Highest-Growth-IBM-Google-Amazon-Web-Services-Microsoft"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "Se4zdp5xclwkfQSucQnIEpoTnbOdzJHRWXKVPX+L2VXasRIt1ARZZAFdiUaqjpwSVjll3xHC68KjK7i2RM+tdPF1nYLfNB+RA+9A+p5G4q8XbYWJw+fJsUgeUENQx5Gi3M3UsKU882c0nXFs6d1IyPtpBMd908ajQufNWjeneOR4HqxhA7Dk+vnzThFyRAhFdzjzq2IVzoYdOJqAD8sib59rjTP5qXta9NFAypWkhsOtxz4xQJ+sSDnp7Qw036OQWE8n9/Xr9/7BB7ZHcw3iemIEOziAMQo0BVXXJc1NCYq52l+ACWkIFkubMngzpzd4KV+ds0Z0tFf0562Yb83Q/VAFae0FrmEhuE13lkbr2cw=;eds26MRG9Ifpw+NTMS1FzQ=="

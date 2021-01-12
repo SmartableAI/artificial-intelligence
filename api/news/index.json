@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style.md",
+      "title": "Philips Sonicare 9900 Prestige toothbrush uses AI to adjust to your style",
+      "excerpt": "Machine learning and AI are the buzzwords in tech these days and almost all new products add these to their bullet points as a selling feature. Although they have long been using such marketing",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
+      "originalUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/philips-9900-prestige-in-use.download.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
+      "publishedDateTime": "2021-01-11T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-hosting-a-private-pypi-server-for-amazon-sagemaker-studio-notebooks-in-a-vpc.md",
       "title": "Hosting a private PyPI server for Amazon SageMaker Studio notebooks in a VPC",
       "excerpt": "Amazon SageMaker Studio notebooks provide a full-featured integrated development environment (IDE) for flexible machine learning (ML) experimentation and development. Security measures secure and support a versatile and collaborative environment. In some cases, such as to protect sensitive data or meet",
@@ -774,6 +825,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-baidu-is-entering-the-ev-industry-tesla-bulls-beware.md",
+      "title": "Baidu Is Entering the EV Industry. Tesla Bulls Beware.",
+      "excerpt": "The Chinese tech giant is working with a Chinese auto maker to build a smart electric vehicle. Investors should expect more partnerships between tech companies and auto makers in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681",
+      "originalUrl": "https://www.barrons.com/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-283366/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681",
+      "publishedDateTime": "2021-01-11T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-2021-technology-trend-review-part-1-blockchain-cloud-open-source.md",
       "title": "2021 Technology trend review, part 1: Blockchain, Cloud, Open Source",
       "excerpt": "Blockchain's DeFi-ning moment. Cloud, Kubernetes, and GraphQL. Open source is winning, open source creators are losing. A reality check on key technological drivers for the new decade.",
@@ -1188,112 +1282,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-gm-self-driving-company-hires-former-delta-executive-as-coo.md",
-      "title": "GM Self-Driving Company Hires Former Delta Executive as COO",
-      "excerpt": "Cruise LLC, the self-driving car startup majority owned by General Motors Co., has hired former Delta Air Lines Inc. Chief Operating Officer Gil West for the same position as it prepares to start offering paid robotaxi rides in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii4e.7a3qcDM/v0/360x-1.jpg",
-          "width": 360,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "publishedDateTime": "2021-01-11T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras.md",
-      "title": "Ambarella unveils 8K AI vision processor for car, drone, and robot cameras",
-      "excerpt": "Ambarella has unveiled the CV5 AI Vision Processor to handle 8K image processing for car, consumer, crone, and robot cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/",
-      "originalUrl": "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ambarella-ces.jpg?w=1200&strip=all",
-          "width": 480,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/amp/",
-      "publishedDateTime": "2021-01-11T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware",
-        "Computer Vision"
       ]
     }
   ],

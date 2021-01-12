@@ -34,7 +34,7 @@ related:
     provider:
       name: Pasadena Now
       domain: pasadenanow.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/01/Yisong-Yue-Credit-Caltech.jpg"
         width: 449

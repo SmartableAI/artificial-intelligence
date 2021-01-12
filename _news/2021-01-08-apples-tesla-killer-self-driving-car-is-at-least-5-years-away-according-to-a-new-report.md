@@ -109,20 +109,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Waymo drops the term 'self-driving' for autonomous vehicles"
-    excerpt: "Waymo would like to leave \"self-driving\" for the history books. The Google subsidiary said it will stop using the term. Instead, Waymo says it will refer to its technology as \"fully autonomous driving technology."
-    publishedDateTime: 2021-01-07T09:48:00Z
-    webUrl: "https://europe.autonews.com/automakers/waymo-drops-term-self-driving-autonomous-vehicles"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_1.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "yZXR8sUlBUYCxOU/+A6VcTkAlSJr8KMf6FiqjhsOWr6A8DPm6WfXINkjtAcebzKgQdZNQ8/aLDfjnQN2aP2FNZ5voj6/OCEKO6nrsEwh5oazMzJLmlYqoRF7OmO02ZdHfu/WGTulmhc7mMhdkWlUjlKla68vnQ6Gwb2EFsE+AATUC8jwyOP+QTP64jqFuTScGG+XGHE/GXoVrlOnKfuaAQ538F/m414Aa27804pJHy12QQcPbjounRMAsIbjUEE38zJdvhcaixxS2bXdKEpR5+vgiT8lTuvatSghic22/AKQt6ZBbZhMNgnQlOENYF4sbQe+yX1ueBPu7i83AMAOH3pezxKSjMBCmtUHNVwyIigxPx9XFrXY5KfWyfA/WhEhk+CjjT0wQGsEm0wRHuph2X505Te6RIH7wLoD8IY4k+wxu0cyReup/N+N0SPWNSZ1wQ8ji3WQ46wwmvmzGzPcgZzHo/BHMikJ9Mg5INZNdhJT8wMa4irqUQ4h9+DE28iPb6EQgcJihHsjB96VF6iYag==;Nuxf0ThU3d7NPsIKn86bCQ=="
 ---
