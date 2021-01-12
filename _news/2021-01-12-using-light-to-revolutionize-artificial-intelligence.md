@@ -37,6 +37,17 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "How AI Might Change the BI Experience"
+    excerpt: "Natural language processing coupled with speech interfaces have been promising to change the way end users interact with applications for quite some time. However, Amazon Web Services (AWS) at the recent AWS re:Invent conference made a bold promise to specifically transform how end users interact with business intelligence (BI) by enabling them to launch verbally query data."
+    publishedDateTime: 2021-01-12T20:52:00Z
+    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-changes-the-bi-experience.html"
+    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-changes-the-bi-experience.html"
+    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-changes-the-bi-experience.html"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 39
 
 secured: "deHzLbDUrh6IigQLrPLqzyvCwCFU69QiZOilw8R3CLkVicdopeZHvrnmvJVF8Kelw8uCORO4y0obV2XhvTQrvPuo0JfuxdV+wYi5YMjlCNluYaMmZhqgxpHbc+EvolYoH3VJnm3y9Niovcb7JUGCgQo7JGz1OMEEuowwNNMipa3rmmtY1ufw694XOddMRaqaMd1b9mtkHZMBpcZFlM4X6NSWDxKztKt8DRQHABiH6CtfvrnbQhkHrnjMtUiNmFcS+A42jmfApIcbIfhc4ai2JqBpnUWs2d0PKu+hllQ+rrpjRtGf16AdEMZlPV44SdeclYGfUYbVxhlApVK/9wogjbqdj0vjVheYHn3ZxhXwF78=;9vcvOJFcoct5F3S4hhtRKw=="
 ---

@@ -75,6 +75,17 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
+    excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
+    publishedDateTime: 2021-01-12T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Microsoft AI Transformation Customer Stories"
     excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."
     publishedDateTime: 2021-01-09T08:27:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/intel-wants-to-bring-affordabl
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: TechRadar
@@ -29,6 +29,22 @@ images:
     width: 690
     height: 388
     isCached: true
+
+related:
+  - title: "China to let self-driving cars be tested on highways"
+    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
+    publishedDateTime: 2021-01-12T08:10:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
+        width: 1198
+        height: 797
+        isCached: true
 
 secured: "6bQCTP9NWvHQb573PpCVCMPzhpICKNafvZFZlPh9mzNoJs1n8eNjYYysbl4xEK0204VMf9SanCjPfqDmkXuAKGXyoliZ1zllYRH6zvBgpeTajHlnobt9znGzfcScyc5xGc/0TGjBP7yc4a54VvnGzA33NfhoST+OkKzR1naVHKp9HjZQJWIyhCAPKltMqSMr32L7wrtuHPTseI6s9YrOHnpMR3g32z8ac8nYcu5A2lUZ6icgifaEQ9qmcALiVjeDzk6WivCJLsiqtfDYiZlGREI9/O/OVcYK4XqEJzhVa3Kgt+UAX/9QY9jOvwtR4DA3iUreuYx+piFJJlpu/9Jer3apkGlGGM0V0X1XspxdJUc=;2d7+rKn/BYD6GtaSX2oZbw=="
 ---

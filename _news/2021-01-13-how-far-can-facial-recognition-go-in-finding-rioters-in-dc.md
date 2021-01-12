@@ -43,22 +43,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Fact check: False claim of facial recognition of antifa members during U.S. Capitol riot"
-    excerpt: "Facial recognition software firm XRVision has refuted a now-retracted story that its product matched rioters at the U.S. Capitol to members of antifa."
-    publishedDateTime: 2021-01-08T03:53:00Z
-    webUrl: "https://www.azcentral.com/story/news/factcheck/2021/01/07/fact-check-false-claim-facial-recognition-antifa-capitol/6580679002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6580679002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6580679002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/7ce53165-1d79-47b5-a5c2-f8322c17a71a-AP_Congress_Electoral_College.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fact check: Facial recognition company did not identify Antifa members among Capitol mob"
     excerpt: "A news outlet that reported that a facial recognition company identified members of Antifa among the mob that stormed the U.S. Capitol has now apologised and issued a correction. Screenshots featuring the original report,"
     publishedDateTime: 2021-01-09T02:13:00Z
@@ -158,6 +142,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "y2W5Gg1W6YnGTUAho3tn//EJH3lsZg0DNZWKFyPtYtQ4UsNaqaWPCv+i9k14p28GZXtRMcGZZHMP/VBtf3K6Zpqa4n1yr5TPYFsW/AJinzO66l/obfqL2WBCDOgOK1ZhPuLBZmYJ5v9IgaVkcIaVOiVNWRQtaNS9G/hPs7LPCDd2RuON/wL3Rub7NLRi43735HQ/KYGoa37Brgn0JnrUCOIipv2DQHpJzjg41/rBMNY+1U7d/i9eNi4ZMk+GoVWOMjyk+tgskIS3YSTgE5ZMWGS+s3EP2j5UNiJ/QKYIz5k5aRSZ11JYIhMOHRkDXLLUgqQyuhY/a1+Olb15B8rq9Kxnc9SI7oI/6Y86wmV2TU8=;wECNutYBQQJjl3/x6Juouw=="
+secured: "LNhZnMq2sysuectLcgHmovFZjwI/EmuWqw5Zr4u7ZtVojru5VBs6hBFZHvHOI/Hv+4wRkGOWX80H++PJsOKgSw3WYdzmxnelabMz2jabVi7q/HgF7IeRhT3Zlt5fxSzi95O6bMJVsqbVvk4WCsB7gAbg6dzO4Htulof68yqOFw3JJC4LaqekThzbWSqz3ul+bDk54os4uJGI1kxHO27uk3s5SCG7bQuD55Ci7x04y01+bX5S4ZIjwzwEbnM657XJxNU604DIy8rDekgJP/ir8NxUZvvljCIkRfiUispm7jCpAnLbcP1D2MEYQYqdiF8bK5H3TIbdTQTDqM5fTrUO8uZGDoxWuPDJcQUXyWEoW2PpETz/pEPVO3tpWSy3Y/ysyZvgsXGhnST5q7yBDgFsqT3Bc1EqzewZstM9ZoKaJgbS0/Q0oFGCQCN+7TQ8YJNI0loKOc6f/mRgGcy9wR5f2KgiewMRxl7+gZYcsqyJRgBmfpIdKD2s1uaDewPsJy/Jo/zVQ9+F8G7kTHnWOClv4A==;q5YkTM8+U6iJo7o4QrWAXw=="
 ---
 

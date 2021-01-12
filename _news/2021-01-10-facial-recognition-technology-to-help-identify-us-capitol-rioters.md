@@ -87,6 +87,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Facial recognition and social media may get Capitol rioters caught"
+    excerpt: "Just because they made it home doesn't mean they're home free. Police have identified dozens of suspects and are working on more."
+    publishedDateTime: 2021-01-12T19:08:00Z
+    webUrl: "https://www.app.com/story/news/crime/jersey-mayhem/2021/01/12/capitol-riot-facial-recognition-social-media/6599996002/"
+    ampWebUrl: "https://amp.app.com/amp/6599996002"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/6599996002"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/82bbae71-c9cc-45a4-b521-853dcad8d24a-GTY_1294932395.jpg?auto=webp&crop=7028,3954,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Video, cellphone and facial recognition data may lead police to Capitol rioters"
     excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologies to assist in the identification of anyone who was there that day."
     publishedDateTime: 2021-01-08T23:31:00Z

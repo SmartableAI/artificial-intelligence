@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-the-weather-company-raises-gpu-storage-forecasts.md",
+      "title": "The Weather Company Raises GPU, Storage Forecasts",
+      "excerpt": "For those who follow supercomputing, weather forecasting is one area to watch for systems that are designed for maximum capability. Unlike the many other",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
+      "originalUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/29ibm-web-superJumbo.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
+      "publishedDateTime": "2021-01-12T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu.md",
       "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
       "excerpt": "The new 13-inch gaming PC converts between a laptop and tablet via a 360-degree hinge and gets a performance boost from an external GPU.",
@@ -801,8 +844,8 @@
       "title": "Learn about NVIDIA in Cambridge and its plans for a global AI research centre",
       "excerpt": "NVIDIA recently announced its acquisition of Arm and its intention to develop a new global centre of excellence in AI research in Cambridge. Join Cambridge Network for a special online event on Thursday 28 January,",
       "sourceUrl": null,
-      "webUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
-      "originalUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
+      "webUrl": "https://www.cambridgenetwork.co.uk/news/611084",
+      "originalUrl": "https://www.cambridgenetwork.co.uk/news/611084",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1421,58 +1464,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-how-nvidias-ampere-gpus-could-drive-growth.md",
-      "title": "How NVIDIA's Ampere GPUs Could Drive Growth",
-      "excerpt": "GPUs are the core of the chipmaker's accelerated computing products. They bring market-leading performance and energy efficiency to various industries, from graphics and design to data science and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606194%2Fnvidia-a100-gpu1.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "publishedDateTime": "2020-12-28T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

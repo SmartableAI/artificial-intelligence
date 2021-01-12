@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Conversational AI Platform Software Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "Impact of Covid-19 on the Conversational AI Platform Software market: [Covid-19 is an unforeseen and unprecedented situation that has turned the whole world upside down. And like all major disruptions,"
-    publishedDateTime: 2021-01-08T04:03:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-software-industry-8ba37ad01e16ebe125d0e262def1dc11"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 2
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "MnokLNqFCyCrddjKLlsNH25XIJWZ2cLLjrw7VE2bMzXvvy9QvdV8ghmWfkk9qP2Jiy7aC5Ph9TeAg7ewGvtAqryGN2FIw/jbRJwkIpJ6uUi+M/hUHsYKIjrBnIlpivZjCn2jMTjQJbovgiFMyAMjqyOGNugVEjICt8Ck568k01FvHlN+WXjsXq08/jab8LvqsL4pgUWJWwMp9sGZ40LGA8ZB/wBKHvwjiNwmWdJvwSYMrNg9GDYaMfppEIDXo9N7XV/GsZx37ex5BS1dPQdciaSuahKuH5eHYCtcpu0/DF4OLVa1U5SnFO34Vl9a3jLSutZcoLsZ+2oOo1Q61SEb0eOUfAKI11fLHTaglObkk04=;+OV16sRajPQ5JmVEs4D0Gg=="
 ---

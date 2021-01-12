@@ -2,6 +2,152 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-12-09-cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition.md",
+      "title": "Cisco unveils revamped Webex experience, including noise cancellation, AI-powered gesture recognition",
+      "excerpt": "Cisco announced a bevy of new features within its Webex portfolio on Tuesday, as the company ramps up its efforts to compete with rival collaboration players such as Zoom, Slack, Google Meet and Microsoft Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/f1cdb0b1-e45b-4d77-8edb-9941bef8c0d7/reaction-dark-1024x576.png",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "publishedDateTime": "2020-12-08T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world.md",
+      "title": "Study finds that few researchers thoroughly test adversarial attacks on surveillance AI in the real world",
+      "excerpt": "In a new study, researchers find that few adversarial techniques purporting to protect against surveillance AI have been thoroughly tested.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/",
+      "originalUrl": "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/",
+      "publishedDateTime": "2020-12-08T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations.md",
+      "title": "ViacomCBS Taps AWS as Cloud Provider for Broadcast Operations",
+      "excerpt": "Amazon Web Services and ViacomCBS have announced a strategic partnership that will see AWS become the cloud provider for ViacomCBS’ global broadcast media operations. This deal will see the migration of ViacomCBS’ 425 linear TV channels and 40 global data and media centers to the AWS cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "originalUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/otUuP58TKN4bPkNUZ7urJ3-1200-80.jpg",
+          "width": 434,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "publishedDateTime": "2020-12-08T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-can-ai-help-you-binge-books-bingebooks-is-a-new-service-to-do-exactly-that.md",
       "title": "Can AI help you binge books? BingeBooks is a new service to do … exactly that",
       "excerpt": "The pandemic has been terrible for many industries, but the book industry has gotten a rare reprieve in an otherwise dismal past decade. Locked in homes and forced to socially distance from others, us humans have more time on our hands and more need to connect to characters than ever before.",
@@ -1028,143 +1174,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
-      "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
-      "excerpt": "the startup provides an all-in-one solution for industry end users looking to harness artificial intelligence in industrial robots. \"We intend to solve pain points in industries with our capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b-301188176.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b-301188176.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1360916/Mech_Mind_Product_Map.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-how-artificial-intelligence-could-widen-gap-between-rich-poor-nations.md",
-      "title": "How Artificial Intelligence Could Widen Gap Between Rich & Poor Nations",
-      "excerpt": "Cristian Alonso is an economist in the IMF’s Fiscal Affairs Department; Siddharth Kothari is an economist in the IMF’s Asia and Pacific Department’ Sidra Rehman is an economist in the IMF’s Middle East and Central Asia Department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ipsnews.net/2020/12/artificial-intelligence-widen-gap-rich-poor-nations/",
-      "originalUrl": "https://www.ipsnews.net/2020/12/artificial-intelligence-widen-gap-rich-poor-nations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ipsnews.net/Library/2020/12/robot-named-Sophia_22_.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T23:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-the-aftermath-of-covid-19-future-of-logistics-reimagined-with-ai.md",
-      "title": "The Aftermath Of COVID-19: Future Of Logistics Reimagined With AI",
-      "excerpt": "With the waves of disruption slowly settling, logistics firms are now actively on the hunt for creative ways to optimize their operations",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/361169",
-      "originalUrl": "https://www.entrepreneur.com/article/361169",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607409180-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361169",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361169",
-      "publishedDateTime": "2020-12-07T22:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

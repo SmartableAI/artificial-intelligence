@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-ea
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
 type: article
 quality: 59
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hyundai Stock Surges After Report Of Early Stage Talks With Apple On Self-driving Vehicles"
-    excerpt: "Shares of Hyundai Motor surged 20 percent in Seoul after the Korea Economic Daily reported that the South Korean automaker is in"
-    publishedDateTime: 2021-01-08T04:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-stock-surges-after-report-of-early-stage-talks-with-apple-on-self-driving-vehicles-1029942411"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
     excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
     publishedDateTime: 2021-01-11T08:00:00Z
@@ -107,15 +98,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 14
-  - title: "Hyundai may not be the only partner for Apple on electric vehicles, Wedbush analyst says"
-    excerpt: "Shares of Hyundai Motor soared on Friday on the news that it is in talks to join with technology icon Apple ( link) to make a self-driving electric vehicle. But one analyst says even if those talks come to fruition,"
-    publishedDateTime: 2021-01-08T03:49:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210108189/hyundai-may-not-be-the-only-partner-for-apple-on-electric-vehicles-wedbush-analyst-says"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 10
 
 secured: "OfU2pKFc7eS1c8qXglTpIpEkhzQIi3HCVzz8X/T0rZ+BWoEA5W9r3DGzLiR4u1tUlCoHfQ1q9/6PHU6vOzVWz51eFJ/AOTDxDylhvyiELibK5oyvXh9Q54Gx/GOVyr8GsRQD93zh9jpDmvHXj8Au28egPj7eep4dOq88u3yjfIP/s2g/1wE+GjgQFm8SuOcUuVW5GVrlln0KFnayN9FrqqClg4PJA9i4FEOkPUNW0i+SgyAGdnnzatgQ2cs4Oc0Qts8BxYaA1IvlSsE41ylQmCQnAQ2uS4svr+o7pv3fzERilAcknXhTpydOUeulBY1NzUaAwm5miQC307yMowk8nWV2p71UFUTlCe6iY5wSTELwi8UT57yQ0PCp/32KD/OsbYfun3F+ZG6gQXqFXAc+hb27W0r2nJsgNKsAHsEDsYB3y9pmNF2aidtWo3pkYllTVVyac3o4CkNCiXSDQ5m2+2Cnv4WPiEGn3sp3jjcV5GtVENPWPgkdw+bNZKvjYfbcsRXM7W7OJEyGQ4YSgWIvyg==;ACLtMhQzC8FWers6hI54zQ=="
 ---

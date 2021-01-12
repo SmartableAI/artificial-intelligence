@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-12-samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu.md",
+      "title": "Samsung introduces the 5nm Exynos 2100 with 10% faster CPU, 40% faster GPU",
+      "excerpt": "Samsung has formally introduced its latest flagship mobile processor, the Exynos 2100. It features an octa-core CPU with a top-tier Cortex-X1 core, and up to 40% more graphics performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu",
+      "originalUrl": "https://www.neowin.net/news/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/01/1610461044_exynos_2100_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/",
+      "publishedDateTime": "2021-01-12T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-chinas-search-giant-baidu-to-set-up-an-ev-making-venture.md",
+      "title": "China’s search giant Baidu to set up an EV-making venture",
+      "excerpt": "China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/",
+      "originalUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/apollo-baidu-e1610341383915.jpeg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/10/baidu-electric-car-making/amp/",
+      "publishedDateTime": "2021-01-12T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448.md",
+      "title": "Artificial Intelligence (AI) In Healthcare Market is Expected to reach 46.2 billion USD by 2026, at a CAGR of 44.8%",
+      "excerpt": "In Healthcare Market size is expected to grow from USD 4.8 billion in 2020 and reach USD 46.2 billion by 2026; it is projected to grow at a CAGR of 44.8% during the forecast period. The report presents the market competitive landscape and a corresponding detailed analysis of the major vendor/key players in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google.md",
+      "title": "Artificial Intelligence for Edge Devices Booming Segments; Investors Seeking Growth| Baidu, Intel, Google",
+      "excerpt": "Global Artificial Intelligence for Edge Devices Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 This report studies the COVID-19 Outbreak-Global Artificial Intelligence for Edge Devices market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-absci-acquires-ai-startup-denovium-to-boost-synthetic-biology-platform.md",
       "title": "AbSci acquires AI startup Denovium to boost synthetic biology platform",
       "excerpt": "AbSci has acquired Denovium, a 6-person bootstrapped startup out of San Diego that uses deep learning to analyze the function and behavior of proteins. The deal will help bolster AbSci'",
@@ -658,7 +866,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -903,8 +1111,8 @@
       "title": "How AI is improving operational efficiencies across oil and gas, healthcare, and more",
       "excerpt": "Arificial intelligence is being used in many industries today, and it's only expanding. Here are some use cases to explain the challenges and benefits of AI adoption.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "webUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "originalUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -921,8 +1129,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/recent/index.php/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/recent/index.php/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
       "publishedDateTime": "2021-01-11T08:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1052,213 +1260,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-2021-technology-trend-review-part-1-blockchain-cloud-open-source.md",
-      "title": "2021 Technology trend review, part 1: Blockchain, Cloud, Open Source",
-      "excerpt": "Blockchain's DeFi-ning moment. Cloud, Kubernetes, and GraphQL. Open source is winning, open source creators are losing. A reality check on key technological drivers for the new decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/",
-      "originalUrl": "https://www.zdnet.com/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/11/8c84e22d-c1a3-44fa-a1ff-8a1d99add9c7/eth-2-transitions-775x439.jpg",
-          "width": 775,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/",
-      "publishedDateTime": "2021-01-11T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently.md",
-      "title": "Samsung's new washers and dryers use AI to clean your clothes more efficiently",
-      "excerpt": "Samsung announced a new series of front-load washers and dryers that use artificial intelligence to reduce the time it takes to clean your clothes. The new models are part of the Samsung 8800 Series that sit near the top of the 2021 range and will be the only models to use the new AI-powered Optiwash mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently",
-      "originalUrl": "https://www.techradar.com/au/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/H7pBB2544H9wYUgHdQ8zeW-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently",
-      "publishedDateTime": "2021-01-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier.md",
-      "title": "Microsoft's Power BI and DirectQuery: Making data analysis and visualisation easier",
-      "excerpt": "Mixing datasets to generate complex insights can help even the smallest organisation maximise business value from its data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/11/bdf92a85-ff6a-4ca8-9dc6-c1568df3cb28/resize/1200x/50c9144aa13bac2aefd673276c636f1b/istock-679353026.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "publishedDateTime": "2021-01-11T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs.md",
-      "title": "AI Drug Discovery Startup Valo Raises $190 Million And Unveils Cancer Therapy Programs",
-      "excerpt": "The Boston-based company aims to accelerate the drug discovery process for cancer therapies that are both more effective and less toxic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexknapp/2021/01/11/ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs/",
-      "originalUrl": "https://www.forbes.com/sites/alexknapp/2021/01/11/ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffbcd6ed1f8d43cb34beaad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D237%26cropY2%3D2505",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2021/01/11/ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2021/01/11/ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs/amp/",
-      "publishedDateTime": "2021-01-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

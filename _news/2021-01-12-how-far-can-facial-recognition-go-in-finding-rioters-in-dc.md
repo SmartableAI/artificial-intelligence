@@ -43,22 +43,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Fact check: False claim of facial recognition of antifa members during U.S. Capitol riot"
-    excerpt: "Facial recognition software firm XRVision has refuted a now-retracted story that its product matched rioters at the U.S. Capitol to members of antifa."
-    publishedDateTime: 2021-01-08T03:53:00Z
-    webUrl: "https://www.azcentral.com/story/news/factcheck/2021/01/07/fact-check-false-claim-facial-recognition-antifa-capitol/6580679002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6580679002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6580679002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/7ce53165-1d79-47b5-a5c2-f8322c17a71a-AP_Congress_Electoral_College.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fact check: Facial recognition company did not identify Antifa members among Capitol mob"
     excerpt: "A news outlet that reported that a facial recognition company identified members of Antifa among the mob that stormed the U.S. Capitol has now apologised and issued a correction. Screenshots featuring the original report,"
     publishedDateTime: 2021-01-09T02:13:00Z

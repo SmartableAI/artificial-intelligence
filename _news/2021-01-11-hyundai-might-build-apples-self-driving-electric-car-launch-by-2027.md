@@ -75,15 +75,6 @@ related:
         width: 640
         height: 479
         isCached: true
-  - title: "Hyundai Stock Surges After Report Of Early Stage Talks With Apple On Self-driving Vehicles"
-    excerpt: "Shares of Hyundai Motor surged 20 percent in Seoul after the Korea Economic Daily reported that the South Korean automaker is in"
-    publishedDateTime: 2021-01-08T04:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-stock-surges-after-report-of-early-stage-talks-with-apple-on-self-driving-vehicles-1029942411"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
     excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
     publishedDateTime: 2021-01-11T08:00:00Z
@@ -107,15 +98,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 14
-  - title: "Hyundai may not be the only partner for Apple on electric vehicles, Wedbush analyst says"
-    excerpt: "Shares of Hyundai Motor soared on Friday on the news that it is in talks to join with technology icon Apple ( link) to make a self-driving electric vehicle. But one analyst says even if those talks come to fruition,"
-    publishedDateTime: 2021-01-08T03:49:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210108189/hyundai-may-not-be-the-only-partner-for-apple-on-electric-vehicles-wedbush-analyst-says"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 10
 
 secured: "d1NMG+MDhV+B5SRpXc2gIQ55tJQ9WMIy67M29TgFvD+ZofdTWfwSO1GyRneZSOe4wE2JYHdvG9jgjOoXnXrTY5o2w410shM7TkGHVyKYAzcA5FkEFJi1ifplEFK/Z/FYoqQKUU7Ms9ncbouwHOx6NPVV35taC+3SMOuIYI9k+x3P5pdm1WZo2CXITH08BWOHprEmH3nlj7jmiB7R0Ss+cd671Cb/xli02nH/pi9aGUAxpz62fBahcKrqEWA8yuaqVS7iZjb7j1y8pLgHNMaETgnzkvVu/SRDz6RaMumtXiAYLMwrBpz7KTFD7dOHPU1efW6k8tORAwcnGyG9/wqtfglHOQZzBOImCxM0crTAfm8=;v/DvLX+PRZKs8JBNZykEFA=="
 ---

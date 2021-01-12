@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/12/google-trained-a-trillion-paramet
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "1y22ZkCkKUqgyuTCwuAn1vB36m2wzZmrNQ5KtdMIgK5Lig1qbBf4+OEQxSAKsZuWG9UDwngTzG1pwbYahQ4QtxMDHd0DmIniJBRd9IBc6QeTPOo2P8xhyqu+N83QWlLZ9WWli1BgewCDH7v5DawI0YTnD5CEl7ymDfGLZEH7fmJkbjK7u/kqath77rC4V2WIwHkVRNNXzTbjCERb7s13buEnXoIpHg2bC3tMLmsRER9W/9oPzJTgrb4pFr5l5YPHbs0m+QmBlJ5s7jTJAVp14n0TkU/aK2dBKhMoS5KtSZF8oPHgeNC97WZgk9WxoXYYOnjZNotmDbmdXcFHpZ56mDeCMF0VG+92mINK8R6nSmM=;+RjDu2iMWhBaolgm+dcZxQ=="
+secured: "kjB7HxtWXy2EOfJHxeR/rvH0xhSdmCbeZXtZslfiK7g/j3uPTvjhkM+SFAwHjJN/K9NbFDDFg2jPH7/nl02nN03H4wNLBqmsFkgC3mvLSXS2nLvM9nANDhmmElInY0cTahdBbkX9g5pKaAJQOYMPLNGTjKpxpsTmpBVpyhT1lsF3fpxZupinLzcIlUM8NbZsHqUNdXPgaEkFspuZxtjcSOOUS96z5iaE9zvNwWBXgM+0d9lqVLL6XfifEF0I3dCs4s1QAgBMIF3Yhqnpk69NMbiw7o7o6C5jvfhi+JDCmmMKmYop5JfaIVhuBu/4E29z48Wq1Hy3oUkuTI1AOlmggX/iDlDEkh1vhHYpoiZvphvlnUfEKN6e2ZSwIowhgEE53jz/bRdD8btvU3Td1p/LLSoVLeG7el95MvIXvaU1mO0Brq9GpRQDBBhMg5c5yeDYc6t95kQYyMfBhKEJ6UlpPh/pZeCbl/UCHZ4IbURrImz8T2RVEMfZ6zX1+JLk8SbLAzl1nYEX4xwFT3xeUq96vQ==;5y7hNY37cGCdAgq2m4871g=="
 ---
 

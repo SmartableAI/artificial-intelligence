@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-01-ces-2021-and-cars-what-we-expect-in-autonomous-cars-evs-and-more.md",
+      "title": "CES 2021 and cars: What we expect in autonomous cars, EVs, and more",
+      "excerpt": "With some of the biggest tech companies dipping their toes into the automotive world, what will we see at CES 2021? Here are a few educated guesses at what to watch out for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
+      "originalUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/sony-vision-s-electric-concept-car-1200x630-c-ar1.91-n.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
+      "publishedDateTime": "2021-01-01T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-3-top-artificial-intelligence-stocks-to-buy-in-january.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in January",
       "excerpt": "Artificial intelligence and related technology giving machines and systems the ability to make decisions is a fast-growing industry. Global spending on AI grew by a double-digit percentage in 2020, and the pace of expansion is only expected to continue in the years to come.",
@@ -1288,58 +1340,6 @@
         "name": "MyBroadband",
         "domain": "mybroadband.co.za",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-elon-musk-says-apple-ceo-refused-talks-for-tesla-at-us60-billion-amid-reports-apple-is-to-enter-driverless-car-market.md",
-      "title": "Elon Musk says Apple CEO refused talks for Tesla at US$60 billion amid reports Apple is to enter driverless car market",
-      "excerpt": "This week, Apple’s stock has climbed, while Tesla has slipped on a Reuters report that Apple is aiming to produce a driverless ... driving technology and artificial intelligence focus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/23/0bc60ba4-44c5-11eb-be92-09cd005df0bf_image_hires_101925.jpg?itok=0DSgdTBW&v=1608689972",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "publishedDateTime": "2020-12-22T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

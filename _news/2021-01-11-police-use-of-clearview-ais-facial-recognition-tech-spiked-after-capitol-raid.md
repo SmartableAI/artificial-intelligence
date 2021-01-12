@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-t
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
 type: article
 quality: 100
-heat: 160
+heat: 170
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WGLF6UUNFREHTNDYYOVSYKTNSE.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Facial recognition and social media may get Capitol rioters caught"
+    excerpt: "Just because they made it home doesn't mean they're home free. Police have identified dozens of suspects and are working on more."
+    publishedDateTime: 2021-01-12T19:08:00Z
+    webUrl: "https://www.app.com/story/news/crime/jersey-mayhem/2021/01/12/capitol-riot-facial-recognition-social-media/6599996002/"
+    ampWebUrl: "https://amp.app.com/amp/6599996002"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/6599996002"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/82bbae71-c9cc-45a4-b521-853dcad8d24a-GTY_1294932395.jpg?auto=webp&crop=7028,3954,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facial recognition technology to help identify U.S. Capitol rioters"
     excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."

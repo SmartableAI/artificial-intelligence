@@ -1,27 +1,25 @@
 ---
 category: news
 title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
-excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and wellness by transforming the"
-publishedDateTime: 2021-01-12T18:49:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-301206792.html"
-webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-301206792.html"
+excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and"
+publishedDateTime: 2021-01-12T19:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-1029961475"
+webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-1029961475"
 type: article
-quality: 31
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "CES 2021 Taiwanese startup STO's indoor map bridges the gap of Google Maps"
@@ -51,6 +49,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
+    excerpt: "New Garden, a Taiwanese startup that is a leading AIoT cloud to edge solution provider, has taken advantage of their previous success of WiFigarden, presenting the new ULTRON co-creating and sharing AIoT ecosystem."
+    publishedDateTime: 2021-01-12T20:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-new-garden-launched-a-new-ai-agriculture-platform-to-automatically-grow-any-plants-1029961487"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
   - title: "CES 2021 Taiwan startup Singular Wings Medical breaks the challenges of OSA diagnosis with AI"
     excerpt: "Sleep apnea, also known as obstructive sleep apnea (OSA), is a hidden issue in modern society that still awaits an effective cure."
     publishedDateTime: 2021-01-12T14:45:00Z
@@ -94,6 +101,6 @@ related:
         height: 315
         isCached: true
 
-secured: "QiWZ/Pon5x0o+Sw5f0NogS4hHNpbvidSCgKYzDAhjuH/7eR9XqGFkx98Dpdktez87/BLu3BeIYn+Um3NMvolJhrmGJLC9F6C6pfHK0kXD4MWdhsbMIJxD4PXNQaoJtfryi9YdmNw4y5awTZF1mOFeZfSK0cSQFO8m+T+L3jDTgjcv3vEFHLMVnTF0L19l4JHG/8di3fYp5FM0YB2zrhE+Q8GmMkmdoZ8LOtawhvrIzOuVXAxA7dkLTLvr5KoH5rINjtzwXEjrtPHdJT5XCimBIaActzq5pURJpF3YsHA/zmwEX29mn1694K2w8Cb76HrHpzexABQKX+FDcAFF+P39EAEZo6ZvgYeAHLPQd4YdSI=;fJ3b7kuDt5xNoIF1tU0MYQ=="
+secured: "R/ymLysndBq1BQSQAAge6ZCkqYq6kIaB9MHW9wi8r0ZX1+0VUUZLUml5IsNX/P/BWzmFglpEbnYyW25zPKBy59c9uCbwXq0nkuw4/xkaWKUg02pQez/JiQSqWcnLF7K+NLLkBUS4Wd5RM2mBDaU0kGlWt3torb80DeJiSmfXGXhtawwyFZbWfEqiLWIHzd1G5KbBts1obqUQ1MTfXA3r0zmagdJUV8FAn53l1ltAoF5JWXSs63V+lMpznZ7mes7tdzISTlmiFtcEHkX20+o1QvWoz/hZL2st3XF29vcZgtW6XDtlCG6pmQ+t4g9WX2orudhxlLcQ79NN01BTAjs7ToOPd2oJ3/1aJBlSbtHfmjg=;OycgVQjUpyRiTt6gey4fww=="
 ---
 

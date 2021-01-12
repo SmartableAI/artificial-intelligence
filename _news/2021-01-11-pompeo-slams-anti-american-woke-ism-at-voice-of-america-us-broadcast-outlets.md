@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "QBE North America Leverages Artificial Intelligence to Help Improve Employee Safety"
-    excerpt: "QBE North America is pleased to announce a partnership with VelocityEHS ®, the global leader in cloud-based environment, health, safety (EHS) and sustainability solutions, to offer its Humantech ® Industrial Ergonomics software as a service."
-    publishedDateTime: 2021-01-12T16:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/qbe-north-america-leverages-artificial-intelligence-to-help-improve-employee-safety-1029960808"
+  - title: "For Latin America’s environmental defenders, Escazú Agreement is a voice and a shield"
+    excerpt: "As the world became fixated on the coronavirus pandemic in 2020, the situation for environmental defenders across the globe has only become more precarious. In 2019, 212 environmental activists were murdered worldwide,"
+    publishedDateTime: 2021-01-09T05:56:00Z
+    webUrl: "https://news.mongabay.com/2021/01/for-latams-environmental-defenders-escazu-agreement-is-a-voice-and-a-shield/"
+    ampWebUrl: "https://news.mongabay.com/2021/01/for-latams-environmental-defenders-escazu-agreement-is-a-voice-and-a-shield/amp/"
+    cdnAmpWebUrl: "https://news-mongabay-com.cdn.ampproject.org/c/s/news.mongabay.com/2021/01/for-latams-environmental-defenders-escazu-agreement-is-a-voice-and-a-shield/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
+      name: Mongabay
+      domain: mongabay.com
+    quality: 37
+    images:
+      - url: "https://imgs.mongabay.com/wp-content/uploads/sites/20/2016/04/01214528/JHance_BigConservation_ButressRoots_co07-0327.jpg"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "ZwMVrkH1F8jFdrPG389Mv/2Xmg8+/2yJT4/8ZCnI8rKcVb4uNf07hX/wr4OWtDdIDP/gYoXhx58xhHDoKxC0qkPchgNO7gDwWzW+3fSEhG9hIPwVZfwavArb4AOCE0MuaGiWSigcCFWvDT/VAWFaDYV+fSM30z/1+hZYDlxDFueeGUg82MF8LKPy80ptdxL3pwoNhB03AwnpxlRyfT7E+Ttr9FPw8n4nx24YrR/gzgmV/70nN7rrqskFBx38MiUGx0z1ROx0Bn8rkXRWyvCyCBS8Tb0u1ZVPKZ6Knq8smZa76rJlUXmRC1O6i6359T6kHVKk2wtIVC1kIDAAeHbkqligewTLZYJCuYW6lTNABVPy3CA0jXiiWZlssZe3+f3SVpG1KspVg0GMDb6MSGrf1hRzkjM0TYOmQITpB4wGrhneEpYzFPw+B1OShMughsS7/vvqe8gqsq5O2lIserlFm/nHHiiRfnyr1lBNzt5MVGY020eXZTVkEsyPytD55+EpIeCFpdfQv3qtGm6a+ZtzvQ==;KeFtF3dzXSRQdl3o0oFAIg=="
 ---

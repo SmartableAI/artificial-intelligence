@@ -2,6 +2,124 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-08-robotics-ready-for-its-moment-as-pandemic-headwinds-abate.md",
+      "title": "Robotics Ready for Its Moment as Pandemic Headwinds Abate",
+      "excerpt": "Disruptive technologies can encounter headwinds over the course of their evolutions, but that doesn't always mean long-term negativity. Take the case of robotics investments. The coronavirus pandemic could have been a problem for the group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-2-artificial-intelligence-stocks-leading-the-new-wave.md",
+      "title": "2 Artificial Intelligence Stocks Leading the New Wave",
+      "excerpt": "It's a new year, and good time to take a look at what lies ahead. Not in the short term, but on the longer horizon. So, here’s a number to think about: $126 billion. That’s the predicted size of the Artificial Intelligence (AI) technology market in 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-augmented-creativity-how-ai-can-accelerate-human-invention.md",
+      "title": "‘Augmented creativity’: How AI can accelerate human invention",
+      "excerpt": "We're witnessing the emergence of something called \"augmented creativity,\" in which humans use AI to help them understand the deluge of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/07/why-we-need-augmented-creativity-to-reignite-growth-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/01/07/why-we-need-augmented-creativity-to-reignite-growth-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/GettyImages-844383206.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/07/why-we-need-augmented-creativity-to-reignite-growth-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/why-we-need-augmented-creativity-to-reignite-growth-in-2021/amp/",
+      "publishedDateTime": "2021-01-07T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-two-ways-of-performing-massively-parallel-ai-calculations-using-light.md",
       "title": "Two ways of performing massively parallel AI calculations using light",
       "excerpt": "Now, two different teams of researchers have figured out ways of performing calculations with light in a way that both merges memory and calculations and allows for massive parallelism. Despite the differences in implementation,",
@@ -1036,152 +1154,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-need-a-covid-test-look-for-a-vending-machine.md",
-      "title": "Need a COVID test? Look for a vending machine",
-      "excerpt": "\"Our unique cloud architecture allows us to service many use cases like Wellness 4 Humanity, while having machine learning power our operations,\" Smith said. Swyft's other customers include CVS, Best Buy, and 7-Eleven. These companies use Swyft's automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/06/94c4c6b9-7324-42c8-a7e1-a8b8dec10bea/resize/1200x/9b85599fd04562d09f3944361b6379d2/istock-1224323409.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
-      "publishedDateTime": "2021-01-06T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-aws-invites-registrations-for-free-online-event-on-artificial-intelligence-here-are-the-details.md",
-      "title": "AWS Invites Registrations for Free Online Event on Artificial Intelligence: Here Are the Details",
-      "excerpt": "AWS has invited organisations and individuals to take part in a free event on artificial intelligence called “Amazon AI Conclave” AWS has invited individuals and businesses to take part in a free online event on artificial intelligence. The event ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
-      "originalUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/05/online-5059828_640.jpg",
-          "width": 674,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
-      "publishedDateTime": "2021-01-06T20:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-researchers-use-ai-to-separate-conspiracy-from-fact.md",
-      "title": "Researchers Use AI to Separate Conspiracy From Fact",
-      "excerpt": "Researchers at UCLA have created a model to distinguish conspiracy theories from actual conspiracies which will possibly allow robots to differentiate between things like Pizzagate and Bridgegate in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666",
-      "originalUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/avj8nrd1rb7hwzuyh9km.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp",
-      "publishedDateTime": "2021-01-06T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

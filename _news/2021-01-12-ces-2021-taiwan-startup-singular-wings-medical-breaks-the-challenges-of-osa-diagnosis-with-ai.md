@@ -33,6 +33,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
+    excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and"
+    publishedDateTime: 2021-01-12T19:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-1029961475"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "CES 2021 Taiwanese Startup Heroic Faith Integrates AI to Revolutionize the Stethoscope"
     excerpt: "Heroic Faith launched an AI-powered respiratory identification system that recognizes inhalation and exhalation and distinguishes abnormal breathing sounds. Introducing artificial intelligence to critical patient monitoring reduces risks and human factors in emergency care settings such as ICUs,"
     publishedDateTime: 2021-01-12T14:45:00Z
@@ -51,20 +60,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
-  - title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
-    excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and wellness by transforming the"
-    publishedDateTime: 2021-01-12T18:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-301206792.html"
+  - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
+    excerpt: "New Garden, a Taiwanese startup that is a leading AIoT cloud to edge solution provider, has taken advantage of their previous success of WiFigarden, presenting the new ULTRON co-creating and sharing AIoT ecosystem."
+    publishedDateTime: 2021-01-12T20:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-new-garden-launched-a-new-ai-agriculture-platform-to-automatically-grow-any-plants-1029961487"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
   - title: "CES 2021 Experience the Ultimate Daily Care Wearable Device Solution on 2020 CES by Taiwanese Startup"
     excerpt: "Measurement Device” made impressive gains on the very first day of CES 2020 earlier this year, with deals struck with Saygus (US), Elotec (Norway), and IDCP (Netherlands). In the upcoming CES 2021, Cloudmed is expecting to earn another hit with an IoT healthcare device that fits exceptionally well the healthcare priorities during the COVID-19 pandemic."
     publishedDateTime: 2021-01-11T15:35:00Z

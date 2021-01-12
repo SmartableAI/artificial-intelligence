@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Baidu Announces Plan to Establish an Intelligent EV Company and Forms Strategic Partnership with Geely"
-excerpt: "PRNewswire/ — Baidu, Inc. (NASDAQ: BIDU) (“Baidu” or the “Company”), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV),"
-publishedDateTime: 2021-01-11T02:24:00Z
-originalUrl: "https://www.globalbankingandfinance.com/category/news/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-forms-strategic-partnership-with-geely/"
-webUrl: "https://www.globalbankingandfinance.com/category/news/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-forms-strategic-partnership-with-geely/"
+excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish"
+publishedDateTime: 2021-01-11T02:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-301204806.html"
+webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-301204806.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-    width: 1000
-    height: 600
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -111,22 +111,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "China’s Baidu Teams With Geely on Electric Cars"
-    excerpt: "though it’s unclear if the partners intend to eventually also produce self-driving cars. Representatives for the two companies declined to comment. Read more: China’s Baidu Said to Pick CLSA ..."
-    publishedDateTime: 2021-01-08T03:48:00Z
-    webUrl: "https://www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/"
-    ampWebUrl: "https://www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/?outputType=amp-type"
-    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/?outputType=amp-type"
-    type: article
-    provider:
-      name: Infobae
-      domain: infobae.com
-    quality: 59
-    images:
-      - url: "https://www.infobae.com/new-resizer/QHx4Xs7qiPCFSBMSFLtRIt_cNyM=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/TEI4MGVEYZAKRPJHVRC54O4UJA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu, Geely forge smart electric vehicle venture"
     excerpt: "Chinese internet giant Baidu announced plans to supply automaker Zhejiang Geely Holding with its intelligent driving technologies as part of a joint venture to manufacture smart electric vehicles (EV)."
     publishedDateTime: 2021-01-11T09:54:00Z
@@ -273,6 +257,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "Y8zCtcJ9Q/vqOhfLn9gEgIwjK+VGj7rhX01W3oDPSb+sxsLDk7K84agUkzXVxOICB3roGcFNvSztOARNwUnGSSQdICmWAMxMfFgnmDxFLVRr7MUTNO+7y7nNi7hy8CVJqe+/QBuUuIKwURtdwDBMYj/X8nHIgu+SrbW0jpp5ooxo3mIqaIf+I5ql3FWVlCbUPfoJrHiIZTuYR0bTSBIFMN3/4WRMK5Y6OujfTy8r3qhYW+Gt9A7Oew96PYlYaCJMOe9+AHN6voVqScv+K+fphs1v8qzJUpAEttqWEuGDlIf3Yjja5PUpj5kXdTxoc1i9IU77yf0UmkcL2w8NoSHLAwg70xQtdvg9Ej4c8cvWZ8Y=;5Bdg9fILHxm/bIXPNi4UMA=="
+secured: "V0q0LzfGV6NYv3V2ySOEGoBF7JL2hRchIeZ3s35k5Sn07WCrf/sr5BkHgDjrfEF92nsD2Fr7GZuvfm59oQMgJftKGojdP+46UjakyHVHwl+RfVDTpaLreuDZCFSm6ELCmfDu8CEcS+fYtPSKetigj7DUnsuSh0UUD0ZH7Bo1CZZdl2A55jMpjNBMwMuIwXe+1CsCPje/ncF7pSzKGJDXVtqqIR+PTSjE7INZFhrhOhqnvSTKCRY5eY0vKgWcddcq1JiIPWarMO3rAcWR9SpmFppy89DTuXKkkB1UjA9m2OIWC4Nguig6rCdOt15xFsBeb8MIvfgD3SA4k2Ug4VqD/xcvmPO/7kcyjOhfyfGndao=;lVZyL1+HTfuQPYs4q6AJew=="
 ---
 

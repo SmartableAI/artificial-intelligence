@@ -96,22 +96,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "China’s Baidu Teams With Geely on Electric Cars"
-    excerpt: "though it’s unclear if the partners intend to eventually also produce self-driving cars. Representatives for the two companies declined to comment. Read more: China’s Baidu Said to Pick CLSA ..."
-    publishedDateTime: 2021-01-08T03:48:00Z
-    webUrl: "https://www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/"
-    ampWebUrl: "https://www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/?outputType=amp-type"
-    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2021/01/08/chinas-baidu-teams-with-geely-on-electric-cars/?outputType=amp-type"
-    type: article
-    provider:
-      name: Infobae
-      domain: infobae.com
-    quality: 59
-    images:
-      - url: "https://www.infobae.com/new-resizer/QHx4Xs7qiPCFSBMSFLtRIt_cNyM=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/TEI4MGVEYZAKRPJHVRC54O4UJA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu, Geely forge smart electric vehicle venture"
     excerpt: "Chinese internet giant Baidu announced plans to supply automaker Zhejiang Geely Holding with its intelligent driving technologies as part of a joint venture to manufacture smart electric vehicles (EV)."
     publishedDateTime: 2021-01-11T09:54:00Z
@@ -249,18 +233,18 @@ related:
         height: 660
         isCached: true
   - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Forms Strategic Partnership with Geely"
-    excerpt: "PRNewswire/ — Baidu, Inc. (NASDAQ: BIDU) (“Baidu” or the “Company”), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV),"
-    publishedDateTime: 2021-01-11T02:24:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-forms-strategic-partnership-with-geely/"
+    excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish"
+    publishedDateTime: 2021-01-11T02:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-301204806.html"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 23
     images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
     excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"

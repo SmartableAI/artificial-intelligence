@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hyundai Stock Surges After Report Of Early Stage Talks With Apple On Self-driving Vehicles"
-    excerpt: "Shares of Hyundai Motor surged 20 percent in Seoul after the Korea Economic Daily reported that the South Korean automaker is in"
-    publishedDateTime: 2021-01-08T04:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-stock-surges-after-report-of-early-stage-talks-with-apple-on-self-driving-vehicles-1029942411"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Apple may pick more electric-vehicle partners than Hyundai, Wedbush analyst says"
     excerpt: "Shares of Hyundai Motor soared on Friday on the news that it is in talks to join with technology icon Apple (link) to make a self-driving electric ... Chinese tech stalwart Baidu (K3SD.SG) may ..."
     publishedDateTime: 2021-01-08T20:44:00Z
@@ -107,15 +98,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 14
-  - title: "Hyundai may not be the only partner for Apple on electric vehicles, Wedbush analyst says"
-    excerpt: "Shares of Hyundai Motor soared on Friday on the news that it is in talks to join with technology icon Apple ( link) to make a self-driving electric vehicle. But one analyst says even if those talks come to fruition,"
-    publishedDateTime: 2021-01-08T03:49:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210108189/hyundai-may-not-be-the-only-partner-for-apple-on-electric-vehicles-wedbush-analyst-says"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 10
 
 secured: "B0fWPhcDgdf62dY2J/qBTjLZ/sjNnoIkMI8nTGAMzTtqy8AbNRqPQfGNzn+MInjPUbDYnc2Kiv1iAk4TWzlBrZzPtptwQPVyAVQAsSVgtWXEJaYrEDXBite5Fm83IxCZe2cZsgcOOGz3ehwzArYa03k4PMFQnp379C1WSSKYI4tLKVyE3SCHZOBNn5m2+k0+ZDzkcEKgvaglLOFkaPVHjyLbNlsiPciJmZUqKjl4I4aSVW6vGer5AS3lSYuql0Cxzmc3SkwyhXEcEU6Hn66IBNGN+60FMVVyxkFuFw1npejsG8Dv3LDxswg/RiDCPyV28Sutw6NcZ5QTPEpW8LcfqZ56XK3JfvVPZ2sDrY1RaC1Cr9ZWVO4yqJ1rupvYh96WdqjzmAkPZa/IIAMENdotlFGFdX4LHZmAx6/FYQ5t+Om8fyyo6saogwKFyeIMBCTeDPkffxk0Eocitx3rejWk+1XxPNmFiC8qHRCkth5DRjoNHDhzdXFAaaK5VRaXx7Ee2rbI7UKLWOwV9r/Zrva+Gg==;T8C92L3u4DdtFOT12EJ9mw=="
 ---

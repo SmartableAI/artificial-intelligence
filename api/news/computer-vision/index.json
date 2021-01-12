@@ -508,7 +508,7 @@
       "originalUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -658,7 +658,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -751,59 +751,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-image-recognition-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027.md",
-      "title": "Image Recognition Market Sales and Revenue by Companies, Regions, Type and Application till 2027",
-      "excerpt": "The global “Image Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -1453,6 +1400,49 @@
       "provider": {
         "name": "rnz",
         "domain": "rnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-study-data-from-university-of-central-florida-update-knowledge-of-risk-management.md",
+      "title": "Study Data from University of Central Florida Update Knowledge of Risk Management",
+      "excerpt": "New research on Risk Management is the subject of a report. Financial support for this research came from Advanced Transportation and Congestion Management Technologies Deployment grant from Federal Highway Administration.",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/study-data-from-university-of-central-florida-update-knowledge-of-risk-management",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/study-data-from-university-of-central-florida-update-knowledge-of-risk-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-31T18:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
         "images": null,
         "publishers": null,
         "authors": null

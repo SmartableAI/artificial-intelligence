@@ -3,8 +3,8 @@ category: news
 title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
 excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),"
 publishedDateTime: 2021-01-12T09:47:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b"
-webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b"
+originalUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b/gallery/c11ecc5667401ba031708f29a0cf3e06"
+webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b/gallery/c11ecc5667401ba031708f29a0cf3e06"
 type: article
 quality: 2
 heat: -1
@@ -60,6 +60,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "E/pkMvTVrEss+6sFkQl0lfZE2eT5q2oBEy4I+zs04UR4m6wM8sQ+1wHAV//53Epja/7C1GBwnX9ok8jPTpOcF8xBjdcd9cJyFSzjJ/8kRJqc9CUE8yefIqpYJ7vL5oII3xsHrCkPL30Vr2los8sJ9TDTphYFKtc0uAxYjm2gLs2Ef8x1OAKUsG2xCkuk/9NLZei7T2yiGbvsyBl8GBpxAPHrElTt1usdTAUEzdhifLlhaJLpO/m/8iEU0rOdjgJMnuY+Dp9UIhwmdmoin33ElW64rOv1qNo/3GxKjZER6/c03jPYLkPLOVpYN6EoTbzYIDtM2pITjki1wCtlQSObNwnXwWBtI11l8YgTt2WCh3Q=;tLLa8M5fHP6cczGTJw2BUQ=="
+secured: "EqvG9xshbIcsoWsiMi37fWQHOc762rEE7oP0xo7Xo3YB8CxW9RleVTbPka77/wch0AExjTyQySvst/MEJ9GbUUMq2rRAdwf9xyPQlzKZ1+qZP7OpRaPDf0VcBUmusuDAk0dP7gELMTxO9aUEa720vkBT1lczfMQuh2TE0xEVOC+9DYgTGbD1q5bmOwYJ/FIQ3ZCEBC7I5avrFmS4QVyB7rHa4OoGFDa7x2H+ZCqhukNNO+QtAdiy9d2B7Y8kEql7rPeefoeZ1LCfxSc0B76MT1xsKZbA+y0+J9fVrpE5JhqRY9pqcZeyMbrcpVCEewi6hhrTv54G1tkJbgePM5EZMz5zSRAdIapjECqtnCjGcIE=;tJAyy4UO41QQrM9uF+ga+Q=="
 ---
 
