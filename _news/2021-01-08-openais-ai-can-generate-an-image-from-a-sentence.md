@@ -30,9 +30,9 @@ related:
   - title: "Collaborating through open source to advance AI"
     excerpt: "That something is open source. The sheer number of open source tools available to developers - from libraries to frameworks, IDEs, data lakes, streaming, model serving and inference solutions, and even the recent end-to-end tool aggregator,"
     publishedDateTime: 2021-01-12T11:20:00Z
-    webUrl: "https://www.techradar.com/nz/news/collaborating-through-open-source-to-advance-ai"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/collaborating-through-open-source-to-advance-ai"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/collaborating-through-open-source-to-advance-ai"
+    webUrl: "https://www.techradar.com/news/collaborating-through-open-source-to-advance-ai"
+    ampWebUrl: "https://www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai"
     type: article
     provider:
       name: TechRadar

@@ -3,8 +3,8 @@ category: news
 title: "Aptiv unveils new self-driving platform with wireless upgrades"
 excerpt: "Auto supplier Aptiv PLC on Monday unveiled its next generation technology platform for automated driving, which can be used across a range of vehicles and be updated wirelessly so carmakers can upgrade car features and fix glitches."
 publishedDateTime: 2021-01-11T18:03:00Z
-originalUrl: "https://www.reuters.com/article/us-autos-aptiv-autonomous-idUSKBN29G1F1"
-webUrl: "https://www.reuters.com/article/us-autos-aptiv-autonomous-idUSKBN29G1F1"
+originalUrl: "https://www.reuters.com/article/us-autos-aptiv-autonomous/aptiv-unveils-new-self-driving-platform-with-wireless-upgrades-idUSKBN29G1F1"
+webUrl: "https://www.reuters.com/article/us-autos-aptiv-autonomous/aptiv-unveils-new-self-driving-platform-with-wireless-upgrades-idUSKBN29G1F1"
 type: article
 quality: 54
 heat: 54
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "dHaA32ZAHrruRSSloyg2+IfFW5ddNn4qJyEcUopNGzYs7rECh+jLW2hBxqZ+bWP7sjzsDXuB9sAE6pg2NR7oNvgzl1kp9oG9D3HIENIyr7eFMgdQGqy0ahtAplF14j2iX4JIwZax1qTe81ctKB8iVAn3EOkDcUtsUtuQ5FXlkz4/ar6uqKSZUJYaBvr20iumebjvB++lHVkIRCbGgm4cexGdfRVpE85wzdVE5ewQo3IAnpUjSi3M0TRbbUMmbqaM7PEM9Ed/XWReSq2YbWTUCWc5mKoa57FSFg2o5kfaAyNuJ1tY/uJLprV885AWx2Us89pOunq1bMdgbX32bjWOf8b9UcEs50e8/tbjVl9nZBE=;o1HDf0lv7QJUy9Yqnqdrbg=="
+secured: "7AoVEL4eXSFG9I8RqjZV0y6qc65KoX3rXXfrhWpWjaq93uEptchz/otYddmXklp+w09qRuhqnhz+UupW3WtoYA/s/nfYT7wlbMNJxzrhDSsRMkyC0D61xATFk2soHtNABmJd4PvmnEB+Aw3iyBSwx+RkPE49YwDHtXVQVOYBeV8coMpwRj1UJAaEvviDoHKYc7/BVrlND9P6jmMs0agaNsjb0yoDJrAc6gbs9sHtK7VPSQ7sFhW9O/dvGiPPYub7itv8XVUoZiEtktgeIIUJmXDm8+0TaSuW4rDA1CmOBKuKFsW8EZ2Juat60bFK2rYa2a254YlCF4cKkemEcmex/69X/fTHkYVLjTmRV/9efLE=;Diqq9+8OzLZeWuBwt5MjkA=="
 ---
 

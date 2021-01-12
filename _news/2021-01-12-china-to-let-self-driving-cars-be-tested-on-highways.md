@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Apple’s self-driving EV at least half a decade away, report says"
-    excerpt: "will take at least half a decade to launch an autonomous, electric vehicle because development work is still at an early stage, according to people with knowledge of th"
-    publishedDateTime: 2021-01-07T22:04:00Z
-    webUrl: "https://www.autonews.com/mobility-report/apples-self-driving-ev-least-half-decade-away-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20HQ-MAIN.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple's self-driving electric vehicle is at least five years away, engineers say"
     excerpt: "It looks like #Apple has been working in earnest on its self-driving electric car project, but insiders say it'll be several years before it can challenge #Tesla, #LucidMotors, #GM and other carmakers."
     publishedDateTime: 2021-01-08T12:32:00Z

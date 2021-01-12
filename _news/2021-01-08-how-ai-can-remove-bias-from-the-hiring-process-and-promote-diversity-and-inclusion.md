@@ -4,32 +4,28 @@ title: "How AI Can Remove Bias From The Hiring Process And Promote Diversity And
 excerpt: "Companies have been struggling with how to mitigate and reduce biases of all kinds in their hiring practices, while attempting to promote diversity and inclusion in their cultures and ecosystems, to help their organizations and employees thrive at the highest levels."
 publishedDateTime: 2021-01-07T16:44:00Z
 originalUrl: "https://www.forbes.com/sites/kathycaprino/2021/01/07/how-ai-can-remove-bias-from-the-hiring-process-and-promote-diversity-and-inclusion/"
-webUrl: "https://www.forbes.com/sites/kathycaprino/2021/01/07/how-ai-can-remove-bias-from-the-hiring-process-and-promote-diversity-and-inclusion/"
-ampWebUrl: "https://www.forbes.com/sites/kathycaprino/2021/01/07/how-ai-can-remove-bias-from-the-hiring-process-and-promote-diversity-and-inclusion/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kathycaprino/2021/01/07/how-ai-can-remove-bias-from-the-hiring-process-and-promote-diversity-and-inclusion/amp/"
+webUrl: "https://www.vox.com/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen"
+ampWebUrl: "https://www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen"
+cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen"
 type: article
-quality: 83
-heat: 83
-published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff7372e1cfd2bc2c19a0a47%2F0x0.jpg"
-    width: 815
-    height: 428
+  - url: "https://cdn.vox-cdn.com/thumbor/IhvXOlrGI-P27kWzQo8AmzXVhug=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19484592/GettyImages_1189384731.jpg"
+    width: 1400
+    height: 934
     isCached: true
 
-secured: "6feX36xXnV8FpqD17WMDYrmAQFqI7+Ci+mk6FLgPu9HY4tftHjEjdhYjT6q+qvoWfyoJdOrYeEg4wxK6/7zg4xRKlfv/owzbl3BRqTt0JqptkO6xa87+xWDplWLvUAV2D60+8JWyL+pQidBTUREtATyQ55V7o5trTiniew1adgJrxvYhWkBlyHcOD7XY/Spk0eD6vhSqceLYidINXMGO7iv3mTt6iaw9bah0YuT25cJ34/lgDd5/FCshuDT8dIOd2Sk1HkFIH78SXY7mGXcBWf1xQqv0vd8vHYIVbvPGDs7iKE3oAjpc0IWNDUCBNkX6Ut8gGtz2lwNOWkWRuCg9sftTwpcSwdJ9gMXLUATeFRZ6p5qWs4QsZHyVt+26ZcIcBJrywPkxn9N2e7k49vhsWxWk3Rdu2eRRdj8xF6YAsA4SOVXWL6plIkXtL9Ehz0VvLYaN+Hj4muVPprBkbMooPSO5tyEenpZTmf0+m+Wk/YZseTlqof0660QF+CLZvsGThVMOHS7pbcqxQl7jm9XQiQ==;UHpKonewA/apxin+R8exQg=="
+secured: "ff6SKQLEfRIqX/W9bMceh4g6+VPlX8qVjsa9F9OvQPSVd9IcTJ2HGiEKpzVQ0tO+qemcdGt20h5iRpJZXj4JtbOTjjcRVpTghZbaGMeA/NqKkhvRIzdM85yPQHpKVX/QAXyQF8kZ5WAYUjYYpweldvPkduPnSWMIL/zcyMcwE7vVaY+WH9p+46/UYTYnd0kxCaaOIKGsftqXTOy0MsX9P5I4C5Ln2+bfDtHoIxJREMzWkoJm07hXh9IaEmw2iITXNgxi38BPU4gvHAg2sJpjcFHHYsQI6Chvv51E7BpYcQVJS9d74emUb6/ak/1KmYr+dwulIzaOnRRQFQhZN7ijajREiasvMeKXUitJ+hLCQ+A=;eVoO3lRSfVli1eH09E+SBg=="
 ---
 

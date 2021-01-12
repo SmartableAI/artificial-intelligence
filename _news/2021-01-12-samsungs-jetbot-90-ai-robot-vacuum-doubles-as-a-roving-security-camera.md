@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-ro
 webUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera"
 type: article
 quality: 100
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 56
+  - title: "Samsung JetBot 90 AI+ robot vacuum features a built in camera (Video)"
+    excerpt: "Samsung has unveiled a new robot vacuum cleaner, the JetBot 90 AI+ and it comes with a built in cameras and is powered by Intel AI. The video below gives"
+    publishedDateTime: 2021-01-12T09:12:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-jetbot-90-ai-robot-vacuum-features-a-built-in-camera-12-01-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/01/Samsung-JetBot-90-AI-.jpg"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
     excerpt: "Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show."
     publishedDateTime: 2021-01-11T18:33:00Z
@@ -248,6 +262,15 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "CES 2021: Meet JetBot, Samsung’s lidar-integrated robot vacuum"
+    excerpt: "Samsung Electronics introduced a new robot vacuum that better responds to its environment in the home or office by using artificial intelligence (AI) and lidar. The JetBot 90 AI+ uses a combination of sensors and AI to improve object recognition."
+    publishedDateTime: 2021-01-12T14:20:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16187/ces-2021-meet-jetbot-samsung-s-lidar-integrated-robot-vacuum"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 21
 
 secured: "JxNr4CISJPud+oIL7fz6fboufkPfPP0XQEzbCex7OXS216GbZ6J4YSR13CZlnILb7Dl+yGNG9hQglslMNYe7vKNnz6MQobY12PlYOX2bjXhvsUfxxHjlrleMJu4RsQ9y7gvRe9TIQEj863opKAnZzSOH293rCXtBbGs6L9q/rpnBJRFE/Rr1RjFFLtkXEZgGe2bajKabbzPs4loxNECcG7wwSLyVxmhhlobFCsFwjNBq1V3oztCq/33Aulig7dWRI/o9QEpWeoqhRswchNCxGAWN4ZkR385pyQaUz5uOAmtYbnUC0J5asV31X5rzBWKGuXgN8dNUKT/DhZMkG2zJtHRr1ZvflyrqLivCdQ+vaQM=;vPzHZ2JxIRufC+8W5unGhA=="
 ---

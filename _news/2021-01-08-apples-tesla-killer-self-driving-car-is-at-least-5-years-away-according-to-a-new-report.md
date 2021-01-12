@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/apple-self-driving-car-at-least-5-ye
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple’s self-driving EV at least half a decade away, report says"
-    excerpt: "will take at least half a decade to launch an autonomous, electric vehicle because development work is still at an early stage, according to people with knowledge of th"
-    publishedDateTime: 2021-01-07T22:04:00Z
-    webUrl: "https://www.autonews.com/mobility-report/apples-self-driving-ev-least-half-decade-away-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20HQ-MAIN.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "China to let self-driving cars be tested on highways"
     excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
     publishedDateTime: 2021-01-12T08:10:00Z

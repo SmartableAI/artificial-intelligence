@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conversational Artificial Intelligence Market Trends, Regional Outlook, Business Growth and Forecast to 2023"
+    excerpt: "Conversational Artificial Intelligence (AI) as Google LLC, Microsoft Corporation, IBM Corporation, Oracle Corporation, Amazon Web Services, Nuance Communications Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024 which provides a complete comprehensive analysis including the data by Segmentations,"
+    publishedDateTime: 2021-01-12T14:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-regional-outlook-business-growth-and-forecast-to-2023-2021-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
     excerpt: "Selbyville, Delaware Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
     publishedDateTime: 2021-01-11T08:51:00Z

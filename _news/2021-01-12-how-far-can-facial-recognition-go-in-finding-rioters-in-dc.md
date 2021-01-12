@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Dell Brings 3D Facial Recognition to New Video Chat Monitors"
-    excerpt: "Biometric technology continues to find its way into more consumer PC devices, with Dell retaining its status as a pioneer in this"
-    publishedDateTime: 2021-01-07T22:05:00Z
-    webUrl: "https://mobileidworld.com/new-dell-video-conferencing-monitors-support-facial-recognition-010709/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
-        width: 359
-        height: 400
-        isCached: true
   - title: "Smart cameras and facial recognition could assist in identifying Capitol protesters"
     excerpt: "Weapons, beards, tattoos and cell phones -- any of those might assist in identifying people involved in storming the Capitol."
     publishedDateTime: 2021-01-08T02:29:00Z
@@ -167,6 +153,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "9OwykowUJq3ElUUP9zbz70oxWQnv7hB0PB3qyE12LZn4Jr1+DLm7v2p3KSpcRrp5Bgb69SxiyxyjYyHg0d3FoXPIowvXdcojPK7Mb4/DSZ6he7OEVKN1l8+DBqJ4Cdyt1p8ODygHh+NsIoVWd5eLI3sGiws5mTqvmk4ZdHms0XFU39VIevLp3/s1+Rd8xhtTUjpZ+FOw39tkpXE62w/gP5smkV/4XZSst+ovAi6l/rOp855I9Rp81aR3qMNUVU9GFRgDXFWGeEqoC67Cbrf/Gw1xg9dxjSQr00H3Fov99FZSazuJG7fbkrz8jLne5Ng/RIRPD5lwqm/6ihGplpsxlaHml9FQIov4lSltexvMHA4=;m6/V7zpvITl8JeEjxuuP1g=="
+secured: "UaSAs722IcEDY4IW/+EL0I18mS1IGqR8b6escbhTcP7O221lvlf2zCL+9r1ms/MiVxLvW+uwwNl+MjdScXS1g8s54PiQpcgr1xS/EXYQyi7YR6oG7u3m2PVjq5BuWVpLYspy4EemHNi4TXv5QGDzBP1q7caLkd4k/CdWJO+rOrZbqZIVWt0V/DAZBqcOkua9n9I8KWkxU+i3qQ9vjF2k+o8vHqbEOgeWYqVGTvsYBkXCQapOA5wJGIHkuf/XtnwMwGdweyUAQyj1LOKLzTJRMfLAGwTnOQpNx7mkLU5VZUToOePB99qonU1tWy2bm1tIyrk3KaNF+Znv11Ok5O+FIrGyQse6jlQsJEQO8UpyerzJZnD4pX2fKICj3ydMVOEYPWwCFDRnTcpR9kYPl9+qhmFS+DdB8/RkpFKpvDhbEEGTlMX8UA6t/akiyZmANAnzAU4DAKxNgh7sVFQwIr3yrFoCNUrucYNly6/oAxW4xbntT7fMy1Ep/gM7b9uaP53vcUrot9z2HxMFoGR37fTm4w==;VsmZ0vNxq1vUnHJ/EI4ywg=="
 ---
 

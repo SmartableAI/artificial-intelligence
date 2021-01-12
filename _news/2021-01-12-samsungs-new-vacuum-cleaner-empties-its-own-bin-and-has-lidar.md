@@ -125,6 +125,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 56
+  - title: "Samsung JetBot 90 AI+ robot vacuum features a built in camera (Video)"
+    excerpt: "Samsung has unveiled a new robot vacuum cleaner, the JetBot 90 AI+ and it comes with a built in cameras and is powered by Intel AI. The video below gives"
+    publishedDateTime: 2021-01-12T09:12:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-jetbot-90-ai-robot-vacuum-features-a-built-in-camera-12-01-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/01/Samsung-JetBot-90-AI-.jpg"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
     excerpt: "Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show."
     publishedDateTime: 2021-01-11T18:33:00Z
@@ -243,6 +257,15 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "CES 2021: Meet JetBot, Samsung’s lidar-integrated robot vacuum"
+    excerpt: "Samsung Electronics introduced a new robot vacuum that better responds to its environment in the home or office by using artificial intelligence (AI) and lidar. The JetBot 90 AI+ uses a combination of sensors and AI to improve object recognition."
+    publishedDateTime: 2021-01-12T14:20:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16187/ces-2021-meet-jetbot-samsung-s-lidar-integrated-robot-vacuum"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 21
 
 secured: "iSQU2E43ZO7+s/aOINYZ7eXDlCkEgbZsrQ0VRgfcvQ+LrGWKhKy5oXm6jRab5yEKFNeNHhbDrL0ykDBywMfnZn8fo09e8tSnLvVyGAOKKL1dozDtAZFKWMgeB2yO9sJAWltfhZHjXvsW7J7JWZg7iDn3Di0RMg664jm3JQuYNZ0b4i8TNVYAlCXd9RIWQYowxr+3NaGGaSENZXosrmnjimqoTEERag3/zBkRRzHOb2iWG36fb9e/Y/SI9OBOpUXZVqRjK+QLROZdITp2o8Jp7CMgz0Cp2yteG74jNOrML7whzWllRyuYcblhP+S++O3wbyMk7BCj+q85kC9xkYhpgnGIIErAFboLGCwXibClFfserTwSoqDvkfqThbPBGMDcYwCTdeYbYERKT3UjI9e/9+uPLYDMkd3l5EYnb4k5p6vuTUmsai2LQ2OEFxjGJLZjMBVdPHWKfKXsrSMDT6uB18CmRB0msuTPeIVd+TUIjuITNoiUHZmEispeMnOxzZbD/iq7rjEsmy7LGlm7uG9mSQ==;v2H619Et8l07A3LNXMrq2g=="
 ---

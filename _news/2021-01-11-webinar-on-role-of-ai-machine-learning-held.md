@@ -55,6 +55,31 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "New AI-Powered Cleaning Devices Could Revolutionize Daily Chores"
+    excerpt: "A new AI-powered vacuum cleaner and washer-drier duo could point to a future of automated home-cleaning. Who hasn't lay in bed on a day-off envisioning a late rise and an easy day, only to find a litany of mundane chores invading their mind and forcing them to rise from bed grudgingly?"
+    publishedDateTime: 2021-01-12T14:21:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11920"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11920"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11920"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11920_16104610670255422.jpg"
+        width: 2000
+        height: 1499
+        isCached: true
+  - title: "Deep learning AI chip introduced at CES 2021"
+    excerpt: "While much of the world’s current artificial intelligence (AI) is software based, the market for hardware-based AI is accelerating quickly with several announcements for hardware AI semiconductors being announced last year."
+    publishedDateTime: 2021-01-12T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16183/deep-learning-ai-chip-introduced-at-ces-2021"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 51
   - title: "Wearable heart monitors and deep learning can provide early warning of SARS-CoV-2 infection"
     excerpt: "A recent study, appearing as a preprint on the medRxiv* server, reveals the possibility of early prediction of SARS-CoV-2 infection using data on the resting heart rate in the presymptomatic period."
     publishedDateTime: 2021-01-12T06:03:00Z

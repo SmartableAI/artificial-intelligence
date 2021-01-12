@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 1137
         isCached: true
+  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
+    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
+    publishedDateTime: 2021-01-12T14:08:00Z
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 136
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
+        width: 893
+        height: 439
+        isCached: true
   - title: "Microsoft launches Azure Health Bot"
     excerpt: "Microsoft has announced it's moving its Healthcare Bot service to Azure to create the new Azure Health Bot. Built for developing virtual health care assistants, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with patient engagement amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-08T16:29:00Z
@@ -109,15 +125,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Industry Preview: AI And Privacy Will Come Together In 2021"
-    excerpt: "This podcast is sponsored by IBM Watson Advertising. Will 2021 be a pivotal year for AI? In the second episode of AdExchanger’s Industry Preview podcast series, IBM’s Sheri Bachstein outlines the huge stakes as the industry scrambles to retrofit its ..."
-    publishedDateTime: 2021-01-07T22:22:00Z
-    webUrl: "https://www.adexchanger.com/podcast/industry-preview-ai-and-privacy-will-come-together-in-2021/"
-    type: article
-    provider:
-      name: AdExchanger
-      domain: adexchanger.com
-    quality: 19
 
 secured: "9sGBG23t3OcEekxBdrM8XGETxbWT8H7f8+HNUwDq4CnVSdfCdd3WTPQJQIYgCvQCtZWXrgMLv1C72L3LZ3A32tNS4Ohc5Q2j0z3Ad5zx+XwgyZ9QqzShOZqGJQf9TDTuwGHdM1gSYUMGf5AcLwaxpBLSRk1bpFyrzg094OfzZUKbfSoedI8KvPTf+S6IY5yZa+4jI3MU+Ub5zmSZ7/NN+r7FdI1j9/+mDn6lkY2HY7TkCZ/YVN04aFlhqzEgFkZc+O/p6l4Y/LBgs4dqHPvmtrjpqC4T6B72g1iIBfzZBbCJS3vUZoUQiFTulIGBLRunycYXVF9ZFgQcSA6xVGTs/8RWsnDxRwzkWPQtm2HXG3w=;v8Sx5MmLDXReH/VoFlybmA=="
 ---

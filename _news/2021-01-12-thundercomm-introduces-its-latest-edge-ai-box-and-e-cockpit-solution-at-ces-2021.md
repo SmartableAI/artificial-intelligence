@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-12T07:23:00Z
 originalUrl: "https://www.marketwatch.com/press-release/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-2021-01-12"
 webUrl: "https://www.marketwatch.com/press-release/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-2021-01-12"
 type: article
-quality: 64
-heat: 74
+quality: 66
+heat: 76
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

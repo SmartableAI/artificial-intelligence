@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-12T11:49:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-technology-issues-b127aea7d4972afeb751e654949d3968"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-technology-issues-b127aea7d4972afeb751e654949d3968"
 type: article
-quality: 18
+quality: 16
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - IBM AI
   - AI
   - AI in Security
 
@@ -73,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1/csOzhml+mVYI6Mxt5Kvj2FwMuYewnSNskQdGqsfrOvXjfkIASKc7m40Um+ZNwjIzTu35QzP20ljKW8MoaDhBwnC/3ihvk1ynjlmG+2H9JCsXwEtkhU9eX9ovXpzI5CDd6x09RqaPJeM5hvnKcqtGgRFae/LLu5kl55GXCTEHFc7NKxVd3s2Od9cfwZbTe2GVmVXR5UFSXM2qfxFApt5N55xIhXR2ShN6Vb/X5xx5G1blP+OQK4AsAUtgxC1e4IMNt5F8NEmb4f7ujExkNLuoxx+9qWCSRi9ekLOvZ0Y0IM/XG54xHSr7fOEs7f9qez2jWXKjkFwO3EQ3hWyfF0WgYfyAPp4VzISBcBGX+tTiI=;EOALVgbWTpajVvKifOIrHA=="
+secured: "wlxjdvicsCM/vGqxsNW/hJI0IR0EpOUAhQJxg0CzKXlktSlwsW0hbI8ZrhYUUK8PkSwbhZqufH5ImdzOXtjVP0vus/y6jWjwMBlSGtigQNZU6WreLGON84ox24P+1v/MtIQYRPYyJkA/VfG2Qx5e/YCdKGGKV1cvR9LCIkTSGeEHDDaGc/E57keG4dFStajSUJ1S7bDNqT/jaw2OX8asxxk68lzLe0Kp00+62qFAUmaOxT+eOBWee7PCxf8F/ZHb9PYlTkEONZuXSRtNa8KLnfQoxDGTdrcLCyMkX3RljrfOxkGAS/UYTNdSsGjfL/Cx0eS+QIDfatFM4YJOSKJSw/wOGTULb4yBZlo8A2pNmS0=;INsNKr1p+50ly+kteEQdEQ=="
 ---
 

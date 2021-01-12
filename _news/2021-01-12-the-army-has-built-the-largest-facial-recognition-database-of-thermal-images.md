@@ -41,20 +41,6 @@ related:
         width: 796
         height: 448
         isCached: true
-  - title: "Masks no obstacle for new NEC facial recognition system"
-    excerpt: "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus."
-    publishedDateTime: 2021-01-07T22:33:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-japan-facial-recognit-idINKBN29C0KQ?edition-redirect=in"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210107&t=2&i=1546914295&r=LYNXMPEH060C9&w=800"
-        width: 800
-        height: 572
-        isCached: true
   - title: "This facial recognition system can identify people who are wearing masks"
     excerpt: "For this reason, the NEC company has been working for some time to develop a facial recognition system that can identify people even if they are wearing masks. Mission accomplished. The Japanese company has been marketing its mask-proof face recognition system,"
     publishedDateTime: 2021-01-11T14:43:00Z

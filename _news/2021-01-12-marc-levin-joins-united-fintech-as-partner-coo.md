@@ -55,20 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Walmart Announces Creation of New Fintech Startup"
-    excerpt: "Walmart announced the creation of a new fintech startup designed to develop and offer modern, innovative and affordable financial solutions. The new company is a strategic partnership with leading fintech investment firm Ribbit Capital."
-    publishedDateTime: 2021-01-12T06:08:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/walmart-announces-creation-of-new-fintech-startup/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "p6XdYsJ2Su8fu8sQrzPiQvNBuhdKv3ixX2FXGa6ErZdUwiD3qX99sdA4Qd+sVLcm+ZtoI/bjlu17LCD1qZsSaagXhOPrLZ5/SkRQdw6nj9NuYF1xY5iDVjo5/Qp4Hd4yEDpCwcbyA+os4hZAG180mbP+BPS4pqpjDM3NpQQ3zPIKxNdsUuBYJ4xlicXh/59DgLqH6qD419jwSHW3VHpXWTp/WlMC9PnkQLtUefFaPnDT7wd8A+VYFiKPn5ay4Vsu3qEMSun7wRJUljZ/C7OUSQLqkA3kZYtLl0eBVgBfB5yoAOa0HIthmgUoOcnGlYm77WjUdO7MrhrS6Obcuo8S8NwYPaN87lS2QmSweZKLXcQ=;za+grpdth77DDjqoLEsvkw=="
 ---

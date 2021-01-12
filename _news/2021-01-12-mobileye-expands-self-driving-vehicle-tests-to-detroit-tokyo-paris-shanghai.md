@@ -40,15 +40,15 @@ related:
     quality: 53
   - title: "Mobileye intends to put self-driving tech in consumers' hands in 2025"
     excerpt: "Mobileye's self-driving ambitions are going global, and the company's scope is stretching beyond robotaxis. In 2021, the Intel subsidiary intends to launch new test beds in Tokyo, Shanghai, Paris and potentially New York."
-    publishedDateTime: 2021-01-11T18:31:00Z
-    webUrl: "https://www.autonews.com/ces/mobileye-intends-put-self-driving-tech-consumers-hands-2025"
+    publishedDateTime: 2021-01-11T19:09:00Z
+    webUrl: "https://europe.autonews.com/ces/mobileye-intends-put-self-driving-tech-consumers-hands-2025"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Mobileye-cabin-drive-MAIN_i.jpg"
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Mobileye-cabin-drive-MAIN_i.jpg"
         width: 800
         height: 600
         isCached: true

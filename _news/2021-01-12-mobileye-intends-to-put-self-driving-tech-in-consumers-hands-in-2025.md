@@ -2,9 +2,9 @@
 category: news
 title: "Mobileye intends to put self-driving tech in consumers' hands in 2025"
 excerpt: "Mobileye's self-driving ambitions are going global, and the company's scope is stretching beyond robotaxis. In 2021, the Intel subsidiary intends to launch new test beds in Tokyo, Shanghai, Paris and potentially New York."
-publishedDateTime: 2021-01-11T18:31:00Z
-originalUrl: "https://www.autonews.com/ces/mobileye-intends-put-self-driving-tech-consumers-hands-2025"
-webUrl: "https://www.autonews.com/ces/mobileye-intends-put-self-driving-tech-consumers-hands-2025"
+publishedDateTime: 2021-01-11T19:09:00Z
+originalUrl: "https://europe.autonews.com/ces/mobileye-intends-put-self-driving-tech-consumers-hands-2025"
+webUrl: "https://europe.autonews.com/ces/mobileye-intends-put-self-driving-tech-consumers-hands-2025"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Mobileye-cabin-drive-MAIN_i.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Mobileye-cabin-drive-MAIN_i.jpg"
     width: 800
     height: 600
     isCached: true
@@ -53,6 +53,6 @@ related:
       domain: digitaltrends.com
     quality: 53
 
-secured: "i2++8fpRpPHK/4sQ9sFtYvvwaMQzeCFkTi3M5NNuw75Itut5102rIlqp/mT33PtzVLqKyq8ijQKgBHTc8rjPAikZekePmzzdICBO1JSEw60NOgG0U8vY4IBPHpo5lX6QklNLisVwPPz2SZN1hDr4Hu34CIQpCZojHdcCmQoPaMwbCixAI+tfgWLt4nyjQQkC0H6dvW2eS1zZaFbOOnQ8sLItiCocF3ArdqvrbNyCXa1HWDO9ORM2UTLY51i5afCT9VwZPHgAtMi+6ojzPfWcZNP087l3BzF0xEkeLqQ9s5HWEPvFAZO7LRWZ7qAxc8srySgEhOhfxCoiyznyKidqQ1oQSA9M7qkf1JXEI7VSAHoAlCsnTE/+DoPpo+z9UsgPEe8jsJ4shSys/vUWUwjIA+NnBMN2wewYbRjyZbJd+3ia+ckSY/xUxMRsb2u/BzWWhuOFezNGvZJaRC5QdLgm2wDEkPsQB1ssReMbKYXNsy4hxvOB7xDkok8QEjUmGBoVBl7Jj1UE5WFXNHhVxuvwZg==;ZyS99dqIHArCtl4GUpqGxA=="
+secured: "CBXpjoMgW+SqxPxuzmZlUnJYo0fNPWwX+4hc0K8snCJTHWx1Euc7AJY+bXUuI7qKJOqEugRQhTX8d/yL+qHeJtkyVKedp7Ko/MfsE1xI2n3aLroa46gHUqGvXgEQcC+hraPtKyUk6RzyB3yrTddkQg9azOt9oA3l6su3TgiMiBBsHYYl10+RIBIe3Ty8G7EoikpY9h2JnGrHd/gCWNAdCNlqcIoG3x+NaaKG8MEkUoMYbgzKJC7Yr8zVGluQhrxcclfoe2i4QXooxpAr9qs5xllPQHteBiJA5t2lQ/LgsDJhj1bsV1hwDZ/N3ykVX1xLd5+gxsdbI9Wq/CPZNQYk+kZxsJkDZSibrwWmxooXIDY=;S4AdaXjaFZjW5TWd4365dA=="
 ---
 

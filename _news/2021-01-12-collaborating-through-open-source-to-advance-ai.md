@@ -3,10 +3,10 @@ category: news
 title: "Collaborating through open source to advance AI"
 excerpt: "That something is open source. The sheer number of open source tools available to developers - from libraries to frameworks, IDEs, data lakes, streaming, model serving and inference solutions, and even the recent end-to-end tool aggregator,"
 publishedDateTime: 2021-01-12T11:20:00Z
-originalUrl: "https://www.techradar.com/nz/news/collaborating-through-open-source-to-advance-ai"
-webUrl: "https://www.techradar.com/nz/news/collaborating-through-open-source-to-advance-ai"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/collaborating-through-open-source-to-advance-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/collaborating-through-open-source-to-advance-ai"
+originalUrl: "https://www.techradar.com/news/collaborating-through-open-source-to-advance-ai"
+webUrl: "https://www.techradar.com/news/collaborating-through-open-source-to-advance-ai"
+ampWebUrl: "https://www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai"
 type: article
 quality: 89
 heat: 99
@@ -48,6 +48,6 @@ related:
         height: 538
         isCached: true
 
-secured: "tpdhQ/NSXumIg3AmZwXE6JRzttc1MOKCRAhG3NV5dI4hTJfcDDHN1TTAAOYL1F4RwcNuvpGiBzVcSvcYAJrTva35JYqLq77iWpI5Fa2/LVJ/Iw52iPXBapJQu1A6kEQrC6QrhXQDspOi9VXtCkZ5SOSVg2vg6UtY/VGeSB8It2xtdsHziGxEFFRu3q6uKvA9SY2iliHCbP4ReVINcsQYKCjrmWgutNsiBJxYRftOmgPJdHksM17T8bEVnqO2wXSxCkz3CgY9i0uvcIHCYHxqhFGn2qC+91uzxCOkSa06O87PhGIyIc28N8YN0o+cBJg4C3lHH01jW1oaqtBGBpusfp18K8rPJlZMlSL9/WH1aw4=;LmPUcnVyBZc2S5gp+Ewh6A=="
+secured: "cPgrnVXMGLOuuTlqFJIDWHrGzwKBiS/PGXDPiy9l+MySsq3n83SZLJPDZZIwqaGMoLOI84PGciEFw4jhtzEd1AzHHBKUBcJIeh06Om3i7yyYQG1KjnRQ975HwAo9wRU+IPrLIK9dRiEt9gqu8HcxkQ79j2j6/UbNb/IGl0+ib4cUSZKIGl6XFptgyn1a8qoCxrYI48r9gI/QPB0aTwZ0D9PXlUYkgMTgxK9mJ5FWa8464lxpejFt5eyObxDXwfc/qFmQ2Rc7OifFMc2htHqC+jq0t/T63QW2UeR91bghDKGSXTSoBuRBR91qdrcEXaot99TKo68LWOuiuv3QuctiZQeZGtv+ubkoBr+BDgQjF8I=;4tIDdJdFFzOv0oO7EJyXAg=="
 ---
 

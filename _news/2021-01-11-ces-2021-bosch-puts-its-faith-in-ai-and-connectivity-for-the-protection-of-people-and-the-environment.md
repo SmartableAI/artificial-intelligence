@@ -35,6 +35,22 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
+    excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
+    publishedDateTime: 2021-01-12T14:30:00Z
+    webUrl: "https://www.albawaba.com/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 43
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/bosch_softwareentwicklung_4.jpg?itok=-_RdG45m"
+        width: 960
+        height: 539
+        isCached: true
 
 secured: "4+fGuuo4j7Or1rRiaavat0JzjEPvGtTA2mr/d39CYU9Q8kSIPH5etOkEHc/EgXYa72tCarG2oO2qAM0+2ZZkHia//46a/psEjKNlP3fvPyEZnJgKrvCJ0geD/W2azpARzh1WlcFu3EkF+B6NjMDUOqWTz3wQuah4QhwUQgGboNu2WTMO8MsERO4KNw1CWIFqHg19Q2IIAvL22QlIyjQjGs+/4fx8slZAHJ4k11ufg+55ngYYJ5Pnw9stGXs+VMi/Dh4NdHSmZ5FFpdGC/RJJyKvTrCT6y3i+I8Iv8sQGlGCaqKO8J+6t82PhQOzUBVRsjLF9gS/5pcK/dWZXOvFUmk5+LyS+YOHGSR6ALsm+3Pc=;3rBQ7nPwk0VeNBWVErHBHA=="
 ---

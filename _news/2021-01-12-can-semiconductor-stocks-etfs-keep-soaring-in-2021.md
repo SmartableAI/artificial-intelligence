@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/can-semiconductor-stocks-etfs-keep-s
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-semiconductor-stocks-etfs-keep-soaring-in-2021-2021-01-11?amp"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Semiconductor Stocks Are Worth Buying Today"
-    excerpt: "Semiconductors are a great way of investing for the future because all the technological progress that we can conceive of today is enabled by these pieces of logic or memory. These are the things that empower machines to follow our commands whether at the press of a button or by a voice command."
-    publishedDateTime: 2021-01-07T22:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/semiconductor-stocks-are-worth-buying-today-2021-01-07"
-    ampWebUrl: "https://www.nasdaq.com/articles/semiconductor-stocks-are-worth-buying-today-2021-01-07?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/semiconductor-stocks-are-worth-buying-today-2021-01-07?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "GxNQb9BmgssoBZMrfpma5Tz4OBMahLJc1Qv3grFYEUUKZDdvBQd4C+RsjwNjT6jQAGI6a/2YEjMu6NkkD4HGzANTgD1SfzhKkpYtrGsh45mt3N7zsIwQtwKpCrQnaVvhmUXHem1SpJRy/hlLhC13ZrYxA8WRfyNX4XjFVVSl75O+jq39S29x60bV1FK0twYYXL31awQk7/RJsN2Jvlie3mcDmgwgZOft9nmI//PPtotkqffwoA/v9krGwSkL36XfR7hgS4DbklaLs9k7D3skjSJXA+ZEm5UFHuMcRxbNrjD+sllzj4wL/Gxa8MOx+4Oi8u+84WFRmqo9Bo9UjuqhSYp18Sm5PRYoA6inXy3z834=;gZ9nomg/GmcwVw4l08J1Fw=="
 ---

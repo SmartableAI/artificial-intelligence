@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Software promises to improve AI object recognition."
-    excerpt: "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition."
-    publishedDateTime: 2021-01-12T09:45:00Z
-    webUrl: "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/"
+  - title: "Programming tweak helps AI software imitate human visual learning"
+    excerpt: "Using a novel programming tweak, a pair of neuroscientists have managed to replicate human visual learning in computer-based artificial intelligence."
+    publishedDateTime: 2021-01-12T14:20:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/"
     type: article
     provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 56
+      name: UPI.com
+      domain: upi.com
+    quality: 63
     images:
-      - url: "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg"
-        width: 940
-        height: 626
-        isCached: true
-  - title: "Report alleges bias in ExamSoft facial recognition feature, proposes improvements"
-    excerpt: "A report has pointed out bugs with the face biometrics-based feature of examination proctoring software ExamSoft."
-    publishedDateTime: 2021-01-07T21:10:00Z
-    webUrl: "https://www.biometricupdate.com/202101/report-alleges-bias-in-examsoft-facial-recognition-feature-proposes-improvements"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/14153116/Using-AI-and-biometrics-to-enhance-exam-proctoring-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/7781610457664/2021/1/69303160586a78ce2dec53bee2c8f1d7/v1.5/Programming-tweak-helps-AI-software-imitate-human-visual-learning.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Computer's learning ability improved by tweaking AI software to function like a human brain: Study"
     excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."

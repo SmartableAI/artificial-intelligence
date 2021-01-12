@@ -1,35 +1,31 @@
 ---
 category: news
 title: "LG’s 2021 OLED TVs are bigger, brighter, and built around AI"
-excerpt: "LG has unveiled its 2021 OLED TV lineup. The range includes an extra-large C1, the brighter G1, and AI-driven features. LG isn’t just counting on its Mini LED TVs to lead its 2021 big-screen offerings."
-publishedDateTime: 2021-01-11T20:03:00Z
-originalUrl: "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/"
-webUrl: "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/"
-ampWebUrl: "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/"
-cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/"
+excerpt: "LG's 2021 OLED TVs are bigger, brighter, and built around AI LG has unveiled its OLED TV series for 2021, which will include an oversized"
+publishedDateTime: 2021-01-12T13:05:00Z
+originalUrl: "https://www.compsmag.com/news/gaming/lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai/"
+webUrl: "https://www.compsmag.com/news/gaming/lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai/"
+ampWebUrl: "https://www.compsmag.com/news/gaming/lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai/amp/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: Android Authority
-  domain: androidauthority.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows
+  domain: compsmag.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/01/lg-c1-2021-oled-tv-920x470.jpg"
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/LGs-2021-OLED-TVs-are-bigger-brighter-and-built-around.jpg"
     width: 920
     height: 470
     isCached: true
 
-secured: "00uE1nrJtY9qzJQyeo3bithxztrYfcRkD//gsggAd2Zlh3x06VX9lIYT69XDqNOhOLdRok6BHpFWcziQWty0Id438ujzNaKz2Kln4MuYEhjhiKxbpoeIDDfa6YauWsPyi0DScl9TeH2Ae7P8b0AnTpc7IrVnVxIMtRo8ij76dBllvz+0fbrIBMJuaZ/7VrmlMA18t32ghftAmCHsx2SleM3+5DO513kre35Opq1oSQQQo+etZnaxuq6kHsr7vQVmGZ0eIMYNy/31dRY/mPJioQE4PEnpdI39p686caRDKMIFvHb4CKUi0MZjmFhgCMqpLcXI3FOYRar6RfhyrX6Uj8ECC+NwNlcXnrTPyhq+/V0l97wU0xD+P60+0vfL3x1Kk2/yWu8OF45awOyA1UR5BwNywCGTX5nOcizvOIK6DypFvdwb36KN6mEmWgNAlZdvcEypQPKc39HvIdmUIcqkCGRg4sKbHEjCF+ilnb5nAhrQ01AunXVb/9UR4S2jOVCK/EyjZAIeyc6AFnX5ogm1TQ==;Pkpj5vuGk8IwexxkFz0UHA=="
+secured: "gPI+sAVQ9tGl1H+PSl03pXPTjpZILfOTl5Lovddrotqba10swFCuAh2FmjejybMOFFTR3dl91m1EfkltjV84xSfd3IKuvToXfHhHx1LOYjngGNvlkCY070s8+7b26cDuQGuQQ40oneSUeslmAvaKOutKE5jH1OxLc8Pbg08ILgN494uR3Ve0DPJqU5W7firsXyoNEkAlcrXljy6fQrxqJxBuwS3x4/Im2khn50PvY6YsxKjb6eV3jbCYQ/aCNq5zRacGByfOcgn4yYJwXeotLi2n5xstien28vsTwQgBYaMzREZBkLEIxTeURrurTcT25Aiz+K1Avq6WDaN3cODFAuNbSgoayuCLXriizgwMd/U=;G7tAh/whhSIK0RYxkQhu9Q=="
 ---
 
