@@ -42,20 +42,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Neural Networks Playing Video Games Teach Us About Our Own Brains"
-    excerpt: "When you are driving a car, your brain is taking in an enormous amount of visual information and using it to make driving decisions, such as when"
-    publishedDateTime: 2021-01-07T17:38:00Z
-    webUrl: "https://www.miragenews.com/neural-networks-playing-video-games-teach-us-about-our-own-brains/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 54
-    images:
-      - url: "https://caltech-prod.s3.amazonaws.com/main/images/AI-VideoGames-03-WEB.2e16d0ba.fill-1600x810-c100.jpg"
-        width: 1600
-        height: 811
-        isCached: true
   - title: "New Caltech Study: Neural Networks Playing Video Games Teach Us About Our Own Brains"
     excerpt: "To study this and related questions, researchers can experiment using simulations from our everyday life: video games. A new study from Caltech compares brain scans of humans playing classic Atari video games to sophisticated artificial intelligence (AI) networks that have been trained to play the same games."
     publishedDateTime: 2021-01-09T15:09:00Z

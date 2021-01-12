@@ -199,6 +199,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Samsung develops wine-pouring robot"
+    excerpt: "Tech firm Samsung has unveiled a new robot that can pour a glass of wine, put away groceries and hand you a drink. Samsung made the announcement during a virtual press conference as part of the 2021 Consumer Electronics Show (CES)."
+    publishedDateTime: 2021-01-12T10:41:00Z
+    webUrl: "https://www.thedrinksbusiness.com/2021/01/samsung-develops-wine-pouring-robot/"
+    type: article
+    provider:
+      name: The Drinks Business
+      domain: thedrinksbusiness.com
+    quality: 39
+    images:
+      - url: "https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2021/01/Screenshot-2021-01-12-101423-350x350.png"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars to navigate around objects like tables and pet poop"
     excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."
     publishedDateTime: 2021-01-11T19:23:00Z
@@ -230,6 +244,6 @@ related:
         height: 314
         isCached: true
 
-secured: "ChdJ0PStV2Y56fUyl981+aisI5piw9ZHj2dsVzbDY2jYZFCHhMMG1OAREt/SWIEkE1YArtI/aTBDm/7MTe3Mlky8833iAjoO7Qm9R3trn8AgNqpl27FbtffOxxJmWik3+JkIygPOUyySbnquTxZuyzVaf/XXhII1cyatDLlaI7i0Qq/AeBeKSbn7s8giCWx9PEMffmYSvRYwM++c+35kufRqwqNVfQc9oY7zfGsR54KJj6QwTHWFohRBtSaZT6bSDoN4TUJ8Pqwl6zeXEjgoRvoOcxs0hdcb0rlEVDJxwzsmjBwxhDxbxOxleSJ88mZVIL4labTGcBzKldCvjmr05rkr67aAynvMfSpD3VoVdWY=;fgR2Wily9fs1uy8IiQ9ixg=="
+secured: "iSQU2E43ZO7+s/aOINYZ7eXDlCkEgbZsrQ0VRgfcvQ+LrGWKhKy5oXm6jRab5yEKFNeNHhbDrL0ykDBywMfnZn8fo09e8tSnLvVyGAOKKL1dozDtAZFKWMgeB2yO9sJAWltfhZHjXvsW7J7JWZg7iDn3Di0RMg664jm3JQuYNZ0b4i8TNVYAlCXd9RIWQYowxr+3NaGGaSENZXosrmnjimqoTEERag3/zBkRRzHOb2iWG36fb9e/Y/SI9OBOpUXZVqRjK+QLROZdITp2o8Jp7CMgz0Cp2yteG74jNOrML7whzWllRyuYcblhP+S++O3wbyMk7BCj+q85kC9xkYhpgnGIIErAFboLGCwXibClFfserTwSoqDvkfqThbPBGMDcYwCTdeYbYERKT3UjI9e/9+uPLYDMkd3l5EYnb4k5p6vuTUmsai2LQ2OEFxjGJLZjMBVdPHWKfKXsrSMDT6uB18CmRB0msuTPeIVd+TUIjuITNoiUHZmEispeMnOxzZbD/iq7rjEsmy7LGlm7uG9mSQ==;v2H619Et8l07A3LNXMrq2g=="
 ---
 

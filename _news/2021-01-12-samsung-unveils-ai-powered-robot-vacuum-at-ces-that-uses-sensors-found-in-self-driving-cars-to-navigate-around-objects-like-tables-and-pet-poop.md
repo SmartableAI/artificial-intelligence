@@ -201,6 +201,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Samsung develops wine-pouring robot"
+    excerpt: "Tech firm Samsung has unveiled a new robot that can pour a glass of wine, put away groceries and hand you a drink. Samsung made the announcement during a virtual press conference as part of the 2021 Consumer Electronics Show (CES)."
+    publishedDateTime: 2021-01-12T10:41:00Z
+    webUrl: "https://www.thedrinksbusiness.com/2021/01/samsung-develops-wine-pouring-robot/"
+    type: article
+    provider:
+      name: The Drinks Business
+      domain: thedrinksbusiness.com
+    quality: 39
+    images:
+      - url: "https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2021/01/Screenshot-2021-01-12-101423-350x350.png"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Samsung’s robot dog is an intriguing faceless smart pet for your surveillance needs"
     excerpt: "Dog bots will probably be a hybrid of a smart pet and a household assistant, I imagine features like security cameras for the eyes while still being sweet enough to bring you your newspaper and waking you up in the morning."
     publishedDateTime: 2021-01-12T00:30:00Z

@@ -43,22 +43,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "IIIT-H starts project to crowdsource hours of speech in Telugu"
-    excerpt: "Hyderabad has embarked on an ambitious project of crowdsourcing at least 2,000 hours of speech in this language that could be used in such devices. According to Prakash Yalla from IIIT’s Technology Transfer Office,"
-    publishedDateTime: 2021-01-07T18:45:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/iiit-h-starts-project-to-crowdsource-hours-of-speech-in-telugu/article33523747.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/iiit-h-starts-project-to-crowdsource-hours-of-speech-in-telugu/article33523747.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/iiit-h-starts-project-to-crowdsource-hours-of-speech-in-telugu/article33523747.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "8yseN7y4ZqjjNQ0rP9mU2+3NZ6cs/xPIUydp29AqVcCDTByRsMLRcdOujrDoqqLnUpye77ucMO90BvBOYyO/DK/lNVOE9wXaq3zOsYFEAcwDM/S1iy/mrGTh06CreL/JXqlOUjZ44f69kpiJ4rYCUGRuo11hzZa6qtH9eXZimV6lD+atdTOm7v/aSbvARLcbMdgoPFWwNwrZnZOlNFw18TOX92qF5UKcFVJOcz2S/wqHS92opo8tYjtkUa5n8VZwJ8FZ5bh9681+vJffKwsz9BbZf/pvfylu73UWs/LsQsiMJRcpP8JqJxTq+/If+NuP0GFN4AwJj46eVb/Kc7+xAE7BAkJEPcHpiIhhzG5kTH0tS+7pjf7i0Wodma6ekqzULclinS4Gk7VPB+dgtCl5Tcd8fcfrL6GQAKPGjGDqNm8u4Uj1gdZu01gF1xJMtZ5VK+YCKw3fL5T3Jw0orA097DhnQ51LKDT0B2i3WGXnr3cW8VcZ1Wb9kUBgxsiAk58mddlpfwYlswFRGESUMOC/bw==;w7bv9Eld3A40aszGczbqiw=="
 ---

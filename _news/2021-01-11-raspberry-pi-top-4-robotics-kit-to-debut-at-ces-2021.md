@@ -111,6 +111,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
+    publishedDateTime: 2021-01-12T09:41:00Z
+    webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI clothing for improved sports performance unveiled at CES 2021"
     excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
     publishedDateTime: 2021-01-08T11:46:00Z
@@ -148,6 +162,20 @@ related:
       name: Adelaide Now
       domain: adelaidenow.com.au
     quality: 22
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-robotics-36120032652d479b8e56c1d5e0f280f5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
     excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
     publishedDateTime: 2021-01-11T21:39:00Z

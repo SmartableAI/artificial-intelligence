@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Zenfolio sets new industry standard in SaaS solution for photographers"
+    excerpt: "Building a highly scalable intelligent SaaS platform from the ground up using best-of-breed cloud technologies has enabled Zenfolio to leverage AI and machine learning to deliver a compelling experience for our photographers to present their craft,"
+    publishedDateTime: 2021-01-12T10:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-photographic-services-fb0ddf5d510a96faca1a7b62c810dec7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "Fgm6vAE3W2tw48E84gNsc2v6a/yWJMaWTGTbujqPrUZshUVg00f/FEebK9LR23EYNcDeYpRBg8PTCnI4ehLGekqXQxo2W6vZVj9xeh1TksuhlaBFKUoTF+tqGGz98EzCq99csl9eRUdBR2dhj31TcXkcwVDfuqJZVjuJXSd+NOeM+02vHKlD3plB0kPpS5Qd50boPhaHRIRDA/3r2wcyb++BZxCLM3TOUdaQz07aW+zjOCf14ImsCSNnpcxiOlQBIQdWBCfYFjM+kX17BYCkl4UCQ/NfVXydzRz7dww9NvMZicEigoYNXr+ha5JCJOrm/RCtf+y51dmdC4AtxtKLa7Ii2fE4UssmAUey0AH9rNw=;w7WbhKMociK7bp3YQITvpg=="
 ---
 

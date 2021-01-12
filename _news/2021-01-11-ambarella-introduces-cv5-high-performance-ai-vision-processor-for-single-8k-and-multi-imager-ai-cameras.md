@@ -50,6 +50,20 @@ related:
         width: 1920
         height: 1200
         isCached: true
+  - title: "Ambarella Introduces CV5 High Performance AI Vision Processor for Single 8K and Multi-Imager AI Cameras"
+    excerpt: "Ambarella today unveiled the CV5 AI vision CVflow® 5 nm processor for single 8K and multi-imager AI cameras, setting a new standard for power efficiency with 8K video recording in under 2 watts. The SoC targets intelligent automotive camera systems,"
+    publishedDateTime: 2021-01-12T09:45:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-drone-aircraft-entertainment-and-media-technology-consumer-electronics-manufacturing-5fd486a8001e4db3b7d32464b97456b8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "mcINN1As9ddlsgWBeHMlm82Ymz/cHGFcx6AJjhc9Lbr05eSLmBLTKkcRdtWvk0gEK+KL7SLv6qpsaV77+JEPaTNEVkUcYk4VMl44gwc4kqZXu5utyfjdQfj6t1lcQBnJyZmcPaE9YE2ni09WgYxdGmp6UDQ4oIRNCRHdROJAAj6emuIIsB0l7yXwqBtRRxQi+ipIznmE8H5uAALYNyiNPYbNhaHLEdgxnpKAPmFejPZLuDvpxO7AhM9BJwGcsIJCSUSz7UovNjEWSGjL7BKKTozmpah0c6zRflzgSM2toNUDP71EO61tKWWH6qGL9eJAnerGQrgFShW6WNV6ZtwcPX0MNgzPVkMFjaNWqpnYc8i+7dk2zG0OSUznh8GT/4zI3U7B1YrR248QYVJjyerIlqeTtWxXQlQdMDEdYLLtVlG0iCuMjwSeI39qAX7hh4S452p29jRRxnwG3c8AzLoTY9qrcCr8LKG6bJJC4brIODO7PkzXv5/+TyMCQbsmXLi+GwOry10VyR4stoLmCOwgLQ==;JvWoEN1eE9LGy0xJZjvMhw=="
 ---

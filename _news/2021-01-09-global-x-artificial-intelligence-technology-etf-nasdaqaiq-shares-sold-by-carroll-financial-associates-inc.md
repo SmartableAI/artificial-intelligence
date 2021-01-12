@@ -9,7 +9,7 @@ ampWebUrl: "https://theenterpriseleader.com/2021/01/08/global-x-artificial-intel
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/08/global-x-artificial-intelligence-technology-etf-nasdaqaiq-shares-sold-by-carroll-financial-associates-inc.html/amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 650
     height: 350
     isCached: true
+
+related:
+  - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Update"
+    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) saw a significant growth in short interest in the month of December. As of December 31st, there was short interest totalling 69,500 shares,"
+    publishedDateTime: 2021-01-12T09:02:00Z
+    webUrl: "https://www.modernreaders.com/news/2021/01/12/global-x-artificial-intelligence-technology-etf-nasdaqaiq-short-interest-update.html"
+    ampWebUrl: "https://www.modernreaders.com/news/2021/01/12/global-x-artificial-intelligence-technology-etf-nasdaqaiq-short-interest-update.html/amp"
+    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/12/global-x-artificial-intelligence-technology-etf-nasdaqaiq-short-interest-update.html/amp"
+    type: article
+    provider:
+      name: modernreaders.com
+      domain: modernreaders.com
+    quality: 47
 
 secured: "euLt3+11Pfn6IrvozLBiDyV1lAG658Iw1zUtAK5zXHhpo+8vP8paV6x5wjg9iC66mdcv/K800P48YcRWpZQXGNOFqatjSZaSbmPCfG2F62pVc+sRDaFCK7zAvfb5AJ2Dw3JnUs2wnWH41cstvOHneFJBJfF3jny6JBLslsTjrsRSyaTm+Vipa3m82/urGIu45DNxHwV4uiw321dAYeEKPuHRrxs9RcnMocapxtCkZxogO9efoEGEQw8OCh0d85McG3FHNJLcrmBEWgei6gzo/VOLPls7CvN/Hl1XDqlb2jpWXvWMtGH69zNpj5OIC8ecY6I4tYJzEHx1JdmwrM7QDbyJFPcvj13HwGCyQJoTR7XbWewT0Q4HkdRDi78DZMzZV0FSRtPr27ksyUuyJvkmaogcT7iVxFFEhAtii3iCJx2i8epaI4mXkqeTRojrD8XsstI1ICapvkN7IalY0aChfNDnCdzMxLPMVDT0GQRWDAVcb4sqhD4Q2hY9Ej9mKfmAreQ7byUKB8obffR8DIPtRA==;+W00xWYrxg/bn2KMH3egbw=="
 ---

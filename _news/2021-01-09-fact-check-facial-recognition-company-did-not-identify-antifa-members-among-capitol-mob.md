@@ -139,20 +139,6 @@ related:
         width: 359
         height: 400
         isCached: true
-  - title: "Were Antifa Members Identified at Capitol Riot with Facial Recognition Software?"
-    excerpt: "False rumors on social media were given the appearance of credibility when they were rehashed in a new article."
-    publishedDateTime: 2021-01-07T18:40:00Z
-    webUrl: "https://www.snopes.com/fact-check/antifa-facial-recognition-capitol/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 34
-    images:
-      - url: "https://www.snopes.com/tachyon/2021/01/eye-5814965_1920-e1610038979612.jpg"
-        width: 1200
-        height: 717
-        isCached: true
   - title: "Smart cameras and facial recognition could assist in identifying Capitol protesters"
     excerpt: "Weapons, beards, tattoos and cell phones -- any of those might assist in identifying people involved in storming the Capitol."
     publishedDateTime: 2021-01-08T02:29:00Z
@@ -164,20 +150,6 @@ related:
       name: abc13.com
       domain: abc13.com
     quality: 33
-  - title: "No, facial recognition didn’t confirm antifa infiltrated Trump supporters at the Capitol"
-    excerpt: "XRVision, a facial recognition firm, had analyzed footage and claimed antifa had infiltrated Donald Trump supporters who stormed the U.S. Capitol. Violence roiled the U.S. Capitol on Jan. 6 as supporters of President Donald Trump stormed the building,"
-    publishedDateTime: 2021-01-07T18:29:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/jan/07/facebook-posts/no-facial-recognition-didnt-confirm-antifa-infiltr/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 30
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
-        isCached: true
   - title: "Major facial-recognition supplier builds system to identify masked faces"
     excerpt: "Facial-recognition supplier claims new system can accurately identify masked faces and therefore promote public health during the pandemic, but questions remain about whether its existing UK law enfor"
     publishedDateTime: 2021-01-08T14:49:00Z

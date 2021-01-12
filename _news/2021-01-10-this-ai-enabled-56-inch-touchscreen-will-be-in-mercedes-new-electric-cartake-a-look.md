@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Mercedes-Benz Hyperscreen User Interface Is Massive, Employs Artificial Intelligence"
-    excerpt: "Benz EQS sedan, an all-electric addition to the maker’s flagship S-class lineup. Mercedes-Benz Set to debut in the upcoming Mercedes-Benz EQS S-class EV sedan, the MBUX Hyperscreen system is the latest evolution of the automaker’s MBUX (Mercedes-Benz User Experience) central command center."
-    publishedDateTime: 2021-01-07T17:08:00Z
-    webUrl: "https://www.forbes.com/wheels/news/mercedes-benz-mbux-hyperscreen-eqs-ev-sedan-flagship/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/01/2021-mercedes-benz-eqs-sedan-1200.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "rDQ/ix/5pX8zbM/qPM3MgPI0ZZkuBOu+mfq45pQDqeEF2XHnaGEtqNAhh+J8KSfoM1oa6RDS04/GzjiiGBI9WrHmkj8ptD72qwWGx3wmqPkuOtDS075KhklwZcYfG9GQqnZ7XciaNuTnVRnNqV59gKAwau/15L0LYvTCj9G/NozRmBTKN3fv6wyYPfeyaW8ceeZoTpkhVMUOCFoCSF74f8i56IpJ+9GBRXggINriwKQOEi2khsoXAh+Fpnj6W8uYupJ0XdWH/BzlzVwRrW+DtwEhdOEt2x3XZLNvhDr92PSWUMJOYn3s/8yQv/6KYAJ8vH1r5rFOU8kSW7lwNUONyD2pqWEps+FO80MRoO0pvGXIR6J98S+5gvDcEWowp0/56AKbkUOBAHsCatarjLxrV1dYuW/KlMNMfgj3dIQCNNi6pnz6E6VstScTf4CeFYQ5GSMMmpZ9jNkSMIiklFbvYflfwscFR/yRlygXCho5g8dlcQa8ft88HuHn4wegnhSTpWKIVPKN2BJz19kknLQklw==;BNtIKBQ7keVbDEtzpLAlsw=="
 ---

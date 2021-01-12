@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/11/outlandish-stanford-facial-recogn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/outlandish-stanford-facial-recognition-study-claims-there-are-links-between-facial-features-and-political-orientation/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "From facial recognition, to predictive technologies, big data policing is rife with technical, ethical and political landmines"
+    excerpt: "Analysts have identified an impressive list of problems, from biased, incomplete or inaccurate data, opaque technology, erroneous predictions, lack"
+    publishedDateTime: 2021-01-12T10:17:00Z
+    webUrl: "https://www.thestar.com/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 48
+    images:
+      - url: "https://images.thestar.com/0eWFrqkFlkGGj2pu13ob829wcSQ=/1200x663/smart/filters:cb(1610398067644)/https://www.thestar.com/content/dam/thestar/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines/poster_for_part_8.jpg"
+        width: 1200
+        height: 663
+        isCached: true
   - title: "Outlandish Stanford facial recognition study claims there are links between facial features and political orientation – Jaweb"
     excerpt: "A paper published today in the journal Scientific Reports by controversial Stanford-affiliated researcher Michal Kosinski claims to show that facial recognition algorithms can expose people’s political views from their social media profiles."
     publishedDateTime: 2021-01-11T10:17:00Z

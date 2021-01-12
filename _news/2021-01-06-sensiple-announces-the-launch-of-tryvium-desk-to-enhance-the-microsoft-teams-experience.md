@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
-publishedDateTime: 2021-01-06T06:03:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
-webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
+excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their"
+publishedDateTime: 2021-01-05T16:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
+webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
+    width: 1460
+    height: 766
     isCached: true
 
-secured: "eLj8PJIcAEsT5t6mS/OFNg2wIp4QzRIvXmKEbvlWmGTYAfv3oOAHqzr8N3EyQUOeoGFV8gSQLT2j3x9gIqL2BSZip3fZIFQto/LMlV1dyJMo+ZArIrL7MYEde14VwbmswkIS+NNqzBNxmQOgC7TXnlVULiXuk4XIS7h3jsGY7aejbPLL7a+k4RB7fvXHUvE7MladTtbcX4BZhQhl2RR/sAuB1Jo+Lo2W9wKeVIauyNH4+3TXoeOD0/C6BlnSPGgKEo8X+9OlGW9uSzGFOclfOjZMNifDbkTmMN9HQnoqrfzGLxGhMhEoMorMLi8e7loa3fsAM+IlRXScfRUFszdx0H7mdn+Az/g6ReCha+wiAwY=;RDkMtPjBe0RNanp0aFPGEQ=="
+secured: "nzjtGXpv8L9ce0b/yMqk0ON8EU0Et14GB8pO4LtnUKzFfR//n0rRVwTHZaum++ABBCaqT+nLl2x/C7IDza0zZva0Qv/fuX6d00wHxepV4DLX5vowoIGqRUIaRJr4wqwL0xAcKdjZRAXrz8CqsGUZBwichrLexFa+43b8MZClWoZr13NSmRp/mrVbacpXSAZt29EnZby1Tt7fmE6rPXq4lnIp6jKtnnhueOqZbMny6AJyVY5PUAwELeKlmtFH/X3cIJ4G3qUULwKrenH1X7QgIvelTTPYW3pZxWWWJHLQov8NnjVjNbMMfu2tmliZ4IZkdJaM9V1kKZ/aDZVSS5+c3+RKY8kCOPuhW9Rp0cKfl/M=;LqNPL9Mp9xKEH2iu2D8+DQ=="
 ---
 

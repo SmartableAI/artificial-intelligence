@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIIT-H starts project to crowdsource hours of speech in Telugu"
-    excerpt: "Hyderabad has embarked on an ambitious project of crowdsourcing at least 2,000 hours of speech in this language that could be used in such devices. According to Prakash Yalla from IIIT’s Technology Transfer Office,"
-    publishedDateTime: 2021-01-07T18:45:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/iiit-h-starts-project-to-crowdsource-hours-of-speech-in-telugu/article33523747.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/iiit-h-starts-project-to-crowdsource-hours-of-speech-in-telugu/article33523747.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/iiit-h-starts-project-to-crowdsource-hours-of-speech-in-telugu/article33523747.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "IIIT-Hyderabad researchers kick off mammoth crowdsourcing speech project"
     excerpt: "Over 50 per cent of the Indian population uses devices that are embedded with AI-based speech recognition technology."
     publishedDateTime: 2021-01-08T03:09:00Z

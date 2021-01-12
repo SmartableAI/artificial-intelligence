@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/gumc-tas010821.php
 webUrl: "https://www.eurekalert.org/pub_releases/2021-01/gumc-tas010821.php"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Mammography expert finds deep-learning artificial intelligence may improve cancer detection"
-    excerpt: "The journal Nature Medicine has published a study co-authored by Gopal Vijayaraghavan, MD, finding that an artificial intelligence model for computer-aided reading of mammograms may improve the detection of breast cancer."
-    publishedDateTime: 2021-01-11T16:10:00Z
-    webUrl: "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
+  - title: "Software promises to improve AI object recognition."
+    excerpt: "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition."
+    publishedDateTime: 2021-01-12T09:45:00Z
+    webUrl: "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/"
     type: article
     provider:
-      name: University of Massachusetts Medical School
-      domain: umassmed.edu
-    quality: 29
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 56
     images:
-      - url: "https://www.umassmed.edu/globalassets/umassmednow/top-story/vijayaraghavan-gopal-2-660.png"
-        width: 660
-        height: 341
+      - url: "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg"
+        width: 940
+        height: 626
+        isCached: true
+  - title: "Report alleges bias in ExamSoft facial recognition feature, proposes improvements"
+    excerpt: "A report has pointed out bugs with the face biometrics-based feature of examination proctoring software ExamSoft."
+    publishedDateTime: 2021-01-07T21:10:00Z
+    webUrl: "https://www.biometricupdate.com/202101/report-alleges-bias-in-examsoft-facial-recognition-feature-proposes-improvements"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/14153116/Using-AI-and-biometrics-to-enhance-exam-proctoring-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Computer's learning ability improved by tweaking AI software to function like a human brain: Study"
     excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."

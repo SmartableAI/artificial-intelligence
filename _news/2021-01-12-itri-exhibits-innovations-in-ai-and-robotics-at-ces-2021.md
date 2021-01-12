@@ -1,0 +1,61 @@
+---
+category: news
+title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+excerpt: "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site (  ITRI’s featured technologies include the Dual Arm Robot System (DARS),"
+publishedDateTime: 2021-01-12T09:47:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-energy-industry-electric-utilities-greater-china-62ad8429deb3b03c423f463f96929ff5/gallery/f6e10d436a9041020b2a20c1908e34c4"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-energy-industry-electric-utilities-greater-china-62ad8429deb3b03c423f463f96929ff5/gallery/f6e10d436a9041020b2a20c1908e34c4"
+type: article
+quality: 69
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Google AI classifies baking recipes and explains its predictions"
+    excerpt: "One goal of AI researchers is to figure out how to make machine learning models more interpretable so researchers can understand why they make their predictions. Google says this is an improvement"
+    publishedDateTime: 2021-01-08T11:59:00Z
+    webUrl: "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/"
+    ampWebUrl: "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/cakie.jpg"
+        width: 1280
+        height: 811
+        isCached: true
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "The Industrial Technology Research Institute (ITRI), Taiwan's largest and one of the world's leading high-tech applied research"
+    publishedDateTime: 2021-01-11T12:50:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021-301204748.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+
+secured: "tTueK6d7lTU51qbd2lD1H4C4YH1mwiRPRo+jPolMO6v4Jp1eGTZvEx2JNinY3gCp3DrXY1m5xDSDBsqpTaaCCLmYTYNoLwE7ibxjOM+FwadfS5Aa0RVOYFyz5V1OywnFePWncGAzT8y0spvkSi4HG3ca1ZN+rtaFKXtIBbmOU49QLYrs5bZX6JiXBzqZMq+339HNLUSpnEKOeA8Hdx5bd671XiZzfyNPihuNXnZ1mEjYcYZzf31QwQwyNgIzQHqtPwky8FkhhjS6+VU4b/xqHfd2ZMAPnYT+/z5gBdaljmc/Z6nx2qRlAiHdpUxbJZC8/oFzp/146j9zMAjTeR3NVAvVVa24Aonhu2XCMneja0I=;FzpHiYnif388kExsQ/PZ3g=="
+---
+

@@ -2,30 +2,28 @@
 category: news
 title: "Pandemic's Robot 'Heroes' Highlight Their Value At Tech Show"
 excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry's annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
-publishedDateTime: 2021-01-12T07:36:00Z
-originalUrl: "https://www.barrons.com/news/pandemic-s-robot-heroes-highlight-their-value-at-tech-show-01610419207"
-webUrl: "https://www.barrons.com/news/pandemic-s-robot-heroes-highlight-their-value-at-tech-show-01610419207"
-ampWebUrl: "https://www.barrons.com/amp/news/pandemic-s-robot-heroes-highlight-their-value-at-tech-show-01610419207"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/pandemic-s-robot-heroes-highlight-their-value-at-tech-show-01610419207"
+publishedDateTime: 2021-01-12T02:36:00Z
+originalUrl: "https://www.ibtimes.com/pandemics-robot-heroes-highlight-their-value-tech-show-3119508"
+webUrl: "https://www.ibtimes.com/pandemics-robot-heroes-highlight-their-value-tech-show-3119508"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP2634835071964449978299183502101726944206-ces-lifestyle-it-robots-us-computers-lifestyle-1.jpg"
-    width: 768
-    height: 512
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/robots-which-showed-their-value-during-the-pandemic.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
-secured: "13eDCg9h2HAIu8aMEF12YKW29930LO/Y35Jkz7WRT21/Rx+1EM9jKhbKzo6I4m9hkqiNmci7q99oXvPfgaGIH3I+uUb3N6mmzcwxUj1ZqJVVGtqv0xndhfB5gl0HdX8Pa3g6btXE8vm83/DShkuvmjgKeeyl6QNHj5O2z7Ud/p+Sflu4kB1fzexx5iBz93zRaEsm/hAwhrxJ8ciPpPaK5GLPqKED3Hi1EwjwC1MqRaHNtlgzC/rieaIYx+5Uj2NDTGTb9FyWUY/yZl+oWsDmvpCh2nChJGc1kLp15oryQ70bt9DfzskVohEK/u91LOVj/zwrfFwIawdIZt5/wff6Ba4g8ZDDdN327WEB8JxpqwA=;y0Zh910qgxFcxXxgM/nv1A=="
+secured: "OJv5tkuB8dLB1yyiuiAWtztZZ4owBziRURlGcEAE7tm2OABz/PW+ew8LhN1JwhoPIa6/v5a0fPW+cAW/+P5QfX8cxWy+ZU0s7kIyp2diYB+MvZk1wq3NrmIodQzIKkndzSKzxIujtYxJAjnFnBK9Yf0l4HoJKtkHK8Mou+bBEHllnXOcTya8JLVlipc3xIpNlJ5EpEAbqm9+eqn4EA0DvVBpZD6l1jpFLhPYemjWxvR29s0p2hW0aNuareKnuUTY+JJhFgOG3yAgMJzN4SbihaPVJWHr2NrIASZ+Z/8skXwTAVQdvc2swQMkwNAItYqsQ0CNHvG2McL1OXSp0/fAxaqghIIzhXDYgClEdu9YfU4=;wn6oEVnY8np21S0zc3Tibw=="
 ---
 

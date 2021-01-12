@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azooptics.com/amp/news.aspx?newsID=26516"
 cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=26516"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
-  - title: "World's fastest optical neuromorphic processor"
-    excerpt: "A Swinburne-led team has demonstrated the world's fastest and most powerful optical neuromorphic processor for artificial intelligence. The neuromorphic processor operates faster than 10 trillion operations per second and is capable of processing ultra-large scale data."
-    publishedDateTime: 2021-01-07T17:36:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210107112418.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 36
   - title: "Researchers unveil world's fastest optical neuromorphic processor"
     excerpt: "Details have been published in Nature, and the breakthrough is seen as representing an enormous leap forward for neural networks and neuromorphic processing in general. Artificial neural networks can 'learn' and perform complex operations and are inspired ..."
     publishedDateTime: 2021-01-08T10:48:00Z

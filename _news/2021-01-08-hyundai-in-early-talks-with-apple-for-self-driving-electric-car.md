@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-ea
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: UPI.com
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cox Automotive to service self-driving fleet of Hyundai's joint venture"
-    excerpt: "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc ."
-    publishedDateTime: 2021-01-07T18:00:00Z
-    webUrl: "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
   - title: "Hyundai to Partner With Apple on Self-Driving Car ... but Maybe Not"
     excerpt: "Hyundai says it will partner with Apple on a self-driving car, but then quickly shifts gears to say it has received requests from a number of technology suitors."
     publishedDateTime: 2021-01-08T16:47:00Z
@@ -125,20 +114,24 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Cox Automotive unit to service Motional's self-driving fleet"
-    excerpt: "Cox Automotive Inc.'s Pivet unit will provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co. and auto supplier Aptiv . According to the agreement announced Thursday,"
-    publishedDateTime: 2021-01-07T18:39:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cox-automotive-unit-service-motionals-self-driving-fleet"
+  - title: "Apple may pick more electric-vehicle partners than Hyundai, Wedbush analyst says"
+    excerpt: "Shares of Hyundai Motor soared on Friday on the news that it is in talks to join with technology icon Apple (link) to make a self-driving electric ... Chinese tech stalwart Baidu (K3SD.SG) may ..."
+    publishedDateTime: 2021-01-08T20:44:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210108198/apple-may-pick-more-electric-vehicle-partners-than-hyundai-wedbush-analyst-says"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Motional-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 14
+  - title: "Hyundai may not be the only partner for Apple on electric vehicles, Wedbush analyst says"
+    excerpt: "Shares of Hyundai Motor soared on Friday on the news that it is in talks to join with technology icon Apple ( link) to make a self-driving electric vehicle. But one analyst says even if those talks come to fruition,"
+    publishedDateTime: 2021-01-08T03:49:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210108189/hyundai-may-not-be-the-only-partner-for-apple-on-electric-vehicles-wedbush-analyst-says"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 10
 
 secured: "OfU2pKFc7eS1c8qXglTpIpEkhzQIi3HCVzz8X/T0rZ+BWoEA5W9r3DGzLiR4u1tUlCoHfQ1q9/6PHU6vOzVWz51eFJ/AOTDxDylhvyiELibK5oyvXh9Q54Gx/GOVyr8GsRQD93zh9jpDmvHXj8Au28egPj7eep4dOq88u3yjfIP/s2g/1wE+GjgQFm8SuOcUuVW5GVrlln0KFnayN9FrqqClg4PJA9i4FEOkPUNW0i+SgyAGdnnzatgQ2cs4Oc0Qts8BxYaA1IvlSsE41ylQmCQnAQ2uS4svr+o7pv3fzERilAcknXhTpydOUeulBY1NzUaAwm5miQC307yMowk8nWV2p71UFUTlCe6iY5wSTELwi8UT57yQ0PCp/32KD/OsbYfun3F+ZG6gQXqFXAc+hb27W0r2nJsgNKsAHsEDsYB3y9pmNF2aidtWo3pkYllTVVyac3o4CkNCiXSDQ5m2+2Cnv4WPiEGn3sp3jjcV5GtVENPWPgkdw+bNZKvjYfbcsRXM7W7OJEyGQ4YSgWIvyg==;ACLtMhQzC8FWers6hI54zQ=="
 ---

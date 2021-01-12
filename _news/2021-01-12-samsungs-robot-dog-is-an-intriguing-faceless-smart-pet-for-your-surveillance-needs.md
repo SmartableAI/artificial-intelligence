@@ -199,6 +199,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Samsung develops wine-pouring robot"
+    excerpt: "Tech firm Samsung has unveiled a new robot that can pour a glass of wine, put away groceries and hand you a drink. Samsung made the announcement during a virtual press conference as part of the 2021 Consumer Electronics Show (CES)."
+    publishedDateTime: 2021-01-12T10:41:00Z
+    webUrl: "https://www.thedrinksbusiness.com/2021/01/samsung-develops-wine-pouring-robot/"
+    type: article
+    provider:
+      name: The Drinks Business
+      domain: thedrinksbusiness.com
+    quality: 39
+    images:
+      - url: "https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2021/01/Screenshot-2021-01-12-101423-350x350.png"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars to navigate around objects like tables and pet poop"
     excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."
     publishedDateTime: 2021-01-11T19:23:00Z

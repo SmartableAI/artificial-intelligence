@@ -1,23 +1,30 @@
 ---
 category: news
 title: "INFINIQ to Enter Global Market by Establishing European Sales Headquarters and Participating in CES 2021"
-excerpt: "AI and data service company INFINIQ establishes a sales headquarters in Luxemburg to optimize marketing activities for the global automobile market"
-publishedDateTime: 2021-01-11T09:22:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210111005450/en/"
-webUrl: "https://www.businesswire.com/news/home/20210111005450/en/"
+excerpt: "INFINIQ is establishing European sales headquarters to expand the scope of its business beyond Korea to the global autonomous driving data market. INFINIQ is a Korean company that provides artificial intelligence data sets,"
+publishedDateTime: 2021-01-11T09:23:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-products-and-services-asia-66117911a7184923a25326255246d862"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-products-and-services-asia-66117911a7184923a25326255246d862"
 type: article
-quality: 4
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
+  - AI in Autos
   - AI
   - AI in Sales
+  - Computer Vision
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Lawyers to retain European professional voice"
@@ -35,6 +42,6 @@ related:
         height: 536
         isCached: true
 
-secured: "GfaI2PVFA1V37SGvl0fDhHXij2h/ggF1J9t84WY97i0YGctrOUZvZoC1Kjm/tOVBFHl2LhcWTwjhJIXfTvIq4onC7LhG0CvwXirg/wkut72HzrIod/m0Zda1JgUpmhblFbrh75cMzSSmFCE6QtQnUuRtmevGhZ0mxPkP3ttjj06bbB+BenOj0OOxJ8A3/tcVOm3deGbCtIzPPSfJ55FBzSxR0pY/rrcKP14DYI+n5DMp/Kt2rOtoP2bu18jJYFa/WtmIBfSlvjIrZjtUsFJN1bF4wL/FrAeD5QdqpIJ0G9Ji/n70ruYSGknQ03MC91dqmc6LU6BtqPGniNlM8OORcTAtX0OD1hAaeBC4DPhxaZWuto6ZLaqsYRQ3D9uMJhFZG7qKNanxA2LuIGurKfYJ77ZgUEQ3OV8NVL5HePS6fpxK8QOmaPVojzDWI99XKFxjJApLflROZYOvJVw//nx727+yTgVsiJDIqUOqcQYWwdWVXXRxBz4Jk+CLnC3WKtA0aZitlt8NDOhXgMvaOiDUXg==;RM1kLGmuZmCZQ3cOCHSvDA=="
+secured: "nx6Jd9jwlf3kojPiLzF30qOcPEXSdqH02rF0m7Uv9mwVG0AO/U1f9VvTDfQJw882AcJl/NoKAtFjKDE/ohsojNn5Wgal9nSVRksavz1Jl9KGK5WMnqCWJSeKqqPbl6J1hHvhGw/XyU8lNC7EArfEK2GbrvCntlY2yLunTvK7hFYdq7ZE6LXSYJap4TVk/IRtArrC09rAvf5ALYbxOtLInw5lh/o+Mdkab5lLCTWKoms2LlMnDTGRaXDNj5Ml3kUpjBEjADBG7vOohJiEJcG4ozL6CrHoa6ftWpTKKjGgGxwms/A3JIEb4Qr5MMzFihLW7LMeWRMvvCEVUD0lvXF4oPj8mUueXd0pNq0QcvNO0is=;03UTekdZg4j2YpyzUpsgSQ=="
 ---
 

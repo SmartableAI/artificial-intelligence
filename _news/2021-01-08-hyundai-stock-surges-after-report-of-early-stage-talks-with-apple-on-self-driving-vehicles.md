@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Cox Automotive to service self-driving fleet of Hyundai's joint venture"
-    excerpt: "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc ."
-    publishedDateTime: 2021-01-07T18:00:00Z
-    webUrl: "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
   - title: "Hyundai in 'early talks' with Apple for self-driving electric car"
     excerpt: "Hyundai Motor Co. said Friday it is in the early stages of talks with tech giant Apple to jointly develop and produce a self-driving electric car."
     publishedDateTime: 2021-01-08T12:25:00Z
@@ -128,20 +117,24 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Cox Automotive unit to service Motional's self-driving fleet"
-    excerpt: "Cox Automotive Inc.'s Pivet unit will provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co. and auto supplier Aptiv . According to the agreement announced Thursday,"
-    publishedDateTime: 2021-01-07T18:39:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cox-automotive-unit-service-motionals-self-driving-fleet"
+  - title: "Apple may pick more electric-vehicle partners than Hyundai, Wedbush analyst says"
+    excerpt: "Shares of Hyundai Motor soared on Friday on the news that it is in talks to join with technology icon Apple (link) to make a self-driving electric ... Chinese tech stalwart Baidu (K3SD.SG) may ..."
+    publishedDateTime: 2021-01-08T20:44:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210108198/apple-may-pick-more-electric-vehicle-partners-than-hyundai-wedbush-analyst-says"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Motional-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 14
+  - title: "Hyundai may not be the only partner for Apple on electric vehicles, Wedbush analyst says"
+    excerpt: "Shares of Hyundai Motor soared on Friday on the news that it is in talks to join with technology icon Apple ( link) to make a self-driving electric vehicle. But one analyst says even if those talks come to fruition,"
+    publishedDateTime: 2021-01-08T03:49:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210108189/hyundai-may-not-be-the-only-partner-for-apple-on-electric-vehicles-wedbush-analyst-says"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 10
 
 secured: "GF+yo/2PqXwbxl+iGMBSnWXZ2cbWledoBT7pb57MzKDGTZRfnIZJX5wH1b8/0C9vCGKUgruMYQQGgPndBAFn2jTzwDJhT6GbVcbfnm4oPla8tEqydKSA0mrc8q4pDjME/8nuogUEZkMczIK1pR3+XbF2PwpkCosBFNoG5iJwvfPyItvLO+ZmAt5TUr053pJCnkBbXRp/X5oAJt/dDzyXpzqsb3GXxBOFGli0UA3AV0BI7Pw2VMwY0HIoJ78XQyJQ07YOr4T9+Ntw2sjoqTHmphqIYkuaLNmym8cCfpbmIwZAAtw+Zq7IwBRwYgPrC7YrV/iB2qBXCUvSGKbrRJelwxTgVIKExaevXjLJemWOcpA=;RONoUhgYH/zuBnCi1HemiQ=="
 ---

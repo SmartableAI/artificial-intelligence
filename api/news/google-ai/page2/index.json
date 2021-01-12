@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-14-an-introduction-to-tensorflow-lite-development-on-android.md",
+      "title": "An introduction to TensorFlow Lite development on Android",
+      "excerpt": "What is deepfake? Should you be worried? Deepfake videos are all the hype online, but they are also the source of public fear. What's this all about? Let's tell you. Edgar CervantesNovember 4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/tag/ai/",
+      "originalUrl": "https://www.androidauthority.com/tag/ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution.md",
       "title": "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution",
       "excerpt": "Himax Technologies, Inc., a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for",
@@ -1350,58 +1394,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-deepmind-breakthrough-helps-to-solve-how-diseases-invade-cells.md",
-      "title": "DeepMind Breakthrough Helps to Solve How Diseases Invade Cells",
-      "excerpt": "Google’s artificial intelligence unit took a giant step to predict the structure of proteins, potentially decoding a problem that has been described as akin to mapping the genome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-30/deepmind-s-alphafold-crosses-threshold-in-solving-protein-riddle",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-30/deepmind-s-alphafold-crosses-threshold-in-solving-protein-riddle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Mhi2KlALl4/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

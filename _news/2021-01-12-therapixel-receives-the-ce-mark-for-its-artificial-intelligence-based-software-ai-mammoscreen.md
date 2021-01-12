@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Therapixel receives the CE mark for its Artificial Intelligence-based software (AI) MammoScreen"
-excerpt: "This cutting-edge technology assists radiologists in the interpretation of screening mammograms and allows them to diagnose breast cancer earlier and more accurately. PARIS, Jan. 12, 2021"
-publishedDateTime: 2021-01-12T07:37:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51703989-therapixel-receives-the-ce-mark-for-its-artificial-intelligence-based-software-ai-mammoscreen-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51703989-therapixel-receives-the-ce-mark-for-its-artificial-intelligence-based-software-ai-mammoscreen-008.htm"
+title: "Therapixel receives the CE mark for its Artificial Intelligence-based software (AI) MammoScreen™"
+excerpt: "Therapixel announced today that MammoScreen™ has successfully obtained the CE mark. After having received FDA clearance for commercial sales"
+publishedDateTime: 2021-01-12T07:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/therapixel-receives-the-ce-mark-for-its-artificial-intelligence-based-software-ai-mammoscreen-301205620.html"
+webUrl: "https://www.prnewswire.com/news-releases/therapixel-receives-the-ce-mark-for-its-artificial-intelligence-based-software-ai-mammoscreen-301205620.html"
 type: article
-quality: 40
-heat: 40
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1418252/Therapixel_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1418252/Therapixel_Logo.jpg?p=facebook"
+    width: 1000
+    height: 524
     isCached: true
 
-secured: "ttm0hSLTQCsibh/M3LPUItN+6HbKXig17QLdlqI5JrvjXP9zd7IEsD50N4wsgAVEXNNwCpSUn2/cwFHnxRVIWbQ+SjhpkR8gB5dOGg4+U/QVfVi+PL0IXPMdwWIjfMVjRSj79SNxmdQRJEm3gSZwrlacTMa36tjinfIA2ExQcumh8JQ2O6CD+jIe0vaCUoUjFuTt3mY8q7I9jfMcxUK/20IHhIhyUhGDI1LeFhfa6A90NINAAfQQbOwVWUvi3QlmaDr2hlu1TgwIo5LqeUztWHorqjMtK4vGikH/Qw2TG/wImAaIvYhTM7a9W2V+52h5oYBtezhuo0RxlQH8mLVqOzt6gTloL+h2CPDzSSJUM30=;/7/fbAROGrKnw9MW8Vmbtg=="
+secured: "OR0ENR8fdnXgW58IP0wcMShDOrg1tGVLG3FaZb6A4XVW/WWRKjUybJxHEaIdt+UCOzKts4X30GD61ql13/NQuQazxAkw5RX53mOSGKp0phM91IPTGXBU17/onZEGppdz9LwNvaZVKkv0zh8xD1uT8/+s3Yvh3VECmkCwGkrJYxAX3+L3Gi6+jbhEnpjEmoebu2BS1dliVHv/GDyLsZoVdKWTg3MoVGK7RzCgtYYAwx0WrGzqyxDBb5f37fz/H7lqIEEUtPPV8YS5er9CabifrxYc7A3kVOgEXZUSQmIu4aaR4FKpu+RsFORewIOmXKOAeXztPQrtOAZPQk208xuMHDwCtWWGGGmS1LPCXjI3jkM=;MG8veWxglCPCaZ6a1wZb2A=="
 ---
 

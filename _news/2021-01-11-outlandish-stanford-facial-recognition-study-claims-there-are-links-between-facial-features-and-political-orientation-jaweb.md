@@ -43,6 +43,22 @@ related:
         width: 1198
         height: 599
         isCached: true
+  - title: "From facial recognition, to predictive technologies, big data policing is rife with technical, ethical and political landmines"
+    excerpt: "Analysts have identified an impressive list of problems, from biased, incomplete or inaccurate data, opaque technology, erroneous predictions, lack"
+    publishedDateTime: 2021-01-12T10:17:00Z
+    webUrl: "https://www.thestar.com/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 48
+    images:
+      - url: "https://images.thestar.com/0eWFrqkFlkGGj2pu13ob829wcSQ=/1200x663/smart/filters:cb(1610398067644)/https://www.thestar.com/content/dam/thestar/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines/poster_for_part_8.jpg"
+        width: 1200
+        height: 663
+        isCached: true
 
 secured: "WXyF2/e2EG4ao8ActbkjLT6+OXhAHaGzg6nYIQhlz8ODK4vMdAFi+IJH/dIpzBOPu1f7EAXaJOWt44w7F/WJJAf8JKn+ZHvcW93xMp0KcZiEi6l2Rq5Zv8teXgDwNdwisUNApE0YFlf9ytIrXEwYnUgNJi2gPT671kb3wyu6IqLOez9LJHP+0zdtIeA9/PDtnugaBjZqs6p/MnXns1WDkeElTvkriYGHj2zQ44u+3mEQypqpCYh/yMfXjKQnedoP7TX9ORbnoTh0SOomNnnyMZ8KpeXghzoh1riQEjDkPQfT1mVEP80mCfK7QZ0yfG7mHCi7rf8eiQK8Y9fDteTfMGbZRD31ErKd1VeTA0IDnh2n6aYSbetsa2CSkHgrxHJkjghaBgrQcSBSonMtB6QlTc62fO8jjUS/Rs2uvFwhebaL34KWjj1z1gVFvWbRKkpZa9Yd/tocWZFTWYp6GaJW3SEI00+rkb1fTegdrLW1riTMu/Mk4cloYoLXzJocJQAnRumNuw7fWwpJ15fTejyZlw==;JKVLrjI0/RuyGBlEl0OxSQ=="
 ---

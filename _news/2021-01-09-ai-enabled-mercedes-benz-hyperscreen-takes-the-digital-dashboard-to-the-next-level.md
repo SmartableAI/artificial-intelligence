@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-enabled-mercedes-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106124705-1568233045516gettyimages-1167204689.jpeg?v=1610137376"
         width: 3010
         height: 1781
-        isCached: true
-  - title: "Mercedes-Benz Hyperscreen User Interface Is Massive, Employs Artificial Intelligence"
-    excerpt: "Benz EQS sedan, an all-electric addition to the maker’s flagship S-class lineup. Mercedes-Benz Set to debut in the upcoming Mercedes-Benz EQS S-class EV sedan, the MBUX Hyperscreen system is the latest evolution of the automaker’s MBUX (Mercedes-Benz User Experience) central command center."
-    publishedDateTime: 2021-01-07T17:08:00Z
-    webUrl: "https://www.forbes.com/wheels/news/mercedes-benz-mbux-hyperscreen-eqs-ev-sedan-flagship/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/01/2021-mercedes-benz-eqs-sedan-1200.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "l/l5DXy2IzNsehBdJ6/0KqDXFnI21beV/CIjxQh+RntjjjavJPTWB4IcEX5LGqwc4jwRo5ei3jJ6L1pvpX4NLQOX2+59MndbKrlfnjuGsC4WZC8cbTdIEabGPO0S+mj8kyOmkhvzaFDqhgkWiza2kqUmyCWi0N0LWrA1cJoFKcHMgoJBMIXFKvr5aDLRpxIbfcHlKQvmPfPDNaF0R6wtozHjR/3YW1z1FsJGrBwiFtcsF5rv0m3K4NAkE/eLTo0fR1XCrOnwAIyvf0zzXxeySOkFu6u7AJHZBSVbyo+SBjBmTF52eyqgpFxaSlErOvjMw5R6L5JSq0NedJuBaNlVChhVos6FSWELjPwkLZpsrC8WiiZHK87nMzcI2fk7jHXxbpHDSO10VzaDxzgfwpu9RxUK8tKC+Pm6GyNN24lLvGYsTMRMHyGNrzlSCeuIB2RheRc8H+hZkGqKMMnDPNx4h7Njg1fUdDyxB3PGTLlZyO61nyigrmsGwPJzUUIU9Mni5VuGX3ccjO3ejUJWU1hOGg==;YFlew61odOZge5z+yJOvPg=="

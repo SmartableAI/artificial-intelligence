@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "INFINIQ to Enter Global Market by Establishing European Sales Headquarters and Participating in CES 2021"
-    excerpt: "AI and data service company INFINIQ establishes a sales headquarters in Luxemburg to optimize marketing activities for the global automobile market"
-    publishedDateTime: 2021-01-11T09:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210111005450/en/"
+    excerpt: "INFINIQ is establishing European sales headquarters to expand the scope of its business beyond Korea to the global autonomous driving data market. INFINIQ is a Korean company that provides artificial intelligence data sets,"
+    publishedDateTime: 2021-01-11T09:23:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-products-and-services-asia-66117911a7184923a25326255246d862"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "eKqs3GvzvcDOsu753DoYe+pQATF7JC7c3dBv2X1ZTRdcgC1rubK4a5+1n7Nyi30ldhR7CXY7JZn1pM6g7/aU1xBzta9FM9B/M8p5wR4p3lSuqKLmOuXITQyRzzGuC59FfhMlwBKwUB2vk0VyIUggBMYCwcuHa+3xPB+aYtoITfYuQplCMUnF/WS8wIc/0ODDaKom8uSY7KKfRiyc/1FabV2KHCKdnC4Bp29UCmrsjKmFx2uQgvL37HIgv5V745SgozooEaJtwbWeTrjQfngir7Sf/UVjdvzIHTSRZLKaL7CmNEoCKSOQqxjaPwUCDY0jbr9AZuSH/2JTRWutYzii7+mjfxYMy92Yr+97i61Yxsklu3a5RfQV2ABl/D3MEyn+93nmNzw1s2621xTZasJZ4SHzvAX7h8VbCZOvp/zm0Muq0roeJp7zUjhb0xrLySl0JrTtgrOSj7ZTl7Y7lHIRJL0J0ykHAgYN/ob59YE3GvdX8ataA3vwU438DezYHpyHMTYiY8ZGKOV0U1nHlCimGA==;VaTVq3wTNIpxn+SQN6vxlA=="
 ---

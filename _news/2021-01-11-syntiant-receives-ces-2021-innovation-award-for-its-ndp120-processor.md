@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Syntiant Receives CES 2021 Innovation Award for Its NDP120 Processor"
+    excerpt: "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced that it has been named a CES® 2021 Innovation Awards Honoree for its Syntiant® NDP120™ Neural Decision Processor™ (NDP)."
+    publishedDateTime: 2021-01-12T09:46:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-industrial-products-and-services-18653b4146a5b74fbaa5114f570f8dc6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "u/SgaSF8L34vPLPZPcw1LSQinhduFkoNLf/RcBjI+QFhA7OlI72To0sLUhfP+5YcuGlzKFyTw1wETBfscRQazmcxAVe/3eTkKRFIksl/2XTxtrSo3JnYYjLBG6NL4BZ4ZgV0PmVK1L3caq5HK1s3UabNY8wWPdGbhTAghIxGl7YIb4Gb0DK7Pc62jJFVq+WtwnQF72YjOIDF0ZRIwAQt3jWts/XxtXnwOTuTpHdBIgECsWutc6t2Z/mZQ+k7a9TNXYvRvTZHiab+e/yU99r0xh+ibrHEe9xGd0fprZWXhvttceC79TsosKE6udSFHuXDjTpnrSvZsLEZbcnp0gVb+3KWWniI7+z75Dhe50OB5s0=;Q+U6uFYVhEq+PQaQJzSJEA=="
 ---
 

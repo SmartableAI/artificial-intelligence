@@ -45,15 +45,15 @@ related:
         width: 2700
         height: 1414
         isCached: true
-  - title: "New Offering from Reserved.ai Predicts, Automates, and Simplifies Cloud Costs, Bringing Cost Savings in Hours Instead of Weeks"
-    excerpt: "Reserved.ai., the cloud cost management company that saves businesses the most time and money, today announced its Purchase Planner feature – the only solution that optimizes, customizes, and automates execution of cloud reservation purchasing,"
-    publishedDateTime: 2021-01-07T17:20:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/3ef51ebeb543b44cd4af69b0ebf12734"
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site (  ITRI’s featured technologies include the Dual Arm Robot System (DARS),"
+    publishedDateTime: 2021-01-12T09:47:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-energy-industry-electric-utilities-greater-china-62ad8429deb3b03c423f463f96929ff5/gallery/f6e10d436a9041020b2a20c1908e34c4"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 11
+    quality: 69
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

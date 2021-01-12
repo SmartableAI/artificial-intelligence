@@ -108,6 +108,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-video-search-pioneer-panopto-hires-ibm-ai-marketing-executive.md",
+      "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
+      "excerpt": "At IBM, he played an integral role in the brand launch of Watson Advertising while leading all go-to-market strategies for a suite of AI-powered solutions designed for the advertising ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html",
+      "originalUrl": "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/7/99/799538b5-1065-557b-bb6f-5475e38479a0/5ff737209670b.image.jpg?resize=420%2C630",
+          "width": 420,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman.md",
       "title": "IBM appoints former Trump economic advisor Gary Cohn as vice chairman",
       "excerpt": "In prepared remarks, Krishna said Cohn will serve as a senior representative of IBM as the company works to accelerate its hybrid cloud and AI strategy. Cohn was part of the Trump administration ...",
@@ -1327,49 +1371,6 @@
         "IBM AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-ibm-launches-new-innovative-capabilities-for-watson.md",
-      "title": "IBM launches new innovative capabilities for Watson",
-      "excerpt": "IBM today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html",
-      "originalUrl": "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.uniindia.com/cms/gall_content/LargePhoto//2020/12/2020_12$LargePhoto15_Dec_2020_15122020202234.jpg",
-          "width": 300,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United News of India",
-        "domain": "uniindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

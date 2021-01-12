@@ -2,6 +2,145 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-30-tesla-uses-three-free-months-of-full-self-driving-to-push-year-end-sales.md",
+      "title": "Tesla uses three free months of 'Full Self-Driving' to push year-end sales",
+      "excerpt": "Driving” system that Tesla sells as a $10,000 option isn’t available in subscription form yet, but the car company is already using that idea to boost sales. Reported earlier by Electrek and confirmed in a tweet by Elon Musk,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
+      "originalUrl": "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ffa7d8220-4a3a-11eb-9faf-2c885b46bd4b&client=amp-blogside-v2&signature=c32d614053b5590ce90e5251cb05134f3601ab4c",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html",
+      "publishedDateTime": "2020-12-29T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-robo-taxi-market-size-report-2020-recent-trends-share-and-growth-forecast-to-2027.md",
+      "title": "Robo Taxi Market Size Report 2020, Recent Trends, Share, and Growth forecast to 2027",
+      "excerpt": "Top companies covered in the robo taxi market are Ford Motor Company, EasyMile, Lyft Inc., Uber Technologies Inc., NAVYA Ridecell Inc., Daimler AG, Waymo LLC, and more players profiled",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43112114/robo-taxi-market-size-report-2020-recent-trends-share-and-growth-forecast-to-2027",
+      "originalUrl": "https://www.wboc.com/story/43112114/robo-taxi-market-size-report-2020-recent-trends-share-and-growth-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-meet-the-women-leading-the-fight-for-more-women-in-ai.md",
+      "title": "Meet The Women Leading The Fight For More Women In AI",
+      "excerpt": "The exciting potential of women in AI is that their presence has such a wide reach. Not only is AI one of the most pervasive technologies industry-wise, the data it produces can have significant social impacts on our society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5febc497756ba71281a9e2d0%2F0x0.jpg%3FcropX1%3D143%26cropX2%3D879%26cropY1%3D0%26cropY2%3D414",
+          "width": 736,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/",
+      "publishedDateTime": "2020-12-29T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-highlights-from-the-year-in-science-2020.md",
       "title": "Highlights from the year in science 2020",
       "excerpt": "One of the biggest scientific breakthroughs of the year came just last month, with news that Alphabet's DeepMind AI has made huge strides in being able to accurately predict the 3D structures of ...",
@@ -866,6 +1005,101 @@
       ]
     },
     {
+      "path": "_news/2020-12-29-uk-chipmaker-graphcore-valued-at-28bn-after-it-raises-222m.md",
+      "title": "UK chipmaker Graphcore valued at $2.8bn after it raises $222m",
+      "excerpt": "British firm challenges rivals including Nvidia with chips used in artificial intelligence Jasper Jolly ... with voice recognition and driverless cars among the potential target markets for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
+      "originalUrl": "https://www.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ca479579505d4b80607dc6f2c2e70cdfaf298c4d/0_253_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d42009c89d4cfa8f586425a27d1ccbe6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
+      "publishedDateTime": "2020-12-29T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle.md",
+      "title": "Become An Expert In Artificial Intelligence With The Ultimate Artificial Intelligence Scientist Certification Bundle",
+      "excerpt": "The four featured courses are packed with 670 lessons covering Deep Learning, Machine Learning, Python and Tensorflow. Designed for all skill levels, the courses cover everything from the basics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/editors-blog/become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "originalUrl": "https://www.iflscience.com/editors-blog/become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/fa9997bf-5096-5065-bae7-aa147e242485/default-1609172399-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/editors-blog/become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "publishedDateTime": "2020-12-29T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-ai-chipmaker-graphcore-raises-222m-as-it-takes-on-nvidia.md",
       "title": "AI chipmaker Graphcore raises $222m as it takes on Nvidia",
       "excerpt": "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),",
@@ -940,254 +1174,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-how-doe-researchers-are-using-ai-and-robots-to-design-the-successor-to-lithium-ion-batteries.md",
-      "title": "How DOE Researchers Are Using AI And Robots To Design The Successor To Lithium-Ion Batteries",
-      "excerpt": "Building the better battery may be too big a job for humans, according to researchers at the Joint Center for Energy Storage Research, so the researchers are turning to artificial intelligence to find the right ingredients and to robots to make and test them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
-      "originalUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea3059d12e840ff06d83a7%2F0x0.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
-      "publishedDateTime": "2020-12-28T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-catching-them-young-hexagons-centre-to-train-students-in-ai-skills.md",
-      "title": "Catching them young: Hexagon’s centre to train students in AI skills",
-      "excerpt": "The fundamental and advanced level courses designed for Class VIII-XII students, and senior engineering graduates respectively",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/",
-      "publishedDateTime": "2020-12-28T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business.md",
-      "title": "Artificial Intelligence Is Great For Day-To-Day Stuff, But It Can’t Build A Business",
-      "excerpt": "AI can't build a business the way humans can. getty. Let’s face it, artificial intelligence is probably one of the best management tools to come along since the first commercial",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea1efdc398efe2f56e500e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
-      "publishedDateTime": "2020-12-28T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-china-increases-foreign-investment-list-by-10-per-cent-including-ai-semiconductors-and-5g.md",
-      "title": "China increases foreign investment list by 10 per cent including AI, semiconductors and 5G",
-      "excerpt": "A total of 127 areas have been added to the list of industries in which China will seek to encourage foreign investment, taking the total to 1,235 from 1,108.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
-      "originalUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/29/05f3ef50-497c-11eb-9c55-93e83087d811_image_hires_102432.jpg?itok=aEnRbrmo&v=1609208682",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
-      "publishedDateTime": "2020-12-28T18:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-the-wildest-concept-cars-of-the-year.md",
-      "title": "The wildest concept cars of the year",
-      "excerpt": "Conceived as a mind-controlled, rolling exoskeleton, the GTR-X is one of the year's most unusual concepts. Automotive Hyundai gets serious about unstoppable, four-legged 4x4 robo-cars",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/best-concept-cars-2020/",
-      "originalUrl": "https://newatlas.com/automotive/best-concept-cars-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/edbe1b4/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fdb%2F10%2F430e4ab04c4f873675c030def2b5%2F06-bolide-heck.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/best-concept-cars-2020/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/best-concept-cars-2020/?amp=true",
-      "publishedDateTime": "2020-12-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
