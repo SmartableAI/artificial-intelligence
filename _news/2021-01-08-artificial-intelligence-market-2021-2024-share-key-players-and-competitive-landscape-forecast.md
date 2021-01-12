@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market Share Analysis, Future Trends, Growth Insights, Size Value and Research Insights By 2023"
+    excerpt: "Jan (Heraldkeepers) -- The influx of COVID-19 patients requiring medical imaging diagnostics and definitive healthcare is estimated to augment"
+    publishedDateTime: 2021-01-12T22:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023-2021-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Aviation Market Growth Opportunities, Remarkable Developments and Leading Key Players to 2023"
     excerpt: "Increasing demand for automation in various industrial sectors and rapid technological advancement are leading to"
     publishedDateTime: 2021-01-12T06:48:00Z
@@ -137,20 +151,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robo Taxi Market Size, Growth Potential, Industry Revenue and Industry Research Forecast to 2027"
-    excerpt: "The global ''robo taxi market size'' is set to expand at an impressive rate in the forthcoming years as autonomous"
-    publishedDateTime: 2021-01-08T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robo-taxi-market-size-growth-potential-industry-revenue-and-industry-research-forecast-to-2027-2021-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

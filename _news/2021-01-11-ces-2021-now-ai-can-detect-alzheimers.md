@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "CES 2021: AR Glasses, AI Chips and Automated Astronomy"
+    excerpt: "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation."
+    publishedDateTime: 2021-01-12T21:09:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/ces-2021"
+    type: article
+    provider:
+      name: ARM architecture
+      domain: arm.com
+    quality: 54
+    images:
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2021/01/lenovo_thinkreality.jpg"
+        width: 1940
+        height: 980
+        isCached: true
+  - title: "CES 2021: A virtual, AI-powered human handled presenting duties for LG’s tech showcase"
+    excerpt: "The Consumer Electronics Showcase (aka CES) is here once again, and as always, it’s bringing out the tech companies’ most personable presenters: people whose job is to get us all excited about the ways technology are about to improve our lives (like having a personal robot waiter roll up and pour your wine)."
+    publishedDateTime: 2021-01-12T01:36:00Z
+    webUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter"
+    ampWebUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 51
+    images:
+      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/lg-virtual-human.jpg?offset-x=47&offset-y=0"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "CES 2021: 5 show-stopping smart home tech innovations"
     excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
     publishedDateTime: 2021-01-11T19:57:00Z
@@ -40,20 +70,45 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "First online CES tech event lures fewer Chinese participants"
-    excerpt: "The first online-only CES will kick off on Monday, with tech executives and industry experts participating remotely from around the world, instead of shaking hands in Las Vegas. The annual four-day conference -- formerly known as the Consumer Electronics Show -- will enter its 54th year with no physical presence due to the COVID-19 pandemic."
-    publishedDateTime: 2021-01-11T09:10:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/First-online-CES-tech-event-lures-fewer-Chinese-participants"
+  - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
+    excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
+    publishedDateTime: 2021-01-12T14:30:00Z
+    webUrl: "https://www.albawaba.com/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 43
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F0%252F8%252F5%252F18775800-1-eng-GB%252FRTS29K38.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/bosch_softwareentwicklung_4.jpg?itok=-_RdG45m"
+        width: 960
+        height: 539
         isCached: true
+  - title: "AI clothing for improved sports performance unveiled at CES 2021"
+    excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
+    publishedDateTime: 2021-01-08T11:46:00Z
+    webUrl: "https://www.techdigest.tv/2021/01/ai-clothing-for-improved-sports-performance-unveiled-at-ces-2021.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2021/01/impulse-product-shot-just-phones.png?fit=552%2C545&#038;ssl=1"
+        width: 552
+        height: 545
+        isCached: true
+  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
+    excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
+    publishedDateTime: 2021-01-11T06:52:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8123660/ces-2021-bosch-puts-its-faith-in-ai-and-connectivity-for-the-protection-of-people-and-the-environment"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
 
 secured: "MwhyXw7elvMeWvPnx50cDizsvuKmLuNMMpdCnSRO8dzx+CY9Gwq7wK+IzLroGIN52kCHu7WxvP75FY0vmQlGbno5OEae06+6c5HgpLArDMoZZirWrq1B8Ygx7VdO7Z8kBzFUMg/MJ7OnUPeURfLrFu3eW1QoI1qmzbEwOn3af+EnalPo5eqe4bbXf7mwSgo75Dv/IXcrboAlvat9VOic7o9efd2XnesCH0XkoiD3OwTBQB4cXI5BwAP1TyW7kzIlJD0qMqGtfe821ogk6q2zG8I81UE4jArmmel4cO6XMiLOAAbCIq/3iPKcYrYeoVC1S/b6Ii7eS/Mpft+l1/smePZlH3Lhf7y8rWy3JYTWsfy4zF/OMhE4Z3CnEihhg5L5FBa0IsG/MJHC6xdqi8SpU1JUwa2YSXxLEJCCCFIB+7p4VYQ1DmOoppTzQHEm+st+xvjb0+34XUzjvlIkrXEmg2ssOPrfBfR2PUFGj4f1DPw24viOZzb8/jQVxszDO/4FVu9gjGJhDRCCoSTmKkcsNg==;NDWVo63qi6PnuivHSP+Cbg=="
 ---

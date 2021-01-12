@@ -43,6 +43,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T19:27:00Z
+    webUrl: "https://www.adelaidenow.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    type: article
+    provider:
+      name: Adelaide Now
+      domain: adelaidenow.com.au
+    quality: 22
+  - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T21:39:00Z
+    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 15
 
 secured: "/8xmHzOfEpcD5eMO4Hi/HgQpE0RaFntQykC2n1C05wVqIYECqeCehSfguv4lubRTSi4gsGpNLuYK2ayrVhrEKbq83uVChCQqfVuFORT3lF8kuVUAm0WXbIkhk9Ksf68RfcH6BlVibhomHnhF5LuVMNp0R/iYLXjKQWNLKmoTCKELIzCzNjgUenqkeTkfr4d+IU5GFzjGSzys2n4QzGLGxylBpOwJdL+2+LscsSM98CS5v6Dt2FvcYf2jqNDFLLAGvvfV1eRBItNbMMh83VNiQ5bHbbyVoGWlWhzVVeDoGPkVbwoOcSKVzEDxeRfvPM2o46+iETB1iKPPAlhuX985uU3Ypm0OV9IQlFtbpMdGmq8=;TO83/X4GFP7vAw83HgaQLQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Changing Corporate Decision Making"
-    excerpt: "Until the introduction of AI and ML, major decisions were taken based on months of researching and data collection"
-    publishedDateTime: 2021-01-08T06:56:00Z
-    webUrl: "https://www.entrepreneur.com/article/362959"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610088898-artificial-intelligence-2167835-1920.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How AI redefines advertising in 2021"
     excerpt: "Advertising as a sector is notorious for major paradigm shifts. That's because the shell game of grabbing consumers' attention never stops, and as programmatic advertising gave way to influencers gave way to branded content gave way to"
     publishedDateTime: 2021-01-08T12:15:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "CES 2021 RelaJet's innovative ReHearing AI set to transform the future of hearing aids"
-excerpt: "PRNewswire/ -- RelaJet was co-founded by two brothers in Taiwan, Blue Chen and Jack Chen. As a hearing aid user, Blue Chen used observations of hearing"
-publishedDateTime: 2021-01-12T11:18:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ces-2021-relajets-innovative-rehearing-ai-set-to-transform-the-future-of-hearing-aids-301206171.html"
-webUrl: "https://www.prnewswire.com/news-releases/ces-2021-relajets-innovative-rehearing-ai-set-to-transform-the-future-of-hearing-aids-301206171.html"
+title: "CES 2021 RelaJet’s innovative ReHearing AI set to transform the future of hearing aids"
+excerpt: "Hearing aid devices will become available over-the-counter (OTC) in the United States in 2021. RelaJet is looking to use this new window of opportunity to expand its market and to provide those suffering from mild to moderate hearing impairment with advanced hearing aid instruments."
+publishedDateTime: 2021-01-12T11:51:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-hearing-loss-and-deafness-asia-health-6f7c2aff44444120ef9401aa1b4efdf7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-hearing-loss-and-deafness-asia-health-6f7c2aff44444120ef9401aa1b4efdf7"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SXcRPIexc35hNm1M7PeC2sCKP7QW/+tvssQ+lIm3i/GIDD1i3/fiDn1Mdi/1FbROzDA9XmUMfsdCnrpHqsbSTqnkCLPksu1mZP4CKrrfEiHfCsorH2Rb4WuKOoO1j0fqdo8SFRzr0DLG2ctY9ulpBbT8TqjUEhah4wBunDWqiLr1jlNAPkwgdyDkvszLBab0C4nMeFLdwG+WL1DDGeejJLJ7b3okzTBemth/4eqJ6/3M20Rr1dDaPF49z24Y5bYYaPpEEDkFFtOZ7iGAJAbvQitb7maAMtAcGhpmyl2DlcvjR6RWGBBmfFFgFai0ySuvp60znS9qbdDx4fSMlZmOCzfvvXuvI8GZaflTJmSliWU=;aoeGAaLdvLQGD+tScMVPGw=="
+secured: "aunGAQ9/vCbaLvjF7X+do9OCKWhkXwgsRfx1HZsIgSzSQCpeUMOOmgUBO7xxyhad0gwIBYHADD0v4azOuQEfLHvVpMPeJL8cJK63qnVD0Cc7teG3KJRFSeLc0KcwcKWEEJ7TU+WUhmnMThShCLonuADSjp4lOazHflWYplib7fWkVyLDROxcE3DXEtMHY4Qgz6h4az4ZazQBvxO8NMWQCpirK48yaQOexLXIyQfSnXd/KgxkMvAdhaBwK0Y8n4Q8srjawHcO1T0Aqv3twPQ3UMDpxgmNuJn8nXksNO4fzsquQNdUhei6Is84DxCVDj3r/mxnEOCU0Y3JNEw8lXoBL5ThxwRDBRhk83Cz/Ur4fTs=;8Wei1z3PWRvGSrCNHB6U2A=="
 ---
 

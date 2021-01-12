@@ -1,32 +1,22 @@
 ---
 category: news
-title: "RadNet's DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer Detection in New Study"
-excerpt: "(NASDAQ: RDNT) today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence (AI) for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
-publishedDateTime: 2021-01-12T05:58:00Z
-originalUrl: "https://www.marketwatch.com/press-release/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast-cancer-detection-in-new-study-2021-01-11"
-webUrl: "https://www.marketwatch.com/press-release/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast-cancer-detection-in-new-study-2021-01-11"
+title: "RadNet’s DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer Detection in New Study"
+excerpt: "RadNet, Inc. today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
+publishedDateTime: 2021-01-11T16:15:00Z
+originalUrl: "https://www.nasdaq.com/press-release/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast"
+webUrl: "https://www.nasdaq.com/press-release/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast"
 type: article
-quality: 48
-heat: 48
+quality: 28
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "RadNet’s DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer ..."
@@ -43,21 +33,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Mammography expert finds deep-learning artificial intelligence may improve cancer detection"
-    excerpt: "The journal Nature Medicine has published a study co-authored by Gopal Vijayaraghavan, MD, finding that an artificial intelligence model for computer-aided reading of mammograms may improve the detection of breast cancer."
-    publishedDateTime: 2021-01-11T16:10:00Z
-    webUrl: "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
-    type: article
-    provider:
-      name: University of Massachusetts Medical School
-      domain: umassmed.edu
-    quality: 29
-    images:
-      - url: "https://www.umassmed.edu/globalassets/umassmednow/top-story/vijayaraghavan-gopal-2-660.png"
-        width: 660
-        height: 341
-        isCached: true
 
-secured: "2n2ckmXbFplPCbdEEX44ExGcg9VXSS+ZpIO77iKNOpRU1fc3EB50OXwXYN0P4gQvDDvV7LoreRJ3hLoO9MmY3U724VdjaB2kUiPpAleCDshAaleeBzO7p2K0+52dKxqTejRX/lhjr84tyWNiJL/E1wWsHFW/2SPtbhi5ZZTDJL385i73n9btSuRDdsSxfqePGy0jIdFldKh5JWfTN/+xnPmd82vxdSJtOqkqWRmRNFoWnvd8itTxRrtsYMG3WIYhJg5wwMaWUBJ/PEqEZ7SIfZrX0/eAkciYxhuygPeFrx6IWVo+1Zd1Xsj2Q0qTl0RXJ7l7t3+1j+fT/SbABOhjQjQxvrxKi/xPYFO/8YdTFpY=;k+apvn1/ucJ4b2EzG3NdXQ=="
+secured: "TKxIjMTeSrby6aAT9sQ7wrJ6m0e1BCaddeDhKcAK20cQlurqsgMkXKWpYAqE3vqqzJfszG7k19xsiVNCTqtCL1wO5pzLkq9l8LSofCkQ+9J5qByuh0BWxYWnDi5gJ/QwvAAaydJo708VvuLmI3QAyyZtUZa/Y/xk2sXx9U+D3lD9sT+rRt3cnzcBcjqVIwlXsbfvWSf8mEv0jdEgFgDlXt/taerq5qx1Rhe6rFqyhDIWZJkCjSOw+FEq8EVWePwA1izCYcsIwWpUzhSBVy3Yz1CUfH+gHY9kiiQkw52AL//dSslB+AMPqSeFiFTlILJODd0qh1VzipLH3+Pdjpj+BAjQs8VhrcbirC2HURAHnv4=;vHPNKqGSdJJw6pdWemtwDA=="
 ---
 

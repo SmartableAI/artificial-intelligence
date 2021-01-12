@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
-    excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
-    publishedDateTime: 2021-01-12T17:47:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
+  - title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World's Most Popular GPU"
+    excerpt: "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce (R) RTX(TM) 3060 GPU. With its efficient,"
+    publishedDateTime: 2021-01-12T22:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu-2021-01-12"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Uw+CnUEJOx6SiM965CPQhgwXN8Glk0wZqXW7xpaUCTxhxg0UC9JSygR1FFqdmWUtFa74XwyEbryeu0Wk1kVDH2x/dBcCnOh/XTCQ2R/ZUq14oQiB1upRf80olFJqvtu5Ag0V66hj3iQ5Ak3as2k+g5mo6RDm4MShKtf39yjBE9a10rAGnbG8tf7uOfinQXu1pIqE89MvZDNFqrIiVMl3wzQxPgGEb2XyI7UOA7LL06TqctwAgnIve28foIPgi2rWWzfsFlOATRF85apXSoSOdUKdJJwazEoUSOwnlzU9JolXlzM/us2mj/nrvI+fDssTUNye87BRI6a/N9k6amcdJDIsZe/hg3m6iPSwo9UFBL06NXdXWCTfdgT5eS2VNHDcmvEcybksNU6qeS3t929Ab3LDfVYw4x37XHSpJzOxUNxCfOo3d7ewKBGvbX4oHm1fNJoKStNm/jU5g1+oQbiC7JfNv4n4Vz65JDfa1RrnBRgni/mKYwmwFeKupHIAvwh5grrodjTDlxxLJAOhQPg1rw==;OlMHlCtvZ3wynzlY/9O8gA=="

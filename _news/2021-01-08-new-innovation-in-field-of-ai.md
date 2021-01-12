@@ -70,6 +70,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "White House Launches ‘Central Hub’ for Artificial Intelligence Research and Policymaking"
+    excerpt: "The White House Office of Science and Technology Policy on Tuesday announced its formation of a new federal nucleus to centrally drive cooperation between the government’s diverse internal and external partners advancing artificial intelligence-rooted policies and research: the National AI Initiative Office."
+    publishedDateTime: 2021-01-12T21:16:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/01/white-house-launches-central-hub-artificial-intelligence-research-and-policymaking/171346/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 28
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/12/shutterstock_540433660/860x394.jpg"
+        width: 860
+        height: 394
+        isCached: true
 
 secured: "bS+bTpgfwuJ+DwKlkS7Il8uqkh+VBxJYn/CiDqWfUIAvq9Y0GwIdgT2PAx+fonA0PgRV9iRxusTbtZ636Z00Skbif70StmS846790ZY4/27+1sZuIarFsNDdz+PDAJzl59aVI4znhVeeHNoU6ZKj8AqAqET2rJADXwGsKwQMOZvQHXOb8VAKLC4vNk5skfg4MwuV1uE3nJ87uzX/1IskVACwrJzQnvDSEO2vr23gIOt6jr+MlryBY3CxwMC7KpYl1GOV9bHGnUCoWrYob8pnvKTn8lAnUv1jprrit5zfnlW0sAg+BcIfSzdPrW8muGJjJVJd0a0phl7kRbr62m5XMQ4NAqbhdY8jdj+BakQkhHfuOCZAblIidIN3IPSYePpMEDluyv6NC2Z73EMxY6FEVFKBGNo5IbcQHgCFCwmzXCbICncM53I8WAPP1CvA7Cmp3lSggyz6zIMpEedyNRGmwx5CpxW71UU0KTzoR2nZy/Gs7z5JfHCPMwJgc0wJq/6hrLZKkBsJSPI9hBVu9xZO5A==;GVSwVrqmdgaegoo5uZESBw=="
 ---

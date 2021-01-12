@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/samsungs-new-washers-and-dryer
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently"
 type: article
 quality: 83
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -46,6 +46,24 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T19:27:00Z
+    webUrl: "https://www.adelaidenow.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    type: article
+    provider:
+      name: Adelaide Now
+      domain: adelaidenow.com.au
+    quality: 22
+  - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T21:39:00Z
+    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 15
 
 secured: "Qng7oVlsmXBHxPnjmu2xxEJ7W3V1C7Ro6IfnL4bSQ9RlEXMGUfpU01LwoDDKdi8Ctrr0T+N/wl/xe7n9LOiDsG6HM0HN9BNxQQgdSHOExN8Jctg7LcI5omOwMxK7fLycJzoFwTmWS/ytaEOHSQQVelHXcIG6Rk114hPF1igm0NaE/JZsryxFDPy5oDc6clUceu/TXoibhcXyFHGRgn2JiOoAwBo54IS2ciVQicHWO8BPuSvuNLsevGVYRlb1i2/Kz2zpvIwyPTRRFMenrWlqOHTPZvcKchVV8lBOoDXfMQRhNen0o9nqNs1xCOZ3pZ+9arLE90kP4jq1aW70wOmgxPXQGWBGW8ZahBnh3j2498w=;VCBTra3GXsWKeP9n1xxlMQ=="
 ---

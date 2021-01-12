@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI Is Changing Corporate Decision Making"
-    excerpt: "Until the introduction of AI and ML, major decisions were taken based on months of researching and data collection"
-    publishedDateTime: 2021-01-08T06:56:00Z
-    webUrl: "https://www.entrepreneur.com/article/362959"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610088898-artificial-intelligence-2167835-1920.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Burnley turn to artificial intelligence in seeking academy talent"
     excerpt: "Burnley’s search for prospective academy players will be boosted by the power of artificial intelligence, with the Premier League club announcing on Tuesday that it had partnered with talent identification platform AiScout."
     publishedDateTime: 2021-01-12T11:46:00Z

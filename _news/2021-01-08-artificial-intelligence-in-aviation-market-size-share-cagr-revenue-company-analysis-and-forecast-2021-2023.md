@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Global Cognitive Computing Technology Market is Poised to Reflect 35% CAGR by 2023"
+    excerpt: "According to the Market Research Future (MRFR) report, the global cognitive computing technology market is projected to"
+    publishedDateTime: 2021-01-12T22:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-cognitive-computing-technology-market-is-poised-to-reflect-35-cagr-by-2023-2021-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Artificial Intelligence (MAI) Market is expected to see growth rate of 28.58%"
     excerpt: "Market is expected to see growth rate of 28.58% iCrowdNewswire Jan 9, 2021 2:14 PM ET. Global Mobile Artificial Inte"
     publishedDateTime: 2021-01-10T08:52:00Z

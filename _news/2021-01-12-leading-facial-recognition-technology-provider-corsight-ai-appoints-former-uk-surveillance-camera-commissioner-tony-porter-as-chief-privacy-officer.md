@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Leading Facial Recognition Technology Provider Corsight AI Appoints Former UK Surveillance Camera Commissioner Tony Porter as Chief Privacy Officer"
-excerpt: "Corsight AI, a leading facial recognition solution provider, announced today the appointment of the UK’s former Surveillance Camera Commissioner Tony Porter as its Chief Privacy Officer. Effective immediately,"
-publishedDateTime: 2021-01-12T10:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-technology-issues-data-privacy-0d57c208662d57c44c97b66b0601fe92"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-technology-issues-data-privacy-0d57c208662d57c44c97b66b0601fe92"
+excerpt: "Corsight AI, a leading facial recognition solution provider, announced today the appointment of the UK's former Surveillance"
+publishedDateTime: 2021-01-12T09:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/leading-facial-recognition-technology-provider-corsight-ai-appoints-former-uk-surveillance-camera-commissioner-tony-porter-as-chief-privacy-officer-301205966.html"
+webUrl: "https://www.prnewswire.com/news-releases/leading-facial-recognition-technology-provider-corsight-ai-appoints-former-uk-surveillance-camera-commissioner-tony-porter-as-chief-privacy-officer-301205966.html"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
+    width: 1569
+    height: 824
     isCached: true
 
-secured: "lxOVZu8tYxQ2Ij4QSYoW4u8x/29V1Ya4wnOyvJKxyDB594ge61xz6FPopu22bkYACqKLDxjVlOmvXD8GoadUmUCbukZpCXqkgFyP6rREuJ8G8bUvuahAlxXIWgDh+2v+2lpo41p6EZONm7VyrgkzDe3wlgS6hrtb7pAnUaBQ7j77Amh34IBkgfjrvpSnVqcNPSVNU9s5neW4phJRmqSQdto11R9R74Q/WNmw8FxZzKMd4wYyqTitfSY3pE3tG9DACNJe5fpfLR1E+QJK4QZGDwawqgMpNkWrYFhLZgWabR4KMLpFrrXILoWfEJEXkEXVoymblpEtpbUC1pzt6pWVmGInaeaublVj7O/x1tHbjdE=;ZahCXjeqTe7xs9luLrNV5A=="
+secured: "mivs3S8oK8etcQ9p5HALjx62xpHPRtBg8ojBqQ5frJB3+f7ley258BzNzG1m4DaG4dCvhJ7Ioj+2XYeO1wJ2QISCy4HCMs3/dcEOeGQod58UUhT55tFcKg1FqQmMyAWxhlX1XAMmzYOP740c+RrG/IiW8YMcRxnuOS6TqFCXyHVFgeTNbe8lyWgBz//Fe8Aym/wD/dhgSKjOlog0jYbnOLkKJ2R9EerOSWi+nU0hr0FCh84OOP3loQfKtanYT/jbNLb/ICtXoj5jIvd7O9naczvnxiGHkmvizYELh9b4m4SkLL49q2SNd+Ka4fLx7Nu5IbOyDJZ0Qu3CnX4KRj5+zWgjbHm7IdogElq0bDSlj1g=;a/4hBg24j9MdJbe4LSLBTA=="
 ---
 

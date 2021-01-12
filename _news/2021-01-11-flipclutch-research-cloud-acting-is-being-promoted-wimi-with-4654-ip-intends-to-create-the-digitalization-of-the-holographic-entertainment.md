@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Flipclutch Research: Global AR advertising revenue is huge, WIMI intends to seize this business opportunity"
-    excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and the market prospects are promising. Last year, one social software that used AR filters as a selling point earned $1."
-    publishedDateTime: 2021-01-12T14:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-1029960267"
+    excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and"
+    publishedDateTime: 2021-01-12T14:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-301206504.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 16
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "c01gvW6YRHx3Gi2iU7yKmACHJ717UwZzSeFLDqBksX/tkMVGeon50kp+mRG1ndSuVwj4RGlGS7PYT4VlMMs0ASKUlmpkZD5dDT9XHaAhZgVFIO3MY+NbrspQ9IwbwsFabSouMOg6jy4cBKL3z9xU27iC+phdRbmR/b6f15oXSuSG1Tzih5uyvKmwTPQM9iBcezrztKV75cEbcJMD9AxOfnahwWpkvdcYBk04Wh4M797japWAMOcYcGQQMDv0Wwe4O2kYeeLVyJ5KyRBxIPGqf/r8cWQ3UmZUCr3CPYZuJrFno8r7SkqXCfOfZsJc0kWCdD43m+2lkCqswfw6hq/yaNs5ZJeaXH7vQHGVWpZOk9g=;69p0+BiLqB2L8q96NvCgOA=="
 ---

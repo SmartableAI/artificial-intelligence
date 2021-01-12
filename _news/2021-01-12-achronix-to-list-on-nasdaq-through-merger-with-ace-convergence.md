@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/achronix-to-list-on-nasdaq-th
 webUrl: "https://www.hpcwire.com/off-the-wire/achronix-to-list-on-nasdaq-through-merger-with-ace-convergence/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Achronix to List on Nasdaq Through Merger With ACE Convergence"
-    excerpt: "Achronix Semiconductor Corporation, a leader in high-performance field-programmable gate arrays (FPGAs) and embedded FPGA (eFPGA) IP, and ACE Convergence Acquisition Corp. (ACE) (Nasdaq: ACEV), a special-purpose acquisition company,"
-    publishedDateTime: 2021-01-08T06:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-robert-blake-corporate-news-north-america-0f73a03a7aaa4b058c0f23dfa352ef38"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "New Science Ventures announces merger of its portfolio company Achronix with ACE Convergence"
     excerpt: "PRNewswire/ -- New Science Ventures LLC (\"NSV\"), a leading venture capital firm focused on building companies that leverage breakthrough science to"
     publishedDateTime: 2021-01-12T11:00:00Z

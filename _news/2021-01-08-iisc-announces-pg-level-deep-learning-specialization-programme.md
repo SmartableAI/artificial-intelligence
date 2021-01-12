@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Success for Fast-Track Data and AI Graduate Programme"
+    excerpt: "As the pandemic continues to hamper recruitment activities and risks a lost generation of talented graduates needed to aid Wales’ economic recovery, the"
+    publishedDateTime: 2021-01-12T05:35:00Z
+    webUrl: "https://businessnewswales.com/success-for-fast-track-data-and-ai-graduate-programme/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 39
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/Confused.com-CEO-Louise-OShea.jpg"
+        width: 1382
+        height: 778
+        isCached: true
   - title: "IISc and TalentSprint Announce PG Level Deep Learning Specialization Program"
     excerpt: "This 10-month executive education program is best suited for aspiring and practicing Artificial Intelligence and Machine Learning professionals who want to build expertise in Deep Learning and master applications in speech, text, image and video ..."
     publishedDateTime: 2021-01-11T06:59:00Z

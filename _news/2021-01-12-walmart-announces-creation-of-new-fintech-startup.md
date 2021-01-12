@@ -52,6 +52,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
+  - title: "DonorSearch Expands Partnership with Gobel Group and Appoints Award Winning Team to Launch a New Division Focused on Artificial Intelligence"
+    excerpt: "DonorSearch, the leading provider in prospect research solutions, today announced that it is expanding its current partnership with Gobel"
+    publishedDateTime: 2021-01-12T22:37:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/donorsearch-expands-partnership-with-gobel-group-and-appoints-award-winning-team-to-launch-a-new-division-focused-on-artificial-intelligence-301206982.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "KkL/5uzxk32/D+hkkNuP2N3U588jvbr7m7+/X4Yb1MgCbUW5WGASzXuJrhD8EBusJZU+TmWyewd5nIDiLN0vdRgYEI2dpUZop4qsPsXAlBVW7H1h5qwubSB8a1dsRml4B9ygmLAaLqJ6wUwN0DBCMZsX+3e3G/8UKPvA1lIYSDZSRGiWJnSVu0wDOxIGJtvKX6eN/12hse47BtPIQGvKfZ3yK0hnInyj4rBTW6dn7IWQjLmbLnb7riZPOwsEtt3XL1KShpELG9IhGIyhEAdQfCL1Tlzt6IXrahE65p2N5UsIi7nF0nFDaAmSD55mNOFdkbsXYL/aHOJx7Jde90LL2jZt45RuYShmt27D9xtg7zA=;4MViOb9QZbQ8N8+Dy84Y1A=="
 ---

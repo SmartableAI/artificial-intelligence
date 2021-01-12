@@ -25,47 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Bosch became carbon neutral in 2020, eyes larger play in artificial intelligence and connectivity"
-    excerpt: "Bosch said that the idea is to have AIoT which combines artificial intelligence (AI) and Internet-of-Things (IoT) into developing smart solutions for the future."
-    publishedDateTime: 2021-01-11T15:42:00Z
-    webUrl: "https://www.moneycontrol.com/news/companies-2/bosch-became-carbon-neutral-in-2020-eyes-larger-play-in-artificial-intelligence-and-connectivity-6332311.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/companies-2/bosch-became-carbon-neutral-in-2020-eyes-larger-play-in-artificial-intelligence-and-connectivity-6332311.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/companies-2/bosch-became-carbon-neutral-in-2020-eyes-larger-play-in-artificial-intelligence-and-connectivity-6332311.html/amp"
+  - title: "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021"
+    excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution 4.5 at CES 2021, from Jan. 11"
+    publishedDateTime: 2021-01-12T06:12:00Z
+    webUrl: "https://www.asiaone.com/business/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-ces-2021"
+    ampWebUrl: "https://www.asiaone.com/business/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-ces-2021?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-ces-2021?amp"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 48
+      name: Asia One
+      domain: asiaone.com
+    quality: 54
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/01/Bosch-770x433.png?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2021/pr-newswire_500_4_474.jpg?itok=GukxyMoJ"
+        width: 763
+        height: 509
         isCached: true
-  - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
-    excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
-    publishedDateTime: 2021-01-12T14:30:00Z
-    webUrl: "https://www.albawaba.com/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+  - title: "GenkiTek Showcases AI Camera Solutions at CES 2021"
+    excerpt: "GenkiTek was one of the 100 companies given the opportunity to showcase its wares in the Taiwan Tech Arena at this week’s CES 2021 event"
+    publishedDateTime: 2021-01-12T22:27:00Z
+    webUrl: "https://mobileidworld.com/genkitek-showcases-ai-camera-solutions-ces-2021-011208/"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 43
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 37
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/bosch_softwareentwicklung_4.jpg?itok=-_RdG45m"
-        width: 960
-        height: 539
+      - url: "https://mobileidworld.com/wp-content/uploads/Computer-Vision-Icon.jpg"
+        width: 712
+        height: 684
         isCached: true
-  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
-    excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
-    publishedDateTime: 2021-01-11T06:52:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8123660/ces-2021-bosch-puts-its-faith-in-ai-and-connectivity-for-the-protection-of-people-and-the-environment"
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-robotics-36120032652d479b8e56c1d5e0f280f5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-11T08:43:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210111005733/grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021"
     type: article
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 2
+    quality: 0
 
 secured: "PSrvewWaQMaVRjbnjGEogqTdWCcTCx3fiZxM2NB7GbssFh9fZsX30rvKs8BJFsLe2ok/7iZgDmcXXEfODJsRLRgztaQlIY8FyYPTJIDv90MfoJC0/21EpRl2rCW8bKhaze3+oNVTtsmXt3+TEVB1k6hGrip8sg0dPrkf4KZh2B+9UBHDSGowqTgSIpPxQif9hyg2Pff4GNDFUb3Uojx9A5TBb00kW9tkz4t5NDk8NhwAyxmbS12KrUzGH9paEwqiqwr2f9OUL1YYWD/OJa/cKaY6QmFQ4pn7LsjTXPYsWurcgYdKtFbCcHBDOjLx7Mp7aUmzWVyzvcD5ECjkuWJ2RVW311ifYWUzEngI6qlGnSc=;BkXKyhLCWzDoSBgolff4Qw=="
 ---

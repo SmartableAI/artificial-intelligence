@@ -103,6 +103,17 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Baker promotes facial recognition technology after Capitol riot"
+    excerpt: "After insisting the state’s police reform bill not ban facial recognition, Gov. Charlie Baker said the technology is important after last"
+    publishedDateTime: 2021-01-12T22:06:00Z
+    webUrl: "https://whdh.com/news/baker-promotes-facial-recognition-technology-after-capitol-riot/"
+    ampWebUrl: "https://whdh.com/news/baker-promotes-facial-recognition-technology-after-capitol-riot/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/baker-promotes-facial-recognition-technology-after-capitol-riot/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 39
   - title: "Video, cellphone and facial recognition data may lead police to Capitol rioters"
     excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologies to assist in the identification of anyone who was there that day."
     publishedDateTime: 2021-01-08T23:31:00Z
@@ -132,6 +143,6 @@ related:
         height: 798
         isCached: true
 
-secured: "ZXQRPDYoohe61Gqq/dnQIMa9WRZOVsQo9Ud1S/AMlT5K0T7ZPrvCFAPnoiwgFV9k7e00CqzE+DFCQBgJy4KIy7zq3PJEMtUjsbNV3ny4zNuXddsYEFsT52b8C3kWxR0u+uWKzPyiGkwGAqXmanWNTQd9M5ZbbyyfGPxrHWDYo2kGlMuOd1Di/Zwc1ei7FzDekXaWTXJRqTOETzEwd0f0mXJhJlOCJbMR8nKLBkDNMix7bDQlWJDNIzUAJH/wlBtoKIX9ACdeRBh0rRSDmlph8dtjeAd4FNoscSQYyQ+uzWAxQaWfWGFrBDXLoIj1p6S8TyrjV9ESHQtyg/kBYQHuT9k9vD4eI5/24kBmZIo3Kic=;u4MGfyxmjtA2HN5dQtLaHw=="
+secured: "GRuHAgPcsX04ijbXmBWsPAE8dwSnBbnufd/YW2wRCD67swpeaO7y3+tpUSgZ/aEJ0W+nIN/pGPmDiXHrW0+8UuA6SQyE5Fy9sQ6navgpAZCwoy5uXGkD1HiF6LvwE89W9OMg2g1jEr2cEoUbULM0/fEi2WoLLQzCf/DVUKGVkUVdN88gV42vVtrFHXaUHNPTCf4ygN7p83AygsqpYBF6eiaCP7CIQ1/hC6igCjairDTHZsOOW+FnfU6fwC+507HXGiNaK0fXyGu5pwnXJSPOOsacEEfXyBa8PUELdtd9bb3atBmJuHekopDiPGPrHW4mkeSNgDdcHXH19dvNCEAWSqycxCtlN9dcEm6kbu4eX6ydc64TIBHFiqnIghcSyN/SoaOjqmuFEdwsapUztyOzed2h7rxuFrJwp9B5uqeTxnmuxdUqdSZJVwvrJdwj8xmak04Jk1RLOIj4FDBBGjOBagdr4idm+muPHQsbafu84qWT5JlpPDYjVue+sYiwhmEH7ida4CPMS3YiyZ4iHcTelA==;LImrrfTkdOqqg5ngzrgTfg=="
 ---
 

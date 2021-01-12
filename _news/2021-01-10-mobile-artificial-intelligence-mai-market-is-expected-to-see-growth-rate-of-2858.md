@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Global Cognitive Computing Technology Market is Poised to Reflect 35% CAGR by 2023"
+    excerpt: "According to the Market Research Future (MRFR) report, the global cognitive computing technology market is projected to"
+    publishedDateTime: 2021-01-12T22:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-cognitive-computing-technology-market-is-poised-to-reflect-35-cagr-by-2023-2021-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Healthcare Artificial Intelligence Report 2020-2027: Market is Expected to Reach $35,323.5 Million - Escalation of AI as a Medical Device"
     excerpt: "Dublin, Jan 08, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Jan. 08, 2021 (GLOBE NEWSWIRE) -- The \"Artificial intelligence in Healthcare Global Market - Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Is there a problem with ..."
     publishedDateTime: 2021-01-08T19:54:00Z

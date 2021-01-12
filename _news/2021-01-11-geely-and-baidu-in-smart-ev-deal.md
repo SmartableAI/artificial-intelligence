@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Confirms Plans to Join the Smoking Hot EV Market"
+    excerpt: "In a press release on Monday, Baidu (NASDAQ:BIDU) confirmed that it was entering the red-hot electric-vehicle (EV) market. The company plans to set up an independent subsidiary co"
+    publishedDateTime: 2021-01-11T23:31:00Z
+    webUrl: "https://www.fool.com/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F607988%2Fbaidu-apollo-car.jpg&w=1200&op=resize"
+        width: 1200
+        height: 762
+        isCached: true
   - title: "China’s search giant Baidu to set up an EV-making venture"
     excerpt: "China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely."
     publishedDateTime: 2021-01-12T08:11:00Z
@@ -100,33 +116,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Baidu teams up with Geely to create new self-driving car company"
-    excerpt: "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table."
-    publishedDateTime: 2021-01-11T03:49:00Z
-    webUrl: "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Baidu, Geely forge smart electric vehicle venture"
-    excerpt: "Chinese internet giant Baidu announced plans to supply automaker Zhejiang Geely Holding with its intelligent driving technologies as part of a joint venture to manufacture smart electric vehicles (EV)."
-    publishedDateTime: 2021-01-11T09:54:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture"
-    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/09/Baidu_autonomous_taxi.jpg?fit=602%2C360&#038;ssl=1"
-        width: 602
-        height: 360
-        isCached: true
   - title: "Baidu to set up EV manufacturing venture"
     excerpt: "Chinese tech giant Baidu is preparing to set up its new electric vehicle manufacturing venture, the company said on Monday."
     publishedDateTime: 2021-01-11T13:16:00Z
@@ -143,6 +132,22 @@ related:
         width: 780
         height: 300
         isCached: true
+  - title: "Baidu Enters The EV Fray As It Plans $3.5B Secondary Hong Kong Listing: Reports"
+    excerpt: "Baidu Inc (NASDAQ:BIDU) becomes the latest tech giant entrant in the lucrative self-driving electric vehicle market. Reuters reported that Baidu has tied-up with Chinese automaker Geely Automobile ..."
+    publishedDateTime: 2021-01-08T12:09:00Z
+    webUrl: "https://www.benzinga.com/news/21/01/19072703/baidu-enters-the-ev-fray-as-it-plans-3-5b-secondary-hong-kong-listing-reports"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19072703"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19072703"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/geely_geometry_a.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Form Strategic Partnership with Geely"
     excerpt: "(NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV), and that it has entered into a strategic partnership with multinational auto manufacturer Zhejiang Geely Holding Group (\"Geely\")."
     publishedDateTime: 2021-01-11T05:28:00Z
@@ -157,15 +162,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu set to announce EV venture with automaker Geely, report says"
-    excerpt: "Baidu and Geely will team up to make electric vehicles for the Chinese market, deepening the internet giant’s foray into automobiles as its core business slows,” Bloomberg reported citing a source with knowledge on the matter."
-    publishedDateTime: 2021-01-08T14:34:00Z
-    webUrl: "https://www.techinasia.com/baidu-set-announce-ev-venture-geely-report"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
   - title: "Baidu, Geely join hands to establish intelligent EV company"
     excerpt: "Beijing, Jan 11 (IANS) China-based search engine giant Baidu Inc on Monday announced its partnership with multinational auto manufacturer Zhejiang Geely Holding Group (Geely) to establish a company to produce intelligent electric vehicles (EV)."
     publishedDateTime: 2021-01-11T12:36:00Z
@@ -190,34 +186,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F8%252F3%252F9%252F31679388-3-eng-GB%252FCropped-1610334061AP_20289239573989sm.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Chinese tech giant Baidu gets into EV game with Geely"
-    excerpt: "Baidu now plans to establish a new company to launch electric vehicles leveraging its own AI, connectivity, mapping and self-driving technologies, and Geely's expertise in car manufacturing. The new company will be a subsidiary of Baidu,"
-    publishedDateTime: 2021-01-11T14:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1130885_chinese-tech-giant-baidu-gets-into-ev-game-with-geely"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/lrg/geely-and-baidu-logos_100776419_l.jpg"
-        width: 1024
-        height: 597
-        isCached: true
-  - title: "Google Search Rival Baidu Announces Electric Car Company"
-    excerpt: "The tech industry is slowly but surely becoming more and more interested in the automotive market, and while Apple has so far remained completely tight-lipped on its plans for an electric vehicle, the Chinese over at Baidu have moved a lot faster."
-    publishedDateTime: 2021-01-11T06:06:00Z
-    webUrl: "https://www.autoevolution.com/news/google-search-rival-baidu-announces-electric-car-company-154251.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/google-search-rival-baidu-announces-electric-car-company-154251-7.jpg"
-        width: 728
-        height: 300
         isCached: true
   - title: "China’s Baidu set to create EV firm"
     excerpt: "Chinese internet search giant Baidu announced on January 11 that it plans to establish an intelligent electric vehicle (EV) company and has formed a strategic partnership with auto manufacturer Zhejiang Geely Holding Group as the country’s new energy vehicle (NEV) market gets in the fast lane."
@@ -247,15 +215,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
-    excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
-    publishedDateTime: 2021-01-10T22:22:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202101103570/baidu-partners-with-zhejiang-geely-to-produce-electric-cars"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "+Jd1ren7T5QwDt0SY8f6NpSO1NwaPmln6q82+B40f3Loa7F5p0nUG4zEUMypHBeLIQf1S2BYzOVSLya3hYs20UN6qtnzAttKP6y4GjOKXMqyvvg0145f/2kcJz3p9KP4Xb/VFkpJjqxo2ZoLHrKfTbjLGVZxGz25634q9+9DbLq2yoksvU7YXwLc1gz3bQtaNnQ2QIdR4yfU3R62aaqWMCAMl2BZrxqlyjSMf55qXNpO9Uw5ZTYnZoYqc0AC9hH5t4E/KKl52Blchh92rVT7qXLVIpFhgJtGcXDjMwX83ku+jQCjlBhvKoNRbR5f34zNpErtc4/qoDUhlkfQRc19qg+i4KEry8M1RWjVcSNyrzU=;cvHOn8tDuLpZrd6wCQY3gQ=="
 ---

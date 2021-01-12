@@ -27,14 +27,19 @@ images:
 
 related:
   - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
-    excerpt: "Today, the U.S. Food and Drug Administration released the agency's first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency's oversight of AI/ML-based medical software."
-    publishedDateTime: 2021-01-12T15:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fda-releases-artificial-intelligence-machine-learning-action-plan-1029960425"
+    excerpt: "Today, the U.S. Food and Drug Administration released the agency's first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as"
+    publishedDateTime: 2021-01-12T15:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/317925/FDA_Logo.jpg?p=facebook"
+        width: 2423
+        height: 1269
+        isCached: true
   - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
     excerpt: "FDA has released the Artificial Intelligence/Machine Learning- Based Software as a Medical Device Action Plan."
     publishedDateTime: 2021-01-12T16:03:00Z
@@ -48,6 +53,20 @@ related:
       - url: "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "FDA releases plan to advance oversight of medical AI software"
+    excerpt: "Food and Drug Administration released for comment its first plan for advancing oversight of medical software based on artificial intelligence and machine learning."
+    publishedDateTime: 2021-01-12T22:44:00Z
+    webUrl: "https://www.aha.org/news/headline/2021-01-12-fda-releases-plan-advance-oversight-medical-ai-software"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 39
+    images:
+      - url: "https://www.aha.org/sites/default/files/2018-07/FDA-guidance.jpg"
+        width: 900
+        height: 400
         isCached: true
 
 secured: "zpShNdsuRj6j6ZqFO/d8z5lyS7Zpzr94bhe/K/OYmdU+/esSuUMnW55jKfktjsG0S1TDQq7KsKn3zLN5zTZXgMUXO5kYeakc/59VVb2GPOFvvPgM2p3E6P6kFbwcKublgGfFU/usrtuZBFpvNaczrZWQhrKuUiEtrvTfB9lQdrHs9NmSk+fDTbxqVGISgV0MGs5ZyQY+CiWHIdnI+e9aVnGrh2tj/Pm/tbov423MuOW03eKDqvU+ikTRdC4YGxMSsvBqaHqVrmqQGy0GgyEn0XtAfW47sc927kaD63boGsASOdZt+i/P/7FMeRDFJlBrJcpsldgSK/yl3ypCseohZFGrDWzOA3BuYH+IjwKG580=;SWZ26Y9v5r4pmVDMP08k6g=="

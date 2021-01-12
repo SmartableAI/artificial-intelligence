@@ -40,6 +40,20 @@ related:
         width: 330
         height: 220
         isCached: true
+  - title: "Success for Fast-Track Data and AI Graduate Programme"
+    excerpt: "As the pandemic continues to hamper recruitment activities and risks a lost generation of talented graduates needed to aid Wales’ economic recovery, the"
+    publishedDateTime: 2021-01-12T05:35:00Z
+    webUrl: "https://businessnewswales.com/success-for-fast-track-data-and-ai-graduate-programme/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 39
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/Confused.com-CEO-Louise-OShea.jpg"
+        width: 1382
+        height: 778
+        isCached: true
 
 secured: "fQG3i31lXY0qurdbrhbw5K0feAqOkVJ+QDa7UGouHejhbJtJNwp+RfAEOFo1i5a9Ldktcl2aZvuUJlF/1zOI4zrbWjXzuVqwnLptkmrdXvbePe7U6o7Ar2pqcu2Curjriq3XDJ0xlfp9gpe+Fi7OALwOvzzVYGonBtDiWye2F0vDwOEWbQzXmCLmwQWkz2FB/3JQELS+Erfoz21T28Mpd3gKoYIxjpLvJ+1eMaUXt1A+2YpRO3ITtHh4WPQUgAqA9TG2kTWCuEdh6og2L2V+ggqgj1i/gOXlKw/zkv8y6kwE2slDGlK6y6yjBCTsh/WSWkYDIsyCHrcaA3nM81nTtbK7Az7nFL+Zhqk9P4cl3i8=;+c8BMikW8hhy9QwsgcLU3Q=="
 ---

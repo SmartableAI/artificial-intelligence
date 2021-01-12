@@ -26,14 +26,33 @@ images:
 
 related:
   - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
-    excerpt: "Today, the U.S. Food and Drug Administration released the agency's first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency's oversight of AI/ML-based medical software."
-    publishedDateTime: 2021-01-12T15:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fda-releases-artificial-intelligence-machine-learning-action-plan-1029960425"
+    excerpt: "Today, the U.S. Food and Drug Administration released the agency's first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as"
+    publishedDateTime: 2021-01-12T15:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/317925/FDA_Logo.jpg?p=facebook"
+        width: 2423
+        height: 1269
+        isCached: true
+  - title: "FDA releases plan to advance oversight of medical AI software"
+    excerpt: "Food and Drug Administration released for comment its first plan for advancing oversight of medical software based on artificial intelligence and machine learning."
+    publishedDateTime: 2021-01-12T22:44:00Z
+    webUrl: "https://www.aha.org/news/headline/2021-01-12-fda-releases-plan-advance-oversight-medical-ai-software"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 39
+    images:
+      - url: "https://www.aha.org/sites/default/files/2018-07/FDA-guidance.jpg"
+        width: 900
+        height: 400
+        isCached: true
   - title: "The rise of machine teaching"
     excerpt: "The year 2021 will see KM back in fashion, something I have discussed in previous columns, as the use of machine learning/AI allows us to finally get a grip on mountains of information and to identify and make use of valuable knowledge assets. Products are ..."
     publishedDateTime: 2021-01-11T05:45:00Z

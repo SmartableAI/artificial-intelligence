@@ -19,21 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "Bosch became carbon neutral in 2020, eyes larger play in artificial intelligence and connectivity"
-    excerpt: "Bosch said that the idea is to have AIoT which combines artificial intelligence (AI) and Internet-of-Things (IoT) into developing smart solutions for the future."
-    publishedDateTime: 2021-01-11T15:42:00Z
-    webUrl: "https://www.moneycontrol.com/news/companies-2/bosch-became-carbon-neutral-in-2020-eyes-larger-play-in-artificial-intelligence-and-connectivity-6332311.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/companies-2/bosch-became-carbon-neutral-in-2020-eyes-larger-play-in-artificial-intelligence-and-connectivity-6332311.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/companies-2/bosch-became-carbon-neutral-in-2020-eyes-larger-play-in-artificial-intelligence-and-connectivity-6332311.html/amp"
+  - title: "CES 2021: AR Glasses, AI Chips and Automated Astronomy"
+    excerpt: "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation."
+    publishedDateTime: 2021-01-12T21:09:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/ces-2021"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 48
+      name: ARM architecture
+      domain: arm.com
+    quality: 54
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/01/Bosch-770x433.png?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2021/01/lenovo_thinkreality.jpg"
+        width: 1940
+        height: 980
+        isCached: true
+  - title: "CES 2021: A virtual, AI-powered human handled presenting duties for LG’s tech showcase"
+    excerpt: "The Consumer Electronics Showcase (aka CES) is here once again, and as always, it’s bringing out the tech companies’ most personable presenters: people whose job is to get us all excited about the ways technology are about to improve our lives (like having a personal robot waiter roll up and pour your wine)."
+    publishedDateTime: 2021-01-12T01:36:00Z
+    webUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter"
+    ampWebUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 51
+    images:
+      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/lg-virtual-human.jpg?offset-x=47&offset-y=0"
+        width: 1200
+        height: 680
+        isCached: true
+  - title: "CES 2021: 5 show-stopping smart home tech innovations"
+    excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
+    publishedDateTime: 2021-01-11T19:57:00Z
+    webUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/"
+    ampWebUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 44
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2021/01/ces.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
     excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
@@ -51,19 +81,33 @@ related:
         width: 960
         height: 539
         isCached: true
-  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the ..."
-    excerpt: "Bosch's tagline at CES 2021 Bosch as a pioneer in climate action: Under the tagline “Sustainable #LikeABosch,” the company will be presenting intelligent, sustainable solutions for health, living, and mobility at the virtual tech trade fair CES 2021."
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-industrial-technology-fcc0754fecc1df56ceb6e922eca7eadf/gallery/e533e5ed1156e6c42eb09d383285e5cd"
+  - title: "AI clothing for improved sports performance unveiled at CES 2021"
+    excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
+    publishedDateTime: 2021-01-08T11:46:00Z
+    webUrl: "https://www.techdigest.tv/2021/01/ai-clothing-for-improved-sports-performance-unveiled-at-ces-2021.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2021/01/impulse-product-shot-just-phones.png?fit=552%2C545&#038;ssl=1"
+        width: 552
+        height: 545
+        isCached: true
+  - title: "CES 2021: Now AI can detect Alzheimer’s"
+    excerpt: "A biotech startup claims that AI brain mapping with an electroencephalogram (EEG) can now detect pre-clinical Alzheimer’s dementia. At CES 2021, iMediSync has launched an EEG digital biomarker for early detection of Alzheimer’s dementia on their AI cloud platform,"
+    publishedDateTime: 2021-01-11T08:30:00Z
+    webUrl: "https://gadget.co.za/ces21-ai-can-detect-alzheimers/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 37
+    images:
+      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/01/iMediSync-Image-1.png?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "4+fGuuo4j7Or1rRiaavat0JzjEPvGtTA2mr/d39CYU9Q8kSIPH5etOkEHc/EgXYa72tCarG2oO2qAM0+2ZZkHia//46a/psEjKNlP3fvPyEZnJgKrvCJ0geD/W2azpARzh1WlcFu3EkF+B6NjMDUOqWTz3wQuah4QhwUQgGboNu2WTMO8MsERO4KNw1CWIFqHg19Q2IIAvL22QlIyjQjGs+/4fx8slZAHJ4k11ufg+55ngYYJ5Pnw9stGXs+VMi/Dh4NdHSmZ5FFpdGC/RJJyKvTrCT6y3i+I8Iv8sQGlGCaqKO8J+6t82PhQOzUBVRsjLF9gS/5pcK/dWZXOvFUmk5+LyS+YOHGSR6ALsm+3Pc=;3rBQ7nPwk0VeNBWVErHBHA=="

@@ -27,6 +27,33 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu teams up with Geely to create new self-driving car company"
+    excerpt: "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table."
+    publishedDateTime: 2021-01-11T03:49:00Z
+    webUrl: "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Baidu, Geely forge smart electric vehicle venture"
+    excerpt: "Chinese internet giant Baidu announced plans to supply automaker Zhejiang Geely Holding with its intelligent driving technologies as part of a joint venture to manufacture smart electric vehicles (EV)."
+    publishedDateTime: 2021-01-11T09:54:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture"
+    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/09/Baidu_autonomous_taxi.jpg?fit=602%2C360&#038;ssl=1"
+        width: 602
+        height: 360
+        isCached: true
   - title: "Baidu teams up with Geely to make smart electric vehicles"
     excerpt: "Baidu is partnering with Geely to make smart electric cars, the tech group’s latest effort to diversify away from a stagnating core business and a milestone for the carmaker’s efforts to sell its vehicle technology to third parties."
     publishedDateTime: 2021-01-11T06:54:00Z
@@ -43,20 +70,52 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Report: China’s biggest search engine is getting in the electric car business with Geely"
-    excerpt: "Baidu is reportedly negotiating to use the SEA platform for upcoming Volvo and Polestar vehicles for a venture powered by its own software."
-    publishedDateTime: 2021-01-08T14:00:00Z
-    webUrl: "https://www.greencarreports.com/news/1130862_report-baidu-in-electric-car-business-with-geely"
+  - title: "Baidu set to announce EV venture with automaker Geely, report says"
+    excerpt: "Baidu and Geely will team up to make electric vehicles for the Chinese market, deepening the internet giant’s foray into automobiles as its core business slows,” Bloomberg reported citing a source with knowledge on the matter."
+    publishedDateTime: 2021-01-08T14:34:00Z
+    webUrl: "https://www.techinasia.com/baidu-set-announce-ev-venture-geely-report"
     type: article
     provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 15
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
+  - title: "Chinese tech giant Baidu gets into EV game with Geely"
+    excerpt: "Baidu now plans to establish a new company to launch electric vehicles leveraging its own AI, connectivity, mapping and self-driving technologies, and Geely's expertise in car manufacturing. The new company will be a subsidiary of Baidu,"
+    publishedDateTime: 2021-01-11T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1130885_chinese-tech-giant-baidu-gets-into-ev-game-with-geely"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
     images:
-      - url: "https://images.hgmsites.net/hug/lynk-co-zero-concept_100762554_h.jpg"
-        width: 1920
-        height: 1262
+      - url: "https://images.hgmsites.net/lrg/geely-and-baidu-logos_100776419_l.jpg"
+        width: 1024
+        height: 597
         isCached: true
+  - title: "Google Search Rival Baidu Announces Electric Car Company"
+    excerpt: "The tech industry is slowly but surely becoming more and more interested in the automotive market, and while Apple has so far remained completely tight-lipped on its plans for an electric vehicle, the Chinese over at Baidu have moved a lot faster."
+    publishedDateTime: 2021-01-11T06:06:00Z
+    webUrl: "https://www.autoevolution.com/news/google-search-rival-baidu-announces-electric-car-company-154251.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/google-search-rival-baidu-announces-electric-car-company-154251-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
+    excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
+    publishedDateTime: 2021-01-10T22:22:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202101103570/baidu-partners-with-zhejiang-geely-to-produce-electric-cars"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "Kn3G5Z4H+BHpzaC4S7o4CvNNYRwpyz6v4z65ByRaJbrQi5GXtYEEk3hy54NvoRe54J4bYSRpDjGZJEAFwb/IJMWNkoyMFYGysdhbbboV+0RMgbfmfaDLgteewPIB9JML5QRpR+HfXnKe1tmbNqAWUOtww/EftlEI68hyyr/EcGmrA/HWpGE4k8sp/z0gktKd4XMyF/WArGKk7rWxgZcfypZtLR6j5uCQ4eGOM6/V7tu6nCTwuGGdrpeEtGoTi+XKIZNIdPMk1PQULtWqei2K5ncUnbG6Xro7ZqyP4c3ghe40lweqGc5LMOzosITIpz+qo1q02TqyBfHPKCjlFR1DL3tPGvbA6JpxL353NNDvMDYiXGIe47elgIwLEuwbjWBm2Y69AdxOcswZcOLQJCJDyt9VYpEF6JM3cQwlDsgNw4wS1n16fx+NluOBcaI16biG1TV1CuKop4XT0x84hwH1wKiz6fZHfwz0JnniLiEBItDJUATYdxRaGZJGd3ES8Rkpxzz5uJbERfdCxBot9lkQSg==;RyTTQeMKF4XAoij50zBxxw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://roboticsandautomationnews.com/2021/01/08/seoul-robotics-la
 webUrl: "https://roboticsandautomationnews.com/2021/01/08/seoul-robotics-launches-breakthrough-perception-software-platform/39375/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 800
     isCached: true
-
-related:
-  - title: "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform"
-    excerpt: "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,"
-    publishedDateTime: 2021-01-08T06:55:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-driverless-cars-3d-technology-3ed0d75aa4dbd97fe329a8819573fcd0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Ed9G5SExUh8Nh1XkvtnOY1ZX5DDuCJJwLcrYIwI4tUDbJfs8YM5VY0PLM3MsqtZuChtYLIqZ5x2Q5UT4NDjNSsTk45Ag3/q9HAljtt3rg6cn/DMS+BlqSGM9y/NTt3C0OfIGcYlgUgL8CglfVpXy6TPsDT2ngvfk29JurSkSzBXfviRWBfawQ5l3pjAriWvVD51zqMQBDlEwQkFLZc2O91Yndlf+zcDRUoRr6QmXO6zpiVHJ+95lCRkxI6BHLuLHSwgMFj9oaxAsFRP0Um7N0ELiOSlcHnTFC1Ca1hJ8vcMdAtq+SLnEnM/XerUIHggBSU0d4si5dFyH27o4WP1fJV397pmDSjlb132OKpjD4vKG1/viEVRX00LhPwZpZAbHmsgF6HuhwINAMt4It3qbd0XwABZ0vnaWBZxCrZge/cCtc8QMRtn0JE6Mva0m57MzNRTihq6kaevaWi3kOUdcvS50uNaObfyaMj00Lf+nDeR4QYJJVDi2QKfUXVcxzQ61b+3X5e2ViovhTst13Ly5wQ==;B74B5j47t6O3uAU6syY0JA=="
 ---

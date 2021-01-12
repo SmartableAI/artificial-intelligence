@@ -1,30 +1,26 @@
 ---
 category: news
 title: "7 Potential IPOs in 2021 That Could Build Out Your Portfolio"
-excerpt: "Coming off of 2020, there is a ton of momentum surrounding potential IPOs in 2021. So, here are some prospects to ride into the new year."
-publishedDateTime: 2021-01-12T19:36:00Z
-originalUrl: "https://investorplace.com/2021/01/7-potential-ipos-in-2021-that-could-build-out-portfolio/"
-webUrl: "https://investorplace.com/2021/01/7-potential-ipos-in-2021-that-could-build-out-portfolio/"
-ampWebUrl: "https://investorplace.com/2021/01/7-potential-ipos-in-2021-that-could-build-out-portfolio/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/01/7-potential-ipos-in-2021-that-could-build-out-portfolio/amp/"
+excerpt: "Stock Market News, Stock Advice & Trading Tips This past year the initial public offering (IPO) market ended on a very"
+publishedDateTime: 2021-01-12T22:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/7-potential-ipos-in-2021-that-could-build-out-portfolio-1029961808"
+webUrl: "https://markets.businessinsider.com/news/stocks/7-potential-ipos-in-2021-that-could-build-out-portfolio-1029961808"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/06/ipo_0509.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "It could be time to add robots to your portfolio"
@@ -44,6 +40,6 @@ related:
         height: 382
         isCached: true
 
-secured: "6cb0cGl+fIiclQ2C/2Uf/M0HkIZiWyES24rOMsmWVsABTsNlvGSm9NJvFWfJKx4tkRScoGBL43CByAFB8cupunrqnb4GxgzUymFpXmj5O9T0hc/mCuyhvqyFndPh68z7N/zqrJFxWlT44HQeLmacW+ZpXKvWpnU1b89rzUczU8ajhIVT7GRfijv5s/2reAxCHEMKGlobzdGlgBknKzeQtDRzzyMgygS/wY4cI9qG0EN2YwXdS+/L/ooY6zWmWCrOC6JmzUU4A6fm+RIbH3zqZsbUwGGNnkmMv9k8tfa7LfgQbT1Rzkkqr2bmX/4q/En2pzCDKqt3WlYBYt4WyxiFqYB+P2J50VDUH1HYC9ATUEw=;7hdJgOH+Dt82NGf9UnHgEw=="
+secured: "h4yV7dqzK37ptfWdaAsvDNraqvaJiINA1PRQHQStG5av3vzgqY/4H8X5fdyUoYdZS+ndK/H5GN0aghHNryEbdNS9dMdpTVFXIiF9wxn9A+7pArz96qsDVw5EnRiyieCTyHTrPi8dt1c89Pk4MfiR2FzUmn5k6QvQBmkIy77KulbDofMykARnInIustbe/I46+KqwFv5u+8XmmIOMB1EQNm4mIs8cR/FpiTq4ktW57nBobqeZ/313ClN4CssxE02tJqT0jdyTey19FelmBpztelOjzRfiyN/ldq97u3wAu3uNsToFI3gSLjZnVYkDz2cq4+a5ij3usxwbMeeU7JsM65Yjh0sK6ymJgc5Uj0qkh78=;IUIGgfg/pVJ0s3C3+Mhf7g=="
 ---
 

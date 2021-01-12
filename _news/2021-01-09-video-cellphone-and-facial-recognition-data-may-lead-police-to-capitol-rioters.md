@@ -117,6 +117,17 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Baker promotes facial recognition technology after Capitol riot"
+    excerpt: "After insisting the state’s police reform bill not ban facial recognition, Gov. Charlie Baker said the technology is important after last"
+    publishedDateTime: 2021-01-12T22:06:00Z
+    webUrl: "https://whdh.com/news/baker-promotes-facial-recognition-technology-after-capitol-riot/"
+    ampWebUrl: "https://whdh.com/news/baker-promotes-facial-recognition-technology-after-capitol-riot/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/baker-promotes-facial-recognition-technology-after-capitol-riot/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 39
   - title: "Video, cellphone and facial recognition data may lead police to US Capitol rioters"
     excerpt: "The countless hours of video — much of it taken by the rioters themselves — is a treasure trove of evidence for authorities looking to prosecute members of the pro-Trump mob."
     publishedDateTime: 2021-01-08T22:41:00Z

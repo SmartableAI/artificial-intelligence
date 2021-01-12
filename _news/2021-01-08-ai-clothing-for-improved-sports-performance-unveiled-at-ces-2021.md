@@ -24,69 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the robots taking the virtual stage at CES 2021"
-    excerpt: "This year's all-digital CES is going to be a tough one for everyone involved, but it may be even harder if you're a robot. Robots can pique people's interest via the written word or videos, but there's nothing like showing people what you can do in person to really make a good first impression."
-    publishedDateTime: 2021-01-08T06:50:00Z
-    webUrl: "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/"
+  - title: "CES 2021: AR Glasses, AI Chips and Automated Astronomy"
+    excerpt: "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation."
+    publishedDateTime: 2021-01-12T21:09:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/ces-2021"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: ARM architecture
+      domain: arm.com
+    quality: 54
     images:
-      - url: "https://cnet3.cbsistatic.com/img/ZebjbmPSplDAGHsK9spL4tKz2bw=/1200x630/2021/01/04/e3a5f50a-cfd6-4c14-a479-cd5b4e3961f4/1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "CES 2021 to get a virtual twist: Robotics, smart devices & digital health to take centrestage"
-    excerpt: "The big tech show will go on, but online only: the 2021 Consumer Electronics Show kicks off Monday aiming to create connections and showcase the latest in robotics, smart devices, digital health and more."
-    publishedDateTime: 2021-01-11T12:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/articleshow/80212322.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/amp_articleshow/80212322.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/amp_articleshow/80212322.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 63
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-274280,msid-80212786/malinois-pups-to-train-for-itbp.jpg"
-        width: 412
-        height: 255
-        isCached: true
-  - title: "Pandemic's robot 'heroes' highlight their value at CES 2021"
-    excerpt: "Among those taking the virtual stage at CES are robot companions, concierges, cooks, delivery drones, medical assistants and those handling the perilous tasks of sanitizing workplaces and medical facilities."
-    publishedDateTime: 2021-01-12T12:00:00Z
-    webUrl: "https://gulfnews.com/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    ampWebUrl: "https://gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/01/12/20210112-robot-heroes_176f646af35_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Samsung unveils home robot that does the dishes at CES 2021 – latest updates"
-    excerpt: "Samsung has showed off a robotic waiter and butler that can pour you wine and do the washing up. Bot Handy was briefly on display as part of Samsung's presentation at the Consumer Electronics Show in Las Vegas."
-    publishedDateTime: 2021-01-11T18:06:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 56
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/01/11/LG-smartbed_trans_NvBQzQNjv4Bq3C4DDbsH65fm6X__oq5DkEHQvb2UFjW03QidnNDMhGA.jpg"
-        width: 690
-        height: 431
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2021/01/lenovo_thinkreality.jpg"
+        width: 1940
+        height: 980
         isCached: true
   - title: "CES 2021: A virtual, AI-powered human handled presenting duties for LG’s tech showcase"
     excerpt: "The Consumer Electronics Showcase (aka CES) is here once again, and as always, it’s bringing out the tech companies’ most personable presenters: people whose job is to get us all excited about the ways technology are about to improve our lives (like having a personal robot waiter roll up and pour your wine)."
@@ -104,126 +54,61 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
-    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
-    publishedDateTime: 2021-01-11T14:01:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
+  - title: "CES 2021: 5 show-stopping smart home tech innovations"
+    excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
+    publishedDateTime: 2021-01-11T19:57:00Z
+    webUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/"
+    ampWebUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-smart-home-tech/773534/?amp"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 39
+      name: Kim Komando
+      domain: komando.com
+    quality: 44
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://www.komando.com/wp-content/uploads/2021/01/ces.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "CES 2021: Pandemic’s robot ‘heroes’ highlight their value at tech show"
-    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
-    publishedDateTime: 2021-01-12T06:15:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/12/ces-2021-pandemics-robot-heroes-highlight-their-value-at-tech-show"
+  - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
+    excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
+    publishedDateTime: 2021-01-12T14:30:00Z
+    webUrl: "https://www.albawaba.com/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 43
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005074.jpg"
-        width: 1240
-        height: 826
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/bosch_softwareentwicklung_4.jpg?itok=-_RdG45m"
+        width: 960
+        height: 539
         isCached: true
-  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
-    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
-    publishedDateTime: 2021-01-12T09:41:00Z
-    webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+  - title: "CES 2021: Now AI can detect Alzheimer’s"
+    excerpt: "A biotech startup claims that AI brain mapping with an electroencephalogram (EEG) can now detect pre-clinical Alzheimer’s dementia. At CES 2021, iMediSync has launched an EEG digital biomarker for early detection of Alzheimer’s dementia on their AI cloud platform,"
+    publishedDateTime: 2021-01-11T08:30:00Z
+    webUrl: "https://gadget.co.za/ces21-ai-can-detect-alzheimers/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
-    excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."
-    publishedDateTime: 2021-01-11T13:27:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16176/raspberry-pi-top-4-robotics-kit-to-debut-at-ces-2021"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 34
-  - title: "At all-virtual CES, the spotlight is on touchless tech, robot companions — and smart bathrooms"
-    excerpt: "While the all-virtual CES 2021 is not as glitzy as Vegas conferences, there's no shortage of digital health and wellness products this year. The COVID-19 pandemic appears to have inspired new products designed to support digital living as consumers spend more time at home."
-    publishedDateTime: 2021-01-12T11:35:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/at-all-virtual-ces-spotlight-health-monitoring-robotics-and-smart-devices-home"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 27
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1610411914/CareOS%20Themis%20Mirror%20-%20Welcome.jpg?.vQUvQubtaapLsCpOrT0zJsN.8VIJ9ib"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "2021 CES Innovation Awards"
-    excerpt: "Here are some of the 2021 CES Innovation Awards for vehicle intelligence and transportation. Have an opinion about this story? Click here to submit a Letter to the Editor, and we may publish it in print."
-    publishedDateTime: 2021-01-11T05:00:00Z
-    webUrl: "https://www.autonews.com/ces/2021-ces-innovation-awards"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AWARDSIBM.jpg"
-        width: 800
+      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/01/iMediSync-Image-1.png?resize=1000%2C600&#038;ssl=1"
+        width: 1000
         height: 600
         isCached: true
-  - title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
-    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
-    publishedDateTime: 2021-01-11T19:27:00Z
-    webUrl: "https://www.adelaidenow.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
-    type: article
-    provider:
-      name: Adelaide Now
-      domain: adelaidenow.com.au
-    quality: 22
-  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
-    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-robotics-36120032652d479b8e56c1d5e0f280f5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
-    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
-    publishedDateTime: 2021-01-11T21:39:00Z
-    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 15
-  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
-    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
-    publishedDateTime: 2021-01-11T08:43:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210111005733/grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021"
+  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
+    excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
+    publishedDateTime: 2021-01-11T06:52:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8123660/ces-2021-bosch-puts-its-faith-in-ai-and-connectivity-for-the-protection-of-people-and-the-environment"
     type: article
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 0
+    quality: 2
 
 secured: "H6VmfnIFM2TZkZ+dwqBNymMfJtVXsUXD7Fr3NUYSNnYK1eZCAcHTJyrXu4VyUqQNH+18/5Ok+veWali0vjJm744G8Pxyfdc6yuV55vR1TkO2QC/dTEOMZpL5DeXKlPoouEtLfGpw5jYQIx/vPdqGnetRvrtO7JbdxaJZez7+wVpcvDXnBzlDNAC7sruNAUCQT0gxQdnmz5NuAinDJQ70WJCpnwZ3zgNyasX6bOQhbhNapH7xPy0S0993s0UMqWqUyIn6FuQx4gpV5K/xBfj+krhMOMP6R7chs85kg23hWQTvTpG+MhSZqzxu4G42jbY/YThIiZG0sbRbZH0hVMW9fN6uxnb4yZasHQO83yTHx8Y=;SW2+Of+jVivLeZTehGrYOg=="
 ---

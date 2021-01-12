@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-an
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "DonorSearch Expands Partnership with Gobel Group and Appoints Award Winning Team to Launch a New Division Focused on Artificial Intelligence"
+    excerpt: "DonorSearch, the leading provider in prospect research solutions, today announced that it is expanding its current partnership with Gobel"
+    publishedDateTime: 2021-01-12T22:37:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/donorsearch-expands-partnership-with-gobel-group-and-appoints-award-winning-team-to-launch-a-new-division-focused-on-artificial-intelligence-301206982.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "aUSXQQnS6QjknXy99vdMVp5oSmCa+LKc0KuXklYK6TUQWreZ84JefN5K0EH6e8kA6C4BnuQn9XK4vDuTTvLyYolI3/nR/JaLI977aKPibA0GtzoCi8ojOjMdv2pIusKTb7iKbn16U4RjXuQEuwF7Qy5PMc1DqSYiEvdTdScnJjgN2DeFb9aUZ20WwygvqejkM7fLqEorY9CsV+QIIUbHPyF8HZkk+/2EkkjrV1opCePbH1iQrwXJ2zdP8qN1Y18T09hDICXdp7B4fdq64Gn2I3mZDYWtSFqfSrJo0VH5+AOIJ+4x4TAGpoEizF7TCaB1JTkQBjPWZ2pJpK3qwYC/y8kSaLx8IUGmJcMWQxt4sXsB+tkE7AEHvVAyDXTdaODMVjj/oIBIw9daBgUWWuBr30czBl93Xl8aM+0lHkrWn/uZUyQF2GFqz1TPhSHiK+wbgzTYt7mQ55uRdfOY9h/2CZHfUVBTRaG1CHom4Ay2a1csRPtMk07WTobnjh+9/rKHGa6vuX87oGYy5998igktIQ==;21Nn0xsTplaEH1On/eLy0g=="

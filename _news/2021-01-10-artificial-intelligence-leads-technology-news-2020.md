@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-lea
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-leads-technology-news-2020/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 960
     height: 675
     isCached: true
-
-related:
-  - title: "Top 9 New Technology Trends for 2021"
-    excerpt: "Technology is evolving rapidly, so you must stay up to date with the latest technology concepts to be a successful in your career. Know the top and new technology trends to understand where your career potential lies and secure your future in the top technologies of tomorrow & beyond!"
-    publishedDateTime: 2021-01-08T06:33:00Z
-    webUrl: "https://www.koenig-solutions.com/blog/top-new-technology-trends"
-    type: article
-    provider:
-      name: Koenig Solutions
-      domain: koenig-solutions.com
-    quality: 4
 
 secured: "b2bQo4bQlzfXUxMBoY954biHzNZS1e2Fz3yKrKznegh738uzCVD9xU/H95gtaixJX9VhSbGEFTDUZc99/GJVxnTRGC0+vJ9MVbmna2fZ1YBab824DRqjTYprin7NPtbIiWHdOAtYepIc4lxUm14WZ1Us/7fl5Xs4GzfcN+FknlvQfOMbH3LpDZ7jDy+kxzfjFnyQG6n88fbxHGRb0qJHiAttuAGk8MttNEYuB27vyw3AzC4TRcKqyRH7iYSGhWUEz6ngxsz6+UToqFkuJbRp2IVX0VHQB5DRAvVxQFEEWawAMeWd+8QH4YHmWy5FAFvTzcQyh8X2Z63CHuutoyVSMWPMgXAXAMBlDk2D+ny4V+M=;JRM5JfL8+i2mpGSkfFXi+A=="
 ---

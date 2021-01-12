@@ -25,36 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2021: 5 show-stopping smart home tech innovations"
-    excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
-    publishedDateTime: 2021-01-11T19:57:00Z
-    webUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/"
-    ampWebUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+  - title: "Sequoia, Tencent join the $190m series C and D rounds of Chinese HR startup"
+    excerpt: "The latest investment comes after WorkTrans raised US$23 million in a series B1 round from Qiming Venture Partners and Lightspeed China Partners in 2018."
+    publishedDateTime: 2021-01-08T12:31:00Z
+    webUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup?ref=recommender-668771"
     type: article
     provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 44
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2021/01/ces.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "CES 2021: Now AI can detect Alzheimer’s"
-    excerpt: "A biotech startup claims that AI brain mapping with an electroencephalogram (EEG) can now detect pre-clinical Alzheimer’s dementia. At CES 2021, iMediSync has launched an EEG digital biomarker for early detection of Alzheimer’s dementia on their AI cloud platform,"
-    publishedDateTime: 2021-01-11T08:30:00Z
-    webUrl: "https://gadget.co.za/ces21-ai-can-detect-alzheimers/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 37
-    images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/01/iMediSync-Image-1.png?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 30
 
 secured: "o6vVhcPhzgafSVmB3doVKYjJ75Clft91Saxd5vRQuOj2e1Hlu04TDxwBS0oVm4L64rkKrblKNRhA2Nnq0QcAC+2x23+XV50JaNuoWXV1OROcnNGa8Kgwiuc0IskwepH/obF7kKs68lj2jkoHi9GIwTrWjhMCxErazgrc9RaF4vWC2BxjUfSnEqjkgMOMPI/w9VL3XThnM1Z2KO+k5eqltawpwHuUp30YQ79JzbB3gJL9SE387cHznUgB0IlJoBkhUoGDCQMhCi69ivcOXN2O2FhFejuXVMakgbuhe7Eo3oHu92p1QHHpycXAxMnk4/goqU9MRo0CP1bYS9LC5/anE4Q8KF7qKk3f/NpT6+wqafw=;hphDtyqEbOtbNi4V9LwHIA=="
 ---

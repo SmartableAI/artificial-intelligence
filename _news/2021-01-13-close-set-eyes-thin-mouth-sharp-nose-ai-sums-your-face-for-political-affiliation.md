@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-12T20:58:00Z
 originalUrl: "https://www.biometricupdate.com/202101/close-set-eyes-thin-mouth-sharp-nose-ai-sums-your-face-for-political-affiliation"
 webUrl: "https://www.biometricupdate.com/202101/close-set-eyes-thin-mouth-sharp-nose-ai-sums-your-face-for-political-affiliation"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
@@ -24,6 +25,6 @@ images:
     height: 499
     isCached: true
 
-secured: "QCZG6Py3kmLm0Nb4D0VDizqbVML3SXZXhKylLC/qV8UrdKraCYVEU20iP00Q0u6ZdsCrYtShhRvmiWjd5rYvUnFamuljbPV1zdFzsoLbGUQRtBs+35HsjrpESPgZgdLcYTQdvlb4IWmQTIxHA71sLc7+6hwlJSLUKi82OADzLQ8BZdxz3VE0U3uByu+hQvWrS1EEkLa/L9m6jeve+9ap+cl4LYN1AetAaYQGxogtZAEnrOjkGhOhiBQf7tH6oOrcvRJU4vvq4zJzi3yjiL6iRJ9xTQhPAPbowUTHOsGcijxVa4E7JB/F7vRulGKbaYnqMv14imP/JGs8mj2gW0FnMKYFoJEvQ83sEmeVbM0Nsbw=;7/4+SarF/9HR4krJKj8d6w=="
+secured: "NH4yF3tJfOHggWInhpUaGEso2rwRO917zserHtqprgbkYBT1GJZh3kVW7JSb4PJHbO2lVLV9y4PL5LJ7ATxYpjo793CNkccFR+IhRuwhedji/Z7nZfDBgJ5nzpyDNGBfif5nM83FDPtzB5ItBZC2fpwIT4tbPbX2JcvciXc5LCKWo1ujGuS1MxqneBCrmXA7mZ8Y6G5F3OVIRPI3wvL9QUPHJNYj8AQDDl0r6yOHjsQOmKNWlu437mOqC7stUPcGCt+bmc76ojPy0V+ngDTU73e35zaITiY5RXGsd4kcTuLgpJ6Co1sVpG6h2yJ3F07sg2+kcfqQCgVVsWwS9QE3cgBCC+bymAAQa6Yf+WEE8okwUn81Q12vXmrYKX1vuAdkoI/IOP3cQa9kAQ2Zd3DVhl64fYV8g7v6UfOV0V/ozpUq8k7J7UmUTQQd+3SYO7lbKQBInwkm9/QFbAl5x1rnKr88E/rbGigvZmC5/1DlxHcP4HRaGNZAQ4DkqJ/6Cw74eQ3NotG2kPXHLEsa4pXlMw==;JVUYea21NgHjXhcnjP/zLw=="
 ---
 

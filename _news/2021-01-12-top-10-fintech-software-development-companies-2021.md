@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ignite Sales Appoints New CIO, Fintech Veteran Bob Pittman to Lead Tech Team"
-    excerpt: "Ignite Sales, Inc., the financial industry leader in customer engagement technology, today announced Bob Pittman has joined the company as chief information officer (CIO). In this role, Pittman will provide strategic IT leadership and direction for Ignite,"
-    publishedDateTime: 2021-01-08T06:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-executive-changes-financial-technology-corporate-news-be598b072b7645beaf38e548491c78dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Marc Levin Joins United Fintech as Partner & COO"
     excerpt: "Marc Levin, former CEO of CFH Group, has joined United Fintech as Partner and Chief Operating Officer (COO). With responsibility for the operational and commercial aspects of United Fintechs portfolio,"
     publishedDateTime: 2021-01-12T10:36:00Z
