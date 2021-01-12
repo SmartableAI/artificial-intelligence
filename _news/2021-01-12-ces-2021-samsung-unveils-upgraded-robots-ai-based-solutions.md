@@ -215,6 +215,20 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "Samsung’s new Vacuum Cleaner empties its own bin and has LiDAR"
+    excerpt: "At its “A Better Normal For All” CES event, Samsung announced new TVs, home appliances, and new vacuum robot cleaners. One of them is the JetBot 90 AI+. Samsung uses a combination of sensors and AI-enhanced object recognition technology to navigate its vacuum cleaner around your home with “the same efficiency and care you do."
+    publishedDateTime: 2021-01-12T08:44:00Z
+    webUrl: "https://pocketnow.com/samsungs-new-vacuum-cleaner-empties-its-own-bin-and-has-lidar"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 24
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/01/CES2021-JetBot-90-AI_1.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "7RPD1xeNyAm3dCfFdRPK583ra8ei1T/WaoR+/srBAF9i9yGFiB/gW0NDBWbaMVuzOYhXjiTJ2lH0dJ8MyDMbytc4STevQQ0YqgPekljCq6eSZysKYaKdqh6WtFoiWn/3zM4wM4llzC9T2rxBf9u/yp82ftHOgTWwhsP0BazH0ocN5cR85Ch0Tcp898vptD8nfexDgkxnSLIzuq8/Yf2yaz25RrjXfk41DdkrdWfH6/NArrYrFo3r5d4tE/+bdeUqBv6U7H1Te7lQ8G8m9HmWcpjrlY5NaviLIN4n5IsirejsjJqd00VH0/LiyL6k1RSr8qZ8DSPVrms4v10qUb+CN81FJ2MeK+AY8aUQakr0Dkg=;mLUsgGy1LXD1fkyl0AeJSg=="
 ---

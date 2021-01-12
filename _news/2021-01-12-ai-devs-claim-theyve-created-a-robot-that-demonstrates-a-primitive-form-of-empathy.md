@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-create
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/"
 type: article
 quality: 97
-heat: 107
+heat: 108
 published: true
 
 provider:

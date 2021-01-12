@@ -87,22 +87,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Ann Arbor considering ban on police use of facial-recognition technology"
-    excerpt: "Ann Arbor officials are considering a ban on police use of a facial-recognition technology. The issue came up this week as City Council reconsidered its recent approval of a $348,308 contract for new dashboard cameras for Ann Arbor Police Department vehicles."
-    publishedDateTime: 2021-01-07T15:42:00Z
-    webUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 43
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LRAIIY7Z5REOPG7ZNW2XLR2YQY.jpg"
-        width: 3745
-        height: 2500
-        isCached: true
   - title: "Video, cellphone and facial recognition data may lead police to Capitol rioters"
     excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologies to assist in the identification of anyone who was there that day."
     publishedDateTime: 2021-01-08T23:31:00Z

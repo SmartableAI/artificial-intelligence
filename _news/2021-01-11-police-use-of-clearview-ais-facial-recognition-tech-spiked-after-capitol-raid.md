@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-t
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
 type: article
 quality: 100
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WGLF6UUNFREHTNDYYOVSYKTNSE.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Ann Arbor considering ban on police use of facial-recognition technology"
-    excerpt: "Ann Arbor officials are considering a ban on police use of a facial-recognition technology. The issue came up this week as City Council reconsidered its recent approval of a $348,308 contract for new dashboard cameras for Ann Arbor Police Department vehicles."
-    publishedDateTime: 2021-01-07T15:42:00Z
-    webUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/01/ann-arbor-considering-ban-on-police-use-of-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 43
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LRAIIY7Z5REOPG7ZNW2XLR2YQY.jpg"
-        width: 3745
-        height: 2500
         isCached: true
   - title: "Facial recognition technology to help identify U.S. Capitol rioters"
     excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."

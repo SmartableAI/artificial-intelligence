@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving cars are dangerous in the wrong hands"
+    excerpt: "We have long been promised that fully self-driving cars are about to take to our roads, but the technology remains out of reach. “It’s an extraordinary grind . . . a bigger challenge than launching a rocket and putting it in orbit around the Earth,"
+    publishedDateTime: 2021-01-08T05:04:00Z
+    webUrl: "https://www.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
+    ampWebUrl: "https://amp.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7771b980-3096-4057-8e1d-b67fa5e631ee.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "imEeHwPEgPe4gsc891WMuOvKEd74dB7MCbZa/8bMw0fTOlyKCh2E7kSz53fqHQQwxw3MH5yM4HsOec4StvpHaT1cVvLGVCSsxI/O2vLzfv3+1T0qsO83QuyyKwxJwLMHYUa2pOGTJHUIfjRqPB1TzhQ7t6hg3Wm/0/M1CqW1c7sjpuL2WaCO1zKLsOGghtlpbzX5IlP8Nr9EfirQgBrACXD1EWwFXWrSuyj08380hUVMm5iV1XPvKsxnbJJugMttiVTNfY8GUMb5DBxZ0swLtKFSNGV97gqA+WKd9g4Hae5+RLE2XimVQYwS0vHF81/zxReO9uUfTYNZrb4W+5Jyp85UXrXrQV97lWU1qskTN6vo0aUPylY8b6gdqODII+TKp9YvN5csqKrM7ELndu0UDRDHUiZhC96507pwoMSvQTy3Uhy2u/zLU16jmuXKBPrYDYb8fs4aBizUgdigtJcS+bpmbJYx2NCbKaXjglBsQyu1+SVUgt3dakfGdfKjnnJDfdiobeciXyc5VhiVCNsomw==;SLT6YUvfRv/V7597gQ2Zfw=="
 ---

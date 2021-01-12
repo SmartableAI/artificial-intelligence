@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing the power of crowd-driven artificial intelligence"
-    excerpt: "The European Research Council (ERC) will fund the development of an innovative platform incorporating the IIASA crowdsourcing game Picture Pile. IIASA Strategic Initiatives Program Director Steffen Fritz will lead the project."
-    publishedDateTime: 2021-01-07T16:19:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/iifa-htp010721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "£3m to fund new wave of Artificial Intelligence for the military"
     excerpt: "Phase 2 of Intelligent Ship, run by DASA on behalf of the Defence Science and Technology Laboratory (Dstl), sought novel technologies for use by the military in 2030 and beyond. Nine innovative projects have been funded,"
     publishedDateTime: 2021-01-11T13:03:00Z

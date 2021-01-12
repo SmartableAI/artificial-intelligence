@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Florida Poly professor's research selected for WHO COVID-19 database"
-excerpt: "The World Health Organization (WHO) has selected leading-edge research on fighting COVID-19 by Dr. Ajeet Kaushik, assistant professor of chemistry at Florida Polytechnic University, to be featured in its database of global literature on"
-publishedDateTime: 2021-01-12T00:54:00Z
-originalUrl: "https://www.lelezard.com/en/news-19594713.html"
-webUrl: "https://www.lelezard.com/en/news-19594713.html"
+excerpt: "Dr. Ajeet Kaushik, assistant professor of chemistry at Florida Polytechnic University, has four research papers featured in the World Health Organization's database of"
+publishedDateTime: 2021-01-11T23:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/p19113271/florida-poly-professors-research-selected-for-who-covid-19-database"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/p19113271/florida-poly-professors-research-selected-for-who-covid-19-database"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19113271"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19113271"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/ebola-virus.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "GW2AKdZuIW1uDys4Y0/aAeIjLC1K+xh7yO4z1EqRhZgTgNNUOj2BCiFDssf15h7Yf7slc3viZEBLf1zzr1GFoVVGAsDoG6uKNhch5U6h7JrgbubV6RAS7FoP2C8tfWDTpFLVAHltSOWq+6g/Yyem33E2Xiwo9PRZAmz1G+z4JJUxu5Ff5IP37bVijwN5cJngf8uRhWDP9eEK72O46BdFi6OBoC/0/FXqcMPL87mgk+W9HEcYc4EwMg0Mk2Jq4//hPmUrKe/rmCaQXL6c+K8lzd5fr6MH7xyq8N+gEuIEt/rtLRjfIZ/EtzRxRG2WiG1BWmDWrHjgpi2i4pwiDyhsenG9K01oZf93Lx80KlgHeWM=;UyLCeswKcd+fXRsONBigUw=="
+secured: "2y62qDtYjju2ukVCr83Cm4n3LQLytH3bPMGQ9z+KMLq0kyWQfSAx/OC3x5XZPp2Q5fhWhjju3EwHw9n8fFtb0zdC52pYGllpWxeT0rh0W4UtTClbcqoGt+RVqrEJrYRIy1VnhjYnfhQQ8E0Jf6uchUy9YaGE/iXMzWxDZ+Gy7aK7Wbu2tcSGwricNoZwz1OL7wNkKn7zk68wG2s7voL5nm5qboObfWuBjnXL6uXx5MDmx9VBHCWxB7i2f8/SSwe2QRWgPAPoDSzIFX/oA+bA3bZHS1Pg3QTWB0xwPM7Pk9ujqXFQTmt1ttW3CViAvPD4yDc6ir0ODFvB0Ftq2wnFL8SCya5qt6iNlig7jYEdlow=;dRA/G6hm3l/8g/8dlaz/Nw=="
 ---
 

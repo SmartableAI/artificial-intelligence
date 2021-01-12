@@ -41,6 +41,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "China’s search giant Baidu to set up an EV-making venture"
+    excerpt: "China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely."
+    publishedDateTime: 2021-01-12T08:11:00Z
+    webUrl: "https://techcrunch.com/2021/01/10/baidu-electric-car-making/"
+    ampWebUrl: "https://techcrunch.com/2021/01/10/baidu-electric-car-making/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/10/baidu-electric-car-making/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/apollo-baidu-e1610341383915.jpeg?w=1024"
+        width: 1024
+        height: 546
+        isCached: true
   - title: "China’s Baidu is building an EV with help from Polestar’s parent company"
     excerpt: "Baidu has already developed autonomous vehicle tech but now the plans to produce electric vehicles in partnership with Geely."
     publishedDateTime: 2021-01-11T09:14:00Z

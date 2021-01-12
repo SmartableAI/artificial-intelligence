@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft AI Surpasses Humans In Natural Language Understanding With SuperGLUE Benchmark"
-    excerpt: "Natural language understanding (NLU) is a massive yet challenging goal for AI. According to Microsoft, one of the benchmarks for NLU, SuperGLUE, is “currently among the most challenging”. It seems that the test was not all that bad,"
-    publishedDateTime: 2021-01-07T17:00:00Z
-    webUrl: "https://hothardware.com/news/microsoft-deberta-ai-tops-superglue-leaderboard"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-deberta-ai-tops-superglue-leaderboard"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-deberta-ai-tops-superglue-leaderboard"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 65
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53909/content/ai-robot.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Microsoft AI Transformation Customer Stories"
     excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."
     publishedDateTime: 2021-01-09T08:27:00Z
@@ -125,6 +109,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Microsoft backs Terra project for biomedical data"
+    excerpt: "Broad Institute of MIT and Harvard, Alphabet company Verily, and Microsoft entered a strategic partnership to accelerate new innovations in biomedicine through the Terra platform. Terra, originally created by Verily and the Broad Institute of MIT and Harvard,"
+    publishedDateTime: 2021-01-12T08:30:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-backs-terra-project-for-biomedical-data--1368202"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "Se4zdp5xclwkfQSucQnIEpoTnbOdzJHRWXKVPX+L2VXasRIt1ARZZAFdiUaqjpwSVjll3xHC68KjK7i2RM+tdPF1nYLfNB+RA+9A+p5G4q8XbYWJw+fJsUgeUENQx5Gi3M3UsKU882c0nXFs6d1IyPtpBMd908ajQufNWjeneOR4HqxhA7Dk+vnzThFyRAhFdzjzq2IVzoYdOJqAD8sib59rjTP5qXta9NFAypWkhsOtxz4xQJ+sSDnp7Qw036OQWE8n9/Xr9/7BB7ZHcw3iemIEOziAMQo0BVXXJc1NCYq52l+ACWkIFkubMngzpzd4KV+ds0Z0tFf0562Yb83Q/VAFae0FrmEhuE13lkbr2cw=;eds26MRG9Ifpw+NTMS1FzQ=="
 ---

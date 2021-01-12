@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FTC Settles Facial Recognition Misuse Suit With Everalbum"
+    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
+    publishedDateTime: 2021-01-12T06:04:00Z
+    webUrl: "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/"
+    ampWebUrl: "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/"
+    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/"
+    type: article
+    provider:
+      name: Law Street Media
+      domain: lawstreetmedia.com
+    quality: 59
+    images:
+      - url: "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "7aTrkgnAyK58fYoTS0amnxF/Wte6K/TYFEl4NjlsrGSpeP2JG09zu+hokb/vHxqhkjZNlGdFeVKtd0sjPNqVOqkoqGBguyGy5B+js8pPotNt7JCzbnmTnvdiBDxNdahqQzbDZVo4XVekl/dbrmJZ8f5MCNOkpjn6zv1AAIjavFtzdCeYPnc3pf8AxkFdzVQ8UkyVVXV2/zs6rjh+YsJoHJbvxH9fFzJgF9II8LmQ03PPLyb18XzJrB9MH7aHSESY3xckzg/swGA3N+JkxR4853Z5jXPZQz4V/KQAce98nBSET32LCgetDexi0OjxDUzyKK4UiDXhQyn9hsrWeeRzjgHn2f8Jaq0ZC24sRYLe9UuXSaZ52/dsd9YtAXPxEwZf3FIIa0hUe298JG41B8if70bt7HUc6qn7CzYdQRywyqbbFaBk3GubRjCAqT8i9VD9SZV2oFe5Fo3IpWHprgOECnGsars/ZFkvYefa17uqWQCwp39iWwtr8O9tAYpW+tC8R9ncmuR4rHVqwsiCY0TNUQ==;sTOGsTq+07DiqMTVsj791g=="
 ---

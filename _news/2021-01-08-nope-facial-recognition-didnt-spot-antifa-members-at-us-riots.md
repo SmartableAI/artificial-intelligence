@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-ga
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Facial Recognition Company Says That Viral Washington Times “Antifa” Story Is False"
-    excerpt: "Matt Gaetz had cited the story in Congress as supposed evidence that antifa was involved in the Capitol assault. But the company says it’s “outright false.”"
-    publishedDateTime: 2021-01-07T16:55:00Z
-    webUrl: "https://www.buzzfeednews.com/article/craigsilverman/facial-recognition-antifa-washington-times-false"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/craigsilverman/facial-recognition-antifa-washington-times-false"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 82
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-01/7/15/asset/4b24ac414e7e/sub-buzz-13891-1610033744-11.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-        width: 640
-        height: 425
-        isCached: true
   - title: "Fact check: False claim of facial recognition of antifa members during U.S. Capitol riot"
     excerpt: "Facial recognition software firm XRVision has refuted a now-retracted story that its product matched rioters at the U.S. Capitol to members of antifa."
     publishedDateTime: 2021-01-08T03:53:00Z
@@ -194,6 +178,26 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Major facial-recognition supplier builds system to identify masked faces"
+    excerpt: "Facial-recognition supplier claims new system can accurately identify masked faces and therefore promote public health during the pandemic, but questions remain about whether its existing UK law enfor"
+    publishedDateTime: 2021-01-08T14:49:00Z
+    webUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces"
+    ampWebUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 23
+  - title: "Facial recognition that works with masks"
+    excerpt: "With so many casinos now implementing facial recognition systems it is interesting that a Japanese company has introduced one that will work even when guests ar"
+    publishedDateTime: 2021-01-11T07:51:00Z
+    webUrl: "https://www.intergameonline.com/casino/news/facial-recognition-that-works-with-masks"
+    type: article
+    provider:
+      name: InterGame
+      domain: intergameonline.com
+    quality: 19
 
 secured: "iRye3f2UhaY6PD3IX1cf3RZk1YzufTNJQR+ouzJ+wJqkaVSwcwkoGrzKNtNQqjcesgqxY+VOYNJ4Bsb+SsjNJUXdQ5/vKKsWSqkWCyKzPq/+vgYuUj1C6qnLxHoxkg5s6mbVATeezxjM1IL5h2En3aU5hcv1/qUtNxOHzRPXmy8AAuqrUYI9gSvkMbF62NMynbXK4CZdWk6OfxSlPbA27WPa9mCeEAD+7ztsSQwmWUrL2FcVC4kcBHwt3aRT+dAt++e7iVqtvzMv/inR6U2/vJ0hIcckM+ZiTiwdZXjwLT32Wx3GXq3X3rPfexXe8vThHhekdVjZOxhg1whl9jLp1tBMwpCysGb2C5IuTrwd5aUqaaIieC5QeYrbe8qKn5fVJ0h7HJUfIyRzgb3AMRrmf6UlipY3XWQQ3eMwSARYsNc378wMf+67ldSei/dXEBvRyAQznMChp4I2LBW32FIOf6wxHHL7Iqt8YPCR8JfnAxlcW2OOcvftoSwCPgfjXVd9jD3vZRZEUrDXoeGIcx7m/Q==;A46YDOxgh3axcejJmWeZFA=="
 ---

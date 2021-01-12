@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff545ffcda8add8ba6f4879%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3008%26cropY1%3D152%26cropY2%3D1845"
         width: 1199
         height: 675
+        isCached: true
+  - title: "Self-driving cars are dangerous in the wrong hands"
+    excerpt: "We have long been promised that fully self-driving cars are about to take to our roads, but the technology remains out of reach. “It’s an extraordinary grind . . . a bigger challenge than launching a rocket and putting it in orbit around the Earth,"
+    publishedDateTime: 2021-01-08T05:04:00Z
+    webUrl: "https://www.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
+    ampWebUrl: "https://amp.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7771b980-3096-4057-8e1d-b67fa5e631ee.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "zCpveFmWDp+z0hRImPZpYgGS7wLzrFZ26BeWBGQpaWLGI1Rjj5xW9ggXjIzeI1Aiq8otfXCOiCmWxDpPgaZDU5f5ABEuEX1vbgBSheoJp7jtK6jofFtU/zZ2NspVj+JNVerqyzAzCxgsyL0KNa2iX0knydrDPWKlLBttrU2U+GSpONJUUs7+rS0iqeh9jQuDAMLAMTQbEKALwEWMM/ff1mku4Fiu5Ulk+O8K+QyAKErSxwBkVusTOPFlT3aoymZmYOdUQ8387+7DMvJ8Pm08gwslRfGjxtOEGFHNQn393r8b/eDHbvGfDXK9VMKfanRS/fqiO6EALkNtnH/NHGOxAn2GwfcglWZv/PobeimIF/AQJlBEvZ19Llc6OnqZfaK3v8J0kx1QmB2ex2lwp6S5U/kddusBUeC55IWXxAOvEnqGUcm46sSoe/mKtYc+GQWHq5TvnRKpOpKOGRnExDwI6NVc80wmKuyhGwlGj041AgkdlRpVeAbn7tnlvlJvzYCawqclBDBxMVwjdgZcjcNk2w==;Z89Kbpr8uLcaFpJbfDHIeA=="

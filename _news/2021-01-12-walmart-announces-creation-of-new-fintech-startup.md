@@ -55,15 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Ignite Sales Appoints New CIO, Fintech Veteran Bob Pittman to Lead Tech Team"
-    excerpt: "Ignite Sales, Inc., the financial industry leader in customer engagement technology, today announced Bob Pittman has joined the company as chief information officer (CIO). In this role, Pittman will provide strategic IT leadership and direction for Ignite,"
-    publishedDateTime: 2021-01-07T15:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210107005582/en/Ignite-Sales-Appoints-New-CIO-Fintech-Veteran-Bob-Pittman-to-Lead-Tech-Team"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 18
 
 secured: "KkL/5uzxk32/D+hkkNuP2N3U588jvbr7m7+/X4Yb1MgCbUW5WGASzXuJrhD8EBusJZU+TmWyewd5nIDiLN0vdRgYEI2dpUZop4qsPsXAlBVW7H1h5qwubSB8a1dsRml4B9ygmLAaLqJ6wUwN0DBCMZsX+3e3G/8UKPvA1lIYSDZSRGiWJnSVu0wDOxIGJtvKX6eN/12hse47BtPIQGvKfZ3yK0hnInyj4rBTW6dn7IWQjLmbLnb7riZPOwsEtt3XL1KShpELG9IhGIyhEAdQfCL1Tlzt6IXrahE65p2N5UsIi7nF0nFDaAmSD55mNOFdkbsXYL/aHOJx7Jde90LL2jZt45RuYShmt27D9xtg7zA=;4MViOb9QZbQ8N8+Dy84Y1A=="
 ---

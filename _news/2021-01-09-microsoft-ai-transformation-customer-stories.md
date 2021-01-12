@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft AI Surpasses Humans In Natural Language Understanding With SuperGLUE Benchmark"
-    excerpt: "Natural language understanding (NLU) is a massive yet challenging goal for AI. According to Microsoft, one of the benchmarks for NLU, SuperGLUE, is “currently among the most challenging”. It seems that the test was not all that bad,"
-    publishedDateTime: 2021-01-07T17:00:00Z
-    webUrl: "https://hothardware.com/news/microsoft-deberta-ai-tops-superglue-leaderboard"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-deberta-ai-tops-superglue-leaderboard"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-deberta-ai-tops-superglue-leaderboard"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 65
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53909/content/ai-robot.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
     excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
     publishedDateTime: 2021-01-11T18:42:00Z
@@ -129,6 +113,15 @@ related:
     provider:
       name: AdExchanger
       domain: adexchanger.com
+    quality: 19
+  - title: "Microsoft backs Terra project for biomedical data"
+    excerpt: "Broad Institute of MIT and Harvard, Alphabet company Verily, and Microsoft entered a strategic partnership to accelerate new innovations in biomedicine through the Terra platform. Terra, originally created by Verily and the Broad Institute of MIT and Harvard,"
+    publishedDateTime: 2021-01-12T08:30:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-backs-terra-project-for-biomedical-data--1368202"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
 
 secured: "vLURCpsR0yAIuHTBMdjhyk5ltuBypESLAho9bm3F59qH+V5B7LvOkHJjbKtDnoPA+a8yvU2qN1V/FQeNMx1ARJvcR4lbEt15U6CmkUYuJzPWY9CwuNt0zUzpXs3Q9PawA8E9NG3GeIKdyFmOdiKLkWVbsQbPZkd9II/8Oq7/ircokxtwl6pPz5M+R8+9Xb4eLfzoKK2M/Ce6aBYmdsXcMc0kjsqdSSZkMvSi8d2ssEQeIt9PT4AtHjTxNPsebU9ff+CarVW5AvBAEf0OchHf8SyAt2wdhwowrrmSQSwJzyx2ocb7krpDYVz4P40ee1GbBFht6hKmRtMa/chEZ2dqq4BgvFS5Kus38GacNK39DgA=;3FhM7ju3I1Vrz7YsV4q2cg=="

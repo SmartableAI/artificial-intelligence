@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-ro
 webUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera"
 type: article
 quality: 100
-heat: 230
+heat: 240
 published: true
 
 provider:
@@ -219,6 +219,20 @@ related:
       - url: "https://www.yankodesign.com/images/design_news/2020/12/CLMBR_climbing_and_finess_machine-510x314.jpg"
         width: 510
         height: 314
+        isCached: true
+  - title: "Samsung’s new Vacuum Cleaner empties its own bin and has LiDAR"
+    excerpt: "At its “A Better Normal For All” CES event, Samsung announced new TVs, home appliances, and new vacuum robot cleaners. One of them is the JetBot 90 AI+. Samsung uses a combination of sensors and AI-enhanced object recognition technology to navigate its vacuum cleaner around your home with “the same efficiency and care you do."
+    publishedDateTime: 2021-01-12T08:44:00Z
+    webUrl: "https://pocketnow.com/samsungs-new-vacuum-cleaner-empties-its-own-bin-and-has-lidar"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 24
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/01/CES2021-JetBot-90-AI_1.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "JxNr4CISJPud+oIL7fz6fboufkPfPP0XQEzbCex7OXS216GbZ6J4YSR13CZlnILb7Dl+yGNG9hQglslMNYe7vKNnz6MQobY12PlYOX2bjXhvsUfxxHjlrleMJu4RsQ9y7gvRe9TIQEj863opKAnZzSOH293rCXtBbGs6L9q/rpnBJRFE/Rr1RjFFLtkXEZgGe2bajKabbzPs4loxNECcG7wwSLyVxmhhlobFCsFwjNBq1V3oztCq/33Aulig7dWRI/o9QEpWeoqhRswchNCxGAWN4ZkR385pyQaUz5uOAmtYbnUC0J5asV31X5rzBWKGuXgN8dNUKT/DhZMkG2zJtHRr1ZvflyrqLivCdQ+vaQM=;vPzHZ2JxIRufC+8W5unGhA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.bemidjipioneer.com/news/education/6832804-Bemidji-High
 webUrl: "https://www.bemidjipioneer.com/news/education/6832804-Bemidji-High-School-speech-and-debate-coach-receives-national-recognition"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,77 @@ images:
     width: 1140
     height: 712
     isCached: true
+
+related:
+  - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
+    excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
+    publishedDateTime: 2021-01-11T04:56:00Z
+    webUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/"
+    ampWebUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 55
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Intel's Israeli facial recognition technology is going to change the way you draw cash"
+    excerpt: "Powered by Intel, Israel's RealSense ID develops a facial recognition system that aims to make debit cards obsolete... Facial recognition technology has already found its way into almost everyone’s pocket nowadays."
+    publishedDateTime: 2021-01-10T04:27:00Z
+    webUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/"
+    ampWebUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 51
+    images:
+      - url: "https://www.geektime.com/content/images/2021/01/1ca31571-f685-4bee-85be-b55bac1216ec-1609950288.jpeg"
+        width: 1431
+        height: 966
+        isCached: true
+  - title: "AnyVision Offers 5 Indications for Fair, Ethical and Unbiased Use of Face Recognition Amidst Rising Public Debate"
+    excerpt: "Prof Shlomit Yanisky Ravid, Visiting Professor of Law at Fordham Law School and Yale Law School (Photo: Business Wire) The backdrop to this conference is the widespread public debate on the use of facial recognition technology – a debate encouraged by the Black Lives Matter (BLM) movement,"
+    publishedDateTime: 2021-01-08T17:11:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industry-regulation-government-business-and-finance-technology-issues-ac039981ac6547c38da3306d301c6c20"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Intel is Repositioning its Depth-Sensing Camera into Facial Recognition"
+    excerpt: "Intel has officially launched RealSense ID, a facial recognition camera module that is built on its RealSense depth-sensing technology. Originally"
+    publishedDateTime: 2021-01-08T19:08:00Z
+    webUrl: "https://petapixel.com/2021/01/08/intel-is-repositioning-its-depth-sensing-camera-into-facial-recognition/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 39
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/01/Intel-is-Repositioning-its-Camera-Depth-Sensing-Tech-into-Facial-Recognition.jpg"
+        width: 1600
+        height: 840
+        isCached: true
+  - title: "Intel launched RealSense ID, a facial recognition tech"
+    excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
+    publishedDateTime: 2021-01-11T11:36:00Z
+    webUrl: "https://techstory.in/intel-launched-realsense-id-a-facial-recognition-tech/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 19
 
 secured: "8vQhH0g0rIMOw2hOKM/BksPsbPAHOjsG4Pl9gJwTYaLkqFPqX4CFhSnxlh5jL0xskGTbW14C4txF08b+mKoJ/l9v+j94uShjRbfbEA3CYYvZLPaMRkW3F2NupkcrbtfDj8UFe7ERD9cV+OBccVy6Rwkn5O7DhmjKGFxtrGNzJ9zpimPmW2a11G/8a0NoZ/S5PJzfjyfGZuIk5hIVFRBVfKP5TQRa4ws+1qhO+nfAyNRJ6j4dCKenJ+ZQq6oCwZgdPgObJdD59HI2ZIjkdw2dPtyw+iEvMltK2uhLT/lR6q3gzHoHzTXsUHTp2wUBA6srl6RgnkZpDOdzW1WI2n54xwl2F8+6CK/glNaUFUF895ONhvRhK0htB017pB4AC5/UsxEpNYjkXeQ43o6IzZ2Id33ytdaynT3omVCDFv/Uxk9KGoftd5C8T2MbkdUWSmN2Qfyw49JvkyfhkjOPM/lpMapAhLI2u2n8siTpOgTJtqPhIgOOaLdueakUXQ9FUooaYMl/zr5jT0XQpsJmah3qPA==;4KtBB7lxHTSILnyKECJ6FA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/apple-self-driving-car-at-least-5-ye
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20HQ-MAIN.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "China to let self-driving cars be tested on highways"
+    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
+    publishedDateTime: 2021-01-12T08:10:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
+        width: 1198
+        height: 797
         isCached: true
   - title: "Apple's self-driving electric vehicle is at least five years away, engineers say"
     excerpt: "It looks like #Apple has been working in earnest on its self-driving electric car project, but insiders say it'll be several years before it can challenge #Tesla, #LucidMotors, #GM and other carmakers."

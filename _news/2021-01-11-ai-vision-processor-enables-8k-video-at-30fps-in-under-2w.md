@@ -51,7 +51,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 3
+    quality: 5
 
 secured: "xZXXoHQMO66w+mAGdLNgvnwpAO9KYGpyJSAqrq2Lbdv1l1BRXqb4K/HBJohQF3m/dHABAu2NKXFfCVqdsRQpCmhctX8lu9nxMufZfCKGOIgkBB/TC44g3u7R6q+2/hitYWj+RkV/PqS4FoaMNUWlDkELy7A2E/8nquQS9pbSJ0MRycMqSJ00YnnCoWrHRQc6CRddvOkn19Rnq5DCYcXJFAMnmWDwA7ws/cLFbRv7MJCg7OxngcFsL2WGiNkkJ/GBLWcgRgYohjK+MoUgZsiEH5rxalpuZ13JSMJSAf10+Yj2RG3FO31E0C4iJOwFKZOpfKMVJwSZWice38ipumo210gh0A2iSTmvqjgT+ywTtIrT+4lU0af2sr8OGB360boUCikatEfqvqeAGOu4Tu9oTUhDh6SY9H9R8VDbTXKtDJ67WkNPISDLYF9hgzFBvz41/qpPDpTGV/jnm7d1qaWzfC8BGbzhq5lGNAcDJvQ50wqNv++Vsib2YJ6yjgiWw2pL3b64uFU+2kxy+nCdkbKiaA==;YXEfvwnK4tvM3DBwKV1OWw=="
 ---

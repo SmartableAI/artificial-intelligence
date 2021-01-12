@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/amp/"
 type: article
 quality: 100
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/1/a021.01.08.21249474v1.jpg"
         width: 859
         height: 302
+        isCached: true
+  - title: "Improve computer's learning ability by tweaking AI software"
+    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects say tw"
+    publishedDateTime: 2021-01-12T07:51:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267510156/improve-computer-learning-ability-by-tweaking-ai-software"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1610437370.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "3aOAhxQPHBSCUP3m9qGfuZSJD/PPz1xx67QCQUwR1MILboOTO+JDBRhBwsMhkwSE1XFNnbhVUUfKwscDlOxHzI42KTPnAGnvZeAFvg4gkkOyh7mUvWoPvKgxnCszaOnvjUOFOxBUnYN0m2K6rOdCuIwYCY7n2vx3RqZNfcl9w0E7pStCfOKla1hQQRnsmrP7RRmxHIaagGjBxNAdD5L7WhnH0PGSYRzBkNAqlugcsg62AixwLSoAVpmLz3LciV0ZJwPK2mZhu5oGIOnLemq3kD/79VqMyNGi6oCSYmT6u5CS1qhze2KMhVdZyWB/asZBnIgp1AL+YwCuHIeC+GT9pcnzzqUK7Dr1vOIKZulyUg37XMrVufJ4bA8RRyO10l1A0kb2377jfEP1CF6wgG1h1gyW9Cp8B6twIyHMcbzpww0VAOu3v2Md1EyMKtxuasepoayxXQ2Hz5YIRHYGMDWQzC09vcv6pcJhNzktQpiLVU/duqh6m/2QwkQCzteaSghSbnXoQt9OO0Ig3i7kSCcSqw==;/8QDC6ClhLvAH9b3QB44WQ=="

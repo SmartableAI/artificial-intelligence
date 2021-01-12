@@ -39,15 +39,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Achronix to List on Nasdaq Through Merger With ACE Convergence"
-    excerpt: "Achronix Semiconductor Corporation, a leader in high-performance field-programmable gate arrays (FPGAs) and embedded FPGA (eFPGA) IP, and ACE Convergence Acquisition Corp. (ACE) (Nasdaq: ACEV), a special-purpose acquisition company,"
-    publishedDateTime: 2021-01-07T15:41:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210107005892/achronix-to-list-on-nasdaq-through-merger-with-ace-convergence"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "AmWtVniJNg6fLzeRCcfE7XCVY+qToG6u6HE9r2akkHJlAM8r5kkV8+RfFrl/UEz2MzcJhShZJDi5lsHS7MEhwkOvHyb0mULqViKt520AwV2Zp9Kyz2J2z+OmcX1ijXLV9Nz2ZZ+GJUkJ9vgu42OgjlGxXzk5ldOlyKCyKltydDAYPP8+r8RLgDk3/cniQt7FjP7/ulL5M2g7qtYhCJGEqC7gneQWhbPVYqzoFFiVFA2m0SttUWVtAG2qdasnYY7VU65F754+/fC56YfeOxXsTsnmvJHNaqzbSqPd4atBuOgRTYDzQ7EFf+Zr/3qDR9vtGJOLUXX/W6/fFXnANnW4X21rfYOIHAa9NWV76WBUnzo=;o64zNJb8y46biAMxoZLI6g=="
 ---

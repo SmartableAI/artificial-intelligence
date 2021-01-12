@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-11T05:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210111005235/en/Ambarella-Introduces-CV5-High-Performance-AI-Vision-Processor-for-Single-8K-and-Multi-Imager-AI-Cameras"
 webUrl: "https://www.businesswire.com/news/home/20210111005235/en/Ambarella-Introduces-CV5-High-Performance-AI-Vision-Processor-for-Single-8K-and-Multi-Imager-AI-Cameras"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Computer Vision
 
 related:
   - title: "Ambarella unveils 8K AI vision processor for car, drone, and robot cameras"

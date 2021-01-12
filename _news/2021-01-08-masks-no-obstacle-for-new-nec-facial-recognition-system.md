@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "NEC says new facial recognition system isn't stopped by masks"
-    excerpt: "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,"
-    publishedDateTime: 2021-01-07T15:57:00Z
-    webUrl: "https://mashable.com/article/nec-face-recognition-mask/"
-    ampWebUrl: "https://mashable.com/article/nec-face-recognition-mask.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The US Army is developing a nightmarish thermal facial recognition system"
     excerpt: "The US Army just took a giant step toward developing killer robots that can see and identify faces in the dark. DEVCOM, the US Army’s corporate research department, last week published a pre-print paper documenting the development of an image database for training AI to perform facial recognition using thermal images."
     publishedDateTime: 2021-01-11T23:09:00Z
@@ -60,36 +44,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/predatorvisionj-796x448.jpg"
         width: 796
         height: 448
-        isCached: true
-  - title: "Face Masks Can't Confuse NEC's New Facial Recognition System"
-    excerpt: "Studies have shown that facial recognition algorithms created before the pandemic are easily confused when their subject matter is wearing a mask. As Reuters reports, NEC is ahead of the curve because the company was already working on a recognition system capable of dealing with masks before the pandemic started."
-    publishedDateTime: 2021-01-07T16:58:00Z
-    webUrl: "https://uk.pcmag.com/security/130840/face-masks-cant-confuse-necs-new-facial-recognition-system"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/face-masks/face-masks-cant-confuse-necs-new-facial-recognition-system_mpue.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facial recognition system can identify people wearing masks"
-    excerpt: "A facial recognition system that can identify individuals even when they are wearing a mask has launched in Japan. The technology, created by Japanese company NEC, works in less t"
-    publishedDateTime: 2021-01-07T15:27:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/07/facial-recognition-system-can-identify-people-wearing-masks/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 61
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/07/10/A-hacker_trans_NvBQzQNjv4BqNUHzxaamNmHDqK-YksWRz2o-yMLyYquKCawpyDOW254.jpg"
-        width: 560
-        height: 350
         isCached: true
   - title: "This facial recognition system can identify people who are wearing masks"
     excerpt: "For this reason, the NEC company has been working for some time to develop a facial recognition system that can identify people even if they are wearing masks. Mission accomplished. The Japanese company has been marketing its mask-proof face recognition system,"
@@ -107,40 +61,20 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "This Facial Recognition Program Can Tell Who You Are Even If You're Wearing a Mask"
-    excerpt: "One Japanese company says they've developed a system that can bypass face coverings for facial recognition. Veuer's Tony Spitz has the details."
-    publishedDateTime: 2021-01-07T21:14:00Z
-    webUrl: "https://www.11alive.com/video/syndication/veuer/this-facial-recognition-program-can-tell-who-you-are-even-if-youre-wearing-a-mask/602-c6550d31-d5f5-41e7-b22e-4faec5bab6b0"
+  - title: "The Army has built the largest facial recognition database of thermal images"
+    excerpt: "The Army’s work could make facial recognition technology even more ubiquitous down the line for federal agencies, giving them the ability to work in the dark and the light. Facial recognition is in the news of late for its use in identifying pro-Trump ..."
+    publishedDateTime: 2021-01-11T18:48:00Z
+    webUrl: "https://www.fedscoop.com/army-facial-recognition-database-thermal-scans/"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 33
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 36
     images:
-      - url: "https://media.11alive.com/assets/VEUER/images/6688031b-cbcf-428d-891d-20bda669d7e6/6688031b-cbcf-428d-891d-20bda669d7e6_1140x641.jpeg"
-        width: 1140
-        height: 641
+      - url: "https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2019/01/17101751/GettyImages-490070699.jpg"
+        width: 1920
+        height: 1113
         isCached: true
-  - title: "Major facial-recognition supplier builds system to identify masked faces"
-    excerpt: "Facial-recognition supplier claims new system can accurately identify masked faces and therefore promote public health during the pandemic, but questions remain about whether its existing UK law enfor"
-    publishedDateTime: 2021-01-08T14:49:00Z
-    webUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces"
-    ampWebUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 23
-  - title: "Facial recognition that works with masks"
-    excerpt: "With so many casinos now implementing facial recognition systems it is interesting that a Japanese company has introduced one that will work even when guests ar"
-    publishedDateTime: 2021-01-11T07:51:00Z
-    webUrl: "https://www.intergameonline.com/casino/news/facial-recognition-that-works-with-masks"
-    type: article
-    provider:
-      name: InterGame
-      domain: intergameonline.com
-    quality: 19
 
 secured: "2TUiHEm/aB6qxX/U+cIU/zbHgu6jAPLMzFZtsYDi69NrCrN/kmIWhIGPpQdpIQp8T5Bjxwg84pf8JlgbpOnAmlnmM5v/O1dWQzMg5TmDaXF2jSZw0PHutn4fQaRIPs+gDz5DD6x5Yf2yk4LVIY5b+QtDjlOudp2oSqhXjqkz0/BARmbKtMVDxLSgMiN9u2YzLfNyLnPimATjkvuTnyO0W9+Lr07sQvNP64UXmLbTClR5aseT7FP/v6awd2ox8W84rqiQCvDBS4XUdkhs2OoI4eaVIfFWYwqY3h1eXMT5djReQ+whXBPTACH+Sp0v9VRNwHxNUaPNXr79Tr9XMgFBny2wvbhs7XB3VNWOUoUI4Bw=;vvmBxi9HDX69WxpCeh+vSA=="
 ---
