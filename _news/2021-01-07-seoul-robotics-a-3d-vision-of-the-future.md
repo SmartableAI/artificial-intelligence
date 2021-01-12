@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-roboti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform"
-    excerpt: "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,"
-    publishedDateTime: 2021-01-07T08:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8121786/seoul-robotics-democratizes-lidar-with-breakthrough-perception-software-platform"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 29
 
 secured: "U1MYEswA53j9+ggvMdRaftSBOx6ZkBrOB6wdAOFMyauB+I9pWhFdE72YTU/hWaePSiShxdbr0p8RxsYfCekraHtDRN0vk6aN+agEHiv7ybOBXzdyNMefF8at3Jk2PLbOWbaRR510eL1uPc0dKw7nuhGSzjcVAWrJCf2YpgwWPKbjon+Jf64TpV6iaG2+nrbfI8oqjhzhdID2jpjFk9UXdNL/lSTztdequ6lEwdy2eMxohJhFpiO4fEH18S4lulLdxbAm93T9Uz+UUYJFLf61PbrFJ4NElKmVDAFS03ayc6UmOB47j4Eg9f3vOzXrmRp90VOz7c/VrArz0ZYjHzOVxenkGEpsXmcHyMyOjitvzlpsf3X+novmN3F/BPKifH20JT9AJyzXd0LDd2bLZJQEUao06ZZJAzYtSR7jubUnWFqzrrpeSSLVucI5nYXTSsrZpq3B9EC7ZQijgXrwBo8/nlKopuDeqIT1q4/zEJGEHbC1U3fc6bRJAWQl1i6HbKGiy1gtYzMoPNe3AMGpPkwsdw==;mjLDKiKvxirv0pOdbQ7z2w=="
 ---

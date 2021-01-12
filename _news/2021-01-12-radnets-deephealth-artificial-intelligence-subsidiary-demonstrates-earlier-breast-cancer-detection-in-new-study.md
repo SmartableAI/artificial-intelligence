@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/radnets-deephealth-artificial
 webUrl: "https://www.nasdaq.com/press-release/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -22,12 +22,12 @@ related:
   - title: "Mammography expert finds deep-learning artificial intelligence may improve cancer detection"
     excerpt: "The journal Nature Medicine has published a study co-authored by Gopal Vijayaraghavan, MD, finding that an artificial intelligence model for computer-aided reading of mammograms may improve the detection of breast cancer."
     publishedDateTime: 2021-01-11T16:10:00Z
-    webUrl: "https://www.umassmed.edu/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
+    webUrl: "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
     type: article
     provider:
       name: University of Massachusetts Medical School
       domain: umassmed.edu
-    quality: 31
+    quality: 27
     images:
       - url: "https://www.umassmed.edu/globalassets/umassmednow/top-story/vijayaraghavan-gopal-2-660.png"
         width: 660

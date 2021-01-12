@@ -52,31 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "8 Business Intelligence & Analytics Tools To Check Out In 2021"
-    excerpt: "Keeping the industry abreast, we have come up with a list of business intelligence and analytics tools that one can check out in 2021."
-    publishedDateTime: 2021-01-07T07:33:00Z
-    webUrl: "https://analyticsindiamag.com/8-business-intelligence-analytics-tools-to-check-out-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/8-Business-Intelligence-Analytics-Tools-To-Check-Out-In-2021.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "Machine Learning Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Machine Learning Market – Global Industry Analysis, Size, Share,"
-    publishedDateTime: 2021-01-07T08:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19053604/machine-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2030"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19053604"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19053604"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
 
 secured: "D9OUzEUwjDNXv8JlQ3uXhsrMbucwv7Jn9NMmBBlz/Q6SSbLnBz8MBgtwHBUVQmOlq8soSehfNijQRgl0Ah9PNSkf6d8rCEkTKQzARAbCjkyu3xs82nymQ1H1BKyh7X0sJKckzaewlddoDijxbu/X14YE0PUpDkOVb4RJOjvU+NHH5zK8/woSSy25TL+arCcg0ORZ+mf1CwlSk+hKlA4EQMvq0PKBdOVqf4pOQMIPfSMSs6GCbGEP01bGjan+kwOk45M+SElEOLlg23vmYeIg7o8KlhUJCOEja0LU+2VKPINJdaokYJlF+o2egqfQyaO6Ruq9aNvvSNA0Bcxyk3JKY2sHMLMbla+tIpg2sEh7ClE=;LDF/9qEJfVVOXOer3fjBwA=="
 ---

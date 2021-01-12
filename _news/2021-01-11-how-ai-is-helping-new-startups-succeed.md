@@ -39,22 +39,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "DcodeAI, an AI-focused EdTech startup launches new AI learning platform for students"
-    excerpt: "It aims to democratize AI learning among primary and secondary level students across 10,000+ schools that are currently part of its network."
-    publishedDateTime: 2021-01-07T08:23:00Z
-    webUrl: "https://www.thestatesman.com/education/dcodeai-ai-focused-edtech-startup-launches-new-ai-learning-platform-students-1502945025.html"
-    ampWebUrl: "https://www.thestatesman.com/education/dcodeai-ai-focused-edtech-startup-launches-new-ai-learning-platform-students-1502945025.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/education/dcodeai-ai-focused-edtech-startup-launches-new-ai-learning-platform-students-1502945025.html/amp"
+  - title: "Healthcare Stocks: How AI Is Helping in the Fight Against COVID-19"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips 2020 may well have been one of the most significant years for the healthcare"
+    publishedDateTime: 2021-01-11T23:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/healthcare-stocks-how-ai-is-helping-fight-covid-19-1029957368"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 50
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/01/QT-DcodeAI.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Opening the black box: AI, applied"
     excerpt: "In the accounting profession, there is a similar uneasiness when dealing with the idea of AI, though it has nothing to with how the software looks. The technology has the potential for high-level automation of processes,"
     publishedDateTime: 2021-01-11T14:08:00Z
@@ -70,6 +63,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jwoSA5i/lnlvUp1IS5Vjc0eUmlsUzft6helwI0iCs6Qyi+G5BkIJieE8uJ6Fal/alj4Zw9totYWXpHpUtWGRPOZT35rjhpWzhn6lGSSuAbXkZncb6zj8qyuwaoVwp2hsaFcKEl5/uRVkY5PkfOoLr+wO3myqJmWEZIDbSmuq2s5xvdI7eJD3DoCe/3zPqX6ORqxYUiLSyafL8hBkDFZkU3EdJrPkAES8LZzmRDvwMNK+FeX6iAiQQixODE/v2+asEv9FKsO9E/Kg1B5bGuobNOQ095dTqNiLn7OgqeS2JZ3bsAFNqb3fRhdk0jWEDCqLe3kQ4D84RTIV+9XCW3100prkg7l1aim+rvTcPmlQfy8=;1M+M4OP5tBLjnhHr10GkMQ=="
+secured: "FLv84nDzZ5dAPeckyCywLFDcjSDHyPhIBY2PvGApTQ+vHOk1iy0VotATrbtmH6endsAz5X4NusU6ouxIk4MUSRn8maspPRZ/MsJZOdXT6KtDaZSf3GjjJ7f5ib2QJcBPbcSK7+Ni+UQ6PtxfyGIRi3SRzNgTqBLLwYkqra2MutzPWuB7n0dq098Fp89M+ViyDAk2pzJGy2/irFeD3/9gNyOJ6adENnI0Y2/0idENFmkxRYS8zHJ+9lrRM31gZB/kws9kOBAwq3mQ1i2Hh/92YgYdSLnqZmRsEAv8HImVuue6MyB3a4WauwYzQAwURyLal82c3+BovYsBGrjvHiurlyxtGSzpvrm4gakSzRjZNB5XKxhSYOKsLdM6TmAGK35bD6l8DrS7uTEIx1kjakWoSuorsj1LL+glFzPiHqRj1rp+hgLoYcs64tzTAg4qjwwuMpoFV+j8kRbQyZB2E20lBtiSx9vmPqQa8PXYysD0YgBmS3RvjZ0O4LJIKOj7WEDDxKSRGrCJg3QgYHPV41uc2w==;59WlPAEH0v2bxY+OjlXf2w=="
 ---
 

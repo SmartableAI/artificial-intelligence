@@ -3,10 +3,10 @@ category: news
 title: "How AI is improving operational efficiencies across oil and gas, healthcare, and more"
 excerpt: "Arificial intelligence is being used in many industries today, and it's only expanding. Here are some use cases to explain the challenges and benefits of AI adoption."
 publishedDateTime: 2021-01-11T16:40:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/"
-webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/"
+originalUrl: "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/"
+webUrl: "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/"
 type: article
 quality: 97
 heat: 97
@@ -30,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "cgAXSn1kPfn6k8Mw/CY2xJPm8wRVxRNO2lh6QqV7iiKDkZdhvKEUrKnvODpbvRIdyDDia7BOPpNX/yoH8kyI7aclgPINkFSXeHaVjV6nXBbNzwyZxgizKkCR++Xs4Cy5CdGLk3VW45dW+eQZZG5FDvlNWFmqYJwpZOS0lbuIuAJvLAVe2XHjad0SIV/Ozn8p3Ysvfrj8zBzes2BZHBZDq8nXc5LCAlZ37iImd+z9JyLmTKnXaVDTR7cpNsuh7GYi8aQVSW5C4nM4bWgJ+iM7+pm34Ew9p4Ks6IZ/wYEl8M3v1Jr21m67Hyw9SwAyR1/znhX/IhFxDxh5S1fanKWcmrrg0u2iiM0sji89IvIXS44=;zWiZLKUyyDpK80GKgfpzVg=="
+secured: "FSfsACie2G41mW51gOP3WWbvqhOXawNMzF2OJILdt6CwR7v6abHeyQ34ZQlcS1TfNOU6Z+EC2MT4KfB+8zuKSf0OkGej+DC4roXLMEE70/zVc13yyG4tphV8vbAMtzxYpvMSRfo7sUg9k8B2y+uPn+Oo2MzHfzNrwmaIpYje+Y1o1H1teS0j3ECEgr4jRksF2ZDIufXLwQxtX6hFuVUVyjRyWkK8w/PfpJW3/Q/V6W/CCOUe2JdpNq7ApGPtTAGTuXqYdRj+KRZRjsTh/LhBEhLAUB2LVHzEjoxuxFT9c+K+Lmc5bmLLqbRCB7C7xixgQbddsxpgfTPCHf/ohh44b4nP6GiI4gJW/GF+VLjjc2I=;Pi//nF5QaGVfsVXdZjVLCg=="
 ---
 

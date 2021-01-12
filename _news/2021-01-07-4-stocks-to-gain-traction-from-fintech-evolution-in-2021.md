@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-finte
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Would Fintech Proliferate Under the Shade Of the Pandemic In 2021?"
-    excerpt: "The digitization of the financial services sector will intensify in 2021, and consumers will benefit from quicker, more robust offerings"
-    publishedDateTime: 2021-01-07T08:32:00Z
-    webUrl: "https://www.entrepreneur.com/article/362887"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610008359-Fintech.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "AI in Fintech Market – Big Changes to Have Big Impact | Google, Intel, Salesforce.com"
     excerpt: "AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide AI in Fintech industry with an attention on the Global market The report gives key insights available status of"
     publishedDateTime: 2021-01-08T07:33:00Z

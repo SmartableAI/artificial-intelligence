@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-goo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
 type: article
 quality: 161
-heat: 182
+heat: 181
 published: true
 
 provider:

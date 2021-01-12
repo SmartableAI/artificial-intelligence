@@ -20,6 +20,15 @@ topics:
   - AI
 
 related:
+  - title: "Healthcare Stocks: How AI Is Helping in the Fight Against COVID-19"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips 2020 may well have been one of the most significant years for the healthcare"
+    publishedDateTime: 2021-01-11T23:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/healthcare-stocks-how-ai-is-helping-fight-covid-19-1029957368"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "How AI Is Helping New Startups Succeed"
     excerpt: "Artificial intelligence or AI is beginning to have a large impact on businesses of all sizes. Startup businesses are also taking part in the AI revolution. The importance of AI in today’s business world cannot be overstated."
     publishedDateTime: 2021-01-10T21:57:00Z
@@ -35,22 +44,6 @@ related:
       - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/05/image-from-rawpixel-id-1199041-jpeg.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "DcodeAI, an AI-focused EdTech startup launches new AI learning platform for students"
-    excerpt: "It aims to democratize AI learning among primary and secondary level students across 10,000+ schools that are currently part of its network."
-    publishedDateTime: 2021-01-07T08:23:00Z
-    webUrl: "https://www.thestatesman.com/education/dcodeai-ai-focused-edtech-startup-launches-new-ai-learning-platform-students-1502945025.html"
-    ampWebUrl: "https://www.thestatesman.com/education/dcodeai-ai-focused-edtech-startup-launches-new-ai-learning-platform-students-1502945025.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/education/dcodeai-ai-focused-edtech-startup-launches-new-ai-learning-platform-students-1502945025.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 50
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/01/QT-DcodeAI.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Opening the black box: AI, applied"
     excerpt: "In the accounting profession, there is a similar uneasiness when dealing with the idea of AI, though it has nothing to with how the software looks. The technology has the potential for high-level automation of processes,"

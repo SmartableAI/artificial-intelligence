@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3583931/the-most-valuable-software
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.amp.html"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

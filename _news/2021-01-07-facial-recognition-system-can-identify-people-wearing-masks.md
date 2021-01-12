@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The US Army is developing a nightmarish thermal facial recognition system"
+    excerpt: "The US Army just took a giant step toward developing killer robots that can see and identify faces in the dark. DEVCOM, the US Army’s corporate research department, last week published a pre-print paper documenting the development of an image database for training AI to perform facial recognition using thermal images."
+    publishedDateTime: 2021-01-11T23:09:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 88
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/predatorvisionj-796x448.jpg"
+        width: 796
+        height: 448
+        isCached: true
   - title: "Face Masks Can't Confuse NEC's New Facial Recognition System"
     excerpt: "Studies have shown that facial recognition algorithms created before the pandemic are easily confused when their subject matter is wearing a mask. As Reuters reports, NEC is ahead of the curve because the company was already working on a recognition system capable of dealing with masks before the pandemic started."
     publishedDateTime: 2021-01-07T16:58:00Z
@@ -227,20 +243,6 @@ related:
       - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
         width: 359
         height: 400
-        isCached: true
-  - title: "Japan firm launches facial recognition system that identifies mask-wearing users"
-    excerpt: "Japan's NEC Corp had already been working on a system to meet the needs of allergy sufferers who wear masks.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-07T07:50:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/masks-no-obstacle-for-new-nec-facial-recognition-system"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 34
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/07/nz_nec_070167.jpg?itok=ni3rFtrR"
-        width: 763
-        height: 509
         isCached: true
   - title: "This Facial Recognition Program Can Tell Who You Are Even If You're Wearing a Mask"
     excerpt: "One Japanese company says they've developed a system that can bypass face coverings for facial recognition. Veuer's Tony Spitz has the details."

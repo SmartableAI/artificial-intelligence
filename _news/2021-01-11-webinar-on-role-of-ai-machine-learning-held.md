@@ -55,20 +55,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI, machine learning models aid Manila Water in supply forecasting"
-    excerpt: "Preventing water shortages has taken a new turn with an initiative from researchers of the Asian Institute of Management (AIM) who have tapped into the power of artificial intelligence (AI) and machine learning."
-    publishedDateTime: 2021-01-07T07:54:00Z
-    webUrl: "https://mb.com.ph/2021/01/07/ai-machine-learning-models-aid-manila-water-in-supply-forecasting/"
-    type: article
-    provider:
-      name: Manila Bulletin
-      domain: mb.com.ph
-    quality: 54
-    images:
-      - url: "https://mb.com.ph/wp-content/uploads/2020/12/Water-Service-Interruption-Photo_01-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
 
 secured: "ZrZKCy0WgaxWYi70w5kYsmZ4XkH81HTMaYeAgthH9WsnFhOS2abaq33uGLW/PskpeixETz/BLErKEN2ucC65nuYyLHGEJbv9zBQchnsS5ffdVlsdYYhkSIm4aE31oKPeQZbztF5XBvXqabvsQKdLNVmUnNbNZOIqofPNXQ1QFBbvLqZsVDflaFKzl7lGaBNcO7wNX/2ZCA3SmING4AX/Edm3yBQsbbB+w8xGUoqfhZq2iLsv2Fy/TOeSQmB52XCPIvHNeT6wUsm1aX6DWCDDPXwkErTV6tpzAp+010DCf7ywKjW8hEB8m7JX3uLpgybmRH8d3vxDktaZRlt/OoCUrtxoennqFz4b4/nzdIYsUNM=;YEHe0xH7RdSDvvgYfzb6HA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-st
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/amp/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

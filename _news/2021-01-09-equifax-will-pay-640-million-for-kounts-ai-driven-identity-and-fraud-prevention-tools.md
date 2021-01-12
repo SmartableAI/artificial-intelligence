@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/amp/"
 type: article
 quality: 79
-heat: 100
+heat: 99
 published: true
 
 provider:

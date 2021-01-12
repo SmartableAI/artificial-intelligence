@@ -190,6 +190,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Samsung’s robot dog is an intriguing faceless smart pet for your surveillance needs"
+    excerpt: "Dog bots will probably be a hybrid of a smart pet and a household assistant, I imagine features like security cameras for the eyes while still being sweet enough to bring you your newspaper and waking you up in the morning."
+    publishedDateTime: 2021-01-12T00:30:00Z
+    webUrl: "https://www.yankodesign.com/2021/01/11/samsungs-robot-dog-is-an-intriguing-faceless-smart-pet-for-your-surveillance-needs/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 33
+    images:
+      - url: "https://www.yankodesign.com/images/design_news/2020/12/CLMBR_climbing_and_finess_machine-510x314.jpg"
+        width: 510
+        height: 314
+        isCached: true
 
 secured: "VGvVYk0yEr1nRjvsPBJ+DPalogye7rrii3wt75qzuk9IaQl8cPP26XI3dlgQOUQ9staCDVPwGKj4KyhUyVPSKnkv8BN9eeqVcDMdZfPwDM3PzP0FHEVLgd0huAMm1QAZ+G96yG2Gd4NRheDgYwTzzemgdzbCG7LYEoCy0h2X7lo5F61/1OBRdmwa+AJQGQTRfyseFEMgRh/YyBINcz/+VYzkdaspX9/GafOACf9VnwJ1DsiajoUiFH2en7OPgRbBxx4tziZdefq+jp7CdN1vrhYI8d3BT+Y3Ga6n+MBx00h/Zx6zqi9lLmDx1PeXGuoqt99EFX12SdwJeXv76lxszs/w5TQL2n3rfR2YIK0I+X8=;n7SOmb7YQkL2NLzEVqOwgg=="
 ---

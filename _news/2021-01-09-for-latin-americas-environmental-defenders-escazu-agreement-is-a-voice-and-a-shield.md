@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pompeo slams anti-American 'woke-ism' at Voice of America, U.S. broadcast outlets"
+    excerpt: "Secretary of State Mike Pompeo on Monday criticized “wokeness” and political correctness within the official government Voice of America broadcaster after some employees protested his plan to speak to official U."
+    publishedDateTime: 2021-01-11T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/11/pompeo-slams-anti-american-woke-ism-voice-america-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 19
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/11/pompeo_91581_c0-155-3723-2326_s1200x700.jpg?3c5ff03a9787616097a6d3eb6b245708e417a197"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "For Latam’s environmental defenders, Escazú Agreement is a voice and a shield"
     excerpt: "As the world became fixated on the coronavirus pandemic in 2020, the situation for environmental defenders across the globe has only become more precarious. In 2019, 212 environmental activists were murdered worldwide,"
     publishedDateTime: 2021-01-07T20:05:00Z

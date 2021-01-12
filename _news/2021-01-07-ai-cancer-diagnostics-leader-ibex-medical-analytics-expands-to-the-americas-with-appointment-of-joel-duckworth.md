@@ -50,31 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "8 Business Intelligence & Analytics Tools To Check Out In 2021"
-    excerpt: "Keeping the industry abreast, we have come up with a list of business intelligence and analytics tools that one can check out in 2021."
-    publishedDateTime: 2021-01-07T07:33:00Z
-    webUrl: "https://analyticsindiamag.com/8-business-intelligence-analytics-tools-to-check-out-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/8-Business-Intelligence-Analytics-Tools-To-Check-Out-In-2021.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "Machine Learning Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Machine Learning Market – Global Industry Analysis, Size, Share,"
-    publishedDateTime: 2021-01-07T08:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19053604/machine-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2030"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19053604"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19053604"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
 
 secured: "17DacxPwI7tUqn4JBOdbeJRkIYeMdzOxSdH/pVFSX0oBFKXDYcmh2CRRT+PelYMAoY27rdxFGobCNGzc4yalTgFVRF8ddRzODbtpKK0XVXM1WtR8mwcpTt2LB4mp6+gkn4svWshOKzDsUvpSlhHOeLiGszBnYoBtXqEvzZUuZqfyOLxK1jZmpdJDV3n7mKNiMxhKKmUdTLg87GfqIUsW0ZrL68qnZ5iIPvKmvH6ZHSyjigfIBVCxFSz4Ez72hDUWRtzi7P+v7ncba+7RVZRthKnUtC9SBylrYU5ixr0KrcUlJ81TSZEkstzMZb+bSn8VbL7XmynNBXz0KXUdf8Uf+50bJzSH1vp4kJ6E9oroTKI=;pi7zS9Krh5O6k9qcWjqLKA=="
 ---

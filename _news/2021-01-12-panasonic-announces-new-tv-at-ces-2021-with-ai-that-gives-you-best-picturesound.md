@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/panasonic-announces-new-tv-at-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/panasonic-announces-new-tv-at-ces-2021-with-ai-that-gives-you-best-picture-sound/1100-6486133/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1012
     height: 527
     isCached: true
-
-related:
-  - title: "Samba TV Announces AI to Enhance TV Picture Quality"
-    excerpt: "Samba TV has announced Picture Perfect, a new artificial intelligence designed to optimize television picture quality."
-    publishedDateTime: 2021-01-07T08:03:00Z
-    webUrl: "https://www.sporttechie.com/samba-tv-announces-ai-to-enhance-tv-picture-quality"
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 39
-    images:
-      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "aabJNIpG/fnyRCFyKguOmL5HvaZdqXcGAMUT55qGzE6D5Ywua+MQeJePe4cLSxfxFkErCo2Q2LVDOK63YvX+PZTgwfZNZAgMG5WoZB0VDjAXEw5dXxl/CURVqYQ/LlVelaNmvVwkkSsXD7Cdof4II17UqLs+v+Esz55kayKlrQlvcRNxhGy5cDNLHpQRhonoTmK0ZUFNqV2HkKrJoMFZ7hBvYWkhXmek653xtM1u5AD/cZUGDy5t504u9AvXIDczKTXHbXAiUlIZeGAmR1+eXXcsyYqc/9SlyNC3cFHsiKOshJLCw2uFzVC6T6IQQjLpKoPoTVyuV1SL0iRrFJ5k78SzKc5eqEef+o6gZmhku5Tkp8e5Yhkt3pGZjfhPuCR9YISK5RLuY8rjvS54jx1kboqIZ+tji1xvB+D6N0N53ABLIccu2QGIZ21QwbRklSdsCETEgrpc0jem7ZPHtueLz61jJ0VqoTgc7QuB5T0v0Lb1omt+6ak0p1pZaFKkSO+FEmohe2j7EaO2cwa1+d/KLg==;ueSWQtDdGNsnNwZAzagJKA=="
 ---

@@ -3,11 +3,11 @@ category: news
 title: "Mammography expert finds deep-learning artificial intelligence may improve cancer detection"
 excerpt: "The journal Nature Medicine has published a study co-authored by Gopal Vijayaraghavan, MD, finding that an artificial intelligence model for computer-aided reading of mammograms may improve the detection of breast cancer."
 publishedDateTime: 2021-01-11T16:10:00Z
-originalUrl: "https://www.umassmed.edu/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
-webUrl: "https://www.umassmed.edu/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
+originalUrl: "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
+webUrl: "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
 type: article
-quality: 31
-heat: 31
+quality: 27
+heat: -1
 published: false
 
 provider:
@@ -15,9 +15,7 @@ provider:
   domain: umassmed.edu
 
 topics:
-  - Machine Learning
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://www.umassmed.edu/globalassets/umassmednow/top-story/vijayaraghavan-gopal-2-660.png"
@@ -36,6 +34,6 @@ related:
       domain: nasdaq.com
     quality: 28
 
-secured: "DJIltcfHYjqb36hDG4PHQZayhgxKUvdU9L1BqweOWf13Tv43larNIZ1s1LXc1IKcoacryQscR0GLoJPj86xK4h6TiIXfJ9kDMJUfjFvVGdHlt8YrMjQFdW0BVuMQG4MvG7MTKjAXPhANTg8DpOkjuYqTHSqYBYMpoMLAnWdgUqp1ylokt50sJcAK2UynEQ8DPFSEEUtGxVkdK/2xeV5QASOs3zkQ3/xh3ITlZiI+J2KdsZ6d6JVqYSKLEMA5POhXCNmdoBaJpgWz3Xhyby27Fbmw33zyKF8syp8PqCeM37tjghg5yxK3bJihrvmNSSoF2c9RtaZaEMnVlvhlsU8Ib62gSMi7WkmUvvqK1zOrBzKHA7ohJpE7jh3K1AiByEjkuCfVXb8AJp3f15dXRVL7m1nN6WrT3xgZRN2VQyzRbhIOF1l9bqzX72/1nTYordXv1L4ZzWQNFJwQhTPQW/xvh/ogD3k8NUNNEGvm3x3aKPOXIc5V8mkgqwcKRP2WhNTlqgP4dNRU4d27eNqWi7V3Cw==;VxvzadRA6yhNEunzt56LFQ=="
+secured: "flwlFOXgzOWYvnm6OohhEMo7zzvc6mhqW6IahtGBS8IWNhNMc2Z+WrOHRBsMvMDVqHLZCbPpuzTFPRkrgcH6dl0ZrDCSORLNDEH2qJz3p5ldF23Tc1tErnwde7F3UufpdD1KbL/BvFpSbK1b6Pb0iOrW1mfq6gDWEUxHbWPNriwftZbKWIq2e+xJblV6mhN0NDRkeAIRVU7Vjrnnhm/K5x+Hq+/4D4OquvJjmfMrhh92zgWxqxUionjqr5VEz2b/O7qEjitelHd7hcYlU2njsxW1jTozWkBh/KT7rPezCSOGbyhvtnrWyuZ1OxvOU7SRE0hQIcJl2N2mdojmk+lkEN9crcn40SYKGp6MA6BUkH0=;mqH/0AQ1xwIFYkTCLLkeng=="
 ---
 

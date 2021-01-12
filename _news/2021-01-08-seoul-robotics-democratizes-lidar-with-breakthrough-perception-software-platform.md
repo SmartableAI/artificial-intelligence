@@ -55,15 +55,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform"
-    excerpt: "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,"
-    publishedDateTime: 2021-01-07T08:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8121786/seoul-robotics-democratizes-lidar-with-breakthrough-perception-software-platform"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 29
 
 secured: "mDRMSHRFEOYZAexgsCpbN6VUg93hpk+U65fCXUF8d/wAHwSquomK7vg3yC4XQFzOtCXDPt/T//AYCzkvWtoyXoXuHT5B1zO8zXjmmYgHgB/9SgZX6Y2xbVam94inQ+9PKIj7+FQh72HdopyOpfcfR6OBBsS587AowWkpFItnfVIYgQO42o5UDHPWKcCrdlN2ru43x4ZYbwtRMnb18pH9Vz5EAeYgje15bWh+I5PWk+I3zgwrD7X2sTE4URsjkjOM2GhsbkYwgXlQ48kRSOJeKAHt9dUj4aLpY2GOJsylda56kelE90yf5sCQlQJa7sWnlzSB9tzvkVtV2GUlyRhI4IOM+57JWIYyolvoTs4J9Zo=;pTlhe4ZCTYrHmhp9noy9sg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-mo
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08?amp"
 type: article
 quality: 99
-heat: 101
+heat: 99
 published: true
 
 provider:

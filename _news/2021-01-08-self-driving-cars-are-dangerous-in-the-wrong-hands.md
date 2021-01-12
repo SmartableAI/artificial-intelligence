@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Waymo Ditches “Self-Driving” Terminology in Another Dig at Tesla"
-    excerpt: "If subtle digs were arrows, Elon Musk would be bleeding profusely by now. At least, that’s what industry watchers like to imagine goes through the mind of the Powers That Be at Waymo."
-    publishedDateTime: 2021-01-07T08:18:00Z
-    webUrl: "https://www.autoevolution.com/news/waymo-ditches-self-driving-terminology-in-another-dig-at-tesla-154085.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 54
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/waymo-ditches-self-driving-terminology-in-another-dig-at-tesla-154085-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Waymo drops the term 'self-driving' for autonomous vehicles"
     excerpt: "Waymo would like to leave \"self-driving\" for the history books. The Google subsidiary said it will stop using the term. Instead, Waymo says it will refer to its technology as \"fully autonomous driving technology."
     publishedDateTime: 2021-01-07T09:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/amp/"
 type: article
 quality: 100
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1610345413-artificial-intelligence-3382507-19203.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "AI, machine learning models aid Manila Water in supply forecasting"
-    excerpt: "Preventing water shortages has taken a new turn with an initiative from researchers of the Asian Institute of Management (AIM) who have tapped into the power of artificial intelligence (AI) and machine learning."
-    publishedDateTime: 2021-01-07T07:54:00Z
-    webUrl: "https://mb.com.ph/2021/01/07/ai-machine-learning-models-aid-manila-water-in-supply-forecasting/"
-    type: article
-    provider:
-      name: Manila Bulletin
-      domain: mb.com.ph
-    quality: 54
-    images:
-      - url: "https://mb.com.ph/wp-content/uploads/2020/12/Water-Service-Interruption-Photo_01-scaled.jpg"
-        width: 2560
-        height: 1709
         isCached: true
   - title: "Webinar on role of AI, machine learning held"
     excerpt: "Gujranwala Guru Nanak Institute of Management and Technology (GGNIMT) managed by Gujranwala Khalsa Educational Council (GKEC), Civil Lines, organised a webinar on role of artificial intelligence and machine learning."

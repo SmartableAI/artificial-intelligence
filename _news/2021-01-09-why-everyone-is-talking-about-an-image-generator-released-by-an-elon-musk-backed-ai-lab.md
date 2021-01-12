@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/08/openai-shows-off-dall-e-image-ge
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/08/openai-shows-off-dall-e-image-generator-after-gpt-3.html"
 type: article
 quality: 65
-heat: 77
+heat: 75
 published: true
 
 provider:

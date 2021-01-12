@@ -73,6 +73,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Geely to Partner with Chinese Tech Company Baidu to Build Smart Electric Vehicles"
+    excerpt: "The plan is to start a new company that will combine Baidu's connected and autonomous technology with Geely's EV platform."
+    publishedDateTime: 2021-01-11T21:48:00Z
+    webUrl: "https://www.caranddriver.com/news/a35181624/geely-baidu-partnership-electric-vehicles-announced/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp35181624/geely-baidu-partnership-electric-vehicles-announced/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35181624/geely-baidu-partnership-electric-vehicles-announced/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 54
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sea2-1610398070.jpg?crop=1xw:0.8888888888888888xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google Search Rival Baidu Announces Electric Car Company"
     excerpt: "The tech industry is slowly but surely becoming more and more interested in the automotive market, and while Apple has so far remained completely tight-lipped on its plans for an electric vehicle, the Chinese over at Baidu have moved a lot faster."
     publishedDateTime: 2021-01-11T06:06:00Z

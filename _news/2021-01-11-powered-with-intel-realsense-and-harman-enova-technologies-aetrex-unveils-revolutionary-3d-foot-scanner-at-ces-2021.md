@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Powered with Intel® RealSense™ and HARMAN eNOVA Technologies, Aetrex Unveils Revolutionary 3D Foot Scanner at CES 2021"
-excerpt: "PRNewswire/ -- Aetrex Worldwide, Inc. (“Aetrex”), the global leader in foot scanning technology and orthotics, is showcasing Albert 2, the next generation of the company’s revolutionary 3D foot scanner,"
-publishedDateTime: 2021-01-11T15:38:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-lifestyle-fashion-accessories-computer-hardware-6c311521e6e42e5f583604b5b91a28b2"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-lifestyle-fashion-accessories-computer-hardware-6c311521e6e42e5f583604b5b91a28b2"
+excerpt: "PRNewswire/ -- Aetrex Worldwide, Inc. (\"Aetrex\"), the global leader in foot scanning technology and orthotics, is showcasing Albert 2, the next generation"
+publishedDateTime: 2021-01-11T14:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/powered-with-intel-realsense-and-harman-enova-technologies-aetrex-unveils-revolutionary-3d-foot-scanner-at-ces-2021-301205072.html"
+webUrl: "https://www.prnewswire.com/news-releases/powered-with-intel-realsense-and-harman-enova-technologies-aetrex-unveils-revolutionary-3d-foot-scanner-at-ces-2021-301205072.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1397020/Aetrex_Worldwide.mp4?p=medium"
+    width: 512
+    height: 288
     isCached: true
 
-secured: "DPjM39xs+7Fi+DO4Ql3saX/TWoN92dKuJwffuVd+l7br5xx8P6GD/gfOVPM39Odhus/QGfPjszSnWemjcdUoHgdYb5lI7HbLGODCufXGHZFywHpxcAnSwAye0oHMVGxULWE9YZOUmxcJvDzvtmAnW/HNKLNddNB0s3lxx/2w8qgGh5sE+7M/wbZC2JVCPiGvXMrjiLn9Ib1f3KvVbo6V1+bV2jVDJnKOh2rEgqpWXnpJ9pKSfqTuhrlmv0tSurj76u7jW3NnMp3/3cBp/A/mom5g+cehi3j4T0XwCoUgGRuWUCG3idgz+geqUIx111lYEp7OhHtYHaRvgzCmLOs7u5NVflaOVGGoatKLVTlH/KQ=;B/+xCV1OlbJM57Nfv80g4g=="
+secured: "tk0/oGrr8uiVvJLEABbYyUUCcAz4MtxsQlqHCfCBasEx1IK/v1ySMILps+3Ug9Q1PKLIn8KjE2k68kkZjUxhNyz7yi9NObBTim4Z47sSReXWrQQYRt28njWZrIJZy/NXuYxZzqQiujcT+3aM5x5qoi4NbC4f69aYZVyDNPGmqxcIuFDoyp8rkyM/lQc5n851ti0Lmr17q1GqJcj1G4vJ3ZcCaMyhLHQesEqXEKfJKwaInDzCWZXXROgFQYh/0UT20JAz7cgbf2c9Vz4nY0ELI2XQXkdkUl3UwCcRHXZbDoCTRjetR18ksoMFUP5bnigA0IuJnA1MymDSVtwbDJenzxsSa0Y/BSiJ72pA1gPfD7o=;TGkpVnett18glONFOs29QA=="
 ---
 

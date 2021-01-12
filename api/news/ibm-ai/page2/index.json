@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-10-what-are-the-advantages-of-ibm-power-systems-for-your-business.md",
+      "title": "What are the Advantages of IBM Power Systems for Your Business?",
+      "excerpt": "Incorporating these systems into your everyday operations not only offers increased levels of flexibility but also helps future-proof your company, allowing for easy integration of IoT, AI, and Watson. Security Benefits. IBM Power Systems already has an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/Think-About-It/What-are-the-Advantages-of-IBM-Power-Systems-for-Your-Business-144317.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/Think-About-It/What-are-the-Advantages-of-IBM-Power-Systems-for-Your-Business-144317.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T14:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-why-ibms-ai-fact-sheets-should-be-the-industry-standard.md",
       "title": "Why IBM’s AI Fact Sheets should be the industry standard",
       "excerpt": "Every once in awhile an idea comes along that’s so good it makes you wonder why it took so long for someone to think of it. IBM’s AI Fact Sheets is one of those ideas. AI Fact Sheets are a lot like packaged food nutrition labels.",

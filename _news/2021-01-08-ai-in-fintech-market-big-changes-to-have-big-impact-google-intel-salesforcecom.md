@@ -38,20 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Would Fintech Proliferate Under the Shade Of the Pandemic In 2021?"
-    excerpt: "The digitization of the financial services sector will intensify in 2021, and consumers will benefit from quicker, more robust offerings"
-    publishedDateTime: 2021-01-07T08:32:00Z
-    webUrl: "https://www.entrepreneur.com/article/362887"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610008359-Fintech.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Ignite Sales Appoints New CIO, Fintech Veteran Bob Pittman to Lead Tech Team"
     excerpt: "Ignite Sales, Inc., the financial industry leader in customer engagement technology, today announced Bob Pittman has joined the company as chief information officer (CIO). In this role, Pittman will provide strategic IT leadership and direction for Ignite,"
     publishedDateTime: 2021-01-08T06:43:00Z

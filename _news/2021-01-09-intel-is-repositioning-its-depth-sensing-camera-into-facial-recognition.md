@@ -71,20 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Intel unveils on-device face recognition tech for ATMs, kiosks"
-    excerpt: "Chip maker Intel has introduced RealSense 3D cameras with an on-device solution for facial recognition, designed to perform facial authentication on consumer devices such as point-of-sale (PoS) systems,"
-    publishedDateTime: 2021-01-07T08:11:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks-2021-01-07.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "The Army has built the largest facial recognition database of thermal images"
     excerpt: "The Army’s work could make facial recognition technology even more ubiquitous down the line for federal agencies, giving them the ability to work in the dark and the light. Facial recognition is in the news of late for its use in identifying pro-Trump ..."
     publishedDateTime: 2021-01-11T18:48:00Z

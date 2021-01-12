@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azooptics.com/amp/news.aspx?newsID=26516"
 cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=26516"
 type: article
 quality: 59
-heat: 100
+heat: 99
 published: true
 
 provider:
