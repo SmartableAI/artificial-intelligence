@@ -75,6 +75,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "FTC declares facial recognition surveillance tech dangerous, warns against federal privacy pre-emption"
+    excerpt: "The FTC has come out swinging against facial recognition, issuing a proposed settlement with Paravision, its first focused on the biometric technology."
+    publishedDateTime: 2021-01-12T17:43:00Z
+    webUrl: "https://www.biometricupdate.com/202101/ftc-declares-facial-recognition-surveillance-tech-dangerous-warns-against-federal-privacy-pre-emption"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "71CUjjXx8GkRNd6WZKZInIaAO3gD5uRFsiFWS3NFk5XY9ip46cBZX4Eb3M3g6T3KLapo8Up+tfvf886G0qts+zXTwvonp2T8HaSyjk9JtKdbLNqBnS7XTI7GnRr6a0DSuMkZAzbTuWogiHsSwA50t8Myb9s7PoKmKvlfTdVZNcJpQyOfdGr++99tJsw7pUcVrtyVmvm1NneYV6tqKbvl4ctld7nTm3XdNTf+B7/NzgzpbMQpGyGmK43zFpvX7c7z25WTbAN47ajBGAKV/jKi39qjEwONMPG/AqslwtJ3JqRdFrXovDasVWNhBeJSzgKwCLvmbamhTCb9I6xv5188a9psWSMVAUWR03ghf+Shdr0=;kMlCFh5abxAZ0wM4s6nCbQ=="
 ---

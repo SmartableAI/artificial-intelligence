@@ -7,7 +7,7 @@ originalUrl: "https://www.whitehouse.gov/briefings-statements/white-house-launch
 webUrl: "https://www.whitehouse.gov/briefings-statements/white-house-launches-national-artificial-intelligence-initiative-office/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,52 @@ images:
     height: 300
     isCached: true
 
-secured: "xja2imR3Ai01ZhwDRmi9ywOrCfDgxPd9/eqa0MaN3eXZ5ukhLt4B7G2ZNGo+0+LCM9ePxC/jM3fCXWb2/sJn90bsUHdy9e4ZrfjCSBc13E6idiZPFLvxeqdododxRx6udyw10gT+ZVRkzGCsUh9HXLo87sWlA5Wucl9K022OrupeFxUPYr1ybGJ4dyVpVHgAr69xCCkM22J8x00A/yCDTktvTkt3BMuvvAHiHo7RCzYFyKQ6Ri02/eM7ewCZHCyQ9lss6aAgTA9QDXjO7GIHMhXmtSWuVVLvbVgvt6Z3KFPINwPZVvTKBLwkGnI+KNx0g5Gr1Y5GJKBJyx9aUyJYP4W+KVo3bUi58AYnNT5GbX0=;9UdVxKzVRkMW5cmga8FPLA=="
+related:
+  - title: "Trump admin launches National AI Initiative Office"
+    excerpt: "The White House today announced the launch of its National AI Initiative Office, marking what should be President Trump‘s final manipulation of the country’s gutted Office of Science and Technology Policy (OSTP)."
+    publishedDateTime: 2021-01-12T17:47:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robotarmy-796x417.jpg"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "New innovation in field of AI"
+    excerpt: "A Swinburne University of Technology led team has demonstrated the world fastest and most powerful optical neuromorphic processor for artificial intelligence"
+    publishedDateTime: 2021-01-08T10:28:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267472580/new-innovation-in-field-of-ai"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 41
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1610099955.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Intrado Launches Mosaic, an AI-Powered Customer Service Platform"
+    excerpt: "Intrado Corporation (“Intrado” or the “Company”), a global leader in technology-enabled communication services, announced today the launch of the Mosaic customer service platform. Mosaic uses predictive intent technology to enable artificial intelligence (AI)-powered virtual assistants to comprehend and automatically complete customer service interactions."
+    publishedDateTime: 2021-01-12T12:46:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/intrado-launches-mosaic-an-ai-powered-customer-service-platform/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+
+secured: "s+KzrsR8TFG2c68k+GwnxK8UOTo/CcFvcy33N5pBtwTM7HUp8iUyHBi6NkAncsl87mavgvKcKjK4pRt8lgoXwA/Obe1cc8gSm0dU2hu1ceY4jQ/XCkY+4m6jH8VMjW3By42AizroxXi+3qMYiyKA1DSHanEQr9oUoR0NX6RfZRvVa4ATD/j5XVeUREW+amYM09LJuAQ0fVfGQE9un0msoryMuRENfY4tRSzx8/hOrg/YIKwJVpvL73v8GRD63CH5G6zkdAcUGf20xPAVUEySO+lBib32hfs0JPGDBRhiuN7EY+Ir35bvsJwLL/vqJC1YJMUAYUlYZuxyZUSpL8xrqo7LyJEp9TMxVC/t8acxWJR5LQHVt53GxS4J/hA/cuLc629QcGFdyvSK3q1xy95PAEni8ujdiLHmlEB6SC0Ta8Xz7uZ9r7sJwQUYhduTeNvXvTTn7v+L7CeSo41VONAsKKyJOdRoQNySi1wGVhoh5yHyDZbs7C8di52bTYyoQvhJeGwxIfOztoje0p1DzIDg8g==;I0xBYpPHhJSEp0Y7PhR91A=="
 ---
 

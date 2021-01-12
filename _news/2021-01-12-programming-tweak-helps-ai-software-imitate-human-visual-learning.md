@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-he
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Tweaking AI software to function like a human brain improves computer's learning ability"
+    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
+    publishedDateTime: 2021-01-12T18:37:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210112085359.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 42
   - title: "Tweaking AI software to function like a human brain improves computer's learning ability"
     excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
     publishedDateTime: 2021-01-12T05:19:00Z

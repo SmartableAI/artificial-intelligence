@@ -55,6 +55,15 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "Aclaimant Launches Artificial Intelligence and Predictive Modeling Solution"
+    excerpt: "Aclaimant Insights enables organizations to actively manage risk through artificial intelligence and predictive analytics."
+    publishedDateTime: 2021-01-12T15:30:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21220822/aclaimant-inc-aclaimant-launches-artificial-intelligence-and-predictive-modeling-solution"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 30
 
 secured: "tTueK6d7lTU51qbd2lD1H4C4YH1mwiRPRo+jPolMO6v4Jp1eGTZvEx2JNinY3gCp3DrXY1m5xDSDBsqpTaaCCLmYTYNoLwE7ibxjOM+FwadfS5Aa0RVOYFyz5V1OywnFePWncGAzT8y0spvkSi4HG3ca1ZN+rtaFKXtIBbmOU49QLYrs5bZX6JiXBzqZMq+339HNLUSpnEKOeA8Hdx5bd671XiZzfyNPihuNXnZ1mEjYcYZzf31QwQwyNgIzQHqtPwky8FkhhjS6+VU4b/xqHfd2ZMAPnYT+/z5gBdaljmc/Z6nx2qRlAiHdpUxbJZC8/oFzp/146j9zMAjTeR3NVAvVVa24Aonhu2XCMneja0I=;FzpHiYnif388kExsQ/PZ3g=="
 ---

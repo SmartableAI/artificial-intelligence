@@ -1,26 +1,27 @@
 ---
 category: news
 title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
-excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone technology. Recently, Unusly released"
+excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone"
 publishedDateTime: 2021-01-12T15:13:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ces-2021-taiwanese-startup-unusly-provides-extended-reality-software-to-be-used-on-mobile-unmanned/article_4985aa99-b2a8-5734-842f-3211b5b644f3.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ces-2021-taiwanese-startup-unusly-provides-extended-reality-software-to-be-used-on-mobile-unmanned/article_4985aa99-b2a8-5734-842f-3211b5b644f3.html"
+originalUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-unusly-provides-extended-reality-software-to-be-used-on-mobile-unmanned-vehicles-as-drones-301206574.html"
+webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-unusly-provides-extended-reality-software-to-be-used-on-mobile-unmanned-vehicles-as-drones-301206574.html"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -51,6 +52,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
+    excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and wellness by transforming the"
+    publishedDateTime: 2021-01-12T18:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-301206792.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "CES 2021 Taiwan startup Singular Wings Medical breaks the challenges of OSA diagnosis with AI"
     excerpt: "Sleep apnea, also known as obstructive sleep apnea (OSA), is a hidden issue in modern society that still awaits an effective cure."
     publishedDateTime: 2021-01-12T14:45:00Z
@@ -80,6 +95,6 @@ related:
         height: 450
         isCached: true
 
-secured: "9ms5uccjvG5HOvdE8Hl0MkaQhufvqBwyJWmzR07RwkDJfDbsPUAC1kJba3RbRW3gtQu0yKJV0shBPXOscWdAhNAuyu+ge9qZCX3OPKx9dy3FK+mbmnuYphcdnQPrnTVPi73CvrDlKBAZEwlTxwK9HgRrVjp3hsVAGc+EQhysKTLFSJHrAUJ1Jp23I9WaNPqsJ0yFUxBwl4Oyaf/w52MynlIYImsOYw2Pt9uMunDglfNGDqDl6arN5xQgQkv4iQZNyTTSC7BjIzeYi1aKKym8ZWpX0Dqr9xQeM4f7q7N7a4ZNJBFJ5u3UBEQgdAn4IvyIXVr1kY2nTo6nHQeGzCSWMyfWlOL2RIPC2BNWEYwdbpw=;zR6ZTRk8UBTRPEwbFhfh/Q=="
+secured: "t2nVkbMEq1YLO/YD3h7vul9mFVKMgPEHmV+HIVGgI8MjFKFPWGf3BvM2UQSBhuhel6m3EbDKyn7K0XIkWf6+OqQXe68J/y8f3j6X1WufhWb1ZWQWtqvIcN9it+3AM5BL5Pf8pCyf2dtygZThNJ6/yJ8TUCpPjNS02J5XpVJr2lN2wbleF1AjgMjBSFBFJ505S6g9/TxBrbwyxgkp+Y8K9jqhRRHvsQNu3m3mhZlU3WvRHXgQ7Q1wfqJB5/JlzM1B5sAXIFMJ8QiDqYUQNerImBakGMY5cCH/9XqfXmCRTvV1WzWHAO35kjNOOQxpjYZSKu4HhCDMgPDHpr183z/fzp/fvGWtjeT4YqYyw958pJk=;8eR2HVKu5MMxDhAtCLuVjQ=="
 ---
 

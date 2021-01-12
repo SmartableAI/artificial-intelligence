@@ -21,19 +21,42 @@ topics:
   - AI
 
 related:
-  - title: "Advanced Acoustic Concepts to develop enabling technologies for unmanned underwater vehicle machine autonomy"
-    excerpt: "Angler project to develop enabling technologies for new capabilities in autonomous exploration and manipulation on the seafloor."
-    publishedDateTime: 2021-01-11T10:34:00Z
-    webUrl: "https://www.militaryaerospace.com/unmanned/article/14190077/unmanned-underwater-machine-autonomy"
+  - title: "Veritone and Alteryx form partnership to deliver AI-powered insights from unstructured video and audio-based data"
+    excerpt: "The partnership aims to deliver AI-powered insights into unstructured data sources, including video, images, audio and text, to Alteryx customers. Veritone joins Alteryx’s Partner Alliances program, integrating aiWARE with the Alteryx platform to help Alteryx customers transform unstructured data into actionable intelligence and valuable insights Veritone’s AI tools for ingesting data,"
+    publishedDateTime: 2021-01-12T18:57:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144699"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 5
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 18
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/16x9/DARPA_Angler_11_Jan_2021.5ffb95451ffa4.png?auto=format&fit=max&w=1200"
-        width: 562
-        height: 316
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
+  - title: "Veritone, Alteryx In Partnership"
+    excerpt: "Costa Mesa-based artificial intelligence software developer Veritone, and analytics software developer Alteryx said this morning they are in a new, strategic partnership. Veritone said it will provide its AI-powered insights into unstructured data sources,"
+    publishedDateTime: 2021-01-11T14:38:00Z
+    webUrl: "https://www.socaltech.com/mobilestory.php?storyid=0080783"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 4
+  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
+    excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),"
+    publishedDateTime: 2021-01-12T09:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 2
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "9WdS8xcQ8Jm/M8qKE+HsOHKhk8yAIFnvWnQQOmxYVkNas20k/9rUqLPqycYdPg1zx9++S17v38i4Ws36jZhGVUnMCnnVj5THt+7i51J9pnM5iJu1wRPZygcPH5P64BLqs7DI0TOnXpEtPvnoqGFWlKzKxb88wTRBQAi7NRlYtfSVY5ERqcB6zhDInajl1ozhHne8shen+UQkMHbQ1QJMAIT3DbBzzc0hJ0tsFcPg1C+wxTbRcsuUBeQ4iFWokrP0ahL/MSbKztQvL4hEOGsd/M7xniaTXI5xX0ycEyeyKF/Xlns3Orqgalk7rsBKCwrCWzA48wjZH+0VdAShTZ1JHcuCP171H+fnCmoihP0SVQwdxfuaheQoHMqejsxdjoLpPTdek818fjU5qZ0zbWN+HgOKEGF5afolYBanSoJGMdhzJjJQcry6dV/A2GFZNxz6kIUAS8MhXa/WjW57ymat3UlDhzDNHmb7ueQPJ/1qH4nQqGvE9bnjs3PWIDQxgwdw60qdsBgD1UkUtorYmxDrRA==;HqUz/xKtrVUtB9Nzdrr+Ew=="

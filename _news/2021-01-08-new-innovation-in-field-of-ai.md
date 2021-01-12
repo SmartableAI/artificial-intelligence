@@ -26,56 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging AI In Remote Talent Acquisition"
-    excerpt: "AI has made headlines for the last few years, but after the new normal of remote work was accelerated in 2020, it has been more of an impact on remote talent acquisitions."
-    publishedDateTime: 2021-01-09T08:36:00Z
-    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/"
-    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/"
+  - title: "Trump admin launches National AI Initiative Office"
+    excerpt: "The White House today announced the launch of its National AI Initiative Office, marking what should be President Trump‘s final manipulation of the country’s gutted Office of Science and Technology Policy (OSTP)."
+    publishedDateTime: 2021-01-12T17:47:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff96ae11bdf9fa884b96829%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5647%26cropY1%3D182%26cropY2%3D3358"
-        width: 1200
-        height: 675
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robotarmy-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
-  - title: "How AI Is Changing Corporate Decision Making"
-    excerpt: "Until the introduction of AI and ML, major decisions were taken based on months of researching and data collection"
-    publishedDateTime: 2021-01-08T06:56:00Z
-    webUrl: "https://www.entrepreneur.com/article/362959"
+  - title: "Intrado Launches Mosaic, an AI-Powered Customer Service Platform"
+    excerpt: "Intrado Corporation (“Intrado” or the “Company”), a global leader in technology-enabled communication services, announced today the launch of the Mosaic customer service platform. Mosaic uses predictive intent technology to enable artificial intelligence (AI)-powered virtual assistants to comprehend and automatically complete customer service interactions."
+    publishedDateTime: 2021-01-12T12:46:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/intrado-launches-mosaic-an-ai-powered-customer-service-platform/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610088898-artificial-intelligence-2167835-1920.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "How AI redefines advertising in 2021"
-    excerpt: "Advertising as a sector is notorious for major paradigm shifts. That's because the shell game of grabbing consumers' attention never stops, and as programmatic advertising gave way to influencers gave way to branded content gave way to"
-    publishedDateTime: 2021-01-08T12:15:00Z
-    webUrl: "https://www.zdnet.com/article/ais-role-in-redefining-advertising-in-2021/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
+  - title: "The White House Launches the National Artificial Intelligence Initiative Office"
+    excerpt: "For the past 4 years, the Trump Administration has been committed to strengthening American leadership in artificial intelligence (AI). After recognizing t"
+    publishedDateTime: 2021-01-12T15:07:00Z
+    webUrl: "https://www.whitehouse.gov/briefings-statements/white-house-launches-national-artificial-intelligence-initiative-office/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-  - title: "Burnley turn to artificial intelligence in seeking academy talent"
-    excerpt: "Burnley’s search for prospective academy players will be boosted by the power of artificial intelligence, with the Premier League club announcing on Tuesday that it had partnered with talent identification platform AiScout."
-    publishedDateTime: 2021-01-12T11:46:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/sports/2021/01/12/burnley-turn-to-artificial-intelligence-in-seeking-academy-talent/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 17
+      name: The White House
+      domain: whitehouse.gov
+    quality: 35
+    images:
+      - url: "https://www.whitehouse.gov/wp-content/uploads/2021/01/National-AI-Office-Seal_300ppi-1-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "bS+bTpgfwuJ+DwKlkS7Il8uqkh+VBxJYn/CiDqWfUIAvq9Y0GwIdgT2PAx+fonA0PgRV9iRxusTbtZ636Z00Skbif70StmS846790ZY4/27+1sZuIarFsNDdz+PDAJzl59aVI4znhVeeHNoU6ZKj8AqAqET2rJADXwGsKwQMOZvQHXOb8VAKLC4vNk5skfg4MwuV1uE3nJ87uzX/1IskVACwrJzQnvDSEO2vr23gIOt6jr+MlryBY3CxwMC7KpYl1GOV9bHGnUCoWrYob8pnvKTn8lAnUv1jprrit5zfnlW0sAg+BcIfSzdPrW8muGJjJVJd0a0phl7kRbr62m5XMQ4NAqbhdY8jdj+BakQkhHfuOCZAblIidIN3IPSYePpMEDluyv6NC2Z73EMxY6FEVFKBGNo5IbcQHgCFCwmzXCbICncM53I8WAPP1CvA7Cmp3lSggyz6zIMpEedyNRGmwx5CpxW71UU0KTzoR2nZy/Gs7z5JfHCPMwJgc0wJq/6hrLZKkBsJSPI9hBVu9xZO5A==;GVSwVrqmdgaegoo5uZESBw=="
 ---

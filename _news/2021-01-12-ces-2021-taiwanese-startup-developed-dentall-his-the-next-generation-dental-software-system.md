@@ -40,6 +40,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
+    excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and wellness by transforming the"
+    publishedDateTime: 2021-01-12T18:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-301206792.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "CES 2021 Taiwan startup Singular Wings Medical breaks the challenges of OSA diagnosis with AI"
     excerpt: "Sleep apnea, also known as obstructive sleep apnea (OSA), is a hidden issue in modern society that still awaits an effective cure."
     publishedDateTime: 2021-01-12T14:45:00Z
@@ -69,18 +83,18 @@ related:
         height: 450
         isCached: true
   - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
-    excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone technology. Recently, Unusly released"
+    excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone"
     publishedDateTime: 2021-01-12T15:13:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ces-2021-taiwanese-startup-unusly-provides-extended-reality-software-to-be-used-on-mobile-unmanned/article_4985aa99-b2a8-5734-842f-3211b5b644f3.html"
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-unusly-provides-extended-reality-software-to-be-used-on-mobile-unmanned-vehicles-as-drones-301206574.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "BBQU4aqf21D23ttU4xaJq4+YiaSksMMUZAogglHNIDCVvhNL4K8QnGf5r2lOACpmeydEZU88erWUhwXtzbqewFa3cevI3uezk6vhN4eSxELTLwRQe6pv9C5ecWYrJbWPeJzg4WxP4DYjI7EY/jBf5dbM26b1SamJJ10YuX07deexEPCl0q19DHCat+eQ1PacgSvg36c/JUOYTRUyth8VFba2rKiJvkhay3Jl2LpaOovXVQoHvoc+6rPedSUU9wgVUYf+kNyV5NKupdCK0Wj67tgCQlY6n/syIwu5/1/LR7cYtkFvRXfSHreTD6k6yY4rwCBPJGIScKmJ24ZXIAG877RQKdZ9ZK1XIkhMYmjS504=;dBYmG9DgMmgUwVu3bsycKg=="

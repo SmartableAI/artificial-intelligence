@@ -2,6 +2,285 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-09-ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level.md",
+      "title": "AI-enabled Mercedes-Benz Hyperscreen takes the digital dashboard to the next level",
+      "excerpt": "The 56-inch curved screen extends nearly the full extension of the dashboard, serving as an \"attentive assistant for the passenger,\" and can store multiple front passenger profiles for personalized experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/08/258a6072-6f00-4758-97af-cda13ef86a28/resize/1200x/b3447a944bcf201617caba6018f45ec5/mercedes-benz-3.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/",
+      "publishedDateTime": "2021-01-08T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-worlds-fastest-optical-neuromorphic-processor-for-artificial-intelligence.md",
+      "title": "World’s Fastest Optical Neuromorphic Processor for Artificial Intelligence",
+      "excerpt": "Headed by the Swinburne University of Technology, an international research team has now revealed the world’s fastest and most robust optical neuromorphic processor meant for artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/News.aspx?newsID=26516",
+      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=26516",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_26516_16101082357449275.jpg",
+          "width": 960,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/news.aspx?newsID=26516",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=26516",
+      "publishedDateTime": "2021-01-08T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-five-ways-to-make-ai-a-greater-force-for-good-in-2021.md",
+      "title": "Five ways to make AI a greater force for good in 2021",
+      "excerpt": "A year ago, none the wiser about what 2020 would bring, I reflected on the pivotal moment that the AI community was in. 2018 had seen a series of high-profile automated failures, like self-driving car crashes and discriminatory recruiting tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA-GettyImages-1193127525.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
+      "publishedDateTime": "2021-01-08T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks.md",
+      "title": "Is neuroscience the key to protecting AI from adversarial attacks?",
+      "excerpt": "Deep neural networks are a key component of computer vision applications, from video editors to medical software and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "originalUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "publishedDateTime": "2021-01-08T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-self-driving-cars-and-the-newest-move-over-slow-down-laws.md",
+      "title": "Self-Driving Cars And The Newest ‘Move Over, Slow Down’ Laws",
+      "excerpt": "The law and prudent driving dictate that you should move over and slow down when nearing stranded vehicles on the side of the road, which is easier to say than for self-driving cars to achieve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff392b289032e7d9ad91594%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/",
+      "publishedDateTime": "2021-01-08T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock.md",
+      "title": "The Robot Revolution Will Spark a 15X Rally in This Micro-Cap Tech Stock",
+      "excerpt": "This has coupled with significant advancements in tech hardware production, and ultimately brought us on the cusp of creating a new generation of advanced robots that can think and act like humans. The Robot Revolution is starting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08",
+      "originalUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp",
+      "publishedDateTime": "2021-01-08T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-robotics-continues-to-gain-strong-momentum-5-stocks-in-focus.md",
       "title": "Robotics Continues to Gain Strong Momentum: 5 Stocks in Focus",
       "excerpt": "Robotics technology is constantly gaining steam in the fast-paced world on the back of robust demand for automation, which increases efficiency and ease of work, and saves both time and labor. Further,",
@@ -182,7 +461,7 @@
       "originalUrl": "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -277,7 +556,7 @@
       "originalUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -868,301 +1147,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-two-ways-of-performing-massively-parallel-ai-calculations-using-light.md",
-      "title": "Two ways of performing massively parallel AI calculations using light",
-      "excerpt": "Now, two different teams of researchers have figured out ways of performing calculations with light in a way that both merges memory and calculations and allows for massive parallelism. Despite the differences in implementation,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/01/two-ways-of-performing-massively-parallel-ai-calculations-using-light/?comments=1",
-      "originalUrl": "https://arstechnica.com/science/2021/01/two-ways-of-performing-massively-parallel-ai-calculations-using-light/?comments=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/Laser_frequency_comb_installed_on_HARPS-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-uk-competition-regulator-to-probe-nvidias-40-billion-arm-takeover.md",
-      "title": "U.K. competition regulator to probe Nvidia’s $40 billion Arm takeover",
-      "excerpt": "Britain's competition regulator said it would start an investigation into Nvidia’s $40 billion deal to buy U.K.-based chip designer Arm.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
-      "originalUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
-      "publishedDateTime": "2021-01-07T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-chinese-search-giant-baidu-to-make-electric-cars.md",
-      "title": "Chinese search giant Baidu to make electric cars",
-      "excerpt": "Chinese search giant Baidu plans to make electric vehicles with help from Geely, the country’s largest private automaker, according to a new report from Reuters. It’s the latest Chinese conglomerate to venture into the flourishing electric vehicle market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
-      "originalUrl": "https://www.theverge.com/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/6tCoAglLnNPPfPd479qk3U1jivY=/0x0:5472x3648/1400x933/filters:focal(2263x2166:3137x3040):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68633552/1211912915.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
-      "publishedDateTime": "2021-01-07T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
-      "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
-      "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
-      "originalUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "publishedDateTime": "2021-01-07T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-ensuring-healthcares-innovation-boom-benefits-all-equally.md",
-      "title": "Ensuring Healthcare’s Innovation Boom Benefits All Equally",
-      "excerpt": "She shared thoughts on three areas of innovation that have seen some of the biggest leaps in the past few years. While there might be a drop off in telehealth visits once the pandemic subsides, it has undoubtedly become a mainstay of medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/",
-      "originalUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff36dd3d14853f3a8a00b35%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D198%26cropY2%3D3278",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/amp/",
-      "publishedDateTime": "2021-01-07T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-video-search-pioneer-panopto-hires-ibm-ai-marketing-executive.md",
-      "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
-      "excerpt": "At IBM, he played an integral role in the brand launch of Watson Advertising while leading all go-to-market strategies for a suite of AI-powered solutions designed for the advertising ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html",
-      "originalUrl": "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/7/99/799538b5-1065-557b-bb6f-5475e38479a0/5ff737209670b.image.jpg?resize=420%2C630",
-          "width": 420,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

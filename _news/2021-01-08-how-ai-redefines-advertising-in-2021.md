@@ -54,20 +54,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "New innovation in field of AI"
-    excerpt: "A Swinburne University of Technology led team has demonstrated the world fastest and most powerful optical neuromorphic processor for artificial intelligence"
-    publishedDateTime: 2021-01-08T10:28:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267472580/new-innovation-in-field-of-ai"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1610099955.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Burnley turn to artificial intelligence in seeking academy talent"
     excerpt: "Burnley’s search for prospective academy players will be boosted by the power of artificial intelligence, with the Premier League club announcing on Tuesday that it had partnered with talent identification platform AiScout."
     publishedDateTime: 2021-01-12T11:46:00Z

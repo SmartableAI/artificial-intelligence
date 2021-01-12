@@ -2,6 +2,385 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-29-ai-chipmaker-graphcore-raises-222m-as-it-takes-on-nvidia.md",
+      "title": "AI chipmaker Graphcore raises $222m as it takes on Nvidia",
+      "excerpt": "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
+      "originalUrl": "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a03ad48-165a-448f-a7da-eb28c2df2959.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
+      "publishedDateTime": "2020-12-28T23:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-artificial-intelligence-robotics-market-to-see-major-growth-by-2025-nvidia-intel-ibm.md",
+      "title": "Artificial Intelligence Robotics Market to See Major Growth by 2025: NVIDIA, Intel, IBM",
+      "excerpt": "Latest Study on Artificial Intelligence Robotics Market published by AMA offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Robotics Market research report shows the latest market insights with upcoming trends and breakdown of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "originalUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc29648211_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "publishedDateTime": "2020-12-28T21:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-how-doe-researchers-are-using-ai-and-robots-to-design-the-successor-to-lithium-ion-batteries.md",
+      "title": "How DOE Researchers Are Using AI And Robots To Design The Successor To Lithium-Ion Batteries",
+      "excerpt": "Building the better battery may be too big a job for humans, according to researchers at the Joint Center for Energy Storage Research, so the researchers are turning to artificial intelligence to find the right ingredients and to robots to make and test them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
+      "originalUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea3059d12e840ff06d83a7%2F0x0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
+      "publishedDateTime": "2020-12-28T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-catching-them-young-hexagons-centre-to-train-students-in-ai-skills.md",
+      "title": "Catching them young: Hexagon’s centre to train students in AI skills",
+      "excerpt": "The fundamental and advanced level courses designed for Class VIII-XII students, and senior engineering graduates respectively",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/",
+      "publishedDateTime": "2020-12-28T20:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business.md",
+      "title": "Artificial Intelligence Is Great For Day-To-Day Stuff, But It Can’t Build A Business",
+      "excerpt": "AI can't build a business the way humans can. getty. Let’s face it, artificial intelligence is probably one of the best management tools to come along since the first commercial",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea1efdc398efe2f56e500e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
+      "publishedDateTime": "2020-12-28T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-china-increases-foreign-investment-list-by-10-per-cent-including-ai-semiconductors-and-5g.md",
+      "title": "China increases foreign investment list by 10 per cent including AI, semiconductors and 5G",
+      "excerpt": "A total of 127 areas have been added to the list of industries in which China will seek to encourage foreign investment, taking the total to 1,235 from 1,108.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "originalUrl": "https://www.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/29/05f3ef50-497c-11eb-9c55-93e83087d811_image_hires_102432.jpg?itok=aEnRbrmo&v=1609208682",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3115621/china-increases-foreign-investment-list-10-cent-including-ai",
+      "publishedDateTime": "2020-12-28T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-the-wildest-concept-cars-of-the-year.md",
+      "title": "The wildest concept cars of the year",
+      "excerpt": "Conceived as a mind-controlled, rolling exoskeleton, the GTR-X is one of the year's most unusual concepts. Automotive Hyundai gets serious about unstoppable, four-legged 4x4 robo-cars",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/best-concept-cars-2020/",
+      "originalUrl": "https://newatlas.com/automotive/best-concept-cars-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/edbe1b4/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fdb%2F10%2F430e4ab04c4f873675c030def2b5%2F06-bolide-heck.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/best-concept-cars-2020/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/best-concept-cars-2020/?amp=true",
+      "publishedDateTime": "2020-12-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use.md",
+      "title": "Release of Deep Learning Framework \"SmallTrain 0.2.0\" For Professional/Commercial Use",
+      "excerpt": "KYOTO, Japan, Dec. 28, 2020 /PRNewswire/ -- Geek Guild Co., Ltd. announced the Open-Source Software (OSS) project, \"SmallTrain,\" which generates user-friendly deep learning models for high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use-301198669.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use-301198669.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-nuro-robot-delivery-cars-will-start-operations-in-california-in-2021.md",
       "title": "Nuro robot delivery cars will start operations in California in 2021",
       "excerpt": "Robotic startup firm, Nuro has gotten official approval to start its paid delivery service with autonomous vehicles. This much was revealed by the California Department of Motor Vehicles (DMV). Steve Gordon,",
@@ -843,378 +1222,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-this-woman-entrepreneur-aims-to-make-children-future-ready-by-introducing-them-to-stem-robotics.md",
-      "title": "This woman entrepreneur aims to make children future-ready by introducing them to STEM, robotics",
-      "excerpt": "Edtech startup Whizrobo, founded by husband-wife duo Dimple and Naveen Verma, offers products and training in artificial intelligence and robotics to the K-12 group.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
-      "originalUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/Untitleddesign16-1609060197399.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
-      "publishedDateTime": "2020-12-27T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-levelling-the-playing-field.md",
-      "title": "Levelling the playing field",
-      "excerpt": "IBM has been using AI in its HR processes for several years thanks to the creation of Watson, a natural language computer system predating Amazon’s Alexa, which can answer questions in a human-like way. IBM’s Andi Britt says: “We’ve been doing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
-      "originalUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hrmagazine.co.uk/article-images/image-library/138/screenshot_2020-12-22_at_18.49.06_f348cd83.jpg",
-          "width": 800,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-27T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HR Magazine",
-        "domain": "hrmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-tensorflow-tutorial-uses-python.md",
-      "title": "Tensorflow Tutorial Uses Python",
-      "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
-      "originalUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/12/irstealth-600.png?w=600&#038;h=600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-27T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
-      "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus/",
-      "originalUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F02%252F3c%252Ff7b8f42a453041b9aa48e8a0173d8bba.dc6de.jpg%252F1200x630.jpg?signature=5wuERepKvCbo6rZUr4s8AQZeVHg=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
-      "publishedDateTime": "2020-12-27T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-deepminds-big-losses-and-the-questions-around-running-an-ai-lab.md",
-      "title": "DeepMind’s big losses, and the questions around running an AI lab",
-      "excerpt": "Guest Last week, on the heels of DeepMind’s breakthrough in using AI to predict protein-folding came the news that the UK-based AI company is still costing its parent company Alphabet Inc hundreds of millions of dollars in losses each year.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/",
-      "originalUrl": "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/deepminds-big-losses-and-the-questions-around-running-an-ai-lab/amp/",
-      "publishedDateTime": "2020-12-27T14:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-book-on-ai-to-combat-covid-19.md",
-      "title": "Book on AI to combat Covid-19",
-      "excerpt": "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html",
-      "originalUrl": "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/27/w600X390/coronavirus-1s121212.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp",
-      "publishedDateTime": "2020-12-27T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-vacation-home-boon-expected-due-to-self-driving-cars.md",
-      "title": "Vacation Home Boon Expected Due To Self-Driving Cars",
-      "excerpt": "The advent of self-driving cars will make it easier for traveling to your vacation home and thus spur more vacation home purchases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98412a34c08f100c98f5c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4893%26cropY1%3D248%26cropY2%3D3000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/",
-      "publishedDateTime": "2020-12-27T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-how-machines-are-changing-the-way-companies-talk.md",
-      "title": "How machines are changing the way companies talk",
-      "excerpt": "Businesses are changing the words they use in order to appeal to AI analysts and traders who assess SEC regulatory filings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/",
-      "originalUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/amp/",
-      "publishedDateTime": "2020-12-27T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

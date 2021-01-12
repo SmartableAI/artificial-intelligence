@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-12-future-of-ai-powered-voice-controlled-passenger-and-commercial-vehicles.md",
-      "title": "Future Of AI-powered Voice-Controlled Passenger and Commercial Vehicles",
-      "excerpt": "The rapid transformations in information technology and AI have now brought us into a world where fantasy is becoming reality",
+      "path": "_news/2021-01-13-google-trained-a-trillion-parameter-ai-language-model.md",
+      "title": "Google trained a trillion-parameter AI language model",
+      "excerpt": "They’re the part of the model that’s learned from historical training data. Generally speaking, in the language domain, the correlation between the number of parameters and sophistication has held up remarkably well.",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/363171",
-      "originalUrl": "https://www.entrepreneur.com/article/363171",
+      "webUrl": "https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/",
+      "originalUrl": "https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610445457-artificial-intelligence-3382507-19203.jpg",
-          "width": 2000,
-          "height": 1333,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T01:57:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/amp/",
+      "publishedDateTime": "2021-01-12T10:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

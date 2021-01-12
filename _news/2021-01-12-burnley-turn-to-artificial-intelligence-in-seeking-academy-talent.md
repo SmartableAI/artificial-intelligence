@@ -59,20 +59,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "New innovation in field of AI"
-    excerpt: "A Swinburne University of Technology led team has demonstrated the world fastest and most powerful optical neuromorphic processor for artificial intelligence"
-    publishedDateTime: 2021-01-08T10:28:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267472580/new-innovation-in-field-of-ai"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1610099955.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "FgnTPRXs5FT9RMuLFe+Lzu4qOWVrzophwJ3PHtShhJMACdxmtjgnyfNscrtHciSn2wCa5ieGDeHr6NBAODMVwert2+xaSIgwEz/5sZVfn1pHKbGNKYx88NZkBTPy59JqC2yGcsEUDT/4luwTXzOlRSR1gLNwiKkV+WYEv694GKnvXjfbCG3hx3SkSfFykr/TFxQLjvvJQkOPfjEoshTDH2w8sqkXzMnYOkaJ19W51IAyl20x8cHY558jBzL+jgmrKXjB62/z/PwgukO8oZWXs8xgppSuy94BI2VNtbeiU5fDgebsO7UrL7p0yte30WM/+WfzfIZWCge8eeo/K/8SiLsWR6Hj1Nr1dBvrbG3gA1YgdQMY8oMFByQ1xqP+sRnjW9jjIImyL2pfZRxVzBeo5mwVigVIFVAnB7kKSjTxrBp/I0w/uHXr2lYugE1kttKbOVwq5Yur/FUHG8/BEqeaQLKeKYqTssXjs+8Kn9UVwgKgerECx2M49ZQAhW0HJHaEdw7I7DBxSY+QI7XY7koKDQ==;qDbjbOJr6LiR9BB0j+yxUg=="
 ---

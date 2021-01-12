@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf ..."
+excerpt: "AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML ..."
 publishedDateTime: 2021-01-12T16:31:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
 webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
@@ -15,9 +15,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -36,6 +36,6 @@ related:
       domain: businessinsider.com
     quality: 32
 
-secured: "zpJ7joHGm1q2Wizx27E4clG2C0H9cLmnn3cWtJrelHhTzsfHKJgAMpi2Q3HgxL4Ho1EG3mnu4I2uPDp39OOAl+b2ex66/X0yXFSTKdlMqjGOwUTnuIAqK5e7LTdIDLIeejXFwc95axTnLGboRlSRUgDXoQzhiS1XLZLhHq86QuujspeiDCmOC3J+EWu+fRDTYitsupjXx4bdPpig4G5rMYMLcGeMkKpsbOM1T7QqVMuYCsnR+Ci/G2eJ3sGbnhjhokyHlAEFVxpOdpfuW46y31YTjlu3glUcAH2RnD+ftL8tcaTJvK5u6OJja92zs1K/mBT4tQJ4vphrfV9dgf7WEyBSolXLt2yOzDfN3/wMAXU=;a0+694D97xGblEDJlVQHWA=="
+secured: "T7oMo2K+TAIqkpt8kKvM4jjcA2oHX3wFt9hCHgvnXKpt3cxEmEhBJtBf1SRdtSyh6dd5E0o+A94UqadHtDZP347gBrFC6GZYKHpVjUuoa7sH6gX5uhlJLTwqb28l0aM0vXlC7oyy6kT6WwucUgYmxYP6kypduoJyKtAAFRf/jPcUQ3LzqcRUxcrLHBpfnWQuh2pOmfVbk3A/ljnb1+6rkroOu/A4vq+srpy8vFdREfp+qCq3OFq4to6lb6MpCp0FXyEIdJvjmueJtgoCdOhjiTepbAbTSmjr1ToyUdcwZKqqEp3axnBnbptcR+JZaGYSgIdAEpdDxT1VxqUqk1bVt/gS5Nriq8gZFtAyGjchVJw=;Fuugte15d7n5xIaCQOmAlQ=="
 ---
 

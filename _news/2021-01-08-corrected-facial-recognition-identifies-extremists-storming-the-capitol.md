@@ -121,17 +121,22 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Smart cameras and facial recognition could assist in identifying Capitol protesters"
-    excerpt: "Weapons, beards, tattoos and cell phones -- any of those might assist in identifying people involved in storming the Capitol."
-    publishedDateTime: 2021-01-08T02:29:00Z
-    webUrl: "https://abc13.com/technology/facial-recogniton-could-help-to-id-capitol-protesters/9446533/"
-    ampWebUrl: "https://abc13.com/amp/facial-recoginition-capitol-protesters-security-cameras-chaos-at/9446533"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/facial-recoginition-capitol-protesters-security-cameras-chaos-at/9446533"
+  - title: "How far can facial recognition go in finding rioters in D.C.?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-12T18:44:00Z
+    webUrl: "https://www.wtsp.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
     type: article
     provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 33
+      name: WTSP
+      domain: wtsp.com
+    quality: 59
+    images:
+      - url: "https://media.wtsp.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Major facial-recognition supplier builds system to identify masked faces"
     excerpt: "Facial-recognition supplier claims new system can accurately identify masked faces and therefore promote public health during the pandemic, but questions remain about whether its existing UK law enfor"
     publishedDateTime: 2021-01-08T14:49:00Z

@@ -3,11 +3,11 @@ category: news
 title: "Xdroid Applauded by Frost & Sullivan for Its Innovative Voice and Facial Analytics Solution Portfolio"
 excerpt: "The company's highly flexible and customizable portfolio is based on its proprietary language engine and features speech analytics and automated"
 publishedDateTime: 2021-01-12T14:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029960160"
-webUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029960160"
+originalUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029961411"
+webUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029961411"
 type: article
-quality: 39
-heat: 39
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -19,15 +19,10 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
+  - AI in Finance
 
-images:
-  - url: "https://mma.prnewswire.com/media/1418514/Xdroid_Award_Logo.jpg"
-    width: 400
-    height: 366
-    isCached: true
-
-secured: "M4EPC3sEto2U6Yyyz6d/aSsgVwFJ8+of/xV9/AL28+oViE81GUalkz4ukURH47JQjsvs8jYuR9voepTwbMo1t2ZzKHjYlzmLNEfi3OgLVy96e0bLvxieo8WZkCdalJVL2rUaaRqbuYSpZPijF7Q/AHcEJoZf1lYzPrXVaUfoGG+qpbfA4MP/xalOG2Admg570R3qDI76bxnWsq2JRjla8C5wVs2/XKjpvXhBlJRCwfNF4c2fV1lbv3P60n2rdM3ixMfBlTtkbpcBlwjqPdEFosr31oHDdsV+bLn418EjHjwWSKFSdyCjWBVWlUa8zsprQeVi08QPgn2Lhbht2cMJsOqj0vyQQ4Bl/DtA/maI124=;QLbCsOEEjwZEg56xwV4CAw=="
+secured: "hgOzoxaryOU836RO8DPtFXC1BmqrTVA1S++XgP1p7l8wmFdx2yDkFf2xsdQkgVHoHJ0TJds58xMRIA0zYSLB/bEynn7NK60R2/448LUdUld37Gq/EbA6SZG0eZSnaIIpSDdYAdRYG5moizrOqejUCCJHnrdkGfxhRsAU1GXhQnHHeVpE+ZVEjXHQoMsYybZecz8/wzWtOkd+H7YTzaG9rhjDLI2b+ep+GSQhnqXdzpFb0Pvr2CRVvBsZMIqAHdWt5vLhENzYmxhDqY+mWnJz7PYX42TkSmrGOV7eALreNjOdUiFHn46lUEGFSsRNPZcMRyljDgkSGsoHEWwU+sj410bynzMo6KiqzGbGOjzwYAg=;8/cGk9zgzLi9YwUKchjkVA=="
 ---
 

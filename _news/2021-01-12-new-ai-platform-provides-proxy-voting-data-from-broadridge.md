@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "New AI platform provides proxy voting data from Broadridge"
+    excerpt: "Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
+    publishedDateTime: 2021-01-12T17:31:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provides-proxy-voting-data-from-broadridge"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+
 secured: "xN70Rb4dy4JdbSnynAQpL3Z2KcEExQZ0JwTwUzhXSs7xjHiT78W27jaZtpgg3LLkW2+kAchRC4czcCuxZyR0ZnJFazAP7unafKdWXysX7276O2mB0OQbq4LzTwvwmhN1t7XqTNaXBFLcZdRD4bLx8oAekq+ERldu4PKRSSvZ42wWGKtvCMOSzF0r/DzN7mLA3gAV1nv1m+N+co3CefXYPxsPb1YFXy9VPJyco/D8hzmmelo7ZnPhhidc3rFo+vBAZ5AXg2bB4C85myV2B/PPQwNRYv18Z7gt56vC76QqScohrUtsp0suRNNSKQArYhbThQrC6NV0ACdmXfTnyLEIdHhxiv/gFksIBeTjtDbx8Ts=;vAESU39qfy+gcQfYzI2ZIw=="
 ---
 

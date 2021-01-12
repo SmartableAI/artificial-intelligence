@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-ex
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Aclaimant Launches Artificial Intelligence and Predictive Modeling Solution"
+    excerpt: "Aclaimant Insights enables organizations to actively manage risk through artificial intelligence and predictive analytics."
+    publishedDateTime: 2021-01-12T15:30:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21220822/aclaimant-inc-aclaimant-launches-artificial-intelligence-and-predictive-modeling-solution"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 30
 
 secured: "Bvo7HZKzkbhDIrAiP0FgI+azAXuqtKPbREhIPHuwGctz/bhm1vt8GRY6I8i4ZT2eMdj/QJLKy30FZr6DW4aGDj/Qaa/sN1+g05KrVBB/fAIzctpmsCf/GHMcgtfehkuXfXb2pg5EemHBtXjaLnbsILzkD2p8TXJDuePWeN9IQIO2iNvYjJ/SYt2DhmWLhzyIzXNBgB4kJnOiAT9sN+/v0tzOer07pY2zrkp5mJi/j4xxgysN53ocKK8gQs/UPnhvbgx5+Z3zXx44PccQgHmTqvuASiUU1Ng3Z+XWdUKJ7J5VFk8TgjC0cZol1cR51PcsnuyMUzJ+otOyGzRW1+1MItI5r8lgnyQBzrCUE3E9cjQmyivMBMUC3gP4lkkpAGtMONtjPplKHMGPGKvxfpLbU+fezlBwgYTDIglPRAqYtvL7rLzFehWmsS7wSpWYygdunOTwiZ6nfK38lO9ZhanjBo1DDQjtZiFlABtdLbjr804H+Vt2NpMf+f4gTEIa4P0tv17CRkwolNcSdYWdi6okBw==;5fMI2iYEfiwvSGkr8/T6VA=="
 ---

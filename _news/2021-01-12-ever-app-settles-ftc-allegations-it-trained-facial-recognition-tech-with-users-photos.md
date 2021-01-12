@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegation
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
 type: article
 quality: 96
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://media.kvue.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "FTC declares facial recognition surveillance tech dangerous, warns against federal privacy pre-emption"
+    excerpt: "The FTC has come out swinging against facial recognition, issuing a proposed settlement with Paravision, its first focused on the biometric technology."
+    publishedDateTime: 2021-01-12T17:43:00Z
+    webUrl: "https://www.biometricupdate.com/202101/ftc-declares-facial-recognition-surveillance-tech-dangerous-warns-against-federal-privacy-pre-emption"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "qoyCaOB19WBgMEH5fDQPZFbnJKL0NB39BcDVRUNCZXVjSDgsNtHAHNZeFDMeNqsUCEmr9JSsJKQtmF/B7HOwn+Ybwn3O3mYjs6JH5DrjAGSEPtYQk35x67QLJkMyFlwDaHrntALbxGQNjWmY7+L1FmYBt6MGBEVAEMKt6FSyMtq5ox598QMpAj8BhmzwanCrFdDKkql2Qq2/63xczRuT4gn7tC2HG3bsk9gmh4qPNUnLnih7C2k8OAGTgViSfQFah5P6Hj46E6+KvwFdqMqcbgXQt92B6VnqPRr9Hq32nE3Pf5w35dHTxBcpSyem8OlAgxtJd3hjzVPHFf/I2kBzbV6Sb0xi62mrcZtDnwLPA9P27EoFqvP2BXZbFRKQNDZzDowb5MZwg90aqsTUWSZk3jey9WGQSaifP5ob6fYv8TaANGnFKPayvv3CzNGclsOFkqvBldwd0TRcfdUulKvUqV4CHmzXfVqEzz/LN9EylUtcz8B6sm/Gob+ArQV1aYp/X/QqRodMNOe4zfJkxjEarg==;cBHZ5BzJXuXm2MiOzfeZDA=="
