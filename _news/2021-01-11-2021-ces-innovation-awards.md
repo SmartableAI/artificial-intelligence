@@ -57,6 +57,22 @@ related:
         width: 412
         height: 255
         isCached: true
+  - title: "Pandemic's robot 'heroes' highlight their value at CES 2021"
+    excerpt: "Among those taking the virtual stage at CES are robot companions, concierges, cooks, delivery drones, medical assistants and those handling the perilous tasks of sanitizing workplaces and medical facilities."
+    publishedDateTime: 2021-01-12T12:00:00Z
+    webUrl: "https://gulfnews.com/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
+    ampWebUrl: "https://gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/01/12/20210112-robot-heroes_176f646af35_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Samsung unveils home robot that does the dishes at CES 2021 – latest updates"
     excerpt: "Samsung has showed off a robotic waiter and butler that can pour you wine and do the washing up. Bot Handy was briefly on display as part of Samsung's presentation at the Consumer Electronics Show in Las Vegas."
     publishedDateTime: 2021-01-11T18:06:00Z
@@ -154,6 +170,20 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 34
+  - title: "At all-virtual CES, the spotlight is on touchless tech, robot companions — and smart bathrooms"
+    excerpt: "While the all-virtual CES 2021 is not as glitzy as Vegas conferences, there's no shortage of digital health and wellness products this year. The COVID-19 pandemic appears to have inspired new products designed to support digital living as consumers spend more time at home."
+    publishedDateTime: 2021-01-12T11:35:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/at-all-virtual-ces-spotlight-health-monitoring-robotics-and-smart-devices-home"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 27
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1610411914/CareOS%20Themis%20Mirror%20-%20Welcome.jpg?.vQUvQubtaapLsCpOrT0zJsN.8VIJ9ib"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
     excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
     publishedDateTime: 2021-01-11T19:27:00Z

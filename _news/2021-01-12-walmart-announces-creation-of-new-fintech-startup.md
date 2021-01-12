@@ -55,6 +55,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Marc Levin Joins United Fintech as Partner & COO"
+    excerpt: "Marc Levin, former CEO of CFH Group, has joined United Fintech as Partner and Chief Operating Officer (COO). With responsibility for the operational and commercial aspects of United Fintechs portfolio,"
+    publishedDateTime: 2021-01-12T10:36:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/marc-levin-joins-united-fintech-as-partner-coo/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "KkL/5uzxk32/D+hkkNuP2N3U588jvbr7m7+/X4Yb1MgCbUW5WGASzXuJrhD8EBusJZU+TmWyewd5nIDiLN0vdRgYEI2dpUZop4qsPsXAlBVW7H1h5qwubSB8a1dsRml4B9ygmLAaLqJ6wUwN0DBCMZsX+3e3G/8UKPvA1lIYSDZSRGiWJnSVu0wDOxIGJtvKX6eN/12hse47BtPIQGvKfZ3yK0hnInyj4rBTW6dn7IWQjLmbLnb7riZPOwsEtt3XL1KShpELG9IhGIyhEAdQfCL1Tlzt6IXrahE65p2N5UsIi7nF0nFDaAmSD55mNOFdkbsXYL/aHOJx7Jde90LL2jZt45RuYShmt27D9xtg7zA=;4MViOb9QZbQ8N8+Dy84Y1A=="
 ---

@@ -67,6 +67,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Burnley turn to artificial intelligence in seeking academy talent"
+    excerpt: "Burnley’s search for prospective academy players will be boosted by the power of artificial intelligence, with the Premier League club announcing on Tuesday that it had partnered with talent identification platform AiScout."
+    publishedDateTime: 2021-01-12T11:46:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/sports/2021/01/12/burnley-turn-to-artificial-intelligence-in-seeking-academy-talent/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 17
 
 secured: "bS+bTpgfwuJ+DwKlkS7Il8uqkh+VBxJYn/CiDqWfUIAvq9Y0GwIdgT2PAx+fonA0PgRV9iRxusTbtZ636Z00Skbif70StmS846790ZY4/27+1sZuIarFsNDdz+PDAJzl59aVI4znhVeeHNoU6ZKj8AqAqET2rJADXwGsKwQMOZvQHXOb8VAKLC4vNk5skfg4MwuV1uE3nJ87uzX/1IskVACwrJzQnvDSEO2vr23gIOt6jr+MlryBY3CxwMC7KpYl1GOV9bHGnUCoWrYob8pnvKTn8lAnUv1jprrit5zfnlW0sAg+BcIfSzdPrW8muGJjJVJd0a0phl7kRbr62m5XMQ4NAqbhdY8jdj+BakQkhHfuOCZAblIidIN3IPSYePpMEDluyv6NC2Z73EMxY6FEVFKBGNo5IbcQHgCFCwmzXCbICncM53I8WAPP1CvA7Cmp3lSggyz6zIMpEedyNRGmwx5CpxW71UU0KTzoR2nZy/Gs7z5JfHCPMwJgc0wJq/6hrLZKkBsJSPI9hBVu9xZO5A==;GVSwVrqmdgaegoo5uZESBw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/363171"
 webUrl: "https://www.entrepreneur.com/article/363171"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Entrepreneur
@@ -28,6 +28,22 @@ images:
     height: 1333
     isCached: true
 
-secured: "Vg+0TE95Br6EDIgLala0hy5dPfkwUZaN2zhwm/6cPqCS+PEV80bWD3jelAWUnxDxSIjW35PPgwxsoAbnbB3GKr9VcHZjqoXfmJLvsXi9m6X5Daujm4NJ8cyrYjQDDaSjThnPoR8/xuJVopH4UskKkZeejx/nI5/i0jUizb+ZeDrR2is7o/sAd4iH4grNK4NdQDrketUTr+qiVRTTH7Os3N/tFM8nruw1YIbfBi29s5r1yUsEjAJ3e9oIgKOJUBkLTPpt6n0N8GuVxs/h0KW1xvwMTdusjn1hIittMhRLljK6AarVLtZ1fWmr1PVSwky0vsD9uWzBACs7y7Ag+1m7OLulqK2aZFLDYF5AHQ/fk2Q=;h7c1fgmhmZsVLDLbCpySlw=="
+related:
+  - title: "Intrado Launches Mosaic, an AI-Powered Customer Service Platform"
+    excerpt: "Intrado Corporation (“Intrado” or the “Company”), a global leader in technology-enabled communication services, announced today the launch of the Mosaic customer service platform. Mosaic uses predictive intent technology to enable artificial intelligence (AI)-powered virtual assistants to comprehend and automatically complete customer service interactions."
+    publishedDateTime: 2021-01-12T12:46:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/intrado-launches-mosaic-an-ai-powered-customer-service-platform/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+
+secured: "CG1rCSxuEL08EU/MFbvKNszXlcCkOyxTQL0cree4SJuowK4G6yWFa3cDis1hnSNNCpd6Czv2ze2xM5F60ezhHeXzrLTGMS24fcDFDKV8uO7heFrQv9JzfBhO8jDCEkxaA8oxuyZ8CZuGlVWwsr9RhNjoGuLZGhNmDce5m4/YpqWypW6hHNxBqdp/SOtsKnJeaShWzdJJuWjMMu8VMkfd7IoG10HipYugttZZr6XVM6QpFUrEmw5AzKC639yMt/bi25xoaJKrXHcDlUZzWbncieQYXWP3QWriX/mZ//3551nXskSpVMQHuKKbGc1asAPqu6Na9LoO1OGNvCVKND6vUCGBPxEWRUSE9d6BdtptPWYzSNIyzSNQrtsRW+FRPlk/kh+EcvlaCSDAC8xHo8LDU1gYY7T8RrEMWERA516FbOD/qwUzr+l9KkvBj+T3bKcoxtSoZ4dGiBXmSi7DfcyQKOrwzUIg75RqNsjkXpKv52e1Rq9jzXJwrVbw4nc+mSjSCbMthPq/b2R21K3CNY1wlg==;yswXjERvauq5ckPaO3rBMw=="
 ---
 

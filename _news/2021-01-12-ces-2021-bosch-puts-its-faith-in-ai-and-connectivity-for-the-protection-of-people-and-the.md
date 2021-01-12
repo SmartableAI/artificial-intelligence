@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Bosch became carbon neutral in 2020, eyes larger play in artificial intelligence and connectivity"
-    excerpt: "Bosch said that the idea is to have AIoT which combines artificial intelligence (AI) and Internet-of-Things (IoT) into developing smart solutions for the future."
-    publishedDateTime: 2021-01-11T15:42:00Z
-    webUrl: "https://www.moneycontrol.com/news/companies-2/bosch-became-carbon-neutral-in-2020-eyes-larger-play-in-artificial-intelligence-and-connectivity-6332311.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/companies-2/bosch-became-carbon-neutral-in-2020-eyes-larger-play-in-artificial-intelligence-and-connectivity-6332311.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/companies-2/bosch-became-carbon-neutral-in-2020-eyes-larger-play-in-artificial-intelligence-and-connectivity-6332311.html/amp"
+  - title: "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021"
+    excerpt: "Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box-- EB5 and E-cockpit Solution 4.5 at CES 2021, from Jan. 11 to 14 digitally. With the soaring number of connected devices,"
+    publishedDateTime: 2021-01-12T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-2021-01-12"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 48
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/01/Bosch-770x433.png?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
-    excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
-    publishedDateTime: 2021-01-11T06:52:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8123660/ces-2021-bosch-puts-its-faith-in-ai-and-connectivity-for-the-protection-of-people-and-the-environment"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
 
 secured: "PSrvewWaQMaVRjbnjGEogqTdWCcTCx3fiZxM2NB7GbssFh9fZsX30rvKs8BJFsLe2ok/7iZgDmcXXEfODJsRLRgztaQlIY8FyYPTJIDv90MfoJC0/21EpRl2rCW8bKhaze3+oNVTtsmXt3+TEVB1k6hGrip8sg0dPrkf4KZh2B+9UBHDSGowqTgSIpPxQif9hyg2Pff4GNDFUb3Uojx9A5TBb00kW9tkz4t5NDk8NhwAyxmbS12KrUzGH9paEwqiqwr2f9OUL1YYWD/OJa/cKaY6QmFQ4pn7LsjTXPYsWurcgYdKtFbCcHBDOjLx7Mp7aUmzWVyzvcD5ECjkuWJ2RVW311ifYWUzEngI6qlGnSc=;BkXKyhLCWzDoSBgolff4Qw=="
 ---

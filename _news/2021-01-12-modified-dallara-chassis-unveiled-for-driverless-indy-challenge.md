@@ -9,7 +9,7 @@ ampWebUrl: "https://racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-d
 cdnAmpWebUrl: "https://racer-com.cdn.ampproject.org/c/s/racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,52 @@ images:
     width: 1000
     height: 508
     isCached: true
+
+related:
+  - title: "IBM Leads in Quantum Computing, Ford in Driverless Car Patents"
+    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of U.S. patents issued over the past five years."
+    publishedDateTime: 2021-01-12T11:38:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 91
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwEsndloHN6I/v0/-1x-1.png"
+        width: 750
+        height: 820
+        isCached: true
+  - title: "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy"
+    excerpt: "Waymo LLC has raised a further $750 million ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than expected ..."
+    publishedDateTime: 2021-01-09T23:59:00Z
+    webUrl: "https://br.advfn.com/noticias/DJN/2020/artigo/82437841"
+    type: article
+    provider:
+      name: ADVFN
+      domain: advfn.com
+    quality: 51
+    images:
+      - url: "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:GOOG&p=5&t=52"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
+    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) scientists and researchers received 9,130 U.S. patents in 2020, the most of any company, marking 28 consecutive years of IBM patent leadership. IBM led the industry in the number of artificial intelligence (AI),"
+    publishedDateTime: 2021-01-12T11:49:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-technology-issues-b127aea7d4972afeb751e654949d3968"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "/bA+D2XNfHJ2y+pcEqUXQkpXlUC1B7h329CifgbH6blv5wTuStw0gJ5j4bTmDuJSgCrzN37SWpywGDKXIkZU2fsB2ZNNCqMa29xMPEmtnQLYWJ3YkJDAcTkM1tfqllqt+dMr+ctIRWdcBfwSdq5AkS+eXtZ/6yeEIW9Eero4KRBehMWX9+clRs/Niv8pACP0ZxjOElsdmAbUtkeSNzfcaeCKEEOPuyrYvKCpQhfNBtzD7X05U8VphdsWw58PC/ofqcgnnBL04A8pu+EUJjOWK5THta0xmu3kI9KkfSMFqpTK8UfqR0DMRb5BpcKrTnxeuKjtHrgKG/23JApR9Mq6X1RlDQ0EwHhHR17hH7Zuf+qwZZG9xplFiqYIyN2aIxZpxZcFEGau2cjg6JRusuVmzrZMGbFR+X9YFgmrwedRkammlipZBARRjKLv+wNuXAaWEfzSoosgwMQVT/xoPjSvXnhyyoNpRF6YTeefLuh+sGK1sfgfQtW8ODCL4XYE0SSryGwbIQxEa7lJ8/q+TALcSg==;6BuqJiqVTegGIYt5tcgFcw=="
 ---

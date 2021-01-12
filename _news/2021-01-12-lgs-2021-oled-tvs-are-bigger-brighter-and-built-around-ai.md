@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

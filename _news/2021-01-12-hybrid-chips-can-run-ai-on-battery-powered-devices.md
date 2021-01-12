@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-po
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
 type: article
 quality: 74
-heat: 105
+heat: 104
 published: true
 
 provider:

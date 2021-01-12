@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-ro
 webUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera"
 type: article
 quality: 100
-heat: 251
+heat: 250
 published: true
 
 provider:

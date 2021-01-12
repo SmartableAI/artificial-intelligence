@@ -2,26 +2,26 @@
 category: news
 title: "How far can facial recognition go in finding rioters in D.C.?"
 excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-publishedDateTime: 2021-01-12T03:54:00Z
-originalUrl: "https://www.wltx.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-webUrl: "https://www.wltx.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-ampWebUrl: "https://www.wltx.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+publishedDateTime: 2021-01-12T11:44:00Z
+originalUrl: "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+webUrl: "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+ampWebUrl: "https://www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WLTX19
-  domain: wltx.com
+  name: WFAA8
+  domain: wfaa.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wltx.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+  - url: "https://media.wfaa.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -167,6 +167,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "lPUP11EpNJCbqDBhxdpqNA4GjkEh2CgU5Hz0KGfogezIpH4oTV8qdhoHiQIDH0kc4nzf8ikU/l/0kefuC8pKX4uQ3kikY+7UHfbfUeRbxVitIhosLX3xhRT6fdsG6icN1cFB4ogw9c7UsTZHwH+vpe/fHrjq1Cn7Dxj1oKQlsoW9BRV1OdZ4YInl/c2pdEP5YyHrJ/UzQLE740eF7fHTTvNHb4mxqfsHk7RWjHtl8rAuGDdDolr/t3mKHIWptWdZdOo74QCJmIdjme88l6hLdKfw/zMvA/f5HgZpDR4H5zd0cSYO9pj/MUT7QlxUDtLN03PN2GSRZFSUtjHT6Z0FJEWrLQ+KKCKwdH6w1LcZ0So=;Gzv4ODQOHS89VikxdWRE6A=="
+secured: "9OwykowUJq3ElUUP9zbz70oxWQnv7hB0PB3qyE12LZn4Jr1+DLm7v2p3KSpcRrp5Bgb69SxiyxyjYyHg0d3FoXPIowvXdcojPK7Mb4/DSZ6he7OEVKN1l8+DBqJ4Cdyt1p8ODygHh+NsIoVWd5eLI3sGiws5mTqvmk4ZdHms0XFU39VIevLp3/s1+Rd8xhtTUjpZ+FOw39tkpXE62w/gP5smkV/4XZSst+ovAi6l/rOp855I9Rp81aR3qMNUVU9GFRgDXFWGeEqoC67Cbrf/Gw1xg9dxjSQr00H3Fov99FZSazuJG7fbkrz8jLne5Ng/RIRPD5lwqm/6ihGplpsxlaHml9FQIov4lSltexvMHA4=;m6/V7zpvITl8JeEjxuuP1g=="
 ---
 

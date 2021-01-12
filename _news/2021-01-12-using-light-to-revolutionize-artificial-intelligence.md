@@ -23,33 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Two ways of performing massively parallel AI calculations using light"
-    excerpt: "Now, two different teams of researchers have figured out ways of performing calculations with light in a way that both merges memory and calculations and allows for massive parallelism. Despite the differences in implementation,"
-    publishedDateTime: 2021-01-07T20:56:00Z
-    webUrl: "https://arstechnica.com/science/2021/01/two-ways-of-performing-massively-parallel-ai-calculations-using-light/?comments=1"
+  - title: "How To Find The Right Business Insurance Using AI"
+    excerpt: "No longer just a hallmark of science-fiction, AI is pushing the business world even further with its integration into several business sectors, including insurance."
+    publishedDateTime: 2021-01-12T10:58:00Z
+    webUrl: "https://www.newsweek.com/amplify/how-find-right-business-insurance-using-ai"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 69
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/Laser_frequency_comb_installed_on_HARPS-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "One piece of optical hardware performs massively parallel AI calculations"
-    excerpt: "Now, two different teams of researchers have figured out ways of performing calculations with light in a way that both merges memory and calculations and allows for massive parallelism. Despite the differences in implementation,"
-    publishedDateTime: 2021-01-08T06:23:00Z
-    webUrl: "https://arstechnica.com/science/2021/01/two-ways-of-performing-massively-parallel-ai-calculations-using-light/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/Laser_frequency_comb_installed_on_HARPS-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://d.newsweek.com/en/full/1702534/coverwallet-insurance-ai.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "deHzLbDUrh6IigQLrPLqzyvCwCFU69QiZOilw8R3CLkVicdopeZHvrnmvJVF8Kelw8uCORO4y0obV2XhvTQrvPuo0JfuxdV+wYi5YMjlCNluYaMmZhqgxpHbc+EvolYoH3VJnm3y9Niovcb7JUGCgQo7JGz1OMEEuowwNNMipa3rmmtY1ufw694XOddMRaqaMd1b9mtkHZMBpcZFlM4X6NSWDxKztKt8DRQHABiH6CtfvrnbQhkHrnjMtUiNmFcS+A42jmfApIcbIfhc4ai2JqBpnUWs2d0PKu+hllQ+rrpjRtGf16AdEMZlPV44SdeclYGfUYbVxhlApVK/9wogjbqdj0vjVheYHn3ZxhXwF78=;9vcvOJFcoct5F3S4hhtRKw=="

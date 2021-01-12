@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot Software Market 2021 with Strategies to Boost Growth, COVID-19 Impact, Manufactures, Types, Applications, Status and Outlook to 2024"
+    excerpt: "Virtual assistance, autonomous robots, point-of-care testing, navigation & object detection, business process automation, customer support services, and autonomous vehicles among others are some of the use cases of the robot software."
+    publishedDateTime: 2021-01-12T12:16:00Z
+    webUrl: "https://menafn.com/1101420071/Robot-Software-Market-2021-with-Strategies-to-Boost-Growth-COVID-19-Impact-Manufactures-Types-Applications-Status-and-Outlook-to-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232380"
+        width: 374
+        height: 250
+        isCached: true
 
 secured: "kXs5v8hGBK4qfdFJNKw99dHhvrsBtKW/HLg0+k/cFouDjOm44HZel7Rc5c7s86Al77AmIc/JUaOpFuW09E1x6tQqaR7M8W2r6y3nLByiIoTRYxZ3fgmETfgm4hiE4x0Q5CSzYCqhNSsYkgpjOkZvawBkX/svULm5vtyyavXON/Zi3s/RMk6sVYwOymyVwN2Z+ZuDadrwZ0NWcX+oUmC/mvj6SJNxU/glA17HUI+LwA4et8ejoBhTXeRTjqzBF7vqxIrTPeaxCggdxMlOPp4Pxn2mJhXoD7kR39T8tM4IMGHjwdBUUIOMlqH+zEq9OOz24NTO+g6fmKdcrbe84emaobrlq5vNMZmGlmOcHDrtC7c=;UqHzNK8Y5y6K7D80rEUmWw=="
 ---

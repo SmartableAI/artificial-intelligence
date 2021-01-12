@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-05-government-to-seek-advice-on-facial-recognition-tech-laws.md",
+      "title": "Government to seek advice on facial recognition tech laws",
+      "excerpt": "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html",
+      "originalUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html",
+      "publishedDateTime": "2020-12-04T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-aws-panorama-bringing-computer-vision-to-business-masses.md",
+      "title": "AWS Panorama — bringing computer vision to business masses?",
+      "excerpt": "Amazon has launched new hardware and an SDK that can turn any networked camera into a computer vision device Users can deploy machine learning models to",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
+      "originalUrl": "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_180105386-450x300.png",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
+      "publishedDateTime": "2020-12-03T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation.md",
       "title": "New Apple iPhone Patent Applications Surface: Object and Facial Recognition, Messaging, Voice Modulation",
       "excerpt": "The patents cover object and facial recognition, messaging, and voice modulation. Object Recognition: One patent application, filed on June 17th, 2008, describes methods by which a mobile device ...",
@@ -1304,101 +1391,6 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-facial-recognition-software-is-learning-to-identify-bear-and-cow-faces.md",
-      "title": "Facial recognition software is learning to identify bear and cow faces",
-      "excerpt": "Nowadays almost everyone uses facial recognition in some form or another -- maybe it's to get into your iPhone, or when social media platforms suggest tags in photos. But if you thought humans had the monopoly on facial recognition software, think again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
-      "originalUrl": "https://www.cnet.com/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/rR_RZA0zkc895t7cvkrGUVfW_XE=/1200x630/2017/05/11/e208a8c4-30c6-4b77-a7a5-6577c3a64e6a/gettyimages-490055-0011.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
-      "publishedDateTime": "2020-11-23T03:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-face-recognition-attendance-system-for-bmc-staffers-soon.md",
-      "title": "Face recognition attendance system for BMC staffers soon",
-      "excerpt": "The Brihanmumbai Municipal Corporation (BMC) will soon introduce face recognition/reading attendance system in all civic buildings very soon. After starting the new attendance system at BYL Nair Hospital in Mumbai Central as a pilot project,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon",
-      "originalUrl": "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnt.trvdp.com/truvid_default/640X480.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf",
-      "publishedDateTime": "2020-11-22T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
         "images": null,
         "publishers": null,
         "authors": null

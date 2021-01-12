@@ -1,30 +1,78 @@
 ---
 category: news
 title: "Burnley turn to artificial intelligence in search for academy players"
-excerpt: "Burnley's search for prospective academy players will be boosted by the power of artificial intelligence, with the Premier League club announcing on T"
-publishedDateTime: 2021-01-12T10:19:00Z
-originalUrl: "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/burnley-turn-to-artificial-intelligence-in-search-for-academy-players/articleshow/80231593.cms"
-webUrl: "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/burnley-turn-to-artificial-intelligence-in-search-for-academy-players/articleshow/80231593.cms"
-ampWebUrl: "https://m.timesofindia.com/sports/football/epl/top-stories/burnley-turn-to-artificial-intelligence-in-search-for-academy-players/amp_articleshow/80231593.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/sports/football/epl/top-stories/burnley-turn-to-artificial-intelligence-in-search-for-academy-players/amp_articleshow/80231593.cms"
+excerpt: "Burnley's search for prospective academy players will be boosted by the power of artificial intelligence, with the Premier League club announcing"
+publishedDateTime: 2021-01-12T12:56:00Z
+originalUrl: "https://www.channelnewsasia.com/news/sport/burnley-turn-to-artificial-intelligence-in-search-for-academy-players-13945046"
+webUrl: "https://www.channelnewsasia.com/news/sport/burnley-turn-to-artificial-intelligence-in-search-for-academy-players-13945046"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://static.toiimg.com/photo/msid-80144619,width-242,height-136/80144619.jpg"
-    width: 620
-    height: 413
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13945048/16x9/991/557/60d3b0b8f54e35109d7744036e5181b6/HD/premier-league---burnley-v-wolverhampton-wanderers-148.jpg"
+    width: 991
+    height: 557
     isCached: true
 
-secured: "QYwqPOF/zbmYk3pAJFZtCB4nt+TPGH8p0Tf1AsSBk/RIs9Word6yYJBsoGVRmPdnjWuxyZoVtLGNAHjyUmvs+pQ2tLzoE1+DDzmAL+IFnoGIvBd1t/qrTDyRsOxgZd95qSXVw9kClxNEIQt7kVk9DS2WAO4Ehu2dq7sAYkl+t0WhzL+Wml/bdhzx6kkZsd++DxdhRfbABEH6LwOr+mX7aujthWJGQ7Q4nqaFDOEKQ542oTe6klZQVKsIlPfmVsIhSlIRTj3udempTtEebn1c+ZP43eAzaxOBc2+2rkCMyaahoGw2+Okyi31Ml2OkZtB+Ohms1cQEG9uHLB3te7AhZsAVV/aOzdSUypEy/DgsmsU=;Hc3a631mDZXArsnqxWyRqQ=="
+related:
+  - title: "Burnley to use artificial intelligence in search for future stars"
+    excerpt: "Burnley have announced they are to use artificial intelligence to help them identify young talent. The Clarets have partnered with talent identification platform AiSCOUT and launc"
+    publishedDateTime: 2021-01-12T11:25:00Z
+    webUrl: "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html"
+    ampWebUrl: "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html"
+    cdnAmpWebUrl: "https://www-sportsmole-co-uk.cdn.ampproject.org/c/s/www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html"
+    type: article
+    provider:
+      name: Sports Mole
+      domain: sportsmole.co.uk
+    quality: 57
+    images:
+      - url: "https://sm.imgix.net/21/01/sean-dyche_1.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Burnley to use artificial intelligence in search of future stars"
+    excerpt: "Burnley have announced they are to use artificial intelligence to help them identify young talent. The Clarets have partnered with talent identification platform AiSCOUT and launched an \"open global talent search\" in which they are looking to unearth players over the age of 14 that could join their academy."
+    publishedDateTime: 2021-01-12T11:25:00Z
+    webUrl: "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-of-future-stars_430220.html"
+    ampWebUrl: "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-of-future-stars_430220.html"
+    cdnAmpWebUrl: "https://www-sportsmole-co-uk.cdn.ampproject.org/c/s/www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-of-future-stars_430220.html"
+    type: article
+    provider:
+      name: Sports Mole
+      domain: sportsmole.co.uk
+    quality: 57
+    images:
+      - url: "https://sm.imgix.net/21/01/sean-dyche_1.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Burnley turn to artificial intelligence in search for stars of the future"
+    excerpt: "Burnley have announced they are to use artificial intelligence to help them identify young talent. The Clarets have partnered with talent identification platform AiSCOUT and launched an “open global talent search” in which they are looking to unearth players over the age of 14 that could join their academy."
+    publishedDateTime: 2021-01-12T12:19:00Z
+    webUrl: "https://www.eveningexpress.co.uk/sport/burnley-turn-to-artificial-intelligence-in-search-for-stars-of-the-future/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/sport/burnley-turn-to-artificial-intelligence-in-search-for-stars-of-the-future/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/sport/burnley-turn-to-artificial-intelligence-in-search-for-stars-of-the-future/amp/"
+    type: article
+    provider:
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 56
+    images:
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/2.57338805-1-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+
+secured: "VWFwh8WLmnG6nbIY2+6K7dqYjgT5O4IZJKIrtsCVo7lhUyVQmiVb1vlgjR0KysatLjjX1MM+nm3PILJejojEhm/vM3AEHX/XHU5lejhqEo8SmUDNIIhT5c8AsvBKWeY1QOvGm+v89PdrnKr/qjAhmzb4s8gHzsSqkNNeb4vbbJ5jMCZw66NCd29Z3wWGlL4u1ahDzjR0XB8qqKN6IXsLkZFaRzc1RXBcjWEGL6xxTsGjHjeTeuuJzgGCtMTk5u0AUXxVyK+8MOr533UTNkdmGP4w6qo1Fxx1RyLje4KxvhffsY1tR2sDvoq9pSC0NQIG70qJ/j47oOG/lP8ealtSjW47X/U0Mgq999I2qU7e9ok=;P6pgncVmev6BGwJeoPul3g=="
 ---
 

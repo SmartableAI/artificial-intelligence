@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Aware Super turbo charges fund modelling with data driven transformation"
-    excerpt: "Aware Super (the new name for First State Super) manages the retirement savings of more than 1 million Australians and has more than $130 billion funds under management. It is one of Australia’s largest super funds and continues to grow – both organically and through mergers,"
-    publishedDateTime: 2021-01-10T23:44:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/aware-super-turbo-charges-fund-modelling-with-data-driven-transformation/"
+  - title: "What industries need to avoid transformation limitations?"
+    excerpt: "Dave Jordan from TCS explores what industries need to avoid transformation limitations and embrace horizontal ecosystems"
+    publishedDateTime: 2021-01-12T11:49:00Z
+    webUrl: "https://www.information-age.com/what-industries-need-to-avoid-transformation-limitations-123493336/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 23
+      name: Information Age
+      domain: information-age.com
+    quality: 24
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/AS_POS_INF_LIF_002_RGB-1024x681.jpg"
-        width: 1024
-        height: 681
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/former-aviva-executive-will-wood-joins-instanda-life-health-lead-512x220.jpg"
+        width: 512
+        height: 220
         isCached: true
 
 secured: "TDr+Skz65Hph9o2w+MDmuq0mWqOVK3jPnC218ms7is5u+FGzBLiXXL5DRE8CGHbQ+n7mPmT0KYYTu20lX+KHhUeLJE4xFOldBzzJfRP39n0VsDI0gu0a6B1AUodHLNzGC3RyKmDPp7CsmFFmE/HbI3H3Nu0IenB6KitceDhuO7vi0zlsXJdYkUunDYARsrMz+ziVaXrVWe6q3aiUEN5TfYWLYOaYL85iNiZ0t7tREIdtZblrVzHlrwJZDIW7384rlV/g2BXWjZqjKjzKgINVplAOlMRsz/KgQK/7vYBbVXjGm3l326TdnPot/flYwxe2iIkqAFM/WInYrCGZWc4SND78uWnGuCF9ZFQU4no7nqf/YNsEKiSkH6UQMCOqEYBCXcMcQPiUqcRcI3r3rFtnnw1ZrQVa0uhn9Is46OpaMEdSmq41B7mUySdiN8P8FjhvLUaiCSloCzBJUT2ggmuVsRv/FSzFSnc2IzASE77ipdqK41ON0msfr42hRO+Sc1/OG7gCPAhndofu8aeF8XU/NA==;CRirDIBrqRx9KZqDJ9Y//A=="

@@ -3,8 +3,8 @@ category: news
 title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
 excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),"
 publishedDateTime: 2021-01-12T09:47:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b/gallery/c11ecc5667401ba031708f29a0cf3e06"
-webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b/gallery/c11ecc5667401ba031708f29a0cf3e06"
+originalUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b"
+webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b"
 type: article
 quality: 2
 heat: -1
@@ -35,6 +35,6 @@ related:
       domain: socaltech.com
     quality: 4
 
-secured: "X1h3QysvMRmmU7+wpvI5+p9+pIuqZwZt8tlyNA0u3rJiT/w7+QRcbVud0f18XiB6oc3Fb2YCFaMraMoScivSLmP7Cm5uffORwkWi4P+rsKAszUs91To1jhUJHuL2L4ZJ6xyJ/j3kH1yUDVc9eqTi7VJF+oT0aOPQ44G/XhOQozdkSjquMe2WFGFFc4FTeiolJ00t4oVxChixWj32x4ZUxVvmhD/77V5xEEza6E4kmPt6dg7Wz1AgZB7xFmBW8PO6Mt/zrfoi/yaA2YN0xPNns+FhA5eJH7w+pwVoymw45bqO5sR+EbnYtmQikxM28pxOOOZgTiilWnsqHgoNLC0Go4EKYCjKG2/AAxgbiRTze8I=;qqSYVU9bL2Chvo7dbCCuDA=="
+secured: "WsHLnIoDKdviuIT+n6+VQ26ZKBcatqd3Sd5uJYmgLVB9hhAZBwjdf/uHnTW2YaIQB9l2GJ2W06U/9Vzb6r8AItr0/n8Ur1xNCLCqoIi1SKbvxn7oy603NgXeQVLq0YZqvoHq+fX200Hlgc6cspEivpdWL8FVmh+zTET0s0A7VPSEIOt69UeyFB8dcHnXGfvY3lG0fzczPgnYBP1g8+o9YDgPqvH844UfFLgHywba/WU2/CY1i9+nzcEJiX+EazDE4tdhJhZG2vdZC/A85Dxc6LZ74I+EQ7gpn50x6YqWzj0jlcR9VP86p8Dd+y7h5OR4xs+IN0rwywCioPS5yV6ls8mr0Ec4jKfSwQ4tNfh3x0s=;syIeZPO5/gvzX3bYiIrAmQ=="
 ---
 

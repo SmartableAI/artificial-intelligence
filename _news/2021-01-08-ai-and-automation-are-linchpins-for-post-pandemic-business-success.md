@@ -23,17 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "AI and Your Business: Investing for the Future"
-    excerpt: "AVEVA’s Jim Chappell, Global Head of AI and Advanced Analytics, describes how smart investments today can set businesses up for better tomorrows."
-    publishedDateTime: 2021-01-07T19:27:00Z
-    webUrl: "https://www.cio.com/article/3602928/ai-and-your-business-investing-for-the-future.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 17
-
 secured: "KODXXgCubj+KkYy5hfYriSwfWjrWMyEDZBhCrG9e4sJyZeCBJ69ZDL7SvL7MUrrtyti/cthz8W94+FyIOkG5u1RWjPLlpkyeIxX8Lo8xf74SElzIH8b2JpH68rlGhRB1Q3IPnP9S7pnX/yWTmghl1Zmo61kWSclpsCSNyTJVOe8LW12JpzGpnCBqa2pnKE6+Y/stW+qcLAV5BJYCP55XSzvZ+3/7Adp5/bKSDivvsiOLpuD5iigjAralYJzQmGBflZVYGsh61WJtBIwrVV76EBCfMPeCoa68vjjKEe+cRr72t8PNoVsAtoBq4XGldbv8yZkQrRbDLN5zArhcm4EMGDf87KbZqFoDCb+8Tn41vBi4zp0/MHRMzp5MKkZ0b3eupNHpjoXKDyv+XiXLQ1jzGDWIhOExYlCZARMuYYPv7wVN/CyH0+2LQJiaOxrPtKfK6bZI1Z3KeWAeYikP7oLww+TCRPrX1cQ+6mm4TRgFK3FDMERlt6KYs0LkQGtZLwMoXk6Z6TjtOc56UFMvIszmhg==;3mqM7i13GTDGjN0RvP6Bmw=="
 ---
 

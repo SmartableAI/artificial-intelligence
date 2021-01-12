@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "For Latam’s environmental defenders, Escazú Agreement is a voice and a shield"
-    excerpt: "As the world became fixated on the coronavirus pandemic in 2020, the situation for environmental defenders across the globe has only become more precarious. In 2019, 212 environmental activists were murdered worldwide,"
-    publishedDateTime: 2021-01-07T20:05:00Z
-    webUrl: "https://news.mongabay.com/2021/01/for-latams-environmental-defenders-escazu-agreement-is-a-voice-and-a-shield/"
-    type: article
-    provider:
-      name: Mongabay
-      domain: mongabay.com
-    quality: 1
 
 secured: "kGKcTxsGmppKBwziEriUqscklNYWaBVQw/q99l1bZ9pLNZP53ox68GkA9fcAvCGiUSkpobRCRBF+MRhqwRJADv1GkiqihoGoqFK9JmqMFxa/PVV15HCQzBh762g7cQKdBzy6FgOVzhnS+C6fZHsBS39D07Xo/lB2/+s2TgaFC49sIWrL2ZS5s63xWEVEVVPQXgtyPb/KFJgpzIEwgb7VuKHDZaThYGAKVH+F5b2Fkyv1r8U1Gzn0rAWh/JN+EbvNAf7IIp0X6NLlJbeYsVEFYHwZxJ8V8bsSx/gIXHqD+PGJnpv20dgDSEoHp9QsPV8cnM4ziWMyaU/BnngwQmlokVwIiNJ4kA1jWDqoSldTREp4VpHT9G9Ha6septHP6WnIgzVStL01uyE3QrKipAg2HwzmW+Px3V1Lu9gxomRo9txKi4YtKnZLvin7mE6iSwIVtv+6zbgqQA0q3RpFpGWoq3JKjD8uiqMr60GmtJdW3+B41SsgC0YBDj+7S+nNUBH554fO63qhenI6nYzS5joNbg==;qqdMeZvkJi64cS+omez6Qg=="
 ---

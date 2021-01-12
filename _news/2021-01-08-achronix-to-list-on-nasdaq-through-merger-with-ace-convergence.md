@@ -39,6 +39,20 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "New Science Ventures announces merger of its portfolio company Achronix with ACE Convergence"
+    excerpt: "PRNewswire/ -- New Science Ventures LLC (\"NSV\"), a leading venture capital firm focused on building companies that leverage breakthrough science to"
+    publishedDateTime: 2021-01-12T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/new-science-ventures-announces-merger-of-its-portfolio-company-achronix-with-ace-convergence-301206141.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "AmWtVniJNg6fLzeRCcfE7XCVY+qToG6u6HE9r2akkHJlAM8r5kkV8+RfFrl/UEz2MzcJhShZJDi5lsHS7MEhwkOvHyb0mULqViKt520AwV2Zp9Kyz2J2z+OmcX1ijXLV9Nz2ZZ+GJUkJ9vgu42OgjlGxXzk5ldOlyKCyKltydDAYPP8+r8RLgDk3/cniQt7FjP7/ulL5M2g7qtYhCJGEqC7gneQWhbPVYqzoFFiVFA2m0SttUWVtAG2qdasnYY7VU65F754+/fC56YfeOxXsTsnmvJHNaqzbSqPd4atBuOgRTYDzQ7EFf+Zr/3qDR9vtGJOLUXX/W6/fFXnANnW4X21rfYOIHAa9NWV76WBUnzo=;o64zNJb8y46biAMxoZLI6g=="
 ---

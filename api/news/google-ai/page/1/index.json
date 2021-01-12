@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-collaborating-through-open-source-to-advance-ai.md",
+      "title": "Collaborating through open source to advance AI",
+      "excerpt": "That something is open source. The sheer number of open source tools available to developers - from libraries to frameworks, IDEs, data lakes, streaming, model serving and inference solutions, and even the recent end-to-end tool aggregator,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/collaborating-through-open-source-to-advance-ai",
+      "originalUrl": "https://www.techradar.com/nz/news/collaborating-through-open-source-to-advance-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/collaborating-through-open-source-to-advance-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/collaborating-through-open-source-to-advance-ai",
+      "publishedDateTime": "2021-01-12T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-meet-the-researcher-creating-more-access-with-language.md",
       "title": "Meet the researcher creating more access with language",
       "excerpt": "When you’ve got your hands full, so you use your voice to ask your phone to play your favorite song, it can feel like magic. In reality, it’s a more complicated combination of engineering, design and natural language processing at work, making it easier for many of us to use our smartphones. But what",
@@ -1443,58 +1495,6 @@
         "AI",
         "Google AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-after-an-amazing-year-for-science-whats-next.md",
-      "title": "After An Amazing Year For Science, What’s Next?",
-      "excerpt": "I’ve written about AI’s use in battling the pandemic already but arguably its biggest breakthrough in life sciences this year came at Google’s DeepMind AI lab in London. It has now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
-      "originalUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd776b192162aafb68c1685%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
-      "publishedDateTime": "2020-12-14T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

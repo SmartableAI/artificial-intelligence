@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-can-pow
 webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-can-power-climate-change-strategy-marr"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,38 +26,6 @@ images:
     width: 1377
     height: 600
     isCached: true
-
-related:
-  - title: "OpenAI’s AI can generate an image from a sentence"
-    excerpt: "This artificial intelligence model has a simple task: to create an image from a text. If this indeed seems very simple on paper, it is still an extremely complex task for a robot. DALL-E is based on GPT-3,"
-    publishedDateTime: 2021-01-08T12:05:00Z
-    webUrl: "https://galusaustralis.com/2021/01/1047291/openais-ai-can-generate-an-image-from-a-sentence/"
-    ampWebUrl: "https://galusaustralis.com/2021/01/1047291/openais-ai-can-generate-an-image-from-a-sentence/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047291/openais-ai-can-generate-an-image-from-a-sentence/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 59
-    images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2021/01/avocado-1-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
-  - title: "OpenAI’s DALL.E Can Create Images From Text Prompts"
-    excerpt: "OpenAI has released a 12-billion parameter version of GPT-3, called DALL.E, to generate images from text prompts."
-    publishedDateTime: 2021-01-08T12:32:00Z
-    webUrl: "https://analyticsindiamag.com/openais-dall-e-can-create-images-from-text-prompts/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/DALLE_AIM.jpg"
-        width: 773
-        height: 604
-        isCached: true
 
 secured: "7r329vq490uSB2C3OPKtA3xpssMPLYqFS5XR5INpprfXY7MUeJ+ZY7zlTPE8Q2U+8+54b14KMUYj7hiVh4CBx1z7XBNxQaPhxvCm8TY3HvMP1dBW7UnhozyDIf7LNrogi7OlGHlq5VkSKW+Cs2Poyamgv82e0GOy57B0TK4MsD3GM6BJHcgFxs+WvnFCWHuJLCLVAF3iGY8K+hMqndjK7zzBDpvxsM0p2dOfelCk3FGEJHXZEYLfASi2GFF3Osd6eK2/WdZ4B5HaOe9sx+XXt+rmDjDiojq/1XLBJzgxM5nVyEVJ1FfDOSrr7HWmPdlHs1GQn1WJrVvTrTEnXF5MHsHeZu+VbCy3gXcAidOv0c5RMciirINWptnE1Cwk/Y5sTYHdCln4UJcH0cw2/RKjwXo8tl1ffzvr7RFZEtY3HCHG3vDptl6Asi8hpyNLDhdKX71R4xn8TTm5ycw6k925WDQfDDZKuysRMI8lV31nx8Vy/Q8PKaqXazc/offQ+xCq6RxNqu0a7c1P7Yg7KZ6R3Q==;TZAAGXwPF+T9n0LK76fvuQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/image-recognition-market
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-2021-01-08"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robot Software Market 2021 with Strategies to Boost Growth, COVID-19 Impact, Manufactures, Types, Applications, Status and Outlook to 2024"
+    excerpt: "Virtual assistance, autonomous robots, point-of-care testing, navigation & object detection, business process automation, customer support services, and autonomous vehicles among others are some of the use cases of the robot software."
+    publishedDateTime: 2021-01-12T12:16:00Z
+    webUrl: "https://menafn.com/1101420071/Robot-Software-Market-2021-with-Strategies-to-Boost-Growth-COVID-19-Impact-Manufactures-Types-Applications-Status-and-Outlook-to-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232380"
+        width: 374
+        height: 250
+        isCached: true
   - title: "Global Conversational AI Platform Software Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
     excerpt: "Impact of Covid-19 on the Conversational AI Platform Software market: [Covid-19 is an unforeseen and unprecedented situation that has turned the whole world upside down. And like all major disruptions,"
     publishedDateTime: 2021-01-08T04:03:00Z

@@ -41,6 +41,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Marc Levin Joins United Fintech as Partner & COO"
+    excerpt: "Marc Levin, former CEO of CFH Group, has joined United Fintech as Partner and Chief Operating Officer (COO). With responsibility for the operational and commercial aspects of United Fintechs portfolio,"
+    publishedDateTime: 2021-01-12T10:36:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/marc-levin-joins-united-fintech-as-partner-coo/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Walmart Announces Creation of New Fintech Startup"
     excerpt: "Walmart announced the creation of a new fintech startup designed to develop and offer modern, innovative and affordable financial solutions. The new company is a strategic partnership with leading fintech investment firm Ribbit Capital."
     publishedDateTime: 2021-01-12T06:08:00Z

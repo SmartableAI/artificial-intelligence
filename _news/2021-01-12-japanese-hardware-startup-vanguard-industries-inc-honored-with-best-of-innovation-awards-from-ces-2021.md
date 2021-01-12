@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-12T10:38:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-tokyo-ef38884b153e292c17114179194d634e"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-tokyo-ef38884b153e292c17114179194d634e"
 type: article
-quality: 4
-heat: 4
+quality: 6
+heat: 6
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

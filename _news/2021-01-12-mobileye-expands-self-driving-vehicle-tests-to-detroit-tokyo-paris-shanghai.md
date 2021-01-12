@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/innovation/2021/mobileye-expands-self-driving
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2021/mobileye-expands-self-driving-vehicle-tests-detroit-tokyo-paris-shanghai/amp/"
 type: article
 quality: 55
-heat: 76
+heat: 75
 published: true
 
 provider:
