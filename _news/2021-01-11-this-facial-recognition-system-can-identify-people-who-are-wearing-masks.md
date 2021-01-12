@@ -103,38 +103,6 @@ related:
         width: 560
         height: 350
         isCached: true
-  - title: "Intel's new facial recognition system for ATMs is made in Israel"
-    excerpt: "Traditional authentication methods leave users vulnerable to ID theft and security breaches, Intel said, leading companies to pursue facial authentication technology for higher security standards."
-    publishedDateTime: 2021-01-07T14:30:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/intels-new-facial-recognition-system-for-atms-is-made-in-israel-654620"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/intels-new-facial-recognition-system-for-atms-is-made-in-israel-654620/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/intels-new-facial-recognition-system-for-atms-is-made-in-israel-654620/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/449775"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "Intel’s RealSense Finds A New Lease On Life As A Facial Recognition System"
-    excerpt: "Intel debuted its RealSense depth-sensing technology several years ago where it made its way onto devices like laptops. Thanks to the use of"
-    publishedDateTime: 2021-01-07T14:01:00Z
-    webUrl: "https://www.ubergizmo.com/2021/01/intel-realsense-facial-recognition/"
-    ampWebUrl: "https://www.ubergizmo.com/2021/01/intel-realsense-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/01/intel-realsense-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "This Facial Recognition Program Can Tell Who You Are Even If You're Wearing a Mask"
     excerpt: "One Japanese company says they've developed a system that can bypass face coverings for facial recognition. Veuer's Tony Spitz has the details."
     publishedDateTime: 2021-01-07T21:14:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-present
 ampWebUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
 cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/lg-virtual-human.jpg?offset-x=47&offset-y=0"
@@ -88,6 +89,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "CES 2021: Pandemic’s robot ‘heroes’ highlight their value at tech show"
+    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
+    publishedDateTime: 2021-01-12T06:15:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/12/ces-2021-pandemics-robot-heroes-highlight-their-value-at-tech-show"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005074.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "AI clothing for improved sports performance unveiled at CES 2021"
     excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
     publishedDateTime: 2021-01-08T11:46:00Z
@@ -153,6 +168,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "yRkTAhqikYVTu4wD/uC4HdIM+aR54VjXUvOj8YMLHfyIdsxRC/DNo+0MetQB8bfrtNPYeYHzh1tlql3ZWSUGVuSDzGVbKHPUN7AH8Gvl8ERxgn/W6wwUu4ByXRZc+OJ7PuRK/iIC6prfBAEjLgh2g2hSqDij2Qy63Qlv2RjJRs4xCm3dCsGGdwom4/PBORHjSfwh5T1wgFZTg6xA4yCpHkhpJKi6hlSxjTinN/eRakH9ukE5bdXhuO9acyrtRz+T13etbz9An6mNGaz7m7MAi/IPJcG3nDrIuCLC1UJZsNj19gwUIOzIQQGoXO1hbMIsxSahssUcgRm/w6LA4mrWOgghN3SOeXt8QPKHYUaAVxM=;jpyLBjvlYvyBqJEx1r5q7Q=="
+secured: "HA6SPQ3SNylBZSvGpr8PSsy4Xvm4sd72GLICrJbvM9P1T1VQmPQ0AiiTd/8M8FRb/NXbJeZtB0VAjq6AO+7CjklR1OAJz8cS8O0nn3JaQlwdcxDetruQ4WDpaxrBptfrFHHunBFkNkThWtGUngWaFKvRDfuRGC7nSGZDSVasMk5bNzJ4dNBbjbz4KKOUeNn6ZWbGia5uBN+dD7oes6CJNFrjHKpbs7DO7KHPSqslkvsVRVoIz/ZAZuvzXabnjcjNTaY8VdJpyCDSTTofBbRu7SIjMB9BE3GMlgD1wxSrZoJlnpGpsjln4MubeF9ixvt+O0fsJUFcRuEk3CjQYOs27zOuUImW4vy1nF6qcTPavqXsxABLa1Bx+M4RnutFQzXyjC28qlIu9+VEB50iNxQt+qNo61GNtc1BafFL8PEsTLLUASksmrJQbRYumsukFLTGZBFvEz2w7hjxdzjCFpcrd/L2BV4ssrvTCDxOOPWtFBUr4++gWj4KJaerh/WCFphHw6Km5/a8c0YrpQBf/sZQ3w==;irEw4FjsUSibfIC3UcwADw=="
 ---
 

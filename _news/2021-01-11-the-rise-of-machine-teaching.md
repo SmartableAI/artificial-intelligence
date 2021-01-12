@@ -7,7 +7,7 @@ originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144551
 webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144551"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Speeding up machine learning by means of light"
-    excerpt: "Scientists have developed a pioneering new approach that will rapidly speed up machine learning—using light. An international team of researchers—from the Universities of Münster, Oxford, Exeter, Pittsburgh,"
-    publishedDateTime: 2021-01-07T13:33:00Z
-    webUrl: "https://phys.org/news/2021-01-machine.html"
-    ampWebUrl: "https://phys.org/news/2021-01-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/5ff70845ec913.jpg"
-        width: 500
-        height: 204
-        isCached: true
 
 secured: "zpShNdsuRj6j6ZqFO/d8z5lyS7Zpzr94bhe/K/OYmdU+/esSuUMnW55jKfktjsG0S1TDQq7KsKn3zLN5zTZXgMUXO5kYeakc/59VVb2GPOFvvPgM2p3E6P6kFbwcKublgGfFU/usrtuZBFpvNaczrZWQhrKuUiEtrvTfB9lQdrHs9NmSk+fDTbxqVGISgV0MGs5ZyQY+CiWHIdnI+e9aVnGrh2tj/Pm/tbov423MuOW03eKDqvU+ikTRdC4YGxMSsvBqaHqVrmqQGy0GgyEn0XtAfW47sc927kaD63boGsASOdZt+i/P/7FMeRDFJlBrJcpsldgSK/yl3ypCseohZFGrDWzOA3BuYH+IjwKG580=;SWZ26Y9v5r4pmVDMP08k6g=="
 ---

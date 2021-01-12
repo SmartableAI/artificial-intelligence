@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegation
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Photo storage app maker settles FTC claims over use of facial recognition"
+    excerpt: "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app."
+    publishedDateTime: 2021-01-12T04:05:00Z
+    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc/photo-storage-app-maker-settles-ftc-claims-over-use-of-facial-recognition-idUSL1N2JM2VH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 83
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition technology used to identify alleged rioters"
     excerpt: "Facial recognition technology is being used to identify those accused of crimes committed at the U.S. Capitol building this week. But it's not perfect."
     publishedDateTime: 2021-01-09T12:35:00Z

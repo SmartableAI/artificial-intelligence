@@ -30,20 +30,6 @@ related:
       name: formtek.com
       domain: formtek.com
     quality: 34
-  - title: "2020 Insights into the Geospatial Value-added Services Global Market - IBM’s AI Contributions to the Geospatial Domain - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence Enabling the Global Geospatial Value-added Services Market” report has been added to ResearchAndMarkets.coms"
-    publishedDateTime: 2021-01-07T13:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-4653a9051ed74335a3fcc2f35953cd7f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "IYIxOzVzPNw76EfXXY+6hg7TJ+urLgCMe3YTLfTl6F3HlSFqn8FSk/BrJg0o2WUuFCMZcxXGY9CCxJErgjLMS3f6HAOpC6vy/aKelZqKME+k1hCRZcW64Dn+GVkAnmR9iVEePiGhx0yTV0Iyhb+iSy2TsfZJtwtd+jilFhzffkXIg5/OWIqtxYRI9I/D7AdVc9q+9DrzvJlN9jVearOT/3MP+hz7ViTdsK2JEdn1bLjsrzck3UHaBEpzn6EPy03lJJ+NYXhMce59EjzBDDFlZHfQp3grWsQK4+UeBHDZwAK/Z3L5wVDMzVrQ/KJ0OMO8G/Ww3H5SJvkJaFNdXeqKz5ssSp/hK4q7AuNI/ducPvw=;Nt+qOTAPBb6NNAvlHAXCBg=="
 ---

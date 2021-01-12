@@ -9,7 +9,7 @@ ampWebUrl: "https://hrnews.co.uk/top-10-fintech-software-development-companies-2
 cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/top-10-fintech-software-development-companies-2021/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,33 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Stocks to Gain Traction From Fintech Evolution in 2021"
-    excerpt: "Certain behavioral changes induced by the pandemic like online shopping, cashless payments and no-contact deliveries are here to stay and will continue to boost the Fintech space in 2021 and the years to come."
-    publishedDateTime: 2021-01-07T14:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "AI in Fintech Market – Big Changes to Have Big Impact | Google, Intel, Salesforce.com"
-    excerpt: "AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide AI in Fintech industry with an attention on the Global market The report gives key insights available status of"
-    publishedDateTime: 2021-01-08T07:33:00Z
-    webUrl: "https://www.openpr.com/news/2222223/ai-in-fintech-market-big-changes-to-have-big-impact-google"
-    ampWebUrl: "https://www.openpr.com/amp/2222223/ai-in-fintech-market-big-changes-to-have-big-impact-google"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222223/ai-in-fintech-market-big-changes-to-have-big-impact-google"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/U/1/U108805788_g.jpg"
-        width: 750
-        height: 591
-        isCached: true
   - title: "Ignite Sales Appoints New CIO, Fintech Veteran Bob Pittman to Lead Tech Team"
     excerpt: "Ignite Sales, Inc., the financial industry leader in customer engagement technology, today announced Bob Pittman has joined the company as chief information officer (CIO). In this role, Pittman will provide strategic IT leadership and direction for Ignite,"
     publishedDateTime: 2021-01-08T06:43:00Z
@@ -68,21 +41,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Fintech trends that will shape the industry in 2021; The startup putting horticulture farming on autopilot"
-    excerpt: "COVID-19 was a tailwind for the fintech sector in 2020. And, 2021 is expected to be another great year, but with more innovation in play."
-    publishedDateTime: 2021-01-08T00:37:00Z
-    webUrl: "https://yourstory.com/2021/01/fintech-trends-covid-19-elon-musk-indian-startups-ranu-vohra"
-    ampWebUrl: "https://yourstory.com/2021/01/fintech-trends-covid-19-elon-musk-indian-startups-ranu-vohra/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/fintech-trends-covid-19-elon-musk-indian-startups-ranu-vohra/amp"
+  - title: "Walmart Announces Creation of New Fintech Startup"
+    excerpt: "Walmart announced the creation of a new fintech startup designed to develop and offer modern, innovative and affordable financial solutions. The new company is a strategic partnership with leading fintech investment firm Ribbit Capital."
+    publishedDateTime: 2021-01-12T06:08:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/walmart-announces-creation-of-new-fintech-startup/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 26
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
     images:
-      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/fintech-16047451368311-1610034232154.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Ignite Sales Appoints New CIO, Fintech Veteran Bob Pittman to Lead Tech Team"
     excerpt: "Ignite Sales, Inc., the financial industry leader in customer engagement technology, today announced Bob Pittman has joined the company as chief information officer (CIO). In this role, Pittman will provide strategic IT leadership and direction for Ignite,"
@@ -94,6 +65,6 @@ related:
       domain: businesswire.com
     quality: 18
 
-secured: "OWHzMC1Q9FEmFt+z06wF2iCsqUOHUKsz/DOZFigxZ3RhO+0z5fhxZqQkZA9qcOHaygv7pNJopnKVh/JtW2v5/PI+1TAO8wE5bJ1xTB5qKVEf99W5UyZhwgmMCKyIAS1P/MzZaP5l3KV+FN8NevXwGQ6gPsdPtM+BpZtxjMkZ4tj8oHntidqVAyKOTGMzmVeJNfyFeqYNIcrbZBFDpqg3TpPJhpA93PUloCeT1N2hJUR69f40AhVz/vJvjhQS23X0yEUOjsqyrMlaPESXhE9aWUypI1TTXrtdhEKGqUlTh0WXF/UXhMYXeKiXuXr9WexTtpfmKwNIfiYP0+s4+U2IHb46wN5KxAYehQMOSEKI43U=;7JyXAfAUsZk930ASxQl/iQ=="
+secured: "dTpNJ5GDO9BBWG72z9LnUkSQjvMmmf7L0nz3YyP0yZSshr5EHeZDOlXXanw3qqGZdBRUm1a9AIOCVe6jz3JL7CN5FOVRjVucjqauq0V9Rr7KD2CToIEevs7WcXcXUKAcRGZw+PDwQpOno9efANhHvJUpt2tbUZ64DsNzi0LyZK/sY2zgmJzW7I6i0lgVKC1Vb7JrRV/cF5dJy4Id51gWlm2gzMuYSRWsdR9iBJQy0+VA79PnE37gY35mLI0qOzznR5J/JH7ObsuCQccxOm4rJvhkHmMtjv6X/hli8a2+SLIQHeubMIAxsr9UVMkkaIea6B39ZlDpXbY3HEcOyJb4zQmyDWyW8c5IsNrubrNBrWxqBmEiO9qu0nx7nYo5o2yymeWh56icdAkyy9jI+rlGO0nSmOnqz8UOt+ygM+koAxHILnlXUTJ+s2figyuInnnZZBpnawCfLcaNRUCf8Uv6J+UYPVa4KrBW3+6iKS25z1QERF1wKpXZ8XCKnm1/ggbXRK0n5HAKV9V3r+yoM8WGfQ==;0rheqeQwhydbqJSoBTh2kg=="
 ---
 

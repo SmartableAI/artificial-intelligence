@@ -61,22 +61,6 @@ related:
         width: 1029
         height: 516
         isCached: true
-  - title: "Researchers design AI that can infer whole floor plans from short video clips"
-    excerpt: "Researchers at Facebook, Carnegie Mellon, and the University of Texas at Austin designed an AI system that generates floor plans from videos."
-    publishedDateTime: 2021-01-07T14:34:00Z
-    webUrl: "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/"
-    ampWebUrl: "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/Screenshot-45_auto_x2.png?w=1200&strip=all"
-        width: 1200
-        height: 896
-        isCached: true
   - title: "Stanford researchers propose AI that figures out how to use real-world objects – Jaweb"
     excerpt: "One longstanding goal of AI research is to allow robots to meaningfully interact with real-world environments. In a recent paper, researchers at Stanford and Facebook took a step toward this by extracting information related to actions like pushing or pulling objects with movable parts and using it to train an AI model."
     publishedDateTime: 2021-01-08T19:12:00Z

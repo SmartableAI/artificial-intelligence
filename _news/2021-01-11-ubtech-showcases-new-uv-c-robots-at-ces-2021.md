@@ -83,11 +83,25 @@ related:
     provider:
       name: Syfy
       domain: syfy.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/lg-virtual-human.jpg?offset-x=47&offset-y=0"
         width: 1200
         height: 680
+        isCached: true
+  - title: "CES 2021: Pandemic’s robot ‘heroes’ highlight their value at tech show"
+    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
+    publishedDateTime: 2021-01-12T06:15:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/12/ces-2021-pandemics-robot-heroes-highlight-their-value-at-tech-show"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005074.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "AI clothing for improved sports performance unveiled at CES 2021"
     excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
@@ -154,6 +168,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "T2DeJ8qL1oBZhcRTjQUY6ggkFHMcWd02NINkqVxRw2N3QgVforhRJg+DRmr/gl75Sbn7uMvuBqSuTb+qeDLmDdRPDC3siSGuh1cNDm1WjWiCrg4mh9ernee6LyskQI1RsoYPQkPkN3ABI3Kdk6mQCoW6FSWvQY4O+QsiYjrlWwwu/6HOXFAAvbCIWFt1c2PvfDFpBHAFsxkVfhMkZ1BbDbk5mmKxVbrlNe4D9N7r3FPw+6XaDIMFegSZu5rujElbmJ3nRmIXriEJYYH+uJuxzM3cPh6RErlBnJAIy8/Af9VbjJCgbgsGbxnDkTU8SawS6uAHNnFU+2O9mep3wOScuTM5cv/I9aHKku/9Ho4n2+0=;TKQ4u+KtSSUZq/KwmL+5Cw=="
+secured: "9nB3yCT1+k/ZwRIKdy2K4riwZkzwrGkhNShRxzN8cRKOAngMJbhzDeI4B4tbanEZrd7uTu8h4ETiAEu2YRTj3wu3GiyskbX+17FxPsTtcJADzgkf4I6PfGMQOMzZipwAGYIWxnRw6144lgf2yw0jRq4BSxQmBqCDi7bZZDg5+o8/FP1myGMTVslfVRmDNKN5iUc/WypXL16yPvO2aftPLnPJnjfMXDQj/jz/MRU2fISenzGAfF4FOjFsKOg+NnEX4IrlGGHTy9532mMXQOO3iYbO5wEeR8FCfb065moveaiIlSSyrOmImlfi70OOWunqlhlZIhyv2FeLzmlN5qn7hD3RbVF2+Whxi9CpYOCi6rOxav8TpF5PRM02qfvIAWWdlYwufubZ88h5atblHsFg2qGskR0LCuvuTer8dflOtfg8HBMm1ymPz2IKSCAiNYbQKjCkvhKES+ZuWxR16QqUBFlo8PjiBWJeJMJ4pru0ZqaCKSCUneO4KM6mC5orjoAgOCq7hOHg5KxOPerbZZjwLw==;8jU9tDVVu9OaxcNjNmbD6g=="
 ---
 

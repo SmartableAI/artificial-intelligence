@@ -2,6 +2,186 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-12-08-uber-is-selling-its-self-driving-car-business-to-aurora.md",
+      "title": "Uber is selling its self-driving car business to Aurora",
+      "excerpt": "Washington, DC (CNN Business)Uber is selling its self-driving car division to the autonomous vehicle startup Aurora, ending a five-year run of developing self-driving vehicles that was marred by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/12/07/cars/uber-sells-self-driving/index.html",
+      "originalUrl": "https://www.cnn.com/2020/12/07/cars/uber-sells-self-driving/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181102172906-20181102-uber-self-driving-car-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/07/cars/uber-sells-self-driving/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/cars/uber-sells-self-driving/index.html",
+      "publishedDateTime": "2020-12-07T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference.md",
+      "title": "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference",
+      "excerpt": "Powered by artificial intelligence and behavioral economics, Lemonade set out to replace brokers and bureaucracy with bots and machine learning, aiming for zero paperwork and instant everything.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-50k-ai-prediction-contest-launches-today.md",
+      "title": "$50K AI Prediction Contest Launches Today",
+      "excerpt": "A forecasting platform that aggregates insight from thousands of technology experts announced a two-year contest today focused on AI predictions: the future state of key benchmarks in machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcea9ea964f1397d45a037c%2F0x0.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
+      "publishedDateTime": "2020-12-07T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b.md",
+      "title": "Uber sells self-driving unit Uber ATG in deal that will push Aurora’s valuation to $10B",
+      "excerpt": "Aurora Innovation, the autonomous vehicle startup backed by Sequoia Capital and Amazon, has reached an agreement with Uber to buy the ride-hailing firm’s self-driving unit in a complex deal that will value the combined company at $10 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-2410b/ar-BB1bIk7S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 634,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/aurora-self-driving.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/amp/",
+      "publishedDateTime": "2020-12-07T13:05:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
+        "domain": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-brainchip-leads-the-asxs-top-small-cap-ai-stocks-in-2020.md",
       "title": "Brainchip leads the ASX’s top small cap AI stocks in 2020",
       "excerpt": "If you’re an investor seeking exposure to AI in the small cap space look no further because we have compiled an extensive run-down of small cap ASX stocks.",
@@ -992,196 +1172,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-artificial-network-model-describes-entire-movement-planning-in-the-brain.md",
-      "title": "Artificial network model describes entire movement planning in the brain",
-      "excerpt": "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
-      "publishedDateTime": "2020-12-07T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-simplemachines-inc-debuts-mozart-ai-chipdisrupts-ai-chip-landscape.md",
-      "title": "SimpleMachines, Inc. debuts Mozart AI Chip—Disrupts AI Chip Landscape",
-      "excerpt": "SimpleMachines and its new AI chip offer exciting option in the inference market, with radical new compiler approach and TensorFlow support.",
-      "sourceUrl": null,
-      "webUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
-      "originalUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://architosh.com/wp-content/uploads/2020/12/Mozart-angle-L-1.jpg",
-          "width": 1324,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
-      "cdnAmpWebUrl": "https://architosh-com.cdn.ampproject.org/c/s/architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
-      "publishedDateTime": "2020-12-07T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "architosh.com",
-        "domain": "architosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021.md",
-      "title": "How will companies use AI hiring software in the Great Rehire of 2021?",
-      "excerpt": "With record numbers of candidates looking to work remotely, recruiters will have to expand beyond their usual geographic footprint.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
-      "originalUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/hiring.faces_.GettyImages-1145150839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
-      "publishedDateTime": "2020-12-07T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-mohsen-fakhrizadeh-machine-gun-with-ai-used-to-kill-iran-scientist.md",
-      "title": "Mohsen Fakhrizadeh: 'Machine-gun with AI' used to kill Iran scientist",
-      "excerpt": "A satellite-controlled machine-gun with \"artificial intelligence\" was used to kill Iran's top nuclear scientist, a Revolutionary Guards commander says. Mohsen Fakhrizadeh was shot dead in a convoy outside Tehran on 27 November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
-      "originalUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/475A/production/_115866281_mediaitem115672686.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-middle-east-55214359",
-      "publishedDateTime": "2020-12-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

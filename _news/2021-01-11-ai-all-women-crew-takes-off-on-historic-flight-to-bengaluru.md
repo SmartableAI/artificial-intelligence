@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/india-news/ai-all-women-crew-takes-of
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965-amp.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 549
     height: 309
     isCached: true
+
+related:
+  - title: "L&T Infotech, IBM expand alliance; to build an innovation center in Bengaluru this year"
+    excerpt: "L&T Infotech will help clients migrate and modernize core business applications leveraging IBM Cloud offerings, the company said.L&T Infotech has developed industry-ready solutions using IBM Cloud Paks,"
+    publishedDateTime: 2021-01-12T06:29:00Z
+    webUrl: "https://www.livemint.com/companies/news/lt-infotech-ibm-expand-alliance-to-help-companies-for-digital-transformation-with-hybrid-cloud-11610431023630.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/lt-infotech-ibm-expand-alliance-to-help-companies-for-digital-transformation-with-hybrid-cloud/amp-11610431023630.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/lt-infotech-ibm-expand-alliance-to-help-companies-for-digital-transformation-with-hybrid-cloud/amp-11610431023630.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://images.livemint.com/img/2021/01/12/600x338/landtoubro-kZ2G--621x414@LiveMint_1610431127625.JPG"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "mGuFiLV6yUwEHwX01tQdSQ7SRLMeX3dJiPHCjhkIFUY6/YJruvJen3mezOTtqiLIm0trOnq1IRxAWhqgfBKhdlSO8j09wpcGfFCPtbBim4Kuflr9YzqEqhp5IdM5EN1bhcw9+odTPDMTO9E6AuXdCTPGSFoOUm7qPkfoATUvGpgdvoa2UrWdfsVJuhf6pvLyYdtvtHVvfKX9b4I7t3BpPrZkIpvIzNEZdkxO42ICIp/VX5Y22xCc8BV30CHK1QSKfQzyS0OKWoF2HSBwTf3+ZVjoNSBBsAyKisQ5QsRyWvQZE14w8ch7xsdJPafPU1a4/UMMc222rKaPjbU0Z4lQCmcy3ncHyd6HxFwMOk2ogr4=;lDS8RA/lxLrrhdn+lkY0Cg=="
 ---

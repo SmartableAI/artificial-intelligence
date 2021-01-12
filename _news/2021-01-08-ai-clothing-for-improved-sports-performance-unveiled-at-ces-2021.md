@@ -82,7 +82,7 @@ related:
     provider:
       name: Syfy
       domain: syfy.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/lg-virtual-human.jpg?offset-x=47&offset-y=0"
         width: 1200
@@ -101,6 +101,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
+        isCached: true
+  - title: "CES 2021: Pandemic’s robot ‘heroes’ highlight their value at tech show"
+    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
+    publishedDateTime: 2021-01-12T06:15:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/12/ces-2021-pandemics-robot-heroes-highlight-their-value-at-tech-show"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005074.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
     excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."

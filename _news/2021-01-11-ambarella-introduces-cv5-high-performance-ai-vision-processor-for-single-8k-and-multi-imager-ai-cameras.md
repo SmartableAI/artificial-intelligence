@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Ambarella Introduces CV5 High Performance AI Vision Processor for Single 8K and Multi-Imager AI Cameras"
-excerpt: "Ambarella, Inc., an AI vision silicon company, today unveiled CV5, an artificial intelligence vision processor capable of recording 8 K video or four 4 K video streams. The new system on chip will enable the development of intelligent automotive camera systems,"
-publishedDateTime: 2021-01-11T10:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ambarella-introduces-cv5-high-performance-ai-vision-processor-for-single-8k-and-multi"
-webUrl: "https://www.nasdaq.com/press-release/ambarella-introduces-cv5-high-performance-ai-vision-processor-for-single-8k-and-multi"
+excerpt: "Ambarella today unveiled the CV5 AI vision CVflow® processor for single 8K and multi-imager AI cameras, enabling 8K video recording in under 2 watts."
+publishedDateTime: 2021-01-11T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210111005235/en/Ambarella-Introduces-CV5-High-Performance-AI-Vision-Processor-for-Single-8K-and-Multi-Imager-AI-Cameras"
+webUrl: "https://www.businesswire.com/news/home/20210111005235/en/Ambarella-Introduces-CV5-High-Performance-AI-Vision-Processor-for-Single-8K-and-Multi-Imager-AI-Cameras"
 type: article
-quality: 37
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Google AI
   - AI
-  - AI Hardware
-  - Computer Vision
 
 related:
   - title: "Ambarella unveils 8K AI vision processor for car, drone, and robot cameras"
@@ -52,6 +50,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "Yv9tAneU5bUi5//49Q/mQPBQUicccPqe4fxqhs2grSVVqf2xs4O/FVTvSuV2Bdjd0MGQq3lT0v/SWDz52Us+8J9AL6ev+9zH5nl+0YLjmFjJMHX0WZ45nw5vTD/q9NbBqLqpLeZjAKIydDeU4qiQoL5y4aiMR96uE4RDBKOrVsrVA2s66amAOXjIy7plpMaa/RVJfSVG3HbOSVGu78rkggk6Og6e5Zoudxw0J4fkuhB5+toJF+Qc4LRvdZuQ+GZ4eqD1LYwhSPo1CqpH74346Zacbnab9ULyIOySK/WC5ni1SQEkAwLHUXwrL5acqX7/aQPYMeM6+zporyzocgzpwMVFF6uh/RY55dTT16+Iuvg=;iWvtoT0vUHwoDsG8S94Irg=="
+secured: "mcINN1As9ddlsgWBeHMlm82Ymz/cHGFcx6AJjhc9Lbr05eSLmBLTKkcRdtWvk0gEK+KL7SLv6qpsaV77+JEPaTNEVkUcYk4VMl44gwc4kqZXu5utyfjdQfj6t1lcQBnJyZmcPaE9YE2ni09WgYxdGmp6UDQ4oIRNCRHdROJAAj6emuIIsB0l7yXwqBtRRxQi+ipIznmE8H5uAALYNyiNPYbNhaHLEdgxnpKAPmFejPZLuDvpxO7AhM9BJwGcsIJCSUSz7UovNjEWSGjL7BKKTozmpah0c6zRflzgSM2toNUDP71EO61tKWWH6qGL9eJAnerGQrgFShW6WNV6ZtwcPX0MNgzPVkMFjaNWqpnYc8i+7dk2zG0OSUznh8GT/4zI3U7B1YrR248QYVJjyerIlqeTtWxXQlQdMDEdYLLtVlG0iCuMjwSeI39qAX7hh4S452p29jRRxnwG3c8AzLoTY9qrcCr8LKG6bJJC4brIODO7PkzXv5/+TyMCQbsmXLi+GwOry10VyR4stoLmCOwgLQ==;JvWoEN1eE9LGy0xJZjvMhw=="
 ---
 

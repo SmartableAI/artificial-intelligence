@@ -21,33 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Commercial Services Market Analysis Shows Artificial Intelligence Being Used Widely In The Industry"
-    excerpt: "The Business Research Company’s Commercial Services Global Market Report 2021: COVID-19 Impact and Recovery to 2031"
-    publishedDateTime: 2021-01-08T05:07:00Z
-    webUrl: "https://www.wboc.com/story/43139559/commercial-services-market-analysis-shows-artificial-intelligence-being-used-widely-in-the-industry"
+  - title: "Drone Data Services Market 2021 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2025"
+    excerpt: "The evolution of data analytics throughout major industry verticals is one of the significant factors positively"
+    publishedDateTime: 2021-01-11T22:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/drone-data-services-market-2021-global-analysis-share-trend-key-players-opportunities-forecast-to-2025-2021-01-11"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20228238_G.png?lastEditedDate=1609999512000"
-        width: 900
-        height: 455
-        isCached: true
-  - title: "Worldwide Industry for Artificial Staple Fibres to 2025 - Diversify and Benefit From New Market Opportunities - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “World - Artificial Staple Fibres - Market Analysis, Forecast, Size, Trends and Insights” report has been added to ResearchAndMarkets.com’s offering. This report provides an in-depth analysis of the supply and demand for artificial staple fibres."
-    publishedDateTime: 2021-01-07T14:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-textiles-manufacturing-global-trade-import-and-export-prices-middle-east-79503d01a7c743bb89c626164f75aa0a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "aLaNgxRIoPvrILU3oHVT5TA6JxOFi52xwQ/F8ctbQJEMUpdBjSwHUhUhAGkblklZM2B3BN3Q4KgkPfh2gzocNn95dqjsSkCVBtYVYtu8bYlr23OATIdknXQQuQx9CKLpiFZrSKQy8p3r6fW6kkEEAuLlK+uH27GKItnXvnx6BpTU5Zi9MNPYRH/3h6C1QafbE5nswYcRGTveexx33pzEeMwtoQefPOtFNJwTkrZkEcxBEwKvsLryw1+I9w+IU9TuNl6rMWHhtvic1ucLf2WJacimpxPDdbVpe4eN8LS16leROlHF7PprkLgf8daa+SflNsVtGwMZ8n9uV5nOFu6XQMaQU+0twDvs2iMbgjNqUow=;hCUqMctuKKpNXMkxaUcIjg=="

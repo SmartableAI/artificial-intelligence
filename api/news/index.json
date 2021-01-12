@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448.md",
+      "title": "Artificial Intelligence (AI) In Healthcare Market is Expected to reach 46.2 billion USD by 2026, at a CAGR of 44.8%",
+      "excerpt": "In Healthcare Market size is expected to grow from USD 4.8 billion in 2020 and reach USD 46.2 billion by 2026; it is projected to grow at a CAGR of 44.8% during the forecast period. The report presents the market competitive landscape and a corresponding detailed analysis of the major vendor/key players in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google.md",
+      "title": "Artificial Intelligence for Edge Devices Booming Segments; Investors Seeking Growth| Baidu, Intel, Google",
+      "excerpt": "Global Artificial Intelligence for Edge Devices Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 This report studies the COVID-19 Outbreak-Global Artificial Intelligence for Edge Devices market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-mobileye-expands-self-driving-vehicle-tests-to-detroit-tokyo-paris-shanghai.md",
       "title": "Mobileye Expands Self-Driving Vehicle Tests To Detroit, Tokyo, Paris, Shanghai",
       "excerpt": "Intel subsidiary Mobileye is working on updates for its autonomous vehicle program, planning to launch test fleets in Detroit, Tokyo, Paris and Shanghai.",
@@ -252,7 +356,7 @@
       "originalUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -344,49 +448,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-engineers-create-hybrid-chips-with-processors-and-memory-to-run-ai-on-battery-powered-devices.md",
-      "title": "Engineers create hybrid chips with processors and memory to run AI on battery-powered devices",
-      "excerpt": "Transactions between processors and memory can consume 95 percent of the energy needed to do machine learning and AI, which severely limits battery life. A team of engineers has designed a system that can run AI tasks faster,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210111112151.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210111112151.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -754,12 +815,55 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-hybrid-chips-can-run-ai-on-battery-powered-devices.md",
+      "title": "Hybrid chips can run AI on battery-powered devices",
+      "excerpt": "Smartwatches and other battery-powered electronics would be even smarter if they could run AI algorithms. But efforts to build AI-capable chips for mobile",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/",
+      "originalUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2021/01/Illusion-art-960x640-1.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/",
+      "publishedDateTime": "2021-01-11T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more.md",
       "title": "How AI is improving operational efficiencies across oil and gas, healthcare, and more",
       "excerpt": "Arificial intelligence is being used in many industries today, and it's only expanding. Here are some use cases to explain the challenges and benefits of AI adoption.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -776,8 +880,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
       "publishedDateTime": "2021-01-11T08:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -814,7 +918,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/11/stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1157,109 +1261,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ces-liveblog-smart-home-workout-tech-and-so-many-tvs.md",
-      "title": "CES Liveblog: Smart Home, Workout Tech, and So Many TVs",
-      "excerpt": "The consumer tech show is virtual this year, and the WIRED Gear crew is watching all the Zooms to bring you up-to-the-minute highlights of news from CES.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ces-2021-liveblog-day-1/",
-      "originalUrl": "https://www.wired.com/story/ces-2021-liveblog-day-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ff90ef1ad074b4b14f892aa/master/pass/Gear-CES-Liveblog-Day1-Feature-Art.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ces-2021-liveblog-day-1/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2021-liveblog-day-1/amp",
-      "publishedDateTime": "2021-01-11T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-could-artificial-intelligence-be-the-future-of-fertility-treatment.md",
-      "title": "Could Artificial Intelligence Be The Future Of Fertility Treatment?",
-      "excerpt": "Scientists are working on embryo analysis with computer algorithms to help build families. Artificial intelligence could lead to massive developments in IVF.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/",
-      "originalUrl": "https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff86f5f05d2afc3a0282399%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/amp/",
-      "publishedDateTime": "2021-01-11T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hybrid chips can run AI on battery-powered devices"
+    excerpt: "Smartwatches and other battery-powered electronics would be even smarter if they could run AI algorithms. But efforts to build AI-capable chips for mobile"
+    publishedDateTime: 2021-01-11T17:45:00Z
+    webUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/"
+    ampWebUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 74
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2021/01/Illusion-art-960x640-1.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Engineers create hybrid chips with processors and memory to run AI on battery-powered devices"
     excerpt: "Transactions between processors and memory can consume 95 percent of the energy needed to do machine learning and AI, which severely limits battery life. A team of engineers has designed a system that can run AI tasks faster,"
     publishedDateTime: 2021-01-11T20:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/system-on-chip-market-ex
 webUrl: "https://www.marketwatch.com/press-release/system-on-chip-market-expected-to-touch-20721-billion-by-2023-with-increasing-adoption-of-iot-across-sectors-to-boost-growth-of-market-2021-01-11"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Neural Network Software Market is Expected to Grow at USD ~18 Billion by 2023 With CAGR of ~19%"
-    excerpt: "Market Scenario Market Research Future (MRFR), in the new report on the global neural network software market 2020"
-    publishedDateTime: 2021-01-07T23:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-is-expected-to-grow-at-usd-18-billion-by-2023-with-cagr-of-19-2021-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "MtRnLp8I+bY2FjAG373ybw3eNWAI/YPBddrMIttNXJJYp3YLL6zTgcK+MhMkABgwwfDTa98BA9gpnM3HWJsg+FASjgHH9gXmWSyx2YuZ4A9wuymPMsYy9Yy2HWRznZ46jsIUPFQDrmBcuBJyWqdrikBOWXmJSyT3UMToas7vjQr1+h6zb+/TZcZy6D2xhVo1FkT0fJojMD8o6tTeA8KrHffA1G35KRcxB+AjIwmffE1gFQwa4mBsXE9cR1uAEufnc83m0RO/qnvGAcd+cjl/DTe4r1IH3h2GGOfu9EjLYrFryJLTr6yoCZp+esDXgSaOiVC8jBxJMxvFPOe5kKH8l80gJskYy287wKR8n78AF1w=;Rit1vXntzZeBRH4YOlIXKw=="
 ---

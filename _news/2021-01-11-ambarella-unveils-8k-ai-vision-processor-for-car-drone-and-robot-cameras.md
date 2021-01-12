@@ -48,14 +48,14 @@ related:
         height: 1200
         isCached: true
   - title: "Ambarella Introduces CV5 High Performance AI Vision Processor for Single 8K and Multi-Imager AI Cameras"
-    excerpt: "Ambarella, Inc., an AI vision silicon company, today unveiled CV5, an artificial intelligence vision processor capable of recording 8 K video or four 4 K video streams. The new system on chip will enable the development of intelligent automotive camera systems,"
-    publishedDateTime: 2021-01-11T10:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ambarella-introduces-cv5-high-performance-ai-vision-processor-for-single-8k-and-multi"
+    excerpt: "Ambarella today unveiled the CV5 AI vision CVflow® processor for single 8K and multi-imager AI cameras, enabling 8K video recording in under 2 watts."
+    publishedDateTime: 2021-01-11T05:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210111005235/en/Ambarella-Introduces-CV5-High-Performance-AI-Vision-Processor-for-Single-8K-and-Multi-Imager-AI-Cameras"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 37
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "q6e2ElJAmnE6vSAbk5qkIKIL0JjJJLXeM4l0+TtqKKRl32UPG0Ok/eaUVyQ0KGlWqmgk3D6IKIXKA1klPcuv/Z8QUCQvtbx2arrpG+BD6pSvJNrP6o0sav1cJFORvap1kQZ/E7pYjuOjTnSfVv4scLj2GXtMpYqkntPs6yL2zaWSbZCB9Ta62q7/4vaCQ92Q42JDkoRh51+9RjLyFzNf6yyeTmRpEJyXbOeYjDJW8/bxqeKudLTCaxVVYgYVrVKFht4D4iQ3BtoBjpTok58I1oFRYUtLjS+NGw2kmcJ6OktsgU/MgL8baU+oMCQ0UMcI3p07Zp8eAhO7/XmtF6wV48747zZRgwkNLbECUqNe8iHJt2trFNM4+9NH6rs/8u3zFZKTNpGZrPABkiBHCQOHGTJrOywF8Ik8n4s5jjbooWz3OMjOgAZWId7h3HQFK5k3FQrLIyMeGYJJnmDw0ueEwf0Mvyyj79syngCL2QKWhsl/dEl7Ixs4+pSFzOlKWKIManFVwzvy6SdmgGx9COZiHg==;4UMeGtmHxfmREcSO4a4Qeg=="
 ---

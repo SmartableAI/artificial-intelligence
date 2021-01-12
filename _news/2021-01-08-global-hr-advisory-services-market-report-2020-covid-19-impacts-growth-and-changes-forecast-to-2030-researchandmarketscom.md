@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Ai In Market Growth Factors, Trends, Consumption, Production, Revenue and Forecast 2020-2023"
-    excerpt: "The global AI in marketing market is segmented into various segments on the basis of deployment, technology, applications, and verticals. The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant growth throughout the forecast period."
-    publishedDateTime: 2021-01-07T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-market-growth-factors-trends-consumption-production-revenue-and-forecast-2020-2023-2021-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market 2021 – 2024 | Share, Key Players and Competitive Landscape Forecast"
     excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
     publishedDateTime: 2021-01-08T08:46:00Z
@@ -62,6 +48,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Aviation Market Growth Opportunities, Remarkable Developments and Leading Key Players to 2023"
+    excerpt: "Increasing demand for automation in various industrial sectors and rapid technological advancement are leading to"
+    publishedDateTime: 2021-01-12T06:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-aviation-market-growth-opportunities-remarkable-developments-and-leading-key-players-to-2023-2021-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -137,29 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Aviation Market Size, Share, CAGR, Revenue, Company Analysis and Forecast 2021-2023"
-    excerpt: "AI in aviation market is anticipated to expand at a striking CAGR of 46.83% during the forecast period of 2017-2023 and reach the valuation of 1014.81 Mn by the end of 2023 from USD 113.29 Mn in 2017."
-    publishedDateTime: 2021-01-08T12:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-cagr-revenue-company-analysis-and-forecast-2021-2023-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Healthcare Artificial Intelligence Report 2020-2027: Market is Expected to Reach $35,323.5 Million - Escalation of AI as a Medical Device"
-    excerpt: "Dublin, Jan 08, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Jan. 08, 2021 (GLOBE NEWSWIRE) -- The \"Artificial intelligence in Healthcare Global Market - Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Is there a problem with ..."
-    publishedDateTime: 2021-01-08T19:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-report-2020-2027-market-is-expected-to-reach-353235-million---escalation-of-ai-as-a-medical-device-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
   - title: "Robo Taxi Market Size, Growth Potential, Industry Revenue and Industry Research Forecast to 2027"
     excerpt: "The global ''robo taxi market size'' is set to expand at an impressive rate in the forthcoming years as autonomous"
     publishedDateTime: 2021-01-08T05:43:00Z
@@ -241,15 +218,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence in Healthcare Report 2020 - Global Market Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2021-01-11T06:58:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210111005616/artificial-intelligence-in-healthcare-report-2020-global-market-forecast-to-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 16
   - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change” report has been added to ResearchAndMarkets.com’s offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists,"
     publishedDateTime: 2021-01-09T06:54:00Z

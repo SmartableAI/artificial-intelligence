@@ -59,22 +59,6 @@ related:
         width: 1029
         height: 516
         isCached: true
-  - title: "Researchers design AI that can infer whole floor plans from short video clips"
-    excerpt: "Researchers at Facebook, Carnegie Mellon, and the University of Texas at Austin designed an AI system that generates floor plans from videos."
-    publishedDateTime: 2021-01-07T14:34:00Z
-    webUrl: "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/"
-    ampWebUrl: "https://venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/researchers-design-ai-that-can-infer-whole-floor-plans-from-short-video-clips/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/Screenshot-45_auto_x2.png?w=1200&strip=all"
-        width: 1200
-        height: 896
-        isCached: true
   - title: "Stanford researchers combine processors and memory on multiple hybrid chips to run AI on battery-powered smart devices"
     excerpt: "In traditional electronics, separate chips process and store data, wasting energy as they toss data back and forth over what engineers call a “memory wall.” New algorithms combine several energy-efficient hybrid chips to create the illusion of one mega–AI chip."
     publishedDateTime: 2021-01-11T16:34:00Z

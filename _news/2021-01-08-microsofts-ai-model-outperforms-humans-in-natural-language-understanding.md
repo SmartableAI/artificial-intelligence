@@ -59,22 +59,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Microsoft Healthcare Bot Service Becomes Azure Health Bot"
-    excerpt: "Microsoft Healthcare Bot has folded into Azure to become the Azure Health Bot services, with plenty of new abilities included."
-    publishedDateTime: 2021-01-07T14:19:00Z
-    webUrl: "https://winbuzzer.com/2021/01/07/microsoft-healthcare-bot-service-becomes-azure-health-bot-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/01/07/microsoft-healthcare-bot-service-becomes-azure-health-bot-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/01/07/microsoft-healthcare-bot-service-becomes-azure-health-bot-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 91
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2021/01/Azure-Health-Bot-Microsoft.jpg"
-        width: 1024
-        height: 437
-        isCached: true
   - title: "Microsoft AI Surpasses Humans In Natural Language Understanding With SuperGLUE Benchmark"
     excerpt: "Natural language understanding (NLU) is a massive yet challenging goal for AI. According to Microsoft, one of the benchmarks for NLU, SuperGLUE, is “currently among the most challenging”. It seems that the test was not all that bad,"
     publishedDateTime: 2021-01-07T17:00:00Z

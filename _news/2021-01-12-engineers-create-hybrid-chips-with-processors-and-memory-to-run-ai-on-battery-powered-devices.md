@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/01/210111112151.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/01/210111112151.htm"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Science Daily
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Hybrid chips can run AI on battery-powered devices"
+    excerpt: "Smartwatches and other battery-powered electronics would be even smarter if they could run AI algorithms. But efforts to build AI-capable chips for mobile"
+    publishedDateTime: 2021-01-11T17:45:00Z
+    webUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/"
+    ampWebUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 74
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2021/01/Illusion-art-960x640-1.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Team creates hybrid chips with processors and memory to run AI on battery-powered devices"
     excerpt: "Transactions between processors and memory can consume 95 percent of the energy needed to do machine learning and AI, which severely limits battery life. A team led by Stanford engineers has designed a system that can run AI tasks faster,"
     publishedDateTime: 2021-01-11T16:06:00Z

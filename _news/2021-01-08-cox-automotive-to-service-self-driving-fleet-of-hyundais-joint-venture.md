@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: Reuters
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Cox Automotive to service self-driving fleet of Hyundai's joint venture"
-    excerpt: "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc ."
-    publishedDateTime: 2021-01-07T13:16:00Z
-    webUrl: "https://www.reuters.com/article/cox-automotive-motional/cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture-idUSL4N2JH3AX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
   - title: "Hyundai in 'early talks' with Apple for self-driving electric car"
     excerpt: "Hyundai Motor Co. said Friday it is in the early stages of talks with tech giant Apple to jointly develop and produce a self-driving electric car."
     publishedDateTime: 2021-01-08T12:25:00Z
