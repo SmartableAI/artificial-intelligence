@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/10/baidu-electric-car-making/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/10/baidu-electric-car-making/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -238,6 +238,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/google-search-rival-baidu-announces-electric-car-company-154251-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "China’s Baidu set to create EV firm"
+    excerpt: "Chinese internet search giant Baidu announced on January 11 that it plans to establish an intelligent electric vehicle (EV) company and has formed a strategic partnership with auto manufacturer Zhejiang Geely Holding Group as the country’s new energy vehicle (NEV) market gets in the fast lane."
+    publishedDateTime: 2021-01-12T15:41:00Z
+    webUrl: "https://www.phnompenhpost.com/business/chinas-baidu-set-create-ev-firm"
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 39
+    images:
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/beijing-based_baidu_will_support_the_new_companys_growth_with_its_full_portfolio_of_core_technologies._china_daily.jpg"
+        width: 990
+        height: 660
         isCached: true
   - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Forms Strategic Partnership with Geely"
     excerpt: "PRNewswire/ — Baidu, Inc. (NASDAQ: BIDU) (“Baidu” or the “Company”), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV),"

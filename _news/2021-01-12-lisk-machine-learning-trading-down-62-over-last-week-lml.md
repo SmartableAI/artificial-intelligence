@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Lisk Machine Learning Trading Up 15.8% Over Last Week (LML)"
-    excerpt: "Lisk Machine Learning (CURRENCY:LML) traded up 31.8% against the U.S. dollar during the 24-hour period ending at 18:00 PM Eastern on January 7th. One Lisk Machine Learning token can now be purchased for about $0."
-    publishedDateTime: 2021-01-07T23:59:00Z
-    webUrl: "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html"
-    ampWebUrl: "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp"
-    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp"
-    type: article
-    provider:
-      name: modernreaders.com
-      domain: modernreaders.com
-    quality: 54
   - title: "Decentralized Machine Learning Trading Up 60.2% Over Last Week (DML)"
     excerpt: "Decentralized Machine Learning (CURRENCY:DML) traded 1.3% lower against the U.S. dollar during the one day period ending at 13:00 PM Eastern on January 9th. Over the last week, Decentralized Machine Learning has traded 60."
     publishedDateTime: 2021-01-10T01:45:00Z

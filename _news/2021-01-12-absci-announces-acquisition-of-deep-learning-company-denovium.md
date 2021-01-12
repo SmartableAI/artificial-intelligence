@@ -41,6 +41,17 @@ related:
         width: 258
         height: 300
         isCached: true
+  - title: "Vancouver synthetic biology company acquires San Diego-based AI startup"
+    excerpt: "Three months after raising $65 million in equity, Vancouver, Washington-based AbSci announced Tuesday it acquired a San-Diego based Artificial Intelligence startup Denovium. AbSci engineers living organisms to make therapeutic proteins."
+    publishedDateTime: 2021-01-12T12:47:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2021/01/12/synthetic-biology.html"
+    ampWebUrl: "https://www.bizjournals.com/portland/news/2021/01/12/synthetic-biology.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/portland/news/2021/01/12/synthetic-biology.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
 
 secured: "dRWhjNwZg05H0VeexU7DJ6K4WkunY0APAqfJwUD+Xle3zX0ujTnWmo1DXvRR094RqxEDfeBTH0e8sbPlm+wTG3FBIl6Dpmcr8RwzCd8bi7Y2LZJArS+ztyBEvi0g3CSf0LSnoW2bc4Kxsk0cUaeUVS5z9+udmNBBWwlUvfkVkDHSQaXuXVnJWoL39wad6lLbaufTbVKiS99qtM1shL24vSmKoR/IpkAJwrhSqOd0kIPQyeYEDcTaSTwzE51NkshLCSuqHfZbinu4UmUWgiZYrRJnHgK9Wd2JaCAEMwVAPLQvrh2XgDhvSgDT5TwpvNdwKKSobuIvStkEpOuUFbjTW/+OIRVs6Z1+W8o/f0ESxBs=;w4AGFApX+Dnk6qEhXe9UBg=="
 ---

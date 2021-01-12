@@ -43,7 +43,21 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Samsung Exynos 2100 announced today with significant upgrades and a built-in 5G modem"
+    excerpt: "Samsung has unveiled its new flagship chipset. The Exynos 2100 processor is a 5nm chipset with significant upgrades in CPU, GPU, and AI performance and it also comes with a built-in 5G modem. The Exynos 2100 5nm processor is built on the 5nm EUV process node."
+    publishedDateTime: 2021-01-12T15:21:00Z
+    webUrl: "https://www.gizmochina.com/2021/01/12/samsung-exynos-2100-announced-today-with-significant-upgrades-and-a-built-in-5g-modem/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 47
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/Exynos-2100-featured.jpg"
+        width: 566
+        height: 339
+        isCached: true
 
-secured: "Y+lF50r3DDRryzG/9zA9iEe/A/aOZtAyn/Hp+xjg4sTANFq0MBabyyXfJLT4qNuBzimekQJ/mahtXxHJm/spTzTda5yAut0rMwtEFGTF+0+UdxL6Zye3EY5IuyK1dzBaUeJWsA71QbvfqmXlf/XAGZfIjcUFUeil8IDflZgfKzN2z1KwRbjcj4eIMNB0ZAkmtPCpn15vs3jER7GgZEE7d6JlAKiDHiJRpWlA4Y/R9S65CbmY7dvVCZHnYch4SNsu+WI3E/hnDXXeummSeMpFYMIMujzMzt6dFkHA6yaVQZFbdaX879aPI5jDSiTjJ9o9/dXZ3TksDxXrUJPDvu4QkzPjG545DYhcIou4Gdlat68=;L0ZcZe7nZ5z7jX4BUhXgWQ=="
+secured: "Tx4lHdn2U07MRmVA8Aj6bfKJ0pAH1WKHbLIEdltASmZfmHnGuWEW52F5sulHQ+DbM/NmJhGKVHzlCxEk8dIJaW6O4wzeYsvuvIwD8kK8XTmMpxH1HtpPXtggtsx8eVwLiDC7mCnpAkzqG8LrqD3J4epNJxk1Th/0sjvpFrxeJXRnsnruqgg46mht9LJ/JIgDP/oxc97tIixfUaxMCK4KIoYdZJgq10zfpiot5We2MeeBfgZCygJqASAzsiVtqTpILQYHkPofTwiRXL5UODjg8BqftAEIMx4BuX+j1sRbfuX5FgaApbcNhlnsTA8PJYfl5tXBaGLqd0lVqUH+eb41QohfrvRPS2e6tEtT2DzENUKwrmpFUBn6Pl+UV8oQH4/lFsRI4eR8YjZKoKxrd6/3GCGHgThNpm+9MuR4sA5FOzwHb0qkqt+AyMSQsnGjTZe0ekXS8s5mpDnhGuRdOpy6VJC8MXHrov9gIwaSdnu/JGtg3MWapM89mszXvTvWlzUO9uByYKykFaAiikLa9PWzKQ==;zhkXT/Qli7mRY2G+/nRHhw=="
 ---
 

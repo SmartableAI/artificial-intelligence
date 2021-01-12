@@ -40,16 +40,14 @@ related:
         height: 630
         isCached: true
   - title: "Teradyne and Syntiant Collaborate to Significantly Shorten Time to Market for Innovative Artificial Intelligence Neural Decision Processors"
-    excerpt: "Built from a clean sheet, hardware/software co-design methodology that optimizes silicon and deep learning models together, the Syntiant NDP100 and Syntiant NDP101 Neural Decision Processors bring  hands-free,"
-    publishedDateTime: 2021-01-12T14:00:00Z
-    webUrl: "https://www.wallstreet-online.de/nachricht/13354091-teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors"
-    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13354091-teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors"
-    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13354091-teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors"
+    excerpt: "Neural Decision Processors™ to customers worldwide. Built from a clean sheet, hardware/software co-design methodology that optimizes silicon and deep learning models together, the Syntiant ® NDP100™ and Syntiant ® NDP101™ Neural Decision Processors™ bring hands-free,"
+    publishedDateTime: 2021-01-12T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors-1029960012"
     type: article
     provider:
-      name: wallstreet online
-      domain: wallstreet-online.de
-    quality: 5
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
 
 secured: "ZnEU4C3fU8C/w/IgjwCcTah1wM5f/wcHaA+n5lW6AmmpWTvRToq0AziatZDueXKWyiFH6ePp9PdO+XhNSyQPlAAbUOplQ7FkLw31sDNyT/6tX0qde63DTwVgUbF7a8nwKmIaHiaD35K2F12K7dmv332C5/sOwk56IQLP1VILhEe4nh2ODcWHqrxgGRGYDFfsW/RSAgnJUsjmN1o05AYTTwo2i03fjRtdo2ewj9iKpStE35QzFCi9LaFCE9tC7aif/dH3KYTeFjf9ckvAxWtmZiAfV/mLGfLPU7u/BlFgzdXA64hRD+rV2I8Jzx4MAbsjQVCfiRAaERvLKOeusagt0Q2aIhahlutWI/UVza1WbUM=;K2TgM4wC2B/G2kTFOmTKPw=="
 ---

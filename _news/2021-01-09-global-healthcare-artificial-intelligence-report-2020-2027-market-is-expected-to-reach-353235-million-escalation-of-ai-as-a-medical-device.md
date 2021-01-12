@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market is Expected to Grow at USD ~18 Billion by 2023 With CAGR of ~19%"
-    excerpt: "Market Scenario Market Research Future (MRFR), in the new report on the global neural network software market 2020"
-    publishedDateTime: 2021-01-07T23:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-is-expected-to-grow-at-usd-18-billion-by-2023-with-cagr-of-19-2021-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Aviation Market Size, Share, CAGR, Revenue, Company Analysis and Forecast 2021-2023"
     excerpt: "AI in aviation market is anticipated to expand at a striking CAGR of 46.83% during the forecast period of 2017-2023 and reach the valuation of 1014.81 Mn by the end of 2023 from USD 113.29 Mn in 2017."
     publishedDateTime: 2021-01-08T12:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
 type: article
 quality: 112
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/feat.png?w=1200&strip=all"
         width: 1200
         height: 553
+        isCached: true
+  - title: "20 healthcare moves from Amazon, Google, Microsoft & Apple in 2020"
+    excerpt: "Amazon, Google, Microsoft and Apple all played a role in the pandemic response while forwarding their strategies in digital health. Here are 20 moves they made in 2020. 1. Amazon is rumored to be making plans to expand the Amazon Care program,"
+    publishedDateTime: 2021-01-12T14:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/20-healthcare-moves-from-amazon-google-microsoft-apple-in-2020.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 60
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "hrcRB7btkOvblxNIWgRBpEBAL9q+nGBROwjjALH2t1AOBrEel/p3y4J/VkXqSouThrXGyXFTjwF/lGRmmgS0ZJ9Ar+qJsewMpj8+E5I5XRiXYjwvPkDdIIFi//QsPhLkaGe3kPOyt+YI8YCZ27EVIJE9uZ6Yzc1iWuWXqaa8rEfvTXNBgdzasSxC5zVA4xbz4ebrMI7M9QxDeKljqeUgudPy5YMgy+vSqqWtOdQ5cIsSBZwofrpGshKC++pN3fnhAKs3aQIqQeBR7bq75y6u2R32wyXb0HoKOC/U7wbx+6IiJcemcgTniFNZjV9pailtSXz6azoSwMOTN0xI1l1H8vbmZQkoCbs0DC1INSPf2k68AMEkkul+FuAvMoH3dvhrIuZccVOGl2FRkAuK1vG4yoxSgAeALs3be4wBull4thVm/3CHTei4M6EKnpSmOvhWylpJJVDHXtQb62SxFYA+ctPv9/NnN5iJXPXF7xV3NqUf5vecH4JpgiCo4HSXTDf39Uspt4eivdnLfJrXg0B1Eg==;BNoMDUWbBT4LRJEhfdGepw=="

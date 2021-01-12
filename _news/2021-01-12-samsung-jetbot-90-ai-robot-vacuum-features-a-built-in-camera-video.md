@@ -230,6 +230,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Samsung has just made a team of robot butlers to cater for your every whim"
+    excerpt: "With the distinct appearance of androids from a sci-fi film, Samsung has introduced a couple of robots that function as domestic servants."
+    publishedDateTime: 2021-01-12T16:51:00Z
+    webUrl: "https://recombu.com/general/article/samsung-has-just-made-a-team-of-robot-butlers-to-cater-for-your-every-whim"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 37
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2021/01/Samsung-Bot-Handy.png?fm=png&ixlib=php-3.3.0"
+        width: 940
+        height: 525
+        isCached: true
   - title: "Samsung’s robot dog is an intriguing faceless smart pet for your surveillance needs"
     excerpt: "Dog bots will probably be a hybrid of a smart pet and a household assistant, I imagine features like security cameras for the eyes while still being sweet enough to bring you your newspaper and waking you up in the morning."
     publishedDateTime: 2021-01-12T00:30:00Z
@@ -268,6 +282,6 @@ related:
       domain: globalspec.com
     quality: 21
 
-secured: "eJJ4S1JLNg0TiFxVcvjIFmPf5F7EmX4VRAkoxkOub+BxwMcOkN76wYvd6D21mviVJQWSLiK71ULqxrKqYsTTOR7B3I68WQfQMTmZGNZDrZufoOpQahjDJV77gg7Wp99ZGLFE+8tOkL9HrM+O28yKiPU2TWJi7PJkEP9ZY3ILRRP8cq9JMSRYxO33tJXqLuL/4pdhpiKfiUpdBIcWxXcNm2jc4Xr63s3M+Gyu9GAl6eGndHOxxTwul+e5QIRcyhXUqPzigu5O2NjCySE9RwrvFEzsq2bhxyuA9L1Mmxia3UAy+jkV9o4HSbRc+k9RBXcWnP79YWm8OedoPYOazUcLrerv3pROtPpIAa263WayMdk=;BimNeRkXPQ6QAQEMLmFHMA=="
+secured: "55/vZRoCOV1oC5t7PnTe8TUmE8NxTwcyStNBfM4vY2SCIVPJUnNIlzJ4agkt66gd0i3La3fJyeyFuyfjEam2K+TZ/rtkb7n9hwdl7gW7T6K69B2ROGLOf/TjqfFnhUa0HfOt4jUC9YbtnqBK43ZmLJi4tvVm1chnzNhw8LjkfOESD/d+tG1n6sYwVYtGgGkFCfE5slo79P9/iOOjzn9j66l1M80BpgUoSUv6WVUa4WpJwhLDDYFcfmUeUNlZVz1qxS2hymrA1l8Cfse86WimHKu1KMo7sdruJPWrx/bUFx/34ifGqQWzdz04P5KO30cUTE7b9bSTnn0KECPQV08UjqyiUwQTAFUdBujrI7vD5mgc+1qR0XVNDVCYfjQCVQ0wS4k0XWeW0lthsmN3uA1tS9530I50U5o+6yjH7s4JbFFG3Djbpe9O1aqc+9WXiyztVEyF1ZHy4rssOjsDRXR8iioBcgokmCMABcVLegEGzc0jLxHWDMs91r+BicxG1oWCW80vRbTNTobKtvp2/RxkJQ==;Xcnate3NA8IYxov3yCIaQA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boo
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boost-synthetic-biology-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,7 +44,18 @@ related:
         width: 2697
         height: 1414
         isCached: true
+  - title: "Vancouver synthetic biology company acquires San Diego-based AI startup"
+    excerpt: "Three months after raising $65 million in equity, Vancouver, Washington-based AbSci announced Tuesday it acquired a San-Diego based Artificial Intelligence startup Denovium. AbSci engineers living organisms to make therapeutic proteins."
+    publishedDateTime: 2021-01-12T12:47:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2021/01/12/synthetic-biology.html"
+    ampWebUrl: "https://www.bizjournals.com/portland/news/2021/01/12/synthetic-biology.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/portland/news/2021/01/12/synthetic-biology.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
 
-secured: "BFKG/W4IUcA5cjs50E+aar6Q+sX5lsvOzdDJJ7kPFbxiXS9uzPOMZM2qa58RZToV5kVXveoqOpR5w3tZ/gjzM/3fd/EpwMA00yjT7caBmaJWkv7v7XRhzyOud3TLU2GWnVNobYf189c3hA1lItCjzqCa+BHkJE6btP+CF78wDVCONW1jn36WNDqHHx76bIGvVN9ZxMaT0ST2fhrs/7ASgDItltXZ4HyGyNk0tVuz4FuLrMMdeJWvdALJP+YL+LrOtB/C6m2N1VlQgzVZWOJykOS3RuQnLpZE7g+IRFppixBOOzs4YTQyN8QuWbW6bvoJGnm4I6Yq04V9Os9U5qXdCbewm7NvSMRo46qGyQrPeAY=;VX1421xyauIrHfxVXctAjw=="
+secured: "5Y4upXz2J8mlIGl3N3KwMbcZSRcPf+DK0OQmgETvixr9mySJNEqbr/9Zi5b+E9vGraA/cK54yZcaPMYCueID42YdTVeBMRJp+3Qsugp2S8jFr7oR5swRkdheO3DCx7zOlSzZte53CF4q3mGRQrf1kaYsQ1GgGKgnTyMFCdpMlpfKuGiuDnWVdvPgdZ6simz+Z242w4DZHhKBvu89x+LJUEm9cceAb4sQeHabH6L1APOTgo/peXo/cixv0EZ6RGtE98pvsCjli/IjunBDbuxT4yr+Jcs3atMKOCzHIHtS3K/sxkqcN9yYczIMhPJHepYbbKYfmsxkX01r1cLv/df1p8lUt+z5oV2h+th65Q8yO0VJeV4R/ISLTBb7jZFr3lnm1Mcr02/4UL6XuA270oHYFyAc1wKAJN5GWpP8k4F27CtJP6u3d05V8cYfALJ60GE8GYlQThsfsERPzxdmiCH46XTh+BN3CRnFYGq+vGp2ndBElBSmL9Ane2OTkjI3czQvVB1aI+f86fx+MZpm+Cj8yQ==;D3AET1Xs7FZu/kwP71Ifgw=="
 ---
 

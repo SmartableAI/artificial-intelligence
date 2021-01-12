@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-ar
 cdnAmpWebUrl: "https://www-sportsmole-co-uk.cdn.ampproject.org/c/s/www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/2.57338805-1-scaled.jpg"
         width: 2560
         height: 1920
+        isCached: true
+  - title: "Burnley team up with artificial intelligence scouting tool to find next generation of talent"
+    excerpt: "Young players submit individual footage to AiScout and are then assessed using artificial intelligence before being put forward to trial"
+    publishedDateTime: 2021-01-12T16:34:00Z
+    webUrl: "https://www.telegraph.co.uk/football/2021/01/12/burnley-team-artificial-intelligence-scouting-tool-find-next/"
+    ampWebUrl: "https://www.telegraph.co.uk/football/2021/01/12/burnley-team-artificial-intelligence-scouting-tool-find-next/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/football/2021/01/12/burnley-team-artificial-intelligence-scouting-tool-find-next/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 46
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/football/2021/01/12/TELEMMGLPICT000248362768_trans_NvBQzQNjv4BqHaZ8JMGQ_nOZ1URPL9FaE8iZ_6TH--rKxBA8mEVjkI4.jpeg"
+        width: 2501
+        height: 1563
         isCached: true
   - title: "Burnley turn to artificial intelligence in search for academy players"
     excerpt: "Burnley's search for prospective academy players will be boosted by the power of artificial intelligence, with the Premier League club announcing"

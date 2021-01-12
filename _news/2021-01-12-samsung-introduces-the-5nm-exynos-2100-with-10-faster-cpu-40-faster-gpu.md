@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-wi
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung Exynos 2100 announced today with significant upgrades and a built-in 5G modem"
+    excerpt: "Samsung has unveiled its new flagship chipset. The Exynos 2100 processor is a 5nm chipset with significant upgrades in CPU, GPU, and AI performance and it also comes with a built-in 5G modem. The Exynos 2100 5nm processor is built on the 5nm EUV process node."
+    publishedDateTime: 2021-01-12T15:21:00Z
+    webUrl: "https://www.gizmochina.com/2021/01/12/samsung-exynos-2100-announced-today-with-significant-upgrades-and-a-built-in-5g-modem/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 47
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/Exynos-2100-featured.jpg"
+        width: 566
+        height: 339
+        isCached: true
   - title: "Samsung Exynos 2100 SoC unveiled with 5nm technology, 40% faster Mali GPU, Integrated 5G Modem"
     excerpt: "The new Exynos 2100 chipset will be used on the Samsung Galaxy S21, Galaxy S21+, and Galaxy S21 Ultra in several regions around the world, including India. So, without any further delays, let’s take a deep dive into the new Exynos 2100 chip."
     publishedDateTime: 2021-01-12T14:39:00Z

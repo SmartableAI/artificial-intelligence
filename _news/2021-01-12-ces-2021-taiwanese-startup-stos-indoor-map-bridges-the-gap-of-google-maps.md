@@ -69,6 +69,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
+    excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone technology. Recently, Unusly released"
+    publishedDateTime: 2021-01-12T15:13:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ces-2021-taiwanese-startup-unusly-provides-extended-reality-software-to-be-used-on-mobile-unmanned/article_4985aa99-b2a8-5734-842f-3211b5b644f3.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "qjB5vGiviwvAZsDU9SsJXFPJ+L3sEnKbpqh8HRaSz29lkK9CWfPMWmDKp6vIzNKV+gPn/71Xawfb4ug6JYDveuiXOF2EobRpzP7/GXFt8ytoJLnUCEzMFdU202veKyY3s83Y8TWer7bpdxZJdbFIVnf0OPiCcvYONDwNGklCLQvh8BZDSJJZ8bjUFI7requeLhV2URcZ6qM0xJWge/oal/YeawpiWESlNUmPGObdDVodIa0nhy4D5WWG3hJcpOeJD6PMFV4Kf0u46XNj0mvRGRXpiYeURNXFGhs6HtAZXIQfTxeU2RYTGJSM6M7xjHwTdFPiAnMZh0Vt6yxROD4Hbx+f1IoaJqRirtli7nRSEv8=;UkZBIBpz+WQUeot4kZQzzA=="
 ---

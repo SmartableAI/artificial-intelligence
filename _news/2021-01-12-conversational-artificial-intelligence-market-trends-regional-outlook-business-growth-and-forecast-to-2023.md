@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-12T14:40:00Z
 originalUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-regional-outlook-business-growth-and-forecast-to-2023-2021-01-12"
 webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-regional-outlook-business-growth-and-forecast-to-2023-2021-01-12"
 type: article
-quality: 48
+quality: 52
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

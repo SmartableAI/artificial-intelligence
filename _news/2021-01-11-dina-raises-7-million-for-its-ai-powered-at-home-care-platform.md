@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "M-Files raises $80 million for AI that automates enterprise information management"
-    excerpt: "Files raised $80 million for its AI that automates the process of organizing and tracking internal documents and data for enterprises."
-    publishedDateTime: 2021-01-12T14:56:00Z
-    webUrl: "https://venturebeat.com/2021/01/12/m-files-raises-80-million-for-ai-that-automates-enterprise-information-management/"
-    ampWebUrl: "https://venturebeat.com/2021/01/12/m-files-raises-80-million-for-ai-that-automates-enterprise-information-management/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/m-files-raises-80-million-for-ai-that-automates-enterprise-information-management/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/m-files-e1610461140239.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "fgwF7ELnopYZJ8228EFrFV4nrUCrjF0pDfdtYKf0cIaFtudExuiGeGgVA8HTrCNQAcV7GkH5K2t64/NC+dZM1Wcueq5+Rr6q8c54RW0r/SwePErohZdvglE4Ga0mT13zBBNKNjArWpOC0fHAqrqb7najIPG1NpkY2xyZ/Im0D1GGsikCAF+TzlDUBnURajaJal96vGrMCGSeqlDUwmJo2ADufxWbsR+qeysY02I8GJ3FHiy6SwR/pHKsyJwfMvEwMlJvNgn9xVr7h7nevmMXuxS/yyigVBJJJ1UvFQut/qmrRkbLqJHRUpEoGzU3bvWjhIbcrpjsimt2XfbSuspehAm4sNxkH76CD6quv0NfD88Y3kXjFab1Ogl8e4dvyYbVSdLVVrW1GOG5V4pY7FQQvdVzdLF9pa4R6rCCE0MqV280OoLikbyv/t+592Mvrs1dyDv2YMpsBwLxBF23U4adIfN88fcsZs8Sn9MPRAq+43aQOneKuvZFGyvekB3W9Nxhl0sXX6N0tNTCgzStGtkiVA==;lVKLCsVhS9Zga29Ta13QsA=="
 ---

@@ -3,11 +3,11 @@ category: news
 title: "Xdroid Applauded by Frost & Sullivan for Its Innovative Voice and Facial Analytics Solution Portfolio"
 excerpt: "The company's highly flexible and customizable portfolio is based on its proprietary language engine and features speech analytics and automated"
 publishedDateTime: 2021-01-12T14:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029960124"
-webUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029960124"
+originalUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029960160"
+webUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029960160"
 type: article
-quality: 43
-heat: 43
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -19,10 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI in Finance
-  - Machine Learning
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1418514/Xdroid_Award_Logo.jpg"
@@ -30,6 +28,6 @@ images:
     height: 366
     isCached: true
 
-secured: "e6twC7h2n3r0HWar/llLYQ56B7y3cj7P/ku/my5dI2/+9qxnbnP2onmL7AuB2DlOL/dBg3qFjHfvuEBA3LuLzNijMb0Mzk3Td8SK9S7SRdX4N0UUIuS4uXy2SNgvgskbac4KAXpiOiADlbfwQ+QqcNPdQy6ce1tlMZBap61FUUZ2mefy+b4iiOFszlsqR8maokFiQbPKUKare/2OGyZDtxmerwVV5iz0uHJNrDaPdP2k1UsnJUAPCpDxMkttOY3uaRjb3aacuKeBXuVSv4hKG8/fUoSZhRlONXgdT/SkSDWN110CE2p9+NqvxEFYgMLrW7Brpt0S36mfqO3dVFnuSt31c9IFfDYZ/IR8uAJdovg=;sEd9ma8YTyCEnzv7Mi9c8A=="
+secured: "M4EPC3sEto2U6Yyyz6d/aSsgVwFJ8+of/xV9/AL28+oViE81GUalkz4ukURH47JQjsvs8jYuR9voepTwbMo1t2ZzKHjYlzmLNEfi3OgLVy96e0bLvxieo8WZkCdalJVL2rUaaRqbuYSpZPijF7Q/AHcEJoZf1lYzPrXVaUfoGG+qpbfA4MP/xalOG2Admg570R3qDI76bxnWsq2JRjla8C5wVs2/XKjpvXhBlJRCwfNF4c2fV1lbv3P60n2rdM3ixMfBlTtkbpcBlwjqPdEFosr31oHDdsV+bLn418EjHjwWSKFSdyCjWBVWlUa8zsprQeVi08QPgn2Lhbht2cMJsOqj0vyQQ4Bl/DtA/maI124=;QLbCsOEEjwZEg56xwV4CAw=="
 ---
 

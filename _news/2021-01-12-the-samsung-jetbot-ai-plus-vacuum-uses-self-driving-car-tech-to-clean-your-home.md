@@ -233,6 +233,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Samsung has just made a team of robot butlers to cater for your every whim"
+    excerpt: "With the distinct appearance of androids from a sci-fi film, Samsung has introduced a couple of robots that function as domestic servants."
+    publishedDateTime: 2021-01-12T16:51:00Z
+    webUrl: "https://recombu.com/general/article/samsung-has-just-made-a-team-of-robot-butlers-to-cater-for-your-every-whim"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 37
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2021/01/Samsung-Bot-Handy.png?fm=png&ixlib=php-3.3.0"
+        width: 940
+        height: 525
+        isCached: true
   - title: "Samsung’s robot dog is an intriguing faceless smart pet for your surveillance needs"
     excerpt: "Dog bots will probably be a hybrid of a smart pet and a household assistant, I imagine features like security cameras for the eyes while still being sweet enough to bring you your newspaper and waking you up in the morning."
     publishedDateTime: 2021-01-12T00:30:00Z

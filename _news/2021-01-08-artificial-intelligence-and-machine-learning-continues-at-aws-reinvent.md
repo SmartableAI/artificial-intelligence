@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/artificial-intellige
 webUrl: "https://aws.amazon.com/blogs/machine-learning/artificial-intelligence-and-machine-learning-continues-at-aws-reinvent/"
 type: article
 quality: 121
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 449
     isCached: true
+
+related:
+  - title: "SuccessKPI to Present at AWS re:Invent Virtual Conference"
+    excerpt: "SuccessKPI, a leading, worldwide, pure SaaS analytics platform for contact center platforms, announced that it will present at the 2021 AWS re:Invent virtual event on Tuesday, Jan. 12, 2021, at 4:15 p."
+    publishedDateTime: 2021-01-12T15:32:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-cloud-computing-information-technology-government-and-politics-7cd456e9838854262d88e3bcbeea63a2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ysIg0nH7GYhTdVZw1E+tZcv2H8/iIvKZrzwy7h63XtHZG8p4/JFzKPifTtJGa3Upguv8UPXKCsnzZOamecwiyMqy2iHLToDdDl9VycyfaCK1b0imfouacYJvPow4f6ANzWHSA2OZN6KskjrtkilwbnV4YDHKA10zo8au341P4AIUNpDp/nvHxVAWNmPtwIOiXHfmoAjZFy6A+Uy1sn4bSJ6Vegq2uQr0qPVeAtT9LpAvQTMUSY/lDDBaPpmpnPZJhdzhV35xvZpKurF/gidWhEWCJGdyL9ZbzACf1pVwYnAzBlTw3fOr4WMlJILISkw2+8x+BHjMFhokK6GmUdWmXRA/g/28YMRGfvANyqTdszk=;6enKyhqniR2fazuMRG4qBw=="
 ---

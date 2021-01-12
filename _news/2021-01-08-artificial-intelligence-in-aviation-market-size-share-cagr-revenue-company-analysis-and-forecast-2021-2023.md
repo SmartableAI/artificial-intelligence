@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market is Expected to Grow at USD ~18 Billion by 2023 With CAGR of ~19%"
-    excerpt: "Market Scenario Market Research Future (MRFR), in the new report on the global neural network software market 2020"
-    publishedDateTime: 2021-01-07T23:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-is-expected-to-grow-at-usd-18-billion-by-2023-with-cagr-of-19-2021-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mobile Artificial Intelligence (MAI) Market is expected to see growth rate of 28.58%"
     excerpt: "Market is expected to see growth rate of 28.58% iCrowdNewswire Jan 9, 2021 2:14 PM ET. Global Mobile Artificial Inte"
     publishedDateTime: 2021-01-10T08:52:00Z

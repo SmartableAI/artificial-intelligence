@@ -47,6 +47,20 @@ related:
         width: 1600
         height: 1068
         isCached: true
+  - title: "20 healthcare moves from Amazon, Google, Microsoft & Apple in 2020"
+    excerpt: "Amazon, Google, Microsoft and Apple all played a role in the pandemic response while forwarding their strategies in digital health. Here are 20 moves they made in 2020. 1. Amazon is rumored to be making plans to expand the Amazon Care program,"
+    publishedDateTime: 2021-01-12T14:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/20-healthcare-moves-from-amazon-google-microsoft-apple-in-2020.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 60
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "gaXopg2cxiazS0UDESWamD3gsLtml99bx/WVg8EFoAuygG7jC5nmTXFvcRNNRw8/CGneGMkjFQ9eI3KotsNATHcAzHsXrBcRYq0NKHdbo293dr6x2pK80z0xrdT1wAW46EBcqhWs8tnoMjlxfuaPW2b2QxFfHWpmXdj9jsSdPoWdYjfJEI5JkHqOLun4rkQyu/N7co0C2tWI9mItKAwOAmeF17y2MG0PQT8qaOUfJhhn/3jEiAyt+bEQwUlOGiy9aE5CBzXFWB43D6JVa+aGg6vQiy4JQQrcuAQ8mOzpoBlynpK6mvPQfsN+jKh1YUUTD7B9mKNq4tkoWdkGFf52EuT6HF3MWJ49bzAXYB+teIpidzUzQZgxEQJsdrX+k62k2wQ7J/X73PGqYDS6WNu3i/LmAFGkeeAzAcKI8gUTu6qc2kKy2jS5ZXPQVV2jC23E+lqmreyc++rERNtjpW5Td5ydkF3itc05nZV3ACOl8gzeRfJwIEQNIM/Y3QGL8yfy+ILc33lCUUxX1a7x145sBw==;3RHn0RXISvbd6agJPhLpxw=="
 ---

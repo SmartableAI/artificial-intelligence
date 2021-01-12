@@ -27,14 +27,19 @@ images:
 
 related:
   - title: "Scaling AI-based Natural Language Apps Made Easy with expert.ai NL API"
-    excerpt: "Expert.ai announced today the availability of commercial options for its NL API. Powered by expert.ai technology, which mimics the human ability to understand"
-    publishedDateTime: 2021-01-11T12:30:00Z
-    webUrl: "https://www.heraldmailmedia.com/news/state/scaling-ai-based-natural-language-apps-made-easy-with-expert-ai-nl-api/article_850234d7-affe-53a3-b21d-33fce0496d67.html"
+    excerpt: "Expert.ai announced today the availability of commercial options for its NL API. Powered by expert.ai technology, which mimics the"
+    publishedDateTime: 2021-01-11T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/scaling-ai-based-natural-language-apps-made-easy-with-expertai-nl-api-301205111.html"
     type: article
     provider:
-      name: The Herald-Mail
-      domain: heraldmailmedia.com
-    quality: 19
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
+        isCached: true
 
 secured: "PRJQzKdF6R2zzbibBvoEUAduTYEX189NLD1tTwmppFKILbchvcP3kRjw9OeZLvZcwjKMbZQgjLomcgA3Hwhy+65bOo1ho/kM5OnFICG0wM9a80x8HhBjSHYPK9eBT2+ip2I3hCaVX1C5oo/6Gc4AF/8fYbKftKvNtwtr3RUV986qCanLC57sVTJBH7KLD7hHSmzV+7WQCYnbcaD7oMVqSpAV/7Vs+2cT233Z0qPX5vuTbHOMBQf32dow3BNuxUKLqeOw+umVKucqjPSNi9ZcxLrLBbz9/D0KjHLVj/7V2aKlAnaHvrzupbmBaimWxE5EmQd177xaOnvDspMA2OgqHjuQDCSUu+vtyDDMeKoQQIink5Z6AY4qjyjqeePLojMObN8IotaaE+cMaqdafii1R94iWd0n7I1ezdIh7ZuvoZmYzXROU7XM0EzrQWkQ23pMQMGC7aZbhPKI/YmvaGmoVMTp/drswsEJeCGESKb7zJAUfS800xRUT1L3/f//IPnDf0QfVFRjE8HvdcEv/ywPfg==;litTdn0U8OJscDTijWdJDw=="
 ---

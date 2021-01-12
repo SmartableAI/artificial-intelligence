@@ -72,6 +72,22 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "Burnley team up with artificial intelligence scouting tool to find next generation of talent"
+    excerpt: "Young players submit individual footage to AiScout and are then assessed using artificial intelligence before being put forward to trial"
+    publishedDateTime: 2021-01-12T16:34:00Z
+    webUrl: "https://www.telegraph.co.uk/football/2021/01/12/burnley-team-artificial-intelligence-scouting-tool-find-next/"
+    ampWebUrl: "https://www.telegraph.co.uk/football/2021/01/12/burnley-team-artificial-intelligence-scouting-tool-find-next/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/football/2021/01/12/burnley-team-artificial-intelligence-scouting-tool-find-next/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 46
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/football/2021/01/12/TELEMMGLPICT000248362768_trans_NvBQzQNjv4BqHaZ8JMGQ_nOZ1URPL9FaE8iZ_6TH--rKxBA8mEVjkI4.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
 
 secured: "VWFwh8WLmnG6nbIY2+6K7dqYjgT5O4IZJKIrtsCVo7lhUyVQmiVb1vlgjR0KysatLjjX1MM+nm3PILJejojEhm/vM3AEHX/XHU5lejhqEo8SmUDNIIhT5c8AsvBKWeY1QOvGm+v89PdrnKr/qjAhmzb4s8gHzsSqkNNeb4vbbJ5jMCZw66NCd29Z3wWGlL4u1ahDzjR0XB8qqKN6IXsLkZFaRzc1RXBcjWEGL6xxTsGjHjeTeuuJzgGCtMTk5u0AUXxVyK+8MOr533UTNkdmGP4w6qo1Fxx1RyLje4KxvhffsY1tR2sDvoq9pSC0NQIG70qJ/j47oOG/lP8ealtSjW47X/U0Mgq999I2qU7e9ok=;P6pgncVmev6BGwJeoPul3g=="
 ---

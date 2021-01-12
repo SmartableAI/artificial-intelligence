@@ -249,6 +249,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "China’s Baidu set to create EV firm"
+    excerpt: "Chinese internet search giant Baidu announced on January 11 that it plans to establish an intelligent electric vehicle (EV) company and has formed a strategic partnership with auto manufacturer Zhejiang Geely Holding Group as the country’s new energy vehicle (NEV) market gets in the fast lane."
+    publishedDateTime: 2021-01-12T15:41:00Z
+    webUrl: "https://www.phnompenhpost.com/business/chinas-baidu-set-create-ev-firm"
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 39
+    images:
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/beijing-based_baidu_will_support_the_new_companys_growth_with_its_full_portfolio_of_core_technologies._china_daily.jpg"
+        width: 990
+        height: 660
+        isCached: true
   - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
     excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
     publishedDateTime: 2021-01-10T22:22:00Z

@@ -13,12 +13,13 @@ provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/IhvXOlrGI-P27kWzQo8AmzXVhug=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19484592/GettyImages_1189384731.jpg"
@@ -26,6 +27,6 @@ images:
     height: 934
     isCached: true
 
-secured: "ff6SKQLEfRIqX/W9bMceh4g6+VPlX8qVjsa9F9OvQPSVd9IcTJ2HGiEKpzVQ0tO+qemcdGt20h5iRpJZXj4JtbOTjjcRVpTghZbaGMeA/NqKkhvRIzdM85yPQHpKVX/QAXyQF8kZ5WAYUjYYpweldvPkduPnSWMIL/zcyMcwE7vVaY+WH9p+46/UYTYnd0kxCaaOIKGsftqXTOy0MsX9P5I4C5Ln2+bfDtHoIxJREMzWkoJm07hXh9IaEmw2iITXNgxi38BPU4gvHAg2sJpjcFHHYsQI6Chvv51E7BpYcQVJS9d74emUb6/ak/1KmYr+dwulIzaOnRRQFQhZN7ijajREiasvMeKXUitJ+hLCQ+A=;eVoO3lRSfVli1eH09E+SBg=="
+secured: "VC+5lE64LAZpuhfmjIluTBRhthdPfO271TSFQxT+9YAKz/Gs6HBb+g1DwUvIA/uuSWRn5TTeWD1FMy0ADwB/5wKytinHKvasi89TkyBZwEZ/53+y8BWfLGrsDofpezfNrxsyTTg/7l/0Tew99q4m7IW0OCSHnVK2uCfU6pXP1uVSBnMmOcB8XKfSAByPWUA2uPiP8luppXGDn3/yqGj4woN+h2cm4kxDQlfmstUjxy8xf0JzOF+G8lIswLJ2+KBALDVboTFvkqOogFXponbLjukVARK+jtQ94JEWQSkMjY1CscVibDj0jy7Gm1oeScQYRnGb6m7eYY9MqH1YOUT0wwO4nbQ9j8ykewlvcjpWm7ono+vDaNGKCqb9NAYy51Rj9AljyTwPwi2T3ed7Zm9hAhAH///Ck6UsXx9j6WD1+yxm6oQf4T3O2QYktCexh5EW1Mn+XD8Mcp5G50MRkDgNBaZmG8VVcVE2MC21WHROHTIaGJgo5uPHxkom3k7AWNIezb5Be5Uw/oJx3q+C6biAjfbbCTeqaRReaopv+lJDo+c=;FoVmcM951ho3Le5pvL9jRw=="
 ---
 

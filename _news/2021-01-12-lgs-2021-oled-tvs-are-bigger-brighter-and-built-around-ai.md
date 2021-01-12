@@ -1,31 +1,34 @@
 ---
 category: news
 title: "LG’s 2021 OLED TVs are bigger, brighter, and built around AI"
-excerpt: "LG's 2021 OLED TVs are bigger, brighter, and built around AI LG has unveiled its OLED TV series for 2021, which will include an oversized"
-publishedDateTime: 2021-01-12T13:05:00Z
-originalUrl: "https://www.compsmag.com/news/gaming/lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai/"
-webUrl: "https://www.compsmag.com/news/gaming/lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai/"
-ampWebUrl: "https://www.compsmag.com/news/gaming/lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai/amp/"
+excerpt: "LG has unveiled its 2021 OLED TV lineup. The range includes an extra-large C1, the brighter G1, and AI-driven features. LG isn’t just counting on its Mini LED TVs to lead its 2021 big-screen offerings."
+publishedDateTime: 2021-01-11T20:03:00Z
+originalUrl: "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/"
+webUrl: "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/"
+ampWebUrl: "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/"
+cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: Android Authority
+  domain: androidauthority.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/LGs-2021-OLED-TVs-are-bigger-brighter-and-built-around.jpg"
+  - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/01/lg-c1-2021-oled-tv-920x470.jpg"
     width: 920
     height: 470
     isCached: true
 
-secured: "gPI+sAVQ9tGl1H+PSl03pXPTjpZILfOTl5Lovddrotqba10swFCuAh2FmjejybMOFFTR3dl91m1EfkltjV84xSfd3IKuvToXfHhHx1LOYjngGNvlkCY070s8+7b26cDuQGuQQ40oneSUeslmAvaKOutKE5jH1OxLc8Pbg08ILgN494uR3Ve0DPJqU5W7firsXyoNEkAlcrXljy6fQrxqJxBuwS3x4/Im2khn50PvY6YsxKjb6eV3jbCYQ/aCNq5zRacGByfOcgn4yYJwXeotLi2n5xstien28vsTwQgBYaMzREZBkLEIxTeURrurTcT25Aiz+K1Avq6WDaN3cODFAuNbSgoayuCLXriizgwMd/U=;G7tAh/whhSIK0RYxkQhu9Q=="
+secured: "BkRPn7dTCcGvl3yiPWHjzYYQ/1mUeuNKpwTMuwj/an3Ro5y3BL9Eq2PxUWAAqe/R98sunp7AtD6xd+7uKq50KX5aXlIZik3OlrXkWBkdI//hj7cJqyQCOIt+qUSpg0U5ZaCvybrG+rXT+l6wF+mkdwv5MYOhYKpEGgJsJ9N8UIuv0p1ZfxmoE802ch43amUZIO2aFHp1YRbuvt6Qr5TDJYqtyIUdJp6KXoH91rebibx6G0m2clEuYPcgz4Jv3TCQyYWioSruhKDVuK76DJUv6YzZDK2GwRPERZjzPZnYksrER73QNO1TJEqcS106iJvaPpaJfTF513Dnt6bakdKFstb36JT7v2sOc/9Srb54EOk=;Nt4c11fOc13BGmDCwhroxw=="
 ---
 

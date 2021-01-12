@@ -243,6 +243,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Samsung has just made a team of robot butlers to cater for your every whim"
+    excerpt: "With the distinct appearance of androids from a sci-fi film, Samsung has introduced a couple of robots that function as domestic servants."
+    publishedDateTime: 2021-01-12T16:51:00Z
+    webUrl: "https://recombu.com/general/article/samsung-has-just-made-a-team-of-robot-butlers-to-cater-for-your-every-whim"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 37
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2021/01/Samsung-Bot-Handy.png?fm=png&ixlib=php-3.3.0"
+        width: 940
+        height: 525
+        isCached: true
   - title: "Samsung’s new Vacuum Cleaner empties its own bin and has LiDAR"
     excerpt: "At its “A Better Normal For All” CES event, Samsung announced new TVs, home appliances, and new vacuum robot cleaners. One of them is the JetBot 90 AI+. Samsung uses a combination of sensors and AI-enhanced object recognition technology to navigate its vacuum cleaner around your home with “the same efficiency and care you do."
     publishedDateTime: 2021-01-12T08:44:00Z

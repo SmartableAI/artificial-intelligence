@@ -30,23 +30,23 @@ images:
     isCached: true
 
 related:
-  - title: "Dina raises $7 million for its AI-powered at-home care platform"
-    excerpt: "Dina, a Chicago-based startup developing a platform to manage remote and at-home care, has raised $7 million in funding."
-    publishedDateTime: 2021-01-11T15:43:00Z
-    webUrl: "https://venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/amp/"
+  - title: "Roboflow raises $2.1M for its end-to-end computer vision platform"
+    excerpt: "Roboflow, a startup that aims to simplify the process of building computer vision models, today announced that it has raised a $2.1 million seed round co-led by Lachy Groom and Craft Ventures. Additional investors include Segment co-founder Calvin French-Owen,"
+    publishedDateTime: 2021-01-12T16:03:00Z
+    webUrl: "https://techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/istock-701228292-e1587585848522.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/Joseph_Nelson_Brad_Dwyer.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
 
-secured: "X3dDzX7HjaFs4BqkYaYIqUFWNu2KhrZeFaelRc6q/rDRgBe6UdzTZFwqKGppqSde0JQP6fESq73KiGXQT1Kmty+kDLSUSK56Q6e+2bhPADPXMKPcY6UBoYg4ztSRQDwr8Owl3dYOFBStGSFPLRUo890tIvQrYk1V0X55MNmbucCM5dsIffZUAnWNybA8pM4jZZI+dOpI1RKzRC6l5jas20K5BVv49LifI57g7c9wSFApfOMXT5EgEQsIB2lPLlehUx9YCfp0p2IenIpqzGw9izpNP/3JxMq1VhzmYHH8o+3j6GwLmhRYnGp5bnAvf0Fhq50hwL3/+S38s8Vb8e0y6vvI/pIEZ6DmAGSh1ApZjRw=;TcVp0Rgh35LM1K+xVHUPgw=="
+secured: "Id9i6frKh5rfVoViKebPcYtZVowMzDEmuwqkj3WxpTCN9X5Oo+rge5x5EOar6DohNgsZjcRyt3nAl2+TxOFhDR2kWBQ6vOSDuQUY7ky8j9pZx5lrI/r5305UfKrRDReSLnHwtprML4CgejhhOwT7YuzKlpvmyYOmhDVsJiycqGHi/vJjYjtBoOyWXDkySMjWvLQubpj1J1XJtOFB2usuRPXUJm17WjqHeAulclGa4wO6JDh0MFJ50hWoggUin7chICMoQUQIo83JVG9JmSoY9sSVQ96yefj3H2g3wLxJhw09Xk+6JpLFkNV5QK4vLstSgqbZ0QSw3s8HfOqDDKyC0zOCaXcLHb3HJ+LsHrECyC4iD1rWc9DBYBUefwPuGu9xyErU5YB5dgUBnSZgTXbd05yrLgJgVpanyShl3RemSSxaIF0OniBK1mdXLnXm89PoXe+7nypUjW3eSkk+Ye8C/t4QZ0tDBXRvmf5zJnIjmjqfO6MbKoGLInxAIQxcrvpbNAqKodlIPW/jxNsWVtiGcw==;sMkhYT1GaHXtsQ+F8aTrww=="
 ---
 
