@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/apple-self-driving-car-at-least-5-ye
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Business Insider
@@ -31,84 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo won't talk about 'self-driving' cars anymore, in apparent dig at Tesla"
-    excerpt: "Waymo takes a stab at Tesla over its use of the term \"self-driving\" in its new Full Self Driving feature. Alphabet-owned Waymo has stopped referring to \"self-driving\" to describe its technology and form now on will only use the term \"fully autonomous driving technology\" instead."
-    publishedDateTime: 2021-01-07T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/"
+  - title: "Apple’s self-driving EV at least half a decade away, report says"
+    excerpt: "will take at least half a decade to launch an autonomous, electric vehicle because development work is still at an early stage, according to people with knowledge of th"
+    publishedDateTime: 2021-01-07T22:04:00Z
+    webUrl: "https://www.autonews.com/mobility-report/apples-self-driving-ev-least-half-decade-away-report-says"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/17/f71cf2c8-9b0c-4c9b-8871-ac97d9a76c73/thumbnail/1200x675/5c36970a2932377566a437c0929868b2/sensors-from-selfdriving-car-to-aibased-5fae92e0eafdf2701d541185-1-nov-17-2020-12-35-03-poster.jpg"
-        width: 1200
-        height: 675
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20HQ-MAIN.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Waymo drops the term 'self-driving' for 'fully autonomous,' points finger at Tesla"
-    excerpt: "There have long been arguments over whether vehicles should be classified as self-driving, mostly because the technology is closer to driver assistance features that require regular"
-    publishedDateTime: 2021-01-07T12:09:00Z
-    webUrl: "https://www.techspot.com/news/88199-waymo-drops-term-elf-driving-fully-autonomous-points.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/88199-waymo-drops-term-elf-driving-fully-autonomous-points.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88199-waymo-drops-term-elf-driving-fully-autonomous-points.html"
+  - title: "Apple's self-driving electric vehicle is at least five years away, engineers say"
+    excerpt: "It looks like #Apple has been working in earnest on its self-driving electric car project, but insiders say it'll be several years before it can challenge #Tesla, #LucidMotors, #GM and other carmakers."
+    publishedDateTime: 2021-01-08T12:32:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/01/08/apple-self-driving-car-five-years-away.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/01/08/apple-self-driving-car-five-years-away.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/01/08/apple-self-driving-car-five-years-away.amp.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 98
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-08-image-33.jpg"
-        width: 1680
-        height: 1120
-        isCached: true
-  - title: "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla"
-    excerpt: "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,"
-    publishedDateTime: 2021-01-07T15:40:00Z
-    webUrl: "https://www.entrepreneur.com/article/362902"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Waymo is dropping the term ‘self-driving,’ but not everyone in the industry is on board"
-    excerpt: "Waymo will no longer use the term ‘self-driving’ to describe the technology it has been developing for more than a decade, opting instead for ‘autonomous.’ The Alphabet company said that this seemingly small shift is an important effort to clarify what the technology does"
-    publishedDateTime: 2021-01-07T12:03:00Z
-    webUrl: "https://techcrunch.com/2021/01/07/waymo-is-dropping-the-term-self-driving-but-not-everyone-in-the-industry-is-on-board/"
-    ampWebUrl: "https://techcrunch.com/2021/01/07/waymo-is-dropping-the-term-self-driving-but-not-everyone-in-the-industry-is-on-board/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/07/waymo-is-dropping-the-term-self-driving-but-not-everyone-in-the-industry-is-on-board/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/Waymo-lineup.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Self-driving cars are dangerous in the wrong hands"
-    excerpt: "We have long been promised that fully self-driving cars are about to take to our roads, but the technology remains out of reach. “It’s an extraordinary grind . . . a bigger challenge than launching a rocket and putting it in orbit around the Earth,"
-    publishedDateTime: 2021-01-08T05:04:00Z
-    webUrl: "https://www.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
-    ampWebUrl: "https://amp.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/99ea7622-89e2-4ed9-b623-3ab5c413ef3f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7771b980-3096-4057-8e1d-b67fa5e631ee.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "yZXR8sUlBUYCxOU/+A6VcTkAlSJr8KMf6FiqjhsOWr6A8DPm6WfXINkjtAcebzKgQdZNQ8/aLDfjnQN2aP2FNZ5voj6/OCEKO6nrsEwh5oazMzJLmlYqoRF7OmO02ZdHfu/WGTulmhc7mMhdkWlUjlKla68vnQ6Gwb2EFsE+AATUC8jwyOP+QTP64jqFuTScGG+XGHE/GXoVrlOnKfuaAQ538F/m414Aa27804pJHy12QQcPbjounRMAsIbjUEE38zJdvhcaixxS2bXdKEpR5+vgiT8lTuvatSghic22/AKQt6ZBbZhMNgnQlOENYF4sbQe+yX1ueBPu7i83AMAOH3pezxKSjMBCmtUHNVwyIigxPx9XFrXY5KfWyfA/WhEhk+CjjT0wQGsEm0wRHuph2X505Te6RIH7wLoD8IY4k+wxu0cyReup/N+N0SPWNSZ1wQ8ji3WQ46wwmvmzGzPcgZzHo/BHMikJ9Mg5INZNdhJT8wMa4irqUQ4h9+DE28iPb6EQgcJihHsjB96VF6iYag==;Nuxf0ThU3d7NPsIKn86bCQ=="
 ---

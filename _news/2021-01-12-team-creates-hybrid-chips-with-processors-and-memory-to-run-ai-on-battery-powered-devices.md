@@ -34,6 +34,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 53
+  - title: "Researchers combine processors and memory on multiple hybrid chips to run AI on battery-powered smart devices"
+    excerpt: "In traditional electronics, separate chips process and store data, wasting energy as they toss data back and forth over what engineers call a"
+    publishedDateTime: 2021-01-11T16:03:00Z
+    webUrl: "https://www.miragenews.com/researchers-combine-processors-and-memory-on-multiple-hybrid-chips-to-run-ai-on-battery-powered-smart-devices/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 35
+    images:
+      - url: "https://news-media.stanford.edu/wp-content/uploads/2020/12/10130601/Illusion-art-555x370.jpg"
+        width: 555
+        height: 370
+        isCached: true
 
 secured: "Mk58lHoisSCCB2kPAa9ghZs0PBhRkr+1r1tsy/8Xz9hyFIZiTuzfKSy1Kbha5s3+EzJam6AR6Wd9PMFIS0i5DCYdXVAoASQC1m/KjZztkfkAZ05I8CwvRzXkdaV56mNQzHxHqqkgdT66cQwN4XW/VeKzl+uFSCB1wmGElwnC1mGPNS9KBLDSvplNqkHFipm1HCZNJaGS45VjgeVEjVv92dZEPnu76G1nRbHh+hfmd7ypWV34DxU0YDcJiG0mAWojRKMemgWKEviQ4Bw7IWjh1BtA5EwGNA6ZDQriQeJCxe63Ekzf/N4qIpH6ui+ZjxZvYT6rtefYlR4uNbU0jjuqx00ASNCz08FrJVE2tdPwZ+0=;v4QZLdI/LcfWBArzHZNLBw=="
 ---

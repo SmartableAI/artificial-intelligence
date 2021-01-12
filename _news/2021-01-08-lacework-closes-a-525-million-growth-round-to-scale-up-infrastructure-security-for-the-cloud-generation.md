@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-15d76645700e46079c2117387ddeb603"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lacework Closes a $525 Million Growth Round to Scale Up Infrastructure Security for the Cloud Generation"
-    excerpt: "Led by Sutter Hill Ventures and Altimeter Capital with a Strategic Investment from Snowflake Ventures, the Record Breaking Round Positions Lacework to be the Trusted"
-    publishedDateTime: 2021-01-07T13:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19056409/lacework-closes-a-525-million-growth-round-to-scale-up-infrastructure-security-for-the-cloud-gener"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19056409"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19056409"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "Lacework closes USD 525 mln growth round to scale up infrastructure security for cloud generation"
     excerpt: "US-based cloud security specialist Lacework has secured a USD 525 million financing round at a valuation of USD 1 billion. Led by Sutter Hill and Altimeter Capital, and joined by D1 Capital Partners,"
     publishedDateTime: 2021-01-08T14:52:00Z

@@ -73,6 +73,22 @@ related:
         width: 690
         height: 431
         isCached: true
+  - title: "CES 2021: A virtual, AI-powered human handled presenting duties for LG’s tech showcase"
+    excerpt: "The Consumer Electronics Showcase (aka CES) is here once again, and as always, it’s bringing out the tech companies’ most personable presenters: people whose job is to get us all excited about the ways technology are about to improve our lives (like having a personal robot waiter roll up and pour your wine)."
+    publishedDateTime: 2021-01-12T01:36:00Z
+    webUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter"
+    ampWebUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 49
+    images:
+      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/lg-virtual-human.jpg?offset-x=47&offset-y=0"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "AI clothing for improved sports performance unveiled at CES 2021"
     excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
     publishedDateTime: 2021-01-08T11:46:00Z

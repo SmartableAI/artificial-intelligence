@@ -3,10 +3,8 @@ category: news
 title: "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup"
 excerpt: "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips."
 publishedDateTime: 2021-01-06T05:31:00Z
-originalUrl: "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6"
-webUrl: "https://www.reuters.com/article/tenstorrent-tech-idUSL1N2JG2I6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2I6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2I6"
+originalUrl: "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in"
+webUrl: "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in"
 type: article
 
 provider:
@@ -22,6 +20,12 @@ topics:
   - AI Hardware
   - AI in Autos
 
-secured: "nRYgfKSNhMRkLrv9rsch9SPU3ZGvqy+Qingnouj8I05R+hjGAtB7dlcmcJJcanXsLQ/9IaRVC4VwKO1v09M49F5vxvvRk02Es6kIHWl3OTNSoEm/yqcKAQsU2Wuoe/SNmiaKkgprONJCccBbZSU8E41INtdTupa1vKe8x1PRdSManaP1Cq1QOo4jO0TtHRah/NGnvETWasChOKxtvs5FZMlt06DDiPq5OE0n3Q/stINycAK+hUxjgaDFjeI18jum9PJL7PdGGck57+StsALnVAuFm1nKqWc0Vsqyr1ycuql1REeSR75EziC93lWH9vORYwpL+ExXiPvDdiV4TEOMrYU9ARAKbixwW2N3OZDAghU=;tRf44gZuYq6ZHe0EBC27tQ=="
+images:
+  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "5dkj0J3ruuNhZMMkd91kysYAQYXdkbZkQMc2lMYvvGfMYoz+/RtoIP3Lp9PPLfnVYbl0bOJHkLPZXr5jDOq0gIn96sl0eu7KSi3r6Y4nC0URkpUyW/3KDsSBO4oOYAzQeDni8ffguGWdyiCJXVzWID0CDFK6uR9WcuQ0w9SShutaTDA1Qn55Ie4csicDc+JBv9pYNg890OQVjsaDbi++MhvKObHowhhnvo1oWlR6jey6gTcEaPJmwxEJfthVKZ1LfRjGkaLEoyXVlLATXMhZLpPycqyZd3cXm+tGcHxsu6Sn9oTqI05pHJZu+XS1F3eews/vOZozRvRQ3a89GyyMbyMXwFzEQK6YXj2xLSeQeqw=;aeZG2m2xzwWhp8rjjK3etw=="
 ---
 

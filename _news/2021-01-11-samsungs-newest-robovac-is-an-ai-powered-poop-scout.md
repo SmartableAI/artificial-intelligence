@@ -89,6 +89,17 @@ related:
         width: 715
         height: 402
         isCached: true
+  - title: "Watch Samsung’s clever home robot lay the table and pour wine"
+    excerpt: "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine."
+    publishedDateTime: 2021-01-12T03:20:00Z
+    webUrl: "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/"
+    ampWebUrl: "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
     excerpt: "Seoul/New Delhi, Jan 11 (IANS) Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show. Under the ..."
     publishedDateTime: 2021-01-11T14:49:00Z

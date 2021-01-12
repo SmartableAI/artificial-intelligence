@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/apples-self-driving-ev-le
 webUrl: "https://www.autonews.com/mobility-report/apples-self-driving-ev-least-half-decade-away-report-says"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple's 'Tesla killer' self-driving car is at least 5 years away, according to a new report"
+    excerpt: "For years, rumors of Apple's self-driving car have swirled — but the latest report says it's still at least five years from its big debut."
+    publishedDateTime: 2021-01-08T04:55:00Z
+    webUrl: "https://www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/5ff862fad184b30018aadb8a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Apple's self-driving electric vehicle is at least five years away, engineers say"
     excerpt: "It looks like #Apple has been working in earnest on its self-driving electric car project, but insiders say it'll be several years before it can challenge #Tesla, #LucidMotors, #GM and other carmakers."
     publishedDateTime: 2021-01-08T12:32:00Z

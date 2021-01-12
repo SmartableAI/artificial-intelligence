@@ -43,22 +43,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Five real world AI and machine learning trends that will make an impact in 2021"
-    excerpt: "Experts predict artificial intelligence (AI) and machine learning will enter a golden age in 2021, solving some of the hardest business problems. Machine learning trains computers to learn from data with minimal human intervention."
-    publishedDateTime: 2021-01-07T11:38:00Z
-    webUrl: "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295"
-    ampWebUrl: "https://www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/five-real-world-ai-and-machine-learning-trends-that-will-make-an-impact-in-2021/440295?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 72
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/95hf94h48a1-620x250.png"
-        width: 620
-        height: 250
-        isCached: true
 
 secured: "zr/2cdOpzX3mWZKL6p4j0rbxoJJkfVQB2VfqYAE+GhSxDXSp0J9leHI8/0njObebcM/pvG5oLnQYohYhGi329fhyOy1+BzpGN9Ti9moBY6hbECg/nEdbmjuDERk34jmZQrsDT7yaSVuiSqGZ3VtIIIochxZdJWV6Ok90oG+1LAKxs4IlyYzNdANwNO7B+cx3cYfIcgl/qskv4zxQCNaAd7xC7MGSraPb/p+7ht0EN0oCkh++Mkn4nmRjpCXBRjje60a7LfX7uTwPRbF2aqhHlxs15/CYI2LF8gFGc9SzA2DILxIaEYcUzyVv82xrT3F5hi0E3qLsznYXU4YiZLdhKe61W626EQmkzvT6lIubGTi4iLRLiAA3LmxY9/TuqZt79yHg/+9oCypAFNSC2KyCtGOdYZeKa3KJKHCAmXsifWVZic+jYScanzq698YaFdUclvdYIOU7weainGz9n9dwwM3DRfKksO/eWfG8wEDEBUnyokMa4zxANYr5vBw8HtU2Kc3Nd8oK5E1lrIZsLKW3QA==;gndfSanVNqypkK/U7dgIkQ=="
 ---

@@ -53,6 +53,22 @@ related:
         width: 750
         height: 591
         isCached: true
+  - title: "Top 10 Fintech Software Development Companies 2021"
+    excerpt: "FinTech software development companies earned a whopping $34.5 billion. Ant Financial – formerly known as Ant Group – received up to $14 billion"
+    publishedDateTime: 2021-01-12T04:42:00Z
+    webUrl: "https://hrnews.co.uk/top-10-fintech-software-development-companies-2021/"
+    ampWebUrl: "https://hrnews.co.uk/top-10-fintech-software-development-companies-2021/amp/"
+    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/top-10-fintech-software-development-companies-2021/amp/"
+    type: article
+    provider:
+      name: UK Human Resources News
+      domain: hrnews.co.uk
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/VO9_f8YFo_uG48awUGeTQwmVf0rIxClyo4gp2lUBsn53PiSOGSWFdCM4Mqwk5Z7dYjoW1J9uxWxeZyDDx8MNSNgeXMF-rR9i9o_fs4KSw1TgWRAXSuiPdbwrN5TcrytZUg"
+        width: 1600
+        height: 1022
+        isCached: true
   - title: "Fintech trends that will shape the industry in 2021; The startup putting horticulture farming on autopilot"
     excerpt: "COVID-19 was a tailwind for the fintech sector in 2020. And, 2021 is expected to be another great year, but with more innovation in play."
     publishedDateTime: 2021-01-08T00:37:00Z

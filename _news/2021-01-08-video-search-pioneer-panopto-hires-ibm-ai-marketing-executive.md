@@ -7,7 +7,7 @@ originalUrl: "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hi
 webUrl: "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Seattle video platform Panopto hires marketing exec from IBM"
-    excerpt: "Panopto, a video management company based in Seattle, today announced it has hired Dave Neway as its new vice president of marketing. Before joining Panopto, Neway spent almost five years at IBM, most recently as head of marketing for IBM Watson Advertising and Weather."
-    publishedDateTime: 2021-01-07T13:00:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/01/07/panopto-hires-ibm-exec.html"
-    ampWebUrl: "https://www.bizjournals.com/seattle/news/2021/01/07/panopto-hires-ibm-exec.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2021/01/07/panopto-hires-ibm-exec.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 41
-
-secured: "l86M8huBjzSrnDIF1y4ki0VfLnEGckb/ry8oDC2EFFA/DlPp7NMmDUVEzpIP5do+iLvQEPRadvVu1JMUn7ur5aJFjmjizmrJlR1mxZiBR8xYgcP2JkK9FV9SoFx0o9aSEzEn7J/fqfLCENTDtPvGaHOwCaXZAeOte0AVaZZVUmMo3F3EqaqFaRNh9dYgzVEalHoaBHKxSLN6hYrQXcIuvvdK39CQWMlwbZhOQ7uP24GlKs3o00JJhLJMmp0etyJ9lyqynzqsmRakNBkNT3laxLjAiU4kNVBI9Jy97BEjn9rMfT7LQHJBWBsB7uMEfYaQncb5ZrSRzqmRsSBCtxNEQWl/ExUSsefzMCplXIad9Mw=;VQQElodRchEszGl5lxepNw=="
+secured: "rHhSkimnUlPDDpgFdbNeaOrP76qK0gtMbcEF6TZDrtBYDCuNVe5nHCXYFthsMF0Y8/QuOUylDNFcCum7YvRKqw/L3+LqlIP69ekkFneTutuLJIWWZG69QMwuhbJxm0sX4mBCtBrYYcw55ZhHA7y8cEYlqZJ10m2uIS01fZXQd2rFNP++iEhqCUFZXET+z4jJ3iDgHc/PB8Cf0OHoHIU8ZzC+MbsvYPv8v4pqZ/3Pun7xyuRZk39Z1kOyrFUibxapYKvXs/1K4nh9G96GzubStg74wxmEY9rlDOWbvveNhHoK8gDU3z/9Lub5RMZ6j8rq7tBcsoHazUZKBJ/P6Ww6KLntsBLypVCF1K8ZYuYiBSQ=;6/QpYILebqfzohkTt70oKw=="
 ---
 

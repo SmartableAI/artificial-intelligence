@@ -107,22 +107,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Masks no obstacle for Japan’s new facial recognition system"
-    excerpt: "The system determines when a person is wearing a mask and hones in on the parts that are not covered up, such as the eyes and surrounding areas, to verify the subject's identity."
-    publishedDateTime: 2021-01-07T12:04:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/masks-no-obstacle-for-japans-new-facial-recognition-system/article33520883.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/amxeem/article33520942.ece/ALTERNATES/LANDSCAPE_615/japan-facial-recognitionjpg"
-        width: 615
-        height: 384
-        isCached: true
   - title: "This facial recognition system can identify people who are wearing masks"
     excerpt: "For this reason, the NEC company has been working for some time to develop a facial recognition system that can identify people even if they are wearing masks. Mission accomplished. The Japanese company has been marketing its mask-proof face recognition system,"
     publishedDateTime: 2021-01-11T14:43:00Z

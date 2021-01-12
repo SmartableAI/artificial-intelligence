@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Apple's 'Tesla killer' self-driving car is at least 5 years away, according to a new report"
+    excerpt: "For years, rumors of Apple's self-driving car have swirled — but the latest report says it's still at least five years from its big debut."
+    publishedDateTime: 2021-01-08T04:55:00Z
+    webUrl: "https://www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/5ff862fad184b30018aadb8a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Apple’s self-driving EV at least half a decade away, report says"
     excerpt: "will take at least half a decade to launch an autonomous, electric vehicle because development work is still at an early stage, according to people with knowledge of th"
     publishedDateTime: 2021-01-07T22:04:00Z
