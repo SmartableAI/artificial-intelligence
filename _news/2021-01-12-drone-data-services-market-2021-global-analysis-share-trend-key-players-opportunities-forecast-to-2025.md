@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
+    excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
+    publishedDateTime: 2021-01-11T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19095932/global-vision-guided-robotics-market-forecast-2020-2027-covid-19-impact-and-analysis-by-component-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19095932"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19095932"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
   - title: "Intelligent Virtual Assistant Market 2019: Global Industry Analysis Report to 2025"
     excerpt: "The Global Intelligent Virtual Assistant Market size is expected to grow at an annual average of 26 3 during 2019 2025 Intelligent Virtual Assistant IVA also known as Intelligent Personal Assistant IPA is software that helps you understand natural language"
     publishedDateTime: 2021-01-12T09:52:00Z

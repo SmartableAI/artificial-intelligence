@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azooptics.com/amp/news.aspx?newsID=26516"
 cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=26516"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: AZoOptics
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists exemplify world’s fastest optical neuromorphic processor for AI"
-    excerpt: "A Swinburne University of Technology led team has demonstrated the world’s fastest and most powerful optical neuromorphic processor for artificial intelligence."
-    publishedDateTime: 2021-01-08T11:17:00Z
-    webUrl: "https://www.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO.html"
-    ampWebUrl: "https://m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
   - title: "The World's Fastest Optical Neuromorphic Processor"
     excerpt: "An international team of researchers led by Swinburne University of Technology has demonstrated the world’s fastest and most powerful optical neuromorphic processor for artificial intelligence ... leap forward for neural networks and neuromorphic ..."
     publishedDateTime: 2021-01-11T14:13:00Z

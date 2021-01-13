@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023-2021-01-08"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -29,143 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ai In Computer Vision Market 2020 Insights, Revenue, Price and Gross Margin, Forecast 2023"
-    excerpt: "The improved computing capabilities of processors are paving the way for the future growth in the AI in computer vision market. The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period."
-    publishedDateTime: 2021-01-08T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market Share Analysis, Future Trends, Growth Insights, Size Value and Research Insights By 2023"
-    excerpt: "Jan (Heraldkeepers) -- The influx of COVID-19 patients requiring medical imaging diagnostics and definitive healthcare is estimated to augment"
-    publishedDateTime: 2021-01-12T22:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023-2021-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Aviation Market Growth Opportunities, Remarkable Developments and Leading Key Players to 2023"
-    excerpt: "Increasing demand for automation in various industrial sectors and rapid technological advancement are leading to"
-    publishedDateTime: 2021-01-12T06:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-aviation-market-growth-opportunities-remarkable-developments-and-leading-key-players-to-2023-2021-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market 2021 – 2024 | Revenue, Trade Analysis, Trends, Drivers, Challenges, Growth Forecast"
-    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
-    publishedDateTime: 2021-01-08T14:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-2024-revenue-trade-analysis-trends-drivers-challenges-growth-forecast-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Ai In Workspace Market Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2023"
-    excerpt: "The Telecommunication and IT vertical has the highest market share among the other verticals in this market. This is followed by BFSI, Retail and Manufacturing Kenneth Research has recently added a market research study on Artificial Intelligence (AI) in Workspace Market 2023 which provides a complete comprehensive analysis including the data by Segmentations,"
-    publishedDateTime: 2021-01-11T22:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-workspace-market-share-growing-rapidly-with-recent-trends-development-revenue-demand-and-forecast-to-2023-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice and Speech Recognition Market Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
-    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
-    publishedDateTime: 2021-01-08T19:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
-    excerpt: "Selbyville, Delaware Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
-    publishedDateTime: 2021-01-11T08:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market 2021 Growth and Business Prospects, Industry Size, Forecast by Share, Revenue, Development Status, Demand by Regions 2023"
-    excerpt: "Comserve Inc. / -- Based on organization size, the sub-segments include small and medium enterprises (SMEs) and large enterprises. The Machine learning Market is estimated to record a significant growth throughout the forecast period."
-    publishedDateTime: 2021-01-08T14:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-growth-and-business-prospects-industry-size-forecast-by-share-revenue-development-status-demand-by-regions-2023-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Manufacturing Market Share 2021 Analysis, Revenue, Price, Market Size, Trends, Top Manufacturers, Growth Rate, Forecast by 2025"
-    excerpt: "Top Key Manufacturers in Machine Learning in Manufacturing Market Report: This report elaborates the market size, characteristics, and market growth factor of the Machine Learning in Manufacturing industry,"
-    publishedDateTime: 2021-01-11T22:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-share-2021-analysis-revenue-price-market-size-trends-top-manufacturers-growth-rate-forecast-by-2025-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
-    excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
-    publishedDateTime: 2021-01-11T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19095932/global-vision-guided-robotics-market-forecast-2020-2027-covid-19-impact-and-analysis-by-component-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19095932"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19095932"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
   - title: "Robotic Vision Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook Until 2023"
     excerpt: "Market Research Future published a research report on \"Robotic Vision Market Research Report – Global Forecast till 2023\""
     publishedDateTime: 2021-01-08T16:29:00Z
@@ -180,33 +43,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Growth and Change\" report has been added to ResearchAndMarkets.com's offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists, marketers and senior management with the critical information they need to assess the global hr advisory services market."
-    publishedDateTime: 2021-01-08T12:53:00Z
-    webUrl: "https://www.oaoa.com/news/business/global-hr-advisory-services-market-report-2020-covid-19-impacts-growth-and-changes--/article_72324fed-fb0c-52dc-a36d-f5591fba7bb1.html"
+  - title: "Robot Software Market 2021 with Strategies to Boost Growth, COVID-19 Impact, Manufactures, Types, Applications, Status and Outlook to 2024"
+    excerpt: "Virtual assistance, autonomous robots, point-of-care testing, navigation & object detection, business process automation, customer support services, and autonomous vehicles among others are some of the use cases of the robot software."
+    publishedDateTime: 2021-01-12T12:16:00Z
+    webUrl: "https://menafn.com/1101420071/Robot-Software-Market-2021-with-Strategies-to-Boost-Growth-COVID-19-Impact-Manufactures-Types-Applications-Status-and-Outlook-to-2024"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
     images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
-  - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change” report has been added to ResearchAndMarkets.com’s offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists,"
-    publishedDateTime: 2021-01-09T06:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-lung-disease-it-conglomerates-oil-and-gas-industry-89acf0d81fa14819bfe4c0fb1dca902c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232380"
+        width: 374
+        height: 250
         isCached: true
 
 secured: "yKmJEjNHFmHpvMKhdO5ieJRTnwYE6HgIgss97FjrqNRTYRdlwjlIDuKn45jZGs7gdXxvxMeo6tL3YUnNXlOsQ9I4hrVhzgLWRwpeU7zIZj6YW/zQH3JdFOvu+OuQGhApq+vizgXQXPPPbQSDGkaMiYL4SAuosi1u0hfOGduuISZP6TaM4D6BigAf1cmoAlk7pM8j/BUohh0NUW6LqAznaeLXUGWzrBsjlXpEewgtDQIIkkr9rFXTbwFDft9n6AnaWlQZJ8F+VnrhN3iczQp/YL7/nNwkcrn+15gHlLIg0Z5c1S8yVrBHsDaiw/OzcSqHe3dLQBqn8OddXyAsjLXoSK2fXwQ6c2Z38O2ywRm9c3o=;RAfvk55kAgbuY2gtPwi7fQ=="

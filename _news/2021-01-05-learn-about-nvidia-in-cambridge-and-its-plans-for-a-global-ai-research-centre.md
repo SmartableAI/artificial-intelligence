@@ -3,8 +3,8 @@ category: news
 title: "Learn about NVIDIA in Cambridge and its plans for a global AI research centre"
 excerpt: "NVIDIA recently announced its acquisition of Arm and its intention to develop a new global centre of excellence in AI research in Cambridge. Join Cambridge Network for a special online event on Thursday 28 January,"
 publishedDateTime: 2021-01-05T11:25:00Z
-originalUrl: "https://www.cambridgenetwork.co.uk/news/611084"
-webUrl: "https://www.cambridgenetwork.co.uk/news/611084"
+originalUrl: "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre"
+webUrl: "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 250
     isCached: true
 
-secured: "xe46sUp8fV7+trTWpmUt3MoAPaTSwEP04K/6RrX8jpUQX4ZA3ygXnbtnHh2ByCC7zgnvF4WQ3BBzlpkT4r5b59K6h2glz1N/HP3zIGkJdZrqecMQj/gGfCrOfjCdvMM1iE8mcAHZbz2/CJ3/k8Yb2rSQJM08MjQmtM/y28jIowwgVveVpoSV3LCyJcUCciJk9CFdk/JsfULL5lakmuN08UdFbG59F0uQ9gQ4b63q4PHjK49XMKPVeDnW50+Nrq+OBDDh9gsT0puSpe0XO+iZcfYLMi4my/9NRjWzTlgs9e0YDL33jICHJs7Uv6I0nB+R/hNy77bc5ooH/FaulItI1bl8IUzeJ22fb/WI5RE0yoI=;DXkDa2JPiU6lWF0HFo9HIg=="
+secured: "Ni2s1+OoavGao7EHirXLFFM3sfaJpUT+tSHt0YsCnaWDd5edjuD/kze34h9EmVyJTZTWPPBY0SrL0/EYnXlx2Vh0+xND+Nn23n2y1oP61mWLOMaufLbZ2jVmgIRADRVK6THNcz7FydeA+pEat7RhwQdkLEJJgGivvOGk23LoI2JoGB579F2h4X4bv54PhnnGxsuXTlDJRd0qbiHqtPL3J8rwScgR7+LZ3g9ajuLYM2ZI/ibj5pPNYDtnv6QY4toI4EdaEueXUXwgHBKNJ6gtTJikBlXSYjxbCIRixEBA0DOuyzEebe4PEtlkrJ0x6r8sATMd+g6wgrYQeNL/BxgbgHVCqPrF05qIfzSp0IqnCaI=;1eU/G+QTLFhzR2jWwGk8dQ=="
 ---
 

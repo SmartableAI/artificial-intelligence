@@ -34,17 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI redefines advertising in 2021"
-    excerpt: "Advertising as a sector is notorious for major paradigm shifts. That's because the shell game of grabbing consumers' attention never stops, and as programmatic advertising gave way to influencers gave way to branded content gave way to"
-    publishedDateTime: 2021-01-08T12:15:00Z
-    webUrl: "https://www.zdnet.com/article/ais-role-in-redefining-advertising-in-2021/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-role-in-redefining-advertising-in-2021/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
 
 secured: "FgnTPRXs5FT9RMuLFe+Lzu4qOWVrzophwJ3PHtShhJMACdxmtjgnyfNscrtHciSn2wCa5ieGDeHr6NBAODMVwert2+xaSIgwEz/5sZVfn1pHKbGNKYx88NZkBTPy59JqC2yGcsEUDT/4luwTXzOlRSR1gLNwiKkV+WYEv694GKnvXjfbCG3hx3SkSfFykr/TFxQLjvvJQkOPfjEoshTDH2w8sqkXzMnYOkaJ19W51IAyl20x8cHY558jBzL+jgmrKXjB62/z/PwgukO8oZWXs8xgppSuy94BI2VNtbeiU5fDgebsO7UrL7p0yte30WM/+WfzfIZWCge8eeo/K/8SiLsWR6Hj1Nr1dBvrbG3gA1YgdQMY8oMFByQ1xqP+sRnjW9jjIImyL2pfZRxVzBeo5mwVigVIFVAnB7kKSjTxrBp/I0w/uHXr2lYugE1kttKbOVwq5Yur/FUHG8/BEqeaQLKeKYqTssXjs+8Kn9UVwgKgerECx2M49ZQAhW0HJHaEdw7I7DBxSY+QI7XY7koKDQ==;qDbjbOJr6LiR9BB0j+yxUg=="
 ---

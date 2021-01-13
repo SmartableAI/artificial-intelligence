@@ -41,17 +41,6 @@ related:
         width: 960
         height: 719
         isCached: true
-  - title: "Scientists exemplify world’s fastest optical neuromorphic processor for AI"
-    excerpt: "A Swinburne University of Technology led team has demonstrated the world’s fastest and most powerful optical neuromorphic processor for artificial intelligence."
-    publishedDateTime: 2021-01-08T11:17:00Z
-    webUrl: "https://www.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO.html"
-    ampWebUrl: "https://m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/scientists-exemplify-world-s-fastest-optical-neuromorphic-processor-for-ai/story-mmUY6Ttm50bya7SNT0DWkO_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
 
 secured: "EOG5QsUZ8zoNs4k3cCBhGknly9VrPMNxLlWpexTGpnTvpIAj/KWwf2Kk8E/OVXzp3kOsV1c3iexU97I1Exuke9/3+ObADfC6FV8Hf/rDJoIez3rnmKZJgtpwY7t53oibjBtuiFgLNGueM8H8t3OTdj9T5RvDc3I0xmV/sAEMvgOrMG1gQOEES9u6RKJ9S2t5FpGRJCjYc0EQSwbKQyyCKnCwowYDpc4nvGSAWOjsuV/0a7WjY4HMP0hFRsXER7+Bi28B+kLVqJSCPJhl+iFiqckiJj7Ddx0wYvYxX09OQI27+K1bn33BzNPOTlLy+rTXfMDY6TrAy2GpvC6P0rnSoVsk52+g04H68yj/aOGEh6I=;L3bOoZrfD1BAWRF0pUlnBg=="
 ---

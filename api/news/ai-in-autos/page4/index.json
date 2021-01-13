@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-16-china-search-giant-baidu-considers-making-own-electric-vehicles.md",
+      "title": "China search giant Baidu considers making own electric vehicles",
+      "excerpt": "Baidu has held preliminary talks – without ... giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/",
+      "originalUrl": "https://dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/assets/uploads/2020/12/CHINA-CAR.jpg",
+          "width": 611,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/amp/",
+      "publishedDateTime": "2020-12-15T21:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs.md",
       "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
       "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc.",
@@ -1403,49 +1446,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-apple-self-driving-car-unit-now-overseen-by-john-giannandrea-report.md",
-      "title": "Apple Self-Driving Car Unit Now Overseen By John Giannandrea [Report]",
-      "excerpt": "Apple's self-driving car unit is now being overseen by AI executive John Giannandrea, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report",
-      "originalUrl": "https://www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.iclarified.com/images/news/78905/78905/78905-640.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report/amp",
-      "cdnAmpWebUrl": "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report/amp",
-      "publishedDateTime": "2020-12-08T17:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iClarified",
-        "domain": "iclarified.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

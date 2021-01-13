@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "The Industrial Technology Research Institute (ITRI), Taiwan's largest and one of the world's leading high-tech applied research"
+    publishedDateTime: 2021-01-11T12:50:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021-301204748.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site (  ITRI’s featured technologies include the Dual Arm Robot System (DARS),"
+    publishedDateTime: 2021-01-12T09:47:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-energy-industry-electric-utilities-greater-china-62ad8429deb3b03c423f463f96929ff5/gallery/f6e10d436a9041020b2a20c1908e34c4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The best robot vacuums of CES 2021"
     excerpt: "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year."
     publishedDateTime: 2021-01-12T21:39:00Z
@@ -36,67 +64,51 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "CES 2021 to get a virtual twist: Robotics, smart devices & digital health to take centrestage"
-    excerpt: "The big tech show will go on, but online only: the 2021 Consumer Electronics Show kicks off Monday aiming to create connections and showcase the latest in robotics, smart devices, digital health and more."
-    publishedDateTime: 2021-01-11T12:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/articleshow/80212322.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/amp_articleshow/80212322.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/amp_articleshow/80212322.cms"
+  - title: "CES 2021: AR Glasses, AI Chips and Automated Astronomy"
+    excerpt: "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation."
+    publishedDateTime: 2021-01-12T21:09:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/ces-2021"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 63
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-274280,msid-80212786/malinois-pups-to-train-for-itbp.jpg"
-        width: 412
-        height: 255
-        isCached: true
-  - title: "Pandemic's robot 'heroes' highlight their value at CES 2021"
-    excerpt: "Among those taking the virtual stage at CES are robot companions, concierges, cooks, delivery drones, medical assistants and those handling the perilous tasks of sanitizing workplaces and medical facilities."
-    publishedDateTime: 2021-01-12T12:00:00Z
-    webUrl: "https://gulfnews.com/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    ampWebUrl: "https://gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/01/12/20210112-robot-heroes_176f646af35_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Samsung unveils home robot that does the dishes at CES 2021 – latest updates"
-    excerpt: "Samsung has showed off a robotic waiter and butler that can pour you wine and do the washing up. Bot Handy was briefly on display as part of Samsung's presentation at the Consumer Electronics Show in Las Vegas."
-    publishedDateTime: 2021-01-11T18:06:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 56
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/01/11/LG-smartbed_trans_NvBQzQNjv4Bq3C4DDbsH65fm6X__oq5DkEHQvb2UFjW03QidnNDMhGA.jpg"
-        width: 690
-        height: 431
-        isCached: true
-  - title: "The best tech of CES 2021"
-    excerpt: "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,"
-    publishedDateTime: 2021-01-12T21:46:00Z
-    webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
+      name: ARM architecture
+      domain: arm.com
     quality: 54
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112170333-ces-lead-image-super-169.jpg"
-        width: 1100
-        height: 619
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2021/01/lenovo_thinkreality.jpg"
+        width: 1940
+        height: 980
+        isCached: true
+  - title: "CES 2021: 5 show-stopping smart home tech innovations"
+    excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
+    publishedDateTime: 2021-01-11T19:57:00Z
+    webUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/"
+    ampWebUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 44
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2021/01/ces.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
+    excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
+    publishedDateTime: 2021-01-12T14:30:00Z
+    webUrl: "https://www.albawaba.com/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 43
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/bosch_softwareentwicklung_4.jpg?itok=-_RdG45m"
+        width: 960
+        height: 539
         isCached: true
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
@@ -126,6 +138,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "GenkiTek Showcases AI Camera Solutions at CES 2021"
+    excerpt: "GenkiTek was one of the 100 companies given the opportunity to showcase its wares in the Taiwan Tech Arena at this week’s CES 2021 event"
+    publishedDateTime: 2021-01-12T22:27:00Z
+    webUrl: "https://mobileidworld.com/genkitek-showcases-ai-camera-solutions-ces-2021-011208/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 37
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/Computer-Vision-Icon.jpg"
+        width: 712
+        height: 684
+        isCached: true
   - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
     excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."
     publishedDateTime: 2021-01-11T13:27:00Z
@@ -135,6 +161,89 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 34
+  - title: "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021"
+    excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution"
+    publishedDateTime: 2021-01-12T05:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-301205896.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
+    excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
+    publishedDateTime: 2021-01-12T12:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the ..."
+    excerpt: "Bosch's tagline at CES 2021 Bosch as a pioneer in climate action: Under the tagline “Sustainable #LikeABosch,” the company will be presenting intelligent, sustainable solutions for health, living, and mobility at the virtual tech trade fair CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-industrial-technology-fcc0754fecc1df56ceb6e922eca7eadf/gallery/e533e5ed1156e6c42eb09d383285e5cd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-robotics-36120032652d479b8e56c1d5e0f280f5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "CES 2021 LUCID, the leader in AI supporting E-commerce increase conversion and purchases with intelligence"
+    excerpt: "PRNewswire/ -- Lucid empowers E-commerce with AI to convert users to sales by optimizing search, recommendation and product display by applying intelligent tagging and image manipulation with AI to achieve the highest revenue for our customers,"
+    publishedDateTime: 2021-01-13T04:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-data-management-a5965ab21c5ae0ec332861daaad132e4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
+    excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
+    publishedDateTime: 2021-01-11T06:52:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8123660/ces-2021-bosch-puts-its-faith-in-ai-and-connectivity-for-the-protection-of-people-and-the-environment"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-11T08:43:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210111005733/grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "QFfegWB+cBKzbOGVdf40Hi9nJ28NM1xS8xgKThaXhn8W4xQkNEU+GbRK0/CfFnTs+YD6rEPASUX/Bj8F3qJA5SV/LslGcvL9BNRv8D1JesT8KkrJGy2Luucg3jPMePL4IvtHKhbrWOMez980GtpCBa9QUqHwiYtRrtsP8uZf1sC5pWR8K1NwKVTQQjxEXAVuhSezD2om3iJ83LiYfGPu8M8myerH4toalVdowWbWuZepgJHLyJDF43CRou4OqrW4bBQkNJc8rT8iiLKLYwp/5N9ahw8bmX8QktUtSgIgGtMx6wAMEoLYD2RgMMUd+MnrRhryOhjhxbjTB+vHoq9VabfXkPBkH/EbT1XcfHOGJ0e1IV8T2H/HJKztAGcWoTDybtUYZMLziAxQR1vMow+L52pUZN2Ec/soQr3JiRsrGwV0uIfypsFIom1rJmhwCnz0/1x+ErVpK4iw1q7d/Buc4eM4PPQ4wuitSypg8TksNueOlM7jwVGftknVyda4UWRh1r+Lbb6lgWTCwB1k1Wco8Q==;uB7QwcQVYKbhox+cVmcAqA=="
 ---

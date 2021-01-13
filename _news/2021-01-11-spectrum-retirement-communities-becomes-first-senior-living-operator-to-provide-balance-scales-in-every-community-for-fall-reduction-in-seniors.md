@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Spectrum Retirement Communities Becomes First Senior Living Operator to Provide Balance Scales in Every Community for Fall Reduction in Seniors"
-excerpt: "PRNewswire/ -- Spectrum Retirement Communities, LLC (Spectrum) is committed to being the senior living industry's leader in the wellness of"
-publishedDateTime: 2021-01-11T11:07:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/spectrum-retirement-communities-becomes-first-senior-living-operator-to-provide-balance-scales-in-every-community-for-fall-reduction-in-seniors-301204845.html"
-webUrl: "https://www.prnewswire.com/news-releases/spectrum-retirement-communities-becomes-first-senior-living-operator-to-provide-balance-scales-in-every-community-for-fall-reduction-in-seniors-301204845.html"
+excerpt: "PRNewswire/ -- Spectrum Retirement Communities, LLC (Spectrum) is committed to being the senior living industry’s leader in the wellness of residents, including reducing fall risk. To accomplish this,"
+publishedDateTime: 2021-01-11T11:48:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seniors-seniors-health-health-ba9ce9d6eba2e86e8facc45a5b1f7961"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seniors-seniors-health-health-ba9ce9d6eba2e86e8facc45a5b1f7961"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1007026/Spectrum_Retirement_Communities_Logo.jpg?p=facebook"
-    width: 1523
-    height: 797
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "09kP/anRXAHufPaVJLjZHPpXEg5pm5l2L3ApI+NsyCpZ58ryfejHgHwxbZSsDgmjnSdZitRA0Dy/hd+uuqiYT6HdFJQeV7YlaqhznEHA1e1J3F4j8zBfCDBQP41NnxVVagMvMz/mdLZfO3h/f+9M+iFqkE6p5ZpYUL2PZiUd2f0Ixw7649xFRQ8SaCWdurydYjCaLF7FigQk4r/U/0xsbit/HksjPNBZNbgusrHQ6aAhlmCRpSCuqZ0OfTrSk6EKzm+0uDmWcU1anI8hqPbJS1d+Uz/1Tn/RGTGjlQ9YN7Spcj/VkjIVJvRXAXT2KScP9+wY/M4zD6MR37FcD40csqKKnr7df6dC0MG/rug4eFA=;Ayk98QtXdVvfA0/bfCb8Gg=="
+secured: "BTY1cIZJRcjnEKaCkXwoIJd5B4TF/hvwH57SHru+jpTfvVVfgrD0J+L0p7RaAB6AyGcrRFpsIo59ykEZM3iFwj/OrGvcBpOLLkiKNVSKIaF0eOuEC/l7vFI5E7r9Qk5IqU2L6XP4C4WUVW686NFKwhtngJN3oOFZlhNL3/K5AaNrNwx5juTBKjnpHgPHlv9IdeaLo9XHRuaBbMIi4zt/hr02l7HVx5Ef8fLZla9cAyPsz2r/3GMdVpOTK+UFVtfxaxLudkAh1j7tsA/zFbz1EXNePYLydb2RSoiAn22pQAFY1vxiwIPyj3G1EkAOH+L1KDDjRVfU04jqxzKU99oT1bowbezl87ZXyboDRH7TEQ0=;HTwuNzmmkxAP8RIdIhCLhQ=="
 ---
 

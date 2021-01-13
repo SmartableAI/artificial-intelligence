@@ -9,8 +9,8 @@ ampWebUrl: "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Pulse 2.0
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Updated: Amp Robotics raises $55M in financing"
-    excerpt: "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors."
-    publishedDateTime: 2021-01-08T11:24:00Z
-    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/"
-    type: article
-    provider:
-      name: Recycling Today
-      domain: recyclingtoday.com
-    quality: 69
-    images:
-      - url: "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
-        width: 736
-        height: 414
-        isCached: true
   - title: "Trash-Sorting AMP Robotics Closes $55 Billion in Series B Funding"
     excerpt: "Matanya Horowitz, CEO of AMP Robotics, spoke with Cheddar about how the company's latest fundraise will help it improve its robotic recycling system."
     publishedDateTime: 2021-01-08T18:31:00Z

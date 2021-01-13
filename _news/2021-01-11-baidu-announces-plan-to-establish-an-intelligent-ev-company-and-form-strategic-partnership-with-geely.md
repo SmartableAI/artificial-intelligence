@@ -125,22 +125,6 @@ related:
         width: 780
         height: 300
         isCached: true
-  - title: "Baidu Enters The EV Fray As It Plans $3.5B Secondary Hong Kong Listing: Reports"
-    excerpt: "Baidu Inc (NASDAQ:BIDU) becomes the latest tech giant entrant in the lucrative self-driving electric vehicle market. Reuters reported that Baidu has tied-up with Chinese automaker Geely Automobile ..."
-    publishedDateTime: 2021-01-08T12:09:00Z
-    webUrl: "https://www.benzinga.com/news/21/01/19072703/baidu-enters-the-ev-fray-as-it-plans-3-5b-secondary-hong-kong-listing-reports"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19072703"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19072703"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/geely_geometry_a.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Baidu, Geely join hands to establish intelligent EV company"
     excerpt: "Beijing, Jan 11 (IANS) China-based search engine giant Baidu Inc on Monday announced its partnership with multinational auto manufacturer Zhejiang Geely Holding Group (Geely) to establish a company to produce intelligent electric vehicles (EV)."
     publishedDateTime: 2021-01-11T12:36:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/12/ces-2021-pand
 webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/12/ces-2021-pandemics-robot-heroes-highlight-their-value-at-tech-show"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Pandemic's robot 'heroes' highlight their value at CES 2021"
+    excerpt: "Among those taking the virtual stage at CES are robot companions, concierges, cooks, delivery drones, medical assistants and those handling the perilous tasks of sanitizing workplaces and medical facilities."
+    publishedDateTime: 2021-01-12T12:00:00Z
+    webUrl: "https://gulfnews.com/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
+    ampWebUrl: "https://gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/01/12/20210112-robot-heroes_176f646af35_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "The best tech of CES 2021"
+    excerpt: "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,"
+    publishedDateTime: 2021-01-12T21:46:00Z
+    webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 54
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112170333-ces-lead-image-super-169.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pandemic's Robot 'Heroes' Highlight Their Value At Tech Show"
     excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry's annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
     publishedDateTime: 2021-01-12T02:36:00Z

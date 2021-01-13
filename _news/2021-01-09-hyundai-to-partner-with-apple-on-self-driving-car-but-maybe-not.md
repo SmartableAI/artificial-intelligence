@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-dri
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: TheStreet.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai in 'early talks' with Apple for self-driving electric car"
-    excerpt: "Hyundai Motor Co. said Friday it is in the early stages of talks with tech giant Apple to jointly develop and produce a self-driving electric car."
-    publishedDateTime: 2021-01-08T12:25:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6861610106800/2021/1/dda519f86bfc05448a184b6df6aa7007/v1.5/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Hyundai Could Co-develop Apple’s Rumored Self-driving Car For 2024"
     excerpt: "While reports suggest talks of this are at an early stage, a tie-up with an established carmaker like Hyundai would make the endeavour much easier for the tech giant"
     publishedDateTime: 2021-01-11T12:16:00Z

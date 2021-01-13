@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Healthcare Stocks: How AI Is Helping in the Fight Against COVID-19"

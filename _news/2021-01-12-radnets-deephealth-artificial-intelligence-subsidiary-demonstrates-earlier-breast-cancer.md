@@ -35,6 +35,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 28
+  - title: "RadNet’s DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer Detection in New Study"
+    excerpt: "RadNet, Inc. (NASDAQ: RDNT) today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence (AI) for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
+    publishedDateTime: 2021-01-13T04:58:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast-cancer-detection-in-new-study/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 18
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "DtgKylWZjQ5PIBvJJCPbKVmRrgYaTq4L/zOCNueK8hORZDeDrNF8ke0x7a1S1SoFfKlyFA59KrbMH9qRX4u46uBLxIs/7qpaMHszAmfVyGLxlG3PZo7DD/cNTNpboOs2ugtrpS9xg6NuQ2ls8K8hGMw9VzXuMWpWc02et3+yy86qNApUHuFkOEg9c93MY3bRvxM3NFdISH4j2QCg+4AwFo7TQil3qsahS/IDN0JoPfwE1wY3GJR9M/bb9OANUz9yk2B5a2PzALSxfIXD3wWOoMJwnB6Gsa/OEYKvCEZBqzXv9AX5YTnhiYIdCLia9CJWo6Fl3wZt24qpmNTbSPZuicfywrsJZSbeAKtIwRouJVo=;TFxCjjyog1Oz8GKbrT/Icw=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 480
         height: 300
         isCached: true
+  - title: "Ambarella unveils 5nm AI vision processor"
+    excerpt: "Ambarella has unveiled CV5, an artificial intelligence (AI) vision processor for single 8K and multi-imager AI cameras, setting a new standard for power efficiency with 8K video recording in under two watts."
+    publishedDateTime: 2021-01-13T04:22:00Z
+    webUrl: "https://www.digitimes.com/news/a20210112PR202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://www.digitimes.com/newsshow/20210112PR202_files/2_b.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Ambarella Introduces CV5 High Performance AI Vision Processor for Single 8K and Multi-Imager AI Cameras"
     excerpt: "Ambarella today unveiled the CV5 AI vision CVflow® 5 nm processor for single 8K and multi-imager AI cameras, setting a new standard for power efficiency with 8K video recording in under 2 watts. The SoC targets intelligent automotive camera systems,"
     publishedDateTime: 2021-01-12T09:45:00Z

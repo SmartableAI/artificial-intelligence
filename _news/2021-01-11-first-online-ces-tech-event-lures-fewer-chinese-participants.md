@@ -25,28 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Sequoia, Tencent join the $190m series C and D rounds of Chinese HR startup"
-    excerpt: "The latest investment comes after WorkTrans raised US$23 million in a series B1 round from Qiming Venture Partners and Lightspeed China Partners in 2018."
-    publishedDateTime: 2021-01-08T12:31:00Z
-    webUrl: "https://www.techinasia.com/sequoia-tencent-join-190m-series-chinese-hr-management-startup?ref=recommender-668771"
+  - title: "CES 2021 to get a virtual twist: Robotics, smart devices & digital health to take centrestage"
+    excerpt: "The big tech show will go on, but online only: the 2021 Consumer Electronics Show kicks off Monday aiming to create connections and showcase the latest in robotics, smart devices, digital health and more."
+    publishedDateTime: 2021-01-11T12:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/articleshow/80212322.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/amp_articleshow/80212322.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ces-2021-to-get-a-virtual-twist-robotics-smart-devices-digital-health-to-take-centrestage/amp_articleshow/80212322.cms"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 30
-  - title: "Here's the pitch deck self-driving startup Oxbotica used to win investment from Tencent in a $47 million funding round"
-    excerpt: "The University of Oxford spin-out was also backed by BGF and BP Ventures."
-    publishedDateTime: 2021-01-12T23:38:00Z
-    webUrl: "https://www.businessinsider.com/tencent-oxbotica-technology-startup-pitch-deck-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
+      name: India Times
+      domain: indiatimes.com
+    quality: 63
     images:
-      - url: "https://i.insider.com/5ff6dd7a6d61c10019cce15a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-274280,msid-80212786/malinois-pups-to-train-for-itbp.jpg"
+        width: 412
+        height: 255
         isCached: true
 
 secured: "o6vVhcPhzgafSVmB3doVKYjJ75Clft91Saxd5vRQuOj2e1Hlu04TDxwBS0oVm4L64rkKrblKNRhA2Nnq0QcAC+2x23+XV50JaNuoWXV1OROcnNGa8Kgwiuc0IskwepH/obF7kKs68lj2jkoHi9GIwTrWjhMCxErazgrc9RaF4vWC2BxjUfSnEqjkgMOMPI/w9VL3XThnM1Z2KO+k5eqltawpwHuUp30YQ79JzbB3gJL9SE387cHznUgB0IlJoBkhUoGDCQMhCi69ivcOXN2O2FhFejuXVMakgbuhe7Eo3oHu92p1QHHpycXAxMnk4/goqU9MRo0CP1bYS9LC5/anE4Q8KF7qKk3f/NpT6+wqafw=;hphDtyqEbOtbNi4V9LwHIA=="
