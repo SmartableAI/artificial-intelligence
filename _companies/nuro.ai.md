@@ -2,7 +2,7 @@
 name: "Nuro"
 overview: "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us."
 type: "profile"
-heat: 147
+heat: 155
 
 website: https://nuro.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "nurobots"
   url: "https://www.twitter.com/nurobots"
-  followers: 3378
+  followers: 3379
 
 size: 201-500 employees
 yearFounded: 2016
@@ -47,6 +47,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=XKXbacNQGI8"
 
-secured: "go4FWFle+QUBMi1lnIM4Ouon5ZJKp8RB6C2n6A8rpxLdGZe9ssPFbnWCwAifAz5t+q67e8CB2589M581KKtFD0XS9uLqwhZRX9+uOupOENNtWyyZ9FfHOQlURRhGuaY4kAFpzAGOl9GF3mqzGhzM9nrgsbRCThS7Pj1WkPdmnj1kOvTT3hrhoRBYw/+wE5bzmPMimv9CefASU/yAHaScn33qWUsEIvNRTVzZajsX0I3xzJvwepj/T8R6XGD5+hCPFSxYQ4HusYZI+C9kAHE51EsFT4GifxcH0LNyULk3xt/AsTputrZ4PPh9h3xqNcuAAcCeTpFfaMKWxImvOXV2ISRUGyzMU9SQu4ixIBEn1a3R8PPOVmyGyeasgLNE5E0OYPwqf5mZkv937VhKIrVbH8eE2wXwwVuTX/9X3OpQDYw=;nguLTStZtopTQMvvbfvOkA=="
+secured: "vUHkXPQO7BvwCxPOVPtR+7dUz/IP9x3rw0yPQTko/gXmGpxgoOXqy8/ONU+aUh3zi8JGF5it9tT90PPYe6LaHqXl7uzui7zxiLQTqKQ3M8QhLoEiQx8DSCNPTKwx67UF028rKCZ+H4WOj5HfG8LbDuFFT5Q3athSkuK5EiZzql2BQbpW+cyQ3yXyHwWugdvee4xlqa69TAoT6sp6dVXi9A9CI9f2xt/P5rKWYDckKtXZChRVhsMPFDfAgaI7Xgb6UxunwKPlpG4fUyoEkrRY3T9Z5Z25E2tYkyM7TfDAeDrSrgd62YTkrrm3LUuVKKEp5ZviI2kDNTFJG6D1xZJw42xtWyiZIHYZudMGA4qS0Yy2RHBsVcq0+rwCCA27dQ53EP8kz6RxfjGlZwwAQoezLVlzrnb88Y5uiRYo5jQRP4o=;oTnZw9f84s7eSzfkc5rg7g=="
 ---
 

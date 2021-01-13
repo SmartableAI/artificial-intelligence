@@ -2,7 +2,7 @@
 name: "Grok"
 overview: "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance"
 type: "profile"
-heat: 41
+heat: 20
 
 website: https://grokstream.com/
 
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Grok"
 
-secured: "hsBAT0emIA1dUS7BM9x+gWET0KsmjyIDPOh9QzS5Ah4NHiv0zR+5DLS24npvfkiftP6oKjGZkXXyg70mPq6IJFlCNjjLU72oF2+m4GXRwhDJnqcaq6cr4hidV/DB1EmqvvuAGXktTbxqd3xbmGTlo/bih/zcfGxFCDQrM3Zbaokfej907SmFxH3B1BBWTNFps1WPPW6Wu3wzH9mZ7xJhpDY2xXxJeNeorEGU3noO9cFFDd4LVOKAcrBaJ+42EAc14jP97nN93mD61YfejR+iUuEKZMhllqQhnqmR9SXN/Lle8dkcoo+r2ledgouGK/UlORlmvkJdkOZdlSs1K5YezLa93X7ZYHZvrpKt63N4P5ZRm9kwAWt4GwJuAVIjHrguWwl9G97PFZLeQThP9OYHoA==;jDtkA3pCpOlMwcq5EYw5zg=="
+secured: "v1vJfSyrt6LM+oUMnx3Uxqd/iz536Y2GoMnxKbhroUIgSO3D63LIIu3spkGxX7WdA8IBWz/9QFV+pQ5xsPsBIF/sWZ0tgOeVRy16vqsVza8HDJE+ELOGquV+Neb1di3epQTL8qWdegf2esnbH/gyWWEkC977DQAL7co4/QPL9yD9jtRW4D2/d+0dxaBXxIn86dPEx1HWer2nJBaUSNYeRQu2ithec5R0XBiWuu3D5A7r5VUWUxD3zXbnUGMi/sF5XjabXf0Z8k9JQbrlkzj81cjb8ir68WZ1r9iwEE2BcxP2Ok4fWNp/H01Kx0bB+gOTEEG7Ze2FLTVuqCXEuc05eLR/M3aCIAhU2CY4sPoCgT4OouX9bJ7bcQ1TUmOk0AeRM8vVtCPM72shIgltLwCRIA==;18wFLNYsufBUMAdYN18P+Q=="
 ---
 

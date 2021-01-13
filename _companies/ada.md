@@ -2,7 +2,7 @@
 name: "Ada Health"
 overview: "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016."
 type: "profile"
-heat: 147
+heat: 127
 
 website: https://ada.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "adahealth"
   url: "https://twitter.com/adahealth"
-  followers: 4682
+  followers: 4683
 
 size: 201-500 employees
 yearFounded: 2011
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"
 
-secured: "rCmMKbXoYPjNdr2XC00hEYj+pVQ1+p71PQ+oUcmCYW3lTSf0wS41klD8hosL/CHv77/iqBIGgGMWiblyE7rvpey7FEmjjBxrRWSPGor9WIFZQllPVo0x77nDQLBN8cB4Kkcme1k3N1G4Sk52/L7UovEZCNdMPDtMq4Cb2c4qqtFTD/C9GEAaGDj8iknOwfq6ZWZgeXo+I/qMyXmG1vMpGo+hAvB75QkuJLAmG/5VAhMaJKtIDkWHvs1PjXbwIkODFnNxJRRVpF1XgtXtv9DX8IRoZRVu8AA2rFyXFLzaGki3KvGGOtwOaHbqzsEBKTCv/WNI5AfYAvirk14QrVUzHfGqDJ+8FTDCZTvkJ7llAZaQcr2l8MGjG2U1ocU1SolSM3z9P/HfVyfzJpJ4sAU0UpJ3Ooz/dm1NcC4Cl2ksAwo=;CkzywvGYZTAsW7IRoUQ0BA=="
+secured: "ZiTQJME8EAGTv6ofS6uKdW50t/zhOcQaqBnO6Ri6dL8nwENDAd6kH0lVLUDeT73potzUvtmgCgiWHLmPRQCfK+GgGZD3iooeXZ2wxuIcNmkvXcSDJiJX5MfHvMu0FExEiuSuenIHmFzAmQmJhXM3/i8JBQ/aQyPBs/Oj4HRhO+2RxvYFxXlQGJHywva3RRdwQlY5ByTUpsvTB8gaFlRCoshTIYT7H3/HuYEbN/FpR53I4n/yujrHqpkuryVEg7fbHcskDzSVBSs6QvV1F+IYlcPJSLj2tkvOwqLvoBAn5fFd/0l0w0K2o+MdnSVOlUVZHmioFzsXFZPbGaYM6ZUCYdSHnEWpb+oMx9zR66vBwBDiPjGchKsrUaAN6nRwxSPEvaZTm650Hj9re2VlUz3GBsOtfso7vgjK9htZIEqKu8Q=;iKaYYUV9vVtIAq0IuIwduw=="
 ---
 
