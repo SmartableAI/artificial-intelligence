@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-how-to-opt-out-of-facial-recognition-at-the-airport.md",
+      "title": "How to Opt Out of Facial Recognition at the Airport",
+      "excerpt": "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport",
+      "originalUrl": "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg",
+          "width": 5568,
+          "height": 3712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp",
+      "cdnAmpWebUrl": "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp",
+      "publishedDateTime": "2021-01-05T15:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Condé Nast Traveler",
+        "domain": "cntraveler.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-the-best-facial-recognition-security-cameras-of-2021.md",
       "title": "The best facial recognition security cameras of 2021",
       "excerpt": "Some home security cameras have facial recognition, an advanced option that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
@@ -1333,58 +1376,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-us-plans-major-expansion-of-facial-recognition-authority-at-airports.md",
-      "title": "US plans major expansion of facial recognition authority at airports",
-      "excerpt": "US Customs and Border Protection has filed for a significant expansion in its authority to conduct facial recognition at airports. On November 19th, the agency submitted a filing to the Federal Register seeking to expand the ongoing biometric exit program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
-      "originalUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/LN_n6S12cK_P45z1SZJ7UeGAsnI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68547533/acastro_180730_1777_facial_recognition_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
-      "publishedDateTime": "2020-12-18T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

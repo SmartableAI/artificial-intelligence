@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Stanford researchers propose AI that figures out how to use real-world objects"
-    excerpt: "presented by the #1 publisher in AI and Data One longstanding goal of AI research is to allow robots to meaningfully interact with real-world environments. In a recent paper, researchers at ..."
-    publishedDateTime: 2021-01-08T18:57:00Z
-    webUrl: "https://venturebeat.com/2021/01/08/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects/"
-    ampWebUrl: "https://venturebeat.com/2021/01/08/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/017553af-a004-46c3-bfbe-374799863fd5-e1610131852984.png?w=1200&strip=all"
-        width: 1029
-        height: 516
-        isCached: true
   - title: "Stanford researchers combine processors and memory on multiple hybrid chips to run AI on battery-powered smart devices"
     excerpt: "In traditional electronics, separate chips process and store data, wasting energy as they toss data back and forth over what engineers call a “memory wall.” New algorithms combine several energy-efficient hybrid chips to create the illusion of one mega–AI chip."
     publishedDateTime: 2021-01-11T16:34:00Z

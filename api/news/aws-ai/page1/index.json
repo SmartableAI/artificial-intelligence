@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-avaya-extends-aws-relationship-to-support-ai-capabilities.md",
+      "title": "Avaya Extends AWS Relationship to Support AI Capabilities",
+      "excerpt": "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
+      "originalUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png",
+          "width": 272,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-aws-announces-the-global-expansion-of-aws-cci-solutions.md",
       "title": "AWS Announces the global expansion of AWS CCI Solutions",
       "excerpt": "We’re excited to announce the global availability of AWS Contact Center Intelligence (AWS CCI) solutions powered by AWS AI Services and made available through the AWS Partner Network. AWS CCI solutions enable you to leverage AWS machine learning (ML) capabilities with your current contact center provider",
@@ -1387,59 +1430,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama.md",
-      "title": "Building and deploying an object detection computer vision application at the edge with AWS Panorama",
-      "excerpt": "Computer vision (CV) is sought after technology among companies looking to take advantage of machine learning (ML) to improve their business processes. Enterprises have access to large amounts of video assets from their existing cameras, but the data remains largely untapped without the right tools to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/18/1-Parking-Lot.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T16:18:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

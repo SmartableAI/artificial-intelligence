@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-ai-enabled-automated-driving-dev-kit-has-dual-linux-brains.md",
+      "title": "AI-enabled automated driving dev kit has dual Linux brains",
+      "excerpt": "News Highlights: AI-enabled automated driving dev kit has dual Linux brains. NXP has unveiled a BlueBox 3.0 automotive platform that runs Linux on an up",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/",
+      "originalUrl": "https://www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/AI-enabled-automated-driving-dev-kit-has-dual-Linux-brains-1024x819.jpg",
+          "width": 1024,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/amp/",
+      "publishedDateTime": "2021-01-12T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-the-weather-company-raises-gpu-storage-forecasts.md",
       "title": "The Weather Company Raises GPU, Storage Forecasts",
       "excerpt": "For those who follow supercomputing, weather forecasting is one area to watch for systems that are designed for maximum capability. Unlike the many other",
@@ -295,7 +338,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/11/stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1395,58 +1438,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-resolution-scaling-the-secret-to-playable-4k-gaming.md",
-      "title": "Resolution Scaling: The Secret to Playable \"4K Gaming\"",
-      "excerpt": "Resolution scaling is a great option if you're looking to eke out an additional 10-15% performance, after tweaking settings. If you're playing at a high resolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "originalUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2161/images/2020-12-29-image-2.jpg",
-          "width": 3352,
-          "height": 1936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "publishedDateTime": "2020-12-29T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

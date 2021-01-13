@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Tickeron Reveals AI Trading Robots for Cryptocurrency Markets"
-excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, launched its new AI Robots"
-publishedDateTime: 2021-01-12T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tickeron-reveals-ai-trading-robots-for-cryptocurrency-markets-301205898.html"
-webUrl: "https://www.prnewswire.com/news-releases/tickeron-reveals-ai-trading-robots-for-cryptocurrency-markets-301205898.html"
+excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, launched its new AI Robots tool for cryptocurrency trading. This valuable technology is making cryptocurrency trading analysis much more accessible to investors through predicting breakout and target prices,"
+publishedDateTime: 2021-01-12T14:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tickeron-reveals-ai-trading-robots-for-cryptocurrency-markets-1029960059"
+webUrl: "https://markets.businessinsider.com/news/stocks/tickeron-reveals-ai-trading-robots-for-cryptocurrency-markets-1029960059"
 type: article
-quality: 54
-heat: 54
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "YcNiHVeITIu6Dm/Yq8npQcf/L3GPQCcWdezomwTJkwaoyaawz0vK6T/xFADTaXlorLy6Fmz1ZGbUI+/zeukOb6TSj6c4sXpozZszGheyub92vzr88VvETaiWGV29+3DzRzIfZZJbRe8jpY5rmCTzA7cpVHeyVUhYZciTAlmkksJh5f8D9XAy4PpvMnGU3Ib52lavAWqakg1xgT4RHfadFAlwFjU26Q2rMPOQ8ZRkymxK8rc+fg0laFvLTzB0E8swCM8PXVtWob8agKgbmqfMUURfqHjzvMK9G220ft4d1VetilY+MGx1pKbUNnxXmIfhcoaEi2OpN00TG5/NQqACTTZqwl0PHuleVDe+be7HFqM=;PlyXpcigcoG/DjIwSwOsaQ=="
+secured: "IW4SrO0Kyqok0CPcI8up/d3/9WnPvFxwByJLHGI/aj1wuyhqQF7j6XcJJCAe4LnW5QpeqA0ATwHD28NS1Y+RKz39Tm9BHZtbSu/VyGpSfxqyl0fQ6DzsuOLNessEDP8w62l7T/jPv1Ml14mZ/wPf21uZ1kBm8leP5PFSmRRO1mDQ6KFgiLTipwAwvqaIIDkMJ2X0hEhzel4PENUgtaNmb3fnQ2yTwZtHntlQa4vnIuPH4nLeximTiL5kTLA5ECl7+gVSPnh1+zB5fw7jFhHWaJg3ICSKHpuO4ovBy3y2LrCaUNmMzyjBsV6nNS2zFCFiwnZ4bkHeazH/V5U0uzDIEl3yvGNFRBWEyZP2qG9W5RU=;x5bxvHvdMp7VKNRyNbkwyg=="
 ---
 

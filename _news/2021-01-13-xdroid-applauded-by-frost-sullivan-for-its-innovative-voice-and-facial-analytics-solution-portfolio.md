@@ -28,7 +28,7 @@ related:
   - title: "Xdroid Applauded by Frost & Sullivan for Its Innovative Voice and Facial Analytics Solution Portfolio"
     excerpt: "The company's highly flexible and customizable portfolio is based on its proprietary language engine and features speech analytics and automated"
     publishedDateTime: 2021-01-12T14:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029960155"
+    webUrl: "https://markets.businessinsider.com/news/stocks/xdroid-applauded-by-frost-sullivan-for-its-innovative-voice-and-facial-analytics-solution-portfolio-1029961411"
     type: article
     provider:
       name: Business Insider

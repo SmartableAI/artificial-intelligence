@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "World’s Fastest Optical Neuromorphic Processor for Artificial Intelligence"
-    excerpt: "Headed by the Swinburne University of Technology, an international research team has now revealed the world’s fastest and most robust optical neuromorphic processor meant for artificial intelligence (AI)."
-    publishedDateTime: 2021-01-08T17:08:00Z
-    webUrl: "https://www.azooptics.com/News.aspx?newsID=26516"
-    ampWebUrl: "https://www.azooptics.com/amp/news.aspx?newsID=26516"
-    cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=26516"
+  - title: "Researchers exemplify world’s fastest optical"
+    excerpt: "Artificial neural networks, a key form of artificial intelligence, can learn and perform complex operations with wide applications to computer vision, natural language processing, facial recognition,"
+    publishedDateTime: 2021-01-10T22:35:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/researchers-exemplify-world-s-fastest-optical-101610321550770.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/researchers-exemplify-world-s-fastest-optical-101610321550770-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/researchers-exemplify-world-s-fastest-optical-101610321550770-amp.html"
     type: article
     provider:
-      name: AZoOptics
-      domain: azooptics.com
-    quality: 59
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 46
     images:
-      - url: "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_26516_16101082357449275.jpg"
-        width: 960
-        height: 719
+      - url: "https://images.hindustantimes.com/img/2021/01/10/550x309/artificial-intelligence-machine-learning-concepts-deep-learning_a53e5380-39fe-11eb-a935-67a6702b164e_1610321641424.jpg"
+        width: 550
+        height: 309
         isCached: true
 
 secured: "EOG5QsUZ8zoNs4k3cCBhGknly9VrPMNxLlWpexTGpnTvpIAj/KWwf2Kk8E/OVXzp3kOsV1c3iexU97I1Exuke9/3+ObADfC6FV8Hf/rDJoIez3rnmKZJgtpwY7t53oibjBtuiFgLNGueM8H8t3OTdj9T5RvDc3I0xmV/sAEMvgOrMG1gQOEES9u6RKJ9S2t5FpGRJCjYc0EQSwbKQyyCKnCwowYDpc4nvGSAWOjsuV/0a7WjY4HMP0hFRsXER7+Bi28B+kLVqJSCPJhl+iFiqckiJj7Ddx0wYvYxX09OQI27+K1bn33BzNPOTlLy+rTXfMDY6TrAy2GpvC6P0rnSoVsk52+g04H68yj/aOGEh6I=;L3bOoZrfD1BAWRF0pUlnBg=="

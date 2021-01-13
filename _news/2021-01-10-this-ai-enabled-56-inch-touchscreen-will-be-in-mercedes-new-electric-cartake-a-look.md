@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: CNBC
@@ -28,24 +28,6 @@ images:
     width: 3010
     height: 1781
     isCached: true
-
-related:
-  - title: "AI-enabled Mercedes-Benz Hyperscreen takes the digital dashboard to the next level"
-    excerpt: "The 56-inch curved screen extends nearly the full extension of the dashboard, serving as an \"attentive assistant for the passenger,\" and can store multiple front passenger profiles for personalized experiences."
-    publishedDateTime: 2021-01-08T18:00:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-mercedes-benz-hyperscreen-takes-the-digital-dashboard-to-the-next-level/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 81
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2021/01/08/258a6072-6f00-4758-97af-cda13ef86a28/resize/1200x/b3447a944bcf201617caba6018f45ec5/mercedes-benz-3.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "rDQ/ix/5pX8zbM/qPM3MgPI0ZZkuBOu+mfq45pQDqeEF2XHnaGEtqNAhh+J8KSfoM1oa6RDS04/GzjiiGBI9WrHmkj8ptD72qwWGx3wmqPkuOtDS075KhklwZcYfG9GQqnZ7XciaNuTnVRnNqV59gKAwau/15L0LYvTCj9G/NozRmBTKN3fv6wyYPfeyaW8ceeZoTpkhVMUOCFoCSF74f8i56IpJ+9GBRXggINriwKQOEi2khsoXAh+Fpnj6W8uYupJ0XdWH/BzlzVwRrW+DtwEhdOEt2x3XZLNvhDr92PSWUMJOYn3s/8yQv/6KYAJ8vH1r5rFOU8kSW7lwNUONyD2pqWEps+FO80MRoO0pvGXIR6J98S+5gvDcEWowp0/56AKbkUOBAHsCatarjLxrV1dYuW/KlMNMfgj3dIQCNNi6pnz6E6VstScTf4CeFYQ5GSMMmpZ9jNkSMIiklFbvYflfwscFR/yRlygXCho5g8dlcQa8ft88HuHn4wegnhSTpWKIVPKN2BJz19kknLQklw==;BNtIKBQ7keVbDEtzpLAlsw=="
 ---

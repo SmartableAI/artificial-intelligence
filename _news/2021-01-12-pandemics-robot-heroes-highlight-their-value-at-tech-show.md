@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Friend, kitchen staff, yoga finder: at CES 2021, robots are a highlight, having shown their worth in the coronavirus pandemic"
+    excerpt: "The pandemic is helping robots prove their worth, from one that helps people feel less lonely to another that can cut labour costs in the kitchen – and they take centre stage at a consumer tech show."
+    publishedDateTime: 2021-01-13T09:31:00Z
+    webUrl: "https://www.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
+    ampWebUrl: "https://amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 62
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2021/01/13/253e9dc0-54a7-11eb-84b3-e7426e7b8906_image_hires_114147.jpg?itok=WBrpKgD0&v=1610509319"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pandemic's robot 'heroes' highlight their value at CES 2021"
     excerpt: "Among those taking the virtual stage at CES are robot companions, concierges, cooks, delivery drones, medical assistants and those handling the perilous tasks of sanitizing workplaces and medical facilities."
     publishedDateTime: 2021-01-12T12:00:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://imagevars.gulfnews.com/2021/01/12/20210112-robot-heroes_176f646af35_large.jpg"
         width: 750
         height: 563
-        isCached: true
-  - title: "The best tech of CES 2021"
-    excerpt: "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,"
-    publishedDateTime: 2021-01-12T21:46:00Z
-    webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 54
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112170333-ces-lead-image-super-169.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "CES 2021: Pandemic’s robot ‘heroes’ highlight their value at tech show"
     excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."

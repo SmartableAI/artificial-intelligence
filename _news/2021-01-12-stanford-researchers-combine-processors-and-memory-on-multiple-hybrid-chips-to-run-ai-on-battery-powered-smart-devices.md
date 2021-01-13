@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Stanford researchers propose AI that figures out how to use real-world objects"
-    excerpt: "presented by the #1 publisher in AI and Data One longstanding goal of AI research is to allow robots to meaningfully interact with real-world environments. In a recent paper, researchers at ..."
-    publishedDateTime: 2021-01-08T18:57:00Z
-    webUrl: "https://venturebeat.com/2021/01/08/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects/"
-    ampWebUrl: "https://venturebeat.com/2021/01/08/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/017553af-a004-46c3-bfbe-374799863fd5-e1610131852984.png?w=1200&strip=all"
-        width: 1029
-        height: 516
-        isCached: true
   - title: "Stanford researchers propose AI that figures out how to use real-world objects – Jaweb"
     excerpt: "One longstanding goal of AI research is to allow robots to meaningfully interact with real-world environments. In a recent paper, researchers at Stanford and Facebook took a step toward this by extracting information related to actions like pushing or pulling objects with movable parts and using it to train an AI model."
     publishedDateTime: 2021-01-08T19:12:00Z

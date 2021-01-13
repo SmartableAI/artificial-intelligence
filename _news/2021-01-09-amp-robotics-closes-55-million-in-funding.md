@@ -9,8 +9,8 @@ ampWebUrl: "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Pulse 2.0
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Trash-Sorting AMP Robotics Closes $55 Billion in Series B Funding"
-    excerpt: "Matanya Horowitz, CEO of AMP Robotics, spoke with Cheddar about how the company's latest fundraise will help it improve its robotic recycling system."
-    publishedDateTime: 2021-01-08T18:31:00Z
-    webUrl: "https://cheddar.com/media/trash-sorting-amp-robotics-closes-55-billion-series-b-funding"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 54
-    images:
-      - url: "https://img.chdrstatic.com/media/e417fd3a-0f59-4263-8c50-a71c64f6dad2.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trash-Sorting AMP Robotics Closes $55 Million in Series B Funding"
     excerpt: "Matanya Horowitz, CEO of AMP Robotics, spoke with Cheddar about how the company's latest fundraise will help it improve its robotic recycling system."
     publishedDateTime: 2021-01-11T13:31:00Z

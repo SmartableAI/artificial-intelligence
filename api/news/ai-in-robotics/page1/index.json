@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-friend-kitchen-staff-yoga-finder-at-ces-2021-robots-are-a-highlight-having-shown-their-worth-in-the-coronavirus-pandemic.md",
+      "title": "Friend, kitchen staff, yoga finder: at CES 2021, robots are a highlight, having shown their worth in the coronavirus pandemic",
+      "excerpt": "The pandemic is helping robots prove their worth, from one that helps people feel less lonely to another that can cut labour costs in the kitchen – and they take centre stage at a consumer tech show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
+      "originalUrl": "https://www.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2021/01/13/253e9dc0-54a7-11eb-84b3-e7426e7b8906_image_hires_114147.jpg?itok=WBrpKgD0&v=1610509319",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
+      "publishedDateTime": "2021-01-13T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-service-robotics-market-top-trends-accentuating-size-by-2024.md",
       "title": "Service Robotics Market Top Trends Accentuating, Size by 2024",
       "excerpt": "The service robotics market is expected to grow at a substantial rate driven by the system's high efficiency, reliability and convenience as compared to conventional labor. Integration of artificial intelligence (AI) and proliferation of IoT is bringing key transformations in the market.",
@@ -170,49 +222,6 @@
       "provider": {
         "name": "Resource-Recycling",
         "domain": "resource-recycling.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-pandemics-robot-heroes-highlight-their-value-at-ces-2021.md",
-      "title": "Pandemic's robot 'heroes' highlight their value at CES 2021",
-      "excerpt": "Among those taking the virtual stage at CES are robot companions, concierges, cooks, delivery drones, medical assistants and those handling the perilous tasks of sanitizing workplaces and medical facilities.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988",
-      "originalUrl": "https://gulfnews.com/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/01/12/20210112-robot-heroes_176f646af35_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988",
-      "publishedDateTime": "2021-01-12T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -748,40 +757,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-amp-robotics-closes-55-million-in-funding.md",
-      "title": "AMP Robotics Closes $55 Million In Funding",
-      "excerpt": "AMP Robotics — a pioneer in artificial intelligence (AI) and robotics for the waste industry — announced it has raised $55 million in Series B funding.",
-      "sourceUrl": null,
-      "webUrl": "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/",
-      "originalUrl": "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/",
-      "cdnAmpWebUrl": "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/amp-robotics-55-million-in-series-b-funding/amp/",
-      "publishedDateTime": "2021-01-08T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulse 2.0",
-        "domain": "pulse2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1343,6 +1318,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-is-vietnams-first-ai-robot-the-future-of-education.md",
+      "title": "Is Vietnam’s first AI robot the future of education?",
+      "excerpt": "In digitally quicky Vietnam, an AI robot fitted with five \"senses\" and Google search integration is being equipped to be a teaching assistant.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "originalUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/01/Vietnam-AI-robot-Tri-Nhan-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "publishedDateTime": "2021-01-05T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

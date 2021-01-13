@@ -7,8 +7,8 @@ originalUrl: "https://www.executivegov.com/2021/01/avaya-extends-aws-relationshi
 webUrl: "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Executive Gov
@@ -41,6 +41,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Avaya expands AI-powered contact centre functionalities with AWS"
+    excerpt: "Avaya expanded its artificial intelligence (AI)-powered customer experience functionalities for Avaya OneCloud CCaaS customers, through an extended relationship with Amazon Web Services (AWS). As an AWS Partner offering AWS Contact Center Intelligence (CCI) products,"
+    publishedDateTime: 2021-01-13T10:02:00Z
+    webUrl: "https://www.telecompaper.com/news/avaya-expands-ai-powered-contact-centre-functionalities-with-aws--1368430"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "F7BILlo29MGJCyA8BlhM0sb5oPPl1/dctAKTGdDKevTcTbidIsxi+QS9N/nZBdHmznMdKh6KwmetZBomyo5ZKT9epu392RxBg6l79QDvfl8foQfl9pD2JZJ4haQhgxkMCQeH0dC5iOJe83pwSNs0HqXNhJT8CtusnisOmTYFV7JgpUQU5qYBKWKHMdBaTH1EsFkzygwdIVDL0birWZLr40PjtbcpJUr7XZa1GR2ms2bP91OjirtQHerRKrnJ35dtwAWl4ndeyouS4anE2YRMfzDAchuoHdAvBJgrzMKrlOjA71Dzu5pZZnpZQDpKiBDrYw/7pWPWnGLYcCQ2KIXPVHoDlUcJWaoCEJlENwg8vni2LlBQXcZlOo4uiuQc7sLpXRHxo9U0zuCEd6D+jrTo+XRlrDEudLLTYVNCm2XKQTFqqi8tCJCPH7pVp3KU3Fn3At00Do6XI4Yqa9L9pLP366OI76s89LDSnKgJwC0sbHsB4V7lXfoUvqH0RDu47Rriglj534pKRwOjYGDJGzMq3Q==;ZEdudJ4Pqc4PkxiqTew7zg=="
 ---

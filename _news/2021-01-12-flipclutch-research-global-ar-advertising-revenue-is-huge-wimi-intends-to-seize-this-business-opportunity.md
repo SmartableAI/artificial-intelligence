@@ -160,6 +160,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
+  - title: "Cloud Computing Market to Get Expansion admist COVID 19, Scope With Advanced Technologies Top Key Players and Forecast 2020-2027"
+    excerpt: "The global cloud computing market is expected to gain momentum from the rising inclination of enterprises to omni-cloud solutions from multi-cloud solutions. This information is given by Fortune Business Insights™ in a new report,"
+    publishedDateTime: 2021-01-13T10:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-to-get-expansion-admist-covid-19-scope-with-advanced-technologies-top-key-players-and-forecast-2020-2027-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change” report has been added to ResearchAndMarkets.com’s offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists,"
     publishedDateTime: 2021-01-09T06:54:00Z

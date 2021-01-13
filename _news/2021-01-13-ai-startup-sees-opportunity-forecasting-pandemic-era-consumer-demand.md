@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecas
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "XFy/p3a/v46qFewv7SheyxIYoFl5jlsxFdKL+CIkNWRPxqsFUaZiWPN3T9YV8R4x/wJ5Y713WuUriN1aPDtRe6mZ/GNV8Zb4eOMQGaOgnLQM1Qn3W2ID8MGm8I5lbP0u4ZPmHdPFhTzns2EtSMuDLhvUuM52NPqCQKIm26DCJDEDUA+bNGJT/dgPMyOVsub3FuSByh75uEadqef9DvyJox8vCmmgbjIQkk6gH8UQDb/1MJHOtrhoYw0KD2fUsizEEmouCk7H05DBLceLVShwpRRnMl+E6Tv+q2pMt8Zl27E0Og2YGjj6N/Vai7OPckoQY+m+NSbL+IdB7DCF8/8LgXT6Wwp0xYFcmaOpaJlrwKg=;7/wGZWEhN+Fnnp8grh0Jsw=="
+secured: "s7NbHAfJFJs8N0f25P7xdE+trw82869O2ZT582AK/6h4QaK3peJrSAU7vlNAXQYAlTGftM6i+q2LqWwUMEbVqbcX+3QlfFHuHmeBclVSTTEbIvfA+R0HuQDY7aftWx40T/kkQgsZaFDgRI+Sn3Hl7w6Da4IJPavGpzhPiRj22ELY1yAiqlY6AUcW9gmTBil6AREsBZLlOiq5K4Vn0ePRVLMv5J1iF5amUOBGbuAionXfGhioyiLAL6kL3Ek34QgRyjqbfSX7UNNJXJmBH7pacQ9enNjK84nx2r/I1pZykJ9vEzI09LozaQ28uiVeSfI3xtVdsPrSlP+M8wuKXpECgDKOXjzoCXmaPxJMrmSwodYVx/y8KNY0Z/zH6TcA7s7HxP6vYCbjOAAYcPcuowojPA8ze2inwt5PLWS4np4bZKY79RZ4LXYJTS4UQpBwwTNEIMO5VJU446k8QU/7Fft+kED/7BGNTbXNok2yjFc8XFwAtk2euV43vivVST5gG+pwBRKa6F+mH9wKWjYcDmzmqg==;oRFHZmbCdhbkr66BWA9HVQ=="
 ---
 

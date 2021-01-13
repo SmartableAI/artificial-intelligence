@@ -148,6 +148,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
+  - title: "Cloud Computing Market to Get Expansion admist COVID 19, Scope With Advanced Technologies Top Key Players and Forecast 2020-2027"
+    excerpt: "The global cloud computing market is expected to gain momentum from the rising inclination of enterprises to omni-cloud solutions from multi-cloud solutions. This information is given by Fortune Business Insights™ in a new report,"
+    publishedDateTime: 2021-01-13T10:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-to-get-expansion-admist-covid-19-scope-with-advanced-technologies-top-key-players-and-forecast-2020-2027-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Flipclutch Research: Global AR advertising revenue is huge, WIMI intends to seize this business opportunity"
     excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and the market prospects are promising. Last year, one social software that used AR filters as a selling point earned $1."
     publishedDateTime: 2021-01-12T14:45:00Z

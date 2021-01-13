@@ -3,8 +3,8 @@ category: news
 title: "Veritone and Alteryx form partnership to deliver AI-powered insights from unstructured video and audio-based data"
 excerpt: "The partnership aims to deliver AI-powered insights into unstructured data sources, including video, images, audio and text, to Alteryx customers. Veritone joins Alteryx’s Partner Alliances program, integrating aiWARE with the Alteryx platform to help Alteryx customers transform unstructured data into actionable intelligence and valuable insights Veritone’s AI tools for ingesting data,"
 publishedDateTime: 2021-01-12T18:57:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144699"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144699"
+originalUrl: "https://www.kmworld.com/Articles/News/News/Veritone-and-Alteryx-form-partnership-to-deliver-AI-powered-insights-from-unstructured-video-and-audio-based-data-144699.aspx"
+webUrl: "https://www.kmworld.com/Articles/News/News/Veritone-and-Alteryx-form-partnership-to-deliver-AI-powered-insights-from-unstructured-video-and-audio-based-data-144699.aspx"
 type: article
 quality: 18
 heat: 18
@@ -58,6 +58,6 @@ related:
         height: 450
         isCached: true
 
-secured: "DAh2BsonRA/qIA9xpDgAyiXdwyhdDbfch2w/z0/l4dSdX3Nqt43b7opt2NGyFL5hQByhyBEq0g+hmSInqJjgG3y6tiLBmNJV+rKxPz48a63tN10wU8XPTEt94GIfmbDzg1g96XqhWZ33FIw4oJmEQLy2P0urrrhO6z0J6s+cLSKmOWfp7SCqZw32YxW/BlFFFPAThwECM+6fjxV33f6opvMHFwSJXNxs7ApPYeC9ta3GxVERny6R5cO+lYmeRgHjOkheM9mQ8Oc+sDt8z1agkDZ+GXTTZyeCMZy6vP5M25nVNrtMAxrXu4TCqLwwtl7EYJgCeEoz1+i4j8hdFfM03lt7kUwnESoSzCv0NSCVpLY=;PIVyBvtJ4vJLriBQBkPlMA=="
+secured: "IpcPachXiGEXFok+p9kEtxglVoF0SDARSaEtgXzLwQNeLkZOWnhrmSyZnsqiHf5GFxzf2sgcoJKb1GXrErmjVJjHpXbCZlBcjJDHkZzS6Pk71jVpJu9Eyrw/hqYedR5jRI/oVgor1fzAiR7y4Lt7EkTgIqtJqTjJYR9wM9/8l9LSMcmqKhwYfsJG60k+jWzDELsYJTbkUZS3tSLyq80/Z+mHCTQV/urAOvpaX9DEvpbnWmOYJTVKYjp3EPEL3TBWlacCiO9Csv3IW7/FA9vr0JmlLMCkoQGxwLSpFKf2qzev+w0gGB4+32IbsDNdshvwiK1wl6DcXxgspr6yOua0QbhnqozHpjPyhWMCfhNSGrM=;e1xzvXhFArcWq0YvBn9TIg=="
 ---
 

@@ -57,20 +57,6 @@ related:
         width: 1431
         height: 966
         isCached: true
-  - title: "AnyVision Offers 5 Indications for Fair, Ethical and Unbiased Use of Face Recognition Amidst Rising Public Debate"
-    excerpt: "Prof Shlomit Yanisky Ravid, Visiting Professor of Law at Fordham Law School and Yale Law School (Photo: Business Wire) The backdrop to this conference is the widespread public debate on the use of facial recognition technology – a debate encouraged by the Black Lives Matter (BLM) movement,"
-    publishedDateTime: 2021-01-08T17:11:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industry-regulation-government-business-and-finance-technology-issues-ac039981ac6547c38da3306d301c6c20"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Intel launched RealSense ID, a facial recognition tech"
     excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
     publishedDateTime: 2021-01-11T11:36:00Z

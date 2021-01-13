@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CVC Growth Fund Announces Successful Exit of Kount in $640 million deal"
-    excerpt: "PRNewswire/ -- CVC Capital Partners (\"CVC\") announced today that the CVC Growth Fund has signed a definitive agreement to sell Kount Inc. (\"Kount\" or"
-    publishedDateTime: 2021-01-08T18:28:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cvc-growth-fund-announces-successful-exit-of-kount-in-640-million-deal-301203490.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "Gy8n/Rs7YU2EaPDte8f1jW/HGNQvaKJE/b1FfEmb06E3c/D85LnOc3RwxtRBlRUjRQLB6cEQfsVU5+EEYUrNNyUKN4xOoOkSoyvcfVM8j3COwmrSFtK7q08hXUHnsj/gTCzO5NID7r6AN9qV251r/h5bNghZxE6XgHTjUqKYtR7EaYmNQBwTOQfhA9JZP3eUXcJjnmB9yukygXSpLFYcqsUYHXkV+jxcYCyKZtHLKFDx6vGawRznX9XfiGldwXsY3XBvrK0pn6S4DC6tyw8DsKGSnB2UrIjRr9k3vMN1ZexyX+tQpAnRugTIcK2yLk3oWTWkp13N7XgO7ps/kVKBE1yOjcqtqAxx5uhNAVoiMIw=;9ezp9Eo1KBp+t/HSrcxvoQ=="
 ---

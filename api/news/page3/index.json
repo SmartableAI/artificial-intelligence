@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-12-the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system.md",
+      "title": "The US Army is developing a nightmarish thermal facial recognition system",
+      "excerpt": "The US Army just took a giant step toward developing killer robots that can see and identify faces in the dark. DEVCOM, the US Army’s corporate research department, last week published a pre-print paper documenting the development of an image database for training AI to perform facial recognition using thermal images.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/predatorvisionj-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/",
+      "publishedDateTime": "2021-01-11T15:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-self-driving-truck-company-kodiak-robotics-hauls-in-honor-at-ces-after-reaching-texas-milestone.md",
+      "title": "Self-driving truck company Kodiak Robotics hauls in honor at CES after reaching Texas milestone",
+      "excerpt": "The company completed two 800-mile roundtrip commercial shipments in December between Dallas and Houston relying only on Kodiak’s autonomous driving system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/",
+      "originalUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Pu_zi9B6UUK8EDHBMq5USWEQgSk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/B2EZVYMUTBHWBITYJZWEAB7WR4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/?outputType=amp",
+      "publishedDateTime": "2021-01-11T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos.md",
+      "title": "Ever app settles FTC allegations it trained facial recognition tech with users' photos",
+      "excerpt": "The developer of Ever, a photo storage and backup app that shut down in August, settled US Federal Trade Commission allegations that it \"deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "originalUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/r4gbG59o75cofJR_X7DHqvmqZ1E=/1200x630/2021/01/11/ce25c79c-01df-4fb0-9119-68fdc6904237/gettyimages-1199149697.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "publishedDateTime": "2021-01-11T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-why-ethics-should-guide-artificial-intelligence-use.md",
       "title": "Why ethics should guide artificial intelligence use",
       "excerpt": "Artificial Intelligence (AI) refers to the theory and development of computer systems able to perform tasks that normally require human intelligence. AI makes it possible for machines to learn from experience,",
@@ -507,8 +655,8 @@
       "title": "How AI is improving operational efficiencies across oil and gas, healthcare, and more",
       "excerpt": "Arificial intelligence is being used in many industries today, and it's only expanding. Here are some use cases to explain the challenges and benefits of AI adoption.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "webUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "originalUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -525,8 +673,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/recent/index.php/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/recent/index.php/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
       "publishedDateTime": "2021-01-11T08:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -563,7 +711,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/11/stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1204,7 @@
       "originalUrl": "https://www.wired.com/story/ces-2021-liveblog-day-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1097,164 +1245,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-could-artificial-intelligence-be-the-future-of-fertility-treatment.md",
-      "title": "Could Artificial Intelligence Be The Future Of Fertility Treatment?",
-      "excerpt": "Scientists are working on embryo analysis with computer algorithms to help build families. Artificial intelligence could lead to massive developments in IVF.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/",
-      "originalUrl": "https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff86f5f05d2afc3a0282399%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/amp/",
-      "publishedDateTime": "2021-01-11T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next.md",
-      "title": "IonQ CEO Peter Chapman on quantum computing adoption, innovation and what's next",
-      "excerpt": "ZDNet caught up with IonQ CEO Peter Chapman to discuss quantum computing applications, how the cloud will accelerate adoption, software developers and riding innovation curves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
-      "originalUrl": "https://www.zdnet.com/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/01/08/67ab248d-d155-4a4d-ba2d-7f6706f609c6/thumbnail/1200x675/26f35f92fc7f6b52fa9db9a786bb5f86/20210106-chapman-larry.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
-      "publishedDateTime": "2021-01-11T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.md",
-      "title": "Review: Microsoft Azure AI and Machine Learning aims for the enterprise",
-      "excerpt": "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
-      "originalUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg",
-          "width": 1200,
-          "height": 1137,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
-      "publishedDateTime": "2021-01-11T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

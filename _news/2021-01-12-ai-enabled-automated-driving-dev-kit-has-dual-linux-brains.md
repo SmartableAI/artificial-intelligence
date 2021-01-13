@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 819
         isCached: true
+  - title: "Orbbec’s 3D cam dev kit runs Linux on Amlogic A311D"
+    excerpt: "Orbbec has launched a $143 “Zora P1” development board for its cameras that runs Linux on an Amlogic A311D. It also previewed ToF, industrial 3D, and Astra+ 3D cameras."
+    publishedDateTime: 2021-01-12T18:49:00Z
+    webUrl: "https://linuxgizmos.com/orbbecs-3d-cam-dev-kit-runs-linux-on-amlogic-a311d/"
+    type: article
+    provider:
+      name: run Linux-based Opera TV
+      domain: linuxgizmos.com
+    quality: 24
+    images:
+      - url: "https://linuxgizmos.com/files/orbbec_zorap1_detail-sm.jpg"
+        width: 350
+        height: 236
+        isCached: true
 
 secured: "2zlSffU+HukLQp2B5nUzeOUSya9D2oNsI9ogF/N/jGW5a4uqtzo8dvqiGvCsKHwAn5zynrko8M6Cd7OlcA817lSQTHMIAxqnUkqCIjvjp//sxLMcIkrVi2eoxpftjTd6Y5L2RnaPs1BtOe8k3HezcUGUpo5R7B/9XY3iGSKLGEmWVSZgzpcX76PVOLtcVacvTzaHRHQonsFyOE5R+5R2naR8ojHjuYCzeJb+2c7TqRWI+VQXWBjBpwRGj3YHMNBuq5DZbGydlly1AY7C/QNLSnXtgoxUE+Ea8z5KWTRrciBFu1no9kgiV4OUmRvnlxJsOtoaOwwUaiyqjlmGuTJ7iyomKH6S0fqTYdWXNZu+9/861+sUu3GRNiHIazHQmbYYQWSIFt9QvRXXYF4GvG/YfFKMZskhrBafuADqtht5WrK5IdNnxXwcz/Wceet3OBPbcHgnhU7cXBKOOTh7COR6k1q/BgLvwN1LKaXYyVG6CONFU6fBkKETu/XDoSUirWvctUqe7/r+Z0nbH+z5j6+2JA==;jXNEQyjIKTlx/Q0cM+j1HQ=="
 ---
