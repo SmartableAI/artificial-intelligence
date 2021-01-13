@@ -2,6 +2,188 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-08-updated-amp-robotics-raises-55m-in-financing.md",
+      "title": "Updated: Amp Robotics raises $55M in financing",
+      "excerpt": "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/",
+      "originalUrl": "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop",
+          "width": 736,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Recycling Today",
+        "domain": "recyclingtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms.md",
+      "title": "To make AI a success, every child needs to understand the risk and potential of algorithms",
+      "excerpt": "According to the AI Council, the biggest barrier to AI deployment is skills - and it starts as early as school.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
+      "originalUrl": "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/13/1d2488f7-7d90-4718-9183-a7ba6a3e36b1/thumbnail/1200x675/3a290ad3c2420e8d73f71b23f5d76141/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
+      "publishedDateTime": "2021-01-08T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum.md",
+      "title": "Firstlight Media, Microsoft Azure to power new streaming venture Struum",
+      "excerpt": "Firstlight Media will utilise Microsoft Azure to power a new streaming service which aims to help viewers find content from hundreds of niche and specialty services. Struum, which counts former Disney boss Michael Eisner amongst its backers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum",
+      "originalUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/01/struum.jpg",
+          "width": 681,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/firstlight-media-microsoft-azure-to-power-new-streaming-venture-struum?amp",
+      "publishedDateTime": "2021-01-08T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
+      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "originalUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/22686fc/2147483647/strip/true/crop/1289x725+0+0/resize/1289x725!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
+          "width": 1289,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-meet-the-robots-taking-the-virtual-stage-at-ces-2021.md",
       "title": "Meet the robots taking the virtual stage at CES 2021",
       "excerpt": "This year's all-digital CES is going to be a tough one for everyone involved, but it may be even harder if you're a robot. Robots can pique people's interest via the written word or videos, but there's nothing like showing people what you can do in person to really make a good first impression.",
@@ -612,50 +794,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-video-search-pioneer-panopto-hires-ibm-ai-marketing-executive.md",
-      "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
-      "excerpt": "At IBM, he played an integral role in the brand launch of Watson Advertising while leading all go-to-market strategies for a suite of AI-powered solutions designed for the advertising ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html",
-      "originalUrl": "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/7/99/799538b5-1065-557b-bb6f-5475e38479a0/5ff737209670b.image.jpg?resize=420%2C630",
-          "width": 420,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2021-01-08-investors-should-watch-this-newly-listed-ai-company-heres-why.md",
       "title": "Investors Should Watch This Newly Listed AI Company. Here's Why",
       "excerpt": "C3.ai is a leader in bringing artificial intelligence to bear on enterprise-level problems, and the market for what it offers is only going to grow.",
@@ -799,6 +937,41 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-video-search-pioneer-panopto-hires-ibm-ai-marketing-executive.md",
+      "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
+      "excerpt": "At IBM, he played an integral role in the brand launch of Watson Advertising while leading all go-to-market strategies for a suite of AI-powered solutions designed for the advertising ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19061465",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19061465",
+      "publishedDateTime": "2021-01-07T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -970,205 +1143,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-seoul-robotics-a-3d-vision-of-the-future.md",
-      "title": "Seoul Robotics: A 3D Vision Of The Future",
-      "excerpt": "Seoul Robotics leverages LiDAR 3D vision to make robots intelligent and enable autonomous systems from smart cities to smart factories",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff7162c24227293870c722f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
-      "publishedDateTime": "2021-01-07T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
-      "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
-      "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cox-automotive-motional/cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture-idUSL4N2JH3AX",
-      "originalUrl": "https://www.reuters.com/article/cox-automotive-motional/cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture-idUSL4N2JH3AX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "publishedDateTime": "2021-01-07T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-how-ai-powered-virtual-agents-can-upgrade-municipal-services.md",
-      "title": "How AI-Powered Virtual Agents Can Upgrade Municipal Services",
-      "excerpt": "Providing citizens with easier access to municipal and state services can be difficult and costly, yet the improvement in \"living experience\" can be dramatic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-powered-virtual-agents-can-upgrade-municipal-services/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-powered-virtual-agents-can-upgrade-municipal-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4c699cb83e0006e372f4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-powered-virtual-agents-can-upgrade-municipal-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/07/how-ai-powered-virtual-agents-can-upgrade-municipal-services/amp/",
-      "publishedDateTime": "2021-01-07T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla.md",
-      "title": "Waymo won't talk about 'self-driving' cars anymore, in apparent dig at Tesla",
-      "excerpt": "Waymo takes a stab at Tesla over its use of the term \"self-driving\" in its new Full Self Driving feature. Alphabet-owned Waymo has stopped referring to \"self-driving\" to describe its technology and form now on will only use the term \"fully autonomous driving technology\" instead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "originalUrl": "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/17/f71cf2c8-9b0c-4c9b-8871-ac97d9a76c73/thumbnail/1200x675/5c36970a2932377566a437c0929868b2/sensors-from-selfdriving-car-to-aibased-5fae92e0eafdf2701d541185-1-nov-17-2020-12-35-03-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "publishedDateTime": "2021-01-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -31,13 +31,18 @@ images:
 related:
   - title: "Using light to revolutionize artificial intelligence"
     excerpt: "An international team of researchers, including Professor Roberto Morandotti of the Institut national de la recherche scientifique (INRS), just introduced a new photonic processor that could revolutionize artificial intelligence,"
-    publishedDateTime: 2021-01-12T01:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
+    publishedDateTime: 2021-01-11T18:22:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/indl-ult011121.php"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/253196_web.jpg"
+        width: 720
+        height: 468
+        isCached: true
   - title: "How AI Might Change the BI Experience"
     excerpt: "Natural language processing coupled with speech interfaces have been promising to change the way end users interact with applications for quite some time. However, Amazon Web Services (AWS) at the recent AWS re:Invent conference made a bold promise to specifically transform how end users interact with business intelligence (BI) by enabling them to launch verbally query data."
     publishedDateTime: 2021-01-12T20:52:00Z

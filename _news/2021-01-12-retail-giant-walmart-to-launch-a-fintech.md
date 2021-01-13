@@ -52,18 +52,18 @@ related:
         height: 600
         isCached: true
   - title: "DonorSearch Expands Partnership with Gobel Group and Appoints Award Winning Team to Launch a New Division Focused on Artificial Intelligence"
-    excerpt: "DonorSearch, the leading provider in prospect research solutions, today announced that it is expanding its current partnership with Gobel"
-    publishedDateTime: 2021-01-12T22:37:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/donorsearch-expands-partnership-with-gobel-group-and-appoints-award-winning-team-to-launch-a-new-division-focused-on-artificial-intelligence-301206982.html"
+    excerpt: "DonorSearch, the leading provider in prospect research solutions, today announced that it is expanding its current partnership with Gobel Group and its technology company, Futurus Group, to form a joint venture to accelerate the development of new products and services."
+    publishedDateTime: 2021-01-12T23:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-products-and-services-bff2d39544a78c46df77a169c3a0f582"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 2
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "8z9eMMv8GC0kazLAFQE7VXhBc0LTEON4hMm6lugwLk/KS+6KuxOcU95wn8Z8FDSDgJ9Dz4SuJbdusPsa78SLhXYpWGskxpoEB1cutptdIYhovmD+hwXiAtcSeF3fXP32yFGi+ZvD0N8XpngGxrUv62aNz/7kg8mSAkw3bW9pKVNrDZkTQya3v9t+n7sdptLyoPQHXrKNtPmlcwnL78orSsY+kqD2l1xxxogH3V2Ki9+yVE8R/Rz5HTlBMXlVVmwzrBCIsBpfgCuNB5FLhDe01rGYqURsoi71hxvazKy840NJXTt/u3aa7cXasTmfi4rUQRzMs80XTGiox4stwDaf17ryWMxoWhcCgPaRDVYDKvjiMemglH7V3+PsAAdnZzT8DJjM74rLXNy7pQAl65SBHMljCvLV5jqdAnKOO8BlbYSRV+9vupnee0AVu6mSvCvvwOlte8rlG+aoFieVygPJZEyVefp25eXYHRa1JKzpHYmjDrIzoVu+Loj6i2dnxvcZzqRUtkjihBNEyow4pU/vLw==;3GFZFoVs2sZA/UgA0es6NA=="

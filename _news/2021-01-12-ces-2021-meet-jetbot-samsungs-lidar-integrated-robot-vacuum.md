@@ -238,6 +238,20 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "Samsung touts AI appliances"
+    excerpt: "Samsung also embraces AI in its JetBot 90 vacuum cleaner that uses object recognition and 3D sensors that avoid cables, small objects and pets. The item is integrated with SmartThings app to assist home owners with home monitoring, he said. The product ..."
+    publishedDateTime: 2021-01-13T00:42:00Z
+    webUrl: "https://www.bangkokpost.com/business/2049963/samsung-touts-ai-appliances"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars to navigate around objects like tables and pet poop"
     excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."
     publishedDateTime: 2021-01-11T19:23:00Z
@@ -297,6 +311,6 @@ related:
         height: 750
         isCached: true
 
-secured: "qpnd58xDV6TncBJMgXTjUlIh+53AobNDnMgTmKfaHrFp8i/P51sv417ce7SoahcXJ3mgGy5RIk1bgEqmimwdCajx80V+lBnY5w+1YIj2aHmpG3YC0jaqMv6/YUxb80doQd+sD1Klim/v4hsasw8F9eUBELg5UaklFRrjQBd2KKCfYT4hO0c5WQEGHnoTHmizc1L0SNaq90FpJQhUydxezbtrVR4jBKKDhnbB7A70rOud5QO99rXkexpvZaw+jbLqOdOUZmsryVcHeey1mEgdM3J7/Bh2QahDlNLLmwcLcN00w8T1E52Ms396IK7o53SU6ug6mieP3CWJ2HKNK/LE/FfBofFk2fwNeR6luMl+LPQ=;pGD6HASRDxvXfkdFwL9Jfg=="
+secured: "GgePMBOQt3eXQRT+o3YRWGtGsrRhHtK+PvTPY3+RALL+MTj6wm6KchfrBwCuLRGNjMGySdnjjoHXCORCa7KcQQg72Cn+5LN8zSa1kUl2VC0h3xHSuo1W5TGwMCyj9C5cnf+9E2FpgOSdxhJVJWbb/FpuknHrN6muiNroz75Q5tsDzx3N9VGpc04cARByOt+JH1tdcOamXR104v0iQDbKSb+luq85/hJzheQDLqUkfV1bDcwqoUgChMQxt5HKw1cW9f/pDStG1FGaiZfOgrm/GrcaR8xT4C1eVQoG7Xy/dAvqs5DpZ8r3bd9JDVOPwwRfMg+xsMEKcPSAAeUdo4UKyvDmo1JGExlyyqK+gCKgHSjOMrbEZGmVymVqNDHBXYbhfBlR5oDRpgIiOvRPbB5WpXdjwMryMGIClcRSs1yBmOMnBEtQ6pseMbh+2hvBGp0o40fIBPMwBViniIhO8ZBNznuvW3vapolnsqeOaL+gHM6/j2s6wna48HcbkJ1IDHkJ3Arqhtxsw5bN2JX4zNberw==;YnILwLC/KowuriyD8XK+Uw=="
 ---
 

@@ -35,17 +35,6 @@ related:
       domain: socaltech.com
     quality: 4
   - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-    excerpt: "Integration enables Alteryx customers to gain unparalleled insight into unstructured data sources Veritone, Inc. (NASDAQ:VERI), the creator of the world's first"
-    publishedDateTime: 2021-01-11T12:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19097090/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automat"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19097090"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19097090"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
-  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
     excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),"
     publishedDateTime: 2021-01-12T09:47:00Z
     webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b/gallery/c11ecc5667401ba031708f29a0cf3e06"
@@ -59,6 +48,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
+    excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic rel"
+    publishedDateTime: 2021-01-11T05:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "gkHH+mm1mzOiNX5ED18f+IzJsMfM4niKOfpLW5EsCrC1aOBE0ICp7+pA0CuBazVhmBeRaPT0gcvSigA/rIRluP2gs23HuAsS2UyanRlMIuk2Ui+au4SWVw6ocj7kstxGNYugBxAeRt2drtokhgXrb8YZKlrXpNyjxDjsHBk0EykQeFrTGHwCpKF04cxs7R41EepwrjA0UNAjXe2+Ce1C+gLdYAPAOTZjwweeBSfSKh85ScMXs7fdTgirOOLfHpO7TX3bDhSZpWV8COzNY50PfDY+XShDFQEjTRZEwAofCHvntF71iQTfCCfQvwIjoKzRbg/tNNq4GH9iTvou3r0F/rrJhsbtzXTMP1O7c3/UWwA=;wtkugH5yWAPHTRjyZ6cN+Q=="
 ---

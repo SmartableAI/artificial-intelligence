@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-13-rep-clyburn-wants-to-make-lift-every-voice-and-sing-a-co-national-hymn.md",
-      "title": "Rep. Clyburn wants to make 'Lift Every Voice and Sing' a co-national hymn",
+      "path": "_news/2021-01-13-rep-clyburn-wants-to-make-lift-every-voice-and-sing-a-national-hymn.md",
+      "title": "Rep. Clyburn wants to make 'Lift Every Voice and Sing' a national hymn",
       "excerpt": "The Democrat from South Carolina is aiming for bipartisan support on his proposal, since, he said, it's a song “everybody can identify with.”",
       "sourceUrl": null,
       "webUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
       "originalUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253963",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253963",
-      "publishedDateTime": "2021-01-12T14:58:00-08:00",
+      "publishedDateTime": "2021-01-12T15:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 220,
       "tags": null,
       "images": [
         {

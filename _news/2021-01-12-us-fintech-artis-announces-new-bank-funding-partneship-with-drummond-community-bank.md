@@ -53,18 +53,18 @@ related:
         height: 600
         isCached: true
   - title: "DonorSearch Expands Partnership with Gobel Group and Appoints Award Winning Team to Launch a New Division Focused on Artificial Intelligence"
-    excerpt: "DonorSearch, the leading provider in prospect research solutions, today announced that it is expanding its current partnership with Gobel"
-    publishedDateTime: 2021-01-12T22:37:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/donorsearch-expands-partnership-with-gobel-group-and-appoints-award-winning-team-to-launch-a-new-division-focused-on-artificial-intelligence-301206982.html"
+    excerpt: "DonorSearch, the leading provider in prospect research solutions, today announced that it is expanding its current partnership with Gobel Group and its technology company, Futurus Group, to form a joint venture to accelerate the development of new products and services."
+    publishedDateTime: 2021-01-12T23:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-products-and-services-bff2d39544a78c46df77a169c3a0f582"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 2
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "aUSXQQnS6QjknXy99vdMVp5oSmCa+LKc0KuXklYK6TUQWreZ84JefN5K0EH6e8kA6C4BnuQn9XK4vDuTTvLyYolI3/nR/JaLI977aKPibA0GtzoCi8ojOjMdv2pIusKTb7iKbn16U4RjXuQEuwF7Qy5PMc1DqSYiEvdTdScnJjgN2DeFb9aUZ20WwygvqejkM7fLqEorY9CsV+QIIUbHPyF8HZkk+/2EkkjrV1opCePbH1iQrwXJ2zdP8qN1Y18T09hDICXdp7B4fdq64Gn2I3mZDYWtSFqfSrJo0VH5+AOIJ+4x4TAGpoEizF7TCaB1JTkQBjPWZ2pJpK3qwYC/y8kSaLx8IUGmJcMWQxt4sXsB+tkE7AEHvVAyDXTdaODMVjj/oIBIw9daBgUWWuBr30czBl93Xl8aM+0lHkrWn/uZUyQF2GFqz1TPhSHiK+wbgzTYt7mQ55uRdfOY9h/2CZHfUVBTRaG1CHom4Ay2a1csRPtMk07WTobnjh+9/rKHGa6vuX87oGYy5998igktIQ==;21Nn0xsTplaEH1On/eLy0g=="

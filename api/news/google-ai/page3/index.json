@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-01-deepmind-cracks-50-year-old-protein-folding-problem.md",
+      "title": "DeepMind cracks 50-year-old ‘protein folding problem’",
+      "excerpt": "Deepmind, the UK-based AI company and a subsidiary of Alphabet, has produced a solution to the grand challenge of protein structure prediction. The breakthrough could accelerate biological research, unlocking new possibilities in drug discovery and disease ...",
+      "sourceUrl": null,
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
+      "originalUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/14550/protein-concept.jpg?crop=0,0.21556387848522682,0,0.292863087806908&cropmode=percentage&width=1200&height=450&rnd=132513011150000000",
+          "width": 1200,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-alphabets-deepmind-ai-has-solved-the-protein-folding-problem.md",
       "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\"",
       "excerpt": "Computer scientists at DeepMind, a lab owned by Alphabet, Google’s parent company, have developed an AI that has made a monumental leap in solving “the protein",

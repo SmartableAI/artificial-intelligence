@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/01/oxford-nanopore-and-nvidia-partner-d
 webUrl: "https://insidehpc.com/2021/01/oxford-nanopore-and-nvidia-partner-dgx-ai-system-with-promethion-genomics-sequencer/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Oxford Nanopore & Nvidia collaborate to partner DGX AI compute system with ultra-high throughput PromethION sequencer"
+    excerpt: "Oxford Nanopore Technologies and Nvidia are collaborating to integrate the NVIDIA DGX Station A100 into Oxford"
+    publishedDateTime: 2021-01-12T23:33:00Z
+    webUrl: "https://www.wboc.com/story/43159351/oxford-nanopore-nvidia-collaborate-to-partner-dgx-ai-compute-system-with-ultra-high-throughput-promethion-sequencer"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 16
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20242214_G.jpg?lastEditedDate=1610434336000"
+        width: 900
+        height: 495
+        isCached: true
 
 secured: "X/8MgJ95IfY3bWOF8Pa14qcmWFpZnkj+F+aUfbPrXWtPo0PZHXZPNjcU2RQwdaSZeLIMOYxr58XdrR4G2/PdGZB4KFqex4hNeVC1wckF/bSIcvpGP+9C82yCI5fSyHzIMZkABe7MaUPq+C/LMDyOSbpjMIAGB/acmkvB26w10mlWtg5uoiz+EAlVHx/HPkOSruyrRCLMFHquUBzPv8sO3XiZPYwRCsAnP7DNjmkc8KU2teyMlp3yUs7l4FXd2CaZwDqVyVdWw5CFowfVnz0wvXHw8QL5HXGo54UZDHCs06Lp/CZ5GusXiZGzUxT3vjUhhqs61uN+xJNj5vJafIErF0JSCNZrOc0VTJXLf+VVdME=;44sUWjqYzzkdktDZRnC3qA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.arm.com/blogs/blueprint/ces-2021"
 webUrl: "https://www.arm.com/blogs/blueprint/ces-2021"
 type: article
 quality: 54
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: ARM architecture
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "CES 2021: LG unveils artificial intelligence for \"at-home\" products"
+    excerpt: "From sanitizing robots to a self-cleaning water dispenser, LG Electronics is redefining what it means to be at home."
+    publishedDateTime: 2021-01-12T23:15:00Z
+    webUrl: "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products"
+    ampWebUrl: "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/01/932/470/595-530P-TZ_CES_-LG-HOME-INITIATIVE_00.00.05.15.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "CES 2021: A virtual, AI-powered human handled presenting duties for LG’s tech showcase"
     excerpt: "The Consumer Electronics Showcase (aka CES) is here once again, and as always, it’s bringing out the tech companies’ most personable presenters: people whose job is to get us all excited about the ways technology are about to improve our lives (like having a personal robot waiter roll up and pour your wine)."
     publishedDateTime: 2021-01-12T01:36:00Z
@@ -101,6 +117,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the ..."
+    excerpt: "Bosch's tagline at CES 2021 Bosch as a pioneer in climate action: Under the tagline “Sustainable #LikeABosch,” the company will be presenting intelligent, sustainable solutions for health, living, and mobility at the virtual tech trade fair CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-industrial-technology-fcc0754fecc1df56ceb6e922eca7eadf/gallery/e533e5ed1156e6c42eb09d383285e5cd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
     excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
     publishedDateTime: 2021-01-11T06:52:00Z
@@ -111,6 +141,6 @@ related:
       domain: morningstar.com
     quality: 2
 
-secured: "+/CRurTMcnxqw/5Zd+wQZ+0+ez/6G1LgRAP178dDI4dS0+4ZljFSgKcrjiVCtyeRB0MRV5asvT/D6m6XGu1lK8Ra/wDDcj0H/N4qOHzrfEEdh4bPiD98lcx//PoKvMcxYH69IGFNdo6rLS9oGkJL1em2XtZne5sGfaUPPAHKtYNmeBl/VHNLRcqgnkEY9raw6rz0IJmUBiHN65mfcgEzdBC98JdLu5gAo1hkOfKed4Ac+HYxepbf+fnwDBwquhdmeROSTqkn2lUUUKz9VvAPT4yp2fJY6NdTjDGYHhe0ApuyXfCK/hSJKJGg20+2eBiGvdjPym6Q3PxvYAxU3mWp/YWFBX+NQ4v9mNTs8WEQzaE=;Ce28Fb5KudauAEqpMtKIBw=="
+secured: "ye0gAIW9LCMGwNPZtlZgdYbLVDBb2e+jh6jgdPtwYJk6CeOyOpbQRfqszrs3grlkERX06FngUa6+GPb77Tt/iOEbrzNCN8n6sEQPohVH8gTMqHQuy/KzwgCGkC0cwOuzACuTgpHBI4+e1unzbUrHmaxQRaKqVX0XJbIvT6LaXn9mwNpn79aWP+vgO8kUP6AZT1wHLryib2Pj1ZY/etDDMS8vHtBw8ZhSdAsa2vAdQstIMQ1CuBHD/V9g1QxMvjSsRkQgkOOhMOVWQOJxeq+Ay/B7qdajgrPIRCU5A6luAYBf5ZNCXqKL1dD8Vnv+eV88XyTJ07JxF/4wSo6LTi7wt04aiqobjnYTVidWHxodkekQxhW1Bf5GHgBhhnqtU5IBj1b3gcBOySKe5t+lHCLjOJIxczLsLgXWg5oylQkkW9Go71Jk7uYq0h/04Xmpg5Wp8MmCq9joKphiVwYwvo8b9suJUdv9r2J/05BcRupY70/EAGKtMmch1liEuUr4maxwHKv9zeujj+2ySAitHagaVQ==;PEKyD08D2+ceT4GlGF+04g=="
 ---
 

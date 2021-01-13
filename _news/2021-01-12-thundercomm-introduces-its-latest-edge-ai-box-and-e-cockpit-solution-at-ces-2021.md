@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/thundercomm-introduces-its-latest-e
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-ces-2021?amp"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
         width: 712
         height: 684
         isCached: true
-  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the ..."
-    excerpt: "Bosch's tagline at CES 2021 Bosch as a pioneer in climate action: Under the tagline “Sustainable #LikeABosch,” the company will be presenting intelligent, sustainable solutions for health, living, and mobility at the virtual tech trade fair CES 2021."
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-industrial-technology-fcc0754fecc1df56ceb6e922eca7eadf/gallery/e533e5ed1156e6c42eb09d383285e5cd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
     excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
     publishedDateTime: 2021-01-12T09:52:00Z
@@ -79,6 +65,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "WbtM4NC1rbFpgRVDLZdLe/JD0Wtn+p/uX5QiZNJ7hZQQDoL/apdZYmgH44mNwOXVm9zl/D3L/FW8gz4j2nQr8VFhV2y3Pa8jXMjTn3AB4cW48tysTvy+f7fONE/e6EguUTUCqARLmNhbxCZtVEVq+gXqUD+aLD4GMNr2YAY7YMudxlpfNOCeUCKHXkvuXnMOyMtEhtHHJ7xviblSvtHSSAeYL7Eu/XXi9mJTbFiMlarpDAKtfJd/U7SeImlCPQUZQFPkqjuumYtH0374wfbd7zbjlXOiOhdrDEKIjbNFEOjIc/RRCaROtxmxqgYcby18TFqsIbfaZac3JJ/ymsh5hmi7N075aczA5dq0ynhua5E=;oDB6RZNtFSUxqueTaJJAHg=="
+secured: "IT6u9OZqfqgY5R3apCmNfBkD2Soj4SEuHZ005FNzgR0IrAkLMqJCHuD5ohVV7+/0Jp+uUoGkvHHdtmbXX97DrHV1bH4wimlWVF0L+LcKYr2gHvi/j+/fQ5mSilGgDpdaBeqRksRaULTKqmEUV/n1j8r3QRghZ01vjkZVgkLJJj3Dgjv3NTjezf79CjyAwDqeV8VRffGTD4w6xXQnY0c2VKdlNjWp7J5wHGt8FrHFrDsXitq0Qz92f1vcLua+3OYudcxja3SNOCXxT2vJ9J8dD1m6KwtChOJrEwvFQsBtufR/NcnIpZ1x0eWo4BhHu3wZRVoTgvA3AoGSwoSfahEBoslibEsusx5//816TBa5kr/yyqGCAjG2QXh0Auh15HWIA7bVtggiqOl6F8GZNTLv1rLRPAwyRASNhBGzx+FayBQIYyWFxHJnyqyzJcqmh2C+Qf1QeCB9nIra5hUSmPD3IuXFFf1HZg5PseMZQQKX5yjKLF2klWUwJbgx6bqYpJ4d7okylH0ToOT/CSU6PLR8Kw==;w1dqrkn7AYn2VQUVNxFOhA=="
 ---
 

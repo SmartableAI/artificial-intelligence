@@ -47,7 +47,18 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "The best smart home tech of CES 2021"
+    excerpt: "Our pick for the best smart home tech of CES 2021 is the Samsung Jetbot 90 AI+. More than just your ordinary robot vacuum, it’s smarter when it comes to avoiding pesky clutter that can trip up other bots."
+    publishedDateTime: 2021-01-12T23:39:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-smart-home-tech-ces-2021/"
+    ampWebUrl: "https://www.digitaltrends.com/home/best-smart-home-tech-ces-2021/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-smart-home-tech-ces-2021/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
 
-secured: "Ea7RB0+dph1eW/OZOZst0u0nk17QkY6SzcujEodt+8wb3UjlrnIXYqKCgQ0YfXwbXkSgqqfcau55cL39qM7MxRDQLtSD5DstzDw4Ze8VmGrOaEDm7jZ9qOegLAIXKQJ9RBDAW+ar+L3rpX5Za6473/HCNi2+QEkxugU5+wFhqLVy3wyNh6aY6TKaURS7IIV6aWN9wwTp2CUNC2TdDw4iAvO4plHN9QbopA8yVPYzeo/DCpEvv2878Nj9Ffx/DKZggalKFa377hBhvpNZQ3GDNruiJo89guXoNh5/LEYXyjl9Rk87SJFE16ie0r2AD/mmRpNmUmpoLPrDoO2qH3c6Vd45I9gP/EOtKrtEUKKMZ/4=;sjYeqytM4wD5LL4e4Elv0w=="
+secured: "ThpHKXcuuWUri62N7FgYiU8nvzp74DI/xVs/VKcVc+/lmWvRYGMN+OaV5M1374BjQNH0vzRz/TErBtt4rTxAQCRrldjqgs32TM6V5iQmBXwELZPwocbUF8OJkjyH2iABaeK9Ox/GFTFaqACe5DjfYaK4y8R2XcEWuUFZN4tCny4bF7bJNMfQE31pq06rnofWnPuLoNs3lRuU1/DatfQCth1wdcn+99VRoMGKnpghujaPfBAcVTsHdN0afipy7bCpBPNnmgRBf1Mmm4WsMjvRKFA+ivSBoVmh7M5kuOKtwAZQOZ98UminJqwdTyUhQ1s5dLHMM0W++lNTD6ZCtcc35AM7FDRcNlCIWkWIEMtZdyAA34ii3jm9/xywNiI7UuWAqZApK3cVzOcBCQ7k6vvwxkKSfxwD6zQNJGQXWihA2oW00YCUxKDI1G1tcqd4SPAROQ9nzLYEEc7Cf5wfooXJssIcwAryR15ClE5TNR6a67zZKybPFfWJk8Dfjgf3DaTmGRtgjW8ev/J1xqw5iNz6Ew==;Jc/y9TvlwCOuPMiUm5HsnA=="
 ---
 

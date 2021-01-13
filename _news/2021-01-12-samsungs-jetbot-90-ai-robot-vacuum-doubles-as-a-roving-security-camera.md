@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-ro
 webUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera"
 type: article
 quality: 100
-heat: 290
+heat: 300
 published: true
 
 provider:
@@ -233,6 +233,20 @@ related:
       - url: "https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2021/01/Screenshot-2021-01-12-101423-350x350.png"
         width: 350
         height: 350
+        isCached: true
+  - title: "Samsung touts AI appliances"
+    excerpt: "Samsung also embraces AI in its JetBot 90 vacuum cleaner that uses object recognition and 3D sensors that avoid cables, small objects and pets. The item is integrated with SmartThings app to assist home owners with home monitoring, he said. The product ..."
+    publishedDateTime: 2021-01-13T00:42:00Z
+    webUrl: "https://www.bangkokpost.com/business/2049963/samsung-touts-ai-appliances"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1"
+        width: 620
+        height: 413
         isCached: true
   - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars to navigate around objects like tables and pet poop"
     excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."

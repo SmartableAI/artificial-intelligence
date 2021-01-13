@@ -26,22 +26,6 @@ images:
     height: 520
     isCached: true
 
-related:
-  - title: "Pompeo slams anti-American 'woke-ism' at Voice of America, U.S. broadcast outlets"
-    excerpt: "Secretary of State Mike Pompeo on Monday criticized “wokeness” and political correctness within the official government Voice of America broadcaster after some employees protested his plan to speak to official U."
-    publishedDateTime: 2021-01-11T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/11/pompeo-slams-anti-american-woke-ism-voice-america-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 19
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/11/pompeo_91581_c0-155-3723-2326_s1200x700.jpg?3c5ff03a9787616097a6d3eb6b245708e417a197"
-        width: 1200
-        height: 700
-        isCached: true
-
 secured: "kGKcTxsGmppKBwziEriUqscklNYWaBVQw/q99l1bZ9pLNZP53ox68GkA9fcAvCGiUSkpobRCRBF+MRhqwRJADv1GkiqihoGoqFK9JmqMFxa/PVV15HCQzBh762g7cQKdBzy6FgOVzhnS+C6fZHsBS39D07Xo/lB2/+s2TgaFC49sIWrL2ZS5s63xWEVEVVPQXgtyPb/KFJgpzIEwgb7VuKHDZaThYGAKVH+F5b2Fkyv1r8U1Gzn0rAWh/JN+EbvNAf7IIp0X6NLlJbeYsVEFYHwZxJ8V8bsSx/gIXHqD+PGJnpv20dgDSEoHp9QsPV8cnM4ziWMyaU/BnngwQmlokVwIiNJ4kA1jWDqoSldTREp4VpHT9G9Ha6septHP6WnIgzVStL01uyE3QrKipAg2HwzmW+Px3V1Lu9gxomRo9txKi4YtKnZLvin7mE6iSwIVtv+6zbgqQA0q3RpFpGWoq3JKjD8uiqMr60GmtJdW3+B41SsgC0YBDj+7S+nNUBH554fO63qhenI6nYzS5joNbg==;qqdMeZvkJi64cS+omez6Qg=="
 ---
 

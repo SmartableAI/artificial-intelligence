@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-29-ai-chipmaker-graphcore-raises-222m-as-it-takes-on-nvidia.md",
-      "title": "AI chipmaker Graphcore raises $222m as it takes on Nvidia",
-      "excerpt": "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
-      "originalUrl": "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 306,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a03ad48-165a-448f-a7da-eb28c2df2959.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
-      "publishedDateTime": "2020-12-28T23:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-12-28-how-nvidias-ampere-gpus-could-drive-growth.md",
       "title": "How NVIDIA's Ampere GPUs Could Drive Growth",
       "excerpt": "GPUs are the core of the chipmaker's accelerated computing products. They bring market-leading performance and energy efficiency to various industries, from graphics and design to data science and artificial intelligence.",
@@ -1424,6 +1380,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-ai-algorithms-are-slimming-down-to-fit-in-your-fridge.md",
+      "title": "AI Algorithms Are Slimming Down to Fit in Your Fridge",
+      "excerpt": "Artificial intelligence programs typically are power guzzlers. New research shows how to generate computer vision from a simple, low-power chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
+      "originalUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd41c88c8d3dcf3baf4f08a/master/pass/Business-AI-IoT-488760853.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
+      "publishedDateTime": "2020-12-13T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

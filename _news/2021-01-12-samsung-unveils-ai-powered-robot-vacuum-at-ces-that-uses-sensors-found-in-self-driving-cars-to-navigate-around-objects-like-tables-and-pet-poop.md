@@ -245,6 +245,20 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "Samsung touts AI appliances"
+    excerpt: "Samsung also embraces AI in its JetBot 90 vacuum cleaner that uses object recognition and 3D sensors that avoid cables, small objects and pets. The item is integrated with SmartThings app to assist home owners with home monitoring, he said. The product ..."
+    publishedDateTime: 2021-01-13T00:42:00Z
+    webUrl: "https://www.bangkokpost.com/business/2049963/samsung-touts-ai-appliances"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Samsung has just made a team of robot butlers to cater for your every whim"
     excerpt: "With the distinct appearance of androids from a sci-fi film, Samsung has introduced a couple of robots that function as domestic servants."
     publishedDateTime: 2021-01-12T16:51:00Z

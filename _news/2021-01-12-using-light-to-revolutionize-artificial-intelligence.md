@@ -2,25 +2,27 @@
 category: news
 title: "Using light to revolutionize artificial intelligence"
 excerpt: "An international team of researchers, including Professor Roberto Morandotti of the Institut national de la recherche scientifique (INRS), just introduced a new photonic processor that could revolutionize artificial intelligence,"
-publishedDateTime: 2021-01-12T01:57:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
+publishedDateTime: 2021-01-11T18:22:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/indl-ult011121.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-01/indl-ult011121.php"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/253196_web.jpg"
+    width: 720
+    height: 468
+    isCached: true
 
 related:
   - title: "How To Find The Right Business Insurance Using AI"
@@ -49,6 +51,6 @@ related:
       domain: itbusinessedge.com
     quality: 39
 
-secured: "deHzLbDUrh6IigQLrPLqzyvCwCFU69QiZOilw8R3CLkVicdopeZHvrnmvJVF8Kelw8uCORO4y0obV2XhvTQrvPuo0JfuxdV+wYi5YMjlCNluYaMmZhqgxpHbc+EvolYoH3VJnm3y9Niovcb7JUGCgQo7JGz1OMEEuowwNNMipa3rmmtY1ufw694XOddMRaqaMd1b9mtkHZMBpcZFlM4X6NSWDxKztKt8DRQHABiH6CtfvrnbQhkHrnjMtUiNmFcS+A42jmfApIcbIfhc4ai2JqBpnUWs2d0PKu+hllQ+rrpjRtGf16AdEMZlPV44SdeclYGfUYbVxhlApVK/9wogjbqdj0vjVheYHn3ZxhXwF78=;9vcvOJFcoct5F3S4hhtRKw=="
+secured: "B5tOqrZAX5yH3iA6x2yk+/5zchboyPoJuEVn96L/YQQPhf5Od9697uac424uFqDWO5dVR6DP1rvsZqLqyOyJaCc72RU/SBWok5Rhm+f2EGWmPiQUphwrKyyhIj8gRxvjPNLmSfNJvUzEx6Gw4qKNAL8Dmh6yGFsqUX+vu4XoLZYPos6meD1+qNSdQsY3V23lDylL2I0fMc2HurHH8tZ1yNA20RcpDjfthCHMweuQirn1y1n5hurFaBBIb0bzgepiHWVzbgeSMbKdWCtdGDjNLV9KKwsdQm52UExAS9Hon9cG8T+hb8gRR8eeuWK7s+pFT1cyTPeL2p6E0EGlzRqYGY0qCml5SGdC/R+LoqD7B1A=;Qe57yFSHHEQX2JGyNFXBGw=="
 ---
 

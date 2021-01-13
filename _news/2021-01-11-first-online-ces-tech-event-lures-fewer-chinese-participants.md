@@ -34,6 +34,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 30
+  - title: "Here's the pitch deck self-driving startup Oxbotica used to win investment from Tencent in a $47 million funding round"
+    excerpt: "The University of Oxford spin-out was also backed by BGF and BP Ventures."
+    publishedDateTime: 2021-01-12T23:38:00Z
+    webUrl: "https://www.businessinsider.com/tencent-oxbotica-technology-startup-pitch-deck-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://i.insider.com/5ff6dd7a6d61c10019cce15a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "o6vVhcPhzgafSVmB3doVKYjJ75Clft91Saxd5vRQuOj2e1Hlu04TDxwBS0oVm4L64rkKrblKNRhA2Nnq0QcAC+2x23+XV50JaNuoWXV1OROcnNGa8Kgwiuc0IskwepH/obF7kKs68lj2jkoHi9GIwTrWjhMCxErazgrc9RaF4vWC2BxjUfSnEqjkgMOMPI/w9VL3XThnM1Z2KO+k5eqltawpwHuUp30YQ79JzbB3gJL9SE387cHznUgB0IlJoBkhUoGDCQMhCi69ivcOXN2O2FhFejuXVMakgbuhe7Eo3oHu92p1QHHpycXAxMnk4/goqU9MRo0CP1bYS9LC5/anE4Q8KF7qKk3f/NpT6+wqafw=;hphDtyqEbOtbNi4V9LwHIA=="
 ---

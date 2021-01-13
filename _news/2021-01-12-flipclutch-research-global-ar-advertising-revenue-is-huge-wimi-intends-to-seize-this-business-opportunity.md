@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Flipclutch Research: Global AR advertising revenue is huge, WIMI intends to seize this business opportunity"
-excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and"
-publishedDateTime: 2021-01-12T14:25:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-301206504.html"
-webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-301206504.html"
+excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and the market prospects are promising. Last year, one social software that used AR filters as a selling point earned $1."
+publishedDateTime: 2021-01-12T14:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-1029960267"
+webUrl: "https://markets.businessinsider.com/news/stocks/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-1029960267"
 type: article
-quality: 6
-heat: 6
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Flipclutch Research: Cloud acting is being promoted, WIMI with 4654 IP intends to create the digitalization of the holographic entertainment industry"
@@ -40,6 +38,6 @@ related:
         height: 315
         isCached: true
 
-secured: "XqDH/RRlno2/c55ARTNNXMAbGyFZNv7uXryax6gTtArNyVNuP5yjJXfXDCWnEX8NZW6urBEerdUV4IMJGeIIC6Doa13dkbYCnyV1oauSGsZKqEgdB7gI43yOnRutow18Ek4blvJyVKlPmKmqE49MYskZvnMYAeLtilhboCzL7uCAkhdkhJy7w+HTOiAC5C1CAs53A8fArXlr+uqgyaJ25jM2wjgf+ex7YGFpZDDo0Rgp8wtL3i4tKlpFpkFUPQOZT7eUR3RQyQ6QuKKYPEFeb4OyHkS5vmbghT/fLWbaYxeZ/9hCmQkSVdpeuxGvFjBSJhU+kFq7psXzsawRRB/XEzMKrb5L3ZSAtmo+PDWjjC8=;SNI6+LZhG/cAg8rzkQQjxA=="
+secured: "ikepwxLpZDAnRUBSS9X3F+f6aSNtPfRsDiCUE0EAot3lpf3lE7bKQgn2UucsbINfuiY1DyJxSs9RjJ6r7MRbVsf+xuN38mHFSgkbeNg15sGYVUI4jJiWDDdQPxFCbKRhkSesvowH/W3uCZfQAmTi4wcPLFPNSDCI1jadCahfdnHj6BRNY/WnR6PN/qbYx3PPbJjKqHYARWZjC8F02uTtYLh/73DPTpvpLOl9BEouBPEJ5Zh9CQk6ycyjuLMnzSM/4LMzXUIoNb7SyjCQZPHxHOmgNb+7vMAWH1G/95jJxcfgS2npSS++0SX1jlYTepHijpqoRvwARUIeAsr5R/WxO/p6OKpw7jLxspmj3KpCmOc=;9jkVstqS1V+8z2plU7qHkQ=="
 ---
 

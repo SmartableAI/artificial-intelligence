@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Here's the pitch deck self-driving startup Oxbotica used to win investment from Tencent in a $47 million funding round"
+    excerpt: "The University of Oxford spin-out was also backed by BGF and BP Ventures."
+    publishedDateTime: 2021-01-12T23:38:00Z
+    webUrl: "https://www.businessinsider.com/tencent-oxbotica-technology-startup-pitch-deck-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://i.insider.com/5ff6dd7a6d61c10019cce15a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "First online CES tech event lures fewer Chinese participants"
     excerpt: "The first online-only CES will kick off on Monday, with tech executives and industry experts participating remotely from around the world, instead of shaking hands in Las Vegas. The annual four-day conference -- formerly known as the Consumer Electronics Show -- will enter its 54th year with no physical presence due to the COVID-19 pandemic."
     publishedDateTime: 2021-01-11T09:10:00Z

@@ -715,6 +715,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-30-improving-algorithms-with-high-level-synthesis.md",
+      "title": "Improving Algorithms With High-Level Synthesis",
+      "excerpt": "Sometimes the results of HLS are seen feeding back into the algorithm. Klein said he recently worked on a voice recognition system in which the original TensorFlow algorithm, as defined by the data scientists, called for a feature map of spectral data in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/improving-algorithms-with-high-level-synthesis/",
+      "originalUrl": "https://semiengineering.com/improving-algorithms-with-high-level-synthesis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/09/iStock-513307992-blue-mascot.jpg?fit=1394%2C753&#038;ssl=1",
+          "width": 1394,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle.md",
       "title": "Become An Expert In Artificial Intelligence With The Ultimate Artificial Intelligence Scientist Certification Bundle",
       "excerpt": "The four featured courses are packed with 670 lessons covering Deep Learning, Machine Learning, Python and Tensorflow. Designed for all skill levels, the courses cover everything from the basics ...",
@@ -1441,60 +1484,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference.md",
-      "title": "A quick tour of what you missed at the NeurIPS 2020 AI conference",
-      "excerpt": "The world’s most closely watched AI conference didn’t have its usual scenic backdrop of Vancouver or Barcelona, but it was a nicely organized six-day virtual affair that delivered on all the usual fascinating talks and presentations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
-      "originalUrl": "https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/14/a68795c9-ddd8-4fb7-85c5-b93bd3daa6a0/neurips-2020-knowledge-represenation-workshop.png",
-          "width": 1572,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
-      "publishedDateTime": "2020-12-14T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI",
-        "Facebook AI"
       ]
     }
   ],

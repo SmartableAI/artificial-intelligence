@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-12T21:38:00Z
 originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
 webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - AWS AI
+  - AI in Healthcare
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
@@ -39,6 +40,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/Site-Merch_ML-CCI_Blog.jpg"
         width: 800
         height: 398
+        isCached: true
+  - title: "Amazon announces global expansion of its Contact Center Intelligence tools"
+    excerpt: "Amazon Web Services Inc. is expanding the focus of its Contact Center Intelligence services that customers can use to add artificial intelligence capabilities to their contact center operations. AWS CCI can now be used with customer’s existing contact center providers to deliver new efficiencies,"
+    publishedDateTime: 2021-01-13T00:29:00Z
+    webUrl: "https://siliconangle.com/2021/01/12/amazon-announces-global-expansion-contact-center-intelligence-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/CCI-web-image-side.24c04d2d367e37921da48fed7f5baffb9ee5b5cf.png"
+        width: 624
+        height: 407
         isCached: true
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"

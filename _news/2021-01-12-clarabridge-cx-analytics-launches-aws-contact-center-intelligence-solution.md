@@ -41,11 +41,25 @@ related:
     provider:
       name: Destination CRM
       domain: destinationcrm.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Amazon announces global expansion of its Contact Center Intelligence tools"
+    excerpt: "Amazon Web Services Inc. is expanding the focus of its Contact Center Intelligence services that customers can use to add artificial intelligence capabilities to their contact center operations. AWS CCI can now be used with customer’s existing contact center providers to deliver new efficiencies,"
+    publishedDateTime: 2021-01-13T00:29:00Z
+    webUrl: "https://siliconangle.com/2021/01/12/amazon-announces-global-expansion-contact-center-intelligence-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/CCI-web-image-side.24c04d2d367e37921da48fed7f5baffb9ee5b5cf.png"
+        width: 624
+        height: 407
         isCached: true
 
 secured: "/eAjQGCwCGKOT9YJQbai2QXdZ7mc0e3+2GhZJma3i0Onm3eq7SezIb69oxGw6D4WieOVUkOJ1DuGho8og0eQxB0/vNhYI5aykVjHoBCAYBfe2Mw+DkJioRWSbZ9ob8P7fq7lqfZUD0W7UlUWEORWNKExroVfSSkE7BkNLSw5Bs880EXH5N6HRSXlXDOgkjM81vIF/bdQZELrzl/p8H5iktIio7Bkg/ZGJhokDOvOyqWbA71YTaWm8LRYc1PVk8by669U2OlDHtOj4S4jBqSvsLhTDTxLWRDagx6FmokCDBLnydFn+E/tnb0ar2OH3hX3q5BQ069762gpML6hUkXZzwjHrTd5W+RrTmoGSYKGANM=;WJy0GUxPksodgn414/pWCQ=="

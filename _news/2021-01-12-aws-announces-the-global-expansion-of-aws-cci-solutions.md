@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-announces-the-gl
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-announces-the-global-expansion-of-aws-cci-solutions/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -37,11 +37,25 @@ related:
     provider:
       name: Destination CRM
       domain: destinationcrm.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Amazon announces global expansion of its Contact Center Intelligence tools"
+    excerpt: "Amazon Web Services Inc. is expanding the focus of its Contact Center Intelligence services that customers can use to add artificial intelligence capabilities to their contact center operations. AWS CCI can now be used with customer’s existing contact center providers to deliver new efficiencies,"
+    publishedDateTime: 2021-01-13T00:29:00Z
+    webUrl: "https://siliconangle.com/2021/01/12/amazon-announces-global-expansion-contact-center-intelligence-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/CCI-web-image-side.24c04d2d367e37921da48fed7f5baffb9ee5b5cf.png"
+        width: 624
+        height: 407
         isCached: true
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"

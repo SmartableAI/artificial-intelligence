@@ -29,14 +29,14 @@ images:
 related:
   - title: "Dishwashing robots and Bluetooth masks: Pandemic products hit tech's biggest show"
     excerpt: "Companies big and small showed off their new innovations at the closely watched tech trade show, which kicked off on Monday, many with features tied to life during the pandemic."
-    publishedDateTime: 2021-01-12T18:09:00Z
-    webUrl: "https://www.wbaltv.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
-    ampWebUrl: "https://www.wbaltv.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
-    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+    publishedDateTime: 2021-01-12T23:09:00Z
+    webUrl: "https://www.kcra.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+    ampWebUrl: "https://www.kcra.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
     type: article
     provider:
-      name: WBALTV11
-      domain: wbaltv.com
+      name: KCRA
+      domain: kcra.com
     quality: 54
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-4b3ba58cf2361b74931fdaec902b028f-h-23a6214b45f666e02e3ebea2eefaa196-1610457872.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"

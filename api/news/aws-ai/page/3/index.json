@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-09-thomson-reuters-taps-aws-to-power-digital-transformation.md",
+      "title": "Thomson Reuters Taps AWS to Power Digital Transformation",
+      "excerpt": "(NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of business information services, has successfully completed a large scale migration to AWS – a critical part of their digital transformation strategy – which will enable the company to innovate faster,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/thomson-reuters-taps-aws-to-power-digital-transformation/",
+      "originalUrl": "https://www.financialbuzz.com/thomson-reuters-taps-aws-to-power-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
       "excerpt": "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic.",
@@ -1297,58 +1331,6 @@
         "AWS AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws.md",
-      "title": "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS",
-      "excerpt": "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway SUNNYVALE, Calif., Dec. 03, 2020 (GLOBE NEWSWIRE) -- John Maddison,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

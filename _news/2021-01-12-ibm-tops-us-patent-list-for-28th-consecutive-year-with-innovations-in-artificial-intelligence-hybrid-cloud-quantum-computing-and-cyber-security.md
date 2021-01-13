@@ -1,27 +1,28 @@
 ---
 category: news
 title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) scientists and researchers received 9,130 U.S. patents in 2020, the most of any company, marking 28 consecutive years of IBM patent leadership. IBM led the industry in the number of artificial intelligence (AI),"
-publishedDateTime: 2021-01-12T11:49:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-technology-issues-b127aea7d4972afeb751e654949d3968"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-technology-issues-b127aea7d4972afeb751e654949d3968"
+excerpt: "PRNewswire/ -- IBM (NYSE: IBM) scientists and researchers received 9,130 U.S. patents in 2020, the most of any company, marking 28 consecutive years of"
+publishedDateTime: 2021-01-12T11:02:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-301205792.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-301205792.html"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - IBM AI
   - AI
   - AI in Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -72,6 +73,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uTxe7CbQobfHucVPN6j8POr3fLiUb35JzD5YXwfmV07L4bXZE/uwuvgkP4tZtaerxdBWBNaH/wgSGKfJifBHWMLzxVQfkBMPsrGEjZffuKb3Oj3tPHXNxGLz5iS1cKaiRHcvBhfrTnC5yJ3Ie12TPwInfEh39HHRd7n0SOq4hd6Nh+ecLtXhk/fR4spbwA9Vcd3fobgv4kp3jNgGbAnBboiFvVz+Tur6/OU4nj2lLYlfaT3qQxlOodad6pHrn8TTQEpsn7pHWaTCSieS2yKdvZhuzsZL/Tu2u+duQB1fMCFRMoau5fcYZt+YsKv7mWmWzRb8Cu1eLlTbkspGOhb5uQmgj/L9cUpYHruCCLNXdwA=;4pt5MfwiDRtQtuZDruW28A=="
+secured: "TmuosKDXR0OlfQsJbX1CNeC2plWCTbdUcaBkA1fjZS7p3G/9MJR7wrV7VE/I8fTmtO9pF5JIp+zt5oPpqutRvIM4EwMylsoqtT/XK0gPhggeVlCbqfWLLp9h+Q83DQf5XRm6ucVeDJBz8QKObedeWQKmLdBWRjI0+RP0hp3n108x+Q+/2Qc8nyNzzVg8Qx9ZVmP6CwEMwEgEOcXImvoVOmVHdAfkiD3jS21T9JcRK12XvKuqyhl5Z05pY0q8nPY4CJ6E/7QNPOJ+ZQQ7Gy+6iinISHJSBa10W0koPqzo+zb23olPM1dGNrYOAjR4xy7q9svjSZeXs5Iptw9qVovOpPPhyfyea2SMRtYEt/SIVJ4=;v3fevNwXboJHm61JVlVBBg=="
 ---
 

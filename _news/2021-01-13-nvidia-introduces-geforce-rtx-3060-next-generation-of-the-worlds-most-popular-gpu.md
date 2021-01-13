@@ -1,31 +1,27 @@
 ---
 category: news
-title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World's Most Popular GPU"
-excerpt: "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce (R) RTX(TM) 3060 GPU. With its efficient,"
-publishedDateTime: 2021-01-12T22:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu-2021-01-12"
-webUrl: "https://www.marketwatch.com/press-release/nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu-2021-01-12"
+title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
+excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
+publishedDateTime: 2021-01-12T17:47:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
 type: article
-quality: 63
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -46,6 +42,6 @@ related:
         height: 563
         isCached: true
 
-secured: "zvsaJ+hD3sA3t3JgCukgvcbqQ2lm48gBwenuQrctYIKKDP90TkbzbKAvesRmj8wURzdyHRZrAmtL10MHrLdtpZ/UR0APotMTN+ejcPwEdkWiPZgSjmiwOGzcE2DXLAtHsBXotnLH6acyN2DBPvQa1MbU+YupWzmaR6d9b6QCXJa9CnjGqLfoFhs36PEYOx6y2Vc9+KeKUSdt61hotXiD3JB0uugFVI+5wdd2WfmjjdPtuzi5yX2DL0w9edUlVkdj2teqPrF+Xug2+Wz1EyIQtqpPKbliWJlMFlTN3UPeR8r0dR8uxm7FWvLEyX5qayUkxKk3/UPC8XhsqlnjcoLlg1Y+xWxvWneebJnnx9dktYE=;XExVNWSqRb3Y9zIICb651Q=="
+secured: "MgGmmW5JyEEZW1Pid8ohTTovixmMzPOdVh+vqEQ8AvR5XdtI6hqqbjbnnpooBtkDkkN34xa4oXycVhqkM1hXOo7i4bKM6CwpAaASIxVyVGB0PB+slauWpyNrjdc2IkES7hi+YIijNqeVDtNNtlpM9RYxm4hlik1vrLgupHVQAFM9ddzVWJ3c4nBWjwrmASsQNbMrQG6Qrmuzv4gO0j6W2kHPlm+OW5RrQvt1Eyo23BgyPI5Ktl6RTEgVjVHDRNveoxQWZ+h3xCxbdwAoKZUOmfnPEGluaCJptJDTgNbeO6bCdwKtqtwsZYyC9PAt3IulNDDTXkRS9piHIvfjXb3JXBvBEzOgmHoA4QHSFwt3kM0=;AxU8WUXl4QOFkyJl0Ic03w=="
 ---
 

@@ -2,15 +2,66 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-13-rep-clyburn-wants-to-make-lift-every-voice-and-sing-a-co-national-hymn.md",
-      "title": "Rep. Clyburn wants to make 'Lift Every Voice and Sing' a co-national hymn",
+      "path": "_news/2021-01-13-ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand.md",
+      "title": "AI Startup Sees Opportunity Forecasting Pandemic-Era Consumer Demand",
+      "excerpt": "New York-based Centricity is helping companies track consumer demand by analyzing some 2.5 billion data points’ worth of internet traffic a day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-284183/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "publishedDateTime": "2021-01-12T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-rep-clyburn-wants-to-make-lift-every-voice-and-sing-a-national-hymn.md",
+      "title": "Rep. Clyburn wants to make 'Lift Every Voice and Sing' a national hymn",
       "excerpt": "The Democrat from South Carolina is aiming for bipartisan support on his proposal, since, he said, it's a song “everybody can identify with.”",
       "sourceUrl": null,
       "webUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
       "originalUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -26,7 +77,7 @@
       "type": "article",
       "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253963",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253963",
-      "publishedDateTime": "2021-01-12T14:58:00-08:00",
+      "publishedDateTime": "2021-01-12T15:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -41,6 +92,154 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-service-robotics-market-top-trends-accentuating-size-by-2024.md",
+      "title": "Service Robotics Market Top Trends Accentuating, Size by 2024",
+      "excerpt": "The service robotics market is expected to grow at a substantial rate driven by the system's high efficiency, reliability and convenience as compared to conventional labor. Integration of artificial intelligence (AI) and proliferation of IoT is bringing key transformations in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.md",
+      "title": "CES 2021: LG unveils artificial intelligence for \"at-home\" products",
+      "excerpt": "From sanitizing robots to a self-cleaning water dispenser, LG Electronics is redefining what it means to be at home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products",
+      "originalUrl": "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/01/932/470/595-530P-TZ_CES_-LG-HOME-INITIATIVE_00.00.05.15.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp",
+      "cdnAmpWebUrl": "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp",
+      "publishedDateTime": "2021-01-12T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KDFW",
+        "domain": "fox4news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-us-ai-strategy.md",
+      "title": "What this bald eagle and neural network depiction have to do with future U.S. AI strategy",
+      "excerpt": "The White House launched the National AI Initiatives Office, an org with an eagle and neural network on its seal, to plan U.S. AI strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/",
+      "originalUrl": "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/national-ai-initiatives-office.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/amp/",
+      "publishedDateTime": "2021-01-12T15:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -136,49 +335,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ces-2021-ar-glasses-ai-chips-and-automated-astronomy.md",
-      "title": "CES 2021: AR Glasses, AI Chips and Automated Astronomy",
-      "excerpt": "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arm.com/blogs/blueprint/ces-2021",
-      "originalUrl": "https://www.arm.com/blogs/blueprint/ces-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.arm.com/blogs/blueprint/wp-content/uploads/2021/01/lenovo_thinkreality.jpg",
-          "width": 1940,
-          "height": 980,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARM architecture",
-        "domain": "arm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -431,7 +587,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -784,7 +940,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-announces-the-global-expansion-of-aws-cci-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1050,162 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
-      "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
-      "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
-      "originalUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Deep-learning-concept-whitening.jpg?w=1200&strip=all",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
-      "publishedDateTime": "2021-01-12T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how.md",
-      "title": "Intel wants to bring affordable self-driving cars to everyone by 2025 – here's how",
-      "excerpt": "Mobileye – the self-driving car company acquired by Intel for $15 billion in 2017 – has outlined its plans to bring autonomous vehicles (AVs) to the masses through new laser sensor technology intended to lower the cost of producing self-driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how",
-      "originalUrl": "https://www.techradar.com/au/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yjtnMCiLGrWANVG37M8vMS-1200-80.jpg",
-          "width": 690,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how",
-      "publishedDateTime": "2021-01-12T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-a-startup-will-nix-algorithms-built-on-ill-gotten-facial-data.md",
-      "title": "A Startup Will Nix Algorithms Built on Ill-Gotten Facial Data",
-      "excerpt": "San Francisco face-recognition startup Everalbum won a $2 million contract with the Air Force to provide “AI-driven access control.” Monday, another arm of the US government dealt the company a setback.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/",
-      "originalUrl": "https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/amp",
-      "publishedDateTime": "2021-01-12T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "For Latin America’s environmental defenders, Escazú Agreement is a voice and a shield"
-    excerpt: "As the world became fixated on the coronavirus pandemic in 2020, the situation for environmental defenders across the globe has only become more precarious. In 2019, 212 environmental activists were murdered worldwide,"
-    publishedDateTime: 2021-01-09T05:56:00Z
-    webUrl: "https://news.mongabay.com/2021/01/for-latams-environmental-defenders-escazu-agreement-is-a-voice-and-a-shield/"
-    ampWebUrl: "https://news.mongabay.com/2021/01/for-latams-environmental-defenders-escazu-agreement-is-a-voice-and-a-shield/amp/"
-    cdnAmpWebUrl: "https://news-mongabay-com.cdn.ampproject.org/c/s/news.mongabay.com/2021/01/for-latams-environmental-defenders-escazu-agreement-is-a-voice-and-a-shield/amp/"
+  - title: "Voice of America reporter reassigned for Pompeo questions"
+    excerpt: "The White House reporter for Voice of America was abruptly pulled from her beat after trying to question Secretary of State Mike Pompeo following a speech he gave at the government agency this week."
+    publishedDateTime: 2021-01-12T22:11:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/12/voice-of-america-reporter-reassigned-for-pompeo-qu/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/12/voice-of-america-reporter-reassigned-for-pompeo-qu/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/12/voice-of-america-reporter-reassigned-for-pompeo-qu/"
     type: article
     provider:
-      name: Mongabay
-      domain: mongabay.com
-    quality: 37
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 44
     images:
-      - url: "https://imgs.mongabay.com/wp-content/uploads/sites/20/2016/04/01214528/JHance_BigConservation_ButressRoots_co07-0327.jpg"
-        width: 780
-        height: 520
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/12/pompeo_41701_c0-201-4817-3010_s1200x700.jpg?ad4153680f58b1e34ee6e2007534c5d4312af419"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "ZwMVrkH1F8jFdrPG389Mv/2Xmg8+/2yJT4/8ZCnI8rKcVb4uNf07hX/wr4OWtDdIDP/gYoXhx58xhHDoKxC0qkPchgNO7gDwWzW+3fSEhG9hIPwVZfwavArb4AOCE0MuaGiWSigcCFWvDT/VAWFaDYV+fSM30z/1+hZYDlxDFueeGUg82MF8LKPy80ptdxL3pwoNhB03AwnpxlRyfT7E+Ttr9FPw8n4nx24YrR/gzgmV/70nN7rrqskFBx38MiUGx0z1ROx0Bn8rkXRWyvCyCBS8Tb0u1ZVPKZ6Knq8smZa76rJlUXmRC1O6i6359T6kHVKk2wtIVC1kIDAAeHbkqligewTLZYJCuYW6lTNABVPy3CA0jXiiWZlssZe3+f3SVpG1KspVg0GMDb6MSGrf1hRzkjM0TYOmQITpB4wGrhneEpYzFPw+B1OShMughsS7/vvqe8gqsq5O2lIserlFm/nHHiiRfnyr1lBNzt5MVGY020eXZTVkEsyPytD55+EpIeCFpdfQv3qtGm6a+ZtzvQ==;KeFtF3dzXSRQdl3o0oFAIg=="

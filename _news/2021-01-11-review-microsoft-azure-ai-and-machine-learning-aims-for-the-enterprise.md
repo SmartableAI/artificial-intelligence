@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 140
-heat: 221
+heat: 220
 published: true
 
 provider:

@@ -40,20 +40,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the ..."
-    excerpt: "Bosch's tagline at CES 2021 Bosch as a pioneer in climate action: Under the tagline “Sustainable #LikeABosch,” the company will be presenting intelligent, sustainable solutions for health, living, and mobility at the virtual tech trade fair CES 2021."
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-industrial-technology-fcc0754fecc1df56ceb6e922eca7eadf/gallery/e533e5ed1156e6c42eb09d383285e5cd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
     excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
     publishedDateTime: 2021-01-12T09:52:00Z
@@ -78,6 +64,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "R9FogzEhTKdDBpN+enPeeGIIttl2PsA+3OFVzdYnYkOzYXdZcJ33I7oZ5sNaGtFe2NvcTEA5z8/YcszNhBSfCEZQdH+oHkfcqMdOLhYLSQKZzCq2h8W8LOtyITDCx9YrdP4z3ollOPARssiZbW7Z/9n+PkfH2/bUQnrttXEEjeLyWZoWh1hqH0mi62I+H3eTJdqVGK9f7z9LAw7DyJpdXCQjV3OVs/PFo95HqbogYSJ8o8mdEUnb2CSpk7aPg355Y5UYHU+Ncg2+3xhrHeEo5u5Hro3qeg3/B3+K+2H+EEpWGU8AbBnl8hplv8BZnU/gmnJz37jq0sHndXzRPE+YhV2cxZxgfuw/oSMmBeLKLfI=;lteYaiksVbNbSvcfGO/cMw=="
+secured: "2KrHCbLJy3A3MZ7C3SG76SwyDcraXZTedBcnPV84zJ5e+6Hj4djo5rNIvtIsv+CdKoSL1n/lqWVYq+pSzzVl2lvphGP6u3yDO73nu8mmOfgfZ3yD5sdXcucB0WFYSsIwukBaJJsoX0l3ocqB+flNB4DysZZ2CDebd90xQd1xaQ3e8JxLoMWK38x0UCmSlHadlr2D1Klj9QO/CwMyOzrgxwQEE1HbhSOkqOLQO08vYl+EQh0hcel24XSoOrTqSgf5zE+94kZwZnuCTH6F//80ZxErOCePe0q6FpDO8yaEtIGBrvsayt1c4bDMhCv9mg09yX68ddr6pc3iPIHhS4f/mkBKdfvOxg3X9dwDIi/q06GXBTHS9QWiGdHrWIoOq0jIqCym5TjXjsfCbS6u4UtqJe6UEdBaG+rLqeFvxFMBFmqiB57j4XiB/iqxgoThuq1QpmVio3+hsgXlcm27vZWznwm9InLfME6UIcrvhDhzUDZ6JzzjOFcDQwIrF4+4No919IJ75esQsOp7EGl9x5K8sA==;+XAJ+1nZokDkPo4TeTw8Vg=="
 ---
 

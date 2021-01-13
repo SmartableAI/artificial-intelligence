@@ -7,7 +7,7 @@ originalUrl: "https://linuxgizmos.com/ai-enabled-automated-driving-dev-kit-has-d
 webUrl: "https://linuxgizmos.com/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "AI-enabled automated driving dev kit has dual Linux brains"
+    excerpt: "News Highlights: AI-enabled automated driving dev kit has dual Linux brains. NXP has unveiled a BlueBox 3.0 automotive platform that runs Linux on an up"
+    publishedDateTime: 2021-01-12T23:52:00Z
+    webUrl: "https://www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/"
+    ampWebUrl: "https://www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/AI-enabled-automated-driving-dev-kit-has-dual-Linux-brains-1024x819.jpg"
+        width: 1024
+        height: 819
+        isCached: true
 
 secured: "2zlSffU+HukLQp2B5nUzeOUSya9D2oNsI9ogF/N/jGW5a4uqtzo8dvqiGvCsKHwAn5zynrko8M6Cd7OlcA817lSQTHMIAxqnUkqCIjvjp//sxLMcIkrVi2eoxpftjTd6Y5L2RnaPs1BtOe8k3HezcUGUpo5R7B/9XY3iGSKLGEmWVSZgzpcX76PVOLtcVacvTzaHRHQonsFyOE5R+5R2naR8ojHjuYCzeJb+2c7TqRWI+VQXWBjBpwRGj3YHMNBuq5DZbGydlly1AY7C/QNLSnXtgoxUE+Ea8z5KWTRrciBFu1no9kgiV4OUmRvnlxJsOtoaOwwUaiyqjlmGuTJ7iyomKH6S0fqTYdWXNZu+9/861+sUu3GRNiHIazHQmbYYQWSIFt9QvRXXYF4GvG/YfFKMZskhrBafuADqtht5WrK5IdNnxXwcz/Wceet3OBPbcHgnhU7cXBKOOTh7COR6k1q/BgLvwN1LKaXYyVG6CONFU6fBkKETu/XDoSUirWvctUqe7/r+Z0nbH+z5j6+2JA==;jXNEQyjIKTlx/Q0cM+j1HQ=="
 ---

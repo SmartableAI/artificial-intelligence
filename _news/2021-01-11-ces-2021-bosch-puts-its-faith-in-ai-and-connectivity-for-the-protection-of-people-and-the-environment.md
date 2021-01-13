@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "CES 2021: LG unveils artificial intelligence for \"at-home\" products"
+    excerpt: "From sanitizing robots to a self-cleaning water dispenser, LG Electronics is redefining what it means to be at home."
+    publishedDateTime: 2021-01-12T23:15:00Z
+    webUrl: "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products"
+    ampWebUrl: "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/01/932/470/595-530P-TZ_CES_-LG-HOME-INITIATIVE_00.00.05.15.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "CES 2021: AR Glasses, AI Chips and Automated Astronomy"
     excerpt: "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation."
     publishedDateTime: 2021-01-12T21:09:00Z
@@ -108,6 +124,20 @@ related:
       - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/01/iMediSync-Image-1.png?resize=1000%2C600&#038;ssl=1"
         width: 1000
         height: 600
+        isCached: true
+  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the ..."
+    excerpt: "Bosch's tagline at CES 2021 Bosch as a pioneer in climate action: Under the tagline “Sustainable #LikeABosch,” the company will be presenting intelligent, sustainable solutions for health, living, and mobility at the virtual tech trade fair CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-industrial-technology-fcc0754fecc1df56ceb6e922eca7eadf/gallery/e533e5ed1156e6c42eb09d383285e5cd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "4+fGuuo4j7Or1rRiaavat0JzjEPvGtTA2mr/d39CYU9Q8kSIPH5etOkEHc/EgXYa72tCarG2oO2qAM0+2ZZkHia//46a/psEjKNlP3fvPyEZnJgKrvCJ0geD/W2azpARzh1WlcFu3EkF+B6NjMDUOqWTz3wQuah4QhwUQgGboNu2WTMO8MsERO4KNw1CWIFqHg19Q2IIAvL22QlIyjQjGs+/4fx8slZAHJ4k11ufg+55ngYYJ5Pnw9stGXs+VMi/Dh4NdHSmZ5FFpdGC/RJJyKvTrCT6y3i+I8Iv8sQGlGCaqKO8J+6t82PhQOzUBVRsjLF9gS/5pcK/dWZXOvFUmk5+LyS+YOHGSR6ALsm+3Pc=;3rBQ7nPwk0VeNBWVErHBHA=="

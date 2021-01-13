@@ -2,19 +2,19 @@
 category: news
 title: "Dishwashing robots and Bluetooth masks: Pandemic products hit tech's biggest show"
 excerpt: "Companies big and small showed off their new innovations at the closely watched tech trade show, which kicked off on Monday, many with features tied to life during the pandemic."
-publishedDateTime: 2021-01-12T18:09:00Z
-originalUrl: "https://www.wbaltv.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
-webUrl: "https://www.wbaltv.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
-ampWebUrl: "https://www.wbaltv.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+publishedDateTime: 2021-01-12T23:09:00Z
+originalUrl: "https://www.kcra.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+webUrl: "https://www.kcra.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+ampWebUrl: "https://www.kcra.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - AI in Robotics
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "YhUdTt+DWsN1gxnvLBH24KxaFYBAdPBuwEr6wOmGPuMKLMiPRrxw6tj/VWm4u0Tdxu0heKUhKmn+2fcK/azc39lrS0Wx+HkyecFTwrV/Hf6LtP4wfwB7AquK5lFBXGpqMAbLfMmp2NhoMafSctWK7tyHV/LsPeY2vJO9C3Ncex3+BW+YBB8AnMplsTBLTnDRWKAcv73IZOV1KVXt8+ZyZrVOaWJ3WwwtfPQZJOMQzWm+rfyqywOZti4s/itSUMRnxs2X7XMXxJyJmkgUj0Zx3Xt4Hp0oMG9j/IishFx0zagXoQdXPQDaarV4bbamnkvaPCXlWPOUZUX/NY0QcUUITn8w1lRoesSckOlWLHI1l38=;MSajC+Ffq1JzfTuVu8ywNQ=="
+secured: "NJcVm0AZQo7g2H21njpfyHm3EkKnGk3SIiqX0fYz4xfEzYuQoe/ZRO4dN+PdGvg67TpaZBV//1Kitu9bsssuhAw9bjV/UVTRZ5RPJolscudespELbI0tR73F2R4JY8wNLjWoLSjyQfQsfqG//fGnd8fuJWiYCJxCC6JZAcnNSic2LCeg3aqx1RMCW3gjGPRLiX6tEhtG+kjPlJ1r/D4MiMTHgQ0jpjNMfcT75zKGS+rfPWwhyemq+XoGsJxk5LktZTN8rFBWtfOwo16+xR/y/ZppJaq7KCSVQTStzUNJJg/48dmYpJNq2SmXO7zIt/x0SYLo9LkvRYBf3jddTsjCK2oLxIcEKpOeuV/TPePo4ZI=;wHqShShFeEHevJnd7E3/zg=="
 ---
 

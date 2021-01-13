@@ -2,6 +2,197 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-05-graphcore-series-e-funding-710m-total-440m-cash-in-hand.md",
+      "title": "Graphcore Series E Funding: $710m Total, $440m Cash-in-Hand",
+      "excerpt": "One of the most well-funded ventures in this space is Graphcore, and the company just announced its latest Series E funding round of $222 million, taking it to $710m total across the five rounds. Graphcore,",
+      "sourceUrl": null,
+      "webUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
+      "originalUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.anandtech.com/doci/16346/July%20Launch%20Blog%20Header%20Image_smallv2_678x452.jpg",
+          "width": 678,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnandTech",
+        "domain": "anandtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
+      "title": "Healthcare Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
+      "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-why-baidu-stock-soared-556-in-december.md",
+      "title": "Why Baidu Stock Soared 55.6% in December",
+      "excerpt": "Shares of Baidu (NASDAQ:BIDU) rose 55.6% in December, according to data from YCharts. The Chinese search engine giant's stock surged following a report from Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/62e0770e28ee8c68be6d542e0b5127e7.png",
+          "width": 720,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "publishedDateTime": "2021-01-04T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-tesla-stock-rises-c3ai-drops-as-the-stock-market-start-2021-higher.md",
+      "title": "Tesla Stock Rises, C3.ai Drops as the Stock Market Start 2021 Higher",
+      "excerpt": "The market is wasting no time heading hire on the first trading day of the new year—and that’s despite overhangs that might normally keep a lid on things. On Friday, we’ll get December’s payrolls report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "originalUrl": "https://www.barrons.com/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-272944/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/stocks-making-moves-monday-morning-tesla-nio-c3-ai-boeing-51609767050",
+      "publishedDateTime": "2021-01-04T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-data-2021-outlook-part-i-whats-ahead-for-ai-and-cloud-data-warehousing.md",
       "title": "Data 2021 Outlook Part I: What’s ahead for AI and Cloud Data Warehousing",
       "excerpt": "Responsible AI” is at the beginning of a long slog, while Cloud Data Lakehouses will supplement but not replace Data Warehouses or Data Lakes.",
@@ -1039,216 +1230,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-best-graphics-card-for-gamers-and-creatives-in-2021.md",
-      "title": "Best graphics card for gamers and creatives in 2021",
-      "excerpt": "Picking a new AMD or Nvidia graphics card can be overwhelming. We'll help you get started with everything you need to know. If AMD , Intel and Nvidia 's statistics are correct, you're most likely using a computer and graphics card that are several years old.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "originalUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/kdpWv0xHoft2ndmTh94sIukoqFU=/1200x630/2020/11/17/66d183c5-8162-47b7-aa5c-dc12582475da/amd-rx-6800-09671.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
-      "publishedDateTime": "2021-01-02T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups.md",
-      "title": "Revolutionary NLP Model GPT-3 Poised To Redefine AI And Next Generation Of Startups",
-      "excerpt": "Countless are the use cases that revolutionary AI model GPT-3, which uses deep learning to produce human-like text, can power. But, while it has potential for generative value, it is set to reshape both the dynamics of the AI world and the SaaS startup space because of its very own business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
-      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0cabb6e6d1f574f50817b%2F0x0.jpg%3FcropX1%3D490%26cropX2%3D3911%26cropY1%3D85%26cropY2%3D2257",
-          "width": 1200,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
-      "publishedDateTime": "2021-01-02T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-hitting-the-books-what-do-we-want-our-ai-powered-future-to-look-like.md",
-      "title": "Hitting the Books: What do we want our AI-powered future to look like?",
-      "excerpt": "For example, the artificial intelligence principles of the Organisation for Economic Co-operation and Development emphasize the human ability to challenge AI-based outcomes. We desperately need an “off ” switch for all AI and robotics in my opinion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "originalUrl": "https://www.engadget.com/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe5942d70-3f02-11eb-8fd6-ce9efbf77308&client=amp-blogside-v2&signature=82b6bc891a7dac6218cceaeb208cdb5f9f27afe1",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-the-power-of-ethics-susan-liautaud-simon-and-schuster-163058320.html",
-      "publishedDateTime": "2021-01-02T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian.md",
-      "title": "On Self-Driving Cars That Might Misclassify A Snowman As A Pedestrian",
-      "excerpt": "Considering the ramifications of AI-based classier driving systems and the control of self-driving cars, using a snowman as a memorable example.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee4edb29ec96bd83f34dd8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5120%26cropY1%3D260%26cropY2%3D3141",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/02/on-self-driving-cars-that-might-misclassify-a-snowman-as-a-pedestrian/amp/",
-      "publishedDateTime": "2021-01-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

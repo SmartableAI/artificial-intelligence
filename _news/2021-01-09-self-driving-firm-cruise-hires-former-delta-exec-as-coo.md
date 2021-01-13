@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Get ready for self-driving banks"
+    excerpt: "Popular Science magazine envisioned self-driving cars. The reality arrived sooner than anyone anticipated, and before safety regulators could adapt. Most automotive laws — on speed limits, giving signals,"
+    publishedDateTime: 2021-01-12T12:03:00Z
+    webUrl: "https://www.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
+    ampWebUrl: "https://amp.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc531a247-670f-4893-8765-cd3221341a3a.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "K6VheY3u3wdeyiRCFqMmikRUv7qNpAohljDBVRVUe+MyWtnN21BmzRpzAE6U0PVFqR2Wfu7hX6Qae+jkBHJMD7+XGEa+XAZbmmqbvoQpp6Pz+Pt3vVytqw1ASQdGNr4wfgaAJiOqCMrVUrjZEQ8CPr+gSOuUQRVuQAW2dPKiHxtxP6A7+V3fgD4CLnAnui4feO3R7qixD9wnlthKsi63ojbc9sM9H9On1X6s3tAlqiKBHei6HrPKPNUoBU1TFSTuranRUQ0BzMpl/m1qrSe+b3dvGhMoICufMKPuqjnIDPpupOEA5rqbG+l4+/Hc43u0uwzEWW7stSP9DzIJWJmMKIfs/DfvWwHy4thLuo3tv8U=;3bstobbDsY7wXqzpzg/NcA=="
 ---

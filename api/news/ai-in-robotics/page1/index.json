@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-service-robotics-market-top-trends-accentuating-size-by-2024.md",
+      "title": "Service Robotics Market Top Trends Accentuating, Size by 2024",
+      "excerpt": "The service robotics market is expected to grow at a substantial rate driven by the system's high efficiency, reliability and convenience as compared to conventional labor. Integration of artificial intelligence (AI) and proliferation of IoT is bringing key transformations in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.md",
+      "title": "CES 2021: LG unveils artificial intelligence for \"at-home\" products",
+      "excerpt": "From sanitizing robots to a self-cleaning water dispenser, LG Electronics is redefining what it means to be at home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products",
+      "originalUrl": "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/01/932/470/595-530P-TZ_CES_-LG-HOME-INITIATIVE_00.00.05.15.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp",
+      "cdnAmpWebUrl": "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp",
+      "publishedDateTime": "2021-01-12T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KDFW",
+        "domain": "fox4news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-the-best-robot-vacuums-of-ces-2021.md",
       "title": "The best robot vacuums of CES 2021",
       "excerpt": "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year.",
@@ -131,58 +227,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google.md",
-      "title": "Artificial Intelligence for Edge Devices Booming Segments; Investors Seeking Growth| Baidu, Intel, Google",
-      "excerpt": "Global Artificial Intelligence for Edge Devices Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 This report studies the COVID-19 Outbreak-Global Artificial Intelligence for Edge Devices market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-self-driving-truck-company-kodiak-robotics-hauls-in-honor-at-ces-after-reaching-texas-milestone.md",
       "title": "Self-driving truck company Kodiak Robotics hauls in honor at CES after reaching Texas milestone",
       "excerpt": "The company completed two 800-mile roundtrip commercial shipments in December between Dallas and Houston relying only on Kodiak’s autonomous driving system.",
@@ -235,7 +279,7 @@
       "originalUrl": "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera",
       "featuredContent": null,
       "highlight": null,
-      "heat": 290,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -1303,58 +1347,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human.md",
-      "title": "Watch a Robot Dog Learn How to Deftly Fend Off a Human",
-      "excerpt": "Kick over this robot and it’ll quickly right itself—not because someone told it how, but because it taught itself to overcome the embarrassment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/",
-      "originalUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ff4814762dc9f2effae9942/master/pass/Science_yang7HR.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/amp",
-      "publishedDateTime": "2021-01-05T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

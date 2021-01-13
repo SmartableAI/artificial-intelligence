@@ -49,16 +49,14 @@ related:
       domain: socaltech.com
     quality: 4
   - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-    excerpt: "Integration enables Alteryx customers to gain unparalleled insight into unstructured data sources Veritone, Inc. (NASDAQ:VERI), the creator of the world's first"
-    publishedDateTime: 2021-01-11T12:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19097090/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automat"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19097090"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19097090"
+    excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic rel"
+    publishedDateTime: 2021-01-11T05:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "EqvG9xshbIcsoWsiMi37fWQHOc762rEE7oP0xo7Xo3YB8CxW9RleVTbPka77/wch0AExjTyQySvst/MEJ9GbUUMq2rRAdwf9xyPQlzKZ1+qZP7OpRaPDf0VcBUmusuDAk0dP7gELMTxO9aUEa720vkBT1lczfMQuh2TE0xEVOC+9DYgTGbD1q5bmOwYJ/FIQ3ZCEBC7I5avrFmS4QVyB7rHa4OoGFDa7x2H+ZCqhukNNO+QtAdiy9d2B7Y8kEql7rPeefoeZ1LCfxSc0B76MT1xsKZbA+y0+J9fVrpE5JhqRY9pqcZeyMbrcpVCEewi6hhrTv54G1tkJbgePM5EZMz5zSRAdIapjECqtnCjGcIE=;tJAyy4UO41QQrM9uF+ga+Q=="
 ---

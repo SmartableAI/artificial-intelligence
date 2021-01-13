@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
+      "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
+      "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
+      "originalUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Deep-learning-concept-whitening.jpg?w=1200&strip=all",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "publishedDateTime": "2021-01-12T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how.md",
+      "title": "Intel wants to bring affordable self-driving cars to everyone by 2025 – here's how",
+      "excerpt": "Mobileye – the self-driving car company acquired by Intel for $15 billion in 2017 – has outlined its plans to bring autonomous vehicles (AVs) to the masses through new laser sensor technology intended to lower the cost of producing self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how",
+      "originalUrl": "https://www.techradar.com/au/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yjtnMCiLGrWANVG37M8vMS-1200-80.jpg",
+          "width": 690,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how",
+      "publishedDateTime": "2021-01-12T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-a-startup-will-nix-algorithms-built-on-ill-gotten-facial-data.md",
+      "title": "A Startup Will Nix Algorithms Built on Ill-Gotten Facial Data",
+      "excerpt": "San Francisco face-recognition startup Everalbum won a $2 million contract with the Air Force to provide “AI-driven access control.” Monday, another arm of the US government dealt the company a setback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/",
+      "originalUrl": "https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/amp",
+      "publishedDateTime": "2021-01-12T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-ibm-leads-in-quantum-computing-ford-in-driverless-car-patents.md",
       "title": "IBM Leads in Quantum Computing, Ford in Driverless Car Patents",
       "excerpt": "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of U.S. patents issued over the past five years.",
@@ -313,7 +469,7 @@
       "originalUrl": "https://www.asiaone.com/business/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-ces-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -344,58 +500,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google.md",
-      "title": "Artificial Intelligence for Edge Devices Booming Segments; Investors Seeking Growth| Baidu, Intel, Google",
-      "excerpt": "Global Artificial Intelligence for Edge Devices Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 This report studies the COVID-19 Outbreak-Global Artificial Intelligence for Edge Devices market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -892,6 +996,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-why-ethics-should-guide-artificial-intelligence-use.md",
+      "title": "Why ethics should guide artificial intelligence use",
+      "excerpt": "Artificial Intelligence (AI) refers to the theory and development of computer systems able to perform tasks that normally require human intelligence. AI makes it possible for machines to learn from experience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "originalUrl": "https://www.standardmedia.co.ke/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/monday/why_ethics_should_gu5ffc6b52c6f4f.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "publishedDateTime": "2021-01-11T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-pegasystems-acquires-quriousio-to-apply-speech-analytics-to-customer-service.md",
       "title": "Pegasystems acquires Qurious.io to apply speech analytics to customer service",
       "excerpt": "Pegasystems has acquired Qurious.io to bring speech analytics to customer service interactions augmented by AI",
@@ -952,7 +1100,7 @@
       "originalUrl": "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera",
       "featuredContent": null,
       "highlight": null,
-      "heat": 290,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -1097,160 +1245,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are.md",
-      "title": "Scientists use supercomputers and AI to determine how good (or deadly) your street drugs are",
-      "excerpt": "A team of researchers from the University of Victoria have developed an AI system capable of determining the expected chemical makeup of drugs. While it involves supercomputers and a robust cocktail of cloud-based machine learning technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/drugs-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/amp/",
-      "publishedDateTime": "2021-01-11T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-how-ai-will-guide-corporations-part-1-by-redefining-roles.md",
-      "title": "How AI Will Guide Corporations, Part 1: By Redefining Roles",
-      "excerpt": "For the first article in my three-part series, I’ll walk you through how, guided by AI, executive roles within companies will change in the 2020s. Companies have long assigned new responsibilities to some executive roles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5643b70f34f885c49aa56%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/amp/",
-      "publishedDateTime": "2021-01-11T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021.md",
-      "title": "Argus Research Analysts Highlight 5 Of Their Top Stock Picks For 2021",
-      "excerpt": "Several leading experts from Argus reveal their favorite investment ideas for the year ahead — included as part of our annual MoneyShow 2021 Top Picks report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
-      "originalUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc9778d3d641fe5ab07647%2F0x0.jpg",
-          "width": 1200,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
-      "publishedDateTime": "2021-01-11T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

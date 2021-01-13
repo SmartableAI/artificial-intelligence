@@ -25,59 +25,121 @@ images:
     isCached: true
 
 related:
-  - title: "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021"
-    excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution 4.5 at CES 2021, from Jan. 11"
-    publishedDateTime: 2021-01-12T06:12:00Z
-    webUrl: "https://www.asiaone.com/business/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-ces-2021"
-    ampWebUrl: "https://www.asiaone.com/business/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-ces-2021?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-ces-2021?amp"
+  - title: "CES 2021: LG unveils artificial intelligence for \"at-home\" products"
+    excerpt: "From sanitizing robots to a self-cleaning water dispenser, LG Electronics is redefining what it means to be at home."
+    publishedDateTime: 2021-01-12T23:15:00Z
+    webUrl: "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products"
+    ampWebUrl: "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: KDFW
+      domain: fox4news.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/01/932/470/595-530P-TZ_CES_-LG-HOME-INITIATIVE_00.00.05.15.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "CES 2021: AR Glasses, AI Chips and Automated Astronomy"
+    excerpt: "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation."
+    publishedDateTime: 2021-01-12T21:09:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/ces-2021"
+    type: article
+    provider:
+      name: ARM architecture
+      domain: arm.com
     quality: 54
     images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2021/pr-newswire_500_4_474.jpg?itok=GukxyMoJ"
-        width: 763
-        height: 509
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2021/01/lenovo_thinkreality.jpg"
+        width: 1940
+        height: 980
         isCached: true
-  - title: "GenkiTek Showcases AI Camera Solutions at CES 2021"
-    excerpt: "GenkiTek was one of the 100 companies given the opportunity to showcase its wares in the Taiwan Tech Arena at this week’s CES 2021 event"
-    publishedDateTime: 2021-01-12T22:27:00Z
-    webUrl: "https://mobileidworld.com/genkitek-showcases-ai-camera-solutions-ces-2021-011208/"
+  - title: "CES 2021: A virtual, AI-powered human handled presenting duties for LG’s tech showcase"
+    excerpt: "The Consumer Electronics Showcase (aka CES) is here once again, and as always, it’s bringing out the tech companies’ most personable presenters: people whose job is to get us all excited about the ways technology are about to improve our lives (like having a personal robot waiter roll up and pour your wine)."
+    publishedDateTime: 2021-01-12T01:36:00Z
+    webUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter"
+    ampWebUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
+      name: Syfy
+      domain: syfy.com
+    quality: 51
+    images:
+      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/lg-virtual-human.jpg?offset-x=47&offset-y=0"
+        width: 1200
+        height: 680
+        isCached: true
+  - title: "CES 2021: 5 show-stopping smart home tech innovations"
+    excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
+    publishedDateTime: 2021-01-11T19:57:00Z
+    webUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/"
+    ampWebUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 44
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2021/01/ces.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
+    excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
+    publishedDateTime: 2021-01-12T14:30:00Z
+    webUrl: "https://www.albawaba.com/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 43
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/bosch_softwareentwicklung_4.jpg?itok=-_RdG45m"
+        width: 960
+        height: 539
+        isCached: true
+  - title: "AI clothing for improved sports performance unveiled at CES 2021"
+    excerpt: "A startup which plans to revolutionise the way we build muscle and improve strength will showcase innovative AI clothing at CES 2021"
+    publishedDateTime: 2021-01-08T11:46:00Z
+    webUrl: "https://www.techdigest.tv/2021/01/ai-clothing-for-improved-sports-performance-unveiled-at-ces-2021.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
     quality: 37
     images:
-      - url: "https://mobileidworld.com/wp-content/uploads/Computer-Vision-Icon.jpg"
-        width: 712
-        height: 684
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2021/01/impulse-product-shot-just-phones.png?fit=552%2C545&#038;ssl=1"
+        width: 552
+        height: 545
         isCached: true
-  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
-    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-robotics-36120032652d479b8e56c1d5e0f280f5"
+  - title: "CES 2021: Now AI can detect Alzheimer’s"
+    excerpt: "A biotech startup claims that AI brain mapping with an electroencephalogram (EEG) can now detect pre-clinical Alzheimer’s dementia. At CES 2021, iMediSync has launched an EEG digital biomarker for early detection of Alzheimer’s dementia on their AI cloud platform,"
+    publishedDateTime: 2021-01-11T08:30:00Z
+    webUrl: "https://gadget.co.za/ces21-ai-can-detect-alzheimers/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/01/iMediSync-Image-1.png?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
-    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
-    publishedDateTime: 2021-01-11T08:43:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210111005733/grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021"
+  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
+    excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
+    publishedDateTime: 2021-01-11T06:52:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8123660/ces-2021-bosch-puts-its-faith-in-ai-and-connectivity-for-the-protection-of-people-and-the-environment"
     type: article
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 0
+    quality: 2
 
 secured: "PSrvewWaQMaVRjbnjGEogqTdWCcTCx3fiZxM2NB7GbssFh9fZsX30rvKs8BJFsLe2ok/7iZgDmcXXEfODJsRLRgztaQlIY8FyYPTJIDv90MfoJC0/21EpRl2rCW8bKhaze3+oNVTtsmXt3+TEVB1k6hGrip8sg0dPrkf4KZh2B+9UBHDSGowqTgSIpPxQif9hyg2Pff4GNDFUb3Uojx9A5TBb00kW9tkz4t5NDk8NhwAyxmbS12KrUzGH9paEwqiqwr2f9OUL1YYWD/OJa/cKaY6QmFQ4pn7LsjTXPYsWurcgYdKtFbCcHBDOjLx7Mp7aUmzWVyzvcD5ECjkuWJ2RVW311ifYWUzEngI6qlGnSc=;BkXKyhLCWzDoSBgolff4Qw=="
 ---

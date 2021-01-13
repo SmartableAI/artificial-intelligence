@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-excerpt: "Integration enables Alteryx customers to gain unparalleled insight into unstructured data sources Veritone, Inc. (NASDAQ:VERI), the creator of the world's first"
-publishedDateTime: 2021-01-11T12:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19097090/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automat"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/b19097090/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automat"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19097090"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19097090"
+excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic rel"
+publishedDateTime: 2021-01-11T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities"
+webUrl: "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities"
 type: article
-quality: 2
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
@@ -59,6 +57,6 @@ related:
         height: 450
         isCached: true
 
-secured: "9WdS8xcQ8Jm/M8qKE+HsOHKhk8yAIFnvWnQQOmxYVkNas20k/9rUqLPqycYdPg1zx9++S17v38i4Ws36jZhGVUnMCnnVj5THt+7i51J9pnM5iJu1wRPZygcPH5P64BLqs7DI0TOnXpEtPvnoqGFWlKzKxb88wTRBQAi7NRlYtfSVY5ERqcB6zhDInajl1ozhHne8shen+UQkMHbQ1QJMAIT3DbBzzc0hJ0tsFcPg1C+wxTbRcsuUBeQ4iFWokrP0ahL/MSbKztQvL4hEOGsd/M7xniaTXI5xX0ycEyeyKF/Xlns3Orqgalk7rsBKCwrCWzA48wjZH+0VdAShTZ1JHcuCP171H+fnCmoihP0SVQwdxfuaheQoHMqejsxdjoLpPTdek818fjU5qZ0zbWN+HgOKEGF5afolYBanSoJGMdhzJjJQcry6dV/A2GFZNxz6kIUAS8MhXa/WjW57ymat3UlDhzDNHmb7ueQPJ/1qH4nQqGvE9bnjs3PWIDQxgwdw60qdsBgD1UkUtorYmxDrRA==;HqUz/xKtrVUtB9Nzdrr+Ew=="
+secured: "FFm3CK8b5sxZUxm8zsADrKisvo3tpkC4qWU3l0LT6nk87oAmMq201Zu6+RCLdKzz5XJvyBU0GSi/ob4G2tz1pnHgu7tOnjEQRUdakYNvJsvkP0BL+NOlfd7ojEJDfRvlnWXZkud67GjdQYOWv3bBjDjwTvH0hHdU3iK6m779H4n1uKBWHnmvqZjj4erlDySdUk8vyvWgFK9ytqpxnTMOPDEEcoGciAFBoCiszhvoT9urhFgpQcmli098I+0pICa+kjLGmpGbvZJcyxw3Qa8xQSpOqvWGizDyyGNvF+Y/xi4tVEoeBCxbX8RK7X6yvS29jQPOWHb7uZ5/51Hr87YmUBqLGvJwvbG6JkPFe1NoZZF/OGv+WazNcs3W/9imEpuKp4kn2qtvfdMN7h5L0ODWU1vvXlQArsfNiDhDNwpIgt0M80jHibgENu8OmV2a47lkGedDsdhzyYygfZ/YhV79y/BN/UUwHzPTeuyLdDhOeeIXxjCmj0fPdErvBDxAFcOavKx+QQ2t0ayoniHflBJj8Q==;ghIRoWmUNPdlj5h/Z/uKNQ=="
 ---
 

@@ -1,26 +1,27 @@
 ---
 category: news
 title: "DonorSearch Expands Partnership with Gobel Group and Appoints Award Winning Team to Launch a New Division Focused on Artificial Intelligence"
-excerpt: "DonorSearch, the leading provider in prospect research solutions, today announced that it is expanding its current partnership with Gobel"
-publishedDateTime: 2021-01-12T22:37:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/donorsearch-expands-partnership-with-gobel-group-and-appoints-award-winning-team-to-launch-a-new-division-focused-on-artificial-intelligence-301206982.html"
-webUrl: "https://www.prnewswire.com/news-releases/donorsearch-expands-partnership-with-gobel-group-and-appoints-award-winning-team-to-launch-a-new-division-focused-on-artificial-intelligence-301206982.html"
+excerpt: "DonorSearch, the leading provider in prospect research solutions, today announced that it is expanding its current partnership with Gobel Group and its technology company, Futurus Group, to form a joint venture to accelerate the development of new products and services."
+publishedDateTime: 2021-01-12T23:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-products-and-services-bff2d39544a78c46df77a169c3a0f582"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-products-and-services-bff2d39544a78c46df77a169c3a0f582"
 type: article
-quality: 2
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -66,6 +67,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ifq2eNye/woSrEfVsd5s4MN6kZX94tbdzPPWKteyjcfpiNj5CYvn+dg5gmQBi+XF08dO7fQowuWnQyE2zO4+hsr+WUiEbiEK1tf5glu0TamLwxcIpVIX9i1Hu1AluQhoW6F0usfwA/0I67DqCOdmMXB3msoLVK7ZmcIHaiA9hwrkXNMIqNckvWl/NeAfu/ZItIhtJsaGbpHLSBoUXgDJiXrCgFmmueQh+meZSsSM8bsYKu/yDJu7FvIAwqq21u+PqGLmGyiOfsBiv904IGmYuHUcdWqmQR8+6v55DJQ8lyNFpHzsbuNfrK6FwR+4CSNMZQjPPVvMz199qc9Eoa1g/uhk7XH3nn8Wwdkc1rceQhw=;TkMeX74qm1+WYYDzP7dXJg=="
+secured: "db6y3F9neLm9E7aHwtYgNXE5hgxlD12eEOYVzciTVb/la85V6vo8g5B6SyDGSBBxysrCkxHE1ylmoScZUB78di9lPlIsAkZf3UNI2acIHUlEytd44foJD+/3tmtSNOPAo/vUMiuR7HNlka/afRZVUvG03W+Jhx5UhrPeBfNOkGVEdFQcQ3Vm/EswJ5KZsbU9R1wee3NBcAyISLyf+yA3nRKyVAoUsbn39OdLVF51XvtH1VHoM78khuTxG9bAgo0xZNZx0BjgfXMZ7Xi4a7HE8/sXJeUXM27kg9hgJWE4w+HSHKRxHp3oDItoRSyHUymMjYmrnvY47TAkkaUSJYKPE8CRwMJnw1MVsA4IKcAWpRg=;o5Itr5rgF54Mexn4y7ZI7A=="
 ---
 

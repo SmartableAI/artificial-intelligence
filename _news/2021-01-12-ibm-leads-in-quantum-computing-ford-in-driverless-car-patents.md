@@ -63,18 +63,18 @@ related:
         height: 630
         isCached: true
   - title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) scientists and researchers received 9,130 U.S. patents in 2020, the most of any company, marking 28 consecutive years of IBM patent leadership. IBM led the industry in the number of artificial intelligence (AI),"
-    publishedDateTime: 2021-01-12T11:49:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-technology-issues-b127aea7d4972afeb751e654949d3968"
+    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) scientists and researchers received 9,130 U.S. patents in 2020, the most of any company, marking 28 consecutive years of"
+    publishedDateTime: 2021-01-12T11:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-301205792.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
 
 secured: "J1c/NU+Sqe5PqDu67gEaVcxjxXZ03QFCqVBGPVWZTa4hMk5PcH/TpgAlIB/nKxkX47Kpgh2zPKIvY4lRPRJCUDDaoTOq6WF/LfqP5uqvf8KGvuhjRQMn4jb1ZHlm1UpP1q6k2eWfPNz8rochbvcwni0AtIr7UhF2d1REuyxpDDm+eyKgz60TyEtn31WM/hDffKhnn1oH2TiJWNUjcGCYFkmRAOy0VXu7h9SP9Huy4oSs3fzaj3nmUSqLVUrv0aaUhsoombZedpS13mhNHr1ZbN5buXzmVKeTCWg4rlb9I6yY2DXgw1rISBQws5bDLeAN+M2CPTcYqDjiJe4/GlR9mNnaKjhgvZ2Bd89kBAA0C/I=;XnuQKe1Kur0bSv36COegqA=="
