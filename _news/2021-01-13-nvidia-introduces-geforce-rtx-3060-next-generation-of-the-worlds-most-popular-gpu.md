@@ -1,27 +1,27 @@
 ---
 category: news
 title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
-excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
-publishedDateTime: 2021-01-12T17:47:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
+excerpt: "NVIDIA Introduces GeForce RTX 3060, next generation of the world’s most popular GPU. Powered by NVIDIA Ampere architecture, delivers up to 10x the ray-tracing performance of GTX 1060; Starting at INR 29,"
+publishedDateTime: 2021-01-13T13:25:00Z
+originalUrl: "https://www.businesswireindia.com/nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu-71104.html"
+webUrl: "https://www.businesswireindia.com/nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu-71104.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
+  - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/nvidiageforce_71104.png"
     width: 700
-    height: 450
+    height: 393
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 563
         isCached: true
 
-secured: "uBqwJnkhdaOGUEo5cc3tCEUtjQ01Ix7q7bomPtVxpD0ux1TlRhvYpvJf0WuKJ62bE/7XrOg9thdXlA2P4YAVugcL7pAw/G1WaBjPeY6UnnlRz2sjp+3YXCb0sB0DvXEWQvIP/6bsbm6ikFTr9mqXsEkTfmiQs5zvKF6X1ZBDfN1/RHEJqIN2RlazAKOycc8J1LvwEhVpv45i89Bc/RH7JLzCvb7uVUTqwB8oCMfJgG8j6k6LyI1gqw1/h3lLbFtfQgKzrsdWWh4VE5j9IRBOQKx4S8q3e8I6FLTs40OlqSWSvwceUnDHBMKb/gpim6Ox2oLtnmk1rimEDIq2So69X2HBE5KOfdkr7qY3aBk4J/Y=;fNvQ3kzd5LbZgZytnLiosw=="
+secured: "RzRyEZ4wFWiwqQWrt99JyeAk64vNHEQzubfoHg5rOz2BLHCYzBdWnFn7qFPwBjWh2A+S4H1Apenef8/nCALWJaMi7u5AIoEWCV7tVVADSEE91DfVS52d9laLmkbmcP8m0P9MVK/kFZuHgpKvZ4s7dd2AuklUIH9dcLKhuzj6+YmOYCV+PgQR7proXpfrlgJSMrr13ZZS9pzl3IaMWEBQJPPOG8LF3HONBjsFBvdrb6iX6ZulkPg++rArBK4BgNal2V69ZB0NZJ0NoyGPXyGRio/K8HSdbmj5ji7eeTECTRmQkDZDDDLCffiL+wxYj+/41C5uJ+ytTSkoGew9C/PDeGDvVOQB6YMqK5jVUUJQKuo=;/WAihJSHn4G3ZujHtDHIWA=="
 ---
 

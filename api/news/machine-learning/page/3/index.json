@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-21-bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning.md",
+      "title": "Bolt raises $75 million to fight ecommerce fraud with machine learning",
+      "excerpt": "Its machine learning algorithms analyze over 200 variables on each transaction, and a dedicated team reviews every declined transaction. Customers flagged as potentially malicious are afforded the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/https___specials-images.forbesimg.com_imageserve_5f103274ae07b50006534ccd_0x0.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/amp/",
+      "publishedDateTime": "2020-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom.md",
       "title": "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom",
       "excerpt": "San Francisco, Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum.",
@@ -1378,58 +1430,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025.md",
-      "title": "At 22.6 % of CAGR Deep Learning Market Share will increase and aimed to cross 6215.1 Million USD in 2025",
-      "excerpt": "Selbyville, Delaware. The report Deep Learning Market Analysis and forecast 2025 maintains enhanced dynamics and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T22:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

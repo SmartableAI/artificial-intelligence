@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Apple allegedly held talks with EV startup Canoo about developing its own car"
-    excerpt: "Rumors about Apple Car have become more frequent in recent weeks, and it seems there’s more to come. The Verge reported today that Apple had talks last year with Canoo, a startup focused on electric vehicles and related technologies,"
-    publishedDateTime: 2021-01-12T23:54:00Z
-    webUrl: "https://9to5mac.com/2021/01/12/apple-allegedly-held-talks-with-ev-startup-canoo-about-developing-its-own-car/"
-    ampWebUrl: "https://9to5mac.com/2021/01/12/apple-allegedly-held-talks-with-ev-startup-canoo-about-developing-its-own-car/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/01/12/apple-allegedly-held-talks-with-ev-startup-canoo-about-developing-its-own-car/amp/"
+  - title: "Apple reportedly weighed buying arguably the most fascinating EV startup"
+    excerpt: "Apple reportedly weighed acquiring or investing in electric vehicle startup Canoo, potentially tapping its innovative drive-by-wire platform as it works on its own autonomous EVs. While"
+    publishedDateTime: 2021-01-13T15:55:00Z
+    webUrl: "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/"
+    ampWebUrl: "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
+      name: SlashGear
+      domain: slashgear.com
+    quality: 71
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/canoo_Design_Exterior_07.jpg"
+        width: 1280
+        height: 721
+        isCached: true
+  - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
+    excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
+    publishedDateTime: 2021-01-11T08:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130863_hyundai-and-apple-to-reportedly-build-self-driving-ev-in-us-from-2024"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 39
     images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/Apple-interest-is-in-the-in-car-experience.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://images.hgmsites.net/hug/apple-store_100528844_h.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "N3XF5tci/++QBW3SYj3s9dbC++2L+M4TCiQLnul6v7SOVBctMJwQkIubxhzfkgAPSx4d3+gIxJKnhrBXsOzUrvyKDeHzRar/wgNt+bE1vsIuLrGm2ikXvKEWLsEO8QWjn2ESRc5t1ippcxl1PuiibBDctDkCCjALYYtC9PkgU0uwUk9WeRkmSGqJPh3TYM1z7cB7cSJ3Zwu1viFMb6diuPc/mBd621CEUnCX5V/CVzYDXI1agtb1OSWcjLaik6FLSgs14cjE8Ian4l1kDNHY4g0qawEswwwm9qvdqk71qg4aAmpWV+N6mCnOXPzrPUPfEMLlNoFbOgDkntLYSbm/bFGYLEWtXunaT0Kx37N6CJk=;LrbhJpwkkdWZDfNdYBIqMg=="

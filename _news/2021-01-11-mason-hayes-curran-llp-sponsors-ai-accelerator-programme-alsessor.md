@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-11T00:00:00Z
 originalUrl: "https://www.mhc.ie/latest/news/mason-hayes-curran-llp-sponsors-ai-accelerator-programme-alsessor"
 webUrl: "https://www.mhc.ie/latest/news/mason-hayes-curran-llp-sponsors-ai-accelerator-programme-alsessor"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.mhc.ie/uploads/Alsessor_AI_Accelerator_(2).jpg"
+    width: 2908
+    height: 1500
+    isCached: true
 
 related:
   - title: "Success for Fast-Track Data and AI Graduate Programme"
@@ -34,6 +40,6 @@ related:
         height: 778
         isCached: true
 
-secured: "lhBOdixOYVr0BsmXZtquJ3K0Zg5+cDTaI12pF0umjTmgYSVXvbNbQ0yXjHwaHm9TIy8enyNEZ+RwHmcDEy7oronM71ghl6M2atYxDUh/UvaqnNG4GqN2lQIqMlWoppgzYl0KuxHjV0ZIaX7F/PJcONtWBIUvs26RbS0lnkXv7WDXWFVrQ+62ff06uz6JjuiuVuC0yBD5yOJu5eISsU4191e/KhblCIQg20ocUpyZGLsLBo1ktJo6Wbri24sZFmjBH91m2xYmcLpPoHaNyMmVJCSom/Si1IlZjGSDFh+AsWsGZLbSKrYiTyiq84xb0FR2oMMlTws4ZgypGMlviCJmJqTADbK84FMkSC+OJT/rqqc=;BTjhR/Ikd4eozICFSkRvkQ=="
+secured: "jdQdtl4JbEbpKwD75bwe8+WHlItpGU9kKgKiYRgNxiOmSYSdq3KywVlEAnYoWd74l546ISPixyz8N8+ZBOU1XFGq3taODx+kGzn95D8D1HlcsvXz7sFQmF969RvcraL3CPUl8KwEmo8571drybOXU//0CRv4DUGMMc5DDVCI18NWaWlHdwgo4WO5lHN/Pbvz8BCSSH2BZQWLkOocZEk+Im0SHzTQcDbo1vfCL5YY9PEcWmuwTgxVm/tyAaZfa/s586XzeIlcyBl0MGeuNW8EP1v5n/9NRNP0Rz9wC3WyhC2X5mM1vkIFAbclDB3fgt5+z6Tk0ePTNFO9viMSmsNEypjhsFJFF8c9z7ABragoDao=;goTD27QPfDabTjMy+dGayg=="
 ---
 

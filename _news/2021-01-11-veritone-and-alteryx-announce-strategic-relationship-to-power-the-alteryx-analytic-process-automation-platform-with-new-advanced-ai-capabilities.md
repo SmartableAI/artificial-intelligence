@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
-publishedDateTime: 2021-01-11T12:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
-webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
+excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic rel"
+publishedDateTime: 2021-01-11T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities"
+webUrl: "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities"
 type: article
-quality: 12
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
@@ -22,7 +22,7 @@ related:
   - title: "Veritone and Alteryx form partnership to deliver AI-powered insights from unstructured video and audio-based data"
     excerpt: "The partnership aims to deliver AI-powered insights into unstructured data sources, including video, images, audio and text, to Alteryx customers. Veritone joins Alteryx’s Partner Alliances program, integrating aiWARE with the Alteryx platform to help Alteryx customers transform unstructured data into actionable intelligence and valuable insights Veritone’s AI tools for ingesting data,"
     publishedDateTime: 2021-01-12T18:57:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Veritone-and-Alteryx-form-partnership-to-deliver-AI-powered-insights-from-unstructured-video-and-audio-based-data-144699.aspx"
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144699"
     type: article
     provider:
       name: KMWorld Magazine
@@ -57,6 +57,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Anzme14KNzvRFBwGyagKiG+HTCTUVa8Q+A/Z+dfKwl5nZNAWLYcqCg7rs1zOQShHhbumd1ziRSj/l0nWgIyrVoqwKKI5MRrXT2M8pclGANOp36cWGHnhWGwPU8CszgK/lU24RwgFUekrHR6EzFGEJWnQMJfRc11iEGZCotBSbLB21HuhEC36b5QuvwCQOD5rIcLVRnd2E21qHJcPiV+w/cxfg/QtxdcVru2S9V7203z0yiD5ESfR/rqnQhjqO5CPy073yol9JzdpIEzoVS11mRnoe0eD0TWhfLrV//e0YflwnvPUnLF8O8Lt2l7sTYaapctVashrkhbhAaslWHbDFMiVDAn34xoKS2VdQJI/BQE=;EQdfm16z9Tz1FjdL3SfGhg=="
+secured: "D4ILoqqhSNNi82mkCuqvaq8lLx+E6c1Qsr5pCocU/1nQeMtzChsVgfvQK+MjSXMV60z2NNkpFRZZVqtLOJLvX+UW67g3M5kfAjz8QulJ6ldPRmYsT4LML1DGX3LGlhoEUwCbMXeyYIC0bwLKDJkDFv5gEHOyTCzeUL1qeCn42JuVT2VnSR3AZs3yrc01ADfnh9bt4QBqhF8OhswDjR40kkK2jEnMSV49jOrrkQEPEp7fLZOeMApH3znGdmuw275hIl+mkXE7wHTxaMXHWsZgNQ0EL0zMnug7UBxrIzebWmNOLfP2MQuwgEqMhIqU56fA4x38mlGbXt3NP5um1s0d1svwU1wRwYx3a303siJ1+unv0zzV39bh7MU3mYkmS69iKiC6iYPA46ctA+BxaFvnyec1lmb+o6jLC5uQl3u9k/kyCrl10PdY6hkJkayAgYr0GXPMzYHsNncBKO6eVQhrv+2lYZZ4X1LEFeUUoJlsefWn+CJmFX+R5mo9862HTl4W2YRMiHHRsHuh2GkStvFVPw==;XCh4aqOEjS/5Pe5y31vPZA=="
 ---
 

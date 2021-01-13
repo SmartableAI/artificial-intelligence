@@ -43,20 +43,6 @@ related:
         width: 640
         height: 479
         isCached: true
-  - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
-    excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
-    publishedDateTime: 2021-01-11T08:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130863_hyundai-and-apple-to-reportedly-build-self-driving-ev-in-us-from-2024"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/apple-store_100528844_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "d1NMG+MDhV+B5SRpXc2gIQ55tJQ9WMIy67M29TgFvD+ZofdTWfwSO1GyRneZSOe4wE2JYHdvG9jgjOoXnXrTY5o2w410shM7TkGHVyKYAzcA5FkEFJi1ifplEFK/Z/FYoqQKUU7Ms9ncbouwHOx6NPVV35taC+3SMOuIYI9k+x3P5pdm1WZo2CXITH08BWOHprEmH3nlj7jmiB7R0Ss+cd671Cb/xli02nH/pi9aGUAxpz62fBahcKrqEWA8yuaqVS7iZjb7j1y8pLgHNMaETgnzkvVu/SRDz6RaMumtXiAYLMwrBpz7KTFD7dOHPU1efW6k8tORAwcnGyG9/wqtfglHOQZzBOImCxM0crTAfm8=;v/DvLX+PRZKs8JBNZykEFA=="
 ---

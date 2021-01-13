@@ -2,6 +2,102 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-29-release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use.md",
+      "title": "Release of Deep Learning Framework \"SmallTrain 0.2.0\" For Professional/Commercial Use",
+      "excerpt": "KYOTO, Japan, Dec. 28, 2020 /PRNewswire/ -- Geek Guild Co., Ltd. announced the Open-Source Software (OSS) project, \"SmallTrain,\" which generates user-friendly deep learning models for high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use-301198669.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use-301198669.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-nuro-robot-delivery-cars-will-start-operations-in-california-in-2021.md",
+      "title": "Nuro robot delivery cars will start operations in California in 2021",
+      "excerpt": "Robotic startup firm, Nuro has gotten official approval to start its paid delivery service with autonomous vehicles. This much was revealed by the California Department of Motor Vehicles (DMV). Steve Gordon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
+      "originalUrl": "https://www.gizmochina.com/2020/12/28/nuro-robot-delivery-cars-will-start-operations-in-california-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/12/nuro-2.png",
+          "width": 795,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-researchers-find-evidence-of-bias-in-art-generating-ai-systems.md",
       "title": "Researchers find evidence of bias in art-generating AI systems",
       "excerpt": "AI tools, apps, and platforms that generate artwork exhibit social and cultural bias, according to a new study.",
@@ -588,6 +684,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-28-how-to-enable-google-assistant-in-androids-chrome-browser.md",
+      "title": "How to Enable Google Assistant in Android's Chrome Browser",
+      "excerpt": "The move saves Chrome users from the lackluster voice recognition you were forced to deal with previously. Google Assistant is more convenient, and it integrates your in-app Chrome searches into ...",
+      "sourceUrl": null,
+      "webUrl": "https://lifehacker.com/how-to-enable-google-assistant-in-androids-chrome-brows-1845942274",
+      "originalUrl": "https://lifehacker.com/how-to-enable-google-assistant-in-androids-chrome-brows-1845942274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/jubzwdgwtdr9agwxuxz4.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://lifehacker.com/how-to-enable-google-assistant-in-androids-chrome-brows-1845942274/amp",
+      "cdnAmpWebUrl": "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/how-to-enable-google-assistant-in-androids-chrome-brows-1845942274/amp",
+      "publishedDateTime": "2020-12-28T00:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lifehacker",
+        "domain": "lifehacker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-neurals-ai-predictions-for-2021.md",
       "title": "Neural’s AI predictions for 2021",
       "excerpt": "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables.",
@@ -1059,162 +1198,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-vacation-home-boon-expected-due-to-self-driving-cars.md",
-      "title": "Vacation Home Boon Expected Due To Self-Driving Cars",
-      "excerpt": "The advent of self-driving cars will make it easier for traveling to your vacation home and thus spur more vacation home purchases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98412a34c08f100c98f5c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4893%26cropY1%3D248%26cropY2%3D3000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/",
-      "publishedDateTime": "2020-12-27T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-how-machines-are-changing-the-way-companies-talk.md",
-      "title": "How machines are changing the way companies talk",
-      "excerpt": "Businesses are changing the words they use in order to appeal to AI analysts and traders who assess SEC regulatory filings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/",
-      "originalUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/amp/",
-      "publishedDateTime": "2020-12-27T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-120-million-payouts-massive-egos-and-prison-time-the-inside-story-of-google-and-ubers-war-to-own-self-driving-cars.md",
-      "title": "$120 million payouts, massive egos, and prison time: The inside story of Google and Uber's war to own self-driving-cars",
-      "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 On January 7, 2016, Anthony Levandowski emailed Larry Page to wish him a happy new year and to gripe, once again, about the state of the search giant's self-driving-car research project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
-      "originalUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe3abefedf8920018093966?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp",
-      "publishedDateTime": "2020-12-27T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

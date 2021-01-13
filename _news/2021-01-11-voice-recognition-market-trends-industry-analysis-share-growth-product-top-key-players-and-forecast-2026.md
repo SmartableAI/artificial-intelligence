@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Self-driving Shuttle Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
+    excerpt: "Jan (CDN Newswire via Comtex) -- Global Self-driving Shuttle Market 2020 by Manufacturers, Regions, Type and Application, Forecast to"
+    publishedDateTime: 2021-01-13T16:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2020-to-2025---top-manufacturers-business-strategy-and-forecast-report-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Drone Data Services Market 2021 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2025"
     excerpt: "The evolution of data analytics throughout major industry verticals is one of the significant factors positively"
     publishedDateTime: 2021-01-11T22:23:00Z

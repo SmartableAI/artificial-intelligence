@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Self-driving Shuttle Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
+    excerpt: "Jan (CDN Newswire via Comtex) -- Global Self-driving Shuttle Market 2020 by Manufacturers, Regions, Type and Application, Forecast to"
+    publishedDateTime: 2021-01-13T16:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2020-to-2025---top-manufacturers-business-strategy-and-forecast-report-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
     excerpt: "Selbyville, Delaware Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
     publishedDateTime: 2021-01-11T08:51:00Z

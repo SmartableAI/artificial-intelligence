@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Japanese Hardware Startup \"Vanguard Industries, Inc\" Honored With \"Best of Innovation Awards\" From CES 2021"
-excerpt: "PRNewswire/ -- Tokyo based Vanguard Industries, Inc. (CEO Masahiko Yamanaka) announced that it has been honored with the \"Best of Innovation Awards\" from"
-publishedDateTime: 2021-01-12T09:55:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/japanese-hardware-startup-vanguard-industries-inc-honored-with-best-of-innovation-awards-from-ces-2021-301206082.html"
-webUrl: "https://www.prnewswire.com/news-releases/japanese-hardware-startup-vanguard-industries-inc-honored-with-best-of-innovation-awards-from-ces-2021-301206082.html"
+title: "Japanese Hardware Startup “Vanguard Industries, Inc” Honored With “Best of Innovation Awards” From CES 2021"
+excerpt: "PRNewswire/ -- Tokyo based Vanguard Industries, Inc. (CEO Masahiko Yamanaka) announced that it has been honored with the “Best of Innovation Awards” from CES 2021 for its AI Pet Robot “MOFLIN” that it is continuing to develop and manufacture."
+publishedDateTime: 2021-01-12T10:38:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-tokyo-ef38884b153e292c17114179194d634e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-tokyo-ef38884b153e292c17114179194d634e"
 type: article
 quality: 6
 heat: 6
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "0jDMC71qqoY9hQhzi1sIsSeR3rXQ2T3MbiK+TUnUY58eB7GKhlSLOsFX7dUKnciFW/99UExyjghq90erM8wdwWTcJFuAzVwd2+kZAlCcrZeui6vmznZPorG8pIXPsWa4EOk0jK5bWTxAPhPNThkZ/19eg0ZTaR+j9bEHhIpxdSJemLzyI1wMl9EkbQJie9LEpSVLzXbcUgoat2vieuSYR5Gi9HnZuAwKGsl180SjftTy1MaKO22lhycQuGw4nGb0WkIU54PZ+Kx/S2S+dpEylk5sV+ij1QlOPU/F2hBOGCWMWbtBSrkIZ+ovicm7rHCYqCev7TojjMrt1QiFVtixqqxjJdydGE8lfZBiYa1AH+Q=;FziWYcfLouuikdUJcGe2Rw=="
+secured: "RuDAYVT9ske4LUqDo1onK2004OelaqCMIt1IEVi2FC6zLDaOwDN8jOvvExmX2RyKyaxNZfZmYwKpwK+XQEVs3Z1XBg8XUWJB65G5zvr+yzETpgPvCdXCBZUKZS6+gsKvxpCb96w5FTSDcgMttFJ5xyCHeZzNFDViPwc/y+vmcAt9i8Sdk2IQLBPKW85zDMB9gbNydCvnnD37KNsZxkwWuHNGLdesFd4oV/jLvf2dDAnU9QI5WlsvE9NH8iiGIkXwRIm3bVCRoqgpF48HMryvWo6FdRgixI6mIO/skXMX+hbE5v1F0oQKAoLcsV7YepRk2/VsGJcdXRPpLRhjM7ctVgs3gVWrKrlukCHjqHYSPA8=;aEla03QPAXM4ro7p1Rv6Qg=="
 ---
 

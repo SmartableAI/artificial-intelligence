@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/robotaxis-self-driving-cars-are
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Why 2021 Will Be the Year Self-Driving Cars Go Mainstream"
-    excerpt: "I’m going to reveal three ways to profit off the self-driving car megatrend, which is gaining momentum. The technology behind this trend has been ready for years. But I believe this is the year it’s about to finally be unleashed."
-    publishedDateTime: 2021-01-09T01:00:00Z
-    webUrl: "https://www.kabc.com/news/why-2021-will-be-the-year-self-driving-cars-go-mainstream/"
-    type: article
-    provider:
-      name: KABC
-      domain: kabc.com
-    quality: 39
-    images:
-      - url: "https://www.newsmax.com/Newsmax/files/b5/b50066ea-eb66-4b6a-871a-6f2363024d8b.jpg"
-        width: 600
-        height: 500
-        isCached: true
 
 secured: "yH2Vb24XWKsysP1MybuVRXIbgt/tUJ8omD9m7Nj1xEfOmAW0NTP1cMcx/0IJxA/BJJtQa6xvafLerCrC7abWTTj3zsIvgfvIeyD7jBSPUkcvyNyVzd+lTtfISET7mV0SWFZDi6wj5ZcDS44URELEzjNOq+ltOeRNfX7MY5fmvcGAwD/oBswsqMEdvYjkpIu/lvcuBZmBIfVDdH/O3+7yI7WzlSZcVJGDsxcbLRiViYJ/t+8mVpyfwVDXfwWIDJeCEf2mo6dZOC8OqFWYJLQXlGmW7YV9DR25Sa437o1vZg3FpbgM4TF9GXTLIF3nJkF93SOuqvukF7ewI8kafZ2f8lOABsQqCv8f05NhmsHsuJy1M2D3TZ1oTcNjw8OO7RR6ifoNqp87tv0vtC1CqECsP64X324oHUR7CtqA+xanpl7AeSyBP8gAVgaESQsWqpEAqf5HAkwJHOujhvKAk0pYGouEepYT9xMeKSUu6oSUmu3k+8OSgMJ7mdoEv4/IekhjMsfjTwFFtgsIkc83+LwPoA==;JgOXkTwqYNyWkpq89qrIyg=="
 ---

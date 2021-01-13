@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zigwheels.com/news-features/news/hyundai-could-codevelop
 cdnAmpWebUrl: "https://www-zigwheels-com.cdn.ampproject.org/c/s/www.zigwheels.com/news-features/news/hyundai-could-codevelop-apples-rumored-selfdriving-car-for-2024/40832/?is_amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ZigWheels
@@ -42,20 +42,6 @@ related:
       - url: "https://images.financialexpress.com/2021/01/Apple-Electric-car-hyundai-collaboration.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
-    excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
-    publishedDateTime: 2021-01-11T08:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130863_hyundai-and-apple-to-reportedly-build-self-driving-ev-in-us-from-2024"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/apple-store_100528844_h.jpg"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "GAPted3PC6o61sJoZD6chH+U/AfpD7WeIgV3cfq/3pkqE8ed2WyqeQRcuZbbaQDcQpbIPn93qHP547PjmHjI7Wn4Q1Qx1QURzvZ+LBVIWBTYWQ2Vu844dboiWmEoUcCth2RCQRGyw53fWpqc0NWa4FzGRRqJiJ75MMspbwK96UBBWsvzFt54rfs/MMcIRc2DdlwWa8LvKgmNXTSJ6JKRJwvsbawubE0Ms87SrhBy2+Ohyt/+a6pTWV75JH5V2cS3plU0MqucNSo73PzS2ClnYfc8rIbNkuN0tu/X9YBq5XRzTwRxKLR2PpOeRcawaqu3maM91nC3n5H1o4RGqzm/5jZGsly8u9eEcEXrVnQK/ZE=;3/uJtaAknSi/wJiHbdkGSg=="

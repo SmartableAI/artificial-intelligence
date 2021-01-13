@@ -3,10 +3,10 @@ category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
 publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 quality: 136
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Microsoft AI
+  - AI
+  - AWS AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
@@ -111,6 +111,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "lZc2i27KVk0MmMNDzNAA3BQ8cKemhzH0WpJYh1wj72MWjRafkRsp+B0ql7QH8oDZnoUiv+dFA4mvWiysm9AifOzXcAcBRTggreG5CoKysGTJrj5WVKdXxj0hKX7RvB8PT29wOaiNU/NBfpZGIZ8IXRC7KyRIweDf6MAMGfP165qu83og/clXYzkNfXSd1VL4zNvpB9O1c44UhFCPMFTRP1d0bT6yuThWvKl/eW2RsD7+gl+GWP5HOOxUEmDFgnWFNiv5XWC/E8C3Wgw6QeVwkLWdPgB2cM6iIgvqOVf7NMu3uxx8ZD0yCLjxtbYfCexHHWBhZUZCDkenSfDvw/Z8qQwWFMFRsW4+nXthOjAl14jtVy70ig54AY6Zr8YzO1dDcLh4fgvj96KuH+WPM3eOQEnvJHNPgt+F8XQ2tDjrUwCOrVAE978LSxsrKVOADSkaaST4u4udJOqNXONvVta8p/8K3u9qzW2yyCTzuJjREANJTx47TuHel5VTBQYGI5Fc4aIHMUoQVWs9z+gSbQKd/A==;luN4TIJXU6Vnlf/oJa7bzA=="
+secured: "fu9nVjcjVmxesLSaEx7OtOBAE7nDBVbbA9O8CBxnq1skUbATir35tAUl+YpMYHs5ogBGinETBfSS9WGHt1yPrFVDlQXfv3YFU5cLnRZjhZORhcF/jmxnGaZB2P+kKftNagCeJIxh50nKwmKCIoFpzuy1ywJoVE3SZGt27LgDe37anIXMUaALym1jomXEfv6V9ITiW0Vlbe2XAzES+EzWSoQi69VohfEspTuCUphKSjvsqjsAxmcB0d8gbpCKntm4Q/P6/BsceFcw7jrD7ou+0U3sAozsrZdrLtR+44r381BBWqzp+zsAEdA9hkV4ZCGlz0j94XFbH0yDWV6DGfoPKwFHvLdqELB1mLU8F8moWM8=;uaFJydxZKXIJ+MFb4DHODA=="
 ---
 

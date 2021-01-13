@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-13T14:16:00Z
 originalUrl: "https://www.datacenterknowledge.com/supercomputers/machine-learning-helping-high-performance-computing-go-mainstream"
 webUrl: "https://www.datacenterknowledge.com/supercomputers/machine-learning-helping-high-performance-computing-go-mainstream"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/supercomputer%20fugaku.jpg"
@@ -24,6 +25,6 @@ images:
     height: 409
     isCached: true
 
-secured: "zFhoHKAQfTIfzUw4WT8ZZMpPvS8kfiv4N9aJWQc86vSfx8ev0jE4c7vzraV93gEEVg9bHetOUZer1rQ3qjWCX82r61+y81kYwX8GOTMHr0GiTAi9oygP5LKhItQStM+weEg0hrs3va41r6MsrS0TH/sR7UP/D9nT4/yR3NH1jZq1H9uJZIAumYuZqc6jPU9pXMPkWTE2WUQpAzPr77wgDYdjdmvcWJVvJxdcRr1dGWvqs2jwF955VX4FgHWzkj1ei8A8L4d9m8ZZIiV8ua/t9fKKeGXb/ZVSRQ0/FFrFA+5M4s+2V2x447h3MgkAu+HYc1pKL+bHK0mi6dlWgTDF8sHddQvSAD9pl2mpeNMAxCQ=;2PgcUfuHai9ldNVE2kF5PQ=="
+secured: "wPyjB6s74wJOUmcVhLm3ylDltgy48PEKz8gcWtR+87BUZCOe8W6gsDpN1UP+ZY/iS3ND9glXKz/Trtfk2uxtSk9M83vv4m3nOzQVjHMBGWSRBEO9qpjQh2PVYAkPdjt0kxI/z/Bt8kBuaUwCSl/xXk0076RvevHNVn6ZkVe/d3S+lAofeiVxrWr7rQxvUpbY9pYKZY4SZt0pcm3yqKsqDGsEg4j9OSM5JEd2wRV4VgdDewxb0+P2aa47rEeoeMxmVFweH/5hdKaz18Agrbi2K+fpm9Qhmkk+bg7cGDhDGBfWCc1sd0+kHwmePgSbJz21DINYprFF9OpTEiboQSdfh1KcwnyeCK2Ey7nuljPxozxxsQKYN6DdRMa/ciSWYm21smdgggmRJtWrtBj1Wx/gft1YmoOVM/yn/hR6igwpxAc+N5EP7HpvMUbtWd0j2iKvMf5kGEaUre17lCR7mmwH0ps6ifR4dF/4G3NSQzTl2ZuO+Vl0oyATlHQzFH46c7nUXsVNvRkJwggBE6+Cr0kxqQ==;Md3HXL+9U3cAAllaSupr2g=="
 ---
 

@@ -2,6 +2,214 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-12-collaborating-through-open-source-to-advance-ai.md",
+      "title": "Collaborating through open source to advance AI",
+      "excerpt": "That something is open source. The sheer number of open source tools available to developers - from libraries to frameworks, IDEs, data lakes, streaming, model serving and inference solutions, and even the recent end-to-end tool aggregator,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/collaborating-through-open-source-to-advance-ai",
+      "originalUrl": "https://www.techradar.com/news/collaborating-through-open-source-to-advance-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai",
+      "publishedDateTime": "2021-01-12T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-how-to-find-the-right-business-insurance-using-ai.md",
+      "title": "How To Find The Right Business Insurance Using AI",
+      "excerpt": "No longer just a hallmark of science-fiction, AI is pushing the business world even further with its integration into several business sectors, including insurance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/amplify/how-find-right-business-insurance-using-ai",
+      "originalUrl": "https://www.newsweek.com/amplify/how-find-right-business-insurance-using-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1702534/coverwallet-insurance-ai.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu.md",
+      "title": "Samsung introduces the 5nm Exynos 2100 with 10% faster CPU, 40% faster GPU",
+      "excerpt": "Samsung has formally introduced its latest flagship mobile processor, the Exynos 2100. It features an octa-core CPU with a top-tier Cortex-X1 core, and up to 40% more graphics performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu",
+      "originalUrl": "https://www.neowin.net/news/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/01/1610461044_exynos_2100_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/",
+      "publishedDateTime": "2021-01-12T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448.md",
+      "title": "Artificial Intelligence (AI) In Healthcare Market is Expected to reach 46.2 billion USD by 2026, at a CAGR of 44.8%",
+      "excerpt": "In Healthcare Market size is expected to grow from USD 4.8 billion in 2020 and reach USD 46.2 billion by 2026; it is projected to grow at a CAGR of 44.8% during the forecast period. The report presents the market competitive landscape and a corresponding detailed analysis of the major vendor/key players in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google.md",
       "title": "Artificial Intelligence for Edge Devices Booming Segments; Investors Seeking Growth| Baidu, Intel, Google",
       "excerpt": "Global Artificial Intelligence for Edge Devices Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 This report studies the COVID-19 Outbreak-Global Artificial Intelligence for Edge Devices market size,",
@@ -1043,215 +1251,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more.md",
-      "title": "How AI is improving operational efficiencies across oil and gas, healthcare, and more",
-      "excerpt": "Arificial intelligence is being used in many industries today, and it's only expanding. Here are some use cases to explain the challenges and benefits of AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "publishedDateTime": "2021-01-11T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing.md",
-      "title": "Stanford researchers design accelerator chip that speeds up AI inferencing",
-      "excerpt": "Researchers at Stanford developed hardware that can run AI tasks quickly and energy-efficiently by melding eight cores into one AI engine.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/11/stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing/",
-      "originalUrl": "https://venturebeat.com/2021/01/11/stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/11/stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing/amp/",
-      "publishedDateTime": "2021-01-11T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-dina-raises-7-million-for-its-ai-powered-at-home-care-platform.md",
-      "title": "Dina raises $7 million for its AI-powered at-home care platform",
-      "excerpt": "Dina, a Chicago-based startup developing a platform to manage remote and at-home care, has raised $7 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/",
-      "originalUrl": "https://venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/istock-701228292-e1587585848522.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/amp/",
-      "publishedDateTime": "2021-01-11T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-2021-technology-trend-review-part-1-blockchain-cloud-open-source.md",
-      "title": "2021 Technology trend review, part 1: Blockchain, Cloud, Open Source",
-      "excerpt": "Blockchain's DeFi-ning moment. Cloud, Kubernetes, and GraphQL. Open source is winning, open source creators are losing. A reality check on key technological drivers for the new decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/",
-      "originalUrl": "https://www.zdnet.com/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/11/8c84e22d-c1a3-44fa-a1ff-8a1d99add9c7/eth-2-transitions-775x439.jpg",
-          "width": 775,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/",
-      "publishedDateTime": "2021-01-11T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

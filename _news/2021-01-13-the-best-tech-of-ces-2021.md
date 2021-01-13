@@ -7,7 +7,7 @@ originalUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/in
 webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
 type: article
 quality: 54
-heat: 74
+heat: 134
 published: true
 
 provider:
@@ -40,6 +40,57 @@ related:
       name: Datamation
       domain: datamation.com
     quality: 39
+  - title: "GenkiTek Showcases AI Camera Solutions at CES 2021"
+    excerpt: "GenkiTek was one of the 100 companies given the opportunity to showcase its wares in the Taiwan Tech Arena at this week’s CES 2021 event"
+    publishedDateTime: 2021-01-12T22:27:00Z
+    webUrl: "https://mobileidworld.com/genkitek-showcases-ai-camera-solutions-ces-2021-011208/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 37
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/Computer-Vision-Icon.jpg"
+        width: 712
+        height: 684
+        isCached: true
+  - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
+    excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."
+    publishedDateTime: 2021-01-11T13:27:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16176/raspberry-pi-top-4-robotics-kit-to-debut-at-ces-2021"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
+  - title: "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021"
+    excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution"
+    publishedDateTime: 2021-01-12T05:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-301205896.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "2021 CES Innovation Awards"
+    excerpt: "Here are some of the 2021 CES Innovation Awards for vehicle intelligence and transportation. Have an opinion about this story? Click here to submit a Letter to the Editor, and we may publish it in print."
+    publishedDateTime: 2021-01-11T05:00:00Z
+    webUrl: "https://www.autonews.com/ces/2021-ces-innovation-awards"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AWARDSIBM.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "CES 2021 FaceHeart improves the health of humanity by integrating AI technology into our everyday lives"
     excerpt: "This year the world was suffering from the pandemic, FaceHeart recognizes the very need for a contactless detection device in order to come up with better solutions to address this problem. Since its founding,"
     publishedDateTime: 2021-01-12T12:38:00Z
@@ -54,6 +105,29 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-robotics-36120032652d479b8e56c1d5e0f280f5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-11T08:43:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210111005733/grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "LBS4VrY3SduBNL4GpV/2t/Ot3bFh6dG79hXKOub4pZmwT8tdr329axRT/QxxFzPgJAZFJ8Kw9fcog5OufIVAdckB7TcWFzzFJQOrWZg53d3Ogz2bhPYb20ibRUUcuuJAVdCoXNYMont+TByL5eUIaxY/2tFhgl5A2LKidytEv2aeHL6HZdQl+niNx5VkaqSV12K//n8Xy4g5OHBGWrqqOJyo1JcAJLTkr6tQn00TaiFJ1IO4ggwg1aHkiaeogl1Kfj3akxHvGboQRUT2rUbvg0vABFdy/vgr1bhbfDxCkmEJGFJZn+QU9Vg55xwjeyjUHsSRpzwZpebje7oEekIlTat/uS8Y0SP2WAeI2dIjo7TjERMegS4xgbHO/1EEAutI+O4PX0juBKlHHuNcj9Y94XnD1+nBzW0iqD29RjoVdJ6ypafF6o5bU0dQ2Drib1zvMb9U9Ovn0CGDTHY18BS5Tom5aVKuhlTfp8yT4TXdoh7sHsTRMqOynGVMt17sEJO0i62waKTVe2qd1GkAj0d6xg==;gEC91/ZTKNVSzGipA8O22A=="
 ---

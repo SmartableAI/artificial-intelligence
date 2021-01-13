@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-22-honeywell-buys-sparta-systems-for-13-billion-plots-life-sciences-expansion.md",
+      "title": "Honeywell buys Sparta Systems for $1.3 billion, plots life sciences expansion",
+      "excerpt": "Honeywell will acquire life sciences software company Sparta Systems for $1.3 billion in a move that will expand the reach for the Honeywell Forge platform. Sparta Systems feature",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
+      "originalUrl": "https://www.zdnet.com/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/22/52a7fadc-ba5d-44a7-8dcb-590bce0e9673/sparta-systems-trackwise-stack.png",
+          "width": 644,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
+      "publishedDateTime": "2020-12-21T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-explore-the-verges-2020-science-time-capsule-stored-in-dna.md",
       "title": "Explore the Verge’s 2020 science time capsule, stored in DNA",
       "excerpt": "The post Explore the Verge’s 2020 science time capsule, stored in DNA appeared first on The AI Blog.\n",
@@ -1328,59 +1380,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity.md",
-      "title": "North America AI Chipsets Market 2026 – A USD 26 Billion Revenue Opportunity",
-      "excerpt": "According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size will be around USD 25 billion by 2026. The North America AI chipsets market growth is driven by increasing investments in the regional datacenter infrastructure development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity-2020-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity-2020-12-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

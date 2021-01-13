@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitche
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imagevars.gulfnews.com/2021/01/12/20210112-robot-heroes_176f646af35_large.jpg"
         width: 750
         height: 563
-        isCached: true
-  - title: "CES 2021: Pandemic’s robot ‘heroes’ highlight their value at tech show"
-    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
-    publishedDateTime: 2021-01-12T06:15:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/12/ces-2021-pandemics-robot-heroes-highlight-their-value-at-tech-show"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005074.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "Pandemic's Robot 'Heroes' Highlight Their Value At Tech Show"
     excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry's annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."

@@ -16,7 +16,7 @@ provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -30,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "BvGgtm1yPNGCjBfKuyubVFw5GQOg7WEnlAG1Fz03U+6pO+kej7at0bpFiQLc3t1I6t5rzxVEH+0t2rLuoVGz4bgT0tPZGkpEhdOHpgzzF8lqzl0LCuu47xezR8s/dJqXuRIlf6Zg1j4d+OOKaVhTLzZ8KGy3ySxb/BO7yMJfBowDNF5s6YjGEDROgTRC38azVWQTj2jnxMXhK8h5XTVEhncN0pVybzOcrZefGSayC38K0ND1//q5zMyZFspGIjVJVbWfPx1kEG7O2NiucBKzBugiudM+nKRZ9Pna3FZnkK/mFQ2sax9tqtIyKqSvvpBD9sqt8z1UnWILVxT2m4VjYQ9kC6K3XQBHtvTvHnkmsFA=;tfdad88JdDIzZXPU0rlVwQ=="
+secured: "2MNMV3zMmwhrCIXaJUpKxgh+KGKCZP5fJJ0YNqkAjAvJXWetnV7n9VUEXjrElzsjvPRsWD6UY3Tgg8Xr/GQE/1KEOHrC0ujxk6kJtY0yw6gfaPUF2utTjWwmjRMOiJrC71NtUhyqf26J5oryGbCNn8mI1tT8KihzwVWJdenQnaBqu8aMHBMvE6spzrElVSPkF1b38MlGEYj9xCg8lbrDBJJCjMLBDepaU56PLfzP7Yeh/cXuXMuNEYlqa0INUrfQgbRLWQxwn+MpQojBPQw/to/U5OVI4iG7+uoN2Zht+9ETbuDksaSDbASw0+fpW70upjZLivyY7ZsiL8VTIG1FEr3mGRf6gKWlcrSXObEi9zJ44N0e0W2bC0paPl7yx2FV4frguvlaTe7tMNfPjtBuu7DwuySxzwejfSd3lAgMdwnQLFalhwURECscT90lRAS0KmZz75BZlQkFMEGZrE7oTfkB68VOIPul2JmIKx8NGZ2NLhBmC+lBVBgmjjz3xMXb1OqBYkHCt1EOmeuAq73GNm23EFntI0t+EG8S2VxVWNU=;iPVcAiuvRUE/rI7BQAohFw=="
 ---
 

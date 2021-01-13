@@ -110,6 +110,15 @@ related:
         width: 859
         height: 302
         isCached: true
+  - title: "Researchers use deep learning to identify gene regulation at single-cell level"
+    excerpt: "Researchers describe how they developed a deep-learning framework to observe gene regulation at the cellular level."
+    publishedDateTime: 2021-01-13T15:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210113090954.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "L5vT+baM+IEBSAh/E0A6xsntP3kmYWmgDzrJKT1E2hOh0FmQAwkYEzFSFKUTyERuELHUBqOJ1Wq5pB4aQa5XIiYzB3d5JVZtyqqPZq6D45S6r7BNNfd+1DQNcdYzYTHJcQ1/kKjsCzmUEOU4fEVyNlhBRrOc/wT3wsv0x71DJDW9PTBsuru0XcuYd3lUXXFENAXW4ZwfvgpihfIgAFWxTdNNDNXans46euQAdU2zjsvaW2v57/8h/B0ETmx0r7Y0HuzfXP0U8foTR64PQaNRbOqHh1Pzc/8rM7yrJd9L5lswDJiYoittq+XJjUvb0T585U9iCotJvSc2x5ma3cE+r/3KIJSNg2MD89EOHqmDpKM=;K+/AuJFEylwb/wcpvHN0cA=="
 ---

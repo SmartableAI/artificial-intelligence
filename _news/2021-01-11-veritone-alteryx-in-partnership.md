@@ -22,7 +22,7 @@ related:
   - title: "Veritone and Alteryx form partnership to deliver AI-powered insights from unstructured video and audio-based data"
     excerpt: "The partnership aims to deliver AI-powered insights into unstructured data sources, including video, images, audio and text, to Alteryx customers. Veritone joins Alteryx’s Partner Alliances program, integrating aiWARE with the Alteryx platform to help Alteryx customers transform unstructured data into actionable intelligence and valuable insights Veritone’s AI tools for ingesting data,"
     publishedDateTime: 2021-01-12T18:57:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Veritone-and-Alteryx-form-partnership-to-deliver-AI-powered-insights-from-unstructured-video-and-audio-based-data-144699.aspx"
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144699"
     type: article
     provider:
       name: KMWorld Magazine
@@ -33,15 +33,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-    excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
-    publishedDateTime: 2021-01-11T12:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 12
   - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
     excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),"
     publishedDateTime: 2021-01-12T09:47:00Z
@@ -56,6 +47,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
+    excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic rel"
+    publishedDateTime: 2021-01-11T05:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "FNwfpWloQLeSndVK4O4sFJ5trCHH3VpPLNAXKMP52Y9akkS6xCh/hdQFLYD5d18CBQwoAz2Tx2sUWAu/HlzhXppnMbanP2friGKCP2LU3Tc7KcE4gyHBtadIt2+XF9sBT/5joPszWRZFyf2mwj2w9p2DA2JKvMqez5Ug/BXmfAhUP0lD7VLCQ6t059HycOtlqcBksCTwjIuGudgVrckk79MyHG3qBrAOOoVbz6QxbzI7vrEa3zAMDpjRkD3sg3LRGaz2183zzXUmG02OM3tssZW8ufrJlgGy3Ox+uBXCKouXjLsyB3bSoddOY0n8WiVFRbASpF1TpW+15TqwwjXcE5oE4Q1dDd2gcn2H67KdIiQ=;eZddNJB9EYXF/OabbLWAFw=="
 ---

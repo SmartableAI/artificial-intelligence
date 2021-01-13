@@ -27,6 +27,50 @@ images:
     isCached: true
 
 related:
+  - title: "Best robots at CES 2021: Humanoid hosts, AI pets, UV-C disinfecting bots, and more"
+    excerpt: "CES features the latest in robotics innovation, and this year is no exception. From disinfecting robots to AI-enabled companions, here are some of the best robots at CES 2021."
+    publishedDateTime: 2021-01-13T15:27:00Z
+    webUrl: "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 98
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/f629a590-bded-4833-932c-c74d846af5c8/resize/1200x/fd3a1a8ff2935b04e09b30bf703cb399/adibot-a-ubtech-1.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "The Industrial Technology Research Institute (ITRI), Taiwan's largest and one of the world's leading high-tech applied research"
+    publishedDateTime: 2021-01-11T12:50:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021-301204748.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site (  ITRI’s featured technologies include the Dual Arm Robot System (DARS),"
+    publishedDateTime: 2021-01-12T09:47:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-energy-industry-electric-utilities-greater-china-62ad8429deb3b03c423f463f96929ff5/gallery/f6e10d436a9041020b2a20c1908e34c4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CES 2021: This AI dog collar tells you how your pup is really feeling"
     excerpt: "If your dog could talk, what would it say? Well, thanks to the PetPuls AI-powered dog collar, you can get a glimpse into your pup's state of mind. Well, sort of, anyway. Debuted at CES 2021, the PetPuls smart collar uses artificial intelligence and built-in microphones to track your dog's barks and detect five different emotional states: happy,"
     publishedDateTime: 2021-01-13T14:18:00Z
@@ -41,22 +85,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This new AI-powered dog collar gives your dog its own 'voice'"
-    excerpt: "Petpuls Lab unveil its new AI-powered dog collar at CES 2021, which detect if your dog is happy, anxious, angry, sad, or relaxed."
-    publishedDateTime: 2021-01-12T03:38:00Z
-    webUrl: "https://www.tweaktown.com/news/77239/this-new-ai-powered-dog-collar-gives-your-its-own-voice/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/77239/this-new-ai-powered-dog-collar-gives-your-its-own-voice/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77239/this-new-ai-powered-dog-collar-gives-your-its-own-voice/amp.html"
+  - title: "The best robot vacuums of CES 2021"
+    excerpt: "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year."
+    publishedDateTime: 2021-01-12T21:39:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/"
+    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://static.tweaktown.com/news/7/7/77239_03_this-new-ai-powered-dog-collar-gives-your-its-own-voice.jpg"
-        width: 620
-        height: 372
-        isCached: true
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "CES 2021: LG unveils artificial intelligence for \"at-home\" products"
     excerpt: "From sanitizing robots to a self-cleaning water dispenser, LG Electronics is redefining what it means to be at home."
     publishedDateTime: 2021-01-12T23:15:00Z
@@ -73,6 +112,94 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "CES 2021: AR Glasses, AI Chips and Automated Astronomy"
+    excerpt: "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation."
+    publishedDateTime: 2021-01-12T21:09:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/ces-2021"
+    type: article
+    provider:
+      name: ARM architecture
+      domain: arm.com
+    quality: 54
+    images:
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2021/01/lenovo_thinkreality.jpg"
+        width: 1940
+        height: 980
+        isCached: true
+  - title: "CES 2021: 5 show-stopping smart home tech innovations"
+    excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
+    publishedDateTime: 2021-01-11T19:57:00Z
+    webUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/"
+    ampWebUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-smart-home-tech/773534/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 44
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2021/01/ces.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
+    excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
+    publishedDateTime: 2021-01-12T14:30:00Z
+    webUrl: "https://www.albawaba.com/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 43
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/bosch_softwareentwicklung_4.jpg?itok=-_RdG45m"
+        width: 960
+        height: 539
+        isCached: true
+  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
+    publishedDateTime: 2021-01-11T14:01:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "CES 2021: Pandemic’s robot ‘heroes’ highlight their value at tech show"
+    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
+    publishedDateTime: 2021-01-12T06:15:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/12/ces-2021-pandemics-robot-heroes-highlight-their-value-at-tech-show"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005074.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
+    publishedDateTime: 2021-01-12T09:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CES 2021: Bosch turns to AI for a healthy and sustainable future"
     excerpt: "Bosch doubles down on AI and connectivity to develop intelligent, climate-friendly solutions for health, living, industry, and mobility"
     publishedDateTime: 2021-01-13T06:55:00Z
@@ -84,6 +211,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 39
+  - title: "LG unveils autonomous robot with disinfecting ultraviolet light"
+    excerpt: "LG has unveiled an autonomous robot with disinfecting ultraviolet light. The company says the newest addition to its CLOi range of robots are aimed at hotels, schools, offices, restaurants and"
+    publishedDateTime: 2021-01-13T15:20:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/13/lg-unveils-autonomous-robot-with-disinfecting-ultraviolet-light/39513/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 39
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/LG-UVC-Robot_03.jpg"
+        width: 800
+        height: 889
+        isCached: true
   - title: "CES 2021: Now AI can detect Alzheimer’s"
     excerpt: "A biotech startup claims that AI brain mapping with an electroencephalogram (EEG) can now detect pre-clinical Alzheimer’s dementia. At CES 2021, iMediSync has launched an EEG digital biomarker for early detection of Alzheimer’s dementia on their AI cloud platform,"
     publishedDateTime: 2021-01-11T08:30:00Z
@@ -98,6 +239,29 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the ..."
+    excerpt: "Bosch's tagline at CES 2021 Bosch as a pioneer in climate action: Under the tagline “Sustainable #LikeABosch,” the company will be presenting intelligent, sustainable solutions for health, living, and mobility at the virtual tech trade fair CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-industrial-technology-fcc0754fecc1df56ceb6e922eca7eadf/gallery/e533e5ed1156e6c42eb09d383285e5cd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
+    excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
+    publishedDateTime: 2021-01-11T06:52:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8123660/ces-2021-bosch-puts-its-faith-in-ai-and-connectivity-for-the-protection-of-people-and-the-environment"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
 
 secured: "HA6SPQ3SNylBZSvGpr8PSsy4Xvm4sd72GLICrJbvM9P1T1VQmPQ0AiiTd/8M8FRb/NXbJeZtB0VAjq6AO+7CjklR1OAJz8cS8O0nn3JaQlwdcxDetruQ4WDpaxrBptfrFHHunBFkNkThWtGUngWaFKvRDfuRGC7nSGZDSVasMk5bNzJ4dNBbjbz4KKOUeNn6ZWbGia5uBN+dD7oes6CJNFrjHKpbs7DO7KHPSqslkvsVRVoIz/ZAZuvzXabnjcjNTaY8VdJpyCDSTTofBbRu7SIjMB9BE3GMlgD1wxSrZoJlnpGpsjln4MubeF9ixvt+O0fsJUFcRuEk3CjQYOs27zOuUImW4vy1nF6qcTPavqXsxABLa1Bx+M4RnutFQzXyjC28qlIu9+VEB50iNxQt+qNo61GNtc1BafFL8PEsTLLUASksmrJQbRYumsukFLTGZBFvEz2w7hjxdzjCFpcrd/L2BV4ssrvTCDxOOPWtFBUr4++gWj4KJaerh/WCFphHw6Km5/a8c0YrpQBf/sZQ3w==;irEw4FjsUSibfIC3UcwADw=="
 ---

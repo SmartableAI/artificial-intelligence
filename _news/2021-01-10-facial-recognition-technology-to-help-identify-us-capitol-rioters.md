@@ -144,20 +144,6 @@ related:
         width: 840
         height: 473
         isCached: true
-  - title: "Video, cellphone and facial recognition data may lead police to Capitol rioters"
-    excerpt: "Authorities looking to prosecute the mob of Trump supporters who overran the U.S. Capitol on Wednesday stand to get powerful help from cellphone records, facial recognition tools and other technologies to assist in the identification of anyone who was there that day."
-    publishedDateTime: 2021-01-08T23:31:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/01/08/video-cellphone-and-facial-recognition-data-may-lead-police-to-capitol-rioters/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 35
-    images:
-      - url: "https://www.adn.com/resizer/6hlNomXm9Wyx1O2tjZc6-h6gu_M=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/adn/PJGQ2VB3IZH6FB7XO5ZMKJS7PM.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "uo8x49IPFfv7NN8q3K197ofF++coFOrpUQI+aguZf2xXOJhZKCQHDfOCGIZzN+6RAV87ynfLCIu3eJSm+vZGPTzezqjrwuYXGEJyMMPxDpSROhEquWF4b8di42cEe7S4vmSQx/Sj6wnVIczbbrYm4tHuQAlCOxLCXGzrZi3uuVFa40NV6mU6zR6Q1UY0ej28GcTefTpSoeQPttx3xESuej11PNo0xhXPetxPGucBfEc68XNW7IgaBUKLEQbITrwDy8na6hHK67JgqVyWGQEt27BR1m9f/6MvAuxGKHBwjLTFRc/dJ5zDcj4zGOUp39bygbkx5IZtURTlfASLVBzHGoLpVAUlMz2j58jE2dsjJTKdWN0KaoPAmdOeaXCsWjT9X4LchdfOptklJWCL1qhF/22WGrEgh3BQnNjORRCDGu6bFSjO3o/PsIl+EKldpRilGsio2xUexcw5TgJ2/R9THIuWai+6e5wV+0ee6wLDC/to9c+itjb2qw3N0uF6+50RtUQecgGV1gBezTc06WYwJg==;H49mruc01B8hsj0QbsgtBA=="
 ---

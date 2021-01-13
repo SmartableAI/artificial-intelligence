@@ -96,6 +96,15 @@ related:
         width: 859
         height: 302
         isCached: true
+  - title: "Researchers use deep learning to identify gene regulation at single-cell level"
+    excerpt: "Researchers describe how they developed a deep-learning framework to observe gene regulation at the cellular level."
+    publishedDateTime: 2021-01-13T15:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210113090954.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
   - title: "Improve computer's learning ability by tweaking AI software"
     excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects say tw"
     publishedDateTime: 2021-01-12T07:51:00Z
