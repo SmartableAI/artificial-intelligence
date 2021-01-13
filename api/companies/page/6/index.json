@@ -4,57 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_companies/mapegy.md",
-      "title": "Mapegy",
-      "excerpt": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mapegy/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mapegy/",
-      "type": "profile",
-      "name": "Mapegy",
-      "overview": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
-      "website": "https://www.mapegy.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/mapegy",
-        "followers": 302
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/mapegy"
-      },
-      "twitter": {
-        "username": "mapegy",
-        "url": "https://twitter.com/mapegy",
-        "followers": 277
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Berlin"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=FM_2nxVEIOs"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1294236247985184768/RR6qxQRZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mapegy",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/meero.md",
       "title": "Darktrace",
       "excerpt": "",
@@ -258,7 +207,7 @@
       "twitter": {
         "username": "hippo_insurance",
         "url": "https://twitter.com/hippo_insurance",
-        "followers": 1712
+        "followers": 1713
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -467,7 +416,7 @@
       "twitter": {
         "username": "noodleai",
         "url": "https://twitter.com/noodleai",
-        "followers": 1394
+        "followers": 1395
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -521,7 +470,7 @@
       "twitter": {
         "username": "notablehealth",
         "url": "https://twitter.com/notablehealth",
-        "followers": 246
+        "followers": 247
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -680,7 +629,7 @@
       "twitter": {
         "username": "ppl_ai",
         "url": "https://twitter.com/ppl_ai",
-        "followers": 1464
+        "followers": 1465
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -815,6 +764,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/reflektion.md",
+      "title": "Reflektion",
+      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
+      "type": "profile",
+      "name": "Reflektion",
+      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/reflektion"
+      },
+      "twitter": {
+        "username": "ReflektionInc",
+        "url": "https://twitter.com/ReflektionInc",
+        "followers": 1436
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Reflektion",
+          "isCached": true
         }
       ],
       "content": "\r\n"

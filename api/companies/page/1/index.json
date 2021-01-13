@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6937945
+        "followers": 6938916
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9201721
+        "followers": 9201740
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 502044
+        "followers": 502072
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -313,7 +313,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 3536946
+        "followers": 3536809
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -410,7 +410,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1560374
+        "followers": 1560392
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -456,7 +456,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 109325
+        "followers": 109334
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -509,7 +509,7 @@
       "twitter": {
         "username": "twilio",
         "url": "https://twitter.com/twilio",
-        "followers": 76399
+        "followers": 76404
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2008,
@@ -551,7 +551,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 77639
+        "followers": 77638
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -610,7 +610,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 23251
+        "followers": 23255
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -656,7 +656,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 61946
+        "followers": 61948
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -709,7 +709,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 23077
+        "followers": 23084
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -762,7 +762,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 34633
+        "followers": 34636
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -813,7 +813,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 17952
+        "followers": 17953
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -876,7 +876,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 5189
+        "followers": 5191
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1073,7 +1073,7 @@
       "twitter": {
         "username": "capitalcom",
         "url": "https://twitter.com/capitalcom",
-        "followers": 9504
+        "followers": 9507
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1183,7 +1183,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 9578
+        "followers": 9585
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1300,7 +1300,7 @@
       "twitter": {
         "username": "nurobots",
         "url": "https://www.twitter.com/nurobots",
-        "followers": 3373
+        "followers": 3374
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -1361,7 +1361,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 8192
+        "followers": 8196
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -1416,7 +1416,7 @@
       "twitter": {
         "username": "amprobotics",
         "url": "https://twitter.com/amprobotics",
-        "followers": 1073
+        "followers": 1078
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -1456,6 +1456,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/aptiv.md",
+      "title": "Aptiv",
+      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
+      "type": "profile",
+      "name": "Aptiv",
+      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "website": "https://www.aptiv.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aptiv"
+      },
+      "twitter": {
+        "username": "Aptiv",
+        "url": "https://twitter.com/Aptiv",
+        "followers": 16999
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aptiv",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/argo.ai.md",
       "title": "Argo AI",
       "excerpt": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
@@ -1475,7 +1513,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 3642
+        "followers": 3646
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -1522,7 +1560,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 66144
+        "followers": 66151
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -1582,7 +1620,7 @@
       "twitter": {
         "username": "rev",
         "url": "https://twitter.com/rev",
-        "followers": 8494
+        "followers": 8496
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1635,7 +1673,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 16455
+        "followers": 16457
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -1674,199 +1712,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/scale.md",
-      "title": "Scale",
-      "excerpt": "The Data Platform for AI: High quality training and validation data for AI applications.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/scale/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/scale/",
+      "path": "_companies/tanium.md",
+      "title": "Tanium",
+      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
       "type": "profile",
-      "name": "Scale",
-      "otherNames": [
-        "Scale.ai"
-      ],
-      "overview": "The Data Platform for AI: High quality training and validation data for AI applications.",
-      "website": "https://www.scale.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/scaleai/",
-        "followers": 6279
-      },
+      "name": "Tanium",
+      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "website": "https://www.tanium.com",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/scale-2"
+        "url": "https://www.crunchbase.com/organization/tanium"
       },
       "twitter": {
-        "username": "scale_ai",
-        "url": "https://twitter.com/scale_ai",
-        "followers": 7347
+        "username": "Tanium",
+        "url": "https://twitter.com/Tanium",
+        "followers": 6139
       },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
+      "yearFounded": 0,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Emeryville, CA"
       ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
       "topics": [
         "AI",
-        "Machine Learning",
-        "Computer Vision"
+        "AI in Security"
       ],
-      "heat": 110,
+      "heat": 112,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Scale",
-          "isCached": true
-        },
-        {
-          "url": "https://scale.com/static/global/facebook-card.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Scale AI Facebook Banner",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/collections/ai-companies-in-san-francisco.md",
-      "title": "San Francisco AI Companies",
-      "excerpt": "List of AI companies in San Francisco.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/ai-companies-in-san-francisco/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collections/ai-companies-in-san-francisco/",
-      "type": "collection",
-      "name": "San Francisco AI Companies",
-      "overview": "List of AI companies in San Francisco.",
-      "yearFounded": 0,
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Affirm",
-          "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
-          "type": "profile",
-          "name": "Affirm",
-          "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 158,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Affirm",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Algolia",
-          "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-          "type": "profile",
-          "name": "Algolia",
-          "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Algolia",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Anki",
-          "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-          "type": "profile",
-          "name": "Anki",
-          "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Anki",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "App Annie",
-          "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-          "type": "profile",
-          "name": "App Annie",
-          "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Marketing"
-          ],
-          "heat": 83,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "App Annie",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "size": 41,
-      "heat": 99,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Affirm",
+          "title": "Tanium",
           "isCached": true
         }
       ],

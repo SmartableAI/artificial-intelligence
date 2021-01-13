@@ -4,6 +4,71 @@
   "page": 2,
   "value": [
     {
+      "path": "_companies/scale.md",
+      "title": "Scale",
+      "excerpt": "The Data Platform for AI: High quality training and validation data for AI applications.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/scale/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/scale/",
+      "type": "profile",
+      "name": "Scale",
+      "otherNames": [
+        "Scale.ai"
+      ],
+      "overview": "The Data Platform for AI: High quality training and validation data for AI applications.",
+      "website": "https://www.scale.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/scaleai/",
+        "followers": 6279
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/scale-2"
+      },
+      "twitter": {
+        "username": "scale_ai",
+        "url": "https://twitter.com/scale_ai",
+        "followers": 7346
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Scale",
+          "isCached": true
+        },
+        {
+          "url": "https://scale.com/static/global/facebook-card.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Scale AI Facebook Banner",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/anaconda.md",
       "title": "Anaconda",
       "excerpt": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
@@ -23,7 +88,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 59293
+        "followers": 59295
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -182,7 +247,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 9372
+        "followers": 9375
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -236,7 +301,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 2607
+        "followers": 2606
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -262,6 +327,44 @@
           "width": 400,
           "height": 400,
           "title": "Q-CTRL",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zscaler.md",
+      "title": "Zscaler",
+      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
+      "type": "profile",
+      "name": "Zscaler",
+      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "website": "https://www.zscaler.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zscaler"
+      },
+      "twitter": {
+        "username": "zscaler",
+        "url": "https://twitter.com/zscaler",
+        "followers": 8970
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zscaler",
           "isCached": true
         }
       ],
@@ -410,44 +513,6 @@
           "width": 400,
           "height": 400,
           "title": "Alegion",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/appannie.md",
-      "title": "App Annie",
-      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
-      "type": "profile",
-      "name": "App Annie",
-      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "website": "https://www.appannie.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/app-annie"
-      },
-      "twitter": {
-        "username": "appannie",
-        "url": "https://twitter.com/appannie",
-        "followers": 65291
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "App Annie",
           "isCached": true
         }
       ],
@@ -647,7 +712,7 @@
       "twitter": {
         "username": "May_Mobility",
         "url": "https://twitter.com/May_Mobility",
-        "followers": 2006
+        "followers": 2007
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -760,7 +825,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 6652
+        "followers": 6654
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1066,44 +1131,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/clearbit.md",
-      "title": "Clearbit",
-      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/clearbit/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/clearbit/",
-      "type": "profile",
-      "name": "Clearbit",
-      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "website": "https://www.clearbit.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/clearbit"
-      },
-      "twitter": {
-        "username": "clearbit",
-        "url": "https://twitter.com/clearbit",
-        "followers": 3906
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clearbit",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/definedcrowd.md",
       "title": "DefinedCrowd",
       "excerpt": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
@@ -1237,7 +1264,7 @@
       "twitter": {
         "username": "insitro",
         "url": "https://twitter.com/insitro",
-        "followers": 2243
+        "followers": 2244
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1569,7 +1596,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 2657
+        "followers": 2658
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -1643,7 +1670,7 @@
       "twitter": {
         "username": "fetchrobotics",
         "url": "https://twitter.com/fetchrobotics",
-        "followers": 7013
+        "followers": 7014
       },
       "size": "51-200 employees",
       "yearFounded": 2014,

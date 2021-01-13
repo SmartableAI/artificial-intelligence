@@ -4,6 +4,131 @@
   "page": 9,
   "value": [
     {
+      "path": "_companies/fundbox.md",
+      "title": "Fundbox",
+      "excerpt": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fundbox/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/fundbox/",
+      "type": "profile",
+      "name": "Fundbox",
+      "overview": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
+      "website": "https://fundbox.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/fundbox",
+        "followers": 10859
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/fundbox"
+      },
+      "twitter": {
+        "username": "fundbox",
+        "url": "https://twitter.com/fundbox",
+        "followers": 7782
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 31,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1174382620353806336/CeEUZHwW_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Fundbox",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_200_200/0?e=1594857600&v=beta&t=K8TBAi1tgbJYEGm742QFrnsRuv0x-84YVtHE8bUjI9g",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/gumgum.md",
+      "title": "GumGum",
+      "excerpt": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gumgum/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/gumgum/",
+      "type": "profile",
+      "name": "GumGum",
+      "overview": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
+      "website": "https://gumgum.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/gumgum/",
+        "followers": 12380
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/gumgum"
+      },
+      "twitter": {
+        "username": "GumGum",
+        "url": "https://twitter.com/GumGum",
+        "followers": 3485
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2007,
+      "locations": [
+        "Santa Monica, CA",
+        "Santa Monica, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "videos": [
+        {
+          "url": "https://vimeo.com/179087754",
+          "thumbnail": {
+            "url": "https://i.vimeocdn.com/video/586908314_640.jpg",
+            "width": 640,
+            "height": 360,
+            "title": "GumGum",
+            "isCached": false
+          }
+        }
+      ],
+      "heat": 31,
+      "tags": [
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1278372496283103232/CYWpg4zq_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "GumGum",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEwptMmUu9nXQ/company-logo_200_200/0?e=1594857600&v=beta&t=Xi6UgpRhfMCgxqTtgb-d10wcID3x2wVB716aIQU53TI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/insightengines.md",
       "title": "Insight Engines",
       "excerpt": "Research discovery with artificial intelligence - for academia and chemical research.",
@@ -123,7 +248,7 @@
       "twitter": {
         "username": "lingochamp",
         "url": "https://twitter.com/lingochamp",
-        "followers": 346
+        "followers": 347
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2012,
@@ -384,7 +509,7 @@
       "twitter": {
         "username": "skychainglobal",
         "url": "https://twitter.com/skychainglobal",
-        "followers": 2629
+        "followers": 2628
       },
       "yearFounded": 0,
       "locations": [
@@ -517,44 +642,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/vectra.ai.md",
-      "title": "Vectra",
-      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
-      "type": "profile",
-      "name": "Vectra",
-      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "website": "https://vectra.ai",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vectra-networks"
-      },
-      "twitter": {
-        "username": "Vectra_AI",
-        "url": "https://twitter.com/Vectra_AI",
-        "followers": 2493
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Vectra",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/verkada.md",
       "title": "Verkada",
       "excerpt": "Verkada builds security cameras and software that detects action, identifies danger, and helps organizations keep people safe and secure.",
@@ -670,7 +757,7 @@
       "twitter": {
         "username": "Aera_Technology",
         "url": "https://twitter.com/Aera_Technology",
-        "followers": 2436
+        "followers": 2437
       },
       "size": "201-500 employees",
       "yearFounded": 2017,
@@ -715,7 +802,7 @@
       "twitter": {
         "username": "affectiva",
         "url": "https://twitter.com/affectiva",
-        "followers": 11216
+        "followers": 11215
       },
       "size": "51-200 employees",
       "yearFounded": 2009,
@@ -858,44 +945,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/collectivei.md",
-      "title": "Collective[i]",
-      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collectivei/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collectivei/",
-      "type": "profile",
-      "name": "Collective[i]",
-      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "website": "https://www.collectivei.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/collective-i"
-      },
-      "twitter": {
-        "username": "collectivei",
-        "url": "https://twitter.com/collectivei",
-        "followers": 1123
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 18,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1267559599135219715/dJd4U-j-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Collective[i]",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1241,7 +1290,7 @@
       "twitter": {
         "username": "standardAI",
         "url": "https://twitter.com/standardAI",
-        "followers": 2060
+        "followers": 2061
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1270,6 +1319,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/actioniq.md",
+      "title": "ActionIQ",
+      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/actioniq/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/actioniq/",
+      "type": "profile",
+      "name": "ActionIQ",
+      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "website": "https://www.actioniq.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/actioniq"
+      },
+      "twitter": {
+        "username": "ActionIQinc",
+        "url": "https://twitter.com/ActionIQinc",
+        "followers": 1071
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 6,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ActionIQ",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1350,7 +1437,7 @@
       "twitter": {
         "username": "CobaltRobotics",
         "url": "https://twitter.com/CobaltRobotics",
-        "followers": 1301
+        "followers": 1302
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1409,7 +1496,7 @@
       "twitter": {
         "username": "enlitic",
         "url": "https://twitter.com/enlitic",
-        "followers": 4768
+        "followers": 4769
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1497,54 +1584,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/gnshealthcare.md",
-      "title": "GNS Healthcare",
-      "excerpt": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gnshealthcare/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/gnshealthcare/",
-      "type": "profile",
-      "name": "GNS Healthcare",
-      "overview": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "website": "http://www.gnshealthcare.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gns-healthcare/",
-        "followers": 3017
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gns-healthcare"
-      },
-      "twitter": {
-        "username": "gnshealthcare",
-        "url": "https://twitter.com/gnshealthcare",
-        "followers": 2605
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2000,
-      "locations": [
-        "Cambridge, MA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
-        }
-      ],
-      "heat": 3,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "GNS Healthcare",
-          "isCached": true
         }
       ],
       "content": "\r\n"

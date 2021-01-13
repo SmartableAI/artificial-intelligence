@@ -74,7 +74,7 @@
       "twitter": {
         "username": "flatironhealth",
         "url": "https://twitter.com/flatironhealth",
-        "followers": 10132
+        "followers": 10134
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -133,7 +133,7 @@
       "twitter": {
         "username": "gong_io",
         "url": "https://twitter.com/gong_io",
-        "followers": 5633
+        "followers": 5635
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -186,7 +186,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 190583
+        "followers": 190593
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -235,7 +235,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 25555
+        "followers": 25553
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -347,7 +347,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 39831
+        "followers": 39829
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -394,7 +394,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 27156
+        "followers": 27158
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -710,7 +710,7 @@
       "twitter": {
         "username": "Matterport",
         "url": "https://twitter.com/Matterport",
-        "followers": 11090
+        "followers": 11092
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -766,7 +766,7 @@
       "twitter": {
         "username": "getnarrative",
         "url": "https://twitter.com/getnarrative",
-        "followers": 24085
+        "followers": 24086
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -816,7 +816,7 @@
       "twitter": {
         "username": "narrativesci",
         "url": "https://twitter.com/narrativesci",
-        "followers": 7209
+        "followers": 7210
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -874,7 +874,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 531014
+        "followers": 531007
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -916,7 +916,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 10242
+        "followers": 10239
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -969,7 +969,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 9833
+        "followers": 9835
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1081,7 +1081,7 @@
       "twitter": {
         "username": "sbreurope",
         "url": "https://twitter.com/sbreurope",
-        "followers": 16505
+        "followers": 16506
       },
       "yearFounded": 0,
       "locations": [
@@ -1109,44 +1109,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/tanium.md",
-      "title": "Tanium",
-      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
-      "type": "profile",
-      "name": "Tanium",
-      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "website": "https://www.tanium.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tanium"
-      },
-      "twitter": {
-        "username": "Tanium",
-        "url": "https://twitter.com/Tanium",
-        "followers": 6136
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Tanium",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/uber.md",
       "title": "Uber",
       "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
@@ -1162,7 +1124,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1048283
+        "followers": 1048268
       },
       "yearFounded": 0,
       "locations": [
@@ -1200,7 +1162,7 @@
       "twitter": {
         "username": "uptake",
         "url": "https://twitter.com/uptake",
-        "followers": 5268
+        "followers": 5269
       },
       "yearFounded": 0,
       "locations": [
@@ -1219,6 +1181,140 @@
           "width": 400,
           "height": 400,
           "title": "Uptake Technologies",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/collections/ai-companies-in-san-francisco.md",
+      "title": "San Francisco AI Companies",
+      "excerpt": "List of AI companies in San Francisco.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/ai-companies-in-san-francisco/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/collections/ai-companies-in-san-francisco/",
+      "type": "collection",
+      "name": "San Francisco AI Companies",
+      "overview": "List of AI companies in San Francisco.",
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Affirm",
+          "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+          "type": "profile",
+          "name": "Affirm",
+          "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 158,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Affirm",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Algolia",
+          "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+          "type": "profile",
+          "name": "Algolia",
+          "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ],
+          "heat": 0,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Algolia",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Anki",
+          "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
+          "type": "profile",
+          "name": "Anki",
+          "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 0,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Anki",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "App Annie",
+          "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+          "type": "profile",
+          "name": "App Annie",
+          "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Marketing"
+          ],
+          "heat": 0,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "App Annie",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 41,
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Affirm",
           "isCached": true
         }
       ],

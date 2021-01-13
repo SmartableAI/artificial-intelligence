@@ -4,6 +4,106 @@
   "page": 8,
   "value": [
     {
+      "path": "_companies/kensci.md",
+      "title": "KenSci",
+      "excerpt": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kensci/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kensci/",
+      "type": "profile",
+      "name": "KenSci",
+      "overview": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
+      "website": "https://www.kensci.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kensci",
+        "followers": 3545
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kensci"
+      },
+      "twitter": {
+        "username": "KenSci",
+        "url": "https://twitter.com/KenSci",
+        "followers": 1512
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/915268504244314113/m8aLPHU7_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "KenSci",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/leapmind.io.md",
+      "title": "LeapMind",
+      "excerpt": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/leapmind.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/leapmind.io/",
+      "type": "profile",
+      "name": "LeapMind",
+      "overview": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
+      "website": "http://leapmind.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/leapmind-inc/",
+        "followers": 1026
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/leap-mind"
+      },
+      "twitter": {
+        "username": "leapmind_inc",
+        "url": "https://twitter.com/leapmind_inc",
+        "followers": 881
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Tokyo, Japan",
+        "Shibuya-ku, Tokyo"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=IsTf6hB0bGo"
+        }
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1240580034902908931/E1foW3iy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "LeapMind",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/lumiata.md",
       "title": "Lumiata",
       "excerpt": "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital.",
@@ -314,7 +414,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5321
+        "followers": 5322
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -517,44 +617,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/reflektion.md",
-      "title": "Reflektion",
-      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
-      "type": "profile",
-      "name": "Reflektion",
-      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "website": "https://www.reflektion.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/reflektion"
-      },
-      "twitter": {
-        "username": "ReflektionInc",
-        "url": "https://twitter.com/ReflektionInc",
-        "followers": 1436
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Reflektion",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1304,6 +1366,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/clearbit.md",
+      "title": "Clearbit",
+      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/clearbit/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/clearbit/",
+      "type": "profile",
+      "name": "Clearbit",
+      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
+      "website": "https://www.clearbit.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/clearbit"
+      },
+      "twitter": {
+        "username": "clearbit",
+        "url": "https://twitter.com/clearbit",
+        "followers": 3906
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Clearbit",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/alegion.md",
       "title": "Alegion",
       "excerpt": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
@@ -1651,7 +1751,7 @@
       "twitter": {
         "username": "solvemit",
         "url": "https://www.twitter.com/solvemit",
-        "followers": 14757
+        "followers": 14756
       },
       "yearFounded": 0,
       "locations": [
@@ -1731,131 +1831,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/fundbox.md",
-      "title": "Fundbox",
-      "excerpt": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fundbox/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/fundbox/",
-      "type": "profile",
-      "name": "Fundbox",
-      "overview": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
-      "website": "https://fundbox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/fundbox",
-        "followers": 10859
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fundbox"
-      },
-      "twitter": {
-        "username": "fundbox",
-        "url": "https://twitter.com/fundbox",
-        "followers": 7781
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 31,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1174382620353806336/CeEUZHwW_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Fundbox",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_200_200/0?e=1594857600&v=beta&t=K8TBAi1tgbJYEGm742QFrnsRuv0x-84YVtHE8bUjI9g",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/gumgum.md",
-      "title": "GumGum",
-      "excerpt": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gumgum/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/gumgum/",
-      "type": "profile",
-      "name": "GumGum",
-      "overview": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
-      "website": "https://gumgum.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gumgum/",
-        "followers": 12380
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gumgum"
-      },
-      "twitter": {
-        "username": "GumGum",
-        "url": "https://twitter.com/GumGum",
-        "followers": 3484
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "Santa Monica, CA",
-        "Santa Monica, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "videos": [
-        {
-          "url": "https://vimeo.com/179087754",
-          "thumbnail": {
-            "url": "https://i.vimeocdn.com/video/586908314_640.jpg",
-            "width": 640,
-            "height": 360,
-            "title": "GumGum",
-            "isCached": false
-          }
-        }
-      ],
-      "heat": 31,
-      "tags": [
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1278372496283103232/CYWpg4zq_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "GumGum",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEwptMmUu9nXQ/company-logo_200_200/0?e=1594857600&v=beta&t=Xi6UgpRhfMCgxqTtgb-d10wcID3x2wVB716aIQU53TI",
           "width": 400,
           "height": 400,
           "title": "logo",

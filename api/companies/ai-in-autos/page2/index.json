@@ -4,6 +4,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_companies/zendrive.md",
+      "title": "Zendrive",
+      "excerpt": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zendrive/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zendrive/",
+      "type": "profile",
+      "name": "Zendrive",
+      "overview": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
+      "website": "http://www.zendrive.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zendrive/",
+        "followers": 8236
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zendrive"
+      },
+      "twitter": {
+        "username": "zendrive",
+        "url": "https://twitter.com/zendrive",
+        "followers": 2104
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/695044843081306113/N-YxharB_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Zendrive",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1594857600&v=beta&t=lsBBVcy1Et43wBr46LmGm3YwJfbrCzc8QMvVMp5E8AA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/wayve.ai.md",
       "title": "Wayve",
       "excerpt": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
@@ -168,44 +222,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 16994
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/drive.ai.md",
       "title": "Drive.ai",
       "excerpt": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
@@ -272,7 +288,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1048283
+        "followers": 1048268
       },
       "yearFounded": 0,
       "locations": [
