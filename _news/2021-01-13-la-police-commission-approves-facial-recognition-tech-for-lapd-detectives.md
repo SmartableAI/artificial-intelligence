@@ -101,6 +101,20 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Everalbum Settles with FTC over Facial Recognition Technology in its Ever App"
+    excerpt: "The Federal Trade Commission (FTC) announced its settlement with Everalbum Inc. (Everalbum) for its Ever app, a photo and video storage app, due to its alleged deception of consumers related to the"
+    publishedDateTime: 2021-01-13T17:03:00Z
+    webUrl: "https://www.natlawreview.com/article/everalbum-settles-ftc-over-facial-recognition-technology-its-ever-app"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 36
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
 
 secured: "3uIZ5j7voC/1Y6i6DxqHpG1DwYGfaV5LKv0u0NdznuMfOsFHXTYq1DZiDQ/h3QdHeMj7LVvTwzVCtpQqGQhx4XURvSxPaT47N85LZ/7C2YJRPqZDKgxJw8PXK0YU9RqVxVcy9qLSvZ5L3Z6g4akHfPHmGCsi7Mkvc94tYsLdR8pPshvumiwDawNJXCfFRjHmLjYa9fTXYgr3ZaJuR+LlpkeyxywtiWi4ONkcgilsJbk/JYBv/9a1hcE/P2upgOo3Dc1sMUg4nt3GqBAPL32abkWAAwT7tK77G36LZ5zx4uWkU4cVAV0LVpHepgv1UKyPVe4YWeKmTSLu92GtxRiLzd5FRRQEV4Ya3LaeH1ogm1uTEjeby//Z0UAE7extpG8VF05Z4cVSD9hBjzH8psdP5/1jek0jR7UGmTEpT9NoCuoviQcf7j7Fi04DHO0tukyoT3tAX35dWg7vYnho8JUO+leqhNcFwQytPjESVPbNHmJAYur4WLwwEChTBKoA5G4/e5/QevMvc8kY/box/w4ECg==;E/9yK63u8God2Fng5dDqwg=="
 ---

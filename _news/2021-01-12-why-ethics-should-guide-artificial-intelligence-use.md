@@ -8,8 +8,8 @@ webUrl: "https://www.standardmedia.co.ke/opinion/article/2001399774/why-ethics-s
 ampWebUrl: "https://www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use"
 cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://cdn.standardmedia.co.ke/images/monday/why_ethics_should_gu5ffc6b52c6f4f.jpg"

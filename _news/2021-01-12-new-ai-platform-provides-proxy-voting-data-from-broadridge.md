@@ -1,27 +1,27 @@
 ---
 category: news
 title: "New AI Platform Provides Proxy Voting Data from Broadridge"
-excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
-publishedDateTime: 2021-01-12T12:50:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-industry-regulation-government-business-and-finance-government-regulations-143d454f0c0fdfed35f8db631da8a30e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-industry-regulation-government-business-and-finance-government-regulations-143d454f0c0fdfed35f8db631da8a30e"
+excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data,"
+publishedDateTime: 2021-01-12T12:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
+webUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -39,21 +39,7 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-    excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry."
-    publishedDateTime: 2021-01-13T14:21:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "xN70Rb4dy4JdbSnynAQpL3Z2KcEExQZ0JwTwUzhXSs7xjHiT78W27jaZtpgg3LLkW2+kAchRC4czcCuxZyR0ZnJFazAP7unafKdWXysX7276O2mB0OQbq4LzTwvwmhN1t7XqTNaXBFLcZdRD4bLx8oAekq+ERldu4PKRSSvZ42wWGKtvCMOSzF0r/DzN7mLA3gAV1nv1m+N+co3CefXYPxsPb1YFXy9VPJyco/D8hzmmelo7ZnPhhidc3rFo+vBAZ5AXg2bB4C85myV2B/PPQwNRYv18Z7gt56vC76QqScohrUtsp0suRNNSKQArYhbThQrC6NV0ACdmXfTnyLEIdHhxiv/gFksIBeTjtDbx8Ts=;vAESU39qfy+gcQfYzI2ZIw=="
+secured: "JmWE+pf7x+C3yvyEgoNHV/dm3JoPGrxbC/Gti2AelMHCBkYiDpP71C8OY+JPgm6UO8f40SS/IAcYM6C55OnNzw/FM8Tl7wDLNhnVZufqPDvEnQMeyHvS7lB2x2zWvYvv6mwBFTIt0pjihta8qfGDg3LrHyyUS7VjyhTMTPbYvnKV3Uzu04xPBjMtoiTbvtEECAvRwpxG25dawXsXxl4UdJl5R62wTk09lhyNwPT38nr4OTOXuhbJwCcQE8hzJSJJngntqStUOxCJKp/A9mu24YK2pK6w2W5va4iw+jNP0kP+xl3QGHPkP5PrWWPTB9Cs2OyDtbHPXPT3ChTIazVnAJ+5P06tdAv+EQr0xwrz+Bc=;2LgyPe4VvVFNgmxAv2vO3g=="
 ---
 

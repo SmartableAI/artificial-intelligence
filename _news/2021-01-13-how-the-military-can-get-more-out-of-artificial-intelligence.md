@@ -2,17 +2,17 @@
 category: news
 title: "How the military can get more out of artificial intelligence"
 excerpt: "The authors argue the military must remain educated and become the masters of AI instead of training to be its servants."
-publishedDateTime: 2021-01-13T11:03:00Z
-originalUrl: "https://www.armytimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
-webUrl: "https://www.armytimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
+publishedDateTime: 2021-01-13T10:00:00Z
+originalUrl: "https://www.federaltimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
+webUrl: "https://www.federaltimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Army Times
-  domain: armytimes.com
+  name: Federal Times
+  domain: federaltimes.com
 
 topics:
   - AI
@@ -39,6 +39,6 @@ related:
         height: 640
         isCached: true
 
-secured: "D/QdPSHVC0E3ms5tc1cBnapeannorjSKEn1E1JI183ThXT1/gUs5Lol3mmVze26tr5svrqASlFkhimxgxfU8/OcVXpSI7WRHTpnJ5NuQ33US9VWRsxqI+H5bW97uigiPBkZki2zGWZHP8X6Tu8iSuxeSPdS6mLFQy4E4nEyHiCbFsLJe6aj+jVt5DHPBwxSRUEsVaKzcXfDS6xHuinHnGMEVq7sJzZulwqlLjJA1vYTJYhVoloHAP7T9ycgYTBlH58wBq9JFx0OFuMBsxKjOAz9JoWcFGLOC+LIfxUNq30SJ/yAYweJ6xBpx+HSU3mkMTcU6/zp6WKhtU7JUgtHK6ozroxBrlfZYeABgG93xKFcYwpqcnELG2KBPR5AU0spIg3F3LTI3SKolEpWQnBTn/tD0699cpH8yt5YMVSebBRLy/Sj9wlp9BcHyssdTtkoLGPBaXlKNvGoZCCGk06pG2Z5F2GhtXm8cOHYO7769xP0TDzJChQuJZUM7FJ5EaIjmtH3/DYcZaRapHR6a2ETd9A==;2myucDAdy5sWGBBnHe9/hA=="
+secured: "mZm7eqYV7GEU315HLcOT+sxuYEnonBWZlu1xbU0C8THbccNlWBwxMxTIxvN7LT8Pj/nlgxmxIpRjBWYG/qD44VeGZVhoDOZKt2Nt1EwnxkTsZXx1mXwJ8okSd2jSPAmm4knVIgn4eHkhpREtcJ9UCMPco19H513gH4GTYhkxntb0+Rpj170ZACHPjduSpaHYoy9NItXgSYzjlV/tYrmWBFrn8cmdVe1I6LqvsT3SH9R4dkNuSDJWmcwL42Lxrg5OppdVeDAQzKgbulML4UveKENSsbf+7112ZOHHePr/Zz3YmqYq67JpveKeemr4glZUPGl15AOQbdEW28EMXb8/Xlt15sZ6yw4LvUuFO+4wxUI=;azV778+lO4HD4MKVlJH6nA=="
 ---
 

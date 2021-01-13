@@ -1,27 +1,27 @@
 ---
 category: news
 title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
-excerpt: "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software."
-publishedDateTime: 2021-01-13T06:59:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
+excerpt: "FDA has released the Artificial Intelligence/Machine Learning- Based Software as a Medical Device Action Plan."
+publishedDateTime: 2021-01-12T16:03:00Z
+originalUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
+webUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Center for Food Safety and Applied Nutrition
+  domain: fda.gov
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TlalO90WBzu5CLHBw37dsBrg7Z2sqmkd2ZoQgmNlNO3DCB2U5iYkNwW4w5RjqSbcf45YqPT6IV43eqYQhVPSJ2uh9Gg5ojKpYkCAxqtaEaAqkcVWTsjvtzM2HH8WeAidwwafF7YEani0WMtrOsKtRxn3i++SZ6/8sZt1TTjuI6uJfWEzvQZH5uxkL6Qp4zpcXdSIC11fvZfDkrxj+CpLndKy8G+wZVRYKae4LyGTImgvUZoRnzwLsa6ryE5zLlTnHXZXImvHH5043oxwrqaPyJ4k+G2/qZlMWJ8FzZ7rqpvNQ+uv98hoBn/flp5m42dZVdg88lJHaUadMc4+wvn172E+wereZbSOEtM9OuVdZJo=;D5I2hCBKe1UaRk5AMOsZ8w=="
+secured: "bwOSnLFLm0ECYH+C8eKRBQKkxovZKLTpQ/sTigzgvfiZWZs3LNLItK5z7Kj/HL0Zcx4zGg2jX20AE+tFErSP8odtQB4d/RKb1gJ3b9jpeElCMk6Zsi7Pw5BNz/v7NWE3EdaD1K2gJFyuj7XKny+SHbrGEwzKodvEfVtgGMX7R9/0UQxcgQsnkwAVjr5kShC5umkNsaAN9p9wZXE32R9BYA8776tXhMn83kS+nUZkONRwWy55n3dEgqQHc9LNY1MJ1jntlHz2mDAxWU6w0JPYAlpWDuyOldpjXzA7MEHfh+2bqkgfEQGNj7Kc45Gfknxm/5qjn2M04cXeQbiGn23qcxqDlz9m+vMvJzEiRhkYmDk=;lb3LXWiKIZ1L9DTgl+yGug=="
 ---
 

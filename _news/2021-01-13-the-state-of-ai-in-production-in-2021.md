@@ -30,31 +30,44 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging AI In Remote Talent Acquisition"
-    excerpt: "AI has made headlines for the last few years, but after the new normal of remote work was accelerated in 2020, it has been more of an impact on remote talent acquisitions."
-    publishedDateTime: 2021-01-09T08:36:00Z
-    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/"
-    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/"
+  - title: "AI Trends To Watch In 2021"
+    excerpt: "In order to tackle short-term, long-term and unexpected obstacles, many leaders have turned to AI to help navigate these disruptions."
+    publishedDateTime: 2021-01-13T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff96ae11bdf9fa884b96829%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5647%26cropY1%3D182%26cropY2%3D3358"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda5383788cdd2ee50b6eb3%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Burnley turn to artificial intelligence in seeking academy talent"
-    excerpt: "Burnley’s search for prospective academy players will be boosted by the power of artificial intelligence, with the Premier League club announcing on Tuesday that it had partnered with talent identification platform AiScout."
-    publishedDateTime: 2021-01-12T11:46:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/sports/2021/01/12/burnley-turn-to-artificial-intelligence-in-seeking-academy-talent/"
+  - title: "Digital Trends Top Tech of CES 2021 Awards"
+    excerpt: "The first all-digital CES brought challenges, but also a world-changing slate of amazing gadgets and devices. We picked the best of the best."
+    publishedDateTime: 2021-01-13T17:15:00Z
+    webUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/"
+    ampWebUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 17
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
+  - title: "Startup Watchlist: 7 Indian Fintech Startups To Watch Out For In 2021"
+    excerpt: "In this Startup Watchlist 2021 article, we offer a rundown of the top 7 Indian fintech startups that are a must watch in 2021"
+    publishedDateTime: 2021-01-12T07:30:00Z
+    webUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/"
+    ampWebUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 24
 
 secured: "xfBjrE2xjLV/phFb10wz2gBVbf261rJVNdHHZNKJzgzCuUq/vPHZ4vYLDmEIzFER+vXJcVwLYfM2GqlWUGgxohcC4HDsw8ixjGTAJQbfTdXT6rAl0S7sgLkqIyCV4limHi6ZvKUTvv+nXJjlF23VFH8uJglce6XvYJT9mGHXYxAzOGpm8tkCKkFo0yFbG6cxdzsqZ9rxVIGXO1Rg8EWuz1cvmKcRHr39j351rQKqvxtwvQ1mUB+9FHnaJN+znBZklkQ5zFTpBW1AScpcWgbBdYxDpRAZCJ1JE+rOmo40YYjZpoT0It4M99STn6H9YVWGxQ0A63bvmILnsd8Iz/out2hGzS+3fjrl8iNIkDTm59y4p3a3OTCVReM/OqLf19gS6RCfsLpAXdVfX2E09AdC/CMUpgF7Dw3Qo7YzxS27NpAFYiWrHXvaNM1cEA4+UYbDxb4qgUVjgyRgs2CpQU0qjgDV9tc/p5HRw5ZJl8FtOnkWUS/LELpifLqPJX90LWGa1HpTJgKL10Tjr7sZtfNw2g==;tbrsxDJckGxH3LAkCX4hbw=="
 ---

@@ -77,6 +77,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Image Recognition Market worth USD 53.0 Billion by 2025 | Latest Innovation, Advance Technology, Top Companies"
+    excerpt: "According to Market Study Report Image Recognition Market provides a comprehensive analysis of the Image Recognition Market segments including their dynamics size growth regulatory requirements competitive landscape and emerging opportunities of global industry Get Free Sample Report in PDF Format"
+    publishedDateTime: 2021-01-13T17:30:00Z
+    webUrl: "https://www.openpr.com/news/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    ampWebUrl: "https://www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
+    images:
+      - url: "https://cdn.openpr.com/U/1/U113350752_g.jpg"
+        width: 640
+        height: 411
+        isCached: true
   - title: "Artificial intelligence in Healthcare Report 2020 - Global Market Forecast to 2027 - ResearchAndMarkets.com"
     excerpt: "Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
     publishedDateTime: 2021-01-11T06:58:00Z

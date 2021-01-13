@@ -7,7 +7,7 @@ originalUrl: "https://www.newswire.ca/news-releases/lg-and-element-ai-collaborat
 webUrl: "https://www.newswire.ca/news-releases/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-881529040.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1248
     height: 653
     isCached: true
+
+related:
+  - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
+    excerpt: "World-leading Researchers, Policymakers, Designers, Companies Share Diverse Perspectives On Topics Such As Human-machine Collaboration and"
+    publishedDateTime: 2021-01-13T17:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
 
 secured: "ubbWIJ0Ne82l5wdUNq7pZTrjxWAQ+FEGaFyj0WzZJH48Q/dESz+QX6ymG89bwxokGzQT06PImLebc912gJ6HLKRyA7FVKFnBB961AQMVT+ZXVf9+axIV8KHpnKP4Fmn3IwIPBNyuzzHNz1H+EJnmtmpUhMCUs3OWB1cYcOpFjPHNndjCekkeXJXa3P8dX0oN+7j8HC/7lcLd6z52Cpxab4ssXIECXuBEjmZZu2KJpqG0rXIf7Y67MTkaJObcu3ODBZ8PdtoXu2HUDwdhpZsO5bjPOte73FGoP/NI6yJT9nb60sTI/A9VaR5e6vGzovmHaK5pGyuGlDhryH/0GdG8WCBZfJZzIMjKF9Zc/0EfP5M=;5aTGQbf0uJEyFe3Yfda3Nw=="
 ---

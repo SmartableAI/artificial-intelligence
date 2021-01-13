@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/01/12/business-contract
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/amp/"
 type: article
 quality: 90
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 876
     height: 493
     isCached: true
+
+related:
+  - title: "The AI arms race comes to enterprise content management"
+    excerpt: "Enterprise content management (ECM) platforms that have historically been employed to manage files are, thanks to the rise of AI, about to evolve into central repositories for keeping track of relationships between a much wider range of types of data."
+    publishedDateTime: 2021-01-13T18:41:00Z
+    webUrl: "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/"
+    ampWebUrl: "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/M-Files-Intelligent-Information-Management-Summit-2018.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "SaeF84HZpFCRykYkGCv//z7AVAUUcVztMDNnJ72rbefXoYiGikpev1voq264iq4uiS6jSndDG9KXEzgs8hqM/DADrPvdM6xUmNZRGNY5j03DO99tiNiPUnONIZ31qZb6632UQ9NQayS8b+PCD+Z8JMon7BM1sb6jTwBAvssOjnSz7uLGUEDNLWQxztpSkBG7pnosQAet7ou9l0D/15BrJ0xR6wyKgGMnkwcns/VvqosN+ljsWA+Kmo1OIOEAWZdRg04Fo2yf9CMerGlwbHJIBVg3hjQ60ZcMa58xoZ81gTzqeotFDh5O4++cvrABqdE4JanzQoFHiD+3Hb6mbPcF6vq94gSvS0YHJ8ilTpYzAW8nHvw7dA+7EH2DCTwIe9OM3aEPwcHulMnmtU64QJXvaQCPfvr7bClS+CebOwyFUh1eipbHJDcgkP/t6ZQv0KxQ6Ct9dSEkRWH2sOMUEBw8NWvgrMmmpS1h+Wr98MwS23P9elnNVexH5109b+FV6cV0UgZb2X7gTmXw0sfA4HLpJg==;ZQuB+O8JypnFHVXJw7qbaw=="
 ---

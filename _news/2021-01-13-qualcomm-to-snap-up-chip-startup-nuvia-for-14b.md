@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Qualcomm Acquires Nuvia Chip Startup Founded By Apple Veterans for $1.4 Billion"
+    excerpt: "Qualcomm has announced an agreement to acquire Nuvia, a chip startup founded by Apple veterans for $1.4 billion."
+    publishedDateTime: 2021-01-13T17:03:00Z
+    webUrl: "https://www.iclarified.com/79303/qualcomm-acquires-nuvia-chip-startup-founded-by-apple-veterans-for-14-billion"
+    ampWebUrl: "https://www.iclarified.com/79303/qualcomm-acquires-nuvia-chip-startup-founded-by-apple-veterans-for-14-billion/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79303/qualcomm-acquires-nuvia-chip-startup-founded-by-apple-veterans-for-14-billion/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 55
+    images:
+      - url: "https://www.iclarified.com/images/news/79303/79303/79303-640.jpg"
+        width: 640
+        height: 367
+        isCached: true
   - title: "Qualcomm to acquire Arm server CPU startup Nuvia for $1.4bn"
     excerpt: "Semiconductor and wireless networking giant Qualcomm has agreed to acquire Arm chip company Nuvia for $1.4bn. The company was founded in 2018 by several Apple veterans to target the server market, but Qualcomm says it hopes to use the tech in mobile,"
     publishedDateTime: 2021-01-13T16:01:00Z

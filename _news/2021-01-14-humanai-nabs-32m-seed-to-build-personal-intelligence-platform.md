@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-p
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Where Genuine Intelligence Beats Artificial Intelligence"
-    excerpt: "Intelligence has long been an essential on the international government affairs front, which also seeks to stay at the “cutting edge”. We watch with interest, using only the Genuine Intelligence provided for coming stock price forecasts by professionals in honest,"
-    publishedDateTime: 2021-01-09T02:37:00Z
-    webUrl: "https://seekingalpha.com/article/4398004-where-genuine-intelligence-beats-artificial-intelligence"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "18mvuVSXyiAMi2QtirRNH7P7hmYN73g3Jm3UURSkuVbjoz1YGnSWYwqa2lHVRXjqaFLt0D3bYaBstRcp0X4GaJ3EygdGe34iOwVFIzs4iK0p69jWyW4wc04ElDjpKK/uKgbis3t8OD7pN1prgE0g9fuJI/JlnNeoGwFo2qoFejkidxdLuQ54JAN+GwkH286a/YTkIV0wi9+Wy9SEcEji0hXGw8TtEsH0V3FJ9ynXrBUk0v6SjrkxSuHFfdVJZkQ4C1diU4Su3WtwrRyQ5NyfQJ/kyDnG5UWssLHyVW9wFQ4a46GvozHBDtXJ/fd+Wt9xrqzw4CZlhkw8vbCmQRr6MAqha6XGLZNG7QNlSOwDJiw=;Jz8T/i876gr9REsXyb1xVg=="
 ---

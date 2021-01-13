@@ -56,7 +56,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Oracle launches Apex Application Development service and Oracle Database 21c"
+    excerpt: "Oracle has released its low-code Apex Application Development service and announced the availability of Oracle Database 21c on Oracle Cloud. Apex Application Development is said to make it possible to develop and deploy data-driven enterprise applications quickly and easily."
+    publishedDateTime: 2021-01-13T17:01:00Z
+    webUrl: "https://itwire.com/business-software/oracle-launches-apex-application-development-service-and-oracle-database-21c.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 21
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/36ca0dfa2a364e147ecb5b1eef837233_M.jpg"
+        width: 375
+        height: 301
+        isCached: true
 
-secured: "pM8EGK98PrZDGEqSfABNgnJj241O9OS5GpiCCCRXgfcUUyvAv4qNLKmsdLLb3xdAZPUbcF8S3g7hXb6c0x/I3mNw/+dkTFsAGp43ch3Hl7uFHQmeJdSLExQZrODCzRLfRsgCUJ+3k745GXRZ6BOFf5c4uwd3qkrLGP6GWdnW+XJyCRyT8I9YjyhaO2vgy7oWO/aCmLPKWtv83nQbrJHqpqmxIKdF0e9RaJ4CrGpdR1P1N2pRqQf55SHCWL99kVl9tycCsoZtJNU4nrgTXKrmBrdHgDejIIIyQHOck7rZFlxY0ELgr62pbXiO93vWJynqvspzck+bGPtFw7I99t3t2WUzm4h2m6akEt2FX4timZ8=;6sGCAilAHP0gqW16u+uy3w=="
+secured: "eQ+QLRr+cJsYspOt2GE1aLP0dpx6v6hyhkzPvD1okRZZhgn/9NcTxpm/0JGW/e8kMVpk07yCr71Wdbv/Js/JHMxPvWsFSWmThrZ409YCmYHwu/LOf7kzAGmTqB2V66Wy1FDN6bSlAACsgOQjcafoxiq6XgolpU5owbDJOOdb20nmtqI7ZOtA58srxwDhDxufMHlLKzOmHoQ78wSMY5DScYr4zGPImaKs4JOkiGInmB8Lm5ymEHT4eavv320L7D5d/8d88+Hgia6dN7/mwBt4lbiQseJU3R6ldMgwQlZcUPI6G/c7YrTk9b2P62mpUIIfdYm5on6wa9gSoHNOFc6dy4HyyeQz4+rq7596KGGMR9Rx6SD7Zhk3hgSS6E6r6JLA3CFxHbOq+GvLg6AV8gqBk7R4CqKopepK5Ge416Rl7K23OX4orFrfzLome90egNUQN7puLvBM5Bd+OO4EcoKmULNJQ7eETa0P8aftX0rm+BMf9TcgOiBqPFX94hFXD4g2J6IKaS45qhqGX4BJCeooyw==;kpzyGsy6nQobuGD9utVxuQ=="
 ---
 

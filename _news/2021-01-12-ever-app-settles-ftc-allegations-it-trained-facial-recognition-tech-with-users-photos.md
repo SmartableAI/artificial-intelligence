@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegation
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
 type: article
 quality: 96
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
+        isCached: true
+  - title: "Everalbum Settles with FTC over Facial Recognition Technology in its Ever App"
+    excerpt: "The Federal Trade Commission (FTC) announced its settlement with Everalbum Inc. (Everalbum) for its Ever app, a photo and video storage app, due to its alleged deception of consumers related to the"
+    publishedDateTime: 2021-01-13T17:03:00Z
+    webUrl: "https://www.natlawreview.com/article/everalbum-settles-ftc-over-facial-recognition-technology-its-ever-app"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 36
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "qoyCaOB19WBgMEH5fDQPZFbnJKL0NB39BcDVRUNCZXVjSDgsNtHAHNZeFDMeNqsUCEmr9JSsJKQtmF/B7HOwn+Ybwn3O3mYjs6JH5DrjAGSEPtYQk35x67QLJkMyFlwDaHrntALbxGQNjWmY7+L1FmYBt6MGBEVAEMKt6FSyMtq5ox598QMpAj8BhmzwanCrFdDKkql2Qq2/63xczRuT4gn7tC2HG3bsk9gmh4qPNUnLnih7C2k8OAGTgViSfQFah5P6Hj46E6+KvwFdqMqcbgXQt92B6VnqPRr9Hq32nE3Pf5w35dHTxBcpSyem8OlAgxtJd3hjzVPHFf/I2kBzbV6Sb0xi62mrcZtDnwLPA9P27EoFqvP2BXZbFRKQNDZzDowb5MZwg90aqsTUWSZk3jey9WGQSaifP5ob6fYv8TaANGnFKPayvv3CzNGclsOFkqvBldwd0TRcfdUulKvUqV4CHmzXfVqEzz/LN9EylUtcz8B6sm/Gob+ArQV1aYp/X/QqRodMNOe4zfJkxjEarg==;cBHZ5BzJXuXm2MiOzfeZDA=="

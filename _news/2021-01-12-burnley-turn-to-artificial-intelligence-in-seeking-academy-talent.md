@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The State Of AI In Production In 2021"
-    excerpt: "In 2020, I've seen numerous enterprises discover just how much AI and ML tools can help their organization remain stable and even continue to grow despite the turmoil rolling through the markets. But this growth comes with the necessity to assure the health of ML models in production to avoid drifts,"
-    publishedDateTime: 2021-01-13T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "FgnTPRXs5FT9RMuLFe+Lzu4qOWVrzophwJ3PHtShhJMACdxmtjgnyfNscrtHciSn2wCa5ieGDeHr6NBAODMVwert2+xaSIgwEz/5sZVfn1pHKbGNKYx88NZkBTPy59JqC2yGcsEUDT/4luwTXzOlRSR1gLNwiKkV+WYEv694GKnvXjfbCG3hx3SkSfFykr/TFxQLjvvJQkOPfjEoshTDH2w8sqkXzMnYOkaJ19W51IAyl20x8cHY558jBzL+jgmrKXjB62/z/PwgukO8oZWXs8xgppSuy94BI2VNtbeiU5fDgebsO7UrL7p0yte30WM/+WfzfIZWCge8eeo/K/8SiLsWR6Hj1Nr1dBvrbG3gA1YgdQMY8oMFByQ1xqP+sRnjW9jjIImyL2pfZRxVzBeo5mwVigVIFVAnB7kKSjTxrBp/I0w/uHXr2lYugE1kttKbOVwq5Yur/FUHG8/BEqeaQLKeKYqTssXjs+8Kn9UVwgKgerECx2M49ZQAhW0HJHaEdw7I7DBxSY+QI7XY7koKDQ==;qDbjbOJr6LiR9BB0j+yxUg=="
 ---

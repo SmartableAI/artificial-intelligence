@@ -31,12 +31,39 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda5383788cdd2ee50b6eb3%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true
+  - title: "The State Of AI In Production In 2021"
+    excerpt: "In 2020, I've seen numerous enterprises discover just how much AI and ML tools can help their organization remain stable and even continue to grow despite the turmoil rolling through the markets. But this growth comes with the necessity to assure the health of ML models in production to avoid drifts,"
+    publishedDateTime: 2021-01-13T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Digital Trends Top Tech of CES 2021 Awards"
+    excerpt: "The first all-digital CES brought challenges, but also a world-changing slate of amazing gadgets and devices. We picked the best of the best."
+    publishedDateTime: 2021-01-13T17:15:00Z
+    webUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/"
+    ampWebUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
 
 secured: "pmN8l/d5OAQ3MHpSWCu3F/wJdrW3Nhz/ZxRZsKbXdjSpGMfhaaxVRcP3GgQVgdw4hhp33RrICBOI+RIZHgfITdkXd6HHtjQtQeX2mHHN6LDrqcSsDSiLRATAs8zLH+hJHT0FDNfMWgcJoAQo/uxtg+UimV5BhhSUlROf1D4AZPYbe2LqZYUxuD6C0u6GJuhyaNwf03W88DIX8v0TJNMDAOTTcJwzfMVGPZwC0bhawg+H70cr2hGSjeJSuZqll7Lsjxj4FmqdpeTMWd0npVf/dNiC6qpUVNG1AxpWj4EcCEaRmFY8kLKWaHy40t/3Vd9dNOmB3cNdnDgRiSJsbKxc/+FpIWXtxOem6XEGNTD8qEtIYWM+eVnky36+4qzsMPmOEE6l6uy0o+Z6Tys1vraWnRBE6L70M3dcmf/9Pj74PougjJfh97ChznHvLtv4pdhdO2i0Nez+qDzfOra+egc6J+2bTGp9Oe8+/ZhQ+khsONHpa7kmyFODpN3PfrusBNYA3J908HiTD9rgVu1hgN5slw==;33i87XT/lKH/8iPFBM4Y5Q=="
 ---

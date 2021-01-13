@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/oracle-database-21c-spotlig
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -59,7 +59,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Oracle launches Apex Application Development service and Oracle Database 21c"
+    excerpt: "Oracle has released its low-code Apex Application Development service and announced the availability of Oracle Database 21c on Oracle Cloud. Apex Application Development is said to make it possible to develop and deploy data-driven enterprise applications quickly and easily."
+    publishedDateTime: 2021-01-13T17:01:00Z
+    webUrl: "https://itwire.com/business-software/oracle-launches-apex-application-development-service-and-oracle-database-21c.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 21
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/36ca0dfa2a364e147ecb5b1eef837233_M.jpg"
+        width: 375
+        height: 301
+        isCached: true
 
-secured: "x2VWbEpV8WW+H78GzzUaqVjcBmTVx790StyqZ7jtPZhPQxyYO6yDU5gHreNGE2k5/aHDkPyKm5bqkFHCjXOAVwB774P22kOqGpDutBy940i09tCCYXOrsGjiBUw6IPpuK56v/JjolQDIbWIvT+/s2a8/pKmRyAUR7ewMeAyWa+0XR9o8L/OzBeckuqTZnDP+FGC+03UYbDWoHJ3c0TWXpCnnxRqXyTh8JQDRZ4gDhfvXuJr93M6twBpFZ5ZL3ONMHZsAlq+9vvIV0kN2VY//95LB9Cng0liXzP8n+8qO9szHfHIVpbhHlE7+9W3UECTJG/FPronoXH/Ago6sHLf1RY3aeMQJcBEZ2wekyG6vvyI=;9ql0AFx83ofRwg8seXOzHg=="
+secured: "B2dK/tUgFsW/U4NnKc1jweYo8sK0lBKZpTzdE8JVXiPDJNUuaVJAq5DW5T/LlkD0q7SyqbUUFXSb7CYCl4iyq8P5DIjk38wOLdfUUtCrm2z3oZK/s1yPZafJ0VDhadeqZdDMGj2AdyRzJdy3xP3sDwN4QQ6sUWKyUbXnwAxfVBpx/hJAlwJ99DImk7DI0UKJZmHtgfP+R23XaEDBCwDhQSZRKd7L9DO2TGGCT+apxhw6lDicF2vn9Swq3ixR3dclBzQEU4gp8tZ8SOsxJmKNts4wJVPDQKvKh8SELdv9wCWXxOXOQcoYPa8zd5OFNPjet6w2agkBmOdZ5IxCJJVIADaIDaDKipF+1gAeFK1tVJaPdjN/ZAQ0eR/NyS4JXuRsZAx+OOgDbO8hiosokh3cSqdUH/GjSGmUev9I/N3IuvT4XU/HRz5IDAMe2SVi2VY/j8i8cpKifdglspEp8qdSEab1xPWkUkwJxHhKaYCF6nt5kMogQSNnux2XGksiwF6e4+9OFFxDYs7I5ey/Ch1KQA==;eLvourbmITn8jQ/EspGNIw=="
 ---
 

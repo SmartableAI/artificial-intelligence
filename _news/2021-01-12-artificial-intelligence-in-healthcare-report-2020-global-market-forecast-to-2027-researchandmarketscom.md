@@ -68,6 +68,22 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Image Recognition Market worth USD 53.0 Billion by 2025 | Latest Innovation, Advance Technology, Top Companies"
+    excerpt: "According to Market Study Report Image Recognition Market provides a comprehensive analysis of the Image Recognition Market segments including their dynamics size growth regulatory requirements competitive landscape and emerging opportunities of global industry Get Free Sample Report in PDF Format"
+    publishedDateTime: 2021-01-13T17:30:00Z
+    webUrl: "https://www.openpr.com/news/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    ampWebUrl: "https://www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
+    images:
+      - url: "https://cdn.openpr.com/U/1/U113350752_g.jpg"
+        width: 640
+        height: 411
+        isCached: true
   - title: "Global AI in Agriculture Market Size & Share Estimated to Reach USD 2,400 million by 2026: Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"AI in Agriculture Market By Technology (Machine"
     publishedDateTime: 2021-01-12T11:34:00Z

@@ -56,6 +56,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Qualcomm Acquires Nuvia Chip Startup Founded By Apple Veterans for $1.4 Billion"
+    excerpt: "Qualcomm has announced an agreement to acquire Nuvia, a chip startup founded by Apple veterans for $1.4 billion."
+    publishedDateTime: 2021-01-13T17:03:00Z
+    webUrl: "https://www.iclarified.com/79303/qualcomm-acquires-nuvia-chip-startup-founded-by-apple-veterans-for-14-billion"
+    ampWebUrl: "https://www.iclarified.com/79303/qualcomm-acquires-nuvia-chip-startup-founded-by-apple-veterans-for-14-billion/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79303/qualcomm-acquires-nuvia-chip-startup-founded-by-apple-veterans-for-14-billion/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 55
+    images:
+      - url: "https://www.iclarified.com/images/news/79303/79303/79303-640.jpg"
+        width: 640
+        height: 367
+        isCached: true
 
 secured: "zCvYOZyiOCh0oV8/j2Nl1AjZvw+xAXqZ/Xgp8vDeO8wB5rBPNBycPGIHcQk1N3MXQUNch/HJdlMBs+Tb5RHs054LlULpAPGHlCQgiAeXCtL0O/w4a6PVaLnt11NW+dywQjJPduLLIxfcfAWKKgJKZepFBdM6RRqZeCl45snkSmDB4rCXiQPlVKK9NEBLFjaHGsIcEykQ6QAHnhVVTC44KQOmUe4bhvyYRHrnDtKrot2xWx32KIuGXmo1PEWoPKRxV/+kyfE01QfkCqaPR/UC2ox0uMA/AvmNURGdV7wbrtJKSZFe+J9MDHZcRv+WgcKT8LHAnlxiuaA7Ob8aooi2izX/ykrmIyLj9tsKSejc8W4=;Uq+hs+hpcp2N/qwynJLowg=="
 ---

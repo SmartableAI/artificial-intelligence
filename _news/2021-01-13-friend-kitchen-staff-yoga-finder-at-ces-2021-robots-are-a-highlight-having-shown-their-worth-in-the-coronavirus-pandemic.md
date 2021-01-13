@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitche
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/robots-which-showed-their-value-during-the-pandemic.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Pandemic’s robot ‘heroes’ highlight their value domestically at top tech virtual show"
+    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
+    publishedDateTime: 2021-01-13T18:34:00Z
+    webUrl: "https://www.khmertimeskh.com/50803265/pandemics-robot-heroes-highlight-their-value-domestically-at-top-tech-virtual-show/"
+    type: article
+    provider:
+      name: Khmer Times
+      domain: khmertimeskh.com
+    quality: 32
+    images:
+      - url: "https://www.khmertimeskh.com/wp-content/uploads/2020/04/Engineering-professors-pose-with-the-version-two-prototype-of-the-IIUM-Medibot-medical-robot.jpg"
+        width: 750
+        height: 440
         isCached: true
 
 secured: "TCi6+Lx6nqbF5byRV98pyBdpAyCXFHw9s9BftTfj9FyKShH0SIOLoPyuHpCee/y6AjjRWWea/zxDvnO8T2UHFTUMw3s7xJvUuuSdDL3ePf+FqzJNmUOqSScjh86XfPTsWMyzuDcaJdn5YzpmGoEuhONvxplmO1W7qOZL8GHo5DUAj2qztSFOVu0s3t/ckLA0TjNf5YuSfsRO+1WQuUV6SclTlZsKgVTCkGXzmXSMxnWYfHbyZWAlUStQ9tma5u1p2HCJ2xYsN4s1M2x7Tk4VLfqMYFcqRTGq9rl/J5xT6uhIaoLZWNCXZzE/dmclFgbG2i4sp/Mxb3pIHDH0eLZRPxsEoGsVtfL7yU3YURBtrmUk+sxNKMVLFrgWuemvq94shOyeKi6eGiDvjJ3BTY65PBLxPHi8uNHexGQMdM9oNJTKDD0pj9wA14A9Km8k5QOA9H/3yv/Fq3RGzaKHD6qdg0mo7fohRu2ovRdP1sA/5rY6r2HzWMHUAyy5bzwoezHGrwZAmwiL6Yl7XIC+v4yKqA==;06w0HiRXUDVw5IXzdAe1eA=="

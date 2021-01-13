@@ -3,10 +3,10 @@ category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
 publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 quality: 136
 heat: -1
@@ -111,6 +111,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "fu9nVjcjVmxesLSaEx7OtOBAE7nDBVbbA9O8CBxnq1skUbATir35tAUl+YpMYHs5ogBGinETBfSS9WGHt1yPrFVDlQXfv3YFU5cLnRZjhZORhcF/jmxnGaZB2P+kKftNagCeJIxh50nKwmKCIoFpzuy1ywJoVE3SZGt27LgDe37anIXMUaALym1jomXEfv6V9ITiW0Vlbe2XAzES+EzWSoQi69VohfEspTuCUphKSjvsqjsAxmcB0d8gbpCKntm4Q/P6/BsceFcw7jrD7ou+0U3sAozsrZdrLtR+44r381BBWqzp+zsAEdA9hkV4ZCGlz0j94XFbH0yDWV6DGfoPKwFHvLdqELB1mLU8F8moWM8=;uaFJydxZKXIJ+MFb4DHODA=="
+secured: "f/h9Gv9acItfXORc1ocniQeIqaqXnLPmpSn4CxWl69lOU59CPl3wsVqvpBdScXnS+jGhh1Miqcy0F0qvC/RCa9+gtdo4CVfTIv7Si9nh9f3UOU0Hv4H37cqtYwRlsoq2MNc6XIEAHWGDVY86lSKk1AFlSG0SxURgkUG8/iqzSKAr+3unxQhBX4UgPYo6fBqHknLx4yhtvZZuSxi0+8iVmYCuFntYqOZ2kkkwJ8l6e8ZP2eZYjD0LMT7X2/Le64pqffUhC1sZK6mmDSuJodiUP7zKesUa/CD47ihVeViCJysXStDVYphw6NzOSNo9b10B1JEVeB6nELPeYUplcqT0M9dUvh+8hOoFhQvm2csK9bs=;n25P/6QJT/C07vZs0YQyXg=="
 ---
 

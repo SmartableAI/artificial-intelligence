@@ -1,29 +1,29 @@
 ---
 category: news
 title: "StradVision and D3 Engineering Showcase a Market-leading Automotive Front Camera Solution at CES 2021"
-excerpt: "PRNewswire/ -- StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous"
-publishedDateTime: 2021-01-13T16:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/stradvision-and-d3-engineering-showcase-a-market-leading-automotive-front-camera-solution-at-ces-2021-301207707.html"
-webUrl: "https://www.prnewswire.com/news-releases/stradvision-and-d3-engineering-showcase-a-market-leading-automotive-front-camera-solution-at-ces-2021-301207707.html"
+excerpt: "PRNewswire/ -- StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AV), today announced its collaboration with D3 Engineering on an Automotive Front Camera solution delivering market-leading performance and price efficiency."
+publishedDateTime: 2021-01-13T17:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-photographic-equipment-and-supplies-manufacturing-consumer-electronics-manufacturing-a9346cc0f05941d036ff098775ea4278"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-photographic-equipment-and-supplies-manufacturing-consumer-electronics-manufacturing-a9346cc0f05941d036ff098775ea4278"
 type: article
 quality: 9
 heat: 9
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
-    width: 1413
-    height: 740
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "GNAhrwP3nCMpnn7OJV6HQzLwDjsMRn2WJ5IpdAXNAdJ696i0dxZX1pCNPlF1lBfo+jXIDOqTh7hSu578lcluPmCeva4ilvy83mjkpae3mq/4ku4CR3I5WsOnho0o/dXMaJGRJdKwdTzwhiDuAAbxgh4d+ib5U44qn9BEfQp+CDdiRuuhslox7AgUF3sseFl9JsOQAWq8eJUZPd8oAJraAimt6Z0NhBPA+ybUvAw9aIa3/m2QdC7JcwA86ldWEZp67fxX+0JyXB6HGx6YPIb92NIVEofYVLLqFjn00NDkSVo7ejFNJOytKCmbCrIrJMq5eLp0b7ubp68FlcjEKS5tKe6kvx4uIzi8v8yRAaO61pQ=;BmBCM8JpuHjBF50eqoG28A=="
+secured: "s4Cj2Qdei4mzb2eIrEw3dRam0pU7jtj+hnN9RVw0piAvRJMWL1oVEV2AUJyYFkROea/AUVm940h3qR8d0xfPYrzYiPJbh+5IyEpLqekgs3wttyIxXBaLJMIaMe/JWHSt8FrPhB4NG+RhtA2xClgrOGt0EKBU6gx5oQvvTAmiLnOmC6diuMHOvKfmhPzsBVlUpAfdLuPzpxcVK94BW4ZacZQKvxfUVrqfY6DAC+HbOZHHzFwkq5gbTT6zKnGB0PWoANJk30Zm9Kd1bVlx1dJi82JwJNKySW6utGvl1i+R3jkP9jgWMA3CveohPHFoM+KXW0lvwHMVzb7OfpnJ7wZmyI2WnN2pNueYqR9SbYZOGt0=;xrDMkd5euzp+uVUFAdLAMw=="
 ---
 

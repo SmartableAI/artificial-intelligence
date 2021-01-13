@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
-    excerpt: "NVIDIA Introduces GeForce RTX 3060, next generation of the world’s most popular GPU. Powered by NVIDIA Ampere architecture, delivers up to 10x the ray-tracing performance of GTX 1060; Starting at INR 29,"
-    publishedDateTime: 2021-01-13T13:25:00Z
-    webUrl: "https://www.businesswireindia.com/nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu-71104.html"
+  - title: "Asus ROG Zephyrus G14 now upgraded to 1440p 144Hz and Nvidia GeForce RTX 3060 Max-P GPU"
+    excerpt: "The Zephyrus G14 was one of our favourite compact gaming laptops of 2020. Now it seems the 2021 model is set to be even better with a 1440p display."
+    publishedDateTime: 2021-01-13T17:45:00Z
+    webUrl: "https://www.pocket-lint.com/laptops/news/asus/155323-asus-rog-zephyrus-g14-now-upgraded-to-1440p"
+    ampWebUrl: "https://www.pocket-lint.com/laptops/news/asus/155323-asus-rog-zephyrus-g14-now-upgraded-to-1440p.amphtml"
+    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/laptops/news/asus/155323-asus-rog-zephyrus-g14-now-upgraded-to-1440p.amphtml"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 51
+    images:
+      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155323-laptops-news-asus-rog-zephyrus-g14-now-upgraded-to-1440p-144hz-and-nvidia-geforce-rtx-3060-max-p-gpu-image1-srpoxvzoku.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
+    excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
+    publishedDateTime: 2021-01-12T17:47:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 33
     images:
-      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/nvidiageforce_71104.png"
+      - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 393
+        height: 450
         isCached: true
 
 secured: "J2hvEOKsFRmlznyYJLdfcBYad1Ln/BC7Fi9Vcmf2YE7YKzxG7N+Hzsj7cFmKC0I9ThtsOuQ7NSY6eFNDrWVmKaTWsmYcHBz+luWUoiV7qUl7VgQTcfLmzjc31DIUbH39AfQHlrXEpjZlj03YiqU+/FhgZqHDwFU5hdn6YAmGjqJ0nFV/2Sglo2m+jig0FiI4Hj8lw3mcUJM62dzMrJj/dMpqsPSEc5unxM4GLzbXtRruz1yH/03T1+OJI1PMlt3OFHnk/XBGnPhXr0lYBDhKUhxWB2GGWeEXnS/4lCqQmfIE/vOQ2q8SQUxHKTw58kGrp4FBNXiT2yE4l2rEtcRHV1wr2jBc5IHJMihiFEAW2usuX1H4EvQkhUDyfRn0jVDl+98iCNVlPYGXR1sOzuBomclx6Hq5G/uRujGbiCJXcH4wBHyQVmfm/kwSK3RH3/3TPQNxHocmmsqQK9Q1uDx9G9D5YZX9efCeUOiaGh/obYjWAYO+fOJeMejNiT+xn3VWDqxXF4a5g9tRifMFb9jDIQ==;mWO3FKWCj8YGiPKG49EeVA=="

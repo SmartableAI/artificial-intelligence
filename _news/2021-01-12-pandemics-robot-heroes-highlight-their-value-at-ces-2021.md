@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Pandemic’s robot ‘heroes’ highlight their value domestically at top tech virtual show"
+    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
+    publishedDateTime: 2021-01-13T18:34:00Z
+    webUrl: "https://www.khmertimeskh.com/50803265/pandemics-robot-heroes-highlight-their-value-domestically-at-top-tech-virtual-show/"
+    type: article
+    provider:
+      name: Khmer Times
+      domain: khmertimeskh.com
+    quality: 32
+    images:
+      - url: "https://www.khmertimeskh.com/wp-content/uploads/2020/04/Engineering-professors-pose-with-the-version-two-prototype-of-the-IIUM-Medibot-medical-robot.jpg"
+        width: 750
+        height: 440
+        isCached: true
 
 secured: "JtDN3Z/NAhsqYgt+sqyPcrDHTyuG7o5fV77J3h4ynwODWsNxLvTb6yWD4C7X0i8aqH6t0dpp9LWxnQ8xa0sdmacXcP4MA+aU+wHw8teAs9ooPTVAraO9lLTQjBsCAmKlzosoZdaJz/vwEg2zMaDwyrz8ixtWJAz2CUfklhDCBZYOA2+jSX5XKag5hWOzTmpv+mloQxTk/7Qot6m4wfUx2MjFw0Yrzq5BaiQC2dOYl92q8mCl9/4TuATwe6E62mJkgWGXbwl3G4aKImMrruo1lpS0D+SMTNnwGOpfzon0HYXteTqAxZbzcAUsCfcUvoZbXl6ZRDdTBmggMWvVIzwmPxQkwEGCuxz6YzwFERY6i3k=;alrkUL15CLtNV40ABsNkvw=="
 ---
