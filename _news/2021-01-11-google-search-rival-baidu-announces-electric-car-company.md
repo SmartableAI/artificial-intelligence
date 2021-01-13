@@ -98,6 +98,15 @@ related:
         width: 1024
         height: 597
         isCached: true
+  - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Form Strategic Partnership with Geely"
+    excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) ('Baidu' or the 'Company'), a leading Internet platform and AI company, today"
+    publishedDateTime: 2021-01-11T00:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-1029945706"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
     excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
     publishedDateTime: 2021-01-10T22:22:00Z

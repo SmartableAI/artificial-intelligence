@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/newswire/technology-business-clou
 webUrl: "https://apnews.com/press-release/newswire/technology-business-cloud-computing-information-technology-government-and-politics-7cd456e9838854262d88e3bcbeea63a2"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and machine learning continues at AWS re:Invent"
-    excerpt: "A fresh new year is here, and we wish you all a wonderful 2021. We signed off last year at AWS re:Invent on the artificial intelligence (AI) and machine learning (ML) track with the first ever machine learning keynote and over 50 AI/ML focused technical sessions covering industries, use cases, applications,"
-    publishedDateTime: 2021-01-08T19:26:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/artificial-intelligence-and-machine-learning-continues-at-aws-reinvent/"
+  - title: "Novan to Present at the H.C. Wainwright BioConnect 2021 Virtual Conference"
+    excerpt: "Novan, Inc. (“the Company” or “Novan”) (Nasdaq: NOVN), today announced that Paula Brown Stafford, President and Chief Executive Officer of Novan, will participate in a fireside chat during the January 11th-14th H."
+    publishedDateTime: 2021-01-10T14:25:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/novan-to-present-at-the-h-c-wainwright-bioconnect-2021-virtual-conference/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 37
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/Thumbnail.jpg"
-        width: 800
-        height: 449
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "6kjEV5BE/kHstArc5OKlQU+v7sPF3EaNq9ULx6whXtigo/oofKpYmGhwLIMKD2ykq+hgym5rKOm48dPTGwBPspENffpYJrkfczpcrBa057k5vkHieMepArsn/PsAJWGiW5qI6GMiszqFcqyZDJVsFt3QAdl1TsluSdDcBa8/qp5F8Bp0uTG3DEFcAdSGmC8jcSSZ+9+Mppy+qppnyJMTDzMC8YjQMv/Kr7UQ+mMYHxiohuUwDDn/EGoIkBH0TIRqXbKaTKwFwsMtj5I7EW8P4+evEQ2inrvHt5GNuOEv/ZGaFduVTOQRMagsq7f7UkmXZoc2Efju8LMA1voeCnjjSQHmnpWiBHlJm6G5C+e4T2w=;0uSn1gSBE4YAU0Wa9ONDFQ=="

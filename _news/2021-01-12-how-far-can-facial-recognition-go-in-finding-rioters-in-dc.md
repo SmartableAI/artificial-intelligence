@@ -3,25 +3,25 @@ category: news
 title: "How far can facial recognition go in finding rioters in D.C.?"
 excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
 publishedDateTime: 2021-01-11T19:38:00Z
-originalUrl: "https://www.wgrz.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-webUrl: "https://www.wgrz.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-ampWebUrl: "https://www.wgrz.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+originalUrl: "https://www.9news.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+webUrl: "https://www.9news.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+ampWebUrl: "https://www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WGRZ
-  domain: wgrz.com
+  name: 9NEWS
+  domain: 9news.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wgrz.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+  - url: "https://media.9news.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -75,21 +75,7 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Intel is Repositioning its Depth-Sensing Camera into Facial Recognition"
-    excerpt: "Intel has officially launched RealSense ID, a facial recognition camera module that is built on its RealSense depth-sensing technology. Originally"
-    publishedDateTime: 2021-01-08T19:08:00Z
-    webUrl: "https://petapixel.com/2021/01/08/intel-is-repositioning-its-depth-sensing-camera-into-facial-recognition/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 39
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/01/Intel-is-Repositioning-its-Camera-Depth-Sensing-Tech-into-Facial-Recognition.jpg"
-        width: 1600
-        height: 840
-        isCached: true
 
-secured: "7PZE9IQogHHF39A1+kEhsib3u9JRYModCxcBklM6shwUlk27ts4T0P938omV3DSiFIkfiaoGIy3SHv5H5SnaInAdpT2jUx/7ZK+togvikRJORWkGfeR9wEFlc+6mKCfWVCIKXy/nv6rBrsAVPfZpiLkGjTKQuoxAPZAf+DZuw+4oB5uUcHWo40819pMtnKbSX+VQ5Nv2/fx2CLeX/CNy5WjgC++3XoH+bUSRHvUA1NF45LvK0eQcUMzl48yre1qmhjE+YhyNCG+T7Oyqa/cUGVFFo0N86VxYHv9kIP45YOvUlUvy1COj7xcTZX1PzMFOelhmP392hZuX6S9R4tpRnxg2lpqx7KhoxaiZUn/MjUU=;JPZ/yVJS9lnFXJuNljisaQ=="
+secured: "Hp5X0pkkabvuDLRDit+hLUKVemYkkEjfNfkVC3fJOxONvgUHnYDgNDHRlfOsJKeavCRfwJDdBuZtf473/veAKnmmRO18T+hiLXzNDGk7AWUm43jcQ0tqzM7NWAEB+FnUfYd1Gk8XuWguNqicHrBdQ6tUmIkgVpyofjMFaRvV0M46B3hJ25ioJ9YH0FkM40fyasEiizUq/GY9nBDcuA9ThKCPb+FJFHTf5C/pchk3yRt/cYO3Jhopd8/yQXv09Qm4/DhUF2RPB9U2YV0+foOYuZsFb3sKQldqUG3mqQJDXEbSZ6vW3NvSuiqAU+qlzcdiWQ/fzqLnQcyshoUYNsEus/CxkwjPTqFNrCyYnEyt908=;4gaiLavXJrUbonwrDjUq3g=="
 ---
 

@@ -28,21 +28,14 @@ images:
 
 related:
   - title: "7 Potential IPOs in 2021 That Could Build Out Your Portfolio"
-    excerpt: "Coming off of 2020, there is a ton of momentum surrounding potential IPOs in 2021. So, here are some prospects to ride into the new year."
-    publishedDateTime: 2021-01-12T19:36:00Z
-    webUrl: "https://investorplace.com/2021/01/7-potential-ipos-in-2021-that-could-build-out-portfolio/"
-    ampWebUrl: "https://investorplace.com/2021/01/7-potential-ipos-in-2021-that-could-build-out-portfolio/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/01/7-potential-ipos-in-2021-that-could-build-out-portfolio/amp/"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips This past year the initial public offering (IPO) market ended on a very"
+    publishedDateTime: 2021-01-12T22:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-potential-ipos-in-2021-that-could-build-out-portfolio-1029961808"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/06/ipo_0509.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "68taIIQQLqWMKv1wCWUY5caB9UbCWNPzwjiCffpcBNyDoOBPHUC1mQ1fkQpnxqx68ENiofsFMVWXfyeug7uhwoIwpG+iezglVrdiuCJkZrE5eGQH5Z4NKh61EGRs2QORkIjWcQKjJtuBgFNR7Qz2t2hUCwwyULwS51mGilnTIURUowhaWz7wHa926tS67GCunviIo4F6zyImWVSLcAJ2S6d7DQeDuLUek8orzsS/D28pyIt2BwX5T2CDzUbs7bdRgsHWr6Llbq9taFWinslYLTVoCWrL8cFsZ7Xj4IAY6b04WDXgqtyi1DzrjQc2HfZbAU18OcwNo+rc8lPqGExM6tiJhC2yzHFpn96iZ25Xp0k=;KQ+xN92fHrjHN1FbXrK2QA=="
 ---

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
-    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
-    publishedDateTime: 2021-01-08T19:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
     excerpt: "Selbyville, Delaware Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
     publishedDateTime: 2021-01-11T08:51:00Z

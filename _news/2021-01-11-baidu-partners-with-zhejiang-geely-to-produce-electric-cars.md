@@ -106,6 +106,15 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Form Strategic Partnership with Geely"
+    excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) ('Baidu' or the 'Company'), a leading Internet platform and AI company, today"
+    publishedDateTime: 2021-01-11T00:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-1029945706"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "SJo15VFv14hPod8ZFN4ITKlFVZeu9bLghXH3CfnlqgjA2k4T9iPg0z/W+MXwV4Eo6HeghYtLLQ/P0mkdskbffxahUEQBsaZAuRE26mXxoob3EMCeo1lyLhe4K/vG+Rfwkiq146kCII8Of6CtJLXLit2m8/h0tjevnquQJGhx25+wcsrzu7+eyE6Gx3SCv/eVPZHgn8jkUo1b+z7xVq455yg+IHa4DxyD0C+IP3U4qFoPLsVOQMj7mw4KK3Nv+DIkw9C1sP/ypkii+FP90cEfx651Vy387EQptnTb6vhP4Shy8OZgtkDrK/FGadEI+Ry6oZGaW5eeqLG7Q8HiFdagJnMacJoUnPm8QF51t+yPwA8=;gppF9GUDvPqArDiWEdNLNQ=="
 ---

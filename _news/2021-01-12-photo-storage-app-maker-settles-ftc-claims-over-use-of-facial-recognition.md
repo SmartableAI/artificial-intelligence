@@ -3,8 +3,8 @@ category: news
 title: "Photo storage app maker settles FTC claims over use of facial recognition"
 excerpt: "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app."
 publishedDateTime: 2021-01-12T04:05:00Z
-originalUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc/photo-storage-app-maker-settles-ftc-claims-over-use-of-facial-recognition-idUSL1N2JM2VH"
-webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc/photo-storage-app-maker-settles-ftc-claims-over-use-of-facial-recognition-idUSL1N2JM2VH"
+originalUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH"
+webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH"
 type: article
 quality: 83
 heat: -1
@@ -106,6 +106,6 @@ related:
         height: 260
         isCached: true
 
-secured: "71CUjjXx8GkRNd6WZKZInIaAO3gD5uRFsiFWS3NFk5XY9ip46cBZX4Eb3M3g6T3KLapo8Up+tfvf886G0qts+zXTwvonp2T8HaSyjk9JtKdbLNqBnS7XTI7GnRr6a0DSuMkZAzbTuWogiHsSwA50t8Myb9s7PoKmKvlfTdVZNcJpQyOfdGr++99tJsw7pUcVrtyVmvm1NneYV6tqKbvl4ctld7nTm3XdNTf+B7/NzgzpbMQpGyGmK43zFpvX7c7z25WTbAN47ajBGAKV/jKi39qjEwONMPG/AqslwtJ3JqRdFrXovDasVWNhBeJSzgKwCLvmbamhTCb9I6xv5188a9psWSMVAUWR03ghf+Shdr0=;kMlCFh5abxAZ0wM4s6nCbQ=="
+secured: "kGdWFXugkQPxSxp3OvBDzM+mgrXj0arVUn5ZkLn/dryn42bKXMJ+HsIc/+ReGOLBALXqi63DBhirBDK9QzgzvhANHDGigma89qyLZOe7B/fiCu2ilJT0v/dKTHyN/KcIZz+iB189ZSyBvoxMKV8e/NS0/q5/j072DmWUb2yW06ssMk+KJ7J0QGS+fYBJN2G+UgSK/gY/VNTOXBlTyKn2Qd4EGBz5omEjG8emM/jf05o4yAlr6dYvOZOdTTPP3aIHdGwrA2Ehzv/Z8DFiNz+cYAhwaQAuiVuhuvsmaoNs2yB/utk26Q9e6MjXEBBrN123nqTAHPijJUB5KgfpnPjMEykd/VXnloVWcawC9j3CIxQ=;kmP4hA/zlTO6tri+WXxFIw=="
 ---
 

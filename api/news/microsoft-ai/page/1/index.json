@@ -502,24 +502,33 @@
     {
       "path": "_news/2021-01-06-sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience.md",
       "title": "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience",
-      "excerpt": "\"With Microsoft Teams driving better collaboration in the modern ... high-value products built on trending technologies such as computer vision, cognitive services, big data, and data science. Our continuous effort to align with emerging technologies ...",
+      "excerpt": "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs.",
       "sourceUrl": null,
-      "webUrl": "https://www.trentonian.com/news/state/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience/article_7e312eec-0082-56a2-bcdc-bcf77652df43.html",
-      "originalUrl": "https://www.trentonian.com/news/state/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience/article_7e312eec-0082-56a2-bcdc-bcf77652df43.html",
+      "webUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T08:36:00-08:00",
+      "publishedDateTime": "2021-01-05T22:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Trentonian",
-        "domain": "trentonian.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1067,6 +1076,41 @@
       ]
     },
     {
+      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
+      "title": "3 Machine Learning Stocks for a Touchless Society",
+      "excerpt": "The sheer dominance of technology in our lives this year has directed investors’ attention towards machine learning stocks. With technological advancements taking place every day, investors have plenty of opportunities for some big gains in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31",
+      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31?amp",
+      "publishedDateTime": "2020-12-31T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-you-dont-code-do-machine-learning-straight-from-microsoft-excel.md",
       "title": "You don’t code? Do machine learning straight from Microsoft Excel",
       "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
@@ -1382,58 +1426,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-honeywell-buys-sparta-systems-for-13-billion-plots-life-sciences-expansion.md",
-      "title": "Honeywell buys Sparta Systems for $1.3 billion, plots life sciences expansion",
-      "excerpt": "Honeywell will acquire life sciences software company Sparta Systems for $1.3 billion in a move that will expand the reach for the Honeywell Forge platform. Sparta Systems feature",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
-      "originalUrl": "https://www.zdnet.com/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/22/52a7fadc-ba5d-44a7-8dcb-590bce0e9673/sparta-systems-trackwise-stack.png",
-          "width": 644,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
-      "publishedDateTime": "2020-12-21T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

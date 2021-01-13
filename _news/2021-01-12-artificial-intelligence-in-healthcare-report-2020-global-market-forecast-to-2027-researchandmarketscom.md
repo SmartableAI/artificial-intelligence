@@ -68,15 +68,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Global Healthcare Artificial Intelligence Report 2020-2027: Market is Expected to Reach $35,323.5 Million - Escalation of AI as a Medical Device"
-    excerpt: "Dublin, Jan 08, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Jan. 08, 2021 (GLOBE NEWSWIRE) -- The \"Artificial intelligence in Healthcare Global Market - Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Is there a problem with ..."
-    publishedDateTime: 2021-01-08T19:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-report-2020-2027-market-is-expected-to-reach-353235-million---escalation-of-ai-as-a-medical-device-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
   - title: "Global AI in Agriculture Market Size & Share Estimated to Reach USD 2,400 million by 2026: Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"AI in Agriculture Market By Technology (Machine"
     publishedDateTime: 2021-01-12T11:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-drivi
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving firm Cruise hires former Delta exec as COO"
-    excerpt: "Cruise, the self-driving firm majority owned by General Motors Co, said Friday it is hiring a former Delta Air Lines senior executive as its chief operating officer."
-    publishedDateTime: 2021-01-08T19:16:00Z
-    webUrl: "https://www.reuters.com/article/us-cruise-executive/self-driving-firm-cruise-hires-former-delta-exec-as-coo-idUSKBN29D1TR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547111424&r=LYNXMPEH070U2&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Intel’s Mobileye Plans Self-Driving Cars for the Masses by 2025"
     excerpt: "Mobileye NV is using the chip-making prowess of parent Intel Corp. to build laser sensors it says will make self-driving cars cheap enough to sell to retail buyers by 2025."
     publishedDateTime: 2021-01-11T18:25:00Z

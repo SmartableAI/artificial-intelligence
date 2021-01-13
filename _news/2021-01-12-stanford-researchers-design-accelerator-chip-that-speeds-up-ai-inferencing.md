@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/11/stanford-researchers-design-accel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://news-media.stanford.edu/wp-content/uploads/2020/12/10130601/Illusion-art.jpg"
         width: 1419
         height: 946
-        isCached: true
-  - title: "Stanford researchers propose AI that figures out how to use real-world objects – Jaweb"
-    excerpt: "One longstanding goal of AI research is to allow robots to meaningfully interact with real-world environments. In a recent paper, researchers at Stanford and Facebook took a step toward this by extracting information related to actions like pushing or pulling objects with movable parts and using it to train an AI model."
-    publishedDateTime: 2021-01-08T19:12:00Z
-    webUrl: "https://elmoudjaweb.com/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/stanford-researchers-propose-ai-that-figures-out-how-to-use-real-world-objects-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 51
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Stanford-researchers-propose-AI-that-figures-out-how-to-use.png"
-        width: 1029
-        height: 516
         isCached: true
 
 secured: "Mqj6aCVhXfVXH914mAoIDC6VRnELBk+IZOwNx3MB//G25mftOvWdiQuiEQAp7fUxD2MJIhTv94E3mVTB061mnRxPOUZ97jN04ynrqwTVOGZyDluV+9qak5dm8ob9O01uvkwPE25B+nmljVWpN8eUQwDW7G4v63pUnwYIx3hwFxY7a8uCA7v8Kw2+a4Uye0GeBbakVC3+cgh9zUzThqri97zjoVTGwMIXdpCyjxC2+93655URP/AfVI8qxIUBx5uYqMlgR168DLJTTg4mkKgD5tmzioU3TkmluFbZloDtmCa+UKHBhMbrmRRx4EdWqpdGn/kd9FiS9dqE9x9ww0nrCbh8Ev9VEYELE5SJVLD9D2y5lhi9GCJ5GqD37fKApYGDqG0qAni/bCRhsy/wdX8l7T8dIO0X2zz5HETdHULz9V+tK1Y2vdI1MIBuyhbXhNHN39qgtdK4yM7289Hggq7VlQqX5ybY0NfIKhFfdb3GGFbZgJ/2gzOV132OqDt8SI5Alj+CuLVnVYxK8wVMQgR74g==;Zzvf5JHgNfMW79yaYev3Fw=="

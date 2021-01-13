@@ -117,20 +117,6 @@ related:
         width: 780
         height: 300
         isCached: true
-  - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Form Strategic Partnership with Geely"
-    excerpt: "(NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish a company to produce intelligent electric vehicles (EV), and that it has entered into a strategic partnership with multinational auto manufacturer Zhejiang Geely Holding Group (\"Geely\")."
-    publishedDateTime: 2021-01-11T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-2021-01-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Baidu to join China EV race with Geely support"
     excerpt: "Zhejiang Geely Holding Group, China's largest private automotive group, will act as a strategic partner. The move positions Baidu as the latest Chinese challenger to Tesla at a time when investors are sending shares of the Elon Musk-led company and its rivals soaring,"
     publishedDateTime: 2021-01-11T04:46:00Z

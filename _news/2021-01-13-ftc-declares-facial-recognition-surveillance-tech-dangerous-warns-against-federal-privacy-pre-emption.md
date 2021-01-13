@@ -44,7 +44,7 @@ related:
   - title: "Photo storage app maker settles FTC claims over use of facial recognition"
     excerpt: "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app."
     publishedDateTime: 2021-01-12T04:05:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc/photo-storage-app-maker-settles-ftc-claims-over-use-of-facial-recognition-idUSL1N2JM2VH"
+    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH"
     type: article
     provider:
       name: Reuters

@@ -45,20 +45,6 @@ related:
         width: 360
         height: 270
         isCached: true
-  - title: "Self-driving firm Cruise hires former Delta exec as COO"
-    excerpt: "Cruise, the self-driving firm majority owned by General Motors Co, said Friday it is hiring a former Delta Air Lines senior executive as its chief operating officer."
-    publishedDateTime: 2021-01-08T19:16:00Z
-    webUrl: "https://www.reuters.com/article/us-cruise-executive/self-driving-firm-cruise-hires-former-delta-exec-as-coo-idUSKBN29D1TR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547111424&r=LYNXMPEH070U2&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Get ready for self-driving banks"
     excerpt: "Popular Science magazine envisioned self-driving cars. The reality arrived sooner than anyone anticipated, and before safety regulators could adapt. Most automotive laws — on speed limits, giving signals,"
     publishedDateTime: 2021-01-12T12:03:00Z

@@ -3,10 +3,10 @@ category: news
 title: "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU"
 excerpt: "The new 13-inch gaming PC converts between a laptop and tablet via a 360-degree hinge and gets a performance boost from an external GPU."
 publishedDateTime: 2021-01-12T18:50:00Z
-originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
-webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
-ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
+originalUrl: "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
+webUrl: "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
 type: article
 quality: 77
 heat: 77
@@ -30,6 +30,6 @@ images:
     height: 801
     isCached: true
 
-secured: "3gKeJLiVKZGVSI+penpl+K/mw19iMedfZ5sDONgd0QQTK8BuXhl8N+3Laz5qEoTe9jnNefgOoYLpCtGhwSvOFGLZqdlRBim6iiBIwxeQLPApr1BzJxM5HXlmcDa2Zo9/uQy6J4zMH8QOQWqDjmyysqKOHJgyIFtO8eshChD1mORZRaIcUELReEflVZviBDQNp8su2NSguui/YRzkbATRV9bHSua2qK4TjAFH05pqih1DCYf8Y4yIqkpbvx7PSlDOPOmsForbXKIVeFangHRfs3sniANbMGUlPf4RTx8Iz8VTsZmOXHUL9VQrMAlmlFYH6VMF+JAcXCnOfxBdlPykP5fCz4fjTAbEwemLXsTbpuH7z06i8318Tz0Y8b6sNUL88duODd8fcwvS/Gt3/HjNHGdltG8qctbZV1YJ61tP2SxFptB9F66FZpEANUV7eH5UVLhFKPsGOpJnhxv7Psk1DQlKDtN77uHwd8H13gtREkf9mJu824ufkh5GlIBZmXCu27qYAISLr17DZXEVU4gBcQ==;vNjYfObgljLPDGr3Qjmdog=="
+secured: "+jrbT23yCbL1iIhQoUuy3yDRx7I9uuUuIXCzFfrY+WJEbNiGSElWJMpdqOVfVFfAAnnJq7B1D5eVmrqW0+VS3xEAqKqXaQU5wj2H7NNdalyWVd2BQKmQo6bLpklC2wjIQCQaURPKJTldJBEd37AeGnqZRb3te5l8/UoYduZsUpxfFggRBHBjZeXn17gIEMibG7I7zenWegzC7sITXNyi1m1S/Pfr1MYIKwPAmhRMH8ZeYslLM0vq5FXxxicX0yOR+aM1o9W7PGfXGiAfQIx//BCSzChuJh7V08v24b04GPR4C3Yv9NUkv2unPgkom7+yrcWk1UJbm54ErA5qWQbleSByIVeN4ZUS98vxQfdNXY8=;5GCg00JIPSopfagFXDv40g=="
 ---
 
