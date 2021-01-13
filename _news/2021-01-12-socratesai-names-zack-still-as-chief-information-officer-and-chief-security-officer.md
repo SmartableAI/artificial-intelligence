@@ -19,6 +19,20 @@ topics:
   - AI in Security
 
 related:
+  - title: "Socrates.ai Names Zack Still as Chief Information Officer and Chief Security Officer"
+    excerpt: "Socrates.ai, providers of the Employee Awesome Digital Conversation Hub, announced today that Zack Still has been promoted to the dual role of Chief Information Officer and Chief Security Officer, effective immediately."
+    publishedDateTime: 2021-01-13T06:46:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-executive-changes-corporate-news-personnel-48c3c45b5400e1e09256a8ffdd14922d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "HHS Names New Chief Artificial Intelligence Officer"
     excerpt: "LinkedIn. This is a new CXO-level position that puts Mek at the head of AI strategy for the agency. Mek has been with HHS for over a decade and was already working on the AI innovation at HHS in his previous post as Senior Advisor to the HHS CIO."
     publishedDateTime: 2021-01-12T17:53:00Z

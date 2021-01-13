@@ -37,13 +37,18 @@ related:
         isCached: true
   - title: "Using light to revolutionize artificial intelligence"
     excerpt: "An international team of researchers, including Professor Roberto Morandotti of the Institut national de la recherche scientifique (INRS), just introduced a new photonic processor that could revolutionize artificial intelligence,"
-    publishedDateTime: 2021-01-12T01:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
+    publishedDateTime: 2021-01-11T18:22:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/indl-ult011121.php"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/253196_web.jpg"
+        width: 720
+        height: 468
+        isCached: true
 
 secured: "CTFKtavcBUzxhSNu7mev3JT2a1uit3cDctokA4tchTUhj6FlzpyWLMOan5iWEgHK32qX4FSLCEuZ9aRTyhz83ipRSo91f9Qhb+LVMaFfFvFdY4LkuhcYxUnybH7PjpecOYJ/ZXN09XDFl7D1Vnm+MmY+e8q+i9eaQ+2aOwbecnMF08n1Mmt+noQJHhNN/HjnBkBNzYPlSVRj+rJdM72JM7yOnE/KsemjGFtInueJqwTy7fktgfM2I8mp59jP2yuI40Nf/kQbRHwscPdSzRpByXHqzvN4DmbFXiwMU/CjS6mTEImgkETunpoals2IijdO3hQaPkEnmUGCL3aLbW7ICvGWvZayMHlAV9K0DplSS1JQ5/yTyyL/hz2PJq9tsLwQ3tnSDB6M009ttetFeVKCvVPKJZVJq2AxLioqTYDWC0jcQu13jNNe/ewVoluv1yXYJVfJyH6dDpJ+WqCXgLguaHr0+oDZtggGKb0nMA9VXO6fKDH8H79g39u1XkXM3p491aI8ccYtcIIc1qhprEDl4Q==;3RH4ae2NyCM5dIz9/LCecg=="
 ---

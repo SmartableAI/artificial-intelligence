@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/520409/neural-networks-playing-video-games-t
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520409/neural-networks-playing-video-games-teach-us-about-our-own-brains/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "What neural networks playing video games demonstrate about the human brain"
-    excerpt: "When you are driving a car, your brain is taking in an enormous amount of visual information and using it to make driving decisions, such as when to brake or change lanes. The brain needs to determine what kind of information in your field of view is necessary for making these decisions."
-    publishedDateTime: 2021-01-08T15:17:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-neural-networks-video-games-human.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/whatneuralne.gif"
-        width: 450
-        height: 253
-        isCached: true
   - title: "New Caltech Study: Neural Networks Playing Video Games Teach Us About Our Own Brains"
     excerpt: "To study this and related questions, researchers can experiment using simulations from our everyday life: video games. A new study from Caltech compares brain scans of humans playing classic Atari video games to sophisticated artificial intelligence (AI) networks that have been trained to play the same games."
     publishedDateTime: 2021-01-09T15:09:00Z

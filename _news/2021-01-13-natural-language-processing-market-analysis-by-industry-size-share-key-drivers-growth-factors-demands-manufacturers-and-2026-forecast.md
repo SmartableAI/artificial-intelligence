@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning in Machine Vision Market Size, Top Countries Research Trends, Manufacturers, Detailed Analysis and Forecasts 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Deep Learning in Machine Vision Market\" report provides an in-depth market evaluation by highlighting information on various aspects covering global drivers,"
+    publishedDateTime: 2021-01-13T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market Share Analysis, Future Trends, Growth Insights, Size Value and Research Insights By 2023"
     excerpt: "Jan (Heraldkeepers) -- The influx of COVID-19 patients requiring medical imaging diagnostics and definitive healthcare is estimated to augment"
     publishedDateTime: 2021-01-12T22:24:00Z
@@ -85,15 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-Powered Storage Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2025"
-    excerpt: "Market Research Future published a research report on \"AI-Powered Storage Market Research Report – Global Forecast till"
-    publishedDateTime: 2021-01-12T22:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-powered-storage-market-2021-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2025-2021-01-12"
+  - title: "Drone Data Services Market 2021 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2025"
+    excerpt: "The evolution of data analytics throughout major industry verticals is one of the significant factors positively"
+    publishedDateTime: 2021-01-11T22:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/drone-data-services-market-2021-global-analysis-share-trend-key-players-opportunities-forecast-to-2025-2021-01-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -112,6 +126,54 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "RetailNext Showcases Next-Gen Machine Learning Analytics and Releases 2020 Holiday Season Analysis at NRF's Big Show"
+    excerpt: "Onboard demographics are introduced as part of the enhanced machine learning capabilities, along with a Holiday 2020 recap report"
+    publishedDateTime: 2021-01-12T23:38:00Z
+    webUrl: "https://www.wboc.com/story/43161213/retailnext-showcases-next-gen-machine-learning-analytics-and-releases-2020-holiday-season-analysis-at-nrfs-big-show"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 31
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
+    excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
+    publishedDateTime: 2021-01-11T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19095932/global-vision-guided-robotics-market-forecast-2020-2027-covid-19-impact-and-analysis-by-component-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19095932"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19095932"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
+  - title: "Flipclutch Research: Global AR advertising revenue is huge, WIMI intends to seize this business opportunity"
+    excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and the market prospects are promising. Last year, one social software that used AR filters as a selling point earned $1."
+    publishedDateTime: 2021-01-12T14:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-1029960267"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 16
+  - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The “HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change” report has been added to ResearchAndMarkets.com’s offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists,"
+    publishedDateTime: 2021-01-09T06:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-lung-disease-it-conglomerates-oil-and-gas-industry-89acf0d81fa14819bfe4c0fb1dca902c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ouqKhBHI9ysZL5kGa5rSgvVmrW20fcqzgfMCrKoHwpwR27Nxsbd7HGW4b5A74C+lKhbYHtGc7xzg7OBWv/1AmZ90LuHoDW+VpXxT5P9vGzn5AN7yGlcfmpEhhbnAC0ZwmKEL511PdpKzP1HHTvxefrH7gyRJ/YEkPfxDGd+9dupIsy8HRf7FbIzQxTtxi6gNiGUZOHzKEGYb5LYK3Tc+mxG/6RayYKP1/sETBehD+6G4EBrBmVUvq9ONuXkilZrG6mKrPfOcZQ0xVZUjpsrj22ocqK/GVtoxqI5goOEC/SNcIAOtEg8LY9uAaFHQmgQK+jwzNyTp37SuPgFZdh7FwyAbHQSskVotqTeWRjw5L2g=;PhVvik/0Wn3gWa6DO85m/A=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.meritalk.com/articles/hhs-names-new-chief-artificial-i
 webUrl: "https://www.meritalk.com/articles/hhs-names-new-chief-artificial-intelligence-officer/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Socrates.ai Names Zack Still as Chief Information Officer and Chief Security Officer"
+    excerpt: "Socrates.ai, providers of the Employee Awesome Digital Conversation Hub, announced today that Zack Still has been promoted to the dual role of Chief Information Officer and Chief Security Officer, effective immediately."
+    publishedDateTime: 2021-01-13T06:46:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-executive-changes-corporate-news-personnel-48c3c45b5400e1e09256a8ffdd14922d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Socrates.ai Names Zack Still as Chief Information Officer and Chief Security Officer"
     excerpt: "Socrates.ai, providers of the Employee Awesome Digital Conversation Hub, announced today that Zack Still has been promoted to the dual role of Chief Information Officer and Chief Security Officer, effective immediately."
     publishedDateTime: 2021-01-12T06:00:00Z

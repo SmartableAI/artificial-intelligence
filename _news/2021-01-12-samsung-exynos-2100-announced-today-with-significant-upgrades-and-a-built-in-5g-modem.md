@@ -45,6 +45,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Samsung Exynos 2100 5nm SoC unveiled with up to 40% faster GPU"
+    excerpt: "The new mobile processor is the company’s first premium 5G-integrated mobile processor built on the 5-nanometer (nm) extreme ultra-violet (EUV) process node."
+    publishedDateTime: 2021-01-13T06:04:00Z
+    webUrl: "https://www.themobileindian.com/news/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575"
+    ampWebUrl: "https://www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575"
+    cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575"
+    type: article
+    provider:
+      name: Mobile
+      domain: themobileindian.com
+    quality: 59
+    images:
+      - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/01/34575/Exynos-2100_425_735.jpg"
+        width: 676
+        height: 425
+        isCached: true
   - title: "Samsung Exynos 2100 SoC unveiled with 5nm technology, 40% faster Mali GPU, Integrated 5G Modem"
     excerpt: "The new Exynos 2100 chipset will be used on the Samsung Galaxy S21, Galaxy S21+, and Galaxy S21 Ultra in several regions around the world, including India. So, without any further delays, let’s take a deep dive into the new Exynos 2100 chip."
     publishedDateTime: 2021-01-12T14:39:00Z

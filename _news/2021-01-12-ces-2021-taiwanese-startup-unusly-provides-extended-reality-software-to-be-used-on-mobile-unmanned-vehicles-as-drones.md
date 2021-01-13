@@ -104,18 +104,18 @@ related:
         height: 450
         isCached: true
   - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
-    excerpt: "Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year. According to the"
-    publishedDateTime: 2021-01-12T18:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-new-garden-launched-a-new-ai-agriculture-platform-to-automatically-grow-any-plants-301206798.html"
+    excerpt: "Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants TAIPEI, Jan. 12, 2021 /PRNewswire/ -- Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year."
+    publishedDateTime: 2021-01-13T07:03:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-plants-corporate-news-environment-and-nature-products-and-services-9ad1e9020fa0ee8028b2425b536b16d8"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 18
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "t2nVkbMEq1YLO/YD3h7vul9mFVKMgPEHmV+HIVGgI8MjFKFPWGf3BvM2UQSBhuhel6m3EbDKyn7K0XIkWf6+OqQXe68J/y8f3j6X1WufhWb1ZWQWtqvIcN9it+3AM5BL5Pf8pCyf2dtygZThNJ6/yJ8TUCpPjNS02J5XpVJr2lN2wbleF1AjgMjBSFBFJ505S6g9/TxBrbwyxgkp+Y8K9jqhRRHvsQNu3m3mhZlU3WvRHXgQ7Q1wfqJB5/JlzM1B5sAXIFMJ8QiDqYUQNerImBakGMY5cCH/9XqfXmCRTvV1WzWHAO35kjNOOQxpjYZSKu4HhCDMgPDHpr183z/fzp/fvGWtjeT4YqYyw958pJk=;8eR2HVKu5MMxDhAtCLuVjQ=="

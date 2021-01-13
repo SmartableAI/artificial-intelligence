@@ -1,26 +1,26 @@
 ---
 category: news
 title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
-excerpt: "Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year. According to the"
-publishedDateTime: 2021-01-12T18:53:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-new-garden-launched-a-new-ai-agriculture-platform-to-automatically-grow-any-plants-301206798.html"
-webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-new-garden-launched-a-new-ai-agriculture-platform-to-automatically-grow-any-plants-301206798.html"
+excerpt: "Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants TAIPEI, Jan. 12, 2021 /PRNewswire/ -- Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year."
+publishedDateTime: 2021-01-13T07:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-plants-corporate-news-environment-and-nature-products-and-services-9ad1e9020fa0ee8028b2425b536b16d8"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-plants-corporate-news-environment-and-nature-products-and-services-9ad1e9020fa0ee8028b2425b536b16d8"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -117,6 +117,6 @@ related:
         height: 315
         isCached: true
 
-secured: "8Qb/Kne663jMK+srn4QYNRLqXinaXaJ8A6QElMd1WJDJLaz5nk2yL5tJ+tZTq5xEMqsLkbYJWO9nCNkLt+vviPk9zWP2B6zZOGBYWG9vDdIskGFySWbahZ48t+9giCFDprJRitcoEVofcw8RlgCAUoIhbAyZ33m/kCLJABGr6UwsMJapMMJEGZDWsqju8Nl8iFiP5NPud9QZgb4QncC8EHSe7wDrEuJqDrhT5TyBfMRx/czghOcsuP62TiDEDATcUUY8gd+75Lq9VnrfndiB2mAlY//JEv9zfjWn4zRswSAkHENYCIYHpGkxMzMuz3iMztt9j/Gr2N6E7nQZBsgv3AyAGA2rDnWd8C215wsKTtI=;/77OetkawWVUjMgYfgW7XA=="
+secured: "WXGPnqEGQiygsu45NMq7s4dj3lfsX2ovRDuoCX+62Xecr3Ngd32XC7Bb4JJTBk9pX5tiamJ3ilJjO7Q81RxkgG7/uYxLFJbRyRPaS0W/1RA4ZNMe+CBP0CusDdDxq25+j2qVwVn7BtJLDEqMI+8+F1Bf4ijLzHyHA2oMrkcLwIdr3mi3crO/ajKVTPeUiqoQqSXbgEqHTsCjJG8bTl5GjNvEG7biHi6MwB/cH+M99IJg2SmF658RyA26JpftCfz/xsCn5DiLMrq+ricXfBn3YgldS/Mf/a5DczJN00fSFgubg7u/u/yiN/m0Dez+t3kNMAS3gZ20fBtknHq+NOND6WIVdnv3yzpHRz20jo/YD2A=;JnJLKR382CBCTnlZyos+9Q=="
 ---
 

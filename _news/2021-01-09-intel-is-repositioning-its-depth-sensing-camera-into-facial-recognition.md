@@ -60,16 +60,16 @@ related:
   - title: "How far can facial recognition go in finding rioters in D.C.?"
     excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
     publishedDateTime: 2021-01-11T19:38:00Z
-    webUrl: "https://www.9news.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    ampWebUrl: "https://www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    webUrl: "https://www.wgrz.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.wgrz.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
     type: article
     provider:
-      name: 9NEWS
-      domain: 9news.com
+      name: WGRZ
+      domain: wgrz.com
     quality: 59
     images:
-      - url: "https://media.9news.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+      - url: "https://media.wgrz.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

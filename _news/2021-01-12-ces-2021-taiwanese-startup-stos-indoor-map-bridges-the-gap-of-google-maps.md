@@ -93,18 +93,18 @@ related:
         height: 450
         isCached: true
   - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
-    excerpt: "Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year. According to the"
-    publishedDateTime: 2021-01-12T18:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-new-garden-launched-a-new-ai-agriculture-platform-to-automatically-grow-any-plants-301206798.html"
+    excerpt: "Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants TAIPEI, Jan. 12, 2021 /PRNewswire/ -- Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year."
+    publishedDateTime: 2021-01-13T07:03:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-plants-corporate-news-environment-and-nature-products-and-services-9ad1e9020fa0ee8028b2425b536b16d8"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 18
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
     excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone"

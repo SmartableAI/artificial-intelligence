@@ -166,7 +166,7 @@
       "originalUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -588,33 +588,24 @@
     {
       "path": "_news/2021-01-05-tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group.md",
       "title": "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group",
-      "excerpt": "New Delhi: Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been recognized as a Leader in the Everest",
+      "excerpt": "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,",
       "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
-      "originalUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
+      "webUrl": "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group",
+      "originalUrl": "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/TCS.jpg?fit=400%2C400&ssl=1",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
-      "publishedDateTime": "2021-01-05T03:53:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T04:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
+        "name": "Tata Consultancy Services",
+        "domain": "tcs.com",
         "images": null,
         "publishers": null,
         "authors": null

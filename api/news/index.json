@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-chinas-megvii-kick-starts-ipo-on-shanghais-star-market-after-trump-added-facial-recognition-giant-to-entity-list.md",
+      "title": "China’s Megvii kick-starts IPO on Shanghai’s Star Market after Trump added facial recognition giant to entity list",
+      "excerpt": "Facial-recognition developer Megvii abandoned its original Hong Kong IPO plan after the Trump administration placed it on a trade blacklist; it is now looking to list on Shanghai’s Star Market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/13/02f16d6a-555b-11eb-84b3-e7426e7b8906_image_hires_145128.jpg?itok=7tew9DCO&v=1610520700",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after",
+      "publishedDateTime": "2021-01-12T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026.md",
+      "title": "Deep Learning in Machine Vision Market Size, Top Countries Research Trends, Manufacturers, Detailed Analysis and Forecasts 2026",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Deep Learning in Machine Vision Market\" report provides an in-depth market evaluation by highlighting information on various aspects covering global drivers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026-2021-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026-2021-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-rugged-computer-artificial-intelligence-ai-edge-supercomputing.md",
       "title": "rugged computer artificial intelligence (AI) edge supercomputing",
       "excerpt": "News Highlights: rugged computer artificial intelligence (AI) edge supercomputing. SUGAR LAND, Texas - System Inc. in Sugar Land, Texas, introduces the",
@@ -92,8 +196,8 @@
       "title": "AI Startup Sees Opportunity Forecasting Pandemic-Era Consumer Demand",
       "excerpt": "New York-based Centricity is helping companies track consumer demand by analyzing some 2.5 billion data points’ worth of internet traffic a day.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=newsviewer_click",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=newsviewer_click",
+      "webUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -426,58 +530,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023.md",
-      "title": "Healthcare Artificial Intelligence Market Share Analysis, Future Trends, Growth Insights, Size Value and Research Insights By 2023",
-      "excerpt": "Jan (Heraldkeepers) -- The influx of COVID-19 patients requiring medical imaging diagnostics and definitive healthcare is estimated to augment",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023-2021-01-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023-2021-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-all-hail-your-new-robot-vac-overlord-irobot-roomba-i3-is-here.md",
       "title": "All hail your new robot vac overlord: iRobot Roomba i3+ is here",
       "excerpt": "They’ve dusted down the iRobot robot vac range and added the Roomba i3+ which looks and performs a treat iRobot has taken the dust covers off its brand new model, the Roomba i3+. This manufacturer is known for producing some of the best robot vacuum cleaners money can buy and the latest addition to the Roomba robot vacuum lineup comes packed with new features.",
@@ -619,8 +671,8 @@
       "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
       "excerpt": "The new 13-inch gaming PC converts between a laptop and tablet via a 360-degree hinge and gets a performance boost from an external GPU.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "originalUrl": "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
@@ -637,8 +689,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
       "publishedDateTime": "2021-01-12T10:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1164,49 +1216,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-us-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank.md",
-      "title": "U.S. Fintech Artis Announces New Bank Funding Partneship With Drummond Community Bank",
-      "excerpt": "Artis Technologies, a U.S.-based fintech that provides lending solutions for businesses, announced on Tuesday it has entered into a new bank funding partnership with Drummond Community Bank for its Artis Credit platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/benjamin-vladimir-solomyani-unsplash-600x400.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
-      "publishedDateTime": "2021-01-12T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

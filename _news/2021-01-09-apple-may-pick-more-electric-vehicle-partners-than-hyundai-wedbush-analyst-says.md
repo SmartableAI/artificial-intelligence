@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/marketwatch/20210108198/apple-may
 webUrl: "https://www.morningstar.com/news/marketwatch/20210108198/apple-may-pick-more-electric-vehicle-partners-than-hyundai-wedbush-analyst-says"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -17,70 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Hyundai to Partner With Apple on Self-Driving Car ... but Maybe Not"
-    excerpt: "Hyundai says it will partner with Apple on a self-driving car, but then quickly shifts gears to say it has received requests from a number of technology suitors."
-    publishedDateTime: 2021-01-08T16:47:00Z
-    webUrl: "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/nJGNyKYO-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "Hyundai Could Co-develop Apple’s Rumored Self-driving Car For 2024"
-    excerpt: "While reports suggest talks of this are at an early stage, a tie-up with an established carmaker like Hyundai would make the endeavour much easier for the tech giant"
-    publishedDateTime: 2021-01-11T12:16:00Z
-    webUrl: "https://www.zigwheels.com/news-features/news/hyundai-could-codevelop-apples-rumored-selfdriving-car-for-2024/40832/"
-    ampWebUrl: "https://www.zigwheels.com/news-features/news/hyundai-could-codevelop-apples-rumored-selfdriving-car-for-2024/40832/?is_amp=1"
-    cdnAmpWebUrl: "https://www-zigwheels-com.cdn.ampproject.org/c/s/www.zigwheels.com/news-features/news/hyundai-could-codevelop-apples-rumored-selfdriving-car-for-2024/40832/?is_amp=1"
-    type: article
-    provider:
-      name: ZigWheels
-      domain: zigwheels.com
-    quality: 59
-    images:
-      - url: "https://media.zigcdn.com/media/content/2021/Jan/hyundiapptitle_640x480.jpg"
-        width: 640
-        height: 479
-        isCached: true
-  - title: "Hyundai might build Apple’s self-driving electric car: Launch by 2027"
-    excerpt: "Apple is reportedly working on a self-driving electric car which is expected to make its market launch by 2027. Reuters reports that Apple is exploring the possibility to outsource its manufacturing to the Korean automaker - Hyundai Motor Group."
-    publishedDateTime: 2021-01-11T05:33:00Z
-    webUrl: "https://www.financialexpress.com/auto/industry/hyundai-might-build-apples-self-driving-electric-car-launch-by-2027-india-specs-features-hyundai-kia-mobis-korea-georgia-manufacturing-plant-us/2168476/"
-    ampWebUrl: "https://www.financialexpress.com/auto/industry/hyundai-might-build-apples-self-driving-electric-car-launch-by-2027-india-specs-features-hyundai-kia-mobis-korea-georgia-manufacturing-plant-us/2168476/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/industry/hyundai-might-build-apples-self-driving-electric-car-launch-by-2027-india-specs-features-hyundai-kia-mobis-korea-georgia-manufacturing-plant-us/2168476/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://images.financialexpress.com/2021/01/Apple-Electric-car-hyundai-collaboration.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
-    excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
-    publishedDateTime: 2021-01-11T08:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130863_hyundai-and-apple-to-reportedly-build-self-driving-ev-in-us-from-2024"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/apple-store_100528844_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "HnyvsPxtoAR0udWeFwGxkJSYNxXLCuetBPgdkrcUWZxKmHrBG4jOYifmSNp6NS4TTbcCv38CMlfxffqNUnmM5ScK9vlat8kfufkq6LbgMTfSJDv7yV+VR9cZCkc00YfxSkF7WS+AVaUSW//e0BjKFBqahC4XYtchEUlQfPF/qCTH1LIWLg3dulyi72rza3/h44qn2rqDpvhOUqcqxVYyEtzs5brtAcd60K6ZMVmPbDN1EJMfF/i30jTG06f4Ta5/iGlX6h0gGHlBkK8os78whVQyIY7/Nhi0SiS7F3tRxBl2i4SMDl/HtJnrGQIJ923HlRnEwMF4vH1/VB/n5pjy/g9Q7vXDuQvZtH+8B5y/GcM=;c+piNcWGlxKfl+VPfLKuHw=="
 ---

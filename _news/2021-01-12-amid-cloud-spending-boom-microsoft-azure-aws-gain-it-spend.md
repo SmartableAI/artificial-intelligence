@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 1137
         isCached: true
-  - title: "Microsoft launches Azure Health Bot"
-    excerpt: "Microsoft has announced it's moving its Healthcare Bot service to Azure to create the new Azure Health Bot. Built for developing virtual health care assistants, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with patient engagement amid the COVID-19 pandemic."
-    publishedDateTime: 2021-01-08T16:29:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
     excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
     publishedDateTime: 2021-01-12T17:02:00Z

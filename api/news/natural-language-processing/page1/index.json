@@ -211,7 +211,7 @@
       "originalUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -299,6 +299,49 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit.md",
+      "title": "TikTok Parent Company ByteDance Open Sources Neural Speech Translation Toolkit",
+      "excerpt": "Chinese tech company ByteDance, parent of video-sharing app TikTok, releases NeurST, an open-source toolkit neural speech t.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/machine-translation/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
+      "originalUrl": "https://slator.com/machine-translation/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/01/Bytedance-Neural-Machine-Translation-Research-2021.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1432,58 +1475,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-google-told-scientists-to-use-a-positive-tone-in-ai-research-documents-show.md",
-      "title": "Google told scientists to use 'a positive tone' in AI research, documents show",
-      "excerpt": "The company requested authors refrain from casting its technology in a negative light in at least three cases",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
-      "originalUrl": "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/8a59eb2c3d93eff50a8b21ff490f6d0d59cb09c1/0_135_4059_2435/master/4059.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c9299e812cd42aa85c3e07c46d4e7e2",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
-      "publishedDateTime": "2020-12-23T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

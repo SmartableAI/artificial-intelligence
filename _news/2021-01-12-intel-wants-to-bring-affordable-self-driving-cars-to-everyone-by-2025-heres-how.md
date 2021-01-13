@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/intel-wants-to-bring-affordabl
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's self-driving car unit plans to step up use of its own radar tech by 2025"
+    excerpt: "The head of Intel Corp's self-driving car subsidiary said on Tuesday the company wants to shift toward using its own radar-based technology and use a single lidar sensor per vehicle by 2025 in a bid to lower the cost of autonomous driving."
+    publishedDateTime: 2021-01-13T08:05:00Z
+    webUrl: "https://www.reuters.com/article/intel-mobileye/intels-self-driving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025-idUSL1N2JN2CQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574303&r=LYNXMPEH0B1L4&w=800"
+        width: 800
+        height: 534
+        isCached: true
   - title: "China to let self-driving cars be tested on highways"
     excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
     publishedDateTime: 2021-01-12T08:10:00Z

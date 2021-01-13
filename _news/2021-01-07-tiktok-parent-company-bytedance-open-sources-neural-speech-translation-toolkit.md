@@ -1,14 +1,11 @@
 ---
 category: news
 title: "TikTok Parent Company ByteDance Open Sources Neural Speech Translation Toolkit"
-excerpt: "Chinese tech company ByteDance, parent of video-sharing app TikTok, releases NeurST, an open-source toolkit neural speech translation."
+excerpt: "Chinese tech company ByteDance, parent of video-sharing app TikTok, releases NeurST, an open-source toolkit neural speech t."
 publishedDateTime: 2021-01-07T07:40:00Z
-originalUrl: "https://slator.com/industry-news/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/"
-webUrl: "https://slator.com/industry-news/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/"
+originalUrl: "https://slator.com/machine-translation/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/"
+webUrl: "https://slator.com/machine-translation/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/"
 type: article
-quality: 20
-heat: 20
-published: false
 
 provider:
   name: Slator
@@ -24,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "6TGJ9UfuRKUlsJ2WqZC6FzB33lT/NV34Gl+GooZWbr6zsAGK63ivSxwMWwPh6yl6iBbQB70LBWmstsm68mPlqWICIikROOGU9O6lly1Tztk627KHINIbcPgzbQAacXKMronhKxCq4wg1E3QgCToYO4IU0Z2NcCsTNmaa5wZ2kteq2Vuio0ERWMut/LfnyVY2N7124ovCxbXsfeMSDjs9MDnKpJl7tEzk+ibdF34ukfYiSaeXoZ2JoHIH0+jN1/bhGXh5X4UMimmhExmZxFZ8xxZRj+zako1+T2whMcJjgHW0a2ebZ8gB1PbEPH/NgbC6R2a9oerzsuGsuu4wk/drel2qAp+VcE3DB1vvwajILtZ8MWJ5FeOpmkmqyfdVxi+P/WqHj1jCFtMAfy12Dkmqxi+YSmRzPa0b6Nen0LkJ8U8QjGhDGJeZLf8IjmNH6IcFXixlac0/NXj+thW/XGucpBPFgjoefncHZ7c4QVud9MXeneIXBSAnBRQem1VonD1fDnKML90VkYlKjnWUadQJqw==;DAkEx1v7wRh4kgOA9NyttA=="
+secured: "l6kNMjtWsv6CTxT5+EoEKkCZ19vtV6niFehNS8BHbrCTHyuw1vlhyMFCMEpR1Ad58aFKAWXAp1NMZ+M55Ljlv8zADQRM4VeDhViDKvpYsB9Y/WMvbD1nHTBCAfAuWipSeMphq1oBzSUcTkXdzoJZjWmmqv+vQI0oLEfccztSHBMCpA3nSM9Q6zQZJUiipilUl0xBOE7v6dSR0fP3DCjfeaXqRtLSj7fxslE1Y4JoFDc/L16/gmHOFerYHkd4E/m2YrFaolgpUg5ZKTljizWyTVeTt/4LtG/4Fh5Ry8J4BPzmdmGZvmZtUwjhWsgJ2y17zdDZ8bP4ZUhsZlgG7LTOD3nzvgHDtBJ9uV+/XLp1TTA=;/EXuAKWscdfI4wi4nccOAg=="
 ---
 

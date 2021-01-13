@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-08-uk-competition-regulator-to-probe-nvidias-40-billion-arm-takeover.md",
+      "title": "U.K. competition regulator to probe Nvidia’s $40 billion Arm takeover",
+      "excerpt": "Britain's competition regulator said it would start an investigation into Nvidia’s $40 billion deal to buy U.K.-based chip designer Arm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
+      "originalUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
+      "publishedDateTime": "2021-01-07T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-chinese-search-giant-baidu-to-make-electric-cars.md",
       "title": "Chinese search giant Baidu to make electric cars",
       "excerpt": "Chinese search giant Baidu plans to make electric vehicles with help from Geely, the country’s largest private automaker, according to a new report from Reuters. It’s the latest Chinese conglomerate to venture into the flourishing electric vehicle market,",
@@ -884,6 +936,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-07-tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit.md",
+      "title": "TikTok Parent Company ByteDance Open Sources Neural Speech Translation Toolkit",
+      "excerpt": "Chinese tech company ByteDance, parent of video-sharing app TikTok, releases NeurST, an open-source toolkit neural speech t.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/machine-translation/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
+      "originalUrl": "https://slator.com/machine-translation/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/01/Bytedance-Neural-Machine-Translation-Research-2021.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-intels-new-realsense-id-packs-on-device-facial-recognition.md",
       "title": "Intel's new RealSense ID packs on-device facial recognition",
       "excerpt": "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data.",
@@ -1047,110 +1142,6 @@
       "ampWebUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp",
       "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp",
       "publishedDateTime": "2021-01-06T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-ai-math-solver-app-qanda-emerges-as-no1-education-app-in-indonesia.md",
-      "title": "AI Math-Solver App QANDA Emerges as No.1 Education App in Indonesia",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SEOUL, South Korea, Jan. 7, 2021 /PRNewswire/ -- Seoul-based edtech startup Mathpresso announced that its AI-based math ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-emerges-as-no-1-education-app-in-indonesia-1029939006",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-emerges-as-no-1-education-app-in-indonesia-1029939006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1393974/Mathpresso_Indonesia_PR_Image.jpg",
-          "width": 400,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-this-stealth-startup-is-using-electrical-stimulation-to-help-people-walk-again.md",
-      "title": "This Stealth Startup Is Using Electrical Stimulation to Help People Walk Again",
-      "excerpt": "Some 33 million people in the U.S., or 1 in 7 Americans, have disabilities related to mobility, according to the Center for Disease Control and Prevention. Considered something of a silent health epidemic,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982",
-      "originalUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/f_auto,pg_1/adosm3mf3bvj0qcngv4v.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982/amp",
-      "publishedDateTime": "2021-01-06T18:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmodo",

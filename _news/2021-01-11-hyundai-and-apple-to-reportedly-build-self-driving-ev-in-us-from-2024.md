@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai to Partner With Apple on Self-Driving Car ... but Maybe Not"
-    excerpt: "Hyundai says it will partner with Apple on a self-driving car, but then quickly shifts gears to say it has received requests from a number of technology suitors."
-    publishedDateTime: 2021-01-08T16:47:00Z
-    webUrl: "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/nJGNyKYO-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "Hyundai Could Co-develop Apple’s Rumored Self-driving Car For 2024"
     excerpt: "While reports suggest talks of this are at an early stage, a tie-up with an established carmaker like Hyundai would make the endeavour much easier for the tech giant"
     publishedDateTime: 2021-01-11T12:16:00Z
@@ -73,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Apple may pick more electric-vehicle partners than Hyundai, Wedbush analyst says"
-    excerpt: "Shares of Hyundai Motor soared on Friday on the news that it is in talks to join with technology icon Apple (link) to make a self-driving electric ... Chinese tech stalwart Baidu (K3SD.SG) may ..."
-    publishedDateTime: 2021-01-08T20:44:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210108198/apple-may-pick-more-electric-vehicle-partners-than-hyundai-wedbush-analyst-says"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 14
 
 secured: "B0fWPhcDgdf62dY2J/qBTjLZ/sjNnoIkMI8nTGAMzTtqy8AbNRqPQfGNzn+MInjPUbDYnc2Kiv1iAk4TWzlBrZzPtptwQPVyAVQAsSVgtWXEJaYrEDXBite5Fm83IxCZe2cZsgcOOGz3ehwzArYa03k4PMFQnp379C1WSSKYI4tLKVyE3SCHZOBNn5m2+k0+ZDzkcEKgvaglLOFkaPVHjyLbNlsiPciJmZUqKjl4I4aSVW6vGer5AS3lSYuql0Cxzmc3SkwyhXEcEU6Hn66IBNGN+60FMVVyxkFuFw1npejsG8Dv3LDxswg/RiDCPyV28Sutw6NcZ5QTPEpW8LcfqZ56XK3JfvVPZ2sDrY1RaC1Cr9ZWVO4yqJ1rupvYh96WdqjzmAkPZa/IIAMENdotlFGFdX4LHZmAx6/FYQ5t+Om8fyyo6saogwKFyeIMBCTeDPkffxk0Eocitx3rejWk+1XxPNmFiC8qHRCkth5DRjoNHDhzdXFAaaK5VRaXx7Ee2rbI7UKLWOwV9r/Zrva+Gg==;T8C92L3u4DdtFOT12EJ9mw=="
 ---

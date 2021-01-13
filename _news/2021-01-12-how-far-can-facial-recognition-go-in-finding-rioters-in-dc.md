@@ -3,25 +3,25 @@ category: news
 title: "How far can facial recognition go in finding rioters in D.C.?"
 excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
 publishedDateTime: 2021-01-11T19:38:00Z
-originalUrl: "https://www.9news.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-webUrl: "https://www.9news.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-ampWebUrl: "https://www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+originalUrl: "https://www.wgrz.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+webUrl: "https://www.wgrz.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+ampWebUrl: "https://www.wgrz.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: 9NEWS
-  domain: 9news.com
+  name: WGRZ
+  domain: wgrz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.9news.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+  - url: "https://media.wgrz.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -90,6 +90,6 @@ related:
         height: 840
         isCached: true
 
-secured: "qVeYLE/B8z5LZiWgc4tOx7BruDpQ6zKo9oY2fEAmKtKuuhiZlp61iE5HenSiu6uoWO/Oau03V3pXRRkznuzF9xrwPyc8UYB0950CmBe8Ac+fxRbv7rJb3gHLWjAt1VstyScFBvdfRdGPQU1YdLflZCPvDRV8JhsPd4nAmp6vbRQGPqaxJOZnPlE+mf+nd5bOk88guJdQHZfMBAgPgcj7ZE06sVQ6/SrVGBd4BmWhiptSgrRkpM356ZaOBNNiciS4QtK+XvWw2sNJMWs1BJ/pa4TQXd3vPyGeJO//FdPYCTGFVj3ZLI0JJcsWDuG0VdYcd9oFXvU9GkwuewB+3tkmaSTT77UnCjPEXXmRoAJWp/v762zgpVwSA9ndq3LoBsQXCqMxfFyIh8V5y5U/a+VUECxaVprCFsZFGCusAmaJv1c/4IzJhoFWlr+/E2bIl8I+0Z098d6f3/rtmigQsVCDX+UmgsDVSDJjJpf1CDVhyZQv7bRBQk7Xl74p//OUW7RJz7AKHU8gRaVfJmcmrS5HOg==;anPRkjAFzP28YUAdn61fTg=="
+secured: "7PZE9IQogHHF39A1+kEhsib3u9JRYModCxcBklM6shwUlk27ts4T0P938omV3DSiFIkfiaoGIy3SHv5H5SnaInAdpT2jUx/7ZK+togvikRJORWkGfeR9wEFlc+6mKCfWVCIKXy/nv6rBrsAVPfZpiLkGjTKQuoxAPZAf+DZuw+4oB5uUcHWo40819pMtnKbSX+VQ5Nv2/fx2CLeX/CNy5WjgC++3XoH+bUSRHvUA1NF45LvK0eQcUMzl48yre1qmhjE+YhyNCG+T7Oyqa/cUGVFFo0N86VxYHv9kIP45YOvUlUvy1COj7xcTZX1PzMFOelhmP392hZuX6S9R4tpRnxg2lpqx7KhoxaiZUn/MjUU=;JPZ/yVJS9lnFXJuNljisaQ=="
 ---
 

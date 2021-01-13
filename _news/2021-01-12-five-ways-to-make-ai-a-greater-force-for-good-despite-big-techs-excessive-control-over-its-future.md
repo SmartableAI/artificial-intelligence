@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/prime/technology-and-startups/five-ways-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future/amp_primearticleshow/80218989.cms"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Five ways to make AI a greater force for good in 2021"
-    excerpt: "A year ago, none the wiser about what 2020 would bring, I reflected on the pivotal moment that the AI community was in. 2018 had seen a series of high-profile automated failures, like self-driving car crashes and discriminatory recruiting tools."
-    publishedDateTime: 2021-01-08T16:42:00Z
-    webUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/"
-    ampWebUrl: "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 161
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA-GettyImages-1193127525.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "zr/2cdOpzX3mWZKL6p4j0rbxoJJkfVQB2VfqYAE+GhSxDXSp0J9leHI8/0njObebcM/pvG5oLnQYohYhGi329fhyOy1+BzpGN9Ti9moBY6hbECg/nEdbmjuDERk34jmZQrsDT7yaSVuiSqGZ3VtIIIochxZdJWV6Ok90oG+1LAKxs4IlyYzNdANwNO7B+cx3cYfIcgl/qskv4zxQCNaAd7xC7MGSraPb/p+7ht0EN0oCkh++Mkn4nmRjpCXBRjje60a7LfX7uTwPRbF2aqhHlxs15/CYI2LF8gFGc9SzA2DILxIaEYcUzyVv82xrT3F5hi0E3qLsznYXU4YiZLdhKe61W626EQmkzvT6lIubGTi4iLRLiAA3LmxY9/TuqZt79yHg/+9oCypAFNSC2KyCtGOdYZeKa3KJKHCAmXsifWVZic+jYScanzq698YaFdUclvdYIOU7weainGz9n9dwwM3DRfKksO/eWfG8wEDEBUnyokMa4zxANYr5vBw8HtU2Kc3Nd8oK5E1lrIZsLKW3QA==;gndfSanVNqypkK/U7dgIkQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-wi
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung Exynos 2100 5nm SoC unveiled with up to 40% faster GPU"
+    excerpt: "The new mobile processor is the company’s first premium 5G-integrated mobile processor built on the 5-nanometer (nm) extreme ultra-violet (EUV) process node."
+    publishedDateTime: 2021-01-13T06:04:00Z
+    webUrl: "https://www.themobileindian.com/news/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575"
+    ampWebUrl: "https://www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575"
+    cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575"
+    type: article
+    provider:
+      name: Mobile
+      domain: themobileindian.com
+    quality: 59
+    images:
+      - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/01/34575/Exynos-2100_425_735.jpg"
+        width: 676
+        height: 425
+        isCached: true
   - title: "Samsung Exynos 2100 announced today with significant upgrades and a built-in 5G modem"
     excerpt: "Samsung has unveiled its new flagship chipset. The Exynos 2100 processor is a 5nm chipset with significant upgrades in CPU, GPU, and AI performance and it also comes with a built-in 5G modem. The Exynos 2100 5nm processor is built on the 5nm EUV process node."
     publishedDateTime: 2021-01-12T15:21:00Z

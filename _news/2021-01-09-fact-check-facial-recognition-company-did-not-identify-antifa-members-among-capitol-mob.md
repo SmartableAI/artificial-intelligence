@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-ant
 webUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-antifa-idUSKBN29D2WV"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Reuters
@@ -27,24 +27,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "CORRECTED: Facial recognition identifies extremists storming the Capitol"
-    excerpt: "Trump supporters say that Antifa members disguised as one of them infiltrated the protesters who stormed the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-08T15:26:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 58
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "xiGBMG8Z/CTuYJIqHYnzpGCFIX+aB/xOwFz2i3DI/ZuPu726Q4ahYLH3nZO/Hq1fLfT4WRTj9fyFmWqJ9wHmMMNW/XrxAfxG2Xd+SnV6ByriiX08YTO4xDBtaRnH8RIyK1OuvDUGggCKpAf6ynDavrlgZ7MeH9sIM1O8PxCD+Xnhtm1h98gqkvZ5N5ggrdNYkkyQqdVXN6NzthIOR1CeYXmVOV6fdqYHUEA2TmaGRd0Ttwa6kio4oQEZL8rHZ8PazPEWsQWVt2qKSkpT0FK5sG+Y6J45xv2OZ51mSOlm3++aZwqx1E7/wQKzWsbe9S8lkRrbfdNNlssdqqtsoJmhVGC/2lrLQPbStEOzZiUDXEs=;ChA/1xrKBrXOSwvdVJO2nA=="
 ---

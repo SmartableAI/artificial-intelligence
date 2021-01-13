@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-07-ai-math-solver-app-qanda-emerges-as-no1-education-app-in-indonesia.md",
+      "title": "AI Math-Solver App QANDA Emerges as No.1 Education App in Indonesia",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SEOUL, South Korea, Jan. 7, 2021 /PRNewswire/ -- Seoul-based edtech startup Mathpresso announced that its AI-based math ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-emerges-as-no-1-education-app-in-indonesia-1029939006",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-emerges-as-no-1-education-app-in-indonesia-1029939006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1393974/Mathpresso_Indonesia_PR_Image.jpg",
+          "width": 400,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-this-stealth-startup-is-using-electrical-stimulation-to-help-people-walk-again.md",
+      "title": "This Stealth Startup Is Using Electrical Stimulation to Help People Walk Again",
+      "excerpt": "Some 33 million people in the U.S., or 1 in 7 Americans, have disabilities related to mobility, according to the Center for Disease Control and Prevention. Considered something of a silent health epidemic,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982",
+      "originalUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/f_auto,pg_1/adosm3mf3bvj0qcngv4v.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982/amp",
+      "publishedDateTime": "2021-01-06T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark.md",
       "title": "Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark",
       "excerpt": "The Microsoft AI model DeBERTa—being integrated into the next version of Microsoft Turing—set a new state of the art in natural language understanding. Learn how it uses 3 novel techniques to surpass human performance on and top the SuperGLUE leaderboard.",
@@ -1141,100 +1245,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-temasek-fund-backs-india-startup-bringing-ai-technology-to-farms.md",
-      "title": "Temasek Fund Backs India Startup Bringing AI Technology to Farms",
-      "excerpt": "CropIn, an artificial intelligence and data-based agritech startup, has raised $20 million in a funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in farming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBCBhH8vKSWs/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
-      "publishedDateTime": "2021-01-06T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist.md",
-      "title": "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist",
-      "excerpt": "Influential high-level quantum computing pioneer, Coecke has made foundational contributions to Quantum Natural Language Processing CAMBRIDGE,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist-1029936252",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
