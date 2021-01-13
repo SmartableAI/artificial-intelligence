@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelli
 cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: KDFW
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "CES 2021: This AI dog collar tells you how your pup is really feeling"
+    excerpt: "If your dog could talk, what would it say? Well, thanks to the PetPuls AI-powered dog collar, you can get a glimpse into your pup's state of mind. Well, sort of, anyway. Debuted at CES 2021, the PetPuls smart collar uses artificial intelligence and built-in microphones to track your dog's barks and detect five different emotional states: happy,"
+    publishedDateTime: 2021-01-13T14:18:00Z
+    webUrl: "https://www.techradar.com/uk/news/ces-2021-this-ai-dog-collar-tells-you-how-your-pup-is-really-feeling"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dUaWgkQPqfKHrSX8hs37nn-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "This new AI-powered dog collar gives your dog its own 'voice'"
+    excerpt: "Petpuls Lab unveil its new AI-powered dog collar at CES 2021, which detect if your dog is happy, anxious, angry, sad, or relaxed."
+    publishedDateTime: 2021-01-12T03:38:00Z
+    webUrl: "https://www.tweaktown.com/news/77239/this-new-ai-powered-dog-collar-gives-your-its-own-voice/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/77239/this-new-ai-powered-dog-collar-gives-your-its-own-voice/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77239/this-new-ai-powered-dog-collar-gives-your-its-own-voice/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/7/77239_03_this-new-ai-powered-dog-collar-gives-your-its-own-voice.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "CES 2021: A virtual, AI-powered human handled presenting duties for LG’s tech showcase"
     excerpt: "The Consumer Electronics Showcase (aka CES) is here once again, and as always, it’s bringing out the tech companies’ most personable presenters: people whose job is to get us all excited about the ways technology are about to improve our lives (like having a personal robot waiter roll up and pour your wine)."
     publishedDateTime: 2021-01-12T01:36:00Z

@@ -39,6 +39,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
+    excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry."
+    publishedDateTime: 2021-01-13T14:21:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "xN70Rb4dy4JdbSnynAQpL3Z2KcEExQZ0JwTwUzhXSs7xjHiT78W27jaZtpgg3LLkW2+kAchRC4czcCuxZyR0ZnJFazAP7unafKdWXysX7276O2mB0OQbq4LzTwvwmhN1t7XqTNaXBFLcZdRD4bLx8oAekq+ERldu4PKRSSvZ42wWGKtvCMOSzF0r/DzN7mLA3gAV1nv1m+N+co3CefXYPxsPb1YFXy9VPJyco/D8hzmmelo7ZnPhhidc3rFo+vBAZ5AXg2bB4C85myV2B/PPQwNRYv18Z7gt56vC76QqScohrUtsp0suRNNSKQArYhbThQrC6NV0ACdmXfTnyLEIdHhxiv/gFksIBeTjtDbx8Ts=;vAESU39qfy+gcQfYzI2ZIw=="
 ---

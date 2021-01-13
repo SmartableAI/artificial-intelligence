@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-12T09:45:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-drone-aircraft-entertainment-and-media-technology-consumer-electronics-manufacturing-5fd486a8001e4db3b7d32464b97456b8"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-drone-aircraft-entertainment-and-media-technology-consumer-electronics-manufacturing-5fd486a8001e4db3b7d32464b97456b8"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Google AI
   - AI
   - AI Hardware
+  - Computer Vision
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

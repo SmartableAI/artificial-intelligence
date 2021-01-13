@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/amp/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

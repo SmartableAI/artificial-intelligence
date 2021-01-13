@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-t
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
 type: article
 quality: 100
-heat: 200
+heat: 190
 published: true
 
 provider:
@@ -161,20 +161,6 @@ related:
       - url: "https://www.adn.com/resizer/6hlNomXm9Wyx1O2tjZc6-h6gu_M=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/adn/PJGQ2VB3IZH6FB7XO5ZMKJS7PM.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Video, cellphone and facial recognition data may lead police to US Capitol rioters"
-    excerpt: "The countless hours of video — much of it taken by the rioters themselves — is a treasure trove of evidence for authorities looking to prosecute members of the pro-Trump mob."
-    publishedDateTime: 2021-01-08T22:41:00Z
-    webUrl: "https://www.stuff.co.nz/world/americas/donald-trumps-america/300201409/video-cellphone-and-facial-recognition-data-may-lead-police-to-us-capitol-rioters"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 33
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/q/c/p/x/image.related.StuffLandscapeSixteenByNine.1420x800.4yqcw1.png/1610145520138.jpg"
-        width: 1420
-        height: 798
         isCached: true
 
 secured: "LRjKvPn1oYxWjtcall4zBhptgDAlNsDXNLJ1yLOAlZjtstJz8PgTtdQd0+3aHgFfT8ZB/TmcBb9uiPEn3TYydTAVpz6XUxlOMv4vv6ZWGUHssLgFVkODa2u/f5HDA2NStJd7A1E3cQstF9XFy/+825fInrWMDA+kGzU6Nfpo6872N61vj9mjMPhkzTxeVfILH8qfM+cvydhNofNQc6Bc4Kgxfeoy2680mjMqQmutrOWNFtAgdHQvj7agVBpDQ+mbgA/dDh2P4dmrf0UGGGxaY17Pcb9I1pAVQRiwG0hcSG8vIRdsvIaqVzr2rJYBrNiiXZP+aMHuiKGz/dXdB7Kiq7RN3aB1mcWvoL9SFn1Bk5fF2KmywXH94AEN6WmODG1qff5RIYvuzZHzrqai221PqlmQ4+Ng9Jm+keSt7NNFNqR0Pn3WssRJfh6KSHkDNn5Qsx1JuJPlfpxKn5/ZYrOnvxF71qHKhi7ZdXhNofKt6Y2EnC1N41INVbj0Qx3NMHEGNzgi3iB4HeBC3JnYXm9fpA==;EGn0MQ0mZ2AeEiRVuuaJcA=="

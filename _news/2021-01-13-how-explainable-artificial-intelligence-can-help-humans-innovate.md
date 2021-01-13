@@ -1,0 +1,30 @@
+---
+category: news
+title: "How explainable artificial intelligence can help humans innovate"
+excerpt: "AI algorithms can solve hard problems and learn incredible tasks, but they can't explain how they do these things. If researchers can build explainable AI, it could lead to a flood of new knowledge."
+publishedDateTime: 2021-01-13T13:18:00Z
+originalUrl: "https://theconversation.com/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
+webUrl: "https://theconversation.com/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
+ampWebUrl: "https://theconversation.com/amp/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
+type: article
+quality: 72
+heat: 72
+published: true
+
+provider:
+  name: The Conversation
+  domain: theconversation.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.theconversation.com/files/378380/original/file-20210112-23-1yp7zx5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
+    isCached: true
+
+secured: "Ko2KSN+ifscV+0sb79Z/DtI8Si8iUmQYCOJ5BfXQEbLxjJvOuuDC8UlRsjy1O0igXI9lUphmMhBbVAq49uKJAxgQ9mSw4Z+mkHB0UTlsC6x9zlnSMhS/qpm13JyiguRq6Re4pkuyDPPKjs35jJTKM+KOnLDqambrbHzE5dCnzhIKzKUP4Dv5HGV+BvKFcAjFykxdJkDY9PLF5OVYBq0xMxzw4I56DTu/FQev/llG13nFy9E1jj9qcjmvL0+yghtk8dteDFoDT12gZDpJV63oXivBkycwSjxsYplPypaMU4ZkjTxLMXbZzrtPsyKkbO6EOSxmOOmb5TIjZ3yOhfqnidF1Y1Mx7r6RtrAzWjesbY8=;R5QfgkR0VqqcmsCfrdjvnQ=="
+---
+

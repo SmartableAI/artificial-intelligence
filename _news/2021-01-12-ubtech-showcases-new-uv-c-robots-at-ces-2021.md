@@ -3,8 +3,8 @@ category: news
 title: "UBTECH Showcases New UV-C Robots at CES 2021"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
 publishedDateTime: 2021-01-12T09:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+originalUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
 type: article
 quality: 39
 heat: -1
@@ -259,6 +259,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "3vpDOafjVkkhNFF6N0qlIdisqB0w8A1yKAD6lT1izDiQs3D+htmIGtJzHowHFEKPGACzLy6IpPqk4NI4rSncWRL/pWVsf9w4MtjMyz5CtEfXmRtGb2MY67mK4Tw1ZPzX3tP9hIiZv1IIyuF44MnEiy5XtiMz97fFNq7EE/KFKHy+3xdjd3nSrvt518IEQPHFHh029dDzTSPPYSUeDXk9Ohb4trEOWTyUByJn+9iVGv727bYrDsOFhxctd4iTr612gKBzitWVsWLIRdUVoq2v/78Kg7oNZViYaPfMrlibnTIOAqCqTdJCap0gcs9a7uLBTKftthWHb7ovmSoatHSAMZpGO/22kks8eOMuujYlR6M=;M4XWczfsQY8RqjKmjpaKfA=="
+secured: "5TdilOHdiJGQs70BElRdZan9kl1uV1FFKWaC6ADk2Kr+KoZ/ZTKe/yEYJAQPFiNohC6ScGfcKUzhSRUD4wJ0wM+6f4ZXnoZ7StjAWgK2kLFrWySpljmQZapor20I0W3E32aclx1TQ9a/1Xtj3TJGiA45osjD50ynExM5ajBMZCbm3Tbb4B9j2BCrutxY7uk48d9YpquHJI0AD/j5YcEF0lSyneFgnbJxZuldQoQa37luBVigKcnEte7s2JAIZGJHD9uEJBwpX0vadVQoLDUsxq1XS84w4W1p3P0KtTSBx+LLJ5g/KEsjWTRUO3gzFdWCrkTU3Zf/ApaYBposCcTc99Zect5uQO/zdqpvm5Ap/b8=;pMxXKet3ZUcYjV5FTmDPtg=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Don't Fall For All the Fear-Mongering About Robots"
 excerpt: "The nation today is still recovering from the unprecedented effects of widespread shutdowns in response to the coronavirus. After achieving a record low level of unemployment prior to the pandemic, ec"
 publishedDateTime: 2021-01-13T06:34:00Z
-originalUrl: "https://www.realclearmarkets.com/2021/01/13/dont_fall_for_all_the_fear-mongering_about_robots_656236.html"
-webUrl: "https://www.realclearmarkets.com/2021/01/13/dont_fall_for_all_the_fear-mongering_about_robots_656236.html"
+originalUrl: "https://www.realclearmarkets.com/2021/01/13/dont_fall_for_all_the_fear-mongering_about_robots_656236.html#!"
+webUrl: "https://www.realclearmarkets.com/2021/01/13/dont_fall_for_all_the_fear-mongering_about_robots_656236.html#!"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "NzCQ8YrmRHNTNsWdbcepnChODCjukjILTdsWGQZ0o4GUXJGh5omdQvyK/fO5Zx3bagLS1Um8AYlE/ssEzYx+FcHfcTYPZx17F9ccIviT07oYRW1XNVQY4k9u/9HuyJLLjzpXLm4ccYrUVdFinmcPZi30fGATLYM6LXh8gQKGgIFRzgra3+GuW7bvtfUPxwjrPQubEGdCUq4QYSxtH79zg8Mc/DEt6jXLEF9uy1Uf4DgGI/QJwhYgIpavw4g63y7fjT3y6oJlpSx7LlargKhHYC7Df613XGFhw9/QnFUef6ak8nV9qqSfhCw0/UxWVfn5mHk/0Cq/z79e4utUnnHQJx/VsVVEvQAnsVIuwX5Tvw07luu3kACJL8vbvKBf1D0lGGxyrJPA2HttpncBzvIsZXRdFSQWI0TlGHaHPc6GH0Bp+2/2vbMgw0sawMNwLbMOioBCsLig2vnLyve51CTLsEkYpWbsjsyr3+DYbbTAd0nwpiM/K3+mN1DLLDGHXZnowyLmB7pIeWZyy6cGZKMcdQ==;XgRRfb/UPKvq5uQ5WqvfbQ=="
+secured: "Z0gUj6lZZd+WlTjmMmrct/rZ4AQ0ZSFwYlTfW8uXxcQoco7fGma+C2jR1cyDZEPhneXRarZ7vPZtRwT8biRrpAsckvcMUk9CCSneAY/I/UISNH8BKvIrthMmwF3huaUg9hmCcmBKYuFuzaW67nxn2QqRTuz6BLdv+gwvzEcHzZBEIoWdyvgNpaReBRExVSEl8/8eUsTkZxVYz8ExZR5KhdYgsEr+cVe8Bir4rIlJV0GzRG9MZiArXwpE4iIi2sK8zTiFPyKdRx8IJJ9/vvhrKDJx/SEzFfs1W83zQNsjJAt5rQa1eOgcBqc7Fsd14w5QT2DcTF5+lJ/XGRg6iAbXVgpBPyz4yMcGL144hxCFg4D1DW0jn14xBFoF48arqbcc9O0IKNeN3Bu93Mgr6xxmI1GB2D5TPFKjVER971ZGaCBlSmbeorzF1XY2yfYpQFCTJLTTgUnWOb5H54P8WE1oZiLgxi1Rkl7DsRP33of/ge8MncLmsQWsMV68XzQFXvUffGthu+H41VQtVEJEifUG7A==;4VaK/5ydnm6cTCqxx3YDQg=="
 ---
 

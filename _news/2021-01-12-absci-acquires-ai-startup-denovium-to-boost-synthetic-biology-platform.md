@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boo
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boost-synthetic-biology-platform/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
+  - title: "AbSci purchases San Diego artificial intelligence startup Denovium"
+    excerpt: "Vancouver-based biotech company AbSci announced Tuesday that it purchased a deep-learning artificial intelligence startup called Denovium, based in San Diego."
+    publishedDateTime: 2021-01-13T14:04:00Z
+    webUrl: "https://www.columbian.com/news/2021/jan/13/absci-purchases-san-diego-artificial-intelligence-startup-denovium/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 37
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/01/007783646_Absci_01-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "5Y4upXz2J8mlIGl3N3KwMbcZSRcPf+DK0OQmgETvixr9mySJNEqbr/9Zi5b+E9vGraA/cK54yZcaPMYCueID42YdTVeBMRJp+3Qsugp2S8jFr7oR5swRkdheO3DCx7zOlSzZte53CF4q3mGRQrf1kaYsQ1GgGKgnTyMFCdpMlpfKuGiuDnWVdvPgdZ6simz+Z242w4DZHhKBvu89x+LJUEm9cceAb4sQeHabH6L1APOTgo/peXo/cixv0EZ6RGtE98pvsCjli/IjunBDbuxT4yr+Jcs3atMKOCzHIHtS3K/sxkqcN9yYczIMhPJHepYbbKYfmsxkX01r1cLv/df1p8lUt+z5oV2h+th65Q8yO0VJeV4R/ISLTBb7jZFr3lnm1Mcr02/4UL6XuA270oHYFyAc1wKAJN5GWpP8k4F27CtJP6u3d05V8cYfALJ60GE8GYlQThsfsERPzxdmiCH46XTh+BN3CRnFYGq+vGp2ndBElBSmL9Ane2OTkjI3czQvVB1aI+f86fx+MZpm+Cj8yQ==;D3AET1Xs7FZu/kwP71Ifgw=="
 ---

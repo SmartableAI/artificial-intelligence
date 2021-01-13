@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ces-2021-asus-republ
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 801
     isCached: true
 
-secured: "+jrbT23yCbL1iIhQoUuy3yDRx7I9uuUuIXCzFfrY+WJEbNiGSElWJMpdqOVfVFfAAnnJq7B1D5eVmrqW0+VS3xEAqKqXaQU5wj2H7NNdalyWVd2BQKmQo6bLpklC2wjIQCQaURPKJTldJBEd37AeGnqZRb3te5l8/UoYduZsUpxfFggRBHBjZeXn17gIEMibG7I7zenWegzC7sITXNyi1m1S/Pfr1MYIKwPAmhRMH8ZeYslLM0vq5FXxxicX0yOR+aM1o9W7PGfXGiAfQIx//BCSzChuJh7V08v24b04GPR4C3Yv9NUkv2unPgkom7+yrcWk1UJbm54ErA5qWQbleSByIVeN4ZUS98vxQfdNXY8=;5GCg00JIPSopfagFXDv40g=="
+related:
+  - title: "ROG unveils Flow X13 convertible gaming laptop, XG Mobile external GPU"
+    excerpt: "The 13-inch ultraportable shape-shifts with 360° hinge and unlocks desktop-class gaming with powerful external GPU."
+    publishedDateTime: 2021-01-13T13:30:00Z
+    webUrl: "https://www.itweb.co.za/content/6GxRKMYJ24Rqb3Wj"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
+    images:
+      - url: "https://lh3.googleusercontent.com/kuidCaJ8eisFh5ggBA26PnjbbdaKNkveLdPsYr0TqepTCvNbCVwMDqb75DqMSHruN-oYhOV17HMhOCtyqVMOPPw7xoBKn_S6Sg0=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+
+secured: "UlvW5WkReNN+Ng7l6CPYwAGHSoVcYB8nia+eRUKrDRwIPVXUCSo230ulsmomMTYCBONJ8wIRVwBrzCo/DF9EsBPkuAwl7AC+qg3yP94sFXhO1w65FZNakk9Dynn4v26h9F5E/YdxlnQ2Na8dyZEZEy3c3I4783T4+4TK0PJW+wqueBf51b/KL5VRQ4px8qp4H0V49JdbYqM22QDxwd8CXEJ8r+Hh1wkC2S1xj5Ds0h1GfwiFDxZzocw2uj3J66CrwwJ4MybBbYC6EvEcmhMc5I1AUa6EJ2Npr7xc86ECWFf8J+KqeIG+ZC9JQhg9gqf/3B7RMfOBqLhFjTlW27llrwHbxuipwRDcR/7luPETJ3f5D6RSVb4H/KyJ+UtWBwY1pfvebyJ74NrIzaAk8WTJPgozOd+qVptnaA2zcjm972mQvbmozlSpqTKcxkSHb1w7k1kZg7Tc5g82PqHVmE0QHyZD9RZ1TtFF+a112rQffDhlZvktOE4d03Nb9JpE1v3GlDYhGCN47h4R/hFYge8iKQ==;nZyZ3OeSfNWjHMhrTWAgUg=="
 ---
 

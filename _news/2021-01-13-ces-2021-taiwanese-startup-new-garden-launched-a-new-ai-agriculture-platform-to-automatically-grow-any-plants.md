@@ -116,6 +116,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
+    excerpt: "Technical speaking, Unusly builds machine learning and AI-powered technology for mobile unmanned vehicles, starting with drones. Over 75% of Unusly AI algorithms are designed by two female graduate researchers at National Taiwan University,"
+    publishedDateTime: 2021-01-13T07:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-industrial-technology-coronavirus-pandemic-asia-9c88266770112356fea9084562a00d67"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "WXGPnqEGQiygsu45NMq7s4dj3lfsX2ovRDuoCX+62Xecr3Ngd32XC7Bb4JJTBk9pX5tiamJ3ilJjO7Q81RxkgG7/uYxLFJbRyRPaS0W/1RA4ZNMe+CBP0CusDdDxq25+j2qVwVn7BtJLDEqMI+8+F1Bf4ijLzHyHA2oMrkcLwIdr3mi3crO/ajKVTPeUiqoQqSXbgEqHTsCjJG8bTl5GjNvEG7biHi6MwB/cH+M99IJg2SmF658RyA26JpftCfz/xsCn5DiLMrq+ricXfBn3YgldS/Mf/a5DczJN00fSFgubg7u/u/yiN/m0Dez+t3kNMAS3gZ20fBtknHq+NOND6WIVdnv3yzpHRz20jo/YD2A=;JnJLKR382CBCTnlZyos+9Q=="
 ---

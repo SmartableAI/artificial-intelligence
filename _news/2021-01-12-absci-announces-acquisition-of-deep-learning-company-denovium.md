@@ -52,6 +52,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
+  - title: "AbSci purchases San Diego artificial intelligence startup Denovium"
+    excerpt: "Vancouver-based biotech company AbSci announced Tuesday that it purchased a deep-learning artificial intelligence startup called Denovium, based in San Diego."
+    publishedDateTime: 2021-01-13T14:04:00Z
+    webUrl: "https://www.columbian.com/news/2021/jan/13/absci-purchases-san-diego-artificial-intelligence-startup-denovium/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 37
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/01/007783646_Absci_01-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "dRWhjNwZg05H0VeexU7DJ6K4WkunY0APAqfJwUD+Xle3zX0ujTnWmo1DXvRR094RqxEDfeBTH0e8sbPlm+wTG3FBIl6Dpmcr8RwzCd8bi7Y2LZJArS+ztyBEvi0g3CSf0LSnoW2bc4Kxsk0cUaeUVS5z9+udmNBBWwlUvfkVkDHSQaXuXVnJWoL39wad6lLbaufTbVKiS99qtM1shL24vSmKoR/IpkAJwrhSqOd0kIPQyeYEDcTaSTwzE51NkshLCSuqHfZbinu4UmUWgiZYrRJnHgK9Wd2JaCAEMwVAPLQvrh2XgDhvSgDT5TwpvNdwKKSobuIvStkEpOuUFbjTW/+OIRVs6Z1+W8o/f0ESxBs=;w4AGFApX+Dnk6qEhXe9UBg=="
 ---

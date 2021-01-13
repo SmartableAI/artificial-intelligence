@@ -158,20 +158,6 @@ related:
         width: 840
         height: 473
         isCached: true
-  - title: "Video, cellphone and facial recognition data may lead police to US Capitol rioters"
-    excerpt: "The countless hours of video — much of it taken by the rioters themselves — is a treasure trove of evidence for authorities looking to prosecute members of the pro-Trump mob."
-    publishedDateTime: 2021-01-08T22:41:00Z
-    webUrl: "https://www.stuff.co.nz/world/americas/donald-trumps-america/300201409/video-cellphone-and-facial-recognition-data-may-lead-police-to-us-capitol-rioters"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 33
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/q/c/p/x/image.related.StuffLandscapeSixteenByNine.1420x800.4yqcw1.png/1610145520138.jpg"
-        width: 1420
-        height: 798
-        isCached: true
 
 secured: "vh9N35z3CNFqGLlU5u560Q3+8nMhdLuz4w8hsrs+nQb5enoeNUhHBQcBoav9y1ous1YMfVMmh/iPpr4JMot2lYZ24gLRj65MgGGJKRPwGBlYrosEDQlsBfNgdgQIfdg2EINXSqjRFcJlB0oxhJ3zy0bkugAwqz7zLtuH+JDUtqnKKQYSBZTHxx1hd9R6m2CSswCgadruJMTsI+aoannKusEPr3ZaCBR5lfA6w/y+7Eadj3do+srDECUqT93E1083/mfQD66mVeDdbGKkVn5m+75S6MfS7aOF6wagTE0quzvPqaTGFCk8XpsaXTVi9OUT+znWTngzbrRM3SerwxT4OstXvoEk+r+zFukkdeCd+1b1zuGAFwEsGgylkaGhcEKRdOz1oQ1eJZlk+BnCyKqviDzHjpcc3jQSP+fGP5TggO3TWryE+wTAx1enVHt0jlB5PrxRP8Yubqv5SHRGHAJlCiE18TY39dzvV+PFGkli0QURB1hRmgtWTNRcuZNFckB1DCJW7aEqpFecLD51i1fD7A==;EYxcQD9eYFP5OPJy0nkrUw=="
 ---

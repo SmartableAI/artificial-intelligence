@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Molecula raises $17.6 million for its AI feature store technology"
+    excerpt: "Molecula, a company developing feature stores for AI and big data analytics workloads, has raised $17.6 million."
+    publishedDateTime: 2021-01-13T13:02:00Z
+    webUrl: "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/"
+    ampWebUrl: "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "fgwF7ELnopYZJ8228EFrFV4nrUCrjF0pDfdtYKf0cIaFtudExuiGeGgVA8HTrCNQAcV7GkH5K2t64/NC+dZM1Wcueq5+Rr6q8c54RW0r/SwePErohZdvglE4Ga0mT13zBBNKNjArWpOC0fHAqrqb7najIPG1NpkY2xyZ/Im0D1GGsikCAF+TzlDUBnURajaJal96vGrMCGSeqlDUwmJo2ADufxWbsR+qeysY02I8GJ3FHiy6SwR/pHKsyJwfMvEwMlJvNgn9xVr7h7nevmMXuxS/yyigVBJJJ1UvFQut/qmrRkbLqJHRUpEoGzU3bvWjhIbcrpjsimt2XfbSuspehAm4sNxkH76CD6quv0NfD88Y3kXjFab1Ogl8e4dvyYbVSdLVVrW1GOG5V4pY7FQQvdVzdLF9pa4R6rCCE0MqV280OoLikbyv/t+592Mvrs1dyDv2YMpsBwLxBF23U4adIfN88fcsZs8Sn9MPRAq+43aQOneKuvZFGyvekB3W9Nxhl0sXX6N0tNTCgzStGtkiVA==;lVKLCsVhS9Zga29Ta13QsA=="
 ---

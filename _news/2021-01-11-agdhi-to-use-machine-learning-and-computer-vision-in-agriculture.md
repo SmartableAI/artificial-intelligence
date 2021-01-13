@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-a
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/"
 type: article
 quality: 76
-heat: 87
+heat: 86
 published: true
 
 provider:

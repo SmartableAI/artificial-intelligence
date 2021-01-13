@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/job-screening-service-halts-facial-analy
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
