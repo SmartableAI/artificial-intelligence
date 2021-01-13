@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-04-here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job.md",
+      "title": "Here are 10 career skills you need to learn in 2021 to land your dream job",
+      "excerpt": "It can be hard to live up to New Year expectations, but it's entirely possible if learning new skills is one of your New Year's Resolutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job-01609360489",
+      "originalUrl": "https://www.marketwatch.com/story/here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job-01609360489",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-279400/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job-01609360489",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job-01609360489",
+      "publishedDateTime": "2021-01-04T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-the-reality-of-ai-in-healthcare-promises-roles-evolution-and-more.md",
+      "title": "The reality of AI in healthcare: promises, roles, evolution, and more",
+      "excerpt": "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
+      "originalUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
+      "publishedDateTime": "2021-01-04T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025.md",
       "title": "Global Natural Language Processing (NLP) Market 2020 Demand, Industry Synopsis, Operational Efficiency and Market Capitalization by 2025",
       "excerpt": "The statistical report titled Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2020-2025 has all the important market aspects penciled down in a understandable language format.",
@@ -1109,102 +1204,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-ces-2021-and-cars-what-we-expect-in-autonomous-cars-evs-and-more.md",
-      "title": "CES 2021 and cars: What we expect in autonomous cars, EVs, and more",
-      "excerpt": "With some of the biggest tech companies dipping their toes into the automotive world, what will we see at CES 2021? Here are a few educated guesses at what to watch out for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
-      "originalUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/sony-vision-s-electric-concept-car-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-cars-evs-autonomous-ces-2021/?amp",
-      "publishedDateTime": "2021-01-01T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml.md",
-      "title": "MLCommons Launches and Unites 50+ Global Technology and Academic Leaders in AI and Machine Learning to Accelerate Innovation in ML",
-      "excerpt": "MLCommons, an open engineering consortium, launches its industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good. The non-profit organization initially formed as MLPerf,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "publishedDateTime": "2021-01-01T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

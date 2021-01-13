@@ -2,17 +2,17 @@
 category: news
 title: "How the military can get more out of artificial intelligence"
 excerpt: "The authors argue the military must remain educated and become the masters of AI instead of training to be its servants."
-publishedDateTime: 2021-01-13T10:00:00Z
-originalUrl: "https://www.federaltimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
-webUrl: "https://www.federaltimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
+publishedDateTime: 2021-01-13T11:03:00Z
+originalUrl: "https://www.airforcetimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
+webUrl: "https://www.airforcetimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Federal Times
-  domain: federaltimes.com
+  name: Air Force Times
+  domain: airforcetimes.com
 
 topics:
   - AI
@@ -39,6 +39,6 @@ related:
         height: 640
         isCached: true
 
-secured: "VhtW1EX0DIX4CsGRsQaK53/C2OCDBXrvBxAJm7D/eV66FiGN5Dru+vXl9duMXq/6wTaDUTE6oiYwzqV5i2mSKPY4jmWOLW2Gu1ynXI0+eS2dELSJ51HizY0xUSAJoPR0ZXwidadWrJLi6g8yhSuK+Cjp6/4ZQn2b6ux9nONvgR9y2+/fZO7PMXnx7t6ZOEGevXjXpQtgXU0pV7VW6Rtq5WBYeC+XpeGuK5NjYrcsATyOHS36COAdzij/FefH36JJ0Uyb9/3P5+5b9EgVPEtup+gFhI0ydRK5QncXZ5mlGn3LPECikuwct2onV8/zTLYVaZUy7je516Ki3NitzFMJ0V3U1GtXkHilMXne1NPEMqFPcTEkHkJKsTtsBorTWfvYBNX8aPRXWgFAt7rIamaj6PMzB4IBAqrjAqPk/B/EMm+s8aTEIb3qt3fsaNfH4XJj0bPpTcrE4DksXaaXQA5PiOuFcOTtsyxbsT8Zho/Vlgb1fBzcj2WVg6RrPI0yhR6++yVXztHUxz94FyL+p445GQ==;4HOHUX50EKjikxTH20qOig=="
+secured: "YSfoZnrSLdaGchgAJb4bieCHWXB83xExkgpBDcZoxldklJAul/bOLrMJlwjJKG9L/vcgGw3QLoP2G8uClTLi1uvbw1o1SULXBVh29GlRAyyEqJvQB7MbWrW9PNk/2OMEqKviAYLsQsfbhPb3WFQqyp2cY+RQrze0zfbX0OzynUGoDUePXZxKXBr9d0mug9KlwgnuqDtKLvU+sPoCtJ1NPHCvEwQxXrR8/Qxq52Ujt/dev1zTgtnDHi26np6BT7y4cvoEswAeN21wjvt3uxfzHTZlVwJhnw6KoAYQDpDtX8qy8P6uhavlshNQNNJrJT53JrYh9TzbTI0WtJlqAaKH6DtchNp5RgrCdHa/l/9r87A=;Om7h0J5qOk7PvowUbg6gjA=="
 ---
 

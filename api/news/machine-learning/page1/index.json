@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-14-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
-      "excerpt": "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Jan. 13, 2021 /CNW/ -- ElectrifAi, one of the world's leading",
+      "path": "_news/2021-01-13-using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker.md",
+      "title": "Using machine learning to predict vessel time of arrival with Amazon SageMaker",
+      "excerpt": "According to the International Chamber of Shipping, 90% of world commerce happens at sea. Vessels are transporting every possible kind of commodity, including raw materials and semi-finished and finished goods, making ocean transportation a key component of the global supply chain. Manufacturers, retailers,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 152,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/24/ML-1521-1.jpg",
+          "width": 800,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335",
-      "publishedDateTime": "2021-01-13T09:51:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T14:46:51-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
         "AI",
+        "AWS AI",
         "Machine Learning"
       ]
     },
@@ -149,7 +158,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026-2021-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {

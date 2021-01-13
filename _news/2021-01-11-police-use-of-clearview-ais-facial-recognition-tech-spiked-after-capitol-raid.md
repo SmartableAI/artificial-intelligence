@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-t
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
 type: article
 quality: 100
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/82bbae71-c9cc-45a4-b521-853dcad8d24a-GTY_1294932395.jpg?auto=webp&crop=7028,3954,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Facial Recognition, Social Media Could Help ID Capitol Rioters"
+    excerpt: "Trump rioters that stormed and defaced the U.S. Capitol building last week has intensified and federal law enforcement is using every means at its disposal to investigate the incident."
+    publishedDateTime: 2021-01-13T22:49:00Z
+    webUrl: "https://www.govtech.com/public-safety/Facial-Recognition-Social-Media-Could-Help-ID-Capitol-Rioters.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Facial-Recognition-Social-Media-Could-Help-ID-Capitol-Rioters.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Facial-Recognition-Social-Media-Could-Help-ID-Capitol-Rioters.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1888752913.jpg"
+        width: 940
+        height: 627
         isCached: true
   - title: "Facial recognition technology to help identify U.S. Capitol rioters"
     excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."

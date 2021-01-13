@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facial Recognition, Social Media Could Help ID Capitol Rioters"
+    excerpt: "Trump rioters that stormed and defaced the U.S. Capitol building last week has intensified and federal law enforcement is using every means at its disposal to investigate the incident."
+    publishedDateTime: 2021-01-13T22:49:00Z
+    webUrl: "https://www.govtech.com/public-safety/Facial-Recognition-Social-Media-Could-Help-ID-Capitol-Rioters.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Facial-Recognition-Social-Media-Could-Help-ID-Capitol-Rioters.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Facial-Recognition-Social-Media-Could-Help-ID-Capitol-Rioters.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1888752913.jpg"
+        width: 940
+        height: 627
+        isCached: true
   - title: "Baker promotes facial recognition technology after Capitol riot"
     excerpt: "After insisting the state’s police reform bill not ban facial recognition, Gov. Charlie Baker said the technology is important after last"
     publishedDateTime: 2021-01-12T22:06:00Z

@@ -190,20 +190,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change” report has been added to ResearchAndMarkets.com’s offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists,"
-    publishedDateTime: 2021-01-09T06:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-lung-disease-it-conglomerates-oil-and-gas-industry-89acf0d81fa14819bfe4c0fb1dca902c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "/CRQq90EPuDtU8R3xKvpQqu/8W6piuS0Nuvtq1BX1v0TUNhp7QpmHheAAXWTUUvr8ipYvzwvqQtFsMAUg1WTvPtlezrfrkKFPjo2wk69T/EjJ1kGa5YCX1EOa6f3p5U9BIIIdv+zTSG6CcOPlHh6C7JXQw8A0jJ9jlEzak36HiYJD5fVnMQ9IBcwY3LFijLlllMmTTrk0Ig/P7BgCTSemObMq1hIk6yTQueL5NcDZw6CH9YTNay9xwfwZgEvHguogrqYewKhw8VWBMjJWmTXZTJmKXh3v/GqDkQhCH3MGx29X0ABsDY6LyiwuOs9Ic2b+S2/tR8wHlOARp3WKK5h5M86855DYeJ5CiymWu81BYM=;5QkN7fsItU7xbCzjvckexg=="
 ---

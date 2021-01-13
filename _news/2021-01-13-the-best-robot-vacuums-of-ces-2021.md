@@ -83,6 +83,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The best robots at CES 2021"
+    excerpt: "This year at CES 2021, we’re seeing quite a few robots on display, from robots that'll help around the house to educational robots to bots that sanitize."
+    publishedDateTime: 2021-01-13T21:23:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "CES 2021: LG unveils artificial intelligence for \"at-home\" products"
     excerpt: "From sanitizing robots to a self-cleaning water dispenser, LG Electronics is redefining what it means to be at home."
     publishedDateTime: 2021-01-12T23:15:00Z
@@ -192,7 +203,7 @@ related:
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-12T09:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+    webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
     type: article
     provider:
       name: Associated Press

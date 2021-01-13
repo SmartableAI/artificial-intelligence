@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-14-tesla-files-to-use-new-millimeter-wave-radar-on-its-full-self-driving-electric-cars.md",
+      "title": "Tesla files to use new ‘millimeter-wave radar’ on its ‘full self-driving’ electric cars",
+      "excerpt": "Tesla has applied with the FCC for the use of a new “millimeter-wave radar” for Autopilot and Full Self-Driving in its electric cars. New Tesla Radar Tesla uses a front-facing radar sensor hidden inside the front fascia of its vehicles as part of its Autopilot/Full Self-Driving (FSD) sensor suite.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/",
+      "originalUrl": "https://electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/amp/",
+      "publishedDateTime": "2021-01-13T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-teslas-main-self-driving-rival-isnt-googleits-intels-mobileye.md",
       "title": "Tesla’s main self-driving rival isn’t Google—it’s Intel’s Mobileye",
       "excerpt": "Mobileye's self-driving strategy has a number of things in common with that of Tesla, the world's most valuable automaker. Like Tesla, Mobileye is aiming to gradually evolve its current driver-assistance technology into a fully self-driving system.",
@@ -309,7 +361,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1433,51 +1485,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-why-robotics-and-language-need-each-other.md",
-      "title": "Why robotics and language need each other",
-      "excerpt": "Combining robotics and language complicates both, but they have the potential to bolster each other",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
-      "originalUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/istock-1127591787.jpg?itok=tVPxJFyv",
-          "width": 1260,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
-      "cdnAmpWebUrl": "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
-      "publishedDateTime": "2021-01-03T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
       ]
     }
   ],

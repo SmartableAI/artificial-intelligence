@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 278,
       "tags": null,
       "images": [
         {
@@ -231,6 +231,49 @@
       "provider": {
         "name": "Resource-Recycling",
         "domain": "resource-recycling.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show.md",
+      "title": "Dishwashing robots and Bluetooth masks: Pandemic products hit tech's biggest show",
+      "excerpt": "Companies big and small showed off their new innovations at the closely watched tech trade show, which kicked off on Monday, many with features tied to life during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "originalUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-4b3ba58cf2361b74931fdaec902b028f-h-23a6214b45f666e02e3ebea2eefaa196-1610457872.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "publishedDateTime": "2021-01-12T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WESH",
+        "domain": "wesh.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1329,50 +1372,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-is-vietnams-first-ai-robot-the-future-of-education.md",
-      "title": "Is Vietnam’s first AI robot the future of education?",
-      "excerpt": "In digitally quicky Vietnam, an AI robot fitted with five \"senses\" and Google search integration is being equipped to be a teaching assistant.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
-      "originalUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/01/Vietnam-AI-robot-Tri-Nhan-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
-      "publishedDateTime": "2021-01-05T18:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

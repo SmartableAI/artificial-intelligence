@@ -45,6 +45,38 @@ related:
         width: 846
         height: 442
         isCached: true
+  - title: "Cadillac Reveals Futuristic Self-Driving Pod And Single-Rider Drone Concepts"
+    excerpt: "Cadillac and GM are determined that it simply will not be that way. They are already set to launch a luxury EV SUV. And they have revealed, in their keynote speech at CES 2021 as part of their electrifying future,"
+    publishedDateTime: 2021-01-13T21:42:00Z
+    webUrl: "https://www.hotcars.com/cadillac-reveals-futuristic-self-driving-pod-and-single-rider-drone-concepts/"
+    ampWebUrl: "https://www.hotcars.com/cadillac-reveals-futuristic-self-driving-pod-and-single-rider-drone-concepts/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/cadillac-reveals-futuristic-self-driving-pod-and-single-rider-drone-concepts/amp/"
+    type: article
+    provider:
+      name: hotcars
+      domain: hotcars.com
+    quality: 41
+    images:
+      - url: "https://static3.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/Auto_1.jpg"
+        width: 1710
+        height: 900
+        isCached: true
+  - title: "Cadillac Reveals Futuristic Concepts With Self-Driving Pod And Single-Rider Drone"
+    excerpt: "Cadillac and GM are determined that it simply will not be that way. They are already set to launch a luxury EV SUV. And they have revealed, in their keynote speech at CES 2021 as part of their electrifying future,"
+    publishedDateTime: 2021-01-13T21:20:00Z
+    webUrl: "https://www.hotcars.com/cadillac-reveals-futuristic-concepts-with-self-driving-pod-and-single-rider-drone/"
+    ampWebUrl: "https://www.hotcars.com/cadillac-reveals-futuristic-self-driving-pod-and-single-rider-drone-concepts/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/cadillac-reveals-futuristic-self-driving-pod-and-single-rider-drone-concepts/amp/"
+    type: article
+    provider:
+      name: hotcars
+      domain: hotcars.com
+    quality: 39
+    images:
+      - url: "https://static3.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/Auto_1.jpg"
+        width: 1710
+        height: 900
+        isCached: true
 
 secured: "VDvS1VOvvTvXSQdEM5TSEmv0AUavx33rmP7dzUIjSHs6FFV9sj1WZwa5kDONZhOwf5cLEDjj8useIeFRsznb0yOrtTQaoPihmAqUJK+NpAxX07c+YOtp5Y9lQEiGuwuqU0nRMswERoVWjrD7Ijf/7G89Lt2mw6cHfsIT5Ag4QPFc02GVcipg92m6itaGH2cYhjglLMzg0D7AQHrYBv+0heMCkpy6EwLLGvjSmeM7DB3J8S9oIuwsCp9rbeqM3koEjejeQoDgJ47GfgthpcY3+aLYSihJkXq7LsbFw9drtvPyI3MwonGBBahbftcMm74Yiy8VuR+FTeCp9ZysORKvirVSfrESQmdsb4kWkLuDSK/xfqoBJeIoUShoO1ferajwJ5anGoJ+bq+X4lWloI2QZ860CY2zGiY/iQcA14F/5FI7xO1W8DDUKGRsn6aUQeGsWW/Ew7nKam8LKcnIQkS+xr+fuDQTCORhYaw7TmdNNIiEq/fEhspcgUkOiQDNLphUQ36IHZz2jom4ZK15zMePpw==;6O3XXIURJv3v2bFc5ljzGg=="
 ---

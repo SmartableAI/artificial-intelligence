@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-is-vietnams-first-ai-robot-the-future-of-education.md",
+      "title": "Is Vietnam’s first AI robot the future of education?",
+      "excerpt": "In digitally quicky Vietnam, an AI robot fitted with five \"senses\" and Google search integration is being equipped to be a teaching assistant.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "originalUrl": "https://techwireasia.com/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/01/Vietnam-AI-robot-Tri-Nhan-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/is-vietnams-first-ai-robot-the-future-of-education/",
+      "publishedDateTime": "2021-01-05T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-artificial-intelligence-in-a-post-covid-world-2021-and-beyond.md",
       "title": "Artificial Intelligence in a post-covid world: 2021 and beyond",
       "excerpt": "COVID-19 has impacted every aspect of our lives including the way we do business. In fact, according to a recent survey by McKinsey, COVID has accelerated companies’ digital transformation journeys.",
@@ -1343,49 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-artificial-intelligence-robotics-market-to-see-major-growth-by-2025-nvidia-intel-ibm.md",
-      "title": "Artificial Intelligence Robotics Market to See Major Growth by 2025: NVIDIA, Intel, IBM",
-      "excerpt": "Latest Study on Artificial Intelligence Robotics Market published by AMA offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Robotics Market research report shows the latest market insights with upcoming trends and breakdown of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
-      "originalUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc29648211_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
-      "publishedDateTime": "2020-12-28T21:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

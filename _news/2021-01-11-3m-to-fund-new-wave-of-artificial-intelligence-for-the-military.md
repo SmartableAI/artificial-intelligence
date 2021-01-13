@@ -26,12 +26,12 @@ images:
 related:
   - title: "How the military can get more out of artificial intelligence"
     excerpt: "The authors argue the military must remain educated and become the masters of AI instead of training to be its servants."
-    publishedDateTime: 2021-01-13T10:00:00Z
-    webUrl: "https://www.federaltimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
+    publishedDateTime: 2021-01-13T11:03:00Z
+    webUrl: "https://www.airforcetimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
     type: article
     provider:
-      name: Federal Times
-      domain: federaltimes.com
+      name: Air Force Times
+      domain: airforcetimes.com
     quality: 37
     images:
       - url: "https://www.armytimes.com/resizer/ZNgdMdpJvDsmwaRkyRn14Gpt9vE=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/GCAL2AIX2BEJJK3TMYLCARSZIM.jpg"

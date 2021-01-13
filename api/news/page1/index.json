@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker.md",
+      "title": "Using machine learning to predict vessel time of arrival with Amazon SageMaker",
+      "excerpt": "According to the International Chamber of Shipping, 90% of world commerce happens at sea. Vessels are transporting every possible kind of commodity, including raw materials and semi-finished and finished goods, making ocean transportation a key component of the global supply chain. Manufacturers, retailers,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/24/ML-1521-1.jpg",
+          "width": 800,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T14:46:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-bryte-raises-24m-and-begins-licensing-its-tech-in-addition-to-selling-8k-ai-powered-mattresses.md",
+      "title": "Bryte raises $24M and begins licensing its tech in addition to selling $8K AI-powered mattresses",
+      "excerpt": "Bryte today announced $24 million in Series A funding led by ARCHina Capital. This comes as the company moves away from selling its $8,000 mattress direct to consumers and instead is working with partners who will utilize Bryte’s technology in their mattresses.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/13/bryte-raises-24m-pivots-from-selling-8k-ai-powered-mattresses-to-licensing-its-tech/",
+      "originalUrl": "https://techcrunch.com/2021/01/13/bryte-raises-24m-pivots-from-selling-8k-ai-powered-mattresses-to-licensing-its-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/5efbb2d25eee78c62357c2c4_ForHome-hotspots.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/13/bryte-raises-24m-pivots-from-selling-8k-ai-powered-mattresses-to-licensing-its-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/bryte-raises-24m-pivots-from-selling-8k-ai-powered-mattresses-to-licensing-its-tech/amp/",
+      "publishedDateTime": "2021-01-13T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-tesla-files-to-use-new-millimeter-wave-radar-on-its-full-self-driving-electric-cars.md",
+      "title": "Tesla files to use new ‘millimeter-wave radar’ on its ‘full self-driving’ electric cars",
+      "excerpt": "Tesla has applied with the FCC for the use of a new “millimeter-wave radar” for Autopilot and Full Self-Driving in its electric cars. New Tesla Radar Tesla uses a front-facing radar sensor hidden inside the front fascia of its vehicles as part of its Autopilot/Full Self-Driving (FSD) sensor suite.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/",
+      "originalUrl": "https://electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/amp/",
+      "publishedDateTime": "2021-01-13T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities.md",
       "title": "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities",
       "excerpt": "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and classification capabilities designed to maximize operational efficiency for its customers.",
@@ -41,58 +197,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-how-to-train-procedurally-generated-game-like-environments-at-scale-with-amazon-sagemaker-rl.md",
-      "title": "How to train procedurally generated game-like environments at scale with Amazon SageMaker RL",
-      "excerpt": "A gym is a toolkit for developing and comparing reinforcement learning algorithms. Procgen Benchmark is a suite of 16 procedurally-generated gym environments designed to benchmark both sample efficiency and generalization in reinforcement learning.&nbsp; These environments are associated with the paper",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/winning-neurips-2020-procgen-benchmark-competition-with-amazon-sagemaker-reinforcement-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/winning-neurips-2020-procgen-benchmark-competition-with-amazon-sagemaker-reinforcement-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1755-1.jpg",
-          "width": 544,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T11:50:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -249,50 +353,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
-      "excerpt": "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Jan. 13, 2021 /CNW/ -- ElectrifAi, one of the world's leading",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335",
-      "publishedDateTime": "2021-01-13T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -648,7 +708,7 @@
       "originalUrl": "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 278,
       "tags": null,
       "images": [
         {
@@ -958,7 +1018,7 @@
       "originalUrl": "https://theconversation.com/how-explainable-artificial-intelligence-can-help-humans-innovate-151737",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1104,7 +1164,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026-2021-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1186,49 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-controversial-chatbot-leaves-lessons-on-ai-use-ethics.md",
-      "title": "Controversial chatbot leaves lessons on AI use ethics",
-      "excerpt": "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202101/0573ca44e97c4371b32c6db43eedfa53.jpg",
-          "width": 640,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
-      "publishedDateTime": "2021-01-12T22:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

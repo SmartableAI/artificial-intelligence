@@ -44,18 +44,18 @@ related:
         height: 563
         isCached: true
   - title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
-    excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
-    publishedDateTime: 2021-01-12T17:47:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
+    excerpt: "NVIDIA Introduces GeForce RTX 3060, next generation of the world’s most popular GPU. Powered by NVIDIA Ampere architecture, delivers up to 10x the ray-tracing performance of GTX 1060; Starting at INR 29,"
+    publishedDateTime: 2021-01-13T13:25:00Z
+    webUrl: "https://www.businesswireindia.com/nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu-71104.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Business Wire
+      domain: businesswireindia.com
     quality: 33
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
+      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/nvidiageforce_71104.png"
         width: 700
-        height: 450
+        height: 393
         isCached: true
 
 secured: "q/KZ3rBH+eYZbVtbPh8rW4TkfZVB4D4kZChu6rrisGa/jD3oJdfhhCTTVO+DSKgQcMy6WuqMglpR0Kjh5vT+CARmZ8cwBjPjnNqoMvxp4zYRjf72z7tYu367ttlJlGqXi5IXr8E6uLwsLk2JCtz0MqcisYpT4OZWb8Qj490inChwXIleZFXR+ApbWqI6zjem38wfU2BuCAryepyUHbm5/oE/7n4EfXTNwLT9JYdZUVY8j9oLjFxT/WvTvqzuRcqEJG1kE5DLSqiw8Kr7qnVmIaWAF6m5mOSS8aNZqBNVOE3xTxj9fz12xhIztfSAo/LXuocntZIW9ZyuPzJnxC5YK5+BkFhbtqfK0NYzvfP/keIO1T7pOiZCYOEFuSbdTvZqYzz6uFW9mvzSSJ72C6+rHnjDjhFQWnKpNWBJmzQupsQlujQy5IxXstIPJUKRY0em3kSZgaCQZzmnsK0Z3oDtzz0GmWleBhTYgv55a1CKTLJbpkb3P/yre+6DPXfIfLTxNr9hmx7nyFMORm9tuM3C0g==;zmsPsoTKi9GhWOLxtYNE9g=="

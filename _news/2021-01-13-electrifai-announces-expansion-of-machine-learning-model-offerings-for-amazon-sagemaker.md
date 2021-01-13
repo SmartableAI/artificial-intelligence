@@ -26,12 +26,40 @@ images:
     isCached: true
 
 related:
+  - title: "Using machine learning to predict vessel time of arrival with Amazon SageMaker"
+    excerpt: "According to the International Chamber of Shipping, 90% of world commerce happens at sea. Vessels are transporting every possible kind of commodity, including raw materials and semi-finished and finished goods, making ocean transportation a key component of the global supply chain. Manufacturers, retailers,"
+    publishedDateTime: 2021-01-13T22:46:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/24/ML-1521-1.jpg"
+        width: 800
+        height: 389
+        isCached: true
+  - title: "How to train procedurally generated game-like environments at scale with Amazon SageMaker RL"
+    excerpt: "A gym is a toolkit for developing and comparing reinforcement learning algorithms. Procgen Benchmark is a suite of 16 procedurally-generated gym environments designed to benchmark both sample efficiency and generalization in reinforcement learning.&nbsp; These environments are associated with the paper"
+    publishedDateTime: 2021-01-13T19:50:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/winning-neurips-2020-procgen-benchmark-competition-with-amazon-sagemaker-reinforcement-learning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 93
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1755-1.jpg"
+        width: 544
+        height: 382
+        isCached: true
   - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Jan. 13, 2021 /CNW/ -- ElectrifAi, one of the world's leading"
+    excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Jan. 13, 2021 /PRNewswire/ -- ElectrifAi, one of the world's"
     publishedDateTime: 2021-01-13T17:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335"
+    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
     type: article
     provider:
       name: Business Insider
@@ -50,6 +78,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/11/Creating-high-quality-machine-3.jpg"
         width: 515
         height: 371
+        isCached: true
+  - title: "Hosting a private PyPI server for Amazon SageMaker Studio notebooks in a VPC"
+    excerpt: "Amazon SageMaker Studio notebooks provide a full-featured integrated development environment (IDE) for flexible machine learning (ML) experimentation and development. Security measures secure and support a versatile and collaborative environment. In some cases, such as to protect sensitive data or meet"
+    publishedDateTime: 2021-01-12T00:54:08Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/hosting-a-private-pypi-server-for-amazon-sagemaker-studio-notebooks-in-a-vpc/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/17/ML-1349-1.jpg"
+        width: 800
+        height: 381
         isCached: true
 
 secured: "E/j97/3rT1d2r99PfvKhezDuZgUy4Q/YfE6R1kiVlQ9gxjg/sMwHOTwYMca+0Rg6KZ8O5Q+l/Y0/QpCChqgkLY0oF2CSj5HYtVRfE8QmWTKQmmCcjS7fbN40AHECO+568LOMTAaqVYyQnUrr8W2dhWxM1JKIVTzVhrD2SM4U/RAh9T+5WbiVCT5/F0RlVwohYTXG63lEqw3tO9LsAtZqhtyUIG5ofJK6sRsG2q2N8yHOM55j1ioZrBAbh7H93PZc97r1Z16aWSG6uiLg5SyYAQb7A9tIfrt2qP/U7oJj6f8Q+h9hncXSHI6v32NTuuXbN6FFLZ0HR+kas2Wt62yCuzWCnXZWE9etPZc9NmHecS4=;ANxHDi20V0jEwowJMpPLdw=="

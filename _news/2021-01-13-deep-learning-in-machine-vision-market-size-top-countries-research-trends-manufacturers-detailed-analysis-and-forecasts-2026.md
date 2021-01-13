@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026-2021-01-13"
 type: article
 quality: 56
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -193,20 +193,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Global HR Advisory Services Market Report 2020: COVID-19 Impacts, Growth and Changes - Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change” report has been added to ResearchAndMarkets.com’s offering. HR Advisory Services Global Market Report 2020-30: COVID-19 Growth and Change provides the strategists,"
-    publishedDateTime: 2021-01-09T06:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-lung-disease-it-conglomerates-oil-and-gas-industry-89acf0d81fa14819bfe4c0fb1dca902c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "tPUZq+k/Og/xLS2rUrbdnbI6KDkkB3R1QwyGkbnzBNsYHA9/4Vz9Ll0QE6VDKMERQZj+HPkR4rcbEKGRZkoSaJYIRe6CgYWknf5MHnQl67S77Hz2WTKoBCZ4HVhIrmU+gZA/DIgejgQBAQDpc/HKa6IBa6KlgxT7nikRPFcIIFlvHd/pNsWRBfcPzcpUwjzVe3nCjv3TTaXK9lHTXvInefbmBGkh4JVTMj2AT/SFcQ7UzzTIHT+zEAPbsflEW7zFMqbRNTyGs22jXPOcqNT7feKG2/baxle/4u1/Qi5EuC/K3ro2Fpt6kUW8FT1VZ+L/llDEnOS7Tprsmni567u/ZUATHywXgzopP5/cMgqlqX4=;g7tl0MdaXxcGrwPOOsuKTg=="

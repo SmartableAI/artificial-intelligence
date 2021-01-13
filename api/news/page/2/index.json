@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-13-controversial-chatbot-leaves-lessons-on-ai-use-ethics.md",
+      "title": "Controversial chatbot leaves lessons on AI use ethics",
+      "excerpt": "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202101/0573ca44e97c4371b32c6db43eedfa53.jpg",
+          "width": 640,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
+      "publishedDateTime": "2021-01-12T22:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-ces-2021-day-two-highlights-bold-ideas-and-lots-of-bending-oleds.md",
       "title": "CES 2021 day two highlights: Bold ideas and lots of bending OLEDs",
       "excerpt": "Looking for the latest CES 2021 news? We've got you covered. In this daily roundup, we'll bring you all the biggest developments of the day.",
@@ -1122,21 +1165,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-fda-releases-artificial-intelligencemachine-learning-action-plan.md",
-      "title": "FDA Releases Artificial Intelligence/Machine Learning Action Plan",
-      "excerpt": "Today, the U.S. Food and Drug Administration released the agency's first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as",
+      "path": "_news/2021-01-12-dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show.md",
+      "title": "Dishwashing robots and Bluetooth masks: Pandemic products hit tech's biggest show",
+      "excerpt": "Companies big and small showed off their new innovations at the closely watched tech trade show, which kicked off on Monday, many with features tied to life during the pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html",
+      "webUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "originalUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/317925/FDA_Logo.jpg?p=facebook",
-          "width": 2423,
-          "height": 1269,
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-4b3ba58cf2361b74931fdaec902b028f-h-23a6214b45f666e02e3ebea2eefaa196-1610457872.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1144,13 +1187,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T07:02:00-08:00",
+      "ampWebUrl": "https://www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "publishedDateTime": "2021-01-12T07:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WESH",
+        "domain": "wesh.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1160,51 +1203,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-us-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank.md",
-      "title": "U.S. Fintech Artis Announces New Bank Funding Partneship With Drummond Community Bank",
-      "excerpt": "Artis Technologies, a U.S.-based fintech that provides lending solutions for businesses, announced on Tuesday it has entered into a new bank funding partnership with Drummond Community Bank for its Artis Credit platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/benjamin-vladimir-solomyani-unsplash-600x400.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
-      "publishedDateTime": "2021-01-12T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
+        "AI in Robotics",
         "AI"
       ]
     }

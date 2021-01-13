@@ -2,6 +2,144 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-26-15-biggest-tech-companies-how-big-can-they-get.md",
+      "title": "15 Biggest Tech Companies: How Big Can They Get?",
+      "excerpt": "In this article, we are going to list the 15 biggest tech companies in the world. Click to skip ahead and jump to the 5 biggest tech companies in",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/15-biggest-tech-companies-how-big-can-they-get-911336/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/15-biggest-tech-companies-how-big-can-they-get-911336/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/11/09050314/technology-2818664_960_720.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-25T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
+      "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
+      "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "originalUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "publishedDateTime": "2020-12-25T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-changing-landscape-seven-online-learning-trends-to-watch-out-in-2021.md",
+      "title": "Changing landscape – Seven online learning trends to watch out in 2021",
+      "excerpt": "As per Statista, today India has around 700 million ... Evolving technologies like Artificial Intelligence (AI), Augmented Reality (AR), and Virtual Reality (VR) will completely reinvent the ...",
+      "sourceUrl": null,
+      "webUrl": "https://de.statista.com/statistik/studie/id/50489/dokument/artificial-intelligence/",
+      "originalUrl": "https://yourstory.com/2020/12/changing-landscape-online-learning-trends-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/Study/50000/50489_cover.png",
+          "width": 429,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-25T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-beyond-the-boombox-the-race-to-artificial-intelligence.md",
       "title": "Beyond the Boombox: The Race to Artificial Intelligence",
       "excerpt": "And the most dramatic improvements are yet to come; I’m talking about artificial intelligence, or AI. There’s a furious race underway between semiconductor manufacturers to design the winning AI chip for data centers, self-driving cars, robotics ...",
@@ -1046,144 +1184,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-galvanize-now-supports-complianceai-with-strategic-partnership-for-modernized-grc-solutions.md",
-      "title": "Galvanize Now Supports Compliance.ai with Strategic Partnership for Modernized GRC Solutions",
-      "excerpt": "Galvanize, the global leader in SaaS governance, risk, and compliance (GRC) software, today announced a strategic partnership with Compliance.ai, the leading AI-driven regulatory compliance technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/galvanize-now-supports-compliance-ai-with-strategic-partnership-for-modernized-grc-solutions/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/galvanize-now-supports-compliance-ai-with-strategic-partnership-for-modernized-grc-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/galvanize-now-supports-compliance-ai-with-strategic-partnership-for-modernized-grc-solutions/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/galvanize-now-supports-compliance-ai-with-strategic-partnership-for-modernized-grc-solutions/",
-      "publishedDateTime": "2020-12-23T20:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya.md",
-      "title": "Malaysia approves first testing route for self-driving cars in Cyberjaya",
-      "excerpt": "Malaysia has greenlit its first testing route for self-driving cars in Cyberjaya, with eMooVit Technology Sdn Bhd to be the first to utilize it.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya",
-      "originalUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/emoovit-cyberjaya-header_4uqp.620.png",
-          "width": 620,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/13765/malaysia-approves-first-testing-route-for-self-driving-cars-in-cyberjaya?amp=1",
-      "publishedDateTime": "2020-12-23T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-what-alphago-can-teach-us-about-how-people-learn.md",
-      "title": "What AlphaGo Can Teach Us About How People Learn",
-      "excerpt": "At DeepMind, a subsidiary of Alphabet, Silver has led the development of techniques that let computers learn for themselves how to solve problems that once seemed intractable. Most famously ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/",
-      "originalUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fe26be462dc9f2effae991b/master/pass/Business-Alpha-Go-David_Silver.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/what-alphago-teach-how-people-learn/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-alphago-teach-how-people-learn/amp",
-      "publishedDateTime": "2020-12-23T19:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

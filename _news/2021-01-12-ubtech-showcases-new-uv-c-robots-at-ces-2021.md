@@ -3,8 +3,8 @@ category: news
 title: "UBTECH Showcases New UV-C Robots at CES 2021"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
 publishedDateTime: 2021-01-12T09:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+originalUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
 type: article
 quality: 39
 heat: -1
@@ -89,6 +89,17 @@ related:
     webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/"
     ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
+  - title: "The best robots at CES 2021"
+    excerpt: "This year at CES 2021, we’re seeing quite a few robots on display, from robots that'll help around the house to educational robots to bots that sanitize."
+    publishedDateTime: 2021-01-13T21:23:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
     type: article
     provider:
       name: Digital Trends
@@ -263,6 +274,6 @@ related:
       domain: morningstar.com
     quality: 2
 
-secured: "2bNJ7IC8KIvdsCF2RrEs4QFIJSIHWbNgeENwtsdanaNb7R5eItkSnINyEk9Y1BXufKyYTlJ2lq45sOoxXtzaPpoGDXZ9snHiehW/o6NL7pPsRjVFTRe9YMydrkqk9HRbZBnmE7NdGhtaH/tdS8dnzYTqEPSwKs9yx021okrLN4DKQ/gvRVHflq+w0XdsiOqTOveg4U/xN9BCKHIEi2QzwSBwdKsMAWsw+tCNHPXPZsBsFm1jRX0uQ2KCc4BIGr7TelspUmyqbi4StYBd6m9/uyAbd1ArvnHwv9RcncyPhWbCBsu9AAJYfIsV2o/LP3dkPn1KBsW1KfeTUeDbf8GkW/5c2xJgAwGRKnuSJMFp1Wc=;BmYa3y09mSdx559jDeV/Ug=="
+secured: "GGjv7ygx7rMC4gTJaA7Pje+f3B+jNM3AM3kQcX6NQhBR+/B1ZBYTR632bTO3HVtycCZoJhIx6JFjhUE+Tj2aaqi3z40Gpw4aK3aRfcx2R9NGb+V9dhyyhvzhzDJofoeSFr6GzZQVIbOjBE63hnwAUu+AuRTadONTViFyUxoBzAOKvqOde0+KqKWH0bCgo6RfCGSL+h9/CTk9E6oVwkf073F6l3KlEZak6YPfQyBLo2RlSRcc9rtaq1Th3eluO14iadSA+CKN99OPBgAgZbhIiF9yBER6UhsGRQcfQ4HUOg6DgW3EXQg3qWNqVBjhGoIS5r0BeJNYG+1DGi3BK2SJmP/grxyUCTtCU8SD5EuWm2g=;LkMIcINFtLMkV8Bbyitk4A=="
 ---
 

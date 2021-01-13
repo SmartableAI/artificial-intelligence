@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-ma
 cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: WESH
@@ -37,6 +37,22 @@ related:
     provider:
       name: KCRA
       domain: kcra.com
+    quality: 54
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-4b3ba58cf2361b74931fdaec902b028f-h-23a6214b45f666e02e3ebea2eefaa196-1610457872.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Dishwashing robots and Bluetooth masks: Pandemic products hit tech's biggest show"
+    excerpt: "Companies big and small showed off their new innovations at the closely watched tech trade show, which kicked off on Monday, many with features tied to life during the pandemic."
+    publishedDateTime: 2021-01-13T22:11:00Z
+    webUrl: "https://www.wcvb.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+    ampWebUrl: "https://www.wcvb.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
     quality: 54
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-4b3ba58cf2361b74931fdaec902b028f-h-23a6214b45f666e02e3ebea2eefaa196-1610457872.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"

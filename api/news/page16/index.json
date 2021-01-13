@@ -2,6 +2,162 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-29-resolution-scaling-the-secret-to-playable-4k-gaming.md",
+      "title": "Resolution Scaling: The Secret to Playable \"4K Gaming\"",
+      "excerpt": "Resolution scaling is a great option if you're looking to eke out an additional 10-15% performance, after tweaking settings. If you're playing at a high resolution",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
+      "originalUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2161/images/2020-12-29-image-2.jpg",
+          "width": 3352,
+          "height": 1936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
+      "publishedDateTime": "2020-12-29T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-a-black-man-spent-10-days-in-jail-after-he-was-misidentified-by-facial-recognition-a-new-lawsuit-claims.md",
+      "title": "A Black man spent 10 days in jail after he was misidentified by facial recognition, a new lawsuit claims",
+      "excerpt": "The man's attorney claims police used excessive force, false imprisonment, and cruel and unusual punishment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12",
+      "originalUrl": "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5feb06f5a64488001819396e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-facial-recognition-technology-crime-2020-12?amp",
+      "publishedDateTime": "2020-12-29T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-uk-chipmaker-graphcore-valued-at-28bn-after-it-raises-222m.md",
+      "title": "UK chipmaker Graphcore valued at $2.8bn after it raises $222m",
+      "excerpt": "British firm challenges rivals including Nvidia with chips used in artificial intelligence Jasper Jolly ... with voice recognition and driverless cars among the potential target markets for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
+      "originalUrl": "https://www.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ca479579505d4b80607dc6f2c2e70cdfaf298c4d/0_253_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d42009c89d4cfa8f586425a27d1ccbe6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2020/dec/29/uk-graphcore-valued-28bn-nvidia-artificial-intelligence",
+      "publishedDateTime": "2020-12-29T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle.md",
       "title": "Become An Expert In Artificial Intelligence With The Ultimate Artificial Intelligence Scientist Certification Bundle",
       "excerpt": "The four featured courses are packed with 670 lessons covering Deep Learning, Machine Learning, Python and Tensorflow. Designed for all skill levels, the courses cover everything from the basics ...",
@@ -1058,153 +1214,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-how-to-enable-google-assistant-in-androids-chrome-browser.md",
-      "title": "How to Enable Google Assistant in Android's Chrome Browser",
-      "excerpt": "The move saves Chrome users from the lackluster voice recognition you were forced to deal with previously. Google Assistant is more convenient, and it integrates your in-app Chrome searches into ...",
-      "sourceUrl": null,
-      "webUrl": "https://lifehacker.com/how-to-enable-google-assistant-in-androids-chrome-brows-1845942274",
-      "originalUrl": "https://lifehacker.com/how-to-enable-google-assistant-in-androids-chrome-brows-1845942274",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/jubzwdgwtdr9agwxuxz4.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lifehacker.com/how-to-enable-google-assistant-in-androids-chrome-brows-1845942274/amp",
-      "cdnAmpWebUrl": "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/how-to-enable-google-assistant-in-androids-chrome-brows-1845942274/amp",
-      "publishedDateTime": "2020-12-28T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifehacker",
-        "domain": "lifehacker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-neurals-ai-predictions-for-2021.md",
-      "title": "Neural’s AI predictions for 2021",
-      "excerpt": "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
-      "publishedDateTime": "2020-12-28T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-this-startup-is-revolutionizing-asias-mobility-market.md",
-      "title": "This Startup Is Revolutionizing Asia's Mobility Market",
-      "excerpt": "Bussr provides an app for mobility companies and passengers that combines all options for real-time trip planning, scheduling, payment and more through one app",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/362382",
-      "originalUrl": "https://www.entrepreneur.com/article/362382",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1609137663-BUssr2.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362382",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362382",
-      "publishedDateTime": "2020-12-27T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
