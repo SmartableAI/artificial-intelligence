@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amprobotics"
   url: "https://twitter.com/amprobotics"
-  followers: 1078
+  followers: 1081
 
 size: 11-50 employees
 yearFounded: 2015
