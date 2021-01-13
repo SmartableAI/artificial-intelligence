@@ -29,30 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Jan. 13, 2021 /CNW/ -- ElectrifAi, one of the world's leading"
-    publishedDateTime: 2021-01-13T17:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964335"
+  - title: "How to train procedurally generated game-like environments at scale with Amazon SageMaker RL"
+    excerpt: "A gym is a toolkit for developing and comparing reinforcement learning algorithms. Procgen Benchmark is a suite of 16 procedurally-generated gym environments designed to benchmark both sample efficiency and generalization in reinforcement learning.&nbsp; These environments are associated with the paper"
+    publishedDateTime: 2021-01-13T19:50:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/winning-neurips-2020-procgen-benchmark-competition-with-amazon-sagemaker-reinforcement-learning/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: AWS
+      domain: aws.amazon.com
     quality: 93
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-01-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 63
     images:
-      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1755-1.jpg"
+        width: 544
+        height: 382
         isCached: true
 
 secured: "YJDHkYB7+sb6hJIoulOUluk6RUcu7ZycvCEH7G7pK1zoE8zLGWrYDcl5mwf8GeJ+rIHqR16UhOvltemBEva1+gdQC187fiQVlYKwLkDCx0HBkYT9CDpIHuVGUbuSgOf74dXbK6qrLNakVlCWqRsJqvaO9ljv5qPQ9nPEeuhORTHviQLcsDUGzeT4GR81GQs0SoFzwN6jw4MuzOrSOcenODqy8szJWOrJm3XM5i/DteDzShO8xdX7nN0ATmxFgD7+4Ko8DrATfpffGmxrYJvgKbTmVOKQWDoY7NBWabVj/qTjM/cXQdd/IHrg55/z1WJuswbbFldagRmHTH5fbXiyK2U9Joi3UvKyi49xFeQzDW0=;q0mh46lyXRdngNM6GrqjLA=="

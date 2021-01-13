@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-13T18:48:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-laurence-a-tosi-ffa5f17eff1e14bab5395209d3cb5208"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-laurence-a-tosi-ffa5f17eff1e14bab5395209d3cb5208"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

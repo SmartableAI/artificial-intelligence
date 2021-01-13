@@ -9,7 +9,7 @@ ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 453
     isCached: true
 
-secured: "6hgmMzihv79lCpMfpZqO6Wzw0jLf/MVdQxh+fbjrP/uUU2I3dspcxHfnjIbdx96aj14sRDNaKO1BRttFbCro2EcpMA4ZQX1wIcG4KVm88geXSSwCUXujq0JuVrjUxUt6HGMZPZFTsqqstW13huoigYU+yAs6i+70DJ2y3crmpkYSUt64jCjXvVJHx0nw1eICIy93ZPIPixxfOuFxMoFqzjahlTl/Qwu1UjLwD9k5TOeaPpth7gTVD7LoFpNerXw+/qgC/GV6m2c58FbV7NitRQW9x3067Wv7cOYKRV+oheMYkEscdVbS2i+DsHZ0AwBwg9zxLiEEZ27PxwTjhrUg8MaU0tVCMAC1V7ebQcbGCKE=;fSaBrRymFbMfnRJ7UT3oNQ=="
+related:
+  - title: "GM Financial's AI chatbot proves saving grace"
+    excerpt: "When the coronavirus pandemic swept the U.S. last March, shuttering auto factories and forcing most of the country into their homes, GM Financial's chief experience officer Bob Beatty had his hands full."
+    publishedDateTime: 2021-01-13T18:20:00Z
+    webUrl: "https://www.autonews.com/finance-insurance/gm-financials-ai-chatbot-proves-saving-grace"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/OEM11_160419913_AR_-1_PJVFMUVBHANW.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "O/2+xJBW6IrhqTu8m1ApkhMSi78SWtSRyWsI2Z7K9+uGCppYVZWwYi9eNOLiy0Vf2yApJkhXfrpukUSgrxwrfBCo/2WvtU/Pag1bWE6k6a9U+m26K3rmV8QoBSo0NSLGjHyM3B6SA/ay0NbdgIkDcqCmxGERETmTiNiJTpGJaMT59oUIJKehqQil2jR5+uyw/jJUG4oCipqOsSPaFXDgDYTGO+z8Iw0tHWjPZ+SWf2q9HuQwxMq0MSZvtUPCr4LEITNDCr8zwRK/PvG9FXshnQO8QW9N7yGqQpBQjnLmAHe63cSqUV5Y6VQ/it0gVJkVtnXg0Jx0TS8O4QAwE8xjF+DMTotNQG2hS0Y3Oit+6vNjWOH7uFr7Ezu3jrXoQaaoqind1yGspmK1yEedE9B2nOm33ar4riShVUjCQS81M927eP8nb2KYehLgs2mSfbOXLcU+3quxjqX4kLotdxDzLlpv4T1xAVs0cUmBcMXCApdvYjCDHujmqn3Gotoo6Fti9UOY8m9P+dRRVRDriVf7WA==;bB+cShlhn4sap70pfREggw=="
 ---
 

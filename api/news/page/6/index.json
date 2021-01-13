@@ -2,6 +2,126 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-08-artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023.md",
+      "title": "Artificial Intelligence Robots Market 2021 with Strategies to Boost Growth, Manufactures, Types, Applications, Status and Outlook to 2023",
+      "excerpt": "Comserve Inc. / -- While AI robots have been a technical masterstroke, different innovations have been attributed to disparate players, leading to a diverse set of standards The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023-2021-01-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023-2021-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock.md",
+      "title": "The Robot Revolution Will Spark a 15X Rally in This Micro-Cap Tech Stock",
+      "excerpt": "This has coupled with significant advancements in tech hardware production, and ultimately brought us on the cusp of creating a new generation of advanced robots that can think and act like humans. The Robot Revolution is starting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08",
+      "originalUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp",
+      "publishedDateTime": "2021-01-08T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-robotics-continues-to-gain-strong-momentum-5-stocks-in-focus.md",
+      "title": "Robotics Continues to Gain Strong Momentum: 5 Stocks in Focus",
+      "excerpt": "Robotics technology is constantly gaining steam in the fast-paced world on the back of robust demand for automation, which increases efficiency and ease of work, and saves both time and labor. Further,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-continues-to-gain-strong-momentum%3A-5-stocks-in-focus-2021-01-08?amp",
+      "publishedDateTime": "2021-01-08T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-nope-facial-recognition-didnt-spot-antifa-members-at-us-riots.md",
       "title": "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots",
       "excerpt": "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa.",
@@ -1024,152 +1144,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-ensuring-healthcares-innovation-boom-benefits-all-equally.md",
-      "title": "Ensuring Healthcare’s Innovation Boom Benefits All Equally",
-      "excerpt": "She shared thoughts on three areas of innovation that have seen some of the biggest leaps in the past few years. While there might be a drop off in telehealth visits once the pandemic subsides, it has undoubtedly become a mainstay of medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/",
-      "originalUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff36dd3d14853f3a8a00b35%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D198%26cropY2%3D3278",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceywelsonrossman/2021/01/07/ensuring-healthcares-innovation-boom-benefits-all-equally/amp/",
-      "publishedDateTime": "2021-01-07T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-investors-should-watch-this-newly-listed-ai-company-heres-why.md",
-      "title": "Investors Should Watch This Newly Listed AI Company. Here's Why",
-      "excerpt": "C3.ai is a leader in bringing artificial intelligence to bear on enterprise-level problems, and the market for what it offers is only going to grow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/01/07/investors-watch-newly-listed-ai-company-c3-ai/",
-      "originalUrl": "https://www.fool.com/investing/2021/01/07/investors-watch-newly-listed-ai-company-c3-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606999%2Fartificial-intelligence-ai-getty-6217.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/07/investors-watch-newly-listed-ai-company-c3-ai/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/07/investors-watch-newly-listed-ai-company-c3-ai/",
-      "publishedDateTime": "2021-01-07T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-intel-launches-realsense-id-an-on-device-facial-recognition-system.md",
-      "title": "Intel Launches RealSense ID, An On-Device Facial Recognition System",
-      "excerpt": "Intel has launched RealSense ID, a new on-device facial recognition system that uses the company's RealSense 3D technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html",
-      "originalUrl": "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/01/Intel-RealSense-ID.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/intel-realsense-id-facial-recognition-system.html/amp",
-      "publishedDateTime": "2021-01-07T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

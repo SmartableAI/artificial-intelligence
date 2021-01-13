@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-drivi
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel’s Mobileye Plans Self-Driving Cars for the Masses by 2025"
-    excerpt: "Mobileye NV is using the chip-making prowess of parent Intel Corp. to build laser sensors it says will make self-driving cars cheap enough to sell to retail buyers by 2025."
-    publishedDateTime: 2021-01-11T18:25:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-11/intel-s-mobileye-plans-self-driving-cars-for-the-masses-by-2025"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1aOyxIzxDog/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Get ready for self-driving banks"
     excerpt: "Popular Science magazine envisioned self-driving cars. The reality arrived sooner than anyone anticipated, and before safety regulators could adapt. Most automotive laws — on speed limits, giving signals,"
     publishedDateTime: 2021-01-12T12:03:00Z

@@ -37,19 +37,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 93
-  - title: "Hosting a private PyPI server for Amazon SageMaker Studio notebooks in a VPC"
-    excerpt: "Amazon SageMaker Studio notebooks provide a full-featured integrated development environment (IDE) for flexible machine learning (ML) experimentation and development. Security measures secure and support a versatile and collaborative environment. In some cases, such as to protect sensitive data or meet"
-    publishedDateTime: 2021-01-12T00:54:08Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/hosting-a-private-pypi-server-for-amazon-sagemaker-studio-notebooks-in-a-vpc/"
+  - title: "Creating high-quality machine learning models for financial services using Amazon SageMaker Autopilot"
+    excerpt: "Machine learning (ML) is used throughout the financial services industry to perform a wide variety of tasks, such as fraud detection, market surveillance, portfolio optimization, loan solvency prediction, direct marketing, and many others. This breadth of use cases has created a need for lines of business"
+    publishedDateTime: 2021-01-13T20:15:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-high-quality-machine-learning-models-for-financial-services-using-amazon-sagemaker-autopilot/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 86
+    quality: 91
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/17/ML-1349-1.jpg"
-        width: 800
-        height: 381
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/11/Creating-high-quality-machine-3.jpg"
+        width: 515
+        height: 371
         isCached: true
 
 secured: "E/j97/3rT1d2r99PfvKhezDuZgUy4Q/YfE6R1kiVlQ9gxjg/sMwHOTwYMca+0Rg6KZ8O5Q+l/Y0/QpCChqgkLY0oF2CSj5HYtVRfE8QmWTKQmmCcjS7fbN40AHECO+568LOMTAaqVYyQnUrr8W2dhWxM1JKIVTzVhrD2SM4U/RAh9T+5WbiVCT5/F0RlVwohYTXG63lEqw3tO9LsAtZqhtyUIG5ofJK6sRsG2q2N8yHOM55j1ioZrBAbh7H93PZc97r1Z16aWSG6uiLg5SyYAQb7A9tIfrt2qP/U7oJj6f8Q+h9hncXSHI6v32NTuuXbN6FFLZ0HR+kas2Wt62yCuzWCnXZWE9etPZc9NmHecS4=;ANxHDi20V0jEwowJMpPLdw=="

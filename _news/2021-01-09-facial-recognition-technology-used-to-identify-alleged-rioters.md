@@ -87,6 +87,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider"
+    excerpt: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider The"
+    publishedDateTime: 2021-01-13T20:03:00Z
+    webUrl: "https://www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 47
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Everalbum-settles-with-FTC-about-facial-recognition-Technology-in-its.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "FTC declares facial recognition surveillance tech dangerous, warns against federal privacy pre-emption"
     excerpt: "The FTC has come out swinging against facial recognition, issuing a proposed settlement with Paravision, its first focused on the biometric technology."
     publishedDateTime: 2021-01-12T17:43:00Z

@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Intel wants to bring affordable self-driving cars to everyone by 2025 – here's how"
-    excerpt: "Mobileye – the self-driving car company acquired by Intel for $15 billion in 2017 – has outlined its plans to bring autonomous vehicles (AVs) to the masses through new laser sensor technology intended to lower the cost of producing self-driving vehicles."
-    publishedDateTime: 2021-01-12T12:45:00Z
-    webUrl: "https://www.techradar.com/au/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
+  - title: "Tesla used an Apple tactic to leave them ‘way behind’ in self-driving: ARK Investment"
+    excerpt: "Tesla pulled an Apple move. Now, the question isn't whether Apple will be able to breakthrough with a self-driving car, it's when. But it may be too late."
+    publishedDateTime: 2021-01-12T21:40:00Z
+    webUrl: "https://www.teslarati.com/tesla-apple-tactic-self-driving-car-ark-invest-cathie-wood/"
+    ampWebUrl: "https://www.teslarati.com/tesla-apple-tactic-self-driving-car-ark-invest-cathie-wood/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-apple-tactic-self-driving-car-ark-invest-cathie-wood/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 68
+      name: Tesla News
+      domain: teslarati.com
+    quality: 52
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/yjtnMCiLGrWANVG37M8vMS-1200-80.jpg"
-        width: 690
-        height: 388
-        isCached: true
-  - title: "Intel's self-driving car unit plans to step up use of its own radar tech by 2025"
-    excerpt: "The head of Intel Corp's self-driving car subsidiary said on Tuesday the company wants to shift toward using its own radar-based technology and use a single lidar sensor per vehicle by 2025 in a bid to lower the cost of autonomous driving."
-    publishedDateTime: 2021-01-13T08:05:00Z
-    webUrl: "https://www.reuters.com/article/us-intel-mobileye/intels-self-driving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025-idUSKBN29H2XU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574303&r=LYNXMPEH0B1L4&w=800"
-        width: 800
-        height: 534
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "PFiyP1gqDYSdhGvpOCjg7Pk/LIVP45bkXF0A5Vg0gpQCrvTPoH7DfN090t0vBHM2DTf31DoPcEDgpQA0xD/dvrAh7n+j5X4GsOYz7UFNM4QdSQ4FjCe6nvTkZ0LmGZSzlj+KtJHnJzWDoOMhTdPzQx/rD/WVOKXek3DrgWIM51bGZdAFVxVI5oq9TJenZCauvsBhE/rCRauhq53oAHWAWdKTWscaKR1r4Y3Yxi7EGobCaCLItbX39OJlOEUTReZP/lGSRa75l9YQv62QmlbXYYYLNWIksK6yim3b/QciFEGrYeojR2GSEcLfKy9DrbkC+nOtiOu913ELIZNcJvirvLjHOMAHPWrYtoRoa8poAWk=;bcpxDgrovSm6CNz2UcMkrA=="

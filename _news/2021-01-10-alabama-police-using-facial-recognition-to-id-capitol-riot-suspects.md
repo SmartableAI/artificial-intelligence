@@ -59,20 +59,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Local Police Force Uses Facial Recognition to Identify Capitol Riot Suspects"
-    excerpt: "An Alabama police department is using facial recognition software to help identify people who were present during the riot at the U.S. Capitol this week, one of its officers said."
-    publishedDateTime: 2021-01-09T03:53:00Z
-    webUrl: "https://www.wsj.com/articles/local-police-force-uses-facial-recognition-to-identify-capitol-riot-suspects-11610164393"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 66
-    images:
-      - url: "https://images.wsj.net/im-283101/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facial recognition and social media may get Capitol rioters caught"
     excerpt: "Just because they made it home doesn't mean they're home free. Police have identified dozens of suspects and are working on more."
     publishedDateTime: 2021-01-12T19:08:00Z

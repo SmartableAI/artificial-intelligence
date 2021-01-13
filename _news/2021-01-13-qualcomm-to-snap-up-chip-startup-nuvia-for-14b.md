@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Qualcomm Inks $1.4 Billion Acquisition Deal With Chip Startup NUVIA"
+    excerpt: "Qualcomm has signed a $1.4 billion deal to acquire NUVIA, a data center chip developer launched by former Apple executives."
+    publishedDateTime: 2021-01-13T20:49:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Qualcomm-NUVIA-acquisition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Qualcomm Acquires Nuvia Chip Startup Founded By Apple Veterans for $1.4 Billion"
     excerpt: "Qualcomm has announced an agreement to acquire Nuvia, a chip startup founded by Apple veterans for $1.4 billion."
     publishedDateTime: 2021-01-13T17:03:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://www.iclarified.com/images/news/79303/79303/79303-640.jpg"
         width: 640
         height: 367
+        isCached: true
+  - title: "Qualcomm announces the acquisition of chip start-up NUVIA"
+    excerpt: "Qualcomm has revealed that it has bought the CPU-design team NUVIA for approximately US$1.4 billion. The OEM asserts that the move will make it more competitive in the future, and will enhance the development of Snapdragon mobile chipsets,"
+    publishedDateTime: 2021-01-13T20:02:00Z
+    webUrl: "https://www.notebookcheck.net/Qualcomm-announces-the-acquisition-of-chip-start-up-NUVIA.514993.0.html"
+    type: article
+    provider:
+      name: NotebookCheck
+      domain: notebookcheck.net
+    quality: 39
+    images:
+      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/qc_nuvia_line_002.png"
+        width: 800
+        height: 418
         isCached: true
   - title: "Qualcomm to acquire Arm server CPU startup Nuvia for $1.4bn"
     excerpt: "Semiconductor and wireless networking giant Qualcomm has agreed to acquire Arm chip company Nuvia for $1.4bn. The company was founded in 2018 by several Apple veterans to target the server market, but Qualcomm says it hopes to use the tech in mobile,"

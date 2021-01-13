@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegation
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
 type: article
 quality: 96
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2021/01/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider"
+    excerpt: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider The"
+    publishedDateTime: 2021-01-13T20:03:00Z
+    webUrl: "https://www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 47
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Everalbum-settles-with-FTC-about-facial-recognition-Technology-in-its.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Facial recognition technology used to identify alleged rioters"
     excerpt: "Facial recognition technology is being used to identify those accused of crimes committed at the U.S. Capitol building this week. But it's not perfect."

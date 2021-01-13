@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 92
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "IBI+HmJUMfDSBkLCK6fXeGxS0Qvv2KdhMWM85nCCzbjUAz43j3lAWdc2InW0rbfpuCuqJRHWQ/prc65YbUlwPmK6zk/LDUI3NPWcVG5wd488I9YXtJPBJedE7epu23kcp9aj+kZsVaBpfYSoLGBC9CumC8R22SQHiTXqhVerMAVoQVdYKhas7xUD/sny+mqbNJiX9BqR+kOFh7t7T3xpgt3HolnILYt6/ZAidopy1E5wCsE0Sp07qZoQhouNvcswjgaSWwDY8ZLtKZULXmNxeO7QeeYC95hlOm8EWWP0Z+LhSgt/EaO6eb2Xx4PACbqWc8pjA8Q+TQ6hI0M08spjw1b/bjn2T9+9LSpHe+PiRiY=;4TqWeTWD8hbKbTewwU0LSQ=="
+secured: "GL0aLBe+g/clBtkHssRcEs8l8wfaARcmdJNtYkbFtFsO5P97YcXWJlBd5FzaNr7BrVmperljhiqA1YO/hcNqyzsmKSyF/6JsIjyBQ9SO1QTKJHr6Zq5M2DIGJG75vxdLNnDtZg/fmIkZgnjjfMjO8nlzr2ikj7oJYIRMB630ea1Vt8xNua0KLkrvo0hXKDfU3NGT3lE87pdNoSI22oiOJDy3ct+gb9PH8oFNhKJSWOI6RRXYajXhlVF1cy+mjB/yoSrrNRX6q0qxyUusrSw0/dRjPMR2aNQnWZNuyWwBQuTJHhxrfW/V4s9cRlAwHUVLkwgPEf6WNPqzbMkG6Hhoqr/XahtLCxKCHSzFs5c/1nMXabdPJkYZzooXZJ+iIYbvzOPvgwzvFX6j9vnc4d2g9mbRk28+afXXkqxPk0ZylCXynKOPJPXQGuYisyln5oRvdslhMnCf4poI+J+FBzjI5H2l+dxUVfwz442v7kLrYL7XS+iAenkdDXdrkoklmF208xa6Cki/f/uMP6xXU0f3CA==;cvxFZVEKXVhml0Bn+5EXuQ=="
 ---
 

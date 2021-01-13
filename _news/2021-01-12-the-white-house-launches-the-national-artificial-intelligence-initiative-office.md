@@ -41,6 +41,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Honing In on AI, US Launches National Artificial Intelligence Initiative Office"
+    excerpt: "To drive American leadership in the field of AI into the future, the National Artificial Intelligence Initiative Office has been launched by the White"
+    publishedDateTime: 2021-01-13T20:07:00Z
+    webUrl: "https://www.hpcwire.com/2021/01/13/honing-in-on-ai-us-launches-national-artificial-intelligence-initiative-office/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 48
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AI-concept_shutterstock-1698713356_700x.jpg"
+        width: 700
+        height: 401
+        isCached: true
   - title: "Intrado Launches Mosaic, an AI-Powered Customer Service Platform"
     excerpt: "Intrado Corporation (“Intrado” or the “Company”), a global leader in technology-enabled communication services, announced today the launch of the Mosaic customer service platform. Mosaic uses predictive intent technology to enable artificial intelligence (AI)-powered virtual assistants to comprehend and automatically complete customer service interactions."
     publishedDateTime: 2021-01-12T12:46:00Z

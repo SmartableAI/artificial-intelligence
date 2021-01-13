@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/business-wire/20210113005304/hibe
 webUrl: "https://www.morningstar.com/news/business-wire/20210113005304/hibercell-and-biodesix-initiate-broad-collaboration-for-companion-diagnostic-discovery-development-and-commercialization"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics"
+    excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx)"
+    publishedDateTime: 2021-01-13T20:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "0XKmngo7MRSwLlK7YstsJR/uNZmyJALVMYCAMTHMFPlS8uXN5GP00OpODrYgrxzjODxxCx8Q8QsstHz1SyKbEOWKqOKxNBS3itWSomm4lxa+BL0TmmSsTu9ForSchhpgAp8NsEH6FzhmHeVgjkw9U8MQ/LdAc2HZzXBHxjdWQR7etwU+RPZCtylQGG+UZLubgGscxoNGci2xJE2h+SF8V7cAH8NotIkzCRrBapb3/9Z1ZiYTRRdUMP83rO1gbgYc8cHQMGe3nWKAM29fnL5RyACPTnk0uvWZHZlrMnw5sGSzlJNybz0pGzYAeYVT+6h0TbssCkg+ybxyVhu5zzqv2L8I4U700WscNpk5Cni8UgU=;6QaOah4syguV2rBJMVGI1A=="
 ---

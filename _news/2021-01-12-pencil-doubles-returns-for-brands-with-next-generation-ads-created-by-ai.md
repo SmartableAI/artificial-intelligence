@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-12T11:18:00Z
 originalUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-34ae906bc1bfe90897718e81283bf549"
 webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-34ae906bc1bfe90897718e81283bf549"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

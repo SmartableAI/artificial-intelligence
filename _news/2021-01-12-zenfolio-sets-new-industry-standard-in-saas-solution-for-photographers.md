@@ -26,12 +26,12 @@ images:
 
 related:
   - title: "Zenfolio sets new industry standard in SaaS solution for photographers"
-    excerpt: "\"Building a highly scalable intelligent SaaS platform from the ground up using best-of-breed cloud technologies has enabled Zenfolio to leverage AI and machine learning to deliver a compelling experience for our photographers to present their craft,"
-    publishedDateTime: 2021-01-11T07:56:00Z
+    excerpt: "such as AI. \"Infusing IBM Watson into cloud solutions provides Zenfolio with cutting-edge media delivery technology at a global scale. We have been impressed with the Zenfolio team's approach and ..."
+    publishedDateTime: 2021-01-11T14:05:00Z
     webUrl: "https://www.morningstar.com/news/pr-newswire/20210111sf41374/zenfolio-sets-new-industry-standard-in-saas-solution-for-photographers"
     type: article
     provider:
-      name: Morningstar, Inc.
+      name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 24
     images:

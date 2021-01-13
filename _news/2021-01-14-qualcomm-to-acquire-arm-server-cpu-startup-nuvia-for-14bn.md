@@ -56,6 +56,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Qualcomm Inks $1.4 Billion Acquisition Deal With Chip Startup NUVIA"
+    excerpt: "Qualcomm has signed a $1.4 billion deal to acquire NUVIA, a data center chip developer launched by former Apple executives."
+    publishedDateTime: 2021-01-13T20:49:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Qualcomm-NUVIA-acquisition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Qualcomm Acquires Nuvia Chip Startup Founded By Apple Veterans for $1.4 Billion"
     excerpt: "Qualcomm has announced an agreement to acquire Nuvia, a chip startup founded by Apple veterans for $1.4 billion."
     publishedDateTime: 2021-01-13T17:03:00Z
@@ -71,6 +87,20 @@ related:
       - url: "https://www.iclarified.com/images/news/79303/79303/79303-640.jpg"
         width: 640
         height: 367
+        isCached: true
+  - title: "Qualcomm announces the acquisition of chip start-up NUVIA"
+    excerpt: "Qualcomm has revealed that it has bought the CPU-design team NUVIA for approximately US$1.4 billion. The OEM asserts that the move will make it more competitive in the future, and will enhance the development of Snapdragon mobile chipsets,"
+    publishedDateTime: 2021-01-13T20:02:00Z
+    webUrl: "https://www.notebookcheck.net/Qualcomm-announces-the-acquisition-of-chip-start-up-NUVIA.514993.0.html"
+    type: article
+    provider:
+      name: NotebookCheck
+      domain: notebookcheck.net
+    quality: 39
+    images:
+      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/qc_nuvia_line_002.png"
+        width: 800
+        height: 418
         isCached: true
 
 secured: "zCvYOZyiOCh0oV8/j2Nl1AjZvw+xAXqZ/Xgp8vDeO8wB5rBPNBycPGIHcQk1N3MXQUNch/HJdlMBs+Tb5RHs054LlULpAPGHlCQgiAeXCtL0O/w4a6PVaLnt11NW+dywQjJPduLLIxfcfAWKKgJKZepFBdM6RRqZeCl45snkSmDB4rCXiQPlVKK9NEBLFjaHGsIcEykQ6QAHnhVVTC44KQOmUe4bhvyYRHrnDtKrot2xWx32KIuGXmo1PEWoPKRxV/+kyfE01QfkCqaPR/UC2ox0uMA/AvmNURGdV7wbrtJKSZFe+J9MDHZcRv+WgcKT8LHAnlxiuaA7Ob8aooi2izX/ykrmIyLj9tsKSejc8W4=;Uq+hs+hpcp2N/qwynJLowg=="
