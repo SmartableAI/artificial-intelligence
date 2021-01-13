@@ -3,8 +3,8 @@ category: news
 title: "UBTECH Showcases New UV-C Robots at CES 2021"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
 publishedDateTime: 2021-01-12T09:41:00Z
-originalUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
-webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
 type: article
 quality: 39
 heat: -1
@@ -184,6 +184,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
+    excerpt: "GenkiTek, a spinoff company from Taiwan’s Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
+    publishedDateTime: 2021-01-13T06:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-spin-offs-4c80eaf470485367a9a93d5829aca98b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "2021 CES Innovation Awards"
     excerpt: "Here are some of the 2021 CES Innovation Awards for vehicle intelligence and transportation. Have an opinion about this story? Click here to submit a Letter to the Editor, and we may publish it in print."
     publishedDateTime: 2021-01-11T05:00:00Z
@@ -245,6 +259,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "nplFj2YUCntXM609aamkCEiwcAFD525rM1rAeXNPg/zqOOi/MmRlLBFWmTFl3Vx9FMZt8n7fImJ2RcnsjjaYoAd8h0xiPOz30Kk0gPIbQSWutquH1SQvK9+aWEyomcSchG33P0zT8B8TgAsPq1yNMRsAe6MTRpBrpTlivOqrNXjApzr+ob7PAgz4scHqjKgOcm0RTIx+jvRydYYCWNEfAfexrTQ/soeLkt7+Y9hZ5e0VPUVrq3woXnrja29Wf+aZVbMqVWP+DWmCthq6BtjSyjMZjIxkMwfIn3ag9vWJeBy3bhaVM9Pb8S77BVR0rA/b1wV9eLq99/pYkn04O9xFFQq6kA5RJooqArHPsscUp3A=;YCAI2EMf7wosEBk8Q/KPLw=="
+secured: "3vpDOafjVkkhNFF6N0qlIdisqB0w8A1yKAD6lT1izDiQs3D+htmIGtJzHowHFEKPGACzLy6IpPqk4NI4rSncWRL/pWVsf9w4MtjMyz5CtEfXmRtGb2MY67mK4Tw1ZPzX3tP9hIiZv1IIyuF44MnEiy5XtiMz97fFNq7EE/KFKHy+3xdjd3nSrvt518IEQPHFHh029dDzTSPPYSUeDXk9Ohb4trEOWTyUByJn+9iVGv727bYrDsOFhxctd4iTr612gKBzitWVsWLIRdUVoq2v/78Kg7oNZViYaPfMrlibnTIOAqCqTdJCap0gcs9a7uLBTKftthWHb7ovmSoatHSAMZpGO/22kks8eOMuujYlR6M=;M4XWczfsQY8RqjKmjpaKfA=="
 ---
 

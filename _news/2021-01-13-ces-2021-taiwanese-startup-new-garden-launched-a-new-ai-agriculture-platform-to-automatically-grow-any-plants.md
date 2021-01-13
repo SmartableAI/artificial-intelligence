@@ -1,28 +1,26 @@
 ---
 category: news
 title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
-excerpt: "Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year. According to the former Chairman of Intergovernmental"
-publishedDateTime: 2021-01-13T04:00:00Z
-originalUrl: "https://www.asiaone.com/business/ces-2021-taiwanese-startup-new-garden-launched-new-ai-agriculture-platform-automatically"
-webUrl: "https://www.asiaone.com/business/ces-2021-taiwanese-startup-new-garden-launched-new-ai-agriculture-platform-automatically"
-ampWebUrl: "https://www.asiaone.com/business/ces-2021-taiwanese-startup-new-garden-launched-new-ai-agriculture-platform-automatically?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ces-2021-taiwanese-startup-new-garden-launched-new-ai-agriculture-platform-automatically?amp"
+excerpt: "Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year. According to the"
+publishedDateTime: 2021-01-12T18:53:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-new-garden-launched-a-new-ai-agriculture-platform-to-automatically-grow-any-plants-301206798.html"
+webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-new-garden-launched-a-new-ai-agriculture-platform-to-automatically-grow-any-plants-301206798.html"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2021/pr-newswire_500_4_557.jpg?itok=kx7gRH3m"
-    width: 763
-    height: 509
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -119,6 +117,6 @@ related:
         height: 315
         isCached: true
 
-secured: "wJlRCVHqkuPdlJeJX3wi7GXIZNldFOg+JbAhHStSp42aXjJO3NYZ7wfTmdOBSbTraryM2uUopqMRiDxrfO0i60gc/LHdIaTbyYOVvJeMCDzt2kSJvAY3mwb0bBBmDAJBA71wVD/0BpdNFO0vFaYgybXDpsL4SApKSXJUQzR6qhom+jj7YDUmLagPRGZP2nKcS0J+6DknCw75mtWk2NvSnWYrO0W+eGrogY2838sIzNwh5RoHBOuSWShvirBCmsSYUjKhwuQyZuYaViSFNpuRUIUqa0X7reZ5NgGirarOwmKWtcLhdzzygzA6/KWj2O5VLyB4yd64fHK7rPIQKtudhsHpW+nQX6mLHfgcZ8FLrYI=;8s7zqh6192w77jht4XvrFA=="
+secured: "8Qb/Kne663jMK+srn4QYNRLqXinaXaJ8A6QElMd1WJDJLaz5nk2yL5tJ+tZTq5xEMqsLkbYJWO9nCNkLt+vviPk9zWP2B6zZOGBYWG9vDdIskGFySWbahZ48t+9giCFDprJRitcoEVofcw8RlgCAUoIhbAyZ33m/kCLJABGr6UwsMJapMMJEGZDWsqju8Nl8iFiP5NPud9QZgb4QncC8EHSe7wDrEuJqDrhT5TyBfMRx/czghOcsuP62TiDEDATcUUY8gd+75Lq9VnrfndiB2mAlY//JEv9zfjWn4zRswSAkHENYCIYHpGkxMzMuz3iMztt9j/Gr2N6E7nQZBsgv3AyAGA2rDnWd8C215wsKTtI=;/77OetkawWVUjMgYfgW7XA=="
 ---
 

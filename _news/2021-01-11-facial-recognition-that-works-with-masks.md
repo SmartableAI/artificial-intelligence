@@ -19,127 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots"
-    excerpt: "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa."
-    publishedDateTime: 2021-01-08T13:25:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/"
+  - title: "LA Police Commission Adopts Oversight Measures for Facial Recognition Tool"
+    excerpt: "The LAPD’s promise of robust oversight for facial recognition technology in police work hasn’t quelled concerns from civil liberties groups that the tools will perpetuate harm in communities of"
+    publishedDateTime: 2021-01-12T23:31:00Z
+    webUrl: "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
+    ampWebUrl: "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 57
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Fact check: Facial recognition company did not identify Antifa members among Capitol mob"
-    excerpt: "A news outlet that reported that a facial recognition company identified members of Antifa among the mob that stormed the U.S. Capitol has now apologised and issued a correction. Screenshots featuring the original report,"
-    publishedDateTime: 2021-01-09T02:13:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-facialrecognition-antifa-idUSKBN29D2WV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547153800&r=LYNXMPEH071CI&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "How far can facial recognition go in finding rioters in DC?"
-    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-    publishedDateTime: 2021-01-09T04:47:00Z
-    webUrl: "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    ampWebUrl: "https://www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    type: article
-    provider:
-      name: WCNC
-      domain: wcnc.com
-    quality: 59
-    images:
-      - url: "https://media.wcnc.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "How far can facial recognition go in finding rioters in DC?"
-    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-    publishedDateTime: 2021-01-09T23:24:00Z
-    webUrl: "https://www.khou.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    ampWebUrl: "https://www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 59
-    images:
-      - url: "https://media.khou.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "How far can facial recognition go in finding rioters in D.C.?"
-    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-    publishedDateTime: 2021-01-11T19:38:00Z
-    webUrl: "https://www.9news.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    ampWebUrl: "https://www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    type: article
-    provider:
-      name: 9NEWS
-      domain: 9news.com
-    quality: 59
-    images:
-      - url: "https://media.9news.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "How far can facial recognition go in finding rioters in D.C.?"
-    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-    publishedDateTime: 2021-01-12T18:44:00Z
-    webUrl: "https://www.wtsp.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    ampWebUrl: "https://www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 59
-    images:
-      - url: "https://media.wtsp.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "CORRECTED: Facial recognition identifies extremists storming the Capitol"
-    excerpt: "Trump supporters say that Antifa members disguised as one of them infiltrated the protesters who stormed the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-08T15:26:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/6/xrvision-firm-claims-antifa-infiltrated-protesters/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 58
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/06/Electoral_College_Protests_03714.jpg-8a27a_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/LAPD-HQ.jpg?fit=1200%2C800&ssl=1"
         width: 1200
-        height: 700
+        height: 800
         isCached: true
-  - title: "Major facial-recognition supplier builds system to identify masked faces"
-    excerpt: "Facial-recognition supplier claims new system can accurately identify masked faces and therefore promote public health during the pandemic, but questions remain about whether its existing UK law enfor"
-    publishedDateTime: 2021-01-08T14:49:00Z
-    webUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces"
-    ampWebUrl: "https://www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494539/Major-facial-recognition-supplier-builds-system-to-identify-masked-faces?amp=1"
+  - title: "Leading Facial Recognition Technology Provider Corsight AI Appoints Former UK Surveillance Camera Commissioner Tony Porter as Chief Privacy Officer"
+    excerpt: "Corsight AI, a leading facial recognition solution provider, announced today the appointment of the UK's former Surveillance"
+    publishedDateTime: 2021-01-12T09:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/leading-facial-recognition-technology-provider-corsight-ai-appoints-former-uk-surveillance-camera-commissioner-tony-porter-as-chief-privacy-officer-301205966.html"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 23
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
+        width: 1569
+        height: 824
+        isCached: true
 
 secured: "ymq82fC+ZNu/LezrGBZyGKi4zR5UFgkh/o0715r8KPnY3TIu13pb9iJD9Y1CWCH7fqBa9f+27mUrkQESlRzwoG28DHQkqWkpKpVSmv6Qt174ml4Ii17zKKiqDY3987oS7MdKmyhGakFnsMlEfmAdkNDZGH3jGQ48vcmQx4zuHisnCzfiUJjbkl+ecCLLUI0gsXTTKpGPSnBD+f9hU6TIeyjcO9Ny2HfTj/UTLmEDEBHnXuFEXDkjeaz3VbRsd5vKja2OgoPvlcen26wMrQs2vo2eHo6riF75QRFw5dvQ22SBFtdYtMKnidcimq5kUl9navG58LvtuYRs8iRGP2F9H1XphQ/jHg5tbqFM5ZCgC9ILyd9jCt+zbEiTTnzKuDOLco6DR15KBzvIBwVuPB9tOwdHHiR7yhtPFc1z8rQo8JEWqSg4TwpZQvUnpFdfQgE11Ld9A58r7+5Eq16+a6uU9ZBEGo7yK21UT4gkNHj6JcFcNq3OEJn9adtNmHgl5mmn+JbgqA/FiLf0uM33ju9HHA==;a1LlA1DuppCeplMMJpi3eQ=="
 ---

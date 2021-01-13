@@ -3,12 +3,10 @@ category: news
 title: "State using facial recognition tools to identify Capitol rioters"
 excerpt: "As police work to identify people who breached the Capitol building last week, Massachusetts Governor Charlie Baker said facial recognition technology is being used to identify"
 publishedDateTime: 2021-01-13T02:34:00Z
-originalUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html?block_id=998082"
-webUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html?block_id=998082"
-ampWebUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
-cdnAmpWebUrl: "https://www-westernmassnews-com.cdn.ampproject.org/c/s/www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
+originalUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html"
+webUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -21,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/0/29/02906ae4-5527-11eb-a56a-eb609fa1fc71/5ffe27538a323.image.jpg"
-    width: 640
-    height: 360
+  - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/d/e1/de1f73d9-4f35-5073-99e7-95d5fc171986/5ffe65d1ad8cc.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -175,6 +173,6 @@ related:
         height: 798
         isCached: true
 
-secured: "qsxxbK/K6zPcsaMH6/B8fu/dwm/y5cB1bflOfGXbjMYBeIPfrclA7NwxexDRpTuqrOvPDvnWXvjxVuXrtZdEauU7T1MNFcX0PQWpBFiAmGnMASfDFRqTikf22ZF+O9rusXaITMrDacnvwwC9BR0rPADOevtLnJdgDatLywukeQyS28K5l/qEAVg38qQjoTyQ4ml36S9rxKLE0uod6wRfMswZ+ZxAWuNbaPE1MDvtm16Tm70jtrE6XiNHEbe3HjdnHXeot4p+9x+2TDOoE2jKK2QPpvPxiyGUqCpq1bmYkNRlAPoQJmgwDdn2nz/RCiXnSL1UP0Xo51OLhoxF9uFLx+KMf8svMM/KUq4+zRS5E28=;Zvd54I4ULHKsuk90MwSyGA=="
+secured: "Ito1cEIV3kMZzoNMUIgRsTXZDYFsMnR93KCIePQRTAX2bUPTw76jtO9S8wA43vXixkMp6bSIode/BtB0RJAStaY1YV4bHe6DHqvh/CAOBHBZQniooYaKSa11V3JvEadCRFrCjwMutDk4L08xsSbDNDVUkytlQRJkGZtnjO+Iy/FTc2snM+9C1vY1fbMj5ZC1fkWAowFBwfxd3ASynKNZwdAi9+5BK55dUkHfX6Sd2ki6K8oNdtZss1a4APtHMrcU55Y+bsXJUVEg9bRpe77V+segynu6Pw9Q+E38YmBWECvE2xIYVDIk86cibLqY597eZ55ZMFff1o3hh7zGHWRzRD1NRaZdAETLu99zOzf3W5Y=;lCupBjS81kh4M1+dvEHL6w=="
 ---
 

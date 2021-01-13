@@ -40,22 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
-    excerpt: "Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year. According to the former Chairman of Intergovernmental"
-    publishedDateTime: 2021-01-13T04:00:00Z
-    webUrl: "https://www.asiaone.com/business/ces-2021-taiwanese-startup-new-garden-launched-new-ai-agriculture-platform-automatically"
-    ampWebUrl: "https://www.asiaone.com/business/ces-2021-taiwanese-startup-new-garden-launched-new-ai-agriculture-platform-automatically?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ces-2021-taiwanese-startup-new-garden-launched-new-ai-agriculture-platform-automatically?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 38
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2021/pr-newswire_500_4_557.jpg?itok=kx7gRH3m"
-        width: 763
-        height: 509
-        isCached: true
   - title: "CES 2021 Taiwanese startup developed dentall HiS: The next generation dental software system"
     excerpt: "PRNewswire/ -- dentall Global introduces the dentall HiS software, an E-commerce platform for dental supply, online/offline lecture and management consulting. The company intends to implement the software with multiple functions including ERP,"
     publishedDateTime: 2021-01-12T12:24:00Z
@@ -106,6 +90,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
+    excerpt: "Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year. According to the"
+    publishedDateTime: 2021-01-12T18:53:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-new-garden-launched-a-new-ai-agriculture-platform-to-automatically-grow-any-plants-301206798.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
     excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone"

@@ -56,6 +56,17 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "CES 2021: Bosch turns to AI for a healthy and sustainable future"
+    excerpt: "Bosch doubles down on AI and connectivity to develop intelligent, climate-friendly solutions for health, living, industry, and mobility"
+    publishedDateTime: 2021-01-13T06:55:00Z
+    webUrl: "https://www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future"
+    ampWebUrl: "https://www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 39
 
 secured: "MwhyXw7elvMeWvPnx50cDizsvuKmLuNMMpdCnSRO8dzx+CY9Gwq7wK+IzLroGIN52kCHu7WxvP75FY0vmQlGbno5OEae06+6c5HgpLArDMoZZirWrq1B8Ygx7VdO7Z8kBzFUMg/MJ7OnUPeURfLrFu3eW1QoI1qmzbEwOn3af+EnalPo5eqe4bbXf7mwSgo75Dv/IXcrboAlvat9VOic7o9efd2XnesCH0XkoiD3OwTBQB4cXI5BwAP1TyW7kzIlJD0qMqGtfe821ogk6q2zG8I81UE4jArmmel4cO6XMiLOAAbCIq/3iPKcYrYeoVC1S/b6Ii7eS/Mpft+l1/smePZlH3Lhf7y8rWy3JYTWsfy4zF/OMhE4Z3CnEihhg5L5FBa0IsG/MJHC6xdqi8SpU1JUwa2YSXxLEJCCCFIB+7p4VYQ1DmOoppTzQHEm+st+xvjb0+34XUzjvlIkrXEmg2ssOPrfBfR2PUFGj4f1DPw24viOZzb8/jQVxszDO/4FVu9gjGJhDRCCoSTmKkcsNg==;NDWVo63qi6PnuivHSP+Cbg=="
 ---

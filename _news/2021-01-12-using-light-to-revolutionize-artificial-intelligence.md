@@ -2,27 +2,24 @@
 category: news
 title: "Using light to revolutionize artificial intelligence"
 excerpt: "An international team of researchers, including Professor Roberto Morandotti of the Institut national de la recherche scientifique (INRS), just introduced a new photonic processor that could revolutionize artificial intelligence,"
-publishedDateTime: 2021-01-11T18:22:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/indl-ult011121.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-01/indl-ult011121.php"
+publishedDateTime: 2021-01-12T01:57:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
 type: article
-quality: 39
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/253196_web.jpg"
-    width: 720
-    height: 468
-    isCached: true
 
 related:
   - title: "How To Find The Right Business Insurance Using AI"
@@ -51,6 +48,6 @@ related:
       domain: itbusinessedge.com
     quality: 39
 
-secured: "+ZazcHkNPQBr5TUyrpoEeKRpxAfWRUi0tzQOZTiTA4I/kuoHXVvfNsUnBOhTakfo/fB0+0jg+gET7msZ1Pq0H8PhRvru0i0lVsUbCwuCLz5gpmfLuxHClBB956IqnLVNvk1QSXYlqE/LPPBHjrM661S+TotNoIpazrYuOluIP9jHd1Rmr/mcN6r/QE9okmLISWDEJb1uopl6k2ZVDX9ikkAwArvdnu3ggfDRkCZ5be28XvLhJ8VufhKo0OdZZc9ZFlt+Nk8SlXkOF3/vv24l/uQSvYz0q7tFn2sVBYzBsKSDQhHQVpAdPsA4UrvaGSWukbTRQEt3UOVh4oyhjBYRrErHHaviwiJk2kIOT76OczM=;TdmPMSw45PA2OB6tjlal0w=="
+secured: "lXN4QWV8n9gLwt0H8z7nE5MKCo1dWoqf/AjA6GRrekb2PH4BLrarSRxnE6hs9jQ/TlkZCvYg1wf/yQQ+vC8TsiW3FnCnJvDWxjA4hshMF1IqYnTvTKptxygKvIJwxqRUckQHMJzYZyVcrP7XA5PNpnSQERAs9dJdh5Wnq4UFyuAR7Dj/ZjLrKykjgaxAEkigiMjiorH7RmSMZE0aqIIppkUxcj8/BvMfpcDGyPCk7dAZXhS/Ql0cnZ98e3LoaciFvAu1I/tKZxy5p2r3l2oBMqi2Hd3XVUs7OgpofpHUHkDldutntu9db9k/7a0/iKF1uSvlz8bnvzqpiwGNOLbkjNLNvx107RkXdXQ130DkO+s=;6dMJ/dc7VTX7Kudxd8SSKw=="
 ---
 

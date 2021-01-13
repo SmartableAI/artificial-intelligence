@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-13T04:22:00Z
 originalUrl: "https://www.digitimes.com/news/a20210112PR202.html"
 webUrl: "https://www.digitimes.com/news/a20210112PR202.html"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - Google AI
   - AI
+  - Computer Vision
+  - AI Hardware
 
 images:
   - url: "https://www.digitimes.com/newsshow/20210112PR202_files/2_b.jpg"
@@ -79,6 +81,6 @@ related:
       domain: businesswire.com
     quality: 5
 
-secured: "n67YwsZm8rzhf9QPNdFKFmthJn1/FZQ4vBKBEdTtaAdjDWeFh2+BnSmW2stflhL/b3kVTVqyz5BaOHfPfT2LCo5HbRE9oMv2ylRqaYd2yRBNnID7rwciGChlC5Pj+EbsDg3ExhJTCbeh2FfJqnf7BoEIq7TvAPT9Bzf0tYFOOA98ipb+SJclCh0ixsgxQK7QrxLb3aXlns/sOQNixbe33bPIg34HEqLptohB7qH/nbfNGoGaO94YtZiBMJPHTX4kesU8fg3vMxpAXh5iF+6HvFZnJtjeFtuOxa8T4s/8+BlH6s++9BqMrZCXptFWapdoIh4udMdcM7knY4YxWkebYEhPiv6DnkbgpvWZMzfswag=;ObPbQcggl0RuA8gUVvYqwQ=="
+secured: "zxXPaS0k2nRMM+v8TXS7Y8xaKbppJg0VLRqhnezE8u21nO3+ldckkgPPlc3U6daQnf0IDj4o1R69Y4WAJzuRbqU7F5jrzPM+bmM8mZZKDR0hNzuwapeWIzUilBtB5+GtBB9k6fySHqgxMZ03Vpf9uDLRjnrU2ZMf4p18YCNc6upLwNUYEJuUqAj/ut2hzu1qBZhHmfEJQdFhTUEAavhGL5ZWdlOsffssynAdeQgGa3q8i8JPmTUvL1xLk9kPPSGa8jbZRT+00LOD36ViRkI42eLo2PYY2i3BPCZAs6iWdIsTv0wzPdSe1to7f6YKrV5MaD/imB0kgzehLsJADSmv3IP/rObeF/T/bz6lHoinKhNGUIe4Zq4wN+z1038pHF5GmZfHg44zElV3rejaMRuo0+r4BC0HxmiAfDP7VwgHZgwIBl6e5z259l/kUWHkC+ouhDoEriehBLOCMNiwsWOD92HQqjoNCaTBaK0FeluszzPEL5WDZHXl2n0iTK6hsBNV9r0K1uiHaXVcrpgJR9p6zw==;WZ1s72CMPhn0/Du/GFVpGQ=="
 ---
 

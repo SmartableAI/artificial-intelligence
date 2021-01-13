@@ -103,22 +103,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "State using facial recognition tools to identify Capitol rioters"
-    excerpt: "As police work to identify people who breached the Capitol building last week, Massachusetts Governor Charlie Baker said facial recognition technology is being used to identify"
-    publishedDateTime: 2021-01-13T02:34:00Z
-    webUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html?block_id=998082"
-    ampWebUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
-    cdnAmpWebUrl: "https://www-westernmassnews-com.cdn.ampproject.org/c/s/www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
-    type: article
-    provider:
-      name: Western Mass News
-      domain: westernmassnews.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/0/29/02906ae4-5527-11eb-a56a-eb609fa1fc71/5ffe27538a323.image.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Facial recognition technology to help identify U.S. Capitol rioters"
     excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."
     publishedDateTime: 2021-01-09T23:54:00Z
@@ -144,6 +128,20 @@ related:
       name: WHDH
       domain: whdh.com
     quality: 39
+  - title: "State using facial recognition tools to identify Capitol rioters"
+    excerpt: "As police work to identify people who breached the Capitol building last week, Massachusetts Governor Charlie Baker said facial recognition technology is being used to identify"
+    publishedDateTime: 2021-01-13T02:34:00Z
+    webUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html"
+    type: article
+    provider:
+      name: Western Mass News
+      domain: westernmassnews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/d/e1/de1f73d9-4f35-5073-99e7-95d5fc171986/5ffe65d1ad8cc.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Police Commission approves new oversight for LAPD’s use of facial recognition, rejects call to ban the technology"
     excerpt: "The Police Commission approved a policy Tuesday that set new parameters on the LAPD’s use of facial recognition technology, but stopped far short of the outright ban sought by many"
     publishedDateTime: 2021-01-13T00:17:00Z

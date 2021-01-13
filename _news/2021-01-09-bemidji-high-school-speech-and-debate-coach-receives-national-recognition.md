@@ -71,20 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Intel is Repositioning its Depth-Sensing Camera into Facial Recognition"
-    excerpt: "Intel has officially launched RealSense ID, a facial recognition camera module that is built on its RealSense depth-sensing technology. Originally"
-    publishedDateTime: 2021-01-08T19:08:00Z
-    webUrl: "https://petapixel.com/2021/01/08/intel-is-repositioning-its-depth-sensing-camera-into-facial-recognition/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 39
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/01/Intel-is-Repositioning-its-Camera-Depth-Sensing-Tech-into-Facial-Recognition.jpg"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Intel launched RealSense ID, a facial recognition tech"
     excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
     publishedDateTime: 2021-01-11T11:36:00Z

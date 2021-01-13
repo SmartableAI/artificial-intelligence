@@ -3,8 +3,8 @@ category: news
 title: "Mammography expert finds deep-learning artificial intelligence may improve cancer detection"
 excerpt: "The journal Nature Medicine has published a study co-authored by Gopal Vijayaraghavan, MD, finding that an artificial intelligence model for computer-aided reading of mammograms may improve the detection of breast cancer."
 publishedDateTime: 2021-01-11T16:10:00Z
-originalUrl: "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
-webUrl: "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
+originalUrl: "https://www.umassmed.edu/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
+webUrl: "https://www.umassmed.edu/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
 type: article
 quality: 29
 heat: 29
@@ -24,6 +24,6 @@ images:
     height: 341
     isCached: true
 
-secured: "LVmjQyUwmiUfk/ImJ3qiOTaydgi3W264kiG3Qyi77454xIzjM4wGlaS10ALpOLIlXVjzq8VXUOiL3Q338VUO94LLlVsldr0OW+z+ZT/K2oyNtP3k2SgBaEyWnt4++NiLsqns93f77dGXABgNy8k8xjQxX8fPhNsk1H80QvoLXF/+a5X+mQem3a29mzSg6M8tBR5g7z4C1kopuOeMRl9dZ2R0cax9tLGepTAZ+gFXMXfACKoEGrslysY5z7fdmYsstjry4bJIeQXoF412BiUWcL8buL2k2R1UpT3oa/RE3M+RsKteB0Yvq8an169cYKSEerP29QN1T5GlAx5TduFN8HYKX/LcdarNNzKUSaFADMg=;dy3lfiAEq865jASK/XB/OQ=="
+secured: "i+twgmPQp3edSOTwsp42WnKIytRuRcNPfLNMvDJLMvjbCfqX18x77lZzXCEBgSvc78NJd21QjXs4FNN1eMpZ6TaQqUlxomj9l+jvaio4GHeH5AjLoA2y+eAGTTxUucv5dV7AV1b8ZGamuJdjGcoDIAzZZbbowZTPv1opBn6O3fdkWsJMfxxENASa9919rjipnJeYixyQmIc/ATWwOVqXzMTU+8n+SnrZiSRknehoOh9eaB0TYTEHz9vwMED2ifLMBS3UdKR54apWlByP3ZUYcIPMBfTeA2BdHBKY9aawfkhZZoc8v4mJVfRI/NhD/EogKU09XcEkTFHO4iTmY5ZPHuBLn/g1Q3MRxuF36xKavKk=;kHPZrzrEPXKD9CjHgaUrcQ=="
 ---
 

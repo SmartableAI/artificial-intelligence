@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 140
-heat: 220
+heat: 210
 published: true
 
 provider:
@@ -77,22 +77,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Microsoft’s AI Model Outperforms Humans In Natural Language Understanding"
-    excerpt: "Microsoft on Tuesday announced that its AI model has surpassed humans In Natural Language Understanding (NLU) With SuperGLUE benchmarks."
-    publishedDateTime: 2021-01-08T14:53:00Z
-    webUrl: "https://www.techworm.net/2021/01/microsoft-ai-humans-natural-language.html"
-    ampWebUrl: "https://www.techworm.net/2021/01/microsoft-ai-humans-natural-language.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2021/01/microsoft-ai-humans-natural-language.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 73
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2021/01/ai.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft AI Transformation Customer Stories"
     excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."
     publishedDateTime: 2021-01-09T08:27:00Z

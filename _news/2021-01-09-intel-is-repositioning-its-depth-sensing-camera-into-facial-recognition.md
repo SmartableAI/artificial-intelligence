@@ -25,75 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
-    excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
-    publishedDateTime: 2021-01-11T04:56:00Z
-    webUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/"
-    ampWebUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
-    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+  - title: "How far can facial recognition go in finding rioters in DC?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-09T04:47:00Z
+    webUrl: "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
     type: article
     provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 55
+      name: WCNC
+      domain: wcnc.com
+    quality: 59
     images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Intel's Israeli facial recognition technology is going to change the way you draw cash"
-    excerpt: "Powered by Intel, Israel's RealSense ID develops a facial recognition system that aims to make debit cards obsolete... Facial recognition technology has already found its way into almost everyone’s pocket nowadays."
-    publishedDateTime: 2021-01-10T04:27:00Z
-    webUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/"
-    ampWebUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 51
-    images:
-      - url: "https://www.geektime.com/content/images/2021/01/1ca31571-f685-4bee-85be-b55bac1216ec-1609950288.jpeg"
-        width: 1431
-        height: 966
-        isCached: true
-  - title: "AnyVision Offers 5 Indications for Fair, Ethical and Unbiased Use of Face Recognition Amidst Rising Public Debate"
-    excerpt: "Prof Shlomit Yanisky Ravid, Visiting Professor of Law at Fordham Law School and Yale Law School (Photo: Business Wire) The backdrop to this conference is the widespread public debate on the use of facial recognition technology – a debate encouraged by the Black Lives Matter (BLM) movement,"
-    publishedDateTime: 2021-01-08T17:11:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industry-regulation-government-business-and-finance-technology-issues-ac039981ac6547c38da3306d301c6c20"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Bemidji High School speech and debate coach receives national recognition"
-    excerpt: "Tom Lucas, coach of Bemidji High School’s speech and debate teams, was recently nationally recognized for his coaching work over the years."
-    publishedDateTime: 2021-01-09T14:41:00Z
-    webUrl: "https://www.bemidjipioneer.com/news/education/6832804-Bemidji-High-School-speech-and-debate-coach-receives-national-recognition"
-    type: article
-    provider:
-      name: Bemidji Pioneer
-      domain: bemidjipioneer.com
-    quality: 23
-    images:
-      - url: "https://www.bemidjipioneer.com/incoming/6474136-l49yoz-Bemidji-High-School-web-art.jpg/alternates/BASE_LANDSCAPE/Bemidji%20High%20School%20web%20art.jpg"
+      - url: "https://media.wcnc.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
         width: 1140
-        height: 712
+        height: 641
         isCached: true
-  - title: "Intel launched RealSense ID, a facial recognition tech"
-    excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
-    publishedDateTime: 2021-01-11T11:36:00Z
-    webUrl: "https://techstory.in/intel-launched-realsense-id-a-facial-recognition-tech/"
+  - title: "How far can facial recognition go in finding rioters in DC?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-09T23:24:00Z
+    webUrl: "https://www.khou.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 19
+      name: KHOU 11
+      domain: khou.com
+    quality: 59
+    images:
+      - url: "https://media.khou.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "How far can facial recognition go in finding rioters in D.C.?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-11T19:38:00Z
+    webUrl: "https://www.9news.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    type: article
+    provider:
+      name: 9NEWS
+      domain: 9news.com
+    quality: 59
+    images:
+      - url: "https://media.9news.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "How far can facial recognition go in finding rioters in D.C.?"
+    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
+    publishedDateTime: 2021-01-12T18:44:00Z
+    webUrl: "https://www.wtsp.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    ampWebUrl: "https://www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 59
+    images:
+      - url: "https://media.wtsp.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "dyoI+ck+kzqqR2X2sJBZciMcyl7ogTVQI3XLd+N0b7y0za1VixFweHGCrowAdHf78/KgvyLTIfpDHgR8fw1YJ7pgSXDW3ux6Gd4WIQlmZZ3S0yr+WldpABnlOU5ww0BV0aig12Gt3OJrDAhPzHK+/C3wmdplUhV/qMglBJEWjsrOcf3eT9sYaOLXvCh+ukSx1jgn8NMEspUt6WqpXzTuUwD1no6amVkxr8khGAnim09cZH2ZzQ9UA/vQ1nTzJ+QjoMhK+cmW4itrZJMZSxWFfndERTjUIFKq2xGbJpiPWF0+LNsAD5TTwmy8H3XgN+w9+V1KAiUH9S9LtjC+cSTFBCQDSG+ZRT7Cy3A2QLPiBRtHoS9EcSnttQlfXF82DnyxZFxTUCJ5RiG1tb1pnh75/nzkkojFL8j1LM6VNHvvbgIxP77U+p+J5og2FFEq9ewo2ntt7dHjZKPFuk+jvrIUxmaoF3FCTq5Vql05vyGwJH6UtDFW6BT+DMgaGtFdvi5cN7cTl3yy7ZW3v+1FAyeoqg==;sViWhfeyZ0AjG6YBW3xFjA=="
 ---

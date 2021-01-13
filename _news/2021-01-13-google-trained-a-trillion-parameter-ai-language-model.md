@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/12/google-trained-a-trillion-paramet
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2021 – 2024 | Revenue, Trade Analysis, Trends, Drivers, Challenges, Growth Forecast"
-    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
-    publishedDateTime: 2021-01-08T14:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-2024-revenue-trade-analysis-trends-drivers-challenges-growth-forecast-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice and Speech Recognition Market Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
     excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
     publishedDateTime: 2021-01-08T19:16:00Z
@@ -85,15 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market 2021 Growth and Business Prospects, Industry Size, Forecast by Share, Revenue, Development Status, Demand by Regions 2023"
-    excerpt: "Comserve Inc. / -- Based on organization size, the sub-segments include small and medium enterprises (SMEs) and large enterprises. The Machine learning Market is estimated to record a significant growth throughout the forecast period."
-    publishedDateTime: 2021-01-08T14:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-growth-and-business-prospects-industry-size-forecast-by-share-revenue-development-status-demand-by-regions-2023-2021-01-08"
+  - title: "Natural Language Processing Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2021-01-13T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2021-01-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

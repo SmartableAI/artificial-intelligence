@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Broad Institute and Verily partner with Microsoft to accelerate the next generation of the Terra platform for health and life science research"
+    excerpt: "On Monday, Broad Institute of MIT and Harvard, Verily, an Alphabet company, and Microsoft Corp. announced a strategic partnership to accelerate new innovations in biomedicine through the Terra platform."
+    publishedDateTime: 2021-01-11T15:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-biomedical-research-services-genomics-e9f0bb3d3a02248d416610763cb60e50"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "zvoZqiD/t8ut6JIPweo32UeCVoeCFYrXaaYYpNfuYOhMe4fSxwpv/CcT9WyOjmijIqAEjY4dd+S3y1kJU7EY+AyhS1/ge1UdEMARh3C1BYeENg5yRFkzoizh3z/wRQT0mjyteIG6ooqpC5MXD9HPCa9NJHpqJgMeQPl90qQyIm56LPKoO5VcvyzOziSfdl1BWWeNV770RvGFxpvSPRiVIP/XRlSsFX3a9czdS1eabJ2xZE0LZ9l7RhYVX0ClBtLnQ8QfQekPAvXr5p/5WbYh3v7TCWjcLEd2zICs65+8uTklycgJz/hUX1zEOCVo00KSGiBsi/ugEzILu18JHi7NEYHFYWKtIZ6aXNi98FYSYDw=;+JpRSMMwR/m9v+hLa6+Cng=="
 ---

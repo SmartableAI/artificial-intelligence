@@ -7,7 +7,7 @@ originalUrl: "https://ktvz.com/lifestyle/technology/2021/01/08/a-radish-in-a-tut
 webUrl: "https://ktvz.com/lifestyle/technology/2021/01/08/a-radish-in-a-tutu-walking-a-dog-this-ai-can-draw-it-really-well/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "A radish in a tutu walking a dog? This AI can draw it really well"
-    excerpt: "An artist can draw a baby daikon radish wearing a tutu and walking a dog, even if they've never seen one before. But this kind of visual mashup has long"
-    publishedDateTime: 2021-01-08T13:27:00Z
-    webUrl: "https://keyt.com/news/money-and-business/2021/01/08/a-radish-in-a-tutu-walking-a-dog-this-ai-can-draw-it-really-well/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
-    images:
-      - url: "https://keyt.b-cdn.net/2020/12/keyt-business-technology-generic.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "oY61jVnJMwmUqI2F6cx9Prs+28hWnsUwQ57V3aJsCeJprMEzzuGyKJUjcct6/QGWilHU54uOb6ECy9q1o5GIFOP93ES56xliSF1nxS30ifjViURw68QWOAgPPNnN5p4bj0Jy79tld5bfUI8qA5Mvn1LhOvhZf5gx7zysutcsBuuaZMgCGx/MJkOefIcTDWXXAoQrtFVfFW6X7icdWuv3iK0yqLMW9H62m6L9+qXuZtiiNbmO82TNzQuQVvvPcUiPdlkb4lp4jf2ZQQ0MHsLMA4OUJoI1ulKyL2gjYINMrr1HtupcX0FVuHLXM0u+pxqJPMU3lGxDEEMfWddV0ZSTfLJJmA8q5hDKcndexDO5XqA=;Gy+KxQqrjtBHpKPj9YvpFQ=="
 ---

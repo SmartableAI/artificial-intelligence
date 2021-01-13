@@ -84,15 +84,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Baidu set to announce EV venture with automaker Geely, report says"
-    excerpt: "Baidu and Geely will team up to make electric vehicles for the Chinese market, deepening the internet giant’s foray into automobiles as its core business slows,” Bloomberg reported citing a source with knowledge on the matter."
-    publishedDateTime: 2021-01-08T14:34:00Z
-    webUrl: "https://www.techinasia.com/baidu-set-announce-ev-venture-geely-report"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
   - title: "Google Search Rival Baidu Announces Electric Car Company"
     excerpt: "The tech industry is slowly but surely becoming more and more interested in the automotive market, and while Apple has so far remained completely tight-lipped on its plans for an electric vehicle, the Chinese over at Baidu have moved a lot faster."
     publishedDateTime: 2021-01-11T06:06:00Z

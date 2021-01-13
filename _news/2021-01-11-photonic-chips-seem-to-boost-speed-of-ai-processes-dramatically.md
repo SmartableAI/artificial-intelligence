@@ -7,8 +7,8 @@ originalUrl: "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-proc
 webUrl: "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: unite
@@ -37,6 +37,20 @@ related:
     quality: 36
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/IBM-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Light-based processors can process data substantially more quickly, something electronic chips are unequipped for doing."
+    excerpt: "Light-based processors are speeding up machine learning operations than electronic chips. Working along with a global team, researchers at the University of Münster are growing new methodologies and process architectures."
+    publishedDateTime: 2021-01-13T05:38:00Z
+    webUrl: "https://www.analyticsinsight.net/going-beyond-electronic-chips-light-based-processors-in-ml/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 0
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Machine-Learning-1.jpg"
         width: 900
         height: 500
         isCached: true

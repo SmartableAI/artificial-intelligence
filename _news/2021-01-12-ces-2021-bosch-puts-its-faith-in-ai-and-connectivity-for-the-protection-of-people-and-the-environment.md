@@ -113,7 +113,7 @@ related:
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-12T09:41:00Z
-    webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
     type: article
     provider:
       name: Associated Press
@@ -179,6 +179,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
+    excerpt: "GenkiTek, a spinoff company from Taiwan’s Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
+    publishedDateTime: 2021-01-13T06:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-spin-offs-4c80eaf470485367a9a93d5829aca98b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

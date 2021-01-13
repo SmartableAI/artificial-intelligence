@@ -43,6 +43,17 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "CES 2021: Bosch turns to AI for a healthy and sustainable future"
+    excerpt: "Bosch doubles down on AI and connectivity to develop intelligent, climate-friendly solutions for health, living, industry, and mobility"
+    publishedDateTime: 2021-01-13T06:55:00Z
+    webUrl: "https://www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future"
+    ampWebUrl: "https://www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 39
   - title: "CES 2021: Now AI can detect Alzheimer’s"
     excerpt: "A biotech startup claims that AI brain mapping with an electroencephalogram (EEG) can now detect pre-clinical Alzheimer’s dementia. At CES 2021, iMediSync has launched an EEG digital biomarker for early detection of Alzheimer’s dementia on their AI cloud platform,"
     publishedDateTime: 2021-01-11T08:30:00Z

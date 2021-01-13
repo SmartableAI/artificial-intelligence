@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
+    excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
+    publishedDateTime: 2021-01-13T06:48:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-79f9d1d533c146dfb3f18a412be7b521"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Amazon announces global expansion of its Contact Center Intelligence tools"
     excerpt: "Amazon Web Services Inc. is expanding the focus of its Contact Center Intelligence services that customers can use to add artificial intelligence capabilities to their contact center operations. AWS CCI can now be used with customer’s existing contact center providers to deliver new efficiencies,"
     publishedDateTime: 2021-01-13T00:29:00Z
@@ -60,6 +74,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/CCI-web-image-side.24c04d2d367e37921da48fed7f5baffb9ee5b5cf.png"
         width: 624
         height: 407
+        isCached: true
+  - title: "Cresta to Bring Real-Time Intelligence to Contact Centers with AWS Contact Center Intelligence Solutions"
+    excerpt: "PRNewswire/ -- Cresta, the real-time intelligence platform for customer conversations, today announced its participation as a launch partner for the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions."
+    publishedDateTime: 2021-01-13T06:57:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-07a11d28771afaad2dc708a07e156c53"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "/eAjQGCwCGKOT9YJQbai2QXdZ7mc0e3+2GhZJma3i0Onm3eq7SezIb69oxGw6D4WieOVUkOJ1DuGho8og0eQxB0/vNhYI5aykVjHoBCAYBfe2Mw+DkJioRWSbZ9ob8P7fq7lqfZUD0W7UlUWEORWNKExroVfSSkE7BkNLSw5Bs880EXH5N6HRSXlXDOgkjM81vIF/bdQZELrzl/p8H5iktIio7Bkg/ZGJhokDOvOyqWbA71YTaWm8LRYc1PVk8by669U2OlDHtOj4S4jBqSvsLhTDTxLWRDagx6FmokCDBLnydFn+E/tnb0ar2OH3hX3q5BQ069762gpML6hUkXZzwjHrTd5W+RrTmoGSYKGANM=;WJy0GUxPksodgn414/pWCQ=="

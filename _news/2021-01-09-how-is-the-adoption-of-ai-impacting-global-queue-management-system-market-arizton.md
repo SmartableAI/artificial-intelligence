@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19083241"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19083241"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -19,17 +19,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "AI Chip Market: Intense Global Competition"
-    excerpt: "The AI chip market has been explosive with more than 80 global startups in the space funded by $10.5 billion competing against 34 more established electronics companies that have also entered the market."
-    publishedDateTime: 2021-01-08T15:01:00Z
-    webUrl: "https://formtek.com/blog/ai-chip-market-intense-global-competition/"
-    type: article
-    provider:
-      name: formtek.com
-      domain: formtek.com
-    quality: 34
 
 secured: "IYIxOzVzPNw76EfXXY+6hg7TJ+urLgCMe3YTLfTl6F3HlSFqn8FSk/BrJg0o2WUuFCMZcxXGY9CCxJErgjLMS3f6HAOpC6vy/aKelZqKME+k1hCRZcW64Dn+GVkAnmR9iVEePiGhx0yTV0Iyhb+iSy2TsfZJtwtd+jilFhzffkXIg5/OWIqtxYRI9I/D7AdVc9q+9DrzvJlN9jVearOT/3MP+hz7ViTdsK2JEdn1bLjsrzck3UHaBEpzn6EPy03lJJ+NYXhMce59EjzBDDFlZHfQp3grWsQK4+UeBHDZwAK/Z3L5wVDMzVrQ/KJ0OMO8G/Ww3H5SJvkJaFNdXeqKz5ssSp/hK4q7AuNI/ducPvw=;Nt+qOTAPBb6NNAvlHAXCBg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://investorplace.com/2021/01/the-robot-revolution-will-spark-a-
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/01/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock/amp/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "The Robot Revolution Will Spark a 15X Rally in This Micro-Cap Tech Stock"
-    excerpt: "This has coupled with significant advancements in tech hardware production, and ultimately brought us on the cusp of creating a new generation of advanced robots that can think and act like humans. The Robot Revolution is starting."
-    publishedDateTime: 2021-01-08T14:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-robot-revolution-will-spark-a-15x-rally-in-this-micro-cap-tech-stock-2021-01-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 68
 
 secured: "yCsiRy8XTpMSJGkIjQLxyXCpsq8GwiqJdfZcXLobi/kvzpcBu0NtGHFwXL4qWt7xTjV6iKh+VOOIOqR3KghoKs+gMtg1yQsSafY7orezmgmezWDVvRuLqic+D42M6RZn4iyAjvQ+UDdV0bRy8njA9jejzyC4w8/HDqljNIFgewFk95TcOdz1X9CxF4oX1NpcJ0cyBVxS5cWt02K72oqm9Ot4djoWBkAFiNSy0eXyCMSg9yGiEapPf2gmfJbe80dNhcfzKcS2vydEPaycG1LeOHh4mNkZtRsleLGY2c93cyB2tffjANGa3kEuR4RyEpyYf5nUwBIj2NCQpITHnIDvYUeE8iKHInXpigfRFON3Ego=;HAaajz1iJzBA8qq6+tJLuA=="
 ---

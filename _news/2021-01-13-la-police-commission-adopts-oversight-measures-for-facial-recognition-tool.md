@@ -9,8 +9,8 @@ ampWebUrl: "https://www.courthousenews.com/la-police-commission-adopts-oversight
 cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Courthouse News Service
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition that works with masks"
+    excerpt: "With so many casinos now implementing facial recognition systems it is interesting that a Japanese company has introduced one that will work even when guests ar"
+    publishedDateTime: 2021-01-11T07:51:00Z
+    webUrl: "https://www.intergameonline.com/casino/news/facial-recognition-that-works-with-masks"
+    type: article
+    provider:
+      name: InterGame
+      domain: intergameonline.com
+    quality: 19
   - title: "Leading Facial Recognition Technology Provider Corsight AI Appoints Former UK Surveillance Camera Commissioner Tony Porter as Chief Privacy Officer"
     excerpt: "Corsight AI, a leading facial recognition solution provider, announced today the appointment of the UK's former Surveillance"
     publishedDateTime: 2021-01-12T09:00:00Z
