@@ -107,17 +107,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Baidu and Geely to Launch Standalone EV Company – Report"
-    excerpt: "C hinese search giant, Baidu Inc., plans to form a standalone electric vehicle (EV) company with Chinese automaker, Geely, according to Reuters. Two sources familiar with the matter told Reuters that Baidu ( BIDU) will be the majority stakeholder and focus on the software side,"
-    publishedDateTime: 2021-01-08T10:32:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-and-geely-to-launch-standalone-ev-company-report-2021-01-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-and-geely-to-launch-standalone-ev-company-report-2021-01-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-and-geely-to-launch-standalone-ev-company-report-2021-01-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Baidu to set up EV manufacturing venture"
     excerpt: "Chinese tech giant Baidu is preparing to set up its new electric vehicle manufacturing venture, the company said on Monday."
     publishedDateTime: 2021-01-11T13:16:00Z

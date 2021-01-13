@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-a
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/"
 type: article
 quality: 76
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 800
     height: 529
     isCached: true
+
+related:
+  - title: "How to improve computer's learning ability"
+    excerpt: "Computer-based Artificial Intelligence (AI) can function more like human intelligence when programmed to use a much faster technique for learning new objects, researchers say."
+    publishedDateTime: 2021-01-13T02:33:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/how-to-improve-computers-learning-ability-197452"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/how-to-improve-computers-learning-ability-197452"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/how-to-improve-computers-learning-ability-197452"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 44
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2021/1/2021_1$largeimg_1133401646.jpg"
+        width: 724
+        height: 483
+        isCached: true
 
 secured: "oNwLPvP3j1PWfHnDToSiiqTplsb0PyTpNIoOnIqdxnjd1arF3c0vUyfZXerOU2RUmSel3+p1xqk+2MPp4lN+qWDCihX7QFplwLnTcNGGAkRvklfq+ONZAiyH7rZV5SxbZCYsww517F8YFoqhWI4Jie7hFyTK2rzgDpLFy+9JFBhCUObmk6/+4OZKoA0i0cAY3Yb+tZjhDZTSSw7UuXlyoZsHkTIeRQ0EegJkEvPBSGXBhx3mTzqEpglLKNyikBm83sv/cMZ7pguthnMlyl+igu3xwq558VY45rKHHcwGNq59H8IqynhQEvg6YiKJuxrtLK400Eii14HhBY6UKmHlw/tjGph8uhnGOl0Fv4USAjXZkMMtmBnqlV10eAOzfnXnJEpedVG07AUOZICP6Ysr9C7w6gtd7HyArA23kDQDAhaH4Yl+fc6kxU38kG5nKkKIWVGGLnkFuqZSQcg2Vvkp3pxd13gNW/ZWoNm+OqbgD9FBYG5kkvkGHEU/AWw8Js6Oyteyz12ZkoGMv0Vaw/SgPQ==;wqD9dpxcw8Yt7BSTWNRrYw=="
 ---

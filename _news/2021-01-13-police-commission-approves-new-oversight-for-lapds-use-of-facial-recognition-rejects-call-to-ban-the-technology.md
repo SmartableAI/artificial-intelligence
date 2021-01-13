@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "State using facial recognition tools to identify Capitol rioters"
+    excerpt: "As police work to identify people who breached the Capitol building last week, Massachusetts Governor Charlie Baker said facial recognition technology is being used to identify"
+    publishedDateTime: 2021-01-13T02:34:00Z
+    webUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html?block_id=998082"
+    ampWebUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
+    cdnAmpWebUrl: "https://www-westernmassnews-com.cdn.ampproject.org/c/s/www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
+    type: article
+    provider:
+      name: Western Mass News
+      domain: westernmassnews.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/0/29/02906ae4-5527-11eb-a56a-eb609fa1fc71/5ffe27538a323.image.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Facial recognition technology to help identify U.S. Capitol rioters"
     excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."
     publishedDateTime: 2021-01-09T23:54:00Z
@@ -159,6 +175,6 @@ related:
         height: 798
         isCached: true
 
-secured: "fWXDI6YCHNexPUeVj+u1zat+mxHIvv5PNwcz9Uc7iu3BLPBaUyJXO1IKIu0fcaJoMcLIk/2JesrI6rMU9sQjhadT6qA+1ymZncFRPlefD7gLz9ZGPsE0FCz+c6dsEOBM9W3JEJG+43KS2GSQXVIctyr3gCr6LfXq/pgk5tjf070IeCHDewCwF+jWtc4J/XWJipY9F58GVZueIpDZX9aJGJKh6mbfksP5imJD4o4gUnbXY4CI8fFQhos+RHzriBKHU6jEhLs5uEsPKO+S+4URz1ZRsLkVU2x2JGidA3pMEzaeHWlODgG3GSnKG+15K144M4YwgCD/8fZZGELY8xWZx4SHVyt1euDh2XMTgArjcMU=;FtzBXDjgRrsIUDiChlWn0Q=="
+secured: "xhx7LEVgTJ3kIwUjEZU1B6IYNw1x6RhThEnaphD5LhmNvX75KF/nydM3AGseAF27YfHUWv7AMawB1LalGIQFI9/VfzSSIgruw40/wruXuAHAgCukO2sS+Yoq7WH9RyX260m7feBIkPhzcMw1w63ITJfTTA71Ol9urge4fFYsJl5c8QXqXS/sHXmDLKulsqBs3ao0vSsVwpo34efnw9N7u29yDhYwCZFxxstvEeTUY9hWIbf6lUbdNGgtEtdZdrr3Sg2EngNUHqsKpX0exq7W7tPob3En7fWizYJwEbi1bKCSyO7D11VOvKyJ9H/rit9ao0eGDCnOrefApiALtgZQPO52Qe1Shcybb+2b8s/3jPR82jQvJov1fZ/Mkz/fUIzZfUMz5fuFQ2m0X0YU1NHZeANGN6Klv9Flahwu+xpGbH9nHD1uFaasqAJT6ZA8Xe5y49RynDQfZ5eCjUnnf5pMK/UswIzJUE496BnqTEewj/q5lo5a7BzMszUD76D28lm8M7ZhdATVA6BRvyJsBFdVEQ==;W8DVzVqd47EWEJKmJ9nwRw=="
 ---
 

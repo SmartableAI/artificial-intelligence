@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:GOOG&p=5&t=52"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IBM leads in quantum computing, Ford in driverless car patents"
+    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
+    publishedDateTime: 2021-01-13T01:40:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005733.jpg"
+        width: 1240
+        height: 823
         isCached: true
   - title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
     excerpt: "PRNewswire/ -- IBM (NYSE: IBM) scientists and researchers received 9,130 U.S. patents in 2020, the most of any company, marking 28 consecutive years of"

@@ -2,26 +2,26 @@
 category: news
 title: "How far can facial recognition go in finding rioters in D.C.?"
 excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-publishedDateTime: 2021-01-12T11:44:00Z
-originalUrl: "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-webUrl: "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-ampWebUrl: "https://www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+publishedDateTime: 2021-01-11T19:38:00Z
+originalUrl: "https://www.9news.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+webUrl: "https://www.9news.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+ampWebUrl: "https://www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WFAA8
-  domain: wfaa.com
+  name: 9NEWS
+  domain: 9news.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wfaa.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
+  - url: "https://media.9news.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -142,6 +142,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "UaSAs722IcEDY4IW/+EL0I18mS1IGqR8b6escbhTcP7O221lvlf2zCL+9r1ms/MiVxLvW+uwwNl+MjdScXS1g8s54PiQpcgr1xS/EXYQyi7YR6oG7u3m2PVjq5BuWVpLYspy4EemHNi4TXv5QGDzBP1q7caLkd4k/CdWJO+rOrZbqZIVWt0V/DAZBqcOkua9n9I8KWkxU+i3qQ9vjF2k+o8vHqbEOgeWYqVGTvsYBkXCQapOA5wJGIHkuf/XtnwMwGdweyUAQyj1LOKLzTJRMfLAGwTnOQpNx7mkLU5VZUToOePB99qonU1tWy2bm1tIyrk3KaNF+Znv11Ok5O+FIrGyQse6jlQsJEQO8UpyerzJZnD4pX2fKICj3ydMVOEYPWwCFDRnTcpR9kYPl9+qhmFS+DdB8/RkpFKpvDhbEEGTlMX8UA6t/akiyZmANAnzAU4DAKxNgh7sVFQwIr3yrFoCNUrucYNly6/oAxW4xbntT7fMy1Ep/gM7b9uaP53vcUrot9z2HxMFoGR37fTm4w==;VsmZ0vNxq1vUnHJ/EI4ywg=="
+secured: "321HiUTcCiJxsRG7ahVR6A+aLvTSffzdlJBF7lgFpELf1a319ZEJe/sgz/5xOBAonG/Z9L++Fk+gpXev0+HlyijQYIXu8O9Skez4fNjUey5nCYXqfYt+LwpaU9GXR//tYLKnT3EkZzuQb46cfOp2gyKmjPUAvaib5rW/H3nXNoS65o1ijM9//ClNpCUGgDZsgU0gUeNRUsJijQC2glyVn6OBq4jGBIPnmCbYiC8hHTTi/BUpNM3bEQDuYcFvvr99+mzXBYt8PceEVAhVZC3i8TTIj1jPJKHs07sDXQIOzdUU/6dscseY9kIqlV9ED3Y5DLJ9dF/GgwZSV8dhAsrcrrB0FfDe4K1mdSA62/xp4UY=;EZ9bGgUA39uOEP59+CPjKw=="
 ---
 

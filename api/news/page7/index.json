@@ -702,6 +702,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-06-sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience.md",
+      "title": "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience",
+      "excerpt": "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-new-ai-tools-aim-to-automate-aspects-of-covid-19-response.md",
       "title": "New AI Tools Aim to Automate Aspects of Covid-19 Response",
       "excerpt": "Hyro Inc., a company that makes plug-and-play conversational artificial-intelligence software, has developed an AI-powered virtual assistant designed to lessen the load of incoming calls for vaccination information and scheduling queries handled by call ...",
@@ -1163,58 +1206,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-accelerating-mlops-at-bayer-crop-science-with-kubeflow-pipelines-and-amazon-sagemaker.md",
-      "title": "Accelerating MLOps at Bayer Crop Science with Kubeflow Pipelines and Amazon SageMaker",
-      "excerpt": "This is a guest post by the data science team at Bayer Crop Science.&nbsp; Farmers have always collected and evaluated a large amount of data with each growing season: seeds planted, crop protection inputs applied, crops harvested, and much more. The rise of data science and digital technologies provides",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/ML-1668-2-666x630.jpg",
-          "width": 666,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T11:35:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

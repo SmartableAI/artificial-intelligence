@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-t
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
 type: article
 quality: 100
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/82bbae71-c9cc-45a4-b521-853dcad8d24a-GTY_1294932395.jpg?auto=webp&crop=7028,3954,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "State using facial recognition tools to identify Capitol rioters"
+    excerpt: "As police work to identify people who breached the Capitol building last week, Massachusetts Governor Charlie Baker said facial recognition technology is being used to identify"
+    publishedDateTime: 2021-01-13T02:34:00Z
+    webUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html?block_id=998082"
+    ampWebUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
+    cdnAmpWebUrl: "https://www-westernmassnews-com.cdn.ampproject.org/c/s/www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
+    type: article
+    provider:
+      name: Western Mass News
+      domain: westernmassnews.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/0/29/02906ae4-5527-11eb-a56a-eb609fa1fc71/5ffe27538a323.image.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Facial recognition technology to help identify U.S. Capitol rioters"
     excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."

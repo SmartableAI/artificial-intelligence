@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese
 webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-1029961475"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "CES 2021 Taiwanese startup STO's indoor map bridges the gap of Google Maps"
-    excerpt: "PRNewswire/ -- Spatial Topology Technology (STO) is the only indoor map platform embedded with both indoor positioning and"
-    publishedDateTime: 2021-01-12T14:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-sto-s-indoor-map-bridges-the-gap-of-google-maps-1029960237"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "CES 2021 Taiwanese Startup Heroic Faith Integrates AI to Revolutionize the Stethoscope"
     excerpt: "Heroic Faith launched an AI-powered respiratory identification system that recognizes inhalation and exhalation and distinguishes abnormal breathing sounds. Introducing artificial intelligence to critical patient monitoring reduces risks and human factors in emergency care settings such as ICUs,"
     publishedDateTime: 2021-01-12T14:45:00Z
@@ -40,6 +31,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "CES 2021 Taiwanese startup STO's indoor map bridges the gap of Google Maps"
+    excerpt: "PRNewswire/ -- Spatial Topology Technology (STO) is the only indoor map platform embedded with both indoor positioning and navigation systems on this"
+    publishedDateTime: 2021-01-12T14:18:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-stos-indoor-map-bridges-the-gap-of-google-maps-301206490.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "CES 2021 Taiwanese startup developed dentall HiS: The next generation dental software system"
     excerpt: "PRNewswire/ -- dentall Global introduces the dentall HiS software, an E-commerce platform for dental supply, online/offline lecture and management consulting. The company intends to implement the software with multiple functions including ERP,"
     publishedDateTime: 2021-01-12T12:24:00Z
@@ -49,6 +54,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
+    excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
+    publishedDateTime: 2021-01-12T12:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
   - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
     excerpt: "New Garden, a Taiwanese startup that is a leading AIoT cloud to edge solution provider, has taken advantage of their previous success of WiFigarden, presenting the new ULTRON co-creating and sharing AIoT ecosystem."
     publishedDateTime: 2021-01-12T20:50:00Z
@@ -67,6 +81,20 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 26
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "CES 2021 Taiwanese startup VoiceTube found the ultimate equation for efficient English learning"
+    excerpt: "Launched in 2013, VoiceTube successfully created the biggest English language learning platform in Asia with over four million registered"
+    publishedDateTime: 2021-01-13T01:32:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-voicetube-found-the-ultimate-equation-for-efficient-english-learning-301207056.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

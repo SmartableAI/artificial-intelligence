@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-ro
 webUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera"
 type: article
 quality: 100
-heat: 300
+heat: 310
 published: true
 
 provider:
@@ -233,6 +233,20 @@ related:
       - url: "https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2021/01/Screenshot-2021-01-12-101423-350x350.png"
         width: 350
         height: 350
+        isCached: true
+  - title: "Samsung betting big on robots with CES 2021 presentation"
+    excerpt: "Samsung revealed new robots during its presentation at CES 2021, which is all virtual this year because of the COVID-19 pandemic"
+    publishedDateTime: 2021-01-12T23:58:00Z
+    webUrl: "https://www.fox13now.com/news/technology/samsung-betting-big-on-robots-with-ces-2021-presentation"
+    type: article
+    provider:
+      name: KSTU
+      domain: fox13now.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9cc25b4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fd21%2Fef205c0e5ea14d77944cbd6904335118%2Fd213522841fb4f149412ed0aa6b36ee6%2Fposter_a13fb1d4654e4b8c8e720f40a7b30697.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Samsung touts AI appliances"
     excerpt: "Samsung also embraces AI in its JetBot 90 vacuum cleaner that uses object recognition and 3D sensors that avoid cables, small objects and pets. The item is integrated with SmartThings app to assist home owners with home monitoring, he said. The product ..."

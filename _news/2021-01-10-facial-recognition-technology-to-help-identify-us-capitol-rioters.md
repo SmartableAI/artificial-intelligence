@@ -103,6 +103,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "State using facial recognition tools to identify Capitol rioters"
+    excerpt: "As police work to identify people who breached the Capitol building last week, Massachusetts Governor Charlie Baker said facial recognition technology is being used to identify"
+    publishedDateTime: 2021-01-13T02:34:00Z
+    webUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html?block_id=998082"
+    ampWebUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
+    cdnAmpWebUrl: "https://www-westernmassnews-com.cdn.ampproject.org/c/s/www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.amp.html"
+    type: article
+    provider:
+      name: Western Mass News
+      domain: westernmassnews.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/0/29/02906ae4-5527-11eb-a56a-eb609fa1fc71/5ffe27538a323.image.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Baker promotes facial recognition technology after Capitol riot"
     excerpt: "After insisting the state’s police reform bill not ban facial recognition, Gov. Charlie Baker said the technology is important after last"
     publishedDateTime: 2021-01-12T22:06:00Z

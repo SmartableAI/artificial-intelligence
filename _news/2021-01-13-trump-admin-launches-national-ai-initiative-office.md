@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-nation
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "New innovation in field of AI"
-    excerpt: "A Swinburne University of Technology led team has demonstrated the world fastest and most powerful optical neuromorphic processor for artificial intelligence"
-    publishedDateTime: 2021-01-08T10:28:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267472580/new-innovation-in-field-of-ai"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1610099955.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Intrado Launches Mosaic, an AI-Powered Customer Service Platform"
     excerpt: "Intrado Corporation (“Intrado” or the “Company”), a global leader in technology-enabled communication services, announced today the launch of the Mosaic customer service platform. Mosaic uses predictive intent technology to enable artificial intelligence (AI)-powered virtual assistants to comprehend and automatically complete customer service interactions."
     publishedDateTime: 2021-01-12T12:46:00Z

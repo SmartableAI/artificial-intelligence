@@ -3,8 +3,8 @@ category: news
 title: "Deep Learning Software Market By Service Provider, Applications, Delivery Model And Regions - World Forecasts To 2025"
 excerpt: "WiseGuyReports.Com Publish a New Market Research Report On -\"Deep Learning Software Market By Service Provider,"
 publishedDateTime: 2020-12-30T06:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-by-service-provider-applications-delivery-model-and-regions---world-forecasts-to-2025-2020-12-30?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-by-service-provider-applications-delivery-model-and-regions---world-forecasts-to-2025-2020-12-30?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-by-service-provider-applications-delivery-model-and-regions---world-forecasts-to-2025-2020-12-30"
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-by-service-provider-applications-delivery-model-and-regions---world-forecasts-to-2025-2020-12-30"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "BGfojKzzByzg8NBgVXmbP980oVlvt2Qd110Ui8/4HY8IiCHU1F1rdWySWUZT4iGb8Jcklkx5yYASVkDlxENHmz650uN1hFzJI1GdW6aB9gtvx42ZmOmlQd1mP2PMsJRmIZzoenRv1TvGGpvriGMjX/YHAa3fYVXvApTp6nkO3Mosqvwl0paxFVFZqwh606ccTXMIFdk2vDheEl/Q7MWIeM7DTCd2uYPXe4p/6Yj3+Wysb8cgAd2uwr0rKVPNl3UW+/2LIl8e7zl/KGihg+z9h/D7oKvmkmUTwy/1WWmssq5CSBqFYU0YyHXeIHU7CfiCuHAne2SROMkVtz0ZVshqab5MnjhusXZRjHuf66kc+tE=;AQm5CqUFh0tlAjm/ZCsqxg=="
+secured: "WHfCoAS8ABhVIKY3U2zCB+rSZEp7vWo9+RFqu1i5Ol4xFgSaqVp4FLvRMb92xsQssziDi7PdH0WV/aoC1x63yK0TzXWFd1ipojFSpA6GU/h0H4WnXOI2fdANwH1fDy8TstwUBwWCBHLzvKZS5xBj460u0pRUoj8ySuDgmomLEhBRns3ZOlJQunU6OzZbQ3r6nZz6iFYO3XH0hkDfkuE8BvkQLle2921l6iJCePrce00jw3P/sP1SkuBYmTyMf+/9YzQHp6rH2qiTDIDyqrPbrjLSvLtyaSmmMiABBgLvHxkctSIc+BQ7zxa7pZQWohoGDDHDqYn5n2busvwzSz+36KDilnwmxr7AhsKDRqb8uNQ=;EeZpaUFcKKMmncBt7eZmGg=="
 ---
 

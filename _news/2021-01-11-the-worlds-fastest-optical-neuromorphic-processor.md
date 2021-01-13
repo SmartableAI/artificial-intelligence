@@ -52,20 +52,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
-  - title: "Researchers unveil world's fastest optical neuromorphic processor"
-    excerpt: "Details have been published in Nature, and the breakthrough is seen as representing an enormous leap forward for neural networks and neuromorphic processing in general. Artificial neural networks can 'learn' and perform complex operations and are inspired ..."
-    publishedDateTime: 2021-01-08T10:48:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/researchers-unveil-worlds-fastest-optical-neuromorphic-processor/233440/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 24
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/233440/neuromorphic.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "EOG5QsUZ8zoNs4k3cCBhGknly9VrPMNxLlWpexTGpnTvpIAj/KWwf2Kk8E/OVXzp3kOsV1c3iexU97I1Exuke9/3+ObADfC6FV8Hf/rDJoIez3rnmKZJgtpwY7t53oibjBtuiFgLNGueM8H8t3OTdj9T5RvDc3I0xmV/sAEMvgOrMG1gQOEES9u6RKJ9S2t5FpGRJCjYc0EQSwbKQyyCKnCwowYDpc4nvGSAWOjsuV/0a7WjY4HMP0hFRsXER7+Bi28B+kLVqJSCPJhl+iFiqckiJj7Ddx0wYvYxX09OQI27+K1bn33BzNPOTlLy+rTXfMDY6TrAy2GpvC6P0rnSoVsk52+g04H68yj/aOGEh6I=;L3bOoZrfD1BAWRF0pUlnBg=="
 ---

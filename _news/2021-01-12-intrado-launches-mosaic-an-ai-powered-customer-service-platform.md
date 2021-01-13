@@ -41,20 +41,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "New innovation in field of AI"
-    excerpt: "A Swinburne University of Technology led team has demonstrated the world fastest and most powerful optical neuromorphic processor for artificial intelligence"
-    publishedDateTime: 2021-01-08T10:28:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267472580/new-innovation-in-field-of-ai"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1610099955.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "The White House Launches the National Artificial Intelligence Initiative Office"
     excerpt: "For the past 4 years, the Trump Administration has been committed to strengthening American leadership in artificial intelligence (AI). After recognizing t"
     publishedDateTime: 2021-01-12T15:07:00Z

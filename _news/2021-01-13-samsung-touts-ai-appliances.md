@@ -243,6 +243,20 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "Samsung betting big on robots with CES 2021 presentation"
+    excerpt: "Samsung revealed new robots during its presentation at CES 2021, which is all virtual this year because of the COVID-19 pandemic"
+    publishedDateTime: 2021-01-12T23:58:00Z
+    webUrl: "https://www.fox13now.com/news/technology/samsung-betting-big-on-robots-with-ces-2021-presentation"
+    type: article
+    provider:
+      name: KSTU
+      domain: fox13now.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9cc25b4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fd21%2Fef205c0e5ea14d77944cbd6904335118%2Fd213522841fb4f149412ed0aa6b36ee6%2Fposter_a13fb1d4654e4b8c8e720f40a7b30697.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars to navigate around objects like tables and pet poop"
     excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."
     publishedDateTime: 2021-01-11T19:23:00Z

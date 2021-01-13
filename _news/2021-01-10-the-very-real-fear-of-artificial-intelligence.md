@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-arti
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "To make AI a success, every child needs to understand the risk and potential of algorithms"
-    excerpt: "According to the AI Council, the biggest barrier to AI deployment is skills - and it starts as early as school."
-    publishedDateTime: 2021-01-08T10:38:00Z
-    webUrl: "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
+  - title: "No, AI cannot solve every problem"
+    excerpt: "AI may be capable of supporting engineers through the process of building a bridge, but it can't actually build the bridge, one expert said."
+    publishedDateTime: 2021-01-12T22:11:00Z
+    webUrl: "https://www.ciodive.com/news/AI-enterprise-problems-CES-2021/593263/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/13/1d2488f7-7d90-4718-9183-a7ba6a3e36b1/thumbnail/1200x675/3a290ad3c2420e8d73f71b23f5d76141/thumb.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.ciodive.com/user_media/cache/27/bc/27bcc811c31f9842826406ac3603f54f.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "Di8ytXjY4GbTEksozMujLvDk6hVhy7queJxt0u4ZnK4+PrSHPLWWr850V+gIUfZ83QGYtMe4nf5WXjg7DZNxgj7ylqJ6z1X0zBBLVnIy3cPIUUty/YkSoPJp3u5+AJ/R4Tba3MMaN5IAedaPxktaI/HoqPG/ttgCsUGPCEvCgBKftCDABYiZYUkWfjUK4PgX3FpG8aOLttdT4Ow1ykJdt35fquWENXT+cEISyK0WLnFwB6xUGTpfWk3MCqssBsOtKmJ+oSWzpDfr/HgXGVpT0uuSHTVkXxdacAJLzZv4wnLtTGlCjYgnDT0lfc0z/BOegPaPMJ411V/pChplbQEjkTqwctaWk1y5uCOvquhGEwiumDXNck+XaiUyImN9fVR9v/gk7uISDaOD6kcWOicgZWigbn+zITSrk0dP/eBEIaS0I2QiB+FeYZ5gCCAVyl5XN8fhZSvqO0EfgIYwduzE+wpv8OpkFKffj2R+fUUbptXLp+7FyyYmOnE/A6pgS8n35xcnUIcgn0dFfrQy6aSUAA==;DAhRpi3jXHBfbWrWoJbPBA=="

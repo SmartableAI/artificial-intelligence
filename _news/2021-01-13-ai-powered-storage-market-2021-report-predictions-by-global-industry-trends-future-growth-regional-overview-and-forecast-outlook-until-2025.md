@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Data Storage Market Share, Latest Industry Trends, Statistics, Competition Strategies and Latest Industry Share by 2026"
-    excerpt: "The digitalization of the world led industries to generate a tremendous amount of data. As the paper-based work is"
-    publishedDateTime: 2021-01-08T09:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-share-latest-industry-trends-statistics-competition-strategies-and-latest-industry-share-by-2026-2021-01-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "cEtg6HhnYbL8K5nakD1EKnQSFappuHTfHM2HJ/7muq8y45APipy+PM4p+AY1/LQc4Ta12NoKySpSF09CPnLZRM+5uPeINs6gVHapAeU6xNbIdWrQlAnEP6DKQAOyZpEXNHgoGF9b8T43pBu0zxCtYN2VVefPUsoIAxaty4bJv5+OCLHOdBEAlo5dj5p4G18zOGA+xpEnjjarBVzTuBVUt3D5271TqcmT9xzaVVYSg1TNqavKZJr2EPxn124/2e/cQk7pxjNyCLpEOfDt9ezJBfa5IWhOPfDxS/MYXq6EC7aoI3bbk8oqAbSkX6zPJhMbqxIqc1Ghypy9oXzvaGQvqQr+qCB0OFYtRBk2tkCwOQU=;TLElwKPwBvYLQ7Jv+Hzuog=="
 ---
 

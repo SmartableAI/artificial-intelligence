@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-12T16:03:00Z
 originalUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
 webUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"

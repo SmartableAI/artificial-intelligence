@@ -1,26 +1,28 @@
 ---
 category: news
 title: "CES 2021 Taiwanese startup STO's indoor map bridges the gap of Google Maps"
-excerpt: "PRNewswire/ -- Spatial Topology Technology (STO) is the only indoor map platform embedded with both indoor positioning and"
-publishedDateTime: 2021-01-12T14:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-sto-s-indoor-map-bridges-the-gap-of-google-maps-1029960237"
-webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-sto-s-indoor-map-bridges-the-gap-of-google-maps-1029960237"
+excerpt: "PRNewswire/ -- Spatial Topology Technology (STO) is the only indoor map platform embedded with both indoor positioning and navigation systems on this"
+publishedDateTime: 2021-01-12T14:18:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-stos-indoor-map-bridges-the-gap-of-google-maps-301206490.html"
+webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-stos-indoor-map-bridges-the-gap-of-google-maps-301206490.html"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
@@ -50,6 +52,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
+    excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
+    publishedDateTime: 2021-01-12T12:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
   - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
     excerpt: "New Garden, a Taiwanese startup that is a leading AIoT cloud to edge solution provider, has taken advantage of their previous success of WiFigarden, presenting the new ULTRON co-creating and sharing AIoT ecosystem."
     publishedDateTime: 2021-01-12T20:50:00Z
@@ -68,6 +79,20 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 26
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "CES 2021 Taiwanese startup VoiceTube found the ultimate equation for efficient English learning"
+    excerpt: "Launched in 2013, VoiceTube successfully created the biggest English language learning platform in Asia with over four million registered"
+    publishedDateTime: 2021-01-13T01:32:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-voicetube-found-the-ultimate-equation-for-efficient-english-learning-301207056.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -102,6 +127,6 @@ related:
         height: 315
         isCached: true
 
-secured: "qjB5vGiviwvAZsDU9SsJXFPJ+L3sEnKbpqh8HRaSz29lkK9CWfPMWmDKp6vIzNKV+gPn/71Xawfb4ug6JYDveuiXOF2EobRpzP7/GXFt8ytoJLnUCEzMFdU202veKyY3s83Y8TWer7bpdxZJdbFIVnf0OPiCcvYONDwNGklCLQvh8BZDSJJZ8bjUFI7requeLhV2URcZ6qM0xJWge/oal/YeawpiWESlNUmPGObdDVodIa0nhy4D5WWG3hJcpOeJD6PMFV4Kf0u46XNj0mvRGRXpiYeURNXFGhs6HtAZXIQfTxeU2RYTGJSM6M7xjHwTdFPiAnMZh0Vt6yxROD4Hbx+f1IoaJqRirtli7nRSEv8=;UkZBIBpz+WQUeot4kZQzzA=="
+secured: "phE+ADHh+EhwINOZ2rS8AkrtPPVy0MUaPU9A8Q9CHFEtWz/DglmFi0T8RXp2YYcce0XFLtyntOEVa3cYRSfHUI5YLiIglrE1DlxUW5CH6SzINi7q9s69sdx7dg8iola8CUIsLt7UhxmeRjlIl+QRO3+l2fROyryd6uy+6xIJOci8tlpaQcSn5F0PbAfbvVGHsTcnWF/Mxm/FF/v148ybdS1M3QlkrcJLSWnBxiFB7zMqIi0mGNUfIa4ACV4NSu13RKMb1w8oTrDc6ftvq+fwLJzZQBlwEX0sI/kED6f3fvGv/xKt01w9d5z+zNo7TVrjobIYvcv/FOEpb3cTcLLKIjqsXLEtfeuDsf84Hliuw4s=;m1O81Q3cyJTEiGrE5aQdJg=="
 ---
 

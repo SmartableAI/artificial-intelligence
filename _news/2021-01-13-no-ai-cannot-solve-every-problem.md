@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Lack of Sleep Could Be a Problem for Artificial Intelligence"
-    excerpt: "One of the distinguishing features of machines is that they don’t need to sleep, unlike humans and any other creature with a central nervous system. Someday though, your toaster might need a nap from time to time,"
-    publishedDateTime: 2021-01-09T21:49:00Z
-    webUrl: "https://scitechdaily.com/lack-of-sleep-could-be-a-problem-for-artificial-intelligence/"
+  - title: "The very real fear of artificial intelligence"
+    excerpt: "By 2030, thousands of jobs in India, including those of call centre executives, translators, bank tellers and secretaries, could be lost to intelligent agents and robots."
+    publishedDateTime: 2021-01-10T14:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
     images:
-      - url: "https://scitechdaily.com/images/AI-Sleeping.jpg"
-        width: 777
-        height: 507
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/10/industrial-robots-in-japan-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
 
 secured: "KGMVum1+LWbagHjeGLcYeddMumCp/JGLJ6ELJmWyziCFvEu2n09LTHl+BBlCFDmvrvTbX2Du/9Jf5z8CtMVb14HfpTM9zJfG3zrVrH+dkGNmhsmcGRONWE+DE05WKfsw7Fo5DjOK8EN8KCWuc5WN8kLzafhldbLFCbso0upVWdHsNPoovfN9u8y0lvVqgvdy8R5n1RMnH82t6RraH09qSmKIhirQDvwOy32nhg15AnU0nmNyXNui7oFvG0KiTtuoHHzBMbVx79KOBai3jEoAlt6CLP1oh1FwbC4HmszL4gkcQqIAozwofQ9ur/ibiYtT5SqKz+vaQi4XXQeaLY/HqigGO33ZcZQZ4g+2X8swpOM=;uMhKZyqkk9W448hQwUYSfg=="

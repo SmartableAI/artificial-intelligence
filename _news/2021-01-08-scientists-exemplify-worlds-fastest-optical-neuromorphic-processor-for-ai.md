@@ -38,20 +38,6 @@ related:
         width: 960
         height: 719
         isCached: true
-  - title: "Researchers unveil world's fastest optical neuromorphic processor"
-    excerpt: "Details have been published in Nature, and the breakthrough is seen as representing an enormous leap forward for neural networks and neuromorphic processing in general. Artificial neural networks can 'learn' and perform complex operations and are inspired ..."
-    publishedDateTime: 2021-01-08T10:48:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/researchers-unveil-worlds-fastest-optical-neuromorphic-processor/233440/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 24
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/233440/neuromorphic.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
   - title: "The World's Fastest Optical Neuromorphic Processor"
     excerpt: "An international team of researchers led by Swinburne University of Technology has demonstrated the world’s fastest and most powerful optical neuromorphic processor for artificial intelligence ... leap forward for neural networks and neuromorphic ..."
     publishedDateTime: 2021-01-11T14:13:00Z

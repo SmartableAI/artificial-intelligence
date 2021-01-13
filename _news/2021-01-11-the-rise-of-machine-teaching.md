@@ -48,7 +48,7 @@ related:
     provider:
       name: Center for Food Safety and Applied Nutrition
       domain: fda.gov
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
         width: 1200
