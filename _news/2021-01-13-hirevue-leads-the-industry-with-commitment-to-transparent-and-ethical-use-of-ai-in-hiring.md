@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-p
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Exploring Trust and Acceptance of Artificial Intelligence in Healthcare Industry"
+    excerpt: "Cheddar is joined by Dr. Jesse Ehrenfeld, Chair of the Board of Trustees at the American Medical Association, to talk about trust and the impact of AI on healthcare, especially amid the pandemic."
+    publishedDateTime: 2021-01-13T00:00:00Z
+    webUrl: "https://cheddar.com/media/exploring-trust-and-acceptance-of-artificial-intelligence-in-healthcare-industry"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 49
+    images:
+      - url: "https://img.chdrstatic.com/media/7cdc3d1b-4e24-4f2b-8009-4d2695a6a6a8.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6KXvNcmXAk1bU+dlICpf5ps+GLuctdHF8WGqkVypoTpebp3XZEiaTWj7OJBrj7MWIHxPl66N+ve/KJZTEo6ylJCqD4qoWJPGDiGy3Fmy+T23Tlm/fUxx99RxpQgs7xffKXHHsL6c3pnn7ND5zfGv4WeDwALXrjY80Bv8zUtSqCpB+ufI90AWVpVBY6dQ/Bvvg5pBrL6dCrxXw3vFuRbjs12Cf6cVhc2auuF/PMlmLsSmiU59Tg48r11hhyuAcYvJg97vF/6E6nupckgTq2Aj0D4OweLdH6YkCjfssHmCi+pyXUfJEdkSXyISbumsFDsw5n6b/YrNNYOzPzjN2nvQx1+KkoZn2UvxT9MuQBGsaZU=;zn/Isxi9Ovllf/oSHdzMyg=="
 ---

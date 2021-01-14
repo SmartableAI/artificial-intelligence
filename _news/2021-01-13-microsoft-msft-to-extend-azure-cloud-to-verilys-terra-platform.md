@@ -40,9 +40,9 @@ related:
   - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
     excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
     publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
     type: article
     provider:
       name: ZDNet
@@ -66,6 +66,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/verily-768x431.jpg"
         width: 768
         height: 431
+        isCached: true
+  - title: "Contentsquare partners with Microsoft Azure to accelerate digital transformation"
+    excerpt: "Contentsquare partners with Microsoft Azure to accelerate its growth, drive peak performance and underpin successful innovation."
+    publishedDateTime: 2021-01-14T01:03:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/14/contentsquare-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 49
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth | IBM, Google, Amazon Web Services, Microsoft"
     excerpt: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth \\| IBM, Google, Amazon Web Services, Microsoft iCrowdNewswire Jan"

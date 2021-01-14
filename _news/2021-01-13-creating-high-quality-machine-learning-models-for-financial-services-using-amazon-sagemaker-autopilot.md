@@ -58,17 +58,6 @@ related:
         width: 544
         height: 382
         isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Jan. 13, 2021 /PRNewswire/ -- ElectrifAi, one of the world's"
-    publishedDateTime: 2021-01-13T17:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
   - title: "Hosting a private PyPI server for Amazon SageMaker Studio notebooks in a VPC"
     excerpt: "Amazon SageMaker Studio notebooks provide a full-featured integrated development environment (IDE) for flexible machine learning (ML) experimentation and development. Security measures secure and support a versatile and collaborative environment. In some cases, such as to protect sensitive data or meet"
     publishedDateTime: 2021-01-12T00:54:08Z
@@ -97,6 +86,15 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
+    excerpt: "Delivering fast and reliable machine learning business solutions ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre built machine learning (ML) models,"
+    publishedDateTime: 2021-01-14T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/246999"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 43
 
 secured: "RjS2K7VMD5lTO/Jq63wzFt/J1pUGyZmdL461seP1/DKn6X7NmFgJEk0ju3TiJXz6lqc/9ec+24967DgVnYlmsMRx3am6wQXregyq+nz9EkrfZmihgHjwkIe2CjZ6Mgn5ksP7K5s7ATbqzVL5auuH5vuQMPxwUYOQgXFmaySHot3jDhTAzZrda1vV34fKLjL1/lcDEPrWoB40w3zLFgmr8QScxpbqUlksGdhkjDy/TFSxh93PCmbd0E+pnFaYTQ0eUIHOsdl7ND6Z0DAJxwEEGX+bLM1eK6iOYebrvSknFVk7p95l20YRVb6vgTZTSPsH+Ygxa6429KjmeVN+9M40OF4dRPItDSDliBDvpO//POw=;iqFomCdC1lAJ1pBPLd9z7A=="
 ---

@@ -44,17 +44,6 @@ related:
         width: 544
         height: 382
         isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Jan. 13, 2021 /PRNewswire/ -- ElectrifAi, one of the world's"
-    publishedDateTime: 2021-01-13T17:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
   - title: "Creating high-quality machine learning models for financial services using Amazon SageMaker Autopilot"
     excerpt: "Machine learning (ML) is used throughout the financial services industry to perform a wide variety of tasks, such as fraud detection, market surveillance, portfolio optimization, loan solvency prediction, direct marketing, and many others. This breadth of use cases has created a need for lines of business"
     publishedDateTime: 2021-01-13T20:15:41Z
@@ -97,6 +86,15 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
+    excerpt: "Delivering fast and reliable machine learning business solutions ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre built machine learning (ML) models,"
+    publishedDateTime: 2021-01-14T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/246999"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 43
 
 secured: "by1N3EWcBWFTsE7G1c+mZLKBT5V9EdFGcC2ZjSVcq4t7d3ZcIwdMDFM+4nJKgkGL67uJ10P2ae+zgtcZFyQuspt+Gsy1KSkvdZy4Yh+Lu1ElYb4Mb89ZJ/1t4mGB41zQ5paGaRW/XFHycPjDnYqF1uVEM8MH/a0SZ48612XlHbjOkPyXCPWIKdQoZlUH0+wSyrSCX1fgsqOQLJTTvKbxBQK7XlKCiQZ0ujwDW/goCXS2iWzSkRtS3e7SCoEgeO6EQGRky3fijY1v14vBpMmXAnVyw1QFrNU8O0iY//tTvwI/S7fBYL9ye3fLykNw4Fb6G5AYoP8RcoRV5lwK5yNMb/c7pOWwOSptAG+3bmMsaWk=;3Y3SJkRPQbl5lgX/ObHsfg=="
 ---

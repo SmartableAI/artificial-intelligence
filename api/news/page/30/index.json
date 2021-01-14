@@ -2,57 +2,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_news/2020-12-16-this-ai-from-faceit-may-finally-solve-toxicity-in-esports.md",
-      "title": "This AI From FACEIT May Finally Solve Toxicity In Esports",
-      "excerpt": "FACEIT is pushing toxcity into the past with AI. getty. The competitive gaming and esports world is growing at a rapid pace, with big teams being worth millions of dollars, but wh",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
-      "originalUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8d7971b3a08f6daf80742%2F0x0.jpg",
-          "width": 1200,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
-      "publishedDateTime": "2020-12-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-twitter-selects-aws-as-strategic-provider-to-serve-timelines.md",
       "title": "Twitter Selects AWS as Strategic Provider to Serve Timelines",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Twitter (NYSE: TWTR) has selected AWS to provide",
@@ -1187,6 +1136,50 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-how-artificial-intelligence-is-reshaping-the-healthcare-sector.md",
+      "title": "How Artificial Intelligence is Reshaping the Healthcare Sector",
+      "excerpt": "How Artificial Intelligence is Reshaping the Healthcare Sector  - The healthcare sector is adopting artificial intelligence because it helps build reliable predictive tools",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector--nid-32589-cid-31.html",
+      "originalUrl": "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector--nid-32589-cid-31.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/graph_image/0tsouino.jpg",
+          "width": 405,
+          "height": 247,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

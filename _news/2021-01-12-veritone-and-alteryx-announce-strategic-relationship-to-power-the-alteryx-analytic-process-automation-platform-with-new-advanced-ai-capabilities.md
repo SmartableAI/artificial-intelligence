@@ -28,7 +28,7 @@ related:
   - title: "Veritone and Alteryx form partnership to deliver AI-powered insights from unstructured video and audio-based data"
     excerpt: "The partnership aims to deliver AI-powered insights into unstructured data sources, including video, images, audio and text, to Alteryx customers. Veritone joins Alteryx’s Partner Alliances program, integrating aiWARE with the Alteryx platform to help Alteryx customers transform unstructured data into actionable intelligence and valuable insights Veritone’s AI tools for ingesting data,"
     publishedDateTime: 2021-01-12T18:57:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Veritone-and-Alteryx-form-partnership-to-deliver-AI-powered-insights-from-unstructured-video-and-audio-based-data-144699.aspx"
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144699"
     type: article
     provider:
       name: KMWorld Magazine
@@ -39,6 +39,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
+    excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
+    publishedDateTime: 2021-01-11T12:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 12
   - title: "Veritone, Alteryx In Partnership"
     excerpt: "Costa Mesa-based artificial intelligence software developer Veritone, and analytics software developer Alteryx said this morning they are in a new, strategic partnership. Veritone said it will provide its AI-powered insights into unstructured data sources,"
     publishedDateTime: 2021-01-11T14:38:00Z

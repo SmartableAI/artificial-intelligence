@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-01-05-google-workers-form-new-labor-union-a-tech-industry-rarity.md",
-      "title": "Google workers form new labor union, a tech industry rarity",
-      "excerpt": "A group of Google engineers and other workers announced Monday they have formed a union, creating a rare foothold for the labor movement in the tech industry. About 225 employees at",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/cc67e2f901fa5b59d73b9dac1892d0b3",
-      "originalUrl": "https://apnews.com/cc67e2f901fa5b59d73b9dac1892d0b3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/17e81f3b80454ce3a18704ca68f5133d/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-05-ibm-appoints-gary-d-cohn-as-vice-chairman.md",
       "title": "IBM Appoints Gary D. Cohn As Vice Chairman",
       "excerpt": "will bring unique value to our clients and stakeholders as we accelerate our hybrid cloud and AI strategy.\" \"I am honored to be joining IBM, one of the world's most important companies ...",
@@ -1186,6 +1143,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool.md",
+      "title": "Montreal Entrepreneurs Aim To Simplify Real Estate Pricing With Artificial Intelligence Tool",
+      "excerpt": "After founding a Montreal-based reusable mask company at the onset of the pandemic, Jordan Owen, his brother Mark, and their two collaborators Sean Tasse and Benoit Thibault, decided to pivot toward a completely new project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlmoore/2021/01/04/montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool/",
+      "originalUrl": "https://www.forbes.com/sites/karlmoore/2021/01/04/montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe28ee1edf92d7d6cb3827c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlmoore/2021/01/04/montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlmoore/2021/01/04/montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool/amp/",
+      "publishedDateTime": "2021-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-13T06:59:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

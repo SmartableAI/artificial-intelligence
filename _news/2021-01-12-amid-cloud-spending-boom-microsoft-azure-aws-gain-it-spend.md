@@ -3,10 +3,10 @@ category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
 publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 quality: 136
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Microsoft AI
+  - AI
+  - AWS AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
@@ -73,6 +73,20 @@ related:
         width: 768
         height: 431
         isCached: true
+  - title: "Contentsquare partners with Microsoft Azure to accelerate digital transformation"
+    excerpt: "Contentsquare partners with Microsoft Azure to accelerate its growth, drive peak performance and underpin successful innovation."
+    publishedDateTime: 2021-01-14T01:03:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/14/contentsquare-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 49
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth | IBM, Google, Amazon Web Services, Microsoft"
     excerpt: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth \\| IBM, Google, Amazon Web Services, Microsoft iCrowdNewswire Jan"
     publishedDateTime: 2021-01-12T01:15:00Z
@@ -97,6 +111,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "9tRptN8O3MmWoj7sRIltv3ld98T1TiTB+hTsz6HJuaVpG1McWV9zEZxp99wdaZeFdjJKWSFDmXX8fLRTrd0aH+gAJWeDj1YfAorYFdv6BqdIyQR1c5QVs5mJuaF4WIiNIvr0GaHeJVgC7/f+ORYNzSQhRqIrS4YjwDwxSE5yQn4Pry9+W9RoPppnw1uCEXDcxXI/5Pzw4CC5w+lBEY9QqU8aBlVnEKHHNIJoqiFbfVUf5ooyds8IXFFa98CUxvmI3ndnStvYe7l1fZjlEvnhhUOz5aXPGn0DXHXTW3IXS3hI2oEPLvC05q7yQbwfDbkfrwsWVJLpP0RaE+XjUm5ipJxQ/A8WM3xlub4H3eP/fic=;0vsi5sDjZs9x/6cxJwYTvg=="
+secured: "3klqieYiBAqi8AB7wmAVXrfpEEgoNHfo4GWE/Lr14kaHysId1wUy31DL3GoMVHYr1sY5iQqmWodJVja/fkh43ZB/vqDr5D00Sj2YNwUgyrXuIAXUTfV73uCv5QyikVAXlvFl01S/fSVkraWkeJx6imsWdZQ07Op7Pgk7tuoaYvryTeNZbFSWI0Dj6A5fDRfTu2f7KluJ8NBehEPiYH4KPy+1Moh3SNoaxAeVaDukxtA6lmH+pgOLLY1+Lh/Q6QERIUVpQNusKpRhh6Qv2BcUDeGyBVtPK1HBzKAs897fGX90yuigsJ+wPL+z5Jb5o2utJOF5hbzS9GN3nVnHtq49O0E+3+24Ruw7cKrCPKQek9E=;QksoJgZemt85jhk511B/3Q=="
 ---
 

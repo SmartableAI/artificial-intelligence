@@ -1,30 +1,22 @@
 ---
 category: news
 title: "BeagleV SBC runs Linux on AI-enabled RISC-V SoC"
-excerpt: "BeagleBoard.org and Seeed unveiled a $ 119 and above “BeagleV” SBC with a StarFive JH7100 SoC with dual SiFive U74 RISC-V cores, 1-TOPS NPU, DSP and VPU. The SBC is scrapping the Cape extension for a Pi-like 40-pin GPIO."
-publishedDateTime: 2021-01-14T00:58:00Z
-originalUrl: "https://www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/"
-webUrl: "https://www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/"
-ampWebUrl: "https://www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/amp/"
+excerpt: "Board.org and Seeed unveiled an open-spec, $119-and-up “BeagleV” SBC with a StarFive JH7100 SoC with dual SiFive U74 RISC-V cores, 1-TOPS NPU, DSP, and VPU. The SBC ditches the Cape expansion for a Pi-like 40-pin GPIO."
+publishedDateTime: 2021-01-13T20:01:00Z
+originalUrl: "https://linuxgizmos.com/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/"
+webUrl: "https://linuxgizmos.com/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: run Linux-based Opera TV
+  domain: linuxgizmos.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/BeagleV-SBC-runs-Linux-on-AI-enabled-RISC-V-SoC-1024x819.jpg"
-    width: 1024
-    height: 819
-    isCached: true
 
 related:
   - title: "AI-enabled automated driving dev kit has dual Linux brains"
@@ -67,6 +59,6 @@ related:
       domain: linuxgizmos.com
     quality: 19
 
-secured: "lu/roChPa3B6ctaoYpPZP5/IiSqaEdX5R1U1qrAohmF1VurxhXx2WkQvxzpPL9sHBc3ABIeok0Mft13xZt0ZCUOgFKFZl+j4eemSR8l/GGpPZhuae6CWCb1/m0tPWZ8dx8sRGnfqkuZ/MP6WwJQtaUPSnI3CFrt25sMHCWwaGeT0qplobR+a7O0iYDzFyRY8pImebK3Y33F8dWjB9pm6l8S/JslH3UNce4BOBdMnKCXiWE/5aa5xp1og1gw3nEmsKyNAmir8p7ICNUgCut/degp+eH8neWQ0B3HCpS1LaMxdUtM/JuCB8o01Z+NzoXHs2baXHohuM69arY2waEnuVFD0anfSijSV9L0oAUxNJTY=;9ppjw9EmH9mf4anD58lkXg=="
+secured: "MwKwF6rLpk109ItJpr5Qoq0+LbtCbTDIWMeHT3pZB8+yetWPtjwI0mndE8uzsvf7Pdrv0tyVdmeViKGIuptXlDafqP2u7gfL58ltaIn+KdFfBBnbf0b31fblwJvGLIuaps8TbCQ409wIuW5WDZYPyfD+jcom9ttgyHojDgXF3Q27kz0RRwmZXMT0aYY7cuejNvlHJkysFgOkRpRzOOq17HJ5Y/JLP4PJZ5MDzXSF3xg+jfA/khEwcag4oqvt8gClHd8c7lXTEjehBaTxfcbAutACgoJTYzhcv1XaKWFRP1KuUt8uCyjSrEJmUr6j0Hs2KU6H+7/06w3TQp5QEVLmmHfkCobnelwzmvgFFbtuWSOAFMQA3qlMB+CToDD8VyQR+UzjxteLSF3Ru7IU6QAU3cp78vXG3QYuL3/yGUP0mwHQVzhyIOXFZx8JVW/QhX8fwWNpeXq34n9+sciUzFbDXFO66/2Ywj6OWFndY4F+h7oxtyucVPohBjhnTEOyB2d6V8c/hgd3YHRU/8LMPKgLUg==;Y+qfkYxYixUIWG4HMjbkpw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-13T23:18:00Z
 originalUrl: "https://www.biometricupdate.com/202101/ensuring-facial-recognition-is-a-force-for-good-with-corsights-new-privacy-chief-tony-porter"
 webUrl: "https://www.biometricupdate.com/202101/ensuring-facial-recognition-is-a-force-for-good-with-corsights-new-privacy-chief-tony-porter"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-1024x575.jpg"

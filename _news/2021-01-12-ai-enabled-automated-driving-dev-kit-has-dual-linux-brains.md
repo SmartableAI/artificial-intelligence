@@ -35,22 +35,6 @@ related:
         width: 1024
         height: 819
         isCached: true
-  - title: "BeagleV SBC runs Linux on AI-enabled RISC-V SoC"
-    excerpt: "BeagleBoard.org and Seeed unveiled a $ 119 and above “BeagleV” SBC with a StarFive JH7100 SoC with dual SiFive U74 RISC-V cores, 1-TOPS NPU, DSP and VPU. The SBC is scrapping the Cape extension for a Pi-like 40-pin GPIO."
-    publishedDateTime: 2021-01-14T00:58:00Z
-    webUrl: "https://www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/"
-    ampWebUrl: "https://www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/BeagleV-SBC-runs-Linux-on-AI-enabled-RISC-V-SoC-1024x819.jpg"
-        width: 1024
-        height: 819
-        isCached: true
   - title: "Orbbec’s 3D cam dev kit runs Linux on Amlogic A311D"
     excerpt: "Orbbec has launched a $143 “Zora P1” development board for its cameras that runs Linux on an Amlogic A311D. It also previewed ToF, industrial 3D, and Astra+ 3D cameras."
     publishedDateTime: 2021-01-12T18:49:00Z
@@ -65,6 +49,15 @@ related:
         width: 350
         height: 236
         isCached: true
+  - title: "BeagleV SBC runs Linux on AI-enabled RISC-V SoC"
+    excerpt: "Board.org and Seeed unveiled an open-spec, $119-and-up “BeagleV” SBC with a StarFive JH7100 SoC with dual SiFive U74 RISC-V cores, 1-TOPS NPU, DSP, and VPU. The SBC ditches the Cape expansion for a Pi-like 40-pin GPIO."
+    publishedDateTime: 2021-01-13T20:01:00Z
+    webUrl: "https://linuxgizmos.com/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/"
+    type: article
+    provider:
+      name: run Linux-based Opera TV
+      domain: linuxgizmos.com
+    quality: 19
 
 secured: "2zlSffU+HukLQp2B5nUzeOUSya9D2oNsI9ogF/N/jGW5a4uqtzo8dvqiGvCsKHwAn5zynrko8M6Cd7OlcA817lSQTHMIAxqnUkqCIjvjp//sxLMcIkrVi2eoxpftjTd6Y5L2RnaPs1BtOe8k3HezcUGUpo5R7B/9XY3iGSKLGEmWVSZgzpcX76PVOLtcVacvTzaHRHQonsFyOE5R+5R2naR8ojHjuYCzeJb+2c7TqRWI+VQXWBjBpwRGj3YHMNBuq5DZbGydlly1AY7C/QNLSnXtgoxUE+Ea8z5KWTRrciBFu1no9kgiV4OUmRvnlxJsOtoaOwwUaiyqjlmGuTJ7iyomKH6S0fqTYdWXNZu+9/861+sUu3GRNiHIazHQmbYYQWSIFt9QvRXXYF4GvG/YfFKMZskhrBafuADqtht5WrK5IdNnxXwcz/Wceet3OBPbcHgnhU7cXBKOOTh7COR6k1q/BgLvwN1LKaXYyVG6CONFU6fBkKETu/XDoSUirWvctUqe7/r+Z0nbH+z5j6+2JA==;jXNEQyjIKTlx/Q0cM+j1HQ=="
 ---

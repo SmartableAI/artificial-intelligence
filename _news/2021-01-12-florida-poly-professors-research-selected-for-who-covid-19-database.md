@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Florida Poly professor's research selected for WHO COVID-19 database"
-excerpt: "Dr. Ajeet Kaushik, assistant professor of chemistry at Florida Polytechnic University, has four research papers featured in the World Health Organization's database of"
+excerpt: "PRWeb/ -- The World Health Organization (WHO) has selected leading-edge research on fighting COVID-19 by Dr. Ajeet Kaushik,"
 publishedDateTime: 2021-01-11T23:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/p19113271/florida-poly-professors-research-selected-for-who-covid-19-database"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/p19113271/florida-poly-professors-research-selected-for-who-covid-19-database"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19113271"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19113271"
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19113264/florida-poly-professors-research-selected-for-who-covid-19-database"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19113264/florida-poly-professors-research-selected-for-who-covid-19-database"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19113264"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19113264"
 type: article
 quality: 24
 heat: 24
@@ -20,6 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "tNaaLQBJw3/VhlaOlIIbQFfhcs8NMRpPBqvTqas243TlCJGhzQbPiz9cL9HlIXXiyBU1wJ34ygUAl+B5uA3vVBYjKqqMe6RKhMHaZwJDJ4YyFTNAeMo9NfvTQ5J9nnPGaMzQm+7ZKZ6tvolNDWSTbufrGShTGFGuYlL7aZx6LX0yia3iAmkBlQMI4zup/pdQvnLa7lWD9iVSfer3MRPFakaS5GXBkAys/JQBjBCGdVsIZ5oZt9TtwqwJdiYkK7pCRxpRfevQICVHoqJe8cuPwLqkapx+79T3wgs1rrzi20ShEyuXszumoV8OTsMLBGiDYZYpWOd+24YHR2AWFAyoR2mnbLGYQ3Tz0AiTgPh8luY=;d0Egxx5UIRkwUgSn9/9jiQ=="
+secured: "RbJ0ZGwhyBpShleuCMLbDVA1FAKiEcZTTReUNs6swAQ1CP2bM0IyN+GH1aJ9Z9Yf7fi1PKqY1C+DMsDDTOst9N1Xk5MHEDmc6mdpJTHqziZmPnsWcXr7BttN0FIZDwaQtY1TkAZTHh/c0qG+ev6oFv/PP0D8VEn56JLnvIJ1eaWYE/qZqc14BHtXhX72/OSJC3Tx6AtG5vQWfiWHrlzJbiPdrPnmWyM9g6OU1ERhk7AoOadbQdEfiKeTJ2lcvEVpSJAX54q6VIX7YI22MIfXtI5PzbQQqOcb/t9q0BODzyIaq8VWGH0xHNLijny3RrXzzT7ccCS6AfazYIN253eEw0lZZC2TWQwtodRYW6oIOss=;4TI28s0fX43B3KfKnDFQdw=="
 ---
 

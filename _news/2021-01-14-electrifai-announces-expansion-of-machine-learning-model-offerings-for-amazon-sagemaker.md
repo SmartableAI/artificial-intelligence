@@ -1,24 +1,18 @@
 ---
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Jan. 13, 2021 /PRNewswire/ -- ElectrifAi, one of the world's"
-publishedDateTime: 2021-01-13T17:51:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-1029964302"
+excerpt: "Delivering fast and reliable machine learning business solutions ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre built machine learning (ML) models,"
+publishedDateTime: 2021-01-14T01:00:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/246999"
+webUrl: "https://www.ryt9.com/en/anpi/246999"
 type: article
-quality: 93
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Machine Learning
@@ -97,6 +91,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "kOek/LWgW9K7YneGfFX3B/PWbQRj1QP56VIfVzvCICrxXwXkcD6vnEYwhntrJDPqc5LaPMbOY57QvkWZRDxUUKp2rO1m6l+nhFv1+yUTNQFgsBileF8gdvqRt1UX7UV4Wz/mbVmoQJIXZCeIuSqy9kbzig7232aEVvpmys03JQitu9G0uEF9i/XG0eoJhl25b+zOaQYnz8qr3ZIJw4VPNevpZVTlyw9EZH2ivZ+lTscW1ZI6QVN7GQ+1BM85qhTbTU5eH28wsIZJtWg5de4OpGiZxnywTLlp9AkRPS2kulRGn9OTCLWRJELIOAz5C8Lm3MdsiFjHIIwl4FuPVwOjunjmVVtjgF53PprlOSpOz2M=;M2yZrqMCZ+p83GuHui8cqQ=="
+secured: "uVfkcEB0MMAkXz0NqVg/+3e+ACgHjvd5VuZqO7zzh3kJ0g13RF4t54sTNvbA2mAqbwE6m0n9rgejKH1GLXxML9EG0LBd9rNG91av0SoSjuURBqnguMDPAq8+ZkmRfrcKowZLPT0n2oaCH0PcePn2Frp5a2FeMDReF+3LswZDpNl9PuWpCI1zZDdy8NRxnzuXrYAUpHYINFD/Bfw/pNHhv6rWSFCUGKetzA/gDLPogv3+gHJy4ZoPgW/XA9q+/tNQxc3pFikw+LFQojiACCjqCCbKp/QmXaUN7hDqP4+iCY6vEQg7iyBeBZPelzAGxOmNi8KXDySun2OJ10nCrN/FHssZQgDopnuzc/kLa7UykUc=;PSHjWdKRL7+c4gCsdqD53Q=="
 ---
 

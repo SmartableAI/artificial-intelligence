@@ -3,8 +3,8 @@ category: news
 title: "Veritone and Alteryx form partnership to deliver AI-powered insights from unstructured video and audio-based data"
 excerpt: "The partnership aims to deliver AI-powered insights into unstructured data sources, including video, images, audio and text, to Alteryx customers. Veritone joins Alteryx’s Partner Alliances program, integrating aiWARE with the Alteryx platform to help Alteryx customers transform unstructured data into actionable intelligence and valuable insights Veritone’s AI tools for ingesting data,"
 publishedDateTime: 2021-01-12T18:57:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/Veritone-and-Alteryx-form-partnership-to-deliver-AI-powered-insights-from-unstructured-video-and-audio-based-data-144699.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/Veritone-and-Alteryx-form-partnership-to-deliver-AI-powered-insights-from-unstructured-video-and-audio-based-data-144699.aspx"
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144699"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144699"
 type: article
 quality: 18
 heat: 18
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
+    excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
+    publishedDateTime: 2021-01-11T12:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 12
   - title: "Veritone, Alteryx In Partnership"
     excerpt: "Costa Mesa-based artificial intelligence software developer Veritone, and analytics software developer Alteryx said this morning they are in a new, strategic partnership. Veritone said it will provide its AI-powered insights into unstructured data sources,"
     publishedDateTime: 2021-01-11T14:38:00Z
@@ -49,6 +58,6 @@ related:
         height: 450
         isCached: true
 
-secured: "LODd+NqFhtVLolU/iv301RIhBImidbVIq9TyykJQuyNYpLCKnXrFs1PMfZcx9VKDcI3JZSyVi8xjx8OY0TqLJE3KP5J2VyBMJyjOy4vbyskW48+afGUA3XqZMdSlkUm3R73HLPvzmr8971vFKAuzO1iiLckUsQKi2gPviDFom4GWoae3jAaABk7v4AfWEURIipPmK4QXCa3LSmsfTFpug+XAMYcnVHYUVKITmRA3a9vSNJu4uioGNLSBDT6Cv4MKk5SCQdKfIHCftiaHVypTxa3Gpdfp59IQ6criCcc/uxB2tVduzkkmCipyf90gmqqsibIU3N6LYijsMGqW8Z9pFzcKxebkUyuErpONSB5GFNY=;1MmC3AOLcpDUwG8CYz6lSw=="
+secured: "IRTzX+tH1Fb7VojEWRixOnbQOMNmZVm7hpmDOhjZfPTdOmmgoRnDARxr0X0Bkn9wrO6nPecu9O76xiJrrcRcsNM8i33wgYptI3WfTkfrH2cdOzTdhkW+pav7bG538htRFXdtya34xg6QxWOQC0c0R416sHNC/0DEiIiWXsDpr6cZSa7estFTx07sR/5ARb89G7b8Ithg4zn0ufXJSkiscPDBdYzfDUPEX9okcf2PTWrp3RBpX55D13QgxEePfMiBYuBFioFTGusDtJQTwxPHFWiCMj/knQpcesa8X8INUeYrC1baW0HXisRHqkH+v1iZpbfdB7Wgg8uoAAfJ5yExVVwIv2TPiJLh/crDEeVrVdA=;t+erJuwQXHpaKub5B2NBXw=="
 ---
 

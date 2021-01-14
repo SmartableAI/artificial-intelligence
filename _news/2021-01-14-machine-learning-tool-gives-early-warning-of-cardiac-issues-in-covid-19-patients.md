@@ -7,7 +7,7 @@ originalUrl: "https://hub.jhu.edu/2021/01/13/machine-learning-predicts-covid-rel
 webUrl: "https://hub.jhu.edu/2021/01/13/machine-learning-predicts-covid-related-cardiac-arrest/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 1600
     isCached: true
 
-related:
-  - title: "Machine Learning Tool Gives Early Warning Of Cardiac Issues in COVID Patients"
-    excerpt: "Natalia Trayanova A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors"
-    publishedDateTime: 2021-01-13T18:44:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-tool-gives-early-warning-of-cardiac-issues-in-covid-patients/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://releases.jhu.edu/wp-content/uploads/2016/05/NT-Este.jpg"
-        width: 366
-        height: 524
-        isCached: true
-
-secured: "wIJeCLwe8iuWprAi8m4N+Gj+GO/umlnAWBsRwFa9lEdMC5GrRkiwe9aL9tBeA44S9wAEll+BNEuG7xQJOZeJjJpkUdM8grE1uvDbmqRN8w0TNCIOL0CCOaAhBys94eq8k+IxfQMVRcgmwg9l9VOfDQsMv+O9nTQz/6/tCQEZ3PISvaQEtTETd6bN6KF955yiSAofSQ26IVNlZaJNmUyqzfd0+L6lyFwrT/GV+VkX3bprExCDvZ4qQ4jWyAkiPOsnb/UFk/BC23tNr4ZkmlMdChEbq4GvP+lLBI/tpwQVRmMu1ptdgZ/bY+Z1QbzoRpfZrxgbyxz22Cv9eySnm3eNf2/MQwrbarzjRVtK7J6wHaA=;uYSv2ctkmRUplnI4Wz2Mzg=="
+secured: "4XmMgcJwE9Xr0ufYvo/gueOL647Quv6vx+sR5bYJtpt4KzIXTUBwqdryupiPYhLaf6c3EZ9ubpeiCRBwFOfonrxOy53sicS0Iu0kZUoh6+QRzaXmAgNKPNJLx3z82RfSKyCdl12f20oOajA0wv1jqg4DX0GoMS2nayfi1h1yhh9Mzz4B9yOZvXsZCqePTpLYtcQzJH7rgWDFolqZXjK/R81QmpC5MHyqFhj8g4KefIoeEOlsJxE/Zvlce3TRyytl5lODzXnxgSo7h5CMmXKg/2bRiD4I886QZ/QsnrbjyZzVbKgXhmLixvyLXsgqniARhO4nBmPO0hHYSYvdFlsUecVDp5b4/DjtJMQ7Q7Ke/wO1YUVXCzmTXrpGgxFI8K+8Y+4vrtl+JmOvEo6QTcEOfwjvR0+wP33LyTOV67ZIw6t3bsK1lasgfdz197cFt1q2940rrxQ5BTv8OWIppD1TodPHApwNw99pLqF2nFLa1ORWTV1sVqyQcMLupdd8iqi3oLhHs+J8ooOeW8n7MKoDsg==;SViqS2pJy6Fs0fGGvuEBhQ=="
 ---
 

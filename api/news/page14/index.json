@@ -2,84 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-12-31-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
-      "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
-      "excerpt": "Artificial intelligence packed with more than a ... such as those developed by Waymo, which began in 2009 as the Google Self-Driving Car Project. This fall, Waymo introduced a fully driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.html",
-      "originalUrl": "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html",
-      "publishedDateTime": "2020-12-31T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
-      "title": "3 Machine Learning Stocks for a Touchless Society",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips The sheer dominance of technology in our lives this year has directed",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-for-a-touchless-society-1029926739",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-for-a-touchless-society-1029926739",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/3-machine-learning-stocks-for-a-touchless-society-1029926739",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/3-machine-learning-stocks-for-a-touchless-society-1029926739",
-      "publishedDateTime": "2020-12-31T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-12-31-how-israel-brings-together-robots-and-ai-into-a-lethal-combo.md",
       "title": "How Israel Brings Together Robots and AI Into a Lethal Combo",
       "excerpt": "On the back porch of a rundown building near the sea in central Israel a plank leads to an unlikely machine. A robot dog is surveying the area, preparing for a mission. Alongside it, like a sidekick,",
@@ -172,6 +94,42 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
+      "title": "3 Machine Learning Stocks for a Touchless Society",
+      "excerpt": "The sheer dominance of technology in our lives this year has directed investors’ attention towards machine learning stocks. With technological advancements taking place every day, investors have plenty of opportunities for some big gains in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31",
+      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-machine-learning-stocks-for-a-touchless-society-2020-12-31?amp",
+      "publishedDateTime": "2020-12-31T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -1153,6 +1111,57 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/amp/",
       "publishedDateTime": "2020-12-30T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai.md",
+      "title": "Humans Are Still Needed In An AI World: How Your Business Can Best Leverage AI",
+      "excerpt": "With all of these technological advancements attempting to make our daily lives easier, how do these advances specifically affect business leaders and how will this technology shape the way they do business?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb37cc8aac85841b727e82%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
+      "publishedDateTime": "2020-12-30T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
