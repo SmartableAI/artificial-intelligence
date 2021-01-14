@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-12T16:03:00Z
 originalUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
 webUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
 type: article
-quality: 154
-heat: 194
+quality: 156
+heat: 196
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
@@ -82,6 +83,6 @@ related:
         height: 630
         isCached: true
 
-secured: "LLv4HI0r9VJBwavGeRTpQoiSQ77CipCBzD605aRN8KXv3Hb8DiFZiRFYrdaTo+oXbgUonn55hXrrh9YgW9e0XJedheucz8OOTCMmlaQI0Ev8ymu4z0NRrcdBoICTvlY+CzNxNKcwItjcfJ7bE6qixRZNQNE3/fuSLJsTJT2jxPNkvm2YqW9cSAEkPYL6eJSlMuv63xYcDhDvlYg5b8jwV214k6FH/5fjJj5ux36bqVQHO4T3nmFDyPYY3abT7v7Rfr9zb2FqCWrcsL/6YMYr4hTDDAxf90LSaBdYQ3jg5I0rs6185Cj+0kploOpYl58B30Sikh0btgnKyf0TCqs4bL8YgUOc0LjrfqlJXnviR4I=;a3e+LsWZfywxC1GbNlsYnw=="
+secured: "mN54T8k28iXsTdPbn5xTWbSUXuqA8k3sqOtE5awAW5EydKmDPJqKz9x9FeprLyLh0HXkyp2ocmTkJbLnby2Hvaj21uwePdcf3Pcy4wh2bd5B0eaXcQ2WSPEC0i8xHNzxq1q2s9IDX0AxpsYoZRppltz3QAT1VeXOkNr9Xl4zsT+jTk2m2aB1Oa/WzCt9Ffo+Wyw1FkoCyvgZJjFqoJKnOjZCXpjvSOtB59Rc/5C6sHOKFPCcQnIE8dKRzz4TOcbaA63qrbbacsPNLP6v9OWwG8sOtHHv2el7k8w/K37EjjfaitHeYcZiBSRWIlSHq9PvQ2F3W/beWwHEkjKcSmlU2rU3eCT7RYzJRVkm16aPiHs3MYd1iXHEPJW86LzK+W4L;8D9Fo4mYhUUOMEoOAaJaoA=="
 ---
 

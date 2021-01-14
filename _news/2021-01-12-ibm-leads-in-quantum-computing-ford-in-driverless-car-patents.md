@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 53
-  - title: "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy"
-    excerpt: "Waymo LLC has raised a further $750 million ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than expected ..."
-    publishedDateTime: 2021-01-09T23:59:00Z
-    webUrl: "https://br.advfn.com/noticias/DJN/2020/artigo/82437841"
-    type: article
-    provider:
-      name: ADVFN
-      domain: advfn.com
-    quality: 51
-    images:
-      - url: "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:GOOG&p=5&t=52"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM leads in quantum computing, Ford in driverless car patents"
     excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
     publishedDateTime: 2021-01-13T01:40:00Z

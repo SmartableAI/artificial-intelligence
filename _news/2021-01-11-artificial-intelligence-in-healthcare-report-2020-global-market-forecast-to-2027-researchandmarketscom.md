@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning and Artificial Intelligence Integration Drives the Growth of the Global Natural Language Processing Market at a CAGR of 18.4%"
+    excerpt: "In 2019, the global natural language processing market reached USD 9.2 Billion and it is expected to grow at a"
+    publishedDateTime: 2021-01-14T15:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Global Cognitive Computing Technology Market is Poised to Reflect 35% CAGR by 2023"
     excerpt: "According to the Market Research Future (MRFR) report, the global cognitive computing technology market is projected to"
     publishedDateTime: 2021-01-12T22:47:00Z

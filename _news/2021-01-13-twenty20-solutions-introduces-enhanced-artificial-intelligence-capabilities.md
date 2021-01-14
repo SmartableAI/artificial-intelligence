@@ -20,29 +20,18 @@ topics:
 
 related:
   - title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
-    excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and classification capabilities designed to maximize operational efficiency for its customers."
-    publishedDateTime: 2021-01-13T20:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
+    excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces"
+    publishedDateTime: 2021-01-13T20:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-301207883.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
-    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
-    publishedDateTime: 2021-01-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Twenty20tm Solutions Introduces Enhanced Artificial Intelligence Capabilities"
     excerpt: "Twenty20tm Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and"
@@ -58,15 +47,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-    excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
-    publishedDateTime: 2021-01-11T12:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 12
 
 secured: "pkZZCmv0KkzuqVPjIjEO6/OCFZ7LdgAtdiFVDfsdCuM3G3wsdvj/inCa6NsqH316xsNNNmEsxxrbjkwoob/QZeOj5SUiZ0Tqdp2h9vhoMhzc1HEU3FcCA2CPJoVlFaKK4AiIKjQLm6oudafZi/SPhqTQ2+Dgeqaw0PXYtcMOVVI05FTPbxrPo2fhuAGlfeEP3qzoSF79YHBAU4S1paLWjD2i+PaXrhewdw6/VCcsjh6zvHMbmkaKDHaLPIk1Eh7x3S8k3VSxTbn0eERLvXRNhbcpT+LX+wYLBVxplYDGJtP0JxkoICW2rp3W50zLjdHt0h8N1HgdTkBnnZHFwmghmEx5ZTnJ9SQpCbrQA5WbRYc=;EHzEKFlE5v5r3UDhqrjlCw=="
 ---

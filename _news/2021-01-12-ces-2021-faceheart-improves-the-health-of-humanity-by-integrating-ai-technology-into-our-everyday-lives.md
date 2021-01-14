@@ -89,6 +89,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Techlicious Top Picks of CES 2021 Awards"
+    excerpt: "Our team of tech industry veterans scoured this year's virtual exhibit halls and picked our absolute favorite products for the Techlicious Top Picks of CES 2021 Awards."
+    publishedDateTime: 2021-01-14T15:07:00Z
+    webUrl: "https://www.techlicious.com/blog/techlicious-top-picks-ces-2021-awards/"
+    type: article
+    provider:
+      name: Techlicious
+      domain: techlicious.com
+    quality: 24
+    images:
+      - url: "https://www.techlicious.com/images/misc/ces-2021-award-logo-hero-layout-700px.jpg"
+        width: 700
+        height: 370
+        isCached: true
   - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
     excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
     publishedDateTime: 2021-01-12T09:52:00Z

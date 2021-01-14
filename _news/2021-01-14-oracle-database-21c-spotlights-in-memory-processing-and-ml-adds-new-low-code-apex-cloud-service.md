@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/oracle-database-21c-spotlig
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle's (ORCL) Oracle Database 21c Available on its Cloud"
+    excerpt: "Oracle Corporation ORCL recently announced availability of the newest version of its converged database — Oracle Database 21c — on its cloud platform. Oracle Database 21c supports various database services like Oracle Exadata Database Cloud@Customer,"
+    publishedDateTime: 2021-01-14T14:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/oracles-orcl-oracle-database-21c-available-on-its-cloud-2021-01-14"
+    ampWebUrl: "https://www.nasdaq.com/articles/oracles-orcl-oracle-database-21c-available-on-its-cloud-2021-01-14?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/oracles-orcl-oracle-database-21c-available-on-its-cloud-2021-01-14?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Oracle Database 21c update lands on Oracle’s cloud"
     excerpt: "Oracle Corp. today announced the availability of its updated flagship database offering, Oracle Database 21c, on its cloud infrastructure, featuring a raft of additions such as blockchain tables and artificial intelligence features."
     publishedDateTime: 2021-01-13T16:29:00Z

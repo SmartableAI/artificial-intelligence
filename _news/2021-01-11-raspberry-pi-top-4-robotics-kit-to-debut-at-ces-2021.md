@@ -75,6 +75,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Techlicious Top Picks of CES 2021 Awards"
+    excerpt: "Our team of tech industry veterans scoured this year's virtual exhibit halls and picked our absolute favorite products for the Techlicious Top Picks of CES 2021 Awards."
+    publishedDateTime: 2021-01-14T15:07:00Z
+    webUrl: "https://www.techlicious.com/blog/techlicious-top-picks-ces-2021-awards/"
+    type: article
+    provider:
+      name: Techlicious
+      domain: techlicious.com
+    quality: 24
+    images:
+      - url: "https://www.techlicious.com/images/misc/ces-2021-award-logo-hero-layout-700px.jpg"
+        width: 700
+        height: 370
+        isCached: true
   - title: "CES 2021 FaceHeart improves the health of humanity by integrating AI technology into our everyday lives"
     excerpt: "This year the world was suffering from the pandemic, FaceHeart recognizes the very need for a contactless detection device in order to come up with better solutions to address this problem. Since its founding,"
     publishedDateTime: 2021-01-12T12:38:00Z

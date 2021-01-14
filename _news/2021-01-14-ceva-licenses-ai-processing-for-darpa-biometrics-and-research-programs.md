@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/ceva-licenses-ai-processing
 webUrl: "https://www.biometricupdate.com/202101/ceva-licenses-ai-processing-for-darpa-biometrics-and-research-programs"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Paravision answers face biometrics ethics concerns with AI Principles and new chief advisor"
+    excerpt: "Paravision has published a set of principles to guide the ethical development of face biometrics and other technologies related to artificial intelligence."
+    publishedDateTime: 2021-01-14T16:42:00Z
+    webUrl: "https://www.biometricupdate.com/202101/paravision-answers-face-biometrics-ethics-concerns-with-ai-principles-and-new-chief-advisor"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 46
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "XuHxFYlJs8jQXkBKMIG5R4lg1GvjC7eiqaRJfd39+KjgjKFOm9mSvlTTkXlEK6mAhCqfjlurnQfJHlhu0TfWHlAtSWTGgQBGin5jjs7ITVumiRydU04hXAiQh0MJOcbun36qdvgio187bJEITezSnW7H7JTm/Yj+amYuxNuHD2Ej569OEROaa1viqpZJ7WoYosZXIpWAM2dPJ0opZ4wgDBKkch0p8XuWZ1QYcO5KYfBTCywlWU9xNHjRnHJmqEOBBKWL5PseyNRrhuamm1rfm4G2Ji8crR8TVHc4itvux4NotemTlAKkNZTh0of+PQ0M9pZA2hsp9XQCpGwCpjfq5yMi5CEKCRGk+FcANzdkR32aWUJ1AWxT09TmPRuGPCNYeOi5GQplpUY6pCw8743ZWUOcTHj2vPChGmXN9cYSrxeYUaZvCWVasL8fZJpx77xt/+qQBQpE5zMDdGr8CcWsBxs9frGi7Y3/PmRcKpbWIoIJ5/UQnTvPl2g13SOCuwHrPRC7IA+VEZLT9Zuf6o9MNQ==;uWNvEpbDUG4qSP51bTCyOQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technolog
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
-    excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
-    publishedDateTime: 2021-01-11T04:56:00Z
-    webUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/"
-    ampWebUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
-    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 55
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Intel launched RealSense ID, a facial recognition tech"
     excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
     publishedDateTime: 2021-01-11T11:36:00Z

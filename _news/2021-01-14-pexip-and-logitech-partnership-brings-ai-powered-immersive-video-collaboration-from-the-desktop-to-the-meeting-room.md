@@ -1,29 +1,71 @@
 ---
 category: news
 title: "Pexip and Logitech Partnership Brings AI-Powered, Immersive Video Collaboration from the Desktop to the Meeting Room"
-excerpt: "PRNewswire/ -- Extends Pexip's data privacy and security-first approach to the meeting room Supports the growth of hybrid work by enabling workers to"
-publishedDateTime: 2021-01-14T14:46:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room-301208592.html"
-webUrl: "https://www.prnewswire.com/news-releases/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room-301208592.html"
+excerpt: "Organizations can deliver a consistent experience across their meeting rooms, whether deploying new video-enabled rooms or expanding their existing video estate Today Pexip, a leading provider of enterprise video conferencing and collaboration solutions,"
+publishedDateTime: 2021-01-14T15:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210114io48995/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210114io48995/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room"
 type: article
-quality: 16
-heat: 16
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
+related:
+  - title: "Veritone and Alteryx form partnership to deliver AI-powered insights from unstructured video and audio-based data"
+    excerpt: "The partnership aims to deliver AI-powered insights into unstructured data sources, including video, images, audio and text, to Alteryx customers. Veritone joins Alteryx’s Partner Alliances program, integrating aiWARE with the Alteryx platform to help Alteryx customers transform unstructured data into actionable intelligence and valuable insights Veritone’s AI tools for ingesting data,"
+    publishedDateTime: 2021-01-12T18:57:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Veritone-and-Alteryx-form-partnership-to-deliver-AI-powered-insights-from-unstructured-video-and-audio-based-data-144699.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 18
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
+  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
+    excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
+    publishedDateTime: 2021-01-11T12:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 12
+  - title: "Veritone, Alteryx In Partnership"
+    excerpt: "Costa Mesa-based artificial intelligence software developer Veritone, and analytics software developer Alteryx said this morning they are in a new, strategic partnership. Veritone said it will provide its AI-powered insights into unstructured data sources,"
+    publishedDateTime: 2021-01-11T14:38:00Z
+    webUrl: "https://www.socaltech.com/mobilestory.php?storyid=0080783"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 4
+  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
+    excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),"
+    publishedDateTime: 2021-01-12T09:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b/gallery/c11ecc5667401ba031708f29a0cf3e06"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 2
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "m+OIFy2IociQR4pmutRyPVKGBe3YwmHRVpBs4OGxnVzvPMsNGgW+FxvNRMQuQ8h22CTKEu2HrtQj1JwqeEX9keE1Bfc9BVurA2YKgV0gg9izAxiKLFrHT/tWlH2Uj+0dz41XZaNfVbeYX4il/RpoeVoDZ9o6jZWWxO3uqQQAbsX+O7Ip1UAOItVgNNLmtmwDM2CROLT5xAWxB97Tz0ATa4N+Gzgo/X2BeUUkODF5qBtDCGegBDXvwZxtAm4+pEYFci+/B4VKKVW9elbf3VMtxtKCb9sJ0X05kryZlZnlVkQtp++1iaFIJ2JOIlROurCUeqcSiDKMnwkB/0HkGpmzDiKjFIX6C7sfdydeE7bwpSY=;S07TaRtgyx2Q3I2W2iq8Qw=="
+secured: "GUaJjf80NMo6JHK8HU+GiYSnczkvJjwhUVZDL1PE8rS/H6O6daon6UnbVAqhFY6PquhNbaw2zsFNHeItiXG8MEHm3JUOZ36iGwU/31h6jRc74YFiSUtmwzAXLuX+MPtXGcmeHuXsfk/3tOzdf3aFGDcEHr8zhBnSIM4VEmQ34CfIj2hD0isqTWQQG0s0nqYeTpkHTHfCj7OuHxQgQjns3QffapmWBXAvNlFRYek65FsgbrAps82vQd20quUyRrjr2o3nXsvw9PRSTRWsB4JbyN/Jbc4+X5DycMCxr4UZiZcpNobQQq8Fl3ogiQxd/voOleS1P5Ts2NyyNI5STPlv+NnefDVubVnE2dV/cr2uPXI=;3KGO3JV6/d/o/uquOdnJTg=="
 ---
 

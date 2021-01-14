@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning and Artificial Intelligence Integration Drives the Growth of the Global Natural Language Processing Market at a CAGR of 18.4%"
+    excerpt: "In 2019, the global natural language processing market reached USD 9.2 Billion and it is expected to grow at a"
+    publishedDateTime: 2021-01-14T15:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Artificial Intelligence (MAI) Market is expected to see growth rate of 28.58%"
     excerpt: "Market is expected to see growth rate of 28.58% iCrowdNewswire Jan 9, 2021 2:14 PM ET. Global Mobile Artificial Inte"
     publishedDateTime: 2021-01-10T08:52:00Z

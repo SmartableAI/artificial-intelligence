@@ -7,8 +7,8 @@ originalUrl: "https://www.theengineer.co.uk/artificial-intelligence-software-obj
 webUrl: "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Engineer
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "EU Should Regulate Artificial Intelligence to Protect Rights"
+    excerpt: "The last decade has seen an alarming proliferation of artificial intelligence (“AI”) to monitor protests, predict crime, and profile minorities, in ways that gravely threaten our human rights. The European Commission has pledged to develop groundbreaking regulation of these technologies that will “safeguard fundamental EU values and rights."
+    publishedDateTime: 2021-01-14T16:26:00Z
+    webUrl: "https://www.hrw.org/news/2021/01/14/eu-should-regulate-artificial-intelligence-protect-rights"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 37
+    images:
+      - url: "https://www.hrw.org/sites/default/files/media_2020/10/AP_20218553920999.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Heavy Construction Process to be Measured by Space-based Machine Automated Recognition"
     excerpt: "The Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence, announced a multi-year research effort called the Space-based Machine Automated Recognition Technique (SMART) program."
     publishedDateTime: 2021-01-13T06:32:00Z

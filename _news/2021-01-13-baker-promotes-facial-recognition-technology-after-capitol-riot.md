@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Police Use of Clearview AI's Facial Recognition Tech Spiked After Capitol Raid"
-    excerpt: "Clearview AI’s controversial facial-recognition app has seen a spike in use as police track down the pro-Trump insurgents who descended on the Capitol on Wednesday. With so many of those idiots snapping selfies and livestreaming the raid as if it was a school field trip,"
-    publishedDateTime: 2021-01-10T22:40:00Z
-    webUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687"
-    ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
+  - title: "The best facial recognition security cameras for 2021"
+    excerpt: "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces."
+    publishedDateTime: 2021-01-14T15:47:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 100
+      name: CNET
+      domain: cnet.com
+    quality: 106
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lk5ifyehxrqpzqqo03oe.jpg"
-        width: 800
-        height: 449
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Promise and Peril of Facial Recognition"
     excerpt: "Agencies are using the technology to identify the Capitol rioters."
@@ -52,6 +52,22 @@ related:
       - url: "https://images.wsj.net/im-284435/social"
         width: 1279
         height: 640
+        isCached: true
+  - title: "The US Army is developing a nightmarish thermal facial recognition system"
+    excerpt: "The US Army just took a giant step toward developing killer robots that can see and identify faces in the dark. DEVCOM, the US Army’s corporate research department, last week published a pre-print paper documenting the development of an image database for training AI to perform facial recognition using thermal images."
+    publishedDateTime: 2021-01-11T23:09:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 88
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/predatorvisionj-796x448.jpg"
+        width: 796
+        height: 448
         isCached: true
   - title: "Facial recognition and social media may get Capitol rioters caught"
     excerpt: "Just because they made it home doesn't mean they're home free. Police have identified dozens of suspects and are working on more."
@@ -85,19 +101,85 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "Facial recognition technology to help identify U.S. Capitol rioters"
-    excerpt: "Experts said facial recognition technology is playing a huge part in finding rioters, but it's a much more difficult process than just matching faces to photos."
-    publishedDateTime: 2021-01-09T23:54:00Z
-    webUrl: "https://www.wbir.com/video/tech/facial-recognition-technology-to-help-identify-us-capitol-rioters/51-e8c3fd7c-791d-4a55-8a71-45f2a8b2c492"
+  - title: "This facial recognition system can identify people who are wearing masks"
+    excerpt: "For this reason, the NEC company has been working for some time to develop a facial recognition system that can identify people even if they are wearing masks. Mission accomplished. The Japanese company has been marketing its mask-proof face recognition system,"
+    publishedDateTime: 2021-01-11T14:43:00Z
+    webUrl: "https://galusaustralis.com/2021/01/1047366/this-facial-recognition-system-can-identify-people-who-are-wearing-masks/"
+    ampWebUrl: "https://galusaustralis.com/2021/01/1047366/this-facial-recognition-system-can-identify-people-who-are-wearing-masks/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047366/this-facial-recognition-system-can-identify-people-who-are-wearing-masks/amp/"
     type: article
     provider:
-      name: 10 News
-      domain: wbir.com
-    quality: 39
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 58
     images:
-      - url: "https://media.wbir.com/assets/WBIR/images/108f2419-edc9-4bdf-8ad2-3ec70e50ad00/108f2419-edc9-4bdf-8ad2-3ec70e50ad00_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/01/coro-usa-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "LA Police Commission approves facial recognition tech for LAPD detectives"
+    excerpt: "The new policy placed some restrictions on how detectives can use the system. They can only use the database to help them in criminal investigations, and when they need to identify incapacitated,"
+    publishedDateTime: 2021-01-13T03:27:00Z
+    webUrl: "https://www.dailynews.com/2021/01/12/la-police-commission-approves-facial-recognition-tech-for-lapd-detectives/"
+    ampWebUrl: "https://www.dailynews.com/2021/01/12/la-police-commission-approves-facial-recognition-tech-for-lapd-detectives/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/12/la-police-commission-approves-facial-recognition-tech-for-lapd-detectives/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 58
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "LA Police Commission Adopts Oversight Measures for Facial Recognition Tool"
+    excerpt: "The LAPD’s promise of robust oversight for facial recognition technology in police work hasn’t quelled concerns from civil liberties groups that the tools will perpetuate harm in communities of"
+    publishedDateTime: 2021-01-12T23:31:00Z
+    webUrl: "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
+    ampWebUrl: "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 57
+    images:
+      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/LAPD-HQ.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
+    excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
+    publishedDateTime: 2021-01-11T04:56:00Z
+    webUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/"
+    ampWebUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 55
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Use facial recognition cameras to identify people refusing to wear masks, says former commissioner"
+    excerpt: "Facial recognition cameras should be used to spot people who refuse to wear face masks, the Government's former surveillance camera commissioner has said."
+    publishedDateTime: 2021-01-14T16:30:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2021/01/14/use-facial-recognition-cameras-identify-people-refusing-wear/"
+    ampWebUrl: "https://www.telegraph.co.uk/news/2021/01/14/use-facial-recognition-cameras-identify-people-refusing-wear/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/01/14/use-facial-recognition-cameras-identify-people-refusing-wear/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 45
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2021/01/14/TELEMMGLPICT000248138303_trans_NvBQzQNjv4BqGS9GXieP1M2SWwRrte9tdPkW7FzXbjdwT8tZLJetqZA.jpeg"
+        width: 1823
+        height: 1140
         isCached: true
   - title: "State using facial recognition tools to identify Capitol rioters"
     excerpt: "As police work to identify people who breached the Capitol building last week, Massachusetts Governor Charlie Baker said facial recognition technology is being used to identify"
@@ -127,22 +209,29 @@ related:
         width: 938
         height: 623
         isCached: true
-  - title: "Police Commission approves new oversight for LAPD’s use of facial recognition, rejects call to ban the technology"
-    excerpt: "The Police Commission approved a policy Tuesday that set new parameters on the LAPD’s use of facial recognition technology, but stopped far short of the outright ban sought by many"
-    publishedDateTime: 2021-01-13T00:17:00Z
-    webUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/"
-    ampWebUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
+  - title: "The Army has built the largest facial recognition database of thermal images"
+    excerpt: "The Army’s work could make facial recognition technology even more ubiquitous down the line for federal agencies, giving them the ability to work in the dark and the light. Facial recognition is in the news of late for its use in identifying pro-Trump ..."
+    publishedDateTime: 2021-01-11T18:48:00Z
+    webUrl: "https://www.fedscoop.com/army-facial-recognition-database-thermal-scans/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 38
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 36
     images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/01/download-5.jpeg?w=1280"
-        width: 840
-        height: 473
+      - url: "https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2019/01/17101751/GettyImages-490070699.jpg"
+        width: 1920
+        height: 1113
         isCached: true
+  - title: "Facial recognition that works with masks"
+    excerpt: "With so many casinos now implementing facial recognition systems it is interesting that a Japanese company has introduced one that will work even when guests ar"
+    publishedDateTime: 2021-01-11T07:51:00Z
+    webUrl: "https://www.intergameonline.com/casino/news/facial-recognition-that-works-with-masks"
+    type: article
+    provider:
+      name: InterGame
+      domain: intergameonline.com
+    quality: 19
 
 secured: "uHLDDFw4UBxnDDphX527RLR6zwc48Ret/r/x2YXuGgytUQr0/lLiooFJUiBZfpwCQ0CzCF8WgdJPrn0sny2uOSNgq2BpOmaz9YrwZ0uVtAPUrKzyfKKfJVbHaxU4C/0zvrl+L+30PIvdQKveu/lQ1hfXDQInfc9c6X0LtH3YOYtwT/Id2k2LgjV/2Xbh+KkLhdNdhx2qRmabO3KiMal//w1jIx36hcGSbP6Qktbwm83cuQ+jO2yZiiifyZtOs4lZjMbo01oxpb6YghtvFkchhjND3BuutihNqul71pyvie+8J3FvKAxpTinfCvNGzgPty3SHeepmqOeQktzrgrOU9XjsWWR0vsAqiTWoZDhxo8/bOVYPTBhYoJGgxT/gNMkRq+rbTTKJGplji6dzEdWecO0fYBRMME6WZIxF6g+eMDhiFzJh01vD5xCotAkI3EUrI3+wezOdJul0gt1VmT2rcjoWPIzwbxhDE/td0+hODtDsoClb2Yy5qplrVRUU5hjErHyHL9wbWWHu7UxW0j2O7w==;WsZ1YNAw6i3blxd7z4yiaQ=="
 ---

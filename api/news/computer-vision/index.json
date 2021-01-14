@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-14-the-best-facial-recognition-security-cameras-for-2021.md",
+      "title": "The best facial recognition security cameras for 2021",
+      "excerpt": "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/",
+      "publishedDateTime": "2021-01-14T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-teslas-main-self-driving-rival-isnt-googleits-intels-mobileye.md",
       "title": "Tesla’s main self-driving rival isn’t Google—it’s Intel’s Mobileye",
       "excerpt": "Mobileye's self-driving strategy has a number of things in common with that of Tesla, the world's most valuable automaker. Like Tesla, Mobileye is aiming to gradually evolve its current driver-assistance technology into a fully self-driving system.",
@@ -107,49 +160,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-la-police-commission-adopts-oversight-measures-for-facial-recognition-tool.md",
-      "title": "LA Police Commission Adopts Oversight Measures for Facial Recognition Tool",
-      "excerpt": "The LAPD’s promise of robust oversight for facial recognition technology in police work hasn’t quelled concerns from civil liberties groups that the tools will perpetuate harm in communities of",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/",
-      "originalUrl": "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/LAPD-HQ.jpg?fit=1200%2C800&ssl=1",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/",
-      "publishedDateTime": "2021-01-12T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
       "title": "Job Screening Service Halts Facial Analysis of Applicants",
       "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
@@ -210,7 +220,7 @@
       "originalUrl": "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -403,21 +413,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system.md",
-      "title": "The US Army is developing a nightmarish thermal facial recognition system",
-      "excerpt": "The US Army just took a giant step toward developing killer robots that can see and identify faces in the dark. DEVCOM, the US Army’s corporate research department, last week published a pre-print paper documenting the development of an image database for training AI to perform facial recognition using thermal images.",
+      "path": "_news/2021-01-12-software-promises-to-improve-ai-object-recognition.md",
+      "title": "Software promises to improve AI object recognition.",
+      "excerpt": "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/",
+      "webUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
+      "originalUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/predatorvisionj-796x448.jpg",
-          "width": 796,
-          "height": 448,
+          "url": "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg",
+          "width": 940,
+          "height": 626,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -425,23 +435,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/",
-      "publishedDateTime": "2021-01-11T15:09:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T01:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -450,8 +451,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -463,7 +465,7 @@
       "originalUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -761,49 +763,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-intel-launches-facial-recognition-solution-amid-debate-around-the-techs-biases.md",
-      "title": "Intel launches facial recognition solution amid debate around the tech’s biases",
-      "excerpt": "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks",
-      "sourceUrl": null,
-      "webUrl": "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/",
-      "originalUrl": "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/",
-      "cdnAmpWebUrl": "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/",
-      "publishedDateTime": "2021-01-10T20:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaNama",
-        "domain": "medianama.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-police-use-of-clearview-ais-facial-recognition-tech-spiked-after-capitol-raid.md",
       "title": "Police Use of Clearview AI's Facial Recognition Tech Spiked After Capitol Raid",
       "excerpt": "Clearview AI’s controversial facial-recognition app has seen a spike in use as police track down the pro-Trump insurgents who descended on the Capitol on Wednesday. With so many of those idiots snapping selfies and livestreaming the raid as if it was a school field trip,",
@@ -812,7 +771,7 @@
       "originalUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1472,6 +1431,58 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-facial-recognition-now-algorithms-can-see-through-face-masks.md",
+      "title": "Facial recognition: Now algorithms can see through face masks",
+      "excerpt": "The US Department of Homeland Security has carried out trials to test whether facial recognition algorithms could correctly identify masked individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "originalUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "publishedDateTime": "2021-01-06T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

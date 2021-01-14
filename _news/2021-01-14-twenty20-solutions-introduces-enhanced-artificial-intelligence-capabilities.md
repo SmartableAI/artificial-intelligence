@@ -1,43 +1,30 @@
 ---
 category: news
 title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
-excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and classification capabilities designed to maximize operational efficiency for its customers."
-publishedDateTime: 2021-01-13T20:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
-webUrl: "https://markets.businessinsider.com/news/stocks/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
+excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces"
+publishedDateTime: 2021-01-13T20:19:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-301207883.html"
+webUrl: "https://www.prnewswire.com/news-releases/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-301207883.html"
 type: article
-quality: 64
-heat: 104
-published: true
+quality: 36
+heat: 36
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - Computer Vision
   - AI
 
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
 related:
-  - title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
-    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
-    publishedDateTime: 2021-01-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Twenty20tm Solutions Introduces Enhanced Artificial Intelligence Capabilities"
     excerpt: "Twenty20tm Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and"
     publishedDateTime: 2021-01-13T20:44:00Z
@@ -61,16 +48,7 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 16
-  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-    excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
-    publishedDateTime: 2021-01-11T12:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 12
 
-secured: "Q4zD00xMjIOwpGre+4uhr2UvfD0Ypn7VgKL2RL5s176Ro13MjmEwcN5enbY6FHtX+xuv9HyzNsKbenJ4MYnqHPRAzvJgEWL1SSn7Hq9arIYi4jctTUeW/mXabFNytw3k/jpm4pOXXp0AvAB73MIw1ocU3kAQ7e+Z4PFFupe3sYJeuspFIbItfarxxA/wDlYSZGZelbLCxXWGAps8qR0rXz4od3BydLAXpfWLC4Du1TN6DJ6x/4P0OvnU2vxGDYD5yyrAF7RRWe8qvyeZvcP6gTM7Z/R4h5D3N3xE5s1rsPHypdbE3ESJnQk4p8JiYjZCRu2O9f7kcBrxTzFIvOOJxF0ajHLH1C+Wyqii7LIbzqs=;ljlpN6YN6aiZkJ37Sqn8Ow=="
+secured: "79P3nN8nnIsVbJjHPPX75nzXHoLRnfVP0W0KkFkwuXwo4E/8EQB9apNMs8H0MGNtgvEwosYsQIfEnnHRTlquNmA9S/xRdzSAowKdv6MOOQrmQxzTzXZfenwP4R4RM0OgQQDEZ49LsKL2d6dRYoMZjRzYdLMkAa87YbvvU1t4nN8ev+6rV5DIAa/Tez7n3BBSBhINPtll8RGYQIR0pGocGXQQ9IAzKDS9oGyaZRNhqOPLXQsaduMI3o/ZEqTrZPTmXD2wuERf4s9bCM8q334VpSTzFJhV7yMfU6mUUVsuOnRoo2rAgH8sxiAtMbqncpMNtKWgQQ5zwfaAUo0QyHnyrl4XAyiXH8gFyo0cEkNRgTQ=;0Zx4J4irjIJtBXTOHo9Rwg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/robotics-in-2021-progress-and-dev
 webUrl: "https://www.analyticsinsight.net/robotics-in-2021-progress-and-development/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 900
     height: 500
     isCached: true
+
+related:
+  - title: "These five AI developments will shape 2021 and beyond"
+    excerpt: "Despite the travesties of 2020, artificial intelligence has quickened its progress. Baidu upped its performance across vaccines, autonomous vehicles, language processing, and quantum computing."
+    publishedDateTime: 2021-01-14T15:27:00Z
+    webUrl: "https://www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/"
+    ampWebUrl: "https://www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/image001.jpg?w=1920"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Artificial Intelligence Ai In Workspace Market Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2023"
+    excerpt: "The Telecommunication and IT vertical has the highest market share among the other verticals in this market. This is followed by BFSI, Retail and Manufacturing Kenneth Research has recently added a market research study on Artificial Intelligence (AI) in Workspace Market 2023 which provides a complete comprehensive analysis including the data by Segmentations,"
+    publishedDateTime: 2021-01-11T22:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-workspace-market-share-growing-rapidly-with-recent-trends-development-revenue-demand-and-forecast-to-2023-2021-01-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ym3v91vCBQJdWyoUIhQx3jKtSjhNz7mPoDBGtwUNw5VeNtGBJmXQdFJDPqUgCvdLNwwIhGMd0goNU5Zfh8+HP2ZDWX+xX9PSpFcmZotZkxDQVAxyn2iVOsF2HKH9FbfEVtYrd2aTbiLtc+vZ0lPtbA4sCpqW56QFVzOEqscFTuFsf/AWUxB0FB9MDXNIUwdJ/JMj/c/st66LR7cF8gL/YoozWYgDH3XBC6Urbea9j5l4yXwLemvr1CjZIjGJSdPbk71U5bfzjKrHcwvslPvcec4nXwktx5X57r4DMhVSnGB/ewAuc5ePtr/JyqMFDcqqa6D+N9Cgcrg0qvupZDylymf37R2yI4Fcen38OGQ9uQMFQHFzHmNsjIHmBllV7BzzpAmGNXqIWLxSV9RKqtb7EZ1CRgGG25m25B8ABwmPDAiFuoL8ZRhWGAcKZU89PG+Cg5QiRSwIxqG0+2/CCaFR/qqO94Jq0S4h9bjRkqp6Fg4S4QHtYE4EyNl7aX82VWBsq/4KaQkhE7o8RJ7EMq4itg==;7xfsmQ5VIt6Ps3cpuFvbnQ=="
 ---

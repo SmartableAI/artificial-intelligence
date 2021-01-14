@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegation
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
 type: article
 quality: 96
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
     quality: 59
     images:
       - url: "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "LA Police Commission approves facial recognition tech for LAPD detectives"
-    excerpt: "The new policy placed some restrictions on how detectives can use the system. They can only use the database to help them in criminal investigations, and when they need to identify incapacitated,"
-    publishedDateTime: 2021-01-13T03:27:00Z
-    webUrl: "https://www.dailynews.com/2021/01/12/la-police-commission-approves-facial-recognition-tech-for-lapd-detectives/"
-    ampWebUrl: "https://www.dailynews.com/2021/01/12/la-police-commission-approves-facial-recognition-tech-for-lapd-detectives/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/12/la-police-commission-approves-facial-recognition-tech-for-lapd-detectives/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 58
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true

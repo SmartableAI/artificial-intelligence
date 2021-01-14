@@ -3,10 +3,10 @@ category: news
 title: "This app is helping reunite dogs with their owners using AI"
 excerpt: "It’s hard to imagine the stress that pet owners go through when their furry friends go missing. A US government survey suggests that 7% of lost dogs are never recovered. That’s why a startup named Shadow is trying to reunite dogs with their owners using AI."
 publishedDateTime: 2021-01-14T07:16:00Z
-originalUrl: "https://thenextweb.com/neural/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/"
-webUrl: "https://thenextweb.com/neural/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/"
-ampWebUrl: "https://thenextweb.com/neural/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/"
+originalUrl: "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/"
+webUrl: "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/"
+ampWebUrl: "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/"
 type: article
 quality: 87
 heat: 97
@@ -47,6 +47,6 @@ related:
         height: 675
         isCached: true
 
-secured: "NO7LThjl78CrCZX+oWF5gh8+cACWGHi9ao1eUO2ONAgcmx8g/xC/FJzyFhbDE+lLoyvxg0O53IWmh2Y0coDyyq1JaA/gOd3fIjjR/VjG1RDUPRw56B85yvBd/OQvXuk/a2qUctc60cR//0m27dGlqL9gtJetVgz1uU+RXLthWtuOrFNNWv+gSoUocOdvAq0AUJJzGrYPgIYmcSh5XbJSqiQQWE9xG60VjGh//xhuWlKjIqsczpHJqR868WfWZpw2yLfg8lWsM/gZ6nFKuLfdhGPUMzgWNK4XGMX6MKFCvdGUYVOCHbpTEaKrqHCmO24eBjxjOZfsPnhX2wgqwb8dCNDHYEyEJkvTVYl9W9iCCGrSxFqAs02j61G5GHXrlKSpp4xfGo3uQvk3Fqbvz8zyKfDkqWqtKZOnuhs70I0LUC0osEMV9rNXTlnRRvQ0b2b+GXBhgZLmxoT57hOkfOdog7qKXnUUehRJsFibb64bPqZ+NFcH9Rzm/M0IkiAaRthotOwiWnAxWB8KGCqKcueyjQ==;fGh8tw7ytrVfweOdUysipw=="
+secured: "UD/WWDDVXhMKcrkxPwOoKSxsbg67jfXVT3ERq0+WJ1aEuIMyE2sUfB4P42zglN5PbLlEWaaJwhOUEEzFtom2hCQrz8kxFZIeEWJ6+ZnHW1xfJeKwCMBK55G0i/l00jiFs9laqi+gWsYCt3DrRNYmAWf9wNYiBQ83y+ZCl8wEWOAlsKz0NOAHcQtWCp/uI1+oS6ZTS5LdLYmFP/FBpIG+onFFGEf/vpp/TEn/cMgu7PQR0ygzsO8WK07qu0LK281Eu76EAG7lWnGCLJTTUdEa/1lFhQpnmvqYAzmNjw74e6KhKd25Ps4LDnKfEq3VKiaxy4YTmm/weQtlRlN997wRLyxk2wYdSZgoBkuJ8KYMfw0=;8IiTKTgTdyNtjq4FaaouFg=="
 ---
 

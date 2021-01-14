@@ -66,20 +66,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 53
-  - title: "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy"
-    excerpt: "Waymo LLC has raised a further $750 million ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than expected ..."
-    publishedDateTime: 2021-01-09T23:59:00Z
-    webUrl: "https://br.advfn.com/noticias/DJN/2020/artigo/82437841"
-    type: article
-    provider:
-      name: ADVFN
-      domain: advfn.com
-    quality: 51
-    images:
-      - url: "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:GOOG&p=5&t=52"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
     excerpt: "PRNewswire/ -- IBM (NYSE: IBM) scientists and researchers received 9,130 U.S. patents in 2020, the most of any company, marking 28 consecutive years of"
     publishedDateTime: 2021-01-12T11:02:00Z

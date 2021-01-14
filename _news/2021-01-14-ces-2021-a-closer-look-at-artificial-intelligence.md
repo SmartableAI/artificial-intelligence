@@ -1,14 +1,14 @@
 ---
 category: news
 title: "CES 2021: A closer look at artificial intelligence"
-excerpt: "Have a conversation with someone who speaks another language on a whole new level in real time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 CES."
+excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."
 publishedDateTime: 2021-01-14T00:22:00Z
-originalUrl: "https://www.fox4news.com/video/889816"
-webUrl: "https://www.fox4news.com/video/889816"
-ampWebUrl: "https://www.fox4news.com/video/889816.amp"
-cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/video/889816.amp"
+originalUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence"
+webUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence"
+ampWebUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: fox4news.com
 
 topics:
+  - AI in Robotics
   - AI
 
 related:
@@ -324,6 +325,6 @@ related:
       domain: morningstar.com
     quality: 2
 
-secured: "DO5adUBKYj+QWcCnAv4tQ9v2i6SCxd5QQlj3fBzFMl8E5N0aF+H2SsFd3cL9lUtr54EJ090u9tQjRWOlaplcPg1+CASIGZKWV6ouoqxNEDFa2z8n5BBge7RSlyPSG6exoO1vNEmGjFgm0locpdkDWj3xb6DNxTNPW75SoykIVHsD7HL4htBQ5TXMpTEKKb8+q9lYuGGur7JkZnDmlqHJ1iz/tTkZI8C9GCe7LwU6o09rXcqPuDhngKnF3frZIE71yVZI/DXAx69vdR3UkcqR9He1iHXDO9k9/G5dt55v1dXqHVPYgHXrPMPSSf2ftKTBWcqRCdyaxicKdkkKDUqkiXWTguN/MOn9oKeAliwx9nY=;+YDVsnusDcuXV33c+4yv1w=="
+secured: "jX4pEAuukKeApquGDahLUmhTlmQrHXAZctdLWCnlvfLbXfSSZaLosaSlGxICMoFuNGZ8RXT5tPjj0G59UwtS/sLV+qlnmfHvesEsTUXtGnWb3LJjdIwdDuYivZHfNWs89N9vO0wZ46NcTVKf7VIZAduqNwx029cIJaetguRJ5XSkXIyNtfwdVbdBS1R2jepciJeYovVYFmreOgmwDK8zJhmexB+9UKYYwKmVlwosA0QeHpURGke4i6QuADTt/UioOfMgpkfWsBARDonq0ODWiBZperJ/qa5sItydVPyL851+NYZKpxRwZh0lpGOZnRNkZ8ccsOpg5UTm62ntTWNSSc1Un7Acp6L+meKE6t0S2f4fQhOTaJizYZvAkmVQ3qpYsxefa4wy8hFbE+iBktUoC6qhuXsyGC7/oK3seX5g3bdNpX5E/jcG8IjDMgzxbffKDWmQwhYAQsFbUOOaT6XjmE/Rq3jt+t+wNpQrTC50L3MW0mz69hJmOIDZDYCi7dVamcGKQTMdVo7vm+K4hYBnqA==;dSVpOV9mqVqLxXWQyuSLBA=="
 ---
 

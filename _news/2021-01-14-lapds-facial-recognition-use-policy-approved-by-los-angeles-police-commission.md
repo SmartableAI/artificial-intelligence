@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7.com/amp/9632866/"
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/9632866/"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,58 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "LA Police Commission Adopts Oversight Measures for Facial Recognition Tool"
-    excerpt: "The LAPD’s promise of robust oversight for facial recognition technology in police work hasn’t quelled concerns from civil liberties groups that the tools will perpetuate harm in communities of"
-    publishedDateTime: 2021-01-12T23:31:00Z
-    webUrl: "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
-    ampWebUrl: "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
+  - title: "Mission Adds to Workplace Awards; Selected as One of the Best Places to Work in Los Angeles"
+    excerpt: "Mission, a managed cloud services provider and Amazon Web Services (AWS) Premier Consulting Partner, today announced that Built In LA has named Mission to several of its 2021 Best Places To Work Awards,"
+    publishedDateTime: 2021-01-10T17:34:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/mission-adds-to-workplace-awards-selected-as-one-of-the-best-places-to-work-in-los-angeles/"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 57
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 14
     images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/LAPD-HQ.jpg?fit=1200%2C800&ssl=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Ensuring facial recognition is ‘a force for good’ with Corsight’s new privacy chief Tony Porter"
-    excerpt: "A good deal of Porter’s work as a regulator was creating guidelines around how to implement face biometrics and answer to public scrutiny."
-    publishedDateTime: 2021-01-13T23:18:00Z
-    webUrl: "https://www.biometricupdate.com/202101/ensuring-facial-recognition-is-a-force-for-good-with-corsights-new-privacy-chief-tony-porter"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-1024x575.jpg"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "Facial recognition that works with masks"
-    excerpt: "With so many casinos now implementing facial recognition systems it is interesting that a Japanese company has introduced one that will work even when guests ar"
-    publishedDateTime: 2021-01-11T07:51:00Z
-    webUrl: "https://www.intergameonline.com/casino/news/facial-recognition-that-works-with-masks"
-    type: article
-    provider:
-      name: InterGame
-      domain: intergameonline.com
-    quality: 19
-  - title: "Leading Facial Recognition Technology Provider Corsight AI Appoints Former UK Surveillance Camera Commissioner Tony Porter as Chief Privacy Officer"
-    excerpt: "Corsight AI, a leading facial recognition solution provider, announced today the appointment of the UK's former Surveillance"
-    publishedDateTime: 2021-01-12T09:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/leading-facial-recognition-technology-provider-corsight-ai-appoints-former-uk-surveillance-camera-commissioner-tony-porter-as-chief-privacy-officer-301205966.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
-        width: 1569
-        height: 824
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "qZM4dm6mlLjnp8b+nKA59V4TFxNR9ISDVPOELseWT7oFPrK2EyB6kzW54z9haWQuvjIE401rmjqXJMTpxtBaeO2LcFCxId4Uv3GBMZWBxfvTyaj7AlPQoNTMMTtghl6INQuufmjlgib7L6N25iO7bdPrkJQmjJx3R+spmVkyx4p1CH9JdJ/2XVsf4qsxINI5304nUETZn1W6KhAIAY3r12OTwVJzhsPwYzRyvI78hkDI56hiNcV3PgFuTabj8PcJiTLzlwR1+7A4E4PYNeS+KxNUWIMmcsphtUpJt/WSJVPKQLuaZZvBJ7CgdxD1I1F56PTgBE2P1U4hzY7rWZAGWtFbbjDnOOcXkZ0o2aLa9Q9/G7QvBbGM3gkH3z63KX/XM1JACAOzctBGS0jpHniw1URX4KJIDO1/rRzsqvt480LrhU2Ccr9+70IbZXrEVRJkfNpmOSIbH56ht6VDj8ZzbjRkANeKg76b93LLRX7OsF0V0EJEFBWNHyU5EonD735RdFxb+nBxcJJVl2GMg9WmuQ==;7TDTuVBDJlP00w/jD5zEaA=="
