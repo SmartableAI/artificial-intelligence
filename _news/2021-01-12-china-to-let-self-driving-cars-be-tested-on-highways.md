@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars And The Chicken That Crossed The Road"
-    excerpt: "The fabled \"chicken crossing the road\" provides useful fodder for considering the advent of self-driving cars coping with erratic intrusions in the roadway."
-    publishedDateTime: 2021-01-10T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/10/self-driving-cars-and-the-chicken-that-crossed-the-road/"
+  - title: "DJI is building a new team that will work on self driving technology"
+    excerpt: "The popular drone making brand, DJI, is apparently building a new team that will be working on developing self driving or autonomous technologies. The company has put up various job listings and has already begun hiring as well."
+    publishedDateTime: 2021-01-14T10:07:00Z
+    webUrl: "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff545ffcda8add8ba6f4879%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3008%26cropY1%3D152%26cropY2%3D1845"
-        width: 1199
-        height: 675
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/maxresdefault.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Robotaxis and Self-Driving Cars Are Coming. This Company Will Be the Brains Behind Them."
     excerpt: "Aptiv unveiled new technology that makes robotaxis and consumer autonomous-car models feasible. It supplies Tesla and other auto makers."
@@ -55,19 +55,33 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AV manufacturers need to abandon the word ‘self-driving’"
-    excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
-    publishedDateTime: 2021-01-12T21:12:00Z
-    webUrl: "https://landline.media/av-manufacturers-need-to-abandon-the-word-self-driving/"
+  - title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
+    excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
+    publishedDateTime: 2021-01-14T08:50:00Z
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29J0DA"
     type: article
     provider:
-      name: Land Line
-      domain: landline.media
-    quality: 24
+      name: Reuters
+      domain: reuters.com
+    quality: 48
     images:
-      - url: "https://landline.media/wp-content/uploads/2021/01/210112-Waymo-logo.jpg"
-        width: 540
-        height: 420
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547727620&r=LYNXMPEH0D073&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Re-imagining manufacturing: Putting digital technology at the center of a post-pandemic new normal"
+    excerpt: "By Saj Kumar, Regional Business, Leader, Manufacturing, Asia If we’ve learned anything about doing business during the pandemic, it’s about the importance of embracing change. A willingness to adopt new digital technologies could determine whether an enterprise survives and thrives or struggles and fails in the months and years ahead."
+    publishedDateTime: 2021-01-12T04:03:00Z
+    webUrl: "https://news.microsoft.com/apac/2021/01/12/re-imagining-manufacturing-putting-digital-technology-at-the-center-of-a-post-pandemic-new-normal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/manufacturing1-1600x1067.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "PFiyP1gqDYSdhGvpOCjg7Pk/LIVP45bkXF0A5Vg0gpQCrvTPoH7DfN090t0vBHM2DTf31DoPcEDgpQA0xD/dvrAh7n+j5X4GsOYz7UFNM4QdSQ4FjCe6nvTkZ0LmGZSzlj+KtJHnJzWDoOMhTdPzQx/rD/WVOKXek3DrgWIM51bGZdAFVxVI5oq9TJenZCauvsBhE/rCRauhq53oAHWAWdKTWscaKR1r4Y3Yxi7EGobCaCLItbX39OJlOEUTReZP/lGSRa75l9YQv62QmlbXYYYLNWIksK6yim3b/QciFEGrYeojR2GSEcLfKy9DrbkC+nOtiOu913ELIZNcJvirvLjHOMAHPWrYtoRoa8poAWk=;bcpxDgrovSm6CNz2UcMkrA=="

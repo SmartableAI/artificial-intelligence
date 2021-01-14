@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/dina-raises-7-million-for-its-ai-powered-at-home-care-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,38 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Lumiata raises $14 million to predict health care costs and outcomes with AI"
+    excerpt: "Lumiata, a startup developing software that can predict health care outcomes and costs with AI, has raised $14 million."
+    publishedDateTime: 2021-01-14T12:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/14/lumiata-raises-14-million-to-predict-health-care-costs-and-outcomes-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/01/14/lumiata-raises-14-million-to-predict-health-care-costs-and-outcomes-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/lumiata-raises-14-million-to-predict-health-care-costs-and-outcomes-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Healthcare Specific AI Platform Lumiata Raises Series B Funding"
+    excerpt: "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc and AllegisNL Capital along with existing investors Khosla Ventures and Blue Venture Fund."
+    publishedDateTime: 2021-01-14T12:55:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 76
+    images:
+      - url: "https://download53.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/N59n8TyAHDH1q8YVXZIKAUtcTYpFNeOocfvX/17102/17102.jpg"
+        width: 377
+        height: 212
         isCached: true
 
 secured: "fgwF7ELnopYZJ8228EFrFV4nrUCrjF0pDfdtYKf0cIaFtudExuiGeGgVA8HTrCNQAcV7GkH5K2t64/NC+dZM1Wcueq5+Rr6q8c54RW0r/SwePErohZdvglE4Ga0mT13zBBNKNjArWpOC0fHAqrqb7najIPG1NpkY2xyZ/Im0D1GGsikCAF+TzlDUBnURajaJal96vGrMCGSeqlDUwmJo2ADufxWbsR+qeysY02I8GJ3FHiy6SwR/pHKsyJwfMvEwMlJvNgn9xVr7h7nevmMXuxS/yyigVBJJJ1UvFQut/qmrRkbLqJHRUpEoGzU3bvWjhIbcrpjsimt2XfbSuspehAm4sNxkH76CD6quv0NfD88Y3kXjFab1Ogl8e4dvyYbVSdLVVrW1GOG5V4pY7FQQvdVzdLF9pa4R6rCCE0MqV280OoLikbyv/t+592Mvrs1dyDv2YMpsBwLxBF23U4adIfN88fcsZs8Sn9MPRAq+43aQOneKuvZFGyvekB3W9Nxhl0sXX6N0tNTCgzStGtkiVA==;lVKLCsVhS9Zga29Ta13QsA=="

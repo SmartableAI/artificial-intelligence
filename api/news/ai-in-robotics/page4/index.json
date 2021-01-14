@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-15-amazon-zoox-introduces-self-driving-robot-taxi.md",
+      "title": "Amazon Zoox introduces self-driving robot taxi",
+      "excerpt": "Zoox, Amazon’s self-driving car company, draws the attention of its first robot taxi. Zoox debuted on Monday with an electric, completely driverless vehicle built to drive. It is a “coach-style” car,",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
+      "originalUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-521.jpg",
+          "width": 736,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
+      "publishedDateTime": "2020-12-15T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-artificial-intelligence-people-not-robots-are-in-the-driving-seat.md",
       "title": "Artificial intelligence: people – not robots – are in the driving seat",
       "excerpt": "Like it or not, artificial intelligence (AI) is already part of our daily lives. From smartphones to Alexa virtual assistants, AI and its applications are accepted norms",
@@ -1369,49 +1413,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations.md",
-      "title": "How Artificial Intelligence Could Widen the Gap Between Rich and Poor Nations",
-      "excerpt": "New technologies like artificial intelligence, machine learning, robotics, big data, and networks are expected to revolutionize production processes, but they could also have a major impact on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hellenicshippingnews.com/how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations/",
-      "originalUrl": "https://www.hellenicshippingnews.com/how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogs.imf.org/wp-content/uploads/2020/12/eng-ai-divergence-blog-nov-11-chart-1-1024x939.png",
-          "width": 1024,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hellenicshippingnews.com/how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations/amp/",
-      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations/amp/",
-      "publishedDateTime": "2020-12-04T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hellenic Shipping News Worldwide",
-        "domain": "hellenicshippingnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

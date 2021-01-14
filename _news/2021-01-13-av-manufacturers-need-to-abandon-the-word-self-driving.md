@@ -39,36 +39,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Robotaxis and Self-Driving Cars Are Coming. This Company Will Be the Brains Behind Them."
-    excerpt: "Aptiv unveiled new technology that makes robotaxis and consumer autonomous-car models feasible. It supplies Tesla and other auto makers."
-    publishedDateTime: 2021-01-11T16:39:00Z
-    webUrl: "https://www.barrons.com/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    ampWebUrl: "https://www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 50
-    images:
-      - url: "https://images.barrons.com/im-283368/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "China to let self-driving cars be tested on highways"
-    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
-    publishedDateTime: 2021-01-12T08:10:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
-        width: 1198
-        height: 797
-        isCached: true
 
 secured: "BRGJAFO76P9Rjvq6drSeXli48X5UjGIS40Genv0bSkuMVAqyuhWYOLDTsNkUBzZZfe6YdiwFBA1BkHAKpPUYwAIkXkCNY/28o5N9HYDmpBlCGLS35xYKuoRDxiCCYBsTlyAvxAjKdSUiaGaYg/efybHMSDcmmnAPTt26a4PwfEn7wj6OX4P8Pr+K4xV7S3iNyeeCWYtK2X9Ajwmhr5G6E7rtUzTXvChMzhlxDVLkcI2XKFRUD5K23ElXFFL8fyjZQuhZOKyTuMe4UfI65nlS1oYCtlYoP+yG9eURzm20jz9Iqt+A55uxZ9rA2Z/Hu5RO171MHLpZVGgtyLnSDQruCMFNE6Xzp62fj7bnwO7UFeI=;nnjDEybtik7rErRJauMi8w=="
 ---

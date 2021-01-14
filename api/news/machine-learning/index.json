@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-14-sana-labs-raises-18-million-to-upskill-workers-remotely-with-machine-learning.md",
+      "title": "Sana Labs raises $18 million to upskill workers remotely with machine learning",
+      "excerpt": "Sana Labs, which uses machine learning to personalize training courses for professionals, has raised $18 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/SanaLabs.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/amp/",
+      "publishedDateTime": "2021-01-14T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions.md",
       "title": "Machine Learning Market Outlook, Size, Share and Growth and Forecast Assumptions",
       "excerpt": "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy",
@@ -1368,49 +1420,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-machine-learning-improves-particle-accelerator-diagnostics.md",
-      "title": "Machine learning improves particle accelerator diagnostics",
-      "excerpt": "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
-      "originalUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-machinelearn.jpg",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine-particle-diagnostics.amp",
-      "publishedDateTime": "2021-01-05T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/controversial-chatbot-l
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/OEM11_160419913_AR_-1_PJVFMUVBHANW.jpg"
         width: 800
+        height: 600
+        isCached: true
+  - title: "AI chatbot Lee Luda pulled after it started ‘really hating’ lesbians"
+    excerpt: "Lee Luda, a South Korean AI chatbot, has been pulled from Facebook after started saying it \"really hated\" lesbians because they're \"creepy\"."
+    publishedDateTime: 2021-01-14T12:42:00Z
+    webUrl: "https://www.pinknews.co.uk/2021/01/14/lee-luda-ai-chatbot-facebook-messenger-lesbians-racism-homophobia-discrimination/"
+    type: article
+    provider:
+      name: PinkNews
+      domain: pinknews.co.uk
+    quality: 39
+    images:
+      - url: "https://s31242.pcdn.co/wp-content/uploads/2021/01/ErYYINpVEAAZIuw.jpeg"
+        width: 1053
         height: 600
         isCached: true
   - title: "Controversial chatbot leaves lessons on AI use ethics"

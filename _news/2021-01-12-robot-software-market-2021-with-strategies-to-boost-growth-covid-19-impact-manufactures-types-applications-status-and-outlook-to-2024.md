@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market with COVID-19 Impact in Homeland Security & Public Safety - 2020-2025"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Market with COVID-19 Impact in Homeland"
+    publishedDateTime: 2021-01-14T09:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19157413/artificial-intelligence-market-with-covid-19-impact-in-homeland-security-public-safety-2020-2025"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19157413"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19157413"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
   - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
     excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
     publishedDateTime: 2021-01-11T11:33:00Z
@@ -50,17 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Intelligent Virtual Assistant Market 2019: Global Industry Analysis Report to 2025"
-    excerpt: "The Global Intelligent Virtual Assistant Market size is expected to grow at an annual average of 26 3 during 2019 2025 Intelligent Virtual Assistant IVA also known as Intelligent Personal Assistant IPA is software that helps you understand natural language"
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://www.openpr.com/news/2223718/intelligent-virtual-assistant-market-2019-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2223718/intelligent-virtual-assistant-market-2019-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2223718/intelligent-virtual-assistant-market-2019-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "MnokLNqFCyCrddjKLlsNH25XIJWZ2cLLjrw7VE2bMzXvvy9QvdV8ghmWfkk9qP2Jiy7aC5Ph9TeAg7ewGvtAqryGN2FIw/jbRJwkIpJ6uUi+M/hUHsYKIjrBnIlpivZjCn2jMTjQJbovgiFMyAMjqyOGNugVEjICt8Ck568k01FvHlN+WXjsXq08/jab8LvqsL4pgUWJWwMp9sGZ40LGA8ZB/wBKHvwjiNwmWdJvwSYMrNg9GDYaMfppEIDXo9N7XV/GsZx37ex5BS1dPQdciaSuahKuH5eHYCtcpu0/DF4OLVa1U5SnFO34Vl9a3jLSutZcoLsZ+2oOo1Q61SEb0eOUfAKI11fLHTaglObkk04=;+OV16sRajPQ5JmVEs4D0Gg=="
 ---

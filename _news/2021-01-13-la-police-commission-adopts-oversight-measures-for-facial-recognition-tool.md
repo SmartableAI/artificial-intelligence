@@ -30,7 +30,7 @@ related:
   - title: "LAPD's facial recognition use policy approved by Los Angeles Police commission"
     excerpt: "The policy was approved with a modification for the Inspector General to work with the commission's executive committee to develop and ensure a \"strong oversight system.\""
     publishedDateTime: 2021-01-13T23:56:00Z
-    webUrl: "https://abc7.com/9632866/"
+    webUrl: "https://abc7.com/police-commission-approves-lapds-facial-recognition-use-policy/9632866/"
     ampWebUrl: "https://abc7.com/amp/9632866/"
     cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/9632866/"
     type: article

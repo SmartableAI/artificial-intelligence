@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/10/self-driving-ca
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/10/self-driving-cars-and-the-chicken-that-crossed-the-road/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: 64
+published: false
 
 provider:
   name: Forbes
@@ -29,36 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotaxis and Self-Driving Cars Are Coming. This Company Will Be the Brains Behind Them."
-    excerpt: "Aptiv unveiled new technology that makes robotaxis and consumer autonomous-car models feasible. It supplies Tesla and other auto makers."
-    publishedDateTime: 2021-01-11T16:39:00Z
-    webUrl: "https://www.barrons.com/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    ampWebUrl: "https://www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 50
-    images:
-      - url: "https://images.barrons.com/im-283368/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "China to let self-driving cars be tested on highways"
-    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
-    publishedDateTime: 2021-01-12T08:10:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
-        width: 1198
-        height: 797
-        isCached: true
   - title: "AV manufacturers need to abandon the word ‘self-driving’"
     excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
     publishedDateTime: 2021-01-12T21:12:00Z

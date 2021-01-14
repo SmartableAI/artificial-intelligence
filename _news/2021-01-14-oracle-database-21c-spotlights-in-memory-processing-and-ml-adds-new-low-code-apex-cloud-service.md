@@ -59,20 +59,17 @@ related:
         width: 1280
         height: 851
         isCached: true
-  - title: "Oracle Extends Database Leadership with Oracle Database 21c"
-    excerpt: "Oracle today announced that Oracle Database 21c is available on Oracle Cloud, including the Always Free tier of Oracle Autonomous Database. Oracle Database 21c contains more than 200 new innovations,"
-    publishedDateTime: 2021-01-13T16:04:00Z
-    webUrl: "https://www.oracle.com/news/announcement/oracle-database-21c-011321.html"
+  - title: "Oracle extends database leadership with Oracle database 21c"
+    excerpt: "With the launch of Database 21c, Oracle has elevated its flagship database to a new level of convergence with broad support for a wide variety of data types and workloads,” s"
+    publishedDateTime: 2021-01-14T11:42:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Oracle_extends_database_leadership_with_Oracle_database_21c-ZAWYA20210114095931/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/"
     type: article
     provider:
-      name: Oracle
-      domain: oracle.com
+      name: Zawya
+      domain: zawya.com
     quality: 24
-    images:
-      - url: "https://www.oracle.com/oce/press/assets/CONT52E22DF3F5124000BC7E3E6FAC92CA15/native/og-social-db-21c.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Oracle launches Apex Application Development service and Oracle Database 21c"
     excerpt: "Oracle has released its low-code Apex Application Development service and announced the availability of Oracle Database 21c on Oracle Cloud. Apex Application Development is said to make it possible to develop and deploy data-driven enterprise applications quickly and easily."
     publishedDateTime: 2021-01-13T17:01:00Z

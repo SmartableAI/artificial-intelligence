@@ -44,6 +44,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI chatbot Lee Luda pulled after it started ‘really hating’ lesbians"
+    excerpt: "Lee Luda, a South Korean AI chatbot, has been pulled from Facebook after started saying it \"really hated\" lesbians because they're \"creepy\"."
+    publishedDateTime: 2021-01-14T12:42:00Z
+    webUrl: "https://www.pinknews.co.uk/2021/01/14/lee-luda-ai-chatbot-facebook-messenger-lesbians-racism-homophobia-discrimination/"
+    type: article
+    provider:
+      name: PinkNews
+      domain: pinknews.co.uk
+    quality: 39
+    images:
+      - url: "https://s31242.pcdn.co/wp-content/uploads/2021/01/ErYYINpVEAAZIuw.jpeg"
+        width: 1053
+        height: 600
+        isCached: true
 
 secured: "v1IMY4Trzs4dpAG5O/yrVb8LbwI731gdjJzqzEo044WR6XgCOJTY7Z25PFckRejOkO0SSY+M14uxKXFYx+4IC3QmqnBkvKkm+zUZQ0AsSLyL66LzQ4KlGJigzgifzglXTryWuQIMq+MtPteFpXHFSEmlVA6c9YN2Ei73QBOyybVlmYlV4vaqVG6W7XTqC8BO8q+cSL9tO4KRIGglI7yRQkn7fW1DoHx0ri5Q8e6OCmR/bwswv7pChBrnUn3XJFoeyFMHiJOZ6fzIxyng7hnRDe6+zuTLbiJXUVkFm7qgnX9BTpAq8VgXC39fLFbbn3EnpWzYA/o/0etTMaIyLMlLypKfgukjMUvPfTNiVklZb8Kgj20AXcGu53XJUSBNLB9L/UaCzySdNRgCwq66EJupLBUDFpRsOx1CxkKI6LkaRLSN/UepICuk7NOcPFlLyPBsHuP5tv3iOM2on7G5x4s3nba2amyC10vhbbmqtGlBRPc2qy31acH6QG2PftL69L7AUqcCyitv4au5HqPdanG9Fw==;fdRrWgX/FUS+jjHDZ7kcsQ=="
 ---

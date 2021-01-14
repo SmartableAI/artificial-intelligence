@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market with COVID-19 Impact in Homeland Security & Public Safety - 2020-2025"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Market with COVID-19 Impact in Homeland"
+    publishedDateTime: 2021-01-14T09:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19157413/artificial-intelligence-market-with-covid-19-impact-in-homeland-security-public-safety-2020-2025"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19157413"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19157413"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
   - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
     excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
     publishedDateTime: 2021-01-11T11:33:00Z
@@ -40,17 +51,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
-  - title: "Intelligent Virtual Assistant Market 2019: Global Industry Analysis Report to 2025"
-    excerpt: "The Global Intelligent Virtual Assistant Market size is expected to grow at an annual average of 26 3 during 2019 2025 Intelligent Virtual Assistant IVA also known as Intelligent Personal Assistant IPA is software that helps you understand natural language"
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://www.openpr.com/news/2223718/intelligent-virtual-assistant-market-2019-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2223718/intelligent-virtual-assistant-market-2019-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2223718/intelligent-virtual-assistant-market-2019-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
   - title: "Robot Software Market 2021 with Strategies to Boost Growth, COVID-19 Impact, Manufactures, Types, Applications, Status and Outlook to 2024"
     excerpt: "Virtual assistance, autonomous robots, point-of-care testing, navigation & object detection, business process automation, customer support services, and autonomous vehicles among others are some of the use cases of the robot software."
     publishedDateTime: 2021-01-12T12:16:00Z

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Predictive healthcare analytics company Lumiata raises $14M"
+    excerpt: "The company sells those predictions to healthcare plans, as well as to providers, especially accountable care organizations, that are risk bearing health systems. \"If you're in the health plan world,"
+    publishedDateTime: 2021-01-14T12:02:00Z
+    webUrl: "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m"
+    type: article
+    provider:
+      name: Vator
+      domain: vator.tv
+    quality: 54
+    images:
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/20897.jpg"
+        width: 320
+        height: 240
+        isCached: true
   - title: "Cognitive Analytics Market technological to witness high growth in near future"
     excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
     publishedDateTime: 2021-01-13T18:25:00Z
@@ -28,20 +42,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
-    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
-    publishedDateTime: 2021-01-13T18:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-technological-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -61,20 +61,17 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "VoiceBase Delivers Predictive Analytics to Slice, Giving Local Pizzerias a Bigger Piece of the Pie"
-    excerpt: "VoiceBase and Slice power delicious insights by processing pizza order calls with predictive analytics. San Francisco, CA, USA, Jan. 12, 2021 (GLOBE NEWSWIRE) -- VoiceBase, the leading AI-powered voice analytics company,"
-    publishedDateTime: 2021-01-12T11:49:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-computing-and-information-technology-data-mining-ae8c4a52c9a933596bd19df98b67282a"
+  - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
+    excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
+    publishedDateTime: 2021-01-14T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19158792/scanmarket-expands-analytics-capabilities-with-the-acquisition-of-artificial-intelligence-company-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19158792"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19158792"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "Vq9iX82b6LH4HockW4V3zvRri7dQx/pleH6UDrrwLwmijaiGPLBMM63yUNCXGjzJN+CIeD5/NxyxqE9ADPxFBcYUMcsSocsEdvrMXGUVw8QUSp1BULoNVSfZg2BzwVhQSR+lQJEVFOpa30hXuKVefnWT3uu0cz2PHUryyIKl1KJlkhxu1DfZZnTypEf194JzlpJ9u9If9bKh3K2acJwK0JQrOMJ5JHGpkHHGW6l6OM9XJJxUT5UwATARLGJeWyd739nb6IDLlTNGxrHzZP1fUhTGYmKzLRf2C3kNMrMxPqyO7B461niMug2A9yMyUe4DkuWdCPg8c931rwFp5POhYB87qWmsBBKmkiwzHpyeSlYp2xJXnPB+zqGAK2muQJzRjrEvcQZw0b65Ey+mdjTzCrYyIR+BaVPwKGVivUp7xiFtRiH3Uc+gn7BRfr60Zi2ElQnnD5Q3Ja5cJcVoE4g0mzmAq8q3cWWbQ6WmgWR46QJeGxoRZJHnQqfvQbAOfvMaRO8R1cLhCw4YBwelnsdPOw==;gkASKupxgOJL+bnev5WaJQ=="
 ---

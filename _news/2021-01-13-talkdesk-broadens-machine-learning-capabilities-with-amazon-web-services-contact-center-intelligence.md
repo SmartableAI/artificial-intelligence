@@ -1,23 +1,30 @@
 ---
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
-publishedDateTime: 2021-01-12T21:12:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
+excerpt: "Talkdesk, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer"
+publishedDateTime: 2021-01-12T17:18:00Z
+originalUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+webUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
 type: article
-quality: 21
-heat: 21
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
+
+images:
+  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+    width: 1000
+    height: 600
+    isCached: true
 
 related:
   - title: "CES 2021 LUCID, the leader in AI supporting E-commerce increase conversion and purchases with intelligence"
@@ -35,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Qh376cpjpA7Yr+16JefUKNz/OpBz3WLsfqbab3AwBjLQnd4hTf/RV1lr+wFksnaqgv4TW/M4gSdabqZn4v41klyne0evb8dMNJNUlR6AaO8M+XMyd1GYb7MdR7rfI9sXY5ZDmFnWjpfxDg7Qb39DeA1YS/cveYT+KRWQnNiTlH58ewTcqbV/EZ0DX5dFn4ChZntwe3eeYQtMYTssCKh6CZHKwlZ8y+WeBWQ+faO/exW5NHIDIBPjsyr1+3HU4VOsaP+V3/RmiU/mU75ADVEFHlrs46brtzEgvsS3Wk3xQtBxtvSeSbZv/SwsiVY+vwpRkdl49qY5NYjx2z1fP0kQPzkFArdk2Ucr2ZS3u7Zng6A=;ooiDt6HmlBM3XZ1HsEKZQA=="
+secured: "J26YbguiJGVtRJH/eXCWCf/g+YObL9tL/4mYfmyOE25z6L2gUSkhLm1XVKenr1FHCTNCf9BpkBBfGCvsyuSvczO4zJBxFMsC14uGv5KtOJ66kdsb69bZ+AJHj+Rv7Tx3Dw2hyIT4gU+5LXPC/RPhZeqvFOSIRb7nI1bBHUQF5xoy1V4sqDmsxs0S2X29dLlLg/etiGY3Sw3XVgMFHQPSy0pi/XJBWVkcXcVSTIoSEMUgi+ipMZ6zEb6OfuC0jv+ASojcWgWoYQHRPVW5k2u7oqkAggAQmZK22py87dUTBkfBgFMM2+pZxE5ilInOn66vsA/GtlKxm74oaHn/PpyyrHDTOnTn6x2fbRK/Zf9H7Yo=;LJtWI5XB7O5CFVW2zE6O4A=="
 ---
 

@@ -3,11 +3,11 @@ category: news
 title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
 excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
 publishedDateTime: 2021-01-14T08:50:00Z
-originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
-webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
+originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29J0DA"
+webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29J0DA"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,66 @@ images:
     height: 533
     isCached: true
 
-secured: "J0Ycc5eRkgIaAMBBOFqLjzrWkFDOiEWkI0DX9NzOxR7iL3iLOeCs4QerKaoyP0hdjs/yl5zTkbutzrZv8vzile4MlBWlZOfZ9Gh4hSOYxSbF5YSfIOIlMguLwrSDnZTAdB3deePtcfsP90jzwZa1tE+l3tS4dQWs++5RoPp34az/tdrB7N3FQwiq0E07xkUB8IEU4FTUhsi1+5OtjtWLJfVZTw6ct9Dp82ytx6/3Z3ihBZO1SYF1TVt6FzNTHAovHoNNPN9I2ieih4r10UquhL1zGwMdgmC28HsRIZO69BdBUCWOaCGEKDeC3+b3oO4vKv+bFYU+0SBlCuZgguWFDjLSvxTvENam1jvm2iXvI5WCNEw7OV3uSBogJZ7Yva98hzwM9dw2f0rVfBGJ/Uoz+7zjAtHUxPsKoU648XftNzuRyfZ1ro+6lsxOBFIJRjzZyFhvvaNj1e/P9nTiMQxw5L3B6KxOlsy4n5qyHYSlVb6G/L1F6TERwBPk7jC9z5H8yH3ihg32lY7sS0JvxkbVcg==;F3qikKjvP/C2JWuKLAvB5g=="
+related:
+  - title: "DJI is building a new team that will work on self driving technology"
+    excerpt: "The popular drone making brand, DJI, is apparently building a new team that will be working on developing self driving or autonomous technologies. The company has put up various job listings and has already begun hiring as well."
+    publishedDateTime: 2021-01-14T10:07:00Z
+    webUrl: "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Robotaxis and Self-Driving Cars Are Coming. This Company Will Be the Brains Behind Them."
+    excerpt: "Aptiv unveiled new technology that makes robotaxis and consumer autonomous-car models feasible. It supplies Tesla and other auto makers."
+    publishedDateTime: 2021-01-11T16:39:00Z
+    webUrl: "https://www.barrons.com/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
+    ampWebUrl: "https://www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 50
+    images:
+      - url: "https://images.barrons.com/im-283368/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "China to let self-driving cars be tested on highways"
+    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
+    publishedDateTime: 2021-01-12T08:10:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
+        width: 1198
+        height: 797
+        isCached: true
+  - title: "Re-imagining manufacturing: Putting digital technology at the center of a post-pandemic new normal"
+    excerpt: "By Saj Kumar, Regional Business, Leader, Manufacturing, Asia If we’ve learned anything about doing business during the pandemic, it’s about the importance of embracing change. A willingness to adopt new digital technologies could determine whether an enterprise survives and thrives or struggles and fails in the months and years ahead."
+    publishedDateTime: 2021-01-12T04:03:00Z
+    webUrl: "https://news.microsoft.com/apac/2021/01/12/re-imagining-manufacturing-putting-digital-technology-at-the-center-of-a-post-pandemic-new-normal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/manufacturing1-1600x1067.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
+
+secured: "O8fWQbAL/qe4RZF9mHmf5Xxaa/LNfzSjjMX5+l7xFB/sJuMM0smHl0EK47Fnz/ZAy2xYmZPG1k3e2ZkPwOVJ8qH6rDFwkAm/NQ55yzLLCAN5s+YgLnGgXlOa8nk3HdkwsO6giUcg51qJAMOEdAloQ5HrfdWHVZYphuXIBj0zXp0fT22DvxqRZspeHTPIONYag08Slxq/MxpOuGQk2bfKhWuC3Pm2YHf1GzS79j/4bZrWW92o3zQZYJw76mqy0On/cShLRlEkZsRiOtszdOYrwFhAyZjWVEiZgbioVhpU/QHm9nwLAT7qEZyV69rlasYVBFquGGiTyiIIRUXW+KpHrbMZjPByq0QtJgJv4dXbI60=;qJ9lohyBqQ+qhHHoajgq7Q=="
 ---
 
