@@ -3,12 +3,9 @@ category: news
 title: "Healthcare Fraud Shield Announces Growth Investment by Charlesbank Capital Partners"
 excerpt: "(GLOBE NEWSWIRE) -- Healthcare Fraud Shield (the “Company” or “Healthcare Fraud Shield”), the leading provider of Fraud, Waste and Abuse (“FWA”) detection software to healthcare payers, announced today that Charlesbank Technology Opportunities Fund,"
 publishedDateTime: 2021-01-13T14:47:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-health-care-industry-3c701526d68a0ce0cbd1943ef6165606"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-health-care-industry-3c701526d68a0ce0cbd1943ef6165606"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-health-care-industry-3c701526d68a0ce0cbd1943ef6165606"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-health-care-industry-3c701526d68a0ce0cbd1943ef6165606"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
   name: Associated Press
@@ -18,12 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "3PPgjzrpWwBMLx0asTT3LVvNXeYk5nK9w80KZG1OI3wvhPeR8KxVrut5P0baqYffcxCAy7DDNsD0RldVGpPr0CIkHlGptR1qU4kcBEuN2hBvhBXbdGuW0TRKn2u0e9IPQ8lsgnFaDNyqWGZ5Lw21v2hRjQolb2gFc67CzW/tWzPzYYHp2AA67zvKurnChgRBCZ8/thvmmBRZss8w7D1NNTUADZ1IanHq3yZ50j9LFxyGsOOdppd5Z0Nbmo3LeNp2DLqgmnZ63d2jzSJhQZ+TlPtSuY0g2gvIz7MCZUDqvQnbq6qLZWyNqKPgIFt86dtT0ytgbeFqIlUJ+chDu00NbkCcBS/RJ/auy6Uf6LymTVM=;UlAxYLmewITKvnVA1/14MQ=="
+secured: "1VTcCci22dmpkuWVwG0Pkt7obJ2OM4cZ9SJNTYMF/byPA4PRSghtpKxNiGbuxFrhcNo48bwegcISGO16uP5m6WPQCnf+J+e/Z9uk0RucdL7xCM5S+qwV5A3tRyfsJ2sA9Bg449r0Pm6fF9bVA176HzKgwsVRgGVhF7TP3MN52OH7jpryd7XeQwaQ7ZD7taxIsnjtxQ1KbbSaL+RIkX1iWdy9R9zqcmSzVB9+6C4YOzUFGsAUUp8FUlTQkIokQfYrmqsw2CQR0pXJwG0A5/qVwnV0H3SSv/vY4Qlt93fEvSgzxaldJo0CDPm8lxQpHVJhYBba45noMpMm0ISyC82vZb+iKkoPidi5oZrBMQSMncU=;6sjrJcdbWyW6SOrRg/imWg=="
 ---
 
