@@ -30,6 +30,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
+    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
+    publishedDateTime: 2021-01-12T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Twenty20tm Solutions Introduces Enhanced Artificial Intelligence Capabilities"
     excerpt: "Twenty20tm Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and"
     publishedDateTime: 2021-01-13T20:44:00Z

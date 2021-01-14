@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/10/self-driving-ca
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/10/self-driving-cars-and-the-chicken-that-crossed-the-road/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Forbes
@@ -29,21 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "How can self-driving cars 'see' in the rain, snow and fog?"
-    excerpt: "A team of electrical engineers at University of California, San Diego is working on technology to help self-driving cars navigate safely in inclement weather."
-    publishedDateTime: 2021-01-09T07:19:00Z
-    webUrl: "https://www.wkyc.com/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
-    ampWebUrl: "https://www.wkyc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-snow/507-0438604e-ef32-4c0a-9634-99a6ec71fa12"
+  - title: "Robotaxis and Self-Driving Cars Are Coming. This Company Will Be the Brains Behind Them."
+    excerpt: "Aptiv unveiled new technology that makes robotaxis and consumer autonomous-car models feasible. It supplies Tesla and other auto makers."
+    publishedDateTime: 2021-01-11T16:39:00Z
+    webUrl: "https://www.barrons.com/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
+    ampWebUrl: "https://www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
     type: article
     provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 59
+      name: Barron's
+      domain: barrons.com
+    quality: 50
     images:
-      - url: "https://media.wkyc.com/assets/CCT/images/68dfaa1a-9292-439a-8a12-f89996221838/68dfaa1a-9292-439a-8a12-f89996221838_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://images.barrons.com/im-283368/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "China to let self-driving cars be tested on highways"
+    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
+    publishedDateTime: 2021-01-12T08:10:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
+        width: 1198
+        height: 797
+        isCached: true
+  - title: "AV manufacturers need to abandon the word ‘self-driving’"
+    excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
+    publishedDateTime: 2021-01-12T21:12:00Z
+    webUrl: "https://landline.media/av-manufacturers-need-to-abandon-the-word-self-driving/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 24
+    images:
+      - url: "https://landline.media/wp-content/uploads/2021/01/210112-Waymo-logo.jpg"
+        width: 540
+        height: 420
         isCached: true
 
 secured: "imEeHwPEgPe4gsc891WMuOvKEd74dB7MCbZa/8bMw0fTOlyKCh2E7kSz53fqHQQwxw3MH5yM4HsOec4StvpHaT1cVvLGVCSsxI/O2vLzfv3+1T0qsO83QuyyKwxJwLMHYUa2pOGTJHUIfjRqPB1TzhQ7t6hg3Wm/0/M1CqW1c7sjpuL2WaCO1zKLsOGghtlpbzX5IlP8Nr9EfirQgBrACXD1EWwFXWrSuyj08380hUVMm5iV1XPvKsxnbJJugMttiVTNfY8GUMb5DBxZ0swLtKFSNGV97gqA+WKd9g4Hae5+RLE2XimVQYwS0vHF81/zxReO9uUfTYNZrb4W+5Jyp85UXrXrQV97lWU1qskTN6vo0aUPylY8b6gdqODII+TKp9YvN5csqKrM7ELndu0UDRDHUiZhC96507pwoMSvQTy3Uhy2u/zLU16jmuXKBPrYDYb8fs4aBizUgdigtJcS+bpmbJYx2NCbKaXjglBsQyu1+SVUgt3dakfGdfKjnnJDfdiobeciXyc5VhiVCNsomw==;SLT6YUvfRv/V7597gQ2Zfw=="

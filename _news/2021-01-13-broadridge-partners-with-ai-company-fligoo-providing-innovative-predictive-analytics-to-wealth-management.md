@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry."
-publishedDateTime: 2021-01-13T14:21:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
+excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
+publishedDateTime: 2021-01-13T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
+webUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Finance
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
+    width: 2697
+    height: 1414
     isCached: true
 
 related:
@@ -34,6 +34,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
+    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
+    publishedDateTime: 2021-01-13T18:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-technological-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -54,6 +68,6 @@ related:
         height: 450
         isCached: true
 
-secured: "mjcDDXRqGtoJW53YxGBbDl0jOYUD0ltDRKG3cx6UQFX0fQ5gCbsHVnNcD6pFESk76Ifl2eTjTW9o5LeGeuVyvOsxYIUTg+QQr05ewaPvWajraWJteq+ozIgnAqGuBOC5FsJscQEPT+j99JKWllOxVN9jXKJtZlr3XlDzFTMbH38sXv8cfwyvBPaVXGKfdf18ak/rzo79DOinqURnfy1CwMhjiHOcXrmgmSZT7g4dA0yrZ/3sNJWnkkCkOBsx3NQF3e1LD10ht+vh2/nMi03PxXRAsxTSqEfr3txdiNVDg0d0Q6yqzep63DoT7xRMkLZpi/+gebVuX7e4PuLNp9euUx1yCcZmkdti/vU2O/3SmNQ=;apQAaD5/AV45bed5hQI63Q=="
+secured: "a5ac/uyCugQ3jTvtIkD27Y72UIiwZJIhfEaqtYR6Ou5WIuEc+mFfhRHwa0vv4RJgZv1zCH5bpi32oHsZpdMdR9v5AUMjL0bxw7LQQrP02QXnPA7AkDQPxvorJRUrygXMEZblTixU3Q+AFTqQpHvCqMJVofDXKqA+cD2MVmk30wgLa8AuxTmcyCeu/w7qnJD8+OhZOMos9Qv5Fhi4ygyXEXl8aWGbvOiWM8/EHfDEAfEgk2MWgXse2OE9ytd15mRA+cl9iPmeNBc6t2LBGthm5q7nM4a+t2Yj49/u1tfZasueLTqxNZDPFJtnmY3HezNgwleZUDllXRqvh0hEpJeqOAb2xecojGU1qHkdh9QUt0Y=;XeVCeH61+sED8dR2uFSNgQ=="
 ---
 

@@ -25,19 +25,14 @@ images:
 
 related:
   - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-    excerpt: "Talkdesk, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer"
-    publishedDateTime: 2021-01-12T17:18:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+    excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
+    publishedDateTime: 2021-01-12T21:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 43
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 21
 
 secured: "NLiynIhWVx8q9E1OmKp/vKjENZ+ss5Z9WbPXs+yYGLJY4PtPVUCaQr+ktPrLeoduYPc7B/EazMIOUoBEjV8kwg2QXH+gyeuBBg8q5khLrwiWqodKacemlxkLp1XV9iBWHB2Zh9aBQUPdmo+9GCsE74rKYDHvpl1EbDWUCuCRuqxpDUXXQH9sPPKmS/PLO8moYLU+Z1op7ajl2yCbs51OwMTUDRHW6aWJ4ubDCgPFNV+q2PCovWrxL7036o08c1zMBE1eWacA3UuFSOdT9i9Oa7hQC0Do/R6aHhtMx+xSBpYalKBo8W1jHrwBS4kxGmVrdnXKBXtlZAvOX9OFI27NwwgjBwLiIE67zNvAbRPoIvI=;7orIkJQGkfJYLaTMgTZJjA=="
 ---

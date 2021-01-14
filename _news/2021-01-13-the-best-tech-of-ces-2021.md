@@ -7,7 +7,7 @@ originalUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/in
 webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
 type: article
 quality: 54
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Focus and Preview of Biden Tech Policy Makes Upcoming CES Compelling"
-    excerpt: "You’ll see the result of this blurring next week at CES, where firms like Caterpiller, BlackBerry, and Hive will be talking about applied AI at the event. As any technology matures, the most innovative and successful companies typically discover how to successfully apply it to adjacent markets,"
-    publishedDateTime: 2021-01-09T08:01:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-focus-and-preview-of-biden-tech-policy-makes-upcoming-ces-compelling.html"
-    ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/ai-focus-and-preview-of-biden-tech-policy-makes-upcoming-ces-compelling.html"
-    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/ai-focus-and-preview-of-biden-tech-policy-makes-upcoming-ces-compelling.html"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
   - title: "GenkiTek Showcases AI Camera Solutions at CES 2021"
     excerpt: "GenkiTek was one of the 100 companies given the opportunity to showcase its wares in the Taiwan Tech Arena at this week’s CES 2021 event"
     publishedDateTime: 2021-01-12T22:27:00Z

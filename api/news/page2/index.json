@@ -2,12 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-13-rugged-computer-artificial-intelligence-ai-edge-supercomputing.md",
+      "title": "rugged computer artificial intelligence (AI) edge supercomputing",
+      "excerpt": "News Highlights: rugged computer artificial intelligence (AI) edge supercomputing. SUGAR LAND, Texas - System Inc. in Sugar Land, Texas, introduces the",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
+      "originalUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/rugged-computer-artificial-intelligence-AI-edge-supercomputing.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
+      "publishedDateTime": "2021-01-12T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-controversial-chatbot-leaves-lessons-on-ai-use-ethics.md",
       "title": "Controversial chatbot leaves lessons on AI use ethics",
       "excerpt": "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use.",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html",
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -146,7 +188,7 @@
       "originalUrl": "https://www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -285,7 +327,7 @@
       "originalUrl": "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -468,6 +510,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-13-healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023.md",
+      "title": "Healthcare Artificial Intelligence Market Share Analysis, Future Trends, Growth Insights, Size Value and Research Insights By 2023",
+      "excerpt": "Jan (Heraldkeepers) -- The influx of COVID-19 patients requiring medical imaging diagnostics and definitive healthcare is estimated to augment",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023-2021-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-the-best-tech-of-ces-2021.md",
       "title": "The best tech of CES 2021",
       "excerpt": "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,",
@@ -476,7 +570,7 @@
       "originalUrl": "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -717,7 +811,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/12/containment-algorithms-wont-stop-super-intelligent-ai-scientists-warn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1109,101 +1203,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-aws-announces-the-global-expansion-of-aws-cci-solutions.md",
-      "title": "AWS Announces the global expansion of AWS CCI Solutions",
-      "excerpt": "We’re excited to announce the global availability of AWS Contact Center Intelligence (AWS CCI) solutions powered by AWS AI Services and made available through the AWS Partner Network. AWS CCI solutions enable you to leverage AWS machine learning (ML) capabilities with your current contact center provider",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-announces-the-global-expansion-of-aws-cci-solutions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-announces-the-global-expansion-of-aws-cci-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/Site-Merch_ML-CCI_Blog.jpg",
-          "width": 800,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T08:00:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show.md",
-      "title": "Dishwashing robots and Bluetooth masks: Pandemic products hit tech's biggest show",
-      "excerpt": "Companies big and small showed off their new innovations at the closely watched tech trade show, which kicked off on Monday, many with features tied to life during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
-      "originalUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-4b3ba58cf2361b74931fdaec902b028f-h-23a6214b45f666e02e3ebea2eefaa196-1610457872.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
-      "publishedDateTime": "2021-01-12T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

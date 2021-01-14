@@ -29,15 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Storage Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2025"
-    excerpt: "Market Research Future published a research report on \"AI-Powered Storage Market Research Report – Global Forecast till"
-    publishedDateTime: 2021-01-12T22:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-powered-storage-market-2021-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2025-2021-01-12"
+  - title: "Machine Learning Market Outlook, Size, Share and Growth and Forecast Assumptions"
+    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
+    publishedDateTime: 2021-01-14T00:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Analysis, Size, Share, Growth and Opportunity Assessment"
+    excerpt: "The major factors speculated to augment the markets are growing security requirements in government sectors for"
+    publishedDateTime: 2021-01-14T00:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-size-share-growth-and-opportunity-assessment-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning in Machine Vision Market Size, Top Countries Research Trends, Manufacturers, Detailed Analysis and Forecasts 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Deep Learning in Machine Vision Market\" report provides an in-depth market evaluation by highlighting information on various aspects covering global drivers,"
+    publishedDateTime: 2021-01-13T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
+    publishedDateTime: 2021-01-11T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2021-01-13T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

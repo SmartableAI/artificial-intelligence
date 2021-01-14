@@ -38,17 +38,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "AI Focus and Preview of Biden Tech Policy Makes Upcoming CES Compelling"
-    excerpt: "You’ll see the result of this blurring next week at CES, where firms like Caterpiller, BlackBerry, and Hive will be talking about applied AI at the event. As any technology matures, the most innovative and successful companies typically discover how to successfully apply it to adjacent markets,"
-    publishedDateTime: 2021-01-09T08:01:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-focus-and-preview-of-biden-tech-policy-makes-upcoming-ces-compelling.html"
-    ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/ai-focus-and-preview-of-biden-tech-policy-makes-upcoming-ces-compelling.html"
-    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/ai-focus-and-preview-of-biden-tech-policy-makes-upcoming-ces-compelling.html"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
   - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
     excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."
     publishedDateTime: 2021-01-11T13:27:00Z

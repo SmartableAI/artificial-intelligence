@@ -39,19 +39,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-    excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry."
-    publishedDateTime: 2021-01-13T14:21:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
+  - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
+    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
+    publishedDateTime: 2021-01-13T18:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-technological-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2021-01-13"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
+    excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
+    publishedDateTime: 2021-01-13T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 21
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
+        width: 2697
+        height: 1414
         isCached: true
 
 secured: "DyDI7RJvkigFfEQNFZxxXux6i3xBFDqSB2cyqcLa9TIqDnBxquayAe+J5fsK674UNujPSkk1h7CGs7sHeoAFdFzORMGQLeE17Yp89WlWF8A3OtCdqwu7he3g5DYsPLhXUkqValZOsqik16aORcEYxaPGnmZCTMaYbiN3vbHxqIPyYhUEk8WNahXcZLtasmZMrlqlCFQxVL69xVEZAqE3En/6Jpd2YyqUPu3egiiT/5JWzrYKnLB6O/aI4RqO02+QUyDyYJ8a/QnHAbQbJN7ZZqFBBH732iEkOryDjdR8/lIxx+w7EdUfAdyoVUmgVkWOp7d2WGJsBeHlmJocApnTi0hvqPzB7hNs/TsCh8loV/M=;Qars/jMKum5zRsOnsVGGBg=="

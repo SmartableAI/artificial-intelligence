@@ -43,6 +43,22 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "The Promise and Peril of Facial Recognition"
+    excerpt: "Agencies are using the technology to identify the Capitol rioters."
+    publishedDateTime: 2021-01-13T23:10:00Z
+    webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 91
+    images:
+      - url: "https://images.wsj.net/im-284435/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "The facial-recognition app Clearview sees a spike in use after Capitol attack."
     excerpt: "After the Capitol riot, Clearview AI, a facial-recognition app used by law enforcement, has seen a spike in use, said the company’s chief executive, Hoan Ton-That. “There was a 26 percent increase of searches over our usual weekday search volume,"
     publishedDateTime: 2021-01-09T17:42:00Z
@@ -145,6 +161,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/d/e1/de1f73d9-4f35-5073-99e7-95d5fc171986/5ffe65d1ad8cc.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
+        isCached: true
+  - title: "L.A. Police Face New Limits on Facial Recognition Tech"
+    excerpt: "The new policy bans LAPD from using any other facial recognition technology beyond that used by the Los Angeles County Sheriff’s Department system. It also sets up oversight requiring LAPD to collect data on how the system is being used and whether it’s effective."
+    publishedDateTime: 2021-01-13T23:33:00Z
+    webUrl: "https://www.techwire.net/news/la-police-face-new-limits-on-facial-recognition-tech.html"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 39
+    images:
+      - url: "https://media.erepublic.com/image/FRsoftware.jpg"
+        width: 938
+        height: 623
         isCached: true
 
 secured: "xhx7LEVgTJ3kIwUjEZU1B6IYNw1x6RhThEnaphD5LhmNvX75KF/nydM3AGseAF27YfHUWv7AMawB1LalGIQFI9/VfzSSIgruw40/wruXuAHAgCukO2sS+Yoq7WH9RyX260m7feBIkPhzcMw1w63ITJfTTA71Ol9urge4fFYsJl5c8QXqXS/sHXmDLKulsqBs3ao0vSsVwpo34efnw9N7u29yDhYwCZFxxstvEeTUY9hWIbf6lUbdNGgtEtdZdrr3Sg2EngNUHqsKpX0exq7W7tPob3En7fWizYJwEbi1bKCSyO7D11VOvKyJ9H/rit9ao0eGDCnOrefApiALtgZQPO52Qe1Shcybb+2b8s/3jPR82jQvJov1fZ/Mkz/fUIzZfUMz5fuFQ2m0X0YU1NHZeANGN6Klv9Flahwu+xpGbH9nHD1uFaasqAJT6ZA8Xe5y49RynDQfZ5eCjUnnf5pMK/UswIzJUE496BnqTEewj/q5lo5a7BzMszUD76D28lm8M7ZhdATVA6BRvyJsBFdVEQ==;W8DVzVqd47EWEJKmJ9nwRw=="

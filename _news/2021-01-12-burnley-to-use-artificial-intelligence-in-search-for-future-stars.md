@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-ar
 cdnAmpWebUrl: "https://www-sportsmole-co-uk.cdn.ampproject.org/c/s/www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Burnley turn to artificial intelligence in seeking academy talent"
+    excerpt: "Burnley’s search for prospective academy players will be boosted by the power of artificial intelligence, with the Premier League club announcing on Tuesday that it had partnered with talent identification platform AiScout."
+    publishedDateTime: 2021-01-12T11:46:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/sports/2021/01/12/burnley-turn-to-artificial-intelligence-in-seeking-academy-talent/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 17
 
 secured: "KtEeBEd/np9Lbe6ym2YbUQzYkW6CXdDU/qOWM8L81P5flYEKkEBM/sfyjNcZc6uGA9RYd1oDqCnYE/9q/QIeEHLitOmvh34xAbFiLS6DXsD+v6mrwPd5z1AT4+psvDKz5oI+ZFQKk0S4QDlyU5y4QCOstRGV4LW4262Ini22H7rtL27mkmNfSJlGRs4PEb+m323uyNTdvRb+Ye1F9JhODc+Wz7X/ksPmM1DU6tUNYQRdJ5Kvy2TtzlUW/QIsGdj+Z4ZrdB0dHfPM98M5GinHnkOFvB8BEbFmpmhXePqrof+QqSTNXlNsu0ascmP/nA2koS4s3g7In9Bsuxi6iq0eT5a4GGwZhQUeXfHGEc6Gljo=;XzAzKRMF9BXNxLPaa9ls/A=="
 ---

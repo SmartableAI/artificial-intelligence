@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 819
         isCached: true
+  - title: "BeagleV SBC runs Linux on AI-enabled RISC-V SoC"
+    excerpt: "BeagleBoard.org and Seeed unveiled a $ 119 and above “BeagleV” SBC with a StarFive JH7100 SoC with dual SiFive U74 RISC-V cores, 1-TOPS NPU, DSP and VPU. The SBC is scrapping the Cape extension for a Pi-like 40-pin GPIO."
+    publishedDateTime: 2021-01-14T00:58:00Z
+    webUrl: "https://www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/"
+    ampWebUrl: "https://www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/BeagleV-SBC-runs-Linux-on-AI-enabled-RISC-V-SoC-1024x819.jpg"
+        width: 1024
+        height: 819
+        isCached: true
   - title: "AI-enabled automated driving dev kit has dual Linux brains"
     excerpt: "NXP unveiled a BlueBox 3.0 automotive platform that runs Linux on an up to 16-core -A72 LX2160A and a quad -A53, 3x -M7 S32G. You get an optional Kalray MPPA AI chip, 6x PCIe Gen3, and 8x LAN ports up to 100GbE."
     publishedDateTime: 2021-01-11T18:48:00Z

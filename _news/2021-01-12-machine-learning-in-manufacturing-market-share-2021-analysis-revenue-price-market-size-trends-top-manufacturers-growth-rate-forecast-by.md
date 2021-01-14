@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning in Machine Vision Market Size, Top Countries Research Trends, Manufacturers, Detailed Analysis and Forecasts 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Deep Learning in Machine Vision Market\" report provides an in-depth market evaluation by highlighting information on various aspects covering global drivers,"
-    publishedDateTime: 2021-01-13T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market Share Analysis, Future Trends, Growth Insights, Size Value and Research Insights By 2023"
     excerpt: "Jan (Heraldkeepers) -- The influx of COVID-19 patients requiring medical imaging diagnostics and definitive healthcare is estimated to augment"
     publishedDateTime: 2021-01-12T22:24:00Z
@@ -71,128 +57,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-driving Shuttle Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
-    excerpt: "Jan (CDN Newswire via Comtex) -- Global Self-driving Shuttle Market 2020 by Manufacturers, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2021-01-13T16:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2020-to-2025---top-manufacturers-business-strategy-and-forecast-report-2021-01-13"
+  - title: "AI-Powered Storage Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2025"
+    excerpt: "Market Research Future published a research report on \"AI-Powered Storage Market Research Report – Global Forecast till"
+    publishedDateTime: 2021-01-12T22:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-storage-market-2021-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2025-2021-01-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Voice Recognition Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
-    excerpt: "Selbyville, Delaware Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
-    publishedDateTime: 2021-01-11T08:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Drone Data Services Market 2021 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2025"
-    excerpt: "The evolution of data analytics throughout major industry verticals is one of the significant factors positively"
-    publishedDateTime: 2021-01-11T22:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/drone-data-services-market-2021-global-analysis-share-trend-key-players-opportunities-forecast-to-2025-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2021-01-13T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
-    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
-    publishedDateTime: 2021-01-13T18:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-technological-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "RetailNext Showcases Next-Gen Machine Learning Analytics and Releases 2020 Holiday Season Analysis at NRF's Big Show"
-    excerpt: "Onboard demographics are introduced as part of the enhanced machine learning capabilities, along with a Holiday 2020 recap report"
-    publishedDateTime: 2021-01-12T23:38:00Z
-    webUrl: "https://www.wboc.com/story/43161213/retailnext-showcases-next-gen-machine-learning-analytics-and-releases-2020-holiday-season-analysis-at-nrfs-big-show"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 31
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
-    excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
-    publishedDateTime: 2021-01-11T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19095932/global-vision-guided-robotics-market-forecast-2020-2027-covid-19-impact-and-analysis-by-component-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19095932"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19095932"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-  - title: "Cloud Computing Market to Get Expansion admist COVID 19, Scope With Advanced Technologies Top Key Players and Forecast 2020-2027"
-    excerpt: "The global cloud computing market is expected to gain momentum from the rising inclination of enterprises to omni-cloud solutions from multi-cloud solutions. This information is given by Fortune Business Insights™ in a new report,"
-    publishedDateTime: 2021-01-13T10:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-to-get-expansion-admist-covid-19-scope-with-advanced-technologies-top-key-players-and-forecast-2020-2027-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Flipclutch Research: Global AR advertising revenue is huge, WIMI intends to seize this business opportunity"
-    excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and"
-    publishedDateTime: 2021-01-12T14:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-301206504.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 6
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "bwxODlf996Ea4tlnrsNE5fnLFUGeD6e6YTy6xpTKFF6a05xfpV03f4CryaKMt+FiWRniOyZnCZRIVFBNqPCLpn6bjL98+X9wXlPzP/5+hUEtM/j4ApeMGKJlUN8D72oj2pK6iKlRk7uTBE/aTLOE+Mt3PsvGE1KhXasQQyQNqm9Ld05GxEdvEc3UsH3sAOBxG8G5YwdOyv2GeF4899E/OH8gKdgphWK+Kat2RJQXlyCO5fM7dmguxEbTrmrouRr7F9pU4t8b+ZYiUQjLbse3SPvE+Sfu4aO0QmZjBc9cne0ZuOxJ8Ha5J7lgFl+yBtHdoG/L0xSdQK0djfY5m5RS5MXpVfaE5WdND2RzfVGeS8I=;dWQl3x/VurFJ3FHDRR9Ujg=="

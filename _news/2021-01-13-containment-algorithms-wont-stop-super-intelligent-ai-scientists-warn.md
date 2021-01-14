@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/12/containment-algorithms-wont
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/12/containment-algorithms-wont-stop-super-intelligent-ai-scientists-warn/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

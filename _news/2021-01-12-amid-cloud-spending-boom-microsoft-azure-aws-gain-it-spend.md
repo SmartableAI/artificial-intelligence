@@ -3,10 +3,10 @@ category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
 publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 quality: 136
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
-  - AI
   - AWS AI
+  - AI
+  - Microsoft AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
@@ -59,20 +59,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Microsoft AI Transformation Customer Stories"
-    excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."
-    publishedDateTime: 2021-01-09T08:27:00Z
-    webUrl: "https://www.microsoft.com/bs-BA/ai/customer-stories"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3tfwu?ver=6ced&q=90&m=8&h=600&w=1600&b=%23FFFFFFFF&l=f&x=0&y=0&s=1600&d=600&aim=true"
-        width: 1600
-        height: 600
-        isCached: true
   - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
     excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
     publishedDateTime: 2021-01-11T18:42:00Z
@@ -111,6 +97,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "au9lPJIP29oCMNT73mduupqDrXiBa4rYwZhY+Rn3Azk5iajmE693TZQDNCBGULbAvnYP8n5Q9huPt6puEkOpF6uvo/uYDPJ7E5zEJx8+E7XYcOkDfI2lYo1T/NPvW1BVUacsuo0cStXINXxsanfpoFW1eynyRuemtw7mNvohlkt0F3mxIbUZbNmi/4M3A64r4x/XgLiPP6/ZBF50SYb+Gdhjz91x35FcE3UgFX/E5VTJQIDLlEC6PG4YUmM7FtOR/mrTRmlIX8LXYzhSe6Tc0ex8hYQd74+3X+l3bvZ8LkOEgk9XtVCq7Mz8YjrCCWcQYTMGh+eAYCOhjJ9F7PXYYb9ewkltlySsD6tonAZt3UM=;jx3W1U8YVT7swt3XMA6plg=="
+secured: "9tRptN8O3MmWoj7sRIltv3ld98T1TiTB+hTsz6HJuaVpG1McWV9zEZxp99wdaZeFdjJKWSFDmXX8fLRTrd0aH+gAJWeDj1YfAorYFdv6BqdIyQR1c5QVs5mJuaF4WIiNIvr0GaHeJVgC7/f+ORYNzSQhRqIrS4YjwDwxSE5yQn4Pry9+W9RoPppnw1uCEXDcxXI/5Pzw4CC5w+lBEY9QqU8aBlVnEKHHNIJoqiFbfVUf5ooyds8IXFFa98CUxvmI3ndnStvYe7l1fZjlEvnhhUOz5aXPGn0DXHXTW3IXS3hI2oEPLvC05q7yQbwfDbkfrwsWVJLpP0RaE+XjUm5ipJxQ/A8WM3xlub4H3eP/fic=;0vsi5sDjZs9x/6cxJwYTvg=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "The Promise and Peril of Facial Recognition"
+    excerpt: "Agencies are using the technology to identify the Capitol rioters."
+    publishedDateTime: 2021-01-13T23:10:00Z
+    webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 91
+    images:
+      - url: "https://images.wsj.net/im-284435/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "The facial-recognition app Clearview sees a spike in use after Capitol attack."
     excerpt: "After the Capitol riot, Clearview AI, a facial-recognition app used by law enforcement, has seen a spike in use, said the company’s chief executive, Hoan Ton-That. “There was a 26 percent increase of searches over our usual weekday search volume,"
     publishedDateTime: 2021-01-09T17:42:00Z
@@ -130,6 +146,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "L.A. Police Face New Limits on Facial Recognition Tech"
+    excerpt: "The new policy bans LAPD from using any other facial recognition technology beyond that used by the Los Angeles County Sheriff’s Department system. It also sets up oversight requiring LAPD to collect data on how the system is being used and whether it’s effective."
+    publishedDateTime: 2021-01-13T23:33:00Z
+    webUrl: "https://www.techwire.net/news/la-police-face-new-limits-on-facial-recognition-tech.html"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 39
+    images:
+      - url: "https://media.erepublic.com/image/FRsoftware.jpg"
+        width: 938
+        height: 623
+        isCached: true
   - title: "Police Commission approves new oversight for LAPD’s use of facial recognition, rejects call to ban the technology"
     excerpt: "The Police Commission approved a policy Tuesday that set new parameters on the LAPD’s use of facial recognition technology, but stopped far short of the outright ban sought by many"
     publishedDateTime: 2021-01-13T00:17:00Z
@@ -147,6 +177,6 @@ related:
         height: 473
         isCached: true
 
-secured: "zC3RsFe7mw7/CjvjdtioY9YjRchCQaG9c9ga51OpJ7mB4uKpW+L+xbGy0uwTWlvodGkbqT8AHOHP5aQUTSWvJ1eN9N9LHBcO0Z2meamcKI+ycSKkJu4yfQlJwCEP+CpvG7SLO6ATHuMeGuTJ337cTjhQY/r7JBAzTxS9PamSSoKQVGdaa4GEVsSqoWQIeKdl4cNMLXAw1+rCIavYLhwQnlvvjSXT9gCSEzwhMNQSIzWp5C/ZK56yBJfxtZVUPO7Tm+ahKYU0Q8WRDD4wBLGRi45fRhQkQqfGTNwanxWfaUKZg31goUo6IH99A7ahwT4Mw/Jyn6UFzgadHexVq2xXDa+DDk5veg8aAtboPuhXMM8=;oy5XpKhsizvNE4ICxRyR3w=="
+secured: "kHvVJbWv/sleplxNU3Vw1U+hiMKNZdQQAjiVzfAUmzoUZ/zjwoalc0D6wmyfx+9R3s2UhDGgd/VD5Ig/oEEpkgGHU0UCK3ofnOaEQWKhLCyvd4kMHwF8MmvGCojHLWkJXBHt5Glt8SC1CCSv6DApmGkFqWHhvhcO1Jn0KTRX49oZfJYxaiWL3B7BYEF/ruVQShwBqFcYqFsmt/iFmxUnQjn4A+uV6mXLVH4s+sR5uE6Vd18L9tbLM0cAn0WKIX36sTngxgehJqjKneznRJ/7bV+P7mfejiGIgvy9iIWIXP1Sq5st66/QwBmTvirNi4Hm35hPsF0qjUqKjkZooovtT/q7ZUhRS9v9sVHXnDW5JPrlZiSwL5/EdrlNWUgTRAQWfrzsLpzffG0qy/oue4GdLfkrnrX7AD+E4UiR1qNMf0GXGD9ev++5+8+4oHOEBwsjl82c9M+Uv+fEjZ8ylsXmxV089XfiAlTXhtY4PrVib/ogs4ex6n/DzC20r63AVN0VTRj91mBFPWyTAxyWDqJCEQ==;wMYdhRDLKR7haLb9sCjqGw=="
 ---
 

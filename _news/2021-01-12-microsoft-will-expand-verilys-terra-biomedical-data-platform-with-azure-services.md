@@ -44,9 +44,9 @@ related:
   - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
     excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
     publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
     type: article
     provider:
       name: ZDNet
@@ -68,20 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Microsoft AI Transformation Customer Stories"
-    excerpt: "Microsoft customer stories demonstrate how AI is transforming organizations of all sizes. Learn more about how they improved efficiency, customer service, and more."
-    publishedDateTime: 2021-01-09T08:27:00Z
-    webUrl: "https://www.microsoft.com/bs-BA/ai/customer-stories"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3tfwu?ver=6ced&q=90&m=8&h=600&w=1600&b=%23FFFFFFFF&l=f&x=0&y=0&s=1600&d=600&aim=true"
-        width: 1600
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth | IBM, Google, Amazon Web Services, Microsoft"
     excerpt: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth \\| IBM, Google, Amazon Web Services, Microsoft iCrowdNewswire Jan"
     publishedDateTime: 2021-01-12T01:15:00Z

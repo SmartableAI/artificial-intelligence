@@ -35,6 +35,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "LAPD's facial recognition use policy approved by Los Angeles Police commission"
+    excerpt: "The policy was approved with a modification for the Inspector General to work with the commission's executive committee to develop and ensure a \"strong oversight system.\""
+    publishedDateTime: 2021-01-13T23:56:00Z
+    webUrl: "https://abc7.com/police-commission-approves-lapds-facial-recognition-use-policy/9632866/"
+    ampWebUrl: "https://abc7.com/amp/9632866/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/9632866/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 55
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/9632776_011321-kabc-5a-facial-recognition-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ensuring facial recognition is ‘a force for good’ with Corsight’s new privacy chief Tony Porter"
+    excerpt: "A good deal of Porter’s work as a regulator was creating guidelines around how to implement face biometrics and answer to public scrutiny."
+    publishedDateTime: 2021-01-13T23:18:00Z
+    webUrl: "https://www.biometricupdate.com/202101/ensuring-facial-recognition-is-a-force-for-good-with-corsights-new-privacy-chief-tony-porter"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 27
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Leading Facial Recognition Technology Provider Corsight AI Appoints Former UK Surveillance Camera Commissioner Tony Porter as Chief Privacy Officer"
     excerpt: "Corsight AI, a leading facial recognition solution provider, announced today the appointment of the UK's former Surveillance"
     publishedDateTime: 2021-01-12T09:00:00Z

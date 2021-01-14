@@ -214,7 +214,7 @@ related:
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-12T09:41:00Z
-    webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
     type: article
     provider:
       name: Associated Press
@@ -264,6 +264,17 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "CES 2021: A closer look at artificial intelligence"
+    excerpt: "Have a conversation with someone who speaks another language on a whole new level in real time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 CES."
+    publishedDateTime: 2021-01-14T00:22:00Z
+    webUrl: "https://www.fox4news.com/video/889816"
+    ampWebUrl: "https://www.fox4news.com/video/889816.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/video/889816.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 37
   - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
     excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
     publishedDateTime: 2021-01-11T06:52:00Z

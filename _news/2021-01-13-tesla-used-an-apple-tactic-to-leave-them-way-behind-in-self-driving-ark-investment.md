@@ -9,7 +9,7 @@ ampWebUrl: "https://www.teslarati.com/tesla-apple-tactic-self-driving-car-ark-in
 cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-apple-tactic-self-driving-car-ark-invest-cathie-wood/amp/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "China to let self-driving cars be tested on highways"
-    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
-    publishedDateTime: 2021-01-12T08:10:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
-        width: 1198
-        height: 797
-        isCached: true
 
 secured: "fWpgOH39t8uHR26y7zqaIVPa4IdqAb/iPkSx5QpB3CKFcIhYCAs8sIT5PRU+zqOG4bvxdRfwFSMqRxXVs5TWYpOor7pVXTcMas1CdAgMGDVqASEejM5z0tfnMpjB7lqTQ5LdyKn/yoG/cYnG2gs3+hkhV0vltcg/lJOGfNY7EiZVpRgGb835zkT+8Fj1YbVuRe0N0BGMJW1IdWR72WRdmzyJEkSEfHSrzW6vCWAS6V4arlv9QKdd2WiP+Ju//lpfNSxwzo2XxITN5H3G7pncyqdCi8oji4vGJXNu34z73SDiqZ6gUYho5qQg82DrFok721t59+O/4wnbSibWklMmlQsN3smat9IGd1l1Vla/Ncs=;8C/DkddSDg3lfRRFdri6CA=="
 ---
