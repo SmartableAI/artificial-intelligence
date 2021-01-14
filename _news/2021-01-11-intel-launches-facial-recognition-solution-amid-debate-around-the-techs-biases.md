@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solut
 cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.geektime.com/content/images/2021/01/1ca31571-f685-4bee-85be-b55bac1216ec-1609950288.jpeg"
         width: 1431
         height: 966
-        isCached: true
-  - title: "Bemidji High School speech and debate coach receives national recognition"
-    excerpt: "Tom Lucas, coach of Bemidji High School’s speech and debate teams, was recently nationally recognized for his coaching work over the years."
-    publishedDateTime: 2021-01-09T14:41:00Z
-    webUrl: "https://www.bemidjipioneer.com/news/education/6832804-Bemidji-High-School-speech-and-debate-coach-receives-national-recognition"
-    type: article
-    provider:
-      name: Bemidji Pioneer
-      domain: bemidjipioneer.com
-    quality: 23
-    images:
-      - url: "https://www.bemidjipioneer.com/incoming/6474136-l49yoz-Bemidji-High-School-web-art.jpg/alternates/BASE_LANDSCAPE/Bemidji%20High%20School%20web%20art.jpg"
-        width: 1140
-        height: 712
         isCached: true
   - title: "Intel launched RealSense ID, a facial recognition tech"
     excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."

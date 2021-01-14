@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-14T06:48:00Z
 originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-corporate-news-technology-issues-86dc8aa8c25e4351f707914907814378"
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-corporate-news-technology-issues-86dc8aa8c25e4351f707914907814378"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Associated Press

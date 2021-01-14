@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "CES 2021 Taiwanese startup FiduciaEdge Technologies develops Edge security solution for a secure edge computing environment"
+    excerpt: "FiduciaEdge's software/firmware platform makes edge intelligence trustworthy, while protecting data privacy at the source. With FiduciaEdge's solutions, the vulnerable edge computing landscape can be transformed into a trusted/confidential environment with ease."
+    publishedDateTime: 2021-01-14T07:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "CES 2021 Taiwanese startup STO's indoor map bridges the gap of Google Maps"
     excerpt: "PRNewswire/ -- Spatial Topology Technology (STO) is the only indoor map platform embedded with both indoor positioning and"
     publishedDateTime: 2021-01-12T14:39:00Z
@@ -60,20 +71,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
-  - title: "CES 2021 Taiwan startup Singular Wings Medical breaks the challenges of OSA diagnosis with AI"
-    excerpt: "Sleep apnea, also known as obstructive sleep apnea (OSA), is a hidden issue in modern society that still awaits an effective cure."
-    publishedDateTime: 2021-01-12T14:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-singular-wings-medical-breaks-the-challenges-of-osa-diagnosis-with-ai-301206536.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "CES 2021 Taiwanese startup VoiceTube found the ultimate equation for efficient English learning"
     excerpt: "Launched in 2013, VoiceTube successfully created the biggest English language learning platform in Asia with over four million registered users. Users can not only find English videos with subtitles but can also engage themselves in a specially designed learning system for targeting learnings."
     publishedDateTime: 2021-01-13T02:04:00Z

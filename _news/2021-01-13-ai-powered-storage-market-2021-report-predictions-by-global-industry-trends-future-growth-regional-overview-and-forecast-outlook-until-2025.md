@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Asset Management APAC Market (2020 to 2026) - Industry Analysis and Forecast - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific AI In Asset Management Market is expected to witness market growth of 44% CAGR during the forecast period (2020-2026). From the past few years, financial institut"
+    publishedDateTime: 2021-01-14T06:48:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-investment-management-d53744c8ae134ea8839dbdc874cc9b17"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
 
 secured: "cEtg6HhnYbL8K5nakD1EKnQSFappuHTfHM2HJ/7muq8y45APipy+PM4p+AY1/LQc4Ta12NoKySpSF09CPnLZRM+5uPeINs6gVHapAeU6xNbIdWrQlAnEP6DKQAOyZpEXNHgoGF9b8T43pBu0zxCtYN2VVefPUsoIAxaty4bJv5+OCLHOdBEAlo5dj5p4G18zOGA+xpEnjjarBVzTuBVUt3D5271TqcmT9xzaVVYSg1TNqavKZJr2EPxn124/2e/cQk7pxjNyCLpEOfDt9ezJBfa5IWhOPfDxS/MYXq6EC7aoI3bbk8oqAbSkX6zPJhMbqxIqc1Ghypy9oXzvaGQvqQr+qCB0OFYtRBk2tkCwOQU=;TLElwKPwBvYLQ7Jv+Hzuog=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Bemidji High School speech and debate coach receives national recognition"
-    excerpt: "Tom Lucas, coach of Bemidji High School’s speech and debate teams, was recently nationally recognized for his coaching work over the years."
-    publishedDateTime: 2021-01-09T14:41:00Z
-    webUrl: "https://www.bemidjipioneer.com/news/education/6832804-Bemidji-High-School-speech-and-debate-coach-receives-national-recognition"
-    type: article
-    provider:
-      name: Bemidji Pioneer
-      domain: bemidjipioneer.com
-    quality: 23
-    images:
-      - url: "https://www.bemidjipioneer.com/incoming/6474136-l49yoz-Bemidji-High-School-web-art.jpg/alternates/BASE_LANDSCAPE/Bemidji%20High%20School%20web%20art.jpg"
-        width: 1140
-        height: 712
-        isCached: true
   - title: "Intel launched RealSense ID, a facial recognition tech"
     excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
     publishedDateTime: 2021-01-11T11:36:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Growth, Size, Share, Demand, Trends and Forecasts to 2025"
+    excerpt: "Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. Request Sample copy of this Report @  Api."
+    publishedDateTime: 2021-01-14T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-growth-size-share-demand-trends-and-forecasts-to-2025-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
   - title: "Voice Recognition Market Outlook to 2026 | Latest Trends, Market Strategy with Opportunities, Growth Overview and Technology Forecast"
     excerpt: "Selbyville, Delaware, According to the research report titled 'Voice Recognition Market Size By Deployment Model (On-Premise, Cloud-Based), By Technology (AI-Based, Non-AI Based), By End-Use (Aerospace,"
     publishedDateTime: 2021-01-13T09:37:00Z

@@ -56,6 +56,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Qualcomm acquires chip startup Nuvia for $1.4 billion"
+    excerpt: "Qualcomm yeterday announced that its subsidiary, Qualcomm Technologies, Inc., has entered into a definitive agreement to acquire NUVIA for approximately $1.4 billion before working capital and other adjustments."
+    publishedDateTime: 2021-01-14T08:05:00Z
+    webUrl: "https://www.poandpo.com/companies/qualcomm-acquires-chip-startup-nuvia-for-14-billion/"
+    ampWebUrl: "https://www.poandpo.com/companies/qualcomm-acquires-chip-startup-nuvia-for-14-billion.amp"
+    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/qualcomm-acquires-chip-startup-nuvia-for-14-billion.amp"
+    type: article
+    provider:
+      name: poandpo.com
+      domain: poandpo.com
+    quality: 59
+    images:
+      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0121/qualcomm.jpg"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Qualcomm Inks $1.4 Billion Acquisition Deal With Chip Startup NUVIA"
     excerpt: "Qualcomm has signed a $1.4 billion deal to acquire NUVIA, a data center chip developer launched by former Apple executives."
     publishedDateTime: 2021-01-13T20:49:00Z

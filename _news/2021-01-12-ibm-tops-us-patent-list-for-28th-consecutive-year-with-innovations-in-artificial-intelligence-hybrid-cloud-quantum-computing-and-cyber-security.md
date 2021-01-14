@@ -58,6 +58,15 @@ related:
         width: 1000
         height: 508
         isCached: true
+  - title: "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up"
+    excerpt: "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\""
+    publishedDateTime: 2021-01-14T03:42:00Z
+    webUrl: "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
   - title: "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy"
     excerpt: "Waymo LLC has raised a further $750 million ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than expected ..."
     publishedDateTime: 2021-01-09T23:59:00Z

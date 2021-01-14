@@ -55,6 +55,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Oracle Database 21c introduces 200+ innovations"
+    excerpt: "Oracle announced that Oracle Database 21c, the latest version of the world's leading converged database, is available on Oracle Cloud."
+    publishedDateTime: 2021-01-14T08:20:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/14/oracle-database-21c/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 24
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/01/14081625/oracle-database.jpg"
+        width: 1280
+        height: 851
+        isCached: true
   - title: "Oracle launches Apex Application Development service and Oracle Database 21c"
     excerpt: "Oracle has released its low-code Apex Application Development service and announced the availability of Oracle Database 21c on Oracle Cloud. Apex Application Development is said to make it possible to develop and deploy data-driven enterprise applications quickly and easily."
     publishedDateTime: 2021-01-13T17:01:00Z

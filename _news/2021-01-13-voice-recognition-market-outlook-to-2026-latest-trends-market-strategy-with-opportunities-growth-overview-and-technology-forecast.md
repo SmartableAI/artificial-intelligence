@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Growth, Size, Share, Demand, Trends and Forecasts to 2025"
+    excerpt: "Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. Request Sample copy of this Report @  Api."
+    publishedDateTime: 2021-01-14T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-growth-size-share-demand-trends-and-forecasts-to-2025-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
 
 secured: "Bu8bDvb7wgcTVYECxDu6TasdxAcVlnQx/f9f3cVUGYNfW5jVmeCJPVRy3ptQzushSff3PByTmezsL3//FJfXpzLuzJt7goPqgBQX+SmpAfL6+GPU+WOi2CVnmTOvisGP9slkSn1gPcxMrhBmXetVEn/GYHaqu+dUJ+PTCXrI7fOnEOOBGN1d3rYVeaaIvFgj/UXP4+LXCAVh3bp+hzXJHnUYLqunpmw5DoSAWSFVAjEAY8Od3DoH3RATfRGofKpeAgg1sUVAk3Eu3MRnURoWEOnKxaQUYOEcrdoAPrRYAdmmCklgo4vhNstkbo+wveH2Bel+1QIlPGofFUG/06eKfJpwrz7+uITMtmT7AtsKWFg=;jSZusB1Y8MN1iwiIWIqSRQ=="
 ---

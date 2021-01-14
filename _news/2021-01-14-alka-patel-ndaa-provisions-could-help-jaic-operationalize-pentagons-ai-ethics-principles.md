@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-13T21:42:00Z
 originalUrl: "https://www.executivegov.com/2021/01/alka-patel-ndaa-provisions-could-help-jaic-operationalize-pentagons-ai-ethics-principles/"
 webUrl: "https://www.executivegov.com/2021/01/alka-patel-ndaa-provisions-could-help-jaic-operationalize-pentagons-ai-ethics-principles/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Executive Gov

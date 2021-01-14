@@ -3,8 +3,8 @@ category: news
 title: "Mammography expert finds deep-learning artificial intelligence may improve cancer detection"
 excerpt: "The journal Nature Medicine has published a study co-authored by Gopal Vijayaraghavan, MD, finding that an artificial intelligence model for computer-aided reading of mammograms may improve the detection of breast cancer."
 publishedDateTime: 2021-01-11T16:10:00Z
-originalUrl: "https://www.umassmed.edu/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
-webUrl: "https://www.umassmed.edu/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
+originalUrl: "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
+webUrl: "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/"
 type: article
 quality: 29
 heat: 29
@@ -24,6 +24,6 @@ images:
     height: 341
     isCached: true
 
-secured: "EmTKYm9KGZrVXZxMdjG6EdYzWNBfE4dzuJ+fEN/I8ExU4HCl7Yb/2fFVw4J1OxIX2mS+xBn8kClqi83LaYAtuU65YYqogEzhdz5oirCWNNXIftTzfNsIBNbIae8O11a0VG47RptCB0PDJQiT3R3uVmLO4Mpf0i32glYTF2XMH/yJuHhIf4XQxAcYfFNVUMp9R9pqHmhH14EOS5fOIXW/bJmYFjjA5JW9aei2KUlVVYSU2G1iKVg/tYZzN0sbrE8nD5kzOcVTY6BEdXG+bVOjE2yEWebIRxSPG+iluj8Q2/F+y9jPDX4kB97U0jmMKtIvHdekrd7YvbsNsjbvgtpk1iTm7qIh4Nzwtunsfc5x4fGHN26RPxux00QXnxtqYOzlJV+eHnU9nxi3qscT016lWGz9c2ApXs1y5NnpPP/vOUacB6GzGsr6FsQrtuaMCThOFWRNZ+7f4A2Rmvz1zg5rJatpA/daLcK/IY3Lfubb6MHjR+B5bSy4nNuweav6T21ncRHb880KhsO0RxTz8ub6TA==;6PFNOsfFVYyQTawAIOiUgg=="
+secured: "oo6wTHRaVo8E/8p8pW3JHrmo9ifcc7u5dRh4XcSQy5UWpqdnwMrWPyOfFhE4heC6jj6BMlDEnoHUaKb0I9cSiNUqNnx2xuQourvBRkjStpCasZUjdOFHA8g9HthsKGUrCdn4Iuq5kat8stvMyTK2PuQMeFBro/73BlMEBPruChKyvT1FIrNRAM6Y3gRY2eLCt1r4kRfwPbvrjdXVSW2mkqIUPptd5vUdlJdii6blE7Cn8L6tqOeF+oWl7VdVR/7bavx2JaKqtTOA+sUOmICjOdW0eydjaOK5xrid7Y3uJBYbhO89LtvoxmJnXUBcmZj/ftYFMieBCLcs7uQteofQaTMypOBnI90rgSFEWIFJ9N0=;hv+TNX1arNrbH+vVik1cIQ=="
 ---
 

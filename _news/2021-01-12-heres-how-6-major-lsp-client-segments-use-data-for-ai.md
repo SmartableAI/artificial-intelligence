@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-12T08:20:00Z
 originalUrl: "https://slator.com/data-research/heres-how-6-major-lsp-client-segments-use-data-for-ai/"
 webUrl: "https://slator.com/data-research/heres-how-6-major-lsp-client-segments-use-data-for-ai/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Slator

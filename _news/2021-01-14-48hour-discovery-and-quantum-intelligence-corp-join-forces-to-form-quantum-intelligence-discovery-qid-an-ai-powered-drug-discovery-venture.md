@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-14T06:50:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-pharmaceutical-manufacturing-e53dc64eef454e44b8960fcbcb183965"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-pharmaceutical-manufacturing-e53dc64eef454e44b8960fcbcb183965"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

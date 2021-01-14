@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "CES 2021 Taiwan startup Singular Wings Medical breaks the challenges of OSA diagnosis with AI"
+    excerpt: "Sleep apnea, also known as obstructive sleep apnea (OSA), is a hidden issue in modern society that still awaits an effective cure."
+    publishedDateTime: 2021-01-12T14:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-singular-wings-medical-breaks-the-challenges-of-osa-diagnosis-with-ai-301206536.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
     excerpt: "GenkiTek, a spinoff company from Taiwan’s Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
     publishedDateTime: 2021-01-13T06:55:00Z

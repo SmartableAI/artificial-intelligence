@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-14T06:37:00Z
 originalUrl: "https://www.wsfa.com/2021/01/14/ala-universities-join-apples-new-learning-center-hbcus/"
 webUrl: "https://www.wsfa.com/2021/01/14/ala-universities-join-apples-new-learning-center-hbcus/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WSFA

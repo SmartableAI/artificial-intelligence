@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "CES 2021 Taiwan startup Singular Wings Medical breaks the challenges of OSA diagnosis with AI"
+    excerpt: "Sleep apnea, also known as obstructive sleep apnea (OSA), is a hidden issue in modern society that still awaits an effective cure."
+    publishedDateTime: 2021-01-12T14:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-singular-wings-medical-breaks-the-challenges-of-osa-diagnosis-with-ai-301206536.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "739RTZghMDcC6V0weXpQ4QZe3NnToZgHKraGpIhyE9ZFgYYxUxzBDam6H+xXl5gwgzLt4cGPe5C48sJp1MEO/yewrAO/doNyXAxgqYhFz0dkJkGZqnAXgVT0ZsU5k5LIElZ6yseMJypPjdCah6JfiSH+4nyTz2ywuOOPIp0+JH3Uplagovc29S0nQo/zNMX5PEwMK5xwnJ0hMYdOhhv1HuRvha8QujPX7zjTwN4BHRDATsPwcnRCAIANB98u9CbfFW7gKn9cL6CzgRpyemLYdpFrYDIOhe7z+vs899mbRBRv9GzLPKl2B9Bai6/4Azcpv/+qRYfOpuJwUxAlKQREYKg0qEjYNE4x4y6pCogC/CQ=;ipJKzVEhFXrjLkJh1M7z9w=="
 ---

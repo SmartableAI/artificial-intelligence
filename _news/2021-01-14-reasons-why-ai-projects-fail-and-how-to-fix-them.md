@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-14T05:52:00Z
 originalUrl: "https://www.eweek.com/big-data-and-analytics/reasons-why-ai-projects-fail-and-how-to-fix-them"
 webUrl: "https://www.eweek.com/big-data-and-analytics/reasons-why-ai-projects-fail-and-how-to-fix-them"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: eWeek

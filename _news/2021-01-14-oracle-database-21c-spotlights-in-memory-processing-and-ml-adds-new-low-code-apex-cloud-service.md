@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/oracle-database-21c-spotlig
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Oracle.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Oracle Database 21c introduces 200+ innovations"
+    excerpt: "Oracle announced that Oracle Database 21c, the latest version of the world's leading converged database, is available on Oracle Cloud."
+    publishedDateTime: 2021-01-14T08:20:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/14/oracle-database-21c/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 24
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/01/14081625/oracle-database.jpg"
+        width: 1280
+        height: 851
         isCached: true
   - title: "Oracle Extends Database Leadership with Oracle Database 21c"
     excerpt: "Oracle today announced that Oracle Database 21c is available on Oracle Cloud, including the Always Free tier of Oracle Autonomous Database. Oracle Database 21c contains more than 200 new innovations,"

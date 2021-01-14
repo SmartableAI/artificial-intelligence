@@ -51,20 +51,6 @@ related:
         width: 1431
         height: 966
         isCached: true
-  - title: "Bemidji High School speech and debate coach receives national recognition"
-    excerpt: "Tom Lucas, coach of Bemidji High School’s speech and debate teams, was recently nationally recognized for his coaching work over the years."
-    publishedDateTime: 2021-01-09T14:41:00Z
-    webUrl: "https://www.bemidjipioneer.com/news/education/6832804-Bemidji-High-School-speech-and-debate-coach-receives-national-recognition"
-    type: article
-    provider:
-      name: Bemidji Pioneer
-      domain: bemidjipioneer.com
-    quality: 23
-    images:
-      - url: "https://www.bemidjipioneer.com/incoming/6474136-l49yoz-Bemidji-High-School-web-art.jpg/alternates/BASE_LANDSCAPE/Bemidji%20High%20School%20web%20art.jpg"
-        width: 1140
-        height: 712
-        isCached: true
 
 secured: "6/ehvC9NBWHCQjZGEWfUR9IG11JLCpcK0fIF0O1zd2WE/ZheybNzjG1pNFDtQT6ZmRCoxHcA+68Ke4KTD6LhgMbWBx+UcsIgSCzFqphursfwOdj7Q/xRAbvTbg3psGz1waDp2jbwHvQhYfq7PXTJUG5NHeXPx1hmMSRhV4A8UzqvkgUhzq93RIjf0kafPIRBXGJteinNZFdR68pNkmgEYbISEqUEDbXCjRi9LyH+h56d6KHOR+r72v1MKN3bKRWTnMRL7KNxBrzvlVGnSPEjy/1W3zpjzGtuN3SnowAIJsTDrb3F6gfV86C8KawjbVRqBUmq+SSBsqgoiUTeB7u+jf5/DgccVOj1SiMZTRS8lHDz/rr53dL+umQ4uQJ4wxNcotU+UUzVj91XbrU2XNDs9J2oaF2f/bmPgo6eYy5ORC0KjglTlP3nDueqxjOVGbh1Qc/6bopZfF+atciqRL9YKl5zTvO7VALdN8Pm6MpjfGpFhJ7+u6OU3iuBI5bFUo4VqJPPkVPeeOAhQbmAyLSv1Q==;2vtdqfqBCTCP4jfcsx0A2w=="
 ---

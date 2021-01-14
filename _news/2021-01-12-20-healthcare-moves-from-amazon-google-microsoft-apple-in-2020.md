@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 553
         isCached: true
+  - title: "Microsoft president begs tech industry to improve its ethics"
+    excerpt: "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past."
+    publishedDateTime: 2021-01-14T05:56:00Z
+    webUrl: "https://www.techrepublic.com/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
 
 secured: "mMgKxk0yX/IozYLO/Y3r5iduPVpuBoUOOh1GPMHOm7WiJUiX18tY5A228rsPc7yR3cSAFK8FrW0oXySEbupSHe+vcpFqOGZ09QtaSiQUDDbkeMbHt2z0uyFz4ymqCNmF9jE/jwhOcfuWoicQw0x1A7QN2uNfCv2AzcLChoxdavoooX3X31Nb75Hh2Mh4us5nGUb8Ok7zLvis4qonRM82X2MLvvjXjkAYHwvhq5mhMjapFbWh7bqaR/VYVxetNfO1cwZbBXJb9/Tt62qv5Mp7ftKq37gLau4VeBDK4MXzZeQq/8WSOw4J+qwI9VHWi8xNNEQb9FMiizZUFa3nSgl0He0Ulo4JQiuq6JTeSsOH/Sw=;nMUh3KaJZlNSMJba6k43mw=="
 ---

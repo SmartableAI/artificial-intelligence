@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Broadridge partners with AI company Fligoo for predictive analytics"
+    excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
+    publishedDateTime: 2021-01-14T08:06:00Z
+    webUrl: "https://www.leaprate.com/forex/institutional/broadridge-partners-with-ai-company-fligoo-for-predictive-analytics/"
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 19
   - title: "VoiceBase Delivers Predictive Analytics to Slice, Giving Local Pizzerias a Bigger Piece of the Pie"
     excerpt: "VoiceBase and Slice power delicious insights by processing pizza order calls with predictive analytics. San Francisco, CA, USA, Jan. 12, 2021 (GLOBE NEWSWIRE) -- VoiceBase, the leading AI-powered voice analytics company,"
     publishedDateTime: 2021-01-12T11:49:00Z

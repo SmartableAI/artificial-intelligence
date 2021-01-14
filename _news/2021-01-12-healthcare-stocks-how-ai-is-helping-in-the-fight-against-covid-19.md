@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/healthcare-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/healthcare-stocks-how-ai-is-helping-fight-covid-19-1029957368"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,22 +23,17 @@ topics:
   - AI
 
 related:
-  - title: "How AI Is Helping New Startups Succeed"
-    excerpt: "Artificial intelligence or AI is beginning to have a large impact on businesses of all sizes. Startup businesses are also taking part in the AI revolution. The importance of AI in today’s business world cannot be overstated."
-    publishedDateTime: 2021-01-10T21:57:00Z
-    webUrl: "https://www.smartdatacollective.com/how-ai-is-helping-new-startups-succeed/"
-    ampWebUrl: "https://www.smartdatacollective.com/how-ai-is-helping-new-startups-succeed/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-ai-is-helping-new-startups-succeed/amp/"
+  - title: "Artificial Intelligence Stocks: The 10 Best AI Companies"
+    excerpt: "AI could be the 21st century’s biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future; it’s here."
+    publishedDateTime: 2021-01-13T05:00:00Z
+    webUrl: "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/"
+    ampWebUrl: "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/"
+    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/"
     type: article
     provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 61
-    images:
-      - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/05/image-from-rawpixel-id-1199041-jpeg.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: WTOP News
+      domain: wtop.com
+    quality: 66
 
 secured: "HjCB6GVagOQKZhs+f9WVSKSnsmOmEe0GfPBuAaNDBbhqV/WkHxJUQLRRAP66xVQXiQmoSt+zEo8GEqHWYq2LNRKGKfcp84evT83GeqBJTaqEq+hYwq72COOgbV298isOFqgB0KUrBCPdoYCZWWDkVrkfAyo9Clb00yCzWxYiWt47dT9IIrpy108cPug1Yr+SwbP4bnkQX0thEzQhUN9MspUnUiseATahGOU5qzIz+5g7Zq2fb45TFW2JXjxmHTnAT3RyfNSN4HLlaluT/EvyftrWVOx5/gy1J1JFaroMncHn0OlSD/xa+2W6maROVPaqyUrGtoDL+Z8xhQmpmeoswUQY1f6NIJfMj4g5BdjciDQ=;Va/enKMPy1lm7/MS5GTdoQ=="
 ---

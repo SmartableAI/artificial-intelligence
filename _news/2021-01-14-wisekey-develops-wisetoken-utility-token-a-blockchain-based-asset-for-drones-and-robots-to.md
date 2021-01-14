@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-13T17:40:00Z
 originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-industrial-products-and-services-robotics-drone-aircraft-5dc5fe3f5a4dd0a08e93e7749a9169b3"
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-industrial-products-and-services-robotics-drone-aircraft-5dc5fe3f5a4dd0a08e93e7749a9169b3"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Associated Press

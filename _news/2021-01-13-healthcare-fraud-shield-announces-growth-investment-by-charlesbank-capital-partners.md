@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-13T14:47:00Z
 originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-health-care-industry-3c701526d68a0ce0cbd1943ef6165606"
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-health-care-industry-3c701526d68a0ce0cbd1943ef6165606"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Associated Press

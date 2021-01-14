@@ -43,6 +43,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing Market Share 2021 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2025"
+    excerpt: "Global Cloud Natural Language Processing Market Research Report focuses on market size, status and forecast 2020-2025, along with this report also focuses on market opportunities and treats, risk analysis,"
+    publishedDateTime: 2021-01-14T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-2021-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2025-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."
+    publishedDateTime: 2021-01-14T06:44:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-global-trade-import-and-export-prices-middle-east-asia-e6cebd1d76284a94a4b2061ea8050aa6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "D9OUzEUwjDNXv8JlQ3uXhsrMbucwv7Jn9NMmBBlz/Q6SSbLnBz8MBgtwHBUVQmOlq8soSehfNijQRgl0Ah9PNSkf6d8rCEkTKQzARAbCjkyu3xs82nymQ1H1BKyh7X0sJKckzaewlddoDijxbu/X14YE0PUpDkOVb4RJOjvU+NHH5zK8/woSSy25TL+arCcg0ORZ+mf1CwlSk+hKlA4EQMvq0PKBdOVqf4pOQMIPfSMSs6GCbGEP01bGjan+kwOk45M+SElEOLlg23vmYeIg7o8KlhUJCOEja0LU+2VKPINJdaokYJlF+o2egqfQyaO6Ruq9aNvvSNA0Bcxyk3JKY2sHMLMbla+tIpg2sEh7ClE=;LDF/9qEJfVVOXOer3fjBwA=="
 ---

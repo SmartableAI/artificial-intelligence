@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-14T05:43:00Z
 originalUrl: "https://techwireasia.com/2021/01/risk-management-ai-ml-artificial-intelligence-machine-learning-platforms/"
 webUrl: "https://techwireasia.com/2021/01/risk-management-ai-ml-artificial-intelligence-machine-learning-platforms/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techwireasia.com

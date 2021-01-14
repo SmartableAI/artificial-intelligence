@@ -72,22 +72,6 @@ related:
         height: 371
         isCached: true
   - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker,"
-    publishedDateTime: 2021-01-14T04:37:00Z
-    webUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/"
-    ampWebUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 83
-    images:
-      - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1"
-        width: 2560
-        height: 1340
-        isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
     excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
     publishedDateTime: 2021-01-13T13:00:00Z
     webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
@@ -101,6 +85,15 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
+    excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker,"
+    publishedDateTime: 2021-01-14T06:58:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-amazoncom-inc-north-america-new-jersey-5c70fa87dfac11c621e1e31094d0b116"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
 
 secured: "YJDHkYB7+sb6hJIoulOUluk6RUcu7ZycvCEH7G7pK1zoE8zLGWrYDcl5mwf8GeJ+rIHqR16UhOvltemBEva1+gdQC187fiQVlYKwLkDCx0HBkYT9CDpIHuVGUbuSgOf74dXbK6qrLNakVlCWqRsJqvaO9ljv5qPQ9nPEeuhORTHviQLcsDUGzeT4GR81GQs0SoFzwN6jw4MuzOrSOcenODqy8szJWOrJm3XM5i/DteDzShO8xdX7nN0ATmxFgD7+4Ko8DrATfpffGmxrYJvgKbTmVOKQWDoY7NBWabVj/qTjM/cXQdd/IHrg55/z1WJuswbbFldagRmHTH5fbXiyK2U9Joi3UvKyi49xFeQzDW0=;q0mh46lyXRdngNM6GrqjLA=="
 ---

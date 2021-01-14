@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-13T20:35:00Z
 originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21152306/vita-whats-trending-in-rugged-board-systems"
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21152306/vita-whats-trending-in-rugged-board-systems"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Electronic Design

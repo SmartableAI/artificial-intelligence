@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-14T00:31:00Z
 originalUrl: "https://www.reuters.com/article/uganda-rights-technology/ugandans-lose-voice-digital-rights-in-pre-poll-blackout-idUSL4N2JM3GO"
 webUrl: "https://www.reuters.com/article/uganda-rights-technology/ugandans-lose-voice-digital-rights-in-pre-poll-blackout-idUSL4N2JM3GO"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Reuters

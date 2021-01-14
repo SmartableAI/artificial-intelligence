@@ -43,6 +43,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing Market Share 2021 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2025"
+    excerpt: "Global Cloud Natural Language Processing Market Research Report focuses on market size, status and forecast 2020-2025, along with this report also focuses on market opportunities and treats, risk analysis,"
+    publishedDateTime: 2021-01-14T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-2021-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2025-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."
+    publishedDateTime: 2021-01-14T06:44:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-global-trade-import-and-export-prices-middle-east-asia-e6cebd1d76284a94a4b2061ea8050aa6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "kkahVhtWxUTRQav8d3CLQ/HmA01jvjaIlIoeuxujMrzg2ZSXxtviKPBZjcZzNvezjYD89vsdXk5kAd4rb3w06gtxBvAVe5m57rxBVHuPxk3I3egSLvDgyZDQ90CKV7pvNMYuWDwYSgtxdf8Px+QLd9UoHHFiDe1guNH9CwivkNsexGMgmLFo5sEBUxOeS+cNw47i3VHnpUlaPGbwV6Jh2gnQgDXanc9kfNrPy2pXkgmPsfbwprnv7rMo47L5DBbdC1UC42HSV2B7xtQr7JH7GI1t9gRUbArlJzNHghcOyvhRdczRXuslbuog4L7Zkm/EhjeDzvava/9XicqOgq5YAKmF5juTiVC0Tnd2mV5BM4Y=;zcRhpa5iNOYo9DT0VO8QiQ=="
 ---

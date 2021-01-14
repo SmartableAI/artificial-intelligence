@@ -67,6 +67,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Broadridge partners with AI company Fligoo for predictive analytics"
+    excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
+    publishedDateTime: 2021-01-14T08:06:00Z
+    webUrl: "https://www.leaprate.com/forex/institutional/broadridge-partners-with-ai-company-fligoo-for-predictive-analytics/"
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 19
 
 secured: "DyDI7RJvkigFfEQNFZxxXux6i3xBFDqSB2cyqcLa9TIqDnBxquayAe+J5fsK674UNujPSkk1h7CGs7sHeoAFdFzORMGQLeE17Yp89WlWF8A3OtCdqwu7he3g5DYsPLhXUkqValZOsqik16aORcEYxaPGnmZCTMaYbiN3vbHxqIPyYhUEk8WNahXcZLtasmZMrlqlCFQxVL69xVEZAqE3En/6Jpd2YyqUPu3egiiT/5JWzrYKnLB6O/aI4RqO02+QUyDyYJ8a/QnHAbQbJN7ZZqFBBH732iEkOryDjdR8/lIxx+w7EdUfAdyoVUmgVkWOp7d2WGJsBeHlmJocApnTi0hvqPzB7hNs/TsCh8loV/M=;Qars/jMKum5zRsOnsVGGBg=="
 ---

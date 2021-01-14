@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-14T06:21:00Z
 originalUrl: "https://www.compsmag.com/news/hacking/machine-learning-to-prevent-cyberattacks/"
 webUrl: "https://www.compsmag.com/news/hacking/machine-learning-to-prevent-cyberattacks/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Windows

@@ -28,6 +28,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 2
+  - title: "HiberCell and Biodesix Initiate Broad Collaboration for Companion Diagnostic Discovery, Development and Commercialization"
+    excerpt: "Biodesix leverages multiple technologies with its proprietary artificial intelligence platform to discover, develop and commercialize diagnostic solutions for unmet clinical needs"
+    publishedDateTime: 2021-01-14T06:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-biotechnology-drug-trials-e1214f6c93aa4ac28fabaf54b6dd37be"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "0XKmngo7MRSwLlK7YstsJR/uNZmyJALVMYCAMTHMFPlS8uXN5GP00OpODrYgrxzjODxxCx8Q8QsstHz1SyKbEOWKqOKxNBS3itWSomm4lxa+BL0TmmSsTu9ForSchhpgAp8NsEH6FzhmHeVgjkw9U8MQ/LdAc2HZzXBHxjdWQR7etwU+RPZCtylQGG+UZLubgGscxoNGci2xJE2h+SF8V7cAH8NotIkzCRrBapb3/9Z1ZiYTRRdUMP83rO1gbgYc8cHQMGe3nWKAM29fnL5RyACPTnk0uvWZHZlrMnw5sGSzlJNybz0pGzYAeYVT+6h0TbssCkg+ybxyVhu5zzqv2L8I4U700WscNpk5Cni8UgU=;6QaOah4syguV2rBJMVGI1A=="
 ---

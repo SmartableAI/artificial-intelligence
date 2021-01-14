@@ -57,6 +57,15 @@ related:
         width: 1000
         height: 508
         isCached: true
+  - title: "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up"
+    excerpt: "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\""
+    publishedDateTime: 2021-01-14T03:42:00Z
+    webUrl: "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
   - title: "IBM leads in quantum computing, Ford in driverless car patents"
     excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
     publishedDateTime: 2021-01-13T01:40:00Z

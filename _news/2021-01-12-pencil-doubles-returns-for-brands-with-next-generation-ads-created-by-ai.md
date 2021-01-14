@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-12T11:18:00Z
 originalUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-34ae906bc1bfe90897718e81283bf549"
 webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-34ae906bc1bfe90897718e81283bf549"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Associated Press

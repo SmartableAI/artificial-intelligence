@@ -28,6 +28,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 0
+  - title: "HiberCell and Biodesix Initiate Broad Collaboration for Companion Diagnostic Discovery, Development and Commercialization"
+    excerpt: "Biodesix leverages multiple technologies with its proprietary artificial intelligence platform to discover, develop and commercialize diagnostic solutions for unmet clinical needs"
+    publishedDateTime: 2021-01-14T06:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-biotechnology-drug-trials-e1214f6c93aa4ac28fabaf54b6dd37be"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "zOcK6GRNH3kLZ1PTWQKdJqvIdx5r6UhT6cAAKB1Y2EmodDAFEtUj1jQaFPdbdAo1OZn09isg31aLWYzyPHVvFtGiz7+BlnhY6UpztLABWvqEpDWHGcVr0ywGLXudGaMCoQ91MhWGAgV1eof0Bf6HLmfL9eTJochX4+ZMOYopE9HDzqyzvpneU48ThRinpV+WowaSU+8vPC5kt8RM5nIOG7Y5jSe63b0aQm3q0bZ+6uLGkbZoAj3bfhrkTYXyxJfIavr7EG8ra7B7D0W7bD2voqCk0dXVBz4cK85EOpFf4HliVhQz/IQGQPi2LKN5T6nlQ9T2YYY752hwMq6+W7GYX+1rVyDoGGMahpA3ZXvnIdO8/CjsPumD9vgTHuQ84hTeX/FmwYuu6Mt/Tj36ZWXWGJNPcUTTuk3zD+dQNWaSBnYyOTgn1JCLq9FOeqOS6iMIrf839lG8f0ZbPpSxkSQT6TbuOIpMYKF25LvoFN52FHwtgCSjb9iEi045AgqXwa/VAnPh70bAq92011OVvIam0g==;A1cXOmWl4QPKjB7dI01ehA=="
 ---

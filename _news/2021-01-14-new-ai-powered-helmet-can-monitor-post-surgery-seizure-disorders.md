@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-14T06:15:00Z
 originalUrl: "https://www.zdnet.com/video/new-ai-powered-helmet-can-monitor-post-surgery-seizure-disorders/"
 webUrl: "https://www.zdnet.com/video/new-ai-powered-helmet-can-monitor-post-surgery-seizure-disorders/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: ZDNet

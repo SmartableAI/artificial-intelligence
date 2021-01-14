@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
 type: article
 quality: 112
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 553
         isCached: true
+  - title: "Microsoft president begs tech industry to improve its ethics"
+    excerpt: "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past."
+    publishedDateTime: 2021-01-14T05:56:00Z
+    webUrl: "https://www.techrepublic.com/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
   - title: "20 healthcare moves from Amazon, Google, Microsoft & Apple in 2020"
     excerpt: "Amazon, Google, Microsoft and Apple all played a role in the pandemic response while forwarding their strategies in digital health. Here are 20 moves they made in 2020. 1. Amazon is rumored to be making plans to expand the Amazon Care program,"
     publishedDateTime: 2021-01-12T14:45:00Z

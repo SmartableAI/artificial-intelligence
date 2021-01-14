@@ -265,6 +265,20 @@ related:
         width: 800
         height: 889
         isCached: true
+  - title: "CES 2021: AI steps into 3D foot scanning"
+    excerpt: "Foot scanning technology and orthotics leader Aetrex Worldwide this week showcased the next generation of the company’s 3D foot scanner, Albert 2, at CES 2021. Albert 2 combines computer vision, machine learning,"
+    publishedDateTime: 2021-01-14T08:08:00Z
+    webUrl: "https://gadget.co.za/ces-2021-ai-steps-into-3d-foot-scanning/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/ALBERT_PRINT_AD.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "CES 2021: A closer look at artificial intelligence"
     excerpt: "Have a conversation with someone who speaks another language on a whole new level in real time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 CES."
     publishedDateTime: 2021-01-14T00:22:00Z

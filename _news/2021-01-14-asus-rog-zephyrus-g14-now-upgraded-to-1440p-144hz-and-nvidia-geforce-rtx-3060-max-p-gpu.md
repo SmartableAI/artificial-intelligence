@@ -57,6 +57,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "NVIDIA Introduces GeForce RTX 3060 Next Generation of the World’s Most Popular GPU"
+    excerpt: "PTI takes no editorial responsibility for the same.) Powered by NVIDIA Ampere Architecture, Delivers Up to 10x the Ray-Tracing Performance of GTX 1060; Starting at INR 29,500 Bangalore, Karnataka, India – Business Wire India NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU."
+    publishedDateTime: 2021-01-14T05:26:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2021/01/14/pwr6-nvidia.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2021/01/14/pwr6-nvidia.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2021/01/14/pwr6-nvidia.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 33
   - title: "Asetek Liquid Cooling Advances Overclocking Capability of New GeForce RTXtm 30-Series GPU Cooler from MSI"
     excerpt: "Asetek, the creator of the all-in-one (AIO) liquid cooler and the global leader in liquid cooling solutions for gaming PCs and DIY enthusiasts, announced that OEM Partner MSI has introduced a new series of graphics cards based on the NVIDIA®"
     publishedDateTime: 2021-01-14T02:53:00Z
