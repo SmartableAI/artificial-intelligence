@@ -36,6 +36,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
+  - title: "Controversial chatbot leaves lessons on AI use ethics"
+    excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use."
+    publishedDateTime: 2021-01-13T06:40:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/0573ca44e97c4371b32c6db43eedfa53.jpg"
+        width: 640
+        height: 453
+        isCached: true
   - title: "GM Financial's AI chatbot proves saving grace"
     excerpt: "When the coronavirus pandemic swept the U.S. last March, shuttering auto factories and forcing most of the country into their homes, GM Financial's chief experience officer Bob Beatty had his hands full."
     publishedDateTime: 2021-01-13T18:20:00Z
@@ -50,15 +66,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Controversial chatbot leaves lessons on AI use ethics"
-    excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use."
-    publishedDateTime: 2021-01-13T06:40:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 34
 
 secured: "qOs0DEt/T/kKhoKCZoa7yqpH97je7f252x5LJkT2pLFiP2Uwk6kFz3kCThAmMmgqXdWAZw1agtDhC4OFyFL6967CGRCP7aoU8bbRoWxIKvsac7r4CkeWpgt+jtAxqU2HEkrBzO0aQg9aWOWT6/GIykis99i0XAE/9hfpX4IcwoKhvhFMc4BBIcr4YbdOVkxRLlTt1b5GUXal/m4ciYOSuDDaMJarvMc69rxCSX1+voC84L1ewcN/03hP+Knm+t42m6FOh1Zv1eUMU99jCqAtwSnqEvsXTqzTCt74HVGu4pHTkuc9xtmkNXmGBQNb2RhpbvDCrZVsRrtKTqAnWKhvQNce04U3MqA7OpvJV5HvTpaU0RIsoqv2dXfvT8HZXGBQQ6epOh1amSImdYzn3wX7k2XyWzar4TZQpFkhIHszbhURw3H7s+AejyOwtIbw6OcOvzOWBWLZKto5uxRHr+9nXwwU9Eb3xItUv71ExGNWmMc/VVZe1JYwssUOb3Q05ZFnZAKQzGOBTfQMML92km/gIQ==;nGxy2kSA40irBt1SExikeQ=="
 ---

@@ -234,20 +234,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
-    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
-    publishedDateTime: 2021-01-12T09:41:00Z
-    webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "LG unveils autonomous robot with disinfecting ultraviolet light"
     excerpt: "LG has unveiled an autonomous robot with disinfecting ultraviolet light. The company says the newest addition to its CLOi range of robots are aimed at hotels, schools, offices, restaurants and"
     publishedDateTime: 2021-01-13T15:20:00Z
@@ -315,6 +301,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
+    publishedDateTime: 2021-01-11T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210111005230/en/UBTECH-Showcases-New-UV-C-Robots-at-CES-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
   - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
     excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
     publishedDateTime: 2021-01-11T06:52:00Z

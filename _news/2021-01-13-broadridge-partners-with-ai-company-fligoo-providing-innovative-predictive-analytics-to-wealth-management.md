@@ -1,57 +1,57 @@
 ---
 category: news
 title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry."
-publishedDateTime: 2021-01-13T14:21:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
+excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
+publishedDateTime: 2021-01-13T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
+webUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
+    width: 2697
+    height: 1414
     isCached: true
 
 related:
-  - title: "Predictive healthcare analytics company Lumiata raises $14M"
-    excerpt: "The company sells those predictions to healthcare plans, as well as to providers, especially accountable care organizations, that are risk bearing health systems. \"If you're in the health plan world,"
-    publishedDateTime: 2021-01-14T12:02:00Z
-    webUrl: "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m"
+  - title: "New AI Platform Provides Proxy Voting Data from Broadridge"
+    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data,"
+    publishedDateTime: 2021-01-12T12:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
     type: article
     provider:
-      name: Vator
-      domain: vator.tv
-    quality: 54
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/20897.jpg"
-        width: 320
-        height: 240
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Cognitive Analytics Market technological to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2021-01-13T18:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13"
+  - title: "New AI platform provides proxy voting data from Broadridge"
+    excerpt: "Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
+    publishedDateTime: 2021-01-12T17:31:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provides-proxy-voting-data-from-broadridge"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Broadridge partners with AI company Fligoo for predictive analytics"
     excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
@@ -62,18 +62,7 @@ related:
       name: Leaprate
       domain: leaprate.com
     quality: 19
-  - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
-    excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
-    publishedDateTime: 2021-01-14T12:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19158792/scanmarket-expands-analytics-capabilities-with-the-acquisition-of-artificial-intelligence-company-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19158792"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19158792"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
-secured: "8Qwbrkuppwxnc+kFj24PjXQZF1XWsjcW+1ZOX4tFZCAxHDaxYg8bK+LHo+0rq9otvkvuOYu19JhPSfAKZM6JbBGodQUVxWt9WqxwkzJBdLEQUrih8RXnvjFEsD8ortifR92bDErcfVdxbzaeexMMx2Mk41FtR6V1yM39ReF0+ellwRhv2YVUg8nQPZLQ3+d8v+ESTK233fzA4jAVDBm1hfHH0ZSKTfT0f6f0I3ZPk0QZLPSNNlsOWsn0Cq4ivDJakKd+7bsfLpwi8O2bfpDv18wvVxlK1vvyUDJ3/HbLiOhjHXlt3jADyk0CR1DVoXiclSoFmwBa3Ap7XZrSdphrZrN68Hkz7oGVTbKQ5QOXTnA=;KPsnFODaQ6IMHNCl9+hLTg=="
+secured: "xh2YSQ4yVf/NbOVB1aFy8wDj7oM9T+uRBOLJYYdWsjuUHYh4bwyckOAy107Hs41l1KyxbNktO9yqPFffgER87FyUQzvOMRlS/mcKp+RW7GEHMmXxPOI2CYbclPRCobowhl6l4WbAOeTFoHzGgUyRwc83veYDwnL13CZWL9DbblFvl1I64DoX59uK1UH2wdif4HKZ+vlxGdswTe7WiYVS/QsjL3h2jydgos88NOJi6rWBNnvDuoZUCJ3wsZXt5LYTrykokPmPBpAqCseVpDXjC2+C1AbBgKBHYlQZ6IOl0+IhhIfbvENbHqY6Iw9uUTT4TcioYY3YBjwUE7Tf0YjNLXal8AMMWByzCRN1H2SuS0I=;UFiJN8YuFHt/n7KIvfMPyg=="
 ---
 

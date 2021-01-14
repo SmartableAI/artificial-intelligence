@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-he
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "FDA Outlines Plan for AI and Machine Learning-Based Software"
+    excerpt: "FDA has released its holistic approach toward giving guidance for artificial intelligence and machine learning solutions. The federal agency’s first AI/ML-Based Software as a Medical Device Action Plan outlines five actions that the FDA intends to take,"
+    publishedDateTime: 2021-01-13T21:31:00Z
+    webUrl: "https://www.mddionline.com/regulatory-quality/fda-outlines-plan-ai-and-machine-learning-based-software"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 54
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan132021at40448PM.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Computer's learning ability improved by tweaking AI software to function like a human brain: Study"
     excerpt: "Washington: Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
     publishedDateTime: 2021-01-13T03:56:00Z

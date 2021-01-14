@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-data-management-a5965ab21c5ae0ec332861daaad132e4"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-    excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
-    publishedDateTime: 2021-01-12T21:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 21
 
 secured: "NLiynIhWVx8q9E1OmKp/vKjENZ+ss5Z9WbPXs+yYGLJY4PtPVUCaQr+ktPrLeoduYPc7B/EazMIOUoBEjV8kwg2QXH+gyeuBBg8q5khLrwiWqodKacemlxkLp1XV9iBWHB2Zh9aBQUPdmo+9GCsE74rKYDHvpl1EbDWUCuCRuqxpDUXXQH9sPPKmS/PLO8moYLU+Z1op7ajl2yCbs51OwMTUDRHW6aWJ4ubDCgPFNV+q2PCovWrxL7036o08c1zMBE1eWacA3UuFSOdT9i9Oa7hQC0Do/R6aHhtMx+xSBpYalKBo8W1jHrwBS4kxGmVrdnXKBXtlZAvOX9OFI27NwwgjBwLiIE67zNvAbRPoIvI=;7orIkJQGkfJYLaTMgTZJjA=="
 ---

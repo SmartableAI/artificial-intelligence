@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/ping-an-uses-artificial-i
 webUrl: "https://www.prnewswire.com/news-releases/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-301208159.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "Ping An Uses Artificial Intelligence to Drive New ESG Investment Strategies"
+    excerpt: "Access to data from alternative sources can uncover hidden risks and opportunities PR Newswire HONG KON"
+    publishedDateTime: 2021-01-14T17:41:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-14/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 65
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Isz8TtrHIL32LbdebKM0XZORVx3EJTR3LjrG+L0Auli8pYS1R9E7PwuBwsCxjY10WVaQjTAbSD1cggs5HUp395FH3+tcMtGndgeXJxkPWFDj3fgM7Uhs+glz48JMw28LOh+S7poSlQMJbzZ7IbFi+aFVR352uu7R7hv1xO39zfcFmhuo8ir9MpLJhmiOOWfT34d3kRispeonzOr6dg9lSeGVGomPPi3slzO9hiV0GL95Nf7qnc0z7lY8ckvnUBrvVFlmQNTfKoc7PILYKNkvNNXqevYXd9CbQ4Myz5jE7/xtkp05ANEAq11IrNvV8oIsCYv121l9I0xymCXMQlb8VJkD0yJpZHNuFVvSpk2jH+I=;/FTb2DgU+G7rNeZJMl/bcg=="
 ---

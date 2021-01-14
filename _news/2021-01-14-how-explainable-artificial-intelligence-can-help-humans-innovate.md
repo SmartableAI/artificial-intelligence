@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "How explainable artificial intelligence can help humans innovate"
-    excerpt: "AI algorithms can solve hard problems and learn incredible tasks, but they can't explain how they do these things. If researchers can build explainable AI, it could lead to a flood of new knowledge."
-    publishedDateTime: 2021-01-13T13:18:00Z
-    webUrl: "https://theconversation.com/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
-    ampWebUrl: "https://theconversation.com/amp/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
+    excerpt: "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ..."
+    publishedDateTime: 2021-01-13T08:02:00Z
+    webUrl: "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php"
+    ampWebUrl: "https://www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 72
     images:
-      - url: "https://images.theconversation.com/files/378380/original/file-20210112-23-1yp7zx5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "5n8Gs177Cc/NYAfm10NIVMppV5jhBMHkZI+nWoBPGP9s8R2N8JiwXl+jaecr3ymfGZEzmkaYNz5mlq920h2bRJd0zrDty+z0hOBX3iZua3h7107O7AGSplDKgvCdQkNT5olEcQTuB7zMNzCxUCoHeKYRmOasif/2c78ufj0PHSrYYCOyo075WJAaqsmB+SnJ5dNi929Y1WQWWHogyFx6r+Q5/VpJZ5cvfxPtjKN8K3m2Zp3s3qLxEloC46TgBlohTxIdDybt9oMo5XaObwG9CRBvPiHjgn5rX1peD1ztFsLKFpx4pf+dxbFbD6jdEMtmr02+DX8ax1h8ZkYsH2xy7EBWnb11pDJ+U8bISzvHJnwTG6LUg/ElRzgcITbcJDXamt/YG2rwjvcywi5v2vM3bOlofCArSb+x40QSyQThQZKGiHp5MmKo7+l578YIDhFVUkid4YEUD4VmCDGRlIja3rjRQ4HzpDYDbaYelZ8w9BG+yiLOwvecV53vszk6D4zBIgANfvO3jQHnam34P/mYLA==;5tn3Hl51861BAEH2nCKfsg=="

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "How explainable artificial intelligence can help humans innovate"
-excerpt: "AI algorithms can solve hard problems and learn incredible tasks, but they can't explain how they do these things. If researchers can build explainable AI, it could lead to a flood of new knowledge."
-publishedDateTime: 2021-01-13T13:18:00Z
-originalUrl: "https://theconversation.com/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
-webUrl: "https://theconversation.com/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
-ampWebUrl: "https://theconversation.com/amp/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-explainable-artificial-intelligence-can-help-humans-innovate-151737"
+excerpt: "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ..."
+publishedDateTime: 2021-01-13T08:02:00Z
+originalUrl: "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php"
+webUrl: "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php"
+ampWebUrl: "https://www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
 type: article
 quality: 72
 heat: 82
 published: true
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/378380/original/file-20210112-23-1yp7zx5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 792
         isCached: true
 
-secured: "B0L38QQZr/YnPSM8/7gNkyJvob4BI4ss/Wqk81eVCCpQd4tOScp0fBu9XgVfQrB/FvufOKP62HXNUCpNpy4dpWnEXN+nvzs9n+INdMl/G5R5MjAlzE/bBpdWF5CxhX75qhqB/6elsv6jNhqUR28LjSNNBFDm33Jbc6HTVe1/VQAsZD7jB4sH10iGeHVVcDbyiEePSACgjZNVdSv6qOIvKHxcAe1CnKD0ewOLUSepuy0f17AUiQhbr7m2yl5P/pu31Egt4FVfi66cE39Bd2/xJK1TXWAHJ7OArzHJmA17W+moghEm3dkWOLPAcXN0OcKuNxkOXPFlt1Z46UzzH9xgvdA0xX5ztTSLc+sHiux5V+K0sWT4xtfZUhbET6e873oXt0UxwjN0jJQB5N/xQMSEgEsp6kaB/qUzFMWKfd8mqmNUJTq8UcaCEvWgHA4lnw0bGZBjbedi9pT+7xTje6t72C+7UEqKWS4mtN5K5QOLfFUle1klPmfOx2vDF8kcILi6WIBWoyyRksWPeNiyDOKV6Q==;Gwv2s5raqVBBAx4dUuSsmw=="
+secured: "mM86VAkQQg+9T61e13N6AP8P5J38ErSS/itOoE2A4HB6O9cB6pDIuGTrZ9DcSYCje/IlNPoEcRj5CKH7O4wZkR7it3aTIVQyN+L3lC5WN3jkymLgBlzw0Zj8jymB3V9l25nGbq6Om04CsykAn1rwTFbSPPTlxUmMF7Fzmb+USZTf7c1apzsrPu0A266rK+W5JphjaaYWGySdYiZIuqNvYHa2Dy/2a3Uu56cjljQOXE2nPKaEwVLqVAXm3xCETqna4ieUhlEOdqNVCmi5osrWjgSDC1HKZMNfPCk+rGjoNBGI/lmI3nAP0pchMqEyl+efIQquJ/UW1hbcvkKiWs+UcAiNtYsp7Wez5R5mz/sGmlU=;UlqzCgPymxO8vo2dFyoArw=="
 ---
 

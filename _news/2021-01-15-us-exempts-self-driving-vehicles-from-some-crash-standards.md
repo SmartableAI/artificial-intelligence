@@ -1,27 +1,25 @@
 ---
 category: news
-title: "U.S. Exempts Self-Driving Vehicles From Some Crash Standards"
-excerpt: "The National Highway Traffic Safety Administration said the new rules would exempt from certain crash standards automated vehicles that are designed to carry only goods, not people. The new rules, issued after months of deliberation,"
-publishedDateTime: 2021-01-14T16:56:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-14/us-exempts-self-driving-vehicles-from-some-crash-standards"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-01-14/us-exempts-self-driving-vehicles-from-some-crash-standards"
+title: "U.S. exempts self-driving vehicles from some crash standards"
+excerpt: "The outgoing Trump administration said Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
+publishedDateTime: 2021-01-14T18:37:00Z
+originalUrl: "https://www.nasdaq.com/articles/u.s.-exempts-self-driving-vehicles-from-some-crash-standards-2021-01-14"
+webUrl: "https://www.nasdaq.com/articles/u.s.-exempts-self-driving-vehicles-from-some-crash-standards-2021-01-14"
+ampWebUrl: "https://www.nasdaq.com/articles/u.s.-exempts-self-driving-vehicles-from-some-crash-standards-2021-01-14?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-exempts-self-driving-vehicles-from-some-crash-standards-2021-01-14?amp"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "WUMF18NOJ0HOBhuLr0m6xU3xlzZiG2/egU1v2bz1gl6TStfWztwFw4UaYQ5Nv4eBR+qWLgDtnnMx2lBueu4d4ZXbjzJs72HiJrqePuVoEgCBBceT9sQLqNT+QjvRbOx/fMpwQ2CsgX8U0UK8OyML6OwKA5HI5C6kQVR7lKdfwCEmREE3WquORWQifQU6Lg9NdQ03n6MtNu3bebFPLXN4NtKuWYIQ9OtocKapWFH81WR3iX/5UGnLH/ZnFHUQZfNX18/xkU7uWgzXWFHR4ugt6do0awih1UwRVnrRkkEbChzpXItnpkbE8EYpA4B6k7emLdapGuCYd/xsiQzcrhReG20IM6ut+ua462gU7xIok0c=;ZpNFyar3s53/YpR9ihz+nA=="
+secured: "sYSUes62duQUxJPyeh/BuTJzsHXIYVrqgoSVXh+Qcx6/GSd8tPwOqnotGcBFXZPnIGwXy6m+a+Au/AHd/y+h9NbTu0SZVfqtbohh8bAQimyKSHgHI6vzHLycpP+bQs6N2jPYBFto7IdMBpr+MkAtcWD6YN+qOC/1MgofIQoWm98lg4AthjI5hx13aJqV0XXbAFqsd33Yrnwhar8bjKw7h9p1XwtSvpp8tL6f6tOSzu5p+BJkp3KTiFiOLR+gwYrkNFiF/Ne1doFtN3eceT2LGaMHgmI9EViFU/jt6IVhymbzEfJnHe55I1YMJNgl/5mPa0sFMt3B8f9f37/ogKq2OSAHpZ0UchFVbBAbtZe5zie9APXI+AxVTcqB8d0LTgTau40oVebYsH5xha74LM9QP+eANlL/FTZ9SOudtl2T2Qt3wKD+phBbUIa/hbD0/Zyk9CIS/yvNTgCd66V/gjfW1ejFhdiOAwiiyvEvAOwl5LwkD2gcbxKFwhWQUziQ/5YxqZGvkr8UTiTSBrlLy+LkeA==;f+GC2cXakSPjqH96IoD+Yw=="
 ---
 

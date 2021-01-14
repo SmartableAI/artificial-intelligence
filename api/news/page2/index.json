@@ -2,6 +2,254 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-14-surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection.md",
+      "title": "Surveillance group exposes disturbing Huawei patent for AI-powered Uighur detection",
+      "excerpt": "Researchers from IPVM revealed that Huawei and a range of other Chinese tech firms have filed patents for spotting Uighurs and other ethnic groups.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-13T145309.087-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/",
+      "publishedDateTime": "2021-01-13T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-certification-programme-in-deep-learning.md",
+      "title": "Certification programme in Deep Learning",
+      "excerpt": "The Indian Institute of Science (IISc) and TalentSprint have launched a PG level Advanced Certification Programme in Deep Learning. The 10-month executive education programme will be taught by a team of inter-disciplinary faculty from IISc and TalentSprint through live and interactive online classes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/certification-programme-in-deep-learning/article33571120.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/certification-programme-in-deep-learning/article33571120.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/certification-programme-in-deep-learning/article33571120.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/certification-programme-in-deep-learning/article33571120.ece/amp/",
+      "publishedDateTime": "2021-01-13T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-oracle-database-21c-spotlights-in-memory-processing-and-ml-adds-new-low-code-apex-cloud-service.md",
+      "title": "Oracle Database 21c spotlights in-memory processing and ML, adds new low-code APEX cloud service",
+      "excerpt": "Because COVID drove customers to postpone upgrades last year, the latest annual update of Oracle database packs two years’ worth of new features. And it’s adding icing to the cake with a new low-code/no-code developer cloud service with a free tier to draw rookie developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "originalUrl": "https://www.zdnet.com/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/08/ce523dd4-fe30-4673-b761-3850204c001b/low-code.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "publishedDateTime": "2021-01-13T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-humanai-nabs-32m-seed-to-build-personal-intelligence-platform.md",
+      "title": "Human.ai nabs $3.2M seed to build personal intelligence platform",
+      "excerpt": "The last we heard from Luther.ai, the startup was participating in the TechCrunch Disrupt Battlefield in September. The company got a lot of attention from that appearance, which culminated in a $3.2 million seed round it announced today.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/",
+      "originalUrl": "https://techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1193843525.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/amp/",
+      "publishedDateTime": "2021-01-13T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-apple-reportedly-weighed-buying-arguably-the-most-fascinating-ev-startup.md",
+      "title": "Apple reportedly weighed buying arguably the most fascinating EV startup",
+      "excerpt": "Apple reportedly weighed acquiring or investing in electric vehicle startup Canoo, potentially tapping its innovative drive-by-wire platform as it works on its own autonomous EVs. While",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/",
+      "originalUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/canoo_Design_Exterior_07.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/",
+      "publishedDateTime": "2021-01-13T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-automotive-artificial-intelligence-ai-market-to-boost-business-scope-with-key-players.md",
       "title": "Automotive Artificial Intelligence (AI) Market to Boost Business Scope with Key Players",
       "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
@@ -61,7 +309,7 @@
       "originalUrl": "https://uk.pcmag.com/processors/130961/ces-2021s-chip-announcements-mobile-takes-center-stage",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -365,48 +613,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-how-explainable-artificial-intelligence-can-help-humans-innovate.md",
-      "title": "How explainable artificial intelligence can help humans innovate",
-      "excerpt": "AI algorithms can solve hard problems and learn incredible tasks, but they can't explain how they do these things. If researchers can build explainable AI, it could lead to a flood of new knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/how-explainable-artificial-intelligence-can-help-humans-innovate-151737",
-      "originalUrl": "https://theconversation.com/how-explainable-artificial-intelligence-can-help-humans-innovate-151737",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/378380/original/file-20210112-23-1yp7zx5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/how-explainable-artificial-intelligence-can-help-humans-innovate-151737",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-explainable-artificial-intelligence-can-help-humans-innovate-151737",
-      "publishedDateTime": "2021-01-13T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-back-to-work-say-hi-to-the-new-office-robot.md",
       "title": "Back to work? Say hi to the new office robot",
       "excerpt": "For robotics developers, promoting employee and customer confidence in the workplace through new health and safety tools is a prominent business priority for 2021. The clearest example is the surge in disinfecting robots,",
@@ -507,6 +713,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-how-explainable-artificial-intelligence-can-help-humans-innovate.md",
+      "title": "How explainable artificial intelligence can help humans innovate",
+      "excerpt": "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php",
+      "originalUrl": "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php",
+      "publishedDateTime": "2021-01-13T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -931,49 +1179,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-avaya-extends-aws-relationship-to-support-ai-capabilities.md",
-      "title": "Avaya Extends AWS Relationship to Support AI Capabilities",
-      "excerpt": "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
-      "originalUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png",
-          "width": 272,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
       "title": "Job Screening Service Halts Facial Analysis of Applicants",
       "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
@@ -1022,196 +1227,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023.md",
-      "title": "Healthcare Artificial Intelligence Market Share Analysis, Future Trends, Growth Insights, Size Value and Research Insights By 2023",
-      "excerpt": "Jan (Heraldkeepers) -- The influx of COVID-19 patients requiring medical imaging diagnostics and definitive healthcare is estimated to augment",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023-2021-01-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023-2021-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-the-best-tech-of-ces-2021.md",
-      "title": "The best tech of CES 2021",
-      "excerpt": "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html",
-      "originalUrl": "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210112170333-ces-lead-image-super-169.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-all-hail-your-new-robot-vac-overlord-irobot-roomba-i3-is-here.md",
-      "title": "All hail your new robot vac overlord: iRobot Roomba i3+ is here",
-      "excerpt": "They’ve dusted down the iRobot robot vac range and added the Roomba i3+ which looks and performs a treat iRobot has taken the dust covers off its brand new model, the Roomba i3+. This manufacturer is known for producing some of the best robot vacuum cleaners money can buy and the latest addition to the Roomba robot vacuum lineup comes packed with new features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.t3.com/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
-      "originalUrl": "https://www.t3.com/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/fLKRdQrKG4hg7j8MkG7aoU-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.t3.com/amp/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
-      "cdnAmpWebUrl": "https://www-t3-com.cdn.ampproject.org/c/s/www.t3.com/amp/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
-      "publishedDateTime": "2021-01-12T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T3",
-        "domain": "t3.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-the-weather-company-raises-gpu-storage-forecasts.md",
-      "title": "The Weather Company Raises GPU, Storage Forecasts",
-      "excerpt": "For those who follow supercomputing, weather forecasting is one area to watch for systems that are designed for maximum capability. Unlike the many other",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
-      "originalUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/29ibm-web-superJumbo.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
-      "publishedDateTime": "2021-01-12T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -3,10 +3,12 @@ category: news
 title: "Microsoft president begs tech industry to improve its ethics"
 excerpt: "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past."
 publishedDateTime: 2021-01-14T05:56:00Z
-originalUrl: "https://www.techrepublic.com/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
-webUrl: "https://www.techrepublic.com/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
 type: article
-quality: 66
+quality: 106
 heat: -1
 published: false
 
@@ -22,6 +24,12 @@ topics:
   - AI Ethics
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg"
+    width: 1200
+    height: 799
+    isCached: true
 
 related:
   - title: "Top cloud providers in 2021: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
@@ -71,6 +79,6 @@ related:
         height: 300
         isCached: true
 
-secured: "VfrO/3i+XXdphIG1o1S93yYJvYK1u0xe+jfW0EdEBErwGWSlDF0/VTlTDVjcrPW8GZqMqQF2+JFmx7O6gWwesiMgcU2guYoJsXhERMdOpehjHHsWaS/EUIv/od2g5tIJQ7zf1y9qfbxpEFTQSWqDIl+Aj6oVhf7nIi+rkTePz1a1tS841CZTNzpRQSUWfDHpLg0MU0LA1lOTyvrJW36Km6WN/5Rh8qxc1MDWkq8ynffcfznXiENzS6Ed8X7qYfdguVRHev8xygfr3B5cqKnGc4aqzJWmcZuKzYAvcWbva6DLcCd9WdeeomcLbpDrRY2Tj1ck1BULTRdbHzoklrsULCzDUsKGkjppnp70r2cvjfNcq/zrkFUj1Qbvt/un3r0jO4Z/0CvhoqlHXC8A33n08YARpES7jXjio71P9lsGDmng+iRXoF5CBZ3leWTfJRlQpADDW6HouDypS1ZbhSTlmATzmr/V40ZBdKhFQacYKqtzCptgJGcZ/4UtcbGs0KJngIombNIZRJHJWjvLOb5fmQ==;TnE82aERptKZwf0Q7HldNQ=="
+secured: "6aMN6ZyBGBOQ2kKkpO/KiKrnD8sdySdNCOtdQQqtaqKFCFp+mVSr4anPLH6UIZtbnY4GCLHe2AndajgrmL3yG1H3ANycobFf/cKLJnXGJTh3wKYyfbQio4j4kRVQ+mjwJGmuOHPywuvRva/txRfvEqN5y1bL9Fcor8QKRvoGBZxm6WguLmb8jL0Vob/L7fZ0Q7LJAM/DlGK752w5YUPS3Q6S5lj8e5+3T0hu/jyITOm2nKWvsEUmsiv4BHjWJEW2Lsm8LvYqO3cPEBRqy5CbwUmER0DWCMVqqcVWlZEzkba5kmiLRq3vOrtQAl8MAGMV9+fM85Z6iQiBukQf5O3uU93ivPoLd4do4O9Bsm6dJgo=;GBIngJZVAzj++QwbMX3l1w=="
 ---
 

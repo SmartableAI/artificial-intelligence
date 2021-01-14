@@ -637,6 +637,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-01-new-teslas-get-free-trial-of-full-self-driving-option-but-theres-a-catch.md",
+      "title": "New Teslas Get Free Trial of Full Self-Driving Option, but There's a Catch",
+      "excerpt": "Well, now you've got a new incentive to make your own magic happen: three free months of the company's questionably named Full Self-Driving Capability feature, as decreed on Twitter by Elon Musk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/",
+      "originalUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motortrend.com/uploads/sites/5/2020/10/2020-Tesla-Model-Y-Dual-Motor-Long-Range-25.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/amp/",
+      "publishedDateTime": "2020-12-31T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
       "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
       "excerpt": "The roadways of metro Phoenix may not look much different 10 years from now, but how we travel them might. We may have more vehicles without drivers behind the wheel, said Andrew Maynard, an associate dean at Arizona State University’s College of Global Futures.",
@@ -1351,40 +1394,6 @@
       "provider": {
         "name": "MoneyShow.com",
         "domain": "moneyshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-a-legal-first-bc-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla.md",
-      "title": "‘A legal first’: B.C. man accused of dangerous driving for sleeping in self-driving, speeding Tesla",
-      "excerpt": "In what Canadian legal experts are calling an unprecedented case, a B.C. man has been charged with dangerous driving in Alberta after he was allegedly caught sleeping in a self-driving Tesla as it ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/",
-      "originalUrl": "https://globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/amp/",
-      "publishedDateTime": "2020-12-24T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
         "images": null,
         "publishers": null,
         "authors": null

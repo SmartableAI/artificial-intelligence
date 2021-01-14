@@ -3,12 +3,12 @@ category: news
 title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
 excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
 publishedDateTime: 2021-01-12T21:38:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
 type: article
-quality: 58
-heat: -1
-published: false
+quality: 56
+heat: 136
+published: true
 
 provider:
   name: Destination CRM
@@ -18,7 +18,6 @@ topics:
   - Natural Language Processing
   - AI
   - AWS AI
-  - AI in Healthcare
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
@@ -27,19 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces the global expansion of AWS CCI Solutions"
-    excerpt: "We’re excited to announce the global availability of AWS Contact Center Intelligence (AWS CCI) solutions powered by AWS AI Services and made available through the AWS Partner Network. AWS CCI solutions enable you to leverage AWS machine learning (ML) capabilities with your current contact center provider"
-    publishedDateTime: 2021-01-12T16:00:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-announces-the-global-expansion-of-aws-cci-solutions/"
+  - title: "Avaya Expanding AI-powered Contact Centre Capabilities To Improve Customer Experience"
+    excerpt: "Avaya expanding AI-powered contact centre capabilities to improve customer experience, participating with AWS Contact Centre Intelligence. Sydney, Australia – January 13, 2021"
+    publishedDateTime: 2021-01-13T02:10:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 52
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/Site-Merch_ML-CCI_Blog.jpg"
-        width: 800
-        height: 398
+      - url: "https://m.scoop.co.nz/stories/images/1803/vodafone_logo.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
+    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
+    publishedDateTime: 2021-01-12T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Avaya partners with AWS to expand AI-powered customer experience for OneCloud CCaaS customers"
+    excerpt: "Avaya expands its AI-powered customer experience capabilities for Avaya OneCloud CCaaS customers, through a relationship with AWS."
+    publishedDateTime: 2021-01-14T01:18:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/14/avaya-aws/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 43
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
@@ -55,20 +84,15 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Amazon announces global expansion of its Contact Center Intelligence tools"
-    excerpt: "Amazon Web Services Inc. is expanding the focus of its Contact Center Intelligence services that customers can use to add artificial intelligence capabilities to their contact center operations. AWS CCI can now be used with customer’s existing contact center providers to deliver new efficiencies,"
-    publishedDateTime: 2021-01-13T00:29:00Z
-    webUrl: "https://siliconangle.com/2021/01/12/amazon-announces-global-expansion-contact-center-intelligence-tools/"
+  - title: "Avaya expands AI-powered contact centre functionalities with AWS"
+    excerpt: "Avaya expanded its artificial intelligence (AI)-powered customer experience functionalities for Avaya OneCloud CCaaS customers, through an extended relationship with Amazon Web Services (AWS). As an AWS Partner offering AWS Contact Center Intelligence (CCI) products,"
+    publishedDateTime: 2021-01-13T10:02:00Z
+    webUrl: "https://www.telecompaper.com/news/avaya-expands-ai-powered-contact-centre-functionalities-with-aws--1368430"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/CCI-web-image-side.24c04d2d367e37921da48fed7f5baffb9ee5b5cf.png"
-        width: 624
-        height: 407
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Cresta to Bring Real-Time Intelligence to Contact Centers with AWS Contact Center Intelligence Solutions"
     excerpt: "PRNewswire/ -- Cresta, the real-time intelligence platform for customer conversations, today announced its participation as a launch partner for the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions."
     publishedDateTime: 2021-01-13T06:57:00Z
@@ -83,6 +107,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
+    excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
+    publishedDateTime: 2021-01-12T21:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 21
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
     publishedDateTime: 2021-01-12T10:00:00Z
@@ -93,6 +126,6 @@ related:
       domain: morningstar.com
     quality: 17
 
-secured: "v6e3+tqo+VN6qKvSUmIt/loWSiRM828qNJDqcjIe/7SjJJV7qol/dHh2hjjSN5utDOYZ2wD+wPqw2ZNnHen6VMSl+fYsyC+Ml59wXqYq8awP3gYD2sR/Hv3jcCwbIaTEUXgGNsoJGz9+WxMxRd5O6epO/RLSW5Zm9fXq6NiOM0peTWeqAyBcQDfF+b0YENGrg2Shs17oR+Xc8aB/FT/vzcSxJikcc1bgt2H67UcN5WtBFlerReZ6CcO5+Uf2D/gNhSIlxRljJpjp+MIrpBB79+VltHnVKeqI9Shu7CaXE/LYFbi7nR9Gyhf4gPKrZctgBWRSdcCLtXFeBWH2i20t15arKfNC/CH9DenFIfbAH40=;3MrGdRu/ulJxBTzyo5kcvg=="
+secured: "yWCPvZ65ngzuNHaU3NxBT+RlUFA96SQtqJHL+vKcXMKC82DPgxpTKqAB158rOEGSZ/Np+9iPQHcLs28X1m3f+kwrMEu4jQ7cFp1uEXzxYq69KUphZRg0v2EiG0K9yS3avP7qst8xamCzYRBCykg0VmQ4WPkxgaP6pgNEA/ITzHIzYl1C7XQt3xqWIJS3Pbw9y+fCc3dRuKavSyVlUzxvmm53OCtAGPuif2DpVaaQEd+fvicnnNSkUmG2cIWg0iSSYrenPwaDuDnaFsaX3J7Gua0ZCudXF13T2+z+ZGnWUreKR1j8Z2jIFOr1cY6jAv5HovHXnTh0s+TG+2U9N68MPe+hqX/GeBiCfsRd9HUOH4o=;qhSqiLHJvcwXxjl0t/YMnQ=="
 ---
 

@@ -51,6 +51,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "CES 2021 Taiwanese startup STO’s indoor map bridges the gap of Google Maps"
+    excerpt: "STOMAP can be imagined as an indoor version of Google Maps. Users can use the map for navigation but for business owners, like shopping malls, we can provide offline data on where their customers go,"
+    publishedDateTime: 2021-01-13T07:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-asia-taiwan-east-asia-221467ff1d9f8e62dcabb387a5379a18"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CES 2021 Taiwanese startup developed dentall HiS: The next generation dental software system"
     excerpt: "PRNewswire/ -- dentall Global introduces the dentall HiS software, an E-commerce platform for dental supply, online/offline lecture and management consulting. The company intends to implement the software with multiple functions including ERP,"
     publishedDateTime: 2021-01-12T12:24:00Z

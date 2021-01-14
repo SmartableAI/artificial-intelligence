@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "AI and Big Data Analytics in Telecom Market Size, Status and Global Outlook 2021"
+    excerpt: "Global AI and Big Data Analytics in Telecom Market research report published by market insight reports explores"
+    publishedDateTime: 2021-01-14T18:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Predictive healthcare analytics company Lumiata raises $14M"
     excerpt: "The company sells those predictions to healthcare plans, as well as to providers, especially accountable care organizations, that are risk bearing health systems. \"If you're in the health plan world,"
     publishedDateTime: 2021-01-14T12:02:00Z
@@ -48,29 +62,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-    excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry."
-    publishedDateTime: 2021-01-13T14:21:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
+  - title: "AI-Powered Storage Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2025"
+    excerpt: "Market Research Future published a research report on \"AI-Powered Storage Market Research Report – Global Forecast till"
+    publishedDateTime: 2021-01-12T22:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-storage-market-2021-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2025-2021-01-12"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Broadridge partners with AI company Fligoo for predictive analytics"
-    excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
-    publishedDateTime: 2021-01-14T08:06:00Z
-    webUrl: "https://www.leaprate.com/forex/institutional/broadridge-partners-with-ai-company-fligoo-for-predictive-analytics/"
+  - title: "RetailNext Showcases Next-Gen Machine Learning Analytics and Releases 2020 Holiday Season Analysis at NRF's Big Show"
+    excerpt: "Onboard demographics are introduced as part of the enhanced machine learning capabilities, along with a Holiday 2020 recap report"
+    publishedDateTime: 2021-01-12T23:38:00Z
+    webUrl: "https://www.wboc.com/story/43161213/retailnext-showcases-next-gen-machine-learning-analytics-and-releases-2020-holiday-season-analysis-at-nrfs-big-show"
     type: article
     provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 19
+      name: WBOC
+      domain: wboc.com
+    quality: 31
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "eJx2EyHkwaLSYgeoy7LeJZs34Bv3jf1Tvq8lCoYitpfhcMb0ILQVyaKsc7MO5kykTSPCEgQb+Q18/LKqFieK4waHhk27YV1krMMZqn+j3hn9/LPwxz9Mycc9PaPgZGgXDDZWRsgGgDEynKj5yKq0Spav6g4sk7aSh7uHM6YcoXuBHeh/a04G2PzEJwL77FGbWUvLQtWgd172rYhXEtApiIIPh6IOVCAqNeN8IlRw7tdamn5EBzS2YqISzNzjdbRiRKqR1OiP5SOKjvpzJt3WZ853iW8A23EzT+owrp7jesxY26QawkInQig9oeKFKujrTnHHM1bVRmPUFhJTMB0cKYc0BWfFzdMzMZ+YWC83nqk=;Bo2chfnbW8n9P9ElrcrJ+A=="
 ---

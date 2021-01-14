@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 140
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Breaking-the-AI-​​wizardry-of-Microsoft-Flight-Simulator-1024x576.jpeg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Alphabet's Verily goes multicloud for Terra platform, turns to Microsoft Azure and AI"
+    excerpt: "The Broad Institute and Verily plan to use Microsoft’s cloud, data and AI technologies for their Terra platform, used for biomedicine research. Verily is part of Alphabet, the holding company that also includes Google - home to its eponymous search engine and the world's third largest cloud provider."
+    publishedDateTime: 2021-01-14T17:09:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 62
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
     excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."

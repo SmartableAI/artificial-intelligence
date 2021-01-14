@@ -232,20 +232,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
-    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
-    publishedDateTime: 2021-01-12T09:41:00Z
-    webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "CES 2021: Bosch turns to AI for a healthy and sustainable future"
     excerpt: "Bosch doubles down on AI and connectivity to develop intelligent, climate-friendly solutions for health, living, industry, and mobility"
     publishedDateTime: 2021-01-13T06:55:00Z
@@ -324,6 +310,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
+    publishedDateTime: 2021-01-11T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210111005230/en/UBTECH-Showcases-New-UV-C-Robots-at-CES-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "4+fGuuo4j7Or1rRiaavat0JzjEPvGtTA2mr/d39CYU9Q8kSIPH5etOkEHc/EgXYa72tCarG2oO2qAM0+2ZZkHia//46a/psEjKNlP3fvPyEZnJgKrvCJ0geD/W2azpARzh1WlcFu3EkF+B6NjMDUOqWTz3wQuah4QhwUQgGboNu2WTMO8MsERO4KNw1CWIFqHg19Q2IIAvL22QlIyjQjGs+/4fx8slZAHJ4k11ufg+55ngYYJ5Pnw9stGXs+VMi/Dh4NdHSmZ5FFpdGC/RJJyKvTrCT6y3i+I8Iv8sQGlGCaqKO8J+6t82PhQOzUBVRsjLF9gS/5pcK/dWZXOvFUmk5+LyS+YOHGSR6ALsm+3Pc=;3rBQ7nPwk0VeNBWVErHBHA=="
 ---

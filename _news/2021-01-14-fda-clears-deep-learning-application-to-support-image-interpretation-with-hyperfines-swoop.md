@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-sca
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine's Swoop™ Portable MR Imaging System"
-    excerpt: "Hyperfine Research, Inc. has received 510(k) clearance from the US FDA for its deep-learning image analysis software."
-    publishedDateTime: 2021-01-14T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19163668/fda-clears-deep-learning-application-to-support-image-interpretation-with-hyperfines-swoop-portabl"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19163668"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19163668"
+  - title: "Deep learning outperforms standard machine learning in biomedical research applications"
+    excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in their architecture."
+    publishedDateTime: 2021-01-14T17:40:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 46
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Deep Learning Outperforms Standard Machine Learning in Biomedical Research Applications, Research Shows"
+    excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging."
+    publishedDateTime: 2021-01-13T17:23:00Z
+    webUrl: "https://news.gsu.edu/2021/01/13/deep-learning-outperforms-standard-machine-learning-in-biomedical-research-applications-research-shows/"
+    type: article
+    provider:
+      name: Georgia State University
+      domain: gsu.edu
+    quality: 18
 
 secured: "McGfeoszBfoLZdBRqcSHEuKsi+v+RDRXepfjVjFxKoN0+W0EefHrE2dwOajuJWjLznnwZqwUTNIJddtrf2k65l5dQoBVZWAMSU66n/mAiBDDyntF/RSO66FSDw55TLGbel/NjleIJ1lmerqLGBWlULSK3CxvNJwOQAtTIj1SN40LFqFsZLZiV4DTveQbQO0yRY8WTHUPKcXXXZdS6cmeiB9HvHbPffvSov3RbUs6Cekg5mejWpSG05NIAFsROPkRVlXhm7VRKVcC7V5TZ529Pd+i4n6aG+HKBGJ4ZIHIW55dyaT1xsqydInc8ZZcpTjMRIf16Fg5f7wN4oObjoga/pdBYMJAc6u2g3VI5lJTCBo=;eAOu+TBojwnDJmZtRv/Ezw=="
 ---

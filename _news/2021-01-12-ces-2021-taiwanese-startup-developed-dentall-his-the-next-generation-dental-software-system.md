@@ -60,6 +60,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "CES 2021 Taiwanese startup STO’s indoor map bridges the gap of Google Maps"
+    excerpt: "STOMAP can be imagined as an indoor version of Google Maps. Users can use the map for navigation but for business owners, like shopping malls, we can provide offline data on where their customers go,"
+    publishedDateTime: 2021-01-13T07:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-asia-taiwan-east-asia-221467ff1d9f8e62dcabb387a5379a18"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CES 2021 Taiwanese startup VoiceTube found the ultimate equation for efficient English learning"
     excerpt: "Launched in 2013, VoiceTube successfully created the biggest English language learning platform in Asia with over four million registered users. Users can not only find English videos with subtitles but can also engage themselves in a specially designed learning system for targeting learnings."
     publishedDateTime: 2021-01-13T02:04:00Z

@@ -3,10 +3,12 @@ category: news
 title: "Controversial chatbot leaves lessons on AI use ethics"
 excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use."
 publishedDateTime: 2021-01-13T06:40:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html"
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html"
+ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
+cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/0573ca44e97c4371b32c6db43eedfa53.jpg"
+    width: 640
+    height: 453
+    isCached: true
 
 related:
   - title: "Controversial chatbot leaves lessons on AI use ethics"
@@ -59,6 +67,6 @@ related:
         height: 600
         isCached: true
 
-secured: "v1IMY4Trzs4dpAG5O/yrVb8LbwI731gdjJzqzEo044WR6XgCOJTY7Z25PFckRejOkO0SSY+M14uxKXFYx+4IC3QmqnBkvKkm+zUZQ0AsSLyL66LzQ4KlGJigzgifzglXTryWuQIMq+MtPteFpXHFSEmlVA6c9YN2Ei73QBOyybVlmYlV4vaqVG6W7XTqC8BO8q+cSL9tO4KRIGglI7yRQkn7fW1DoHx0ri5Q8e6OCmR/bwswv7pChBrnUn3XJFoeyFMHiJOZ6fzIxyng7hnRDe6+zuTLbiJXUVkFm7qgnX9BTpAq8VgXC39fLFbbn3EnpWzYA/o/0etTMaIyLMlLypKfgukjMUvPfTNiVklZb8Kgj20AXcGu53XJUSBNLB9L/UaCzySdNRgCwq66EJupLBUDFpRsOx1CxkKI6LkaRLSN/UepICuk7NOcPFlLyPBsHuP5tv3iOM2on7G5x4s3nba2amyC10vhbbmqtGlBRPc2qy31acH6QG2PftL69L7AUqcCyitv4au5HqPdanG9Fw==;fdRrWgX/FUS+jjHDZ7kcsQ=="
+secured: "o1GY4uWD8mjDx5bQxx7WBlDApJw2uqPttzCu4YnS2I8pLVsfchrz3eWB9WTj8SZtMl97EnT1UnetuqHF46yh68vedPSq8XB6lMoqUDPe+hrrwfxYcg391WsoQ0DFUJGsr6Z0mIUpIP7AziYkQY90OtJoWzJRH/8cLghlzyDiK9j78aZmnN/ofaWdkeWLDtDsHaueOscEvvokIZclxDQCC3ntjHdqmM03KGwxlzAeLaR5DRJ60+Aj24WhPNEIU0A/78BOqyr2tnnHhwLQSTqviZ0O2NP8azfh0cuhadmOBKAVmFn4XMSaGQiBvIcZwBmStVl1YpESqCQpEwiah+6nE86+YunlWU9rd7pAjFNdBK4=;X7Qt5ZvQiFJ/VK6/gAL7qA=="
 ---
 

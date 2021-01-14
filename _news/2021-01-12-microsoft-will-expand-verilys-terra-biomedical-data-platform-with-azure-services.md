@@ -77,6 +77,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Alphabet's Verily goes multicloud for Terra platform, turns to Microsoft Azure and AI"
+    excerpt: "The Broad Institute and Verily plan to use Microsoft’s cloud, data and AI technologies for their Terra platform, used for biomedicine research. Verily is part of Alphabet, the holding company that also includes Google - home to its eponymous search engine and the world's third largest cloud provider."
+    publishedDateTime: 2021-01-14T17:09:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 62
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Contentsquare partners with Microsoft Azure to accelerate digital transformation"
     excerpt: "Contentsquare partners with Microsoft Azure to accelerate its growth, drive peak performance and underpin successful innovation."
     publishedDateTime: 2021-01-14T01:03:00Z
