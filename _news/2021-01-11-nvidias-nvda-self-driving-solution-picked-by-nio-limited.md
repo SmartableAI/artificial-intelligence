@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "NIO Will Use NVIDIA Drive Orin Chips for AI Driving"
-    excerpt: "NIO will use NVIDIA DRIVE for advanced automated driving technology in its future fleets, marking the genesis of truly intelligent and personalized NIO vehicles. The NIO ET7 sedan will ship in China s"
-    publishedDateTime: 2021-01-09T17:57:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 76
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/01/nvidia-orin-press.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "NIO teams up with Nvidia, Qualcomm in self-driving car development"
     excerpt: "NIO has partnered with Nvidia and Qualcomm in the development of the next generation of automated vehicles. The Chinese vendor, which holds a strong position in its domestic electric vehicle (EV) market,"
     publishedDateTime: 2021-01-11T11:47:00Z

@@ -2,6 +2,40 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-21-bda-advises-inawisdom-on-its-sale-to-cognizant.md",
+      "title": "BDA Advises Inawisdom on Its Sale to Cognizant",
+      "excerpt": "BDA Partners is pleased to announce that its client, Inawisdom Ltd., has been acquired by Cognizant. BDA was exclusive",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/r18875064/bda-advises-inawisdom-on-its-sale-to-cognizant",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/r18875064/bda-advises-inawisdom-on-its-sale-to-cognizant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18875064",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18875064",
+      "publishedDateTime": "2020-12-21T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-employ-your-ai-as-a-smart-partner-intelligent-ways-to-leverage-knowledge.md",
       "title": "Employ Your AI As A Smart Partner: Intelligent Ways To Leverage Knowledge",
       "excerpt": "While automation does remove repetitive tasks from daily work routines, new responsibilities also arise to take their place.",
@@ -1134,49 +1168,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19.md",
-      "title": "High-tech helper: Austin robot assists hospitals in the fight against COVID-19",
-      "excerpt": "Moxi the robot works full time and delivers PPE, coronavirus and other lab samples and COVID-19 tests. She’s also picks up and delivers anything dropped off for patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/",
-      "originalUrl": "https://www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2020/12/Moxi2photocreditDanielCavazos.jpg?w=1280",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/investigations/high-tech-helper-austin-robot-assists-hospitals-in-the-fight-against-covid-19/amp/",
-      "publishedDateTime": "2020-12-20T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

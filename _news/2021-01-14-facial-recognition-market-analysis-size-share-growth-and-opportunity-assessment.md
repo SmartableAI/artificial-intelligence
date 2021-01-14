@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intelligent Virtual Assistant (IVA) Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
+    publishedDateTime: 2021-01-14T10:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Growth, Size, Share, Demand, Trends and Forecasts to 2025"
     excerpt: "Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. Request Sample copy of this Report @  Api."
     publishedDateTime: 2021-01-14T05:49:00Z

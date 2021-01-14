@@ -40,14 +40,19 @@ related:
         height: 1269
         isCached: true
   - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
-    excerpt: "FDA has released the Artificial Intelligence/Machine Learning- Based Software as a Medical Device Action Plan."
-    publishedDateTime: 2021-01-12T16:03:00Z
-    webUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
+    excerpt: "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software."
+    publishedDateTime: 2021-01-13T06:59:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
     type: article
     provider:
-      name: Center for Food Safety and Applied Nutrition
-      domain: fda.gov
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The rise of machine teaching"
     excerpt: "The year 2021 will see KM back in fashion, something I have discussed in previous columns, as the use of machine learning/AI allows us to finally get a grip on mountains of information and to identify and make use of valuable knowledge assets. Products are ..."
     publishedDateTime: 2021-01-11T05:45:00Z

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-02-ktr-releases-telanganas-2020-year-of-ai-success-report.md",
+      "title": "KTR releases Telangana’s 2020 Year of AI success report",
+      "excerpt": "Telangana IT and Industries Minister KT Rama Rao today released the report “Telangana’s Year of AI – 2020 and Beyond” highlighting the various achievements made in the sector during 2020. A year which saw one of the biggest FDIs wherein Amazon Web Services announced plans to invest about $ 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/pyrjlk/article33018127.ece/ALTERNATES/LANDSCAPE_615/Telangana-targeGM17U5V1I6jpgjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
+      "publishedDateTime": "2021-01-02T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-senate-overrides-trumps-veto-of-defense-bill.md",
       "title": "Senate overrides Trump's veto of defense bill",
       "excerpt": "The Senate on Friday overrode President Trump's veto of the National Defense Authorization Act, the $740 billion defense policy bill. This veto, in the waning days of Mr. Trump's presidency, marked the first time Congress has voted to override him.",
@@ -1106,60 +1149,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-how-artificial-intelligence-will-be-used-in-2021.md",
-      "title": "How artificial intelligence will be used in 2021",
-      "excerpt": "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
-      "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
-      "publishedDateTime": "2020-12-31T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
       ]
     }
   ],

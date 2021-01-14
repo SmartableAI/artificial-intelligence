@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Controversial chatbot leaves lessons on AI use ethics"
+    excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked"
+    publishedDateTime: 2021-01-14T09:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
   - title: "GM Financial's AI chatbot proves saving grace"
     excerpt: "When the coronavirus pandemic swept the U.S. last March, shuttering auto factories and forcing most of the country into their homes, GM Financial's chief experience officer Bob Beatty had his hands full."
     publishedDateTime: 2021-01-13T18:20:00Z

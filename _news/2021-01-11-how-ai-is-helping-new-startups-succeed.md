@@ -31,9 +31,9 @@ related:
   - title: "This app is helping reunite dogs with their owners using AI"
     excerpt: "It’s hard to imagine the stress that pet owners go through when their furry friends go missing. A US government survey suggests that 7% of lost dogs are never recovered. That’s why a startup named Shadow is trying to reunite dogs with their owners using AI."
     publishedDateTime: 2021-01-14T07:16:00Z
-    webUrl: "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/"
-    ampWebUrl: "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/"
+    webUrl: "https://thenextweb.com/neural/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/"
     type: article
     provider:
       name: The Next Web

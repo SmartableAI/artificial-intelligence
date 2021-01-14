@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-serve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/amp/"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/qc_nuvia_line_002.png"
         width: 800
         height: 418
+        isCached: true
+  - title: "Qualcomm buys chip design startup Nuvia for $1.4 bn"
+    excerpt: "Chip maker Qualcomm has acquired Nuvia, formed in 2019 by three former Apple engineers including one of Indian origin, for a whopping $1.4 billion for the 5G era. As part of the transaction, Nuvia founders Gerard Williams,"
+    publishedDateTime: 2021-01-14T09:41:00Z
+    webUrl: "https://www.imdb.com/news/ni63157865/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 39
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
   - title: "Qualcomm to acquire Arm server CPU startup Nuvia for $1.4bn"
     excerpt: "Semiconductor and wireless networking giant Qualcomm has agreed to acquire Arm chip company Nuvia for $1.4bn. The company was founded in 2018 by several Apple veterans to target the server market, but Qualcomm says it hopes to use the tech in mobile,"

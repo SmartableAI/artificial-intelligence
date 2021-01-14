@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/finance-insurance/gm-financials-ai-chatbo
 webUrl: "https://www.autonews.com/finance-insurance/gm-financials-ai-chatbot-proves-saving-grace"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Controversial chatbot leaves lessons on AI use ethics"
+    excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked"
+    publishedDateTime: 2021-01-14T09:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
   - title: "Controversial chatbot leaves lessons on AI use ethics"
     excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use."
     publishedDateTime: 2021-01-13T06:40:00Z

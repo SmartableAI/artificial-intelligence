@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Intelligent Virtual Assistant (IVA) Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
+    publishedDateTime: 2021-01-14T10:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

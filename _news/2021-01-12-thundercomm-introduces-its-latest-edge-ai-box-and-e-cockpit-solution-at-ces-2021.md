@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021"
-excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution 4.5 at CES 2021, from Jan."
+excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution"
 publishedDateTime: 2021-01-12T05:04:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021/article_d2c408a0-8d0b-5b57-bfc4-ad10b41d9240.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021/article_d2c408a0-8d0b-5b57-bfc4-ad10b41d9240.html"
+originalUrl: "https://www.prnewswire.com/news-releases/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-301205896.html"
+webUrl: "https://www.prnewswire.com/news-releases/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-301205896.html"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -114,6 +114,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "yPMUNKfK9eQiCJ9ZPkfXerLfEMA8vkjE2BTSPlIK2TGXu4pz5UDhUNFwSNB1xhBBnZATbcrp+Y+su/km7yakb3v+8iEFpZdIWHNNZaNEhuUlBiJVeuOw2pIstNcV761TpSB2bKWQz/PNhXk380r1Hj7VSalu7OWGv9CjBLOjoXATxM4nxUHPHTzWszDDf52TyfGIsomxDK3YDJYveJmD69wzO3TTeKGEnlgytpdQ48ygljy2TLni6rcKjb3KCstYMOUFK5w9UmPgOnJPrFxf4BQ86DUkT9UaLxuUA7v8Tw032riMEfwTzrTJA6NPBGVn4tOiyJuT1fVhevGiw9C2+88JfhWJt0DCqF302ZH6ci4=;HIOy8bmHLQPKhqoWe1lSvg=="
+secured: "WQr8+HmGgKKIrv7A/IeMC4f/kpXmerERN+ctQ6MoA2PmswqDP6cfmOL/bYohFyGh5s7xkaN7dNwO6icsnb4c3UdnneFQ9ZaZ8t6kH9bqLUXuPLGirAWiem77bWxtmmXDX3RsoGkKBQ9EAnBa71BVKUHXE7SbJProwO1pULK/0zN/cEbyQCRzb0Sj9I8V5kZ5W7tPu2EGqHD1jarcMJRwuIVF7f+zeJrZYp37pN2gQOswUZxQrXBOeGIUtVAo0xXCUmbYdp2SlBUlqGTVxNY3GNctz5Si/FVyY814gWzswlCQslM18WWG0yXSO3mCERPinY0/187RWJD4XURoMySYjow4ADpnJJsS6Y1Qo+4kIEc=;rkAdMKT/d3X5s3dFA1M36A=="
 ---
 

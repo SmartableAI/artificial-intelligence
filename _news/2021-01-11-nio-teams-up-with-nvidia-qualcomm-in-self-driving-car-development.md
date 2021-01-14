@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nio-teams-up-with-nvidia-qu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: ZDNet
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NIO Will Use NVIDIA Drive Orin Chips for AI Driving"
-    excerpt: "NIO will use NVIDIA DRIVE for advanced automated driving technology in its future fleets, marking the genesis of truly intelligent and personalized NIO vehicles. The NIO ET7 sedan will ship in China s"
-    publishedDateTime: 2021-01-09T17:57:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 76
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/01/nvidia-orin-press.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "NVIDIA's (NVDA) Self-Driving Solution Picked by NIO Limited"
     excerpt: "NVIDIA Corporation NVDA last week announced that NIO Limited NIO, a Chinese electric vehicle (EV) maker, would use its self-driving solution to offer advanced automated driving capabilities in its new generation EVs."
     publishedDateTime: 2021-01-11T13:25:00Z

@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-07-washington-post-live-to-host-artificial-intelligence-in-health-care-with-presenting-sponsor-ge.md",
-      "title": "Washington Post Live to host “Artificial Intelligence in Health Care” with presenting sponsor GE",
-      "excerpt": "Speakers will discuss how artificial intelligence is changing how doctors work, drugs are developed, patients are diagnosed, surgeries are performed, and how it is used in the fight against COVID-19",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/",
-      "originalUrl": "https://www.washingtonpost.com/pr/2021/01/06/washington-post-live-host-artificial-intelligence-health-care-with-presenting-sponsor-ge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3MYCH5NHFATBHOE3UOHHJL67Q.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/washington-post-live/2021/01/13/artificial-intelligence-health-care/?outputType=amp",
-      "publishedDateTime": "2021-01-06T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-quadriplegic-man-feeds-himself-a-twinkie-utilizing-ai-robotics-and-brain-waves.md",
       "title": "Quadriplegic man feeds himself a Twinkie utilizing AI, robotics, and brain waves",
       "excerpt": "While many a Twinkie eater probably doesn’t spend all that much time savoring their tasty treat, that’s not the case for Robert \"Buz\" Chmielewski, a quadriplegic for the last 30 years, who just fed himself one of Hostess’ time-honored (and time-defying) yellow cake creations.",
@@ -1379,6 +1335,58 @@
         "name": "WESH",
         "domain": "wesh.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-chinas-adaptive-robot-maker-flexiv-raises-over-100-million.md",
+      "title": "China’s adaptive robot maker Flexiv raises over $100 million",
+      "excerpt": "As businesses around the world look to automate production lines and supply chains, companies making the robots are attracting great investor interest. The latest to get funded is Flexiv, which closed a Series B round north of $100 million from investors including China’s on-demand services",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/",
+      "originalUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/flexiv-2-e1609297096272.jpg?w=1024",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/",
+      "publishedDateTime": "2020-12-30T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

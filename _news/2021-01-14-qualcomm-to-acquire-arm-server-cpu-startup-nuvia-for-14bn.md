@@ -118,6 +118,20 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "Qualcomm buys chip design startup Nuvia for $1.4 bn"
+    excerpt: "Chip maker Qualcomm has acquired Nuvia, formed in 2019 by three former Apple engineers including one of Indian origin, for a whopping $1.4 billion for the 5G era. As part of the transaction, Nuvia founders Gerard Williams,"
+    publishedDateTime: 2021-01-14T09:41:00Z
+    webUrl: "https://www.imdb.com/news/ni63157865/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 39
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
 
 secured: "zCvYOZyiOCh0oV8/j2Nl1AjZvw+xAXqZ/Xgp8vDeO8wB5rBPNBycPGIHcQk1N3MXQUNch/HJdlMBs+Tb5RHs054LlULpAPGHlCQgiAeXCtL0O/w4a6PVaLnt11NW+dywQjJPduLLIxfcfAWKKgJKZepFBdM6RRqZeCl45snkSmDB4rCXiQPlVKK9NEBLFjaHGsIcEykQ6QAHnhVVTC44KQOmUe4bhvyYRHrnDtKrot2xWx32KIuGXmo1PEWoPKRxV/+kyfE01QfkCqaPR/UC2ox0uMA/AvmNURGdV7wbrtJKSZFe+J9MDHZcRv+WgcKT8LHAnlxiuaA7Ob8aooi2izX/ykrmIyLj9tsKSejc8W4=;Uq+hs+hpcp2N/qwynJLowg=="
 ---

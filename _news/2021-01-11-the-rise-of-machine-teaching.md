@@ -40,6 +40,20 @@ related:
         width: 2423
         height: 1269
         isCached: true
+  - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
+    excerpt: "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software."
+    publishedDateTime: 2021-01-13T06:59:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "FDA releases plan to advance oversight of medical AI software"
     excerpt: "Food and Drug Administration released for comment its first plan for advancing oversight of medical software based on artificial intelligence and machine learning."
     publishedDateTime: 2021-01-12T22:44:00Z
@@ -54,15 +68,6 @@ related:
         width: 900
         height: 400
         isCached: true
-  - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
-    excerpt: "FDA has released the Artificial Intelligence/Machine Learning- Based Software as a Medical Device Action Plan."
-    publishedDateTime: 2021-01-12T16:03:00Z
-    webUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
-    type: article
-    provider:
-      name: Center for Food Safety and Applied Nutrition
-      domain: fda.gov
-    quality: 34
 
 secured: "zpShNdsuRj6j6ZqFO/d8z5lyS7Zpzr94bhe/K/OYmdU+/esSuUMnW55jKfktjsG0S1TDQq7KsKn3zLN5zTZXgMUXO5kYeakc/59VVb2GPOFvvPgM2p3E6P6kFbwcKublgGfFU/usrtuZBFpvNaczrZWQhrKuUiEtrvTfB9lQdrHs9NmSk+fDTbxqVGISgV0MGs5ZyQY+CiWHIdnI+e9aVnGrh2tj/Pm/tbov423MuOW03eKDqvU+ikTRdC4YGxMSsvBqaHqVrmqQGy0GgyEn0XtAfW47sc927kaD63boGsASOdZt+i/P/7FMeRDFJlBrJcpsldgSK/yl3ypCseohZFGrDWzOA3BuYH+IjwKG580=;SWZ26Y9v5r4pmVDMP08k6g=="
 ---

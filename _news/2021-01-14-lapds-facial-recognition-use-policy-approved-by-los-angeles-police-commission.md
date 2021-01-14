@@ -3,8 +3,8 @@ category: news
 title: "LAPD's facial recognition use policy approved by Los Angeles Police commission"
 excerpt: "The policy was approved with a modification for the Inspector General to work with the commission's executive committee to develop and ensure a \"strong oversight system.\""
 publishedDateTime: 2021-01-13T23:56:00Z
-originalUrl: "https://abc7.com/police-commission-approves-lapds-facial-recognition-use-policy/9632866/"
-webUrl: "https://abc7.com/police-commission-approves-lapds-facial-recognition-use-policy/9632866/"
+originalUrl: "https://abc7.com/9632866/"
+webUrl: "https://abc7.com/9632866/"
 ampWebUrl: "https://abc7.com/amp/9632866/"
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/9632866/"
 type: article
@@ -81,6 +81,6 @@ related:
         height: 824
         isCached: true
 
-secured: "bVC0fH5zLHl/ng3xukm6OL2l3mLHRTblbVues8GqPHPqALoY9wHwxXVGHhfzJ96/QnhLBYb+9+dpcex6QgacuHKm1fFyc4xzDFKTF96I/4wC6E7g3THeKDZ5qY7MIxOcX6DlYEeaqlXzKoUDY7s6pllrpO74f9WzGP+j4rdIx1pODemZ1aFcUeHJudZeA3BhFnBoVxzTelqyMUuwvZaz2v4z+pRGN0+70NXvK3TgX24eCAeDXwq/8qQhTh8Ytks1iAG8OMjnh3VGWvvSMdFnKJLPlFw3l0/dysAAkthItYzuryFvhxSaVOtyJFY7wyswnNMop7SpIB8iiTzEVag9ugu/LNPpUtAnzagnrIo+t+n1UIhuiKZRs8tL7rofSxyNA16H0y73QN3lv1UB9XEwm6nofeJVpzYxoKc1SGlahZ90s3MQEj3/Q7G0HQSi9vZZ/Mnjxs9/15ln17QV73vBhB+zqXKUaKrXeeoCB2Z7/XvNeqS4TpapiAaXrwo9vCFnIwMhX0ETyzk9yP774T3BzA==;5PG6DC86jUzOiQLn603KHg=="
+secured: "R37dQOYAk/cx21dclplbCFBABnoltQ3pfJ6EhVvG9yve17Xlo5YzzwTbGsqWdnhBosILxeJEQxz68yPGH1qzofkmLxBB104D5iVIO+K6hypXpIClKmuN/vnzQyT/pauP8CsZ0CTBhWZ8jJiQPgsTufl4x7kEPgnm1ckR/R+Pc+Ob3m1vxur2mvh5ILj5gudKdJY7tXAUXvTEHwAjcr2lu6mnuvvghkVtWNN+knTYMiYdq6YcaDpFxhO7FUWe3adhbDeWSCRK2XEX4P/5LJyK6Jujy2mP8+iYkMGPwpyTx8mzwZL4Gl0gw1mF8ufFXSoTn56GQcyemvLBEzm2GaQHIRR8aTU02VkW9yA7o9eNbwM=;8yo23HBL7wjeqbSgTlVO0g=="
 ---
 

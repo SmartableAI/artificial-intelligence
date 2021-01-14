@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-04-why-baidu-stock-soared-556-in-december.md",
+      "title": "Why Baidu Stock Soared 55.6% in December",
+      "excerpt": "Shares of Baidu (NASDAQ:BIDU) rose 55.6% in December, according to data from YCharts. The Chinese search engine giant's stock surged following a report from Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/62e0770e28ee8c68be6d542e0b5127e7.png",
+          "width": 720,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "publishedDateTime": "2021-01-04T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-tesla-stock-rises-c3ai-drops-as-the-stock-market-start-2021-higher.md",
       "title": "Tesla Stock Rises, C3.ai Drops as the Stock Market Start 2021 Higher",
       "excerpt": "The market is wasting no time heading hire on the first trading day of the new year—and that’s despite overhangs that might normally keep a lid on things. On Friday, we’ll get December’s payrolls report,",
@@ -1327,50 +1379,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-robotics-company-gets-ok-to-charge-money-for-self-driving-services.md",
-      "title": "Robotics company gets OK to charge money for self-driving services",
-      "excerpt": "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service.",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
-      "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1",
-          "width": 556,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/579822.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php",
-      "publishedDateTime": "2020-12-24T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

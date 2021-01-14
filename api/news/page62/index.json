@@ -2,6 +2,49 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-11-23-us-approves-regeneron-antibody-treatment-given-to-trump.md",
+      "title": "US Approves Regeneron Antibody Treatment Given to Trump",
+      "excerpt": "The FDA has approved Regeneron's antibody cocktail treatment for COVID with an Emergency Use Authorization. A Covid-19 antibody therapy used to treat President Donald Trump was approved by the US drug regulator on Saturday for people who aren't yet hospitalized by the disease but are at high risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
+      "originalUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/regeneron_stock_photo_covid_injection_treatment_medicine____Bernard_Chantal___Dreamstime.5fbb5faa14bb3.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-22T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today.md",
       "title": "The 5 Biggest Healthcare Trends In 2021 Everyone Should Be Ready For Today",
       "excerpt": "Healthcare has not only been affected by the global coronavirus pandemic, but has simultaneously experienced an accelerated digital transformation. Here we look at the key healthcare trends for 2021.",
@@ -1103,49 +1146,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-deep-learning-market-by-type-and-by-geography-global-opportunity-analysis-and-industry-forecast-2020-2024.md",
-      "title": "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024",
-      "excerpt": "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) Click & Get Free Sample Report in Minutes. The grow",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

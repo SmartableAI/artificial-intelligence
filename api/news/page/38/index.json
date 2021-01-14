@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-12-10-the-apple-car-is-now-officially-an-artificial-intelligence-project.md",
+      "title": "The Apple Car Is Now Officially an Artificial Intelligence Project",
+      "excerpt": "This fall has seen a fantastic array of new products from Apple, ranging from new Apple Watches and iPads to the 5G iPhone 12 lineup to the insanely",
+      "sourceUrl": null,
+      "webUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
+      "originalUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.idropnews.com/wp-content/uploads/2018/10/19102529/Apple-Concept-Car-2.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
+      "cdnAmpWebUrl": "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
+      "publishedDateTime": "2020-12-09T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iDrop News",
+        "domain": "idropnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
       "excerpt": "Amazon SageMaker Feature Store delivers a purpose-built data store for storing, updating, retrieving, and sharing machine learning features Amazon SageMaker Pipelines gives developers the first ...",
@@ -1075,49 +1118,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-02-higher.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.2% Higher",
-      "excerpt": "Shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) traded up 0.2% during mid-day trading on Tuesday . The stock traded as high as $48.63 and last traded at $48.55. 27,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html/amp",
-      "publishedDateTime": "2020-12-09T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
