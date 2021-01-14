@@ -49,6 +49,6 @@ related:
       domain: koreatimes.co.kr
     quality: 34
 
-secured: "kW1C41EBuiWQkR++/GNuxQRamNQ3sAHJCcvlYs4vMI9Z/qDdwEVGhcHCBhSMXhPQ0sGYEykqc3C7zuk3RP1QoZEfv/HlBZh9MOXwdR/WDKy4NJzqwDqAQec6pFMlcSw8PfLwrcDKIkgj815LLB093DEmuHzOr3Hk8CiF6hjGywW9WlPlkmZlc8EZ5zchLxT+XJg/jzupgXuSm+uc32dyfj/yMH8r+WCyYrX2URc74FSwd+zW3/IOsF8Yr65ZwY3rO4zcFN8fCdhC9+XPTpplKrNPPihlYCJ2i/CcDvwoB1LgcXVy0SB+WcM43rmG3qucbe5yeydVmhGdj2/xeMCqDevdhkmboC8NBfWIf8ixIaw=;ncXgHwwPIUdyV8Tmg4NYEQ=="
+secured: "x1/AVL3I45T/LZ+f9QdOZ2D/U3nroIr5nagSeov5YR90UmKNxOKV/7jjCwOCQfwNIpHFWP9wSwGJDBPgM5CCKTZgUa+zul2Hz0X1L64KYDvqm6bnPvpbOxk70Bmz1z7BUC0DKNDIHqPZvftQDE7GTzsRnf1WEPjUQhPzhyZ5B7ByYqNfRrvgcSqUL6YTzZJTiE5512QagVBx1yClaRs8fE36vhMOr4FHfSStWjmZiX2ywRCxyykQK3/kNg5+JxYNj/h5oltYz3dp1kSR8OJgIgXKw1Ay7GFcos1lSA3ot1lNfsZIaJfcUPA+lsIKjJGLqf22RD8u83y6Tm4XYjjd3rijMqoaFujmUVWqvVxHboA=;gEG+2OABRM01bbsfCjT5nA=="
 ---
 
