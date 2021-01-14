@@ -10,7 +10,7 @@ website: https://t.co/wvvOUl1h5W
 twitter:
   username: robot_MD
   url: https://twitter.com/robot_MD
-  followers: 11534
+  followers: 11531
 
 linkedin:
   url: https://www.linkedin.com/in/carol-reiley-7a91072/
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Carol E. Reiley"
 
-secured: "dwfeia916PeEWDZlF5k8+wHFjQJctswulC08sf4RPhmO4QaudjdloUUfFHoVMbXc0vjODwtsGseEG92i+vr6tF5bcvAzHt1G23vlqsb5J4UNLeB1xqxTRDgR2TXdEVVGG6eGKgSzWpiK7JVLu/1MTx8L8guR1GiWoCHzYuOLwHOXXheb+ShKpD0N2oBm2aEOSrBU+EwqkL/Id4WseT2kpuf3y3+Iv/21WOpwQOPTl/kyOZwXEyezYz+lxfCgx6m9vXXPD24H+Umiw421cK6IMD5Kxb1eBwP2TXZBQeBJM2/1MZRF2Vaq9Qr9qJoFnk1BS/3Fz14ekHlhLv9c7NiXQdJ1ZpexJllfZd9ekX+fLE9CQuLe4gR2KZQaX4W+cQSDY0qp0ONGP42IOB/lhcTi4RavgyZ/SZR99C9glGoy8QM=;OQamuDpyJm8ro5JSGnu+Hw=="
+secured: "xTUGVwvVUpHHuiTCPGGmysoo1nUAoVx62wYxVrDemf7Gfyi5NNOU5s0kByop6c35Od78sIE9qYF0yU2oFgodMQBpXq+70s4r5HVxrXtpmRnbefX/KknUGydTaFse3JHGEvzicSUXwNspNT5Vut7HP+9+wxQo3AvLe5FcTd43RU21MAdVxNCXdXQtz7YoLR2WsUYp+IA9B4KL09F/gEU/T+QT2VFG/8OCpHCgnedXmCJ7cCm0QIlNZ58/HZVPgitmWncVXJJt+H6+b7y7RvNNnPntKlGrCklg+4HbpiVeD30N+Xtv64HsBbVw1a+xbybcbHAnz6NnTqcD1nAw4msuQA6T7UwiMAYMLiJcDXRhgO06ykDAxEtI2Avd56VEAZ3KERVwiN+c+Am51dKwY8nGx/LCNenis0tPkw168UFv31c=;Lb89k/SP8Rp0a1EjPrEXpw=="
 ---
 
