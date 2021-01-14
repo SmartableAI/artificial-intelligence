@@ -3,8 +3,8 @@ category: news
 title: "UBTECH Showcases New UV-C Robots at CES 2021"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
 publishedDateTime: 2021-01-12T09:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+originalUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
 type: article
 quality: 39
 heat: -1
@@ -86,6 +86,17 @@ related:
   - title: "The best robot vacuums of CES 2021"
     excerpt: "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year."
     publishedDateTime: 2021-01-12T21:39:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/"
+    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
+  - title: "The best new robot vacuums of CES 2021"
+    excerpt: "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year."
+    publishedDateTime: 2021-01-14T13:39:00Z
     webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/"
     ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
@@ -315,6 +326,6 @@ related:
       domain: morningstar.com
     quality: 2
 
-secured: "nAFUgEwoE5RrFuuXgNC5nbQ9zKjKHqSEKhgnYY4ClS4Nx+hpeRZoFbYQeiRdmjgtqrmAXQFrMVo5zcqqhWkPq1mhFX8Qk39vrmXnzevT/SxRwjXX+Ys35TB7WDvPYMn6VamNlN+sl7iXVz7+Ywu1UYnRHRkrK1GEQctVNPvu5ejZJkN2w47Fbo0P21MrB1k8lKKPaqbI2fSwn86Yfprj2L+B9jpJXBybIq2mFoOtu/+K8/4pO+KdtloqTrgs2c9ufwuvhPZ5t9Sm/VQnV2z7DyYqoUGCcR1qLlsuS/GXUP1EYOymwj7msti7rMIi+wY6DIWjZL+U4EQxmCC+C9CENv8nocRlDgebzdgbfH4Jpio=;msoDb96r3BBrn4f/Ey+Iog=="
+secured: "I1tkwsp74MIzAcAE3Kj76ufK5W2PYH4tcZHByP+3MLZ3xeTIc/Au5bvCR8eL1XPVg/lNN3Kz2ZRJ2loXCS9dSpH68XuSVNstfLG/STDIVyIMMstI319sGSNZdWk1fwmm4qqks2GNOKNC4GKOENjF+SeI4N5hxupqZ2zLBLZIiwjuicaFZmjGXj2XKYkayi5YlNVjz9UEb9dHgxaf/JDWwKZSPSFI8FwkoMaGaL/oBOg+odon4KCXOrd0EMqePPgU6MbzvqgidEa5zU6kEewAxSPG820gycMpO2AS7NWlWd57+WpfveRtYXZim69ucjHSHAHvsbPDFAkSo2Ioa4y7UDguHyBD1MOUGNKVFbSxiM0=;AbiAfmpl3LCH8t42GkwtYw=="
 ---
 

@@ -28,12 +28,17 @@ related:
   - title: "HireVue Leads the Industry with Commitment to Transparent and Ethical Use of AI in Hiring"
     excerpt: "HireVue, the global leader in video interviewing, assessments, chatbot and recruiting automation technology, today made two announcements to extend its leadership position defining the transparent and appropriate use of AI and software as part of the hiring process."
     publishedDateTime: 2021-01-12T16:42:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 25
+    quality: 45
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "BM2x4bKgYFvCo7NeMkWLFijtI6vqvMR0mml4JozrbAGoBPI7DaVxzWC4duI64D7ZWZnMEk0Z3IL1MHcrYu0GdjWe9GhTyb3IRmuvn3IBI07vfLJOH2++RtCeJHbT1zusTfBEQ+qbu9HsOnI+ZYcPr/spgzp+e+Za85Hg0bU5jdLyzjf662NafKUaQBzGc4swPWwNElerx/P66pbfvvFHlGDcunoAzwkT0H8JN9GcS1/bXJPS9zKYgP2eVgWzRT8R2tdkzwXhN8GP/nP/3VuocIBrZMUYwhuJWEOPJwrSYkl2qH+IE4/yBUrPCWP+8P4zQ7Yi2h27hDSpGfMp+qYVYMpDACvKWxO3xxlrahRrT5gSPVmEyyCQD3FFtK4+yXmLZUN7fgfAcWq7jE8bGXpzOUSogFjz2s1Z9ZbhF5Abcwkf5g8GwGaxumEjXBUZRsIljRTewCvg7c6MzLbiGHi1d7KUwrddAa0fRPIN2uQkB7+4ikcwSMjJNZJjZcYf2cxEnjpy9m2k61xsp/3FRD9Wmw==;xlQa8JjafaH+cDQb8tfGFA=="
 ---

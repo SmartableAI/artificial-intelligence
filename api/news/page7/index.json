@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-08-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
+      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "originalUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/22686fc/2147483647/strip/true/crop/1289x725+0+0/resize/1289x725!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
+          "width": 1289,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-meet-the-robots-taking-the-virtual-stage-at-ces-2021.md",
       "title": "Meet the robots taking the virtual stage at CES 2021",
       "excerpt": "This year's all-digital CES is going to be a tough one for everyone involved, but it may be even harder if you're a robot. Robots can pique people's interest via the written word or videos, but there's nothing like showing people what you can do in person to really make a good first impression.",
@@ -613,6 +657,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-video-search-pioneer-panopto-hires-ibm-ai-marketing-executive.md",
+      "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
+      "excerpt": "At IBM, he played an integral role in the brand launch of Watson Advertising while leading all go-to-market strategies for a suite of AI-powered solutions designed for the advertising ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html",
+      "originalUrl": "https://www.oaoa.com/news/business/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive/article_ba562622-fdda-5222-85f6-c5ac20b441f9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/7/99/799538b5-1065-557b-bb6f-5475e38479a0/5ff737209670b.image.jpg?resize=420%2C630",
+          "width": 420,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-investors-should-watch-this-newly-listed-ai-company-heres-why.md",
       "title": "Investors Should Watch This Newly Listed AI Company. Here's Why",
       "excerpt": "C3.ai is a leader in bringing artificial intelligence to bear on enterprise-level problems, and the market for what it offers is only going to grow.",
@@ -756,41 +844,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-video-search-pioneer-panopto-hires-ibm-ai-marketing-executive.md",
-      "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
-      "excerpt": "At IBM, he played an integral role in the brand launch of Watson Advertising while leading all go-to-market strategies for a suite of AI-powered solutions designed for the advertising ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19061465",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19061465",
-      "publishedDateTime": "2021-01-07T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
       ]
     },
     {
@@ -1109,58 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla.md",
-      "title": "Waymo won't talk about 'self-driving' cars anymore, in apparent dig at Tesla",
-      "excerpt": "Waymo takes a stab at Tesla over its use of the term \"self-driving\" in its new Full Self Driving feature. Alphabet-owned Waymo has stopped referring to \"self-driving\" to describe its technology and form now on will only use the term \"fully autonomous driving technology\" instead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "originalUrl": "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/17/f71cf2c8-9b0c-4c9b-8871-ac97d9a76c73/thumbnail/1200x675/5c36970a2932377566a437c0929868b2/sensors-from-selfdriving-car-to-aibased-5fae92e0eafdf2701d541185-1-nov-17-2020-12-35-03-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "publishedDateTime": "2021-01-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

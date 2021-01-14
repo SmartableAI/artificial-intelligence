@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Tool Gives Early Warning Of Cardiac Issues in COVID Patients"
-    excerpt: "Natalia Trayanova A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors"
-    publishedDateTime: 2021-01-13T18:44:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-tool-gives-early-warning-of-cardiac-issues-in-covid-patients/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://releases.jhu.edu/wp-content/uploads/2016/05/NT-Este.jpg"
-        width: 366
-        height: 524
-        isCached: true
   - title: "UCI researchers use deep learning to identify gene regulation at single-cell level"
     excerpt: "In a  study, UCI researchers describe how they developed a deep-learning framework to observe gene regulation at the cellular level."
     publishedDateTime: 2021-01-12T05:00:00Z

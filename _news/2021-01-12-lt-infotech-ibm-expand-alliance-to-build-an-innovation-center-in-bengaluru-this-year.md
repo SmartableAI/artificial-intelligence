@@ -43,6 +43,22 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "LTI and IBM to expand global alliance; to set up CoE in Bengaluru"
+    excerpt: "The companies will establish a centre of excellence in Bengaluru to help clients migrate and modernize core business applications leveraging IBMs open hybrid cloud platform built on Red Hat OpenShift."
+    publishedDateTime: 2021-01-14T14:58:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/articleshow/80271575.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/amp_articleshow/80271575.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/amp_articleshow/80271575.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg"
+        width: 412
+        height: 255
+        isCached: true
 
 secured: "9lCZqiB4cSkEW14fl42MnVMRN1L9Z10tG/u1uaqg1yXZZzry20XsLSc9rSAoxHBXS9BOe6TB6OiyfVNDNnA3NN9WPbKmit0OWa3RQb2D6XnzF8Rpc6+LgaJHyfinTjpKT+4xO+qSAsGc8OctiGxLaFxIXosW6ejrxkrKg1jhzd2TkVKKcf8UGcuVwZE9Eg2ht7hCeFDeRgREOQwa/oXnfB0mm1hZt5XbbBCmwe7nZsZY/reNxRSySQxNqc+qe1FfQS7KUC+aXmSi3M8nJ7UV2Y9Cr3SRx1o6nKaKjQvZ4H73aC0smuvZ5jW0MerzlGxPJqvYUwix1fdpe32D/oJg9s4YrUZAU5url9xf9tN+rMODpMNzVdtnkVgZWyxvp+lSmhcChsozjk1GEBpDuQ5H5yrrHGRQBDmueiiIgoc3KDleARFqs3c51fmrtb1+ZmpZoEBUhBgxR4tAnPnnMfQHZtcIe/liCWWt5iO4EpmhgQcsmk6QL3TPXh+v3+bmZCRUxdlcCA9WLfgV7jDwsi1Elw==;GkBs/SIXAyLlmlz9RgVM9A=="
 ---

@@ -35,7 +35,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 43
+    quality: 45
   - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
     excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
     publishedDateTime: 2021-01-11T11:33:00Z

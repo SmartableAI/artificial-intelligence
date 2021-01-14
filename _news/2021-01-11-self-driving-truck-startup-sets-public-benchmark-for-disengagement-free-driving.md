@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Video: Kodiak self-driving truck travels 205 miles, disengage free"
+    excerpt: "Two years after it first began developing its self-driving technology for the trucking industry, Kodiak Robotics has navigated an entire highway portion of its route in Texas, traveling 205 miles completely disengage-free."
+    publishedDateTime: 2021-01-14T14:00:00Z
+    webUrl: "https://insights.globalspec.com/article/15767/video-kodiak-self-driving-truck-travels-205-miles-disengage-free"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "u7cAdANrXler8AZlr+ckgcBNsBIjvHjIn4xKNSCopCnwXkoYUx+VDLN/m2SlV/okxy7J7UgqcXeWIOvPoMJyjjj3gzjbubkrwDQQ3dNhWsU/VhiEgYxpEcBaw4JSuIX92v+UvkGPxirtAI2Ny1KHQwBYhgctDvet6U77b2KcGSK0o+Tpc1TpvgKutWkxT52IgkIsknQG8ge5HqI+xO5EjHvh+gyJzhkcXDuoxdcUwLCOHhFSQEt8cPosqd37S3GwCbzmi0SHFPdA8tGPDQyMa0yIflFXRFzo/kVYorz1tZGZqaEt0byinJQRHOsNlUvvLYCLNXlpDifreWkcBjIl4ArJH8PlilENx2I3rG+xVKyDwFvuoX295uB8ErfMDl7rOrFDvBAHct1FvIICFkZ4SDhbFaArM+xcc4JAenkhirLVdRSdbTwcBN5LHSPGG/GdVgNMRD4sHFG2guM7W+6d9Az5KYQEir/n+a7ZMasARlaepcXwrQvDSiplX/lqFS/kvpCc4b5UkDok0COxeawHkQ==;Dql+2A3qKN6veAtkE71new=="
 ---

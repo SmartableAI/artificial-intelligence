@@ -277,34 +277,34 @@
     {
       "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
       "title": "3 Machine Learning Stocks for a Touchless Society",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips The sheer dominance of technology in our lives this year has directed",
+      "excerpt": "Investors looking for a high-growth play will find this machine learning stock a great buy. DocuSign is best known for its e-signature service which ... She is a financial writer and analyst ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-for-a-touchless-society-1029926739",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-for-a-touchless-society-1029926739",
+      "webUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
+      "originalUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/12/ai-stocks-1600-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/3-machine-learning-stocks-for-a-touchless-society-1029926739",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/3-machine-learning-stocks-for-a-touchless-society-1029926739",
-      "publishedDateTime": "2020-12-31T05:50:00-08:00",
+      "ampWebUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
+      "publishedDateTime": "2020-12-31T05:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

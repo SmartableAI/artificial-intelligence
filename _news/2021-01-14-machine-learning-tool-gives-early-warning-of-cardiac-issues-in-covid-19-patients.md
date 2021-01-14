@@ -1,29 +1,47 @@
 ---
 category: news
 title: "Machine learning tool gives early warning of cardiac issues in COVID-19 patients"
-excerpt: "New algorithm could warn doctors in advance of cardiac arrest or blood clots in hospitalized COVID-19 patients"
-publishedDateTime: 2021-01-13T21:38:00Z
-originalUrl: "https://hub.jhu.edu/2021/01/13/machine-learning-predicts-covid-related-cardiac-arrest/"
-webUrl: "https://hub.jhu.edu/2021/01/13/machine-learning-predicts-covid-related-cardiac-arrest/"
+excerpt: "A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors several hours before hospitalized COVID-19 patients experience cardiac arrest or blood clots."
+publishedDateTime: 2021-01-14T14:37:00Z
+originalUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html"
+webUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: HUB
-  domain: jhu.edu
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/cardiac_arrest_011321.jpg?itok=CL9fQXch"
-    width: 2400
-    height: 1600
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/cardiacdevice.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
-secured: "4XmMgcJwE9Xr0ufYvo/gueOL647Quv6vx+sR5bYJtpt4KzIXTUBwqdryupiPYhLaf6c3EZ9ubpeiCRBwFOfonrxOy53sicS0Iu0kZUoh6+QRzaXmAgNKPNJLx3z82RfSKyCdl12f20oOajA0wv1jqg4DX0GoMS2nayfi1h1yhh9Mzz4B9yOZvXsZCqePTpLYtcQzJH7rgWDFolqZXjK/R81QmpC5MHyqFhj8g4KefIoeEOlsJxE/Zvlce3TRyytl5lODzXnxgSo7h5CMmXKg/2bRiD4I886QZ/QsnrbjyZzVbKgXhmLixvyLXsgqniARhO4nBmPO0hHYSYvdFlsUecVDp5b4/DjtJMQ7Q7Ke/wO1YUVXCzmTXrpGgxFI8K+8Y+4vrtl+JmOvEo6QTcEOfwjvR0+wP33LyTOV67ZIw6t3bsK1lasgfdz197cFt1q2940rrxQ5BTv8OWIppD1TodPHApwNw99pLqF2nFLa1ORWTV1sVqyQcMLupdd8iqi3oLhHs+J8ooOeW8n7MKoDsg==;SViqS2pJy6Fs0fGGvuEBhQ=="
+related:
+  - title: "Machine Learning Tool Gives Early Warning Of Cardiac Issues in COVID Patients"
+    excerpt: "Natalia Trayanova A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors"
+    publishedDateTime: 2021-01-13T18:44:00Z
+    webUrl: "https://www.miragenews.com/machine-learning-tool-gives-early-warning-of-cardiac-issues-in-covid-patients/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 36
+    images:
+      - url: "https://releases.jhu.edu/wp-content/uploads/2016/05/NT-Este.jpg"
+        width: 366
+        height: 524
+        isCached: true
+
+secured: "4ZVhNJSvunyI7jCjY0otoaJpa61gsFmadLyvkX7HnKL6fyC9YWOt7BhNBIHszLdj149qzTxnj+cETFUT1P3n5jNb2a+r0KtSGtC4M71EO6J6tRxSIwmZjktHH/EOLt/uSHF5ev1dxm5V8QdL4FWHNnBaiC8e4LDlEe8aYIp0u055Qx6YBsTHismMh12leo3Hw8UeJPrjtUdokbs4RrYeEknI+wu6pWQnUL2+3lWQY4+Pk2v3vpL3iTbOnxFDgCHOg207ijoFK/dKwn8WhpPYaj10H8p9p40qZIx+wLZ6HlsCwAhyWbsFd1HDI2qM6ykZC5gG9PUAiPX0wqKf2f8Z6dvGlj9SzUCQJXcILxK8YUs=;QAPoWk2YVtUGNXdIt9iv5A=="
 ---
 

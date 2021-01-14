@@ -8,8 +8,8 @@ webUrl: "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-bes
 ampWebUrl: "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/"
 cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/"
 type: article
-quality: 66
-heat: 76
+quality: 68
+heat: 78
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - IBM AI
   - Microsoft AI
   - Machine Learning
+  - AI Hardware
 
 related:
   - title: "Healthcare Stocks: How AI Is Helping in the Fight Against COVID-19"

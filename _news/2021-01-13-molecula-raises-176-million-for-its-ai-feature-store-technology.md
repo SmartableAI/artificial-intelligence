@@ -63,20 +63,18 @@ related:
         height: 600
         isCached: true
   - title: "Healthcare Specific AI Platform Lumiata Raises Series B Funding"
-    excerpt: "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc and AllegisNL Capital along with existing investors Khosla Ventures and Blue Venture Fund."
-    publishedDateTime: 2021-01-14T12:55:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
+    excerpt: "Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc and AllegisNL"
+    publishedDateTime: 2021-01-14T12:44:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthcare-specific-ai-platform-lumiata-raises-series-b-funding/article_52eb636c-d900-53de-a2f2-c4351ce9e075.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 76
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 56
     images:
-      - url: "https://download53.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/N59n8TyAHDH1q8YVXZIKAUtcTYpFNeOocfvX/17102/17102.jpg"
-        width: 377
-        height: 212
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/e1/8e185db6-5af0-512d-bc6b-bc2b55fa4332/600044b434c96.image.jpg?resize=400%2C400"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "RrPF5eMr2gStb0/cjNftMYKXt1Eo5onK6lgzY9mNzBNO9S0OfTvS06Cd2ByiADS+v7WM0iLwDZjipq6kycQ8C8bJBtfsLMf0sQiuOtUqs47soo/bolXdTwO/kT9QkjB/y33EJO6c9bjfWC1A8PpYIWGZeUr3w/G8IN5PvTh8u2K2wzqanwclmoC0grzo8vM6TDyXuxjd88phVEy9ouLnYbqjiPBn1fexI8QQ1773gupNmAw+4RexHrbfUeu5aOG4BydBRb/wmWRATOqu3WFdb2zkDPsLzZJMJ913Bh48s54LCmElVccAA/CKQHnBD2yRdhbjQtJyUbE10nnDEHAvs5N0Wi6S8MqtRL5GP/DjH6/PDlbYxb+j9cp7HurhwIsRNX8/X98qfm5T0UuP+TTiHvAg/H7SNGiH5hySA+NGodMcQrh1MqlGS+hk6uDtuii9U9hVnImYprbQnP0f2NWxbGa7DJVqK93/E33LLUYmp5S9yw7mLOgoIuK8QZ8HFCVsWwtR8Vwg2Nx06T4GrSyIww==;wka/Hd3Iw7hjF+wUwgEXuA=="

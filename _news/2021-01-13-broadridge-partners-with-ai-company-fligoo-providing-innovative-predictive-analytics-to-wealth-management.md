@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry."
-publishedDateTime: 2021-01-13T14:21:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b"
+excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
+publishedDateTime: 2021-01-13T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
+webUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
+    width: 2697
+    height: 1414
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "CmmulxwF7oF6Gw1J1o1HNaDdsquPLBfOVZ0Of+CF/FZZDz5UjH2i0UMOgtO1iRk9BWP0u/84CzTWQu5in/JC7dCQhysWWzLYe2QXdTyj4x/iw1CwXztB8UrG3q23XjBZv9f1mauFjQTQ24bn5A9dG/knvyNEu2+kCHdTsoAJ/yXqpulQ20Hy6DU+2VBX+I5ZYsxoekg+kMFUuq0As0rqjOC5aymzCTp965aDzaQMGxJ7TarslP5utzYaq/mjqe5kPbm//bf/ozvfh8MlGkceZAxWHLu42U6uhfC9yHbe8iR2fsl3eGLfF5O2Wf3w6bBMwb/bnWBYq3NNI1YowxnHl9EEkGo4yQ/u+RjCmBhRSaY=;9gwSyRblmuQksFdzstZcOQ=="
+secured: "nUscexNHT8X4ppsqs1vooNJ3zsoLFr14x4SO1nzsbngYV0gZyeUA+bAS6Wl03U8iSK9gGRiHLEgNNjZNtE/dWT1rAMjLcHgVxCwY5B/ta/ROgXdotAZmIhS328RxcXVduDWTBjyfIlCKlphNd5FdI2FPUyzIoKDGrBG5zcHLrfzqBsFPZdcFq8Q35aEoQCTNrNvR5sMfdr6btHdB+9rA633UM37ZH0CnULWKdBuUOcyBGN1c8BAPgpMaid7mNn6A+kVbvHzZ4jQ1q4yweT6Mzw8Kdkv6hvwbzk+TB7f8aYLHVg9eEkX1hmF7cmtu8vkpmkBGvRfMrinEip00PfJ7P2UdpqSs66AQuSZA9uW0su0=;nFuV5ZaRHfAanjuQiOMvyQ=="
 ---
 

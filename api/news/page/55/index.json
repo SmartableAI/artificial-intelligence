@@ -2,6 +2,100 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-11-30-computer-aided-creativity-in-robot-design.md",
+      "title": "Computer-aided creativity in robot design",
+      "excerpt": "RoboGrammar is a new system that automates and optimizes robot design. The system, developed at MIT, creates arthropod-inspired robots for traversing a variety of terrains. It could spawn more inventive robot forms with enhanced functionality.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/computer-aided-robot-design-1130",
+      "originalUrl": "https://news.mit.edu/2020/computer-aided-robot-design-1130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-robotgrammar-02-Press.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-terminus-group-unveils-milestone-ai-city-on-web-summit-2020-in-december.md",
+      "title": "Terminus Group unveils milestone AI CITY on Web Summit 2020 in December",
+      "excerpt": "Participants coming from different countries such as China ... of Bjarke Ingels Group (BIG), are going to discuss how the AI CITIES are designed with the future in mind, enabling the cutting-edge technologies and people thrive together. The AI CITY ...",
+      "sourceUrl": null,
+      "webUrl": "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2020/11/30/terminus-group-unveils-milestone-ai-city-on-web-summit-2020-in-december",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robbreport.com/wp-content/uploads/2020/09/BIG-AI-CITY-01.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/",
+      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/",
+      "publishedDateTime": "2020-11-29T19:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-how-machine-learning-is-allowing-thousands-of-students-to-sit-exams-at-home.md",
       "title": "How machine learning is allowing thousands of students to sit exams at home",
       "excerpt": "His tech business allows tens of thousands of students to remotely sit exams at the same time, with each needing just a laptop, a webcam and an internet connection. The firm's software uses machine learning (ML),",
@@ -1107,101 +1201,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-t-tops-in-use-of-facial-recognition-technology.md",
-      "title": "T tops in use of facial recognition technology",
-      "excerpt": "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79454171/79454171.jpg",
-          "width": 800,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms",
-      "publishedDateTime": "2020-11-27T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation.md",
-      "title": "Creating Amazon SageMaker Studio domains and user profiles using AWS CloudFormation",
-      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, tune, debug, deploy, and monitor models. In this post, we demonstrate",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-27T13:41:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

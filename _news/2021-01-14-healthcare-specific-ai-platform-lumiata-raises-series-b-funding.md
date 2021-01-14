@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Healthcare Specific AI Platform Lumiata Raises Series B Funding"
-excerpt: "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc and AllegisNL Capital along with existing investors Khosla Ventures and Blue Venture Fund."
-publishedDateTime: 2021-01-14T12:55:00Z
-originalUrl: "https://www.finanzen.ch/nachrichten/aktien/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
-webUrl: "https://www.finanzen.ch/nachrichten/aktien/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
-ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
-cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
+excerpt: "Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc and AllegisNL"
+publishedDateTime: 2021-01-14T12:44:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthcare-specific-ai-platform-lumiata-raises-series-b-funding/article_52eb636c-d900-53de-a2f2-c4351ce9e075.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthcare-specific-ai-platform-lumiata-raises-series-b-funding/article_52eb636c-d900-53de-a2f2-c4351ce9e075.html"
 type: article
-quality: 76
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.ch
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
@@ -22,9 +20,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://download53.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/N59n8TyAHDH1q8YVXZIKAUtcTYpFNeOocfvX/17102/17102.jpg"
-    width: 377
-    height: 212
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/e1/8e185db6-5af0-512d-bc6b-bc2b55fa4332/600044b434c96.image.jpg?resize=400%2C400"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -77,6 +75,6 @@ related:
         height: 600
         isCached: true
 
-secured: "W+RNGDVrxq064HgxToMNpK9f8fYZkxGTidyxOhgSM98qB8ctW9Pp8yJIdfjFlK38QJxkwl+dMfSiIRwvMHziLebijxlvtIHV8SU3O3Ldqz9CWo0wlfxBrVoMmByKOb6ymupiMz8x+Q0aC8jEyDbTA8hA+AwChH0HRuXcwep+A32W7vemQf+absNysmEDQMtz48s2PPg/mxy0ZduGooWdlG0eB2OUhCc+LPgjc/CE96d6TFr5/TLCip/O1DsDP1uDdCfoW4jKEwhxKX2BbaP2Z3o9+Se6mPNb0XqMseMxiBxe5TllroBs4fBjHwLcAl+DuSm5Ft8Mb07ZblS0nROHH4HBgzGic4o2ED11nuPN3io=;lf5oZ1FU6ouIc0LFtdWBXg=="
+secured: "vNCix4IpSgIdOMz5oHJRdwBK0DBzDiCoDmnI1hokgfomuGNYDEqEbk1Ezwe5jA6yJ164uIZAZ06W5FuZnSjARur2wi1bVGq/JRvlXjr14m+Q6B9LAPmDVrUn2g0vtv2YKk2vyQnfe2lA6kSDhyBZ1HTmvgVNLy9AWTv0vdg9sIKwjcKcqXL9SsrHfkRbFBEqf/xeXz08r6h0RUeEXVP8P++QUMm3tB0fRHS6ST7ajDggXe9AtVgls9h3Vxc5G/W8fto7ChpI9QJL7i54mDpwkd4t2YNFVRsMSmKd0OiZmLxrr5YFRDg74Aqm+7AOmsLxjqpAuCC6tl9j+63b3/yQ84/v7/7D0ytyRTxrtIxKpL8=;Hr2jGEVVkd2IdLoz0DUaDQ=="
 ---
 

@@ -2,6 +2,83 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-12-11-researchers-use-ai-platform-to-identify-best-combination-of-available-therapies-against-covid-19.md",
+      "title": "Researchers use AI platform to identify best combination of available therapies against COVID-19.",
+      "excerpt": "and they used their platform is known as 'IDentif.AI' (Optimising Infectious Disease Combination Therapy with Artificial Intelligence) to investigate 12 potential drug candidates, representing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
+      "publishedDateTime": "2020-12-10T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards.md",
+      "title": "QuantaVerse Tops Off 2020 Success with Notable List of Financial and Regulatory Technology Awards",
+      "excerpt": "QuantaVerse is Recognized by Two Coveted Industry Awards and Grabs a Spot on the Prestigious RegTech 100 List WAYNE, Pa. (PRWEB) QuantaVerse, which uses AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/p18743716/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/p18743716/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18743716",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18743716",
+      "publishedDateTime": "2020-12-10T17:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-amazon-is-cozying-up-in-all-corners-of-the-healthcare-ecosystemai-is-its-next-frontier.md",
       "title": "Amazon is cozying up in all corners of the healthcare ecosystem—AI is its next frontier",
       "excerpt": "Amazon is entrenching deeper into healthcare with its launch of Amazon HealthLake, molding itself into a daunting threat to smaller AI firms.",
@@ -1108,109 +1185,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts.md",
-      "title": "Sensorium and Mubert develop AI-driven DJs for virtual reality concerts",
-      "excerpt": "Sensorium has teamed up with Mubert to develop AI-driven DJs that can make AI-created music at virtual concerts in virtual reality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
-      "originalUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/sensorium.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
-      "publishedDateTime": "2020-12-10T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-electric-self-driving-tractor-may-just-be-the-future-of-farming-as-we-know-it.md",
-      "title": "Electric, self-driving tractor may just be the future of farming as we know it",
-      "excerpt": "This autonomous, all-electric tractor promises to be a game-changer for farms. Here's what makes it so special.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/",
-      "originalUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn5.digitaltrends.com/image/digitaltrends/monarchembargo12-8-20tractor-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/monarch-tractor-self-driving/?amp",
-      "publishedDateTime": "2020-12-10T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

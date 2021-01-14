@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-07-waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla.md",
+      "title": "Waymo won't talk about 'self-driving' cars anymore, in apparent dig at Tesla",
+      "excerpt": "Waymo takes a stab at Tesla over its use of the term \"self-driving\" in its new Full Self Driving feature. Alphabet-owned Waymo has stopped referring to \"self-driving\" to describe its technology and form now on will only use the term \"fully autonomous driving technology\" instead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
+      "originalUrl": "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/17/f71cf2c8-9b0c-4c9b-8871-ac97d9a76c73/thumbnail/1200x675/5c36970a2932377566a437c0929868b2/sensors-from-selfdriving-car-to-aibased-5fae92e0eafdf2701d541185-1-nov-17-2020-12-35-03-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
+      "publishedDateTime": "2021-01-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor.md",
       "title": "DSP Group Unveils DBM10 Low-Power Edge AI/ML SoC with Dedicated Neural Network Inference Processor",
       "excerpt": "SAN JOSE, Calif., Jan. (GLOBE NEWSWIRE) -- DSP Group, Inc. (NASDAQ:DSPG), a leading global provider of wireless and voice-processing chipset solutions for",
@@ -1148,58 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-facial-recognition-now-algorithms-can-see-through-face-masks.md",
-      "title": "Facial recognition: Now algorithms can see through face masks",
-      "excerpt": "The US Department of Homeland Security has carried out trials to test whether facial recognition algorithms could correctly identify masked individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
-      "originalUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
-      "publishedDateTime": "2021-01-06T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

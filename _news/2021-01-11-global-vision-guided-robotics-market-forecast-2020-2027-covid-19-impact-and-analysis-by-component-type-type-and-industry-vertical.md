@@ -32,7 +32,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 43
+    quality: 45
   - title: "Cloud Computing Market to Get Expansion admist COVID 19, Scope With Advanced Technologies Top Key Players and Forecast 2020-2027"
     excerpt: "The global cloud computing market is expected to gain momentum from the rising inclination of enterprises to omni-cloud solutions from multi-cloud solutions. This information is given by Fortune Business Insights™ in a new report,"
     publishedDateTime: 2021-01-13T10:33:00Z

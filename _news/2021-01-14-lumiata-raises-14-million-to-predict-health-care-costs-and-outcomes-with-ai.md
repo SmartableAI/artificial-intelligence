@@ -63,22 +63,20 @@ related:
         height: 600
         isCached: true
   - title: "Healthcare Specific AI Platform Lumiata Raises Series B Funding"
-    excerpt: "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc and AllegisNL Capital along with existing investors Khosla Ventures and Blue Venture Fund."
-    publishedDateTime: 2021-01-14T12:55:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-1029968234"
+    excerpt: "Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc and AllegisNL"
+    publishedDateTime: 2021-01-14T12:44:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthcare-specific-ai-platform-lumiata-raises-series-b-funding/article_52eb636c-d900-53de-a2f2-c4351ce9e075.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 76
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 56
     images:
-      - url: "https://download53.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/N59n8TyAHDH1q8YVXZIKAUtcTYpFNeOocfvX/17102/17102.jpg"
-        width: 377
-        height: 212
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/e1/8e185db6-5af0-512d-bc6b-bc2b55fa4332/600044b434c96.image.jpg?resize=400%2C400"
+        width: 400
+        height: 400
         isCached: true
 
-secured: "3Ba+CgRi+7k+/Ifpi4tsy6pYtJFcDnRlwpebAqLD7cUykFAPrk40Mmng9bRfxMJ9U2a833TqVzjiYHbBcnB0PO/U47eDqyf7oxfg0xYJkq/ZRO5ANhzQIBQc0JRI5ce9/PrCSy9851XnhGLZ7DVIvEZK5IsXTVUwxZqh71rzXsR6WW2vriXckxKjN45fXF+VQUrad2gNuRcmZDbM0huN+EIneEwbjUlfaKjSwjFlmnYoC3cRtS2eSum9cP+B5KnMa1E7FX3zh3JGq+/HUpFK1Wf0eP/2WV9FvMB0KoJ5OYnPKbIFvgq4NWtEVnRx4alRk0cOS+ceOCyEfgZoYcCF5pEkaMqbwrGJtmk0H/EDCGU=;U/MkQWhA7VENSlNinN2y+w=="
+secured: "NAtM+2iNbY9gAOukwXIXTkss4kGKyNZKX1tPjm1tgLKFpXbxMV/hkw5n0DdPnmbwbHDOCo+6/2gxzmsZndJ6NaNKl86U4P2JRDxjB39Da467wn+mpVeRsS09E98YcU1fQc1Qr/bEDG6ipTxFSEBZVdKJnabcHXbRrhwBRLofhm3WuCbP7V9pzkkoLjJmrUYM4xHeeNkxU07GcKvmaUFWg1MPgQJ/+0CBIgh0brGVQ24l6m+2pU6pt8wHWC8s25GNi/IRtJSj1xTGRM+EbiT5VStjthDiza3cm2neQ/ztwgWTG6h6DOBAtsF/QuoPs7E0XSkQh0+mQsZ2+CUA49MCYAGviXxWw1gjW/FnUaTEWy8sql8BsCLkDfJCBQN0ieXFdx9MlCB33lLSuJCzeGLnWkBpeR7RU9K5A5NNH9F+S3/Y0pkHmh8foIY3q3QFfIdSJnN0+/eUxuu4WHPAESi4Qb/r1W3KgziLMudUKdI1YYmcd3gJ+zsuG91cd88dpsMKfY5BSRm5JxX8mfTmB534dw==;tmImLmDlLTBYgK6EyZn6pQ=="
 ---
 

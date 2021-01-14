@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Enterprise AI Market Growth Analysis, Outlook by 2021 - Trends, Opportunities and Forecast to 2025"
+    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
+    publishedDateTime: 2021-01-14T14:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-outlook-by-2021---trends-opportunities-and-forecast-to-2025-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Digital Trends Top Tech of CES 2021 Awards"
     excerpt: "The first all-digital CES brought challenges, but also a world-changing slate of amazing gadgets and devices. We picked the best of the best."

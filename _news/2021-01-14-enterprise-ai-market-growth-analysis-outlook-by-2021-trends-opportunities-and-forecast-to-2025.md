@@ -1,0 +1,89 @@
+---
+category: news
+title: "Enterprise AI Market Growth Analysis, Outlook by 2021 - Trends, Opportunities and Forecast to 2025"
+excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
+publishedDateTime: 2021-01-14T14:43:00Z
+originalUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-outlook-by-2021---trends-opportunities-and-forecast-to-2025-2021-01-14"
+webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-outlook-by-2021---trends-opportunities-and-forecast-to-2025-2021-01-14"
+type: article
+quality: 55
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "AI Trends To Watch In 2021"
+    excerpt: "In order to tackle short-term, long-term and unexpected obstacles, many leaders have turned to AI to help navigate these disruptions."
+    publishedDateTime: 2021-01-13T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda5383788cdd2ee50b6eb3%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The State Of AI In Production In 2021"
+    excerpt: "In 2020, I've seen numerous enterprises discover just how much AI and ML tools can help their organization remain stable and even continue to grow despite the turmoil rolling through the markets. But this growth comes with the necessity to assure the health of ML models in production to avoid drifts,"
+    publishedDateTime: 2021-01-13T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Digital Trends Top Tech of CES 2021 Awards"
+    excerpt: "The first all-digital CES brought challenges, but also a world-changing slate of amazing gadgets and devices. We picked the best of the best."
+    publishedDateTime: 2021-01-13T17:15:00Z
+    webUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/"
+    ampWebUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
+  - title: "Startup Watchlist: 7 Indian Fintech Startups To Watch Out For In 2021"
+    excerpt: "In this Startup Watchlist 2021 article, we offer a rundown of the top 7 Indian fintech startups that are a must watch in 2021"
+    publishedDateTime: 2021-01-12T07:30:00Z
+    webUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/"
+    ampWebUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 24
+
+secured: "FL2uIu93afkUj/mmO0kuTFVeEmfFo8vjrbvVcy6ZuqVV4vw26qEbnIVOyUnYq746hQQmQPrCmSfNlyZ/z86nP8caRTBCsz7kFgDFxuZDcHlxrK/j2NEv20n8gJx0WfA7BilawgMuuibU2vY8j8Gq2vo7I8Rtc0UDcpcfnUVfaXATEYZjXqn+r7q8XNK7aFwn+HGwMPW5bWoLE2qIhaXeDPOqqsZkZxEpsf+uRxnZ1ntuDkETYDsSTeN3aeojWRxhnoeQze0bW35t+waR1zBkrT1mOYFjFijiJgJ+T8TXeos9AAAsrPVTiamDJpwjTskHGIa75C9P/MydyVr0lsdpsC0im//dYxoymD+SNW4wdi0=;LBDY1k1FRY4DqfwfoKUmVA=="
+---
+

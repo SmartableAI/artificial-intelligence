@@ -165,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -457,7 +457,7 @@
       "originalUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -485,7 +485,8 @@
         "Facebook AI",
         "IBM AI",
         "Microsoft AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Hardware"
       ]
     },
     {

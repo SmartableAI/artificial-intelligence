@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Deep Learning May Detect Breast Cancer Earlier than Radiologists"
+    excerpt: "A deep learning algorithm accurately detected breast cancer in mammography images and generalized well to populations not represented in the training dataset."
+    publishedDateTime: 2021-01-14T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-may-detect-breast-cancer-earlier-than-radiologists"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-5845715201.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "RadNet’s DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer ..."
     excerpt: "(NASDAQ: RDNT) today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence (AI) for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
     publishedDateTime: 2021-01-12T09:49:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/01/g19157413/artificial-intel
 ampWebUrl: "https://amp.benzinga.com/amp/content/19157413"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19157413"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI
   - AI in Security
   - AI in Robotics
+  - Natural Language Processing
 
 related:
   - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"

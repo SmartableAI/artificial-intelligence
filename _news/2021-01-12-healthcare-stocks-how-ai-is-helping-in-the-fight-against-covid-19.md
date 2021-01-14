@@ -33,7 +33,7 @@ related:
     provider:
       name: WTOP News
       domain: wtop.com
-    quality: 66
+    quality: 68
 
 secured: "HjCB6GVagOQKZhs+f9WVSKSnsmOmEe0GfPBuAaNDBbhqV/WkHxJUQLRRAP66xVQXiQmoSt+zEo8GEqHWYq2LNRKGKfcp84evT83GeqBJTaqEq+hYwq72COOgbV298isOFqgB0KUrBCPdoYCZWWDkVrkfAyo9Clb00yCzWxYiWt47dT9IIrpy108cPug1Yr+SwbP4bnkQX0thEzQhUN9MspUnUiseATahGOU5qzIz+5g7Zq2fb45TFW2JXjxmHTnAT3RyfNSN4HLlaluT/EvyftrWVOx5/gy1J1JFaroMncHn0OlSD/xa+2W6maROVPaqyUrGtoDL+Z8xhQmpmeoswUQY1f6NIJfMj4g5BdjciDQ=;Va/enKMPy1lm7/MS5GTdoQ=="
 ---

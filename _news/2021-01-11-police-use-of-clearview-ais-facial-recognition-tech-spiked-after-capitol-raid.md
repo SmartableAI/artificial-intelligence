@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-t
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp"
 type: article
 quality: 100
-heat: 190
+heat: 180
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://images.wsj.net/im-284435/social"
         width: 1279
         height: 640
-        isCached: true
-  - title: "Alabama police using facial recognition to ID Capitol riot suspects"
-    excerpt: "The Oxford Police Department is one of several across the country using the Clearview AI product to identify people who stormed the U.S. Capitol Wednesday."
-    publishedDateTime: 2021-01-09T21:05:00Z
-    webUrl: "https://www.al.com/news/2021/01/alabama-police-using-facial-recognition-to-id-capitol-riot-suspects.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/alabama-police-using-facial-recognition-to-id-capitol-riot-suspects.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/alabama-police-using-facial-recognition-to-id-capitol-riot-suspects.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WGLF6UUNFREHTNDYYOVSYKTNSE.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Facial recognition and social media may get Capitol rioters caught"
     excerpt: "Just because they made it home doesn't mean they're home free. Police have identified dozens of suspects and are working on more."

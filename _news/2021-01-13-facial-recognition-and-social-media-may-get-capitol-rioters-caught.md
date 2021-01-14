@@ -59,22 +59,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Alabama police using facial recognition to ID Capitol riot suspects"
-    excerpt: "The Oxford Police Department is one of several across the country using the Clearview AI product to identify people who stormed the U.S. Capitol Wednesday."
-    publishedDateTime: 2021-01-09T21:05:00Z
-    webUrl: "https://www.al.com/news/2021/01/alabama-police-using-facial-recognition-to-id-capitol-riot-suspects.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/alabama-police-using-facial-recognition-to-id-capitol-riot-suspects.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/alabama-police-using-facial-recognition-to-id-capitol-riot-suspects.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WGLF6UUNFREHTNDYYOVSYKTNSE.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Facial Recognition, Social Media Could Help ID Capitol Rioters"
     excerpt: "Trump rioters that stormed and defaced the U.S. Capitol building last week has intensified and federal law enforcement is using every means at its disposal to investigate the incident."
     publishedDateTime: 2021-01-13T22:49:00Z

@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-07-facial-recognition-now-algorithms-can-see-through-face-masks.md",
+      "title": "Facial recognition: Now algorithms can see through face masks",
+      "excerpt": "The US Department of Homeland Security has carried out trials to test whether facial recognition algorithms could correctly identify masked individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "originalUrl": "https://www.zdnet.com/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-now-algorithms-can-see-through-face-masks/",
+      "publishedDateTime": "2021-01-06T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-nissan-source-code-leaked-online-after-git-repo-misconfiguration.md",
       "title": "Nissan source code leaked online after Git repo misconfiguration",
       "excerpt": "The source code of mobile apps and internal tools developed and used by Nissan North America has leaked online after the company misconfigured one of its Git servers. Cheat sheet: TensorFlow, an open source software library for machine learning Read More The leak originated from a Git server that was left exposed on the internet with its default username and password combo of admin/admin,",
@@ -1154,48 +1206,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-this-avocado-armchair-could-be-the-future-of-ai.md",
-      "title": "This avocado armchair could be the future of AI",
-      "excerpt": "OpenAI has released two new models that pair GPT-3 with image recognition to produce AIs that have a better understanding of everyday concepts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/avocado-upres.jpg?w=3000",
-          "width": 3000,
-          "height": 1798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/amp/",
-      "publishedDateTime": "2021-01-05T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

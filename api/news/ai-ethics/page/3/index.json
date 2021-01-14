@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-04-ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models.md",
-      "title": "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models",
-      "excerpt": "AI research at the center of Google AI co-lead Timit Gebru's exit focuses on the bias, risks, and inequality tied to deploying large language models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
-      "originalUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
-      "publishedDateTime": "2020-12-03T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-top-ai-ethics-researcher-says-google-fired-her-company-denies-it.md",
       "title": "Top AI ethics researcher says Google fired her; company denies it",
       "excerpt": "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists.",

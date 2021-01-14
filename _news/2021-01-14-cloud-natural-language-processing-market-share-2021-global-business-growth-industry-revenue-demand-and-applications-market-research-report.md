@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-2021-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2025-2021-01-14"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -29,33 +29,30 @@ images:
     isCached: true
 
 related:
-  - title: "Global Self-driving Shuttle Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
-    excerpt: "Jan (CDN Newswire via Comtex) -- Global Self-driving Shuttle Market 2020 by Manufacturers, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2021-01-13T16:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2020-to-2025---top-manufacturers-business-strategy-and-forecast-report-2021-01-13"
+  - title: "Intelligent Virtual Assistant Market 2019: Global Industry Analysis Report to 2025"
+    excerpt: "The Global Intelligent Virtual Assistant Market size is expected to grow at an annual average of 26 3 during 2019 2025 Intelligent Virtual Assistant IVA also known as Intelligent Personal Assistant IPA is software that helps you understand natural language"
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://www.openpr.com/news/2223718/intelligent-virtual-assistant-market-2019-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2223718/intelligent-virtual-assistant-market-2019-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2223718/intelligent-virtual-assistant-market-2019-global-industry"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Drone Data Services Market 2021 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2025"
-    excerpt: "The evolution of data analytics throughout major industry verticals is one of the significant factors positively"
-    publishedDateTime: 2021-01-11T22:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/drone-data-services-market-2021-global-analysis-share-trend-key-players-opportunities-forecast-to-2025-2021-01-11"
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+  - title: "Flipclutch Research: Global AR advertising revenue is huge, WIMI intends to seize this business opportunity"
+    excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and"
+    publishedDateTime: 2021-01-12T14:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-301206504.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
     excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."

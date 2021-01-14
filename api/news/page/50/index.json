@@ -2,6 +2,111 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-12-02-why-enterprises-are-turning-from-tensorflow-to-pytorch.md",
+      "title": "Why enterprises are turning from TensorFlow to PyTorch",
+      "excerpt": "The deep learning framework PyTorch has infiltrated the enterprise thanks to its relative ease of use. Three companies tell us why they chose PyTorch over Google’s renowned TensorFlow framework.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html",
+      "originalUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html",
+      "publishedDateTime": "2020-12-02T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission.md",
+      "title": "Genesis Therapeutics raises $52M A round for its AI-focused drug discovery mission",
+      "excerpt": "Sifting through the trillions of molecules out there that might have powerful medicinal effects is a daunting task, but the solution biotech has found is to work smarter, not harder. Genesis Therapeutics has a new simulation approach and cross-disciplinary team that has clearly made an impression:",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/",
+      "originalUrl": "https://techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/04/biotech-molecules.jpg?w=1024",
+          "width": 1024,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/amp/",
+      "publishedDateTime": "2020-12-02T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-review-datarobot-aces-automated-machine-learning.md",
       "title": "Review: DataRobot aces automated machine learning",
       "excerpt": "AutoML, i.e. automated machine learning, can speed up these processes dramatically, sometimes from months to hours, and can also lower the human requirements from experienced Ph.D. data ...",
@@ -1087,108 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images.md",
-      "title": "Nvidia introduces AI for generating video conference talking heads from 2D images",
-      "excerpt": "Nvidia researchers created AI for recreating and manipulating talking heads in video conferences from a singe 2D image.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nividia-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "publishedDateTime": "2020-12-01T13:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-scale-ai-hits-35b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza.md",
-      "title": "Scale AI hits $3.5B valuation as its turns the AI boom into a venture bonanza",
-      "excerpt": "Scale AI, the four-year-old data labeling startup, has discovered that selling the picks and shovels needed to develop and apply artificial intelligence is big business. The company, which created a visual data labeling platform that uses software and people to label image,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/PandaSet-flyover-GIF-credit_-Scale-AI.gif?w=720",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/amp/",
-      "publishedDateTime": "2020-12-01T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

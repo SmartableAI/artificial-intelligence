@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/india-news/ai-all-women-crew-takes-of
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965-amp.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Hindustan Times
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "LTI and IBM to expand global alliance; to set up CoE in Bengaluru"
+    excerpt: "The companies will establish a centre of excellence in Bengaluru to help clients migrate and modernize core business applications leveraging IBMs open hybrid cloud platform built on Red Hat OpenShift."
+    publishedDateTime: 2021-01-14T14:58:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/articleshow/80271575.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/amp_articleshow/80271575.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/amp_articleshow/80271575.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg"
+        width: 412
+        height: 255
+        isCached: true
   - title: "L&T Infotech, IBM expand alliance; to build an innovation center in Bengaluru this year"
     excerpt: "L&T Infotech will help clients migrate and modernize core business applications leveraging IBM Cloud offerings, the company said.L&T Infotech has developed industry-ready solutions using IBM Cloud Paks,"
     publishedDateTime: 2021-01-12T06:29:00Z

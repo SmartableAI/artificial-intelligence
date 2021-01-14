@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "New deep-learning framework predicts gene regulation at single-cell level"
-    excerpt: "Scientists at the University of California, Irvine have developed a new deep-learning framework that predicts gene regulation at the single-cell level."
-    publishedDateTime: 2021-01-14T01:27:00Z
-    webUrl: "https://www.news-medical.net/news/20210113/New-deep-learning-framework-predicts-gene-regulation-at-single-cell-level.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210113/New-deep-learning-framework-predicts-gene-regulation-at-single-cell-level.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210113/New-deep-learning-framework-predicts-gene-regulation-at-single-cell-level.aspx"
+  - title: "Machine learning tool gives early warning of cardiac issues in COVID-19 patients"
+    excerpt: "A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors several hours before hospitalized COVID-19 patients experience cardiac arrest or blood clots."
+    publishedDateTime: 2021-01-14T14:37:00Z
+    webUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 45
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 54
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/6/Anatomical_structure_of_biological_animal_cell_with_organelles-eranicle_1d73b50575dc4546875a4a2fc7d429a6-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "UCI researchers use deep learning to identify gene regulation at single-cell level"
-    excerpt: "In a  study, UCI researchers describe how they developed a deep-learning framework to observe gene regulation at the cellular level."
-    publishedDateTime: 2021-01-12T05:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uoc--uru011221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/cardiacdevice.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "GqNfz/0Iw8rJFa8Mk2tuGgKeAwd/HkMfiVcB/cEo3WBlh4JCYtOoReDQJyYOrVbc2EoBT8rR6wME6YwYJabb6d1ktsT/fz6JNPOoiJT0LvcYwvC/ViYrlAOwoG7mo/41AxbUzBT7JONzFhvVbfcOpMnOM89hdiT7C48JN5/lwzLTIhii5qR5iuT+x8DIJ1ogHkXi4ezmgrEZ4qdI2qpsBEP0V75n1xksrHUGnwUuKldBapw2/DBocJJi2pPeGj1AycYvA7DBQ+j31bKZR54vJHmsEHDJ2bisVAEeiXjfOrNhpoPkmdB9lHFodfTyC3qudeaaWfwaVoQIgrp4NCk61StO8Id3eNFVINO0Gaj/Cys=;DBJ3eNmBrsuLCK5yymlrBw=="
