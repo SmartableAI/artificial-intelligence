@@ -2,6 +2,178 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-14-nationwide-selects-aws-as-its-preferred-cloud-provider.md",
+      "title": "Nationwide selects AWS as its preferred cloud provider",
+      "excerpt": "Nationwide, a Fortune 100 insurance and financial services provider, is expanding its relationship with AWS and has selected AWS as its preferred cloud provider. Nationwide is leveraging AWS’ services, including analytics, database, machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144325",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/134650-1200-by-630-suburban-home-shutterstock-745809697--ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing.md",
+      "title": "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing",
+      "excerpt": "Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers Cambridge Quantum Computing (CQC) today announced that it has built on earlier advances in \"",
+      "sourceUrl": null,
+      "webUrl": "https://www.ryt9.com/en/anpi/246378",
+      "originalUrl": "https://www.ryt9.com/en/anpi/246378",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RYT9",
+        "domain": "ryt9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025.md",
+      "title": "Sizing the AI software market: Not as big as investors expect but still $37 billion by 2025",
+      "excerpt": "How big is the market for artificial intelligence software? In new research, Forrester forecasts that the size of the AI software market will approach $37 ... will grow to $13 billion by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forrester.com/report/The+AI+Software+Market+Will+Grow+To+37+Billion+Globally+By+2025/-/E-RES159524",
+      "originalUrl": "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-ai-algorithms-are-slimming-down-to-fit-in-your-fridge.md",
+      "title": "AI Algorithms Are Slimming Down to Fit in Your Fridge",
+      "excerpt": "Artificial intelligence programs typically are power guzzlers. New research shows how to generate computer vision from a simple, low-power chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
+      "originalUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd41c88c8d3dcf3baf4f08a/master/pass/Business-AI-IoT-488760853.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
+      "publishedDateTime": "2020-12-13T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-algorithmic-and-ai-assessment-tools-a-new-frontier-in-disability-discrimination.md",
       "title": "Algorithmic And AI Assessment Tools — A New Frontier In Disability Discrimination",
       "excerpt": "Algorithmic assessment tools are a serious threat to disability rights. An inescapable tension exists between an algorithm’s use of big population-level data and the highly individualized experiences of disabled people.",
@@ -1060,205 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-tiny-four-bit-computers-are-now-all-you-need-to-train-ai.md",
-      "title": "Tiny four-bit computers are now all you need to train AI",
-      "excerpt": "Some researchers have rushed to find new directions, like algorithms that can train on less data, or hardware that can run those algorithms faster. Now IBM researchers are proposing a different one: to reduce the number of bits,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
-      "originalUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/zQLYOIjEH08BXrs2j4Ii8uG8JzjDPjzeKSI7PAIWs553o4-qOXf2dWp9s2RRO4bAV0xu9qiJA_wMRBohAUYAC1VWtCmLVAZBYvrz7GMKmrp34ycLbND7_bHyKT-ru3ZG1UTjbAOx",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
-      "publishedDateTime": "2020-12-11T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026.md",
-      "title": "Entertainment Robots Market New Opportunities for Sustained Growth and Expansion (With Covid-19 Impact) 2020-2026",
-      "excerpt": "Global Entertainment Robots Market Growth 2020-2026 This study specially analyses the impact of Covid-19 outbreak",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-td-bank-is-using-ai-to-boost-engagement-with-its-customers.md",
-      "title": "TD Bank is using AI to boost engagement with its customers",
-      "excerpt": "TD Bank upgraded its mobile banking app in Canada with AI-powered features that tailor users' experiences based on past behavior and transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
-      "originalUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fca3f1c037cbd0018613ca7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-facial-recognitions-fate-could-be-decided-in-2021.md",
-      "title": "Facial recognition's fate could be decided in 2021",
-      "excerpt": "A number of lawsuits and legislative measures mean the debate over the use of facial recognition is poised to ramp up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/",
-      "originalUrl": "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/i8mx0C0pY9FlnIbYSf-cGiOsaeE=/1200x630/2020/12/10/62311dd0-dcb3-4807-a601-9d4b92a337da/gettyimages-1195225361.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/",
-      "publishedDateTime": "2020-12-11T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

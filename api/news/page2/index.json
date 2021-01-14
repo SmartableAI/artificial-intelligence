@@ -2,6 +2,188 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-14-amazon-ai-conclave-2021-everything-you-need-to-know.md",
+      "title": "Amazon AI Conclave 2021: Everything You Need To Know",
+      "excerpt": "Roche, the second-largest pharmaceutical company in the world, uses Amazon SageMaker to accelerate the delivery of treatments and tailor medical experiences. And the list goes on… Data scientists, researchers,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know",
+      "originalUrl": "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/shutterstock-1083512990-1_fw3k.620.jpg",
+          "width": 620,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know?amp=1",
+      "publishedDateTime": "2021-01-13T20:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-singapore-firms-robot-baristas-to-serve-coffee-at-japanese-railway-stations.md",
+      "title": "Singapore firm's robot baristas to serve coffee at Japanese railway stations",
+      "excerpt": "East Japan Railway Co. has acquired an equity stake in Crown Technologies with a view to using the Singapore retail tech star",
+      "sourceUrl": null,
+      "webUrl": "https://mainichi.jp/english/articles/20210114/p2g/00m/0bu/062000c",
+      "originalUrl": "https://mainichi.jp/english/articles/20210114/p2g/00m/0bu/062000c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mainichi.jp/vol1/2021/01/14/20210114p2g00m0bu061000p/0c10.jpg?1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mainichi.jp",
+        "domain": "mainichi.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-security-software-maker-tufin-soars-on-raised-q4-outlook.md",
+      "title": "Security software maker Tufin soars on raised Q4 outlook",
+      "excerpt": "The company named software industry veteran Ray Brancato, formerly of CA Technologies, among others, as its chief revenue officer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/security-software-maker-tufin-soars-on-raised-q4-outlook/",
+      "originalUrl": "https://www.zdnet.com/article/security-software-maker-tufin-soars-on-raised-q4-outlook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/security-software-maker-tufin-soars-on-raised-q4-outlook/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/security-software-maker-tufin-soars-on-raised-q4-outlook/",
+      "publishedDateTime": "2021-01-13T20:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-autonomous-vehicle-startup-weride-raises-320-million.md",
+      "title": "Autonomous vehicle startup WeRide raises $320 million",
+      "excerpt": "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/1_owq-V2IrljRj2C9YoZNnkA-e1610586000900.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/",
+      "publishedDateTime": "2021-01-13T17:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions.md",
       "title": "Machine Learning Market Outlook, Size, Share and Growth and Forecast Assumptions",
       "excerpt": "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy",
@@ -10,7 +192,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1069,182 +1251,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-rugged-computer-artificial-intelligence-ai-edge-supercomputing.md",
-      "title": "rugged computer artificial intelligence (AI) edge supercomputing",
-      "excerpt": "News Highlights: rugged computer artificial intelligence (AI) edge supercomputing. SUGAR LAND, Texas - System Inc. in Sugar Land, Texas, introduces the",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
-      "originalUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/rugged-computer-artificial-intelligence-AI-edge-supercomputing.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
-      "publishedDateTime": "2021-01-12T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI could be the 21st century’s biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future; it’s here.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/",
-      "originalUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/",
-      "publishedDateTime": "2021-01-12T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Facebook AI",
-        "IBM AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ces-2021-day-two-highlights-bold-ideas-and-lots-of-bending-oleds.md",
-      "title": "CES 2021 day two highlights: Bold ideas and lots of bending OLEDs",
-      "excerpt": "Looking for the latest CES 2021 news? We've got you covered. In this daily roundup, we'll bring you all the biggest developments of the day.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
-      "originalUrl": "https://www.digitaltrends.com/news/ces-2021-day-2-highlights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T16:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand.md",
-      "title": "AI Startup Sees Opportunity Forecasting Pandemic-Era Consumer Demand",
-      "excerpt": "New York-based Centricity is helping companies track consumer demand by analyzing some 2.5 billion data points’ worth of internet traffic a day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-284183/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
-      "publishedDateTime": "2021-01-12T16:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/doosan-bobcat-north-ame
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/doosan-bobcat-north-america-announces-investment-in-ainstein-ai-to-elevate-radar-sensing-solutions-1029969711"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Business Insider
@@ -37,6 +37,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Doosan Bobcat Invests in Ainstein AI to Further Sensor Innovation for Compact Equipment"
+    excerpt: "The investment is aimed at furthering sensor innovation for compact equipment to advance productivity on construction jobsites."
+    publishedDateTime: 2021-01-14T22:10:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21232203/bobcat-co-doosan-bobcat-invests-in-ainstein-ai-to-further-sensor-innovation-for-compact-equipment"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 29
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/01/mmWave_Imaging_Radar.6000bb7884e27.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 1172
         isCached: true
 
 secured: "54vGZ/CHfZUr1TxeVDV6kDeyIXXIqhcXLdbzEZjiKvIwOQMhwOU04m2Q6IEfQ9xwROjXnUq7TJQQgv9n7k3LOQhm866UpxJmQG1yT0J548GCGpuM4JHITQKfsgIFa0MXuEDj7eJPh2WLsxrBCu58u6t3aJwNh6h8ng44KQojBtoAKpoXS/g15E9TGw6BQIkHSD8LDZUsbtsNXeZlLRz0e5bsinxcpGjFsCuVSzyL/NyAUjgmFqldJwrmFvegJOMxH1ZecTLkGrYDssO2fLK57PaDn0+CH9ijNrGw1Y5TkEzZquFf4QSx8hJe6ZTaFViG2JEafikhJTCTSZ++mXH48Cul78m9t042J+Yg2pFZ8ks=;WxBvb19NrbZUj6Eyg1vhhQ=="

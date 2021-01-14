@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3D Facial Recognition Market Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2026"
+    excerpt: "Selbyville, Delaware, this detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere."
+    publishedDateTime: 2021-01-13T14:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2026-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast"
     excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
     publishedDateTime: 2021-01-13T06:42:00Z

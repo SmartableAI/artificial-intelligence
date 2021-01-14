@@ -119,6 +119,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 45
+  - title: "Medtronic honing in on AI, machine learning: 10 device company notes"
+    excerpt: "From Medtronic's CEO discussing the future of surgical medtech to a string of companies posting fourth-quarter financial results, here is the latest news:"
+    publishedDateTime: 2021-01-14T21:36:00Z
+    webUrl: "https://www.beckersspine.com/orthopedic-a-spine-device-a-implant-news/item/50917-medtronic-honing-in-on-ai-machine-learning-10-device-company-notes.html"
+    type: article
+    provider:
+      name: Becker's Spine Review
+      domain: beckersspine.com
+    quality: 34
 
 secured: "L5vT+baM+IEBSAh/E0A6xsntP3kmYWmgDzrJKT1E2hOh0FmQAwkYEzFSFKUTyERuELHUBqOJ1Wq5pB4aQa5XIiYzB3d5JVZtyqqPZq6D45S6r7BNNfd+1DQNcdYzYTHJcQ1/kKjsCzmUEOU4fEVyNlhBRrOc/wT3wsv0x71DJDW9PTBsuru0XcuYd3lUXXFENAXW4ZwfvgpihfIgAFWxTdNNDNXans46euQAdU2zjsvaW2v57/8h/B0ETmx0r7Y0HuzfXP0U8foTR64PQaNRbOqHh1Pzc/8rM7yrJd9L5lswDJiYoittq+XJjUvb0T585U9iCotJvSc2x5ma3cE+r/3KIJSNg2MD89EOHqmDpKM=;K+/AuJFEylwb/wcpvHN0cA=="
 ---

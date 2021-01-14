@@ -1,27 +1,28 @@
 ---
 category: news
 title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
-excerpt: "FDA has released the Artificial Intelligence/Machine Learning- Based Software as a Medical Device Action Plan."
-publishedDateTime: 2021-01-12T16:03:00Z
-originalUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
-webUrl: "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan"
+excerpt: "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software."
+publishedDateTime: 2021-01-13T06:59:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
 type: article
-quality: 154
-heat: 194
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: Center for Food Safety and Applied Nutrition
-  domain: fda.gov
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
   - Machine Learning
 
 images:
-  - url: "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
-    width: 1200
-    height: 675
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -38,20 +39,6 @@ related:
       - url: "https://mma.prnewswire.com/media/317925/FDA_Logo.jpg?p=facebook"
         width: 2423
         height: 1269
-        isCached: true
-  - title: "FDA Outlines Plan for AI and Machine Learning-Based Software"
-    excerpt: "FDA has released its holistic approach toward giving guidance for artificial intelligence and machine learning solutions. The federal agency’s first AI/ML-Based Software as a Medical Device Action Plan outlines five actions that the FDA intends to take,"
-    publishedDateTime: 2021-01-13T21:31:00Z
-    webUrl: "https://www.mddionline.com/regulatory-quality/fda-outlines-plan-ai-and-machine-learning-based-software"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 54
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan132021at40448PM.jpg"
-        width: 770
-        height: 400
         isCached: true
   - title: "FDA releases plan to advance oversight of medical AI software"
     excerpt: "Food and Drug Administration released for comment its first plan for advancing oversight of medical software based on artificial intelligence and machine learning."
@@ -82,6 +69,6 @@ related:
         height: 630
         isCached: true
 
-secured: "s+Teb9I1rcCrV0mCXVk46wqL6zzVRitiFWap+M6DEyU2GOfL7Ku72Pund/EtpHy70qWprgZOs+oPvV6m8tF6FRRdJzIco+yAVWPPxWU4zuC+KBrH1FRPAyu1KCv1YpARZYnej8DHV5nYMlRpqeb8mUWNXaeQufhDKH6owETFc5SKMYrNKJxcUfKOI7dBKkCYfIUyTbMCNLOyqdhnKZk+82oPWjHnCi18VfJgSj8fO0UdhiZON+UJXeX6ViJG31+DagLCx8+zoZcSNLuWYsWypv6rWsvfTILo9ffsv9Ds/JzdGxEHsJnHt+POnBF1mbGjbmi5Cvsz6xanI/rpwDWPg7h8vGhs20Pdu5ClTy3NPZQ=;HARY6ZQWHoc8yi7Pn8AmyA=="
+secured: "wMp9BucZ53CklNsERE6H35KhK5gWESjRT7BhOePnoACC5VPzLE0KsYVMyCCTKodxsjqTSno/VJVpx7Fy+ajeiy4DB/CLYeiTABCtzA3TEB7BzfNUtK0VkJj9hG2F67hD0EnUcqtxWAJLh9B4T2cRJesAR5kMbyy4PimR1zE58AJInPYMxBd5YVjQONHlVrk2oXWSfxpqxblnXJ+hyMDHdZkYrWr6pKhyzuN/jGUVSdWuMkhKwNFMQLf8/nEOTodzoKp3FBnMrvny16Z3CIvblKHnsaezs8Ut7MzDXvUivel6yMd+XopTWUQUCMnG3KufRyu2oS+UpIniBLEpvwf6ucL+El1nWBcEn22Altv8loc=;Hmp8D96c33jWdxba3MjnNw=="
 ---
 

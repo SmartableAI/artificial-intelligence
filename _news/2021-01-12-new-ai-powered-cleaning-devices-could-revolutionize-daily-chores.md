@@ -119,6 +119,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Medtronic honing in on AI, machine learning: 10 device company notes"
+    excerpt: "From Medtronic's CEO discussing the future of surgical medtech to a string of companies posting fourth-quarter financial results, here is the latest news:"
+    publishedDateTime: 2021-01-14T21:36:00Z
+    webUrl: "https://www.beckersspine.com/orthopedic-a-spine-device-a-implant-news/item/50917-medtronic-honing-in-on-ai-machine-learning-10-device-company-notes.html"
+    type: article
+    provider:
+      name: Becker's Spine Review
+      domain: beckersspine.com
+    quality: 34
 
 secured: "gPMllgKTAfBiRS4spqOdDXK2YUFa5AkoPOAfSVhm+Jaz3RThEbt8st6J8/VQLLsW+xV+T53ooxumBd1RLwXsB3+amndsEH2dokRHYsBqDJCWKAAwZYnjKFh78WkrVtf+fEgP7NWcyonvP5+7RqveRBWY24o0zKNLI5cSBQZ+kUiFPuhm5hydI8VBPqlP4PENCmVvRsem4p9ZPXWR5Lx8cfVcHTDuHvo5LJWzwgC7qC1cG2UtURTY6/H24hPK6ObWpB3x3vBaKH+lHx+BvyVGqzJUZrRHb2ffwUZaoNA//66RlM5gzkdmkUNIV+/CaXKoUvjgApOPcCR5XoVQkdQo05UNFTAu5Zbfa7GlWZOcBNk=;PNx/KE3tKEbyUHxbp6H2dw=="
 ---

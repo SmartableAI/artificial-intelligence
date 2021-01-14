@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top cloud providers in 2021: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
-    excerpt: "Cloud computing in 2021 has become the de facto choice of IT due to digital transformation shifts accelerated by remote work and the COVID-19 pandemic. Here's a look the cloud leaders stack up, the hybrid market,"
-    publishedDateTime: 2021-01-10T05:17:00Z
-    webUrl: "https://www.zdnet.com/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 112
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
-        width: 1600
-        height: 1068
-        isCached: true
   - title: "Microsoft president begs tech industry to improve its ethics"
     excerpt: "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past."
     publishedDateTime: 2021-01-14T05:56:00Z
@@ -75,6 +59,48 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/feat.png?w=1200&strip=all"
         width: 1200
         height: 553
+        isCached: true
+  - title: "Microsoft’s New BERT Model Surpasses Human Performance on SuperGLUE Benchmark"
+    excerpt: "Researchers at Microsoft Dynamics 365 AI and Microsoft Research have introduced a new BERT model architecture known as DeBERTa or Decoding-enhanced BERT with dis-entangled attention. The new model is claimed to improve the performance of Google’s BERT and Facebook’s RoBERTa models."
+    publishedDateTime: 2021-01-12T04:32:00Z
+    webUrl: "https://analyticsindiamag.com/microsofts-new-bert-model-surpasses-human-performance-on-superglue-benchmark/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Microsoft.png"
+        width: 1024
+        height: 597
+        isCached: true
+  - title: "JPM: Microsoft signs on to Verily, Broad Institute’s Terra open research platform"
+    excerpt: "Verily and the Broad Institute of MIT and Harvard hope to dramatically boost the reach of their open-source biomedical research platform, through a new partnership with Microsoft."
+    publishedDateTime: 2021-01-11T17:37:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-signs-to-verily-broad-institute-s-terra-open-research-platform"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 34
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1610380808/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?My6UORra_3Xp1xRUUn5AuQHfD4c_Kz6U"
+        width: 884
+        height: 543
+        isCached: true
+  - title: "Microsoft Partner with Board Institute and Verily to Accelerate Next-Gen Terra Platform"
+    excerpt: "The Broad Institute of MIT and Harvard, Verily and Microsoft Corp. (NASDAQ: MSFT) have announced a strategic partnership to accelerate innovations in biomedicine through the Terra platform. Terra is a scalable,"
+    publishedDateTime: 2021-01-11T19:07:00Z
+    webUrl: "https://www.financialbuzz.com/microsoft-partner-with-board-institute-and-verily-to-accelerate-next-gen-terra-platform/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 31
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2021/01/shutterstock_1659535756.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "mMgKxk0yX/IozYLO/Y3r5iduPVpuBoUOOh1GPMHOm7WiJUiX18tY5A228rsPc7yR3cSAFK8FrW0oXySEbupSHe+vcpFqOGZ09QtaSiQUDDbkeMbHt2z0uyFz4ymqCNmF9jE/jwhOcfuWoicQw0x1A7QN2uNfCv2AzcLChoxdavoooX3X31Nb75Hh2Mh4us5nGUb8Ok7zLvis4qonRM82X2MLvvjXjkAYHwvhq5mhMjapFbWh7bqaR/VYVxetNfO1cwZbBXJb9/Tt62qv5Mp7ftKq37gLau4VeBDK4MXzZeQq/8WSOw4J+qwI9VHWi8xNNEQb9FMiizZUFa3nSgl0He0Ulo4JQiuq6JTeSsOH/Sw=;nMUh3KaJZlNSMJba6k43mw=="

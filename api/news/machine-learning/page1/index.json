@@ -105,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -391,21 +391,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-fda-releases-artificial-intelligencemachine-learning-action-plan.md",
+      "path": "_news/2021-01-12-fda-releases-artificial-intelligencemachine-learning-action-plan.md",
       "title": "FDA Releases Artificial Intelligence/Machine Learning Action Plan",
-      "excerpt": "FDA has released the Artificial Intelligence/Machine Learning- Based Software as a Medical Device Action Plan.",
+      "excerpt": "Today, the U.S. Food and Drug Administration released the agency's first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as",
       "sourceUrl": null,
-      "webUrl": "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan",
-      "originalUrl": "https://www.fda.gov/news-events/press-announcements/fda-releases-artificial-intelligencemachine-learning-action-plan",
+      "webUrl": "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-          "width": 1200,
-          "height": 675,
+          "url": "https://mma.prnewswire.com/media/317925/FDA_Logo.jpg?p=facebook",
+          "width": 2423,
+          "height": 1269,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -415,11 +415,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T08:03:00-08:00",
+      "publishedDateTime": "2021-01-12T07:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Center for Food Safety and Applied Nutrition",
-        "domain": "fda.gov",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -429,6 +429,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI",
         "Machine Learning"
       ]
@@ -442,7 +443,7 @@
       "originalUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -831,7 +832,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 180,
       "tags": null,
       "images": [
         {

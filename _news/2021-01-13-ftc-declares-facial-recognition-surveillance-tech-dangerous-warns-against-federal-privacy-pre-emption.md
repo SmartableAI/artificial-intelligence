@@ -71,6 +71,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "LAPD Commission OKs Detectives to Use Facial Recognition"
+    excerpt: "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people."
+    publishedDateTime: 2021-01-14T21:50:00Z
+    webUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
   - title: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider"
     excerpt: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider The"
     publishedDateTime: 2021-01-13T20:03:00Z

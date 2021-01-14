@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top cloud providers in 2021: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
-    excerpt: "Cloud computing in 2021 has become the de facto choice of IT due to digital transformation shifts accelerated by remote work and the COVID-19 pandemic. Here's a look the cloud leaders stack up, the hybrid market,"
-    publishedDateTime: 2021-01-10T05:17:00Z
-    webUrl: "https://www.zdnet.com/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 112
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
-        width: 1600
-        height: 1068
-        isCached: true
   - title: "Microsoft president begs tech industry to improve its ethics"
     excerpt: "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past."
     publishedDateTime: 2021-01-14T05:56:00Z
@@ -76,6 +60,48 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Microsoft’s New BERT Model Surpasses Human Performance on SuperGLUE Benchmark"
+    excerpt: "Researchers at Microsoft Dynamics 365 AI and Microsoft Research have introduced a new BERT model architecture known as DeBERTa or Decoding-enhanced BERT with dis-entangled attention. The new model is claimed to improve the performance of Google’s BERT and Facebook’s RoBERTa models."
+    publishedDateTime: 2021-01-12T04:32:00Z
+    webUrl: "https://analyticsindiamag.com/microsofts-new-bert-model-surpasses-human-performance-on-superglue-benchmark/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Microsoft.png"
+        width: 1024
+        height: 597
+        isCached: true
+  - title: "JPM: Microsoft signs on to Verily, Broad Institute’s Terra open research platform"
+    excerpt: "Verily and the Broad Institute of MIT and Harvard hope to dramatically boost the reach of their open-source biomedical research platform, through a new partnership with Microsoft."
+    publishedDateTime: 2021-01-11T17:37:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-signs-to-verily-broad-institute-s-terra-open-research-platform"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 34
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1610380808/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?My6UORra_3Xp1xRUUn5AuQHfD4c_Kz6U"
+        width: 884
+        height: 543
+        isCached: true
+  - title: "Microsoft Partner with Board Institute and Verily to Accelerate Next-Gen Terra Platform"
+    excerpt: "The Broad Institute of MIT and Harvard, Verily and Microsoft Corp. (NASDAQ: MSFT) have announced a strategic partnership to accelerate innovations in biomedicine through the Terra platform. Terra is a scalable,"
+    publishedDateTime: 2021-01-11T19:07:00Z
+    webUrl: "https://www.financialbuzz.com/microsoft-partner-with-board-institute-and-verily-to-accelerate-next-gen-terra-platform/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 31
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2021/01/shutterstock_1659535756.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "gaXopg2cxiazS0UDESWamD3gsLtml99bx/WVg8EFoAuygG7jC5nmTXFvcRNNRw8/CGneGMkjFQ9eI3KotsNATHcAzHsXrBcRYq0NKHdbo293dr6x2pK80z0xrdT1wAW46EBcqhWs8tnoMjlxfuaPW2b2QxFfHWpmXdj9jsSdPoWdYjfJEI5JkHqOLun4rkQyu/N7co0C2tWI9mItKAwOAmeF17y2MG0PQT8qaOUfJhhn/3jEiAyt+bEQwUlOGiy9aE5CBzXFWB43D6JVa+aGg6vQiy4JQQrcuAQ8mOzpoBlynpK6mvPQfsN+jKh1YUUTD7B9mKNq4tkoWdkGFf52EuT6HF3MWJ49bzAXYB+teIpidzUzQZgxEQJsdrX+k62k2wQ7J/X73PGqYDS6WNu3i/LmAFGkeeAzAcKI8gUTu6qc2kKy2jS5ZXPQVV2jC23E+lqmreyc++rERNtjpW5Td5ydkF3itc05nZV3ACOl8gzeRfJwIEQNIM/Y3QGL8yfy+ILc33lCUUxX1a7x145sBw==;3RHn0RXISvbd6agJPhLpxw=="

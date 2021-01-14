@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/go
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 156
+published: true
 
 provider:
   name: TechRepublic
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top cloud providers in 2021: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
-    excerpt: "Cloud computing in 2021 has become the de facto choice of IT due to digital transformation shifts accelerated by remote work and the COVID-19 pandemic. Here's a look the cloud leaders stack up, the hybrid market,"
-    publishedDateTime: 2021-01-10T05:17:00Z
-    webUrl: "https://www.zdnet.com/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 112
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
-        width: 1600
-        height: 1068
-        isCached: true
   - title: "Alphabet’s Verily teams up with Microsoft to power multi-cloud biomedical research"
     excerpt: "Alphabet's research subsidiary Verily has announced a strategic partnership to adopt a new multi-cloud approach to biomedical research."
     publishedDateTime: 2021-01-11T14:03:00Z
@@ -77,6 +61,48 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Microsoft’s New BERT Model Surpasses Human Performance on SuperGLUE Benchmark"
+    excerpt: "Researchers at Microsoft Dynamics 365 AI and Microsoft Research have introduced a new BERT model architecture known as DeBERTa or Decoding-enhanced BERT with dis-entangled attention. The new model is claimed to improve the performance of Google’s BERT and Facebook’s RoBERTa models."
+    publishedDateTime: 2021-01-12T04:32:00Z
+    webUrl: "https://analyticsindiamag.com/microsofts-new-bert-model-surpasses-human-performance-on-superglue-benchmark/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Microsoft.png"
+        width: 1024
+        height: 597
+        isCached: true
+  - title: "JPM: Microsoft signs on to Verily, Broad Institute’s Terra open research platform"
+    excerpt: "Verily and the Broad Institute of MIT and Harvard hope to dramatically boost the reach of their open-source biomedical research platform, through a new partnership with Microsoft."
+    publishedDateTime: 2021-01-11T17:37:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-signs-to-verily-broad-institute-s-terra-open-research-platform"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 34
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1610380808/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?My6UORra_3Xp1xRUUn5AuQHfD4c_Kz6U"
+        width: 884
+        height: 543
+        isCached: true
+  - title: "Microsoft Partner with Board Institute and Verily to Accelerate Next-Gen Terra Platform"
+    excerpt: "The Broad Institute of MIT and Harvard, Verily and Microsoft Corp. (NASDAQ: MSFT) have announced a strategic partnership to accelerate innovations in biomedicine through the Terra platform. Terra is a scalable,"
+    publishedDateTime: 2021-01-11T19:07:00Z
+    webUrl: "https://www.financialbuzz.com/microsoft-partner-with-board-institute-and-verily-to-accelerate-next-gen-terra-platform/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 31
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2021/01/shutterstock_1659535756.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "/SWPkpsV/YaPJds4D9XGJC4FxjzCQflgGQFfHOAYyQtxSLrRa5SpqFNMTNpHWl4fxrDf2t3hhhp89qkEvOsQYzA63dn7HYusTuvm2VYu49aA2O18t4xIt2H/OyJoWvErNNKLgh0oISxm8xd4FgEXF4VVKCILOyxF065G4MKdh9BBUvUaijrRfcTWs/z3KRH2tH3FzC60nJM3pnlcjnat/74kjCU7VS1UquarSy3b9cWmzFN+1SNySc2FdMc/YNik/bOOXkU1bUULyOl4lFEP7o94EPg9glerO+4svY9u2tNecoI+BQKAyMpN4SLFU13YdSZ68cuXc808wuqGiDkgsfdHYGfvqjQLNStIlvbCn9jjtOQj8OFaBucJrh3voz8oYEBp9lKfHDOlhofOJpSlysag/N9B8PT7V0jOMSXdWmSub2jY9EV8+6v9E16X/iEqeBJ3hrcJ/GMoRxxeJwfpmbxjUE99SBA6lkwLg8Vm+rvED8WIE925NJXIv0WbCymMvDPsWa6OjRB9ImSiEzsJMA==;mN46bzr/QkR79WJma0lVFw=="

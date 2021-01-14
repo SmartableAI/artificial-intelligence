@@ -74,6 +74,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "LAPD Commission OKs Detectives to Use Facial Recognition"
+    excerpt: "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people."
+    publishedDateTime: 2021-01-14T21:50:00Z
+    webUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
   - title: "FTC declares facial recognition surveillance tech dangerous, warns against federal privacy pre-emption"
     excerpt: "The FTC has come out swinging against facial recognition, issuing a proposed settlement with Paravision, its first focused on the biometric technology."
     publishedDateTime: 2021-01-12T17:43:00Z

@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
+  - title: "Doosan Bobcat Invests in Ainstein AI to Further Sensor Innovation for Compact Equipment"
+    excerpt: "The investment is aimed at furthering sensor innovation for compact equipment to advance productivity on construction jobsites."
+    publishedDateTime: 2021-01-14T22:10:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21232203/bobcat-co-doosan-bobcat-invests-in-ainstein-ai-to-further-sensor-innovation-for-compact-equipment"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 29
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/01/mmWave_Imaging_Radar.6000bb7884e27.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 1172
+        isCached: true
 
 secured: "qztzfXk6GcgTMXVPNLMZblAemrFev45sdrbtBaf/9hQpibrlEj3DtkqPD+zH6X5gsFyX27fOu0U1wt7idDvsXt1O42Ml53Xj1BVcWM9DHhd7Paryl1W711N6lAg+HUmJBhjJbTsDrkyRsede/njTN+hrSDClf+mnPL6soL5r2fqgIJbR3/RdKmYMauj+nPKp3prhOjAF45P/vzNxhS8iCuiEytwsaB6xUkQK0+Ydbd3oVIlJXks53SDnwlq9+ZwbA8UFHn6LxVfP52QJidBIMHSY3m7iD4w0AyVDfKdMxMqXb72IJNlkolsYmIZU6InJMwxWaSa48wMVzi3XcULKNZI2g2DJPZ51xaYaSl6bhM8=;XM1zqUEX786pLJdKsJjL4g=="
 ---
