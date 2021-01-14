@@ -27,18 +27,13 @@ images:
 related:
   - title: "Deep learning outperforms standard machine learning in biomedical research applications"
     excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in their architecture."
-    publishedDateTime: 2021-01-14T17:40:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
+    publishedDateTime: 2021-01-14T20:43:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210114130125.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 46
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 56
   - title: "Deep Learning Outperforms Standard Machine Learning in Biomedical Research Applications, Research Shows"
     excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging."
     publishedDateTime: 2021-01-13T17:23:00Z

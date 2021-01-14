@@ -8,8 +8,8 @@ webUrl: "https://www.investmentnews.com/blackrock-taps-fintech-startup-to-bolste
 ampWebUrl: "https://www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359/amp"
 cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359/amp"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://s32566.pcdn.co/wp-content/uploads/2020/04/Blackrock.jpg"
@@ -52,6 +53,6 @@ related:
       domain: computerweekly.com
     quality: 24
 
-secured: "bRTRDOPozoSgBbHqccZ92NjYCVxQWiqSfpeGWWMl2y++rzxnSC9gUz+5jxM7L+9PUIxFZY7SWNU7t4JshkUUOeUN/GjI3WRqF6ACaj3Ru27GdAAE69DIohn/JzwtIuoek1IDRzM9fbt43IbCnzEXQgnr87Fy2fsUbAM8bnqd+b8es6spw9mwcSBSxeHuicRu0dgXlpxyXodsoyelDDxnOAHdJQVnfGV7pVPP2V68v5bUd4mPIhKLc1eI0IUFByUUB5gjXIGp0YjlqtuSfIznGAd6dZ9ur79bJDk6S2zVhNufg7i4+tp52ubC1W334Sf3fYa68f6UI+ExHPUF8zc8zCGBuvhWF4Exio7Qlm5bcZg=;jG5TQxC8tdVnPp3K0BSung=="
+secured: "Wf+YbvLFPn/N+zBuHR9ZhdsLmYU+yrzPh7mavg+j3LhA6BAtuuaXXQ8hUAE6+TXweO5mFA4Lgq66qj4B733GVsLaJlCamGKUvopMzXvh3vrwhEvLub72j5mkoAPz+PUE5EnIJCAO/K5vFE2xZxB1E+pm7stZE2PO7GZmNjQGV4y4G0B+kGUB2m2fE+YNdbp92+jX5e+u+fZ2vX3NlAKLu43WO4mEZaf4c67pbXzQmUYa7ECU7m0kfIDV0gHL5+lG4x3/clTUsLQwsepNpOz+CJ7+6D2vhQl0qvcgUS7t+Hlr56oNGVu/bqGSOhx19U1SvAPx+EAR2RfxWBqmuzE72FzTKZfVRKvB044jFjAWsoc1b6GjTCQV+7syXNcbvJnppLbaHcqw1YKLOymQc2rllbw8xkQAvShWonE7BvNZ31ygAmXnc7daDWkBQey+9ouHFI034YuCOUTAVx1Tf7kSjTKCeteNSjwjjmRAqlazzG8qkXqSBRjq0tWNPxv1f9wKnvXQh+CMPyja72sVWptDfQ==;PH/M4HQKLjLAft9h+edoIw=="
 ---
 

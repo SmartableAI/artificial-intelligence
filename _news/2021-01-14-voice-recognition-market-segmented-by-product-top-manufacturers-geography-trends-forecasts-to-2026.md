@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-market
 webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2026-2021-01-13"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Self-driving Shuttle Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
-    excerpt: "Jan (CDN Newswire via Comtex) -- Global Self-driving Shuttle Market 2020 by Manufacturers, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2021-01-13T16:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2020-to-2025---top-manufacturers-business-strategy-and-forecast-report-2021-01-13"
+  - title: "Global Face Recognition Device Market Industry Demand, Top Players, Industry Future Growth by 2025"
+    excerpt: "Selbyville, Delaware, The Global Face Recognition Device Market Research Report 2020-2025 is a valuable source"
+    publishedDateTime: 2021-01-13T14:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-industry-demand-top-players-industry-future-growth-by-2025-2021-01-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Drone Data Services Market 2021 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2025"
-    excerpt: "The evolution of data analytics throughout major industry verticals is one of the significant factors positively"
-    publishedDateTime: 2021-01-11T22:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/drone-data-services-market-2021-global-analysis-share-trend-key-players-opportunities-forecast-to-2025-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -66,6 +52,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Manufacturing Market Share 2021 Analysis, Revenue, Price, Market Size, Trends, Top Manufacturers, Growth Rate, Forecast by 2025"
+    excerpt: "Top Key Manufacturers in Machine Learning in Manufacturing Market Report: This report elaborates the market size, characteristics, and market growth factor of the Machine Learning in Manufacturing industry,"
+    publishedDateTime: 2021-01-11T22:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-share-2021-analysis-revenue-price-market-size-trends-top-manufacturers-growth-rate-forecast-by-2025-2021-01-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market Share 2021 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2025"
+    excerpt: "Global Cloud Natural Language Processing Market Research Report focuses on market size, status and forecast 2020-2025, along with this report also focuses on market opportunities and treats, risk analysis,"
+    publishedDateTime: 2021-01-14T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-2021-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2025-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

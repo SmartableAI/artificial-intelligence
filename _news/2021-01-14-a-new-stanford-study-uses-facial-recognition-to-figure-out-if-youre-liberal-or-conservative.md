@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stanford team behind BS gaydar AI says facial recognition can expose political orientation"
+    excerpt: "Stanford researcher Michael Kosinski, the PhD behind the infamous “Gaydar” AI, is back with another phrenology-adjacent (his team swears it’s not phrenology) bit of pseudo-scientific ridiculousness. This time,"
+    publishedDateTime: 2021-01-14T20:46:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 94
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/02/ugh_green-796x417.jpg"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Outlandish Stanford facial recognition study claims there are links between facial features and political orientation"
     excerpt: "A controversial study from Stanford-affiliated researchers claims to find links between facial features and political affiliation."
     publishedDateTime: 2021-01-11T10:04:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/09/biometrics-e1601309807874.jpg?w=1200&strip=all"
         width: 1198
         height: 599
-        isCached: true
-  - title: "From facial recognition, to predictive technologies, big data policing is rife with technical, ethical and political landmines"
-    excerpt: "Analysts have identified an impressive list of problems, from biased, incomplete or inaccurate data, opaque technology, erroneous predictions, lack"
-    publishedDateTime: 2021-01-12T10:17:00Z
-    webUrl: "https://www.thestar.com/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
-    ampWebUrl: "https://www.thestar.com/amp/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 48
-    images:
-      - url: "https://images.thestar.com/0eWFrqkFlkGGj2pu13ob829wcSQ=/1200x663/smart/filters:cb(1610398067644)/https://www.thestar.com/content/dam/thestar/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines/poster_for_part_8.jpg"
-        width: 1200
-        height: 663
         isCached: true
   - title: "Outlandish Stanford facial recognition study claims there are links between facial features and political orientation – Jaweb"
     excerpt: "A paper published today in the journal Scientific Reports by controversial Stanford-affiliated researcher Michal Kosinski claims to show that facial recognition algorithms can expose people’s political views from their social media profiles."

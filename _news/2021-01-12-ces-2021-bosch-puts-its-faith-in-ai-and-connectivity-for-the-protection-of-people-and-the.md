@@ -210,6 +210,17 @@ related:
         width: 960
         height: 539
         isCached: true
+  - title: "CES 2021: A closer look at artificial intelligence"
+    excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."
+    publishedDateTime: 2021-01-14T00:22:00Z
+    webUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence"
+    ampWebUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 41
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-11T14:01:00Z
@@ -238,6 +249,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
+    publishedDateTime: 2021-01-12T09:41:00Z
+    webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CES 2021: Bosch turns to AI for a healthy and sustainable future"
     excerpt: "Bosch doubles down on AI and connectivity to develop intelligent, climate-friendly solutions for health, living, industry, and mobility"
     publishedDateTime: 2021-01-13T06:55:00Z
@@ -263,17 +288,6 @@ related:
         width: 800
         height: 889
         isCached: true
-  - title: "CES 2021: A closer look at artificial intelligence"
-    excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."
-    publishedDateTime: 2021-01-14T00:22:00Z
-    webUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence"
-    ampWebUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 39
   - title: "CES 2021: AI steps into 3D foot scanning"
     excerpt: "Foot scanning technology and orthotics leader Aetrex Worldwide this week showcased the next generation of the company’s 3D foot scanner, Albert 2, at CES 2021. Albert 2 combines computer vision, machine learning,"
     publishedDateTime: 2021-01-14T08:08:00Z
@@ -302,15 +316,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
-    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
-    publishedDateTime: 2021-01-11T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210111005230/en/UBTECH-Showcases-New-UV-C-Robots-at-CES-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
   - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
     excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
     publishedDateTime: 2021-01-11T06:52:00Z

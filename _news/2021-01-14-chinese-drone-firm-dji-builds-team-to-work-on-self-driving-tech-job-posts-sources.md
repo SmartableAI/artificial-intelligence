@@ -3,8 +3,8 @@ category: news
 title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
 excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
 publishedDateTime: 2021-01-14T08:50:00Z
-originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
-webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
+originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
+webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
 type: article
 quality: 48
 heat: -1
@@ -88,6 +88,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "s0wolJaL/y9j9Mx7sdGBel4kuENqF69UNVcFILkteY38X+ZRydeW25RXon66SP6nvrFvCTfcjenPHO12Ba56PQtCwFDL7UZZK8Mr9Exb/d3Muqntb/mdrjPCb4j0Y+lJVYuD8exvzwqFOwzNOc3LVxbtnhLUWTiGozAvjqbaAFo+3kHekitdWpbRQ0T4WGkzAA04moQ/OASZtj4DKMGizHBcm6U6hYy3iLSmYrmJOzH7dqFMe1H9sfOZtUKqFIbTt/sGtRdWg2JOqHqb/jJ7ge4S7t+zl6ZbD3R33E+k98whCipkdO1EAIuc0SijaXME4KPmYVO2f0t1St/D/jU1oC4E5N0LAWTBgoR086vNESo2BU+KSPrABlFgmQWbOeTzbELl9nTwDPOIUqcLsATYpU4ZJY3glU8ZvEIdV1ggMXgGqx3s3AN360b3Hs/1p+D7ZZgQJLXLZ9HR49wkfIQU8GzOli+0H3eRh69F9CtMOWx3EMBJFiF7tPn3u8sQ+PqVikHEISfa1HFeG5dw6+u2Yw==;UcxkBpX/pQiw+Q+LkBmySQ=="
+secured: "7f231WxG0QfKMqURdnb81aQbh3YxwJENDWae5j52xpu2fFmhP8XCIj/p/xAuF+pp9nZNEY8vFXK7thxezhQzNbrm3yh0qkCBD4XYYz+UlnE+H9i9GTF1orFzbX7oy5CMqsC6XYpiwa0D4IUcUyge9NuVdgMjk5rHamh9+Iq70KrXdI6WcVR1jL1KI6TCl9akdkujtVwHEC9VUYLtyw8QPcX+8t7jcW3I86s7Vcfzu3ueTNSW2J+zW4JYAR5sqeAle7jC1qW9FK3/qR5DBtixqNIPvA8xDWoPHqS2v9k7iejkke1ChlA0KjMcLFwNhAUGyiX5EtvNE4oDJYzr5uXAIwLreMsTav18/0fQ6lhzfc8=;B4MVpl3hcvisDZySAcq0Vw=="
 ---
 

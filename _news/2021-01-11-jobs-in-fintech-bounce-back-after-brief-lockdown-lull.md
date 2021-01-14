@@ -31,7 +31,7 @@ related:
     provider:
       name: InvestmentNews
       domain: investmentnews.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://s32566.pcdn.co/wp-content/uploads/2020/04/Blackrock.jpg"
         width: 900

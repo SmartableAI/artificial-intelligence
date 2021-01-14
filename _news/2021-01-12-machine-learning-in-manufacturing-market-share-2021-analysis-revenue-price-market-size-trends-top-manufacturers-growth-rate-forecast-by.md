@@ -29,29 +29,62 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market Share Analysis, Future Trends, Growth Insights, Size Value and Research Insights By 2023"
-    excerpt: "Jan (Heraldkeepers) -- The influx of COVID-19 patients requiring medical imaging diagnostics and definitive healthcare is estimated to augment"
-    publishedDateTime: 2021-01-12T22:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-share-analysis-future-trends-growth-insights-size-value-and-research-insights-by-2023-2021-01-12"
+  - title: "Global Face Recognition Device Market Industry Demand, Top Players, Industry Future Growth by 2025"
+    excerpt: "Selbyville, Delaware, The Global Face Recognition Device Market Research Report 2020-2025 is a valuable source"
+    publishedDateTime: 2021-01-13T14:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-industry-demand-top-players-industry-future-growth-by-2025-2021-01-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Asset Management APAC Market (2020 to 2026) - Industry Analysis and Forecast - ResearchAndMarkets.com"
-    excerpt: "The Asia Pacific AI In Asset Management Market is expected to witness market growth of 44% CAGR during the forecast period (2020-2026). From the past few years, financial institut"
-    publishedDateTime: 2021-01-14T06:48:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-investment-management-d53744c8ae134ea8839dbdc874cc9b17"
+  - title: "Voice Recognition Market Segmented by Product Top Manufacturers Geography Trends & Forecasts to 2026"
+    excerpt: "Global voice recognition market is universally gaining prominence as one of the fastest emerging verticals within the sustainable and smart technologies space and will experience notable growth in the future."
+    publishedDateTime: 2021-01-14T13:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2026-2021-01-13"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
+    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
+    publishedDateTime: 2021-01-13T18:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-technological-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market Share 2021 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2025"
+    excerpt: "Global Cloud Natural Language Processing Market Research Report focuses on market size, status and forecast 2020-2025, along with this report also focuses on market opportunities and treats, risk analysis,"
+    publishedDateTime: 2021-01-14T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-2021-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2025-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bwxODlf996Ea4tlnrsNE5fnLFUGeD6e6YTy6xpTKFF6a05xfpV03f4CryaKMt+FiWRniOyZnCZRIVFBNqPCLpn6bjL98+X9wXlPzP/5+hUEtM/j4ApeMGKJlUN8D72oj2pK6iKlRk7uTBE/aTLOE+Mt3PsvGE1KhXasQQyQNqm9Ld05GxEdvEc3UsH3sAOBxG8G5YwdOyv2GeF4899E/OH8gKdgphWK+Kat2RJQXlyCO5fM7dmguxEbTrmrouRr7F9pU4t8b+ZYiUQjLbse3SPvE+Sfu4aO0QmZjBc9cne0ZuOxJ8Ha5J7lgFl+yBtHdoG/L0xSdQK0djfY5m5RS5MXpVfaE5WdND2RzfVGeS8I=;dWQl3x/VurFJ3FHDRR9Ujg=="
 ---

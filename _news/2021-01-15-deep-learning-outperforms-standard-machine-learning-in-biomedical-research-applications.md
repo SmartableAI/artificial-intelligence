@@ -2,27 +2,25 @@
 category: news
 title: "Deep learning outperforms standard machine learning in biomedical research applications"
 excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in their architecture."
-publishedDateTime: 2021-01-14T17:40:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
+publishedDateTime: 2021-01-14T20:43:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/01/210114130125.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/01/210114130125.htm"
 type: article
-quality: 46
-heat: 46
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™"
@@ -49,6 +47,6 @@ related:
       domain: gsu.edu
     quality: 18
 
-secured: "pp42qAJhAR5v8KNkGhxn89VI+SrK3YerZRe1tic3lfvwazk6nQLqFelbs/cluvO90TRBOG4YBauBomzkhv2j2tKFkmP0bp/MXFj3OPJd/q7yztuIqb5D/kOkSqGnDbgS9DIgLs7RQQZwFdqdVJKYh2fYknyAKejdLOc+ub//AZAm/mb0/h4BQ5JzCcBHOVIWwjEA3GwTbT7oNDze5ZMHQAKKkVYTtAScbHPgGilv7Z06CRb2EuBj5z/mMGbFORItk5FAw9vkvING6RindcdGL+Wm35UlKWriwsxP5O9IVFGgYUr3Jz5Tp9eGvAYUZOJLAStS13eZDT5oLRE5KVrH2IYzuTPJ6t902NOscdDDCUY=;EA7mSlNhyA1Kq+7ew4JtQw=="
+secured: "E6EygE1fugIGZy+4yTpXC+IdXnjn6X+e1olMlfzgAgn4hW20P+aBYoSxGjD0Sj+92bPBiboW/pGX/Eugq6SRjW2TKt9NrRilQPIGJx6S2wQM5NPAOJeb4iaI18r6hqemUVyKHBKhiYi9UZABFgIKCyawBqeQ/vgllPH58zpxPuRAZ0RjcaafIw4qdm7Dul5pS8GVw/a4lDHVXnP8bVFS7OjGdo7dKAwPlSUuQ/G8BhmbrpNyLEQB3vUrD+vKONZDAvdxaj+SeTAxuDfoM0ceZvaRAtJ6JJbw4Qlgzkh811etzjfwulK+6uYDO6p+KclciM47xNGHfeQrguUd105wV59I0exOWEg3CrIgw0CW2Bo=;KL4oPheo908PMitwAE6BrQ=="
 ---
 

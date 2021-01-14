@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stanford team behind BS gaydar AI says facial recognition can expose political orientation"
+    excerpt: "Stanford researcher Michael Kosinski, the PhD behind the infamous “Gaydar” AI, is back with another phrenology-adjacent (his team swears it’s not phrenology) bit of pseudo-scientific ridiculousness. This time,"
+    publishedDateTime: 2021-01-14T20:46:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 94
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/02/ugh_green-796x417.jpg"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Outlandish Stanford facial recognition study claims there are links between facial features and political orientation"
     excerpt: "A controversial study from Stanford-affiliated researchers claims to find links between facial features and political affiliation."
     publishedDateTime: 2021-01-11T10:04:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zj61obhjlgdtfccbg2gp.jpg"
         width: 800
         height: 449
-        isCached: true
-  - title: "From facial recognition, to predictive technologies, big data policing is rife with technical, ethical and political landmines"
-    excerpt: "Analysts have identified an impressive list of problems, from biased, incomplete or inaccurate data, opaque technology, erroneous predictions, lack"
-    publishedDateTime: 2021-01-12T10:17:00Z
-    webUrl: "https://www.thestar.com/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
-    ampWebUrl: "https://www.thestar.com/amp/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 48
-    images:
-      - url: "https://images.thestar.com/0eWFrqkFlkGGj2pu13ob829wcSQ=/1200x663/smart/filters:cb(1610398067644)/https://www.thestar.com/content/dam/thestar/news/atkinsonseries/2021/01/12/from-facial-recognition-to-predictive-technologies-big-data-policing-is-rife-with-technical-ethical-and-political-landmines/poster_for_part_8.jpg"
-        width: 1200
-        height: 663
         isCached: true
 
 secured: "WXyF2/e2EG4ao8ActbkjLT6+OXhAHaGzg6nYIQhlz8ODK4vMdAFi+IJH/dIpzBOPu1f7EAXaJOWt44w7F/WJJAf8JKn+ZHvcW93xMp0KcZiEi6l2Rq5Zv8teXgDwNdwisUNApE0YFlf9ytIrXEwYnUgNJi2gPT671kb3wyu6IqLOez9LJHP+0zdtIeA9/PDtnugaBjZqs6p/MnXns1WDkeElTvkriYGHj2zQ44u+3mEQypqpCYh/yMfXjKQnedoP7TX9ORbnoTh0SOomNnnyMZ8KpeXghzoh1riQEjDkPQfT1mVEP80mCfK7QZ0yfG7mHCi7rf8eiQK8Y9fDteTfMGbZRD31ErKd1VeTA0IDnh2n6aYSbetsa2CSkHgrxHJkjghaBgrQcSBSonMtB6QlTc62fO8jjUS/Rs2uvFwhebaL34KWjj1z1gVFvWbRKkpZa9Yd/tocWZFTWYp6GaJW3SEI00+rkb1fTegdrLW1riTMu/Mk4cloYoLXzJocJQAnRumNuw7fWwpJ15fTejyZlw==;JKVLrjI0/RuyGBlEl0OxSQ=="

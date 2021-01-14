@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-globa
 webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-301206504.html"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -25,40 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Natural Language Processing Market Share 2021 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2025"
-    excerpt: "Global Cloud Natural Language Processing Market Research Report focuses on market size, status and forecast 2020-2025, along with this report also focuses on market opportunities and treats, risk analysis,"
-    publishedDateTime: 2021-01-14T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-2021-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2025-2021-01-14"
+  - title: "Flipclutch Research: Cloud acting is being promoted, WIMI with 4654 IP intends to create the digitalization of the holographic entertainment industry"
+    excerpt: "PRNewswire/ -- The \"Opinions on Promoting the High-quality Development of the Digital Cultural Industry\" (hereinafter referred to as the \"Opinions\")"
+    publishedDateTime: 2021-01-11T13:50:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-cloud-acting-is-being-promoted-wimi-with-4654-ip-intends-to-create-the-digitalization-of-the-holographic-entertainment-industry-301205260.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Intelligent Virtual Assistant Market 2019: Global Industry Analysis Report to 2025"
-    excerpt: "The Global Intelligent Virtual Assistant Market size is expected to grow at an annual average of 26 3 during 2019 2025 Intelligent Virtual Assistant IVA also known as Intelligent Personal Assistant IPA is software that helps you understand natural language"
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://www.openpr.com/news/2223718/intelligent-virtual-assistant-market-2019-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2223718/intelligent-virtual-assistant-market-2019-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2223718/intelligent-virtual-assistant-market-2019-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-  - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."
-    publishedDateTime: 2021-01-14T06:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-global-trade-import-and-export-prices-middle-east-asia-e6cebd1d76284a94a4b2061ea8050aa6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Flipclutch Research: AR/VR virtual escort starts a new revolution in sports, WIMI keeps up with the new changes in the industry"
+    excerpt: "Speaking of the current hottest AR/VR technology, people are probably most familiar with their applications in the field of games and entertainment. However,"
+    publishedDateTime: 2021-01-14T13:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/flipclutch-research-ar-vr-virtual-escort-starts-a-new-revolution-in-sports-wimi-keeps-up/article_7de35324-f89a-50e4-995c-6f0748cb9fb1.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ekSYgAcy1Y/o2jI3eEfOdvocugALhOecs2tb4vhdxV7g8n7ZKRdVH97/ty2YIlIidEFDZBGfXOy8CI6BKqix5koV0523YKWN9Yu5vLiwQRi0G6PDNfgDJcAebVIwK9A0jrIs2FPrlwcWN7VkzJfqpzJq19L0etkb636KCYWCdM6jzrAIyS7YyTA7RLDcKBE1Ix1KUIUMbgAVOKTvJKT4bwOnYI2uX7vnT9HIzD/EZXuZbVJyLwpkDiXoPFTyraIGbTlhVCJxvEHbF20Q/roZDyQTywgVEw5NbprrfiimtDn4KMgJ/TriuYnM4WBeM8nnhMZSkKRa3+MQsbRh8+WLo5r2BerZA/gedMXhu9v8Ijk=;GrCYLpb3EzOU0ks7NPqDDQ=="
 ---

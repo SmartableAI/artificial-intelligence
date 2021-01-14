@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.co.uk/news/av/technology-55574903?curator=TechREDE
 webUrl: "https://www.bbc.co.uk/news/av/technology-55574903?curator=TechREDEF"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Combination of collective intelligence and AI impacts Society as a Disruptive Product"
-    excerpt: "Software companies like Dassault Systèmes combine collective intelligence and Artificial Intelligenceto benefit society by building communities of people who are passionate and willing to accomplish a common objective."
-    publishedDateTime: 2021-01-11T09:23:00Z
-    webUrl: "https://www.analyticsinsight.net/how-collective-intelligence-and-artificial-intelligence-can-benefit-society/"
+  - title: "Can an AI Predict the Language of Viral Mutation?"
+    excerpt: "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system."
+    publishedDateTime: 2021-01-14T19:06:00Z
+    webUrl: "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/"
+    ampWebUrl: "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Artificial-Intelligence-7.jpg"
-        width: 900
-        height: 500
+      - url: "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "wJJq8wTbkQHEiYYuUfD2rKwYdquGbilNyWbMsj+FBoHj8XVG31/ln3h5gSFP/xxDYL0uOdCMdcMpXw2VMbDaq0b433OvZ3lsEIzgKNAe+MAuMeCumLPlzE4ClV3U+K9Zm6ukN9eWSZxStozQYzPVShb90R4IUYs2wpyyDYO+fBXfAV5c2fO+u+oAEnu7sd9Xqsy5Pwr5OvTDUYC/NJ7M0BpAsu2z4wkzYlBZ41Bv6hPcMsH/q1hYPxHumrwP++mbYRepcMMiTatpUFyFmDXISJVUU5AXsJNNYyvmBeaxsdsl9S4ztjBMhC6bA+A8VVNFGwYArgWJMSSVSr4MwKECEqFJ7HdEtIKNCWYOOJPCfprOna3i2VUybF43oCTJddmGNrr8L6pZzn2SSrbkOtG4/1kTQKmU6YF+SnE6l1zT3UQF/UGBT86KSgvoNV/VMnYS3SFKLPe5AZ1Tm+YSGuIA9jrOK5azqrJGcCDFt5MoM1S9CsOUJtXNraf5cVRh+o3RQvOGeRt5aabhCeD4bOFXAw==;80ecPvOcsdPj22A8/Pc8ig=="

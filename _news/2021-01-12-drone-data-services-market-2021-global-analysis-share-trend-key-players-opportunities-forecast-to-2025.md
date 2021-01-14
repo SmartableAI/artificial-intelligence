@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Recognition Market Segmented by Product Top Manufacturers Geography Trends & Forecasts to 2026"
-    excerpt: "Global voice recognition market is universally gaining prominence as one of the fastest emerging verticals within the sustainable and smart technologies space and will experience notable growth in the future."
-    publishedDateTime: 2021-01-14T13:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2026-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Self-driving Shuttle Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
     excerpt: "Jan (CDN Newswire via Comtex) -- Global Self-driving Shuttle Market 2020 by Manufacturers, Regions, Type and Application, Forecast to"
     publishedDateTime: 2021-01-13T16:26:00Z
@@ -57,20 +43,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
-    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
-    publishedDateTime: 2021-01-13T18:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-technological-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2021-01-13"
+  - title: "AV manufacturers need to abandon the word ‘self-driving’"
+    excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
+    publishedDateTime: 2021-01-12T21:12:00Z
+    webUrl: "https://landline.media/av-manufacturers-need-to-abandon-the-word-self-driving/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: Land Line
+      domain: landline.media
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://landline.media/wp-content/uploads/2021/01/210112-Waymo-logo.jpg"
+        width: 540
+        height: 420
         isCached: true
+  - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."
+    publishedDateTime: 2021-01-14T06:44:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-global-trade-import-and-export-prices-middle-east-asia-e6cebd1d76284a94a4b2061ea8050aa6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "D9OUzEUwjDNXv8JlQ3uXhsrMbucwv7Jn9NMmBBlz/Q6SSbLnBz8MBgtwHBUVQmOlq8soSehfNijQRgl0Ah9PNSkf6d8rCEkTKQzARAbCjkyu3xs82nymQ1H1BKyh7X0sJKckzaewlddoDijxbu/X14YE0PUpDkOVb4RJOjvU+NHH5zK8/woSSy25TL+arCcg0ORZ+mf1CwlSk+hKlA4EQMvq0PKBdOVqf4pOQMIPfSMSs6GCbGEP01bGjan+kwOk45M+SElEOLlg23vmYeIg7o8KlhUJCOEja0LU+2VKPINJdaokYJlF+o2egqfQyaO6Ruq9aNvvSNA0Bcxyk3JKY2sHMLMbla+tIpg2sEh7ClE=;LDF/9qEJfVVOXOer3fjBwA=="
 ---

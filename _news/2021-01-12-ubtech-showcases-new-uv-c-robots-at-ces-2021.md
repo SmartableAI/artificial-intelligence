@@ -2,21 +2,27 @@
 category: news
 title: "UBTECH Showcases New UV-C Robots at CES 2021"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
-publishedDateTime: 2021-01-11T19:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210111005230/en/UBTECH-Showcases-New-UV-C-Robots-at-CES-2021"
-webUrl: "https://www.businesswire.com/news/home/20210111005230/en/UBTECH-Showcases-New-UV-C-Robots-at-CES-2021"
+publishedDateTime: 2021-01-12T09:41:00Z
+originalUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
+webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Best robots at CES 2021: Humanoid hosts, AI pets, UV-C disinfecting bots, and more"
@@ -204,6 +210,17 @@ related:
         width: 960
         height: 539
         isCached: true
+  - title: "CES 2021: A closer look at artificial intelligence"
+    excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."
+    publishedDateTime: 2021-01-14T00:22:00Z
+    webUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence"
+    ampWebUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 41
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-11T14:01:00Z
@@ -257,17 +274,6 @@ related:
         width: 800
         height: 889
         isCached: true
-  - title: "CES 2021: A closer look at artificial intelligence"
-    excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."
-    publishedDateTime: 2021-01-14T00:22:00Z
-    webUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence"
-    ampWebUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 39
   - title: "CES 2021: AI steps into 3D foot scanning"
     excerpt: "Foot scanning technology and orthotics leader Aetrex Worldwide this week showcased the next generation of the company’s 3D foot scanner, Albert 2, at CES 2021. Albert 2 combines computer vision, machine learning,"
     publishedDateTime: 2021-01-14T08:08:00Z
@@ -320,6 +326,6 @@ related:
       domain: morningstar.com
     quality: 2
 
-secured: "jbGh9W36b0NtNOkIoAISv0UuZT3TRfEzNg952nzuYXi20D86qeE7nsZuE7ZxVmkIMi969nIKg+ryEtjcPiYbsaWaX6yCEViOwbnzefdXinpSDELCgompB05nyqgltGx6u8lrtTjHbSX8TZz1NVZz6JJF8dV/sfXCuLYpmiRTt6fngNe1AnQ++odndaiupuE5R2d5aFNNDTBOCyszpH24FOzLKd94v+4pjyfs/njuWQr9Kiu1vYDFD3CW0m6ITF2CI5KDMzlQ7//Lo+33WGaFd8vqwYOfeRMG7v+iyJA0yEMJMUvOWjyils7JJUuQZCrY2OeRlWh7x1TfAs6QWy2s4RgPvlTwIeNqr+qq6GJ3qNw=;Y0muwrkP9PJHIlNvSMmyCQ=="
+secured: "0sX3T7EmdBIuyvv7hhPROcMHgkCTS2D6KmB6kbHUdO46V2dmTJcptzLmlGECgxbJKdgWjx5stiNfo9sHV6R1nx00kWvbqU1cQLEDFb70zlEYiY1/0hGBILZMiv4kzqjZLhVgXPEyQ/PxaknTMwlTiuFAP/ttATvdlyf7VdSlHqJ67qSsEsj7gBNCEZPW8dKCcUmShA9X02BYIrMgpGfldeNiKYiznfyzI9JYLUkCyNoKQgGdufT7I89a/wjn9nVd/hjrPL5Z4zkqN/8duErI5nCbEL98dWvPa+df8iAn/IB30SmdEV0wnFHssypKIH314buSyqapCw8S10K5EnX7nNrlRKICvDsVHHcao1iXRNE=;hPBCba7+RqrFhcDUxpi7YA=="
 ---
 

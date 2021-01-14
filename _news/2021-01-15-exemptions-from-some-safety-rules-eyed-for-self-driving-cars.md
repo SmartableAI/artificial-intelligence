@@ -63,6 +63,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "NHTSA Eyes Exemptions From Some Safety Rules for Self-Driving Cars"
+    excerpt: "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans."
+    publishedDateTime: 2021-01-14T18:00:00Z
+    webUrl: "https://www.ttnews.com/articles/nhtsa-eyes-exemptions-some-safety-rules-self-driving-cars"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/autonomous-1200.jpg?itok=3RbeNMmD"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "ahuTEjmlgDgwMfj/8HIu/lmFUpnaNsat+12rovbmhHL2eo2PYAabivy6CekJC/PYQMpf/Ze0E3RveX66zhpIF1ph/zSU679SBgrde/5ildmXaD4p5TIoyHcUzTy6tJVrRwhbYKYcKYVT/To2pbSJG0SHk5HdwCkY1OBrfjQYAnIjgNvz/usC5i3JviefuMo/p+GlJe4PauaQG+pS334tXnhxh/s0gxkVL9NpeZ2dAS/EHkumxvJwm/Ikvx+RzNOD22penLgF2FAJW+1P5xV4CETicLf/XPCFlmlpAgGDPq3CUZX/komN1SNO6eZ2C565GZHFSVEdwEWHgUh91GhzQLmz/nMkDi7LCgCS59XhSEgMgtGKtlgUHHwe0i7ZHb3QV+sN867SvqbnWuDNQ5NM9ZeXPERMLKONinRzoHMoQRsEi5ahW6zJ75plg5j1l5ars853oGTlz99xqgaYI9AmAY3mY+SH0aCqfko3/ZJBNINYrD4JN3oknlVzo1AfGvrHIih3tg5FmW0V+9eSHzgjpA==;9fMb6N7KGRQIA+qLEZwWzg=="
 ---

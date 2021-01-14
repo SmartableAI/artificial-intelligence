@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-cloud
 webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-cloud-acting-is-being-promoted-wimi-with-4654-ip-intends-to-create-the-digitalization-of-the-holographic-entertainment-industry-301205260.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Flipclutch Research: Global AR advertising revenue is huge, WIMI intends to seize this business opportunity"
+    excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and"
+    publishedDateTime: 2021-01-12T14:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-301206504.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Flipclutch Research: AR/VR virtual escort starts a new revolution in sports, WIMI keeps up with the new changes in the industry"
     excerpt: "Speaking of the current hottest AR/VR technology, people are probably most familiar with their applications in the field of games and entertainment. However,"
     publishedDateTime: 2021-01-14T13:50:00Z

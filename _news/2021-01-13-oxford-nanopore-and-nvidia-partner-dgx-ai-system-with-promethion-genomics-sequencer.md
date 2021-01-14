@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Oxford Nanopore and NVIDIA Collaborate on DGX AI Compute System with PromethION Sequencer"
+    excerpt: "Oxford Nanopore Technologies and NVIDIA are collaborating this year to integrate the NVIDIA DGX Station A100 into Oxford Nanopore’s"
+    publishedDateTime: 2021-01-14T19:32:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/oxford-nanopore-and-nvidia-collaborate-on-dgx-ai-compute-system-with-promethion-sequencer/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 30
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/NCRC-team-ORNL-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Oxford Nanopore & Nvidia collaborate to partner DGX AI compute system with ultra-high throughput PromethION sequencer"
     excerpt: "Oxford Nanopore Technologies and Nvidia are collaborating to integrate the NVIDIA DGX Station A100 into Oxford"
     publishedDateTime: 2021-01-12T23:33:00Z
