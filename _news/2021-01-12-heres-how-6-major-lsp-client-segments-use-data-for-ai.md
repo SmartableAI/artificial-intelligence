@@ -3,8 +3,8 @@ category: news
 title: "Here’s How 6 Major LSP Client Segments Use Data for AI"
 excerpt: "AI services are integral to train and help AI performance. Here's how translation agency clients use text, image, and speech data."
 publishedDateTime: 2021-01-12T08:20:00Z
-originalUrl: "https://slator.com/data-research/heres-how-6-major-lsp-client-segments-use-data-for-ai/"
-webUrl: "https://slator.com/data-research/heres-how-6-major-lsp-client-segments-use-data-for-ai/"
+originalUrl: "https://slator.com/demand-drivers/heres-how-6-major-lsp-client-segments-use-data-for-ai/"
+webUrl: "https://slator.com/demand-drivers/heres-how-6-major-lsp-client-segments-use-data-for-ai/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Ftc6KyQFsLlXdWssRcvJSOtU58c8i4AXTVNiFZGHTS0oCL3rVrqz8dvDLGIW1cBBVJYfxSo+N3rSKJBORXyjvUuArSC0EctT8Dvw+HKdFMG9RZZbBFDvaNtobD+1bftIl/nDfBcZN4zEhsRgQLfOTk7e+jguJq0+LWpJ2Nqv9t/FlsEAnRJFPTDwiBjoNoNZLbwL159ubVIKukhG42/N36nhERFlBm6CkQMf++zRb83Dy9BQYluFxorYEO7VTFz0b9wm5um6WF3a2QV5iA6QJUjx5QoprHLamfj8q1Up7qUUBHyNGTaOckhxdEciEwzPK5nIJZwQwmBJ9SqPwwN9WU9vsWqdeABuG5WsepCK/DQ=;vGvB4L5c4mqknhCn4wspFA=="
+secured: "d5MBWfCE+I15EhQyRsDTMlI2W8jsYPQ8cgQ/wf38agrx+PTf9SnCio3B4ngtkJ6XBc0MilfB8w9hw8KHTAoNUV+BwC+tPZ3Ktjbl/EjCtEAxRHC9AilZwbwBSF6faOfZ5hVy7Exq5yzKSqzpmiN1LORlAmTflYdI1sAn06QpKKFNCT1BaJAe8bkIHCUuGfa1lQJzA3yIjltL5GRODhqnE0B0XKa9A7jhiVbLh1+mtsBsHRoSic51Q0m5x6mi7OS+NeMyFe8a6Px7IBAzVUcU4L3XYpwOepRCm02sm5xy/0SSJafvu0JqU0Dl+ymCpI6WxrCLv4onZ0zUGxEAIePSiJrBPI6bv+zpSSAYWaWOkes=;ur4+btKnLCy0nsmPPDsgeA=="
 ---
 

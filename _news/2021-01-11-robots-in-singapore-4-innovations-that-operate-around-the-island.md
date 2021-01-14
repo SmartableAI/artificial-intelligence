@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore firm's robot baristas to serve coffee at Japanese railway stations"
+    excerpt: "East Japan Railway Co. has acquired an equity stake in Crown Technologies with a view to using the Singapore retail tech star"
+    publishedDateTime: 2021-01-14T04:30:00Z
+    webUrl: "https://mainichi.jp/english/articles/20210114/p2g/00m/0bu/062000c"
+    type: article
+    provider:
+      name: mainichi.jp
+      domain: mainichi.jp
+    quality: 51
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2021/01/14/20210114p2g00m0bu061000p/0c10.jpg?1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Singapore start-up clinches JR East deal to deploy robot baristas in Japan train stations"
     excerpt: "Local start-up Crown Technologies has secured an investment from a subsidiary of East Japan Railway Company, which will boost the deployment of its robot baristas at selected JR East's train stations in Japan."
     publishedDateTime: 2021-01-11T08:59:00Z

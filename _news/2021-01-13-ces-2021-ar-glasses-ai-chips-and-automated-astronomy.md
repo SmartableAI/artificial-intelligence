@@ -121,6 +121,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "CES 2021: From COVID-killing lamps to wine-pouring robot butlers"
+    excerpt: "The world’s most anticipated technology show known as CES 2021 forges ahead with big names, bigger screens and wine-pouring robots. The only thing missing from Las Vegas was the huge crowds and media."
+    publishedDateTime: 2021-01-14T01:32:00Z
+    webUrl: "https://www.theceomagazine.com/lifestyle/technology/ces-2021/"
+    ampWebUrl: "https://amp.theceomagazine.com/lifestyle/technology/ces-2021/"
+    cdnAmpWebUrl: "https://amp-theceomagazine-com.cdn.ampproject.org/c/s/amp.theceomagazine.com/lifestyle/technology/ces-2021/"
+    type: article
+    provider:
+      name: The CEO Magazine
+      domain: theceomagazine.com
+    quality: 59
+    images:
+      - url: "https://static.theceomagazine.net/wp-content/uploads/2021/01/14092637/samsung-bot-handy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CES 2021: A virtual, AI-powered human handled presenting duties for LG’s tech showcase"
     excerpt: "The Consumer Electronics Showcase (aka CES) is here once again, and as always, it’s bringing out the tech companies’ most personable presenters: people whose job is to get us all excited about the ways technology are about to improve our lives (like having a personal robot waiter roll up and pour your wine)."
     publishedDateTime: 2021-01-12T01:36:00Z

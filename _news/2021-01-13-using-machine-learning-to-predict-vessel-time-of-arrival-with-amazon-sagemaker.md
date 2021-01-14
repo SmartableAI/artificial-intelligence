@@ -73,6 +73,22 @@ related:
         height: 381
         isCached: true
   - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
+    excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker,"
+    publishedDateTime: 2021-01-14T04:37:00Z
+    webUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/"
+    ampWebUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
+    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 83
+    images:
+      - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1"
+        width: 2560
+        height: 1340
+        isCached: true
+  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
     excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
     publishedDateTime: 2021-01-13T13:00:00Z
     webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
@@ -86,15 +102,6 @@ related:
         width: 2700
         height: 1414
         isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "Delivering fast and reliable machine learning business solutions ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre built machine learning (ML) models,"
-    publishedDateTime: 2021-01-14T01:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/246999"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 43
 
 secured: "by1N3EWcBWFTsE7G1c+mZLKBT5V9EdFGcC2ZjSVcq4t7d3ZcIwdMDFM+4nJKgkGL67uJ10P2ae+zgtcZFyQuspt+Gsy1KSkvdZy4Yh+Lu1ElYb4Mb89ZJ/1t4mGB41zQ5paGaRW/XFHycPjDnYqF1uVEM8MH/a0SZ48612XlHbjOkPyXCPWIKdQoZlUH0+wSyrSCX1fgsqOQLJTTvKbxBQK7XlKCiQZ0ujwDW/goCXS2iWzSkRtS3e7SCoEgeO6EQGRky3fijY1v14vBpMmXAnVyw1QFrNU8O0iY//tTvwI/S7fBYL9ye3fLykNw4Fb6G5AYoP8RcoRV5lwK5yNMb/c7pOWwOSptAG+3bmMsaWk=;3Y3SJkRPQbl5lgX/ObHsfg=="
 ---

@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Teradyne and Syntiant Collaborate to Significantly Shorten Time to Market for Innovative Artificial Intelligence Neural Decision Processors"
-excerpt: "Built from a clean sheet, hardware/software co-design methodology that optimizes silicon and deep learning models together, the Syntiant NDP100 and Syntiant NDP101 Neural Decision Processors bring  hands-free,"
-publishedDateTime: 2021-01-12T14:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/13354091-teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors"
-webUrl: "https://www.wallstreet-online.de/nachricht/13354091-teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13354091-teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13354091-teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors"
+excerpt: "Neural Decision Processors™ to customers worldwide. Built from a clean sheet, hardware/software co-design methodology that optimizes silicon and deep learning models together, the Syntiant ® NDP100™ and Syntiant ® NDP101™ Neural Decision Processors™ bring hands-free,"
+publishedDateTime: 2021-01-12T14:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors-1029960012"
+webUrl: "https://markets.businessinsider.com/news/stocks/teradyne-and-syntiant-collaborate-to-significantly-shorten-time-to-market-for-innovative-artificial-intelligence-neural-decision-processors-1029960012"
 type: article
-quality: 5
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
@@ -50,6 +52,6 @@ related:
         height: 450
         isCached: true
 
-secured: "+uTOBHonpwP/y8aY0/EpZ9OfM6Y8W2qwTa+zfrXonPUQqNZTPPhqYGsj+fXW7fufFf1NuKnSM11aVN4zXuaWT5U/hwmhE0iZ4QqHgtjGA4Dyh1YsHGIRdLF2jJggVKPtOu2evkaKe7KbvWIZWIuKYvaPNY0ZHy7D0fcxam2WnXoQ5Vkoxgh/nQYU62GBGrArjggFF1bg2zQ4sxMazB7x9ZLipvBOx2ivH7xLObZhP9qmEkG+NyJ1Qcv+S+COBGuWjLgmeOwfFt6Sa8vATyEZwwP6pcThP3afMHBjrhct7mexwBg1np7zw8r4pfoSWHtWBR6JglA7Fd6h8h7IeVviN8mSjqN/WW9Re1Afh68FtKI=;sQYmERiTIuRtgcUHelxq9w=="
+secured: "/IrdIuYABvMXn1WhGVMhJMOApN6NMhIDDDxoGg2ggEA0AYdkd7OxlU/SktFdBO/N/A9aWb+ErJ6Zt3dMYPSj8mSEBWzfgaX0yNjs7E/uUjLO1XLlpsej9gfVzk7G/96hGm5q/sHDwqc1RBgj2INTo9el576UIaY3aE0RpSDArXpAaYTROYChG6KvjdBDMuqLIjgOmaqKB7WMB3rS8yQl0zCTI0wPyvrA9rEm5Hq+V8d5ExiY3fTh8u5XLAUmtEk8KMn9U86pVBWQiPsDTdH/eroh065ty6Ul/94iP6DoVfX2esueXcnJm4WhiyZ+IBJfZp0ulP4cYCSHeYNcajo2SDEdXVXfEiZ4prC5bfQG91I=;uWct4+V4Qv/O5rgNfuoRhA=="
 ---
 

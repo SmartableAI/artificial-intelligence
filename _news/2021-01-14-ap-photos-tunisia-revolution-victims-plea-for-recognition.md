@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/50046880be67ad5cccf9daf1e70b8f73"
 webUrl: "https://apnews.com/50046880be67ad5cccf9daf1e70b8f73"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AP PHOTOS: Tunisia revolution victims plea for recognition"
+    excerpt: "Some lost a leg, some gaze out from permanently scarred faces, others live forever bound to a wheelchair. All these men were damaged in Tunisia ’s democratic uprising 10 years ago, and they are begging the government to recognize them as official victims of the revolution."
+    publishedDateTime: 2021-01-13T15:54:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/ap-photos-tunisia-revolution-victims-plea-recognition-75223788"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/ap-photos-tunisia-revolution-victims-plea-recognition-75223788"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ap-photos-tunisia-revolution-victims-plea-recognition-75223788"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_d8e9bbedd6db435ba09d2805c8f19880_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Tunisia revolution victims plea for recognition"
     excerpt: "Some lost a leg, some gaze out from permanently scarred faces, others live forever bound to a wheelchair. All these men were injured in Tunisia's democratic"
     publishedDateTime: 2021-01-14T02:25:00Z

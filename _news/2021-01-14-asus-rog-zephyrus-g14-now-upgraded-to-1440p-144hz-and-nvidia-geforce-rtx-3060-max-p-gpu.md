@@ -44,18 +44,18 @@ related:
         height: 563
         isCached: true
   - title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
-    excerpt: "NVIDIA Introduces GeForce RTX 3060, next generation of the world’s most popular GPU. Powered by NVIDIA Ampere architecture, delivers up to 10x the ray-tracing performance of GTX 1060; Starting at INR 29,"
-    publishedDateTime: 2021-01-13T13:25:00Z
-    webUrl: "https://www.businesswireindia.com/nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu-71104.html"
+    excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
+    publishedDateTime: 2021-01-12T17:47:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
+      name: Associated Press
+      domain: apnews.com
     quality: 33
     images:
-      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/nvidiageforce_71104.png"
+      - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 393
+        height: 450
         isCached: true
   - title: "Asetek Liquid Cooling Advances Overclocking Capability of New GeForce RTXtm 30-Series GPU Cooler from MSI"
     excerpt: "Asetek, the creator of the all-in-one (AIO) liquid cooler and the global leader in liquid cooling solutions for gaming PCs and DIY enthusiasts, announced that OEM Partner MSI has introduced a new series of graphics cards based on the NVIDIA®"

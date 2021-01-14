@@ -49,20 +49,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
-    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
-    publishedDateTime: 2021-01-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Avaya partners with AWS to expand AI-powered customer experience for OneCloud CCaaS customers"
     excerpt: "Avaya expands its AI-powered customer experience capabilities for Avaya OneCloud CCaaS customers, through a relationship with AWS."
     publishedDateTime: 2021-01-14T01:18:00Z

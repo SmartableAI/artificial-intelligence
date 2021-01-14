@@ -107,6 +107,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "CES 2021: From COVID-killing lamps to wine-pouring robot butlers"
+    excerpt: "The world’s most anticipated technology show known as CES 2021 forges ahead with big names, bigger screens and wine-pouring robots. The only thing missing from Las Vegas was the huge crowds and media."
+    publishedDateTime: 2021-01-14T01:32:00Z
+    webUrl: "https://www.theceomagazine.com/lifestyle/technology/ces-2021/"
+    ampWebUrl: "https://amp.theceomagazine.com/lifestyle/technology/ces-2021/"
+    cdnAmpWebUrl: "https://amp-theceomagazine-com.cdn.ampproject.org/c/s/amp.theceomagazine.com/lifestyle/technology/ces-2021/"
+    type: article
+    provider:
+      name: The CEO Magazine
+      domain: theceomagazine.com
+    quality: 59
+    images:
+      - url: "https://static.theceomagazine.net/wp-content/uploads/2021/01/14092637/samsung-bot-handy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CES 2021: AR Glasses, AI Chips and Automated Astronomy"
     excerpt: "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation."
     publishedDateTime: 2021-01-12T21:09:00Z

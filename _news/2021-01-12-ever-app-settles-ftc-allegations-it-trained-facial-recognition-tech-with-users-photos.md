@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegation
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
 type: article
 quality: 96
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Everalbum-settles-with-FTC-about-facial-recognition-Technology-in-its.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Facial recognition technology used to identify alleged rioters"
-    excerpt: "Facial recognition technology is being used to identify those accused of crimes committed at the U.S. Capitol building this week. But it's not perfect."
-    publishedDateTime: 2021-01-09T12:35:00Z
-    webUrl: "https://www.kvue.com/video/tech/facial-recognition-technology-used-to-identify-alleged-rioters/269-7004ac76-6cf4-479b-bb46-f406fe0a2fe3"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 39
-    images:
-      - url: "https://media.kvue.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "FTC declares facial recognition surveillance tech dangerous, warns against federal privacy pre-emption"
     excerpt: "The FTC has come out swinging against facial recognition, issuing a proposed settlement with Paravision, its first focused on the biometric technology."

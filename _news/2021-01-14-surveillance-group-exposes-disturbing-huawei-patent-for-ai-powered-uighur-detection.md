@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/"
 type: article
 quality: 81
-heat: 92
+heat: 91
 published: true
 
 provider:

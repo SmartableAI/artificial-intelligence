@@ -2,6 +2,152 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-04-2021-the-year-of-robotics-and-artificial-intelligence.md",
+      "title": "2021: The Year of Robotics and Artificial Intelligence",
+      "excerpt": "Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with my first product of the week in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html",
+      "originalUrl": "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-ai-robot-1.jpg",
+          "width": 620,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-how-to-win-customers-with-voice-search-three-simple-tips.md",
+      "title": "How To Win Customers With Voice Search: Three Simple Tips",
+      "excerpt": "Now that voice search is on the rise and gaining more popularity, there’s a whole new dynamic to consider when implementing SEO tactics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb2e730929caf746d6e44f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/amp/",
+      "publishedDateTime": "2021-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool.md",
+      "title": "Montreal Entrepreneurs Aim To Simplify Real Estate Pricing With Artificial Intelligence Tool",
+      "excerpt": "After founding a Montreal-based reusable mask company at the onset of the pandemic, Jordan Owen, his brother Mark, and their two collaborators Sean Tasse and Benoit Thibault, decided to pivot toward a completely new project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlmoore/2021/01/04/montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool/",
+      "originalUrl": "https://www.forbes.com/sites/karlmoore/2021/01/04/montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe28ee1edf92d7d6cb3827c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlmoore/2021/01/04/montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlmoore/2021/01/04/montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool/amp/",
+      "publishedDateTime": "2021-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed.md",
       "title": "Forbes A.I. Awards 2020: Meet GPT-3, The Computer Program That Can Write An Op-Ed",
       "excerpt": "Self-driving vehicles are now creeping into the mainstream while advances in machine learning are changing the way we write code and discover drugs. Here are the best products, the most intriguing people and the most exciting trends of a year in which A.",
@@ -1083,136 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-could-the-ancient-greeks-really-not-see-blue.md",
-      "title": "Could the Ancient Greeks really not see blue?",
-      "excerpt": "Blue seems to be all around us, we see it in the sky and we see it in the ocean - but the word blue was missing from our lexicon until relatively recently. Professor Jules Davidoff has been researching colour recognition for many decades,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rnz.co.nz/national/programmes/the-weekend/audio/2018779012/could-the-ancient-greeks-really-not-see-blue",
-      "originalUrl": "https://www.rnz.co.nz/national/programmes/the-weekend/audio/2018779012/could-the-ancient-greeks-really-not-see-blue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rnz.co.nz/assets/news_crops/115781/eight_col_greek_ruins.jpg?1609540664",
-          "width": 720,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-02T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rnz",
-        "domain": "rnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-off-the-menu-robotics-gains-foothold-in-fast-food.md",
-      "title": "Off The Menu: Robotics gains foothold in fast food",
-      "excerpt": "Miso Robotics installed Flippy in a White Castle test location, where the robot automated several parts of White Castle’s burger and fries preparation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
-      "originalUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4SMERC4X5GKFJOQMUZ6RZWABU.jpg",
-          "width": 1600,
-          "height": 1078,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
-      "publishedDateTime": "2021-01-02T02:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-msbai-guru-shows-the-elements-of-artificial-intelligence.md",
-      "title": "MSBAI GURU Shows the Elements of Artificial Intelligence",
-      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing explicit assignments, inside their specialisms these frameworks are some of the time fit for superhuman execution,",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
-      "originalUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg",
-          "width": 744,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-01T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

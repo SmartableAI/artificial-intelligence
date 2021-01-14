@@ -34,15 +34,6 @@ related:
         height: 594
         isCached: true
   - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-    excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
-    publishedDateTime: 2021-01-11T12:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 12
-  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
     excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),"
     publishedDateTime: 2021-01-12T09:47:00Z
     webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b/gallery/c11ecc5667401ba031708f29a0cf3e06"

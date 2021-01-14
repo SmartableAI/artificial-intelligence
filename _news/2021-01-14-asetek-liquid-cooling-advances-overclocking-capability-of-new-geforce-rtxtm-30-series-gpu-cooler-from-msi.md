@@ -58,18 +58,18 @@ related:
         height: 630
         isCached: true
   - title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
-    excerpt: "NVIDIA Introduces GeForce RTX 3060, next generation of the world’s most popular GPU. Powered by NVIDIA Ampere architecture, delivers up to 10x the ray-tracing performance of GTX 1060; Starting at INR 29,"
-    publishedDateTime: 2021-01-13T13:25:00Z
-    webUrl: "https://www.businesswireindia.com/nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu-71104.html"
+    excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
+    publishedDateTime: 2021-01-12T17:47:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
+      name: Associated Press
+      domain: apnews.com
     quality: 33
     images:
-      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/nvidiageforce_71104.png"
+      - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 393
+        height: 450
         isCached: true
 
 secured: "XGQb9X4XC+gZ/34FEJrdisniu9JfMOOsnCSEgOdMhZEDPuLSTDQUJMtjtcMyGNWK2LWzBebjPIIJ8NJ4+Xq58DhDacIS5IOkmBpPcb+dUVSgmA1jZrawum0j7fSAzfJuEvXvMQfKuhWEllcIQmAVEjN7LuG18WzinPMoHiAUypze9iTUH4dp+bvM4zx739fP4UPFo8xfOn9WStprPR93/tpLu41FC/W0o6oVw4Q+kHRT1PYUhuE6mJdgXHjXty9ktV2Mqi0DEYPZ3nIN+Ab9MIv9pIi5vFoLO7sbol8P2wOP8HVK6sXmMi003WP7/m8v6Na2GvVvxPX5DwcUpE3WFlKf53ajxCkdH7tAaKTjlhQ=;V6+TuUGsUmXtFlm2ZnzwPA=="

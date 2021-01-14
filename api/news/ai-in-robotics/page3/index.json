@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-30-artificial-intelligence-ai-robots-market-report-2021-2027-by-technology-future-trends-opportunities-top-key-players-and-more.md",
+      "title": "Artificial Intelligence (AI) Robots Market Report 2021-2027 by Technology, Future Trends, Opportunities, Top Key Players and more…",
+      "excerpt": "A new market study, titled \"Global Artificial Intelligence (AI) Robots Market Research Report 2019\", has been featured",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-report-2021-2027-by-technology-future-trends-opportunities-top-key-players-and-more-2020-12-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-report-2021-2027-by-technology-future-trends-opportunities-top-key-players-and-more-2020-12-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-man-uses-brain-controlled-prosthetic-robot-arms-to-eat-a-twinkie.md",
       "title": "Man uses brain-controlled prosthetic robot arms to eat a Twinkie",
       "excerpt": "A quadriplegic man, who suffered an accident in his teens that left him with minimal movement in his hands, used two prosthetic robot arms to feed himself.",
@@ -1349,49 +1401,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-artificial-intelligence-people-not-robots-are-in-the-driving-seat.md",
-      "title": "Artificial intelligence: people – not robots – are in the driving seat",
-      "excerpt": "Like it or not, artificial intelligence (AI) is already part of our daily lives. From smartphones to Alexa virtual assistants, AI and its applications are accepted norms",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/artificial-intelligence-people-not-robots-are-in-the-driving-seat/",
-      "originalUrl": "https://www.cityam.com/artificial-intelligence-people-not-robots-are-in-the-driving-seat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2020/12/Artificial_intelligence_CITYAM_header.png",
-          "width": 983,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-people-not-robots-are-in-the-driving-seat/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-people-not-robots-are-in-the-driving-seat/amp/",
-      "publishedDateTime": "2020-12-15T01:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

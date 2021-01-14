@@ -3,10 +3,10 @@ category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
 publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 quality: 136
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
-  - AI
   - AWS AI
+  - AI
+  - Microsoft AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
@@ -59,6 +59,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Breaking the AI wizardry of ‘Microsoft Flight Simulator’"
+    excerpt: "Breaking the AI ​​wizardry of 'Microsoft Flight Simulator' There are some wild statistics about Microsoft Flight Simulator. In the"
+    publishedDateTime: 2021-01-14T04:19:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 74
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Breaking-the-AI-​​wizardry-of-Microsoft-Flight-Simulator-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
     excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
     publishedDateTime: 2021-01-11T18:42:00Z
@@ -111,6 +127,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "3klqieYiBAqi8AB7wmAVXrfpEEgoNHfo4GWE/Lr14kaHysId1wUy31DL3GoMVHYr1sY5iQqmWodJVja/fkh43ZB/vqDr5D00Sj2YNwUgyrXuIAXUTfV73uCv5QyikVAXlvFl01S/fSVkraWkeJx6imsWdZQ07Op7Pgk7tuoaYvryTeNZbFSWI0Dj6A5fDRfTu2f7KluJ8NBehEPiYH4KPy+1Moh3SNoaxAeVaDukxtA6lmH+pgOLLY1+Lh/Q6QERIUVpQNusKpRhh6Qv2BcUDeGyBVtPK1HBzKAs897fGX90yuigsJ+wPL+z5Jb5o2utJOF5hbzS9GN3nVnHtq49O0E+3+24Ruw7cKrCPKQek9E=;QksoJgZemt85jhk511B/3Q=="
+secured: "GMXYfRaOnpKPShCV2dkvBzBWvIzk+etT4ewsLqqal8BnlnHHi4tg0NbQ6LU8lmMxla73eYf9SMgXg86Ftqe/Z6hlrU9xySV2eV8d1y0l1NJEus/Sez2Ya8j/1D8yP8Qfu5a44mOfZLgOR0B//6NAr3Ug94CaYs8VNsmqBNrjSPpBWg9HcgzRGJ7unpqBl9JpJVyRH4t2vTWFZ3fB6aC5jQB+UqOEFhkh/vCFxPm5TxWNXC/g/gMghUf/EkHj2esBPaUQQIOmALxbibV8ovKPxWOKtr6qn4XNh8nZUD8ny/YwbNTpWMHW9LffcdJq3nC7bRPsTfORIIrmsHoJtT4+kzY2jQrlkzoonPtL5oeADD4=;604R6cZFZ0y8iS5PncKsbA=="
 ---
 

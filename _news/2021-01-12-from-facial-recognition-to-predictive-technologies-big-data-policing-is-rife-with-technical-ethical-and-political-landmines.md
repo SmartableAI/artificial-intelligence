@@ -44,6 +44,22 @@ related:
         width: 1198
         height: 599
         isCached: true
+  - title: "A New Stanford Study Uses Facial Recognition to Figure Out If You're Liberal or Conservative"
+    excerpt: "Today in terrible ideas: an AI system that claims to be able to accurately predict your political affiliation using...your face. Yes, really."
+    publishedDateTime: 2021-01-14T04:20:00Z
+    webUrl: "https://gizmodo.com/a-new-stanford-study-uses-facial-recognition-to-figure-1846052406"
+    ampWebUrl: "https://gizmodo.com/a-new-stanford-study-uses-facial-recognition-to-figure-1846052406/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/a-new-stanford-study-uses-facial-recognition-to-figure-1846052406/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 78
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zj61obhjlgdtfccbg2gp.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Outlandish Stanford facial recognition study claims there are links between facial features and political orientation – Jaweb"
     excerpt: "A paper published today in the journal Scientific Reports by controversial Stanford-affiliated researcher Michal Kosinski claims to show that facial recognition algorithms can expose people’s political views from their social media profiles."
     publishedDateTime: 2021-01-11T10:17:00Z

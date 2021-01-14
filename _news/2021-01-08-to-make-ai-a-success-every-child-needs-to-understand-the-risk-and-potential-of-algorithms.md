@@ -3,10 +3,10 @@ category: news
 title: "To make AI a success, every child needs to understand the risk and potential of algorithms"
 excerpt: "According to the AI Council, the biggest barrier to AI deployment is skills - and it starts as early as school."
 publishedDateTime: 2021-01-08T10:38:00Z
-originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
-webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
-ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
+originalUrl: "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
+webUrl: "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "KyQDNs9rcpDYS2ehukUKwxNhhWKL5/lgMxTRmN7x1fKwMjR6zn4LJGnImUAZxYVWVyV4tnRc4LxZ2Ynyemockf2SJ+sFlV08NpJy+YQndK7Ail9LMUCOuWGAWh0oCnGXg6+teubhkAUOaIZGOc9tBOhmfOw0LUrDnJB02VGY5QtoVEVXyVAhT928FLp6VZ94/5qehUHH9UroJJWthn484ZhMVtZAmY+2Q8BUGmC5uChwXw9yjd0K4dDf0qW7VHpoiSQdI3Ia9E4S6+9CGPH8WI32E2juaXwKOyUfkMxhymyLRw7tkwqhNCiqyic/VCOx24nopTBTyqPIPqT7ue3BA5XRPRyHVghaSnU+xGxch2j2Z/cB7phBGOzyHl5tHKT0I6NH6JUowVBAJQyiRuIDsysApyLy4XR2TFpEGfFpYFOD+EvjxBGauK9dvhg5kREyyztXCOlq3wuDfYbk4g3IrRLfl5fw5YWy7LxCViGOA7Lebjnl1EksHr9uNs2Oc8ekDYatt1Vdn2EMtHBrcsYpgw==;CMveM0ehdX4zbmfjp4H+Tw=="
+secured: "NSb7GAgNb8ejIdWDYxDtf+997FYSmLe18oOl6f8EDDlbCJLYF6JfaLtQ16z4jmbzi3fKc95Mw9wyh1+aHu0STDB0SOzVeU3IDeQ+Q0N9+0NSMc5A+IAhqhx6GcyanioOSdcpNAQ4Uh3GPIOusF1nmE+Z2njsjILSjYlGZVcjHPOwxJd/VarGNLaKX2xr6JQMxQclirqAT+VQvsvnyXRYA9CSjfsDP9AeCCcghs/ckguddWMXJytQKueYkzTStHc6c4PORAIGzVMe/Vfi6Zu6ubvRnEYcgKxdAivD2TzYB7hXsvk9Aub/6a/qYIdcDf7StxOUfrtoqlCJiPXz2ZX+HBHfq7Vy6EYMrrpcSewoCoA=;xbgKR4xQTFwNA20VyF/bvw=="
 ---
 

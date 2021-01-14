@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Using Micro-Combs, Researchers Demonstrate World’s Fastest Optical Neuromorphic Processor for AI"
+    excerpt: "Neuromorphic computing, which uses chips that mimic the behavior of the human brain using virtual “neurons,” is growing in popularity thanks to"
+    publishedDateTime: 2021-01-13T00:00:00Z
+    webUrl: "https://www.hpcwire.com/2021/01/13/using-micro-combs-researchers-demonstrate-worlds-fastest-optical-neuromorphic-processor-for-ai/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 26
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/laser-optical-concept_shutterstock-745440805_700x.jpg"
+        width: 700
+        height: 420
+        isCached: true
   - title: "The World's Fastest Optical Neuromorphic Processor"
     excerpt: "An international team of researchers led by Swinburne University of Technology has demonstrated the world’s fastest and most powerful optical neuromorphic processor for artificial intelligence ... leap forward for neural networks and neuromorphic ..."
     publishedDateTime: 2021-01-11T14:13:00Z

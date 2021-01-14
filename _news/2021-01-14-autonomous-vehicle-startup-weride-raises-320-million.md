@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 600
         isCached: true
 
-secured: "t0B+MCog0PMmL6rtwKfOsznpmiWCMsBgFKw8B8FmI49+JvP7x3+BY4halHe+926h12rwprdOTBXzKxEXpAiyIoxMvJqI/v4LnPAQyLt0CIFtmt4Nn48yIRiX+Msgp9fmsCyX1CEcveOaaKYeyYsNipRvRF0ZtDN4pM9k3KJlFs2wclhAtuXs5YDnemAJYWTDy0QWzW/S2In7wRBn8mkU22gYrzxHBaVnIQJ5PBaFIasaUHemMpvoNgHoEPE1+8tInarZdR6T5vGEYf4plGPcASEbQpqpK6vFSL9oFfKWIH8Dwgy75Hkulabg16IWt7CLdtUEoYClVYIW7HwVZBVB8+wSsQRinhDQTDDff+b5djM=;uJRBrGPLxPDqVcM50XRcdQ=="
+secured: "9X6HOtMn1Kc/QXo50AZ1gFM89AX7WqhFjSptTKK3Os1UAmgd8VCN0MP6Zx7EIKTBZLHt6OXm6m7x74DHxcgoNpbw83Yo31JLS37hNnXtf3uzIC/ztoHBxrbbFS6xB/nW/iADH3V8v3Nv9wP3rdcwp23DUkQkGhXHgFztVkfIBT5NWVXlTD2GJMyHsGEByycilZq++pQCV83GpsJtIgrAfsOWoF/oW8uyZJEtjIvRWFEGnDxN5MNH/vOupAe5gGGN4CtvM8mgN2SNjEyTTxSJtqvkufv4+5Nhzfw8J214uiSoVeQ7QqfH1plYLE6x/sw1JsFFQ0v2y0atg7M1ZqM5Q/dq4g8vHXMuBjOv3itu03A8WlO+vt0k7o80b0DFHnJ+eB0plvf42GOTQOmM/jQYmchpHXitZdSHUsF9goRsuToBCEOMau+qxz0ftMClzqIXSddfqzg2rvLU7oNsVtLU8JCSJyVZNjiChDRi0lySzkbch+LkwPtS0F8JlUItNx7CjjR4Rsl0fg+Ff7lrpHy8Tg==;3Tdh5tKZX7uNw1Jw3s0SOA=="
 ---
 

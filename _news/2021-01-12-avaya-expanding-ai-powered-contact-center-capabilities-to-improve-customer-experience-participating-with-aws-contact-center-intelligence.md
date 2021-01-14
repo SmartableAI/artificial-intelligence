@@ -29,59 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "Avaya Extends AWS Relationship to Support AI Capabilities"
-    excerpt: "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday."
-    publishedDateTime: 2021-01-12T23:10:00Z
-    webUrl: "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/"
+  - title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
+    excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and classification capabilities designed to maximize operational efficiency for its customers."
+    publishedDateTime: 2021-01-13T20:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-1029966010"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Twenty20tm Solutions Introduces Enhanced Artificial Intelligence Capabilities"
+    excerpt: "Twenty20tm Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and"
+    publishedDateTime: 2021-01-13T20:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-19599445.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 36
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png"
-        width: 272
-        height: 270
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Avaya Expanding AI-powered Contact Centre Capabilities To Improve Customer Experience"
-    excerpt: "Avaya expanding AI-powered contact centre capabilities to improve customer experience, participating with AWS Contact Centre Intelligence. Sydney, Australia – January 13, 2021"
-    publishedDateTime: 2021-01-13T02:10:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
+  - title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
+    excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and classification capabilities designed to maximize operational efficiency for its customers."
+    publishedDateTime: 2021-01-13T14:19:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210113ph48036/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities"
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 52
-    images:
-      - url: "https://m.scoop.co.nz/stories/images/1803/vodafone_logo.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Avaya partners with AWS to expand AI-powered customer experience for OneCloud CCaaS customers"
-    excerpt: "Avaya expands its AI-powered customer experience capabilities for Avaya OneCloud CCaaS customers, through a relationship with AWS."
-    publishedDateTime: 2021-01-14T01:18:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/01/14/avaya-aws/"
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 16
+  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
+    excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
+    publishedDateTime: 2021-01-11T12:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 43
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Avaya expands AI-powered contact centre functionalities with AWS"
-    excerpt: "Avaya expanded its artificial intelligence (AI)-powered customer experience functionalities for Avaya OneCloud CCaaS customers, through an extended relationship with Amazon Web Services (AWS). As an AWS Partner offering AWS Contact Center Intelligence (CCI) products,"
-    publishedDateTime: 2021-01-13T10:02:00Z
-    webUrl: "https://www.telecompaper.com/news/avaya-expands-ai-powered-contact-centre-functionalities-with-aws--1368430"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 12
 
 secured: "0eJiCXmzVfsq50xa4TuJdgyHFlAzQ6e6u9aez7CmpTyP7qcy9MzsM01Ui2AchxwYuDmQ19RjtfurLFrb3hyu44F532n+cMMuv/pgs0hUsvVAd/y3WK3xlVBcfBm8NsXV7NEPXlU7rQHQmpQWtX9RVYisQGTcNO4WxxAO7RKXgpLZefT/TPKO5MKjy89TxsMmdbcaXPuhDBgcstJWusRHPk/vsd+oapf46iFonEKXtc5RsDWDoR/OMWsH4t5vUEQTbfW56IGNRfsawN45mlraw/9ys9CSKDUmRq3ArldntfchLE01NA3SaaRacFsR9wVjCmA+K2SJ+9o1yT/QhZMTyvSDEjPrUmzaSEuNkvN+Q6I=;cbvvtOz+F30sHfDIflmNYQ=="
 ---
