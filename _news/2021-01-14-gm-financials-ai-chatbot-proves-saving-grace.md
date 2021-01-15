@@ -53,6 +53,22 @@ related:
         width: 640
         height: 453
         isCached: true
+  - title: "AI developer to discard data used in controversial 'female' chatbot"
+    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the artificial intelligence (AI) platform amid mounting criticism over its data collection process and hate speech."
+    publishedDateTime: 2021-01-15T06:59:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302537.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302537"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302537"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/bb7fc1b753c94279aec1b2fcca08a00e.jpg"
+        width: 980
+        height: 665
+        isCached: true
   - title: "AI chatbot Lee Luda pulled after it started ‘really hating’ lesbians"
     excerpt: "Lee Luda, a South Korean AI chatbot, has been pulled from Facebook after started saying it \"really hated\" lesbians because they're \"creepy\"."
     publishedDateTime: 2021-01-14T12:42:00Z

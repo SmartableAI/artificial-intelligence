@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Novan to Present at the H.C. Wainwright BioConnect 2021 Virtual Conference"
-    excerpt: "Novan, Inc. (“the Company” or “Novan”) (Nasdaq: NOVN), today announced that Paula Brown Stafford, President and Chief Executive Officer of Novan, will participate in a fireside chat during the January 11th-14th H."
-    publishedDateTime: 2021-01-10T14:25:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/novan-to-present-at-the-h-c-wainwright-bioconnect-2021-virtual-conference/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 37
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-
 secured: "6kjEV5BE/kHstArc5OKlQU+v7sPF3EaNq9ULx6whXtigo/oofKpYmGhwLIMKD2ykq+hgym5rKOm48dPTGwBPspENffpYJrkfczpcrBa057k5vkHieMepArsn/PsAJWGiW5qI6GMiszqFcqyZDJVsFt3QAdl1TsluSdDcBa8/qp5F8Bp0uTG3DEFcAdSGmC8jcSSZ+9+Mppy+qppnyJMTDzMC8YjQMv/Kr7UQ+mMYHxiohuUwDDn/EGoIkBH0TIRqXbKaTKwFwsMtj5I7EW8P4+evEQ2inrvHt5GNuOEv/ZGaFduVTOQRMagsq7f7UkmXZoc2Efju8LMA1voeCnjjSQHmnpWiBHlJm6G5C+e4T2w=;0uSn1gSBE4YAU0Wa9ONDFQ=="
 ---
 

@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "The very real fear of artificial intelligence"
-    excerpt: "By 2030, thousands of jobs in India, including those of call centre executives, translators, bank tellers and secretaries, could be lost to intelligent agents and robots."
-    publishedDateTime: 2021-01-10T14:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/the-very-real-fear-of-artificial-intelligence-6327251.html/amp"
+  - title: "How Artificial Intelligence Can Improve Cannabis Yield and Security"
+    excerpt: "The more advanced a smart monitoring system is in its use of machine learning and real-time monitoring integration, the more effective it is in spotting anomalous activity."
+    publishedDateTime: 2021-01-15T01:59:00Z
+    webUrl: "https://www.greenhousegrower.com/technology/how-artificial-intelligence-can-improve-cannabis-yield-and-security/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
+      name: Greenhouse Grower
+      domain: greenhousegrower.com
+    quality: 54
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/10/industrial-robots-in-japan-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://www.greenhousegrower.com/wp-content/uploads/2020/11/photoperiod_for_cannabis_featured.jpg"
+        width: 896
+        height: 504
         isCached: true
 
 secured: "KGMVum1+LWbagHjeGLcYeddMumCp/JGLJ6ELJmWyziCFvEu2n09LTHl+BBlCFDmvrvTbX2Du/9Jf5z8CtMVb14HfpTM9zJfG3zrVrH+dkGNmhsmcGRONWE+DE05WKfsw7Fo5DjOK8EN8KCWuc5WN8kLzafhldbLFCbso0upVWdHsNPoovfN9u8y0lvVqgvdy8R5n1RMnH82t6RraH09qSmKIhirQDvwOy32nhg15AnU0nmNyXNui7oFvG0KiTtuoHHzBMbVx79KOBai3jEoAlt6CLP1oh1FwbC4HmszL4gkcQqIAozwofQ9ur/ibiYtT5SqKz+vaQi4XXQeaLY/HqigGO33ZcZQZ4g+2X8swpOM=;uMhKZyqkk9W448hQwUYSfg=="

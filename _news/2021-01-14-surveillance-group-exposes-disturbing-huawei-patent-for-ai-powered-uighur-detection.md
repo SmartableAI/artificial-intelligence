@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "China A.I. firms and Huawei filed to patent technology that could identify Uighur Muslims, report says"
+    excerpt: "A research firm that analyzes video surveillance technology examined Chinese patent applications for systems that could be used to identify ethnic groups."
+    publishedDateTime: 2021-01-15T03:57:00Z
+    webUrl: "https://www.cnbc.com/2021/01/15/huawei-ai-firms-filed-to-patent-tech-that-could-identify-uighurs-report-says.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/15/huawei-ai-firms-filed-to-patent-tech-that-could-identify-uighurs-report-says.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/15/huawei-ai-firms-filed-to-patent-tech-that-could-identify-uighurs-report-says.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 58
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105910971-1557804260825gettyimages-1124858078.jpeg?v=1582387062"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "Huawei Patents AI-Based Drone Control System in China"
     excerpt: "Huawei Central reports that the company has been given a patent in China for a drone control system based on artificial intelligence. According to the news source: “On July 18, 2018, Huawei applied for a new patent related to drone technology."
     publishedDateTime: 2021-01-11T09:38:00Z

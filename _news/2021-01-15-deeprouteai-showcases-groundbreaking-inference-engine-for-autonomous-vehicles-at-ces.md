@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-15T03:15:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
 webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
 type: article
-quality: 12
+quality: 14
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 related:
   - title: "Video: DeepRoute details its neural network engine for self-driving cars"

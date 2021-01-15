@@ -2,6 +2,109 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-05-we-built-google-this-is-not-the-company-we-want-to-work-for.md",
+      "title": "We Built Google. This Is Not the Company We Want to Work For.",
+      "excerpt": "On Nov. 1, 2018, at 11:10 a.m., some 20,000 Google employees, along with employees of Waymo, Verily and other ... They have developed artificial intelligence technology for use by the Department ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/05/opinion/04google-02/04google-02-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/04/opinion/google-union.amp.html",
+      "publishedDateTime": "2021-01-04T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm.md",
+      "title": "Italian court rules against ‘discriminatory’ Deliveroo rider-ranking algorithm",
+      "excerpt": "A court in Italy has dealt a blow to unalloyed algorithmic management after a legal challenge brought by three unions. The Bologna court ruled that a reputational-ranking algorithm used by on-demand food delivery platform Deliveroo discriminated against gigging delivery workers by breaching local",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/",
+      "originalUrl": "https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-991304512.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/amp/",
+      "publishedDateTime": "2021-01-04T18:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-google-workers-form-new-labor-union-a-tech-industry-rarity.md",
       "title": "Google workers form new labor union, a tech industry rarity",
       "excerpt": "A group of Google engineers and other workers announced Monday they have formed a union, creating a rare foothold for the labor movement in the tech industry. About 225 employees at",
@@ -1083,101 +1186,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia.md",
-      "title": "Lantern Pharma Announces Launch of Antibody Drug Conjugate (ADC) Program to Target Solid Tumors & Blood Cancers through Agreement with Califia Pharma",
-      "excerpt": "PRNewswire/ -- Lantern Pharma (Nasdaq: LTRN), a clinical-stage biopharma company using its proprietary RADR ® artificial intelligence (\"A.I.\") platform to transform cancer drug development and identify patients who will benefit from its targeted oncology therapeutics,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma-1029930022",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-launch-of-antibody-drug-conjugate-adc-program-to-target-solid-tumors-blood-cancers-through-agreement-with-califia-pharma-1029930022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1216507/Lantern_Pharma_Logo.jpg",
-          "width": 400,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-2021-the-year-of-robotics-and-artificial-intelligence.md",
-      "title": "2021: The Year of Robotics and Artificial Intelligence",
-      "excerpt": "Two of those areas are robotics and artificial intelligence, which we'll see adapted broadly this decade with a considerable bump in 2021. Let's talk about all of that this week, and we'll close with my first product of the week in 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html",
-      "originalUrl": "https://www.technewsworld.com/story/2021-The-Year-of-Robotics-and-Artificial-Intelligence-86968.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-ai-robot-1.jpg",
-          "width": 620,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

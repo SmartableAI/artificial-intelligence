@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-13-nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces.md",
+      "title": "NVIDIA Unveils GeForce RTX 30 Series Laptops And The Aggressively-Priced GeForce RTX 3060 Desktop GPU At CES",
+      "excerpt": "PC Graphics giant, NVIDIA today has taken the wraps off new GeForce RTX 30 Series gaming laptop platform technologies, as well as a new GeForce RTX 3060 graphics card that will address the meat of the market at a popular $329 midrange price band.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffdceee9238e5474ced6a5d%2F0x0.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/amp/",
+      "publishedDateTime": "2021-01-12T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management.md",
+      "title": "Business Contracts Remain Complex, And Artificial Intelligence Can Improve Contract Management",
+      "excerpt": "Contracts are one of the most complex things to understand and analyze in the business world. Artificial intelligence can help in contract analysis and management, and is starting to be applied in the real world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/amp/",
+      "publishedDateTime": "2021-01-12T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-roboflow-raises-21m-for-its-end-to-end-computer-vision-platform.md",
+      "title": "Roboflow raises $2.1M for its end-to-end computer vision platform",
+      "excerpt": "Roboflow, a startup that aims to simplify the process of building computer vision models, today announced that it has raised a $2.1 million seed round co-led by Lachy Groom and Craft Ventures. Additional investors include Segment co-founder Calvin French-Owen,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/",
+      "originalUrl": "https://techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Joseph_Nelson_Brad_Dwyer.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/amp/",
+      "publishedDateTime": "2021-01-12T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show.md",
       "title": "Dishwashing robots and Bluetooth masks: Pandemic products hit tech's biggest show",
       "excerpt": "Companies big and small showed off their new innovations at the closely watched tech trade show, which kicked off on Monday, many with features tied to life during the pandemic.",
@@ -574,50 +729,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-software-promises-to-improve-ai-object-recognition.md",
-      "title": "Software promises to improve AI object recognition.",
-      "excerpt": "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
-      "originalUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg",
-          "width": 940,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T01:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Engineer",
-        "domain": "theengineer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu.md",
       "title": "Samsung introduces the 5nm Exynos 2100 with 10% faster CPU, 40% faster GPU",
       "excerpt": "Samsung has formally introduced its latest flagship mobile processor, the Exynos 2100. It features an octa-core CPU with a top-tier Cortex-X1 core, and up to 40% more graphics performance.",
@@ -1118,111 +1229,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-pegasystems-acquires-quriousio-to-apply-speech-analytics-to-customer-service.md",
-      "title": "Pegasystems acquires Qurious.io to apply speech analytics to customer service",
-      "excerpt": "Pegasystems has acquired Qurious.io to bring speech analytics to customer service interactions augmented by AI",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/",
-      "originalUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/shutterstock_572804956-e1516199341990-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/amp/",
-      "publishedDateTime": "2021-01-11T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera.md",
-      "title": "Samsung's JetBot 90 AI+ Robot Vacuum Doubles as a Roving Security Camera",
-      "excerpt": "The JetBot 90 AI+ works with the Samsung SmartThings app to let you access its integrated camera and keep an eye on your home from wherever you are.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera",
-      "originalUrl": "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 310,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/s/samsungs-j/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-secur_k312.1200.jpg",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

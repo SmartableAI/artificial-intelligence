@@ -36,6 +36,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
+  - title: "CES 2021 Taiwanese Startup ACSI Gives New Technological Shine to Traditional Chinese Medical Treatments"
+    excerpt: "Chinese medicine has been receiving increased attention worldwide. These traditional therapeutic treatments are now being combined with modern technology and integrated into Western medicine. Acupuncture,"
+    publishedDateTime: 2021-01-15T06:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "CES 2021 Taiwanese startup STO's indoor map bridges the gap of Google Maps"
     excerpt: "PRNewswire/ -- Spatial Topology Technology (STO) is the only indoor map platform embedded with both indoor positioning and"
     publishedDateTime: 2021-01-12T14:39:00Z
@@ -142,6 +153,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "CES 2021 Taiwanese Startup FiduciaEdge Technologies Develops Edge Security Solution for a Secure Edge Computing Environment"
+    excerpt: "Edge computing is transforming the way data is handled, processed, and delivered from millions of devices around the world. FiduciaEdge’s software/f"
+    publishedDateTime: 2021-01-15T06:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210114006091/en/CES-2021-Taiwanese-Startup-FiduciaEdge-Technologies-Develops-Edge-Security-Solution-for-a-Secure-Edge-Computing-Environment"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
 
 secured: "Z43x2Jw3GguhbjIe4mz6drUNiz2pAl7gw2Fj5TF3afZjXKfHhmcORoKgTW/Q0dsE8z+IYjUG6SPrul3mHWjl3EILW+6DE/UMtBetHbCyX4xufgsJxQBfQ5pRoc7XnqrPYkJqpPZc9vJaUbej3J1cZ1nwlC5lQ+t0Xd4TS35wikAIfh6Xc7DGB5KMlz9mzYWpjrneuSAfZL62MYCulfOI4irtUPmdHpkHKlTfWcguwi/3QBrYU39T8XNL+f9R5iL6XFOzS5QrWwFuKTHvI4ChuQwLSvZgMuSsc3fPyoYuBhTcnqDmy3MBTM1fpkllPeJngi9DYHhDKP8IAJy+d5FbN5NYkmJzXg8as/5XNW8maug=;TQ8ONpvfQ1BAVX4MHz4spQ=="
 ---

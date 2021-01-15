@@ -34,6 +34,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
+  - title: "CES 2021 Taiwanese Startup ACSI Gives New Technological Shine to Traditional Chinese Medical Treatments"
+    excerpt: "Chinese medicine has been receiving increased attention worldwide. These traditional therapeutic treatments are now being combined with modern technology and integrated into Western medicine. Acupuncture,"
+    publishedDateTime: 2021-01-15T06:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
     excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and"
     publishedDateTime: 2021-01-12T19:07:00Z
@@ -145,6 +156,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CES 2021 Taiwanese Startup FiduciaEdge Technologies Develops Edge Security Solution for a Secure Edge Computing Environment"
+    excerpt: "Edge computing is transforming the way data is handled, processed, and delivered from millions of devices around the world. FiduciaEdge’s software/f"
+    publishedDateTime: 2021-01-15T06:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210114006091/en/CES-2021-Taiwanese-Startup-FiduciaEdge-Technologies-Develops-Edge-Security-Solution-for-a-Secure-Edge-Computing-Environment"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
 
 secured: "ZPebQj08CCN1ggUWwhhMc2mf+cu81LKRCPbqS52HLk4UtJhB/ot/amT/hvNQbP9PKkgacXnXfm9sohlH8rmK41gc4OKK3RIryVNKoVVQyoFc4yIfCSDIH5JKBJ93KAnaySKmWS3DMJIr+dQOsX8inbxAl5hKYINN71mwKw96Qml+z/j3BYPmvCHRDEOzNo5pf21H7z1nuAmgM+TbACT4DSPKnpgyhC+Wuy7rex1JEROhRTBtjqM/ZmI3N6NFbf5LVYFV24ybrUHekbbuevDGlpFD4uxT6wFwtQRqDxYi+hhcKKzC0JwuyivLE8/7cOUEPW1jZPDbBIzjVGWWQU7DDG1DcLoJG+tND7wOuS8MikM=;l6SyUp66JxmdG2Lak7nuog=="
 ---

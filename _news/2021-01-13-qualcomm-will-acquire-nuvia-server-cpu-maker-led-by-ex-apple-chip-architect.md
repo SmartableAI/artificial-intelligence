@@ -32,21 +32,16 @@ images:
 
 related:
   - title: "Qualcomm To Snap Up Chip Startup Nuvia For $1.4B"
-    excerpt: "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of"
-    publishedDateTime: 2021-01-13T15:58:00Z
-    webUrl: "https://www.smarteranalyst.com/stock-news/qualcomm-to-snap-up-chip-startup-nuvia-for-1-4b/"
-    ampWebUrl: "https://www.smarteranalyst.com/stock-news/qualcomm-to-snap-up-chip-startup-nuvia-for-1-4b/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/qualcomm-to-snap-up-chip-startup-nuvia-for-1-4b/amp/"
+    excerpt: "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of next-generation 5G computing.  With this acquisition, Qualcomm (QCOM) will be able to put Nuvia’s processors into its portfolio of products,"
+    publishedDateTime: 2021-01-13T15:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13"
+    ampWebUrl: "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp"
     type: article
     provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 59
-    images:
-      - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2021/01/shutterstock_1580593078.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
-        width: 1000
-        height: 667
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Qualcomm acquires chip startup Nuvia for $1.4 billion"
     excerpt: "Qualcomm yeterday announced that its subsidiary, Qualcomm Technologies, Inc., has entered into a definitive agreement to acquire NUVIA for approximately $1.4 billion before working capital and other adjustments."
     publishedDateTime: 2021-01-14T08:05:00Z

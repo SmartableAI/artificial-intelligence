@@ -7,7 +7,7 @@ originalUrl: "https://www.tribuneindia.com/news/science-technology/ibm-uses-ligh
 webUrl: "https://www.tribuneindia.com/news/science-technology/ibm-uses-light-for-ultra-fast-computing-in-ai-systems-196559"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 788
     height: 443
     isCached: true
-
-related:
-  - title: "IBM uses light for ultra-fast computing in AI systems"
-    excerpt: "IBM researchers have developed a way to dramatically reduce latency in Artificial Intelligence (AI) systems by using light, instead of electricity, to create ultra-fast computing. The IBM team, along with scientists from the universities of Oxford,"
-    publishedDateTime: 2021-01-10T13:36:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/ibm-uses-light-for-ultra-fast-computing-in-ai-systems.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/ibm-uses-light-for-ultra-fast-computing-in-ai-systems-2021-01-10.jpg"
-        width: 1000
-        height: 800
-        isCached: true
 
 secured: "dU1a5KO4BNi/5dLOMA+wOI3zk9ZTj7iFvIBELHFr0XTqYtixnc0zc+LYu2lr0WsL/iVT8UODRrkER6a6cUYLAHtr7y5oqiq9dluboEf06gH0a2k19kreZ6nSKVZlS208Cs2hiXedqCmtb5UOzt/blGjqfQ60g07YnlXOAo6k0KGWErMLj1XkWj+fkWAvlHwYfsM2hJKC/8ot+ifI0XBHprTAz7nA4SSt1gZFrx3I+adr/4WWgZsrjrXXdfXm2DJ5G5SFcjtVUUsjo/Tp0bwuATrJhJBpCjPzEAxPT1YSwJyYxHsdfWlj54Lb2HMYrf1oqEph/7rBIJ+Y3seSLR/HkEvRSD8cC3MbueSXlRYwTF6QMgR+sntpztkrk6S7CE9Fbo/8e2xhbZSXwNP5ypByEtaxDvv4W3LkDsrtAWLktYjdt+XW/ngfMuN5jcBts8QX2ZG+3nZvKOBS6aLHsmWJ4iol/ovWWQezroCmzWrUA1D81+vew3O4FYsdjfKrzir7RbdcbpEbx6kPLj5btIzcng==;iyXQONjw/iYiNE/B0S4EPg=="
 ---

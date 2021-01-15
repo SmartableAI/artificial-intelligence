@@ -1,30 +1,28 @@
 ---
 category: news
 title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
-excerpt: "LG Electronics (LG) president and CTO Dr. I.P. Park and Element AI CEO Jean-François Gagné will unveil AIX Exchange: The Future of AI and Human Experience, a multifaceted digital report that includes in-depth interviews with leading experts in AI,"
-publishedDateTime: 2021-01-14T08:22:00Z
-originalUrl: "https://www.albawaba.com/business/pr/lg-and-element-ai-collaborate-content-hub-ai-experience-exchange-1404990"
-webUrl: "https://www.albawaba.com/business/pr/lg-and-element-ai-collaborate-content-hub-ai-experience-exchange-1404990"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/lg-and-element-ai-collaborate-content-hub-ai-experience-exchange-1404990"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/lg-and-element-ai-collaborate-content-hub-ai-experience-exchange-1404990"
+excerpt: "World-leading Researchers, Policymakers, Designers, Companies Share Diverse Perspectives On Topics Such As Human-machine Collaboration and"
+publishedDateTime: 2021-01-13T17:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+webUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/AIX%20Exchange.jpg?itok=vYekTwem"
-    width: 960
-    height: 540
-    isCached: true
 
 related:
   - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
@@ -42,6 +40,6 @@ related:
         height: 653
         isCached: true
 
-secured: "0IVveUKis8bHI1uGi0oC1XnRPTLMgPeCdv8Lq9S70x7ohZrYSSLhLz76YUq1Eqhp6xxoU8Ptckz8xXa0PeZjRGtJGLor4vPu34MxdkSneAUsTkFOvbImS50/Rc5WSP686SZUoTLKGl0GLBQ01Uz1/4higqGgl/y7v40T9TcF/xBprS6jafnzvwvaEcivUvXG5wCFLh/qJ0rd4lgtQZ4vHJcs68bTC7lHHaXCn3TRmt+BCLDGwe4wztoEbGxPnCSTgmN+DCjmHNH44FANWjkGiVJvN6d4YQs0l2oH8nbi/ecqoYYjejxCruw5Mo7b74USwDs6bn6zackJ/L3Mw2RwGDAIL0gnQaxgKOAe7OfKu4+iFMT2Ekr1Q7cp8lIYqWm6uIwJicMbZt5O7rkg8u5Dne9nX7s8/9HiKS2W7dTgCUf69eeaxBC/Y16/H//Samo4jsSftfVOH/iKBFDmpYfajb0WM86z0q91kFTO5ew3vcyTtR9bN9Bz16L5yponTznK+9lwmkSqGNB/ZSDAZ3miXg==;xAXOBzadS0eQm3g6gFKyMw=="
+secured: "kRyNhiKvdX2xav9lRWglzvp2kQIPBIRElrq2py8Qjl/FkjMVYQAGaXsaF0OTLE4xaccptjzbFHt24fJ3RH5vXNvCSf0FP7ztvpIa7ecAwCiKoJCpdnCUEnLvSNOb/2y8Hahn9PNlM/oFNDOJHwAM80UZ1+ph+u+WforrEDP9LhB6oHSsFR+6INE9ufo1LRd9Ix4xKDhsbFVI4k+piINZIkvbWN3R1sxsZHlemzaqOgKI4mnrxWxcl56KZhNDelCZ5W78eIZxYuzAedlmxUw4hW8vmGgkgI4BBkQokoDGpRmChKt3QIPzzo+DtTaS0XE9CRYdmV06QDj35eWMm4MWtDMzLZGAanKwgjcGJ9ESsow=;NnCy3g8BdfM7LegXRG61Vw=="
 ---
 

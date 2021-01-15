@@ -7,7 +7,7 @@ originalUrl: "https://cheddar.com/media/exploring-trust-and-acceptance-of-artifi
 webUrl: "https://cheddar.com/media/exploring-trust-and-acceptance-of-artificial-intelligence-in-healthcare-industry"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "HireVue Leads the Industry with Commitment to Transparent and Ethical Use of AI in Hiring"
-    excerpt: "HireVue, the global leader in video interviewing, assessments, chatbot and recruiting automation technology, today made two announcements to extend its leadership position defining the transparent and appropriate use of AI and software as part of the hiring process."
-    publishedDateTime: 2021-01-12T16:42:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
+  - title: "Why AI Has Yet to Deliver on Promises in Healthcare"
+    excerpt: "We’ve reached the point where computer vision and natural language processing (NLP) programs can match, and in some cases exceed, the capabilities of"
+    publishedDateTime: 2021-01-15T03:18:00Z
+    webUrl: "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 45
+      name: datanami.com
+      domain: datanami.com
+    quality: 58
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ai_doctor_shutterstock_Andrey_Popov.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Software promises to improve AI object recognition."
+    excerpt: "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition."
+    publishedDateTime: 2021-01-12T09:45:00Z
+    webUrl: "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 56
+    images:
+      - url: "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg"
+        width: 940
+        height: 626
         isCached: true
 
 secured: "BM2x4bKgYFvCo7NeMkWLFijtI6vqvMR0mml4JozrbAGoBPI7DaVxzWC4duI64D7ZWZnMEk0Z3IL1MHcrYu0GdjWe9GhTyb3IRmuvn3IBI07vfLJOH2++RtCeJHbT1zusTfBEQ+qbu9HsOnI+ZYcPr/spgzp+e+Za85Hg0bU5jdLyzjf662NafKUaQBzGc4swPWwNElerx/P66pbfvvFHlGDcunoAzwkT0H8JN9GcS1/bXJPS9zKYgP2eVgWzRT8R2tdkzwXhN8GP/nP/3VuocIBrZMUYwhuJWEOPJwrSYkl2qH+IE4/yBUrPCWP+8P4zQ7Yi2h27hDSpGfMp+qYVYMpDACvKWxO3xxlrahRrT5gSPVmEyyCQD3FFtK4+yXmLZUN7fgfAcWq7jE8bGXpzOUSogFjz2s1Z9ZbhF5Abcwkf5g8GwGaxumEjXBUZRsIljRTewCvg7c6MzLbiGHi1d7KUwrddAa0fRPIN2uQkB7+4ikcwSMjJNZJjZcYf2cxEnjpy9m2k61xsp/3FRD9Wmw==;xlQa8JjafaH+cDQb8tfGFA=="

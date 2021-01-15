@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Qualcomm To Snap Up Chip Startup Nuvia For $1.4B"
-excerpt: "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of"
-publishedDateTime: 2021-01-13T15:58:00Z
-originalUrl: "https://www.smarteranalyst.com/stock-news/qualcomm-to-snap-up-chip-startup-nuvia-for-1-4b/"
-webUrl: "https://www.smarteranalyst.com/stock-news/qualcomm-to-snap-up-chip-startup-nuvia-for-1-4b/"
-ampWebUrl: "https://www.smarteranalyst.com/stock-news/qualcomm-to-snap-up-chip-startup-nuvia-for-1-4b/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/qualcomm-to-snap-up-chip-startup-nuvia-for-1-4b/amp/"
+excerpt: "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of next-generation 5G computing.  With this acquisition, Qualcomm (QCOM) will be able to put Nuvia’s processors into its portfolio of products,"
+publishedDateTime: 2021-01-13T15:57:00Z
+originalUrl: "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13"
+webUrl: "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13"
+ampWebUrl: "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2021/01/shutterstock_1580593078.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
-    width: 1000
-    height: 667
-    isCached: true
+  - AI
 
 related:
   - title: "Qualcomm will acquire Nuvia, server CPU maker led by ex-Apple chip architect"
@@ -134,6 +128,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UlyAT83u5+4KeHWRAVjQ9PIds0V0lQOOOEhqzcWDIU9T4hcMNu8pHkZ84jggsYyGzm52uvkVlOLZcTFfLtX7WgTDU+k4X8B08+ux96pEmUXRuVARTlRZ+GRX0vJF/+4SwUEAcySZCzpgiNRxQlIe+Ugr3QQ31+AUtIb4hyJKxJKJTCRMS9VixLX2rxD6pYXjDRQqCYBPXh6lNPxHCU3BHpP4NLpRxR987TBAz20UuPeybxqETwt8dk7TNXYNKdGEhhttHFW/zHW8JiWCxnp+oGHpY3H/Ij4i4RvnLwiA2lihRgqWHy0xUQ8a5O2ZVMfWTzNcV6meZBqKbb1CdeQVf7wFINwbiUMzLtNwo7nML7o=;GGtcfMkd8g+KDCrI7sUcXQ=="
+secured: "/Qq3dUdBrbo55VGmYqLOrHtGDH05FqmJl+q7FOGlvWGpnvNnLw0SdvanriJWtPra5r3vL7Kha918TqotFUol7zvjm4alqD9bB5YNPL4BVCZCUUffATW83fJdyJnO35h5CjTimXIwYyXwzAVNu01CS8jL+R8fyEKbPICc1qtOJnpgpjMivS89bRatRxA9gs4jZgYw3JZkfb02GYqrGGi4cLYSaamTXdT5RlMiSZSojPdY6cNpITJyHID2b9s7uGoIgpm0ClVX6qHC+/hwaxSDCQuQ0jF9jGFd9IEkEoi1mYI4ywuGbPzdtj3gv6+C0apNhvX2kmJfs8yYRFRnQXYASnyJxMIOztVwglmWpYX2Sg0=;PAD+Uk21kC0zG71JO0iE5w=="
 ---
 

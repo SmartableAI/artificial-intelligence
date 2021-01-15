@@ -38,6 +38,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
+  - title: "AI developer to discard data used in controversial 'female' chatbot"
+    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the artificial intelligence (AI) platform amid mounting criticism over its data collection process and hate speech."
+    publishedDateTime: 2021-01-15T06:59:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302537.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302537"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302537"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/bb7fc1b753c94279aec1b2fcca08a00e.jpg"
+        width: 980
+        height: 665
+        isCached: true
   - title: "GM Financial's AI chatbot proves saving grace"
     excerpt: "When the coronavirus pandemic swept the U.S. last March, shuttering auto factories and forcing most of the country into their homes, GM Financial's chief experience officer Bob Beatty had his hands full."
     publishedDateTime: 2021-01-13T18:20:00Z
