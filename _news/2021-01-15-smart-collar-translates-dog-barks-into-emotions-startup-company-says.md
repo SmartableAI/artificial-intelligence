@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

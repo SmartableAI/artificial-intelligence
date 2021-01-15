@@ -23,31 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "How To Find The Right Business Insurance Using AI"
-    excerpt: "No longer just a hallmark of science-fiction, AI is pushing the business world even further with its integration into several business sectors, including insurance."
-    publishedDateTime: 2021-01-12T10:58:00Z
-    webUrl: "https://www.newsweek.com/amplify/how-find-right-business-insurance-using-ai"
+  - title: "How to Reduce AI Bias Like Google Does"
+    excerpt: "Google itself has faced controversy in recent months over its firing of respected AI ethics researcher Timnit Gebru following her coauthoring of a paper highlighting the risks of large language models,"
+    publishedDateTime: 2021-01-13T21:02:00Z
+    webUrl: "https://www.adweek.com/brand-marketing/how-to-reduce-ai-bias-like-google-does/"
+    ampWebUrl: "https://www.adweek.com/brand-marketing/how-to-reduce-ai-bias-like-google-does/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/how-to-reduce-ai-bias-like-google-does/amp/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 69
+      name: Adweek
+      domain: adweek.com
+    quality: 59
     images:
-      - url: "https://d.newsweek.com/en/full/1702534/coverwallet-insurance-ai.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://www.adweek.com/wp-content/uploads/2020/12/Nielsen_Whitepaper_011321_HP_V2-640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "How AI Might Change the BI Experience"
-    excerpt: "Natural language processing coupled with speech interfaces have been promising to change the way end users interact with applications for quite some time. However, Amazon Web Services (AWS) at the recent AWS re:Invent conference made a bold promise to specifically transform how end users interact with business intelligence (BI) by enabling them to launch verbally query data."
-    publishedDateTime: 2021-01-12T20:52:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-changes-the-bi-experience.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-changes-the-bi-experience.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-changes-the-bi-experience.html"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
 
 secured: "XyCZsXoneqPOuZM925QciZvEClIYOVbiK8pKjyB+5+eelVzmyRz+9rVO0i8EiGYKfbV53M4BRozCKYXBxd0qW2oEt9Pu6UjRsRy4gsnGNfWmGz4cnsX+RwsEGE9ttWT5tZthxpNkHzVFVJ98fm6GNQ6D1gCIexBWduzyShF96gdHgPwxuSfNNecdNBM02V+X+5cAorpL34Hr2JM+vJprM4AkuHJsYlLyGPSbSYohhIhs9Am+MvkWx4pqLnwDko3/GHBcqqswJ4EeGOxjIbyyRJFtd2qrhdR8FuakU952GMvJAxFCu/ZMgD7uLwqXF+hzFuIKrqi1vFY33QWOEWAM5E4cTXOkYL/QlyfEbO6adO8=;sqOETDVSf+jHdDWyPAwS7g=="
 ---

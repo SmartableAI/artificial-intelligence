@@ -96,20 +96,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 53
-  - title: "Intel's self-driving car unit plans to step up use of its own radar tech by 2025"
-    excerpt: "The head of Intel Corp's self-driving car subsidiary said on Tuesday the company wants to shift toward using its own radar-based technology and use a single lidar sensor per vehicle by 2025 in a bid to lower the cost of autonomous driving."
-    publishedDateTime: 2021-01-13T08:05:00Z
-    webUrl: "https://www.reuters.com/article/us-intel-mobileye/intels-self-driving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025-idUSKBN29H2XU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574303&r=LYNXMPEH0B1L4&w=800"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "y9L8QKuHqQgmEaegazO39N5PayYcl/EBW4nrmIFgZdl1cZ8oYhIujM+VtnCvTTrtqDm68oOkOTn79WlI51SW3+xBI77oouBghL+aV4C4j8ANppt3RyI7UaQ9U+A1Ka1zAt83NBS7nmK6dOvq4gZaQ6H8eEPLtOZ5MQ5yfh5S7++sKEjmkpMVDkRpb3LNEpaPhiZvbN0YoMGOncluSuSu4+v3dEtc0UJstZczXg6SNcTrTgsA8/WQI2w91zOpd3XCeiOIMNxnHd9c+UN1L0gzPp/oBdwSFf3kwCKlKhQYLFUnCYC8ZwAzqD7N32DDWvPgfXo4dH+epZUykGZ3QsC+r90IS2V4GQ1Pf+nsXY1VkX4n+63tgCnguNLRD12m6sJec4Yz3EbCq+vYYSPRdubQlvqM0E4YIXOlU0QucJ4PGYi0mhIV2kVS6uJgc1ujm5HXXt4KwqN0L4lwruV6kBcblfXsRDVupjP4m8kjJs9RpqhmIUvo4mMI5piV4i5yCsZ7RwmxS0MteSh4W3rU0F+BvQ==;1tiyBcbsZuATSI2X2wzPgw=="
 ---

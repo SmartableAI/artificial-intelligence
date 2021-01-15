@@ -30,20 +30,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Cognizant to acquire Sydney-based Servian"
-    excerpt: "Global systems integrator Cognizant has acquired Sydney-based enterprise consulting services provider Servian for an undisclosed sum. Servian specialises in data analytics, artificial intelligence, digital services,"
-    publishedDateTime: 2021-01-10T22:55:00Z
-    webUrl: "https://www.crn.com.au/news/cognizant-to-acquire-sydney-based-servian-559600"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210111094518_CRN_690_Cognizant-Chennai.jpg"
-        width: 690
-        height: 428
-        isCached: true
 
 secured: "igHvP0mHaPxMB77U1F+5sRwllpKY6v5pz97qhJuYJ7jMLN2m2Z03tj7H/FvkpjZuTNyCJ+J/vwIEWfOAvQ9AkG80cRJL4E8fPMSCY5WPicycW1ZzTHbqDL8MF2RHooJoO90fFSZmaFWNk+8uR+KcHQE3VzUVS66obUY5NZt7+O4Skss+tNJ+62zppCUoAjNiJSQwvMTKt+B893ycdEtcL03h78nis1NsI3LentsiBvQQkAlSDGkdomZMjF/ILp98N5tq6dFHiZj07B/ObJde+nMoSuxVXxU8vGOPCA5EHsKAbLIdB0pj8h97flRJve9r7ME2OnNYXs6TFD69Jdjw4TcVxDCaUpB5F80ireWrUyBkvgEVx6DmtT3YeRF8o/YMZf1Peku8QbNmdYl3j9GC55lC11UoCfIGGu+nN6EJPfhZlVJia+iND7vWkNXrzz44DFV3qa9WHO1E8/BpRKYqxo6y9SqP8d8u//5tkiIZp5MPkkxA9mtT984/MS7CoNWNhMzyFViMoinvN7C/kSexcA==;WUa5YspDIYyFJ07jPtdYGQ=="
 ---

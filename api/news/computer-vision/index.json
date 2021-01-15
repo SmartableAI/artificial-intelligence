@@ -159,7 +159,7 @@
       "originalUrl": "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -256,21 +256,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-chinas-megvii-kick-starts-ipo-on-shanghais-star-market-after-trump-added-facial-recognition-giant-to-entity-list.md",
-      "title": "China’s Megvii kick-starts IPO on Shanghai’s Star Market after Trump added facial recognition giant to entity list",
-      "excerpt": "Facial-recognition developer Megvii abandoned its original Hong Kong IPO plan after the Trump administration placed it on a trade blacklist; it is now looking to list on Shanghai’s Star Market.",
+      "path": "_news/2021-01-13-chinese-facial-recognition-unicorn-megvii-prepares-china-ipo.md",
+      "title": "Chinese facial recognition unicorn Megvii prepares China IPO",
+      "excerpt": "Megvii, one of China’s largest facial recognition startups, is gearing up for an initial public offering in Shanghai. The company is working with CITIC Securities to prepare for its planned listing, according to an announcement posted by the China Securities Regulatory Commission on Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after",
+      "webUrl": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/chinese-facial-recognition-unicorn-megvii-prepares-china-ipo/ar-BB1cHL4R",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 199,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/13/02f16d6a-555b-11eb-84b3-e7426e7b8906_image_hires_145128.jpg?itok=7tew9DCO&v=1610520700",
-          "width": 1200,
-          "height": 630,
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/megvii-e1557323313961.jpg?w=1024",
+          "width": 1024,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -278,23 +278,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after",
-      "publishedDateTime": "2021-01-12T23:52:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2021/01/12/megvii-ipo-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/megvii-ipo-china/amp/",
+      "publishedDateTime": "2021-01-12T23:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
+        "domain": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -303,8 +294,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {

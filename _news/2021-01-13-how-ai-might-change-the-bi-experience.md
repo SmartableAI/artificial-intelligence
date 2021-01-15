@@ -21,29 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "How To Find The Right Business Insurance Using AI"
-    excerpt: "No longer just a hallmark of science-fiction, AI is pushing the business world even further with its integration into several business sectors, including insurance."
-    publishedDateTime: 2021-01-12T10:58:00Z
-    webUrl: "https://www.newsweek.com/amplify/how-find-right-business-insurance-using-ai"
+  - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
+    excerpt: "World-leading Researchers, Policymakers, Designers, Companies Share Diverse Perspectives On Topics Such As Human-machine Collaboration and"
+    publishedDateTime: 2021-01-13T17:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 69
-    images:
-      - url: "https://d.newsweek.com/en/full/1702534/coverwallet-insurance-ai.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Using light to revolutionize artificial intelligence"
-    excerpt: "An international team of researchers, including Professor Roberto Morandotti of the Institut national de la recherche scientifique (INRS), just introduced a new photonic processor that could revolutionize artificial intelligence,"
-    publishedDateTime: 2021-01-12T01:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
+  - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
+    excerpt: "CNW/ - At CES® 2021, LG Electronics (LG) president and CTO Dr. I.P. Park and Element AI CEO Jean-François Gagné will unveil AIX Exchange: The Future of AI"
+    publishedDateTime: 2021-01-13T14:00:00Z
+    webUrl: "https://www.newswire.ca/news-releases/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-881529040.html"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Newswire
+      domain: newswire.ca
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1419259/LG_Electronics_Canada_LG_and_Element_AI_Collaborate_on_Content_H.jpg?p=facebook"
+        width: 1248
+        height: 653
+        isCached: true
 
 secured: "CTFKtavcBUzxhSNu7mev3JT2a1uit3cDctokA4tchTUhj6FlzpyWLMOan5iWEgHK32qX4FSLCEuZ9aRTyhz83ipRSo91f9Qhb+LVMaFfFvFdY4LkuhcYxUnybH7PjpecOYJ/ZXN09XDFl7D1Vnm+MmY+e8q+i9eaQ+2aOwbecnMF08n1Mmt+noQJHhNN/HjnBkBNzYPlSVRj+rJdM72JM7yOnE/KsemjGFtInueJqwTy7fktgfM2I8mp59jP2yuI40Nf/kQbRHwscPdSzRpByXHqzvN4DmbFXiwMU/CjS6mTEImgkETunpoals2IijdO3hQaPkEnmUGCL3aLbW7ICvGWvZayMHlAV9K0DplSS1JQ5/yTyyL/hz2PJq9tsLwQ3tnSDB6M009ttetFeVKCvVPKJZVJq2AxLioqTYDWC0jcQu13jNNe/ewVoluv1yXYJVfJyH6dDpJ+WqCXgLguaHr0+oDZtggGKb0nMA9VXO6fKDH8H79g39u1XkXM3p491aI8ccYtcIIc1qhprEDl4Q==;3RH4ae2NyCM5dIz9/LCecg=="
 ---

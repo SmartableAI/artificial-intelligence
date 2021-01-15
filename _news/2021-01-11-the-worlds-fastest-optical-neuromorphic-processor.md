@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers exemplify world’s fastest optical"
-    excerpt: "Artificial neural networks, a key form of artificial intelligence, can learn and perform complex operations with wide applications to computer vision, natural language processing, facial recognition,"
-    publishedDateTime: 2021-01-10T22:35:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/researchers-exemplify-world-s-fastest-optical-101610321550770.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/researchers-exemplify-world-s-fastest-optical-101610321550770-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/researchers-exemplify-world-s-fastest-optical-101610321550770-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 46
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/01/10/550x309/artificial-intelligence-machine-learning-concepts-deep-learning_a53e5380-39fe-11eb-a935-67a6702b164e_1610321641424.jpg"
-        width: 550
-        height: 309
-        isCached: true
   - title: "Using Micro-Combs, Researchers Demonstrate World’s Fastest Optical Neuromorphic Processor for AI"
     excerpt: "Neuromorphic computing, which uses chips that mimic the behavior of the human brain using virtual “neurons,” is growing in popularity thanks to"
     publishedDateTime: 2021-01-13T00:00:00Z

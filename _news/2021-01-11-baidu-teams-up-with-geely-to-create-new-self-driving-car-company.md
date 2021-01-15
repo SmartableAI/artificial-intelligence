@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -110,15 +110,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
-    excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
-    publishedDateTime: 2021-01-10T22:22:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202101103570/baidu-partners-with-zhejiang-geely-to-produce-electric-cars"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "CJtVATSlC2A853JMjHWPyC6gGXw77mbI134LDL9ux2qLsgV6ldsRHjbbjZxOx608bbd0umroFv21YTh//B4B+sZ1KUUecke7p+TYZMzs8wuE2ALuRoi3PMGWfSducl0mDO+/b6xsm0tJxiSuA0yDkj+bsJezi49/iqm9SDT1BtwIaxDEpF8ubAXyN2kzbgmBJy4VZSOwmGeNk98ZPrZ31c/TkmAv4gH1zcZ1FCc1mVwjDFqLN+GZ9wlVJdqK9dn2PEa1wDRqYRUEiRdSWDOivPGEOOvrctN/5BEVHhc0dJvdH4mQSc0vH+dxtrnP6J6ZqZw+oPMfDlXYCi1tv11H3spQ1hphjuo6DcNM+lteKHc0sfpjXSzHff2HJtyVbUxlpsZfNJqVMDRuo0nJEfauwdqKZh3v43W0CNUcHP4gpk8ClCJLd6yvri77Ecd23AzRZAH70YtLZ18vAcSTqXnwaiRPotNDIwRwXh0zUY2nz76A11MrD57lnsSY9CRTcjvEFvn225keSJC6Le9Z7qQZNg==;heBS0Pqww4O6p4Op+w+bxw=="
 ---

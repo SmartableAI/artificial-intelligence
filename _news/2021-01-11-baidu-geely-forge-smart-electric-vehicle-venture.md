@@ -107,15 +107,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
-    excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
-    publishedDateTime: 2021-01-10T22:22:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202101103570/baidu-partners-with-zhejiang-geely-to-produce-electric-cars"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "LZdo+p/3wRSIW8BjqUYydB0H0ec04fQqpbrARWselHzoOVZ1aPxieZ0crET/DVOJcfeE4xf4+I9loPaZKwQX7f80XBSaqrXMCHx5MuQC8LP3G/3h6/OzK6AtO1fbAGnmVFi4O1fd6DxbJ/cSFCNwJlrQ5UesQov8CtOEnbHNSPrgDjUtjqCXmMC010yt1ZcsMhLFdvC4YcHKiOPIbN5vWI+3Hb9J3bJDvZ3gZ7WykY7XUWY8Ta12BpDo501Lmhn/3shVhJ72JIf8CBQZkBn6Z3AwOUc95XkHPRTWd1uNmrFCMRBYwu3VrrbQtBFoLZ7NjFYa5/YeKv7gD+rYGML4gW46Ms6Efwd/gt7BR1SFTMZdaNtdp2ejSwIOwiYt6860e2Wr+MDyNq5xX5WkslNiRhFHLdS9DtYBrBihVYFNtJIB3rlTiWfNin/d2QOpta2KzE4jkR+89XQ1v8H97zX2vVLlnFWDZ6L+QneqfvLVkV0vrTrm3Fbdtjpks++w+Kome8Z+7xNMV8GrzrR998o3RQ==;l4/NqIxqXtBIB1XmFk1HPg=="
 ---

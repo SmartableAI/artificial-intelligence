@@ -25,97 +25,62 @@ images:
     isCached: true
 
 related:
-  - title: "Ever app settles FTC allegations it trained facial recognition tech with users' photos"
-    excerpt: "The developer of Ever, a photo storage and backup app that shut down in August, settled US Federal Trade Commission allegations that it \"deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts,"
-    publishedDateTime: 2021-01-11T22:46:00Z
-    webUrl: "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
+  - title: "Chinese facial recognition unicorn Megvii prepares China IPO"
+    excerpt: "Megvii, one of China’s largest facial recognition startups, is gearing up for an initial public offering in Shanghai. The company is working with CITIC Securities to prepare for its planned listing, according to an announcement posted by the China Securities Regulatory Commission on Tuesday."
+    publishedDateTime: 2021-01-13T07:06:00Z
+    webUrl: "https://techcrunch.com/2021/01/12/megvii-ipo-china/"
+    ampWebUrl: "https://techcrunch.com/2021/01/12/megvii-ipo-china/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/megvii-ipo-china/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 96
+      name: https://techcrunch.com/2021/01/12/megvii-ipo-china/
+      domain: https://techcrunch.com/2021/01/12/megvii-ipo-china/
+    quality: 159
     images:
-      - url: "https://cnet4.cbsistatic.com/img/r4gbG59o75cofJR_X7DHqvmqZ1E=/1200x630/2021/01/11/ce25c79c-01df-4fb0-9119-68fdc6904237/gettyimages-1199149697.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Photo storage app maker settles FTC claims over use of facial recognition"
-    excerpt: "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app."
-    publishedDateTime: 2021-01-12T04:05:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "FTC Settles Facial Recognition Misuse Suit With Everalbum"
-    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
-    publishedDateTime: 2021-01-12T06:04:00Z
-    webUrl: "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/"
-    ampWebUrl: "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/"
-    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 59
-    images:
-      - url: "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2019/05/megvii-e1557323313961.jpg?w=1024"
         width: 1024
-        height: 683
+        height: 545
         isCached: true
-  - title: "LAPD Commission OKs Detectives to Use Facial Recognition"
-    excerpt: "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people."
-    publishedDateTime: 2021-01-14T21:50:00Z
-    webUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
+  - title: "China’s Megvii kick-starts IPO on Shanghai’s Star Market after Trump added facial recognition giant to entity list"
+    excerpt: "Facial-recognition developer Megvii abandoned its original Hong Kong IPO plan after the Trump administration placed it on a trade blacklist; it is now looking to list on Shanghai’s Star Market."
+    publishedDateTime: 2021-01-13T07:52:00Z
+    webUrl: "https://www.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after"
+    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3117539/chinas-megvii-kick-starts-ipo-shanghais-star-market-after"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 82
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/13/02f16d6a-555b-11eb-84b3-e7426e7b8906_image_hires_145128.jpg?itok=7tew9DCO&v=1610520700"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider"
-    excerpt: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider The"
-    publishedDateTime: 2021-01-13T20:03:00Z
-    webUrl: "https://www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/amp/"
+  - title: "CES 2021 Taiwanese Startup ACSI Gives New Technological Shine to Traditional Chinese Medical Treatments"
+    excerpt: "Chinese medicine has been receiving increased attention worldwide. These traditional therapeutic treatments are now being combined with modern technology and integrated into Western medicine. Acupuncture,"
+    publishedDateTime: 2021-01-15T06:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 47
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Everalbum-settles-with-FTC-about-facial-recognition-Technology-in-its.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Everalbum Settles with FTC over Facial Recognition Technology in its Ever App"
-    excerpt: "The Federal Trade Commission (FTC) announced its settlement with Everalbum Inc. (Everalbum) for its Ever app, a photo and video storage app, due to its alleged deception of consumers related to the"
-    publishedDateTime: 2021-01-13T17:03:00Z
-    webUrl: "https://www.natlawreview.com/article/everalbum-settles-ftc-over-facial-recognition-technology-its-ever-app"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "First online CES tech event lures fewer Chinese participants"
+    excerpt: "The first online-only CES will kick off on Monday, with tech executives and industry experts participating remotely from around the world, instead of shaking hands in Las Vegas. The annual four-day conference -- formerly known as the Consumer Electronics Show -- will enter its 54th year with no physical presence due to the COVID-19 pandemic."
+    publishedDateTime: 2021-01-11T09:10:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/First-online-CES-tech-event-lures-fewer-Chinese-participants"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 36
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F0%252F8%252F5%252F18775800-1-eng-GB%252FRTS29K38.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "jW103lrwXgAnh8/B8T6JEaWSnAev8LxyKbWXwu3I7NzC5C3es6p+H3JaFdUi6QhML/nXyaVgZedvl3NswJWroEJkNfqpr7f6PprrOa9j803X+pb/t644VWaSR5WWRZq+MQ13saEETLjb1L/QIOGHRHDgvrZlYDwF2NrU/1NnXW4LdbFWu8q7awbZkFQol+z5AwVIH+NrIpzp5G7zAB/IOsM+pYfkbN0poL0b72d/5bTgfjIbhlXqzoqvFFQ4dwS7Pqy0rVx5bZjdiwMixdyhs5hrGxiHBmMRMbiQNlJkvGdPoQoYrbU2tMFt/G6zaZ5akCJxfknf30RcZMqCsMd/phM3AVBf+Tgay8hmI9A6kC0d5Hgfi66L0WqzXFyFiZ89OCD5wmxCbiW7fASDNV/EoucmM7mgTNZt7EqQzKPnd4OWuK7CX8IBAgwcKfaxO5aQxcmfXfrdxPlHvBDHXouAg9N33nwHBIGiaRYGC0Uig7LpVArRIKPbgye831inif6FhJdIGKvHamVqRYjw5t8hkA==;GCOrWE+fEPRTa6NnDgrmqQ=="

@@ -110,15 +110,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Baidu Partners With Zhejiang Geely to Produce Electric Cars"
-    excerpt: "Baidu Inc. will partner with auto maker Zhejiang Geely Holding Group to produce electric cars, as part of the Chinese internet giant's continued expansion into the auto industry. Baidu said Monday that it would provide intelligent driving technology for electric vehicles in the venture with Zhejiang Geely,"
-    publishedDateTime: 2021-01-10T22:22:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202101103570/baidu-partners-with-zhejiang-geely-to-produce-electric-cars"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "lgEAjlXuaFX1ewaDvLKN+ZeYrryVKedvOIHmwz8ZqIufceYPh1zUcjc2GQXgHZmFrtBljizsSJagwh6XAwJGs/3I3ihGCYKQFK5Ht3UMI82+DjqHDS5xLHEgmiJ2r/YpijZfQkQcgvK3XrNCFjGgSzLJr199v0SmpzcRUq94UDpUGL9x12duSxzE2bFJqH6H+WY0dJ5BTtk9ZaWlp2WuZFf6V0dEPdfGjRU/h5B4ESRaTo3DLMzxoAqcv4WjethAuO8lRONn7CvIyQ/nLUqr+nDsaDl0rhgCWdojtUuCgwXQjIEIyEPdcyNsRcJxQd1LKtuO/wY1fmZd5VhbZZF1Cu6HPG1P2Pp8ZTCIJs2Xs6E=;uQzCzoSBUhRNVC01hRdjsg=="
 ---

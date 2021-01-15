@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Cognizant to acquire Sydney-based Servian"
-    excerpt: "Global systems integrator Cognizant has acquired Sydney-based enterprise consulting services provider Servian for an undisclosed sum. Servian specialises in data analytics, artificial intelligence, digital services,"
-    publishedDateTime: 2021-01-10T22:55:00Z
-    webUrl: "https://www.crn.com.au/news/cognizant-to-acquire-sydney-based-servian-559600"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210111094518_CRN_690_Cognizant-Chennai.jpg"
-        width: 690
-        height: 428
-        isCached: true
   - title: "Cognizant Acquires Servian For Digital Transformation Expansion"
     excerpt: "Cognizant has acquired Servian, an enterprise transformation consultancy that specializes in data analytics, AI, experience design and cloud."
     publishedDateTime: 2021-01-12T18:16:00Z

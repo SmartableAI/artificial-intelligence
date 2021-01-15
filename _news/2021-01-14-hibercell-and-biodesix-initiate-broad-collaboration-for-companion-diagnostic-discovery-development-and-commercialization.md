@@ -20,14 +20,19 @@ topics:
 
 related:
   - title: "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics"
-    excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx)"
-    publishedDateTime: 2021-01-13T20:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics"
+    excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy targeting patients with Loss of Heterozygosity (LOH)."
+    publishedDateTime: 2021-01-13T19:20:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "HiberCell and Biodesix Initiate Broad Collaboration for Companion Diagnostic Discovery, Development and Commercialization"
     excerpt: "Initial program to focus on development of a companion diagnostic for HiberCell’s novel immunotherapy, Imprime PGG, to aid in patient selection across multiple oncology programs Biodesix, Inc. (Nasdaq: BDSX) today announced an agreement with HiberCell,"
     publishedDateTime: 2021-01-13T12:25:00Z

@@ -90,19 +90,21 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "FTC declares facial recognition surveillance tech dangerous, warns against federal privacy pre-emption"
-    excerpt: "The FTC has come out swinging against facial recognition, issuing a proposed settlement with Paravision, its first focused on the biometric technology."
-    publishedDateTime: 2021-01-12T17:43:00Z
-    webUrl: "https://www.biometricupdate.com/202101/ftc-declares-facial-recognition-surveillance-tech-dangerous-warns-against-federal-privacy-pre-emption"
+  - title: "Police Commission approves new oversight for LAPD’s use of facial recognition, rejects call to ban the technology"
+    excerpt: "The Police Commission approved a policy Tuesday that set new parameters on the LAPD’s use of facial recognition technology, but stopped far short of the outright ban sought by many"
+    publishedDateTime: 2021-01-13T00:17:00Z
+    webUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/"
+    ampWebUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: KTLA
+      domain: ktla.com
     quality: 38
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/01/download-5.jpeg?w=1280"
+        width: 840
+        height: 473
         isCached: true
   - title: "Everalbum Settles with FTC over Facial Recognition Technology in its Ever App"
     excerpt: "The Federal Trade Commission (FTC) announced its settlement with Everalbum Inc. (Everalbum) for its Ever app, a photo and video storage app, due to its alleged deception of consumers related to the"

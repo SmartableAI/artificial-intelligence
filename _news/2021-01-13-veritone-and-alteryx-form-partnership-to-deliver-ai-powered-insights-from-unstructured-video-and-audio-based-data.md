@@ -57,6 +57,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Pexip and Logitech Partnership Brings AI-Powered, Immersive Video Collaboration from the Desktop to the Meeting Room"
+    excerpt: "Organizations can deliver a consistent experience across their meeting rooms, whether deploying new video-enabled rooms or expanding their existing video estate Today Pexip, a leading provider of enterprise video conferencing and collaboration solutions,"
+    publishedDateTime: 2021-01-14T15:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210114io48995/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "HqPei92HTQ7WUySyV/Yr9elyHfHG5Oprwx1c3lYgrDoiv9c8CliX7PKAxGPR6kv0/gb0VR8EnTI4NoxD4O2MV3GNtI3bJuCdKdYtA2/0K25KQPhaTtdaizCP75PJimsk1S7xJD7n9rjHU4JN37pybNNLUwgPoOuV3fImJ3B+E5fLefKq3bL95QpzmhBZDrplweVzM6zcdSnJ2g7ZSN2NS30VwZzk9Ow0CT/v0VcM3rdTQO9PuafMZwZqJxgjzHlnwgA8z0/+HKucfKz7BzHwc+qbmu39PNjdxRe/BV102NVz3kVOMtxl09WgETpeM4xbC1qse15bD/VWw4nGSKS92mAGnXBE5flU2QyF3VQLcBE=;gnTqHtffNPpooAOfJ3KGTw=="
 ---

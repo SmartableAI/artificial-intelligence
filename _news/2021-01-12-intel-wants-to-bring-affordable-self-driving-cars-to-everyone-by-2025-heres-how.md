@@ -86,20 +86,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 53
-  - title: "Intel's self-driving car unit plans to step up use of its own radar tech by 2025"
-    excerpt: "The head of Intel Corp's self-driving car subsidiary said on Tuesday the company wants to shift toward using its own radar-based technology and use a single lidar sensor per vehicle by 2025 in a bid to lower the cost of autonomous driving."
-    publishedDateTime: 2021-01-13T08:05:00Z
-    webUrl: "https://www.reuters.com/article/us-intel-mobileye/intels-self-driving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025-idUSKBN29H2XU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574303&r=LYNXMPEH0B1L4&w=800"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Mobileye intends to put self-driving tech in consumers' hands in 2025"
     excerpt: "Mobileye's self-driving ambitions are going global, and the company's scope is stretching beyond robotaxis. In 2021, the Intel subsidiary intends to launch new test beds in Tokyo, Shanghai, Paris and potentially New York."
     publishedDateTime: 2021-01-11T19:09:00Z

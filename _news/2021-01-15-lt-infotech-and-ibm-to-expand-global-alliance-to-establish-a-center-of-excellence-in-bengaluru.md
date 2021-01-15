@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "LTI and IBM to expand global alliance; to set up CoE in Bengaluru"
+    excerpt: "The companies will establish a centre of excellence in Bengaluru to help clients migrate and modernize core business applications leveraging IBMs open hybrid cloud platform built on Red Hat OpenShift."
+    publishedDateTime: 2021-01-14T14:58:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/articleshow/80271575.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/amp_articleshow/80271575.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/amp_articleshow/80271575.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg"
+        width: 412
+        height: 255
+        isCached: true
   - title: "LTI plans to expand global alliance with IBM"
     excerpt: "Larsen & Toubro Infotech plans to expand its multi-year, global alliance with IBM (NYSE: IBM) to help businesses transform their operations through open hybrid cloud adoption. With the proposed center,"
     publishedDateTime: 2021-01-14T15:42:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
         width: 350
         height: 233
+        isCached: true
+  - title: "L&T Infotech, IBM expand alliance; to build an innovation center in Bengaluru this year"
+    excerpt: "L&T Infotech will help clients migrate and modernize core business applications leveraging IBM Cloud offerings, the company said.L&T Infotech has developed industry-ready solutions using IBM Cloud Paks,"
+    publishedDateTime: 2021-01-12T06:29:00Z
+    webUrl: "https://www.livemint.com/companies/news/lt-infotech-ibm-expand-alliance-to-help-companies-for-digital-transformation-with-hybrid-cloud-11610431023630.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/lt-infotech-ibm-expand-alliance-to-help-companies-for-digital-transformation-with-hybrid-cloud/amp-11610431023630.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/lt-infotech-ibm-expand-alliance-to-help-companies-for-digital-transformation-with-hybrid-cloud/amp-11610431023630.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://images.livemint.com/img/2021/01/12/600x338/landtoubro-kZ2G--621x414@LiveMint_1610431127625.JPG"
+        width: 600
+        height: 337
         isCached: true
   - title: "LTI and IBM to expand global alliance"
     excerpt: "LTI has developed industry-ready solutions using hybrid cloud capabilities from IBM including Cloud Pak for Data and Cloud Pak for Automation and offerings tha"

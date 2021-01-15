@@ -103,19 +103,21 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "FTC declares facial recognition surveillance tech dangerous, warns against federal privacy pre-emption"
-    excerpt: "The FTC has come out swinging against facial recognition, issuing a proposed settlement with Paravision, its first focused on the biometric technology."
-    publishedDateTime: 2021-01-12T17:43:00Z
-    webUrl: "https://www.biometricupdate.com/202101/ftc-declares-facial-recognition-surveillance-tech-dangerous-warns-against-federal-privacy-pre-emption"
+  - title: "Police Commission approves new oversight for LAPD’s use of facial recognition, rejects call to ban the technology"
+    excerpt: "The Police Commission approved a policy Tuesday that set new parameters on the LAPD’s use of facial recognition technology, but stopped far short of the outright ban sought by many"
+    publishedDateTime: 2021-01-13T00:17:00Z
+    webUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/"
+    ampWebUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: KTLA
+      domain: ktla.com
     quality: 38
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/01/download-5.jpeg?w=1280"
+        width: 840
+        height: 473
         isCached: true
 
 secured: "SmZT94a9jSnbTVdYjUY+OoqDnUanzZO/evXmW8BNIyIp63uyknaeS30vo+tx7rnbrwCmL6q2v3+Ti5gQ5GEeHdhlsh0rjRnu2RxixiX9GjGUUCfv0ws4uKxmIae2JtLvOll/LLRhbkGdqoMgutiUr5mlJLe9tSsxkbX2w3I3YTWaowvRU22ymo/BlpiEAS2tD7BN+oKS+aPUjtYk0n6MrjqCgyZ8/NfnaqEmNE8mzXQ4f8D4a5Q3UqPaVr09K4tJJWALVv07eYRA11qZSl7Z3+EmQ8y/R1xa4Ayqt8W4xpv8Y++VBj76uPY4tQk07vm6qbCLbvv4J0b2qHEeyJON812tiXINZLbYbLybrBtkqGA=;MOos7r2J6Ki+2CDIC/XOpA=="

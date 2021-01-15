@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Space robotics market predicted to grow to $5.7 billion by 2027"
+    excerpt: "The global space robotics market size is expected to reach $5.71 billion by 2027, registering a compound annual growth rate of 5.2 percent from 2020 to 2027, according to a new report by Grand"
+    publishedDateTime: 2021-01-15T13:35:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/nasa-valkyrie-robot-4_0-2.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Conversational Artificial Intelligence Market Trends, Regional Outlook, Business Growth and Forecast to 2023"
     excerpt: "Conversational Artificial Intelligence (AI) as Google LLC, Microsoft Corporation, IBM Corporation, Oracle Corporation, Amazon Web Services, Nuance Communications Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024 which provides a complete comprehensive analysis including the data by Segmentations,"
     publishedDateTime: 2021-01-12T14:40:00Z

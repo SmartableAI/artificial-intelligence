@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Space robotics market predicted to grow to $5.7 billion by 2027"
+    excerpt: "The global space robotics market size is expected to reach $5.71 billion by 2027, registering a compound annual growth rate of 5.2 percent from 2020 to 2027, according to a new report by Grand"
+    publishedDateTime: 2021-01-15T13:35:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/nasa-valkyrie-robot-4_0-2.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "yrU6oVr0T28I8++QKo42k/ARb7AGolMSbU0T2jpF3Y0aZOR7LvfiM6L9BFMtXGgC7ahDrn3LytF4sJ41zKlUc3+kIxm/XZjdtkTXJRVX+uigtgZxHpptzR6tFzdAxk9Tp5ih1nwh3SeHqaBAbY9fSUDvIv97bvQfgdkZDWxmzQCr7wfPk5c6hP8n6+VzWBb9hDXd8f6Ai1D5J7e9kUPBGukl0+KKEt3luUyJcYIcoOy3fonrJbxWK8MVBCCr0SpPcRKOA1ET3fCW4h+BNz+gSHMmqz5lPyyyxp6dH0iGSb5XV6ODtQoB6Rn7BAPVsWa1hkTGsIyUtb2hg1zkZvJzqHDya3dBIzdl7lDnhc1jXKU=;vAm7NZD5whdqsQ+hzKERkA=="
 ---

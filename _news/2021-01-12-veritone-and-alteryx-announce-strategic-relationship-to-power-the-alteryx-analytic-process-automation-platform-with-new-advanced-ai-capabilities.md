@@ -57,6 +57,15 @@ related:
       name: SocalTech
       domain: socaltech.com
     quality: 4
+  - title: "Pexip and Logitech Partnership Brings AI-Powered, Immersive Video Collaboration from the Desktop to the Meeting Room"
+    excerpt: "Organizations can deliver a consistent experience across their meeting rooms, whether deploying new video-enabled rooms or expanding their existing video estate Today Pexip, a leading provider of enterprise video conferencing and collaboration solutions,"
+    publishedDateTime: 2021-01-14T15:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210114io48995/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "EqvG9xshbIcsoWsiMi37fWQHOc762rEE7oP0xo7Xo3YB8CxW9RleVTbPka77/wch0AExjTyQySvst/MEJ9GbUUMq2rRAdwf9xyPQlzKZ1+qZP7OpRaPDf0VcBUmusuDAk0dP7gELMTxO9aUEa720vkBT1lczfMQuh2TE0xEVOC+9DYgTGbD1q5bmOwYJ/FIQ3ZCEBC7I5avrFmS4QVyB7rHa4OoGFDa7x2H+ZCqhukNNO+QtAdiy9d2B7Y8kEql7rPeefoeZ1LCfxSc0B76MT1xsKZbA+y0+J9fVrpE5JhqRY9pqcZeyMbrcpVCEewi6hhrTv54G1tkJbgePM5EZMz5zSRAdIapjECqtnCjGcIE=;tJAyy4UO41QQrM9uF+ga+Q=="
 ---
