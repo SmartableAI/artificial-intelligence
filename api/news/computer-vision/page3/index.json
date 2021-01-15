@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-21-computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players.md",
+      "title": "Computer Vision in Healthcare Market Research Methodology, Industry Outlook, Technology Overview and Key Players",
+      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players-2020-12-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players-2020-12-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-20T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
       "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
       "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
@@ -1328,58 +1381,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision.md",
-      "title": "AI is not yet perfect, but it's on the rise and getting better with computer vision",
-      "excerpt": "It can beat anyone at chess but can't recognize fountains. One professor talks about the promise of AI and computer vision. TechRepublic's Karen Roby spoke with David Crandall, assistant professor of computer science at Indiana University about artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/12/09/188132fe-9388-4c22-8b16-14fa0fa7bb9e/resize/1200x/c450893cc7be41eb8f7fc7989e2bf850/istock-924257690.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "publishedDateTime": "2020-12-09T04:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

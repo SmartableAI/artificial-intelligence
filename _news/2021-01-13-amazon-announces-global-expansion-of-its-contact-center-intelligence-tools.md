@@ -40,6 +40,22 @@ related:
         width: 1077
         height: 606
         isCached: true
+  - title: "Event Announcement: Impact of Data Policies on Artificial Intelligence; Jan 28 #Ad"
+    excerpt: "Applications are open for MediaNama's discussion (Jan 28) on the impact of the upcoming data policies on Artificial Intelligence."
+    publishedDateTime: 2021-01-15T12:22:00Z
+    webUrl: "https://www.medianama.com/2021/01/223-event-data-artificial-intelligence-ad/"
+    ampWebUrl: "https://www.medianama.com/2021/01/223-event-data-artificial-intelligence-ad/amp/"
+    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-event-data-artificial-intelligence-ad/amp/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 55
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/1100X720-Data-AI-January-2021-Featured-01.png"
+        width: 1100
+        height: 720
+        isCached: true
 
 secured: "d6V+o4mRbGQV7HBPKATQKFCyhDu756ExtKaGYtx7rXzmjBZjPTPSuNnwWz0NyuOOINANs2fQPnu2jfTCirxlYIFqMC1U5LUjIu2lF6ENFOnkuBXRw0BXIG5v3iBn0TnrmFU4qX123yVtP2QTHz9iD8vJfCLtUKSeqmkQUZzdoLIYabtpCKsWYNVnFBSjzXCHIEWVYrz5dVZI1/dyh8phJQOLjCi2Rsf51ZHuf/cW4cBLN4a3B9lTl7+1aKbzc7OEag4G7KmTgOHlxi6VVeJF9z9BgihNKBoMkG7srfOq/vzgae2FnOPSvEktPniUJJfHpvuQRF3f9ETLmlCLz9/Ti7ANMJq9IYU5wf2QlEBnaqWyMhNDxPe0sVZLjifn/PWDq/X+ujeSAx0m+kSKGXTiK5KO0q4Zf6TGT5JTny6cU86zNXtLRgcVYxSCHVZ/YoDY+/XkurCxlB4njFMb/aIwj69KIYj/fZXEW0u/vMzrD4Ia3wHMA9mk1nz2yJYSMWHB6PGpGLtOQfrTBWK7eQjWBQ==;+MKy0t7HFkm6QOHhJRIH4g=="
 ---

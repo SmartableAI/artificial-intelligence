@@ -2,6 +2,153 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-12-12-what-big-tech-and-big-tobacco-research-funding-have-in-common.md",
+      "title": "What Big Tech and Big Tobacco research funding have in common",
+      "excerpt": "Attendees of the Resistance AI workshop at NeurIPS say that by funding research, Big Tech is following the same playbook as Big Tobacco.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/",
+      "originalUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/s3.reutersmedia.net_.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/",
+      "publishedDateTime": "2020-12-11T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-4-cutting-edge-ai-stocks-to-buy.md",
+      "title": "4 Cutting-Edge AI Stocks to Buy",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips No longer the domain of science fiction, artificial intelligence (AI) is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda-1029900162",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda-1029900162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T11:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-to-boost-birth-rate-japans-government-considers-ai-to-match-spouses.md",
+      "title": "To boost birth rate, Japan's government considers AI to match spouses",
+      "excerpt": "Japan's Cabinet Office is asking for budget approval for a new dating service driven by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "originalUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/a9uT034rFZiUTJXGoj0DnW0pSGI=/2020/12/11/d68d417c-dd0d-4b94-84d7-ee47ba7fcd29/pikachuweddingreception-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "publishedDateTime": "2020-12-11T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence.md",
       "title": "New Project Will Give U.S. MQ-9 Reaper Drones Artificial Intelligence",
       "excerpt": "The Pentagon’s Joint Artificial Intelligence Center has awarded a $93.3 million contract to General Atomics Aeronautical Systems, Inc to equip their drone with new AI technology for smart, autonomous operations.",
@@ -1076,135 +1223,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-researchers-use-ai-platform-to-identify-best-combination-of-available-therapies-against-covid-19.md",
-      "title": "Researchers use AI platform to identify best combination of available therapies against COVID-19.",
-      "excerpt": "and they used their platform is known as 'IDentif.AI' (Optimising Infectious Disease Combination Therapy with Artificial Intelligence) to investigate 12 potential drug candidates, representing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201211/Researchers-use-AI-platform-to-identify-best-combination-of-available-therapies-against-COVID-19.aspx",
-      "publishedDateTime": "2020-12-10T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards.md",
-      "title": "QuantaVerse Tops Off 2020 Success with Notable List of Financial and Regulatory Technology Awards",
-      "excerpt": "QuantaVerse is Recognized by Two Coveted Industry Awards and Grabs a Spot on the Prestigious RegTech 100 List WAYNE, Pa. (PRWEB) QuantaVerse, which uses AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/p18743716/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/p18743716/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18743716",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18743716",
-      "publishedDateTime": "2020-12-10T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-amazon-is-cozying-up-in-all-corners-of-the-healthcare-ecosystemai-is-its-next-frontier.md",
-      "title": "Amazon is cozying up in all corners of the healthcare ecosystem—AI is its next frontier",
-      "excerpt": "Amazon is entrenching deeper into healthcare with its launch of Amazon HealthLake, molding itself into a daunting threat to smaller AI firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-coming-for-healthcare-ai-analytics-firms-2020-12?itm_campaign=12-10-2020&itm_content=briefings_post&itm_medium=social&itm_source=twitter",
-      "originalUrl": "https://www.businessinsider.com/amazon-coming-for-healthcare-ai-analytics-firms-2020-12?itm_campaign=12-10-2020&itm_content=briefings_post&itm_medium=social&itm_source=twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f636c6757b7da001ee122c4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

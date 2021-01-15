@@ -7,8 +7,8 @@ originalUrl: "https://www.theengineer.co.uk/artificial-intelligence-software-obj
 webUrl: "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Engineer
@@ -26,33 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI Has Yet to Deliver on Promises in Healthcare"
-    excerpt: "We’ve reached the point where computer vision and natural language processing (NLP) programs can match, and in some cases exceed, the capabilities of"
-    publishedDateTime: 2021-01-15T03:18:00Z
-    webUrl: "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/"
+  - title: "EU Should Regulate Artificial Intelligence to Protect Rights"
+    excerpt: "The last decade has seen an alarming proliferation of artificial intelligence (“AI”) to monitor protests, predict crime, and profile minorities, in ways that gravely threaten our human rights. The European Commission has pledged to develop groundbreaking regulation of these technologies that will “safeguard fundamental EU values and rights."
+    publishedDateTime: 2021-01-14T16:26:00Z
+    webUrl: "https://www.hrw.org/news/2021/01/14/eu-should-regulate-artificial-intelligence-protect-rights"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 58
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 37
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ai_doctor_shutterstock_Andrey_Popov.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.hrw.org/sites/default/files/media_2020/10/AP_20218553920999.jpg"
+        width: 512
+        height: 341
         isCached: true
-  - title: "Exploring Trust and Acceptance of Artificial Intelligence in Healthcare Industry"
-    excerpt: "Cheddar is joined by Dr. Jesse Ehrenfeld, Chair of the Board of Trustees at the American Medical Association, to talk about trust and the impact of AI on healthcare, especially amid the pandemic."
-    publishedDateTime: 2021-01-13T00:00:00Z
-    webUrl: "https://cheddar.com/media/exploring-trust-and-acceptance-of-artificial-intelligence-in-healthcare-industry"
+  - title: "Heavy Construction Process to be Measured by Space-based Machine Automated Recognition"
+    excerpt: "The Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence, announced a multi-year research effort called the Space-based Machine Automated Recognition Technique (SMART) program."
+    publishedDateTime: 2021-01-13T06:32:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21220872/heavy-construction-process-to-be-measured-by-spacebased-machine-automated-recognition"
     type: article
     provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 49
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 16
     images:
-      - url: "https://img.chdrstatic.com/media/7cdc3d1b-4e24-4f2b-8009-4d2695a6a6a8.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/01/16x9/blacksky_on_demand_1.5ffdf547154a5.5ffdf5a323ba4.png?auto=format&fit=max&w=1200"
+        width: 1000
+        height: 562
         isCached: true
 
 secured: "8IErx/rzxFAWAdOcsav2pl0upH6+fZSJGtsH2+evVE5DLa0Jitf3uP+GC8pIp0Eu9Q7Hsy04BicB/DG4LQoucbxnjpbm9VPZxadz/4CaMzN+xEl3YzQyfQk5yfiCNSLGnSIb6wKoSVj/o79zs6ep0vAtZCTstHPKhvPtN8D+AX3xtDRBCX3U3OULI0AuBIV4/rwOPe48UJeN35moX0ERHE7+sKI+RDggNgbmbfv5qcF06LCan2EM2umzBshhit1xi9Vd2WPWcjNKEi8JrS16H/6RgD0aNcWyZ++AnaenDOjccHLyibLux7/ygSPuR99130zYMVlEB2fidG8BEjM0pf1KQRnuKRrfCzUPq4L/a+QsOleunRZQb/fj1Us4flqbKHtiY/bnzUpsNM8LDznRtHvy8eW0HCkJDZOOEFK4reL4ttV/xfBYg6cqN8vCIqRhq4o3+QS3tTWQgtVXFo2aH27daFEzYnUABvzuhSjvFZT8fMZ6FtYuHg8RkqNrFocT68To9Xxt0xcrodfVTcY08Q==;jSphyfNRSP901KG5Kx6x/A=="

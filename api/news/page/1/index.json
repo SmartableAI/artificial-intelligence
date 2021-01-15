@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-15-why-ai-in-health-care-cant-get-close-to-patients-yet.md",
+      "title": "Why AI In Health Care Can't Get Close To Patients — Yet",
+      "excerpt": "Though health care technology may live up to its futuristic hype someday, fundamental barriers still trip up technologists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/why-ai-in-health-care-cant-get-close-to-patients---yet/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/why-ai-in-health-care-cant-get-close-to-patients---yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/why-ai-in-health-care-cant-get-close-to-patients---yet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/why-ai-in-health-care-cant-get-close-to-patients---yet/amp/",
+      "publishedDateTime": "2021-01-15T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-ai-powered-text-from-this-program-could-fool-the-government.md",
+      "title": "AI-Powered Text From This Program Could Fool the Government",
+      "excerpt": "A Harvard medical student submitted auto-generated comments to Medicaid; volunteers couldn’t distinguish them from those penned by humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-powered-text-program-could-fool-government/",
+      "originalUrl": "https://www.wired.com/story/ai-powered-text-program-could-fool-government/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ffe4354d1b678550992ba2c/master/pass/gpt-comments-3240682.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-powered-text-program-could-fool-government/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-powered-text-program-could-fool-government/amp",
+      "publishedDateTime": "2021-01-15T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-worried-about-your-firms-ai-ethics-these-startups-are-here-to-help.md",
+      "title": "Worried about your firm’s AI ethics? These startups are here to help.",
+      "excerpt": "A growing ecosystem of “responsible AI” ventures promise to help organizations monitor and fix their AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/GettyImages-589006098.jpeg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/",
+      "publishedDateTime": "2021-01-15T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-when-ai-has-an-overactive-imagination.md",
       "title": "When AI has an overactive imagination",
       "excerpt": "An overactive imagination can sometimes make us see things that are not really there. Now it seems artificial intelligence can have one too. Google researcher Alex Mordvintsev decided to develop this idea and turn the concept into art.",
@@ -61,7 +207,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -112,7 +258,7 @@
       "originalUrl": "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -151,8 +297,8 @@
       "title": "U.S. exempts self-driving vehicles from some crash standards",
       "excerpt": "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E",
-      "originalUrl": "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E",
+      "webUrl": "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E",
+      "originalUrl": "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -196,51 +342,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-why-ai-has-yet-to-deliver-on-promises-in-healthcare.md",
-      "title": "Why AI Has Yet to Deliver on Promises in Healthcare",
-      "excerpt": "We’ve reached the point where computer vision and natural language processing (NLP) programs can match, and in some cases exceed, the capabilities of",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/",
-      "originalUrl": "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ai_doctor_shutterstock_Andrey_Popov.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T19:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1022,49 +1123,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-hyundai-robotics-advancing-predictive-maintenance-with-ai.md",
-      "title": "Hyundai Robotics: advancing predictive maintenance with AI",
-      "excerpt": "Discover how Hyundai Robotics is advancing predictive maintenance alongside MakinaRocks with AI-based anomaly detection In partnership with MakinaRocks, Hyundai Robotics - following the signing of a memorandum of understanding (MOU) - will work together to advance AI-based industrial robot anomaly detection for robot arms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
-      "originalUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkjwz1rzc140120215213.jpeg",
-          "width": 1000,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manufacturingglobal.com",
-        "domain": "manufacturingglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-even-ais-cant-help-but-turn-into-hateful-jerks-on-facebook.md",
       "title": "Even AIs can't help but turn into hateful jerks on Facebook",
       "excerpt": "The popular South Korean Al chatbot, Lee Luda, has been suspended from Facebook after being reported for making racist remarks, and discriminatory comments about members of the LGBTQ+ community, as well as people considered to have disabilities.",
@@ -1147,58 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-sana-labs-raises-18-million-to-upskill-workers-remotely-with-machine-learning.md",
-      "title": "Sana Labs raises $18 million to upskill workers remotely with machine learning",
-      "excerpt": "Sana Labs, which uses machine learning to personalize training courses for professionals, has raised $18 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/SanaLabs.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/amp/",
-      "publishedDateTime": "2021-01-14T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

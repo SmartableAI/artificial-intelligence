@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/processors/130961/ces-2021s-chip-announcement
 webUrl: "https://uk.pcmag.com/processors/130961/ces-2021s-chip-announcements-mobile-takes-center-stage"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Event Announcement: Impact of Data Policies on Artificial Intelligence; Jan 28 #Ad"
+    excerpt: "Applications are open for MediaNama's discussion (Jan 28) on the impact of the upcoming data policies on Artificial Intelligence."
+    publishedDateTime: 2021-01-15T12:22:00Z
+    webUrl: "https://www.medianama.com/2021/01/223-event-data-artificial-intelligence-ad/"
+    ampWebUrl: "https://www.medianama.com/2021/01/223-event-data-artificial-intelligence-ad/amp/"
+    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-event-data-artificial-intelligence-ad/amp/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 55
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/1100X720-Data-AI-January-2021-Featured-01.png"
+        width: 1100
+        height: 720
+        isCached: true
   - title: "Amazon announces global expansion of its Contact Center Intelligence tools"
     excerpt: "Amazon Web Services Inc. is expanding the focus of its Contact Center Intelligence services that customers can use to add artificial intelligence capabilities to their contact center operations. AWS CCI can now be used with customer’s existing contact center providers to deliver new efficiencies,"
     publishedDateTime: 2021-01-13T00:29:00Z

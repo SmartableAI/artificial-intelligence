@@ -2,51 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-15-why-ai-has-yet-to-deliver-on-promises-in-healthcare.md",
-      "title": "Why AI Has Yet to Deliver on Promises in Healthcare",
-      "excerpt": "We’ve reached the point where computer vision and natural language processing (NLP) programs can match, and in some cases exceed, the capabilities of",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/",
-      "originalUrl": "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ai_doctor_shutterstock_Andrey_Popov.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T19:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-artificial-intelligence-creates-tremendous-changes-for-the-direction-of-marketing.md",
       "title": "Artificial Intelligence Creates Tremendous Changes for the Direction of Marketing",
       "excerpt": "Artificial intelligence has entered numerous facets of our lives. Here’s how it is revolutionizing the business world by changing the marketing landscape.",
@@ -1432,6 +1387,59 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-the-immense-potential-and-challenges-of-multimodal-ai.md",
+      "title": "The immense potential and challenges of multimodal AI",
+      "excerpt": "Multimodal models -- models that understand the relationships between images, text, and more -- could be the next frontier in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/",
+      "originalUrl": "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/multimodal-systems-hold-immense-promise-once-they-overcome-technical-challenges/amp/",
+      "publishedDateTime": "2020-12-30T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

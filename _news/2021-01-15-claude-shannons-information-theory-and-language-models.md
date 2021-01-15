@@ -3,8 +3,8 @@ category: news
 title: "Claude Shannon's information theory and Language Models"
 excerpt: "If you work in machine learning, you would have to be living under a rock if you are not aware of the big revolution that language models have brought to the area of Natural Language Processing. Language models make the assumption that natural language can be regarded as a stochastic process,"
 publishedDateTime: 2021-01-15T02:36:00Z
-originalUrl: "https://www.linkedin.com/pulse/claude-shannons-information-theory-language-models-luis-lastras/?trackingId=0t%2B6t8TMR%2BWP4%2B1p%2F%2FmaeA%3D%3D"
-webUrl: "https://www.linkedin.com/pulse/claude-shannons-information-theory-language-models-luis-lastras/?trackingId=0t%2B6t8TMR%2BWP4%2B1p%2F%2FmaeA%3D%3D"
+originalUrl: "https://www.linkedin.com/pulse/claude-shannons-information-theory-language-models-luis-lastras/"
+webUrl: "https://www.linkedin.com/pulse/claude-shannons-information-theory-language-models-luis-lastras/"
 type: article
 quality: 24
 heat: 24
@@ -28,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "3AVqsDmMRcP7bumqUFSE2Mxka3kbTbk9++AA5NfvHDClwvWzE4++hyeMAwcx2Tp2itMqSatnT2ScHCdKyecwyVJjyyx3aFoWelV6bNiR0t5JDVU4lDOeFx+sZeVJ7rpFqexXvmZeaIx+1O6WOzXafQ/fCAZDkkzHxpiw/EYyi7tkVkWK7SuLrbw3CxjgPdQeGpbO0WS8BTwgoRh5aXp8kkiUSBZ/rxB5YaFycXO3QUD2S+nXqKoI4U+10uHEOQSqTo+ocwDSpCbj2NVcUV8epS+Rzm+YpHxuk21EYNnCl9Y665Z0u9Yo1qpAFAlXvU+CO8hsDKC0A57AMciw2cvuYz6yBz6HdbjWd5xkku2ng7U=;/cQz2KulGPJ/anl0xE3Wkw=="
+secured: "h6SDz6iggMaFzsxHSwsMKMZbokS8mxAe/9vrrkaUtDNM5nBxjt+lhFLcrbraNJxX5YUz94Zj+pBC3GgKNfFe7G+4+Os9QHO8DKKhUup3F7zcgEsPLcqiDbzOLSBbpHXjWS5qm7wjtvhqTzB2Zx/xHTmh6KSXeOFmWyRTswPDu+FqDnNDk86r3yaiUq555tAQLCZaYpAY7ME3gkjG6vj4Z9E5NkT5CqxYXR5y/phzXy5U8ONYW5s1nEocicrMN1j+/aS0MhZcxRTP41y4NvgVl7zcjae8EUrGW5JCKNga8MxdrQ3wRyHoSblSbswSrVMe/s5dlO5tRy9neh7oMGsYKcPp9Jih+ipgJnSe4EZsfz4=;ToxHpaqz1Uol6SehlySRkg=="
 ---
 

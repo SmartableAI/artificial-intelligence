@@ -3,8 +3,8 @@ category: news
 title: "U.S. exempts self-driving vehicles from some crash standards"
 excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
 publishedDateTime: 2021-01-15T04:52:00Z
-originalUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
-webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+originalUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
 type: article
 quality: 54
 heat: 74
@@ -60,6 +60,6 @@ related:
         height: 420
         isCached: true
 
-secured: "HzFmJi1RWopU5upDn4SQvntMw+8B87z+xRD7v+SeEFBIBEBUXGkeP2sQWLKq9J3wVbMM5rjYIF5CgCMj+rx8OIOvX7ZPobTqH26AeWhanXKMnAbzWAR8kV7Yk84UUiLMrGDewDCqbSIBWbsMbUtJ6MNjLy93x1gwaSN2iUbviAviNnsmsvshZ3GOuN2y254bv3dYt65UNoHKOoCFbwhest0EXBRqZNknmy4Nh9WwbEZlf4pTyONvQr6M0h9AwUHhGJ09cIFLVkiyWb/FteT/rBzv279wITiWi0ZISU/ptnAtEvnypprt3hqlrYt0umgXpEjMLwmz4YItu/jk1F+DtMteuuD189EB4QXlORGx0lcZdPdb2qC1yPvDi+oWFxkR5pcEQ6mmO3NK/BFRLEdUuIFzFmBTR2pUpOFL0sBy+B8xsu+tVZwGKsQjZbezck9FspVMR7sSYrhqVKPeeyyVBtk131+wTzC8UCdniBVOaaSdU08ikc+jX0COSeKSHYcDNzpW2yqwaNk+t7LkXI8DfA==;DxCtxBYoyPTeQBevtkkr8Q=="
+secured: "70hsEihh7hNAC5WfY2/n9MI8EbEa5ePVMXoG4nyBml3V5IFYNfrGD3d3OutIFxeT9cXaTohovOtXdibu/ceZPt13jpk8qOG5l+M40cvGw8UoTPPw+R8Su21IdInbQTQnHjy9eZjvQXGVYh3RPf1vXBDrkwjmMbmqqoN1tkrlS6OMTbUcYD9DOtTqTbcH4Y7MAMXRm6v2IJOancdYqUxbgXegHXuJRYeqtwnDlGOVhNFSwha9nPAJHkgK9CAzMn323b63HaLfVwWaP1KrvzXXaT8MEvpnebiM5G9B7pEJRiugR2qt6IpA2DwFhvKe3AKdbeTU2yLIQH74ZABxKlp7x/08nJFRgmzW53mtsOSTEKA=;84jGVDZFdBwGrYdFHxXp9g=="
 ---
 

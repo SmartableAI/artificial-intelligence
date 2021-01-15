@@ -637,6 +637,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-software-promises-to-improve-ai-object-recognition.md",
+      "title": "Software promises to improve AI object recognition.",
+      "excerpt": "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
+      "originalUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg",
+          "width": 940,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T01:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.md",
       "title": "Review: Microsoft Azure AI and Machine Learning aims for the enterprise",
       "excerpt": "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks.",
@@ -1353,58 +1397,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-need-a-covid-test-look-for-a-vending-machine.md",
-      "title": "Need a COVID test? Look for a vending machine",
-      "excerpt": "\"Our unique cloud architecture allows us to service many use cases like Wellness 4 Humanity, while having machine learning power our operations,\" Smith said. Swyft's other customers include CVS, Best Buy, and 7-Eleven. These companies use Swyft's automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/06/94c4c6b9-7324-42c8-a7e1-a8b8dec10bea/resize/1200x/9b85599fd04562d09f3944361b6379d2/istock-1224323409.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
-      "publishedDateTime": "2021-01-06T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

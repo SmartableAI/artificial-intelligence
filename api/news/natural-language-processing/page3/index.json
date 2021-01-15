@@ -2,42 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-16-natural-language-processing-market-growing-at-a-cagr-210-key-player-google-aws-facebook-apple-intel.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 21.0% | Key Player Google, AWS, Facebook, Apple, Intel",
-      "excerpt": "MarketsandMarkets forecasts the global Natural Language Processing (NLP) Market size to grow from USD 10.2 billion in 2019 to USD 26.4 billion by 2024, at a Compound Annual Growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/ab18803760/natural-language-processing-market-growing-at-a-cagr-21-0-key-player-google-aws-facebook-apple-in",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/ab18803760/natural-language-processing-market-growing-at-a-cagr-21-0-key-player-google-aws-facebook-apple-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18803760",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18803760",
-      "publishedDateTime": "2020-12-15T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation.md",
       "title": "AI ‘pre-cog’ predicts which Twitter users will spread disinformation",
       "excerpt": "Researchers used the system to forecast which social media users will share disinformation in the future and also revealed the language that they use.",
@@ -1432,6 +1396,49 @@
       "provider": {
         "name": "McClatchyDC",
         "domain": "mcclatchydc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-natural-language-processing-market-2020-global-industry-analysis-size-share-growth-trends-key-players-and-forecast-to-2023.md",
+      "title": "Natural Language Processing Market 2020 Global Industry Analysis, Size, Share, Growth, Trends, Key Players and Forecast to 2023",
+      "excerpt": "\"Worldwide Natural Language Processing Market report examines the itemized investigation of key drivers impacting market development, openings, the difficulties and the dangers looked by key ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101243284/Natural-Language-Processing-Market-2020-Global-Industry-Analysis-Size-Share-Growth-Trends-Key-Players-and-Forecast-to-2023",
+      "originalUrl": "https://menafn.com/1101243284/Natural-Language-Processing-Market-2020-Global-Industry-Analysis-Size-Share-Growth-Trends-Key-Players-and-Forecast-to-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T00:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

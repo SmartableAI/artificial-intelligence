@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2225535/artificial-intelligence-in-sports
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing"
 type: article
 quality: 52
-heat: 72
+heat: 73
 published: true
 
 provider:

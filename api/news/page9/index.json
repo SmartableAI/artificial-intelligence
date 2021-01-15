@@ -2,6 +2,135 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-07-poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm.md",
+      "title": "POET enters into development and supply agreements with photonic neural network systems firm",
+      "excerpt": "POET Technologies Inc of Toronto, Ontario, Canada — designer and developer of the POET Optical Interposer and photonic integrated circuits (PICs)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
+      "publishedDateTime": "2021-01-07T00:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit.md",
+      "title": "TikTok Parent Company ByteDance Open Sources Neural Speech Translation Toolkit",
+      "excerpt": "Chinese tech company ByteDance, parent of video-sharing app TikTok, releases NeurST, an open-source toolkit neural speech translation.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/industry-news/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
+      "originalUrl": "https://slator.com/industry-news/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/01/Bytedance-Neural-Machine-Translation-Research-2021.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-intels-new-realsense-id-packs-on-device-facial-recognition.md",
+      "title": "Intel's new RealSense ID packs on-device facial recognition",
+      "excerpt": "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png",
+          "width": 620,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html",
+      "publishedDateTime": "2021-01-06T22:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-need-a-covid-test-look-for-a-vending-machine.md",
       "title": "Need a COVID test? Look for a vending machine",
       "excerpt": "\"Our unique cloud architecture allows us to service many use cases like Wellness 4 Humanity, while having machine learning power our operations,\" Smith said. Swyft's other customers include CVS, Best Buy, and 7-Eleven. These companies use Swyft's automated ...",
@@ -1080,153 +1209,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-ai-draws-dog-walking-baby-radish-in-a-tutu.md",
-      "title": "AI draws dog-walking baby radish in a tutu",
-      "excerpt": "These pictures were generated from the command \"An illustration of a baby daikon radish in a tutu walking a dog\" Avocado-shaped armchairs, radishes in tutus and cats in sunglasses are among some surreal works of art created by an artificial-intelligence system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-55559463",
-      "originalUrl": "https://www.bbc.com/news/technology-55559463",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15F6E/production/_116366998_radish.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-55559463",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55559463",
-      "publishedDateTime": "2021-01-06T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project.md",
-      "title": "Singapore central bank reports successful first phase of ethical AI project",
-      "excerpt": "The Monetary Authority of Singapore (MAS) today announced the successful conclusion of the first phase of the Veritas initiative which saw the development of the fairness assessment methodology in credit risk scoring and customer marketing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/85615/singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project",
-      "originalUrl": "https://www.finextra.com/pressarticle/85615/singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-the-us-armys-robot-tanks-make-great-bait.md",
-      "title": "The U.S. Army’s Robot Tanks Make Great Bait",
-      "excerpt": "The U.S. Army is developing remote-controlled robotic vehicles that, the service hopes, will be able to fight alongside conventional tanks, fighting vehicles and infantry as soon as the 2030s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/",
-      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4d1e90814527e7d1bc513%2F0x0.jpg%3FcropX1%3D36%26cropX2%3D1162%26cropY1%3D0%26cropY2%3D633",
-          "width": 1126,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/amp/",
-      "publishedDateTime": "2021-01-06T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

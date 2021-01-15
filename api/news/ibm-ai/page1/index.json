@@ -2,51 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-15-why-ai-has-yet-to-deliver-on-promises-in-healthcare.md",
-      "title": "Why AI Has Yet to Deliver on Promises in Healthcare",
-      "excerpt": "We’ve reached the point where computer vision and natural language processing (NLP) programs can match, and in some cases exceed, the capabilities of",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/",
-      "originalUrl": "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ai_doctor_shutterstock_Andrey_Popov.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T19:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops.md",
       "title": "GitLab partners with IBM Cloud to improve collaboration for DevOps",
       "excerpt": "GitLab is partnering with IBM Cloud designed to help DevOps teams work more efficiently by collaborating through a shared platform.",
@@ -1358,6 +1313,40 @@
       "provider": {
         "name": "Business Standard",
         "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-ibm-focuses-on-ai-business-adds-new-features-to-watson.md",
+      "title": "IBM Focuses on AI Business, Adds New Features to Watson",
+      "excerpt": "International Business Machines Corporation IBM added new functionalities to IBM Watson to enhance Artificial Intelligence (AI)-powered automation offerings and improve results obtained from AI predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14?amp",
+      "publishedDateTime": "2020-12-14T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

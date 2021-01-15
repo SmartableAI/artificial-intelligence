@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning as a Service (MLaaS) Market 2021 Industry Analysis, Forthcoming Growth, Industry Prospects and Forecast to 2026"
+    excerpt: "Market provides detailed analysis of Market Overview, Drivers, Prospects, Potential Application. Also Machine Learning as a Service (MLaaS) Industry research report includes the future impact of major drivers and challenges and,"
+    publishedDateTime: 2021-01-15T12:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2021-industry-analysis-forthcoming-growth-industry-prospects-and-forecast-to-2026-2021-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
     excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
     publishedDateTime: 2021-01-13T18:06:00Z
