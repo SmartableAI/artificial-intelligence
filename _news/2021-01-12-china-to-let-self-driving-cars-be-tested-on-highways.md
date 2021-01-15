@@ -69,6 +69,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Japan developing unmanned jet fighter aircraft with machine learning to close its technology gap with China"
+    excerpt: "Japanese companies are researching technologies, with Subaru developing unmanned flight control, while Mitsubishi working on information-sharing."
+    publishedDateTime: 2021-01-15T07:33:00Z
+    webUrl: "https://www.militaryaerospace.com/unmanned/article/14195601/unmanned-jet-fighter-machinelearning"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 36
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/Japan_fighter_drone_15_Jan_2021.600051e707f37.png?auto=format&fit=max&w=1200"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Re-imagining manufacturing: Putting digital technology at the center of a post-pandemic new normal"
     excerpt: "By Saj Kumar, Regional Business, Leader, Manufacturing, Asia If we’ve learned anything about doing business during the pandemic, it’s about the importance of embracing change. A willingness to adopt new digital technologies could determine whether an enterprise survives and thrives or struggles and fails in the months and years ahead."
     publishedDateTime: 2021-01-12T04:03:00Z

@@ -97,58 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes.md",
-      "title": "Self-Driving Cars Safety And The Curious Thought Of Steering Wheels With Tullock Spikes",
-      "excerpt": "A famous \"thought experiment\" about car driving involves steel spikes on steering wheels, which brings up important caveats and safety insights for self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/14/self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/14/self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8379a9dde66227a96bcb6%2F0x0.jpg",
-          "width": 1200,
-          "height": 1126,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/14/self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/14/self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes/amp/",
-      "publishedDateTime": "2021-01-14T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-dji-is-building-a-new-team-that-will-work-on-self-driving-technology.md",
       "title": "DJI is building a new team that will work on self driving technology",
       "excerpt": "The popular drone making brand, DJI, is apparently building a new team that will be working on developing self driving or autonomous technologies. The company has put up various job listings and has already begun hiring as well.",
@@ -157,7 +105,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1483,6 +1431,58 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-we-built-google-this-is-not-the-company-we-want-to-work-for.md",
+      "title": "We Built Google. This Is Not the Company We Want to Work For.",
+      "excerpt": "On Nov. 1, 2018, at 11:10 a.m., some 20,000 Google employees, along with employees of Waymo, Verily and other ... They have developed artificial intelligence technology for use by the Department ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/05/opinion/04google-02/04google-02-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/04/opinion/google-union.amp.html",
+      "publishedDateTime": "2021-01-04T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

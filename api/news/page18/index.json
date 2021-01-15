@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-29-researchers-find-evidence-of-bias-in-art-generating-ai-systems.md",
+      "title": "Researchers find evidence of bias in art-generating AI systems",
+      "excerpt": "AI tools, apps, and platforms that generate artwork exhibit social and cultural bias, according to a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/",
+      "originalUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/ce701cf3-d857-4b1b-8075-f727d1aad8fc-e1609177599494.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/28/researchers-find-evidence-of-bias-in-art-generating-ai-systems/amp/",
+      "publishedDateTime": "2020-12-28T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-lg-instaview-refrigerators-get-voice-controlled-doors-for-2021.md",
       "title": "LG InstaView refrigerators get voice-controlled doors for 2021",
       "excerpt": "The list of kitchen appliances you can talk to (and reasonably expect some sort of response) gets longer, with LG’s newest – and fanciest – refrigerators adding voice-controlled",
@@ -1155,58 +1206,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-120-million-payouts-massive-egos-and-prison-time-the-inside-story-of-google-and-ubers-war-to-own-self-driving-cars.md",
-      "title": "$120 million payouts, massive egos, and prison time: The inside story of Google and Uber's war to own self-driving-cars",
-      "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 On January 7, 2016, Anthony Levandowski emailed Larry Page to wish him a happy new year and to gripe, once again, about the state of the search giant's self-driving-car research project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
-      "originalUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe3abefedf8920018093966?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-uber-self-driving-cars-levandowski-urmson-davies-driven-2020-12?amp",
-      "publishedDateTime": "2020-12-27T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

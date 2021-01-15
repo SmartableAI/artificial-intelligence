@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-15-oqton-raises-40-million-to-apply-ai-to-additive-manufacturing.md",
+      "title": "Oqton raises $40 million to apply AI to additive manufacturing",
+      "excerpt": "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/",
+      "originalUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/fb-homepage-pic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/",
+      "publishedDateTime": "2021-01-15T00:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-artificial-intelligence-in-sports-market-next-big-thing-biggest-opportunity-of-2021.md",
+      "title": "Artificial Intelligence in Sports Market Next Big Thing | Biggest Opportunity Of 2021",
+      "excerpt": "Global Artificial Intelligence in Sports Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "originalUrl": "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/1/U115981371_g.jpg",
+          "width": 675,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "publishedDateTime": "2021-01-14T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-us-exempts-self-driving-vehicles-from-some-crash-standards.md",
       "title": "U.S. exempts self-driving vehicles from some crash standards",
       "excerpt": "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs.",
@@ -771,58 +865,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes.md",
-      "title": "Self-Driving Cars Safety And The Curious Thought Of Steering Wheels With Tullock Spikes",
-      "excerpt": "A famous \"thought experiment\" about car driving involves steel spikes on steering wheels, which brings up important caveats and safety insights for self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/14/self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/14/self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8379a9dde66227a96bcb6%2F0x0.jpg",
-          "width": 1200,
-          "height": 1126,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/14/self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/14/self-driving-cars-safety-and-the-curious-thought-of-steering-wheels-with-tullock-spikes/amp/",
-      "publishedDateTime": "2021-01-14T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-the-best-facial-recognition-security-cameras-for-2021.md",
       "title": "The best facial recognition security cameras for 2021",
       "excerpt": "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
@@ -917,49 +959,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-hyundai-robotics-advancing-predictive-maintenance-with-ai.md",
-      "title": "Hyundai Robotics: advancing predictive maintenance with AI",
-      "excerpt": "Discover how Hyundai Robotics is advancing predictive maintenance alongside MakinaRocks with AI-based anomaly detection In partnership with MakinaRocks, Hyundai Robotics - following the signing of a memorandum of understanding (MOU) - will work together to advance AI-based industrial robot anomaly detection for robot arms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
-      "originalUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkjwz1rzc140120215213.jpeg",
-          "width": 1000,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manufacturingglobal.com",
-        "domain": "manufacturingglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1109,7 +1108,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {

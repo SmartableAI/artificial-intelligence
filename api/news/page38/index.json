@@ -2,6 +2,58 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-12-10-australia-post-uses-machine-learning-to-tell-you-when-deliveries-will-arrive.md",
+      "title": "Australia Post uses machine learning to tell you when deliveries will arrive",
+      "excerpt": "Customers are now provided with a two-hour window for when a delivery will arrive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "originalUrl": "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/11/16/889f53f4-8d41-4a47-894e-76ec0fae8caa/thumbnail/770x578/1f49e95166b2f46a861bdd857982d0b3/australia-post-using-machine-learning-to-5fb1b2ed6df74d74600b9fd7-1-nov-16-2020-3-36-39-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-global-media-brand-viacomcbs-makes-aws-preferred-cloud-partner.md",
       "title": "Global media brand ViacomCBS makes AWS preferred cloud partner",
       "excerpt": "ViacomCBS said it plans to combine AWS Elemental with the facial recognition software, Amazon Rekognition, and its machine learning library building tool, Amazon SageMaker to rapidly expand its ...",
@@ -1147,57 +1199,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-doordash-c3ai-skyrocket-in-public-market-debuts.md",
-      "title": "DoorDash, C3.ai skyrocket in public market debuts",
-      "excerpt": "Haters gonna hate, IPOs gonna pop. That’s the story today as richly valued DoorDash and C3.ai, two American technology unicorns, saw their values skyrocket after they began trading today. DoorDash shares are up just under 83% to $186.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/",
-      "originalUrl": "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-187869847.jpg?w=1024",
-          "width": 1024,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/",
-      "publishedDateTime": "2020-12-09T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

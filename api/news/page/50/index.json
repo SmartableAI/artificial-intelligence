@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-12-03-madison-wis-bans-city-agency-use-of-facial-recognition.md",
+      "title": "Madison, Wis., Bans City Agency Use of Facial Recognition",
+      "excerpt": "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
+      "publishedDateTime": "2020-12-02T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech.md",
       "title": "Sight Tech Global is Live! Join top AI technologists and accessibility innovators discuss the future of assistive tech",
       "excerpt": "Today and tomorrow, from 8 a.m. to 12:30 p.m. the first annual, virtual event Sight Tech Global is streaming on TechCrunch. The event looks at how AI-based technologies are rapidly changing the field of accessibility,",
@@ -1148,58 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-review-datarobot-aces-automated-machine-learning.md",
-      "title": "Review: DataRobot aces automated machine learning",
-      "excerpt": "AutoML, i.e. automated machine learning, can speed up these processes dramatically, sometimes from months to hours, and can also lower the human requirements from experienced Ph.D. data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/06/digital-twins_ai_robots_mirror-image_duo_pair_toy-robots-100760560-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.amp.html",
-      "publishedDateTime": "2020-12-02T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

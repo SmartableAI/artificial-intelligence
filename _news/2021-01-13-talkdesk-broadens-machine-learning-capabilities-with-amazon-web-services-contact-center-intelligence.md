@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
-publishedDateTime: 2021-01-12T16:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+excerpt: "Talkdesk, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer"
+publishedDateTime: 2021-01-12T17:18:00Z
+originalUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+webUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -140,6 +141,6 @@ related:
       domain: arnnet.com.au
     quality: 1
 
-secured: "i+8Wxse/YCcSuIH5YxHhdQj7SZZ4CNiWnauPHclbO65C+fQO/wI1qBSdMhB7F9slKB112DqNDuRZob0f/vdO7k3IGeyA4uAuV6PAAumIIuWp95aNblGPela3/SLiGdbakfspBFPeyQhUMdnBEvul/hIF/3qHcCCKYWtsldtjLWkvZq+/ggXu55WzU5hHV+0STir4TR6YwqAyTocer7XRie4cFViabIthN05ENpe1kaisX/rQE9PiPyWCrArTuwFaRNLyoxaFsAF3n4U04ujnd6efVIEmFGD8XYhMkBnSDAT4HMveEP8Mu0xiaAOWxPIkarc6kkCD0s9YfvBUQ2SDpE2+42qFjAUPJCdWZCDqYRs=;tpi+AjPaBq7ZWWvhrvlXfg=="
+secured: "hyQbSFhDpcO6c+HG/oJIM4jck7f6J/xxErmxpwESdaSquvguHDZ0yKdQME1MrqXS+DK8vN19T6oWO7UkZGilJVvfq4Jr1XyKs7ytSHj1/scPHkOcglBBSvKRjdsgJ0iWKmvzxXskN6dGsuEyDK7y57GkSEJvjsOWAv1KEJA5q1wVZo95cnth7y+Rh/XkUDkGvWqcHSh9uqtUYa/hikcJ6mrZImZ3dYHyl90C67cbqrtCnIfDGC3jEZTdRzyx8Jm7R0QJnD6liRKfDafoRZMcLrsqHRn/4d4VdGH4kR5nF7Cvc1pgKga0eAKhxvtGtr/lWLLgbj2GTgnG8/61u+srdOyruVzEATWt/3/ycRxGXKg=;wb9aOoin5YOHdTDXK2LKRg=="
 ---
 

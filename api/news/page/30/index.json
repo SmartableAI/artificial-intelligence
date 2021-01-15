@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-12-16-fun-machine-learning-experiment-creates-a-vocal-opera-in-your-browser.md",
+      "title": "Fun machine learning experiment creates a vocal opera in your browser",
+      "excerpt": "Google's Arts and Culture lab has launched a clever browser experiment in collaboration with David Li. The Blob Opera puts four operatic voices at your disposal to create glorious AI-driven performances.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
+      "originalUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/afd589d/2147483647/strip/true/crop/1071x714+65+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9e%2F02%2F996578d848038d6c195522c0ef87%2F01.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
+      "publishedDateTime": "2020-12-16T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-huawei-case-layout-and-strategy-research-report.md",
       "title": "Huawei CASE Layout and Strategy Research Report...",
       "excerpt": "Huawei has BAT (Baidu, Alibaba, and Tencent ... that Neolix developed self-driving delivery system; that DeepRoute.ai developed the solution for container trucks at ports; that i-Tage Technology ...",
@@ -1122,49 +1174,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-adventhealth-joins-clinical-biotech-research-initiative-on-age-related-diseases-3-things-to-know.md",
-      "title": "AdventHealth joins clinical biotech research initiative on age-related diseases: 3 things to know",
-      "excerpt": "based AdventHealth formed a new research partnership Dec. 15 focused on using artificial intelligence to study ... the organizations will study exercise therapy treatments for aging skeletal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/adventhealth-joins-clinical-biotech-research-initiative-on-age-related-diseases-3-things-to-know.html",
-      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/adventhealth-joins-clinical-biotech-research-initiative-on-age-related-diseases-3-things-to-know.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T14:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
