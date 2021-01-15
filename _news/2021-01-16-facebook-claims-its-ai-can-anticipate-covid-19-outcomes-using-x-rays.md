@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-antici
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/tEzDTfy6yUTw4Q56rQneYf-1200-80.jpg"
         width: 960
         height: 540
+        isCached: true
+  - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
+    excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."
+    publishedDateTime: 2021-01-15T21:27:00Z
+    webUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/"
+    ampWebUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 57
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/12/IBM_PE_011520_HP-640x360.png"
+        width: 640
+        height: 360
         isCached: true
   - title: "Facebook AI Residency Program 2021 Is Now Open"
     excerpt: "Facebook AI has recently announced that applications are now open for its Artificial Intelligence (AI) Residency Program, till 31st January 2021. This one-year research training position has been designed to give candidates hands-on experience with artificial intelligence research while working in Facebook AI."

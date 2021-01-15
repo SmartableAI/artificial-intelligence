@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-15T19:33:00Z
 originalUrl: "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/"
 webUrl: "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all"
@@ -46,6 +47,6 @@ related:
         height: 646
         isCached: true
 
-secured: "fVYW6CrXfuQbch0CFHS/Ys01NvnPXUKsADG320KKmK4nnjqAHGCTw7ssk5YQNmblo4R207/yogJuZKmwJ/hJ42THztVpwajGnAeh8S7DKQMIbRE8rVliKCCE4RnxEvysUeBLI2mhj79lawgRTj4tnYBpUeeLl/NOWy2Lu7CV2oB6JeWWqt4j5jyYG+i4jTfJqWtFphiUFV15tsCxUB9Km5Cr7Lzi/pA6hyE2avuDrfI5XMdND7F5utAgBqJY0sF54RrKr55KDnT77rFRu+GPDqndBKEdYjk1sezjsCSCC4KeA6KZldL4NI+mDdpjU8ALEMoRr3l4F/2ETAQolE1kQGqmF4dDuJzBRHVTiM/R/Y4=;iUWgyeUz+50vfxecmO3oUQ=="
+secured: "EloxcHQA6Bu4ze3sonVyUsOvZUqnO3SIiFSXnLgmKwbbr7yIhxa5nq1Qg+WCLd4hnjj3jIUEngV6r7+jAuvHubrdFI8aIiuH5orxC61xsMSYNqI9ludlz+JNTz/OJgRbVPhSQXdtyq5SVh+DP9bqgyOnt4ZKxvYbLDSPc+2FS6vau0xQ4Fv2zWIAnoS5GKTT4Dvdg3aB2SPDOh8eV9ff7Aviw/4kty+dIsftj4knpUA0OwYQZvm+dyDr6ulhDT+2VZzLwGC/aaRWt9tpYgR5eZbnpS4KpVBQcmns+5eSrAqkQO2A95StVGxk+DQ8MPUZA+ZDcdw+/jwXkx3r7OBlRR0fjjShUiXooZRsrZ9aRbocWUhJ6fp+lW/ELMeQLhwxnN54bVkXCQDMYpYk42w9fgVeAqOxJiqWnckeBipgP5cz23GCM1P24/LHNjFq9r9yOb1X2Qn88Yl42sAWuaLhH2TenaoC3QD9VjmhKwWGE14qPwb8MXqgcGXLCo9cJrb57Aemjdkw7x4b8PJdNBIr8A==;EGzhmxZLef/LYLayk528SQ=="
 ---
 

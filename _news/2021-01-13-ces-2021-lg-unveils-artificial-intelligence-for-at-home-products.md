@@ -325,15 +325,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
-    excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
-    publishedDateTime: 2021-01-11T06:52:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8123660/ces-2021-bosch-puts-its-faith-in-ai-and-connectivity-for-the-protection-of-people-and-the-environment"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
 
 secured: "Y53E7n8YB/jC2sBhQ/Lv8yVAgu2SSmthfCnqA43BsBRlup3mzGWMZBLCrB15G5G3n8Z5RIGp4EvJvpgXTxAILRo+tfZZCDqernJRJpjZxiRSGAtMJcHC8AO9Q3yY4jXHpNWROGK3h2oIkHmR/U1k6zbrW2vBox96WH7ZLKkKBTSrVJeVGoPeffsrcmfjMXdAZJCVvZdnOB/YPsy0fwQRaRtc1XcXS04WOqZI3Bj/FwA+lALaKA/5X8cf83l0AEtoRXBvwhJEHG74G6Tb/fYD70aJrgaRFrPFFGbq4Ia1QfsQzV86hjFimS55KD4d+GGSbECLOddHchv0jOv71/Y7m1wz1bUYGB+Mmv3veeJeAWaEAXqyrTuNJV2k9plW5OnQRQhY8D4bFAJdZ/4z78RUW3F7vyqNLdBhOwqR3S/ylihyUUAktA5J/FZMsY8k5wAJO5Yesf0Xg/MtuQDaOPIGTrC8Aj9/J7csetU/D63NBlAs1H8L2yliqfJ8jVppjYfnYsOIhyH3sH1gBJvr0H8M3Q==;qXoKBWR1MfmTw3MOT0BlKg=="
 ---

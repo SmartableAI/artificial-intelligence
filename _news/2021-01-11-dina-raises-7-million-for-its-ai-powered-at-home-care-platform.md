@@ -63,18 +63,18 @@ related:
         height: 600
         isCached: true
   - title: "Healthcare Specific AI Platform Lumiata Raises Series B Funding"
-    excerpt: "Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc and AllegisNL"
+    excerpt: "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc"
     publishedDateTime: 2021-01-14T12:44:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthcare-specific-ai-platform-lumiata-raises-series-b-funding/article_52eb636c-d900-53de-a2f2-c4351ce9e075.html"
+    webUrl: "https://www.prnewswire.com/news-releases/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-301208447.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/e1/8e185db6-5af0-512d-bc6b-bc2b55fa4332/600044b434c96.image.jpg?resize=400%2C400"
-        width: 400
-        height: 400
+      - url: "https://mma.prnewswire.com/media/1420695/Lumiata.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "fgwF7ELnopYZJ8228EFrFV4nrUCrjF0pDfdtYKf0cIaFtudExuiGeGgVA8HTrCNQAcV7GkH5K2t64/NC+dZM1Wcueq5+Rr6q8c54RW0r/SwePErohZdvglE4Ga0mT13zBBNKNjArWpOC0fHAqrqb7najIPG1NpkY2xyZ/Im0D1GGsikCAF+TzlDUBnURajaJal96vGrMCGSeqlDUwmJo2ADufxWbsR+qeysY02I8GJ3FHiy6SwR/pHKsyJwfMvEwMlJvNgn9xVr7h7nevmMXuxS/yyigVBJJJ1UvFQut/qmrRkbLqJHRUpEoGzU3bvWjhIbcrpjsimt2XfbSuspehAm4sNxkH76CD6quv0NfD88Y3kXjFab1Ogl8e4dvyYbVSdLVVrW1GOG5V4pY7FQQvdVzdLF9pa4R6rCCE0MqV280OoLikbyv/t+592Mvrs1dyDv2YMpsBwLxBF23U4adIfN88fcsZs8Sn9MPRAq+43aQOneKuvZFGyvekB3W9Nxhl0sXX6N0tNTCgzStGtkiVA==;lVKLCsVhS9Zga29Ta13QsA=="

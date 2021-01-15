@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Vonage Appoints IBM’s Jay Bellissimo Chief Operating Officer"
-excerpt: "PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, today announced it has appointed Jay Bellissimo as Chief Operating Officer,"
-publishedDateTime: 2021-01-14T14:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-executive-changes-corporate-news-personnel-8b41ac29fce37e7b5f7815f1dd8db047"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-executive-changes-corporate-news-personnel-8b41ac29fce37e7b5f7815f1dd8db047"
+title: "Vonage Appoints IBM's Jay Bellissimo Chief Operating Officer"
+excerpt: "PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, today announced it"
+publishedDateTime: 2021-01-14T13:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/vonage-appoints-ibms-jay-bellissimo-chief-operating-officer-301208438.html"
+webUrl: "https://www.prnewswire.com/news-releases/vonage-appoints-ibms-jay-bellissimo-chief-operating-officer-301208438.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1019801/Vonage_Logo.jpg?p=facebook"
+    width: 1920
+    height: 1005
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 54
 
-secured: "5eDMZo6d3H2skBQ8Mp8Bg3TeCGAayRFP7bx8ZVgxr+zOqV/dBKzB5wPxKFx8XAFlc4BgDWkVIBR/NfGpZ6IKkjo8jRsRWpxXftDtQjr5up3fwgGIt2SNGEBV2zc7NVLzCVOq+JBYYxhgocsaGLo+ds2YZKw4OexwozGErbvp59oJqt6DG4vrGMWYWLEow8A0gEzK03xlQ+yNABoYYE3+E4XQBJi2D0gmfTzvfDOlI0KcUjE1bdFQrKMvS0AuHm8SVyt/c8j1rYazW+ck/IiFHQABkNu/Eqml0SopS/0XTieP9f/HoeshJ22T35RMJCthsace682Rm8HlgHLEmKVA7Q/4BVT+64ML7jt3/gpeEK8=;kwDZHK55Ol2+AzMFYI3LGg=="
+secured: "IFbFH/RKuMqe044TErpS5jVpAKuLQvkoGa0uCu7qN05L+PUOOcE5/3YvMEcHH6I1bmeCCJB9dV9aKS/RjEFw837gQS9Zoj7sAGUyWh+NWpU1iAqgGQXO+cTOP575enPTjh7Twr178yMtEnz08wFxJznvaFGGBf0FNftx0AejXcnm83iaXn2Q/Ia6JEeOirBPbDhA/KXF8seUwArPAxk1XA4zjsYE799Ao8V74ICnQQkfSIZC0Rm5vtO93I1zQkX0fTxjfT9jaicQYoaOJ0dMAwHVmO7EJ/N/8+ollC+pk2fyVqIwT2hg/gpm7ZCcznDgYrSAceO+NcKRQeaaFCrZA8Vz4CBT5aNTqOnTpdyAFuk=;PzXe2jxJOznO8jznRTIKdQ=="
 ---
 

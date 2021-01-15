@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zigwheels.com/news-features/news/hyundai-could-codevelop
 cdnAmpWebUrl: "https://www-zigwheels-com.cdn.ampproject.org/c/s/www.zigwheels.com/news-features/news/hyundai-could-codevelop-apples-rumored-selfdriving-car-for-2024/40832/?is_amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 640
     height: 479
     isCached: true
-
-related:
-  - title: "Hyundai might build Apple’s self-driving electric car: Launch by 2027"
-    excerpt: "Apple is reportedly working on a self-driving electric car which is expected to make its market launch by 2027. Reuters reports that Apple is exploring the possibility to outsource its manufacturing to the Korean automaker - Hyundai Motor Group."
-    publishedDateTime: 2021-01-11T05:33:00Z
-    webUrl: "https://www.financialexpress.com/auto/industry/hyundai-might-build-apples-self-driving-electric-car-launch-by-2027-india-specs-features-hyundai-kia-mobis-korea-georgia-manufacturing-plant-us/2168476/"
-    ampWebUrl: "https://www.financialexpress.com/auto/industry/hyundai-might-build-apples-self-driving-electric-car-launch-by-2027-india-specs-features-hyundai-kia-mobis-korea-georgia-manufacturing-plant-us/2168476/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/industry/hyundai-might-build-apples-self-driving-electric-car-launch-by-2027-india-specs-features-hyundai-kia-mobis-korea-georgia-manufacturing-plant-us/2168476/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://images.financialexpress.com/2021/01/Apple-Electric-car-hyundai-collaboration.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "GAPted3PC6o61sJoZD6chH+U/AfpD7WeIgV3cfq/3pkqE8ed2WyqeQRcuZbbaQDcQpbIPn93qHP547PjmHjI7Wn4Q1Qx1QURzvZ+LBVIWBTYWQ2Vu844dboiWmEoUcCth2RCQRGyw53fWpqc0NWa4FzGRRqJiJ75MMspbwK96UBBWsvzFt54rfs/MMcIRc2DdlwWa8LvKgmNXTSJ6JKRJwvsbawubE0Ms87SrhBy2+Ohyt/+a6pTWV75JH5V2cS3plU0MqucNSo73PzS2ClnYfc8rIbNkuN0tu/X9YBq5XRzTwRxKLR2PpOeRcawaqu3maM91nC3n5H1o4RGqzm/5jZGsly8u9eEcEXrVnQK/ZE=;3/uJtaAknSi/wJiHbdkGSg=="
 ---

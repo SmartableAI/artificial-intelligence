@@ -138,15 +138,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Artificial intelligence in Healthcare Report 2020 - Global Market Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2021-01-11T06:58:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210111005616/artificial-intelligence-in-healthcare-report-2020-global-market-forecast-to-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 16
 
 secured: "8fWTpnTetYvN0NBowWmrh8XdKMdv126UcoduXOSbh8q2yJyUkCKcuYdOmyJNGxaonpyM/jirA3zLwDgkfU1sN0yciOuavKSJr74nTi3pSI4eywb93NC7iuczdIbtSJyyoIOhulmz3rUB2H0UHRUhR8cwmXpSVgHlgUrMqT6dRP7yqXHwyQAu0DPiOjXFb70gVy7xjyEkrg4j4lGt8a4LX8FSk9son0WzEeQuj/X+2kNG6IgAs1KwcRitD0PizY7zV86ehv1Pz+SSX7ksWI83MeQ//Yx8Me7qkosxdrYnShhcaAGFjLmphneRgafDESqfZH0VcLNXXTBQF+aKDoDdmrgfowePYO5CU0hOLCcfCyI=;nWwhtrB3s40raOVT4E0lrQ=="
 ---

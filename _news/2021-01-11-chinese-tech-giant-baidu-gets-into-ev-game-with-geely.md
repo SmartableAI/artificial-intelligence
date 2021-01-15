@@ -41,22 +41,6 @@ related:
         width: 602
         height: 360
         isCached: true
-  - title: "Baidu teams up with Geely to make smart electric vehicles"
-    excerpt: "Baidu is partnering with Geely to make smart electric cars, the tech group’s latest effort to diversify away from a stagnating core business and a milestone for the carmaker’s efforts to sell its vehicle technology to third parties."
-    publishedDateTime: 2021-01-11T06:54:00Z
-    webUrl: "https://www.ft.com/content/87b4296e-ead3-4094-a636-4a8b2d1ec1a1"
-    ampWebUrl: "https://amp.ft.com/content/87b4296e-ead3-4094-a636-4a8b2d1ec1a1"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/87b4296e-ead3-4094-a636-4a8b2d1ec1a1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9ff9819-acf6-423a-9909-d10db88a4f85.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Geely to Partner with Chinese Tech Company Baidu to Build Smart Electric Vehicles"
     excerpt: "The plan is to start a new company that will combine Baidu's connected and autonomous technology with Geely's EV platform."
     publishedDateTime: 2021-01-11T21:48:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sea2-1610398070.jpg?crop=1xw:0.8888888888888888xh;center,top&resize=1200:*"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Google Search Rival Baidu Announces Electric Car Company"
-    excerpt: "The tech industry is slowly but surely becoming more and more interested in the automotive market, and while Apple has so far remained completely tight-lipped on its plans for an electric vehicle, the Chinese over at Baidu have moved a lot faster."
-    publishedDateTime: 2021-01-11T06:06:00Z
-    webUrl: "https://www.autoevolution.com/news/google-search-rival-baidu-announces-electric-car-company-154251.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/google-search-rival-baidu-announces-electric-car-company-154251-7.jpg"
-        width: 728
-        height: 300
         isCached: true
 
 secured: "gPkvpNFl3Hqv4B0t7/YSXJn13fmOourwGAL6CYOw/JnPpVbcb//80u3xp8k6tOej7JdymuHp03bGOSeyIx5hw/9MdfpziC9nWesPDaSghIfAYosmp0D04vADOhCWUK3EeYBhk0pkPNJpjbqYPv89f0vrFykwTBYPtihN0eLg7CI5WR4377nszywhJ6Vi6J7/Q6i9Q01tLkPsh4Js1Gr2wTh3neMedRMjsrZqOuDnomMSuFveTijbWFXu3zv1PKZVN9p1++vDvMIDAOxhNJCvyFTbbm4+RgLznL8WL/px2l3bzG7upQmUpiDsvj6ZPMDISjoXO8B6e10EfwWgZhxHB+HqtMgVRU7I/am1w9fhzZ8XGlLIhoLzqm0cJuapnwlzYEiTGJu6hZFaktzrRI1Dp7F5auU7m6vUs6c0GfIevkp5nJBtjr58QFz4kGWP51L1AHY4f9w3i8vBGUXoe9iZZm7a75WbGCuASAFdt4l8mK4KWs9sw8Sc0+Km0C7pUzDrw49PueqsyXkp9vqTMYKxew==;7f7vrrc2jF8Mv8K4Q8FaDA=="

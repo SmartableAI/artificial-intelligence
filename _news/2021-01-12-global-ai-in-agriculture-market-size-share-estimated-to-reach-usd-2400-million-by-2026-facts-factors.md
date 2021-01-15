@@ -134,15 +134,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence in Healthcare Report 2020 - Global Market Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2021-01-11T06:58:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210111005616/artificial-intelligence-in-healthcare-report-2020-global-market-forecast-to-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 16
 
 secured: "Me4tQ4h37t84uoXNfopX/gtQ1ZKneEnA6XNq7vBLk6Z8C1SQIxTYJyryVyQcgWzDOKjc3X5Rd5QUKAZi0PhFNZULZyQE+mkIZAvl/l+tPVVgjLBWq5+E2XicedoH08c4UsmLB60fWXdcwZrJPjehW5IwEh8Zo8PsH4Ja3ZbDYaQp83FbcczytBaM9v7yRHiPESiQlJJLBaVyFRc4WnTp+4QeD2NMmSaQ6MSnhLY/JglwNSG6y1DU0pNogRVY7EQXazHdrGrJyA11ZL/oe0uyZVYFLRgZb/0YGvaVswzDAAlhWilQauqZd5cwBVN7nKkcYzyssBDhAb/30XZ7hPUrKBlcs+FmJ3UA9xJ6wdL2c/8=;gyTNAStzA8S/A3gbeZZ6mQ=="
 ---

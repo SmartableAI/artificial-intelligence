@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine
 webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670373"
 type: article
 quality: 64
-heat: 114
+heat: 115
 published: true
 
 provider:

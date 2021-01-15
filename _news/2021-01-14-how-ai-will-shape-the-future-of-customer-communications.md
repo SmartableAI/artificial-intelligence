@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI, ML Are Transforming the Corporate E-Learning Landscape"
-    excerpt: "The data helps organizations update e-learning curriculum and accordingly assign to learners per their pertinent needs. As a result, the AI-enabled corporate e-learning approach goes a long way towards bridging individual skills-gaps,"
-    publishedDateTime: 2021-01-11T06:10:00Z
-    webUrl: "https://www.entrepreneur.com/article/363064"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610345413-artificial-intelligence-3382507-19203.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "X0IyN5iWJ7C7OMv5JnZJ+ShPQxCfgEG5hzdiuI2qugJo6DC/TIXWwzdzFHtmAaRLEadn5qmQ/JLnS2O2B2otuzZtyjkkzTIuGDGyejQLJRHsMDziiSIXYFbeuPj52ypbnoN6IdfyVW8VfRAS83G328R9Ees5MXvIrBGkee4AkZ5yj8PctFjyMc/aHq31ZFaLnXK1ZDlp4XXE7r0u0e0e0mkZ2TEgfdk2SaLZ2dpcGt/JGTZvRpOgPU03W+HEj9EYsLKRGNI+alBaMz33II3OG1uUKYJbUdiYtLUKq2RKOPQKfsZmGwdCjLt9FIDtDW0MLIadckwwBtPS/11R04Yxvz66rUwe0iOoFK1h+yFn2fHHknu6HU2zHEP3g8SqV/eH4MP2XFpCmrCYa4N8+hN94pIjBDqqxlYkLkmVkXkHLbme6a+eTGLgn5wTEszKwk00A+ds90C+hx2NIAob/Q8YWdObYswsnASQgzke67NYoj2YDy2hXta0wr+meIKLMW3FP4j+36UD7/9ok5VITY+EWw==;imrqQ61TTAG//QicJNqUCw=="
 ---

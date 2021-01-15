@@ -2,6 +2,134 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-30-covid-19-impact-on-voice-recognition-software-market-2020-global-technology-development-trends-and-forecasts-to-2026.md",
+      "title": "Covid-19 Impact on Voice Recognition Software Market 2020 Global Technology, Development, Trends and Forecasts to 2026",
+      "excerpt": "The latest research on the Global Voice Recognition Software Market has displayed an overview of the industry with an in-depth observation. The report defines the service and product along with its various applications in various end-user industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
+      "originalUrl": "https://www.openpr.com/news/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
+      "publishedDateTime": "2020-12-30T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-the-new-world-of-ai-based-adaptive-education.md",
+      "title": "The New World Of AI-Based Adaptive Education",
+      "excerpt": "AI technologies are now all around us, influencing every aspect of our lives and changing the world in the process",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362540",
+      "originalUrl": "https://www.entrepreneur.com/article/362540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1609323413-AI.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362540",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362540",
+      "publishedDateTime": "2020-12-30T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-the-human-story-of-an-ai-startup.md",
+      "title": "The human story of an AI startup",
+      "excerpt": "When you are building a start-up, speed is key. It’s ok if you make ... Barman reiterates the assurance that AI will not replace humans. Asked if he could change the much-feared term ‘Artifici ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/startup/the-human-story-of-an-ai-startup-6284141.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/startup/the-human-story-of-an-ai-startup-6284141.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2020/12/Artificial-Intelligence-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/the-human-story-of-an-ai-startup-6284141.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/the-human-story-of-an-ai-startup-6284141.html/amp",
+      "publishedDateTime": "2020-12-29T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-deep-learning-software-market-by-service-provider-applications-delivery-model-and-regions-world-forecasts-to-2025.md",
       "title": "Deep Learning Software Market By Service Provider, Applications, Delivery Model And Regions - World Forecasts To 2025",
       "excerpt": "WiseGuyReports.Com Publish a New Market Research Report On -\"Deep Learning Software Market By Service Provider,",
@@ -1034,163 +1162,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-ai-chipmaker-graphcore-raises-222m.md",
-      "title": "AI Chipmaker Graphcore Raises $222m",
-      "excerpt": "Graphcore, the UK-based AI chipmaker, has raised $222 million, a Series E in new funding, as it braces itself for the tougher competition from US rival Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/",
-      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb2795aed6bf81fc2905a5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/",
-      "publishedDateTime": "2020-12-29T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-why-ai-is-so-power-hungry.md",
-      "title": "Why AI is so power-hungry",
-      "excerpt": "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
-      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-800x450.jpg",
-          "width": 760,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-resolution-scaling-the-secret-to-playable-4k-gaming.md",
-      "title": "Resolution Scaling: The Secret to Playable \"4K Gaming\"",
-      "excerpt": "Resolution scaling is a great option if you're looking to eke out an additional 10-15% performance, after tweaking settings. If you're playing at a high resolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "originalUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2161/images/2020-12-29-image-2.jpg",
-          "width": 3352,
-          "height": 1936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
-      "publishedDateTime": "2020-12-29T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

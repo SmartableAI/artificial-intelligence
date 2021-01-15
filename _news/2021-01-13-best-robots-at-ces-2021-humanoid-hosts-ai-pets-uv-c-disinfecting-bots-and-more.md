@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/best-robots-at-ces-2
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
 type: article
 quality: 98
-heat: 328
+heat: 318
 published: true
 
 provider:
@@ -329,15 +329,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the environment"
-    excerpt: "Bosch combines AI and connectivity to form the AIoT so it can improve energy efficiency and fight the coronavirus.” Intelligent health and safety: Bosch AIoT solutions honored with To improve people’s health and to protect our planet,"
-    publishedDateTime: 2021-01-11T06:52:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8123660/ces-2021-bosch-puts-its-faith-in-ai-and-connectivity-for-the-protection-of-people-and-the-environment"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
 
 secured: "be8lle/nEVZzb6kNmaeU3k4CZ9kDOpr8MPpO8Ai43OyYeTC+C8tLrEJyqO4MMXOplBPlFYHlZ7kk1emeekMrMYYoh7XTBmwkbpP0PW7kU72v3r4D3uqfQBkKjNeVR0flO+tclDKh15riu9mDqEqnJZVtjIUqbaxauyD709qqlap5pbGl1EQkhNx4cz5qHxD47wQRAtW/gALcxDxKKc0lvrOl+r7/cMqikZ5L+eMy24U0WUQ8536DWriOntBQcy1l5+sESG7WHvlq74NsXCFTB3JXgWvlB8pbMN4QGmZF7KPOwPYDBkcj1BUFihy6IeadSpdLjNc1sG21AXO/uiXObLcJPjBJwi3a2M/0MtnYKAO3RCQkp9fqv8U5luJ0P+Cev/ksZxnz61BXr1c9AUP5Cl1PkZ4RiO9FUlUXptPxQZ2r26i2UB8xxB9FRbMmpW3aR87TUtW7DYT4SHTk0g8/SlxEzPrlRW64mZ57n29hucVE618KFjQhQ/hE4Zhn6UmXxkZUsjMpbq0YurU4j2voUg==;zo+qbw9C7sj6rT29C9422w=="
 ---

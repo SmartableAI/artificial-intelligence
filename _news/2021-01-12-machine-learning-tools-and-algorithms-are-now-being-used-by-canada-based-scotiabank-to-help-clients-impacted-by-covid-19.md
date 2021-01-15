@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171103-machine-learning-too
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171103-machine-learning-tools-and-algorithms-are-now-being-used-by-canada-based-scotiabank-to-help-clients-impacted-by-covid-19/amp/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 600
     height: 728
     isCached: true
-
-related:
-  - title: "Scotiabank taps machine learning to help clients during pandemic"
-    excerpt: "Scotiabank says that its investment in machine learning is paying off during the Covid-19 pandemic, enabling it to help clients navigate uncertain and challenging times."
-    publishedDateTime: 2021-01-11T06:02:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37237/scotiabank-taps-machine-learning-to-help-clients-during-pandemic"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5238.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "meB3mqzRTNZJUdqQMXVzYs/3Nn3YqGW+KPtfV0tD9MqXAe2wHaOt37I1RtIm1e5ynXR7Izwi1PHGZN/JbOwFdOA0jTfEFk+FuVEPy74PuDEXYgchMKMPCmXFT7Wax5eQtBucUWLpMxhp8TMuLUw6G2wo8m4Ua/AzTwBfwpiahPjJJFfWf0O6w6/W/CN6o+ZcZUHqIJHe3+7vYNs5kKc3hVz2hEgN6p11Nn96lgvPPeBugqsYnZ3T5Ji/wufJGERKUNQnBeBqARrjvAFPeb5Ph+mHJ3N2nqxPvn7ud2HEHqJ6QEpFgXC/pYNZI2ujkbCPFO9Vhl9UOG/aad6JWGpOrwNkwRfFTqAltXPneqsx5etuoQ/tIAqesumCXlzrqQzpZtkEJuoDN5hMMMqHIeEb1UzKcfPQAPOHbkmgB92q2lkpGX72NusJ/XlZlm919nj5wGctTetiSloWqaINGdKGjQbtVA3o1mgk9n6M3vzQABLff3mMGZx4XwZppuhWQJUDaUwm8FN8S8fQrO7illNKCA==;IY9mYG1ocv91QB45fBd2yQ=="
 ---

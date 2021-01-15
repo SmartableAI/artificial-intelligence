@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI, ML Are Transforming the Corporate E-Learning Landscape"
-    excerpt: "The data helps organizations update e-learning curriculum and accordingly assign to learners per their pertinent needs. As a result, the AI-enabled corporate e-learning approach goes a long way towards bridging individual skills-gaps,"
-    publishedDateTime: 2021-01-11T06:10:00Z
-    webUrl: "https://www.entrepreneur.com/article/363064"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610345413-artificial-intelligence-3382507-19203.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How AI Will Shape the Future of Customer Communications"
     excerpt: "In this contributed article, Eric Schurke, VP of Operations at Ninja Number, discusses how AI solutions are changing the way businesses communicate in 2021 and beyond. To succeed you should focus on three different aspects: incorporating customer feedback,"
     publishedDateTime: 2021-01-14T15:23:00Z

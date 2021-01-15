@@ -3,8 +3,8 @@ category: news
 title: "Controversial chatbot leaves lessons on AI use ethics"
 excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use."
 publishedDateTime: 2021-01-13T06:40:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html"
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html"
 ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
 type: article
@@ -83,6 +83,6 @@ related:
         height: 600
         isCached: true
 
-secured: "+qWsk8jhZXmsDbmRFT6o6Pb1jZTA9qPYk1krsXWByFLlJG8bt+pCNpHIR3Q4+6WhZI89VwL2ggyCpMcMXonNXgXjGfzmR82PHldf+WXll0P0mSL7OY2QoF3Gk1xKIhGljNiJsH5ae7h8+ziBh2nMNN+SCxlcxqeWh8UZEgnUMHSGUNqtAc8+C+R03ipMOCOH1LVP8CIUCbxWSlRdkYWp0q8oiRBLHFJIiuNPeOPb5ood3n7eqwtPsZPInZlFtC+Obscrr1Ypq3LfLZrnuIPbdh3FFiwMXDoMYOBcPA0zbc56zkU7aENN8ez7By1Ln7Qa8a9GZWuW2ZehJOeV/ZlG8TWhauEJ6znIRuQwN8IFpqK3pWK6EE5mwiGHB6zTeAzpZmR7liQZFNkxB1mi1wAboG69d5DrRM/Bys6KuUbeK737+qyIGGQ8lrx14KGh4aiKlqW+QyPuiojqGFl/UYoSrIQZd3J4JcPCw5+lK45QQadouYhJW1nKrBALC5r/pJR+5+0uaBfykc1AVr1UY7FTUg==;xNykonzJPFgy4Jasub5uYw=="
+secured: "OXWdpE2rbRMoVn4kHuVc/LsXMhMHsmlGqLvEhUw8IxhDwiVUn+OOxVm6DxSH9eN2oU/7rX/X1+a2AmzXOCYCs5IhAud2riJIdtj93uaBiTTPslnniezVxftOMo3kbX6KF+1WTPBZCqppsIjtNJAIU0oGlu4Z/YK13hbqwtXSmGQU9IBhM//UpDUJue0O65B2upeLqgEiNiIM5rIa3GKYLP6v1UErTSCLfjn7ClCQ3NGqOxSimJqMCZBvd9EjiWuJVESa/lcCybMc+f8dVLZE2bU42aJHkapY986ebiBgDjCEysUcsx3ZgSiJyp3QhWpjk5GM0M17HsRDcexTWd00uH5mIrYpQX/0VoKx4NHR7PQ=;oxxV7ASD97TMbSifOTpivw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u
 webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://landline.media/wp-content/uploads/2021/01/210112-Waymo-logo.jpg"
         width: 540
         height: 420
+        isCached: true
+  - title: "Self-driving vehicles allowed to skip some crash safety standards"
+    excerpt: "The Trump administration has issued final rules that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
+    publishedDateTime: 2021-01-15T19:44:00Z
+    webUrl: "https://omaha.com/self-driving-vehicles-allowed-to-skip-some-crash-safety-standards/article_04afec56-576a-11eb-8c3e-b3df21c5e472.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "oS3CJlJPIFoNAKIo85YBMMWW818gDmmzIttMippIyTBbuMxgbMnAKTZ996zzwt+fA+n/Uh/d9UzWWHKeDDk2jhrl2h+q2hphvMrFq17hidlfAwK1Veyk8+kowexf3dFiRtnCFJIvMf6AhJIfRPQOG5nuiR/nekOywQprk+kQ6+UkQS/RmU0RT+ysEx/4TXjvfIqVPgsymitYHC8UQG58W1FgsASEXxywL8UVlGxNa5b5Jh0bXrX71FIR1ZRWcdMgW8Y7i5OeG2QyZiCMnM+6n/4B+RXMEKGFR77NWF4h46J4+6GKU8+pQxM3yIrK3MrbLxhdNyHNRxBXSkd3OVoyDblPfENlTBn+qTTdD1mcqDuW/DObd0PIKdS6SykPqVYY8TG2Pm5IgmduI8NphCOxa9g/yrk347EhMK0W7L996wCchawPRBdSZvrujGdJkyTX/CW+m3BaMSQyazn+rSaMdPtmh2kVS6pmyxCn24Ey2yqVLmNbJLYcW7Bk/n8uWYvwWlINaCS5AH9ukNVHNlHQ1g==;SqCvyGkZChzYWQl9DKIFDQ=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-16-want-to-work-with-robots-all-day-heres-what-you-need-to-do.md",
+      "title": "Want to work with robots all day? Here's what you need to do.",
+      "excerpt": "Today, robots are doing much more than assembling cars. Robots work in the retail, security, hospitality, and logistic industries. These robots and robotic services include drones, chatbots, security patrols,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "originalUrl": "https://www.techrepublic.com/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "publishedDateTime": "2021-01-15T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai.md",
       "title": "Feature store repositories emerge as an MLOps linchpin for advancing AI",
       "excerpt": "A race to build an MLOps ecosystem around feature store repositories is now uderway as organizations look for ways to accelerate AI projects",
@@ -208,7 +260,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -356,7 +408,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -897,7 +949,7 @@
       "originalUrl": "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1000,7 +1052,7 @@
       "originalUrl": "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670373",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1179,49 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
-      "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
-      "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2019/12/fsdchip-1024x512.jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
-      "publishedDateTime": "2021-01-14T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

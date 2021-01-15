@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/01/13/gm-unveils-futuristic-self-d
 webUrl: "https://www.gizmochina.com/2021/01/13/gm-unveils-futuristic-self-driving-cadillac-that-can-fly/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Gizmochina
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung’s Digital Cockpit is a futuristic concept for self-driving car interiors"
-    excerpt: "Samsung has announced a concept tech that imagines turning cars of the future into mobile offices and entertainment centers."
-    publishedDateTime: 2021-01-11T05:37:00Z
-    webUrl: "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/?amp"
+  - title: "Cadillac shows off Halo self-driving car concept for CES 2021"
+    excerpt: "It's designed for a totally autonomous future, and for arriving in style, according to GM's global design chief."
+    publishedDateTime: 2021-01-13T00:36:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/cadillac-self-driving-car-concept-ces-2021/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
+      name: CNET
+      domain: cnet.com
+    quality: 54
     images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/samsung-digital-cockpit-cars-1200x630-c-ar1.91.jpg"
-        width: 846
-        height: 442
+      - url: "https://cnet2.cbsistatic.com/img/FnsB66j2BvtxK2j4lj4uxHt7LKQ=/1200x630/2021/01/12/e9f4b5db-5283-44de-9239-00f74038cc7f/ogi-cadillac.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cadillac Reveals Futuristic Self-Driving Pod And Single-Rider Drone Concepts"
     excerpt: "Cadillac and GM are determined that it simply will not be that way. They are already set to launch a luxury EV SUV. And they have revealed, in their keynote speech at CES 2021 as part of their electrifying future,"

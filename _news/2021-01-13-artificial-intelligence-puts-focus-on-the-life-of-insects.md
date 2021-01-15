@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-01-artificial-intelligence-focus-life-ins
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon to Expand the Role of AI in Military Efforts"
+    excerpt: "The Pentagon is looking to expand artificial intelligence across its military services and agencies. A budget of $841 million has been requested to bolster its artificial intelligence work for fiscal 2021."
+    publishedDateTime: 2021-01-15T22:27:00Z
+    webUrl: "https://www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html"
+    ampWebUrl: "https://www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://media2.govtech.com/images/US-NEWS-MILITARY-AI-GET.jpg"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Artificial intelligence puts focus on the life of insects"
     excerpt: "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing unknown species and for tracking the life of insects across space and time."
     publishedDateTime: 2021-01-15T18:38:00Z

@@ -25,19 +25,19 @@ topics:
   - AI
 
 related:
-  - title: "Vonage Appoints IBM’s Jay Bellissimo Chief Operating Officer"
-    excerpt: "PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, today announced it has appointed Jay Bellissimo as Chief Operating Officer,"
-    publishedDateTime: 2021-01-14T14:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-executive-changes-corporate-news-personnel-8b41ac29fce37e7b5f7815f1dd8db047"
+  - title: "Vonage Appoints IBM's Jay Bellissimo Chief Operating Officer"
+    excerpt: "PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, today announced it"
+    publishedDateTime: 2021-01-14T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vonage-appoints-ibms-jay-bellissimo-chief-operating-officer-301208438.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1019801/Vonage_Logo.jpg?p=facebook"
+        width: 1920
+        height: 1005
         isCached: true
 
 secured: "c6oOdNVNytqowy21op6Sr+c6ygXmn4yjvPg5SkDvTTDjyHjB6WoEpJ3oMZQ+A1yssNTjMVsKL6TXf8NxVGiVwEtkCRKfIim5JCc98ISQJX/Kfo+vnRG8qQgw3cxE75lP2DNqKvt+vwLn+5yXFBbZhHP7t7YHaJRi7H4wS6kObRBmvyjdPMywUyA6ve80HIYY6d8nbtfNNGdPZOQQIWqrYJmQ/Bp1vDFE+gIkOfIsio6KiLOK/ZmpDaCm90MPYiQwIcSSNsl0UBfQY7zV8BLQKgOfC6+OjMt3Ftv1B/Z/VTZSxxksfH8XodoN5N5RQISnhFxrawdMpspKr6OFhxQFzeC/7wyAqvnayaKvGgzSm28=;+KdLtzCFlt4Uxo0a88/2YQ=="

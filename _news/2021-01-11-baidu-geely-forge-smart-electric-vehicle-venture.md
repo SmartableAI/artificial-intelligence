@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-sma
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp"
 type: article
 quality: 59
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu teams up with Geely to make smart electric vehicles"
-    excerpt: "Baidu is partnering with Geely to make smart electric cars, the tech group’s latest effort to diversify away from a stagnating core business and a milestone for the carmaker’s efforts to sell its vehicle technology to third parties."
-    publishedDateTime: 2021-01-11T06:54:00Z
-    webUrl: "https://www.ft.com/content/87b4296e-ead3-4094-a636-4a8b2d1ec1a1"
-    ampWebUrl: "https://amp.ft.com/content/87b4296e-ead3-4094-a636-4a8b2d1ec1a1"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/87b4296e-ead3-4094-a636-4a8b2d1ec1a1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9ff9819-acf6-423a-9909-d10db88a4f85.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Geely to Partner with Chinese Tech Company Baidu to Build Smart Electric Vehicles"
     excerpt: "The plan is to start a new company that will combine Baidu's connected and autonomous technology with Geely's EV platform."
     publishedDateTime: 2021-01-11T21:48:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://images.hgmsites.net/lrg/geely-and-baidu-logos_100776419_l.jpg"
         width: 1024
         height: 597
-        isCached: true
-  - title: "Google Search Rival Baidu Announces Electric Car Company"
-    excerpt: "The tech industry is slowly but surely becoming more and more interested in the automotive market, and while Apple has so far remained completely tight-lipped on its plans for an electric vehicle, the Chinese over at Baidu have moved a lot faster."
-    publishedDateTime: 2021-01-11T06:06:00Z
-    webUrl: "https://www.autoevolution.com/news/google-search-rival-baidu-announces-electric-car-company-154251.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/google-search-rival-baidu-announces-electric-car-company-154251-7.jpg"
-        width: 728
-        height: 300
         isCached: true
 
 secured: "LZdo+p/3wRSIW8BjqUYydB0H0ec04fQqpbrARWselHzoOVZ1aPxieZ0crET/DVOJcfeE4xf4+I9loPaZKwQX7f80XBSaqrXMCHx5MuQC8LP3G/3h6/OzK6AtO1fbAGnmVFi4O1fd6DxbJ/cSFCNwJlrQ5UesQov8CtOEnbHNSPrgDjUtjqCXmMC010yt1ZcsMhLFdvC4YcHKiOPIbN5vWI+3Hb9J3bJDvZ3gZ7WykY7XUWY8Ta12BpDo501Lmhn/3shVhJ72JIf8CBQZkBn6Z3AwOUc95XkHPRTWd1uNmrFCMRBYwu3VrrbQtBFoLZ7NjFYa5/YeKv7gD+rYGML4gW46Ms6Efwd/gt7BR1SFTMZdaNtdp2ejSwIOwiYt6860e2Wr+MDyNq5xX5WkslNiRhFHLdS9DtYBrBihVYFNtJIB3rlTiWfNin/d2QOpta2KzE4jkR+89XQ1v8H97zX2vVLlnFWDZ6L+QneqfvLVkV0vrTrm3Fbdtjpks++w+Kome8Z+7xNMV8GrzrR998o3RQ==;l4/NqIxqXtBIB1XmFk1HPg=="

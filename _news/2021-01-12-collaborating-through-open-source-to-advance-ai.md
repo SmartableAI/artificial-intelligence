@@ -39,7 +39,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all"
         width: 1200

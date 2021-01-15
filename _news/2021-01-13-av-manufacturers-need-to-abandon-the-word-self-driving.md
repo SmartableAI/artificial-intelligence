@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving vehicles allowed to skip some crash safety standards"
+    excerpt: "The Trump administration has issued final rules that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
+    publishedDateTime: 2021-01-15T19:44:00Z
+    webUrl: "https://omaha.com/self-driving-vehicles-allowed-to-skip-some-crash-safety-standards/article_04afec56-576a-11eb-8c3e-b3df21c5e472.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BRGJAFO76P9Rjvq6drSeXli48X5UjGIS40Genv0bSkuMVAqyuhWYOLDTsNkUBzZZfe6YdiwFBA1BkHAKpPUYwAIkXkCNY/28o5N9HYDmpBlCGLS35xYKuoRDxiCCYBsTlyAvxAjKdSUiaGaYg/efybHMSDcmmnAPTt26a4PwfEn7wj6OX4P8Pr+K4xV7S3iNyeeCWYtK2X9Ajwmhr5G6E7rtUzTXvChMzhlxDVLkcI2XKFRUD5K23ElXFFL8fyjZQuhZOKyTuMe4UfI65nlS1oYCtlYoP+yG9eURzm20jz9Iqt+A55uxZ9rA2Z/Hu5RO171MHLpZVGgtyLnSDQruCMFNE6Xzp62fj7bnwO7UFeI=;nnjDEybtik7rErRJauMi8w=="
 ---

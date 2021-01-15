@@ -72,6 +72,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
+    excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."
+    publishedDateTime: 2021-01-15T21:27:00Z
+    webUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/"
+    ampWebUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 57
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/12/IBM_PE_011520_HP-640x360.png"
+        width: 640
+        height: 360
+        isCached: true
   - title: "MUSC student used artificial intelligence to find patients at risk for COVID complications"
     excerpt: "Using Census tract information and the MUSC patient database, Alan Snyder was able to identify thousands of adults who faced a high risk of developing serious complications should they contract"
     publishedDateTime: 2021-01-11T13:00:00Z

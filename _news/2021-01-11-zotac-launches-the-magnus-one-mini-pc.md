@@ -24,22 +24,6 @@ images:
     height: 485
     isCached: true
 
-related:
-  - title: "Introducing the Power Inspired Magnus One with Next Generation Graphics Prowess"
-    excerpt: "MAGNUS ONE makes its debut with the opening of CES 2021, introducing an all-new vertically-positioned design that supports a desktop ZOTAC GAMING GeForce RTX™ 30 Series GPU for the ultimate performance."
-    publishedDateTime: 2021-01-11T06:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-computer-peripherals-manufacturing-information-technology-consumer-electronics-1aab26082407445e9d2097550ecb3421"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "BQ4vzJAK2nYgZGQwkBtBmozSvI6/7rdkxkuoRUGPunlOFaSnr6wBd0N4b6DJY0OzThyuMMMgLxmBBhl3zD1p9cAlVbp8p26pveHD2u2yB9q/nvIdi4vmlv7ol+KSwAUKwYJHzXVcd9MhguNh0dNWanfY4gWqPy6HZF4hLYFsiiCa25CxPlWpIj8o4+6qWkpyyboTzit4msNaVAsdRK8i9TgcvGmYx2xy05QA7w4v+K9d2oAoZUCzi5EEl3kesE2Vtbvr0w64KNVKF6hsgmgzZbi4k26atlL2lZoYv0/LzLAfu0NNYbOOBMrC9oWbTIjq+/E6iRNcbUBPI5jG/KcKfsiORT5mH1nNm1cz3xXljPKPzbPAnpTYXF6s9feCNNmk6PFrAaLoMohGcmOUfRV88nDdZ9QfEz4IW+HG+jZqX1sFIPV8mH70vJjExDBghQT3NA0bbsKfN9Rsl8LStSoYZY8ZwKxkkGVn1Yqt+0AlCqqvqqiyRSWGpW/5svgIEo88wTl4JvxZEF8ABy6sMVN0eA==;N8msI5c6SmS2Ao+/7nQlhA=="
 ---
 
