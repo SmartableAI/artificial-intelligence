@@ -2,13 +2,13 @@
 category: news
 title: "The Promise and Peril of Facial Recognition"
 excerpt: "Agencies are using the technology to identify the Capitol rioters."
-publishedDateTime: 2021-01-13T23:10:00Z
-originalUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
-webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+publishedDateTime: 2021-01-14T04:10:00Z
+originalUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
 type: article
-quality: 91
+quality: 89
 heat: -1
 published: false
 
@@ -23,7 +23,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://images.wsj.net/im-284435/social"
@@ -215,6 +214,20 @@ related:
         width: 938
         height: 623
         isCached: true
+  - title: "Facial recognition software now being used to check temperatures"
+    excerpt: "Since the pandemic started knowing your temperature is now the norm. Security cameras with facial recognition software that can check temperatures have been booming across"
+    publishedDateTime: 2021-01-15T00:33:00Z
+    webUrl: "https://www.everythinglubbock.com/news/local-news/facial-recognition-software-now-being-used-to-check-temperatures/"
+    type: article
+    provider:
+      name: Everything Lubbock
+      domain: everythinglubbock.com
+    quality: 39
+    images:
+      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/01/Screen-Shot-2021-01-14-at-6.24.10-PM.png?w=1280"
+        width: 1280
+        height: 740
+        isCached: true
   - title: "The Army has built the largest facial recognition database of thermal images"
     excerpt: "The Army’s work could make facial recognition technology even more ubiquitous down the line for federal agencies, giving them the ability to work in the dark and the light. Facial recognition is in the news of late for its use in identifying pro-Trump ..."
     publishedDateTime: 2021-01-11T18:48:00Z
@@ -239,6 +252,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "Ys7NRifcSk6kj9MG/VJ7171tImBsMny553ZFmFJwh6b7ydpgv4H8k9YHrJ9KcyovAah7Sfn5R4JMkCGja3Si57vfo/88mqZURAqoNutQrkCPwx0JrBrlhPTD0izLGmNsMFmP/Ch89WOavvXN2xattKGPetwyz6YVk6Ycc2MO1vXalz7W88w9wTLYxkpaDHMas1ZeXMFzKvDCkw8OB/j6xM30eYj55Wa9K8weFwxzRnyDpF8Pu+YQF830GGK/XKYVomtNleD1qc7TyOqK9PCC8T5oD0W+/Xpl3D/Gx4IB1HE8m2+OVkmpNqh7QmIAOYvO91Qtrfj3SCzqRodw+B+W/hrrrREZow92TQM0+yXPWtZV9YiMXLeiPOXF5axLr/zA9XjVbQ+V03LnXwZC+qCdvl5G8NPwEAyzaeBSsSyv2k0onU7SMrZJUCB9XKGly+w2hNzPvPLCiefcKcGQFW9HZ6GItge0pIn5EF141Ta5jNghFSwsogEfLgNI8EzeZymMF6Lxn/haPpI0d6Lwla6AvQ==;CYGtlHpVmEGf8CY3PxvHiw=="
+secured: "4F2FEUfLuqT8PVU+IGxwNive1g4am9XZAGEa1bn6lQ40ayBHW4bLmzLp0VceGedeLyNtzOsjKhuexBQlfBlWeAh9/Avna36Zi6xWB1bvQwCt8UURv4UBi745yRuZDf8gPYr11572Mib38tKJvkILHdRIxsqfK4fR/6vbrMBWfMQVWQSM7VhelerMMN0NgcESFqRoKgDdezvazwLARCLzkpdjWyMQQZeVLzxJNQKX2U6JD9MjEcqMKNLplA2B9uPQLaCLivc03QUyf7JPRLjxcoutPX21KytQFO5Wdir5kYeD8QCZCgFkGkCrqxRbBxMxSBSztj2bGaHwrV+Rfc7NGNTiVeybmuSOITp+y2xm838=;M16kQiUYH3/CzpDvbsHyHw=="
 ---
 

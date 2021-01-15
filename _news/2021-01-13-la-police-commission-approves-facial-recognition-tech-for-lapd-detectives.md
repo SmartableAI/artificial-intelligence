@@ -45,15 +45,15 @@ related:
         isCached: true
   - title: "The Promise and Peril of Facial Recognition"
     excerpt: "Agencies are using the technology to identify the Capitol rioters."
-    publishedDateTime: 2021-01-13T23:10:00Z
-    webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+    publishedDateTime: 2021-01-14T04:10:00Z
+    webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines"
     ampWebUrl: "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 91
+    quality: 89
     images:
       - url: "https://images.wsj.net/im-284435/social"
         width: 1279
@@ -209,6 +209,20 @@ related:
       - url: "https://media.erepublic.com/image/FRsoftware.jpg"
         width: 938
         height: 623
+        isCached: true
+  - title: "Facial recognition software now being used to check temperatures"
+    excerpt: "Since the pandemic started knowing your temperature is now the norm. Security cameras with facial recognition software that can check temperatures have been booming across"
+    publishedDateTime: 2021-01-15T00:33:00Z
+    webUrl: "https://www.everythinglubbock.com/news/local-news/facial-recognition-software-now-being-used-to-check-temperatures/"
+    type: article
+    provider:
+      name: Everything Lubbock
+      domain: everythinglubbock.com
+    quality: 39
+    images:
+      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/01/Screen-Shot-2021-01-14-at-6.24.10-PM.png?w=1280"
+        width: 1280
+        height: 740
         isCached: true
   - title: "The Army has built the largest facial recognition database of thermal images"
     excerpt: "The Army’s work could make facial recognition technology even more ubiquitous down the line for federal agencies, giving them the ability to work in the dark and the light. Facial recognition is in the news of late for its use in identifying pro-Trump ..."

@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Ping An Uses Artificial Intelligence to Drive New ESG Investment Strategies"
-excerpt: "PRNewswire/ -- The Ping An Digital Economic Research Center (PADERC), a member of Ping An Insurance (Group) Company of China, Ltd. (HKEx:2318;"
-publishedDateTime: 2021-01-14T07:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-301208159.html"
-webUrl: "https://www.prnewswire.com/news-releases/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-301208159.html"
+excerpt: "The Ping An Digital Economic Research Center (PADERC), a member of Ping An Insurance (Group) Company of China, Ltd. (HKEx:2318; SSE:601318), has created four new investment strategies for environmental,"
+publishedDateTime: 2021-01-14T07:18:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-1029967086"
+webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-1029967086"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-1029967086"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-1029967086"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 65
+heat: 75
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Natural Language Processing
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Ping An Uses Artificial Intelligence to Drive New ESG Investment Strategies"
@@ -40,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Isz8TtrHIL32LbdebKM0XZORVx3EJTR3LjrG+L0Auli8pYS1R9E7PwuBwsCxjY10WVaQjTAbSD1cggs5HUp395FH3+tcMtGndgeXJxkPWFDj3fgM7Uhs+glz48JMw28LOh+S7poSlQMJbzZ7IbFi+aFVR352uu7R7hv1xO39zfcFmhuo8ir9MpLJhmiOOWfT34d3kRispeonzOr6dg9lSeGVGomPPi3slzO9hiV0GL95Nf7qnc0z7lY8ckvnUBrvVFlmQNTfKoc7PILYKNkvNNXqevYXd9CbQ4Myz5jE7/xtkp05ANEAq11IrNvV8oIsCYv121l9I0xymCXMQlb8VJkD0yJpZHNuFVvSpk2jH+I=;/FTb2DgU+G7rNeZJMl/bcg=="
+secured: "joQK5pSR+vbNdq7ei2M7jWhxdtgUz1HfAe2od4B78EWN+cKBF/0aZ8zfUtugSkX9Emf9ZtkGY5byvVNvXu1DNpp0ZAQ9MFlzgIEd30sBn8cDUF2InNbJXo6rywFizLmbcfKzD1pK9wbnadCX91YPN2nq/ioyrNuvmWugBgwMbv7E4KXS1HoFtzA+E1Tkbcw05jhFX9kAJwSj/Wg4DsSMdtbmgZWL0YqOzae2+RQvGYyMkfFN0FMBwTIeaUdE53FeDw96JyFrr4CmjFg85/VobzDGwqB504uCRB0RtjedGdX98RXXukiOb66fJpqQnfwxQzW6ZU5BzD6CV5jzeXHXFdu+eiw2sQqy1K94E8EzLBA=;h120V7A65CmUlP4yrswTJQ=="
 ---
 

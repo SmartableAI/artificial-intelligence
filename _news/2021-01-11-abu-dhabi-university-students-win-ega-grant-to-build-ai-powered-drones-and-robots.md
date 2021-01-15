@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Abu Dhabi University Students Win EGA Grant To Build AI-Powered Drones and Robots"
-    excerpt: "Abu Dhabi University (ADU) has announced that Emirates Global Aluminum (EGA) has awarded an AED 150,000 grant to three proposals put forth by ADU Electr"
-    publishedDateTime: 2021-01-10T09:51:00Z
-    webUrl: "https://www.albawaba.com/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 69
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/Project%202.jpeg?itok=Dgc7h8g-"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Abu Dhabi University pupils get grant to build AI-powered drones and robots"
     excerpt: "Abu Dhabi University (ADU) has announced that Emirates Global Aluminum (EGA) has awarded a Dhs150,000 grant to three proposals put forth by ADU Electrical, Computer, and Mechanical Engineering students."
     publishedDateTime: 2021-01-10T19:34:00Z

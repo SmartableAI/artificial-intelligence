@@ -42,19 +42,19 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Researchers Attempt to Use Facebook Data to Predict the Diagnosis of Schizophrenia and Mood Disorders"
-    excerpt: "Using Facebook data, machine learning algorithms attempt to predict whether people will be diagnosed with schizophrenia and mood disorders."
-    publishedDateTime: 2021-01-10T11:00:00Z
-    webUrl: "https://www.madinamerica.com/2021/01/researchers-use-facebook-data-predict-diagnosis-schizophrenia-mood-disorders/"
+  - title: "Judge Poised to Grant $110M in Attorneys Fees in Facebook Facial Recognition Settlement"
+    excerpt: "This is a groundbreaking settlement in a novel area that took a lot of effort to get to substantive and professional goodwill,” said U.S. District Judge James Donato."
+    publishedDateTime: 2021-01-15T01:30:00Z
+    webUrl: "https://www.law.com/therecorder/2021/01/14/judge-poised-to-grant-110m-in-attorneys-fees-in-facebook-facial-recognition-settlement/"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 9
+      name: Law
+      domain: law.com
+    quality: 31
     images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2021/01/Facebook-predicting-mood-disorders-and-scz.jpg"
-        width: 600
-        height: 360
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/02/Donato-James-Article-202002061504.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "B1Sfc6bWYRSQgqie7aNyLdpa8tuOoHmeQihvG4NIBO8Mr7cl6b66MUtKsjPD7Afvbw8zO5k92xBnChVzU5UBvk+nG8CFWMwZXQ+hDyvZVqFSfzno42CR+DmLsynDvf3lpH8YChwC7XBA3LFUAqKag06a1pac7+IZeEs1s+rRvHCnMJLX+f4ij+1k0h3EEA5LXh/ZYP9aOTmJFZTOEacRUc6S6tHVIfwQiNLcS6v4P69GSU0L+hdpFz14OwkUNOefdZQvLE9Txb1Q6yqXHILTOuNuPoiUpUuHW8S0HUJmjb1sNU3meVrjEqVDljfimFm8J7x6GkmiuR4Dbg/R8WAxjYAm7jPaaD2dclJyz4TgmuNjkM8knbWA3jcmASs/Lb8T+G1CVN1IWFFHI9RruQuQLU32rvRUP1O9nu7XyT4ZNzaVMDWdpV6ezc5FjAShGB8z3O9E4Aocjkb1f51ralzU4nr1ddVNcQP+maBqOx9XGljnxCtvRhkLdWHZ+9sxIO31NudG/IswdBU2GDu5E+FmEQ==;Zkm97tK5IM4WWdv3L5xWOw=="

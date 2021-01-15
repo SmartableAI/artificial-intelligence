@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Twenty20 Solutions’ enhanced AI technology drives visibility, security and automation"
+    excerpt: "Twenty20 Solutions launches enhanced AI technology with visual detection and classification capabilities to maximize operational efficiency."
+    publishedDateTime: 2021-01-15T02:17:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/15/twenty20-solutions-enhanced-ai-technology/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 49
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
     excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces"
     publishedDateTime: 2021-01-13T20:19:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/press-releases/2021-01-14/ping-an-uses-a
 webUrl: "https://www.bloomberg.com/press-releases/2021-01-14/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -29,19 +29,16 @@ images:
 
 related:
   - title: "Ping An Uses Artificial Intelligence to Drive New ESG Investment Strategies"
-    excerpt: "PRNewswire/ -- The Ping An Digital Economic Research Center (PADERC), a member of Ping An Insurance (Group) Company of China, Ltd. (HKEx:2318;"
-    publishedDateTime: 2021-01-14T07:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-301208159.html"
+    excerpt: "The Ping An Digital Economic Research Center (PADERC), a member of Ping An Insurance (Group) Company of China, Ltd. (HKEx:2318; SSE:601318), has created four new investment strategies for environmental,"
+    publishedDateTime: 2021-01-14T07:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-1029967086"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-1029967086"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-uses-artificial-intelligence-to-drive-new-esg-investment-strategies-1029967086"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
 
 secured: "Q3B5ikSdHu8kxWHuxZ0jS+jnLciBIzw5PSk8Q5FwfgsX7+vFA2fF9srvXrkvFX53eEhHTEL0o8Wwom/3Mg3WoL3pJAxjzNVykh+lS5AO1hWaSoGSYcX3966JtGf6VJXuonIxm8zw8PpQ3eTNbagtqT0tsFbaYCBTXxhm2/ZxRK26lvV/cZPn7VYWXAXY2/+I5gb+C3N9/TDQoxJcvMJFUZLUTPuJfjGUFY6L48mLN1/vM7vUqPI9WG/wGI0+gSreH0QOcu32vVzXPq9+g0ccwd+xFYw4LVXKEdKm8Q9xWtDB+KNDrnmnrWwjbvHBRSdR10CLtTBnssU+G+t8SEhWjcOxrc4aUxN0xBfjYVImjZQ=;GyxlZ3zUq21isRUy32kUbA=="
 ---

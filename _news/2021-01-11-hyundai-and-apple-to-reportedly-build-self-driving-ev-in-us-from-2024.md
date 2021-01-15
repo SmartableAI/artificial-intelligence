@@ -55,6 +55,20 @@ related:
         width: 1920
         height: 1106
         isCached: true
+  - title: "Apple reportedly held talks with EV startup Canoo about an acquisition"
+    excerpt: "According to a recent report, in the first half of 2020, Apple held talks with Canoo - an electric vehicle startup from California. Two sources familiar with"
+    publishedDateTime: 2021-01-15T02:03:00Z
+    webUrl: "https://www.ithinkdiff.com/apple-ev-canoo-acquisition/"
+    type: article
+    provider:
+      name: iThinkDifferent
+      domain: ithinkdiff.com
+    quality: 22
+    images:
+      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2021/01/Apple-Car.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "B0fWPhcDgdf62dY2J/qBTjLZ/sjNnoIkMI8nTGAMzTtqy8AbNRqPQfGNzn+MInjPUbDYnc2Kiv1iAk4TWzlBrZzPtptwQPVyAVQAsSVgtWXEJaYrEDXBite5Fm83IxCZe2cZsgcOOGz3ehwzArYa03k4PMFQnp379C1WSSKYI4tLKVyE3SCHZOBNn5m2+k0+ZDzkcEKgvaglLOFkaPVHjyLbNlsiPciJmZUqKjl4I4aSVW6vGer5AS3lSYuql0Cxzmc3SkwyhXEcEU6Hn66IBNGN+60FMVVyxkFuFw1npejsG8Dv3LDxswg/RiDCPyV28Sutw6NcZ5QTPEpW8LcfqZ56XK3JfvVPZ2sDrY1RaC1Cr9ZWVO4yqJ1rupvYh96WdqjzmAkPZa/IIAMENdotlFGFdX4LHZmAx6/FYQ5t+Om8fyyo6saogwKFyeIMBCTeDPkffxk0Eocitx3rejWk+1XxPNmFiC8qHRCkth5DRjoNHDhzdXFAaaK5VRaXx7Ee2rbI7UKLWOwV9r/Zrva+Gg==;T8C92L3u4DdtFOT12EJ9mw=="
 ---

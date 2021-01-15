@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/us-autos-aptiv-autonomous/aptiv-un
 webUrl: "https://www.reuters.com/article/us-autos-aptiv-autonomous/aptiv-unveils-new-self-driving-platform-with-wireless-upgrades-idUSKBN29G1F1?edition-redirect=ca"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Aptiv (APTV) Rolls Out Its Next-Generation ADAS Platform"
+    excerpt: "Aptiv PLC APTV has unveiled its next-generation Level 1-3 capable advanced driver-assistance systems (“ADAS”) platform for driverless and electrified vehicles. Powered by the company’s perception systems,"
+    publishedDateTime: 2021-01-14T15:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/aptiv-aptv-rolls-out-its-next-generation-adas-platform-2021-01-14"
+    ampWebUrl: "https://www.nasdaq.com/articles/aptiv-aptv-rolls-out-its-next-generation-adas-platform-2021-01-14?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/aptiv-aptv-rolls-out-its-next-generation-adas-platform-2021-01-14?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "gU58LXWR7s7ucHVgnj8VNeaqVjEaCt0ENKwiX7+Dr+vBYWqiM6CRXAeeAHTy+wig0pw8TBNAnejM4IDEUJxtpeypRhniw/KrfsUbnocH5rr6+yeDLyIpfphSSC89KP7WOIy30VXeS1FvIzgLm2JzzNjKjbTrImve4+bdYYcM4CkK/PaOnzVlXntZXarpRIa2gy37PfgdEuaLXoaXGkNBTxQgvZG4A6VWSw8bL+tOeBWixlaShL3Gmv+GGCcYqfHJZtnWKgEasvXESGr+/gweita6U7pnWtxq5wJhvJHY3Anfi7equg3TfI+Qw9474TjserwPPfcF9zb/avsejGd1H7hN6d/krAh4efT6gsgNMTI=;wl0reMeP1qERSAIaraYW3A=="
 ---

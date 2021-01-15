@@ -41,6 +41,20 @@ related:
         width: 1600
         height: 1022
         isCached: true
+  - title: "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report"
+    excerpt: "Insider Intelligence looks at the shifts in the broader environment that fintechs operate in, including key players, emerging technologies, funding patterns and regulatory trends."
+    publishedDateTime: 2021-01-15T02:15:00Z
+    webUrl: "https://www.businessinsider.com/fintech-ecosystem-report"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Marc Levin Joins United Fintech as Partner & COO"
     excerpt: "Marc Levin, former CEO of CFH Group, has joined United Fintech as Partner and Chief Operating Officer (COO). With responsibility for the operational and commercial aspects of United Fintechs portfolio,"
     publishedDateTime: 2021-01-12T10:36:00Z
