@@ -39,17 +39,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Abu Dhabi University students win EGA grant to build AI-powered drones, robots"
-    excerpt: "ABU DHABI- Emirates Global Aluminium (EGA) has awarded an AED150,000 grant to three proposals put forth by Abu Dhabi University (ADU) Electrical, Computer, and Mechanical Engineering students. The grant will support the winning proposals to build drones and robots powered by artificial intelligence (AI),"
-    publishedDateTime: 2021-01-10T17:57:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/life/story/Abu_Dhabi_University_students_win_EGA_grant_to_build_AIpowered_drones_robots-WAM20210110132538773/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/WAM20210110132538773/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/WAM20210110132538773/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 50
 
 secured: "X9hWtSrZ4a/78Z/v2WCj6PX8RjZGvSkViHVcChfNM9CW5vRpn+StzakJPcak+pJJcpc4RZkhQ3MNlQoXY9gXcpulmjI+GOjFS57h6WR7jiThbqMgcFtfBqAL7SYCVlveU48R7f853oTbJCd+Yb3nMYf6pce/q0jl2hKXwpShNYjBDSNX//bYWXRCdGrMT+9WruQx/rb3ffRi0bNauNH+bQy6MuJ1TalQa0I5091OxmULM6iKLa0YTYR4nRwv51TPq8WnQXWRCo7kenpK6OX2BGNgUtsGINQlzFZ7/pp7q+HJnQSxYUQoC9TxDHeUVDRj0DlQ5LoB/37cFbUtJspjmxuKXkEpCKMwTSepEtZJqCs=;6ngB7xwJvLwweS59lF4icQ=="
 ---

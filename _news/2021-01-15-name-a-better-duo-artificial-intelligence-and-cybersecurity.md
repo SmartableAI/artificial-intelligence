@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-15T08:30:00Z
 originalUrl: "https://www.cuinsight.com/name-a-better-duo-artificial-intelligence-and-cybersecurity.html"
 webUrl: "https://www.cuinsight.com/name-a-better-duo-artificial-intelligence-and-cybersecurity.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.cuinsight.com/wp-content/uploads/2020/07/bigstock-D-Rendering-Of-Human-Brain-O-150112583-e1596111178657.jpg"
@@ -40,6 +41,6 @@ related:
         height: 443
         isCached: true
 
-secured: "gYaM0AaMVkkDu5Gne8lvZH7Z9gr3ltNvYadPFPLuW8LFYinqgm/BOtxwTMvcC2rUnqlrZh/gJ6VoUIjcsUv1PrYiEUW7dNHGorw6pUxdCcy8w8+kyNTIUIGnpR+sdTNXtgk1G7oLmLqEIYq4JPtk+dOvNSspAft0ub3zAuttZZIXqPEGvKEEnqUh/yE/cCJF9wCyCcD/QJOae+rQ6Lovy1+YcWw9zQHzTpXMF13AIecIJcHdZpVGk7B+HkzNcHMjnxp7+o7gfS0cXIGDxW5J80bRwNVAgc2OhUgGQW8USmUD+bMzzE+p3Ek+eY3uX02XSmlVHAdYrMlHG/yeMZWFBvjZhAcWdbl219bMfvgE8mg=;PVITqU6sAT2Nc8GxSxeU4g=="
+secured: "C5GzLTlEQTsOBQqYSdruEkJ+dQyQD9SycW97j14KqflnnNroJb+BGULIOyh2afzX7i5tg+OJb71/h7d9/XEx40n5AKJivq7xPs5O1nJ8MuOsYNiyf3MoMZjfNOrga7XEzvNq9b/dqdpOGdcqCjqb1+RkWsJzJhy8zwehYanyPG5ETyhpaLwCRQPj3Y24VNDw//1BqR7bjqvTnbc7cE0J9km+Ux0yeJsdbqcfhpqtYsvP6ilwdeKr554QcTQSWscV8qyHCglX/1Q40oK1iPU5S9kvi7KTEERS8xreIypsuoY1JBxCdqo6poaCXmrICs/3G2FMkoA+RtjyWGmC7J8Mr339gJwVDHwrR9VCG/8ickdoBbow6GKLZkeqC3qGfibN2lHGD0uzsJoJeqT8pI4hp686yrVI/AisseVb5HryBziPIJVHzLpZXb2h+vm2Dmle2IEgLTJf3Bh5CnORvGPwVRW4kWkGVzn55kAEKjj38OEE9MLWTY1/uTcgO0jyq8O/aEz3kLBO1bbS92ky8JjIKA==;DWzXLQyv97IEGUF5d2cI8Q=="
 ---
 

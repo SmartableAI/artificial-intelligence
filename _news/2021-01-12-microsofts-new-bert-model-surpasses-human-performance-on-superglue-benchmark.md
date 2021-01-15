@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Microsoft president begs tech industry to improve its ethics"
+    excerpt: "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past."
+    publishedDateTime: 2021-01-15T09:23:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 106
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Alphabet’s Verily teams up with Microsoft to power multi-cloud biomedical research"
     excerpt: "Alphabet's research subsidiary Verily has announced a strategic partnership to adopt a new multi-cloud approach to biomedical research."
     publishedDateTime: 2021-01-11T14:03:00Z

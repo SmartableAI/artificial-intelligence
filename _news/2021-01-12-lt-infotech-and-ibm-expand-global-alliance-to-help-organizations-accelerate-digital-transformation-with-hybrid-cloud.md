@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "LTI plans to expand global alliance with IBM"
+    excerpt: "Larsen & Toubro Infotech plans to expand its multi-year, global alliance with IBM (NYSE: IBM) to help businesses transform their operations through open hybrid cloud adoption. With the proposed center,"
+    publishedDateTime: 2021-01-14T15:42:00Z
+    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/lti-plans-to-expand-global-alliance-with-ibm-121011400551_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/lti-plans-to-expand-global-alliance-with-ibm-121011400551_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/lti-plans-to-expand-global-alliance-with-ibm-121011400551_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 44
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
+  - title: "L&T Infotech and IBM to expand global alliance; To establish a center of excellence in Bengaluru"
+    excerpt: "LTI will help their clients migrate and modernize core business applications leveraging IBM’s open hybrid cloud platform."
+    publishedDateTime: 2021-01-15T09:51:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/l-t-infotech-and-ibm-to-expand-global-alliance-to-establish-a-center-of-excellence-in-bengaluru-121011500479_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/l-t-infotech-and-ibm-to-expand-global-alliance-to-establish-a-center-of-excellence-in-bengaluru-121011500479_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/l-t-infotech-and-ibm-to-expand-global-alliance-to-establish-a-center-of-excellence-in-bengaluru-121011500479_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 31
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2017-11/15/full/1510720324-0154.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "LTI and IBM to expand global alliance"
     excerpt: "LTI has developed industry-ready solutions using hybrid cloud capabilities from IBM including Cloud Pak for Data and Cloud Pak for Automation and offerings tha"
     publishedDateTime: 2021-01-14T14:03:00Z
@@ -41,17 +73,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "LTI plans to expand global alliance with IBM"
-    excerpt: "Larsen & Toubro Infotech plans to expand its multi-year, global alliance with IBM (NYSE: IBM) to help businesses transform their operations through open hybrid cloud adoption. With the proposed center,"
-    publishedDateTime: 2021-01-14T13:34:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/lti-plans-to-expand-global-alliance-with-ibm-121011401165_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/lti-plans-to-expand-global-alliance-with-ibm-121011401165_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/lti-plans-to-expand-global-alliance-with-ibm-121011401165_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 24
   - title: "LTI and IBM to Expand Global Alliance to Help Organizations Accelerate Digital Transformation with Open Hybrid Cloud"
     excerpt: "Larsen & Toubro Infotech, a global technology consulting and digital solutions company plans to expand its multi-year, global alliance with IBM to help businesses transform their operations through open hybrid cloud adoption."
     publishedDateTime: 2021-01-14T11:47:00Z

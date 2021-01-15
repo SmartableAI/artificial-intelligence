@@ -7,8 +7,8 @@ originalUrl: "https://www.gulftoday.ae/news/2021/01/10/abu-dhabi-university-pupi
 webUrl: "https://www.gulftoday.ae/news/2021/01/10/abu-dhabi-university-pupils-get-grant-to-build--ai-powered-drones-and-robots"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: The Gulf Today
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Abu Dhabi University students win EGA grant to build AI-powered drones, robots"
-    excerpt: "ABU DHABI- Emirates Global Aluminium (EGA) has awarded an AED150,000 grant to three proposals put forth by Abu Dhabi University (ADU) Electrical, Computer, and Mechanical Engineering students. The grant will support the winning proposals to build drones and robots powered by artificial intelligence (AI),"
-    publishedDateTime: 2021-01-10T17:57:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/life/story/Abu_Dhabi_University_students_win_EGA_grant_to_build_AIpowered_drones_robots-WAM20210110132538773/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/WAM20210110132538773/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/WAM20210110132538773/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 50
   - title: "Abu Dhabi University Students win EGA Grant to Build AI-powered Drones and Robots"
     excerpt: "The students' proposals aim to solve challenging industrial problems under extreme conditions • The grant winning proposals entail the development of intelligent systems to provide EGA with autonomous"
     publishedDateTime: 2021-01-10T19:24:00Z

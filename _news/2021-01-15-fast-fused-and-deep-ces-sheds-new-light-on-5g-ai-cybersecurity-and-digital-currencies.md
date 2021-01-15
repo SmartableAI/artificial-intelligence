@@ -32,7 +32,7 @@ related:
     provider:
       name: Credit Union Insight
       domain: cuinsight.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.cuinsight.com/wp-content/uploads/2020/07/bigstock-D-Rendering-Of-Human-Brain-O-150112583-e1596111178657.jpg"
         width: 1000

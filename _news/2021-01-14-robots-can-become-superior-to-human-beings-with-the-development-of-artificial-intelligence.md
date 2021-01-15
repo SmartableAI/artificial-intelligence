@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Top Five Artificial Intelligence Predictions For 2021"
+    excerpt: "Here are five predictions on what we should expect to see in AI in 2021: Something’s going to give around AI governance. Though regulation hasn’t reached a boiling point yet, AI governance will continue to be a hot topic in 2021."
+    publishedDateTime: 2021-01-15T09:51:00Z
+    webUrl: "https://analyticsindiamag.com/top-five-artificial-intelligence-predictions-for-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Top-Five-Artificial-Intelligence-Predictions-For-2021.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "ym3v91vCBQJdWyoUIhQx3jKtSjhNz7mPoDBGtwUNw5VeNtGBJmXQdFJDPqUgCvdLNwwIhGMd0goNU5Zfh8+HP2ZDWX+xX9PSpFcmZotZkxDQVAxyn2iVOsF2HKH9FbfEVtYrd2aTbiLtc+vZ0lPtbA4sCpqW56QFVzOEqscFTuFsf/AWUxB0FB9MDXNIUwdJ/JMj/c/st66LR7cF8gL/YoozWYgDH3XBC6Urbea9j5l4yXwLemvr1CjZIjGJSdPbk71U5bfzjKrHcwvslPvcec4nXwktx5X57r4DMhVSnGB/ewAuc5ePtr/JyqMFDcqqa6D+N9Cgcrg0qvupZDylymf37R2yI4Fcen38OGQ9uQMFQHFzHmNsjIHmBllV7BzzpAmGNXqIWLxSV9RKqtb7EZ1CRgGG25m25B8ABwmPDAiFuoL8ZRhWGAcKZU89PG+Cg5QiRSwIxqG0+2/CCaFR/qqO94Jq0S4h9bjRkqp6Fg4S4QHtYE4EyNl7aX82VWBsq/4KaQkhE7o8RJ7EMq4itg==;7xfsmQ5VIt6Ps3cpuFvbnQ=="
 ---

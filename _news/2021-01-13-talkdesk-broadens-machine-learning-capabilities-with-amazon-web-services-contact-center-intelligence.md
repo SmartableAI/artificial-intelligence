@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-excerpt: "Talkdesk, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer"
-publishedDateTime: 2021-01-12T17:18:00Z
-originalUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
-webUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
+publishedDateTime: 2021-01-12T16:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
 type: article
-quality: 43
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 images:
-  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-    width: 1000
-    height: 600
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -122,6 +121,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CallRevu Enhances Its Communication Intelligence (CI) Platform"
+    excerpt: "CallRevu's CI Platform is powered by artificial intelligence to provide insights into customer communications."
+    publishedDateTime: 2021-01-15T10:29:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144703"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 22
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
     publishedDateTime: 2021-01-12T10:00:00Z
@@ -141,6 +154,6 @@ related:
       domain: arnnet.com.au
     quality: 1
 
-secured: "hyQbSFhDpcO6c+HG/oJIM4jck7f6J/xxErmxpwESdaSquvguHDZ0yKdQME1MrqXS+DK8vN19T6oWO7UkZGilJVvfq4Jr1XyKs7ytSHj1/scPHkOcglBBSvKRjdsgJ0iWKmvzxXskN6dGsuEyDK7y57GkSEJvjsOWAv1KEJA5q1wVZo95cnth7y+Rh/XkUDkGvWqcHSh9uqtUYa/hikcJ6mrZImZ3dYHyl90C67cbqrtCnIfDGC3jEZTdRzyx8Jm7R0QJnD6liRKfDafoRZMcLrsqHRn/4d4VdGH4kR5nF7Cvc1pgKga0eAKhxvtGtr/lWLLgbj2GTgnG8/61u+srdOyruVzEATWt/3/ycRxGXKg=;wb9aOoin5YOHdTDXK2LKRg=="
+secured: "ca93/PELfweCMN/WT6SiPcgt5wrRS0dNhi0KZFC7Q63x9EWYcM2CI5bN+FgYQdPuBzAQHFvZr0bPIWZMnXvYVXQhkR78ptp41Wgi8SYLvppg633USTTufLLKGeVEN/7jbJvPyW7nnOG89gcDIkNHN+1C177lwBeziqvPnWZ7ZhHrFgp6v3MLLm3XNiWIF79AzyWxIL81+bavCLKmoV27I5mrWc7v56nHK9AoVWyHqGpnJjaXya+EkoA1XBK0xifHi9P5q97FFvOGsSQCLaN4hYc7biGSX/cSECz4T6aUyc0OLJFkEhgWycKSW7P7zle480LdjdbTZBALzSCJxq5Tk3zSYFOl1PV3Ja6PM4pxFUM=;ZKCFz1qtUGZrzK4k5NsCSg=="
 ---
 
