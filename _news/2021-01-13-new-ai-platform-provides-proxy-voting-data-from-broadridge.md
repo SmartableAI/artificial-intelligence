@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "New AI Platform Provides Proxy Voting Data from Broadridge"
-    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data,"
-    publishedDateTime: 2021-01-12T12:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
+    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy"
+    publishedDateTime: 2021-01-12T12:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
     excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
     publishedDateTime: 2021-01-13T13:00:00Z

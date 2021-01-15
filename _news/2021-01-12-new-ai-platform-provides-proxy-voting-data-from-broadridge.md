@@ -1,28 +1,26 @@
 ---
 category: news
 title: "New AI Platform Provides Proxy Voting Data from Broadridge"
-excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data,"
-publishedDateTime: 2021-01-12T12:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
-webUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
+excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy"
+publishedDateTime: 2021-01-12T12:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "New AI platform provides proxy voting data from Broadridge"
@@ -63,6 +61,6 @@ related:
       domain: leaprate.com
     quality: 19
 
-secured: "JmWE+pf7x+C3yvyEgoNHV/dm3JoPGrxbC/Gti2AelMHCBkYiDpP71C8OY+JPgm6UO8f40SS/IAcYM6C55OnNzw/FM8Tl7wDLNhnVZufqPDvEnQMeyHvS7lB2x2zWvYvv6mwBFTIt0pjihta8qfGDg3LrHyyUS7VjyhTMTPbYvnKV3Uzu04xPBjMtoiTbvtEECAvRwpxG25dawXsXxl4UdJl5R62wTk09lhyNwPT38nr4OTOXuhbJwCcQE8hzJSJJngntqStUOxCJKp/A9mu24YK2pK6w2W5va4iw+jNP0kP+xl3QGHPkP5PrWWPTB9Cs2OyDtbHPXPT3ChTIazVnAJ+5P06tdAv+EQr0xwrz+Bc=;2LgyPe4VvVFNgmxAv2vO3g=="
+secured: "n6nFiJOcS98sbfivB45xY/hDO8RyM9nhALtVDGDnyLbZFdP6z0/JL9DvT5FgBn0RekvH7F6R+waUmUf8ijTSAnqhxvmjV2bb0IASUdT9N5spCMlsP5GEcD1PDnMTPlXx8XiayAl/Rw0GcmJ0xmLXBxWX+JunpNGLzWIvxFtkeKxYBcmClgy98fRi8GyoJJPnwFNyfeaOrfZT2hqvr3naRtF0MGfRA9wsOZ1KHtIWXJXMBXzum7gXBcPXELr4vlIkCYJciJVs877lR+6HKpnPkD6poNBUM5PQSZAHbzSIE42PSiAR4RW4N36zFb/d6mA10zZSs1dTX4ynNZRHzPA/PlGuuCJj3Yskd2KE2Gv16KA=;VHIAemzKUQESJi4fGd3BuQ=="
 ---
 

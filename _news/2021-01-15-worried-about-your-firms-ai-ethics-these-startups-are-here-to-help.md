@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/
 ampWebUrl: "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Ethics
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/GettyImages-589006098.jpeg?w=3000"

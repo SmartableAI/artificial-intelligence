@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210113/New-deep-learning-fra
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210113/New-deep-learning-framework-predicts-gene-regulation-at-single-cell-level.aspx"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use deep learning to identify gene regulation at single-cell level"
+    excerpt: "Researchers describe how they developed a deep-learning framework to observe gene regulation at the cellular level."
+    publishedDateTime: 2021-01-13T15:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210113090954.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
   - title: "UCI researchers use deep learning to identify gene regulation at single-cell level"
     excerpt: "In a  study, UCI researchers describe how they developed a deep-learning framework to observe gene regulation at the cellular level."
     publishedDateTime: 2021-01-12T05:00:00Z

@@ -94,6 +94,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "Global $50+ Billion Healthcare Artificial Intelligence Market to 2027: Focus on Medical Imaging, Precision Medicine, & Patient Management"
+    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-15T13:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19180648/global-50-billion-healthcare-artificial-intelligence-market-to-2027-focus-on-medical-imaging-preci"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19180648"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19180648"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
   - title: "Business Intelligence and Analytics Market Size to Reach Value of USD 60.49 Billion by 2027 Growing at a CAGR of 11.2% | Emergen Research"
     excerpt: "Vancouver, British Columbia, (GLOBE NEWSWIRE) -- The global business intelligence and analytics market is expected to reach a value of USD 60.49 Billion by 2027, according to latest analysis by Emergen Research."
     publishedDateTime: 2021-01-15T10:18:00Z

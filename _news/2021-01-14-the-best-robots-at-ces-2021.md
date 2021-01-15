@@ -167,6 +167,15 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "Deep learning AI chip introduced at CES 2021"
+    excerpt: "While much of the world’s current artificial intelligence (AI) is software based, the market for hardware-based AI is accelerating quickly with several announcements for hardware AI semiconductors being announced last year."
+    publishedDateTime: 2021-01-12T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16183/deep-learning-ai-chip-introduced-at-ces-2021"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 51
   - title: "CES 2021: 5 show-stopping smart home tech innovations"
     excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
     publishedDateTime: 2021-01-11T19:57:00Z

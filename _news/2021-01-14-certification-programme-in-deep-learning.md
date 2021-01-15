@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/certification-program
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/certification-programme-in-deep-learning/article33571120.ece/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hindu
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mason Hayes & Curran LLP sponsors AI Accelerator Programme Alsessor"
-    excerpt: "Commenting on the sponsorship of the accelerator, Brian McElligott, IP and AI Partner, Mason Hayes & Curran LLP, said “We are delighted to support the Alsessor AI accelerator programme. The accelerator environment is hugely beneficial for participants,"
-    publishedDateTime: 2021-01-11T00:00:00Z
-    webUrl: "https://www.mhc.ie/latest/news/mason-hayes-curran-llp-sponsors-ai-accelerator-programme-alsessor"
-    type: article
-    provider:
-      name: Business Law Firm
-      domain: www.mhc.ie
-    quality: 39
-    images:
-      - url: "https://www.mhc.ie/uploads/Alsessor_AI_Accelerator_(2).jpg"
-        width: 2908
-        height: 1500
-        isCached: true
   - title: "Success for Fast-Track Data and AI Graduate Programme"
     excerpt: "As the pandemic continues to hamper recruitment activities and risks a lost generation of talented graduates needed to aid Wales’ economic recovery, the"
     publishedDateTime: 2021-01-12T05:35:00Z

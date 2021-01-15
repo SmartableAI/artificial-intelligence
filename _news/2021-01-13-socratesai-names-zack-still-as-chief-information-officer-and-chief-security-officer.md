@@ -39,6 +39,20 @@ related:
         width: 398
         height: 398
         isCached: true
+  - title: "HHS Names First Ever Chief Artificial Intelligence Officer"
+    excerpt: "AI is playing and will continue to play a significant role in overall technology modernization,” HHS Chief Information Officer Perryn Ashmore told Nextgov via email Thursday. “As such, I have named Oki Mek the Chief Artificial Intelligence Officer (CAIO) for the Office of the Chief Information Officer."
+    publishedDateTime: 2021-01-15T16:27:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/01/hhs-names-first-ever-chief-artificial-intelligence-officer/171439/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/15/shutterstock_1664489512/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Socrates.ai Names Zack Still as Chief Information Officer and Chief Security Officer"
     excerpt: "Socrates.ai, providers of the Employee Awesome Digital Conversation Hub, announced today that Zack Still has been promoted to the dual role of Chief Information Officer and Chief Security Officer, effective immediately."
     publishedDateTime: 2021-01-12T06:00:00Z

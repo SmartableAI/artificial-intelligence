@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-is
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wearable heart monitors and deep learning can provide early warning of SARS-CoV-2 infection"
+    excerpt: "A recent study, appearing as a preprint on the medRxiv* server, reveals the possibility of early prediction of SARS-CoV-2 infection using data on the resting heart rate in the presymptomatic period."
+    publishedDateTime: 2021-01-12T06:03:00Z
+    webUrl: "https://www.news-medical.net/news/20210112/Wearable-heart-monitors-and-deep-learning-can-provide-early-warning-of-SARS-CoV-2-infection.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210112/Wearable-heart-monitors-and-deep-learning-can-provide-early-warning-of-SARS-CoV-2-infection.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210112/Wearable-heart-monitors-and-deep-learning-can-provide-early-warning-of-SARS-CoV-2-infection.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/1/a021.01.08.21249474v1.jpg"
+        width: 859
+        height: 302
+        isCached: true
   - title: "Machine Learning Tool Gives Early Warning Of Cardiac Issues in COVID Patients"
     excerpt: "Natalia Trayanova A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors"
     publishedDateTime: 2021-01-13T18:44:00Z

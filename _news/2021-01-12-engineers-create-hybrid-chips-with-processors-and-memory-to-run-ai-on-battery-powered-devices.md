@@ -39,6 +39,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "New AI-Powered Cleaning Devices Could Revolutionize Daily Chores"
+    excerpt: "A new AI-powered vacuum cleaner and washer-drier duo could point to a future of automated home-cleaning. Who hasn't lay in bed on a day-off envisioning a late rise and an easy day, only to find a litany of mundane chores invading their mind and forcing them to rise from bed grudgingly?"
+    publishedDateTime: 2021-01-12T14:21:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11920"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11920"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11920"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11920_16104610670255422.jpg"
+        width: 2000
+        height: 1499
+        isCached: true
   - title: "Team creates hybrid chips with processors and memory to run AI on battery-powered devices"
     excerpt: "Transactions between processors and memory can consume 95 percent of the energy needed to do machine learning and AI, which severely limits battery life. A team led by Stanford engineers has designed a system that can run AI tasks faster,"
     publishedDateTime: 2021-01-11T16:06:00Z

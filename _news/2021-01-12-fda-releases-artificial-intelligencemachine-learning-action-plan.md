@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/fda-releases-artificial-i
 webUrl: "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -40,6 +40,34 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "FDA Releases Action Plan for AI, Machine Learning Medical Software"
+    excerpt: "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach."
+    publishedDateTime: 2021-01-13T09:30:00Z
+    webUrl: "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "FDA Outlines Plan for AI and Machine Learning-Based Software"
+    excerpt: "FDA has released its holistic approach toward giving guidance for artificial intelligence and machine learning solutions. The federal agency’s first AI/ML-Based Software as a Medical Device Action Plan outlines five actions that the FDA intends to take,"
+    publishedDateTime: 2021-01-13T21:31:00Z
+    webUrl: "https://www.mddionline.com/regulatory-quality/fda-outlines-plan-ai-and-machine-learning-based-software"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 54
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan132021at40448PM.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "FDA releases plan to advance oversight of medical AI software"
     excerpt: "Food and Drug Administration released for comment its first plan for advancing oversight of medical software based on artificial intelligence and machine learning."
     publishedDateTime: 2021-01-12T22:44:00Z
@@ -53,20 +81,6 @@ related:
       - url: "https://www.aha.org/sites/default/files/2018-07/FDA-guidance.jpg"
         width: 900
         height: 400
-        isCached: true
-  - title: "The rise of machine teaching"
-    excerpt: "The year 2021 will see KM back in fashion, something I have discussed in previous columns, as the use of machine learning/AI allows us to finally get a grip on mountains of information and to identify and make use of valuable knowledge assets. Products are ..."
-    publishedDateTime: 2021-01-11T05:45:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144551"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 26
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/132391-1200-by-630-business-process-management-ORG.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "SzDLvD8HWpK0ENyDR+1NtN4niJVAZnKdnIbMWpDll+A3manb1pfgv+OvNgqBvkulFDbZ9xSuSOgB7x3+Lbxh9Nt3tpSetlmZ+rn5IcuXswtcK3dNE+CLNgeMIOpv6A9DIsbhDBJGkAC4CxavesmwN3UrWMR/x5jawcQDEbSRzQEBmPDciUTDi0JqZIf2Yb3bGMJQrb1SDG4tQefCkvG1k9l734zz/kX75nKFf5eeCS1NJGAcAGE9rwF18kf1n13X2qTNJErpHGqfDHufFeuZvLtx24/AbVgpg9oXbheaUuKf5HUZtupEO4HyKe2ye0chwKc4wSNkZjYlQbuQMTjxnWiDr/iCF6/lh+lN+3bHCWM=;Hwi9BW/bw1DMj4w8QWuRaw=="

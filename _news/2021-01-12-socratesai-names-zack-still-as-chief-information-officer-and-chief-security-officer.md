@@ -47,6 +47,20 @@ related:
         width: 398
         height: 398
         isCached: true
+  - title: "HHS Names First Ever Chief Artificial Intelligence Officer"
+    excerpt: "AI is playing and will continue to play a significant role in overall technology modernization,” HHS Chief Information Officer Perryn Ashmore told Nextgov via email Thursday. “As such, I have named Oki Mek the Chief Artificial Intelligence Officer (CAIO) for the Office of the Chief Information Officer."
+    publishedDateTime: 2021-01-15T16:27:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/01/hhs-names-first-ever-chief-artificial-intelligence-officer/171439/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/15/shutterstock_1664489512/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "m8Yxk7VfJnKhVQadFg/CQo1duoo+tXwwrg3eD0wTAn/rsFkg8AyZ8K44OHbMIaD0OHLa2fQIMZbh1oqb4v5XxR2CMLu4cIdv3ARaVUWf/Ll2/I+hCis4gheNhvQUt0Rzf0GU3wR0qBvqN5bB1rY8DXjTETV6dtzfmuPlXWDpyUPB+xlCaZ2vETR2z3MRNtVrROu56u6eWfp8KO08YEtaFgJYQBhb2rrWpqRnJpnG6SfhAHcm5nWCq+nIF+oGLFyhsjTkGj0yQ2mGhNqAY/t5xf/XDDT3Uf63eSqAnF0mlj7giHfU1BWFtBfAFAYpUG1w74sWrqU+2ljVOloTy4nVlIH7GDrCCvmepVUFc0deVJA=;LmsCXnifXh3tk1IySELWOA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u
 webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Vehicles Allowed to Skip Some Crash Safety Rules"
+    excerpt: "The Trump Administration issued final rules Thursday that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
+    publishedDateTime: 2021-01-15T16:21:00Z
+    webUrl: "https://www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_CAR_CRASH_NIGHT.jpg"
+        width: 940
+        height: 627
+        isCached: true
   - title: "Self-driving vehicles allowed to skip some crash safety standards under new rule"
     excerpt: "The Trump administration issued the first of what is likely to be several rules designed to speed the deployment of autonomous vehicles."
     publishedDateTime: 2021-01-14T19:51:00Z

@@ -41,6 +41,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Self-Driving Vehicles Allowed to Skip Some Crash Safety Rules"
+    excerpt: "The Trump Administration issued final rules Thursday that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
+    publishedDateTime: 2021-01-15T16:21:00Z
+    webUrl: "https://www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_CAR_CRASH_NIGHT.jpg"
+        width: 940
+        height: 627
+        isCached: true
   - title: "AV manufacturers need to abandon the word ‘self-driving’"
     excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
     publishedDateTime: 2021-01-12T21:12:00Z

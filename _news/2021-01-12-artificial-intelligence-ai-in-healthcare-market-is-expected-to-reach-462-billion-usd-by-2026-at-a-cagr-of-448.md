@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12"
 type: article
 quality: 77
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -93,6 +93,17 @@ related:
     webUrl: "https://www.benzinga.com/pressreleases/21/01/g19117222/global-ai-in-agriculture-market-size-share-estimated-to-reach-usd-2-400-million-by-2026-facts-fact"
     ampWebUrl: "https://amp.benzinga.com/amp/content/19117222"
     cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19117222"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+  - title: "Global $50+ Billion Healthcare Artificial Intelligence Market to 2027: Focus on Medical Imaging, Precision Medicine, & Patient Management"
+    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-15T13:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19180648/global-50-billion-healthcare-artificial-intelligence-market-to-2027-focus-on-medical-imaging-preci"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19180648"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19180648"
     type: article
     provider:
       name: Benzinga.com

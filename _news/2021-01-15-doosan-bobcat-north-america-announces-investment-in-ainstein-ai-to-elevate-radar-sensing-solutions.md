@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "QBE North America Leverages Artificial Intelligence to Help Improve Employee Safety"
-    excerpt: "QBE North America is pleased to announce a partnership with VelocityEHS ®, the global leader in cloud-based environment, health, safety (EHS) and sustainability solutions, to offer its Humantech® Industrial Ergonomics software as a service."
-    publishedDateTime: 2021-01-13T06:58:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-occupational-accidents-health-insurance-industry-ebde2b7b3095f63ae21b28be7dc62a52"
+  - title: "Doosan Bobcat NA to Invest in Ainstein AI"
+    excerpt: "Doosan Bobcat North America announced a strategic equity investment with Ainstein AI, Inc., a startup radar technologies company, to continue the development of next-generation radar sensor systems. “Radar will enhance equipment performance and provide our customers with optimal productivity and the ultimate operator experience through sensor technology,"
+    publishedDateTime: 2021-01-15T16:32:00Z
+    webUrl: "https://www.constructionequipment.com/doosan-bobcat-na-invest-ainstein-ai"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
+      name: Construction Equipment
+      domain: constructionequipment.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.constructionequipment.com/sites/ce/files/Bobcat_equipment_1.jpg"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "Doosan Bobcat Invests in Ainstein AI to Further Sensor Innovation for Compact Equipment"
+    excerpt: "The investment is aimed at furthering sensor innovation for compact equipment to advance productivity on construction jobsites."
+    publishedDateTime: 2021-01-14T22:10:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21232203/bobcat-co-doosan-bobcat-invests-in-ainstein-ai-to-further-sensor-innovation-for-compact-equipment"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 29
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/01/mmWave_Imaging_Radar.6000bb7884e27.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 1172
         isCached: true
 
 secured: "PBIQeEUkF5NXuaC15NFzVzRUU1vRu587Xx2h2jTuuXP9MY7Pv57oMDfa+tVS99+SDToC/js7COpbOZkONdnA08A0ORL+Y/jFu5KejovpQQqekiuA+bcGVSA5zjBslqLhQeLdAJDAMskgp3IWWSTvsPqHB30jauscPMHIfuR4ldTss1zYlKtUgr5QlUT3VW7VShqOwaLNjDL4p1L7OPVR3LzA0GB3e4RQXPNS58uwXHLJvJ/O+FOCN1AVuDjnw+vffeymGmHf2Gx7DFfKPHg+7cNDeKdbBhKlArHXjhhppFgVamFN7yj/yXe3kZfcMtXLlR6Q2RsrxX+D/pfmxNpyM28Plt/1cDxeOlwUzVKUzlo=;/U6agdz6SHlRywjoova+Ag=="

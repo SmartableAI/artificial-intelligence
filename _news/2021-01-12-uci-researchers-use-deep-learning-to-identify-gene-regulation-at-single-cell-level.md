@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use deep learning to identify gene regulation at single-cell level"
+    excerpt: "Researchers describe how they developed a deep-learning framework to observe gene regulation at the cellular level."
+    publishedDateTime: 2021-01-13T15:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210113090954.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
   - title: "New deep-learning framework predicts gene regulation at single-cell level"
     excerpt: "Scientists at the University of California, Irvine have developed a new deep-learning framework that predicts gene regulation at the single-cell level."
     publishedDateTime: 2021-01-14T01:27:00Z

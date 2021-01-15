@@ -27,72 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Programming tweak helps AI software imitate human visual learning"
-    excerpt: "Using a novel programming tweak, a pair of neuroscientists have managed to replicate human visual learning in computer-based artificial intelligence."
-    publishedDateTime: 2021-01-12T14:20:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/"
+  - title: "Software promises to improve AI object recognition."
+    excerpt: "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition."
+    publishedDateTime: 2021-01-12T09:45:00Z
+    webUrl: "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 63
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 56
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/7781610457664/2021/1/69303160586a78ce2dec53bee2c8f1d7/v1.5/Programming-tweak-helps-AI-software-imitate-human-visual-learning.jpg"
-        width: 800
-        height: 532
+      - url: "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg"
+        width: 940
+        height: 626
         isCached: true
-  - title: "FDA Releases Action Plan for AI, Machine Learning Medical Software"
-    excerpt: "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach."
-    publishedDateTime: 2021-01-13T09:30:00Z
-    webUrl: "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software"
+  - title: "EU Should Regulate Artificial Intelligence to Protect Rights"
+    excerpt: "The last decade has seen an alarming proliferation of artificial intelligence (“AI”) to monitor protests, predict crime, and profile minorities, in ways that gravely threaten our human rights. The European Commission has pledged to develop groundbreaking regulation of these technologies that will “safeguard fundamental EU values and rights."
+    publishedDateTime: 2021-01-14T16:26:00Z
+    webUrl: "https://www.hrw.org/news/2021/01/14/eu-should-regulate-artificial-intelligence-protect-rights"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 37
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg"
-        width: 690
-        height: 400
+      - url: "https://www.hrw.org/sites/default/files/media_2020/10/AP_20218553920999.jpg"
+        width: 512
+        height: 341
         isCached: true
-  - title: "FDA Outlines Plan for AI and Machine Learning-Based Software"
-    excerpt: "FDA has released its holistic approach toward giving guidance for artificial intelligence and machine learning solutions. The federal agency’s first AI/ML-Based Software as a Medical Device Action Plan outlines five actions that the FDA intends to take,"
-    publishedDateTime: 2021-01-13T21:31:00Z
-    webUrl: "https://www.mddionline.com/regulatory-quality/fda-outlines-plan-ai-and-machine-learning-based-software"
+  - title: "Heavy Construction Process to be Measured by Space-based Machine Automated Recognition"
+    excerpt: "The Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence, announced a multi-year research effort called the Space-based Machine Automated Recognition Technique (SMART) program."
+    publishedDateTime: 2021-01-13T06:32:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21220872/heavy-construction-process-to-be-measured-by-spacebased-machine-automated-recognition"
     type: article
     provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 54
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 16
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan132021at40448PM.jpg"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "Tweaking AI software to function like a human brain improves computer's learning ability"
-    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
-    publishedDateTime: 2021-01-12T18:37:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210112085359.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
-  - title: "Tweaking AI software to function like a human brain improves computer's learning ability"
-    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
-    publishedDateTime: 2021-01-12T05:19:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/gumc-tas010821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/01/16x9/blacksky_on_demand_1.5ffdf547154a5.5ffdf5a323ba4.png?auto=format&fit=max&w=1200"
+        width: 1000
+        height: 562
         isCached: true
   - title: "Computer's learning ability improved by tweaking AI software to function like a human brain: Study"
     excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."

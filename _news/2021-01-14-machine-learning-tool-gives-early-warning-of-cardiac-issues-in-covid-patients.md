@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Wearable heart monitors and deep learning can provide early warning of SARS-CoV-2 infection"
+    excerpt: "A recent study, appearing as a preprint on the medRxiv* server, reveals the possibility of early prediction of SARS-CoV-2 infection using data on the resting heart rate in the presymptomatic period."
+    publishedDateTime: 2021-01-12T06:03:00Z
+    webUrl: "https://www.news-medical.net/news/20210112/Wearable-heart-monitors-and-deep-learning-can-provide-early-warning-of-SARS-CoV-2-infection.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210112/Wearable-heart-monitors-and-deep-learning-can-provide-early-warning-of-SARS-CoV-2-infection.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210112/Wearable-heart-monitors-and-deep-learning-can-provide-early-warning-of-SARS-CoV-2-infection.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/1/a021.01.08.21249474v1.jpg"
+        width: 859
+        height: 302
+        isCached: true
 
 secured: "GqNfz/0Iw8rJFa8Mk2tuGgKeAwd/HkMfiVcB/cEo3WBlh4JCYtOoReDQJyYOrVbc2EoBT8rR6wME6YwYJabb6d1ktsT/fz6JNPOoiJT0LvcYwvC/ViYrlAOwoG7mo/41AxbUzBT7JONzFhvVbfcOpMnOM89hdiT7C48JN5/lwzLTIhii5qR5iuT+x8DIJ1ogHkXi4ezmgrEZ4qdI2qpsBEP0V75n1xksrHUGnwUuKldBapw2/DBocJJi2pPeGj1AycYvA7DBQ+j31bKZR54vJHmsEHDJ2bisVAEeiXjfOrNhpoPkmdB9lHFodfTyC3qudeaaWfwaVoQIgrp4NCk61StO8Id3eNFVINO0Gaj/Cys=;DBJ3eNmBrsuLCK5yymlrBw=="
 ---

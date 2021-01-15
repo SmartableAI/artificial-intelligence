@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Form Strategic Partnership with Geely"
-    excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) ('Baidu' or the 'Company'), a leading Internet platform and AI company, today"
-    publishedDateTime: 2021-01-11T00:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-1029945706"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "CJtVATSlC2A853JMjHWPyC6gGXw77mbI134LDL9ux2qLsgV6ldsRHjbbjZxOx608bbd0umroFv21YTh//B4B+sZ1KUUecke7p+TYZMzs8wuE2ALuRoi3PMGWfSducl0mDO+/b6xsm0tJxiSuA0yDkj+bsJezi49/iqm9SDT1BtwIaxDEpF8ubAXyN2kzbgmBJy4VZSOwmGeNk98ZPrZ31c/TkmAv4gH1zcZ1FCc1mVwjDFqLN+GZ9wlVJdqK9dn2PEa1wDRqYRUEiRdSWDOivPGEOOvrctN/5BEVHhc0dJvdH4mQSc0vH+dxtrnP6J6ZqZw+oPMfDlXYCi1tv11H3spQ1hphjuo6DcNM+lteKHc0sfpjXSzHff2HJtyVbUxlpsZfNJqVMDRuo0nJEfauwdqKZh3v43W0CNUcHP4gpk8ClCJLd6yvri77Ecd23AzRZAH70YtLZ18vAcSTqXnwaiRPotNDIwRwXh0zUY2nz76A11MrD57lnsSY9CRTcjvEFvn225keSJC6Le9Z7qQZNg==;heBS0Pqww4O6p4Op+w+bxw=="
 ---

@@ -52,6 +52,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 96
+  - title: "Microsoft gives users control over their voice clips"
+    excerpt: "Microsoft is rolling out updates to its user consent experience for voice data to give customers more meaningful control over whether their voice data is used to improve products, the company announced Friday. These updates let customers decide if people can listen to recordings of what they said while"
+    publishedDateTime: 2021-01-15T17:00:17Z
+    webUrl: "https://blogs.microsoft.com/ai/microsoft-gives-users-control-over-their-voice-clips/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero-1024x585.jpg"
+        width: 1024
+        height: 585
+        isCached: true
   - title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
     excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
     publishedDateTime: 2021-01-12T17:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-can-pow
 webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-can-power-climate-change-strategy-marr"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1377
     height: 600
     isCached: true
-
-related:
-  - title: "The UK government and an AI strategy"
-    excerpt: "Welcome to the third edition of the AI and Global Grand Challenges newsletter, where we explore how AI is tackling the largest problems facing the world. In the short term we are focusing exclusively on the use of AI in Healthcare and Climate Change!"
-    publishedDateTime: 2021-01-11T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/uk-government-ai-strategy-marcel-hedman"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG5Z2FVdKcrgQ/article-cover_image-shrink_600_2000/0/1610396850632?e=1616025600&v=beta&t=c2BaiO9lvXWx3_azpoIaYn7lbpQ4fgLUJG8opJ0xQww"
-        width: 1800
-        height: 600
-        isCached: true
 
 secured: "7r329vq490uSB2C3OPKtA3xpssMPLYqFS5XR5INpprfXY7MUeJ+ZY7zlTPE8Q2U+8+54b14KMUYj7hiVh4CBx1z7XBNxQaPhxvCm8TY3HvMP1dBW7UnhozyDIf7LNrogi7OlGHlq5VkSKW+Cs2Poyamgv82e0GOy57B0TK4MsD3GM6BJHcgFxs+WvnFCWHuJLCLVAF3iGY8K+hMqndjK7zzBDpvxsM0p2dOfelCk3FGEJHXZEYLfASi2GFF3Osd6eK2/WdZ4B5HaOe9sx+XXt+rmDjDiojq/1XLBJzgxM5nVyEVJ1FfDOSrr7HWmPdlHs1GQn1WJrVvTrTEnXF5MHsHeZu+VbCy3gXcAidOv0c5RMciirINWptnE1Cwk/Y5sTYHdCln4UJcH0cw2/RKjwXo8tl1ffzvr7RFZEtY3HCHG3vDptl6Asi8hpyNLDhdKX71R4xn8TTm5ycw6k925WDQfDDZKuysRMI8lV31nx8Vy/Q8PKaqXazc/offQ+xCq6RxNqu0a7c1P7Yg7KZ6R3Q==;TZAAGXwPF+T9n0LK76fvuQ=="
 ---

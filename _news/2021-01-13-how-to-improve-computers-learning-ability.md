@@ -27,21 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Agdhi to use machine learning and computer vision in agriculture"
-    excerpt: "Agdhi will use machine learning, computer vision, edge computing and spectral imaging techniques to detect the defects in seeds and crops"
-    publishedDateTime: 2021-01-11T08:22:00Z
-    webUrl: "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/"
-    ampWebUrl: "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/"
+  - title: "The AI Incident Database wants to improve the safety of machine learning"
+    excerpt: "The AI Incident Database documents failures of AI systems in the real world, revealing past failures to avoid repeating them."
+    publishedDateTime: 2021-01-15T15:09:00Z
+    webUrl: "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 76
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2015/10/Agriculture1.jpg"
-        width: 800
-        height: 529
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/AI-incident-database.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The AI-Powered Robot That Learnt Curling Using Adaptive Deep Reinforcement Learning"
+    excerpt: "Using adaptive reinforcement learning, an AI-powered robot named Curly was able to beat human competitors in three out of four curling matches, a sport that requires strategy and precision. While trained by a simulator,"
+    publishedDateTime: 2021-01-11T05:22:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 100
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffbdfdfe032a0b1f7da3deb%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Improve computer's learning ability by tweaking AI software"
+    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects say tw"
+    publishedDateTime: 2021-01-12T07:51:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267510156/improve-computer-learning-ability-by-tweaking-ai-software"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1610437370.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "The rise of machine teaching"
+    excerpt: "The year 2021 will see KM back in fashion, something I have discussed in previous columns, as the use of machine learning/AI allows us to finally get a grip on mountains of information and to identify and make use of valuable knowledge assets. Products are ..."
+    publishedDateTime: 2021-01-11T05:45:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144551"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 26
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/132391-1200-by-630-business-process-management-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9fzdT2gaUMXEAKUNQ2iSQg/rK3etsZLDrhE6a/jvmr2MwTyrT73VnNz/qP0aR9Z1p/XCmAgYBZ2HWibPNkO3q+z7R0u5uYH0JgxYa3OMmM9xWL0AYc7fWWHEDWc9AiezxCirfD/COabW1Sjo1L9qMx86eVOxaGAoUS4VpeXdcEzK4POTHyZl9QB+knLHjYtbI/6VtZiCXN1dt98oHo3cAicDfmsv5j3ELYEU8WZPozB1P1UXm6N5NgJ7kNXhlpyOAYy5UifWlPnAxCUAo6acWNOpJToMz2+u+/M8KxjGxWmdcmTASXgDR4yYXfEhc65NTwC83MhoJbPcpWK7S8EG1HbvG+48Hrs4N2jmreaehyU=;KNcSzrvkytQkvprEXhWEVw=="
