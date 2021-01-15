@@ -39,6 +39,6 @@ related:
       domain: modernreaders.com
     quality: 47
 
-secured: "jGm8GB2wEUtsWLLm0LStQekQo58fXATeWBAonUW9p1cudI/NYhSeyc+9aWhaw6Q/IurzqtQSmdU/Vf0NEEB3zg1Dtd/kJ+c48akS0j4CsaElH5rRap/ZQ4IQooeaLbOJw4CzkBle+MmWIhTWEQRJ76eH3+tD+em20XSqVe9lk/BO7oxRvVX4NNzlZefwEQvETGUkG9mAe03+c9fS/B5G3g0NQFfd2DEuMr/Zx6+HHStBEu/se3xFM6jM3iWT6gAdyu66HW+AdEjA41lBX+SmffdyAE0qte6trWp7X9fFvhj/v+s6Veb+cz/Twdw22U0Kd62gjOdQLIwyw5fLClZ8G37wgdtag96FJbyLlYG2Wnc=;YMBz5QygzVGV3XRVLBjMUQ=="
+secured: "Z/Hk9+8bD33wH/oHEsNBlOS1ckxZAKcx3FZEb1lhFoSQrze2Ess11/N+xiRIzot71sN7lma1C9/5Wrp9D39u0Iehc49qQ4en3mFX1qQQ0f7+2vlATZupW2xYUdkYc2JhfLvFgc/Z5l7ag6ubw2hUKmq19abAF5xXAvAVgI9SfKLAi8+qRSWSraYS+Z5wJDSf0WIFpWFyqsRxRpJxIEklb3MgPkOUM0CJo0GnWSUU8vSBNh5mGCjjoBrnahba0AKaIy61q0GcFqPEQZYM18bMqVHKMStgg6zkSgkfhkfXBrZd+SY0cFxa7PJkbyTbfLSR3/A6pY/h2pmFX6UZo6oSL+4aTklnMoTOfX53QsP9A5w=;Rdb/0Inc3Qv1LfrfwhApJA=="
 ---
 
