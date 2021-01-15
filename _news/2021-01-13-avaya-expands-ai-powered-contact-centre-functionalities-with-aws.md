@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
+    excerpt: "Talkdesk, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer"
+    publishedDateTime: 2021-01-12T17:18:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 43
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Avaya partners with AWS to expand AI-powered customer experience for OneCloud CCaaS customers"
     excerpt: "Avaya expands its AI-powered customer experience capabilities for Avaya OneCloud CCaaS customers, through a relationship with AWS."
     publishedDateTime: 2021-01-14T01:18:00Z
@@ -105,15 +119,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-    excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
-    publishedDateTime: 2021-01-12T21:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 21
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
     publishedDateTime: 2021-01-12T10:00:00Z
@@ -123,6 +128,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
+  - title: "Avaya expanding AI-powered contact centre capabilities to improve customer experience, participating with AWS Contact Centre Intelligence"
+    excerpt: "Avaya has joined the AWS Partner Network (APN) as an AWS Select Technology Partner. As an AWS partner offering AWS Contact Centre Intelligence (CCI) solutions, Avaya can enable customers to leverage AWS AI Services and Machine Learning (ML) capabilities to drive more rewarding customer and employee experiences across both voice and digital channels through natural,"
+    publishedDateTime: 2021-01-15T00:05:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137127/avaya-expanding-ai-powered-contact-centre/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 1
 
 secured: "w/4jkfhRK0l2y10MQEM3MX/W6Iobi6OjJka8QIXketvG6yoLobCWDC+pS8xnCvi4l7Zzm07lf8U/N0wFl/jL6E6cTlvTPcVbWBwyKZsQbnZlkXZpmpI6cuaeEwHdryoj0nzwqn49gbpLa1Gii06QL6Ccp15b1Ww9ckFQxLWYbRGhHc/PQUJykofp4AAkea340faeGB7/e2GZM3TaeqxTJ0doh6M4rmNxNZrTQyMhQBzeQq+UCgXqWHK4DkBOrrPpVBk+xjtx5JX8oel8ReIBQF+vPY6Ld7X9thHuF+7ncQ8CfqN6N8FNdvwtf3w1C3TedpIIO8OhYjsT0MasOtXdISkSbpnQKWggYgf2Oi/60Wc=;fm0FcgsCJMKBlNHQRCjEAg=="
 ---

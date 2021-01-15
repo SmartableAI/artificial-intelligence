@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-14T21:13:00Z
 originalUrl: "https://asia.nikkei.com/Business/Business-Spotlight/Singapore-startup-Taiger-earns-its-stripes-with-AI-technology"
 webUrl: "https://asia.nikkei.com/Business/Business-Spotlight/Singapore-startup-Taiger-earns-its-stripes-with-AI-technology"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F4%252F1%252F9%252F31759143-1-eng-GB%252F20210115%2520BS-Taiga%252C%2520Singapore%2527s%2520AI%2520champ%2520img_Main.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
@@ -37,6 +38,6 @@ related:
       domain: compsmag.com
     quality: 37
 
-secured: "KxLRGan7srIhhXtBQGhaubA7jzXlXwScFcuewr92yzuzxq6oV+n1Gt3h6oQougl3TjwPYv7d2hfvrGFByA9nLBOqtnmysvyz11Yl/oZUae7csNc6MLPijLTryeNKajt2mOd6qEMzkRwJ4rOdYg+SoLZgs6LiQCIEXtCduiba0ej5KJxvS+R7HCK/IY2l1NgddMwBuUURqD8VvMLBqnvteuMHzE9rhML0JHrgBCb5p2uYSqawPL74V/SL/pvzRp0lO+gxWl2efxi4CYllGL6lnWEIAI+F7l9Ht22OtDD0s3mohUFALYO5BYzj8tBidBtNOZnvBQ93H/D9fLRpXiIxUqoUhB7Ev9DbQTnzZFBxfPc=;cneOChz+N1TDxyM56dRN/A=="
+secured: "zN+QWjc/lMs7tYhitpi4Wu+Mr/zyeUXm0sx7eyw/NL14K5eQnMQVshT1p9pevjHZuAe3ntjboloEchecDfdJCX5judWxbwg/srzR7Ey0yOJM4WofxK7Jgsr47KB0TWC1+jG6U53dI8pacS354VtUr/j0kdecgF8eSUudnJ9W5j4AsPlVpf/sr9o9KcLOe1H0RJFxoGHZHh1alTV+TZsNxQLxFtAFjQgXsdCqauDv81G2vRv6i+Mc2T6wIUDsDxWQ5r5Gz9luo14yzvnWkJzM+PdbFJ2Crr1z+sW9SzxfdR6cBQ0ud4/mSh/aEsPztEEm+fTe0x9319wVuxVBvbqTsvy155ZqtY3p1hlCW4tCIbf0KaQ7Ox2dW5ku0lQRmhBDFJ8Bg7I4eeWm9u9DtZwAw68+Pgsl+3MQ+vwM/ZTPpcHLyhRyKMeQvAMyZXcxQnk0tKwTVENpICi0kbwddmssqcOOpcK5ESvWZD1Q0CkqmF/3VlvKCEhdcml+BEsvjz84pq/tWo9KvodJ9bXajpj00A==;Mm330lwdOsjIblNiy6Yrug=="
 ---
 

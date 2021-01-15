@@ -57,6 +57,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tackling subjectivity in hiring with AI and machine learning"
+    excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
+    publishedDateTime: 2021-01-15T00:56:00Z
+    webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670187"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 64
   - title: "Webinar on role of AI, machine learning held"
     excerpt: "Gujranwala Guru Nanak Institute of Management and Technology (GGNIMT) managed by Gujranwala Khalsa Educational Council (GKEC), Civil Lines, organised a webinar on role of artificial intelligence and machine learning."
     publishedDateTime: 2021-01-11T03:13:00Z

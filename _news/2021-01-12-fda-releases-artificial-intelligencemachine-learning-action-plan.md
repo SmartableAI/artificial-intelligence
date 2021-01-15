@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/fda-releases-artificial-i
 webUrl: "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html"
 type: article
 quality: 56
-heat: 87
+heat: 86
 published: true
 
 provider:

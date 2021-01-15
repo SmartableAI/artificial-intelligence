@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-n
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/amp/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:

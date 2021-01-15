@@ -3,11 +3,11 @@ category: news
 title: "Ugandans lose voice, digital rights in pre-poll blackout"
 excerpt: "Uganda's ban on social media days before presidential elections shows a rattled president flexing power over the Internet at the expense of free speech and citizen rights, digital campaigners said on Wednesday."
 publishedDateTime: 2021-01-14T00:31:00Z
-originalUrl: "https://www.reuters.com/article/uganda-rights-technology/ugandans-lose-voice-digital-rights-in-pre-poll-blackout-idUSL4N2JM3GO"
-webUrl: "https://www.reuters.com/article/uganda-rights-technology/ugandans-lose-voice-digital-rights-in-pre-poll-blackout-idUSL4N2JM3GO"
+originalUrl: "https://www.reuters.com/article/us-uganda-rights-technology/ugandans-lose-voice-digital-rights-in-pre-poll-blackout-idUSKBN29I2TT"
+webUrl: "https://www.reuters.com/article/us-uganda-rights-technology/ugandans-lose-voice-digital-rights-in-pre-poll-blackout-idUSKBN29I2TT"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -22,6 +22,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "PAjNFDtHSDmULGXjWPqJV2AknkZ3+Sk01SE0Hl1qz1sZ5XZUejhg4d5G1ANkvcJJ8TO+3UPE8AFJ8wW/NzSPr3gt3tle0XQdETZ8BPHJhnzL7wXJFacDk09SPQIR0qAwgiCsR8LcK7A2me0TS+O4Y2CsjFoEQBGzzbM9zbiSO3GtHwKkva9zCIIrzcO0QudRNdnb9YG/QTf3pWpbrJ0rCwc7RmfcesnK5m25/bzrjlKC799UeyjfOH4oioFLiK6y3Lz8Tq1CiBUk96C5edYMoU1f/tXeF+vBuJhDWs/CGfZq8gLizQNR4cEJAqJbgWGPZ5ZW3KUHHrwsYajBIsyu1lBRPbYei/wVn5HFZA3Jh3w=;IDY2WfWIcD9waU7WMaNvyA=="
+images:
+  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "bj9BWmYdQ+ZWs6jJynysFFLJJ1kWZ8R6WKt3YZ+PXH0vcrNFbSkjXvzOHj1CHYQfW57nFBez0D4DaBBvmuhO8nlHtsUoH0UIkyxMruNvQzbny3a4RpzxLzGz4M6doR0JYYCYss81dXoqg36WN3Wt80Jx3LV600h+/PGMhrtBFBl/jk393j7VVQ1ZzgLwG8wc56bAuwsrfsYsolZue6hDcanhoXA97fAbmv5/mdAVr+QV+q6Cv3UTDErB12bIs1YP5p8b1hOhtud2JWzMg7xMHZGJDWC6YuSZNjY2VlVxOp94aDY0BDFwoPnb2eFY/sTFT9B5s5voi7xgu7zNVWfQh/Z1KESecrlYQxc8+XNKxVM=;ORJB8YOtS06XVMaGB0x8tQ=="
 ---
 

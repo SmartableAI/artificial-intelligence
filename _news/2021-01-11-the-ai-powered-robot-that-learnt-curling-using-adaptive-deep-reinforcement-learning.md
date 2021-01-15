@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/11/the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning/amp/"
 type: article
 quality: 100
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tackling subjectivity in hiring with AI and machine learning"
+    excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
+    publishedDateTime: 2021-01-15T00:56:00Z
+    webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670187"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 64
   - title: "New AI-Powered Cleaning Devices Could Revolutionize Daily Chores"
     excerpt: "A new AI-powered vacuum cleaner and washer-drier duo could point to a future of automated home-cleaning. Who hasn't lay in bed on a day-off envisioning a late rise and an easy day, only to find a litany of mundane chores invading their mind and forcing them to rise from bed grudgingly?"
     publishedDateTime: 2021-01-12T14:21:00Z

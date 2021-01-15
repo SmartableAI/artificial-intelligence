@@ -66,6 +66,15 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "LTI and IBM expand Global Alliance to help Organizations accelerate Digital Transformation with Hybrid Cloud"
+    excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI), a global technology consulting and digital solutions company is expanding its multi-year, global alliance with IBM (NYSE: IBM) to help businesses tran"
+    publishedDateTime: 2021-01-13T14:23:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=280694"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 0
 
 secured: "HV6ZoKRRbhmy5LJugk/PZSMRElpO1JgWQaHJZhKBBbfLCwWdDgMKCvWcB/u8sTszhr4qO/QNVpRuE+AcnRWxvvYuXNrfbVPG/vS6ExEk57xxG8fVaYQC2VlKVmt4u4kVWoafaPVCjwtJm8pNG2aOBT/Dia7EUS/KnfJZWqZPTHmt9R1+AetxB5A8plIDX6sZACAmjkVV9ELYriX4ben9YU8+pbJPxy+eDIUZEJyZZopuSrsRxoQEIyJTVj1reiLC5SRLXLXjbiGoZmOfQr9BADGC7MPJS4Nq4PraNmT5QrOrv30ondGjJojeSQonxdrqO8ZNWVz9O5ZwOooy1NxZt77iZqT1dzBzn4qc+gq8eAk=;5yn/Iu7wLogX+5YoycTGiA=="
 ---

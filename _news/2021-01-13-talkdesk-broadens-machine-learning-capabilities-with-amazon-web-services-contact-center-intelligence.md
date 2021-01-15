@@ -1,23 +1,30 @@
 ---
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
-publishedDateTime: 2021-01-12T21:12:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
+excerpt: "Talkdesk, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer"
+publishedDateTime: 2021-01-12T17:18:00Z
+originalUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+webUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
 type: article
-quality: 21
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
+
+images:
+  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+    width: 1000
+    height: 600
+    isCached: true
 
 related:
   - title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
@@ -124,7 +131,16 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
+  - title: "Avaya expanding AI-powered contact centre capabilities to improve customer experience, participating with AWS Contact Centre Intelligence"
+    excerpt: "Avaya has joined the AWS Partner Network (APN) as an AWS Select Technology Partner. As an AWS partner offering AWS Contact Centre Intelligence (CCI) solutions, Avaya can enable customers to leverage AWS AI Services and Machine Learning (ML) capabilities to drive more rewarding customer and employee experiences across both voice and digital channels through natural,"
+    publishedDateTime: 2021-01-15T00:05:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137127/avaya-expanding-ai-powered-contact-centre/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 1
 
-secured: "OBi4+yGzF567DYVNM0q1EHt9ncY8huFtvUytYPpiwhcop7HnHrB4WsFJfjvlXDL3OIWcZVRXlWdZ2dyQ8eAY0pMavqJgZcZoOcpoaO8X3+R0AejVtxnq3Ht6g0wlOtOHBLuRhaOHNXAoBukXtrdWs+y5rUdWwar8Mtp7E7/Q2c3ErWQqaukEcvSuX6vV2jb3U8MjLs3TV8SbrnQiPEz/gcQ5FIAkQsUNBPx13e0HPkU1eFs90GPVauJqwYStCqNONLG+jwX8aECFgFkFZRhydkc079L4ZfDBDl/tg60Q5Aub/jDNoR7wnyyZDdPGZCXXBGW1EmW7hCd6LWyjalKhDiRTdJDJvz/y+I1aWcHFvKc=;WujZaZRgcF0Q1XNQgVPobw=="
+secured: "Nfz4vgKKPbBbeAXm1hNtJ8J+4I6MFXVU7DK6TAXosfjT+hWwIrgh9XyHgoTdk7HETpLKj0IosGNkWH0o30cJXNshEax6N9nm9pxKGWMTaBBNIDtBuQpIIH3Fp6J29/7NRWIPIL0IANQJNU9I+F4iZPQiKG0C6wSmgjYekIK0QwUhuiCMVHQzknZeZ3bnak6MAryo5tyXajPjskdnhiJZJWZONQfyKQtLtszSDdEDxwIN/FfCGhK91Uqi52n3aM5T3mK9qkg0qxu+ypvkJfK6kKU26eJHkhdDvHjDhA91njwudy9n3Ocqg/hA1lBHOnBvDTsvN50MhUCNDnX5EK8srQOPZo/RkJ958e//2TPDAXM=;bWw58au/Um0J2ynpLZFxYQ=="
 ---
 

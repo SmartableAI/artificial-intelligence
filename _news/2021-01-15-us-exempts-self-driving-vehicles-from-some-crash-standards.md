@@ -2,23 +2,31 @@
 category: news
 title: "U.S. exempts self-driving vehicles from some crash standards"
 excerpt: "The outgoing Trump administration said Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
-publishedDateTime: 2021-01-14T18:37:00Z
-originalUrl: "https://www.nasdaq.com/articles/u.s.-exempts-self-driving-vehicles-from-some-crash-standards-2021-01-14"
-webUrl: "https://www.nasdaq.com/articles/u.s.-exempts-self-driving-vehicles-from-some-crash-standards-2021-01-14"
-ampWebUrl: "https://www.nasdaq.com/articles/u.s.-exempts-self-driving-vehicles-from-some-crash-standards-2021-01-14?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-exempts-self-driving-vehicles-from-some-crash-standards-2021-01-14?amp"
+publishedDateTime: 2021-01-14T23:39:00Z
+originalUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "Self-driving vehicles allowed to skip some crash safety standards under new rule"
@@ -38,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "sYSUes62duQUxJPyeh/BuTJzsHXIYVrqgoSVXh+Qcx6/GSd8tPwOqnotGcBFXZPnIGwXy6m+a+Au/AHd/y+h9NbTu0SZVfqtbohh8bAQimyKSHgHI6vzHLycpP+bQs6N2jPYBFto7IdMBpr+MkAtcWD6YN+qOC/1MgofIQoWm98lg4AthjI5hx13aJqV0XXbAFqsd33Yrnwhar8bjKw7h9p1XwtSvpp8tL6f6tOSzu5p+BJkp3KTiFiOLR+gwYrkNFiF/Ne1doFtN3eceT2LGaMHgmI9EViFU/jt6IVhymbzEfJnHe55I1YMJNgl/5mPa0sFMt3B8f9f37/ogKq2OSAHpZ0UchFVbBAbtZe5zie9APXI+AxVTcqB8d0LTgTau40oVebYsH5xha74LM9QP+eANlL/FTZ9SOudtl2T2Qt3wKD+phBbUIa/hbD0/Zyk9CIS/yvNTgCd66V/gjfW1ejFhdiOAwiiyvEvAOwl5LwkD2gcbxKFwhWQUziQ/5YxqZGvkr8UTiTSBrlLy+LkeA==;f+GC2cXakSPjqH96IoD+Yw=="
+secured: "m+Wcicc3rAhBnm5x3q3apoYN0nr+agMpba+58Z3W+j5yNgn8C0eYE9+MdO4vvI6/gkVOypM7/YSSsanFikRfvkpnrOvJrquXvWTNmt0qTiLdmAUo80SB5b/nbtEw2FSV5Fuigdx/qg1pSFHm/LKl7eGR3+FI9SLAibk3KO58I68Rd6SAraXGPtmIO4r82VrQuwec8jJcicrhQKEzlxrl2Rm6abSah5kE0ryMY/OV3rmc5SuMrvUf9L9Fg34qm9nOvbK9UlqIeho+Bv/t3Im79bWSbQ/EtpPsyOUoakZEvixH47y7JIZKwZB1VVaemKE6t15BbGUx7SWD3ToEeDnNj6Qoz4qwhGQie99QjfP2GM0=;C3GiYf1qxXToYR7PO4Ax7w=="
 ---
 

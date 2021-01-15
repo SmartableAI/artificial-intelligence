@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Artificial Intelligence (MAI) Market is expected to see growth rate of 28.58%"
-    excerpt: "Market is expected to see growth rate of 28.58% iCrowdNewswire Jan 9, 2021 2:14 PM ET. Global Mobile Artificial Inte"
-    publishedDateTime: 2021-01-10T08:52:00Z
-    webUrl: "https://menafn.com/1101411654/Mobile-Artificial-Intelligence-MAI-Market-is-expected-to-see-growth-rate-of-2858"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Image Recognition Market worth USD 53.0 Billion by 2025 | Latest Innovation, Advance Technology, Top Companies"
     excerpt: "According to Market Study Report Image Recognition Market provides a comprehensive analysis of the Image Recognition Market segments including their dynamics size growth regulatory requirements competitive landscape and emerging opportunities of global industry Get Free Sample Report in PDF Format"
     publishedDateTime: 2021-01-13T17:30:00Z

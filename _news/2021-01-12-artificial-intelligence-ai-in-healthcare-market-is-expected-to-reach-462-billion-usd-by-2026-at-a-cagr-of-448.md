@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12"
 type: article
 quality: 77
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Mobile Artificial Intelligence (MAI) Market is expected to see growth rate of 28.58%"
-    excerpt: "Market is expected to see growth rate of 28.58% iCrowdNewswire Jan 9, 2021 2:14 PM ET. Global Mobile Artificial Inte"
-    publishedDateTime: 2021-01-10T08:52:00Z
-    webUrl: "https://menafn.com/1101411654/Mobile-Artificial-Intelligence-MAI-Market-is-expected-to-see-growth-rate-of-2858"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
   - title: "Artificial intelligence in Healthcare Report 2020 - Global Market Forecast to 2027 - ResearchAndMarkets.com"
     excerpt: "Forecast To 2027” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."

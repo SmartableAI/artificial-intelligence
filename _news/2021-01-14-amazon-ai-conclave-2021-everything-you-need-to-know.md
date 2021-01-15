@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everythin
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know?amp=1"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 620
     height: 347
     isCached: true
+
+related:
+  - title: "2020 Was Impossible To Predict. Can AI Save 2021?"
+    excerpt: "Is 2021 the year that businesses and governments start building an AI strategy so computers can look at data the way humans too frequently don’t?"
+    publishedDateTime: 2021-01-14T22:55:00Z
+    webUrl: "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fff4443003dc6aa290e8a51%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "z70KnAyI2FRu6EutzhWSUFZn2q3c4tPiGw9AuGaj6/pL/7esaPSnyDr7pcSO7ZedlF0tQsYSj3L9JoL1BmepkcwA3HgmbNFeqgI00lFimKfnXpy0o2OQ5TN9oCQMmoL1SKIVcfk/a3aPsuvMXcwbO/ynmDtATtc6BjjCWLPPbhSo1bI4thlE3U5ugDHFBSDfvv6lgSsPAt7UcWO3vACJWsESm21MFI8BIc1pBcjGOu8MeVHRhDtgbFCidkqtOTwEVmgXdGqhgB9Dxtsy+kGcgYVNlqJ6VHlXeNBqnVgzEeOew6zd5d0sV6TYABteCIbGW1E8Dz2zERZ3M89S/rMzAtmgnhM+EmITQHjp8nHpgaUDLuFvRsvBv8ZOBpDKu2LIUX4d4H9wbzIoe1jm1SEWZ7y9Xde5MtHb2w75D32vfr6xFSggeh+bmbV8HrwV/SKbbawGj6JfnQcr5G8axZq4t5zahGxN9GnFBBsQVdkeY8c+FbIquRnbQEprb8mdJ6HsHMCSxeU9mif76nB/zLG7PQ==;VIyuSd4NVa1EiGHYb6fhPA=="
 ---

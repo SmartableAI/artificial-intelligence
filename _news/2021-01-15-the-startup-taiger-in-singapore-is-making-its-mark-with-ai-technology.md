@@ -28,7 +28,7 @@ related:
     provider:
       name: NIKKEI
       domain: nikkei.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F4%252F1%252F9%252F31759143-1-eng-GB%252F20210115%2520BS-Taiga%252C%2520Singapore%2527s%2520AI%2520champ%2520img_Main.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
