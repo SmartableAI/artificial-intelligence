@@ -71,15 +71,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Ambarella Introduces CV5 High Performance AI Vision Processor for Single 8K and Multi-Imager AI Cameras"
-    excerpt: "Ambarella today unveiled the CV5 AI vision CVflow® processor for single 8K and multi-imager AI cameras, enabling 8K video recording in under 2 watts."
-    publishedDateTime: 2021-01-11T05:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210111005235/en/Ambarella-Introduces-CV5-High-Performance-AI-Vision-Processor-for-Single-8K-and-Multi-Imager-AI-Cameras"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
 
 secured: "+Cx+DjvYwf4jGHXHScAdUUj97hWrGH2IciWB5c3UpGQFulnPXjBrs7dL9xg5wHLshEERWwRMG3HyyTBegtOuG1otyiDnKFCvbAXe0934vQFHpzu+tzuX7uEz4e6qFYqatJ64FfZZTRK+cbmUyNgUDa1u7ix189fFA2qE59FdQIjAstaPoHgtl2P8BKUU/f6d9kf/Z+sUcfzBHVpGXUeeleclfHfTIONbRj9va+WTm7S0zZGSpbMbMMy9Keydslb1kBSnf+BaP00oHt7XovaaI55OReS7lxje6Uhu1PwTixzbxWtclUpet/Yq7rNGmIOyy88f9yA3IPVesfO6GNWRCBhpyrWGmHNtMDpM69bp7oY=;6fxQ2mGg0/jfE5ZUzBTsBA=="
 ---

@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu teams up with Geely to create new self-driving car company"
-    excerpt: "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table."
-    publishedDateTime: 2021-01-11T03:49:00Z
-    webUrl: "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Baidu, Geely forge smart electric vehicle venture"
     excerpt: "Chinese internet giant Baidu announced plans to supply automaker Zhejiang Geely Holding with its intelligent driving technologies as part of a joint venture to manufacture smart electric vehicles (EV)."
     publishedDateTime: 2021-01-11T09:54:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/in
 webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
 type: article
 quality: 54
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "2021 CES Innovation Awards"
-    excerpt: "Here are some of the 2021 CES Innovation Awards for vehicle intelligence and transportation. Have an opinion about this story? Click here to submit a Letter to the Editor, and we may publish it in print."
-    publishedDateTime: 2021-01-11T05:00:00Z
-    webUrl: "https://www.autonews.com/ces/2021-ces-innovation-awards"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AWARDSIBM.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Techlicious Top Picks of CES 2021 Awards"
     excerpt: "Our team of tech industry veterans scoured this year's virtual exhibit halls and picked our absolute favorite products for the Techlicious Top Picks of CES 2021 Awards."

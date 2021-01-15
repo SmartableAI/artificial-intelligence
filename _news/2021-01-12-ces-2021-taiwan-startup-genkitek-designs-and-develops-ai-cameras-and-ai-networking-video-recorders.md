@@ -1,25 +1,27 @@
 ---
 category: news
 title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
-excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
-publishedDateTime: 2021-01-12T12:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159"
-webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159"
+excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking"
+publishedDateTime: 2021-01-12T12:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-301206284.html"
+webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-301206284.html"
 type: article
-quality: 33
-heat: 33
+quality: 23
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "CES 2021 P-Waver Combines Big Data and AI to Build Earthquake Early Warning System for Taiwan Government and High Tech Industry"
@@ -67,6 +69,6 @@ related:
         height: 450
         isCached: true
 
-secured: "vlnWoFEKK4XnwRH02QldCIaoZ8j4DX+cL++N0bD3Tue/uLqHS1EtfJAOohyBjHFMBTEMnISdF6v46t6rB5BEdH50Gifn6gjp+ooaAqHrC9YWxIWbfFe/LtJZgPzRfvUM+dlHnsWz4oBp3LykRE9n4VZbZySx9IUGQ5wtuYwHs2Z89t7oZ/jP1xNdmUQYtWr5yiOZZeSRjGbLTqzfUrGwbgPzAP8xFPIBDl6xBzQ1IfOylDGBdRY4fPo+8nnRF2rNyS4QsZkI6SOX0bgjhctV1bkJCJTtWoXscqZIO3PRcFpNTyT0P/0N9jLuAp73hisHioTqtrSJmbHjTyYqK0voWakimXGJxcWo+bus4gtd6B4=;ccNpsEXDW+C66dpsRxh7Vw=="
+secured: "N8ckZfSxW4y1KrRyK6CWxE2w0FI/B8FQr+JL8oHTs/qG4vx4fKQ/S4iZoteWo9qcwiMwiFx2YK11rarMZQZeJ+eoUfshX7wOCotZ0/HTp9vDATGd8AZ9eZKgJO/N0stOt6pdfkn0sVH8jyTrAFzHr0qCfUmABjGkGGrFGvtWi4B2YFRbe6NAdU1Ik8yqqW4PdjAO28iHORJcHasE9aXX/1BU9stzIdu+sGlfbCDYo8/VH4FSUHkr+eR/jOvglrw3+VDABWGML4YB/Jmzk7ULHU8/KrGP8F+WUgqrkafphNwVr+auJ6FNIPQdocOCS5jF489V4UAyTBsw3lrMtNG+Ltw28My3fbOu29Utq4pfgNk=;4eyjcQaemjR5XF2zXZ0btA=="
 ---
 

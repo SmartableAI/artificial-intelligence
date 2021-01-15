@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 553
         isCached: true
+  - title: "Microsoft finally gives you control over your voice clips"
+    excerpt: "Microsoft will give people an informed choice with what happens to voice clips when using Microsoft services. Microsoft came under fire in 2019 when it reported that contractors and employees listened to voice clips."
+    publishedDateTime: 2021-01-15T18:59:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 61
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/cortana-logo-microsoft.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "20 healthcare moves from Amazon, Google, Microsoft & Apple in 2020"
     excerpt: "Amazon, Google, Microsoft and Apple all played a role in the pandemic response while forwarding their strategies in digital health. Here are 20 moves they made in 2020. 1. Amazon is rumored to be making plans to expand the Amazon Care program,"
     publishedDateTime: 2021-01-12T14:45:00Z
@@ -147,6 +163,6 @@ related:
         height: 563
         isCached: true
 
-secured: "NsA2S/CPjM4MdA6cf4+XFJZTQcE3tb8pQzrX9OmQuZP36flJVZCtuJnq+WXwPQfjsyKMo962weOEbSmla4BpnPRkAvSLZYUob/2Lwgb+Xn1CrJeTIaUtfK9r8fZS2Z4+eTR+fG1vTsgfpYk1TYlvE344cShoPTjBVwoZB5SzQBabyyH1vFnQszr5OMj2MVA391P6YJrt+fHpiW6KkVjw6FcnCv4JgDd+Pkz3VHcQ9M5QvchpVdsAMfjjtRmEH0WoMXVdYuLXn/jj45Om/X7MMLy6sxS4DpWpaM5be/6nR7GYkFthOSCoEtWaKVWTlrjxgJVu0+amNKj+kS44gRlfwQ/v8Vvult4T+NOFW2QX9Jg=;B7SXzcYOzYlqtj6ADejing=="
+secured: "JcQDkrDR1N+fxpg6Q7Q3GbzqRiFZTF7BBlmU0+H4AVPMFzJKGZavqnFr/B1r8a5zu0MroSmRH2U5jlIKM8jHPjNTHVoBOULpd0DByHgTh7gUqvDpr9LRMlTMMjYg03Qu+ejk5FkxaMWH84Pz2fCXc5cBLnmZHcHZwGWWs86E634Phe6rP6km5DX20fuTRU5C6ArXFkhMqq8+oGdIIGZ4oVXn+XT3nlvbKtpNyZfwWj09ePAQF8yaFLCqvurlMttfQlTtnL0J4O2+qglMIbu8SlIAkT8l80PoWOH5J19PcLpv+RCrsJD/ZCYHNEaIjjWhhl+4plGcZF/RLQOyekNPZ83shDJgPtAr8woWAyRxURQIBVccDZ/Vy9KitlmIJtmONBxOcBLhd/X9sJTREGH3R+5Z68bsd7FIWCGo2l/nASdClpClvo7L5VcSKxqJSeu4W71z6e3GkD5h6Px55M87umHvs1KBqut5t0sw2oQXQAlYZsHO8WSJff2JhP2OLCby1L6hJ+hXRk9vq5SneDtn0w==;pdvwaFVV/rcrwOoCRgXfSA=="
 ---
 

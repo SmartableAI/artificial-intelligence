@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19176502"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19176502"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
-    excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
-    publishedDateTime: 2021-01-12T12:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
   - title: "CES 2021 Taiwan startup Singular Wings Medical breaks the challenges of OSA diagnosis with AI"
     excerpt: "Sleep apnea, also known as obstructive sleep apnea (OSA), is a hidden issue in modern society that still awaits an effective cure."
     publishedDateTime: 2021-01-12T14:45:00Z
@@ -62,6 +53,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
+    excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking"
+    publishedDateTime: 2021-01-12T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-301206284.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "BhpeCp/mQyRhK/wiyhzm0hPxsCL384ATUEljSVJk4w8VY9U/Je+7QdzGZTMyVWf7rai9sOnBNfsfz1i/jNkMR9s+6GD4XOOYroAJCl23xA14OLmrxOUw9CITIgLlVs2xyX3vm0lhLJ1Yr8KgnBxYpOokAQdIYG4VY/Kv1KPQbG4D2ZVOYqi0/wnhMk0BMJCD/B6LNSLEh8R1zeYKcmltCdAhkL6KB8tqZlppPYQqArwo0flrYF8Y6igV5l4wSIaYghJ5obyA4dQTlB73Nv+rxiLYCXmFwGje6ULlBYSMPtSvEvYTShr9gkLCUcMBJQnvD7XjWxAzVThufvFt1cfLD0qMxYh9hH8vCeiNwObjUgg=;Z18Q/ZOO5/2X4/UEi+ys3w=="

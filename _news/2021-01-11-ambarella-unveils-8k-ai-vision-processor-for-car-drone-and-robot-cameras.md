@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-pr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Ambarella Introduces CV5 High Performance AI Vision Processor for Single 8K and Multi-Imager AI Cameras"
-    excerpt: "Ambarella today unveiled the CV5 AI vision CVflow® processor for single 8K and multi-imager AI cameras, enabling 8K video recording in under 2 watts."
-    publishedDateTime: 2021-01-11T05:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210111005235/en/Ambarella-Introduces-CV5-High-Performance-AI-Vision-Processor-for-Single-8K-and-Multi-Imager-AI-Cameras"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
 
 secured: "q6e2ElJAmnE6vSAbk5qkIKIL0JjJJLXeM4l0+TtqKKRl32UPG0Ok/eaUVyQ0KGlWqmgk3D6IKIXKA1klPcuv/Z8QUCQvtbx2arrpG+BD6pSvJNrP6o0sav1cJFORvap1kQZ/E7pYjuOjTnSfVv4scLj2GXtMpYqkntPs6yL2zaWSbZCB9Ta62q7/4vaCQ92Q42JDkoRh51+9RjLyFzNf6yyeTmRpEJyXbOeYjDJW8/bxqeKudLTCaxVVYgYVrVKFht4D4iQ3BtoBjpTok58I1oFRYUtLjS+NGw2kmcJ6OktsgU/MgL8baU+oMCQ0UMcI3p07Zp8eAhO7/XmtF6wV48747zZRgwkNLbECUqNe8iHJt2trFNM4+9NH6rs/8u3zFZKTNpGZrPABkiBHCQOHGTJrOywF8Ik8n4s5jjbooWz3OMjOgAZWId7h3HQFK5k3FQrLIyMeGYJJnmDw0ueEwf0Mvyyj79syngCL2QKWhsl/dEl7Ixs4+pSFzOlKWKIManFVwzvy6SdmgGx9COZiHg==;4UMeGtmHxfmREcSO4a4Qeg=="
 ---

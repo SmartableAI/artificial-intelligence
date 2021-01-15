@@ -155,22 +155,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
-    excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
-    publishedDateTime: 2021-01-11T04:56:00Z
-    webUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/"
-    ampWebUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
-    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 55
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Baker promotes facial recognition technology after Capitol riot"
     excerpt: "After insisting the state’s police reform bill not ban facial recognition, Gov. Charlie Baker said the technology is important after last"
     publishedDateTime: 2021-01-12T22:06:00Z

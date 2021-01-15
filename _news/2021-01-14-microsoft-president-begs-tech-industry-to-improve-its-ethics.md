@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/go
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
 type: article
 quality: 106
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/feat.png?w=1200&strip=all"
         width: 1200
         height: 553
+        isCached: true
+  - title: "Microsoft finally gives you control over your voice clips"
+    excerpt: "Microsoft will give people an informed choice with what happens to voice clips when using Microsoft services. Microsoft came under fire in 2019 when it reported that contractors and employees listened to voice clips."
+    publishedDateTime: 2021-01-15T18:59:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 61
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/cortana-logo-microsoft.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "20 healthcare moves from Amazon, Google, Microsoft & Apple in 2020"
     excerpt: "Amazon, Google, Microsoft and Apple all played a role in the pandemic response while forwarding their strategies in digital health. Here are 20 moves they made in 2020. 1. Amazon is rumored to be making plans to expand the Amazon Care program,"

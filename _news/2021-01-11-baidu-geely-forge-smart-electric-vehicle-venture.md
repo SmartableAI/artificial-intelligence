@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-sma
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Mobile World Live
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu teams up with Geely to create new self-driving car company"
-    excerpt: "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table."
-    publishedDateTime: 2021-01-11T03:49:00Z
-    webUrl: "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Baidu teams up with Geely to make smart electric vehicles"
     excerpt: "Baidu is partnering with Geely to make smart electric cars, the tech group’s latest effort to diversify away from a stagnating core business and a milestone for the carmaker’s efforts to sell its vehicle technology to third parties."
     publishedDateTime: 2021-01-11T06:54:00Z
