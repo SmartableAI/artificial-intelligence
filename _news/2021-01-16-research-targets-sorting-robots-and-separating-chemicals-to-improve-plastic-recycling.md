@@ -59,6 +59,6 @@ related:
       domain: fox5ny.com
     quality: 39
 
-secured: "v11+BZMnxCmQ6lOC9SADR7KA0dCq265fx1DQJhwxcussHretMgQ6LItslf+Kors2ojJYJeCj7LOT9Ja65HKOwD1Ps2GC7PdgpMP0A26r/R3cbDR+UYoY/p3GWBPxgy47MVOL/LGwliCsGzj1BEt5102/82gro/SxYhZrIr3e47vtvYCgMli6CZ+EXBLdaVqcgXrx18i9uyUvU3ua/OsweRq8bduopFANV9Cn5tKIRljj8wlDzIP/5g+zMDjQof/TsDNA2y0A14GKsnEyBjR3wYUNkJJ4QvUMd+O3a8lxG3e1yR10DNhM48cG+OVlFITtfMT+1DerMxn2bgTWItmBqeHlLurb62KjvH+IuRczFPo=;K3sz//1eK1oZJoRGorUMag=="
+secured: "QBnrmZw3lFnYuCcImeG/6XgOPskltdl3/cIBnvKe/H7YXigAVseML2k+bH85aj07iRXGbAQ5dmpVwAYu/l6T/CGvOhr3zbYsmkAvPbuD3oyiatDK/hxA5g2EqJpeJliKMQAajJeMWLfmZ0mFqeRb9EUiq3CWuFdrVxgaC6Mi+YD2P5DdVALXTyIrcMc8YJXjcWNI59iFGC91tJqKEonFGypLJ0Sp8HXUavLLDeCojqt2LVvw5GmyLvPMipURfEsZ5RGCstrID0YzKW567IxqTftpUux4L7TFsRc53r6Plmh/zyIdUaPOMkrS71zr8GMqbhEzr3ziVA1BpQ6HA4aUOKU4Q4lFUaqhM8ch5MHbKyk=;JgCUmgafpcv4MHlmo4/D5g=="
 ---
 
