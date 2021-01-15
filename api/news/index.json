@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-15-us-exempts-self-driving-vehicles-from-some-crash-standards.md",
+      "title": "U.S. exempts self-driving vehicles from some crash standards",
+      "excerpt": "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E",
+      "originalUrl": "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-smart-collar-translates-dog-barks-into-emotions-startup-company-says.md",
       "title": "Smart collar translates dog barks into emotions, startup company says",
       "excerpt": "Now you can find out what your dog is saying when it barks -- or at least, you’ll know how it’s feeling. South Korean startup Petpuls has created a smart collar that can identify five emotions in dogs using AI-enabled voice recognition technology.",
@@ -547,7 +599,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -778,6 +830,49 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-hyundai-robotics-advancing-predictive-maintenance-with-ai.md",
+      "title": "Hyundai Robotics: advancing predictive maintenance with AI",
+      "excerpt": "Discover how Hyundai Robotics is advancing predictive maintenance alongside MakinaRocks with AI-based anomaly detection In partnership with MakinaRocks, Hyundai Robotics - following the signing of a memorandum of understanding (MOU) - will work together to advance AI-based industrial robot anomaly detection for robot arms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
+      "originalUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkjwz1rzc140120215213.jpeg",
+          "width": 1000,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manufacturingglobal.com",
+        "domain": "manufacturingglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1095,100 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-this-app-is-helping-reunite-dogs-with-their-owners-using-ai.md",
-      "title": "This app is helping reunite dogs with their owners using AI",
-      "excerpt": "It’s hard to imagine the stress that pet owners go through when their furry friends go missing. A US government survey suggests that 7% of lost dogs are never recovered. That’s why a startup named Shadow is trying to reunite dogs with their owners using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/",
-      "originalUrl": "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Shadow-app-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/",
-      "publishedDateTime": "2021-01-13T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection.md",
-      "title": "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'",
-      "excerpt": "Enterprise AI solution provider, MakinaRocks ( announced the signing of a memorandum of understanding (MOU) with Hyundai Robotics on January 14, regarding the cooperation of the two companies in developing AI-based anomaly detection for industrial robot arms.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062",
-      "publishedDateTime": "2021-01-13T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

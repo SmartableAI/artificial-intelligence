@@ -3,8 +3,8 @@ category: news
 title: "HireVue Leads the Industry with Commitment to Transparent and Ethical Use of AI in Hiring"
 excerpt: "HireVue, the global leader in video interviewing, assessments, chatbot and recruiting automation technology, today made two announcements to extend its leadership position defining the transparent and appropriate use of AI and software as part of the hiring process."
 publishedDateTime: 2021-01-12T16:42:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
 type: article
 quality: 45
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "YQdPqKyTvT/moDra6gtr2xDWB3Hc9TUgVoveSFDoEpR5Xaim9Y0qjPHji9/Fh8abDu7i73d0i7FMyQ1jWl12gbluxi+gOaPul0fgFyw31xsa7KzCZ15LkL2zi423UJy91ltp55VE3RwF67R1DcqriehE+FaBX43czNpJGWDSd5wB6Q1pRi+U0X9Aq5GPXBtURATbm3dQnSLZlcaj+YiOrGFuho72c4zT0qrZmsvJUWVKg2AbYhJcTqpo9Vq/vy1CuQBT5HDWms5cFLHzNGs6xhlS8RO+x+okBPCvlC7k9r+MzEf9RxbGoMMEDawvgTvPppxP/W/dPd29wCOP6Yd7wwz8Y10Kvm1q4V/FCUVONwI=;+keTJ61467Qw8KdZSNiVJQ=="
+secured: "rIhSKak3fe/Y7YtmAgKZK4ML5TJkRjSSNnRbWYfBcyIq7F5by+XYDRExhCg4DONlzKxbtLa12BB7At+IzwWkVy2OsYiWHMdpm4Pt8YlBX8kGeX65gI4nPI42RpBUrx+MC/JoNoer1ok+c84mxXaS6tW8i7fV9XVkJSGSl5LCaY29M99WTM7BcSkvupHkMqIF3KDWVxNa1QeAJdtVxFjr8E/je8PkMun4w0FRRR/GppKIZGlQDd+9vM6CdyP0ibf54DuhBuIUk5Lr8QJCGvpR18IpuyixBIw3nWL33YKXT7w97mnu8uQRy/Cob1d7wkkyWSSmSDFOmYLF9HInEJ3gR8QqUAxXx77qYjhaza/5EyY=;SDBVhHYI323VF/JGIHrrAg=="
 ---
 

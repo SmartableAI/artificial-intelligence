@@ -39,6 +39,20 @@ related:
         width: 940
         height: 626
         isCached: true
+  - title: "Why AI Has Yet to Deliver on Promises in Healthcare"
+    excerpt: "We’ve reached the point where computer vision and natural language processing (NLP) programs can match, and in some cases exceed, the capabilities of"
+    publishedDateTime: 2021-01-15T03:18:00Z
+    webUrl: "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 56
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ai_doctor_shutterstock_Andrey_Popov.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "EU Should Regulate Artificial Intelligence to Protect Rights"
     excerpt: "The last decade has seen an alarming proliferation of artificial intelligence (“AI”) to monitor protests, predict crime, and profile minorities, in ways that gravely threaten our human rights. The European Commission has pledged to develop groundbreaking regulation of these technologies that will “safeguard fundamental EU values and rights."
     publishedDateTime: 2021-01-14T16:26:00Z

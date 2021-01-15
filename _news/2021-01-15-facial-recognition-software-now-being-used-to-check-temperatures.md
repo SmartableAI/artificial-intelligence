@@ -43,15 +43,15 @@ related:
         isCached: true
   - title: "The Promise and Peril of Facial Recognition"
     excerpt: "Agencies are using the technology to identify the Capitol rioters."
-    publishedDateTime: 2021-01-14T04:10:00Z
-    webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines"
+    publishedDateTime: 2021-01-13T23:10:00Z
+    webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
     ampWebUrl: "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://images.wsj.net/im-284435/social"
         width: 1279

@@ -1,23 +1,30 @@
 ---
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
-publishedDateTime: 2021-01-12T21:12:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
+excerpt: "Talkdesk, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer"
+publishedDateTime: 2021-01-12T17:18:00Z
+originalUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+webUrl: "https://www.globalbankingandfinance.com/category/news/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
 type: article
-quality: 21
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
+
+images:
+  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+    width: 1000
+    height: 600
+    isCached: true
 
 related:
   - title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
@@ -134,6 +141,6 @@ related:
       domain: arnnet.com.au
     quality: 1
 
-secured: "9dcKAbL98U1K74FseJ10mXCU0UI5sZMIzu7gbwUSgh2IRKhF/3u5SW4CkIVaOYYV5jik46huKuy9jnj1mYPB8K0VPDyRNcDh6n5B8DiFLcKLCfPi+BOT/e7ImtFzaecvX74VrAxg7HRD0wgMV8QN6JeRc2w/u+ZtvbSQG1KJ4wTNLdj2vRDJYAi+KgO3hCc2RAXOdJWZHkVEgXghAlNYn3BI+lczXAjQNRvjZr69r68RgYGDaQtoQd057itHyIRDG8XcUlAY6+irpddMPV4NEf7VUgz5ztWPTFtp6BCxZWZW6HI/Ny17n+GHGchZ89tkGZ64b/BNaN5Xlb5tixcN+a0+qeY3fGimJKVL9phOkOc=;45OK5Eykga9MAPmxjPs8Rw=="
+secured: "nBPiHxtp40TZ5jEsyBH8rQI8P4wNh0b3lgUTbt7znyRf/7Y93Lkt0IkawEBO7JvfROq842bdp35Md7VrdCXQRl8cOCjRt5uNZ5B6/rmPHV4sjGpJWSqzajYOQx309WW4Uq/RFHFettbS9chzreZeL+c46KAvCR+cPxKtTr1cL9iHaAeu+G8DnrCPVb9ymIBpZ+gEkRBRNWutApeMwvyf2Uij8VSTtgwBPWnyJjZNbcNz7dJJqMdjZ5a9mdYObalYnpxoEB3kFlTke3wai8P6S7TnVD+P7HtBgyAAXPeue1lpiu2+yKWfw8MTbakI76OAZU/0kGDdrw1u5epft/qofXTAFT8GfiZXd5xkjrIIWaA=;pnBCUq6j9AGNdOLgL2VeKw=="
 ---
 

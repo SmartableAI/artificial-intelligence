@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-30-2021-is-the-year-of-autonomous-vehicles.md",
+      "title": "2021 is the Year of Autonomous Vehicles",
+      "excerpt": "While 2020 was a successful year for Artificial Intelligence (AI), specifically the subfields of Machine Learning (ML) that are Deep Learning and Reinforcement Learning, there is one industry that is on the cusp of mass market adoption and that is autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/2021-the-year-autonomous/",
+      "originalUrl": "https://www.unite.ai/2021-the-year-autonomous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/autonoous.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-the-zacks-analyst-blog-highlights-baidu-tesla-general-motors-ford-and-volkswagen.md",
       "title": "The Zacks Analyst Blog Highlights: Baidu, Tesla, General Motors, Ford and Volkswagen",
       "excerpt": "Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Baidu Inc.",
@@ -1171,58 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-how-nvidias-ampere-gpus-could-drive-growth.md",
-      "title": "How NVIDIA's Ampere GPUs Could Drive Growth",
-      "excerpt": "GPUs are the core of the chipmaker's accelerated computing products. They bring market-leading performance and energy efficiency to various industries, from graphics and design to data science and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606194%2Fnvidia-a100-gpu1.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "publishedDateTime": "2020-12-28T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

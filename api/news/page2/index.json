@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-14-this-app-is-helping-reunite-dogs-with-their-owners-using-ai.md",
+      "title": "This app is helping reunite dogs with their owners using AI",
+      "excerpt": "It’s hard to imagine the stress that pet owners go through when their furry friends go missing. A US government survey suggests that 7% of lost dogs are never recovered. That’s why a startup named Shadow is trying to reunite dogs with their owners using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/",
+      "originalUrl": "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Shadow-app-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/",
+      "publishedDateTime": "2021-01-13T23:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-microsoft-president-begs-tech-industry-to-improve-its-ethics.md",
       "title": "Microsoft president begs tech industry to improve its ethics",
       "excerpt": "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past.",
@@ -1210,48 +1261,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-how-explainable-artificial-intelligence-can-help-humans-innovate.md",
-      "title": "How explainable artificial intelligence can help humans innovate",
-      "excerpt": "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php",
-      "originalUrl": "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php",
-      "publishedDateTime": "2021-01-13T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

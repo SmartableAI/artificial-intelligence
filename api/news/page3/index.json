@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-13-how-explainable-artificial-intelligence-can-help-humans-innovate.md",
+      "title": "How explainable artificial intelligence can help humans innovate",
+      "excerpt": "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php",
+      "originalUrl": "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php",
+      "publishedDateTime": "2021-01-13T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-chinas-megvii-kick-starts-ipo-on-shanghais-star-market-after-trump-added-facial-recognition-giant-to-entity-list.md",
       "title": "China’s Megvii kick-starts IPO on Shanghai’s Star Market after Trump added facial recognition giant to entity list",
       "excerpt": "Facial-recognition developer Megvii abandoned its original Hong Kong IPO plan after the Trump administration placed it on a trade blacklist; it is now looking to list on Shanghai’s Star Market.",
@@ -1159,49 +1201,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show.md",
-      "title": "Dishwashing robots and Bluetooth masks: Pandemic products hit tech's biggest show",
-      "excerpt": "Companies big and small showed off their new innovations at the closely watched tech trade show, which kicked off on Monday, many with features tied to life during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
-      "originalUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-4b3ba58cf2361b74931fdaec902b028f-h-23a6214b45f666e02e3ebea2eefaa196-1610457872.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
-      "publishedDateTime": "2021-01-12T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

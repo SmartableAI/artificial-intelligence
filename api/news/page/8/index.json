@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-08-uk-competition-regulator-to-probe-nvidias-40-billion-arm-takeover.md",
+      "title": "U.K. competition regulator to probe Nvidia’s $40 billion Arm takeover",
+      "excerpt": "Britain's competition regulator said it would start an investigation into Nvidia’s $40 billion deal to buy U.K.-based chip designer Arm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
+      "originalUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
+      "publishedDateTime": "2021-01-07T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-chinese-search-giant-baidu-to-make-electric-cars.md",
       "title": "Chinese search giant Baidu to make electric cars",
       "excerpt": "Chinese search giant Baidu plans to make electric vehicles with help from Geely, the country’s largest private automaker, according to a new report from Reuters. It’s the latest Chinese conglomerate to venture into the flourishing electric vehicle market,",
@@ -1069,8 +1121,8 @@
       "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
       "excerpt": "Neway brings a unique combination of marketing leadership, B2B expertise, and B2C brand experience to Panopto. Panopto’s video management system helps large enterprises and higher educational institutions build,",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210107005168/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210107005168/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20210107005168/en/Video-Search-Pioneer-Panopto-Hires-IBM-AI-Marketing-Executive",
+      "originalUrl": "https://www.businesswire.com/news/home/20210107005168/en/Video-Search-Pioneer-Panopto-Hires-IBM-AI-Marketing-Executive",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1097,49 +1149,6 @@
         "IBM AI",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-aws-invites-registrations-for-free-online-event-on-artificial-intelligence-here-are-the-details.md",
-      "title": "AWS Invites Registrations for Free Online Event on Artificial Intelligence: Here Are the Details",
-      "excerpt": "AWS has invited organisations and individuals to take part in a free event on artificial intelligence called “Amazon AI Conclave” AWS has invited individuals and businesses to take part in a free online event on artificial intelligence. The event ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
-      "originalUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/05/online-5059828_640.jpg",
-          "width": 674,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
-      "publishedDateTime": "2021-01-06T20:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

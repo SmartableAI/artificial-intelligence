@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-04-how-to-win-customers-with-voice-search-three-simple-tips.md",
+      "title": "How To Win Customers With Voice Search: Three Simple Tips",
+      "excerpt": "Now that voice search is on the rise and gaining more popularity, there’s a whole new dynamic to consider when implementing SEO tactics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb2e730929caf746d6e44f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/01/04/how-to-win-customers-with-voice-search-three-simple-tips/amp/",
+      "publishedDateTime": "2021-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-montreal-entrepreneurs-aim-to-simplify-real-estate-pricing-with-artificial-intelligence-tool.md",
       "title": "Montreal Entrepreneurs Aim To Simplify Real Estate Pricing With Artificial Intelligence Tool",
       "excerpt": "After founding a Montreal-based reusable mask company at the onset of the pandemic, Jordan Owen, his brother Mark, and their two collaborators Sean Tasse and Benoit Thibault, decided to pivot toward a completely new project.",
@@ -1176,49 +1228,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-off-the-menu-robotics-gains-foothold-in-fast-food.md",
-      "title": "Off The Menu: Robotics gains foothold in fast food",
-      "excerpt": "Miso Robotics installed Flippy in a White Castle test location, where the robot automated several parts of White Castle’s burger and fries preparation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
-      "originalUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4SMERC4X5GKFJOQMUZ6RZWABU.jpg",
-          "width": 1600,
-          "height": 1078,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
-      "publishedDateTime": "2021-01-02T02:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AV manufacturers need to abandon the word ‘self-driving’"
-    excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
-    publishedDateTime: 2021-01-12T21:12:00Z
-    webUrl: "https://landline.media/av-manufacturers-need-to-abandon-the-word-self-driving/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 24
-    images:
-      - url: "https://landline.media/wp-content/uploads/2021/01/210112-Waymo-logo.jpg"
-        width: 540
-        height: 420
-        isCached: true
   - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
     excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."
     publishedDateTime: 2021-01-14T06:44:00Z

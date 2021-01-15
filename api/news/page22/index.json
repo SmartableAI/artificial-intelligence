@@ -2,6 +2,57 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-12-23-chinese-autonomous-driving-startup-weride-bags-200m-in-funding.md",
+      "title": "Chinese autonomous driving startup WeRide bags $200M in funding",
+      "excerpt": "WeRide, one of China’s most-funded startups developing autonomous driving capabilities, said on Wednesday that it has raised a $200 million strategic round from Chinese bus maker Yutong. Mega investments aren’t uncommon at companies like WeRide developing the next-generation level 4 driving",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
+      "originalUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/weride.jpeg?w=1024",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
+      "publishedDateTime": "2020-12-22T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-elon-musk-says-apple-ceo-refused-talks-for-tesla-at-us60-billion-amid-reports-apple-is-to-enter-driverless-car-market.md",
       "title": "Elon Musk says Apple CEO refused talks for Tesla at US$60 billion amid reports Apple is to enter driverless car market",
       "excerpt": "This week, Apple’s stock has climbed, while Tesla has slipped on a Reuters report that Apple is aiming to produce a driverless ... driving technology and artificial intelligence focus.",
@@ -1152,49 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-exclusive-self-driving-startup-ouster-nears-19-billion-deal-to-go-public-sources.md",
-      "title": "Exclusive: Self-driving startup Ouster nears $1.9 billion deal to go public - sources",
-      "excerpt": "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive/exclusive-self-driving-startup-ouster-nears-1-9-billion-deal-to-go-public-sources-idUSKBN28W00B",
-      "originalUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive/exclusive-self-driving-startup-ouster-nears-1-9-billion-deal-to-go-public-sources-idUSKBN28W00B",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28W00B",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W00B",
-      "publishedDateTime": "2020-12-21T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "U.S. exempts self-driving vehicles from some crash standards"
-    excerpt: "The outgoing Trump administration said Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
-    publishedDateTime: 2021-01-14T23:39:00Z
-    webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+    excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
+    publishedDateTime: 2021-01-15T04:52:00Z
+    webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
     type: article
     provider:
       name: Reuters
@@ -40,6 +40,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "AV manufacturers need to abandon the word ‘self-driving’"
+    excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
+    publishedDateTime: 2021-01-12T21:12:00Z
+    webUrl: "https://landline.media/av-manufacturers-need-to-abandon-the-word-self-driving/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 24
+    images:
+      - url: "https://landline.media/wp-content/uploads/2021/01/210112-Waymo-logo.jpg"
+        width: 540
+        height: 420
         isCached: true
 
 secured: "yrVdXbDV4+AxW2GT4fRDACnTSI2xwnVaTXMIYIpH+TCChTDWkFN4PLjMLm4TXse6QbAIzpxP2ANrp1FkKBz9385niUgkWuvGbP5CQ0tb/8VsICNHL2e8hSG6DgL6qFl6U85t3O95v48ldyxNn7nprqLlEhyyWO3ZCzJjqmXLw/PjcJMaLUvVtPEdwnv+jy8NP7kKtfnrJcsou46qHFSHelEi9+qldxq5pWca9phkfwsIrA6T1wNQxIGfU4++KCvouqL0EA46CXkd7BDPQ3aTvxd/lFOi/aAo0Ncs0YRj0yuNJibFvuOpL/OwNbIqG1DNb40UePEjzKky2++iQtJhXh0WZ7qITOqwxLwGS1S0bqg=;KPaY1e3B8AMCLcG0BGinpg=="

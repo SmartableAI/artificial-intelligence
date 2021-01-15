@@ -1,14 +1,14 @@
 ---
 category: news
 title: "U.S. exempts self-driving vehicles from some crash standards"
-excerpt: "The outgoing Trump administration said Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
-publishedDateTime: 2021-01-14T23:39:00Z
-originalUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
-webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
+publishedDateTime: 2021-01-15T04:52:00Z
+originalUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Reuters
@@ -45,7 +45,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AV manufacturers need to abandon the word ‘self-driving’"
+    excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
+    publishedDateTime: 2021-01-12T21:12:00Z
+    webUrl: "https://landline.media/av-manufacturers-need-to-abandon-the-word-self-driving/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 24
+    images:
+      - url: "https://landline.media/wp-content/uploads/2021/01/210112-Waymo-logo.jpg"
+        width: 540
+        height: 420
+        isCached: true
 
-secured: "H0hSwz6xxegqERTgE2QnI95k5hE6IT/a2AVXG7Yk9JpvuHjKiTiRCb0l3apPIIreCYFenQ3cJm7cpWCsZpNfDfTEQFQqzgnTbSOYt+qBcgTHnUfMcyRPFl2SSGAtVpUTzMYNTCceTi8ioN4d/kbUwaRRJrjlWPiDtssNEinBt2bv85QLQLJgFQSH9iJNEkMLHfHLjLMUEw1qMi2qR1NCVA/SWDK7cIhARiYVhid3S+GId1gqwgFmrqDlO+rkF1Rt+lJcDpfNNN1Ssh8Y7yqgY+87Y43ywURIlONtV+sNcIdwlFHUJ0MMMy8RmcoWBzwePVSVlIghsrXPkNXmxbZsVbHQuyGpKhbgwDYVyogY86FFEKqbHhfZRN5mAFVcABlJYH7p97x5r12Kka6GG6hV81W0EgX8pntgxkzJ7/Qav3dBBwkJNY6u0zfmCwQ8B6mIiGmKZo3ygvsXrXkZsLvtjDrZHu74hqO6Y1F6Oldpy80dPMc89cDSr4DduqqxZdhtdkomPJUoxNS5zXd0dn0IEQ==;UgFc53kSF3BtwXzg5AYeGg=="
+secured: "waSAwtMgt8HzLjJr1mZtfHNqHtBjUMEuhrqVkg8b+0ENDbDto6Li30BQ6MClFL+zuLUsbmtE2gDTMNOpUhWMpZMZh+vQqJ29oeKQNSeBshPgw0MMcKf3G4TOf8K9ID0wJdTyrcPqTF5Zf4n8KVjrL8ccRhSSxqwNI1Md530xgk2RLw3SugiL5h2bZ7c3KT+Ewx13ML7z7pvBN6juiC0a7/Zngw5Hobi0RQSDtISe/sk7+yb0MVOg6G4b5fmacFWBB5WIi42yQNCMfgsdsjQzAAM3TbGLD229i8bORwfaMXoRH8Jh3Wm31WoC3FgPV5tz6MuFol71dN0bxq6Gc7Azll0CxZsTxl/LHFiRYpX2OFo=;pvk7mwNmqaOVfKGtOVd5Ng=="
 ---
 

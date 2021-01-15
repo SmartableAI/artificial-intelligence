@@ -25,43 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Global Self-driving Shuttle Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
-    excerpt: "Jan (CDN Newswire via Comtex) -- Global Self-driving Shuttle Market 2020 by Manufacturers, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2021-01-13T16:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2020-to-2025---top-manufacturers-business-strategy-and-forecast-report-2021-01-13"
+  - title: "U.S. exempts self-driving vehicles from some crash standards"
+    excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
+    publishedDateTime: 2021-01-15T04:52:00Z
+    webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Reuters
+      domain: reuters.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Drone Data Services Market 2021 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2025"
-    excerpt: "The evolution of data analytics throughout major industry verticals is one of the significant factors positively"
-    publishedDateTime: 2021-01-11T22:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/drone-data-services-market-2021-global-analysis-share-trend-key-players-opportunities-forecast-to-2025-2021-01-11"
+  - title: "Self-driving vehicles allowed to skip some crash safety standards under new rule"
+    excerpt: "The Trump administration issued the first of what is likely to be several rules designed to speed the deployment of autonomous vehicles."
+    publishedDateTime: 2021-01-14T19:51:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/01/14/self-driving-vehicles-skip-some-crash-safety-standards-under-rule/4161416001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4161416001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4161416001"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.gannett-cdn.com/presto/2020/05/28/PDTN/dd4e63ec-b9c7-41d5-9d1d-c466572cb488-AP20149516066866.jpg?auto=webp&crop=6602,3714,x0,y688&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."
-    publishedDateTime: 2021-01-14T06:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-global-trade-import-and-export-prices-middle-east-asia-e6cebd1d76284a94a4b2061ea8050aa6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "BRGJAFO76P9Rjvq6drSeXli48X5UjGIS40Genv0bSkuMVAqyuhWYOLDTsNkUBzZZfe6YdiwFBA1BkHAKpPUYwAIkXkCNY/28o5N9HYDmpBlCGLS35xYKuoRDxiCCYBsTlyAvxAjKdSUiaGaYg/efybHMSDcmmnAPTt26a4PwfEn7wj6OX4P8Pr+K4xV7S3iNyeeCWYtK2X9Ajwmhr5G6E7rtUzTXvChMzhlxDVLkcI2XKFRUD5K23ElXFFL8fyjZQuhZOKyTuMe4UfI65nlS1oYCtlYoP+yG9eURzm20jz9Iqt+A55uxZ9rA2Z/Hu5RO171MHLpZVGgtyLnSDQruCMFNE6Xzp62fj7bnwO7UFeI=;nnjDEybtik7rErRJauMi8w=="
 ---

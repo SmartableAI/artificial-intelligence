@@ -38,6 +38,20 @@ related:
         width: 940
         height: 626
         isCached: true
+  - title: "Why AI Has Yet to Deliver on Promises in Healthcare"
+    excerpt: "We’ve reached the point where computer vision and natural language processing (NLP) programs can match, and in some cases exceed, the capabilities of"
+    publishedDateTime: 2021-01-15T03:18:00Z
+    webUrl: "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 56
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ai_doctor_shutterstock_Andrey_Popov.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Heavy Construction Process to be Measured by Space-based Machine Automated Recognition"
     excerpt: "The Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence, announced a multi-year research effort called the Space-based Machine Automated Recognition Technique (SMART) program."
     publishedDateTime: 2021-01-13T06:32:00Z

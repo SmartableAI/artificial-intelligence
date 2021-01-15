@@ -2,13 +2,13 @@
 category: news
 title: "The Promise and Peril of Facial Recognition"
 excerpt: "Agencies are using the technology to identify the Capitol rioters."
-publishedDateTime: 2021-01-14T04:10:00Z
-originalUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines"
+publishedDateTime: 2021-01-13T23:10:00Z
+originalUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -21,8 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://images.wsj.net/im-284435/social"
@@ -252,6 +253,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "4F2FEUfLuqT8PVU+IGxwNive1g4am9XZAGEa1bn6lQ40ayBHW4bLmzLp0VceGedeLyNtzOsjKhuexBQlfBlWeAh9/Avna36Zi6xWB1bvQwCt8UURv4UBi745yRuZDf8gPYr11572Mib38tKJvkILHdRIxsqfK4fR/6vbrMBWfMQVWQSM7VhelerMMN0NgcESFqRoKgDdezvazwLARCLzkpdjWyMQQZeVLzxJNQKX2U6JD9MjEcqMKNLplA2B9uPQLaCLivc03QUyf7JPRLjxcoutPX21KytQFO5Wdir5kYeD8QCZCgFkGkCrqxRbBxMxSBSztj2bGaHwrV+Rfc7NGNTiVeybmuSOITp+y2xm838=;M16kQiUYH3/CzpDvbsHyHw=="
+secured: "NvOQ5+t/afiHfKO3I3jTvbckG6Ans8IakRgQgr7rZypX98L4fjhff0Xj7C+GI/cMae+s87qRF1Y25L7ww9BgNPdG/9MDWbLw8PTtphQDDz1bxvJ00X/miJLcnCMWxulunOAd3lp69tLZ1ZsYQS+So+M7AT9OSmykA1YBwtR1WiUrBu+l6vVirZ/iLMBpkpSUxmZzhZcUew5Q8GgEzpfPkikjF7hGiTO6PlQXiPGeqJPYbNKuFAFh6BwWHfysj8uFVTVi5lQ5x35IGXaQ9mfI8DqddQKzBL3P5brI4H7oiqhwRgSvJdar9U6x+13nUfh1rPdB+BjJmOrVchJRezDd2pUOFCHr8jtCryvhEtj0+xc=;sHbsxk1OLdRvqm5D47xckw=="
 ---
 

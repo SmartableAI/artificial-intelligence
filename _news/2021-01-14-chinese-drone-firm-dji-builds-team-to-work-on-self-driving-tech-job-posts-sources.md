@@ -3,8 +3,8 @@ category: news
 title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
 excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
 publishedDateTime: 2021-01-14T08:50:00Z
-originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
-webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
+originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
+webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
 type: article
 quality: 48
 heat: -1
@@ -88,6 +88,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "8phzVYI6yGPBT0bic+1uvQLjm7w57InUu6CjnpUvM+F4njaMsqM/xbVyjG0IXtBi9V8sb9wnL8RyVZswUe8N99SCa0Y2l6tY2XNSZ0YgTYy7Txl4nEAmhA+5ROAadxxYy/s/bvwxM+iBy/mzPFv5PRFw98lZ8cpI2Xj3m9ykIb4gWR2svy3zAqFA4jl5gKtnZL28AXehLDJSPPI1JVEHYzWUYzGL5b4Va4gk/V2D8xgPQTq3pNNK6UVXPcUbV+u2UP2S/UYtqhcIRHgblY/kVaqpGK+Rwqnz7WmB+KdBrjNwXRpGelv0w9+d8wgEDSIyGZ1aAJvKSe2IRqlRjOs1dRfyIqxFQcnDJt5gNwqdClgUZJfEs6IVbVLHs4Bv3Y7k0lSqvHm9GkDxQxBhUC1qyerpRql/jfnCPFQ7SLQPlZsQmoZJkch6JyarU/+YxK7Xu+a/A7m7gQCjDY3FwvYHkNFKgvI8abQRe2b7xINJgSmZ8vF6Qcd4c62nQHqpPGRwpa8zbswHqpe1dBbLbB657A==;KXIv/vCXxYcTPUtQfANmXw=="
+secured: "+KaOjfXy9NNdkBGBkPf9fdzvMxFGbYR9P8Dbu9UrAUp0Haj4KAqrx+TG+NTB28B5SvATqoSF5PmYG5mVp9mBY+LK49umAgsfTre3JLYhjywu0D5OdJ2EVqygpG6FPGRfOgSWIo6o4JT7lJjsINt9IM3GHsFYVjDgkiS67iI3Y9IsoFL1x9yK0Na+RUEZQvVM7Ps5sRpXxx5UoOhf6ruaU7XePS4Ag3e0MsUOpoALd4s6Q/PMWrTFMCB/rhLm16s4rCTk5yye4e2zeZo06TcnWkhig1QZ1to9gA0J5yZyFLGHt+teQt21ZqPFwNhr6wzNey1W5ALD3xKtenXcJrPZfcPnRqo0HZInhjOmb4JyDM4=;O9/3Yx+e/3jTZyX+GqYYNA=="
 ---
 

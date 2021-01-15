@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-24-google-told-scientists-to-use-a-positive-tone-in-ai-research-documents-show.md",
+      "title": "Google told scientists to use 'a positive tone' in AI research, documents show",
+      "excerpt": "The company requested authors refrain from casting its technology in a negative light in at least three cases",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
+      "originalUrl": "https://www.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8a59eb2c3d93eff50a8b21ff490f6d0d59cb09c1/0_135_4059_2435/master/4059.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c9299e812cd42aa85c3e07c46d4e7e2",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/23/google-scientists-research-ai-postive-tone",
+      "publishedDateTime": "2020-12-23T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-no-rules-no-problem-deepminds-muzero-masters-games-while-learning-how-to-play-them.md",
       "title": "No rules, no problem: DeepMind’s MuZero masters games while learning how to play them",
       "excerpt": "DeepMind has made it a mission to show that not only can an AI truly become proficient at a game, it can do so without even being told the rules. Its newest AI agent, called MuZero, accomplishes this not just with visually simple games with complex strategies,",
@@ -1110,57 +1162,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-chinese-autonomous-driving-startup-weride-bags-200m-in-funding.md",
-      "title": "Chinese autonomous driving startup WeRide bags $200M in funding",
-      "excerpt": "WeRide, one of China’s most-funded startups developing autonomous driving capabilities, said on Wednesday that it has raised a $200 million strategic round from Chinese bus maker Yutong. Mega investments aren’t uncommon at companies like WeRide developing the next-generation level 4 driving",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
-      "originalUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/weride.jpeg?w=1024",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/22/weride-200-million-funding/amp/",
-      "publishedDateTime": "2020-12-22T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

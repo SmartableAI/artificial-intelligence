@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-07-aws-invites-registrations-for-free-online-event-on-artificial-intelligence-here-are-the-details.md",
+      "title": "AWS Invites Registrations for Free Online Event on Artificial Intelligence: Here Are the Details",
+      "excerpt": "AWS has invited organisations and individuals to take part in a free event on artificial intelligence called “Amazon AI Conclave” AWS has invited individuals and businesses to take part in a free online event on artificial intelligence. The event ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
+      "originalUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/05/online-5059828_640.jpg",
+          "width": 674,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
+      "publishedDateTime": "2021-01-06T20:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-researchers-use-ai-to-separate-conspiracy-from-fact.md",
       "title": "Researchers Use AI to Separate Conspiracy From Fact",
       "excerpt": "Researchers at UCLA have created a model to distinguish conspiracy theories from actual conspiracies which will possibly allow robots to differentiate between things like Pizzagate and Bridgegate in the future.",
@@ -1191,58 +1234,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-how-to-merge-data-in-python-using-pandas-merge.md",
-      "title": "How to merge data in Python using Pandas merge",
-      "excerpt": "Use the popular Pandas library for data manipulation and analysis to read data from two files and join them into a single dataset.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.html",
-      "originalUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/09/convergence-railroad-tracks-merge-aquisitions-100613703-large.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.amp.html",
-      "publishedDateTime": "2021-01-06T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
