@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "FDA clear’s artificial intelligence add-on for ‘world’s first’ portable MR imaging system"
-    excerpt: "The U.S. Food and Drug Administration has cleared an artificial intelligence add-on for the “world’s first” portable MR imaging system, officials announced on Thursday. Hyperfine Research said its new deep-learning analysis software can aid in ..."
-    publishedDateTime: 2021-01-15T06:25:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clear-artificial-intelligence-portable-mr-imaging"
+  - title: "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™"
+    excerpt: "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,"
+    publishedDateTime: 2021-01-14T15:20:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
     type: article
     provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
+      name: Associated Press
+      domain: apnews.com
     quality: 28
     images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-01/carestream_3.jpg?h=84d12988&itok=A6p-gaLn"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "qEkrtacXf0AJVzIEH6zNdggG6YtBSylkgPUHj3SSILk5n1lWZjEfFcisHv6bJhuV/1wRJgC4REF5wEsNKQyz5td4v3YptUjQH93FdqVAfPLO+/83hrd/iekavbGtd983Rgl4RRw0KUZX6wqbpvlFw5i3sRkJDHf4W7VKzu1zfAKRJAy1aa8ZQ/a+vC4FeTQ9wfjYt4KVQF3w44F+0M4NCMH6GQnCswGorTlOxXuyM6yEOdE5XRuajy2AuzkAmvM0H1WYp2CZBinbfD1qtjogSLWbmaivRvFgbDDQHwmhmaQ7wqvBwq3LsaC4dJxtAYEPLL1JblN44gUPdiz0mPEHd3BZJ5u/bT2kTYmlaLhhRLc=;TIR0gu8Ftloqelql7VOTZg=="

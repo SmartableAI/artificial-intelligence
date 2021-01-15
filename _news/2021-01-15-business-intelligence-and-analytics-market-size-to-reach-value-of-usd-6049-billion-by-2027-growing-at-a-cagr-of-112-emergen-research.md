@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Commerce Artificial Intelligence Market Is Expected To Reach USD 1,977.77 Million By 2027"
+    excerpt: "The research and analysis conducted in Commerce Artificial Intelligence Report helps clients to predict investment in an emerging market expansion of market share or success of a new product with the help of global market research analysis This report has"
+    publishedDateTime: 2021-01-15T17:08:00Z
+    webUrl: "https://www.openpr.com/news/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
+    ampWebUrl: "https://www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
+    images:
+      - url: "https://cdn.openpr.com/U/1/U115421416_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "The Global Cognitive Computing Technology Market is Poised to Reflect 35% CAGR by 2023"
     excerpt: "According to the Market Research Future (MRFR) report, the global cognitive computing technology market is projected to"
     publishedDateTime: 2021-01-12T22:47:00Z

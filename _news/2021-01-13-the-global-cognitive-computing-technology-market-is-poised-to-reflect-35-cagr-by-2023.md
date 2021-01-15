@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Commerce Artificial Intelligence Market Is Expected To Reach USD 1,977.77 Million By 2027"
+    excerpt: "The research and analysis conducted in Commerce Artificial Intelligence Report helps clients to predict investment in an emerging market expansion of market share or success of a new product with the help of global market research analysis This report has"
+    publishedDateTime: 2021-01-15T17:08:00Z
+    webUrl: "https://www.openpr.com/news/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
+    ampWebUrl: "https://www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
+    images:
+      - url: "https://cdn.openpr.com/U/1/U115421416_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Artificial intelligence in Healthcare Report 2020 - Global Market Forecast to 2027 - ResearchAndMarkets.com"
     excerpt: "Forecast To 2027” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
     publishedDateTime: 2021-01-12T10:03:00Z

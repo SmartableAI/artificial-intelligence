@@ -88,22 +88,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Samsung’s Newest Robovac Is an AI-Powered Poop Scout"
-    excerpt: "In a perfect world, your robovac would be able to recognise pet poop and automatically clean it up without you ever knowing. Current technology hasn’t gotten there yet, Samsung’s JetBot 90 A.I.+ robovac attempts to do the next best thing."
-    publishedDateTime: 2021-01-11T03:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2021/01/samsungs-newest-robovac-is-an-ai-powered-poop-scout/"
-    ampWebUrl: "https://www.gizmodo.com.au/2021/01/samsungs-newest-robovac-is-an-ai-powered-poop-scout/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/01/samsungs-newest-robovac-is-an-ai-powered-poop-scout/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 59
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/01/12/edgo0tkelrppfhh2v5jj.png?ar=16%3A9&auto=format&fit=crop&q=80&w=1280&nrs=40"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Samsung’s New Robot Will Pour You a Glass of Wine and Do the Dishes"
     excerpt: "\"But what if that home, and those technologies in it, were actually built around you?\" To answer that question, Samsung presented the JetBot 90 AI+, a vacuum cleaner equipped with LiDAR and 3D sensors to keep it from running into the furniture while it tidies up,"
     publishedDateTime: 2021-01-12T21:01:00Z

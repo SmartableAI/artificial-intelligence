@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-im
 ampWebUrl: "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/"
 type: article
-quality: 103
-heat: 143
+quality: 105
+heat: 145
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/AI-incident-database.jpg?w=1200&strip=all"
@@ -92,6 +93,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Eq+Qf3wJIz+ZYRpC/ZDtzCrGzKA4Z+aWQrf+8QTml7j8Z0IG/nVyexSMWNKmdeOJRrZ3+7anBu/+xAC3aVaLHiUWu6JPQkszT25fCEDLzTIJCH+R6lv6WguU7DEZbEclC1Bmxli6OB4TXZpaKYCMxxVrk9z+G4hsnRHgcX7Dx4zAkuUpb4TpDVABkKFDlZ397fyWOap5q4DE81MgiwLU/iiKxSAnDDaqABVDj2Txp3Dh2+7fa2b6r9w67WHh5XEfomNA8PMObxmHs/Y88R0zVlup/hQYKTWO759/Ucbu3770H1rc6GgQwJYALYhr4N6XuHp2FcMsaRE9dQwwxAz48mkcZ2Xlfqep2DMmaU7S7es=;kzjCr6jDmF8Igzms/qUNBw=="
+secured: "0NERAg1AsM9hSnqqjsLJtA/WXDCCQ/IgvMPNzbf5uK1dpsD7NX1vVDiriPgfKlspURRo0Y/3dj+gPWsNbmC40wUGwmTxITTu+As2RLWHq3IlRr4joi+PNTcLNAzy8JXeO2W8nDd9EH+28SZi4ioBNDWsW3+Mvz7DFlivxAmcVKzci6tptfiqSdmZIrb+3oM6IejIo2dRWwRqG8BtoYoIIcCRkHa7yW4nnEL1FxMyNpkB+gCIEKE9RNH2nQG4ixZN4wVF1FJFl/irreUxhI095uE6e5n4yOvRTh+8VLM+/uMBiNS1u8AUEupVVMURwLKbSjzZkNvuM3Xg2f0A+tz49N7tcvKD3Ibews1JfVZ+TDcc2mJ3i6Gccx7bpVXYmUyEcD7qJ5+hH3aBzTEnqgg4tYy9iagak+0zZWl05HbsUR5fmI+Msx9qVse7EiRKu+to+EC6O/Kh87IQLNYBBc57TOSMyYfFLCTj37taEViShYjIH2j6ZXwZmavbgn5ifXCiR00gwgdlFoEevJ21QFD7ZQ==;vIQBKXGQW4d5T6PBvvTjMg=="
 ---
 

@@ -75,22 +75,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "China Internet Heavyweight Baidu Confirms Plan To Enter EV Market With Geely"
-    excerpt: "Baidu, one of China’s largest Internet businesses, on Monday confirmed a report last week that it plans to produce electric vehicles in a partnership with. Baidu will provide intelligent driving capabilities to power the passenger vehicles for the new venture,"
-    publishedDateTime: 2021-01-11T01:04:00Z
-    webUrl: "https://www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/"
-    ampWebUrl: "https://www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/01/10/china-internet-heavyweight-baidu-confirms-plan-to-enter-ev-market-with-geely/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffba15f58cba2654bf632e1%2F0x0.jpg"
-        width: 1199
-        height: 800
-        isCached: true
   - title: "Baidu to set up EV manufacturing venture"
     excerpt: "Chinese tech giant Baidu is preparing to set up its new electric vehicle manufacturing venture, the company said on Monday."
     publishedDateTime: 2021-01-11T13:16:00Z
@@ -159,20 +143,6 @@ related:
       - url: "https://www.phnompenhpost.com/sites/default/files/field/image/beijing-based_baidu_will_support_the_new_companys_growth_with_its_full_portfolio_of_core_technologies._china_daily.jpg"
         width: 990
         height: 660
-        isCached: true
-  - title: "Baidu Announces Plan to Establish an Intelligent EV Company and Forms Strategic Partnership with Geely"
-    excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) (\"Baidu\" or the \"Company\"), a leading Internet platform and AI company, today announced its plan to establish"
-    publishedDateTime: 2021-01-11T02:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-announces-plan-to-establish-an-intelligent-ev-company-and-form-strategic-partnership-with-geely-301204806.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "JFupuAI3eUeDJI5bKxcYQXFm0Rmxl8TCinWCnpUxAj85w87Cc6HuGK+hR0ndstidBpwWPXuT5Q0tylMhdaFCdA2PwK7yY5FF0aKxxcKbe/UeHbzEv7db32e9nhn2ZXgUG037xhTmPnn4PIK/JPFeUMc5s/FpPv9geDGdcrYfB/ef1O3kW05dhou8VWFytXAmKIcPMsJ6HDPXh8kwzvbJrye3X3XEuMVUoOgqSjAPtIjyHhyO417ykeLydfp8NB2IEllYkqd2FhzkyIAjVkyJ4QT5fAuMFjRkg3iY62wIwL72alC8ahyhNzj70PyeIsDj5qjpB+4nzlXGEj6LPnX/s9cSyO1suCrUML55wDspu+1HpnhVbJAehnkdRZKfWqO6EQTT/vy8Kbaf/4PHKqYpmzQ4KuBJi16r+gYjG5iDFBfU1OPbAf6LqgZzGnqMVAGTOCFPpNRYNIVt1wT0+Lh/rEu3DtjTFnpWFjTBxL9uScdI7Prc7aHFVS9ejhCrGJsiuMGPL54RCtIY3N1R8q/Czw==;DTcpXYLeiUOcCeZOxHpBGA=="

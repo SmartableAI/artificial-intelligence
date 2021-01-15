@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
-publishedDateTime: 2021-01-12T16:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
+publishedDateTime: 2021-01-12T21:12:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
+webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
@@ -154,6 +148,6 @@ related:
       domain: arnnet.com.au
     quality: 1
 
-secured: "/B91wjeHX3v9OaHGRYzNFKUdK4wz7L/2rMKN/BTIqxJL4bqLNniE9jQ+d0mCCl6lyVdShcW5/iHB3WY4FgF9yIacc1z3D73O3ccySfvTe/RWlJ7eHSVndYk6sEW62k57FZa4hrOjwSHapykDMPlz2O8SHLU7qhwQ+AfbRyzRA2zRi2L+6yjugmRjd5XQb0lZ+6+8lPr0EiRZyWrLVxa3CKPkEcK3mcHqDjpehXJY9rzO2kZHCcF9d3Q/xzGgXJl9qrFtrqyGWmSgbOmcw3dZDytXjjfy1hkpCrardhcfc2bOZbVGPMtalNJZ1DXdapjFAdA2oKD99+nvah4IoSkVWmb+K7eaEIYg4NmOgzAg4as=;3CWa9ajyFEPHiQzPGAtbAw=="
+secured: "5cACJCyP3NYLecIQ9vVbHYfIODMSKvY7fiBAzwABtCggj1VSjec/4+GcP/2+X68OB6PEfLLDOJxzaXkEElpFc7bhmRco9BBjYzODxEEC+dGGsGGGPr91c08s1602bHyLv6nT9NFhawokAomYVdC8AY0LkHdV+p+RRQbn84g7BOsgkYs5KeXUowVfJ/3kgFf00UOD7Ft3IGg/3ZvbegAjov6t/3eX/Z3JYJmh4W7LUAu/TAmiIxmKkZ6JN6DIXB0OpmYAns81tO0Rv25F1vsl65VFHG6TX6/MCifCvKgBf7WTLkB+ShxeSMusPyej2/7pEEolYCymjcjbQ6ANwVSiD+ym5/Fy7F/cRk0pKXqjVvo=;UQsUeS/bGaTBXQYGpqUDBQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
 excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
 publishedDateTime: 2021-01-12T17:47:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
 type: article
 quality: 33
 heat: -1
@@ -83,6 +83,6 @@ related:
         height: 480
         isCached: true
 
-secured: "0DFdYPhgzLKbbw8bFSb8x0u8r3KxrjntzXrqKUnIC7zIPncfTq6f3lzIn7GmUiAXebe+/JWsjObHdi1U8ef+4/ByV96POpHMboEBmpN3CyLwmhjN5cX9cHZTFucoUAOrgm2cRMzbJJUmKW4ih5PxaoKMqGtSXyTx2soLbPqoE+R0G6/xwaqOunAEle+nUlokJYKAY6R01Jt9HxoCf34ZjX1lCAVu2rEp3iEFTnmpG4QIDUugg9y0W/MfuiIzjVCu+E9g/zM/zjZdAwOk7wao2KkXgupdLB6iU4eFj3gCgoHJFcMjZv0pRrSaxMCemOsdY/Lm0NgNWU0qo/qtihEE6aawRaXD9xNMWjhZcPiXT6U=;g26Gk39h8n59KtOV5wF3UA=="
+secured: "VG60ijmp0aBZEncci1yAm6CWHU+DojF+7+l5jZ6jPQCySmcIkBtbz3wE+/Yzyy4j0ol9QCLOm4eh26kAs6hSeQgJii64klKg0IM9qChtxieDwjMV7wqH/lExTZ4DHfN2A23mxgW+TLEEhSwX6hOvIN0Nh+3paUqIAshEvNEPRXvkBajY6TOE3v8BqG4rYx83i0afwkSC4uSGxS0dzBVCSJCZAb6eFA349KuOwFjOHCnzpwI3hh+oU5PmSznZ98ePtgeFp+t8XYSAj/nSvhdtysLjs9n93nia9fAnbvdV46pQEa+y0BDPztFw9ZuT43dmoWCtIwb6Jt6rvB95jJoS+ZCJhU81jYjyYxlzhkpQflk=;AheMY21nJkgXKtDcPqhRjw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcgamer.com/au/amp/ai-chatbot-suspended-facebook/"
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/ai-chatbot-suspended-facebook/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Gamer
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook claims its AI can anticipate COVID-19 outcomes using X-rays"
+    excerpt: "Researchers at Facebook and NYU trained a machine learning model to predict when COVID-19 patients' condition might deteriorate."
+    publishedDateTime: 2021-01-15T17:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/"
+    ampWebUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "New self-supervised AI models scan X-rays to predict prognosis of COVID-19 patients"
+    excerpt: "Researchers from Facebook and NYU Langone Health say their system forecasts COVID-19 mortality more accurately than radiologists."
+    publishedDateTime: 2021-01-15T17:27:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/15/new-self-supervised-ai-models-scan-x-rays-to-predict-prognosis-of-covid-19-patients/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 61
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F01%2FUntitled-design-2021-01-15T134250.373.png&signature=16c0e1c446789121fa9cc14628059186"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facebook AI Residency Program 2021 Is Now Open"
     excerpt: "Facebook AI has recently announced that applications are now open for its Artificial Intelligence (AI) Residency Program, till 31st January 2021. This one-year research training position has been designed to give candidates hands-on experience with artificial intelligence research while working in Facebook AI."
     publishedDateTime: 2021-01-13T05:16:00Z
@@ -41,19 +71,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Judge Poised to Grant $110M in Attorneys Fees in Facebook Facial Recognition Settlement"
-    excerpt: "This is a groundbreaking settlement in a novel area that took a lot of effort to get to substantive and professional goodwill,” said U.S. District Judge James Donato."
-    publishedDateTime: 2021-01-15T01:30:00Z
-    webUrl: "https://www.law.com/therecorder/2021/01/14/judge-poised-to-grant-110m-in-attorneys-fees-in-facebook-facial-recognition-settlement/"
+  - title: "MUSC student used artificial intelligence to find patients at risk for COVID complications"
+    excerpt: "Using Census tract information and the MUSC patient database, Alan Snyder was able to identify thousands of adults who faced a high risk of developing serious complications should they contract"
+    publishedDateTime: 2021-01-11T13:00:00Z
+    webUrl: "https://www.postandcourier.com/health/musc-student-used-artificial-intelligence-to-find-patients-at-risk-for-covid-complications/article_a7f34a54-3f03-11eb-9033-d3d61c759c83.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 31
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 29
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/02/Donato-James-Article-202002061504.jpg"
-        width: 620
-        height: 372
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/9/79/9794ae9e-4923-11eb-8cb9-a718947ea4e8/5fe9fd6616d96.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "sETAeQCn27spMP24e4E/7+K29CqINfz57kWZXXe7A3Wcm44mUSUqUyEE0wuVwR+Me+AKKNJofhcsIL9UwQMEdRpsjLYP1ARl6pRLo4iqyL+n8/1sPdaIyxHgy7m+qgeHX/Q19sl4MixI+ICgJF6uIS0Dg7A+lqYGRdhaIlgZ9otCNahKv7BIhCJgNgNDW0LfoWUBpIRopuYFWd6pR40o+/A1KK72RSIhytNTRGhHMkxafnrCOEwo8j8LEmGWVTDtOUhPulkNhYwdQAdbtMVRQgEmsr050aIFsst+D9dZPRwLFeiHYlkbFm8YzxbITlr/kfuDmbcgPQ/jmDUwz2V6KX4Vtge25b6aqWvW5KPWGhrlc9M2ZC6ZuwEKD+SMqsHPSUR3Bb9MLjAbXEDP7QYWEc9CY1i5hTBnpX094wZLcTujep1X885U+3fcbjPBACL9R5b8igHMjPcDvOkozAXHmAU6logsmliQG74ygQjcUG0FUGQKekUQqrtlSLkhZYiqOmP+C8yHUSJAOyxuHusgOA==;d1D0dY70/Jv5LgeknG0aqA=="

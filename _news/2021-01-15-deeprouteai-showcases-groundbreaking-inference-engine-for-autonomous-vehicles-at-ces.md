@@ -1,23 +1,28 @@
 ---
 category: news
 title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
-excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
-publishedDateTime: 2021-01-15T03:15:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
-webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
+excerpt: "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,"
+publishedDateTime: 2021-01-15T01:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
 type: article
-quality: 14
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
-  - AI Hardware
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Video: DeepRoute details its neural network engine for self-driving cars"
@@ -30,6 +35,6 @@ related:
       domain: globalspec.com
     quality: 35
 
-secured: "k99pnXmMDJ7zDH/EzRzEE7e2yfl/4SSwJ+QpkadweR8jMnxsp7KZN+ydLuIGdXLqy1dtomkuPQ0pBOIVhKcdRV1xoThKOlYgW8CJTgwTWjxY9Kcay2VmKhndOFSC5+g58GIGTdV/YBsOJNVLW70ZL9n0ZIUTIjjirO/ZFh1Wm0ar66VeqvRVcez9nKp/NxO3whT82Z4rqs1vl7jZp9WbjhlTvRtcEbtToTg8DFUxSTnyJo7vu9LIpAhMnaMWJQPKsOUaj+rZpRWDb+0wsNeIod92PLYvZ6e+rzh4n4BkvAEnfEHmYIR9sC5s5BF0upwovalt/FToJT6siLEX7m6nqSC98z1pPxqpAxS/2SkCuYrC68dktctqkduExFoH9Lis8JdUF8AwV4J/vCQffGbOOIXUKbwk8f+JlmFuzd7qso/GNDN1reCtUu08VWwPejUzrwkQ0b8FxbWpDMQbwnEnZUSPTFp85/3JaxLERXq5fW4qZxDd7FSUA1keIHtC4j9MA/kZuj5FpjLHeb6CoWKfBg==;ZYh4ocxhJdrugvQdBBJ1UA=="
+secured: "xetip37zDVc45OrwW8xN6GV3aU1aMUlAv32C+exX9jJkq4lpmHCpQxxHm84petkVmVCtC/OvHPqvcHgYd4kHgmNp3AvsKApUJB8FXCBXI88qdC+g6lQtB1Y62iE3lvYo0mAR/qYolexiCNPEUgD9Lpkn1I/+4fXcjPCNLk3iHdvd0+71XVWSw0GPHE73otqtvK0BknK3R2D3p0MoPoekSrC1l3q1ZWA8NkepPXCSxuQBZYHTkPfzKgKhn7ajif/w7ACf3XBnFHZPaKdhXY5VKvUgiFzH0aeFTUdaUnrx1PDJ6WT+KXIj5NPWSla6GvkOITwaiSFgB0/yf4pqriHmq+5D9yUe34UNrRJquD1cf9Q=;94Gz2zSLKfobB9swgmd06g=="
 ---
 
