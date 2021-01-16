@@ -173,22 +173,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 51
-  - title: "CES 2021: 5 show-stopping smart home tech innovations"
-    excerpt: "One of the most exciting times of the year for tech geeks is when the Consumer Electronics Show rolls around. This annual event, which is held in Las Vegas, has been showcasing the newest gadgets from innovators’ minds since the late 1960s — and it’s still going strong."
-    publishedDateTime: 2021-01-11T19:57:00Z
-    webUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/"
-    ampWebUrl: "https://www.komando.com/technology/ces-smart-home-tech/773534/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-smart-home-tech/773534/?amp"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 44
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2021/01/ces.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
     excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
     publishedDateTime: 2021-01-12T14:30:00Z
@@ -254,6 +238,20 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/LG-UVC-Robot_03.jpg"
         width: 800
         height: 889
+        isCached: true
+  - title: "Samsung betting big on robots with CES 2021 presentation"
+    excerpt: "Samsung revealed new robots during its presentation at CES 2021, which is all virtual this year because of the COVID-19 pandemic"
+    publishedDateTime: 2021-01-12T23:58:00Z
+    webUrl: "https://www.fox13now.com/news/technology/samsung-betting-big-on-robots-with-ces-2021-presentation"
+    type: article
+    provider:
+      name: KSTU
+      domain: fox13now.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9cc25b4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fd21%2Fef205c0e5ea14d77944cbd6904335118%2Fd213522841fb4f149412ed0aa6b36ee6%2Fposter_a13fb1d4654e4b8c8e720f40a7b30697.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "CES 2021: AI steps into 3D foot scanning"
     excerpt: "Foot scanning technology and orthotics leader Aetrex Worldwide this week showcased the next generation of the company’s 3D foot scanner, Albert 2, at CES 2021. Albert 2 combines computer vision, machine learning,"

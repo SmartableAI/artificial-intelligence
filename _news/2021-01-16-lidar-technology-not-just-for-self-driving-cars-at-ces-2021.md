@@ -1,32 +1,24 @@
 ---
 category: news
-title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
-excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
-publishedDateTime: 2021-01-14T08:50:00Z
-originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
-webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
+title: "Lidar technology: not just for self-driving cars at CES 2021"
+excerpt: "News Highlights: Lidar technology: not just for self-driving cars at CES 2021 The technology has been around since the 1970s. However, it was considered"
+publishedDateTime: 2021-01-16T11:48:00Z
+originalUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/"
+webUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/"
+ampWebUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
 type: article
-quality: 48
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547727620&r=LYNXMPEH0D073&w=800"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "DJI is building a new team that will work on self driving technology"
@@ -42,6 +34,20 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/maxresdefault.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
+    excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
+    publishedDateTime: 2021-01-14T08:50:00Z
+    webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 48
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547727620&r=LYNXMPEH0D073&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Japan developing unmanned jet fighter aircraft with machine learning to close its technology gap with China"
     excerpt: "Japanese companies are researching technologies, with Subaru developing unmanned flight control, while Mitsubishi working on information-sharing."
@@ -71,17 +77,6 @@ related:
         width: 1198
         height: 797
         isCached: true
-  - title: "Lidar technology: not just for self-driving cars at CES 2021"
-    excerpt: "News Highlights: Lidar technology: not just for self-driving cars at CES 2021 The technology has been around since the 1970s. However, it was considered"
-    publishedDateTime: 2021-01-16T11:48:00Z
-    webUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 24
   - title: "Re-imagining manufacturing: Putting digital technology at the center of a post-pandemic new normal"
     excerpt: "By Saj Kumar, Regional Business, Leader, Manufacturing, Asia If we’ve learned anything about doing business during the pandemic, it’s about the importance of embracing change. A willingness to adopt new digital technologies could determine whether an enterprise survives and thrives or struggles and fails in the months and years ahead."
     publishedDateTime: 2021-01-12T04:03:00Z
@@ -97,6 +92,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "pTe82CTX9DVRbg8m6Ol1UQNZzSmDtaBf7kALR1JV5/wn87EvIWQ6gSQ/ItPi5+fyoM6fPiIIDqfH/yZIRR6rOMS3rCKIy5+/9ab4xUfMPSckDdNsj6FelavgIL3dPQT+2XDhA7ICjj8LjqUxBmiN1juhYwZkrkrzs01aRdqdWb8u1agFj6F2yyB/n6hVi1nVSn5PH+GiC9a/PxdzDVfdEXqCJ+mutpBjoaSZZRgnx5zGum3oxvqigG+LMVqMhL6bnBzB4fdd5DrwFypaDYWZiyBbP9d7HWWyIU93+TEFMjWtSTynYLpSJZ5A9tseuVM+GBgknBQDY3mIWswl6Htq/de6rtior/SxR54BMDhhfM0rAkwhcpAQq5E8AmmOl4eQWcKOzQnkKRR9B7gbtKIJbOropl/1+WtNRm7sEWTV24HPqZzw8gbJOuv/XE8k3tQYhCkXx/c47u+imJMk53x9LCvhkOJv3L+BAOf7glhMMM84lwwdcXE9/F6Qbq285lmupvKxNJs75jeuk1Ou4FaSrQ==;gpfk5HIZDQN/nLQ9DraJhQ=="
+secured: "IE0VosTDwVlYDWcR+VbpzPpJC8W6zpe9feP8zgChFOoLrqD9miEQJf0j4UZmvcX1J9M8DfBZCkvU45cTo+gkxDPbN0iJO9qHme/lP6uOfwdKIH9K1DH6IxkRnEcp74HefACIWyGJHM8Kn6qAnBnQsoF6LI0tTpPBTU3w7ZAPErYpQzhguFUMW2/kOflEU7pwC42UaNYFL2CfFZ73ZpVzVV5PYSsNkokUyxXbfg6bwZLvOimsjmrhnZDglF0U5Odzwlwm8+mAzqLa7h1C3jNZCMvNPKBTt7Lm8tdvb8cU2YAzK2BaNpWL4SiRpe0slIA54oK3tuI7N5I49grLQfWaN5OtNx8s9iMaHpgQiQz8duI=;xHzsxMUIzwCapi0XItogZA=="
 ---
 

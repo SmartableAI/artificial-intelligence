@@ -39,22 +39,6 @@ related:
         width: 750
         height: 820
         isCached: true
-  - title: "Modified Dallara chassis unveiled for driverless Indy Challenge"
-    excerpt: "Energy Systems Network and the Indianapolis Motor Speedway, organizers of the Indy Autonomous Challenge, today unveiled the car that will be autonomously driven by scores of university teams in"
-    publishedDateTime: 2021-01-11T20:15:00Z
-    webUrl: "https://racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/"
-    ampWebUrl: "https://racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/amp/"
-    cdnAmpWebUrl: "https://racer-com.cdn.ampproject.org/c/s/racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/amp/"
-    type: article
-    provider:
-      name: Racer
-      domain: racer.com
-    quality: 59
-    images:
-      - url: "https://racer.com/wp-content/uploads/sites/85/2021/01/autonomous.jpg?w=1000&h=508&crop=1"
-        width: 1000
-        height: 508
-        isCached: true
   - title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
     excerpt: "automation and building trust in AI, and continually infusing new capabilities from IBM Research into our IBM Watson products. In 2020, this included the IBM Watson team announcing the first ..."
     publishedDateTime: 2021-01-12T11:10:00Z

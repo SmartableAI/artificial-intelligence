@@ -20,17 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
-    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
-    publishedDateTime: 2021-01-11T19:27:00Z
-    webUrl: "https://www.adelaidenow.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
-    type: article
-    provider:
-      name: Adelaide Now
-      domain: adelaidenow.com.au
-    quality: 22
-
 secured: "B4VEAh0FnHAG87Pi0ai9bxo3wDUrZNzob46x7QzIazN01g6nUV6E9jNe757O8IWEjs1e6SqMVMtRBtwi2hXgGxjHNY5hFei1Hg/uXDYDTJ9ZJ8kp6XpAT/ohDxHRjixAlHXdKK1EvZbrmzWcc1vrfeEgOPFsi/D0dHNrwYRVYVY7aqXiHHwwa8iESOpP9Mo4GBLXOPQt27FXbRQex7R7WRttJk/n4OYAIjBxcXxn0/xWsmmtRM7pDQ33Y3oO/lr3Du2vT9Q8ZuUN/CweA1/4s65n6hQvxDN7qDR9cLiAMk5qrR8cKrfWP1+RS2fnNaTYlbk/aKtVSGTDBW4Dfvv5pCFDC64ixXmGzxrFScSfnUBJH5yLNQ/nDD4ENl10Sl/prXP6KrG4hafr6cqjv8aEsXip+SsAxSpfXGlosE9toijXN6s0fClv5PqGNnrjwMOMkFpSBJllfuhjITVJPjHXItX/dVcfEq1Tb+a3nOGIkfAbpRSuaRwGXXuokYNjjVd6c3mU5VSi426i68KojZFqzA==;k/cfDg7gLiwgQFyxrbTcjw=="
 ---
 

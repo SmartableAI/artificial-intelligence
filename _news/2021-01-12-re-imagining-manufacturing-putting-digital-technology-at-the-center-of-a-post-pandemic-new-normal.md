@@ -85,6 +85,17 @@ related:
         width: 1198
         height: 797
         isCached: true
+  - title: "Lidar technology: not just for self-driving cars at CES 2021"
+    excerpt: "News Highlights: Lidar technology: not just for self-driving cars at CES 2021 The technology has been around since the 1970s. However, it was considered"
+    publishedDateTime: 2021-01-16T11:48:00Z
+    webUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 24
 
 secured: "S5njywdwPRYbbP2WajbkmyupWEXhj7FayfH+RHflOlmsFdPcAxnE03woHbxUABWvKPrLV8NtvZA/2VktEGHzNANffQfElnMiQpeUsOnQoUT/E+UhgqbuG9eZoBfPvPzS9pByoNzw+HuvF9Tip/Q/YzI0vnYQ7MO/cZ+id2o871zXnmx1cFJDB5qoqR2vlS6OTcHR3f+mckANINIJV71Mj4LH5RV7W0LtGI97AFkRtRwmTqooTqWnZdGxr3f+oBgU70/2RAMPQ8nAM4wJm7JHht3pDP/mlSdcA577lkygKSvRwWmqEKyuJFxoB0exqJz0NlpVtKMa8CtHpHhwpzM7m7NXaMfybO42R0xWUn7mLyHDjTFt0ySqbV9F/dK4DPOvjVnM9BOgCa/+6m5hk7Wyfne1W9nTl9on5jPTJ2y9phGFIYD3txm/QzKMBcdNFFkCFfB9Pb2c3f8ddnZrahkksYTxaUAhfQVtItSaPoR+wgcbjRsKnAmZ2mbGf98KxjlmWpQZ8fR/jj1k6s4QQ2oaRA==;5Ehpv412+8FyggWrRbRyRA=="
 ---

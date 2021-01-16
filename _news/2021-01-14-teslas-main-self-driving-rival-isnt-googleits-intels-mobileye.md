@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-riva
 webUrl: "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/"
 type: article
 quality: 86
-heat: 126
+heat: 106
 published: true
 
 provider:
@@ -61,31 +61,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Mobileye-autonomous-vehicles-tests-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "From Paris to NYC, Mobileye will bring self-driving cars to metropolises"
-    excerpt: "Tokyo, Shanghai, Paris, Detroit and New York City will all see fleets of Mobileye-powered vehicles rolled out in early 2021"
-    publishedDateTime: 2021-01-11T19:36:00Z
-    webUrl: "https://www.digitaltrends.com/cars/intel-mobileye-nyc-shanghai-ces-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/intel-mobileye-nyc-shanghai-ces-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/intel-mobileye-nyc-shanghai-ces-2021/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 53
-  - title: "Mobileye intends to put self-driving tech in consumers' hands in 2025"
-    excerpt: "Mobileye's self-driving ambitions are going global, and the company's scope is stretching beyond robotaxis. In 2021, the Intel subsidiary intends to launch new test beds in Tokyo, Shanghai, Paris and potentially New York."
-    publishedDateTime: 2021-01-11T19:09:00Z
-    webUrl: "https://europe.autonews.com/ces/mobileye-intends-put-self-driving-tech-consumers-hands-2025"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Mobileye-cabin-drive-MAIN_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "tlTzAPiOTG1ofU5goPQ3ciSxI6Bpz6gg4R0kw/c9CdjG8hUil1J348fNIYkl+cKyJwOMYifvjAEDVEABt1Dftk046TXQTuzePPPJ0U7qh7IrdaU2clPoCveMs/SaSVbsVQBxrC8jmZpLIoQRSg2vSvXQyUvH49YOxVizQlpsKll/UJaOJPG5EdTr7CBovdF3aKZkY+iYizEfo0OKhLM9U2g24cKxNidtucfOA0UPD+fZcaSrGaa05WqkZB90saGFC/u3KtoAyQGl2lv1ApWPvAR1E5hGCxwv4ky9VZKDTUjjzWwqds108I9sO/WEaR9sGSsJQV8LYlqU7F0TyboPcfUJXVkVT/yEjg6pfuwfT9cyjKMZHQuUXal5fTbN6isqB2OnDUXn+qscTAsTEn5yyOMQI7xWxw5JsifeZhHfAD+7LCzlI+oDuS/oZ3Ke3Mf6y9a1Hzbh+oeOYbzKEFMuJiNsu/uyOIz5W2YkGEZQYryhmg8WqdXptT3LDUeVPPiQOqWzBmmKSEG04ZA5Mt5TDg==;wuyuRSH4JuSFHbDMcYKxtw=="

@@ -3,10 +3,10 @@ category: news
 title: "Even AIs can't help but turn into hateful jerks on Facebook"
 excerpt: "The popular South Korean Al chatbot, Lee Luda, has been suspended from Facebook after being reported for making racist remarks, and discriminatory comments about members of the LGBTQ+ community, as well as people considered to have disabilities."
 publishedDateTime: 2021-01-14T13:23:00Z
-originalUrl: "https://www.pcgamer.com/au/ai-chatbot-suspended-facebook/"
-webUrl: "https://www.pcgamer.com/au/ai-chatbot-suspended-facebook/"
-ampWebUrl: "https://www.pcgamer.com/au/amp/ai-chatbot-suspended-facebook/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/ai-chatbot-suspended-facebook/"
+originalUrl: "https://www.pcgamer.com/ai-chatbot-suspended-facebook/"
+webUrl: "https://www.pcgamer.com/ai-chatbot-suspended-facebook/"
+ampWebUrl: "https://www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
 type: article
 quality: 59
 heat: -1
@@ -88,6 +88,6 @@ related:
         height: 900
         isCached: true
 
-secured: "sETAeQCn27spMP24e4E/7+K29CqINfz57kWZXXe7A3Wcm44mUSUqUyEE0wuVwR+Me+AKKNJofhcsIL9UwQMEdRpsjLYP1ARl6pRLo4iqyL+n8/1sPdaIyxHgy7m+qgeHX/Q19sl4MixI+ICgJF6uIS0Dg7A+lqYGRdhaIlgZ9otCNahKv7BIhCJgNgNDW0LfoWUBpIRopuYFWd6pR40o+/A1KK72RSIhytNTRGhHMkxafnrCOEwo8j8LEmGWVTDtOUhPulkNhYwdQAdbtMVRQgEmsr050aIFsst+D9dZPRwLFeiHYlkbFm8YzxbITlr/kfuDmbcgPQ/jmDUwz2V6KX4Vtge25b6aqWvW5KPWGhrlc9M2ZC6ZuwEKD+SMqsHPSUR3Bb9MLjAbXEDP7QYWEc9CY1i5hTBnpX094wZLcTujep1X885U+3fcbjPBACL9R5b8igHMjPcDvOkozAXHmAU6logsmliQG74ygQjcUG0FUGQKekUQqrtlSLkhZYiqOmP+C8yHUSJAOyxuHusgOA==;d1D0dY70/Jv5LgeknG0aqA=="
+secured: "4S4aBzYRqYVIFdaeId2molZHV/ryHlzn8tvUayoRrTXhJoLyRVrd6dOQzlKXzkR6awqL6JAhp6r9JPEYk0ZuKBawRgEHWIj8LqveVexrnBhn8MBXrF41D/B4h+SUQyRdJxN0lXVe0xFIIv1s+j7o+tgh52dt6ndzaMoB267tjkxhKnpKAV6lhF2QP7Kul8bNAOV2FnFX0ho7TL2DYoGLZPzJ525Vm3tke1ZOdvaXuM+Qzle0o6CKcth1vArP9VmpwgfJiR0B+Nb+JnCd8Pnf9Ed5xOnAGgXPs0dcH6rv36X3z5al3gofgkPFQ6/VUKe0N3iAT5u/K+gJ7rKqZhdvHb4d4pSUNljnXlsmrDhYq7Q=;LYG5H6dn5yxIKntj4pUMaw=="
 ---
 

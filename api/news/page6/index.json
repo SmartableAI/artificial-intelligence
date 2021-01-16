@@ -2,6 +2,103 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-12-ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos.md",
+      "title": "Ever app settles FTC allegations it trained facial recognition tech with users' photos",
+      "excerpt": "The developer of Ever, a photo storage and backup app that shut down in August, settled US Federal Trade Commission allegations that it \"deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "originalUrl": "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/r4gbG59o75cofJR_X7DHqvmqZ1E=/1200x630/2021/01/11/ce25c79c-01df-4fb0-9119-68fdc6904237/gettyimages-1199149697.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/",
+      "publishedDateTime": "2021-01-11T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-why-ethics-should-guide-artificial-intelligence-use.md",
+      "title": "Why ethics should guide artificial intelligence use",
+      "excerpt": "Artificial Intelligence (AI) refers to the theory and development of computer systems able to perform tasks that normally require human intelligence. AI makes it possible for machines to learn from experience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "originalUrl": "https://www.standardmedia.co.ke/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/monday/why_ethics_should_gu5ffc6b52c6f4f.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "publishedDateTime": "2021-01-11T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-pegasystems-acquires-quriousio-to-apply-speech-analytics-to-customer-service.md",
       "title": "Pegasystems acquires Qurious.io to apply speech analytics to customer service",
       "excerpt": "Pegasystems has acquired Qurious.io to bring speech analytics to customer service interactions augmented by AI",
@@ -866,6 +963,40 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automation-platform-with-new-advanced-ai-capabilities.md",
+      "title": "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities",
+      "excerpt": "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic",
+      "originalUrl": "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-ces-liveblog-smart-home-workout-tech-and-so-many-tvs.md",
       "title": "CES Liveblog: Smart Home, Workout Tech, and So Many TVs",
       "excerpt": "The consumer tech show is virtual this year, and the WIRED Gear crew is watching all the Zooms to bring you up-to-the-minute highlights of news from CES.",
@@ -1122,167 +1253,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.md",
-      "title": "Review: Microsoft Azure AI and Machine Learning aims for the enterprise",
-      "excerpt": "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
-      "originalUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg",
-          "width": 1200,
-          "height": 1137,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
-      "publishedDateTime": "2021-01-11T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-gm-self-driving-company-hires-former-delta-executive-as-coo.md",
-      "title": "GM Self-Driving Company Hires Former Delta Executive as COO",
-      "excerpt": "Cruise LLC, the self-driving car startup majority owned by General Motors Co., has hired former Delta Air Lines Inc. Chief Operating Officer Gil West for the same position as it prepares to start offering paid robotaxi rides in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii4e.7a3qcDM/v0/360x-1.jpg",
-          "width": 360,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "publishedDateTime": "2021-01-11T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras.md",
-      "title": "Ambarella unveils 8K AI vision processor for car, drone, and robot cameras",
-      "excerpt": "Ambarella has unveiled the CV5 AI Vision Processor to handle 8K image processing for car, consumer, crone, and robot cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/",
-      "originalUrl": "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ambarella-ces.jpg?w=1200&strip=all",
-          "width": 480,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras/amp/",
-      "publishedDateTime": "2021-01-11T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware",
-        "Computer Vision"
       ]
     }
   ],

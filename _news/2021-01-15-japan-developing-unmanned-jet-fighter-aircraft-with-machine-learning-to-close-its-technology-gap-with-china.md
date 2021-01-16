@@ -67,6 +67,17 @@ related:
         width: 1198
         height: 797
         isCached: true
+  - title: "Lidar technology: not just for self-driving cars at CES 2021"
+    excerpt: "News Highlights: Lidar technology: not just for self-driving cars at CES 2021 The technology has been around since the 1970s. However, it was considered"
+    publishedDateTime: 2021-01-16T11:48:00Z
+    webUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 24
   - title: "Re-imagining manufacturing: Putting digital technology at the center of a post-pandemic new normal"
     excerpt: "By Saj Kumar, Regional Business, Leader, Manufacturing, Asia If we’ve learned anything about doing business during the pandemic, it’s about the importance of embracing change. A willingness to adopt new digital technologies could determine whether an enterprise survives and thrives or struggles and fails in the months and years ahead."
     publishedDateTime: 2021-01-12T04:03:00Z

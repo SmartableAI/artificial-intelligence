@@ -1,12 +1,12 @@
 ---
 category: news
-title: "3D Facial Recognition Market Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2026"
-excerpt: "Selbyville, Delaware, this detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere."
-publishedDateTime: 2021-01-13T14:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2026-2021-01-13"
-webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2026-2021-01-13"
+title: "Facial Recognition Market Size, Share 2021 Global Industry Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
+excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
+publishedDateTime: 2021-01-14T05:44:00Z
+originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-2021-global-industry-trends-growth-drivers-demands-business-opportunities-and-demand-forecast-to-2025-2021-01-14"
+webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-2021-global-industry-trends-growth-drivers-demands-business-opportunities-and-demand-forecast-to-2025-2021-01-14"
 type: article
-quality: 51
+quality: 33
 heat: -1
 published: false
 
@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3D Facial Recognition Market Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2026"
+    excerpt: "Selbyville, Delaware, this detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere."
+    publishedDateTime: 2021-01-13T14:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2026-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast"
     excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
     publishedDateTime: 2021-01-13T06:42:00Z
@@ -80,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Size, Share 2021 Global Industry Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
-    excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
-    publishedDateTime: 2021-01-14T05:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-2021-global-industry-trends-growth-drivers-demands-business-opportunities-and-demand-forecast-to-2025-2021-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -146,6 +146,6 @@ related:
       domain: wfmj.com
     quality: 0
 
-secured: "vSBJo/Q0w/07A33Gqsfmk8pdMTD20FfBhQYoZdr2r1I77d62j/aNsT5dphAJj0ZL+rImyZv/nrFSzi3LGDkiiQKfg5SHnUyza+fO0raTS/1xnShxzjw5tWGTHHx7uMKqeKyMwOL9I4ylLmtsA/t9SrJNHH1NvfRz+qXCutkdjAV/xeA+6RcEOk1N1HeawdjTgNw/SuH6W6U7mcjYMK7LQK8dOxjPkkn0RrK6Tuf0F1o3V76Fk6fe8WN2MV1bTVUk9L7T2g8AUbwijnLbR37XTKbdfNIOCy1HtcT9BIkaL7QDjdh7Bnkmqsj/ThvRbRu6JrZ3XnOGAQHZ2cDrGtcR57y+Lqlvla15WSM2yDzrpew=;8CIXpH47IftHZfjcaRv7qQ=="
+secured: "3jQi2qp/5W7jDUjcz4T9iTVIN4orM6qYIywr6vyf6WVZd4JxDSJm1AQ3hVBidFeLkbBvZQ0izHCnbTIba3BWvtI4uykVknj8uORDipa6ZkSWnMu82BbgT+UuCVEFM/YuZIwREYC7jZowgYPWIiLDUPqGsBBYOzcFFWMDg3CLwrML5TKMPpwALK/X5U5fqUNFrWPCS/31Am8meCQo1pf2Gx1dDjWpMQnBE8ykOBaZcEUolyN6nEqcxrbVHPKGFXnWycEtvxPNwRXS9Cc6obR1WOhGzq6zgxbbs85URbPN4FNs/jEBNg6v5wxbEjY/lLbCfkuUt7SmEljeUbFqqHAcKCat23f0VtsdcR3dIMbOhlY=;eopzZ3+5TTnDdJX4UoMiWQ=="
 ---
 

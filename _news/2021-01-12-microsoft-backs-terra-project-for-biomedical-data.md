@@ -159,20 +159,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Partner with Board Institute and Verily to Accelerate Next-Gen Terra Platform"
-    excerpt: "The Broad Institute of MIT and Harvard, Verily and Microsoft Corp. (NASDAQ: MSFT) have announced a strategic partnership to accelerate innovations in biomedicine through the Terra platform. Terra is a scalable,"
-    publishedDateTime: 2021-01-11T19:07:00Z
-    webUrl: "https://www.financialbuzz.com/microsoft-partner-with-board-institute-and-verily-to-accelerate-next-gen-terra-platform/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 31
-    images:
-      - url: "https://www.financialbuzz.com/wp-content/uploads/2021/01/shutterstock_1659535756.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "9sGBG23t3OcEekxBdrM8XGETxbWT8H7f8+HNUwDq4CnVSdfCdd3WTPQJQIYgCvQCtZWXrgMLv1C72L3LZ3A32tNS4Ohc5Q2j0z3Ad5zx+XwgyZ9QqzShOZqGJQf9TDTuwGHdM1gSYUMGf5AcLwaxpBLSRk1bpFyrzg094OfzZUKbfSoedI8KvPTf+S6IY5yZa+4jI3MU+Ub5zmSZ7/NN+r7FdI1j9/+mDn6lkY2HY7TkCZ/YVN04aFlhqzEgFkZc+O/p6l4Y/LBgs4dqHPvmtrjpqC4T6B72g1iIBfzZBbCJS3vUZoUQiFTulIGBLRunycYXVF9ZFgQcSA6xVGTs/8RWsnDxRwzkWPQtm2HXG3w=;v8Sx5MmLDXReH/VoFlybmA=="
 ---

@@ -2,6 +2,74 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-08-robotics-ready-for-its-moment-as-pandemic-headwinds-abate.md",
+      "title": "Robotics Ready for Its Moment as Pandemic Headwinds Abate",
+      "excerpt": "Disruptive technologies can encounter headwinds over the course of their evolutions, but that doesn't always mean long-term negativity. Take the case of robotics investments. The coronavirus pandemic could have been a problem for the group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-2-artificial-intelligence-stocks-leading-the-new-wave.md",
+      "title": "2 Artificial Intelligence Stocks Leading the New Wave",
+      "excerpt": "It's a new year, and good time to take a look at what lies ahead. Not in the short term, but on the longer horizon. So, here’s a number to think about: $126 billion. That’s the predicted size of the Artificial Intelligence (AI) technology market in 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-augmented-creativity-how-ai-can-accelerate-human-invention.md",
       "title": "‘Augmented creativity’: How AI can accelerate human invention",
       "excerpt": "We're witnessing the emergence of something called \"augmented creativity,\" in which humans use AI to help them understand the deluge of data.",
@@ -1078,92 +1146,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit.md",
-      "title": "TikTok Parent Company ByteDance Open Sources Neural Speech Translation Toolkit",
-      "excerpt": "Chinese tech company ByteDance, parent of video-sharing app TikTok, releases NeurST, an open-source toolkit neural speech translation.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/industry-news/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
-      "originalUrl": "https://slator.com/industry-news/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/01/Bytedance-Neural-Machine-Translation-Research-2021.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-intels-new-realsense-id-packs-on-device-facial-recognition.md",
-      "title": "Intel's new RealSense ID packs on-device facial recognition",
-      "excerpt": "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png",
-          "width": 620,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html",
-      "publishedDateTime": "2021-01-06T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

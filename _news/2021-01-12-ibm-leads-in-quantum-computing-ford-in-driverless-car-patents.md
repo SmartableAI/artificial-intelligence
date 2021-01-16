@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Modified Dallara chassis unveiled for driverless Indy Challenge"
-    excerpt: "Energy Systems Network and the Indianapolis Motor Speedway, organizers of the Indy Autonomous Challenge, today unveiled the car that will be autonomously driven by scores of university teams in"
-    publishedDateTime: 2021-01-11T20:15:00Z
-    webUrl: "https://racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/"
-    ampWebUrl: "https://racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/amp/"
-    cdnAmpWebUrl: "https://racer-com.cdn.ampproject.org/c/s/racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/amp/"
-    type: article
-    provider:
-      name: Racer
-      domain: racer.com
-    quality: 59
-    images:
-      - url: "https://racer.com/wp-content/uploads/sites/85/2021/01/autonomous.jpg?w=1000&h=508&crop=1"
-        width: 1000
-        height: 508
-        isCached: true
   - title: "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up"
     excerpt: "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\""
     publishedDateTime: 2021-01-14T03:42:00Z

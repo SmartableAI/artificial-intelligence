@@ -61,31 +61,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "From Paris to NYC, Mobileye will bring self-driving cars to metropolises"
-    excerpt: "Tokyo, Shanghai, Paris, Detroit and New York City will all see fleets of Mobileye-powered vehicles rolled out in early 2021"
-    publishedDateTime: 2021-01-11T19:36:00Z
-    webUrl: "https://www.digitaltrends.com/cars/intel-mobileye-nyc-shanghai-ces-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/intel-mobileye-nyc-shanghai-ces-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/intel-mobileye-nyc-shanghai-ces-2021/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 53
-  - title: "Mobileye intends to put self-driving tech in consumers' hands in 2025"
-    excerpt: "Mobileye's self-driving ambitions are going global, and the company's scope is stretching beyond robotaxis. In 2021, the Intel subsidiary intends to launch new test beds in Tokyo, Shanghai, Paris and potentially New York."
-    publishedDateTime: 2021-01-11T19:09:00Z
-    webUrl: "https://europe.autonews.com/ces/mobileye-intends-put-self-driving-tech-consumers-hands-2025"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Mobileye-cabin-drive-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "6bQCTP9NWvHQb573PpCVCMPzhpICKNafvZFZlPh9mzNoJs1n8eNjYYysbl4xEK0204VMf9SanCjPfqDmkXuAKGXyoliZ1zllYRH6zvBgpeTajHlnobt9znGzfcScyc5xGc/0TGjBP7yc4a54VvnGzA33NfhoST+OkKzR1naVHKp9HjZQJWIyhCAPKltMqSMr32L7wrtuHPTseI6s9YrOHnpMR3g32z8ac8nYcu5A2lUZ6icgifaEQ9qmcALiVjeDzk6WivCJLsiqtfDYiZlGREI9/O/OVcYK4XqEJzhVa3Kgt+UAX/9QY9jOvwtR4DA3iUreuYx+piFJJlpu/9Jer3apkGlGGM0V0X1XspxdJUc=;2d7+rKn/BYD6GtaSX2oZbw=="
 ---

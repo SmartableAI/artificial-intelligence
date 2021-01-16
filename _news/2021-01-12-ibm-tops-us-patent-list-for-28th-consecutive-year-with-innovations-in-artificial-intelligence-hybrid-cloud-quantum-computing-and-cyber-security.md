@@ -46,22 +46,6 @@ related:
         width: 750
         height: 820
         isCached: true
-  - title: "Modified Dallara chassis unveiled for driverless Indy Challenge"
-    excerpt: "Energy Systems Network and the Indianapolis Motor Speedway, organizers of the Indy Autonomous Challenge, today unveiled the car that will be autonomously driven by scores of university teams in"
-    publishedDateTime: 2021-01-11T20:15:00Z
-    webUrl: "https://racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/"
-    ampWebUrl: "https://racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/amp/"
-    cdnAmpWebUrl: "https://racer-com.cdn.ampproject.org/c/s/racer.com/2021/01/11/modified-dallara-chassis-unveiled-for-driverless-indy-challenge/amp/"
-    type: article
-    provider:
-      name: Racer
-      domain: racer.com
-    quality: 59
-    images:
-      - url: "https://racer.com/wp-content/uploads/sites/85/2021/01/autonomous.jpg?w=1000&h=508&crop=1"
-        width: 1000
-        height: 508
-        isCached: true
   - title: "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up"
     excerpt: "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\""
     publishedDateTime: 2021-01-14T03:42:00Z
@@ -86,6 +70,6 @@ related:
         height: 823
         isCached: true
 
-secured: "BuCXygEEOdk400bo6ki/6JxDHbcJ434c+TrZpi6Ju1QjjKcCqdc/6kREFvecIQfF9LOSgsgH92ln0peapHnRQAU0i1I3zHWuxOlZ1CRwu9tsoXucyyT7DbrA7vH2F7NddrIFZyOvf6w3pfhq1oGnlw22xWQKizioYuXuDOIoOWWsGmlPI2QCPM4CrCtz9HASdffMWyA5+RLF+BtxqVODhtxniGy+GxkaqHrjmHud+5f1md5aE0snfjUwDky6o8FjApNzBIK2WL09QwMgX5rblZq6rePg/zNwRPWQvW590N4MOykrjDWPaYaKnO6vsIxdXlZX4ZraIctiFtJ0tk1YfchOeU0UdvUTtmiNlRz0ZJk=;81Y/EyhCQ2UUYiff2GH3Rw=="
+secured: "P7uu5O/yRTj814tI9lFvyNAx6rTJ+WKNPqXiPGkxJq5WzkWqQETOPtRD6X1/8idUtu7g4jdO50TVBeFSlhizWjzqf3kAsjRjZ9qtwZEurMllTeXWJbRVVIVvnyAYPHQCv9swWIqfEaAb6MpClQruUqbb7xjQkTZ/KFw6HkAhWchmZw8g2bHSXEoPa0o7ySdUTriH3pQnAlXlArbghG7BHSPWujESatw8eS90rea8D8MehBZWMjaAYDU5nXDKGoItuZexnMYz3JdGFS25r1c2hdkPDE2MrAmBSPxWnNSHApbO7T9Ne1Wrpk8at40z68w+BxSKfRXq9YBf6jsZh53IiIa/DYO3iw0UQADsD7ZTQvw=;vQNHbhdQi76iIPvqyxdXuQ=="
 ---
 

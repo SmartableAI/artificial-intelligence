@@ -1,28 +1,22 @@
 ---
 category: news
 title: "ROG unveils Flow X13 convertible gaming laptop, XG Mobile external GPU"
-excerpt: "The 13-inch ultraportable shape-shifts with 360° hinge and unlocks desktop-class gaming with powerful external GPU."
-publishedDateTime: 2021-01-13T13:30:00Z
-originalUrl: "https://www.itweb.co.za/content/6GxRKMYJ24Rqb3Wj"
-webUrl: "https://www.itweb.co.za/content/6GxRKMYJ24Rqb3Wj"
+excerpt: "The top-of-the-line GPU is based on the new NVIDIA Ampere architecture, which combines CUDA cores for programmable shading with second generation RT cores for advanced ray tracing and third generation Tensor cores that offer greater throughput for AI ..."
+publishedDateTime: 2021-01-13T14:23:00Z
+originalUrl: "https://pressoffice.mg.co.za/content/rW1xLv594rQvRk6m"
+webUrl: "https://pressoffice.mg.co.za/content/rW1xLv594rQvRk6m"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: ITWeb
-  domain: itweb.co.za
+  name: mg.co.za
+  domain: mg.co.za
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://lh3.googleusercontent.com/kuidCaJ8eisFh5ggBA26PnjbbdaKNkveLdPsYr0TqepTCvNbCVwMDqb75DqMSHruN-oYhOV17HMhOCtyqVMOPPw7xoBKn_S6Sg0=w816-h428"
-    width: 761
-    height: 428
-    isCached: true
 
 related:
   - title: "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU"
@@ -42,6 +36,6 @@ related:
         height: 801
         isCached: true
 
-secured: "4+ioxl80jg4CHV+YMbAhc6GHG7H8eNhKJByaCoB0gcHL25aG7kMep9RwMMVAOv4dU097P12nIJJ+Jj/FbgypbQM3esOdJjTvTeoZ1tca4VEhjlQyHIUADfQi8FlrKasSD/IBEk973L5Zux9h/PL2rMfZqhg8IAVGAeELr8p/qdAh0jhKF+hEHb8h0IDL/qWAhdhDJAGz4+6Oy3Vs0ojyeKPrUPO2n3VyGN3Xn8INLcZO2DJLh6mSXdpQ9tYn+WgfeiHTyMQ7vO/65iWOmtmkLsOURsPUK+WYBNDEExg6TOP4CLVgD/1C/K7mzXcdsmtEiuCuOAiUxua3Ov8QqMEt/qpkL/9ncl+YUM5h/KUiuviMSgYFoZ9pG6KWsl360pUhCxnOgYEoUcugh6lexK+yd8sevuoBDP6VsVeR1zC/zSSDyTyQ1Yj8xFgh0CfVulmsmWmz0V05otm4+MZLCbkd0t+nAKNUf+MOvxwoXaspd/rBIFM1HxzM64WkQl55YpaSjpHLoOR3HJzqHzrIYmmOsg==;VzP4/GR0/JOR9UkO/Sa+Iw=="
+secured: "Ffql+sw0n479x3rO3ruLUDwmswwRHBHK1TunbiCYCw5p4tDDk2+e9dj2X/SSVERX4wtIUjcg3IYLKZmtX3T2btvSa1To71XOmMaUUXtvLaSiZ5Q4Ovb0CDURhF+TtlwvJjzt5bn9JJGMu6pa+H8VX5UhwxFFQ0Oms1thRW5jQ9XDeBpJ+t1C+/jq7YZfK4JL5OCbDi333hzqwpXfJrSI3gK+KkRKgNzWZO2Z9H0V6tWXSmV72N0t4ZKDThlmFCTDldJNgfwemYcY9TrAQOso3B8Z2wLk32FfqgEK0fHY9HPUcLJ1YbRhW4SZrcCVBaD7yKXBI2qVoeR4xWZmIZbtRIUHtyW9ef0XqpmejLMmS4A=;SAcxTQlzQ3eXIdMVHBC48g=="
 ---
 

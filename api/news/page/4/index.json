@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-13-gm-unveils-a-futuristic-self-driving-cadillac-that-can-fly.md",
+      "title": "GM unveils a futuristic self driving Cadillac that can fly",
+      "excerpt": "GM (General Motors) unveiled a new futuristic self driving car. This was a new Cadillac imagined by the automobile maker, which is even capable of flying and can carry a passenger through the skies. According to a Reuters report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/01/13/gm-unveils-futuristic-self-driving-cadillac-that-can-fly/",
+      "originalUrl": "https://www.gizmochina.com/2021/01/13/gm-unveils-futuristic-self-driving-cadillac-that-can-fly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/01/Cadillac-VTOL-Flying-VTOL-Craft.jpg",
+          "width": 875,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-how-explainable-artificial-intelligence-can-help-humans-innovate.md",
       "title": "How explainable artificial intelligence can help humans innovate",
       "excerpt": "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ...",
@@ -1131,48 +1183,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-artificial-intelligence-puts-focus-on-the-life-of-insects.md",
-      "title": "Artificial intelligence puts focus on the life of insects",
-      "excerpt": "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing u",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html",
-      "originalUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-artificialin.jpg",
-          "width": 1430,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp",
-      "publishedDateTime": "2021-01-12T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

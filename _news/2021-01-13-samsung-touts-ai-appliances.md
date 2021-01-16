@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung's JetBot 90 AI+ Robot Vacuum Doubles as a Roving Security Camera"
-    excerpt: "The JetBot 90 AI+ works with the Samsung SmartThings app to let you access its integrated camera and keep an eye on your home from wherever you are."
-    publishedDateTime: 2021-01-11T20:42:00Z
-    webUrl: "https://uk.pcmag.com/robot-vacuums/130909/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 100
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/s/samsungs-j/samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-secur_k312.1200.jpg"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "Watch Samsung’s clever home robot lay the table and pour wine"
     excerpt: "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine."
     publishedDateTime: 2021-01-12T03:20:00Z
@@ -66,34 +52,6 @@ related:
         width: 2000
         height: 1047
         isCached: true
-  - title: "Samsung JetBot 90 AI+ robot vacuum features a built in camera (Video)"
-    excerpt: "Samsung has unveiled a new robot vacuum cleaner, the JetBot 90 AI+ and it comes with a built in cameras and is powered by Intel AI. The video below gives"
-    publishedDateTime: 2021-01-12T09:12:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-jetbot-90-ai-robot-vacuum-features-a-built-in-camera-12-01-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/01/Samsung-JetBot-90-AI-.jpg"
-        width: 700
-        height: 525
-        isCached: true
-  - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars"
-    excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."
-    publishedDateTime: 2021-01-11T19:21:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9135279/amp/Samsung-unveils-AI-powered-robot-vacuum-CES-uses-sensors-self-driving-cars.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 44
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/01/11/18/37875880-0-image-a-5_1610389993945.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Samsung develops wine-pouring robot"
     excerpt: "Tech firm Samsung has unveiled a new robot that can pour a glass of wine, put away groceries and hand you a drink. Samsung made the announcement during a virtual press conference as part of the 2021 Consumer Electronics Show (CES)."
     publishedDateTime: 2021-01-12T10:41:00Z
@@ -107,36 +65,6 @@ related:
       - url: "https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2021/01/Screenshot-2021-01-12-101423-350x350.png"
         width: 350
         height: 350
-        isCached: true
-  - title: "Samsung betting big on robots with CES 2021 presentation"
-    excerpt: "Samsung revealed new robots during its presentation at CES 2021, which is all virtual this year because of the COVID-19 pandemic"
-    publishedDateTime: 2021-01-12T23:58:00Z
-    webUrl: "https://www.fox13now.com/news/technology/samsung-betting-big-on-robots-with-ces-2021-presentation"
-    type: article
-    provider:
-      name: KSTU
-      domain: fox13now.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9cc25b4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fd21%2Fef205c0e5ea14d77944cbd6904335118%2Fd213522841fb4f149412ed0aa6b36ee6%2Fposter_a13fb1d4654e4b8c8e720f40a7b30697.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars to navigate around objects like tables and pet poop"
-    excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."
-    publishedDateTime: 2021-01-11T19:23:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9135279/Samsung-unveils-AI-powered-robot-vacuum-CES-uses-sensors-self-driving-cars.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9135279/amp/Samsung-unveils-AI-powered-robot-vacuum-CES-uses-sensors-self-driving-cars.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9135279/amp/Samsung-unveils-AI-powered-robot-vacuum-CES-uses-sensors-self-driving-cars.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 38
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/01/11/18/37875880-0-image-a-5_1610389993945.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Samsung has just made a team of robot butlers to cater for your every whim"
     excerpt: "With the distinct appearance of androids from a sci-fi film, Samsung has introduced a couple of robots that function as domestic servants."
@@ -180,15 +108,15 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "CES 2021: Meet JetBot, Samsung’s lidar-integrated robot vacuum"
-    excerpt: "Samsung Electronics introduced a new robot vacuum that better responds to its environment in the home or office by using artificial intelligence (AI) and lidar. The JetBot 90 AI+ uses a combination of sensors and AI to improve object recognition."
-    publishedDateTime: 2021-01-12T14:20:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16187/ces-2021-meet-jetbot-samsung-s-lidar-integrated-robot-vacuum"
+  - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T21:39:00Z
+    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 21
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 15
 
 secured: "bO8xjU2ghtqAbhkS6v1mco6DXkRZdfXYugJJwpXCDgIXoXEsBWhGJPYl17d8xEonI6kDCZAShFNYpNkQIuy7HQ7+QczS5jhU0zPH7mTI1HPmWH8wSvBfqejwiVHZ89p6LqORebTGEasHYA7pT3Z1pQco4FrHZq/9g6pcaWJnZCJbEY7p45qMekQx1bDGz1BuiFIOocK+p2AmSOgRVP1F2Dn/f5pp4lIJzZJbktaDI8NpXMRsDDXUp9u9GflYdRkbCIBff2XOBXpS12qklgIHzAyyxp/MyGvFCU0F1Hr5ztOdOyYAmKgUiWxDvmZ5UFXABUEi2tPAEO+Z++GZwfgHGD1+CQS2rVFraQcRQqt1au0=;Hr7TTwK5y/QtdvnpEfhj1A=="
 ---

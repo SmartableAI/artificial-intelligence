@@ -625,6 +625,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine.md",
+      "title": "Watch Samsung’s clever home robot lay the table and pour wine",
+      "excerpt": "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
+      "originalUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
+      "publishedDateTime": "2021-01-11T19:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-self-driving-truck-company-kodiak-robotics-hauls-in-honor-at-ces-after-reaching-texas-milestone.md",
       "title": "Self-driving truck company Kodiak Robotics hauls in honor at CES after reaching Texas milestone",
       "excerpt": "The company completed two 800-mile roundtrip commercial shipments in December between Dallas and Houston relying only on Kodiak’s autonomous driving system.",
@@ -1326,40 +1369,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-2-artificial-intelligence-stocks-leading-the-new-wave.md",
-      "title": "2 Artificial Intelligence Stocks Leading the New Wave",
-      "excerpt": "It's a new year, and good time to take a look at what lies ahead. Not in the short term, but on the longer horizon. So, here’s a number to think about: $126 billion. That’s the predicted size of the Artificial Intelligence (AI) technology market in 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07",
-      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp",
-      "publishedDateTime": "2021-01-07T13:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
