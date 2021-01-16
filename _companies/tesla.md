@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 660
+heat: 623
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 7008579
+  followers: 7009382
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "dG6BxUneIxK1UZ9NnZXAExeTvb+viAIwY53//OIVDTjkM0zzhl5VizzMRXvOiZ+uzuoMuJs9BGbBZPhBTZUGm9ZxgNCxOsodK0UOv85FnIYVlezxbC1LFuqORt/8qV75Vg3qscv2z9JxRlyiNRfqBfmXT3H46AZfuhM4QZ3Mcgto09ZMo5Yfjs1YeXhPXOs5xi9uhm41Fw4YMQXsCRV0n6pfITr0uB5rktthnu64JaNT7cAo5rZNniaVNx9H2AD4V5Ndfdsh0MNCvjU5cEGDZ15ki2Zz8gSSexA13lZfRrhysrBATrQMZ4vFzAobzcHK3Mz/mr9i9ie8lNCRgKlp+US/VPyma/HOp/btOEMmIwodkW3pJCZp7n3NRydOlNth0piLrLA3mKg5hdAJB3tWthkyvnPaR/ossXAWUgbUgKc=;BnJ0xrSIFQlbFUZlyW/3tA=="
+secured: "fBWMC7HmD91vbPhuj4EzFGeML1g888kdVTLWOXtdyh1AXf2uK+V9PeLi2c1LpP+ex0Mu82srXnhid4Vmqqjm4mhgEZGpgnbcriuUONi6FtYNlz7Z33OzTQ3Tl4tqBjod6eLjboohd+0FG3bWxGEKQYlie2iJt2h0G6GmKpM+enZrwk128kIEEDGZnJyyWxsSB6vBOE/3Kf9J8HDaqsTfkRQkzW2x1AUqc0Aq7Gwj9o+oocEUTVM5utXdaAHs4eE9bYbbEbjAC16DAPUT6AhPeDGK/XoB0/3hpTg2BVQQDt9gwiBck2hp5H+9/HuZ6M/RPvVR09/Tob8cW5XixCm2tXH95LC7dQvUP2X3DB2cMmEDCxARKncpFfP6vnB80IZ15/FBuAtGDduNJUqXww8iG9z3OXyjCFYT/xtEnr4Q4/E=;9X5FFJQjNgxiD4r1eKGd2Q=="
 ---
 
