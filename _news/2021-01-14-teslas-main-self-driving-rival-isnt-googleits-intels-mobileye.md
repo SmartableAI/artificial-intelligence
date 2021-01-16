@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-riva
 webUrl: "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Mobileye-autonomous-vehicles-tests-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Intel’s Mobileye Plans Self-Driving Cars for the Masses by 2025"
-    excerpt: "Mobileye NV is using the chip-making prowess of parent Intel Corp. to build laser sensors it says will make self-driving cars cheap enough to sell to retail buyers by 2025."
-    publishedDateTime: 2021-01-11T18:25:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-11/intel-s-mobileye-plans-self-driving-cars-for-the-masses-by-2025"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1aOyxIzxDog/v0/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "From Paris to NYC, Mobileye will bring self-driving cars to metropolises"
     excerpt: "Tokyo, Shanghai, Paris, Detroit and New York City will all see fleets of Mobileye-powered vehicles rolled out in early 2021"

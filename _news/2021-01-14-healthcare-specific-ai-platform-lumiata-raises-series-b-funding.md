@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Healthcare Specific AI Platform Lumiata Raises Series B Funding"
-excerpt: "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc"
+excerpt: "Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc and AllegisNL"
 publishedDateTime: 2021-01-14T12:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-301208447.html"
-webUrl: "https://www.prnewswire.com/news-releases/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-301208447.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-specific-ai-platform-lumiata-raises-series-b-funding/article_52eb636c-d900-53de-a2f2-c4351ce9e075.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-specific-ai-platform-lumiata-raises-series-b-funding/article_52eb636c-d900-53de-a2f2-c4351ce9e075.html"
 type: article
 quality: 56
 heat: 76
 published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
@@ -20,9 +20,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1420695/Lumiata.jpg?p=facebook"
-    width: 600
-    height: 314
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/e1/8e185db6-5af0-512d-bc6b-bc2b55fa4332/600044b434c96.image.jpg?resize=400%2C400"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -50,6 +50,6 @@ related:
       domain: insidebigdata.com
     quality: 17
 
-secured: "td7iwj7frgRmPkfIivASZWWsuunUg/bKAE9kNDfzwGAwbP5Oyso+uM4RGSmwAyLRgsLyEncUpSUn0BNdUKi+bs+sd5bPyU9qypr8bWKeHhWvgFy+JgXYji/MyBKsXqqOCLBnuwP9taOA23qALDAN45wan2xd71o9AOFmZjuUQSFiOP7CJ0FZnLpQ7a8IfaJSLGVVxpiC06vBirVj491V6t4jR6Ueu/Ln0R/jfNZbF6qgZTfuBM/UlRLhZstEG/v8mdeg1CEUqGeAJ2e9jqsbqsRQNS12ULHmHz1NdnrJa8OHxa4Xxoh5VF+2fWmghNdP/EjHI5xl8aAs4jF+iEoY1vk1epYRQie1XuGzmVc/GAw=;cqHBoBtGhYJYs5IK9jbLdA=="
+secured: "dLLHQyeuDKIQuz7J7Aj4foT/Q/7aWh8qS9dWLkg3Az9e4SEw5yMI1dwgVdofzFvYWofA8tgxy8AheZP6QtG5tAO7hbuZTHpM21IZSD04QiUnbtPii5w0esQzwvb2pYdJQP3gy0VaOiZPwNJrUovU2deOHEuoSO+HVAmHYiV9w/lykRCAA8HrlpSjAY4G/jcnjMRw7OWILHjpxdKDqWHE5ZnlpUM5RsnAGQUQxBL9S/VdLv4OlrEldEPdePRBuZSwEtcCXZ+ZdGPdkALgBHGuu+Xb9dwsKCnnb3tYf0lG3D7t6VRNz4rY2h5kyumMCnbMUlB9GRB9VByD+ma76L0ynH3xARe9qkX0jEPsjKNdtkI=;pHdRy5VPSgWaPcxFrOhJNg=="
 ---
 

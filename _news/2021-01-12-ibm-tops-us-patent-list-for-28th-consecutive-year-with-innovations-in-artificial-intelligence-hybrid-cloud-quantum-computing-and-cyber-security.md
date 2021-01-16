@@ -1,18 +1,22 @@
 ---
 category: news
 title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) scientists and researchers received 9,130 U.S. patents in 2020, the most of any company, marking 28 consecutive years of"
-publishedDateTime: 2021-01-12T11:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-301205792.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-301205792.html"
+excerpt: "automation and building trust in AI, and continually infusing new capabilities from IBM Research into our IBM Watson products. In 2020, this included the IBM Watson team announcing the first ..."
+publishedDateTime: 2021-01-12T11:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790"
 type: article
-quality: 18
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
@@ -20,9 +24,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -82,6 +86,6 @@ related:
         height: 823
         isCached: true
 
-secured: "TmuosKDXR0OlfQsJbX1CNeC2plWCTbdUcaBkA1fjZS7p3G/9MJR7wrV7VE/I8fTmtO9pF5JIp+zt5oPpqutRvIM4EwMylsoqtT/XK0gPhggeVlCbqfWLLp9h+Q83DQf5XRm6ucVeDJBz8QKObedeWQKmLdBWRjI0+RP0hp3n108x+Q+/2Qc8nyNzzVg8Qx9ZVmP6CwEMwEgEOcXImvoVOmVHdAfkiD3jS21T9JcRK12XvKuqyhl5Z05pY0q8nPY4CJ6E/7QNPOJ+ZQQ7Gy+6iinISHJSBa10W0koPqzo+zb23olPM1dGNrYOAjR4xy7q9svjSZeXs5Iptw9qVovOpPPhyfyea2SMRtYEt/SIVJ4=;v3fevNwXboJHm61JVlVBBg=="
+secured: "BuCXygEEOdk400bo6ki/6JxDHbcJ434c+TrZpi6Ju1QjjKcCqdc/6kREFvecIQfF9LOSgsgH92ln0peapHnRQAU0i1I3zHWuxOlZ1CRwu9tsoXucyyT7DbrA7vH2F7NddrIFZyOvf6w3pfhq1oGnlw22xWQKizioYuXuDOIoOWWsGmlPI2QCPM4CrCtz9HASdffMWyA5+RLF+BtxqVODhtxniGy+GxkaqHrjmHud+5f1md5aE0snfjUwDky6o8FjApNzBIK2WL09QwMgX5rblZq6rePg/zNwRPWQvW590N4MOykrjDWPaYaKnO6vsIxdXlZX4ZraIctiFtJ0tk1YfchOeU0UdvUTtmiNlRz0ZJk=;81Y/EyhCQ2UUYiff2GH3Rw=="
 ---
 

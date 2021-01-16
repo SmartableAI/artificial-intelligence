@@ -67,18 +67,18 @@ related:
       domain: cnbc.com
     quality: 53
   - title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) scientists and researchers received 9,130 U.S. patents in 2020, the most of any company, marking 28 consecutive years of"
-    publishedDateTime: 2021-01-12T11:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-301205792.html"
+    excerpt: "automation and building trust in AI, and continually infusing new capabilities from IBM Research into our IBM Watson products. In 2020, this included the IBM Watson team announcing the first ..."
+    publishedDateTime: 2021-01-12T11:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "zyxhPmCyVSluRgW2A1roGB3UMXl0taKE+uFJbXfq+SoqigUNwYbhzyW8g+0W0mBy9CZ4R/laEOCAQ3giiIkgfrQKaaVpqTzvwNu2MbsjixRMvOaxem8YN9QmSJ28iUrFQ3zB9bh1PSR3yyLAR0Vew5B5WwFok8MMlUWdsKuzZvDteehUjow5vdslSou8/FPFMStebzbb20Co81vUU0geweCDUK8Doaro7bQ34BPsFByhqGJEUoZeW1GfCrHe8fFnLifuPuT36uHNKuEA91DsxayTYhTTNcEBoOenVJ/2Tg1TOP2qZYUdGhAzZYITDsifaSBruFexLR0YCKkGH18iYEM2ydqt8jtwZjGVYSf9T8rqPQOtqFY2X/QpSoY4YsdNFZasywkapVXLyo5s8k40FGE65rKqYesLlK8PSE+RDsy+VrfUvkOHzL2CcrIZIeehCqU7hNsFGkmNE+gio91nlmdZd6C+OcYv+m5jp7TrNP89shZEybRyAUr0FJvmGGWlPBppSNS5kidYWaK3bOlEbQ==;5vWkYnmZtlvDU/YHa3oRiA=="

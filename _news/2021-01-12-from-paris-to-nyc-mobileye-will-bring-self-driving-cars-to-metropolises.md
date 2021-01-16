@@ -71,20 +71,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Intel’s Mobileye Plans Self-Driving Cars for the Masses by 2025"
-    excerpt: "Mobileye NV is using the chip-making prowess of parent Intel Corp. to build laser sensors it says will make self-driving cars cheap enough to sell to retail buyers by 2025."
-    publishedDateTime: 2021-01-11T18:25:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-11/intel-s-mobileye-plans-self-driving-cars-for-the-masses-by-2025"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1aOyxIzxDog/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Mobileye intends to put self-driving tech in consumers' hands in 2025"
     excerpt: "Mobileye's self-driving ambitions are going global, and the company's scope is stretching beyond robotaxis. In 2021, the Intel subsidiary intends to launch new test beds in Tokyo, Shanghai, Paris and potentially New York."
     publishedDateTime: 2021-01-11T19:09:00Z

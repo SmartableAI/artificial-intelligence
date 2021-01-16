@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
 type: article
 quality: 106
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -196,20 +196,6 @@ related:
       - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/01/Screen-Shot-2021-01-14-at-6.24.10-PM.png?w=1280"
         width: 1280
         height: 740
-        isCached: true
-  - title: "The Army has built the largest facial recognition database of thermal images"
-    excerpt: "The Army’s work could make facial recognition technology even more ubiquitous down the line for federal agencies, giving them the ability to work in the dark and the light. Facial recognition is in the news of late for its use in identifying pro-Trump ..."
-    publishedDateTime: 2021-01-11T18:48:00Z
-    webUrl: "https://www.fedscoop.com/army-facial-recognition-database-thermal-scans/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 36
-    images:
-      - url: "https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2019/01/17101751/GettyImages-490070699.jpg"
-        width: 1920
-        height: 1113
         isCached: true
 
 secured: "dzLK0ZEjecOgeWsHkpL5KN+2Sh29bkPv42BQaVhc+aMIlVsF0SPlbDhMMAPpFVRsNNOGoW63mgTsue4hOxy/3odg01kTWvgU/jxYxajxH4jLinexyD+mdgEtyzTQ9hKkWhfQGci9Ivyh1aqTV3ikuWJBlRv90aqtZRDExeojlRJyQW4G9gZ+SWzH2J+6lyYGcmNSHSS3hVpB8/oSakXVH+aQf0YCHeYrnypuGpaKZyOs6XSmPiDe9p5sL7N93hL2DTzKZwDZ43O1mocLr5yTgJDTOZRJ2FNrRap9AQeeT8qaBQnlLWzyJlxlTLODDkdC+QWVxKmKtTxWi90ewqIQqB83AO++oPw8nGd58NfPF7OAgJj7rVMKCJExi6PQ4tigXBW3qG5btb48LveQT9ZWtP0X5ATxmyqSSjuliCMuy6AJvb/7SWPVW6NQ+5W597YnvyY5AV2uV/18WG3F9G46d3vjLqEuRJBx3FIgcL/4K/tkQdfvh78c8AcKYmgqL9GUEl/nYlWvjN22kp7LHLqouA==;EegxntQl7les7SSZdNX8UQ=="

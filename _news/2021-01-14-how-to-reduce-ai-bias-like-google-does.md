@@ -9,7 +9,7 @@ ampWebUrl: "https://www.adweek.com/brand-marketing/how-to-reduce-ai-bias-like-go
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/how-to-reduce-ai-bias-like-google-does/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Using light to revolutionize artificial intelligence"
-    excerpt: "An international team of researchers, including Professor Roberto Morandotti of the Institut national de la recherche scientifique (INRS), just introduced a new photonic processor that could revolutionize artificial intelligence,"
-    publishedDateTime: 2021-01-12T01:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "TWxICkKkFoZOOsbQSUoku2El00kPx0Yf6kcICM2lVVzUgNGNqKbVkEtRimqMuXXD7KRZqOfiYTD50zdWWYFEvNRndVZPrC+Q2olFUIhsQKfci461LW7w3GTqMSJMeSIKVyOzGjtOiRMKoSWVbLnTGDmmlJ9kq6kpBG0Tx56jyMkgTNM94Ap4tiZkiduVfjK++rJAiHQAon1U9ckBpT3p2/W7HbFZ7d6ese2/QNENhqXm3hzRrQU5CPFf05tsnJ4Ocgz1czdQH4JtAvvSjKykt+9Lbficnq1A9gEGfNjYv6PyjZROBJ5BAjGY/G7nk5b0wofZDRrc0u2f2L3S74t4QstnyH6S2St/U7pNNCJLU949fMmtAv3Yo1N5uelDpoCLk3GW6e7XkBMNnhxiHXK3H2wV7hKrHhr8/hYiy5qAiRshZT3UrZS5FaXgF7s7RfgML8eFfX6Mat+8l14qghPF7w2xkZd1+WtyOjhsgX6bk+hNZUTdf/xMsTdih0leQ5MgrHpnAj/yWb9RkXA5uwbgzA==;vZ2eE4VxDinnCNjWjymoHw=="
 ---

@@ -23,21 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "How to Reduce AI Bias Like Google Does"
-    excerpt: "Google itself has faced controversy in recent months over its firing of respected AI ethics researcher Timnit Gebru following her coauthoring of a paper highlighting the risks of large language models,"
-    publishedDateTime: 2021-01-13T21:02:00Z
-    webUrl: "https://www.adweek.com/brand-marketing/how-to-reduce-ai-bias-like-google-does/"
-    ampWebUrl: "https://www.adweek.com/brand-marketing/how-to-reduce-ai-bias-like-google-does/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/how-to-reduce-ai-bias-like-google-does/amp/"
+  - title: "New AI-Powered Cleaning Devices Could Revolutionize Daily Chores"
+    excerpt: "A new AI-powered vacuum cleaner and washer-drier duo could point to a future of automated home-cleaning. Who hasn't lay in bed on a day-off envisioning a late rise and an easy day, only to find a litany of mundane chores invading their mind and forcing them to rise from bed grudgingly?"
+    publishedDateTime: 2021-01-12T14:21:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11920"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11920"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11920"
     type: article
     provider:
-      name: Adweek
-      domain: adweek.com
+      name: Azorobotics
+      domain: azorobotics.com
     quality: 59
     images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/12/Nielsen_Whitepaper_011321_HP_V2-640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11920_16104610670255422.jpg"
+        width: 2000
+        height: 1499
         isCached: true
 
 secured: "XyCZsXoneqPOuZM925QciZvEClIYOVbiK8pKjyB+5+eelVzmyRz+9rVO0i8EiGYKfbV53M4BRozCKYXBxd0qW2oEt9Pu6UjRsRy4gsnGNfWmGz4cnsX+RwsEGE9ttWT5tZthxpNkHzVFVJ98fm6GNQ6D1gCIexBWduzyShF96gdHgPwxuSfNNecdNBM02V+X+5cAorpL34Hr2JM+vJprM4AkuHJsYlLyGPSbSYohhIhs9Am+MvkWx4pqLnwDko3/GHBcqqswJ4EeGOxjIbyyRJFtd2qrhdR8FuakU952GMvJAxFCu/ZMgD7uLwqXF+hzFuIKrqi1vFY33QWOEWAM5E4cTXOkYL/QlyfEbO6adO8=;sqOETDVSf+jHdDWyPAwS7g=="

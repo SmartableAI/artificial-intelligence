@@ -36,6 +36,15 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 39
+  - title: "How AI Will Shape the Future of Customer Communications"
+    excerpt: "In this contributed article, Eric Schurke, VP of Operations at Ninja Number, discusses how AI solutions are changing the way businesses communicate in 2021 and beyond. To succeed you should focus on three different aspects: incorporating customer feedback,"
+    publishedDateTime: 2021-01-14T15:23:00Z
+    webUrl: "https://insidebigdata.com/2021/01/14/how-ai-will-shape-the-future-of-customer-communications/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "v9YBBRX/+9uPX12i5mwGu7wLSLKOEeghKnRRBjygLFH+YTIMoNeOhJ4Jv4guPlOFtKwTc3lc+L0LSQUCrz+e82dikYik6uae3k6CWE51G6gmVlz4oCWtFjEygUjNRyEAaHNC3yEe1p6/rMVhwSdlyCwm46ymBltoGkumb1hDAOtHuNyAWlDiII3qUyZMph9eYx3sLJ6FU3IxQN80bLk5A7wZ/qaQOOrTFflf+4HT9Lm3ISmAnqCsvIp9niTRyxY5//Ci/ujT0Sv3Bma6/EtmzdekKewkyrPjRPvg98Knf2EHNTodzgBeNcfsnWcAhYBFKzkqqIE8CFTwDbtben4c4SLKevm37+N1ua0Wn5j/FHc=;mY8KR84/icpKEcftNjC/WA=="
 ---

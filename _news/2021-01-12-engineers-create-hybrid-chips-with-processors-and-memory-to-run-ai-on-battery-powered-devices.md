@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/01/210111112151.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/01/210111112151.htm"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -21,40 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Hybrid chips can run AI on battery-powered devices"
-    excerpt: "Smartwatches and other battery-powered electronics would be even smarter if they could run AI algorithms. But efforts to build AI-capable chips for mobile"
-    publishedDateTime: 2021-01-11T17:45:00Z
-    webUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/"
-    ampWebUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 74
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2021/01/Illusion-art-960x640-1.jpg"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "New AI-Powered Cleaning Devices Could Revolutionize Daily Chores"
-    excerpt: "A new AI-powered vacuum cleaner and washer-drier duo could point to a future of automated home-cleaning. Who hasn't lay in bed on a day-off envisioning a late rise and an easy day, only to find a litany of mundane chores invading their mind and forcing them to rise from bed grudgingly?"
-    publishedDateTime: 2021-01-12T14:21:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11920"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11920"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11920"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11920_16104610670255422.jpg"
-        width: 2000
-        height: 1499
-        isCached: true
 
 secured: "OIn1/we7iEQ+Xye1mofF+2jUMRXxV0risnhvYu/87vN6Z1aJRdfwQc8OBdUvmmlc8yrwSOoAI14pdRV94wkazEL35HlfINsHBC9cuoYZtJPD/9if38WiSHUj9rHv/ARIvX6tJZf3eDh54fXV9ChqLSfPG0ohznBAQT55szXaZmE2ccJOklUGjKXPxNgbII3upKh7GXnwhBxZMzJnPT3nxYex2THcMknYRmC54D2TlMvtq1LJcAWFs5N2X3pG92cKZ7tjjlFVlQqhbOEugoF6B125kVjg1jmKH4AU9g6cSB/ls3461OElhxqqujE9rCLJ1eAlZYJDd8tydz0SBDqLjBntnzvSD2stU9SZtqf0cA0=;1E+WeSKxQveJGO2eA8FGqw=="
 ---

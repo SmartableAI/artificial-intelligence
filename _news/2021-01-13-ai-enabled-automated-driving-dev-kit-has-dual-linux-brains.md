@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/linux/ai-enabled-automated-driving-dev
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 350
         height: 236
         isCached: true
-  - title: "AI-enabled automated driving dev kit has dual Linux brains"
-    excerpt: "NXP unveiled a BlueBox 3.0 automotive platform that runs Linux on an up to 16-core -A72 LX2160A and a quad -A53, 3x -M7 S32G. You get an optional Kalray MPPA AI chip, 6x PCIe Gen3, and 8x LAN ports up to 100GbE."
-    publishedDateTime: 2021-01-11T18:48:00Z
-    webUrl: "https://linuxgizmos.com/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/"
-    type: article
-    provider:
-      name: run Linux-based Opera TV
-      domain: linuxgizmos.com
-    quality: 19
   - title: "BeagleV SBC runs Linux on AI-enabled RISC-V SoC"
     excerpt: "Board.org and Seeed unveiled an open-spec, $119-and-up “BeagleV” SBC with a StarFive JH7100 SoC with dual SiFive U74 RISC-V cores, 1-TOPS NPU, DSP, and VPU. The SBC ditches the Cape expansion for a Pi-like 40-pin GPIO."
     publishedDateTime: 2021-01-13T20:01:00Z

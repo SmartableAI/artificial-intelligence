@@ -126,20 +126,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
-    excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
-    publishedDateTime: 2021-01-11T18:42:00Z
-    webUrl: "https://siliconangle.com/2021/01/11/microsoft-will-expand-verilys-terra-biomedical-data-platform-azure-services/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/verily-768x431.jpg"
-        width: 768
-        height: 431
-        isCached: true
   - title: "Microsoft’s New BERT Model Surpasses Human Performance on SuperGLUE Benchmark"
     excerpt: "Researchers at Microsoft Dynamics 365 AI and Microsoft Research have introduced a new BERT model architecture known as DeBERTa or Decoding-enhanced BERT with dis-entangled attention. The new model is claimed to improve the performance of Google’s BERT and Facebook’s RoBERTa models."
     publishedDateTime: 2021-01-12T04:32:00Z
@@ -167,20 +153,6 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Microsofts-new-settings-let-users-contribute-recordings-to-improve-its.jpg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "JPM: Microsoft signs on to Verily, Broad Institute’s Terra open research platform"
-    excerpt: "Verily and the Broad Institute of MIT and Harvard hope to dramatically boost the reach of their open-source biomedical research platform, through a new partnership with Microsoft."
-    publishedDateTime: 2021-01-11T17:37:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-signs-to-verily-broad-institute-s-terra-open-research-platform"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 34
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1610380808/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?My6UORra_3Xp1xRUUn5AuQHfD4c_Kz6U"
-        width: 884
-        height: 543
         isCached: true
   - title: "Microsoft Partner with Board Institute and Verily to Accelerate Next-Gen Terra Platform"
     excerpt: "The Broad Institute of MIT and Harvard, Verily and Microsoft Corp. (NASDAQ: MSFT) have announced a strategic partnership to accelerate innovations in biomedicine through the Terra platform. Terra is a scalable,"

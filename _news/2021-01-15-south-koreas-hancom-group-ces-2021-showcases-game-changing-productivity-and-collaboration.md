@@ -118,7 +118,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 12
+    quality: 14
   - title: "StradVision and D3 Engineering Showcase a Market-leading Automotive Front Camera Solution at CES 2021"
     excerpt: "PRNewswire/ -- StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AV), today announced its collaboration with D3 Engineering on an Automotive Front Camera solution delivering market-leading performance and price efficiency."
     publishedDateTime: 2021-01-13T17:03:00Z

@@ -192,20 +192,6 @@ related:
         width: 1280
         height: 740
         isCached: true
-  - title: "The Army has built the largest facial recognition database of thermal images"
-    excerpt: "The Army’s work could make facial recognition technology even more ubiquitous down the line for federal agencies, giving them the ability to work in the dark and the light. Facial recognition is in the news of late for its use in identifying pro-Trump ..."
-    publishedDateTime: 2021-01-11T18:48:00Z
-    webUrl: "https://www.fedscoop.com/army-facial-recognition-database-thermal-scans/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 36
-    images:
-      - url: "https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2019/01/17101751/GettyImages-490070699.jpg"
-        width: 1920
-        height: 1113
-        isCached: true
 
 secured: "ZVvfUjQIsz45vZd1Mj7CXnFoSzyeLwE3HEdNbELOS5E/TawvCzr501PdImqm3uw6bVoLml6ebxQNHoJJDVllRQ16a21NtKEz/BIkZ0icY0MA75rFT/60SeToV77zy6mDYCKCDP2z4Io/5eab/id2x2KkPoDF5+8/W8/wOnpcOCRP4HG1/j6fXboGjbSgWB17e+JKEubdZ74vrSI5grjF9eX4RrPmqocQiw909t8U2QkHoZHvf659N/tX4uFCohKulSpsXB7abEdmxZK8PIrr5RAChjq5q0FeCS/SjDfsM2AuJz6nlVuYkuOLr71kILdWPJA/JEKygSjnh638dWgpHhhrUR1X17hmX3zC8J+1qtQV8vDYCIyazJIChpnLJKW2hGMXGXWZIgM7HRnP7IiDwytS3siEMbxbtNZ7OPhb9uDFUJihuAAOsLEwcV5QXqxLIpt5YCiczS0QhXKq6IFyClJNsZCPA9ogJRtVQS0ibqqSeD6RAiUTEdCAHBWTUJec06agsTrta4k5WryOvkAjIQ==;frqGOfMoIeI431hnWc7GTA=="
 ---

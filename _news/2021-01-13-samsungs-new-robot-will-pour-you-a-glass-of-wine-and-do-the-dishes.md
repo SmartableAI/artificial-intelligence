@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Samsung's Newest Robovac Is an AI-Powered Poop Scout"
-    excerpt: "While it won't clean up pet poop, Samsung's newest robovac should at least know enough to avoid it in order to prevent making a bigger mess."
-    publishedDateTime: 2021-01-11T19:00:00Z
-    webUrl: "https://gizmodo.com/samsungs-newest-robovac-is-an-ai-powered-poop-scout-1846021197"
-    ampWebUrl: "https://gizmodo.com/samsungs-newest-robovac-is-an-ai-powered-poop-scout-1846021197/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/samsungs-newest-robovac-is-an-ai-powered-poop-scout-1846021197/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/edgo0tkelrppfhh2v5jj.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Watch Samsung’s clever home robot lay the table and pour wine"
     excerpt: "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine."
     publishedDateTime: 2021-01-12T03:20:00Z
@@ -81,50 +65,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/01/Samsung-JetBot-90-AI-.jpg"
         width: 700
         height: 525
-        isCached: true
-  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
-    excerpt: "Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show."
-    publishedDateTime: 2021-01-11T18:33:00Z
-    webUrl: "https://www.imdb.com/news/ni63153935/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 56
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
-  - title: "Samsung’s latest Handy robot does the laundry, sets the table, and pours the drinks"
-    excerpt: "Samsung us showing off its latest home robotics technology at CES 2021 with an AI-laden model known as Bot Handy that could do your chores."
-    publishedDateTime: 2021-01-11T18:16:00Z
-    webUrl: "https://9to5toys.com/2021/01/11/samsung-bot-handy-ces/"
-    ampWebUrl: "https://9to5toys.com/2021/01/11/samsung-bot-handy-ces/"
-    cdnAmpWebUrl: "https://9to5toys-com.cdn.ampproject.org/c/s/9to5toys.com/2021/01/11/samsung-bot-handy-ces/"
-    type: article
-    provider:
-      name: 9to5Toys
-      domain: 9to5toys.com
-    quality: 53
-    images:
-      - url: "https://i1.wp.com/9to5toys.com/wp-content/uploads/sites/5/2021/01/Bot-Handy-Samsung-CES-2021.jpg?resize=1200%2C628&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Samsung showcases two futuristic home robots, also announces JetBot 90 AI+ vacuum cleaner & SmartThings Cooking"
-    excerpt: "Samsung is one of the world’s largest electronics companies. The firm sells a wide variety of products across the world. Like any other tech giant, it has also announced certain cutting-edge home products at the virtual CES 2021 trade show."
-    publishedDateTime: 2021-01-11T18:48:00Z
-    webUrl: "https://www.gizmochina.com/2021/01/11/samsung-jetbot-90-ai-bot-care-handy-smartthings-cooking-ces-2021/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 49
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/Samsung-Bot-Handy-CES-2021-Featured.jpg"
-        width: 1726
-        height: 1151
         isCached: true
   - title: "Samsung unveils AI-powered robot vacuum at CES that uses sensors found in self-driving cars"
     excerpt: "According to Samsung, the 3D sensors on the JetBot 90 AI+ are sophisticated enough to know which objects it can bump up against, like a table leg, and which to give a wide berth to, like pet poop."

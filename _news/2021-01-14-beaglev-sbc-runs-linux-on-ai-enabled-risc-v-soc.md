@@ -49,15 +49,6 @@ related:
         width: 350
         height: 236
         isCached: true
-  - title: "AI-enabled automated driving dev kit has dual Linux brains"
-    excerpt: "NXP unveiled a BlueBox 3.0 automotive platform that runs Linux on an up to 16-core -A72 LX2160A and a quad -A53, 3x -M7 S32G. You get an optional Kalray MPPA AI chip, 6x PCIe Gen3, and 8x LAN ports up to 100GbE."
-    publishedDateTime: 2021-01-11T18:48:00Z
-    webUrl: "https://linuxgizmos.com/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/"
-    type: article
-    provider:
-      name: run Linux-based Opera TV
-      domain: linuxgizmos.com
-    quality: 19
 
 secured: "MwKwF6rLpk109ItJpr5Qoq0+LbtCbTDIWMeHT3pZB8+yetWPtjwI0mndE8uzsvf7Pdrv0tyVdmeViKGIuptXlDafqP2u7gfL58ltaIn+KdFfBBnbf0b31fblwJvGLIuaps8TbCQ409wIuW5WDZYPyfD+jcom9ttgyHojDgXF3Q27kz0RRwmZXMT0aYY7cuejNvlHJkysFgOkRpRzOOq17HJ5Y/JLP4PJZ5MDzXSF3xg+jfA/khEwcag4oqvt8gClHd8c7lXTEjehBaTxfcbAutACgoJTYzhcv1XaKWFRP1KuUt8uCyjSrEJmUr6j0Hs2KU6H+7/06w3TQp5QEVLmmHfkCobnelwzmvgFFbtuWSOAFMQA3qlMB+CToDD8VyQR+UzjxteLSF3Ru7IU6QAU3cp78vXG3QYuL3/yGUP0mwHQVzhyIOXFZx8JVW/QhX8fwWNpeXq34n9+sciUzFbDXFO66/2Ywj6OWFndY4F+h7oxtyucVPohBjhnTEOyB2d6V8c/hgd3YHRU/8LMPKgLUg==;Y+qfkYxYixUIWG4HMjbkpw=="
 ---
