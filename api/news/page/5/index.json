@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-13-trump-admin-launches-national-ai-initiative-office.md",
+      "title": "Trump admin launches National AI Initiative Office",
+      "excerpt": "The White House today announced the launch of its National AI Initiative Office, marking what should be President Trump‘s final manipulation of the country’s gutted Office of Science and Technology Policy (OSTP).",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robotarmy-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/",
+      "publishedDateTime": "2021-01-12T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-how-the-use-of-robotics-is-evolving-at-mrfs.md",
+      "title": "How the use of robotics is evolving at MRFs",
+      "excerpt": "A recycling facility operator and a robotics company say artificial intelligence is providing materials recovery firms with much-needed data to analyze changes in the recycling stream. That’s in addition to sortation improvements.",
+      "sourceUrl": null,
+      "webUrl": "https://resource-recycling.com/recycling/2021/01/12/how-the-use-of-robotics-is-evolving-at-mrfs/",
+      "originalUrl": "https://resource-recycling.com/recycling/2021/01/12/how-the-use-of-robotics-is-evolving-at-mrfs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resource-recycling.com/recycling/wp-content/uploads/sites/3/2018/02/DSC_0046_robotics_websize.jpg",
+          "width": 700,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://resource-recycling.com/recycling/2021/01/12/how-the-use-of-robotics-is-evolving-at-mrfs/amp/",
+      "cdnAmpWebUrl": "https://resource--recycling-com.cdn.ampproject.org/c/s/resource-recycling.com/recycling/2021/01/12/how-the-use-of-robotics-is-evolving-at-mrfs/amp/",
+      "publishedDateTime": "2021-01-12T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Resource-Recycling",
+        "domain": "resource-recycling.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces.md",
       "title": "NVIDIA Unveils GeForce RTX 30 Series Laptops And The Aggressively-Priced GeForce RTX 3060 Desktop GPU At CES",
       "excerpt": "PC Graphics giant, NVIDIA today has taken the wraps off new GeForce RTX 30 Series gaming laptop platform technologies, as well as a new GeForce RTX 3060 graphics card that will address the meat of the market at a popular $329 midrange price band.",
@@ -294,7 +389,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -380,7 +475,7 @@
       "originalUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1103,101 +1198,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-photo-storage-app-maker-settles-ftc-claims-over-use-of-facial-recognition.md",
-      "title": "Photo storage app maker settles FTC claims over use of facial recognition",
-      "excerpt": "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH",
-      "originalUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine.md",
-      "title": "Watch Samsung’s clever home robot lay the table and pour wine",
-      "excerpt": "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
-      "originalUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
-      "publishedDateTime": "2021-01-11T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

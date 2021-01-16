@@ -53,15 +53,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Socrates.ai Names Zack Still as Chief Information Officer and Chief Security Officer"
-    excerpt: "Socrates.ai, providers of the Employee Awesome Digital Conversation Hub, announced today that Zack Still has been promoted to the dual role of Chief Information Officer and Chief Security Officer, effective immediately."
-    publishedDateTime: 2021-01-12T06:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8123900/socratesai-names-zack-still-as-chief-information-officer-and-chief-security-officer"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 27
 
 secured: "sjUqj7mC4J4juYa0z6dph7ZcUfqJQEsKO2Jl8aNjVkuLqzrlRRkoFotOoZFFCpnKT+lxHfD7oR6AD0J6kE8oS+6S+DMKmfcr765XmRhdxVA43TLlgBptLxWsuXQeR/l1oPIcSzMTKlzYdNOcMWecjfnmc1Si695ohRABcV9z3FYC4YqLLi5rMzbXzw1z7i/UUVU8Heeta7J+jx6UGktUWtFExcx23TCD9ItcQJO3qSgbIi88lH8QxQ2dYoef26ceFOCLyHzB30fRi+G4THxyupu983A5zNn/bfJSNXZW0wjpbAoxgLLCYxh+b68+7UOKrGunMnL9kSPC1cChzMHyLs7FxtjXEOjTEJMFFv5qDoo=;2+PpUMJfXt/7xVq+YEay9Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/01/15/upstart-ceo-on-using-artific
 webUrl: "https://www.cnbc.com/video/2021/01/15/upstart-ceo-on-using-artificial-intelligence-to-modernizing-lending.html"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Tackling subjectivity in hiring with AI and machine learning"
+    excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
+    publishedDateTime: 2021-01-14T04:00:00Z
+    webUrl: "https://techinasia.com/tackling-subjectivity-hiring-ai-machine-learning"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 64
   - title: "Tackling subjectivity in hiring with AI and machine learning"
     excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
     publishedDateTime: 2021-01-15T00:56:00Z

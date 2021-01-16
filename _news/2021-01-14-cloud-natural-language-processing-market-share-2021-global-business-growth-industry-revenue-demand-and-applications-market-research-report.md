@@ -85,6 +85,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market worth USD 53.0 Billion by 2025 | Latest Innovation, Advance Technology, Top Companies"
+    excerpt: "According to Market Study Report Image Recognition Market provides a comprehensive analysis of the Image Recognition Market segments including their dynamics size growth regulatory requirements competitive landscape and emerging opportunities of global industry Get Free Sample Report in PDF Format"
+    publishedDateTime: 2021-01-13T17:30:00Z
+    webUrl: "https://www.openpr.com/news/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    ampWebUrl: "https://www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
+    images:
+      - url: "https://cdn.openpr.com/U/1/U113350752_g.jpg"
+        width: 640
+        height: 411
+        isCached: true
 
 secured: "WMdD1iWT/O4nwTfIaLCqq7UQQk5pcfSmSjHcVb9NwQKfE6BbaLGXVQb7BiYQQoKOE2mSiakGmoviXTTdDFu2gORVs8qdEAjx497m1bZs6FIgYY96jgXL9HY4FIFFE0bdCvv9MukOw7EBh6zNoa9sr/NKpMEIKyLgWKck5IzbQlIPV3Ou5+6q91jCD2Crt8yuvI+DsTgt1uGL/vM1tY4tm2r1ERA4TbC9AfnqKTWCDGGmnPgSvpVKjKDKDqCryRqGyvIgB2fc7v0zSQr0rEhYe5m8TlRTyJslgYUvV4z4qgHDS/Q6tIP/ynS4ulBsaPbRFuY0FpPtCeKfeUhW1+7NVe+cOiy0ikj+VYh5AvC6Nro=;kwbSa9XKW8y8l830KR/wGg=="
 ---

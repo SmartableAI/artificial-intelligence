@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-industry-demand-top-players-industry-future-growth-by-2025-2021-01-13"
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -84,6 +84,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Image Recognition Market worth USD 53.0 Billion by 2025 | Latest Innovation, Advance Technology, Top Companies"
+    excerpt: "According to Market Study Report Image Recognition Market provides a comprehensive analysis of the Image Recognition Market segments including their dynamics size growth regulatory requirements competitive landscape and emerging opportunities of global industry Get Free Sample Report in PDF Format"
+    publishedDateTime: 2021-01-13T17:30:00Z
+    webUrl: "https://www.openpr.com/news/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    ampWebUrl: "https://www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
+    images:
+      - url: "https://cdn.openpr.com/U/1/U113350752_g.jpg"
+        width: 640
+        height: 411
         isCached: true
 
 secured: "mwGu7wiq4jf5J2NxVCc5CE0EHpGxih/awYDpt4WWeAAYviSE1mpfHFxCFNg692lT98cJPCnmr0fqi5U5LDf7xRYYcy335bdJ2Jg7DbsFAmsIwgIsUoS991rRlQIUqJUXLtOumiW5GPxBSVuQnH4aX8eq9n07+4bQQ0c/CcsVu2LlM6MP4SbywnqrtTwGIK39FBq2IogibthbN8AHB7OwQ0K1b5f+NeS8VljbbKIqiNw4Hdej6iIKg8w75/Mpqu4Hz5mukvZNNad7B1Z+9eYZG+2E5Ehbyqaa8x/BMOjL69+RssoE2c8A5ofklWDeicRwlU/RPm/H0ba5i984mJbaS+ki8tRShSp+Qjcyl/teqjY=;reSH2NbBkVV6xSeis35aOg=="

@@ -59,22 +59,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "L&T Infotech, IBM expand alliance; to build an innovation center in Bengaluru this year"
-    excerpt: "L&T Infotech will help clients migrate and modernize core business applications leveraging IBM Cloud offerings, the company said.L&T Infotech has developed industry-ready solutions using IBM Cloud Paks,"
-    publishedDateTime: 2021-01-12T06:29:00Z
-    webUrl: "https://www.livemint.com/companies/news/lt-infotech-ibm-expand-alliance-to-help-companies-for-digital-transformation-with-hybrid-cloud-11610431023630.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/lt-infotech-ibm-expand-alliance-to-help-companies-for-digital-transformation-with-hybrid-cloud/amp-11610431023630.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/lt-infotech-ibm-expand-alliance-to-help-companies-for-digital-transformation-with-hybrid-cloud/amp-11610431023630.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 36
-    images:
-      - url: "https://images.livemint.com/img/2021/01/12/600x338/landtoubro-kZ2G--621x414@LiveMint_1610431127625.JPG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "L&T Infotech and IBM to expand global alliance; To establish a center of excellence in Bengaluru"
     excerpt: "LTI will help their clients migrate and modernize core business applications leveraging IBM’s open hybrid cloud platform."
     publishedDateTime: 2021-01-15T09:51:00Z

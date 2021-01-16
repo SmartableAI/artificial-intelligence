@@ -41,21 +41,19 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Wearable heart monitors and deep learning can provide early warning of SARS-CoV-2 infection"
-    excerpt: "A recent study, appearing as a preprint on the medRxiv* server, reveals the possibility of early prediction of SARS-CoV-2 infection using data on the resting heart rate in the presymptomatic period."
-    publishedDateTime: 2021-01-12T06:03:00Z
-    webUrl: "https://www.news-medical.net/news/20210112/Wearable-heart-monitors-and-deep-learning-can-provide-early-warning-of-SARS-CoV-2-infection.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210112/Wearable-heart-monitors-and-deep-learning-can-provide-early-warning-of-SARS-CoV-2-infection.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210112/Wearable-heart-monitors-and-deep-learning-can-provide-early-warning-of-SARS-CoV-2-infection.aspx"
+  - title: "In light of COVID-19 high-tech tools firms are turning to artificial intelligence (AI)"
+    excerpt: "According to CNA News, in light of COVID-19, with more firms looking to better manage manpower with high-tech tools firms are turning to artificial intelligence (AI) and machine learning in Singapore."
+    publishedDateTime: 2021-01-16T21:02:00Z
+    webUrl: "https://www.linkedin.com/pulse/light-covid-19-high-tech-tools-firms-turning-ai-amanda-goh"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 46
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/1/a021.01.08.21249474v1.jpg"
-        width: 859
-        height: 302
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZbZpPwfThQ/article-cover_image-shrink_720_1280/0/1610770097853?e=1616025600&v=beta&t=OMQiXwLPLw14Q0ZJJOiKTWbfD2QPRM2KijhOam8urrQ"
+        width: 1240
+        height: 720
         isCached: true
 
 secured: "GqNfz/0Iw8rJFa8Mk2tuGgKeAwd/HkMfiVcB/cEo3WBlh4JCYtOoReDQJyYOrVbc2EoBT8rR6wME6YwYJabb6d1ktsT/fz6JNPOoiJT0LvcYwvC/ViYrlAOwoG7mo/41AxbUzBT7JONzFhvVbfcOpMnOM89hdiT7C48JN5/lwzLTIhii5qR5iuT+x8DIJ1ogHkXi4ezmgrEZ4qdI2qpsBEP0V75n1xksrHUGnwUuKldBapw2/DBocJJi2pPeGj1AycYvA7DBQ+j31bKZR54vJHmsEHDJ2bisVAEeiXjfOrNhpoPkmdB9lHFodfTyC3qudeaaWfwaVoQIgrp4NCk61StO8Id3eNFVINO0Gaj/Cys=;DBJ3eNmBrsuLCK5yymlrBw=="

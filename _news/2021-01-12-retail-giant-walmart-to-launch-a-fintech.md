@@ -37,20 +37,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Walmart Announces Creation of New Fintech Startup"
-    excerpt: "Walmart announced the creation of a new fintech startup designed to develop and offer modern, innovative and affordable financial solutions. The new company is a strategic partnership with leading fintech investment firm Ribbit Capital."
-    publishedDateTime: 2021-01-12T06:08:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/walmart-announces-creation-of-new-fintech-startup/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "DonorSearch Expands Partnership with Gobel Group and Appoints Award Winning Team to Launch a New Division Focused on Artificial Intelligence"
     excerpt: "DonorSearch, the leading provider in prospect research solutions, today announced that it is expanding its current partnership with Gobel Group and its technology company, Futurus Group, to form a joint venture to accelerate the development of new products and services."
     publishedDateTime: 2021-01-12T23:32:00Z

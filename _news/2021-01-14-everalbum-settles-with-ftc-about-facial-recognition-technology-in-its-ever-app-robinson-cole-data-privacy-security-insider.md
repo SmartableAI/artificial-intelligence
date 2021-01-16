@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/everalbum-settles-with-ftc-
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/amp/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "FTC Settles Facial Recognition Misuse Suit With Everalbum"
-    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
-    publishedDateTime: 2021-01-12T06:04:00Z
-    webUrl: "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/"
-    ampWebUrl: "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/"
-    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 59
-    images:
-      - url: "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Everalbum Settles with FTC over Facial Recognition Technology in its Ever App"
     excerpt: "The Federal Trade Commission (FTC) announced its settlement with Everalbum Inc. (Everalbum) for its Ever app, a photo and video storage app, due to its alleged deception of consumers related to the"
     publishedDateTime: 2021-01-13T17:03:00Z

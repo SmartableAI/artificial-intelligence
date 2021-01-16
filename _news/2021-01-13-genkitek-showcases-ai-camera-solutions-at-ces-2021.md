@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021"
-    excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution"
-    publishedDateTime: 2021-01-12T05:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-301205896.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "CES 2021 Car accessories company Carkit AI creates Roxie - CarPool Karaoke in a Box"
     excerpt: "Your next carpool Karaoke will sound just like those celebrity carpool jams with Carkit AI’s latest product called Roxie, a plug and play car karaoke station for your car. Roxie allows everyone in your car to sing along hands-free to their favorite tunes with professional sound effects."
     publishedDateTime: 2021-01-13T06:57:00Z
@@ -47,20 +33,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
-    excerpt: "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,"
-    publishedDateTime: 2021-01-15T01:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -122,6 +94,15 @@ related:
         width: 1919
         height: 1005
         isCached: true
+  - title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
+    excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
+    publishedDateTime: 2021-01-15T06:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
   - title: "StradVision and D3 Engineering Showcase a Market-leading Automotive Front Camera Solution at CES 2021"
     excerpt: "PRNewswire/ -- StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AV), today announced its collaboration with D3 Engineering on an Automotive Front Camera solution delivering market-leading performance and price efficiency."
     publishedDateTime: 2021-01-13T17:03:00Z

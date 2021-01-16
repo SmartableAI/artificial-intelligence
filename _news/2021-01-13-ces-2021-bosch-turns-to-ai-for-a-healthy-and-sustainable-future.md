@@ -180,20 +180,6 @@ related:
       name: KDFW
       domain: fox4news.com
     quality: 41
-  - title: "CES 2021: Pandemic’s robot ‘heroes’ highlight their value at tech show"
-    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
-    publishedDateTime: 2021-01-12T06:15:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/12/ces-2021-pandemics-robot-heroes-highlight-their-value-at-tech-show"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005074.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-12T09:41:00Z

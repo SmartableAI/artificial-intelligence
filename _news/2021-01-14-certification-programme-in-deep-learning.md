@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/certification-program
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/certification-programme-in-deep-learning/article33571120.ece/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 300
     height: 300
     isCached: true
-
-related:
-  - title: "Success for Fast-Track Data and AI Graduate Programme"
-    excerpt: "As the pandemic continues to hamper recruitment activities and risks a lost generation of talented graduates needed to aid Wales’ economic recovery, the"
-    publishedDateTime: 2021-01-12T05:35:00Z
-    webUrl: "https://businessnewswales.com/success-for-fast-track-data-and-ai-graduate-programme/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 39
-    images:
-      - url: "https://businessnewswales.com/wp-content/uploads/Confused.com-CEO-Louise-OShea.jpg"
-        width: 1382
-        height: 778
-        isCached: true
 
 secured: "xXbJcCkm0D9MZvD0X3VDSnQKIAt/ZjlSE8YuhpplJoFf/jQACan3dYEfm2jGLaZo6sl2a5RP57InQnpGixtd14Ce2660xydi4Reph7lbPfEJDKVBUdscY6+MsIhLLM/rK6o0DOJ5ee8ACCh6AYBnupUnAvDVkwwayJEsBrW/lJoVzZLvMThi3Zu5c39oCFeLpiPmKNoNlyuepyIrBN5w4xVX9I1oDTvq9PPj4LwcSFUFODS5S2g9wqvwXJ5rNQ2eYQVXsBvb5Jvsw01B38XL7waONRocbWG3Yb4+ofs9EOhwR7V2hMfZA+H1Dp6GFhCJbjc0eIYKh2/2MVeYXwDMgRmxoNdTjSDL2jGCQcZxTAI=;vHXnW6bW5BRqR0RuoDjL2A=="
 ---

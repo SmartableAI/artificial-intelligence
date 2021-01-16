@@ -52,20 +52,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "Walmart Announces Creation of New Fintech Startup"
-    excerpt: "Walmart announced the creation of a new fintech startup designed to develop and offer modern, innovative and affordable financial solutions. The new company is a strategic partnership with leading fintech investment firm Ribbit Capital."
-    publishedDateTime: 2021-01-12T06:08:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/walmart-announces-creation-of-new-fintech-startup/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "db6y3F9neLm9E7aHwtYgNXE5hgxlD12eEOYVzciTVb/la85V6vo8g5B6SyDGSBBxysrCkxHE1ylmoScZUB78di9lPlIsAkZf3UNI2acIHUlEytd44foJD+/3tmtSNOPAo/vUMiuR7HNlka/afRZVUvG03W+Jhx5UhrPeBfNOkGVEdFQcQ3Vm/EswJ5KZsbU9R1wee3NBcAyISLyf+yA3nRKyVAoUsbn39OdLVF51XvtH1VHoM78khuTxG9bAgo0xZNZx0BjgfXMZ7Xi4a7HE8/sXJeUXM27kg9hgJWE4w+HSHKRxHp3oDItoRSyHUymMjYmrnvY47TAkkaUSJYKPE8CRwMJnw1MVsA4IKcAWpRg=;o5Itr5rgF54Mexn4y7ZI7A=="
 ---
