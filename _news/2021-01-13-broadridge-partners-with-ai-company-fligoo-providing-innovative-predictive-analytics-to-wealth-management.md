@@ -25,33 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Analytics Market technological to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2021-01-13T18:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13"
+  - title: "New AI Platform Provides Proxy Voting Data from Broadridge"
+    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy"
+    publishedDateTime: 2021-01-12T12:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Is AWS Panorama a Game-Changer for Video Analytics?"
-    excerpt: "What makes Amazon different is AWS’ deep roots in artificial intelligence; however, it is conceivable that the two are now competitors. Much like S&ST, Panorama technology enables integrators and end-users to deploy CV applications from multiple sources ..."
-    publishedDateTime: 2021-01-15T16:47:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21203570/is-aws-panorama-a-gamechanger-for-video-analytics"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "New AI platform provides proxy voting data from Broadridge"
+    excerpt: "Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
+    publishedDateTime: 2021-01-12T17:31:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provides-proxy-voting-data-from-broadridge"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
+      name: Finextra
+      domain: finextra.com
     quality: 39
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/01/GettyImages_1199478432.5ffcc2cedffd1.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 667
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Broadridge partners with AI company Fligoo for predictive analytics"
     excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
@@ -62,31 +57,6 @@ related:
       name: Leaprate
       domain: leaprate.com
     quality: 19
-  - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
-    excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
-    publishedDateTime: 2021-01-14T12:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19158792/scanmarket-expands-analytics-capabilities-with-the-acquisition-of-artificial-intelligence-company-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19158792"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19158792"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "VoiceBase Delivers Predictive Analytics to Slice, Giving Local Pizzerias a Bigger Piece of the Pie"
-    excerpt: "VoiceBase and Slice power delicious insights by processing pizza order calls with predictive analytics. San Francisco, CA, USA, Jan. 12, 2021 (GLOBE NEWSWIRE) -- VoiceBase, the leading AI-powered voice analytics company,"
-    publishedDateTime: 2021-01-12T11:49:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-computing-and-information-technology-data-mining-ae8c4a52c9a933596bd19df98b67282a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "xh2YSQ4yVf/NbOVB1aFy8wDj7oM9T+uRBOLJYYdWsjuUHYh4bwyckOAy107Hs41l1KyxbNktO9yqPFffgER87FyUQzvOMRlS/mcKp+RW7GEHMmXxPOI2CYbclPRCobowhl6l4WbAOeTFoHzGgUyRwc83veYDwnL13CZWL9DbblFvl1I64DoX59uK1UH2wdif4HKZ+vlxGdswTe7WiYVS/QsjL3h2jydgos88NOJi6rWBNnvDuoZUCJ3wsZXt5LYTrykokPmPBpAqCseVpDXjC2+C1AbBgKBHYlQZ6IOl0+IhhIfbvENbHqY6Iw9uUTT4TcioYY3YBjwUE7Tf0YjNLXal8AMMWByzCRN1H2SuS0I=;UFiJN8YuFHt/n7KIvfMPyg=="
 ---

@@ -25,29 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Specific AI Platform Lumiata Raises Series B Funding"
-    excerpt: "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc"
-    publishedDateTime: 2021-01-14T12:44:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-301208447.html"
+  - title: "AI and Big Data Analytics in Telecom Market Size, Status and Global Outlook 2021"
+    excerpt: "Global AI and Big Data Analytics in Telecom Market research report published by market insight reports explores"
+    publishedDateTime: 2021-01-14T18:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://mma.prnewswire.com/media/1420695/Lumiata.jpg?p=facebook"
-        width: 600
-        height: 314
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI-driven Platform Identifies and Remediates Biases in Data"
-    excerpt: "Synthesized has released the Community Edition of its data platform for Bias Mitigation. Released as a freemium version, the offering incorporates AI research and cutting-edge techniques to enable any organization to quickly identify potential biases within their data and immediately start to remediate these flaws."
-    publishedDateTime: 2021-01-13T15:34:00Z
-    webUrl: "https://insidebigdata.com/2021/01/13/ai-driven-platform-identifies-and-remediates-biases-in-data/"
+  - title: "Cognitive Analytics Market technological to witness high growth in near future"
+    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
+    publishedDateTime: 2021-01-13T18:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-Powered Storage Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2025"
+    excerpt: "Market Research Future published a research report on \"AI-Powered Storage Market Research Report – Global Forecast till"
+    publishedDateTime: 2021-01-12T22:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-storage-market-2021-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2025-2021-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "RetailNext Showcases Next-Gen Machine Learning Analytics and Releases 2020 Holiday Season Analysis at NRF's Big Show"
+    excerpt: "Onboard demographics are introduced as part of the enhanced machine learning capabilities, along with a Holiday 2020 recap report"
+    publishedDateTime: 2021-01-12T23:38:00Z
+    webUrl: "https://www.wboc.com/story/43161213/retailnext-showcases-next-gen-machine-learning-analytics-and-releases-2020-holiday-season-analysis-at-nrfs-big-show"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 31
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
+    excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
+    publishedDateTime: 2021-01-14T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19158792/scanmarket-expands-analytics-capabilities-with-the-acquisition-of-artificial-intelligence-company-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19158792"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19158792"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "pLgsRxR1fgPvaVAL9GzHz0ZwFvcRvJZ4ZFAkFxQ+bvqEdkwd3fUr2GopVFk0lQmtWfIUr8QFZ6ab3d8CAncFp5GP9ZL4nXHQXvTFtxNiuYKxG+MyF0GuBST+51VRyvSYmJZPnL1XF8DrBa/kKBYs4O0Ft0ZmveetBUh7JMeh7YvRSNkmILhl0oF26ATUiMWnGAoSS9ZupQVMwS2ZC93o9vlWs2uOyEW559SHayMdWPP5NwgIy/0E2M1VaPa9gzFRl1RfUtpLij+RU0W/evth5/Pbd11L4IsCN2DHhYWRDDTFn4MjGb+VwwxEsoxrFF+l5X9Dr1TgUSscl4hCLOqlTXsiIEa4e0Lj96dwQoEy7OLlJNooA1UHe8+1UZ5WPsiZQ1hSv2m4kusJ7ai3NnrZbp5nD5Tf7ubVltS3+EoitVSUXsFNylnc6l729+/M4sJh06XI8pstrfmH3bAc//011Ejw7tTbehzKWWj4JoVNqt47qgCYOn96rK92e5wVesU6Qrr7s7gPmm/rKvWu3UDTVw==;eMyXTEs8w62zzmaCazZZ3Q=="
 ---

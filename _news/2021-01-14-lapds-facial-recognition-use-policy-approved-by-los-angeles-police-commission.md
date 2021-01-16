@@ -43,6 +43,38 @@ related:
         width: 939
         height: 630
         isCached: true
+  - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
+    excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
+    publishedDateTime: 2021-01-16T16:19:00Z
+    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
+    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 54
+    images:
+      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
+        width: 1200
+        height: 495
+        isCached: true
+  - title: "Police Commission approves new oversight for LAPD’s use of facial recognition, rejects call to ban the technology"
+    excerpt: "The Police Commission approved a policy Tuesday that set new parameters on the LAPD’s use of facial recognition technology, but stopped far short of the outright ban sought by many"
+    publishedDateTime: 2021-01-13T00:17:00Z
+    webUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/"
+    ampWebUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 38
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/01/download-5.jpeg?w=1280"
+        width: 840
+        height: 473
+        isCached: true
 
 secured: "qZM4dm6mlLjnp8b+nKA59V4TFxNR9ISDVPOELseWT7oFPrK2EyB6kzW54z9haWQuvjIE401rmjqXJMTpxtBaeO2LcFCxId4Uv3GBMZWBxfvTyaj7AlPQoNTMMTtghl6INQuufmjlgib7L6N25iO7bdPrkJQmjJx3R+spmVkyx4p1CH9JdJ/2XVsf4qsxINI5304nUETZn1W6KhAIAY3r12OTwVJzhsPwYzRyvI78hkDI56hiNcV3PgFuTabj8PcJiTLzlwR1+7A4E4PYNeS+KxNUWIMmcsphtUpJt/WSJVPKQLuaZZvBJ7CgdxD1I1F56PTgBE2P1U4hzY7rWZAGWtFbbjDnOOcXkZ0o2aLa9Q9/G7QvBbGM3gkH3z63KX/XM1JACAOzctBGS0jpHniw1URX4KJIDO1/rRzsqvt480LrhU2Ccr9+70IbZXrEVRJkfNpmOSIbH56ht6VDj8ZzbjRkANeKg76b93LLRX7OsF0V0EJEFBWNHyU5EonD735RdFxb+nBxcJJVl2GMg9WmuQ==;7TDTuVBDJlP00w/jD5zEaA=="
 ---

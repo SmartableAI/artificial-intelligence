@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Fintech Software Development Companies 2021"
-    excerpt: "FinTech software development companies earned a whopping $34.5 billion. Ant Financial – formerly known as Ant Group – received up to $14 billion"
-    publishedDateTime: 2021-01-12T04:42:00Z
-    webUrl: "https://hrnews.co.uk/top-10-fintech-software-development-companies-2021/"
-    ampWebUrl: "https://hrnews.co.uk/top-10-fintech-software-development-companies-2021/amp/"
-    cdnAmpWebUrl: "https://hrnews-co-uk.cdn.ampproject.org/c/s/hrnews.co.uk/top-10-fintech-software-development-companies-2021/amp/"
-    type: article
-    provider:
-      name: UK Human Resources News
-      domain: hrnews.co.uk
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/VO9_f8YFo_uG48awUGeTQwmVf0rIxClyo4gp2lUBsn53PiSOGSWFdCM4Mqwk5Z7dYjoW1J9uxWxeZyDDx8MNSNgeXMF-rR9i9o_fs4KSw1TgWRAXSuiPdbwrN5TcrytZUg"
-        width: 1600
-        height: 1022
-        isCached: true
   - title: "Five Predictions for the use of AI in Fintech"
     excerpt: "Inevitably, AI and machine learning, and a focus on harnessing data, will be key to bolstering business  strategies and enabling new areas of growth. There are, however, immediate challenges that must be overcome following the disruption brought about by the coronavirus crisis,"
     publishedDateTime: 2021-01-15T10:51:00Z
@@ -59,6 +43,45 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "BisB Appoints a Judging Panel for the Fintech Competition ‘BisB Innovation Challenge’"
+    excerpt: "Bahrain Islamic Bank (BisB) recently announced the selection of its judging committee for the ‘BisB Innovation Challenge’ a Fintech Competition which is currently being run as part of the Bank’s partnership with the CBB Digital Lab “FinHub 973”,"
+    publishedDateTime: 2021-01-13T10:05:00Z
+    webUrl: "https://www.albawaba.com/business/pr/bisb-appoints-judging-panel-fintech-competition-‘bisb-innovation-challenge’-1404764"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/bisb-appoints-judging-panel-fintech-competition-%E2%80%98bisb-innovation-challenge%E2%80%99-1404764"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/bisb-appoints-judging-panel-fintech-competition-%E2%80%98bisb-innovation-challenge%E2%80%99-1404764"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 37
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/Chief%20Executive%20Officer%20of%20Bahrain%20Islamic%20Bank%2C%20Mr.%20Hassan%20Jarrar.jpg?itok=Bn80scnW"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Potential jurors favor use of artificial intelligence in precision medicine"
+    excerpt: "Physicians who follow artificial intelligence (AI) advice may be considered less liable for medical malpractice than is commonly thought, according to a new study of potential jury candidates in the U."
+    publishedDateTime: 2021-01-12T08:53:00Z
+    webUrl: "https://medicalxpress.com/news/2021-01-potential-jurors-favor-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 35
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Fintech Provider Quavo, Inc. Announces Minimum Livable Wage Policy for Employees"
+    excerpt: "Last week, financial technology provider Quavo, Inc. stated that it is instituting a minimum livable wage for all full-time empl"
+    publishedDateTime: 2021-01-12T21:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-provider-quavo-inc-announces-minimum-livable-wage-policy-for-employees-1029961623"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "Marc Levin Joins United Fintech as Partner & COO"
     excerpt: "Marc Levin, former CEO of CFH Group, has joined United Fintech as Partner and Chief Operating Officer (COO). With responsibility for the operational and commercial aspects of United Fintechs portfolio,"
     publishedDateTime: 2021-01-12T10:36:00Z
@@ -86,6 +109,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Fintech Apps that Made the Grade Amidst the Pandemic"
+    excerpt: "As people stayed in the safety of their homes for weeks and months on end, we needed to alter our daily routines and use technology more than ever. From Zoom meetings and food deliveries to online sho"
+    publishedDateTime: 2021-01-15T11:02:00Z
+    webUrl: "https://mb.com.ph/2021/01/15/fintech-apps-that-made-the-grade-amidst-the-pandemic/"
+    type: article
+    provider:
+      name: Manila Bulletin
+      domain: mb.com.ph
+    quality: 24
+    images:
+      - url: "https://mb.com.ph/wp-content/uploads/2021/01/Fintech-Apps.jpg"
+        width: 853
+        height: 480
         isCached: true
 
 secured: "X7iFdD6U/nflS7vPCww4MLHDYLuYmtRwsbLdT/Das4r6IGVBm0hopoPVFFfXwd9D5axEt/kBJeE4aJMijAKSjDsA9IRTVIuvFHcjdMoTzfmTCMjnhwZJWMs0iMN8cvyPSw6nu4lIwIn+Z9yxXf0kYRK+zVwD2jNERhNybF3tQnzaFXyyWMjKorFHXSlen2DcxXmZujd1sN3gZx+ySTiWqfrOV03BD/xMPNB9dhwp3FHktVoNau04klz+pBkXMBqIMDUqx+ZQ8/bjOLuuZVQg9cAaXkd1A6UvBSydi0o+LRMAvAAMWQdY33X0ETbYj9JIpQJvjoFBu9cXdJxe5PU0X7cHvKL7mLihFsBWHle1uf95qZe3iPvMfV6Z/4WUXccLVLSUmXL5KCDn5WiSOH8PpRbme+cyK43McYj8wjgutoi/vs3JudAI59oYysUSDi58Cl5PNPLGoV4Oci/ut1vMXOrm8B76cPFa9dQN6khCT/q0Oxs1htbLY6zrbml+pod4v2KTFd2WJ0MXL/xPW+9ssA==;arIgMpWPQfe1+r1ua1xXjA=="

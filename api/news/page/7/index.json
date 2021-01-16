@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-11-chinese-search-giant-baidu-teams-up-with-geely-to-build-electric-cars.md",
+      "title": "Chinese search giant Baidu teams up with Geely to build electric cars",
+      "excerpt": "Hong Kong (CNN Business)Chinese search giant Baidu is teaming up with carmaker Geely to build electric vehicles, the latest move by a tech company to shape the future of the autos industry.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210111020126-01-baidu-geely-auto-self-driving-electric-cars-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "publishedDateTime": "2021-01-11T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-could-artificial-intelligence-be-the-future-of-fertility-treatment.md",
+      "title": "Could Artificial Intelligence Be The Future Of Fertility Treatment?",
+      "excerpt": "Scientists are working on embryo analysis with computer algorithms to help build families. Artificial intelligence could lead to massive developments in IVF.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/",
+      "originalUrl": "https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff86f5f05d2afc3a0282399%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alicebroster/2021/01/11/could-artificial-intelligence-be-the-future-of-fertility-treatment/amp/",
+      "publishedDateTime": "2021-01-11T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next.md",
       "title": "IonQ CEO Peter Chapman on quantum computing adoption, innovation and what's next",
       "excerpt": "ZDNet caught up with IonQ CEO Peter Chapman to discuss quantum computing applications, how the cloud will accelerate adoption, software developers and riding innovation curves.",
@@ -1079,100 +1182,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-leveraging-ai-in-remote-talent-acquisition.md",
-      "title": "Leveraging AI In Remote Talent Acquisition",
-      "excerpt": "AI has made headlines for the last few years, but after the new normal of remote work was accelerated in 2020, it has been more of an impact on remote talent acquisitions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/",
-      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff96ae11bdf9fa884b96829%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5647%26cropY1%3D182%26cropY2%3D3358",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/",
-      "publishedDateTime": "2021-01-09T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-how-far-can-facial-recognition-go-in-finding-rioters-in-dc.md",
-      "title": "How far can facial recognition go in finding rioters in DC?",
-      "excerpt": "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "originalUrl": "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wcnc.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "cdnAmpWebUrl": "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "publishedDateTime": "2021-01-08T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCNC",
-        "domain": "wcnc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AbSci Announces Acquisition of Deep Learning Company Denovium"
+    excerpt: "AbSci, a leading synthetic biology company enabling drug discovery and biomanufacturing of next-generation biotherapeutics, today announced"
+    publishedDateTime: 2021-01-12T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/absci-announces-acquisition-of-deep-learning-company-denovium-301206116.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1418564/Denovium.jpg?p=facebook"
+        width: 2697
+        height: 1414
+        isCached: true
   - title: "SocialSurvey Announces Acquisition of AI and Machine Learning Company Zyudly Labs Data Solutions"
     excerpt: "SocialSurvey announces that they have completed the acquisition of Zyudly Labs Data Solutions. Zyudly Labs, based in Chennai, India, has emerged as a leader in Artificial Intelligence and Machine Learning."
     publishedDateTime: 2021-01-13T12:56:00Z

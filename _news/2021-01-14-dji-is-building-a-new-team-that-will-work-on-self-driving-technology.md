@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work
 webUrl: "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 24
-  - title: "Re-imagining manufacturing: Putting digital technology at the center of a post-pandemic new normal"
-    excerpt: "By Saj Kumar, Regional Business, Leader, Manufacturing, Asia If we’ve learned anything about doing business during the pandemic, it’s about the importance of embracing change. A willingness to adopt new digital technologies could determine whether an enterprise survives and thrives or struggles and fails in the months and years ahead."
-    publishedDateTime: 2021-01-12T04:03:00Z
-    webUrl: "https://news.microsoft.com/apac/2021/01/12/re-imagining-manufacturing-putting-digital-technology-at-the-center-of-a-post-pandemic-new-normal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/manufacturing1-1600x1067.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "T4+tdW29fTeQleWHQeZmTDLeCb38OB0/BoojgqouZ0qk+fJmqlEO6onuRc/Zpd59OPvAeWUmcxmC6H925nexuEwKUhp27ZawQxZZGlalKdleaBX9XMALjB02A6ogiSYjvKwYshsK3QFSm1iJSYr94nBzoBDu8iUOwbDx3PhxsJF/RVREJ9V/aLwJgZbrQkx2uZijq5XGrL7k8G22V7EN2hIwJuEnBGSuVnX3cBLjjN/IcRT4WqJLdoY7u6HibN/1QAmxGXqqYIzcnUVcoOGNXXM8tRTDqyB/4VvDuwQLFan+tJCf7694LhfUvbpearPpLDy5Sm2/yzvON/0jJbQquRA1pcK4tzFv+noWdz8824Y=;5AchxW/7HVsqw2l6VawSgg=="
 ---

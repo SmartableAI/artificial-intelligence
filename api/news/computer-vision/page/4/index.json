@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-10-computer-vision-market-competitive-scenario.md",
+      "title": "Computer Vision market Competitive Scenario",
+      "excerpt": "The Computer Vision market research report contains exhaustive recognitions dependent on market contention, portions, significant market contenders, and an aggressive scene that prompts potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2206833/computer-vision-market-competitive-scenario-and-growth",
+      "originalUrl": "https://www.openpr.com/news/2206833/computer-vision-market-competitive-scenario-and-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc10735637_g.jpg",
+          "width": 800,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2206833/computer-vision-market-competitive-scenario-and-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2206833/computer-vision-market-competitive-scenario-and-growth",
+      "publishedDateTime": "2020-12-10T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-moraine-valley-grads-written-work-receives-national-recognition.md",
+      "title": "Moraine Valley Grad's Written Work Receives National Recognition",
+      "excerpt": "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
+      "originalUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984",
+          "width": 701,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
+      "publishedDateTime": "2020-12-10T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-facial-recognition-is-running-amok-in-china-the-people-are-pushing-back.md",
       "title": "Facial Recognition Is Running Amok in China. The People Are Pushing Back.",
       "excerpt": "The convenience is made possible by facial recognition software and cameras ... Lao Dongyan, a Tsinghua University law professor, has been another prominent voice in raising public awareness of potential data breaches. Earlier this year, she sent a ...",
@@ -1300,102 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse.md",
-      "title": "Qualcomm’s Snapdragon 888 is an AI and computer vision powerhouse",
-      "excerpt": "The next-generation flagship mobile chip leans heavily on AI chip advancements to fuel systemic performance gains, especially in imaging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
-      "originalUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
-      "publishedDateTime": "2020-12-02T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-facial-recognition-software-getting-better-with-mask-wearers-says-study.md",
-      "title": "Facial recognition software getting better with mask wearers, says study",
-      "excerpt": "A new study shows facial recognition software developed after the start of the COVID-19 pandemic is doing a better job at recognizing masked faces.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/",
-      "originalUrl": "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2020/12/1202_masks-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/",
-      "publishedDateTime": "2020-12-02T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

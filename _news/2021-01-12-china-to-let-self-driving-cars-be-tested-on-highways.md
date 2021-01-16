@@ -64,20 +64,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 24
-  - title: "Re-imagining manufacturing: Putting digital technology at the center of a post-pandemic new normal"
-    excerpt: "By Saj Kumar, Regional Business, Leader, Manufacturing, Asia If we’ve learned anything about doing business during the pandemic, it’s about the importance of embracing change. A willingness to adopt new digital technologies could determine whether an enterprise survives and thrives or struggles and fails in the months and years ahead."
-    publishedDateTime: 2021-01-12T04:03:00Z
-    webUrl: "https://news.microsoft.com/apac/2021/01/12/re-imagining-manufacturing-putting-digital-technology-at-the-center-of-a-post-pandemic-new-normal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/manufacturing1-1600x1067.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "PFiyP1gqDYSdhGvpOCjg7Pk/LIVP45bkXF0A5Vg0gpQCrvTPoH7DfN090t0vBHM2DTf31DoPcEDgpQA0xD/dvrAh7n+j5X4GsOYz7UFNM4QdSQ4FjCe6nvTkZ0LmGZSzlj+KtJHnJzWDoOMhTdPzQx/rD/WVOKXek3DrgWIM51bGZdAFVxVI5oq9TJenZCauvsBhE/rCRauhq53oAHWAWdKTWscaKR1r4Y3Yxi7EGobCaCLItbX39OJlOEUTReZP/lGSRa75l9YQv62QmlbXYYYLNWIksK6yim3b/QciFEGrYeojR2GSEcLfKy9DrbkC+nOtiOu913ELIZNcJvirvLjHOMAHPWrYtoRoa8poAWk=;bcpxDgrovSm6CNz2UcMkrA=="
 ---

@@ -122,20 +122,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft’s New BERT Model Surpasses Human Performance on SuperGLUE Benchmark"
-    excerpt: "Researchers at Microsoft Dynamics 365 AI and Microsoft Research have introduced a new BERT model architecture known as DeBERTa or Decoding-enhanced BERT with dis-entangled attention. The new model is claimed to improve the performance of Google’s BERT and Facebook’s RoBERTa models."
-    publishedDateTime: 2021-01-12T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/microsofts-new-bert-model-surpasses-human-performance-on-superglue-benchmark/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Microsoft.png"
-        width: 1024
-        height: 597
-        isCached: true
   - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
     excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"
     publishedDateTime: 2021-01-15T17:37:00Z

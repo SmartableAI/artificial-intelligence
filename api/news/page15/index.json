@@ -2,6 +2,111 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-03-best-graphics-card-for-gamers-and-creatives-in-2021.md",
+      "title": "Best graphics card for gamers and creatives in 2021",
+      "excerpt": "Picking a new AMD or Nvidia graphics card can be overwhelming. We'll help you get started with everything you need to know. If AMD , Intel and Nvidia 's statistics are correct, you're most likely using a computer and graphics card that are several years old.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
+      "originalUrl": "https://www.cnet.com/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/kdpWv0xHoft2ndmTh94sIukoqFU=/1200x630/2020/11/17/66d183c5-8162-47b7-aa5c-dc12582475da/amd-rx-6800-09671.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-graphics-card-for-gamers-and-creatives-for-2021/",
+      "publishedDateTime": "2021-01-02T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups.md",
+      "title": "Revolutionary NLP Model GPT-3 Poised To Redefine AI And Next Generation Of Startups",
+      "excerpt": "Countless are the use cases that revolutionary AI model GPT-3, which uses deep learning to produce human-like text, can power. But, while it has potential for generative value, it is set to reshape both the dynamics of the AI world and the SaaS startup space because of its very own business model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
+      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0cabb6e6d1f574f50817b%2F0x0.jpg%3FcropX1%3D490%26cropX2%3D3911%26cropY1%3D85%26cropY2%3D2257",
+          "width": 1200,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2021/01/02/revolutionary-nlp-model-gpt-3-poised-to-redefine-ai-and-next-generation-of-startups/amp/",
+      "publishedDateTime": "2021-01-02T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-hitting-the-books-what-do-we-want-our-ai-powered-future-to-look-like.md",
       "title": "Hitting the Books: What do we want our AI-powered future to look like?",
       "excerpt": "For example, the artificial intelligence principles of the Organisation for Economic Co-operation and Development emphasize the human ability to challenge AI-based outcomes. We desperately need an “off ” switch for all AI and robotics in my opinion.",
@@ -332,17 +437,17 @@
     {
       "path": "_news/2021-01-02-msbai-guru-shows-the-elements-of-artificial-intelligence.md",
       "title": "MSBAI GURU Shows the Elements of Artificial Intelligence",
-      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be ... in 2009 Google demonstrated its self-driving Toyota Prius could finish more than 10 excursions of 100 miles each, showing ...",
+      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing ... showing society away towards driverless vehicles. To win the show, Watson utilized regular language preparing and examination on huge storehouses of ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence",
-      "originalUrl": "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence",
+      "webUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
+      "originalUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2021-01/01/i_ea46ada3-8_Image_In_Body.jpg",
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg",
           "width": 744,
           "height": 389,
           "title": null,
@@ -354,11 +459,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-01T21:48:00-08:00",
+      "publishedDateTime": "2021-01-01T22:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1035,101 +1140,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-tecate-bids-2020-good-riddance-uses-computer-vision-to-do-it.md",
-      "title": "Tecate Bids 2020 Good Riddance, Uses Computer Vision To Do It",
-      "excerpt": "Mirriad’s AI and computer vision technology inserts products and signage formats in content after it is produced. The technology allows brands to contextually target the ad across platforms and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/359134/tecate-music-video-bids-2020-good-riddance-ties-i.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/359134/tecate-music-video-bids-2020-good-riddance-ties-i.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/01/04/screen-shot-2020-12-31-at-35121-pm_9PQ7Eko.png",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-31T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-tesla-sweetens-new-ev-purchase-with-full-self-driving-trial-tossed-in-for-free.md",
-      "title": "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free",
-      "excerpt": "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "publishedDateTime": "2020-12-31T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -39,20 +39,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "UCI researchers use deep learning to identify gene regulation at single-cell level"
-    excerpt: "In a  study, UCI researchers describe how they developed a deep-learning framework to observe gene regulation at the cellular level."
-    publishedDateTime: 2021-01-12T05:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uoc--uru011221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "euZSoiETqyB9s+mJgEj24/lvFJCwuO7ZZl3Ho5Ph0OHQklXKMUB7yBrEEZOjSZ9k/wvwAlbqtBv3Qj+yrOonJABOkdyyKGoYAutRgsQq25ItYbwBoW0hKbu8de5x4COxMa1+Em5pieWAs1IeZA5tz0xdytShqghrcikDUj6tIUj0XOi3Qcv6Yao+f1step9CSP4pU20CtD3p37zmw0O+5ESUbmavQRk5uznUC7irE6yB72iv8VdbY6afeY4yFTEcz859qEQXu7VIlGGluHzyCWb/hHfoLJKBvjtD6ketgMkjPS4E1KO8todiQJ2jKVtjMzsw6JTQ8PPiBSzAQyEt3ApPMUc1M5yxfqXJJoovHQY=;cQclru4C4BdgOQu2LUQLbg=="
 ---

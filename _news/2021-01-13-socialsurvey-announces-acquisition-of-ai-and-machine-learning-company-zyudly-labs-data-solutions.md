@@ -33,6 +33,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "AbSci Announces Acquisition of Deep Learning Company Denovium"
+    excerpt: "AbSci, a leading synthetic biology company enabling drug discovery and biomanufacturing of next-generation biotherapeutics, today announced"
+    publishedDateTime: 2021-01-12T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/absci-announces-acquisition-of-deep-learning-company-denovium-301206116.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1418564/Denovium.jpg?p=facebook"
+        width: 2697
+        height: 1414
+        isCached: true
   - title: "Fujitsu Leverages Deep Learning to Achieve World's Most Accurate Recognition of Complex Actions and Behaviors Based on Skeleton Data"
     excerpt: "Fujitsu Laboratories Ltd. has announced the development of a technology that utilizes deep learning to recognize the positions and connections of adjacent joints in complex movements or behavior in which multiple joints move in tandem."
     publishedDateTime: 2021-01-14T08:58:00Z

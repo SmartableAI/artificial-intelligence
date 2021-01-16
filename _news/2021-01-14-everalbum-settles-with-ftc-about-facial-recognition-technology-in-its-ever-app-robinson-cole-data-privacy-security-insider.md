@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Photo storage app maker settles FTC claims over use of facial recognition"
-    excerpt: "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app."
-    publishedDateTime: 2021-01-12T04:05:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "FTC Settles Facial Recognition Misuse Suit With Everalbum"
     excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
     publishedDateTime: 2021-01-12T06:04:00Z
@@ -57,38 +43,6 @@ related:
       - url: "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
-    excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
-    publishedDateTime: 2021-01-16T16:19:00Z
-    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 54
-    images:
-      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
-        width: 1200
-        height: 495
-        isCached: true
-  - title: "Police Commission approves new oversight for LAPD’s use of facial recognition, rejects call to ban the technology"
-    excerpt: "The Police Commission approved a policy Tuesday that set new parameters on the LAPD’s use of facial recognition technology, but stopped far short of the outright ban sought by many"
-    publishedDateTime: 2021-01-13T00:17:00Z
-    webUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/"
-    ampWebUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 38
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/01/download-5.jpeg?w=1280"
-        width: 840
-        height: 473
         isCached: true
   - title: "Everalbum Settles with FTC over Facial Recognition Technology in its Ever App"
     excerpt: "The Federal Trade Commission (FTC) announced its settlement with Everalbum Inc. (Everalbum) for its Ever app, a photo and video storage app, due to its alleged deception of consumers related to the"

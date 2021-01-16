@@ -25,46 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "AbSci acquires AI startup Denovium to boost synthetic biology platform"
-    excerpt: "AbSci has acquired Denovium, a 6-person bootstrapped startup out of San Diego that uses deep learning to analyze the function and behavior of proteins. The deal will help bolster AbSci'"
-    publishedDateTime: 2021-01-12T05:00:00Z
-    webUrl: "https://www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boost-synthetic-biology-platform/"
-    ampWebUrl: "https://www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boost-synthetic-biology-platform/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boost-synthetic-biology-platform/amp/"
+  - title: "SocialSurvey Announces Acquisition of AI and Machine Learning Company Zyudly Labs Data Solutions"
+    excerpt: "SocialSurvey announces that they have completed the acquisition of Zyudly Labs Data Solutions. Zyudly Labs, based in Chennai, India, has emerged as a leader in Artificial Intelligence and Machine Learning."
+    publishedDateTime: 2021-01-14T18:31:00Z
+    webUrl: "https://menafn.com/1101432036/SocialSurvey-Announces-Acquisition-of-AI-and-Machine-Learning-Company-Zyudly-Labs-Data-Solutions"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 87
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/10/Sean_McClain__2-258x300.jpg"
-        width: 258
-        height: 300
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Vancouver synthetic biology company acquires San Diego-based AI startup"
-    excerpt: "Three months after raising $65 million in equity, Vancouver, Washington-based AbSci announced Tuesday it acquired a San-Diego based Artificial Intelligence startup Denovium. AbSci engineers living organisms to make therapeutic proteins."
-    publishedDateTime: 2021-01-12T12:47:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2021/01/12/synthetic-biology.html"
-    ampWebUrl: "https://www.bizjournals.com/portland/news/2021/01/12/synthetic-biology.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/portland/news/2021/01/12/synthetic-biology.amp.html"
+  - title: "SocialSurvey Announces Acquisition of AI and Machine Learning Company Zyudly Labs Data Solutions"
+    excerpt: "SocialSurvey announces that they have completed the acquisition of Zyudly Labs Data Solutions. Zyudly Labs, based in Chennai, India, has emerged as a leader in Artificial Intelligence and Machine Learning."
+    publishedDateTime: 2021-01-13T12:56:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8125489/socialsurvey-announces-acquisition-of-ai-and-machine-learning-company-zyudly-labs-data-solutions"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
-  - title: "AbSci purchases San Diego artificial intelligence startup Denovium"
-    excerpt: "Vancouver-based biotech company AbSci announced Tuesday that it purchased a deep-learning artificial intelligence startup called Denovium, based in San Diego."
-    publishedDateTime: 2021-01-13T14:04:00Z
-    webUrl: "https://www.columbian.com/news/2021/jan/13/absci-purchases-san-diego-artificial-intelligence-startup-denovium/"
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 21
+  - title: "Fujitsu Leverages Deep Learning to Achieve World's Most Accurate Recognition of Complex Actions and Behaviors Based on Skeleton Data"
+    excerpt: "Fujitsu Laboratories Ltd. has announced the development of a technology that utilizes deep learning to recognize the positions and connections of adjacent joints in complex movements or behavior in which multiple joints move in tandem."
+    publishedDateTime: 2021-01-14T08:58:00Z
+    webUrl: "https://menafn.com/1101430651/Fujitsu-Leverages-Deep-Learning-to-Achieve-Worlds-Most-Accurate-Recognition-of-Complex-Actions-and-Behaviors-Based-on-Skeleton-Data"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 8
     images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/01/007783646_Absci_01-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://menafn.com/updates/pr/2021-01/13/JN_e24f7066-f_Image_In_Body.jpg"
+        width: 600
+        height: 386
         isCached: true
 
 secured: "dRWhjNwZg05H0VeexU7DJ6K4WkunY0APAqfJwUD+Xle3zX0ujTnWmo1DXvRR094RqxEDfeBTH0e8sbPlm+wTG3FBIl6Dpmcr8RwzCd8bi7Y2LZJArS+ztyBEvi0g3CSf0LSnoW2bc4Kxsk0cUaeUVS5z9+udmNBBWwlUvfkVkDHSQaXuXVnJWoL39wad6lLbaufTbVKiS99qtM1shL24vSmKoR/IpkAJwrhSqOd0kIPQyeYEDcTaSTwzE51NkshLCSuqHfZbinu4UmUWgiZYrRJnHgK9Wd2JaCAEMwVAPLQvrh2XgDhvSgDT5TwpvNdwKKSobuIvStkEpOuUFbjTW/+OIRVs6Z1+W8o/f0ESxBs=;w4AGFApX+Dnk6qEhXe9UBg=="

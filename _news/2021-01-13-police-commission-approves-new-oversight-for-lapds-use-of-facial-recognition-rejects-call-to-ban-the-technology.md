@@ -27,35 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Photo storage app maker settles FTC claims over use of facial recognition"
-    excerpt: "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app."
-    publishedDateTime: 2021-01-12T04:05:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH"
+  - title: "LAPD Commission OKs Detectives to Use Facial Recognition"
+    excerpt: "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people."
+    publishedDateTime: 2021-01-14T21:50:00Z
+    webUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "FTC Settles Facial Recognition Misuse Suit With Everalbum"
-    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
-    publishedDateTime: 2021-01-12T06:04:00Z
-    webUrl: "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/"
-    ampWebUrl: "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/"
-    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
+  - title: "LAPD's facial recognition use policy approved by Los Angeles Police commission"
+    excerpt: "The policy was approved with a modification for the Inspector General to work with the commission's executive committee to develop and ensure a \"strong oversight system.\""
+    publishedDateTime: 2021-01-13T23:56:00Z
+    webUrl: "https://abc7.com/police-commission-approves-lapds-facial-recognition-use-policy/9632866/"
+    ampWebUrl: "https://abc7.com/amp/9632866/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/9632866/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 55
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/9632776_011321-kabc-5a-facial-recognition-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
     excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
@@ -72,36 +74,6 @@ related:
       - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
         width: 1200
         height: 495
-        isCached: true
-  - title: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider"
-    excerpt: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider The"
-    publishedDateTime: 2021-01-13T20:03:00Z
-    webUrl: "https://www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/everalbum-settles-with-ftc-about-facial-recognition-technology-in-its-ever-app-robinson-cole-data-privacy-security-insider/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 47
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Everalbum-settles-with-FTC-about-facial-recognition-Technology-in-its.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Everalbum Settles with FTC over Facial Recognition Technology in its Ever App"
-    excerpt: "The Federal Trade Commission (FTC) announced its settlement with Everalbum Inc. (Everalbum) for its Ever app, a photo and video storage app, due to its alleged deception of consumers related to the"
-    publishedDateTime: 2021-01-13T17:03:00Z
-    webUrl: "https://www.natlawreview.com/article/everalbum-settles-ftc-over-facial-recognition-technology-its-ever-app"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 36
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
         isCached: true
 
 secured: "xhx7LEVgTJ3kIwUjEZU1B6IYNw1x6RhThEnaphD5LhmNvX75KF/nydM3AGseAF27YfHUWv7AMawB1LalGIQFI9/VfzSSIgruw40/wruXuAHAgCukO2sS+Yoq7WH9RyX260m7feBIkPhzcMw1w63ITJfTTA71Ol9urge4fFYsJl5c8QXqXS/sHXmDLKulsqBs3ao0vSsVwpo34efnw9N7u29yDhYwCZFxxstvEeTUY9hWIbf6lUbdNGgtEtdZdrr3Sg2EngNUHqsKpX0exq7W7tPob3En7fWizYJwEbi1bKCSyO7D11VOvKyJ9H/rit9ao0eGDCnOrefApiALtgZQPO52Qe1Shcybb+2b8s/3jPR82jQvJov1fZ/Mkz/fUIzZfUMz5fuFQ2m0X0YU1NHZeANGN6Klv9Flahwu+xpGbH9nHD1uFaasqAJT6ZA8Xe5y49RynDQfZ5eCjUnnf5pMK/UswIzJUE496BnqTEewj/q5lo5a7BzMszUD76D28lm8M7ZhdATVA6BRvyJsBFdVEQ==;W8DVzVqd47EWEJKmJ9nwRw=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-hand
 cdnAmpWebUrl: "https://www-foodandwine-com.cdn.ampproject.org/c/s/www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy?amp=true"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Food & Wine
@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Samsung’s clever home robot lay the table and pour wine"
-    excerpt: "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine."
-    publishedDateTime: 2021-01-12T03:20:00Z
-    webUrl: "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/"
-    ampWebUrl: "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp"
+  - title: "Samsung JetBot 90 AI+ robot vacuum features a built in camera (Video)"
+    excerpt: "Samsung has unveiled a new robot vacuum cleaner, the JetBot 90 AI+ and it comes with a built in cameras and is powered by Intel AI. The video below gives"
+    publishedDateTime: 2021-01-12T09:12:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-jetbot-90-ai-robot-vacuum-features-a-built-in-camera-12-01-2020/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/01/Samsung-JetBot-90-AI-.jpg"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Samsung develops wine-pouring robot"
     excerpt: "Tech firm Samsung has unveiled a new robot that can pour a glass of wine, put away groceries and hand you a drink. Samsung made the announcement during a virtual press conference as part of the 2021 Consumer Electronics Show (CES)."
     publishedDateTime: 2021-01-12T10:41:00Z
@@ -94,6 +97,15 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "CES 2021: Meet JetBot, Samsung’s lidar-integrated robot vacuum"
+    excerpt: "Samsung Electronics introduced a new robot vacuum that better responds to its environment in the home or office by using artificial intelligence (AI) and lidar. The JetBot 90 AI+ uses a combination of sensors and AI to improve object recognition."
+    publishedDateTime: 2021-01-12T14:20:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16187/ces-2021-meet-jetbot-samsung-s-lidar-integrated-robot-vacuum"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 21
 
 secured: "6EiYPlPLHNYDzn8d5sTmfN9jI97g6t0rAyiQ64RFsRE/CSi06dcWZ84XEWekzU100NOJML1FshAVsXhNAtzC54tODrbHcovYMtpu+asEA1saOq38u6rKubWJ7BLncSBWkpFaaqGqPNGxrvUmFFQLM68RBcJgSQetUjezcAHwFsOLoCCK5JtDeRYXN5S8nQA4r7qzr4F+sDy0bZRUCyNiDwdfq9re2QRXK+/1C2gO60WhCxwdiRIQyQrJvTBhxphg1QFCyitL4GeGBpyqIEQveJHO+ppbP7PGvkTs/nAlgg3dZ4a7DJ8j1SFxFjc0BaO6FpFF1XYt/cKVHGE5YVJgt5QUHvv0iWT5tkjkRqOKhMWS6Se5W4QlZ0+u1YBfTnPlNsDqrZlVIjHzsj54fj8/+VhOPkbJTaTJ2FVtgzO4+spGgLlpEklVcaPo4As5GUY/hKLuKWFin+Bqfw205qC/iC/aKjCKrebe0ppCtMyb8Ut//4p1yaZc39VdD2KVZ9dHWHCAQEzaaWACdsEByZ1KCg==;s7ZCvU3wqpucChWeOIFEog=="
 ---

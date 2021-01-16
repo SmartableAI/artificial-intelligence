@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
+      "title": "EV Dreams Power Baidu but May Not Last",
+      "excerpt": "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "originalUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-281927/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
+      "publishedDateTime": "2021-01-07T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-masks-no-obstacle-for-new-nec-facial-recognition-system.md",
+      "title": "Masks no obstacle for new NEC facial recognition system",
+      "excerpt": "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW",
+          "width": 743,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ",
+      "publishedDateTime": "2021-01-07T02:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-explained-how-does-facebooks-ai-tool-for-suicide-prevention-work.md",
       "title": "Explained | How does Facebook’s AI tool for suicide prevention work?",
       "excerpt": "Along with its community operations team, the social media giant has an AI tool that picks up phrases or words that signal distress or trouble in posts as well as comments to alert authorities or get help to the person.",
@@ -1097,111 +1201,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-nissan-source-code-leaked-online-after-git-repo-misconfiguration.md",
-      "title": "Nissan source code leaked online after Git repo misconfiguration",
-      "excerpt": "The source code of mobile apps and internal tools developed and used by Nissan North America has leaked online after the company misconfigured one of its Git servers. Cheat sheet: TensorFlow, an open source software library for machine learning Read More The leak originated from a Git server that was left exposed on the internet with its default username and password combo of admin/admin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
-      "originalUrl": "https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/06/d9b8188d-cc6f-470c-a927-3fe945025185/nissan-logo.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
-      "publishedDateTime": "2021-01-06T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon.md",
-      "title": "AI security cameras inspired by frog eyes could be coming soon",
-      "excerpt": "As well as taking cues from the natural world, the AI cameras also rely heavily on a new camera-processor chip called SCAMP. The chip has a processor embedded in every pixel, making it ideal for AI algorithms looking to rapidly assess visual data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
-      "originalUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/orPkbTPEcv9Z2g5J2ATLYX-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
-      "publishedDateTime": "2021-01-06T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
