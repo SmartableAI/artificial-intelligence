@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google’s new AI can win a game without knowing the rules"
+    excerpt: "Google's new AI can win a game without knowing the rules In addition to offering the Internet via hot air balloons, Google's parent"
+    publishedDateTime: 2021-01-16T15:25:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 39
 
 secured: "W/nHws8tCbAwE3iEsNoq+noLixaO7KAKi3LYmd50Cfd+VKWSvEwBr8LaApgt6wJQo99ZGecXamzJqVMNP5UhdGAgL+pp12LzLZIbLn6pwLinAm7qYNKVRX/GmrrUmnw3lD0vIy5YzN8FCeVhmP8tHqfIFkL8T+r1gz3fFfB7MblfYggxxFSdmU0ydFFU0sqI9Pd1de0NqpPUge4LSKC3vOhdLiH0dkR2dPbFZKYEg+Cc5BkmzMlSWsFc4/Nu9q1SEdhttOV6LqokjlCEMQt9ii3xXqKgv2CszderMpgGk6qWV8ITzwXBZzdbd0EkHPU7QSlSjVh3JTDtH5XCmHP3lzT2zfhz6sDHvMm0jN4tMW7PuOmS+TnuFpOvgDv43Qbt3x1YwLMCZy1GGV+Ckk88OSi0WUDuxozVzR/l3iaVlbasYyWLDy8kpic0RphSX7TRHqxCeB7j+AT4wg6NBfBfQ+e7Imgk4/OQLGmbTZ5xWtCAo41F5/YKlPY7l8XOyGaMeoEVyjMyTXBynu8jEoMNuQ==;zd2y6MeqGVjqWv4dJQ9sEw=="
 ---

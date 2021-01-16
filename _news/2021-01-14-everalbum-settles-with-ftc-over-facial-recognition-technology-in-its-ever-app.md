@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
+    excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
+    publishedDateTime: 2021-01-16T16:19:00Z
+    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
+    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 54
+    images:
+      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
+        width: 1200
+        height: 495
+        isCached: true
   - title: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider"
     excerpt: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider The"
     publishedDateTime: 2021-01-13T20:03:00Z

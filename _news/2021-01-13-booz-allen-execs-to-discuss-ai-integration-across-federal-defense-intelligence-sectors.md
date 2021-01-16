@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2021/01/booz-allen-execs-to-discuss-ai-
 webUrl: "https://www.govconwire.com/2021/01/booz-allen-execs-to-discuss-ai-integration-across-federal-defense-and-intelligence-sectors/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 272
     height: 270
     isCached: true
-
-related:
-  - title: "U-2 Flies with Booz Allen Hamilton Artificial Intelligence Algorithm"
-    excerpt: "Dragon reconnaissance aircraft used an artificial intelligence (AI) algorithm by Booz Allen Hamilton in flight on Dec. 15, the company said Jan. 6. The flight came in support of the 9th Reconnaissance Wing’s U-2 Federal Laboratory at Beale AFB,"
-    publishedDateTime: 2021-01-12T00:53:00Z
-    webUrl: "https://www.aviationtoday.com/2021/01/11/u-2-flies-booz-allen-hamilton-artificial-intelligence-algorithm/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 37
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2020/04/ramp1.jpg"
-        width: 1200
-        height: 930
-        isCached: true
 
 secured: "pE9X5L2w2mijP1PgcCtR1xsSafelP4dhutuIZFJDL5LVnbb9c6OWXhaPIMZmzxG6xipRrgJYbxfAtZ+LxOBDiqgRK9PoVc9ml/+rV2eP4MV9vTbGDS0Y1YcWaX/aZKtLd/W5rjL4yV0VbNfC8qGf71AMGk2sUFrHvgF4pDkhg4hfIH+Vk+mnuhFTmHRuNhOA3bSVOyyUSMOnzW9SQJkrJugGZ2jCx9VWLWpZe4U0G9iakeTjOb4byARCCRme3kYTyKUpYaF7TFVe9lZ7ndLOPUfG9aWPnJE63keJUP2air0NNr9tpOJi3MzNxeSUOLr5+VHRmGvAk7CNCPBP6qdHF7MWFakiwr8xRlMz9BZaYyM=;burmms016nKv8nqbc2OSyg=="
 ---

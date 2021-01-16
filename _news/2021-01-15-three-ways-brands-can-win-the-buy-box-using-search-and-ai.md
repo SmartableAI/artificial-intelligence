@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Google’s new AI can win a game without knowing the rules"
+    excerpt: "Google's new AI can win a game without knowing the rules In addition to offering the Internet via hot air balloons, Google's parent"
+    publishedDateTime: 2021-01-16T15:25:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 39
 
 secured: "K2GPSvo/OHAjj0PufRL93HtrqC+Tpx/rzr4tfCHQ42SafaJwh5G0pl7QfoysJKvUPI8Jbm4lhVALy8HTe/ux4wUIK5TOS02XVQoNa6qw5udfGVOsKkIoElNxtTmry8Xub9eVtvrKnOP4eLdMfc4NoyhFO3FXGcg8vvMtX1rRbd2hX3CBwKdgQb4V1KAixBGw7Nb+Mu37ZcczllS71PZFuJbUyuRJ3tknAqlVUPyV2No5BaIMd79y4CflIV9+4kmfWZZ9faTUIVFJsbBhvN18RA7hA/eT4N9kQMv0YHwtmTg1H/ELsuMmSgIgCxl+yAQeMYSUQ8pLHBIJD0UZRkGClKSbUF0Q3yKmJA8GfU9RGAFhtavbu984eba2I4GpQw4nRVK8Ly8r8h12fKlT1xVWXZ8FEwNXJ8Z+DH1dULxrCClO/4pzxb37DkoycgYwhtwVwyb29L/h525l1MWK2oQFNmBv+VH1tfc/9bVyNDmTvHlLruzMUiD5eR+Eg9liRP02ziTcKqvpLuUHVw6RmweJyw==;8FE3Y6YAI4ZyfgR4RyX7+A=="
 ---

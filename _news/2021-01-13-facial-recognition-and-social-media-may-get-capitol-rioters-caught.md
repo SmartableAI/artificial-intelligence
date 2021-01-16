@@ -59,22 +59,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "The US Army is developing a nightmarish thermal facial recognition system"
-    excerpt: "The US Army just took a giant step toward developing killer robots that can see and identify faces in the dark. DEVCOM, the US Army’s corporate research department, last week published a pre-print paper documenting the development of an image database for training AI to perform facial recognition using thermal images."
-    publishedDateTime: 2021-01-11T23:09:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/the-us-army-is-developing-a-nightmarish-thermal-facial-recognition-system/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 88
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/predatorvisionj-796x448.jpg"
-        width: 796
-        height: 448
-        isCached: true
   - title: "Facial Recognition, Social Media Could Help ID Capitol Rioters"
     excerpt: "Trump rioters that stormed and defaced the U.S. Capitol building last week has intensified and federal law enforcement is using every means at its disposal to investigate the incident."
     publishedDateTime: 2021-01-13T22:49:00Z

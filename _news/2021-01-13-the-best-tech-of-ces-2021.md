@@ -54,6 +54,20 @@ related:
         width: 700
         height: 370
         isCached: true
+  - title: "Lidar tech on the rise at CES to power future smart cities, autonomous cars"
+    excerpt: "Seoul Robotics and Intel’s Mobileye among firms at CES 2021 with new 3-D technology to support autonomous cars and smarter big cities."
+    publishedDateTime: 2021-01-16T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/16/lidar-smart-cities-autonomous-cars/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 22
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KBNII4BTWJBJ5DNKONHUCQNFUI.jpg&w=1440"
+        width: 793
+        height: 741
+        isCached: true
   - title: "CES 2021 FaceHeart improves the health of humanity by integrating AI technology into our everyday lives"
     excerpt: "This year the world was suffering from the pandemic, FaceHeart recognizes the very need for a contactless detection device in order to come up with better solutions to address this problem. Since its founding,"
     publishedDateTime: 2021-01-12T12:38:00Z

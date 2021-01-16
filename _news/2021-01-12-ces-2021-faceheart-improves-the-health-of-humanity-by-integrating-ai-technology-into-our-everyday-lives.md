@@ -63,6 +63,20 @@ related:
         width: 700
         height: 370
         isCached: true
+  - title: "Lidar tech on the rise at CES to power future smart cities, autonomous cars"
+    excerpt: "Seoul Robotics and Intel’s Mobileye among firms at CES 2021 with new 3-D technology to support autonomous cars and smarter big cities."
+    publishedDateTime: 2021-01-16T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/16/lidar-smart-cities-autonomous-cars/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 22
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KBNII4BTWJBJ5DNKONHUCQNFUI.jpg&w=1440"
+        width: 793
+        height: 741
+        isCached: true
 
 secured: "FBOxSkGpN5mlaAdPcoA4/RST7adZUvQeHIVNIyjh8y788pKa4bRJRiqXDdN0SN8t6l2XkZirWZjUyHM9Uz3rZ2f7uap2yp6EvvCZJ3ATuGtIeadQ56O/5CqEeiJeZJwHGvRsTTmVOwP3uHKRLLJi7jzhmEcssN0mxxFOWKJgwpWzVeySSoRzOMmyx6bDqnsHgqJr1T1bUNbABRYOTLFMcUlFhZgOEhAQoQCK2fpJ28Cbt/GTjRAV/NrKUV3jFGFUUHFXzBx5vxi/35E2UpAL17W3MX9gqmdOlnUGSNhS5005qpfQrTaXNCTVkrbIkDs9w3FuvrUeiKEOBveT0ts3xJLar8FJXyqW1lDgTNovTuQ=;BDI4ywN7IZ3WrynPASsfzQ=="
 ---

@@ -358,27 +358,45 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI could be the 21st century’s biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future; it’s here.",
+      "path": "_news/2021-01-12-chinas-search-giant-baidu-to-set-up-an-ev-making-venture.md",
+      "title": "China’s search giant Baidu to set up an EV-making venture",
+      "excerpt": "China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely.",
       "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/",
-      "originalUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/",
+      "webUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/",
+      "originalUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 99,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/apollo-baidu-e1610341383915.jpeg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/",
-      "publishedDateTime": "2021-01-12T21:00:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/10/baidu-electric-car-making/amp/",
+      "publishedDateTime": "2021-01-12T00:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -387,15 +405,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
         "AI in Autos",
-        "Facebook AI",
-        "IBM AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI Hardware"
+        "AI"
       ]
     },
     {

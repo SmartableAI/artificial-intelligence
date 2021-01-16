@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Confirms Plans to Join the Smoking Hot EV Market"
-    excerpt: "In a press release on Monday, Baidu (NASDAQ:BIDU) confirmed that it was entering the red-hot electric-vehicle (EV) market. The company plans to set up an independent subsidiary co"
-    publishedDateTime: 2021-01-11T23:31:00Z
-    webUrl: "https://www.fool.com/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F607988%2Fbaidu-apollo-car.jpg&w=1200&op=resize"
-        width: 1200
-        height: 762
-        isCached: true
   - title: "China’s search giant Baidu to set up an EV-making venture"
     excerpt: "China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely."
     publishedDateTime: 2021-01-12T08:11:00Z

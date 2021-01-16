@@ -67,6 +67,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
+    excerpt: "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,"
+    publishedDateTime: 2021-01-15T01:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
     excerpt: "GenkiTek, a spinoff company from Taiwan’s Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
     publishedDateTime: 2021-01-13T06:55:00Z
@@ -123,15 +137,6 @@ related:
         width: 1919
         height: 1005
         isCached: true
-  - title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
-    excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
-    publishedDateTime: 2021-01-15T06:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
 
 secured: "s4Cj2Qdei4mzb2eIrEw3dRam0pU7jtj+hnN9RVw0piAvRJMWL1oVEV2AUJyYFkROea/AUVm940h3qR8d0xfPYrzYiPJbh+5IyEpLqekgs3wttyIxXBaLJMIaMe/JWHSt8FrPhB4NG+RhtA2xClgrOGt0EKBU6gx5oQvvTAmiLnOmC6diuMHOvKfmhPzsBVlUpAfdLuPzpxcVK94BW4ZacZQKvxfUVrqfY6DAC+HbOZHHzFwkq5gbTT6zKnGB0PWoANJk30Zm9Kd1bVlx1dJi82JwJNKySW6utGvl1i+R3jkP9jgWMA3CveohPHFoM+KXW0lvwHMVzb7OfpnJ7wZmyI2WnN2pNueYqR9SbYZOGt0=;xrDMkd5euzp+uVUFAdLAMw=="
 ---

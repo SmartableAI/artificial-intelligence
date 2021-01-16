@@ -3,10 +3,10 @@ category: news
 title: "Want to work with robots all day? Here's what you need to do."
 excerpt: "Today, robots are doing much more than assembling cars. Robots work in the retail, security, hospitality, and logistic industries. These robots and robotic services include drones, chatbots, security patrols,"
 publishedDateTime: 2021-01-15T21:11:00Z
-originalUrl: "https://www.techrepublic.com/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/"
-webUrl: "https://www.techrepublic.com/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/"
+originalUrl: "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/"
+webUrl: "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "uSN/5eKyIIeL66K6STAVvvBtZgM1MzsHvFEAbyLiP4ABbuVbkSp6+lBtHB9f0wVW8vcGr32JQk2xC1qnDfZHQvgTiVu+nm5XuvasoqNJF55IT4aDx4pN2bFOGxrt+ORnGYMCerzdgKNPbECu4V/lLAP03gptqdbzMivG+MDooS5EFeevzeGbVNAEitlKmoSIvQHrVkFKhiOtLCjeA8L7iG/IoBMV8/8AY/pKLyuuGujhJsimucnWiGvczVYuoicq4+q6QV3bMEBXnkciYQWyXwb6IDIx/rpnucG0Uz6QxNSvxI9rhPBI9qdlKXjuEW0x9jHst+nOE9owxIUvcwJfS8OLFYbWEIafYn0QB9WSWcQ=;aKAwEEfPwY3h0vXLzNd3bg=="
+secured: "OIsGo1fjvs3TNuBvDsXc3vgI+X9+lXVeK2fJjKv9QeFE9HcoJuYFkMhZfA79v+9mSRNszjklkUPFiSnkurMpTysV+99ZYBoNljXi/jBskn7+dmxfWUHIRLvwlYDpD8eQjA+VN24d3FILW2DgWQGNHZovb1OPORd3xRHGM2bxbUSOEBh6xF6jtqukI/5gJpJv/7V6ybKYzP0uHeRft2D61deKLSMVJg6/XruFAN4dz7EdjZvwCCCmqakpJIINBXC80LrYbEbtZBneN4LqGeHnzSlm5/N5NaZ1lGzEsKxhfZzjip6oBtgc4NUrL8zwCPY85Cs0jKkwK/oYGKStOxjF6QslexELrwklxhjtJkhNMPw=;j9xOGthy8P2szamIxRA/PQ=="
 ---
 

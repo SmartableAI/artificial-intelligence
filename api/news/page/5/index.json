@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-01-13-nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces.md",
-      "title": "NVIDIA Unveils GeForce RTX 30 Series Laptops And The Aggressively-Priced GeForce RTX 3060 Desktop GPU At CES",
-      "excerpt": "PC Graphics giant, NVIDIA today has taken the wraps off new GeForce RTX 30 Series gaming laptop platform technologies, as well as a new GeForce RTX 3060 graphics card that will address the meat of the market at a popular $329 midrange price band.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffdceee9238e5474ced6a5d%2F0x0.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/amp/",
-      "publishedDateTime": "2021-01-12T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-artificial-intelligence-puts-focus-on-the-life-of-insects.md",
       "title": "Artificial intelligence puts focus on the life of insects",
       "excerpt": "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing u",
@@ -805,6 +753,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-chinas-search-giant-baidu-to-set-up-an-ev-making-venture.md",
+      "title": "China’s search giant Baidu to set up an EV-making venture",
+      "excerpt": "China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/",
+      "originalUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/apollo-baidu-e1610341383915.jpeg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/10/baidu-electric-car-making/amp/",
+      "publishedDateTime": "2021-01-12T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448.md",
       "title": "Artificial Intelligence (AI) In Healthcare Market is Expected to reach 46.2 billion USD by 2026, at a CAGR of 44.8%",
       "excerpt": "In Healthcare Market size is expected to grow from USD 4.8 billion in 2020 and reach USD 46.2 billion by 2026; it is projected to grow at a CAGR of 44.8% during the forecast period. The report presents the market competitive landscape and a corresponding detailed analysis of the major vendor/key players in the market.",
@@ -1020,7 +1020,7 @@
       "originalUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1072,7 +1072,7 @@
       "originalUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",

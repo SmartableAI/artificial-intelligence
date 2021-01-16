@@ -2,41 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-25-baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day.md",
-      "title": "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day",
-      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
-      "publishedDateTime": "2020-12-24T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-24-galvanize-now-supports-complianceai-with-strategic-partnership-for-modernized-grc-solutions.md",
       "title": "Galvanize Now Supports Compliance.ai with Strategic Partnership for Modernized GRC Solutions",
       "excerpt": "Galvanize, the global leader in SaaS governance, risk, and compliance (GRC) software, today announced a strategic partnership with Compliance.ai, the leading AI-driven regulatory compliance technology,",
@@ -1345,6 +1310,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-microsoft-msft-makes-azure-digital-twins-generally-available.md",
+      "title": "Microsoft (MSFT) Makes Azure Digital Twins Generally Available",
+      "excerpt": "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654",
+      "originalUrl": "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/gCCXHPyDiwd9l0cbPqW68Iyk2Vo=/6000x4001/filters:fill(auto,1)/hand-holding-tablet-with-wifi-icon-on-city-and-network-connection-concept--bangkok-smart-city-and-wireless-communication-network--abstract-image-visual--internet-of-things--627698790-593f28255f9b58d58add7427.jpg",
+          "width": 6000,
+          "height": 4001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,34 +1,46 @@
 ---
 category: news
-title: "Photo storage app maker settles FTC claims over use of facial recognition"
-excerpt: "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app."
-publishedDateTime: 2021-01-12T04:05:00Z
-originalUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH"
-webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH"
+title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
+excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
+publishedDateTime: 2021-01-16T16:19:00Z
+originalUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
+webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
+ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
 type: article
-quality: 83
-heat: 133
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Virginian-Pilot
+  domain: pilotonline.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+  - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
     width: 1200
-    height: 630
+    height: 495
     isCached: true
 
 related:
+  - title: "Photo storage app maker settles FTC claims over use of facial recognition"
+    excerpt: "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app."
+    publishedDateTime: 2021-01-12T04:05:00Z
+    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-ftc-idUSL1N2JM2VH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 83
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FTC Settles Facial Recognition Misuse Suit With Everalbum"
     excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
     publishedDateTime: 2021-01-12T06:04:00Z
@@ -44,22 +56,6 @@ related:
       - url: "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
-    excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
-    publishedDateTime: 2021-01-16T16:19:00Z
-    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 54
-    images:
-      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
-        width: 1200
-        height: 495
         isCached: true
   - title: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider"
     excerpt: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider The"
@@ -108,6 +104,6 @@ related:
         height: 808
         isCached: true
 
-secured: "kGdWFXugkQPxSxp3OvBDzM+mgrXj0arVUn5ZkLn/dryn42bKXMJ+HsIc/+ReGOLBALXqi63DBhirBDK9QzgzvhANHDGigma89qyLZOe7B/fiCu2ilJT0v/dKTHyN/KcIZz+iB189ZSyBvoxMKV8e/NS0/q5/j072DmWUb2yW06ssMk+KJ7J0QGS+fYBJN2G+UgSK/gY/VNTOXBlTyKn2Qd4EGBz5omEjG8emM/jf05o4yAlr6dYvOZOdTTPP3aIHdGwrA2Ehzv/Z8DFiNz+cYAhwaQAuiVuhuvsmaoNs2yB/utk26Q9e6MjXEBBrN123nqTAHPijJUB5KgfpnPjMEykd/VXnloVWcawC9j3CIxQ=;kmP4hA/zlTO6tri+WXxFIw=="
+secured: "TKWVGMuLbPWgMa/D4vEuKwbOFH+x6EelyL8SoU2NTHmtTi4uLJWqaBeNNGUj4xZM1jaCSgQ7zDsYD6iuRwYuOnAQaK2JSfh28OtDh9qO6EHeW6N92L5gL75z27Zt39XEM6YDm+0IYFy0hil3h7RdSpuee4SqNjbWfUIYxpZXcSA8lKyn/7JfFsVo5Kw+A2VDpkZxqHz/QEnVta+2J0q7ensjiW+w+eGUugUwn69XMae71rniuiUCBheqtAXSQ3IqSW21eoB8rg0YXQweODuYfp1Cai0c0DmjiATuGW0HD1/ZJ9Btar3bCPphFxjpc4ykOxsq2Tb6E89VNnWF1slIjo3/lDcUCR1g+UyEMdFjZeY=;LD2Gc7TIpnNOEzPSUmmVdQ=="
 ---
 
