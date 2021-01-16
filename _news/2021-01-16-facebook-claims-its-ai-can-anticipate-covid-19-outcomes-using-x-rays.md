@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-antici
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Facebook-AI-Residency-Program-For-2021-Is-Now-Open.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "MUSC student used artificial intelligence to find patients at risk for COVID complications"
-    excerpt: "Using Census tract information and the MUSC patient database, Alan Snyder was able to identify thousands of adults who faced a high risk of developing serious complications should they contract"
-    publishedDateTime: 2021-01-11T13:00:00Z
-    webUrl: "https://www.postandcourier.com/health/musc-student-used-artificial-intelligence-to-find-patients-at-risk-for-covid-complications/article_a7f34a54-3f03-11eb-9033-d3d61c759c83.html"
-    type: article
-    provider:
-      name: Post and Courier Charleston
-      domain: postandcourier.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/9/79/9794ae9e-4923-11eb-8cb9-a718947ea4e8/5fe9fd6616d96.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
         isCached: true
 
 secured: "cCQuvzHGmTgqraZ1S+3d75cqXZElUaoFXndOzKbFfOjTbSFF3fWIP6xP1S8wOizJXwJmXlG1UguGVRo0eX8bvL2gHsbeyCGEJacNnP2rnJuVenY+lOhwbz7EanO3Cwq1I5kLsxXrCpgUIAYzjGfLchJZxg5wUqkdnFLQ6A02lTXx3rsUvU7c8KgIdysgIbKx+0l9QhD379bI60YLqhQ0lrx8rAZfipZgBu7OIxmFNzg+O5qaiV/vqOaMA06L84X8WmiLjNkolwVpWTBZ7XdoEWErHjU2XX0cjQV948mcAlIpK6bGKL0Lu9t1pScLd/7uZqcTOncrhRGw0tacthAu6KT7yuIu+SNNACK7HIMUy0KJsrvpL8g+EGhdO5XBCnCbib1fxLSzJtmMuvZq16ngW7l7l2iSR8mPMEmH/657uGxbc8WrZMEcClrzIq2d04CU9LLFXq75UN/LcBYdFpd6lswX3Asn4WIis9i0c1FThm498tc4B8ZtdXqZYYjP86J6W4b48gGgagkPz5AOBCMzsQ==;vBkhO8NQkPsmIa+tNS3AUA=="

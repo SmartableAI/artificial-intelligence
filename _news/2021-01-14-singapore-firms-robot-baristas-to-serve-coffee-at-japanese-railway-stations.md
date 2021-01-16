@@ -7,8 +7,8 @@ originalUrl: "https://mainichi.jp/english/articles/20210114/p2g/00m/0bu/062000c"
 webUrl: "https://mainichi.jp/english/articles/20210114/p2g/00m/0bu/062000c"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: mainichi.jp
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots in Singapore: 4 Innovations that Operate Around the Island"
-    excerpt: "Autonomous robots are changing the way we live, work and play. Here are some robotic innovations that exist in our country"
-    publishedDateTime: 2021-01-11T11:50:00Z
-    webUrl: "https://sg.asiatatler.com/society/high-tech-robots-singapore-innovation"
-    type: article
-    provider:
-      name: Malaysia Tatler
-      domain: asiatatler.com
-    quality: 39
-    images:
-      - url: "https://cdn.asiatatler.com/asiatatler/i/sg/2021/01/11152729-67103153-2507715549462623-6603314601859743744-o_cover_2000x1333.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "S'pore firm's robot baristas to serve up coffee in Japan"
     excerpt: "Local start-up Crown Technologies has secured an investment from a subsidiary of East Japan Railway Company, which will boost the deployment of its robot baristas at selected JR East train stations in Japan."
     publishedDateTime: 2021-01-11T22:30:00Z

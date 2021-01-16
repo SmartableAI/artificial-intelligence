@@ -25,84 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The best tech of CES 2021"
-    excerpt: "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,"
-    publishedDateTime: 2021-01-12T21:46:00Z
-    webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
+  - title: "AI vision processor enables 8K video at 30fps in under 2W"
+    excerpt: "Using CES 2021 as the launch platform, Ambarella has announced its fifth generation artificial intelligence (AI) vision processor system on chip (SoC)"
+    publishedDateTime: 2021-01-11T15:19:00Z
+    webUrl: "https://www.embedded.com/ai-vision-processor-enables-8k-video-at-30fps-in-under-2w/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 54
+      name: Embedded
+      domain: embedded.com
+    quality: 43
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112170333-ces-lead-image-super-169.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GenkiTek Showcases AI Camera Solutions at CES 2021"
-    excerpt: "GenkiTek was one of the 100 companies given the opportunity to showcase its wares in the Taiwan Tech Arena at this week’s CES 2021 event"
-    publishedDateTime: 2021-01-12T22:27:00Z
-    webUrl: "https://mobileidworld.com/genkitek-showcases-ai-camera-solutions-ces-2021-011208/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 37
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/Computer-Vision-Icon.jpg"
-        width: 712
-        height: 684
-        isCached: true
-  - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
-    excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."
-    publishedDateTime: 2021-01-11T13:27:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16176/raspberry-pi-top-4-robotics-kit-to-debut-at-ces-2021"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 34
-  - title: "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021"
-    excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution"
-    publishedDateTime: 2021-01-12T05:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-301205896.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Techlicious Top Picks of CES 2021 Awards"
-    excerpt: "Our team of tech industry veterans scoured this year's virtual exhibit halls and picked our absolute favorite products for the Techlicious Top Picks of CES 2021 Awards."
-    publishedDateTime: 2021-01-14T15:07:00Z
-    webUrl: "https://www.techlicious.com/blog/techlicious-top-picks-ces-2021-awards/"
-    type: article
-    provider:
-      name: Techlicious
-      domain: techlicious.com
-    quality: 24
-    images:
-      - url: "https://www.techlicious.com/images/misc/ces-2021-award-logo-hero-layout-700px.jpg"
-        width: 700
-        height: 370
-        isCached: true
-  - title: "CES 2021 FaceHeart improves the health of humanity by integrating AI technology into our everyday lives"
-    excerpt: "This year the world was suffering from the pandemic, FaceHeart recognizes the very need for a contactless detection device in order to come up with better solutions to address this problem. Since its founding,"
-    publishedDateTime: 2021-01-12T12:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-medical-technology-lung-disease-coronavirus-pandemic-3123a4e9a73739200a24356cb5e433aa"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.embedded.com/wp-content/uploads/2021/01/Ambarella-CV5-SoC-Applications.jpg"
+        width: 1920
+        height: 1200
         isCached: true
 
 secured: "ax8OurnAhnHUvkzbrQZ6//Fajj2H0XVZHkIP7ORUO1M6XgBsuyllkXNZgPHIr20YPS2RRGbM7KO7/viWInD3gVor9hpcxqiSYwAtZfaKxyUizNbHwCYDsq+kEsBZwBbBP8miwGgxt70FmJbeXykBdG9shG+uXiVxNQcucE1pFNg7Fe80QA+LYYviw4ISZnkN5RdGsR8+vfZnP0rHuGf888xOvaAhG1BkXvc0WxeVibNsGzo7V1funhQgmIDcYPWJ4OCgSdgnRjPk94etcUwmRYsw+M43bis7zf3RRAcLBO+yrD7nhuYvwEckEfvMpOCO/ybzYypxPBpMFKrV+Nf/UzbM92/cC2U7X6uRXznfmf4=;ls+6qs1/4Bj6Peg2xQcdRA=="

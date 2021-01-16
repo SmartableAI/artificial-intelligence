@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Are robots the future of recycling?"
-excerpt: "Recycling is a simple thing we all do to help try and protect the environment, but it's also big business. But in 2021, the industry is seeing dramatic changes, all powered by artificial intelligence."
-publishedDateTime: 2021-01-15T04:06:00Z
-originalUrl: "https://www.fox5ny.com/video/890352"
-webUrl: "https://www.fox5ny.com/video/890352"
-ampWebUrl: "https://www.fox5ny.com/video/890352.amp"
-cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/890352.amp"
+title: "Researchers Offer Human-Robot Teaming Recommendations to Help Inform Army R&D"
+excerpt: "A new report that built on a workshop sponsored by the National Science Foundation (NSF) and University of Maryland provides 31 recommendations on enabling spoken language interaction between soldiers and robots to help the U."
+publishedDateTime: 2021-01-16T04:56:00Z
+originalUrl: "https://www.executivegov.com/2021/01/researchers-offer-human-robot-teaming-recommendations-to-help-inform-army-randd/"
+webUrl: "https://www.executivegov.com/2021/01/researchers-offer-human-robot-teaming-recommendations-to-help-inform-army-randd/"
 type: article
-quality: 39
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Fox 5 NY
-  domain: fox5ny.com
+  name: Executive Gov
+  domain: executivegov.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://executivegov-media.s3.amazonaws.com/2021/01/15/7f/71/97/5a/f9/bf/0e/84/human-robot_teaming_20210116.png"
+    width: 272
+    height: 270
+    isCached: true
 
 related:
   - title: "Research Targets Sorting Robots And Separating Chemicals To Improve Plastic Recycling"
@@ -53,21 +57,18 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Researchers Offer Human-Robot Teaming Recommendations to Help Inform Army R&D"
-    excerpt: "A new report that built on a workshop sponsored by the National Science Foundation (NSF) and University of Maryland provides 31 recommendations on enabling spoken language interaction between soldiers and robots to help the U."
-    publishedDateTime: 2021-01-16T04:56:00Z
-    webUrl: "https://www.executivegov.com/2021/01/researchers-offer-human-robot-teaming-recommendations-to-help-inform-army-randd/"
+  - title: "Are robots the future of recycling?"
+    excerpt: "Recycling is a simple thing we all do to help try and protect the environment, but it's also big business. But in 2021, the industry is seeing dramatic changes, all powered by artificial intelligence."
+    publishedDateTime: 2021-01-15T04:06:00Z
+    webUrl: "https://www.fox5ny.com/video/890352"
+    ampWebUrl: "https://www.fox5ny.com/video/890352.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/890352.amp"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 36
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/15/7f/71/97/5a/f9/bf/0e/84/human-robot_teaming_20210116.png"
-        width: 272
-        height: 270
-        isCached: true
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 39
 
-secured: "czUxnXq/hhzI9WIQqw/RlLSvLxZU+vAA6n3oDUKd9bqAyy8gi2dRNzfWFAybEbZY8+P0bWNFbfUf+9izohIIYDAxHT53MZfvgd776CVJT9rVszpA4i3dx3UuoMR9E8vQEFs9Hr2A3RGn9t6wnyqhGixOdS/mmwTcNq7fQbO61hjf0O/N5zsGTNK8GmBEUkhYbiP7a93oeag6KkI2J9dSIPQ/LeCx8Q7DRUU86XxO9wf3oVJNZYPp65ed9aunn7u1AN2aPZoLwHXNXdYY8i/qXLfmy+MyEGkiSfAK/J/jFdieMunkxBRTjufwBo8qbsWL1lH/dYzpDrlPUncL6FeIQZWnvOZAJveqY8xtGvawdnlf5YuqMZLlLRg/wiaVjEtew7DqWXSA87u85jGuPOcE6J0+5Kv5iwnLs1kJmQ/CcMCUpIFagOG5utdsuFU8gGE8lWB5ST7HMS/fEsktsdYdZk8QWSQg4uWzs1CN3ul+JARoAK21jXViMJljvGXBDGSfoW9YVptLw4Huals8rxaTCw==;Raarjr5PSJTgSFz8js88Dg=="
+secured: "2z8i0f3CVZn8oVLUKKrRnHuIPE57I9Pb2vx23KMcItpB/nU2bnwVpbfGBVyZFAdZc9gdAEJpTnFvHNCg2SH2ax66ObP+N0yPjzHUcJaamFa8IEDdzpU4yDSYZh7JFcOXNP2b7rRCa1EZn9tbe5q4snfBQ/yPMpyUpjVCpbP0EPAq886qlSdjQm/ttOMk5wfnSYnn89iYGU/Ouz/x4ZXPqNjN2Vuxul+amuurjmNJ0NhCgz7biWAVoksHl1BUkBoAOlHZuLeQ3F4pl2/G4H6l6E9pfa/e43cLjiGrHtiu8DWtbD25IX89ima3fXrTJwNpuYBiCcIuNv0noQceOzfheF7HdMpP/2Eubmn20jmgsbM=;vZN5JRTQh9nXthDuGLugcg=="
 ---
 

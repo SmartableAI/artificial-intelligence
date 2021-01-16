@@ -7,7 +7,7 @@ originalUrl: "https://mobileidworld.com/genkitek-showcases-ai-camera-solutions-c
 webUrl: "https://mobileidworld.com/genkitek-showcases-ai-camera-solutions-ces-2021-011208/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,29 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The best tech of CES 2021"
-    excerpt: "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,"
-    publishedDateTime: 2021-01-12T21:46:00Z
-    webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 54
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112170333-ces-lead-image-super-169.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Raspberry pi-top [4] robotics kit to debut at CES 2021"
-    excerpt: "Pi-top will officially launch a new Raspberry Pi-based robotics kit at this week’s CES 2021 that allows makers and engineers to build robot projects with computer vision and applied artificial intelligence (AI)."
-    publishedDateTime: 2021-01-11T13:27:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16176/raspberry-pi-top-4-robotics-kit-to-debut-at-ces-2021"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 34
   - title: "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021"
     excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution"
     publishedDateTime: 2021-01-12T05:04:00Z
@@ -61,43 +38,80 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Techlicious Top Picks of CES 2021 Awards"
-    excerpt: "Our team of tech industry veterans scoured this year's virtual exhibit halls and picked our absolute favorite products for the Techlicious Top Picks of CES 2021 Awards."
-    publishedDateTime: 2021-01-14T15:07:00Z
-    webUrl: "https://www.techlicious.com/blog/techlicious-top-picks-ces-2021-awards/"
-    type: article
-    provider:
-      name: Techlicious
-      domain: techlicious.com
-    quality: 24
-    images:
-      - url: "https://www.techlicious.com/images/misc/ces-2021-award-logo-hero-layout-700px.jpg"
-        width: 700
-        height: 370
-        isCached: true
-  - title: "CES 2021 FaceHeart improves the health of humanity by integrating AI technology into our everyday lives"
-    excerpt: "This year the world was suffering from the pandemic, FaceHeart recognizes the very need for a contactless detection device in order to come up with better solutions to address this problem. Since its founding,"
-    publishedDateTime: 2021-01-12T12:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-medical-technology-lung-disease-coronavirus-pandemic-3123a4e9a73739200a24356cb5e433aa"
+  - title: "CES 2021 Car accessories company Carkit AI creates Roxie - CarPool Karaoke in a Box"
+    excerpt: "Your next carpool Karaoke will sound just like those celebrity carpool jams with Carkit AI’s latest product called Roxie, a plug and play car karaoke station for your car. Roxie allows everyone in your car to sing along hands-free to their favorite tunes with professional sound effects."
+    publishedDateTime: 2021-01-13T06:57:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-smartphones-consumer-electronics-mobile-phones-e6810dd3edffcb502337e1c6dbe36237"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 21
+    quality: 33
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
-    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-robotics-36120032652d479b8e56c1d5e0f280f5"
+  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
+    excerpt: "GenkiTek, a spinoff company from Taiwan’s Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
+    publishedDateTime: 2021-01-13T06:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-spin-offs-4c80eaf470485367a9a93d5829aca98b"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 20
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
+    excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking"
+    publishedDateTime: 2021-01-12T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-301206284.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "South Korea's Hancom Group CES 2021 Showcases Game Changing Productivity and Collaboration"
+    excerpt: "At this year's All Digital CES 2021, Hancom Group is showcasing some of the companies' most innovative technology. These include"
+    publishedDateTime: 2021-01-14T17:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/south-koreas-hancom-group-ces-2021-showcases-game-changing-productivity-and-collaboration-solutions-artificial-intelligence-and-robots-smart-city-and-blockchain-security-301208235.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1420551/CES2021_DroneSat.jpg?p=facebook"
+        width: 1919
+        height: 1005
+        isCached: true
+  - title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
+    excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
+    publishedDateTime: 2021-01-15T06:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
+  - title: "StradVision and D3 Engineering Showcase a Market-leading Automotive Front Camera Solution at CES 2021"
+    excerpt: "PRNewswire/ -- StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AV), today announced its collaboration with D3 Engineering on an Automotive Front Camera solution delivering market-leading performance and price efficiency."
+    publishedDateTime: 2021-01-13T17:03:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-photographic-equipment-and-supplies-manufacturing-consumer-electronics-manufacturing-a9346cc0f05941d036ff098775ea4278"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

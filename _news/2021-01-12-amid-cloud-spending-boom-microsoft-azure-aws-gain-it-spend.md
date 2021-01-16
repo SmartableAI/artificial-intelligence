@@ -24,21 +24,53 @@ topics:
   - AWS AI
 
 related:
-  - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
-    publishedDateTime: 2021-01-11T11:04:00Z
-    webUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html"
-    ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
+  - title: "Microsoft president begs tech industry to improve its ethics"
+    excerpt: "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past."
+    publishedDateTime: 2021-01-14T05:56:00Z
+    webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 140
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 106
     images:
-      - url: "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg"
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg"
         width: 1200
-        height: 1137
+        height: 799
+        isCached: true
+  - title: "Microsoft president begs tech industry to improve its ethics"
+    excerpt: "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past."
+    publishedDateTime: 2021-01-15T09:23:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 106
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Microsoft’s new settings let users contribute voice clips to improve its speech recognition systems"
+    excerpt: "Microsoft's new settings allow users to contribute voice clips that'll be used to improve the company's AI speech technologies."
+    publishedDateTime: 2021-01-15T17:21:00Z
+    webUrl: "https://venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/"
+    ampWebUrl: "https://venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 92
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft gives users control over their voice clips"
     excerpt: "Microsoft is rolling out updates to its user consent experience for voice data to give customers more meaningful control over whether their voice data is used to improve products, the company announced Friday. These updates let customers decide if people can listen to recordings of what they said while"
@@ -65,35 +97,51 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Breaking the AI wizardry of ‘Microsoft Flight Simulator’"
-    excerpt: "Breaking the AI ​​wizardry of 'Microsoft Flight Simulator' There are some wild statistics about Microsoft Flight Simulator. In the"
-    publishedDateTime: 2021-01-14T04:19:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/"
+  - title: "Alphabet’s Verily teams up with Microsoft to power multi-cloud biomedical research"
+    excerpt: "Alphabet's research subsidiary Verily has announced a strategic partnership to adopt a new multi-cloud approach to biomedical research."
+    publishedDateTime: 2021-01-11T14:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/"
+    ampWebUrl: "https://venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/amp/"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Breaking-the-AI-​​wizardry-of-Microsoft-Flight-Simulator-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Alphabet's Verily goes multicloud for Terra platform, turns to Microsoft Azure and AI"
-    excerpt: "The Broad Institute and Verily plan to use Microsoft’s cloud, data and AI technologies for their Terra platform, used for biomedicine research. Verily is part of Alphabet, the holding company that also includes Google - home to its eponymous search engine and the world's third largest cloud provider."
-    publishedDateTime: 2021-01-14T17:09:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 62
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/feat.png?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 553
+        isCached: true
+  - title: "Microsoft finally gives you control over your voice clips"
+    excerpt: "Microsoft will give people an informed choice with what happens to voice clips when using Microsoft services. Microsoft came under fire in 2019 when it reported that contractors and employees listened to voice clips."
+    publishedDateTime: 2021-01-15T18:59:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 61
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/cortana-logo-microsoft.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "20 healthcare moves from Amazon, Google, Microsoft & Apple in 2020"
+    excerpt: "Amazon, Google, Microsoft and Apple all played a role in the pandemic response while forwarding their strategies in digital health. Here are 20 moves they made in 2020. 1. Amazon is rumored to be making plans to expand the Amazon Care program,"
+    publishedDateTime: 2021-01-12T14:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/20-healthcare-moves-from-amazon-google-microsoft-apple-in-2020.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 60
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
     excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
@@ -109,33 +157,61 @@ related:
         width: 768
         height: 431
         isCached: true
-  - title: "Contentsquare partners with Microsoft Azure to accelerate digital transformation"
-    excerpt: "Contentsquare partners with Microsoft Azure to accelerate its growth, drive peak performance and underpin successful innovation."
-    publishedDateTime: 2021-01-14T01:03:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/01/14/contentsquare-microsoft-azure/"
+  - title: "Microsoft’s New BERT Model Surpasses Human Performance on SuperGLUE Benchmark"
+    excerpt: "Researchers at Microsoft Dynamics 365 AI and Microsoft Research have introduced a new BERT model architecture known as DeBERTa or Decoding-enhanced BERT with dis-entangled attention. The new model is claimed to improve the performance of Google’s BERT and Facebook’s RoBERTa models."
+    publishedDateTime: 2021-01-12T04:32:00Z
+    webUrl: "https://analyticsindiamag.com/microsofts-new-bert-model-surpasses-human-performance-on-superglue-benchmark/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 49
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Microsoft.png"
+        width: 1024
+        height: 597
         isCached: true
-  - title: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth | IBM, Google, Amazon Web Services, Microsoft"
-    excerpt: "Artificial Intelligence as a Service Market is Booming Worldwide to Reach Highest Growth \\| IBM, Google, Amazon Web Services, Microsoft iCrowdNewswire Jan"
-    publishedDateTime: 2021-01-12T01:15:00Z
-    webUrl: "https://menafn.com/1101419667/Artificial-Intelligence-as-a-Service-Market-is-Booming-Worldwide-to-Reach-Highest-Growth-IBM-Google-Amazon-Web-Services-Microsoft"
+  - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
+    excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"
+    publishedDateTime: 2021-01-15T17:37:00Z
+    webUrl: "https://elmoudjaweb.com/microsofts-new-settings-let-users-contribute-recordings-to-improve-its-speech-recognition-systems-jaweb/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 38
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Microsofts-new-settings-let-users-contribute-recordings-to-improve-its.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "JPM: Microsoft signs on to Verily, Broad Institute’s Terra open research platform"
+    excerpt: "Verily and the Broad Institute of MIT and Harvard hope to dramatically boost the reach of their open-source biomedical research platform, through a new partnership with Microsoft."
+    publishedDateTime: 2021-01-11T17:37:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-signs-to-verily-broad-institute-s-terra-open-research-platform"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 34
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1610380808/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?My6UORra_3Xp1xRUUn5AuQHfD4c_Kz6U"
+        width: 884
+        height: 543
+        isCached: true
+  - title: "Microsoft Partner with Board Institute and Verily to Accelerate Next-Gen Terra Platform"
+    excerpt: "The Broad Institute of MIT and Harvard, Verily and Microsoft Corp. (NASDAQ: MSFT) have announced a strategic partnership to accelerate innovations in biomedicine through the Terra platform. Terra is a scalable,"
+    publishedDateTime: 2021-01-11T19:07:00Z
+    webUrl: "https://www.financialbuzz.com/microsoft-partner-with-board-institute-and-verily-to-accelerate-next-gen-terra-platform/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 31
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2021/01/shutterstock_1659535756.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Microsoft backs Terra project for biomedical data"
     excerpt: "Broad Institute of MIT and Harvard, Alphabet company Verily, and Microsoft entered a strategic partnership to accelerate new innovations in biomedicine through the Terra platform. Terra, originally created by Verily and the Broad Institute of MIT and Harvard,"

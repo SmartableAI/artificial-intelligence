@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
+    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
+    publishedDateTime: 2021-01-12T14:08:00Z
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
   - title: "Microsoft’s new settings let users contribute voice clips to improve its speech recognition systems"
     excerpt: "Microsoft's new settings allow users to contribute voice clips that'll be used to improve the company's AI speech technologies."
     publishedDateTime: 2021-01-15T17:21:00Z
@@ -74,6 +83,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft gives users control over their voice clips"
+    excerpt: "Microsoft is rolling out updates to its user consent experience for voice data to give customers more meaningful control over whether their voice data is used to improve products, the company announced Friday. These updates let customers decide if people can listen to recordings of what they said while"
+    publishedDateTime: 2021-01-15T17:00:17Z
+    webUrl: "https://blogs.microsoft.com/ai/microsoft-gives-users-control-over-their-voice-clips/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero-1024x585.jpg"
+        width: 1024
+        height: 585
+        isCached: true
+  - title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
+    excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
+    publishedDateTime: 2021-01-12T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Alphabet’s Verily teams up with Microsoft to power multi-cloud biomedical research"
     excerpt: "Alphabet's research subsidiary Verily has announced a strategic partnership to adopt a new multi-cloud approach to biomedical research."
     publishedDateTime: 2021-01-11T14:03:00Z
@@ -120,6 +154,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
+    excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
+    publishedDateTime: 2021-01-11T18:42:00Z
+    webUrl: "https://siliconangle.com/2021/01/11/microsoft-will-expand-verilys-terra-biomedical-data-platform-azure-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/verily-768x431.jpg"
+        width: 768
+        height: 431
+        isCached: true
   - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
     excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"
     publishedDateTime: 2021-01-15T17:37:00Z
@@ -162,6 +210,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Microsoft backs Terra project for biomedical data"
+    excerpt: "Broad Institute of MIT and Harvard, Alphabet company Verily, and Microsoft entered a strategic partnership to accelerate new innovations in biomedicine through the Terra platform. Terra, originally created by Verily and the Broad Institute of MIT and Harvard,"
+    publishedDateTime: 2021-01-12T08:30:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-backs-terra-project-for-biomedical-data--1368202"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "AYT4RoKTeDGQ94hM6SYrbmrletcZsA6xbcWkV/07I3mwnCIrbbkiYACHm+2Sob1yPHQsyqqbCYTdqFvFQUwa0M6j6YNtPsf/gTHvOc2dl/R0E9UCSvf//MXnfC7+0IPoN+ncaeieiFLaDAwnLPh3c6f8715kfdRPjIBOBHhIVP0WocQ54/8qJJJw6GRF0jB38Yxv0P0xlW9Zph+6z/LDZkP/RY9CtWGKI8oFoq4fAqsCgKCaAl2kRgw24ue/wfzqmkbEfN3druriGHeU8cZX7TgpLv/sMxP2xMI7M8STss33ugN0LPL8XlV3fMHFCclhvG9xfudY1DAs6JcCp305KQFkNhytpfs34e9zCPoeV5U=;nfnVa0cUHROWR+fM7968NA=="
 ---

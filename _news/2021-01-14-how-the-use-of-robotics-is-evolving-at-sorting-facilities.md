@@ -54,6 +54,20 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 39
+  - title: "Researchers Offer Human-Robot Teaming Recommendations to Help Inform Army R&D"
+    excerpt: "A new report that built on a workshop sponsored by the National Science Foundation (NSF) and University of Maryland provides 31 recommendations on enabling spoken language interaction between soldiers and robots to help the U."
+    publishedDateTime: 2021-01-16T04:56:00Z
+    webUrl: "https://www.executivegov.com/2021/01/researchers-offer-human-robot-teaming-recommendations-to-help-inform-army-randd/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 36
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/15/7f/71/97/5a/f9/bf/0e/84/human-robot_teaming_20210116.png"
+        width: 272
+        height: 270
+        isCached: true
 
 secured: "q7QD/JECJ72r93dPTB2rwIEhWh0FuRGlLwsD5yFHNHYzjHKX3SXE5NoTND8uiFpudNF00WtX2rhl4hCpH1k1xGpF7bUqk7uOYO7OxSsoL4bdSJFLr6uYBTtsF7XuXeprf2UFq9qAB6KxjzHEsWUeGRFhXTOEIlUL7qJkzWRx23k1T840M9npbWC+q9hdzjlPuyJzpt2ZQ422IvAwVMGaqLTFxJrPmN7WwW357oJHassEt5mpUa42Fo5EVUbJVR9OTPCghZgxBR6MzwsTnO/4RxZbhN98wc4vHMQqoeyBR7G+U8JH2ClOqrIGGRGG9gGwMO39VRHYxRRK+tRnN85NBgSBLg3U9q+WlOiJXXAQJz9Wm80IHikEwA69BD5SUTwDAUL5bRpHBloqS561ZbN+vtWl008JmVpF6oc9pzRKdPe5KLUM0+zMX4kmGHAuEFl7pOYw45w6qRlOyUh79DhF+x1c9/K4Ofc9ZoofcvSTo6JXCRH0ckPNnroMfSJT/cI6b+KsiOV2AkAurMXEjwipPA==;KcLMFVEnMY9PgI46JWBDmw=="
 ---

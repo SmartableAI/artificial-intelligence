@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
-    excerpt: "The Industrial Technology Research Institute (ITRI), Taiwan's largest and one of the world's leading high-tech applied research"
-    publishedDateTime: 2021-01-11T12:50:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021-301204748.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "CES 2021: This AI dog collar tells you how your pup is really feeling"
     excerpt: "If your dog could talk, what would it say? Well, thanks to the PetPuls AI-powered dog collar, you can get a glimpse into your pup's state of mind. Well, sort of, anyway. Debuted at CES 2021, the PetPuls smart collar uses artificial intelligence and built-in microphones to track your dog's barks and detect five different emotional states: happy,"
     publishedDateTime: 2021-01-13T14:18:00Z

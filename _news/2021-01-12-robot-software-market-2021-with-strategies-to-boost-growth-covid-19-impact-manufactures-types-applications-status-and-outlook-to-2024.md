@@ -36,17 +36,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 45
-  - title: "Global Vision Guided Robotics Market Forecast 2020-2027: COVID-19 Impact and Analysis by Component Type, Type, and Industry Vertical"
-    excerpt: "The \"Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and"
-    publishedDateTime: 2021-01-11T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19095932/global-vision-guided-robotics-market-forecast-2020-2027-covid-19-impact-and-analysis-by-component-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19095932"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19095932"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
   - title: "Cloud Computing Market to Get Expansion admist COVID 19, Scope With Advanced Technologies Top Key Players and Forecast 2020-2027"
     excerpt: "The global cloud computing market is expected to gain momentum from the rising inclination of enterprises to omni-cloud solutions from multi-cloud solutions. This information is given by Fortune Business Insights™ in a new report,"
     publishedDateTime: 2021-01-13T10:33:00Z

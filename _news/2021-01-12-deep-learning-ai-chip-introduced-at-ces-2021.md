@@ -37,20 +37,6 @@ related:
         height: 900
         isCached: true
   - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
-    excerpt: "The Industrial Technology Research Institute (ITRI), Taiwan's largest and one of the world's leading high-tech applied research"
-    publishedDateTime: 2021-01-11T12:50:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021-301204748.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1397197/ITRI_AI_and_Robotics.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
-  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
     excerpt: "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site (  ITRI’s featured technologies include the Dual Arm Robot System (DARS),"
     publishedDateTime: 2021-01-12T09:47:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-energy-industry-electric-utilities-greater-china-62ad8429deb3b03c423f463f96929ff5/gallery/f6e10d436a9041020b2a20c1908e34c4"

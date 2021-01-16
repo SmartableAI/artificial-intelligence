@@ -88,20 +88,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "MUSC student used artificial intelligence to find patients at risk for COVID complications"
-    excerpt: "Using Census tract information and the MUSC patient database, Alan Snyder was able to identify thousands of adults who faced a high risk of developing serious complications should they contract"
-    publishedDateTime: 2021-01-11T13:00:00Z
-    webUrl: "https://www.postandcourier.com/health/musc-student-used-artificial-intelligence-to-find-patients-at-risk-for-covid-complications/article_a7f34a54-3f03-11eb-9033-d3d61c759c83.html"
-    type: article
-    provider:
-      name: Post and Courier Charleston
-      domain: postandcourier.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/9/79/9794ae9e-4923-11eb-8cb9-a718947ea4e8/5fe9fd6616d96.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "B1Sfc6bWYRSQgqie7aNyLdpa8tuOoHmeQihvG4NIBO8Mr7cl6b66MUtKsjPD7Afvbw8zO5k92xBnChVzU5UBvk+nG8CFWMwZXQ+hDyvZVqFSfzno42CR+DmLsynDvf3lpH8YChwC7XBA3LFUAqKag06a1pac7+IZeEs1s+rRvHCnMJLX+f4ij+1k0h3EEA5LXh/ZYP9aOTmJFZTOEacRUc6S6tHVIfwQiNLcS6v4P69GSU0L+hdpFz14OwkUNOefdZQvLE9Txb1Q6yqXHILTOuNuPoiUpUuHW8S0HUJmjb1sNU3meVrjEqVDljfimFm8J7x6GkmiuR4Dbg/R8WAxjYAm7jPaaD2dclJyz4TgmuNjkM8knbWA3jcmASs/Lb8T+G1CVN1IWFFHI9RruQuQLU32rvRUP1O9nu7XyT4ZNzaVMDWdpV6ezc5FjAShGB8z3O9E4Aocjkb1f51ralzU4nr1ddVNcQP+maBqOx9XGljnxCtvRhkLdWHZ+9sxIO31NudG/IswdBU2GDu5E+FmEQ==;Zkm97tK5IM4WWdv3L5xWOw=="
 ---
