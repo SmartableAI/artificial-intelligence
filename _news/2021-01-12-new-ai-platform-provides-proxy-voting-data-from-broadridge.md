@@ -37,29 +37,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-    excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
-    publishedDateTime: 2021-01-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
-        width: 2697
-        height: 1414
-        isCached: true
-  - title: "Broadridge partners with AI company Fligoo for predictive analytics"
-    excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
-    publishedDateTime: 2021-01-14T08:06:00Z
-    webUrl: "https://www.leaprate.com/forex/institutional/broadridge-partners-with-ai-company-fligoo-for-predictive-analytics/"
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 19
 
 secured: "n6nFiJOcS98sbfivB45xY/hDO8RyM9nhALtVDGDnyLbZFdP6z0/JL9DvT5FgBn0RekvH7F6R+waUmUf8ijTSAnqhxvmjV2bb0IASUdT9N5spCMlsP5GEcD1PDnMTPlXx8XiayAl/Rw0GcmJ0xmLXBxWX+JunpNGLzWIvxFtkeKxYBcmClgy98fRi8GyoJJPnwFNyfeaOrfZT2hqvr3naRtF0MGfRA9wsOZ1KHtIWXJXMBXzum7gXBcPXELr4vlIkCYJciJVs877lR+6HKpnPkD6poNBUM5PQSZAHbzSIE42PSiAR4RW4N36zFb/d6mA10zZSs1dTX4ynNZRHzPA/PlGuuCJj3Yskd2KE2Gv16KA=;VHIAemzKUQESJi4fGd3BuQ=="
 ---

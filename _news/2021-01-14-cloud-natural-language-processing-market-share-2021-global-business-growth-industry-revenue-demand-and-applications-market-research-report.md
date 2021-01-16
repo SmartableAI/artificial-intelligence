@@ -29,71 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Device Market Industry Demand, Top Players, Industry Future Growth by 2025"
-    excerpt: "Selbyville, Delaware, The Global Face Recognition Device Market Research Report 2020-2025 is a valuable source"
-    publishedDateTime: 2021-01-13T14:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-industry-demand-top-players-industry-future-growth-by-2025-2021-01-13"
+  - title: "Natural Language Processing in BFSI Market Status and Global Outlook 2021-2025"
+    excerpt: "Global Natural Language Processing in BFSI Market research report published by market intelligence data explores"
+    publishedDateTime: 2021-01-12T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-bfsi-market-status-and-global-outlook-2021-2025-2021-01-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning as a Service (MLaaS) Market 2021 Industry Analysis, Forthcoming Growth, Industry Prospects and Forecast to 2026"
-    excerpt: "Market provides detailed analysis of Market Overview, Drivers, Prospects, Potential Application. Also Machine Learning as a Service (MLaaS) Industry research report includes the future impact of major drivers and challenges and,"
-    publishedDateTime: 2021-01-15T12:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2021-industry-analysis-forthcoming-growth-industry-prospects-and-forecast-to-2026-2021-01-15"
+  - title: "AI and Big Data Analytics in Telecom Market Size, Status and Global Outlook 2021"
+    excerpt: "Global AI and Big Data Analytics in Telecom Market research report published by market insight reports explores"
+    publishedDateTime: 2021-01-14T18:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Segmented by Product Top Manufacturers Geography Trends & Forecasts to 2026"
-    excerpt: "Global voice recognition market is universally gaining prominence as one of the fastest emerging verticals within the sustainable and smart technologies space and will experience notable growth in the future."
-    publishedDateTime: 2021-01-14T13:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2026-2021-01-13"
+  - title: "AI-Powered Storage Market 2021 Report Predictions by Global Industry Trends, Future Growth, Regional Overview and Forecast Outlook until 2025"
+    excerpt: "Market Research Future published a research report on \"AI-Powered Storage Market Research Report – Global Forecast till"
+    publishedDateTime: 2021-01-12T22:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-storage-market-2021-report-predictions-by-global-industry-trends-future-growth-regional-overview-and-forecast-outlook-until-2025-2021-01-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
-    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
-    publishedDateTime: 2021-01-13T18:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-technological-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Manufacturing Market Share 2021 Analysis, Revenue, Price, Market Size, Trends, Top Manufacturers, Growth Rate, Forecast by 2025"
-    excerpt: "Top Key Manufacturers in Machine Learning in Manufacturing Market Report: This report elaborates the market size, characteristics, and market growth factor of the Machine Learning in Manufacturing industry,"
-    publishedDateTime: 2021-01-11T22:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-share-2021-analysis-revenue-price-market-size-trends-top-manufacturers-growth-rate-forecast-by-2025-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

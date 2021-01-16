@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu, Geely forge smart electric vehicle venture"
-    excerpt: "Chinese internet giant Baidu announced plans to supply automaker Zhejiang Geely Holding with its intelligent driving technologies as part of a joint venture to manufacture smart electric vehicles (EV)."
-    publishedDateTime: 2021-01-11T09:54:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture"
-    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/09/Baidu_autonomous_taxi.jpg?fit=602%2C360&#038;ssl=1"
-        width: 602
-        height: 360
-        isCached: true
   - title: "Geely to Partner with Chinese Tech Company Baidu to Build Smart Electric Vehicles"
     excerpt: "The plan is to start a new company that will combine Baidu's connected and autonomous technology with Geely's EV platform."
     publishedDateTime: 2021-01-11T21:48:00Z

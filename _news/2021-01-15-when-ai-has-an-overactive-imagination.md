@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/reel/video/p093h7hr/what-happens-when-ai-has-a
 webUrl: "https://www.bbc.com/reel/video/p093h7hr/what-happens-when-ai-has-an-overactive-imagination-"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Combination of collective intelligence and AI impacts Society as a Disruptive Product"
-    excerpt: "Software companies like Dassault Systèmes combine collective intelligence and Artificial Intelligenceto benefit society by building communities of people who are passionate and willing to accomplish a common objective."
-    publishedDateTime: 2021-01-11T09:23:00Z
-    webUrl: "https://www.analyticsinsight.net/how-collective-intelligence-and-artificial-intelligence-can-benefit-society/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Artificial-Intelligence-7.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Artificial Intelligence to map human Intestinal Bacteria"
     excerpt: "The intestines and their bacteria are sometimes called our 'second brain', but studying these bacteria in their natural environment is difficult. Now researchers have developed a method that uses artificial intelligence to map intestinal bacteria using feces."
     publishedDateTime: 2021-01-15T15:57:00Z

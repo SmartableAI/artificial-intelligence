@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/105910971-1557804260825gettyimages-1124858078.jpeg?v=1582387062"
         width: 4000
         height: 2667
-        isCached: true
-  - title: "Huawei Patents AI-Based Drone Control System in China"
-    excerpt: "Huawei Central reports that the company has been given a patent in China for a drone control system based on artificial intelligence. According to the news source: “On July 18, 2018, Huawei applied for a new patent related to drone technology."
-    publishedDateTime: 2021-01-11T09:38:00Z
-    webUrl: "https://www.hstoday.us/industry/huawei-patents-ai-based-drone-control-system-in-china/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/07/drone-2554183_1920.jpg"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "GL0aLBe+g/clBtkHssRcEs8l8wfaARcmdJNtYkbFtFsO5P97YcXWJlBd5FzaNr7BrVmperljhiqA1YO/hcNqyzsmKSyF/6JsIjyBQ9SO1QTKJHr6Zq5M2DIGJG75vxdLNnDtZg/fmIkZgnjjfMjO8nlzr2ikj7oJYIRMB630ea1Vt8xNua0KLkrvo0hXKDfU3NGT3lE87pdNoSI22oiOJDy3ct+gb9PH8oFNhKJSWOI6RRXYajXhlVF1cy+mjB/yoSrrNRX6q0qxyUusrSw0/dRjPMR2aNQnWZNuyWwBQuTJHhxrfW/V4s9cRlAwHUVLkwgPEf6WNPqzbMkG6Hhoqr/XahtLCxKCHSzFs5c/1nMXabdPJkYZzooXZJ+iIYbvzOPvgwzvFX6j9vnc4d2g9mbRk28+afXXkqxPk0ZylCXynKOPJPXQGuYisyln5oRvdslhMnCf4poI+J+FBzjI5H2l+dxUVfwz442v7kLrYL7XS+iAenkdDXdrkoklmF208xa6Cki/f/uMP6xXU0f3CA==;cvxFZVEKXVhml0Bn+5EXuQ=="

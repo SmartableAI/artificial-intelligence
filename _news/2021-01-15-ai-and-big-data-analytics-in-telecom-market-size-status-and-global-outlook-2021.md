@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytic
 webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14"
 type: article
 quality: 64
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Predictive healthcare analytics company Lumiata raises $14M"
-    excerpt: "The company sells those predictions to healthcare plans, as well as to providers, especially accountable care organizations, that are risk bearing health systems. \"If you're in the health plan world,"
-    publishedDateTime: 2021-01-14T12:02:00Z
-    webUrl: "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 54
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/20897.jpg"
-        width: 320
-        height: 240
-        isCached: true
-  - title: "Cognitive Analytics Market technological to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2021-01-13T18:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13"
+  - title: "Natural Language Processing in BFSI Market Status and Global Outlook 2021-2025"
+    excerpt: "Global Natural Language Processing in BFSI Market research report published by market intelligence data explores"
+    publishedDateTime: 2021-01-12T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-bfsi-market-status-and-global-outlook-2021-2025-2021-01-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,31 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "RetailNext Showcases Next-Gen Machine Learning Analytics and Releases 2020 Holiday Season Analysis at NRF's Big Show"
-    excerpt: "Onboard demographics are introduced as part of the enhanced machine learning capabilities, along with a Holiday 2020 recap report"
-    publishedDateTime: 2021-01-12T23:38:00Z
-    webUrl: "https://www.wboc.com/story/43161213/retailnext-showcases-next-gen-machine-learning-analytics-and-releases-2020-holiday-season-analysis-at-nrfs-big-show"
+  - title: "Cloud Natural Language Processing Market Share 2021 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2025"
+    excerpt: "Global Cloud Natural Language Processing Market Research Report focuses on market size, status and forecast 2020-2025, along with this report also focuses on market opportunities and treats, risk analysis,"
+    publishedDateTime: 2021-01-14T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-2021-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2025-2021-01-14"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 31
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
-    excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
-    publishedDateTime: 2021-01-14T12:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19158792/scanmarket-expands-analytics-capabilities-with-the-acquisition-of-artificial-intelligence-company-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19158792"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19158792"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "LxJvpmAAGwSmzyYEp4uUAtKRdCIP6yrt+SPYHYpvjuFFI6xL28T/U+UrzcBhdHR5bF1zYjecIOstyKAtPPNqVKSNojY42jIDiTeKAfmwXgrqCC8o8pyMVW0HOzQyaRUrWA0zdIKJ6ZaQ8u4esUJfD/G4NhsluR82hGq4E9ZP0uGy0YFAZRiQoZ6NhCzVJEQpLEDtsKWyFIOgl1iojDtP6woDkgDx42MTIxhWELg9blmvNEYM7xDUTVlBu+cCQTN3JXpGnZKea+KMtWmWhm2nvM/BlTSQacvOA/QSK1VaGF8yGyxcnhokJw6BD9Ea8mLas9THls4/UpWeg/QXFvP415Pti8wgc36C4+j+bvzRhec=;7NLUp6se2MLIuShfx2GfEg=="
 ---

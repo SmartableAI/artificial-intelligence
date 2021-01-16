@@ -25,28 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "New AI Platform Provides Proxy Voting Data from Broadridge"
-    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy"
-    publishedDateTime: 2021-01-12T12:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
+  - title: "Predictive healthcare analytics company Lumiata raises $14M"
+    excerpt: "The company sells those predictions to healthcare plans, as well as to providers, especially accountable care organizations, that are risk bearing health systems. \"If you're in the health plan world,"
+    publishedDateTime: 2021-01-14T12:02:00Z
+    webUrl: "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "New AI platform provides proxy voting data from Broadridge"
-    excerpt: "Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
-    publishedDateTime: 2021-01-12T17:31:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provides-proxy-voting-data-from-broadridge"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Vator
+      domain: vator.tv
+    quality: 54
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/20897.jpg"
+        width: 320
+        height: 240
+        isCached: true
+  - title: "Cognitive Analytics Market technological to witness high growth in near future"
+    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
+    publishedDateTime: 2021-01-13T18:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Broadridge partners with AI company Fligoo for predictive analytics"
     excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
@@ -56,6 +61,17 @@ related:
     provider:
       name: Leaprate
       domain: leaprate.com
+    quality: 19
+  - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
+    excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
+    publishedDateTime: 2021-01-14T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19158792/scanmarket-expands-analytics-capabilities-with-the-acquisition-of-artificial-intelligence-company-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19158792"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19158792"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
 
 secured: "xh2YSQ4yVf/NbOVB1aFy8wDj7oM9T+uRBOLJYYdWsjuUHYh4bwyckOAy107Hs41l1KyxbNktO9yqPFffgER87FyUQzvOMRlS/mcKp+RW7GEHMmXxPOI2CYbclPRCobowhl6l4WbAOeTFoHzGgUyRwc83veYDwnL13CZWL9DbblFvl1I64DoX59uK1UH2wdif4HKZ+vlxGdswTe7WiYVS/QsjL3h2jydgos88NOJi6rWBNnvDuoZUCJ3wsZXt5LYTrykokPmPBpAqCseVpDXjC2+C1AbBgKBHYlQZ6IOl0+IhhIfbvENbHqY6Iw9uUTT4TcioYY3YBjwUE7Tf0YjNLXal8AMMWByzCRN1H2SuS0I=;UFiJN8YuFHt/n7KIvfMPyg=="

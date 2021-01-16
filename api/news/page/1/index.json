@@ -110,8 +110,8 @@
       "title": "Want to work with robots all day? Here's what you need to do.",
       "excerpt": "Today, robots are doing much more than assembling cars. Robots work in the retail, security, hospitality, and logistic industries. These robots and robotic services include drones, chatbots, security patrols,",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "originalUrl": "https://www.techrepublic.com/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "webUrl": "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -128,8 +128,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
       "publishedDateTime": "2021-01-15T13:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -769,7 +769,7 @@
       "originalUrl": "https://www.wired.com/story/ai-powered-text-program-could-fool-government/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -908,7 +908,7 @@
       "originalUrl": "https://www.bbc.com/reel/video/p093h7hr/what-happens-when-ai-has-an-overactive-imagination-",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1045,58 +1045,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-us-exempts-self-driving-vehicles-from-some-crash-standards.md",
-      "title": "U.S. exempts self-driving vehicles from some crash standards",
-      "excerpt": "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E",
-      "originalUrl": "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-smart-collar-translates-dog-barks-into-emotions-startup-company-says.md",
       "title": "Smart collar translates dog barks into emotions, startup company says",
       "excerpt": "Now you can find out what your dog is saying when it barks -- or at least, you’ll know how it’s feeling. South Korean startup Petpuls has created a smart collar that can identify five emotions in dogs using AI-enabled voice recognition technology.",
@@ -1201,7 +1149,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1242,6 +1190,57 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
+      "title": "Can an AI Predict the Language of Viral Mutation?",
+      "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
+      "originalUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
+      "publishedDateTime": "2021-01-14T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

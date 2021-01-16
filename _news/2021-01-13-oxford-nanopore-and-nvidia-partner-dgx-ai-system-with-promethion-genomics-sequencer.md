@@ -33,6 +33,15 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Oxford Nanopore, NVIDIA Partner on GPU-Powered PromethION"
+    excerpt: "Oxford Nanopore Technologies and NVIDIA announced a collaboration this week to integrate the NVIDIA DGX Station A100 into Oxford Nanopore’s ultra-high throughput sequencing system, PromethION. Partnering the NVIDIA A100 Tensor Core GPU technology with the PromethION device aims to deliver the world’s most powerful sequencer that supports real-time analyses at scale and can also analyze any length fragment of DNA/RNA."
+    publishedDateTime: 2021-01-15T00:00:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/01/15/oxford-nanopore-nvidia-partner-on-gpu-powered-promethion"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 19
   - title: "Oxford Nanopore & Nvidia collaborate to partner DGX AI compute system with ultra-high throughput PromethION sequencer"
     excerpt: "Oxford Nanopore Technologies and Nvidia are collaborating to integrate the NVIDIA DGX Station A100 into Oxford"
     publishedDateTime: 2021-01-12T23:33:00Z

@@ -2,6 +2,58 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-15-underwater-robot-designed-to-keep-tabs-on-fish-farms.md",
+      "title": "Underwater robot designed to keep tabs on fish farms",
+      "excerpt": "The robot additionally utilizes artificial intelligence-based algorithms to observe the behaviour of the fish, adjusting its movements in order to disturb them as little as possible. As it travels ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
+      "originalUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/cacb1dc/2147483647/strip/true/crop/767x511+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2F69bcb3504d85958797d788cb2d58%2Fcagereportersensorer.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
+      "publishedDateTime": "2020-12-14T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel.md",
       "title": "Star Alliance Goes All-In on AWS to Invent the Next Era of Air Travel",
       "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Star Alliance, the world’s largest airline alliance, is",
@@ -1171,49 +1223,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-global-head-of-ibm-watson-advertising-dubs-2021-the-year-of-evolution.md",
-      "title": "Global Head Of IBM Watson Advertising Dubs 2021 The Year Of Evolution",
-      "excerpt": "Sheri Bachstein, global head of IBM Watson Advertising and The Weather Company, believes 2021 will see more advanced technologies such as AI and AR come into play across a variety of platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/358623/global-head-of-ibm-watson-advertising-dubs-2021-th.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/358623/global-head-of-ibm-watson-advertising-dubs-2021-th.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/12/14/sheribachstein-ibmwatson-600_wOWljPW.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-13T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

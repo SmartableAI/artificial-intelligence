@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-30-nvidia-rival-graphcore-raises-222-million-for-ai-chips-with-potential-ipo-on-the-horizon.md",
+      "title": "Nvidia rival Graphcore raises $222 million for AI chips with potential IPO on the horizon",
+      "excerpt": "Graphcore has raised $222 million as it looks to take on U.S rivals Nvidia and Intel. The Series E funding round, which comes less than a year after Graphcore raised a $150 million extension to its last round,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104712662-graphcore_founders.jpg?v=1505490455",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/29/graphcore-raises-222-million-to-take-on-nvidia-with-ai-chips.html",
+      "publishedDateTime": "2020-12-29T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-largest-ever-cyber-hack-provides-vital-lessons-for-self-driving-cars.md",
       "title": "Largest Ever Cyber Hack Provides Vital Lessons For Self-Driving Cars",
       "excerpt": "Learning valuable cybersecurity lessons from the recent SolarWinds debacle and using those lessons for the advent of self-driving cars.",
@@ -1171,57 +1223,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-pitfalls-to-avoid-when-employing-ai-based-tools.md",
-      "title": "Pitfalls To Avoid When Employing AI-Based Tools",
-      "excerpt": "AI is a transformative technology, and like any such powerful tool, it must be employed wisely and with care to ensure that it delivers what you need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75dbbe41e615248f54b325%2F0x0.jpg",
-          "width": 1200,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/pitfalls-to-avoid-when-employing-ai-based-tools/amp/",
-      "publishedDateTime": "2020-12-28T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

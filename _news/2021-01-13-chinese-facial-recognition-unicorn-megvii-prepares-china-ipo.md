@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/12/megvii-ipo-china/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/megvii-ipo-china/amp/"
 type: article
 quality: 159
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/399/2021/01/Facial-Recognition-Software-Article-202101151327.jpg"
         width: 620
         height: 372
-        isCached: true
-  - title: "First online CES tech event lures fewer Chinese participants"
-    excerpt: "The first online-only CES will kick off on Monday, with tech executives and industry experts participating remotely from around the world, instead of shaking hands in Las Vegas. The annual four-day conference -- formerly known as the Consumer Electronics Show -- will enter its 54th year with no physical presence due to the COVID-19 pandemic."
-    publishedDateTime: 2021-01-11T09:10:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/First-online-CES-tech-event-lures-fewer-Chinese-participants"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F0%252F8%252F5%252F18775800-1-eng-GB%252FRTS29K38.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
         isCached: true
 
 secured: "F5bZ7YRVggQcoQOjmHJeLlTYtmqpmKZ+pRwodpE49zxV0Gi2uApFxRe5bkvSwzyU02iNoN9futthBR14v7LcTStFaOKsaLZI42HtQH6p417XZGH4zh6oMg6WTukq/F1IZjAvdgL/MpWclqIKkZGjlyO3nILTR6ww/2XJGr9yZl0eopJfGa7Bd9/cMuPxBc2eoOhLhey58Z7R8YjiLlMGnX0GqVWVK6a4Wck8nmeHgWNeY1syNLztW4P12Vha3fdZIWPBrRDQ+i/DkfSomsT1bnSBXkuoRYp+R8OypMxDpa2HOTnmxQXWNHPIPz3MfTC1vReYtUBfWGWVhQJ0KkE0eEpVVvC6okgG/0M0XxaD61gXVvg6XlfvpQW54mjd1RmuDwmKlXBPYEdYpBT40vHa7M/+9l9Z3rVBoNh4748Rtw3cAB5gPql32ycTlw/1MX8C3dESCdf1DrzebTQbH8NeCj1w0KiWfSwI1Rs1LV5ZBh5jVRK+yk5WHPD0lMKdSCTLSRz5rZzj/dAXWyHVzj5Y+IrY7X1oRGMR3QYV9FR/P6A=;Ahj2fDOFhNBnfzuo1J6PBg=="

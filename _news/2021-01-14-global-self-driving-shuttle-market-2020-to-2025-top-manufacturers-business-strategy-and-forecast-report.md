@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AV manufacturers need to abandon the word ‘self-driving’"
+    excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
+    publishedDateTime: 2021-01-12T21:12:00Z
+    webUrl: "https://landline.media/av-manufacturers-need-to-abandon-the-word-self-driving/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 24
+    images:
+      - url: "https://landline.media/wp-content/uploads/2021/01/210112-Waymo-logo.jpg"
+        width: 540
+        height: 420
+        isCached: true
 
 secured: "kkahVhtWxUTRQav8d3CLQ/HmA01jvjaIlIoeuxujMrzg2ZSXxtviKPBZjcZzNvezjYD89vsdXk5kAd4rb3w06gtxBvAVe5m57rxBVHuPxk3I3egSLvDgyZDQ90CKV7pvNMYuWDwYSgtxdf8Px+QLd9UoHHFiDe1guNH9CwivkNsexGMgmLFo5sEBUxOeS+cNw47i3VHnpUlaPGbwV6Jh2gnQgDXanc9kfNrPy2pXkgmPsfbwprnv7rMo47L5DBbdC1UC42HSV2B7xtQr7JH7GI1t9gRUbArlJzNHghcOyvhRdczRXuslbuog4L7Zkm/EhjeDzvava/9XicqOgq5YAKmF5juTiVC0Tnd2mV5BM4Y=;zcRhpa5iNOYo9DT0VO8QiQ=="
 ---

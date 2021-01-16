@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM Self-Driving Company Hires Former Delta Executive as COO"
-    excerpt: "Cruise LLC, the self-driving car startup majority owned by General Motors Co., has hired former Delta Air Lines Inc. Chief Operating Officer Gil West for the same position as it prepares to start offering paid robotaxi rides in San Francisco."
-    publishedDateTime: 2021-01-11T10:11:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii4e.7a3qcDM/v0/360x-1.jpg"
-        width: 360
-        height: 270
-        isCached: true
   - title: "Exemptions From Some Safety Rules Eyed for Self-Driving Cars"
     excerpt: "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans."
     publishedDateTime: 2021-01-14T16:57:00Z
@@ -57,6 +41,20 @@ related:
         width: 360
         height: 221
         isCached: true
+  - title: "U.S. exempts self-driving vehicles from some crash standards"
+    excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
+    publishedDateTime: 2021-01-15T04:52:00Z
+    webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Get ready for self-driving banks"
     excerpt: "Popular Science magazine envisioned self-driving cars. The reality arrived sooner than anyone anticipated, and before safety regulators could adapt. Most automotive laws — on speed limits, giving signals,"
     publishedDateTime: 2021-01-12T12:03:00Z
@@ -72,6 +70,52 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc531a247-670f-4893-8765-cd3221341a3a.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Self-Driving Vehicles Allowed to Skip Some Crash Safety Rules"
+    excerpt: "The Trump Administration issued final rules Thursday that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
+    publishedDateTime: 2021-01-15T16:21:00Z
+    webUrl: "https://www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_CAR_CRASH_NIGHT.jpg"
+        width: 940
+        height: 627
+        isCached: true
+  - title: "Self-driving vehicles allowed to skip some crash safety standards under new rule"
+    excerpt: "The Trump administration issued the first of what is likely to be several rules designed to speed the deployment of autonomous vehicles."
+    publishedDateTime: 2021-01-14T19:51:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/01/14/self-driving-vehicles-skip-some-crash-safety-standards-under-rule/4161416001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4161416001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4161416001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/28/PDTN/dd4e63ec-b9c7-41d5-9d1d-c466572cb488-AP20149516066866.jpg?auto=webp&crop=6602,3714,x0,y688&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving vehicles allowed to skip some crash safety standards"
+    excerpt: "The Trump administration has issued final rules that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
+    publishedDateTime: 2021-01-15T19:44:00Z
+    webUrl: "https://omaha.com/self-driving-vehicles-allowed-to-skip-some-crash-safety-standards/article_04afec56-576a-11eb-8c3e-b3df21c5e472.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "bTXkELWeaZEoIjnAPU7S5ZBK9BqzrLL5g817VUEfzau/aE5QmhZO9EbUwXgfn8t/0ajO7ovBmO/g5bpLvR8nLTEz8IUZ6QVfJccccuZZicKPUpNeYbgBsaaARc3nrCiE8lZjlDd1ZqnHE7qJgtRssaMu6LjSsBx8VxrzqM6/yp8DCKlkjX9Ej0Mmjsp9qgCFWqSvTPZKlnW+J1wdiQ+icKZluWwJVPtOck6HSpkUbBxypawZq+vgRpY3KqBeCSDXEICPw5sfGW7QXiVOW5HjdVs3+084vo/ODN7wPHyqx8rrxBDQslt+R+rT898LmoU4lU/iL6EiP8q2K8OjZE1GNO8OdhACHjnJAdfrM6nuxNo=;nioeCTph4pI3caUoiJ4UwA=="

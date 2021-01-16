@@ -27,10 +27,26 @@ images:
     isCached: true
 
 related:
+  - title: "Exemptions From Some Safety Rules Eyed for Self-Driving Cars"
+    excerpt: "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans."
+    publishedDateTime: 2021-01-14T16:57:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXeN87BDBPAs/v1/360x-1.jpg"
+        width: 360
+        height: 221
+        isCached: true
   - title: "U.S. exempts self-driving vehicles from some crash standards"
     excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
     publishedDateTime: 2021-01-15T04:52:00Z
-    webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+    webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
     type: article
     provider:
       name: Reuters
@@ -40,6 +56,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Get ready for self-driving banks"
+    excerpt: "Popular Science magazine envisioned self-driving cars. The reality arrived sooner than anyone anticipated, and before safety regulators could adapt. Most automotive laws — on speed limits, giving signals,"
+    publishedDateTime: 2021-01-12T12:03:00Z
+    webUrl: "https://www.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
+    ampWebUrl: "https://amp.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc531a247-670f-4893-8765-cd3221341a3a.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Self-driving vehicles allowed to skip some crash safety standards under new rule"
     excerpt: "The Trump administration issued the first of what is likely to be several rules designed to speed the deployment of autonomous vehicles."
@@ -57,19 +89,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AV manufacturers need to abandon the word ‘self-driving’"
-    excerpt: "The autonomous vehicle industry is functioning mostly unregulated, and one word encapsulates a problem with that: self-driving."
-    publishedDateTime: 2021-01-12T21:12:00Z
-    webUrl: "https://landline.media/av-manufacturers-need-to-abandon-the-word-self-driving/"
+  - title: "NHTSA Eyes Exemptions From Some Safety Rules for Self-Driving Cars"
+    excerpt: "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans."
+    publishedDateTime: 2021-01-14T18:00:00Z
+    webUrl: "https://www.ttnews.com/articles/nhtsa-eyes-exemptions-some-safety-rules-self-driving-cars"
     type: article
     provider:
-      name: Land Line
-      domain: landline.media
+      name: Transport Topics
+      domain: ttnews.com
     quality: 24
     images:
-      - url: "https://landline.media/wp-content/uploads/2021/01/210112-Waymo-logo.jpg"
-        width: 540
-        height: 420
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/autonomous-1200.jpg?itok=3RbeNMmD"
+        width: 470
+        height: 246
         isCached: true
   - title: "Self-driving vehicles allowed to skip some crash safety standards"
     excerpt: "The Trump administration has issued final rules that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."

@@ -32,20 +32,6 @@ related:
         width: 1376
         height: 774
         isCached: true
-  - title: "Combination of collective intelligence and AI impacts Society as a Disruptive Product"
-    excerpt: "Software companies like Dassault Systèmes combine collective intelligence and Artificial Intelligenceto benefit society by building communities of people who are passionate and willing to accomplish a common objective."
-    publishedDateTime: 2021-01-11T09:23:00Z
-    webUrl: "https://www.analyticsinsight.net/how-collective-intelligence-and-artificial-intelligence-can-benefit-society/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Artificial-Intelligence-7.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "uL6EeFUOLCQJIb0CcpnvSs9IdYxvkQ0r2xcBpB2/WztseC54v23BZw+fZ2yk8AgnK3U0Ev2uHwuBZBLnQjhPxy57jr9Dbkyre/kRZ9/E0E+fRcB3o1XBYSjdpZGPLhc8o8YPzLbi8i4JPsLv7wV7WQcc2PLkwSDYDsIMf3WDe17bVIkZyvSulKgOj0QJv8LGIS5uhb3BYjwL180BTwhXPsgtw+JEem8cruv3L66NRWFhbukCMw1tdmaNuwyKm05gYlgMmod1ARurzzdjdoufvVKqGeIGrdhGRAt7PKhmTjzGQti5NLF1aPuFiHj/XYWV0e1TosQboh2epO5+W2NTALeLqXH6LPJnvXlm4NjoJZk=;gn50dBJIBeGZtfH04WJ/EA=="
 ---

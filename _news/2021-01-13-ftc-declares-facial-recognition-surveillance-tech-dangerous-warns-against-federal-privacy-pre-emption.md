@@ -82,20 +82,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "First online CES tech event lures fewer Chinese participants"
-    excerpt: "The first online-only CES will kick off on Monday, with tech executives and industry experts participating remotely from around the world, instead of shaking hands in Las Vegas. The annual four-day conference -- formerly known as the Consumer Electronics Show -- will enter its 54th year with no physical presence due to the COVID-19 pandemic."
-    publishedDateTime: 2021-01-11T09:10:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/First-online-CES-tech-event-lures-fewer-Chinese-participants"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F0%252F8%252F5%252F18775800-1-eng-GB%252FRTS29K38.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "jW103lrwXgAnh8/B8T6JEaWSnAev8LxyKbWXwu3I7NzC5C3es6p+H3JaFdUi6QhML/nXyaVgZedvl3NswJWroEJkNfqpr7f6PprrOa9j803X+pb/t644VWaSR5WWRZq+MQ13saEETLjb1L/QIOGHRHDgvrZlYDwF2NrU/1NnXW4LdbFWu8q7awbZkFQol+z5AwVIH+NrIpzp5G7zAB/IOsM+pYfkbN0poL0b72d/5bTgfjIbhlXqzoqvFFQ4dwS7Pqy0rVx5bZjdiwMixdyhs5hrGxiHBmMRMbiQNlJkvGdPoQoYrbU2tMFt/G6zaZ5akCJxfknf30RcZMqCsMd/phM3AVBf+Tgay8hmI9A6kC0d5Hgfi66L0WqzXFyFiZ89OCD5wmxCbiW7fASDNV/EoucmM7mgTNZt7EqQzKPnd4OWuK7CX8IBAgwcKfaxO5aQxcmfXfrdxPlHvBDHXouAg9N33nwHBIGiaRYGC0Uig7LpVArRIKPbgye831inif6FhJdIGKvHamVqRYjw5t8hkA==;GCOrWE+fEPRTa6NnDgrmqQ=="
 ---

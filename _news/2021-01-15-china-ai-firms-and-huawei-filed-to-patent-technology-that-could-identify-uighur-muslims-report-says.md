@@ -47,20 +47,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Huawei Patents AI-Based Drone Control System in China"
-    excerpt: "Huawei Central reports that the company has been given a patent in China for a drone control system based on artificial intelligence. According to the news source: “On July 18, 2018, Huawei applied for a new patent related to drone technology."
-    publishedDateTime: 2021-01-11T09:38:00Z
-    webUrl: "https://www.hstoday.us/industry/huawei-patents-ai-based-drone-control-system-in-china/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/07/drone-2554183_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "qOuRsd7edIMC9+YDEL+wmsm8RE6Txq9Ved1uoO4II6dBDc3wWn5on60p7j7FjXpC4c7Nq4pbzy8L3BzsFMvyaO6y7GwUfhM8YgAxz8gt5g7yG+cOJ38+lYifYimMdHLOrA4K4+bif4S0m3RRg3VnTh46GommaUK+qQN+wGePCHMMfiFRKbYyi0tvlNYtGl+/F3NjWeErdEeeBy2+IwRLtn31KqOZoDwzjevBMWP08ZfiyrlU2G3ib3fhuRYbNf1fYCKjTtRK35kCB5YSKkPLjDGFhde5fCpn41/IBBKkqqrthSAgs8c3WFy7lNCmOP9fq6ikfAmGhrDaFHuOuundVgiaFYh7zv5yWvcg07yMsBc=;BI/ETfKHxeHsqRCscyDoxw=="
 ---

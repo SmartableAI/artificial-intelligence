@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/collaborating-through-open-source
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers propose using the game Overcooked to benchmark collaborative AI systems"
+    excerpt: "Researchers propose using the video game Overcooked as a robustness test for collaborative AI and machine learning systems."
+    publishedDateTime: 2021-01-16T01:22:00Z
+    webUrl: "https://venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/"
+    ampWebUrl: "https://venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/06/Overcooked-2-05.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Weekly: Meet the people trying to replicate and open-source OpenAI’s GPT-3"
     excerpt: "A grassroots group of researchers is attempting to create an open source language model as powerful as OpenAI's GPT-3."
     publishedDateTime: 2021-01-15T19:33:00Z

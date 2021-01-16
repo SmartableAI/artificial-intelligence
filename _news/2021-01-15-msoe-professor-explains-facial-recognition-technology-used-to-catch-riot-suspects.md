@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Face recognition Technology Has a bias problem"
-    excerpt: "Face recognition Technology Has a bias problem \"I was locked up for no reason,\" Nijeer Parks told The New York Times last month. Parks"
-    publishedDateTime: 2021-01-11T10:28:00Z
-    webUrl: "https://www.compsmag.com/news/technology/face-recognition-technology-has-a-bias-problem/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/face-recognition-technology-has-a-bias-problem/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/face-recognition-technology-has-a-bias-problem/amp/"
+  - title: "Facial Recognition Technology Isn’t Good Just Because It’s Used to Arrest Neo-Nazis"
+    excerpt: "In a recent New Yorker article about the Capitol siege, Ronan Farrow described how investigators used a bevy of online data and facial recognition technology to confirm the identity of Larry Rendall Brock Jr."
+    publishedDateTime: 2021-01-12T16:54:00Z
+    webUrl: "https://slate.com/technology/2021/01/facial-recognition-technology-capitol-siege.html"
+    ampWebUrl: "https://slate.com/technology/2021/01/facial-recognition-technology-capitol-siege.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/01/facial-recognition-technology-capitol-siege.amp"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
+      name: Slate
+      domain: slate.com
+    quality: 55
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Face-recognition-Technology-Has-a-bias-problem.jpg"
-        width: 800
-        height: 450
+      - url: "https://compote.slate.com/images/98ca6f99-34c1-4b0b-937e-acdf77b67e85.jpeg?width=780&height=520&rect=8192x5461&offset=0x0"
+        width: 780
+        height: 520
         isCached: true
 
 secured: "GnzlJes+ch+2upGhVFzIinOsh1I0T6JLNxmYHJlid/pCluvGgX4X5bCEGfca9vY2kaf5E4rIMT0MWl8qmuLYGqSC0jA8bjRwoJ++eI86hbtbBe3Q0u2NetDOchcVTU5wgd1TRRUSaxM5JbOam3KgXy/GfaMbVZzMBAx65FKmmCT+hJdKrlrf7ozGZ4eukkBOr3ougE9phbFyC1YNpIUsKcax6I7+xkWt4e7W3P8aVRKlkL14X3xMQ2Lf7mIsA85RhvWW0J6ACUMGcmAy/FOayoqEcAB58G0zqnLENqVqtceugA18WN7LR3CIe7KahBxLLeuJbYOFncpWfRBXMAA9ZDRKcSwHqlyPBw+0Ofvyu1lWDC+OGQvUJGzieE6oMfPijXatLWABqNfR25HWauJeoMVIqyrnE/76lbqqci04yA8jjFBCbZ8ZGYXlfPB0ajrjPAYK3kwneMKI84qSpprWJTqsnmsXg8OXJlg5B8mx3oVLu4ZJ9G7r0jjBGR5vAJ42ROu6XXOSswgtyzoDD4YdTQ==;5AVxOj6qvRY2YGairclqkA=="

@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing Market Share 2021 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2025"
-    excerpt: "Global Cloud Natural Language Processing Market Research Report focuses on market size, status and forecast 2020-2025, along with this report also focuses on market opportunities and treats, risk analysis,"
-    publishedDateTime: 2021-01-14T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-2021-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2025-2021-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "INWvF+qdXp3of2yN7u6c55Cjf09jX2lqSH64uX8Qtu4xAIIg+nbAEawCggyuGqgGNMJeCCFg9T4A+O0gzdeIlTarUvdNl6sLY4Q4CBRy/HcNt3f0wXZo+kqKtWkHXTfz6ugLaaPdu2Pcawpjzi/bFipizBSk6cvCyx5fw5X3J/0lWPv2GgtT7giFdQNDxR/U0nQTNyxX9Y5WHPdTuqTNJExxzXCUJ5kZMSf461VPlmSept3XCDP8qui0SKKmrBhKHz0lkd8N9jpOQwbnaKAs2sXsGKBZHKyQPbHZCRxq28HeJaGwiTlTN8eAEMeXL7IRXI1hidJte1mZqXoxXut3mqaI0on0pLAHybt8/9BxSZ8=;3ZG8haSNMmWIwuYc1hINMQ=="
 ---

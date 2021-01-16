@@ -57,22 +57,6 @@ related:
         width: 1024
         height: 546
         isCached: true
-  - title: "China’s Baidu is building an EV with help from Polestar’s parent company"
-    excerpt: "Baidu has already developed autonomous vehicle tech but now the plans to produce electric vehicles in partnership with Geely."
-    publishedDateTime: 2021-01-11T09:14:00Z
-    webUrl: "https://www.engadget.com/china-baidu-teaming-with-geely-on-electric-vehicle-090704201.html"
-    ampWebUrl: "https://www.engadget.com/amp/china-baidu-teaming-with-geely-on-electric-vehicle-090704201.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-baidu-teaming-with-geely-on-electric-vehicle-090704201.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2Ff03264b0-53e6-11eb-b7ef-2adc86e40ea6&client=amp-blogside-v2&signature=3e8467d512859213b21e5dc16c0236d283ba41b2"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Baidu Is Entering the EV Industry. Tesla Bulls Beware."
     excerpt: "The Chinese tech giant is working with a Chinese auto maker to build a smart electric vehicle. Investors should expect more partnerships between tech companies and auto makers in the future."
     publishedDateTime: 2021-01-11T14:31:00Z
@@ -116,20 +100,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
-  - title: "Geely and Baidu in smart EV deal"
-    excerpt: "Chinese internet giant Baidu said it had agreed with local automaker Zhejiang Geely Holding to establish a strategic partnership to develop and produce smart electric vehicles (EVs)."
-    publishedDateTime: 2021-01-11T10:17:00Z
-    webUrl: "https://www.just-auto.com/news/geely-and-baidu-in-smart-ev-deal_id199569.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "SbsngXadMyJIeVDry/zXtxus19MT4U0tmTWN0q1mMDvERgaqROa9vy7Kb7jk3TjFTIlWoLGFUJptQ9pwAPUbL8X2w9Bd2fdQZxcJOSxv2LtEecKmn/zXndAhY/KizxOObxNqrVxnPCvxHyiQeeZPii7MeaR1QIAIiKX2EvIr2z+pj/5A3vfpjkDbjHuS1jbR9XjxesypEoCOjpl8Cl1wgn1vXhMDzBTexEhpRNkYEQqqnNy3RipE0BU0H4zZkt3YadmKcbAmXy4nkK5u1utKZqp+I17cs1cYazptDgDM6vqWbjw43mA3/8gxQkERaIJlSIPEEU4mhUqFaC+gsWofYV4u+i9DZPtwBwkU/zWd/7nyR+2RuHDR6kntkSojHNJTCSnx1ZU707DZG7ACoVSPmUEJuYm8dlPqC6MziVtRfglnLCLsOHEQEIAVALeNpYqQZlxxCl2rZ+vCfkH/G/4LsPCY0V8eJCh1ZPL4MlDiUbSqRtDq8OFWXpOQdLB0qt3iUnNvfpjND956YyomL7Y2Qw==;35Ap27I9gNnsCBeLj001RA=="
 ---
