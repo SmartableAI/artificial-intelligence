@@ -38,6 +38,6 @@ related:
       domain: techinasia.com
     quality: 64
 
-secured: "P4iZIGgT6ykrkjg6ydSYMsvSwcIYTrAMm4H5e5WngBfLYopAzOWkww7N8snNsVOO0uYclWGF7gWFjNgCvtrk+VpnlfNQYy7BF6CmscpznhNSjLccqfL0iWi+fdsRVUfxLz/SlrNPT9XW4g6tHMEn0aGPsjwJ5pw/z7Xa1bAsShMAuhnHNbOYW2auDnWAdHF+YhVIVHaUnt6qCANmepitL9y+tx2tX805Y1DrMyTQBl/Dzv2+dgMyHYgaRMSEfpg08QBrL1EXiQ9w7/M9QBb+eQ8ERs5X7AzStz0DPtb6e1SpQG4qE9RTslTIJzrS7+Yu2qFTQcMpLZVphXi2iy7t7AhBZ0aOJP16Aux/0v73ekM=;HyKZ7vviAYYk0vzQfHfL+w=="
+secured: "JRDJewwtrz9A8N9dxZUZB/vaq7A9GVWpOEhiYCNHe4DXGsiXmTGBp0KMeHNTo0Sga+43srrulGy7LwhmFwz+OhxvNYwi+bBTVJd3cCcvzJEP1bGP68flCgf36dwJ+BAKcTJGU5tZMKZRGnxCZzaiBjNptei0Mg7aEYQXDXf3B6+M18BwEeKLVBjzaVkTfo+STPTWCwmMO46ZO5zjHjf3T3ORKNmky58s5r+GGtgRvjIzVDkZD41DhBFKFkJquUsxiPoaBxJhcibJE0J4lif2qV+2lGUmN5+wsfx236z8uW8XzXo65EbwOy/2N2NvdPklag/XhJml0oi+Vj5lgh+op3DZfOcULyRuluKr+LWF+vQ=;QjtLTjZWh53H+GZ1r7R6Uw=="
 ---
 
