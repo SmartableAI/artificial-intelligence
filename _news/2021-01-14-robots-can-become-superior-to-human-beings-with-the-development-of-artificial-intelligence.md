@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Artificial Intelligence Ai In Workspace Market Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2023"
-    excerpt: "The Telecommunication and IT vertical has the highest market share among the other verticals in this market. This is followed by BFSI, Retail and Manufacturing Kenneth Research has recently added a market research study on Artificial Intelligence (AI) in Workspace Market 2023 which provides a complete comprehensive analysis including the data by Segmentations,"
-    publishedDateTime: 2021-01-11T22:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-workspace-market-share-growing-rapidly-with-recent-trends-development-revenue-demand-and-forecast-to-2023-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top Five Artificial Intelligence Predictions For 2021"
     excerpt: "Here are five predictions on what we should expect to see in AI in 2021: Something’s going to give around AI governance. Though regulation hasn’t reached a boiling point yet, AI governance will continue to be a hot topic in 2021."
     publishedDateTime: 2021-01-15T09:51:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,22 +30,75 @@ images:
     isCached: true
 
 related:
-  - title: "Telehealth startup NeuroFlow raises $20 million to expand its network of care providers"
-    excerpt: "NeuroFlow, a telehealth startup developing a platform to support clinicians, has raised $20 million in venture capital."
-    publishedDateTime: 2021-01-13T14:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/13/telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers/"
-    ampWebUrl: "https://venturebeat.com/2021/01/13/telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers/amp/"
+  - title: "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up"
+    excerpt: "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\""
+    publishedDateTime: 2021-01-14T03:42:00Z
+    webUrl: "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
+      name: CNBC
+      domain: cnbc.com
+    quality: 193
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://image.cnbcfm.com/api/v1/image/106688926-1599111743041-WeRide_in_Guangzhou.jpeg?v=1599111846"
+        width: 4000
+        height: 2250
         isCached: true
+  - title: "IBM Leads in Quantum Computing, Ford in Driverless Car Patents"
+    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of U.S. patents issued over the past five years."
+    publishedDateTime: 2021-01-12T11:38:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 91
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwEsndloHN6I/v0/-1x-1.png"
+        width: 750
+        height: 820
+        isCached: true
+  - title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
+    excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
+    publishedDateTime: 2021-01-14T08:50:00Z
+    webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 48
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547727620&r=LYNXMPEH0D073&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "IBM leads in quantum computing, Ford in driverless car patents"
+    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
+    publishedDateTime: 2021-01-13T01:40:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005733.jpg"
+        width: 1240
+        height: 823
+        isCached: true
+  - title: "Chinese self-driving tech startup bags a total of $310m in series B round"
+    excerpt: "WeRide will continue to develop its smart mobility technology, commercialize its mini robobus product, as well as expand its services to more cities this year."
+    publishedDateTime: 2021-01-15T08:37:00Z
+    webUrl: "https://www.techinasia.com/chinese-autonomous-vehicle-developer-bags-total-310m-series?ref=recommender-669313"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 33
 
 secured: "9X6HOtMn1Kc/QXo50AZ1gFM89AX7WqhFjSptTKK3Os1UAmgd8VCN0MP6Zx7EIKTBZLHt6OXm6m7x74DHxcgoNpbw83Yo31JLS37hNnXtf3uzIC/ztoHBxrbbFS6xB/nW/iADH3V8v3Nv9wP3rdcwp23DUkQkGhXHgFztVkfIBT5NWVXlTD2GJMyHsGEByycilZq++pQCV83GpsJtIgrAfsOWoF/oW8uyZJEtjIvRWFEGnDxN5MNH/vOupAe5gGGN4CtvM8mgN2SNjEyTTxSJtqvkufv4+5Nhzfw8J214uiSoVeQ7QqfH1plYLE6x/sw1JsFFQ0v2y0atg7M1ZqM5Q/dq4g8vHXMuBjOv3itu03A8WlO+vt0k7o80b0DFHnJ+eB0plvf42GOTQOmM/jQYmchpHXitZdSHUsF9goRsuToBCEOMau+qxz0ftMClzqIXSddfqzg2rvLU7oNsVtLU8JCSJyVZNjiChDRi0lySzkbch+LkwPtS0F8JlUItNx7CjjR4Rsl0fg+Ff7lrpHy8Tg==;3Tdh5tKZX7uNw1Jw3s0SOA=="
 ---

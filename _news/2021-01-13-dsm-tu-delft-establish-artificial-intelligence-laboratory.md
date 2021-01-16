@@ -23,17 +23,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "DSM and TU Delft Establish Artificial Intelligence Laboratory to Drive Bioscience Innovation"
-    excerpt: "Geleen, Netherlands, 2021/01/11 - Royal DSM and TU Delft today announce the establishment of the Artificial Intelligence Lab for Biosciences (the AI4B.io Lab) - TUDelft.nl / DSM.com. Euronext: DSM KON"
-    publishedDateTime: 2021-01-11T21:37:00Z
-    webUrl: "https://www.newswiretoday.com/news/174516/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 6
-
 secured: "q3tWQ26vp69gFWMwTQkVGpl27NC+3LuFG4DulbRgKi9nkwZyvXp6uUafSVnDKQowDo7JpDcdyE2rJsJfdrdU8frguqVWrhVspKkF8C7hjd+/LQ4HLxQECQUIUfQU5CakC94lXrUudrv8SiPUt8t41/WK2hI8eHlpdSUzleoCmkjVTvgHbWEFwTAHaFLrxl6A1JovrGHPbHCd9KcgfguXRIQbND+QK6XWINMXA7Rx9DTUx4YuIp7bFJEY8+phA5G0EUeTlsgSSAUE7wXVBmJI4fZqwnY/ZsfZHYvPL931n223mCCoy7T6QWWrOlVErbbrEFpYgd23fzb9QlXqAC3c0TuKlaybtyTZjdXPBxc7wD0=;wrtyna9he9woT3E8Xihg0Q=="
 ---
 

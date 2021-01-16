@@ -5,10 +5,12 @@ excerpt: "Tony Han, CEO of WeRide said the funding will give the company the str
 publishedDateTime: 2021-01-14T03:42:00Z
 originalUrl: "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
 webUrl: "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+ampWebUrl: "https://www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 193
+heat: 243
+published: true
 
 provider:
   name: CNBC
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/106688926-1599111743041-WeRide_in_Guangzhou.jpeg?v=1599111846"
+    width: 4000
+    height: 2250
+    isCached: true
 
 related:
   - title: "IBM Leads in Quantum Computing, Ford in Driverless Car Patents"
@@ -39,19 +47,35 @@ related:
         width: 750
         height: 820
         isCached: true
-  - title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
-    excerpt: "automation and building trust in AI, and continually infusing new capabilities from IBM Research into our IBM Watson products. In 2020, this included the IBM Watson team announcing the first ..."
-    publishedDateTime: 2021-01-12T11:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790"
+  - title: "Autonomous vehicle startup WeRide raises $320 million"
+    excerpt: "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital."
+    publishedDateTime: 2021-01-14T01:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/"
+    ampWebUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/1_owq-V2IrljRj2C9YoZNnkA-e1610586000900.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
+    excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
+    publishedDateTime: 2021-01-14T08:50:00Z
+    webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 48
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547727620&r=LYNXMPEH0D073&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "IBM leads in quantum computing, Ford in driverless car patents"
     excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
@@ -67,7 +91,16 @@ related:
         width: 1240
         height: 823
         isCached: true
+  - title: "Chinese self-driving tech startup bags a total of $310m in series B round"
+    excerpt: "WeRide will continue to develop its smart mobility technology, commercialize its mini robobus product, as well as expand its services to more cities this year."
+    publishedDateTime: 2021-01-15T08:37:00Z
+    webUrl: "https://www.techinasia.com/chinese-autonomous-vehicle-developer-bags-total-310m-series?ref=recommender-669313"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 33
 
-secured: "NZ6bSARoa8nGFeEbYqzF9uecSUu+QxEK35q5QFv0TpQwlUspwr6nAjFDw6DMdgvNcaSnyN6NuepvuT11SAnMyS3J3IhSI1SlDoTNZHf/LiDt1/1+VfCDnS5epdwKd9M4omn0fu8aqZpKOmp0EWMRcXfkf6O2s8xio4QcdCuQV+NnrhMytvuApCBqnmXDIdUpcTzheMOe30bd77g46///5XDYwck1v9f/GoXDZfz2pB48uraLvRopBZTyigLQPNV6oGgPBoTbC5b283tOOo+oWMghxAvQLMvRodeC8tkxW9w8pjivZ7gw7elYZGENfifBVmmvaQKpPjL8l4Hp3dRvANUU++AoYoy7u8+2X7AqCes=;NNwgm8tgUvJEAlC4PFv1Hw=="
+secured: "GHxsU2Z3VKX7542h3EUZ0tI4H50KY/BAtJaI9X4qv12X2ALPFCSvGSOD37TlF30cio6iCrwKb3n55unL1PmJAmR10p+8Qek1xMpBU0NNoJOvjKO6svAHOZF3Za52knX1a58aZxq54QTJ6WaSIgwlOWgeJjeWOOH7nQl8cxQzwghyOce25gQkRtjls9SO1oJmbNnqSSFf4eNWTXf999KAEj32NzE7gPjmM/MQOFgA2FxFeJ8ZFIrmk749WYOJTdLXBcyAopL68qZ+2H36dHBuKi2L7tVNrIXTApVBBDRXyZHtL7LYJ/dtUe7k6qo+1XuQy7m6lYQpaYtekuNAD3UeqBmuCGHhlozQjctUTOEG6C/DoK3H3ew9eCAPhwdwf68Z;zkCcDKf/xtRufod2taiiBg=="
 ---
 

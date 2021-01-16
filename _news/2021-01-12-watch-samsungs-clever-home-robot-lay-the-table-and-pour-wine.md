@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -111,15 +111,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
-    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
-    publishedDateTime: 2021-01-11T21:39:00Z
-    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 15
 
 secured: "XqMrxdv04DTGMPz0F7WHyjziQ0hWwsWEvSKaS8uetSeGdtUtFciDclS4cNFInm0pPTTXWAEMGCmVjeCgZa0dQHR8Zt3S5RTPoeGcxqF/4Koy4EzhQHaMghweMMylLIyScj2I8UMtq/lI0s3YfbCgND84d0N7dmcXelUxSQRxAYMAd9FSwKbkTOgBy6yPj/GBt98Kr7Dr+64c4uaN//uyTbh2pnEXC49rQaFp3QCvf1LIqXZ6s2KFir+HR/6TPw9MVVPLp4SVW9W9p8Igff5QMJW5N72TLid9qlr7jZb7HkS+qeqM5pS3PUzvkZ9vZ6RJ+S03Y3l2hBmi7aI7i6+6xj6OgsliEgVCy5i4wHSCWNa2udVzWZrgWpR0el/01D9BFGbpwxclABBWdgnQYgz7FwzH5M9U/KfoVK/RYtnRcpJo+SlYLd6Jx7DjoC8giBsF14LOzFo+2vxnlgImUNEMIFB7QRg3R8ioO88VS6cDK0/vnm1q/5I1p7lBnzzNJtQ0z5WvHAmcXNgTTe1+8OZUTA==;wR1APZOoD7sOxwuPQqbyfg=="
 ---

@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving truck company Kodiak Robotics hauls in honor at CES after reaching Texas milestone"
-    excerpt: "The company completed two 800-mile roundtrip commercial shipments in December between Dallas and Houston relying only on Kodiak’s autonomous driving system."
-    publishedDateTime: 2021-01-11T22:48:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/"
-    ampWebUrl: "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/?outputType=amp"
+  - title: "Video: DeepRoute details its neural network engine for self-driving cars"
+    excerpt: "Chinese autonomous driving startup DeepRoute.ai has introduced its second-generation inference engine technology designed to accelerate the path to Level 4 self-driving cars. The DeepRoute-Engine, which debuted at CES 2021,"
+    publishedDateTime: 2021-01-12T14:09:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16188/video-deeproute-details-its-neural-network-engine-for-self-driving-cars"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 64
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Pu_zi9B6UUK8EDHBMq5USWEQgSk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/B2EZVYMUTBHWBITYJZWEAB7WR4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 35
 
 secured: "qqGJ/6Pp18USc/4H+XXTeT38bkIk31l9AhaKLpA3vOuxjOEP3Zdp8kJG0j5U96Q+5OsP5Oz3ptZifY+64fFsOnzcB9j2ltG9bJG04+Q6L5hoRYchHD1NapAu1vmhNO6Ehj/VF4dxRaOS0flVGkm1JxWxYXIHvTZmp3e7Qi07GvCdq6KBuiB1+CQEGGF8g4d08LJLICnbf/COW7s7Zhx7iHGYd945B/Uxm9Owl1oI5vJJz09T0GdxSIFUQm7purBFF76ODKVM+53L4eaG/5hNycOOTZMDSjiiBdqOgnkfUs94g3VIX19KS8zE9vKHPBhVtcB4p5d44upW3/4a6eWpJrc2NLIH3iVnu+pJhAwEzoE=;3ReU99BFLnKH7xHbBO2Dag=="
 ---

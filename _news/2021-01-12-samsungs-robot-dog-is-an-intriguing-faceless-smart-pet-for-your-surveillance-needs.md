@@ -108,15 +108,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
-    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
-    publishedDateTime: 2021-01-11T21:39:00Z
-    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 15
 
 secured: "X3XDkr1vAsYG9037VFW1Ynr5Ufj4IlhZKMXObmLfHkO2YkOGlBIz6qbqFK96AVCA0DoOVKA40LVHcZ4sxJZr20WaEj9Dra8FBiN0VuoqS3lJKImRaVxYSMgVAxjDF68rcyevOxf0L3V0h3vdQYXakVJrbAxvyQmzM4E6wRWrGx8MMoadg2xVJ6MpGYORzcUJFaiQ+aaQ3LLM+ilVHx2k4NQ/PLCCqL+jhZt8C9XvDleJRBkSANEVQyJuM1oBm/kmxcehGqNp9Yt0d8qSMI1ZcrEByQAyCNpwECwcNfqYj4/oxrPJv+UGPh+4SWPcycOz3Gg71vFVqLzza6fD4hlxLWXSI9ygptDyS5jke0208pEFh5H7sTaZJluDLZmvPMlKksh8IrUVI0+tCt4ec+x6DCCR5gcogycg8cNp0itghMBM67Pn+z8x/9xTz+It6uyjVooP+Dw6RORJ7D+p4XD3rjtKQmUFZbvX4JimkTWul2ybxD/ck0mYOroBQ0TXrGDGObtFi3C3j7WDWawjI6EaxA==;t8WN26wCAKVE7SSAZ3460Q=="
 ---

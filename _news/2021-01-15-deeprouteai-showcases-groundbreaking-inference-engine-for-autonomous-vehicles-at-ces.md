@@ -1,28 +1,22 @@
 ---
 category: news
 title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
-excerpt: "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,"
-publishedDateTime: 2021-01-15T01:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
+excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
+publishedDateTime: 2021-01-15T06:13:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
+webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Google AI
+  - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "GenkiTek Showcases AI Camera Solutions at CES 2021"
@@ -138,6 +132,6 @@ related:
         height: 450
         isCached: true
 
-secured: "B/+KzAwO33T0aJ2vMWr80Cc4jKDNXap3K21U1y9GMPIXPZYCxEdUe4xhbOt6oTIUqfduPnp5SAIER6Z3MBxJwDzQeHrDBj4dK81gh8MfSpWXVLIww/qPmMluDhHcbieihdW9MVeD1pIKCBpLjKUSdTYQITO2Xl67SataSNqqxdQEfIV4Hgadd4Yv3hUkP0QgDLRB2TXxb0v5tChwsIjzBPdwZE+wCI+KcGJL8S34wdCbYhtkV4+wD+SNHxJQ31HHgb2HhJ4dvMvw03gwc/fNUBZEWlDpmMn+qP60SGxrwlwM0uAeL67dDh4WehwniFplMTLK849ljQL+qgpb/k9AuivlytcFvni7Plk0rk1qQM0=;vDAvDn/g36K9OpUCPYNwJg=="
+secured: "ufcVH2rqbFRCJ+gY+QXAmWsJEy33Hkq0AHXZ1Y+04oQwHV2VtyoUTCWdnN6OGXVz639SdqC/hxXw3a0s23cea0aUbUKl6KvgEbnL6qXJpajwTuEZqkytCzpw5/2dQi9c+3xrRIg8cqDxfmU3fazAnR1UhW/diaM5o4SI7ASvmz3GgPrX/NKHBVChCEInU1pDvJYSPeVwtyg7CWhXw2diJsUYxB4SISGDYmE70/virhJX62ez88cQ9BAd1Hrdets4NGgJizPy+fHpkVzTBUFm+7dmHCXsGsp6siw6jQsXGQ/0LZG9U7At89KgbZ5APuEsNtd5tUAepMUxZ0fMSXqMoNd8HJQ/jVd3LAJrdrwAKx/VMIdOuvICstqlMKiJrZUw31oLKNahNsDPLgW6ydKCZ9epzmgMabf+TdgL59dgn/yONWEpAAY1A/kVTl20jT51PZ8drLYWi3avpAHkOyof4S5vi2D10kOd1OFDseVbAhJCftBFQGu5sWItvN2j+CAZhIBPzPaKNWdVN8moSewZyA==;bgErCkqdagxLKIyPDDV0ng=="
 ---
 

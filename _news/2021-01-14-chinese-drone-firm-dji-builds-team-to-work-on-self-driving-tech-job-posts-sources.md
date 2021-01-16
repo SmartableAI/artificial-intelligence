@@ -29,73 +29,77 @@ images:
     isCached: true
 
 related:
-  - title: "DJI is building a new team that will work on self driving technology"
-    excerpt: "The popular drone making brand, DJI, is apparently building a new team that will be working on developing self driving or autonomous technologies. The company has put up various job listings and has already begun hiring as well."
-    publishedDateTime: 2021-01-14T10:07:00Z
-    webUrl: "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/"
+  - title: "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up"
+    excerpt: "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\""
+    publishedDateTime: 2021-01-14T03:42:00Z
+    webUrl: "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
+      name: CNBC
+      domain: cnbc.com
+    quality: 193
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/maxresdefault.jpg"
-        width: 1280
-        height: 720
+      - url: "https://image.cnbcfm.com/api/v1/image/106688926-1599111743041-WeRide_in_Guangzhou.jpeg?v=1599111846"
+        width: 4000
+        height: 2250
         isCached: true
-  - title: "Japan developing unmanned jet fighter aircraft with machine learning to close its technology gap with China"
-    excerpt: "Japanese companies are researching technologies, with Subaru developing unmanned flight control, while Mitsubishi working on information-sharing."
-    publishedDateTime: 2021-01-15T07:33:00Z
-    webUrl: "https://www.militaryaerospace.com/unmanned/article/14195601/unmanned-jet-fighter-machinelearning"
+  - title: "IBM Leads in Quantum Computing, Ford in Driverless Car Patents"
+    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of U.S. patents issued over the past five years."
+    publishedDateTime: 2021-01-12T11:38:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 36
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 91
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/Japan_fighter_drone_15_Jan_2021.600051e707f37.png?auto=format&fit=max&w=1200"
-        width: 1000
-        height: 563
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwEsndloHN6I/v0/-1x-1.png"
+        width: 750
+        height: 820
         isCached: true
-  - title: "China to let self-driving cars be tested on highways"
-    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
-    publishedDateTime: 2021-01-12T08:10:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
+  - title: "Autonomous vehicle startup WeRide raises $320 million"
+    excerpt: "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital."
+    publishedDateTime: 2021-01-14T01:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/"
+    ampWebUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/1_owq-V2IrljRj2C9YoZNnkA-e1610586000900.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "IBM leads in quantum computing, Ford in driverless car patents"
+    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
+    publishedDateTime: 2021-01-13T01:40:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
     type: article
     provider:
       name: The Star
       domain: thestar.com.my
-    quality: 24
+    quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
-        width: 1198
-        height: 797
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005733.jpg"
+        width: 1240
+        height: 823
         isCached: true
-  - title: "Lidar technology: not just for self-driving cars at CES 2021"
-    excerpt: "News Highlights: Lidar technology: not just for self-driving cars at CES 2021 The technology has been around since the 1970s. However, it was considered"
-    publishedDateTime: 2021-01-16T11:48:00Z
-    webUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
+  - title: "Chinese self-driving tech startup bags a total of $310m in series B round"
+    excerpt: "WeRide will continue to develop its smart mobility technology, commercialize its mini robobus product, as well as expand its services to more cities this year."
+    publishedDateTime: 2021-01-15T08:37:00Z
+    webUrl: "https://www.techinasia.com/chinese-autonomous-vehicle-developer-bags-total-310m-series?ref=recommender-669313"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 24
-  - title: "Re-imagining manufacturing: Putting digital technology at the center of a post-pandemic new normal"
-    excerpt: "By Saj Kumar, Regional Business, Leader, Manufacturing, Asia If we’ve learned anything about doing business during the pandemic, it’s about the importance of embracing change. A willingness to adopt new digital technologies could determine whether an enterprise survives and thrives or struggles and fails in the months and years ahead."
-    publishedDateTime: 2021-01-12T04:03:00Z
-    webUrl: "https://news.microsoft.com/apac/2021/01/12/re-imagining-manufacturing-putting-digital-technology-at-the-center-of-a-post-pandemic-new-normal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/manufacturing1-1600x1067.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 33
 
 secured: "pTe82CTX9DVRbg8m6Ol1UQNZzSmDtaBf7kALR1JV5/wn87EvIWQ6gSQ/ItPi5+fyoM6fPiIIDqfH/yZIRR6rOMS3rCKIy5+/9ab4xUfMPSckDdNsj6FelavgIL3dPQT+2XDhA7ICjj8LjqUxBmiN1juhYwZkrkrzs01aRdqdWb8u1agFj6F2yyB/n6hVi1nVSn5PH+GiC9a/PxdzDVfdEXqCJ+mutpBjoaSZZRgnx5zGum3oxvqigG+LMVqMhL6bnBzB4fdd5DrwFypaDYWZiyBbP9d7HWWyIU93+TEFMjWtSTynYLpSJZ5A9tseuVM+GBgknBQDY3mIWswl6Htq/de6rtior/SxR54BMDhhfM0rAkwhcpAQq5E8AmmOl4eQWcKOzQnkKRR9B7gbtKIJbOropl/1+WtNRm7sEWTV24HPqZzw8gbJOuv/XE8k3tQYhCkXx/c47u+imJMk53x9LCvhkOJv3L+BAOf7glhMMM84lwwdcXE9/F6Qbq285lmupvKxNJs75jeuk1Ou4FaSrQ==;gpfk5HIZDQN/nLQ9DraJhQ=="
 ---

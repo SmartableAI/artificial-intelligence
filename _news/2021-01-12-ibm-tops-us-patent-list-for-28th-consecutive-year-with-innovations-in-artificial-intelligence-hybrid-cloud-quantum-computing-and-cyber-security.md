@@ -30,46 +30,46 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Leads in Quantum Computing, Ford in Driverless Car Patents"
-    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of U.S. patents issued over the past five years."
-    publishedDateTime: 2021-01-12T11:38:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+  - title: "AI set to replace humans in cybersecurity by 2030, says Trend Micro"
+    excerpt: "Trend Micro predicts that cybercriminals will look to home networks as a critical launch pad to compromising corporate IT and IoT networks."
+    publishedDateTime: 2021-01-15T11:27:00Z
+    webUrl: "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "Name a better duo: Artificial intelligence and cybersecurity"
+    excerpt: "Artificial Intelligence (AI) has become increasingly popular over the last few years and has dramatically benefited industries, including healthcare, education, marketing, e-commerce, and cybersecurity."
+    publishedDateTime: 2021-01-15T08:30:00Z
+    webUrl: "https://www.cuinsight.com/name-a-better-duo-artificial-intelligence-and-cybersecurity.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 41
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwEsndloHN6I/v0/-1x-1.png"
-        width: 750
-        height: 820
+      - url: "https://www.cuinsight.com/wp-content/uploads/2020/07/bigstock-D-Rendering-Of-Human-Brain-O-150112583-e1596111178657.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up"
-    excerpt: "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\""
-    publishedDateTime: 2021-01-14T03:42:00Z
-    webUrl: "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+  - title: "Fast, fused and deep: CES sheds new light on 5G, AI, cybersecurity and digital currencies"
+    excerpt: "At the start of a new year, the Consumer Electronics Show offers an opportunity to gaze at technology’s distant horizon and take measure of what may be coming over the ridge. Foremost among these was a general recognition that the pandemic has dramatically accelerated digital transformation across the globe more rapidly than anyone could have envisioned at CES in Las Vegas one year ago."
+    publishedDateTime: 2021-01-14T23:54:00Z
+    webUrl: "https://siliconangle.com/2021/01/14/fast-fused-deep-ces-sheds-new-light-5g-ai-cybersecurity-digital-currencies/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
-  - title: "IBM leads in quantum computing, Ford in driverless car patents"
-    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
-    publishedDateTime: 2021-01-13T01:40:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005733.jpg"
-        width: 1240
-        height: 823
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Vestberg-CES-2021.jpg"
+        width: 839
+        height: 443
         isCached: true
 
-secured: "P7uu5O/yRTj814tI9lFvyNAx6rTJ+WKNPqXiPGkxJq5WzkWqQETOPtRD6X1/8idUtu7g4jdO50TVBeFSlhizWjzqf3kAsjRjZ9qtwZEurMllTeXWJbRVVIVvnyAYPHQCv9swWIqfEaAb6MpClQruUqbb7xjQkTZ/KFw6HkAhWchmZw8g2bHSXEoPa0o7ySdUTriH3pQnAlXlArbghG7BHSPWujESatw8eS90rea8D8MehBZWMjaAYDU5nXDKGoItuZexnMYz3JdGFS25r1c2hdkPDE2MrAmBSPxWnNSHApbO7T9Ne1Wrpk8at40z68w+BxSKfRXq9YBf6jsZh53IiIa/DYO3iw0UQADsD7ZTQvw=;vQNHbhdQi76iIPvqyxdXuQ=="
+secured: "tnO8OCJ+E51nSvILtndc/4sppqdpNK7ZJj5MBaHY8GEqPxkMe4Ox/c1/6qj1ZH2e326XjcQEea3vSjaXCL1bg7dcJylGoapqomQm1nNOIKfr774tas0TRBkg2wcVvPMQlqh+fqC+kK9t/qT3mfkGZblFnq7cB60mOAfP0up1TwvDixCcRCmvVFtc19TOE78YuLi8+Ub/ZV8zNOdjVCa4aY6Mg5R9eMPbtdVMxMg6B1hHSeNKf4baJ++bqJFk4PoTI/JcvXM5b8CcsU34qt8WkBL1ZSqUi1OChqfQKiaP5ECa7p9amcE0DDH7Rkdxur6Upn/P0pN7w5ajnViwEFi4+6y73KSYv9XMSOJDvsbOmxM=;7sB8/ciT6b94NCyQpToYMA=="
 ---
 

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ever app settles FTC allegations it trained facial recognition tech with users' photos"
-    excerpt: "The developer of Ever, a photo storage and backup app that shut down in August, settled US Federal Trade Commission allegations that it \"deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts,"
-    publishedDateTime: 2021-01-11T22:46:00Z
-    webUrl: "https://www.cnet.com/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ever-app-settles-ftc-allegations-it-trained-facial-recognition-tech-with-users-photos/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 96
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/r4gbG59o75cofJR_X7DHqvmqZ1E=/1200x630/2021/01/11/ce25c79c-01df-4fb0-9119-68fdc6904237/gettyimages-1199149697.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Photo storage app maker settles FTC claims over use of facial recognition"
     excerpt: "The U.S. Federal Trade Commission said Monday the agency has reached a settlement with a company over its alleged use of facial recognition technology on photos and videos that consumers uploaded to its now-defunct app."
     publishedDateTime: 2021-01-12T04:05:00Z
@@ -55,22 +39,6 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "LAPD Commission OKs Detectives to Use Facial Recognition"
-    excerpt: "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people."
-    publishedDateTime: 2021-01-14T21:50:00Z
-    webUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
         height: 630
         isCached: true
   - title: "Everalbum settles with FTC about facial recognition Technology in its ever app | Robinson + Cole Data Privacy + Security Insider"

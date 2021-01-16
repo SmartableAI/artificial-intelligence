@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,"
-publishedDateTime: 2021-01-11T12:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
-webUrl: "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic"
+excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic rel"
+publishedDateTime: 2021-01-11T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities"
+webUrl: "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "JL05KR9CqZyB5rrArO5IDJjdkvqTVhL0KPDY2l22W0EIdcuK0iSZvSrAtd9aRMwVhjn/3z8yeFtBAp4g05DI61pVyS/Z6JrXV4jHh75RkmOyURgBO4oMDlhPTe6qazNPdQ3rZyPlBP/M+X9x0gh3Q7uQareO0ZU+1Fg4tU+YCL+FjkpC+THLjErh5ML71zVD1oMHNWvUmAnGgAx6vKGYSJSZUBDHjAEa923yxOx4LY/mcXLORlw8X+P9REEPPO7atMRLixRXB64wrRj3WhJicoAd/tmMhW8clTnYaLmti190w412rDMojfYCcfArD3Gds/0aCKVyPhz6m9Yt/NXQiGpMykjqQvAB69PggMPckNU=;W/YLE6P8H+2gPLx2CYX+Kw=="
+secured: "qXA1ytx3TCNxGyq0NSK893kA/JQXowB/GIobGp+WNaKQOAALrFJo/l37Gov24Gui09r/RP25YiMrFTKY9GWlRKdywBIoWXPXzs8bSmSXwUL+4feWY3x9alnjJ5foze+d8KHYGGhULtEDzvHQ7LAXdhUi61vf+O+9rCGnCm0DAB8DvLFZlvoPhGNMreRdjDu34FPCNpHyjIchsKxBIstDa3aqGUXrFnnOI2uNCNmROwHFFgx+Yn8wAbvPttFWNPnNYPAYiiwBVCgh54DjEpzlXpxrJoWN5ce5MuMnG668775rKtzvzw6BmTWFK2GbzDSE+CPOUF/6foDAHMy9/8CkTQa1JjOqtUmV6BXhYo8wINWhuvqzm9Uxdoq/N811zw0PPqVYno5s+1cbvfBdYdmAcQW6OVLM4gFX0GFEtjoCBR1jiRb8WyhhjN71OG0JRApaJ9WqxOoUrpAPBH0c4L0RbTCkgx9oF+nJ+KD2Kz1sT9YuwGAwJ6wG8UgYR6+enwlim2ADCsX84GiNJJvhqhE3bA==;EQBADVETbN26UiZnZvMCSg=="
 ---
 

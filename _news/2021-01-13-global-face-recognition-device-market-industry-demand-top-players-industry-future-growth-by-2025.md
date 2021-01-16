@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-industry-demand-top-players-industry-future-growth-by-2025-2021-01-13"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Manufacturing Market Share 2021 Analysis, Revenue, Price, Market Size, Trends, Top Manufacturers, Growth Rate, Forecast by 2025"
-    excerpt: "Top Key Manufacturers in Machine Learning in Manufacturing Market Report: This report elaborates the market size, characteristics, and market growth factor of the Machine Learning in Manufacturing industry,"
-    publishedDateTime: 2021-01-11T22:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-share-2021-analysis-revenue-price-market-size-trends-top-manufacturers-growth-rate-forecast-by-2025-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

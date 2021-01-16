@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
-    excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
-    publishedDateTime: 2021-01-14T08:50:00Z
-    webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 48
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547727620&r=LYNXMPEH0D073&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Japan developing unmanned jet fighter aircraft with machine learning to close its technology gap with China"
     excerpt: "Japanese companies are researching technologies, with Subaru developing unmanned flight control, while Mitsubishi working on information-sharing."
     publishedDateTime: 2021-01-15T07:33:00Z

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "ROG unveils Flow X13 convertible gaming laptop, XG Mobile external GPU"
-excerpt: "The top-of-the-line GPU is based on the new NVIDIA Ampere architecture, which combines CUDA cores for programmable shading with second generation RT cores for advanced ray tracing and third generation Tensor cores that offer greater throughput for AI ..."
-publishedDateTime: 2021-01-13T14:23:00Z
-originalUrl: "https://pressoffice.mg.co.za/content/rW1xLv594rQvRk6m"
-webUrl: "https://pressoffice.mg.co.za/content/rW1xLv594rQvRk6m"
+excerpt: "The 13-inch ultraportable shape-shifts with 360° hinge and unlocks desktop-class gaming with powerful external GPU."
+publishedDateTime: 2021-01-13T13:30:00Z
+originalUrl: "https://www.itweb.co.za/content/6GxRKMYJ24Rqb3Wj"
+webUrl: "https://www.itweb.co.za/content/6GxRKMYJ24Rqb3Wj"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: mg.co.za
-  domain: mg.co.za
+  name: ITWeb
+  domain: itweb.co.za
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://lh3.googleusercontent.com/kuidCaJ8eisFh5ggBA26PnjbbdaKNkveLdPsYr0TqepTCvNbCVwMDqb75DqMSHruN-oYhOV17HMhOCtyqVMOPPw7xoBKn_S6Sg0=w816-h428"
+    width: 761
+    height: 428
+    isCached: true
 
 related:
   - title: "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU"
@@ -36,6 +42,6 @@ related:
         height: 801
         isCached: true
 
-secured: "Ffql+sw0n479x3rO3ruLUDwmswwRHBHK1TunbiCYCw5p4tDDk2+e9dj2X/SSVERX4wtIUjcg3IYLKZmtX3T2btvSa1To71XOmMaUUXtvLaSiZ5Q4Ovb0CDURhF+TtlwvJjzt5bn9JJGMu6pa+H8VX5UhwxFFQ0Oms1thRW5jQ9XDeBpJ+t1C+/jq7YZfK4JL5OCbDi333hzqwpXfJrSI3gK+KkRKgNzWZO2Z9H0V6tWXSmV72N0t4ZKDThlmFCTDldJNgfwemYcY9TrAQOso3B8Z2wLk32FfqgEK0fHY9HPUcLJ1YbRhW4SZrcCVBaD7yKXBI2qVoeR4xWZmIZbtRIUHtyW9ef0XqpmejLMmS4A=;SAcxTQlzQ3eXIdMVHBC48g=="
+secured: "Ig3JDD+z2nmcczcAETq3tVfguPOZ+fXLdnRb+MgZrA2LG1v9HStI2HjiadxnlZra+GDZcnQd0IdT9JouEBCPkWvsejozkL+PTAyuVHHhHU7nix70j//HqGtTlZxQe0zkTGvStaEKYoSvc5t6/l1BhMZciG5owHE2RdK37KT8ffuZD2bPzhLtDGf73X+NiErtbDYZOIVuovKfvzH1Q2nVkZnSTbRb3+ZjEx7D1NuOk+jKOaYYcljsdWM/lGCJsP7wJg/OQs3rGqw6DMzweEf0Of/Avg07RZxs2c3W3kE/pFS+G4CJQOLk6fW8pOpagTgMCt4tGzrtwGe+I5GOkS4Ffdxb0BXY5kH9n1AYvRSOjao=;Dmv/hukxL2IZJXQYR6omzQ=="
 ---
 

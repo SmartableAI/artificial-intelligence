@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Manufacturing Market Share 2021 Analysis, Revenue, Price, Market Size, Trends, Top Manufacturers, Growth Rate, Forecast by 2025"
-    excerpt: "Top Key Manufacturers in Machine Learning in Manufacturing Market Report: This report elaborates the market size, characteristics, and market growth factor of the Machine Learning in Manufacturing industry,"
-    publishedDateTime: 2021-01-11T22:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-share-2021-analysis-revenue-price-market-size-trends-top-manufacturers-growth-rate-forecast-by-2025-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "INWvF+qdXp3of2yN7u6c55Cjf09jX2lqSH64uX8Qtu4xAIIg+nbAEawCggyuGqgGNMJeCCFg9T4A+O0gzdeIlTarUvdNl6sLY4Q4CBRy/HcNt3f0wXZo+kqKtWkHXTfz6ugLaaPdu2Pcawpjzi/bFipizBSk6cvCyx5fw5X3J/0lWPv2GgtT7giFdQNDxR/U0nQTNyxX9Y5WHPdTuqTNJExxzXCUJ5kZMSf461VPlmSept3XCDP8qui0SKKmrBhKHz0lkd8N9jpOQwbnaKAs2sXsGKBZHKyQPbHZCRxq28HeJaGwiTlTN8eAEMeXL7IRXI1hidJte1mZqXoxXut3mqaI0on0pLAHybt8/9BxSZ8=;3ZG8haSNMmWIwuYc1hINMQ=="
 ---

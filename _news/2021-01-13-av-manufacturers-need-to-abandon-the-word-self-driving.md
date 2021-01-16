@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Drone Data Services Market 2021 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2025"
-    excerpt: "The evolution of data analytics throughout major industry verticals is one of the significant factors positively"
-    publishedDateTime: 2021-01-11T22:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/drone-data-services-market-2021-global-analysis-share-trend-key-players-opportunities-forecast-to-2025-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BRGJAFO76P9Rjvq6drSeXli48X5UjGIS40Genv0bSkuMVAqyuhWYOLDTsNkUBzZZfe6YdiwFBA1BkHAKpPUYwAIkXkCNY/28o5N9HYDmpBlCGLS35xYKuoRDxiCCYBsTlyAvxAjKdSUiaGaYg/efybHMSDcmmnAPTt26a4PwfEn7wj6OX4P8Pr+K4xV7S3iNyeeCWYtK2X9Ajwmhr5G6E7rtUzTXvChMzhlxDVLkcI2XKFRUD5K23ElXFFL8fyjZQuhZOKyTuMe4UfI65nlS1oYCtlYoP+yG9eURzm20jz9Iqt+A55uxZ9rA2Z/Hu5RO171MHLpZVGgtyLnSDQruCMFNE6Xzp62fj7bnwO7UFeI=;nnjDEybtik7rErRJauMi8w=="
 ---
