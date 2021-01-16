@@ -41,6 +41,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Intel's self-driving tech division Mobileye is picking up speed, set to become a true threat to Tesla"
+    excerpt: "The world of self-driving vehicles is roughly hewn into two factions: companies that believe fully autonomous vehicles will naturally evolve from advanced driver-assistance systems (ADAS), and"
+    publishedDateTime: 2021-01-16T18:19:00Z
+    webUrl: "https://www.techspot.com/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-16-image-12.jpg"
+        width: 1906
+        height: 1271
+        isCached: true
   - title: "Intel wants to bring affordable self-driving cars to everyone by 2025 – here's how"
     excerpt: "Mobileye – the self-driving car company acquired by Intel for $15 billion in 2017 – has outlined its plans to bring autonomous vehicles (AVs) to the masses through new laser sensor technology intended to lower the cost of producing self-driving vehicles."
     publishedDateTime: 2021-01-12T12:45:00Z

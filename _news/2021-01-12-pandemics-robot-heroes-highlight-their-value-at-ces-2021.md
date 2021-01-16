@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pandemic's Robot 'Heroes' Highlight Their Value At Tech Show"
-    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry's annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
-    publishedDateTime: 2021-01-12T02:36:00Z
-    webUrl: "https://www.ibtimes.com/pandemics-robot-heroes-highlight-their-value-tech-show-3119508"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/robots-which-showed-their-value-during-the-pandemic.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Pandemic’s robot ‘heroes’ highlight their value domestically at top tech virtual show"
     excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
     publishedDateTime: 2021-01-13T18:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11920"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11920"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 2000
     height: 1499
     isCached: true
-
-related:
-  - title: "Using light to revolutionize artificial intelligence"
-    excerpt: "An international team of researchers, including Professor Roberto Morandotti of the Institut national de la recherche scientifique (INRS), just introduced a new photonic processor that could revolutionize artificial intelligence,"
-    publishedDateTime: 2021-01-12T01:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210111135851.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "gPMllgKTAfBiRS4spqOdDXK2YUFa5AkoPOAfSVhm+Jaz3RThEbt8st6J8/VQLLsW+xV+T53ooxumBd1RLwXsB3+amndsEH2dokRHYsBqDJCWKAAwZYnjKFh78WkrVtf+fEgP7NWcyonvP5+7RqveRBWY24o0zKNLI5cSBQZ+kUiFPuhm5hydI8VBPqlP4PENCmVvRsem4p9ZPXWR5Lx8cfVcHTDuHvo5LJWzwgC7qC1cG2UtURTY6/H24hPK6ObWpB3x3vBaKH+lHx+BvyVGqzJUZrRHb2ffwUZaoNA//66RlM5gzkdmkUNIV+/CaXKoUvjgApOPcCR5XoVQkdQo05UNFTAu5Zbfa7GlWZOcBNk=;PNx/KE3tKEbyUHxbp6H2dw=="
 ---

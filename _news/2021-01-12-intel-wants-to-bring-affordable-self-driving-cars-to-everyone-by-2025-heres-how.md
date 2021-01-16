@@ -45,6 +45,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Intel's self-driving tech division Mobileye is picking up speed, set to become a true threat to Tesla"
+    excerpt: "The world of self-driving vehicles is roughly hewn into two factions: companies that believe fully autonomous vehicles will naturally evolve from advanced driver-assistance systems (ADAS), and"
+    publishedDateTime: 2021-01-16T18:19:00Z
+    webUrl: "https://www.techspot.com/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-16-image-12.jpg"
+        width: 1906
+        height: 1271
+        isCached: true
   - title: "Mobileye Expands Self-Driving Vehicle Tests To Detroit, Tokyo, Paris, Shanghai"
     excerpt: "Intel subsidiary Mobileye is working on updates for its autonomous vehicle program, planning to launch test fleets in Detroit, Tokyo, Paris and Shanghai."
     publishedDateTime: 2021-01-12T04:06:00Z

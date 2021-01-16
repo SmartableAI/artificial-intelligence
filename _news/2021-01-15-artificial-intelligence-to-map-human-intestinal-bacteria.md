@@ -18,20 +18,77 @@ topics:
   - AI
 
 related:
-  - title: "When AI has an overactive imagination"
-    excerpt: "An overactive imagination can sometimes make us see things that are not really there. Now it seems artificial intelligence can have one too. Google researcher Alex Mordvintsev decided to develop this idea and turn the concept into art."
-    publishedDateTime: 2021-01-15T10:55:00Z
-    webUrl: "https://www.bbc.com/reel/video/p093h7hr/what-happens-when-ai-has-an-overactive-imagination-"
+  - title: "Artificial Intelligence (AI) Helps Map Intestinal Bacteria"
+    excerpt: "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Changes in the intestinal flora, caused by antibacterial and antibiotic drugs, may have an effect on a person's ..."
+    publishedDateTime: 2021-01-16T18:04:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-helps-map-intestinal-bacteria-199408-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-map-intestinal-bacteria-199408-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-map-intestinal-bacteria-199408-1.htm"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
+      name: Medindia
+      domain: medindia.net
+    quality: 74
     images:
-      - url: "https://ychef.files.bbci.co.uk/1376x774/p093xfx4.jpg"
-        width: 1376
-        height: 774
+      - url: "https://images.medindia.net/amp-images/health-images/human-body3.jpg"
+        width: 1200
+        height: 1000
         isCached: true
+  - title: "Feces and algorithms: Artificial Intelligence to map our intestinal bacteria"
+    excerpt: "Both past and present-day scientists have suspected the intestines of playing a role in various diseases. Present-day studies focus on the intestinal flora's role in physical diseases such as diabetes and overweight,"
+    publishedDateTime: 2021-01-14T17:45:00Z
+    webUrl: "https://phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.html"
+    ampWebUrl: "https://phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/gut.jpg"
+        width: 1483
+        height: 1920
+        isCached: true
+  - title: "New method uses artificial intelligence to map intestinal bacteria using feces"
+    excerpt: "The intestines and their bacteria are sometimes called our ’second brain’, but studying these bacteria in their natural environment is difficult. Now researchers from the University of Copenhagen have developed a method that uses artificial intelligence to map intestinal bacteria using feces."
+    publishedDateTime: 2021-01-15T05:37:00Z
+    webUrl: "https://www.news-medical.net/news/20210115/New-method-uses-artificial-intelligence-to-map-intestinal-bacteria-using-feces.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210115/New-method-uses-artificial-intelligence-to-map-intestinal-bacteria-using-feces.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210115/New-method-uses-artificial-intelligence-to-map-intestinal-bacteria-using-feces.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 53
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Faeces and algorithms: Artificial Intelligence to map our intestinal bacteria"
+    excerpt: "The intestines and their bacteria are sometimes called our 'second brain', but studying these bacteria in their natural environment is difficult. Now researchers from the University of Copenhagen have developed a method that uses artificial intelligence to map intestinal bacteria using faeces."
+    publishedDateTime: 2021-01-14T16:39:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uoc--faa011421.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence to map human Intestinal Bacteria"
+    excerpt: "The faculty of health and medical sciences from the University of Copenhagen have developed a ground-breaking technique that can assist to disentangle the secrets of the human intestinal microbes."
+    publishedDateTime: 2021-01-16T06:24:00Z
+    webUrl: "https://www.hindustantimes.com/science/artificial-intelligence-to-map-human-intestinal-bacteria-101610776429440.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 17
 
 secured: "uL6EeFUOLCQJIb0CcpnvSs9IdYxvkQ0r2xcBpB2/WztseC54v23BZw+fZ2yk8AgnK3U0Ev2uHwuBZBLnQjhPxy57jr9Dbkyre/kRZ9/E0E+fRcB3o1XBYSjdpZGPLhc8o8YPzLbi8i4JPsLv7wV7WQcc2PLkwSDYDsIMf3WDe17bVIkZyvSulKgOj0QJv8LGIS5uhb3BYjwL180BTwhXPsgtw+JEem8cruv3L66NRWFhbukCMw1tdmaNuwyKm05gYlgMmod1ARurzzdjdoufvVKqGeIGrdhGRAt7PKhmTjzGQti5NLF1aPuFiHj/XYWV0e1TosQboh2epO5+W2NTALeLqXH6LPJnvXlm4NjoJZk=;gn50dBJIBeGZtfH04WJ/EA=="
 ---

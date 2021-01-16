@@ -25,60 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "The best smart home tech of CES 2021"
-    excerpt: "Our pick for the best smart home tech of CES 2021 is the Samsung Jetbot 90 AI+. More than just your ordinary robot vacuum, it’s smarter when it comes to avoiding pesky clutter that can trip up other bots."
-    publishedDateTime: 2021-01-12T23:39:00Z
-    webUrl: "https://www.digitaltrends.com/home/best-smart-home-tech-ces-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/home/best-smart-home-tech-ces-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-smart-home-tech-ces-2021/?amp"
+  - title: "Startups look beyond lidar for autonomous vehicle perception"
+    excerpt: "Last CES was a time of reckoning for lidar companies, many of which were cratering due to a lack of demand from a (still) non-existent autonomous vehicle industry. The few that excelled did so by specializing,"
+    publishedDateTime: 2021-01-16T17:19:00Z
+    webUrl: "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/"
+    ampWebUrl: "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
-  - title: "The best tech of CES 2021"
-    excerpt: "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,"
-    publishedDateTime: 2021-01-12T21:46:00Z
-    webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112170333-ces-lead-image-super-169.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Techlicious Top Picks of CES 2021 Awards"
-    excerpt: "Our team of tech industry veterans scoured this year's virtual exhibit halls and picked our absolute favorite products for the Techlicious Top Picks of CES 2021 Awards."
-    publishedDateTime: 2021-01-14T15:07:00Z
-    webUrl: "https://www.techlicious.com/blog/techlicious-top-picks-ces-2021-awards/"
-    type: article
-    provider:
-      name: Techlicious
-      domain: techlicious.com
-    quality: 24
-    images:
-      - url: "https://www.techlicious.com/images/misc/ces-2021-award-logo-hero-layout-700px.jpg"
-        width: 700
-        height: 370
-        isCached: true
-  - title: "CES 2021 FaceHeart improves the health of humanity by integrating AI technology into our everyday lives"
-    excerpt: "This year the world was suffering from the pandemic, FaceHeart recognizes the very need for a contactless detection device in order to come up with better solutions to address this problem. Since its founding,"
-    publishedDateTime: 2021-01-12T12:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-medical-technology-lung-disease-coronavirus-pandemic-3123a4e9a73739200a24356cb5e433aa"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/foresight-place.gif"
+        width: 800
+        height: 448
         isCached: true
 
-secured: "aTirzyMdrXsxLtzVxP/nEfNDzbvdwdVwmfNmMpyOFZbdsSHdyefgkfgko9KeKplJmdY2uvRbzBR23bz7JoIcFmTG6peXeOTDNxe95y2HJZQjdpDAiZXE7JWU2I+HYOT5rG54V61JpT3jE2u4fEzemaSJTMnTVqahRT14Xf/DjnQeD+s0gRoeNByjJxhgXPvlAmrMr1yJt/Gj44RClYutRdcpFVgz1wuLH14+rkn3t5GWuGn6KNXKTyoaymIQDLQCGs7GTaV+I1Ov/ndeCcekf3NWK6MuFYU8pcDLVvsvzYjI3CZeDyIKLrS8lCh8ANmq5d7Fb3qFbjzZFzUdv/AZbUSajj+iEfieerN/d6iNZ1c=;NyLdBvPLyY28JXCqcjwCvA=="
+secured: "G1At/OwupQkTW3c3rBtWP0YcQ1JqAqfmUczh7bCnwtBnX4NG5bbOziwXW/HpL9nqa2EyTmhmiNe9WRGIUppGnSvoWcH/+XVfxOnHll3ox1nIsyz69S6pcegd/YHiRQpIdsjMThRRyvDeYZfpDpVSjUJWidcKPn735gftYW1ilt5ZnYCZTARQasag6cGn7yFD4BHjFu6f7fJmPFNRO6VlnkWx86nptwOxH77R/zD3unPskrWZxMttkG95ohxAEkwblCxssb7dQpNiz0I8I/+j0rf1N0TJ4QZZnV3owyUv8DHiZSW3UESSIsmZ+vzuQWSXsc1/Ne/RdrRUB9isMrMHzkTvz3sV4OZrYaNssb3zSIw27lcdLqLsbsMq70Nu2Lok4rHDPYRuEiyybjSf070M7oUtvqbsIzyp5N5xmxKwp4iZYdzVHZAffbgbCeTnm8h3mMS5eH/gp2SdbLjVz4crjBwtemLyBllcd+Py+CeIQxyTo2gcK1I/WnMF7A3LQojiaeyIWDMa54WR0zYzYbodSw==;8YoZuOAUxstWlGH7ZjLhYA=="
 ---
 

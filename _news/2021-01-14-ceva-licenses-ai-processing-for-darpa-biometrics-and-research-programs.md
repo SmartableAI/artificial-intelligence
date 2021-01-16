@@ -39,6 +39,20 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "Face biometrics deployments increase as regulator and public push back"
+    excerpt: "The regulatory heat around facial recognition continues to rise, even as implementations increase, from airports to digital health credentials around the world."
+    publishedDateTime: 2021-01-16T18:35:00Z
+    webUrl: "https://www.biometricupdate.com/202101/face-biometrics-deployments-increase-as-regulator-and-public-push-back"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Face biometrics firm SVI and digital ID platform Auth0 announce board appointments"
     excerpt: "Former SoftBank executive Steve Carlin and retired U.S. Army Lieutenant General Ken Tovo to serve on StereoVision advisory board, tech leaders join Auth0 board."
     publishedDateTime: 2021-01-16T01:16:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/reel/video/p093h7hr/what-happens-when-ai-has-a
 webUrl: "https://www.bbc.com/reel/video/p093h7hr/what-happens-when-ai-has-an-overactive-imagination-"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: BBC
@@ -26,17 +26,6 @@ images:
     width: 1376
     height: 774
     isCached: true
-
-related:
-  - title: "Artificial Intelligence to map human Intestinal Bacteria"
-    excerpt: "The intestines and their bacteria are sometimes called our 'second brain', but studying these bacteria in their natural environment is difficult. Now researchers have developed a method that uses artificial intelligence to map intestinal bacteria using feces."
-    publishedDateTime: 2021-01-15T15:57:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210115/3691678.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "ooqR1bsgqAyKyFsQP8KsAKLPeKwGVRwU1SXmT0dHKhDYYk4zJo6/pURMzEpmj4NgR8Bu0zfHp2wer9h1glCdpV8DeY5KMq4skN0i/WdC+/mxLgTcf2aK5/P3OTsdaRJIx4yt/DMdkvAku6bhTzFNhCy+gIY7siqcQ7tE+Yx2zE+yUAr6gG3cGoaSsaVEKFc+J/fHGMUgfeIAp6zvE6LtSS25rWIqjWpnrNa/J3Dw96BWfbCV8FNrS2p6PmdY1mfcHsTmjG9MSkNtGd0qvSKKOpclu/nR27kRgA6Z/R4MmaHsYOgkozRybyAWxxg8mFokUxoLTqEbJvvwEW8PH/3ch4Jzk4f7Rq1LElcnxCCQY+1V0OgoGKM+PsOWVRQizRlioZnRHrikzBcayAxtTKtkp4YNc5MkyxlU2enzxBPbFYaCShFyIzanmEOpamqK3Pj0iclV8VWPj2YjG+D4hsy9wZs0QSHcnNKs803dJXpNUW6LvH20613AOB5qjgPMR1F0Halw5ZJ/pROMkvhay2HbEQ==;r5yqH8YkYErC5ZTmC4T9YQ=="
 ---

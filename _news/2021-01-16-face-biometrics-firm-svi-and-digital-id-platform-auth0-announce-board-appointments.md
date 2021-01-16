@@ -53,6 +53,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Face biometrics deployments increase as regulator and public push back"
+    excerpt: "The regulatory heat around facial recognition continues to rise, even as implementations increase, from airports to digital health credentials around the world."
+    publishedDateTime: 2021-01-16T18:35:00Z
+    webUrl: "https://www.biometricupdate.com/202101/face-biometrics-deployments-increase-as-regulator-and-public-push-back"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "iVt1t7f/O59PaFwCjEf4lhrd5dbPhRoJoYFKkhWFV81e+RhoRNFvSatc0FD5u2na32dVk6mx4gme4RyiVX2cBZaWth1JCwY/bKpGmQYwfGzTJFOk+kiP1OAnSYFhmNboFWLvYHK9C6bjUtyHl8D74mWS8hTJ0wHkSRJBvo49kau1a2ht1LVdr+L3uNsI+gcYliKK7+WuWABD3MLbvdkjmjjvscBgEfz7qszW3ApX+U0gv8mP6ZtRHnGPgujN12vWX+zspdywxDSd7qriP0pvrjPrFv5xpIEnYpnpBHu2pm+4W89+MWOkM9PZKcyggm6UMxohOkHTaYj4TBCeCI9ZtUpP3qCEnTEuN1ha9btnrCC2tXcOMHwGQfLqjjLcndmPApJQK5RyHBaL/r7TCU8O57MpFs0fXFesAlBvhufKqgxoiscyEqXwmQZO3Vn3Mpjsd8xR1iMTjhzNidHT08AfGrhnOM3wiiXL6fvCoJgnxsQVGU5HZCQAGGV1k75mfZY7TKTEifVCVogDzzRC3/AlhA==;Hu33OpD5ITm19LgNL0GWCA=="
 ---

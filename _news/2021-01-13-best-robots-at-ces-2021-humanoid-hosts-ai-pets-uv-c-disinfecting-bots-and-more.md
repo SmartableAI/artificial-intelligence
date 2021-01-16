@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/best-robots-at-ces-2
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
 type: article
 quality: 98
-heat: 288
+heat: 278
 published: true
 
 provider:
@@ -137,22 +137,6 @@ related:
       - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2021/01/lenovo_thinkreality.jpg"
         width: 1940
         height: 980
-        isCached: true
-  - title: "CES 2021: A virtual, AI-powered human handled presenting duties for LG’s tech showcase"
-    excerpt: "The Consumer Electronics Showcase (aka CES) is here once again, and as always, it’s bringing out the tech companies’ most personable presenters: people whose job is to get us all excited about the ways technology are about to improve our lives (like having a personal robot waiter roll up and pour your wine)."
-    publishedDateTime: 2021-01-12T01:36:00Z
-    webUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter"
-    ampWebUrl: "https://www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
-    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/ces-2021-virtual-ai-powered-human-presenter?amp"
-    type: article
-    provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 51
-    images:
-      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/lg-virtual-human.jpg?offset-x=47&offset-y=0"
-        width: 1200
-        height: 680
         isCached: true
   - title: "Deep learning AI chip introduced at CES 2021"
     excerpt: "While much of the world’s current artificial intelligence (AI) is software based, the market for hardware-based AI is accelerating quickly with several announcements for hardware AI semiconductors being announced last year."
