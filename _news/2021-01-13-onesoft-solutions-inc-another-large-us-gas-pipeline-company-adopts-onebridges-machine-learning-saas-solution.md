@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Another Large U.S. Gas Pipeline Company Adopts OneBridge’s Machine Learning SaaS Solution"
-    excerpt: "(TSXV:OSS) (OTCQB:OSSIF) (the “Company” or “OneSoft”) is pleased to announce that one of the largest gas pipeline companies in the U.S.A. (the “Client”) has entered into an agreement with the Company’s wholly owned subsidiary,"
-    publishedDateTime: 2021-01-13T12:23:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/business-technology-products-and-services-coronavirus-pandemic-oil-and-gas-transportation-e10f9a405d8adbf102b0d345e07f3ff9"
+  - title: "Another Large U.S. Gas Pipeline Company Adopts OneBridge's Machine Learning SaaS Solution"
+    excerpt: "OneSoft Solutions Inc. is pleased to announce that one of the largest gas pipeline companies in the U.S.A. has entered into an agreement with the Company's wholly owned subsidiary, OneBridge Solutions Inc."
+    publishedDateTime: 2021-01-13T12:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/another-large-u.s.-gas-pipeline-company-adopts-onebridges-machine-learning-saas"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 40
 
 secured: "R7otjA4MPtzXWPJD/8cBMxK0NYVn9zOjk9O8vAW/gUKHNNH+KlJ9XD5v7Ue48KeYQd536y2ariL92rxmJs0MDGiSgpuDb5APG68fdykxO6nhdZ5TVfF6Gbr2O/7XKOODS4DY8yKu2P7B1eoejwJ+CnZR1V0Vg1CzgTRnZDbv6cvsuIv+n9HXG8T2RrqtdKDPst13Lg0l/k2zHhvmdbn7S3FstknHC5jRR/Sbp4Yb8Y+7Q5IC7ILyNwYiC2SVP/FfndNR71d/Pwz5E6wRJ43hzR1N4PpM/1WCmA7LfI4MAS98Gm7m8N1yo2NzK2ffIWis3EmaEvHxWEEWJjjBT3HCCxgylPisTgzNvi2i8eDOgs0=;CO51Ys7sa6+xKK74cEUpbQ=="
 ---

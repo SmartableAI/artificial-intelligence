@@ -218,20 +218,6 @@ related:
     quality: 41
   - title: "UBTECH Showcases New UV-C Robots at CES 2021"
     excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
-    publishedDateTime: 2021-01-11T14:01:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
-    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
     publishedDateTime: 2021-01-12T09:41:00Z
     webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
     type: article

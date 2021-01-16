@@ -448,13 +448,13 @@
     {
       "path": "_news/2021-01-02-msbai-guru-shows-the-elements-of-artificial-intelligence.md",
       "title": "MSBAI GURU Shows the Elements of Artificial Intelligence",
-      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing explicit assignments, inside their specialisms these frameworks are some of the time fit for superhuman execution,",
+      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing ... showing society away towards driverless vehicles. To win the show, Watson utilized regular language preparing and examination on huge storehouses of ...",
       "sourceUrl": null,
       "webUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
       "originalUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -470,7 +470,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-01T22:06:00-08:00",
+      "publishedDateTime": "2021-01-01T22:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Inter Press Service",
@@ -485,8 +485,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {

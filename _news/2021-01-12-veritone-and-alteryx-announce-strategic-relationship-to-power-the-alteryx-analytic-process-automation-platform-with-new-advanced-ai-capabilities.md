@@ -39,15 +39,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "Veritone, Alteryx In Partnership"
-    excerpt: "Costa Mesa-based artificial intelligence software developer Veritone, and analytics software developer Alteryx said this morning they are in a new, strategic partnership. Veritone said it will provide its AI-powered insights into unstructured data sources,"
-    publishedDateTime: 2021-01-11T14:38:00Z
-    webUrl: "https://www.socaltech.com/mobilestory.php?storyid=0080783"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 4
   - title: "Pexip and Logitech Partnership Brings AI-Powered, Immersive Video Collaboration from the Desktop to the Meeting Room"
     excerpt: "Organizations can deliver a consistent experience across their meeting rooms, whether deploying new video-enabled rooms or expanding their existing video estate Today Pexip, a leading provider of enterprise video conferencing and collaboration solutions,"
     publishedDateTime: 2021-01-14T15:05:00Z

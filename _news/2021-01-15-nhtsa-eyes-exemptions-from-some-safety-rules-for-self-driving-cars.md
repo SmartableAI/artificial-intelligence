@@ -41,20 +41,6 @@ related:
         width: 360
         height: 221
         isCached: true
-  - title: "U.S. exempts self-driving vehicles from some crash standards"
-    excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
-    publishedDateTime: 2021-01-15T04:52:00Z
-    webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Get ready for self-driving banks"
     excerpt: "Popular Science magazine envisioned self-driving cars. The reality arrived sooner than anyone anticipated, and before safety regulators could adapt. Most automotive laws — on speed limits, giving signals,"
     publishedDateTime: 2021-01-12T12:03:00Z
@@ -103,6 +89,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. exempts self-driving vehicles from some crash standards"
+    excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
+    publishedDateTime: 2021-01-15T04:52:00Z
+    webUrl: "https://www.reuters.com/article/top100InnovatorsVBC/idUSKBN29J29Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 34
   - title: "Self-driving vehicles allowed to skip some crash safety standards"
     excerpt: "The Trump administration has issued final rules that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
     publishedDateTime: 2021-01-15T19:44:00Z

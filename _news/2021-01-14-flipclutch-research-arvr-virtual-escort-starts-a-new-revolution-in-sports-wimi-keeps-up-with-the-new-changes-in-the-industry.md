@@ -39,20 +39,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Flipclutch Research: Cloud acting is being promoted, WIMI with 4654 IP intends to create the digitalization of the holographic entertainment industry"
-    excerpt: "PRNewswire/ -- The \"Opinions on Promoting the High-quality Development of the Digital Cultural Industry\" (hereinafter referred to as the \"Opinions\")"
-    publishedDateTime: 2021-01-11T13:50:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-cloud-acting-is-being-promoted-wimi-with-4654-ip-intends-to-create-the-digitalization-of-the-holographic-entertainment-industry-301205260.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "u4/asXdMFz1IPUZ9cAfdKFJpw43ZasoGdmJww02j2dpXZWYXywNSzOK47S9k9gZbJG1Yj6e+Ty/YBhUwtcRv2KMAOf+hpSj4sbKAscpaYf8cO4x+BJ6+9rNG6VY7MbYa7Jt15Lf58u7RwBpjuocm4wdDvA5NZMKh+tRGq4GtZgSQetwuuw71l4A1nyzJ9ArCT5B4m3EJVfb+N4e2DK6UoIkNtAnd9oYFKNbkMyB9rUq/xKP82Li8OAixPkqN8hoxBcbM/OB20P1v4CuR9aHGlZqcsb3ERJkAsUvCCVbLv3CbRatoY1vhn81L3cUOVs7v//HmNpxfbNkcW6DoCmJm5khpBBVq9IBZrve2hnqbCWo=;MyWXzIWj2F6Ahn33lD0NIg=="
 ---

@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Robotaxis and Self-Driving Cars Are Coming. This Company Will Be the Brains Behind Them."
-    excerpt: "Aptiv unveiled new technology that makes robotaxis and consumer autonomous-car models feasible. It supplies Tesla and other auto makers."
-    publishedDateTime: 2021-01-11T16:39:00Z
-    webUrl: "https://www.barrons.com/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    ampWebUrl: "https://www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 50
-    images:
-      - url: "https://images.barrons.com/im-283368/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
     excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
     publishedDateTime: 2021-01-14T08:50:00Z

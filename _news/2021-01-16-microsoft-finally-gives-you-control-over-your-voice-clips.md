@@ -110,22 +110,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Alphabet’s Verily teams up with Microsoft to power multi-cloud biomedical research"
-    excerpt: "Alphabet's research subsidiary Verily has announced a strategic partnership to adopt a new multi-cloud approach to biomedical research."
-    publishedDateTime: 2021-01-11T14:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/"
-    ampWebUrl: "https://venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/feat.png?w=1200&strip=all"
-        width: 1200
-        height: 553
-        isCached: true
   - title: "20 healthcare moves from Amazon, Google, Microsoft & Apple in 2020"
     excerpt: "Amazon, Google, Microsoft and Apple all played a role in the pandemic response while forwarding their strategies in digital health. Here are 20 moves they made in 2020. 1. Amazon is rumored to be making plans to expand the Amazon Care program,"
     publishedDateTime: 2021-01-12T14:45:00Z

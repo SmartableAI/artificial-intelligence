@@ -110,22 +110,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Alphabet’s Verily teams up with Microsoft to power multi-cloud biomedical research"
-    excerpt: "Alphabet's research subsidiary Verily has announced a strategic partnership to adopt a new multi-cloud approach to biomedical research."
-    publishedDateTime: 2021-01-11T14:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/"
-    ampWebUrl: "https://venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/alphabets-verily-teams-up-with-microsoft-to-power-multi-cloud-biomedical-research/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/feat.png?w=1200&strip=all"
-        width: 1200
-        height: 553
-        isCached: true
   - title: "Microsoft finally gives you control over your voice clips"
     excerpt: "Microsoft will give people an informed choice with what happens to voice clips when using Microsoft services. Microsoft came under fire in 2019 when it reported that contractors and employees listened to voice clips."
     publishedDateTime: 2021-01-15T18:59:00Z

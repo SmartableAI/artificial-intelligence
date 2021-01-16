@@ -9,7 +9,7 @@ ampWebUrl: "https://www.caranddriver.com/news/amp35181624/geely-baidu-partnershi
 cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35181624/geely-baidu-partnership-electric-vehicles-announced/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Chinese tech giant Baidu gets into EV game with Geely"
-    excerpt: "Baidu now plans to establish a new company to launch electric vehicles leveraging its own AI, connectivity, mapping and self-driving technologies, and Geely's expertise in car manufacturing. The new company will be a subsidiary of Baidu,"
-    publishedDateTime: 2021-01-11T14:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1130885_chinese-tech-giant-baidu-gets-into-ev-game-with-geely"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/lrg/geely-and-baidu-logos_100776419_l.jpg"
-        width: 1024
-        height: 597
-        isCached: true
 
 secured: "Kn3G5Z4H+BHpzaC4S7o4CvNNYRwpyz6v4z65ByRaJbrQi5GXtYEEk3hy54NvoRe54J4bYSRpDjGZJEAFwb/IJMWNkoyMFYGysdhbbboV+0RMgbfmfaDLgteewPIB9JML5QRpR+HfXnKe1tmbNqAWUOtww/EftlEI68hyyr/EcGmrA/HWpGE4k8sp/z0gktKd4XMyF/WArGKk7rWxgZcfypZtLR6j5uCQ4eGOM6/V7tu6nCTwuGGdrpeEtGoTi+XKIZNIdPMk1PQULtWqei2K5ncUnbG6Xro7ZqyP4c3ghe40lweqGc5LMOzosITIpz+qo1q02TqyBfHPKCjlFR1DL3tPGvbA6JpxL353NNDvMDYiXGIe47elgIwLEuwbjWBm2Y69AdxOcswZcOLQJCJDyt9VYpEF6JM3cQwlDsgNw4wS1n16fx+NluOBcaI16biG1TV1CuKop4XT0x84hwH1wKiz6fZHfwz0JnniLiEBItDJUATYdxRaGZJGd3ES8Rkpxzz5uJbERfdCxBot9lkQSg==;RyTTQeMKF4XAoij50zBxxw=="
 ---

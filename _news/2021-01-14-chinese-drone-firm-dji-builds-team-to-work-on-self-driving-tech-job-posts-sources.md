@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Robotaxis and Self-Driving Cars Are Coming. This Company Will Be the Brains Behind Them."
-    excerpt: "Aptiv unveiled new technology that makes robotaxis and consumer autonomous-car models feasible. It supplies Tesla and other auto makers."
-    publishedDateTime: 2021-01-11T16:39:00Z
-    webUrl: "https://www.barrons.com/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    ampWebUrl: "https://www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robotaxis-self-driving-cars-are-coming-this-company-makes-the-brains-51610382228"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 50
-    images:
-      - url: "https://images.barrons.com/im-283368/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Japan developing unmanned jet fighter aircraft with machine learning to close its technology gap with China"
     excerpt: "Japanese companies are researching technologies, with Subaru developing unmanned flight control, while Mitsubishi working on information-sharing."
     publishedDateTime: 2021-01-15T07:33:00Z

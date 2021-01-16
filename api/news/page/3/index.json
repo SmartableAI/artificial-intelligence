@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-14-breaking-the-ai-wizardry-of-microsoft-flight-simulator.md",
-      "title": "Breaking the AI wizardry of ‘Microsoft Flight Simulator’",
-      "excerpt": "Breaking the AI ​​wizardry of 'Microsoft Flight Simulator' There are some wild statistics about Microsoft Flight Simulator. In the",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/",
-      "originalUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Breaking-the-AI-​​wizardry-of-Microsoft-Flight-Simulator-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/",
-      "publishedDateTime": "2021-01-13T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-autonomous-vehicle-startup-weride-raises-320-million.md",
       "title": "Autonomous vehicle startup WeRide raises $320 million",
       "excerpt": "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital.",
@@ -104,7 +61,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -387,6 +344,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-cognitive-analytics-market-technological-to-witness-high-growth-in-near-future.md",
+      "title": "Cognitive Analytics Market technological to witness high growth in near future",
+      "excerpt": "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -751,7 +760,7 @@
       "originalUrl": "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 298,
+      "heat": 288,
       "tags": null,
       "images": [
         {
@@ -1054,6 +1063,57 @@
       ]
     },
     {
+      "path": "_news/2021-01-13-molecula-raises-176-million-for-its-ai-feature-store-technology.md",
+      "title": "Molecula raises $17.6 million for its AI feature store technology",
+      "excerpt": "Molecula, a company developing feature stores for AI and big data analytics workloads, has raised $17.6 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
+      "publishedDateTime": "2021-01-13T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-back-to-work-say-hi-to-the-new-office-robot.md",
       "title": "Back to work? Say hi to the new office robot",
       "excerpt": "For robotics developers, promoting employee and customer confidence in the workplace through new health and safety tools is a prominent business priority for 2021. The clearest example is the surge in disinfecting robots,",
@@ -1206,48 +1266,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-how-explainable-artificial-intelligence-can-help-humans-innovate.md",
-      "title": "How explainable artificial intelligence can help humans innovate",
-      "excerpt": "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php",
-      "originalUrl": "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php",
-      "publishedDateTime": "2021-01-13T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

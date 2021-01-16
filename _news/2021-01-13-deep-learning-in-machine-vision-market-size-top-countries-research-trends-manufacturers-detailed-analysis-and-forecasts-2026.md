@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
+    excerpt: "Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security"
+    publishedDateTime: 2021-01-16T02:58:00Z
+    webUrl: "https://www.wfmj.com/story/43165876/facial-recognition-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report"
+    type: article
+    provider:
+      name: WFMJ
+      domain: wfmj.com
+    quality: 0
 
 secured: "tPUZq+k/Og/xLS2rUrbdnbI6KDkkB3R1QwyGkbnzBNsYHA9/4Vz9Ll0QE6VDKMERQZj+HPkR4rcbEKGRZkoSaJYIRe6CgYWknf5MHnQl67S77Hz2WTKoBCZ4HVhIrmU+gZA/DIgejgQBAQDpc/HKa6IBa6KlgxT7nikRPFcIIFlvHd/pNsWRBfcPzcpUwjzVe3nCjv3TTaXK9lHTXvInefbmBGkh4JVTMj2AT/SFcQ7UzzTIHT+zEAPbsflEW7zFMqbRNTyGs22jXPOcqNT7feKG2/baxle/4u1/Qi5EuC/K3ro2Fpt6kUW8FT1VZ+L/llDEnOS7Tprsmni567u/ZUATHywXgzopP5/cMgqlqX4=;g7tl0MdaXxcGrwPOOsuKTg=="
 ---

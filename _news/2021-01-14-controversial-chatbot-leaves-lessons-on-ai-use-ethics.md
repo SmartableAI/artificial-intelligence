@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/controversial-chatbot-l
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 640
         height: 453
         isCached: true
+  - title: "AI developer to discard data used in controversial 'female' chatbot"
+    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the"
+    publishedDateTime: 2021-01-16T07:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "AI developer to discard data used in controversial 'female' chatbot"
     excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the artificial intelligence (AI) platform amid mounting criticism over its data collection process and hate speech."
     publishedDateTime: 2021-01-15T06:59:00Z

@@ -53,6 +53,17 @@ related:
         width: 640
         height: 453
         isCached: true
+  - title: "AI developer to discard data used in controversial 'female' chatbot"
+    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the"
+    publishedDateTime: 2021-01-16T07:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "GM Financial's AI chatbot proves saving grace"
     excerpt: "When the coronavirus pandemic swept the U.S. last March, shuttering auto factories and forcing most of the country into their homes, GM Financial's chief experience officer Bob Beatty had his hands full."
     publishedDateTime: 2021-01-13T18:20:00Z

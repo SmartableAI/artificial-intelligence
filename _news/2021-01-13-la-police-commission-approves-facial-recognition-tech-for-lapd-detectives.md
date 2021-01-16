@@ -107,22 +107,6 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "This facial recognition system can identify people who are wearing masks"
-    excerpt: "For this reason, the NEC company has been working for some time to develop a facial recognition system that can identify people even if they are wearing masks. Mission accomplished. The Japanese company has been marketing its mask-proof face recognition system,"
-    publishedDateTime: 2021-01-11T14:43:00Z
-    webUrl: "https://galusaustralis.com/2021/01/1047366/this-facial-recognition-system-can-identify-people-who-are-wearing-masks/"
-    ampWebUrl: "https://galusaustralis.com/2021/01/1047366/this-facial-recognition-system-can-identify-people-who-are-wearing-masks/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047366/this-facial-recognition-system-can-identify-people-who-are-wearing-masks/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 58
-    images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2021/01/coro-usa-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "LA Police Commission Adopts Oversight Measures for Facial Recognition Tool"
     excerpt: "The LAPD’s promise of robust oversight for facial recognition technology in police work hasn’t quelled concerns from civil liberties groups that the tools will perpetuate harm in communities of"
     publishedDateTime: 2021-01-12T23:31:00Z

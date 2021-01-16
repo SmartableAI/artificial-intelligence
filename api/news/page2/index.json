@@ -201,7 +201,7 @@
       "originalUrl": "https://phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -389,49 +389,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-alphabets-verily-goes-multicloud-for-terra-platform-turns-to-microsoft-azure-and-ai.md",
-      "title": "Alphabet's Verily goes multicloud for Terra platform, turns to Microsoft Azure and AI",
-      "excerpt": "The Broad Institute and Verily plan to use Microsoft’s cloud, data and AI technologies for their Terra platform, used for biomedicine research. Verily is part of Alphabet, the holding company that also includes Google - home to its eponymous search engine and the world's third largest cloud provider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-exemptions-from-some-safety-rules-eyed-for-self-driving-cars.md",
       "title": "Exemptions From Some Safety Rules Eyed for Self-Driving Cars",
       "excerpt": "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans.",
@@ -492,7 +449,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -545,7 +502,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -667,6 +624,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-14-healthcare-specific-ai-platform-lumiata-raises-series-b-funding.md",
+      "title": "Healthcare Specific AI Platform Lumiata Raises Series B Funding",
+      "excerpt": "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-301208447.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-301208447.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1420695/Lumiata.jpg?p=facebook",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-milrem-robotics-rolls-out-its-new-type-x-rcv.md",
       "title": "Milrem Robotics rolls out its new Type-X RCV",
       "excerpt": "X Robotic Combat Vehicle by the European leading robotics and autonomous systems developer Milrem Robotics passed its initial mobility",
@@ -762,49 +763,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m.md",
-      "title": "Predictive healthcare analytics company Lumiata raises $14M",
-      "excerpt": "The company sells those predictions to healthcare plans, as well as to providers, especially accountable care organizations, that are risk bearing health systems. \"If you're in the health plan world,",
-      "sourceUrl": null,
-      "webUrl": "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m",
-      "originalUrl": "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vatortv.s3.amazonaws.com/images/videos/main/20897.jpg",
-          "width": 320,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vator",
-        "domain": "vator.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-dji-is-building-a-new-team-that-will-work-on-self-driving-technology.md",
       "title": "DJI is building a new team that will work on self driving technology",
       "excerpt": "The popular drone making brand, DJI, is apparently building a new team that will be working on developing self driving or autonomous technologies. The company has put up various job listings and has already begun hiring as well.",
@@ -813,7 +771,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -865,7 +823,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -908,7 +866,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1045,7 +1003,7 @@
       "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -1175,6 +1133,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-breaking-the-ai-wizardry-of-microsoft-flight-simulator.md",
+      "title": "Breaking the AI wizardry of ‘Microsoft Flight Simulator’",
+      "excerpt": "Breaking the AI ​​wizardry of 'Microsoft Flight Simulator' There are some wild statistics about Microsoft Flight Simulator. In the",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/",
+      "originalUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Breaking-the-AI-​​wizardry-of-Microsoft-Flight-Simulator-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/",
+      "publishedDateTime": "2021-01-13T20:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

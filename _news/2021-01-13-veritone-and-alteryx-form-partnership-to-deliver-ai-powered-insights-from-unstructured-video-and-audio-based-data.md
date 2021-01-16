@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Veritone, Alteryx In Partnership"
-    excerpt: "Costa Mesa-based artificial intelligence software developer Veritone, and analytics software developer Alteryx said this morning they are in a new, strategic partnership. Veritone said it will provide its AI-powered insights into unstructured data sources,"
-    publishedDateTime: 2021-01-11T14:38:00Z
-    webUrl: "https://www.socaltech.com/mobilestory.php?storyid=0080783"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 4
   - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
     excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),"
     publishedDateTime: 2021-01-12T09:47:00Z

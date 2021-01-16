@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "V1SHVaf9eTPTdLLHmIntILA82ImOrKIYbYG78BJJQQvDQnFmqHRBYcpGnVrEojdLYtAwayIsEYMzFRbki4erd1CDx1eW6fdl/M0UBJd3QEuyun6tfqNoJocnB8SAwu0bX6pgn3x2R4IN4a9gxleK9De2TEZs0AvkoY1p/shcIAQZRqVwg/ISpmX1SUQzQReP+LDdc1uQ1Q0wIhnvL8hgKv6zCx7AF5g7mZYkFLRR71nVYafqb+DmqEvOVZM11KJO62dsHcqF52Mw+2pF1haSJhHRskMMb2Nyo+A8nph4WQHoCTUrIM1jLerrTOyvNNTeTMj+LXiIL5uk0Qf2sdu8ZO+PfFCpBC6YEaCqpp2JW0o=;P34wcY70NvQOoMEXeuvJbw=="
+images:
+  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg"
+    width: 744
+    height: 389
+    isCached: true
+
+secured: "bkIJyyEaEhYA7SP5IgkQf5Lx79fryyod8Yfa8+8WSoa+TxKjSswc474Kb7B3zO7WBZgKlOa84AdBTm5gaB3LKjZVSnNxDZ7ENdgbVOv2MxhbBtk8XmHj/K1TT9hVax3LsNC3royMtEmjLavmr6Mz1Dj1F8NlSWPiZIaY5tUMjAvb1SChnIVnF6HQPOMLILOo+s/kVOhuIpnJ8hBh1PCkH7fC/RkCbJDvkjfTL2dOq2oIygaXAuqIxZHwRjD2kpuIQzLRyGzR28/HVlHmFsYFkVd4yVSRWANVCRiH9Xso57WvV9+fXvbYVnuyowroDv1OxMZ62ougunwB+W4GrIAow8BHAjdDf3lFxLMSBh7lLHI=;eNkHVNWiUMJ7RbecxUyUXg=="
 ---
 

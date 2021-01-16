@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-11-25-beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant.md",
-      "title": "Beeb, how do you build the world’s first public service voice assistant?",
-      "excerpt": "The post Beeb, how do you build the world’s first public service voice assistant? appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-gb/2020/11/25/beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant/",
-      "originalUrl": "https://news.microsoft.com/en-gb/2020/11/25/beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/11/BBC.png",
-          "width": 640,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T08:27:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-aisera-releases-ai-service-desk-for-microsoft-teams.md",
       "title": "Aisera releases AI Service Desk for Microsoft Teams",
       "excerpt": "Aisera, a leader in artificial intelligence innovation and customer service, is releasing its AI Service Desk solution for Microsoft Teams, enabling customers to speed up and simplify resolution of internal support tickets for IT with self-service resolutions through Aisera’s platform.",

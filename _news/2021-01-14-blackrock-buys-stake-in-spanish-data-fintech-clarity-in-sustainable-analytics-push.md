@@ -41,17 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Jobs in fintech bounce back after brief lockdown lull"
-    excerpt: "Demand for tech professionals in the fintech and digital payments sector bounced back strongly after a short pause during the initial Covid-19 lockdowns. Research by recruitment consultancy Headcount found that the pandemic had fuelled digitisation across Europe,"
-    publishedDateTime: 2021-01-11T14:39:00Z
-    webUrl: "https://www.computerweekly.com/news/252494611/Jobs-in-fintech-bounce-back-after-brief-lockdown-lull"
-    ampWebUrl: "https://www.computerweekly.com/news/252494611/Jobs-in-fintech-bounce-back-after-brief-lockdown-lull?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252494611/Jobs-in-fintech-bounce-back-after-brief-lockdown-lull?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
 
 secured: "I3h0IV/Q6HemYUssXgm5G8wVfx+AFH9/6gFpLDH676xKH4BpDqB+waEQq/obWBeQoKkVVKkzz9RpZyrXlJdF6MLul3gwpVI1K/QM4LHIkkoiEsAe2OWA6E/3j8SNFkzRyyNREMX3RY1fSl7yazjBiq+VsHRlHl+NqC7IwQf4Qw3ara2tFd+kaNeTx/kjQnoiAxINHtdF5cFVxfcGVMQUNLgq8kzY5MJJNMk9XMHsV/08sbCmXg2aKwCroybN7cEjmHpx/3h8bN4H8RB1zdh8f6U31iuV7zh5dtxO3wqXJzK+81Fgywqp/KITZ2eebAv6e1mjsE+Uq303F9qw3B+rOtMH+Lc8PKz/dlD1L9fESI4=;1J2J20AMEJUbhVLKowmLsQ=="
 ---

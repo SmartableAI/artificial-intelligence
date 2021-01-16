@@ -57,38 +57,6 @@ related:
         width: 1024
         height: 546
         isCached: true
-  - title: "Baidu Is Entering the EV Industry. Tesla Bulls Beware."
-    excerpt: "The Chinese tech giant is working with a Chinese auto maker to build a smart electric vehicle. Investors should expect more partnerships between tech companies and auto makers in the future."
-    publishedDateTime: 2021-01-11T14:31:00Z
-    webUrl: "https://www.barrons.com/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681"
-    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-283366/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Baidu to set up EV manufacturing venture"
-    excerpt: "Chinese tech giant Baidu is preparing to set up its new electric vehicle manufacturing venture, the company said on Monday."
-    publishedDateTime: 2021-01-11T13:16:00Z
-    webUrl: "https://www.sharecast.com/news/international-economic/baidu-set-up-ev-manufacturing-venture--7773205.html"
-    ampWebUrl: "https://www.sharecast.com/amp/news/international-economic/baidu-set-up-ev-manufacturing-venture--7773205.html"
-    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/international-economic/baidu-set-up-ev-manufacturing-venture--7773205.html"
-    type: article
-    provider:
-      name: Sharecast
-      domain: sharecast.com
-    quality: 59
-    images:
-      - url: "https://img4.s3wfg.com/web/img/images_uploaded/d/d/baidu_logo_2.jpg"
-        width: 780
-        height: 300
-        isCached: true
 
 secured: "SbsngXadMyJIeVDry/zXtxus19MT4U0tmTWN0q1mMDvERgaqROa9vy7Kb7jk3TjFTIlWoLGFUJptQ9pwAPUbL8X2w9Bd2fdQZxcJOSxv2LtEecKmn/zXndAhY/KizxOObxNqrVxnPCvxHyiQeeZPii7MeaR1QIAIiKX2EvIr2z+pj/5A3vfpjkDbjHuS1jbR9XjxesypEoCOjpl8Cl1wgn1vXhMDzBTexEhpRNkYEQqqnNy3RipE0BU0H4zZkt3YadmKcbAmXy4nkK5u1utKZqp+I17cs1cYazptDgDM6vqWbjw43mA3/8gxQkERaIJlSIPEEU4mhUqFaC+gsWofYV4u+i9DZPtwBwkU/zWd/7nyR+2RuHDR6kntkSojHNJTCSnx1ZU707DZG7ACoVSPmUEJuYm8dlPqC6MziVtRfglnLCLsOHEQEIAVALeNpYqQZlxxCl2rZ+vCfkH/G/4LsPCY0V8eJCh1ZPL4MlDiUbSqRtDq8OFWXpOQdLB0qt3iUnNvfpjND956YyomL7Y2Qw==;35Ap27I9gNnsCBeLj001RA=="
 ---

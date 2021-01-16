@@ -56,6 +56,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial Intelligence to map human Intestinal Bacteria"
+    excerpt: "The faculty of health and medical sciences from the University of Copenhagen have developed a ground-breaking technique that can assist to disentangle the secrets of the human intestinal microbes."
+    publishedDateTime: 2021-01-16T06:24:00Z
+    webUrl: "https://www.hindustantimes.com/science/artificial-intelligence-to-map-human-intestinal-bacteria-101610776429440.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 17
 
 secured: "T4d0oRkfwZyCr5TddZHymzSm9tmLfYbiBAZ7CkPFNWiFWPdSCULefpZh90Ru0zX2MerDf8YkzuLHfQx3isJtp75BGsuzZazjM5Yx0863WaggMxJzZ9c/KNDIGNKwsy/iTAeKrggw0ilFRzj6kBPk5qib5HIFBr3HTGnNmZnefxizMOPN4Qdoexvn7jF5TGFDxh89AfD+hTb1iSctTPt+U+HzcpnHFToNHzwAKSdmbd11Jkz0ni/bnOsXAm7OXJg1MRwMiCJd43JAvxpERQaZfF2pyDJaDomWCVKjPf7reDrD3sLwJ9dzdp5EYrElYqaFsqlUt5IIXGQzQlh/ptmwHSlAnqss1NWcqchPAlD1FpI=;T0A6u4yluZOMwyELOKZ+CQ=="
 ---

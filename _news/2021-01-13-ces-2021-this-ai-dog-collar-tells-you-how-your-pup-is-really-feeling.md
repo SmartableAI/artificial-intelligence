@@ -206,20 +206,6 @@ related:
       name: KDFW
       domain: fox4news.com
     quality: 41
-  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
-    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
-    publishedDateTime: 2021-01-11T14:01:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/ubtech-showcases-new-uv-c-robots-at-ces-2021/article_b3634ce3-3919-50c7-8ab1-ebcc064fb4cc.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/9/a8/9a8fa4c7-189a-554b-8a48-7b3f9fdb8080/5ffc5db24397d.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "CES 2021: Pandemic’s robot ‘heroes’ highlight their value at tech show"
     excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
     publishedDateTime: 2021-01-12T06:15:00Z

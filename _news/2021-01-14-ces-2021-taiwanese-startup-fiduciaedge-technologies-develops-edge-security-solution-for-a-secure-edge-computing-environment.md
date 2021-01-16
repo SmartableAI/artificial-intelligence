@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-star
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
 type: article
 quality: 58
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CES 2021 Experience the Ultimate Daily Care Wearable Device Solution on 2020 CES by Taiwanese Startup"
-    excerpt: "Measurement Device” made impressive gains on the very first day of CES 2020 earlier this year, with deals struck with Saygus (US), Elotec (Norway), and IDCP (Netherlands). In the upcoming CES 2021, Cloudmed is expecting to earn another hit with an IoT healthcare device that fits exceptionally well the healthcare priorities during the COVID-19 pandemic."
-    publishedDateTime: 2021-01-11T15:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-lung-disease-coronavirus-pandemic-asia-9976c1185bb211be2ff939db2dee8bf7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

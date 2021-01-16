@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-13-business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management.md",
+      "title": "Business Contracts Remain Complex, And Artificial Intelligence Can Improve Contract Management",
+      "excerpt": "Contracts are one of the most complex things to understand and analyze in the business world. Artificial intelligence can help in contract analysis and management, and is starting to be applied in the real world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/amp/",
+      "publishedDateTime": "2021-01-12T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-roboflow-raises-21m-for-its-end-to-end-computer-vision-platform.md",
       "title": "Roboflow raises $2.1M for its end-to-end computer vision platform",
       "excerpt": "Roboflow, a startup that aims to simplify the process of building computer vision models, today announced that it has raised a $2.1 million seed round co-led by Lachy Groom and Craft Ventures. Additional investors include Segment co-founder Calvin French-Owen,",
@@ -988,7 +1039,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1040,7 +1091,7 @@
       "originalUrl": "https://www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1170,58 +1221,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-pegasystems-acquires-quriousio-to-apply-speech-analytics-to-customer-service.md",
-      "title": "Pegasystems acquires Qurious.io to apply speech analytics to customer service",
-      "excerpt": "Pegasystems has acquired Qurious.io to bring speech analytics to customer service interactions augmented by AI",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/",
-      "originalUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/shutterstock_572804956-e1516199341990-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/amp/",
-      "publishedDateTime": "2021-01-11T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

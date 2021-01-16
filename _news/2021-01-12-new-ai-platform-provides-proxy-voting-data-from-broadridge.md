@@ -1,20 +1,43 @@
 ---
 category: news
 title: "New AI Platform Provides Proxy Voting Data from Broadridge"
-excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data,"
-publishedDateTime: 2021-01-12T12:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
-webUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
+excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy"
+publishedDateTime: 2021-01-12T12:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "NPOhQWNX/VEjulT2GmVmUOEjRaEPYGAcldaXIinNLE5USWkqoO6FLHqCo6i23M2/yPYs4HjSCwscfbWLcnuWhn9vD8JvAbMXyOG/+V09fjsx5K8LOiP1m7Enl7qXN2izS/JBMNFRyDT4PsqPsH0hcllruxIQU4bO39Sn8pZTqVmNg29ZV0+SYkuNhT6QnnCcnJT5NuSeWylE8DQ0LBhJfxJaJK//ppVFcoQEmgx0kVNunSj9bVtYDImkPGtrz49E41fmS6Nwja/BiyWHhrYRf0dtvCHBZcCEscmmQtHLbuV59z6wi3lrF91H6u2Hi1NRak9eezWd6lsN0R7Jy7hh/1t0SMYygpsoOv+clMjm9EA=;nj2OBxWBxdYKBN7jVDzWuQ=="
+related:
+  - title: "New AI platform provides proxy voting data from Broadridge"
+    excerpt: "Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
+    publishedDateTime: 2021-01-12T17:31:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provides-proxy-voting-data-from-broadridge"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+
+secured: "rRdcQtnndkbo9DBFBZ/zrUvp/qXcHx8uIrkGWbFtqHkXuWkNLCAG/cf4UvR2j84dW14CQ/LyF+vZDNwkvG30Tg2lIcnPTAA8GbECKQIvc1Y/vDgR4BbHwCiGQpHYFJoQrpREcFNTY5qLRZeXQ3ZLiAACSzxfNycn+Mv8clBKLlXp5XC70JDAvJq0hJ1+9ZezTPSKepu2StSWLqadtYoduR+BEn2DyezFfgV0xWWxZXQuJSiKoNNVp5xgEaEXzR6vtCk/IoRgMgoBIYPd2G4B4tHIRd48rUFebZsEwY4CiAiBHqiGCRImS+pYrhBjNFgVkgmw3d4c9cZuLFNFIk7lim+X0LCI5JvgFvdtdBKoTxM=;eWbOy2UQs3/dPp21w1GMSw=="
 ---
 

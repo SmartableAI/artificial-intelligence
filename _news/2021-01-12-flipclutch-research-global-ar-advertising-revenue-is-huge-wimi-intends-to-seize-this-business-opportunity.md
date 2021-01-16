@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flipclutch Research: Cloud acting is being promoted, WIMI with 4654 IP intends to create the digitalization of the holographic entertainment industry"
-    excerpt: "PRNewswire/ -- The \"Opinions on Promoting the High-quality Development of the Digital Cultural Industry\" (hereinafter referred to as the \"Opinions\")"
-    publishedDateTime: 2021-01-11T13:50:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-cloud-acting-is-being-promoted-wimi-with-4654-ip-intends-to-create-the-digitalization-of-the-holographic-entertainment-industry-301205260.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Flipclutch Research: AR/VR virtual escort starts a new revolution in sports, WIMI keeps up with the new changes in the industry"
     excerpt: "Speaking of the current hottest AR/VR technology, people are probably most familiar with their applications in the field of games and entertainment. However,"
     publishedDateTime: 2021-01-14T13:50:00Z

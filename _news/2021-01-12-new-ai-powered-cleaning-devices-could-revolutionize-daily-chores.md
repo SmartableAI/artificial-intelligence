@@ -52,34 +52,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 53
-  - title: "Team creates hybrid chips with processors and memory to run AI on battery-powered devices"
-    excerpt: "Transactions between processors and memory can consume 95 percent of the energy needed to do machine learning and AI, which severely limits battery life. A team led by Stanford engineers has designed a system that can run AI tasks faster,"
-    publishedDateTime: 2021-01-11T16:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/ssoe-tch010621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Researchers combine processors and memory on multiple hybrid chips to run AI on battery-powered smart devices"
-    excerpt: "In traditional electronics, separate chips process and store data, wasting energy as they toss data back and forth over what engineers call a"
-    publishedDateTime: 2021-01-11T16:03:00Z
-    webUrl: "https://www.miragenews.com/researchers-combine-processors-and-memory-on-multiple-hybrid-chips-to-run-ai-on-battery-powered-smart-devices/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 35
-    images:
-      - url: "https://news-media.stanford.edu/wp-content/uploads/2020/12/10130601/Illusion-art-555x370.jpg"
-        width: 555
-        height: 370
-        isCached: true
 
 secured: "gPMllgKTAfBiRS4spqOdDXK2YUFa5AkoPOAfSVhm+Jaz3RThEbt8st6J8/VQLLsW+xV+T53ooxumBd1RLwXsB3+amndsEH2dokRHYsBqDJCWKAAwZYnjKFh78WkrVtf+fEgP7NWcyonvP5+7RqveRBWY24o0zKNLI5cSBQZ+kUiFPuhm5hydI8VBPqlP4PENCmVvRsem4p9ZPXWR5Lx8cfVcHTDuHvo5LJWzwgC7qC1cG2UtURTY6/H24hPK6ObWpB3x3vBaKH+lHx+BvyVGqzJUZrRHb2ffwUZaoNA//66RlM5gzkdmkUNIV+/CaXKoUvjgApOPcCR5XoVQkdQo05UNFTAu5Zbfa7GlWZOcBNk=;PNx/KE3tKEbyUHxbp6H2dw=="
 ---

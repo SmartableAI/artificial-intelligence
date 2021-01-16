@@ -41,15 +41,6 @@ related:
         height: 400
         isCached: true
   - title: "RadNet’s DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer Detection in New Study"
-    excerpt: "RadNet, Inc. today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
-    publishedDateTime: 2021-01-11T16:15:00Z
-    webUrl: "https://www.nasdaq.com/press-release/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
-  - title: "RadNet’s DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer Detection in New Study"
     excerpt: "RadNet, Inc. (NASDAQ: RDNT) today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence (AI) for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
     publishedDateTime: 2021-01-13T04:58:00Z
     webUrl: "https://www.globalbankingandfinance.com/category/news/radnets-deephealth-artificial-intelligence-subsidiary-demonstrates-earlier-breast-cancer-detection-in-new-study/"

@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-16T06:21:00Z
 originalUrl: "https://customerthink.com/4-ways-to-leverage-artificial-intelligence-in-customer-service/"
 webUrl: "https://customerthink.com/4-ways-to-leverage-artificial-intelligence-in-customer-service/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CustomerThink

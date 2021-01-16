@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/new-science-ventures-anno
 webUrl: "https://www.prnewswire.com/news-releases/new-science-ventures-announces-merger-of-its-portfolio-company-achronix-with-ace-convergence-301206141.html"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "Achronix to List on Nasdaq Through Merger with ACE Convergence"
-    excerpt: "Achronix Semiconductor Corporation, a leader in high-performance field-programmable gate arrays (FPGAs) and embedded"
-    publishedDateTime: 2021-01-11T16:35:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/achronix-to-list-on-nasdaq-through-merger-with-ace-convergence/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 24
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_sequence_coronavirus-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "1r/rJPisFOmeXHLz1jfy+/kTeq66ZJon0HOpH4MwGFLqVqPjD4ZwIS6/AuDmjaZ8k1VVTrf29PjRAEFGMF1tpAM8q2oCNMpUyixMhDnekLHpVtZMRQcaQl2mR9JP8W1H1mzEK+6HhZJuGcJtE3bsL/cxenNnI6OQPwCKyGOb1p7uFJcJoX5+Wp2fzjjBtZGgQiCIqBbkfMFC+2ONTxykfORKaYcvypv0IGleVnzLRRGIPX1SwyB/1xr4b3xoXiPC6IRFIuSn5EeVNtEhEFue1aQQrgSuofi0JqL6brx1iWB1HzAf8MlM1xA/baZWnHvmjKHsjL/MORePVE9WUzknQEgqPGw4kRQ5+i+KYBncoWs=;IvacJFlzQ3M13xcbAAwP6Q=="
 ---

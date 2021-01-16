@@ -7,8 +7,8 @@ originalUrl: "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-c
 webUrl: "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Vator
@@ -25,54 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Analytics Market technological to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2021-01-13T18:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-    excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
-    publishedDateTime: 2021-01-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
+  - title: "Healthcare Specific AI Platform Lumiata Raises Series B Funding"
+    excerpt: "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc"
+    publishedDateTime: 2021-01-14T12:44:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-301208447.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 21
+    quality: 56
     images:
-      - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
-        width: 2697
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/1420695/Lumiata.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
-  - title: "Broadridge partners with AI company Fligoo for predictive analytics"
-    excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
-    publishedDateTime: 2021-01-14T08:06:00Z
-    webUrl: "https://www.leaprate.com/forex/institutional/broadridge-partners-with-ai-company-fligoo-for-predictive-analytics/"
+  - title: "AI-driven Platform Identifies and Remediates Biases in Data"
+    excerpt: "Synthesized has released the Community Edition of its data platform for Bias Mitigation. Released as a freemium version, the offering incorporates AI research and cutting-edge techniques to enable any organization to quickly identify potential biases within their data and immediately start to remediate these flaws."
+    publishedDateTime: 2021-01-13T15:34:00Z
+    webUrl: "https://insidebigdata.com/2021/01/13/ai-driven-platform-identifies-and-remediates-biases-in-data/"
     type: article
     provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 19
-  - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
-    excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
-    publishedDateTime: 2021-01-14T12:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19158792/scanmarket-expands-analytics-capabilities-with-the-acquisition-of-artificial-intelligence-company-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19158792"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19158792"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "pLgsRxR1fgPvaVAL9GzHz0ZwFvcRvJZ4ZFAkFxQ+bvqEdkwd3fUr2GopVFk0lQmtWfIUr8QFZ6ab3d8CAncFp5GP9ZL4nXHQXvTFtxNiuYKxG+MyF0GuBST+51VRyvSYmJZPnL1XF8DrBa/kKBYs4O0Ft0ZmveetBUh7JMeh7YvRSNkmILhl0oF26ATUiMWnGAoSS9ZupQVMwS2ZC93o9vlWs2uOyEW559SHayMdWPP5NwgIy/0E2M1VaPa9gzFRl1RfUtpLij+RU0W/evth5/Pbd11L4IsCN2DHhYWRDDTFn4MjGb+VwwxEsoxrFF+l5X9Dr1TgUSscl4hCLOqlTXsiIEa4e0Lj96dwQoEy7OLlJNooA1UHe8+1UZ5WPsiZQ1hSv2m4kusJ7ai3NnrZbp5nD5Tf7ubVltS3+EoitVSUXsFNylnc6l729+/M4sJh06XI8pstrfmH3bAc//011Ejw7tTbehzKWWj4JoVNqt47qgCYOn96rK92e5wVesU6Qrr7s7gPmm/rKvWu3UDTVw==;eMyXTEs8w62zzmaCazZZ3Q=="
 ---

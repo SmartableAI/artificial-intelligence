@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-01-feces-algorithms-artificial-intelligen
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence to map human Intestinal Bacteria"
+    excerpt: "The faculty of health and medical sciences from the University of Copenhagen have developed a ground-breaking technique that can assist to disentangle the secrets of the human intestinal microbes."
+    publishedDateTime: 2021-01-16T06:24:00Z
+    webUrl: "https://www.hindustantimes.com/science/artificial-intelligence-to-map-human-intestinal-bacteria-101610776429440.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 17
 
 secured: "7dpDvt+cI+apEbpCAPYsWZmeWeQpjn0rg3XlhExO63qtAvNjzwmZrJEG/JjYIpD7xs4xI7oBw2quOrc5pqBTGY6ltyAzYX7DYss36gMCzwIh5oB/IvEpDkHXwEv27XXpNQ/tcPdQvz4icC8yvJkJ+5lgUSpL7V7S31BZUjdUPLgUfvVL+dp75P4t2r1yCwj/ydBtzRanhR6S2GvGvo4tuUu8t1aqQBL9+FfeYdy2KdMHc6lr4JKxDoJD3liAtr4zoIRm3nn6L6YXHDSkPNKUm9ZDcdDuA6qv4YL3Aoathyv87rtiP5y/KWzMY2o3SsnZv9F0SrHNor2PL5xH0Dipb4S4PRJvZ22MqJTD0R2L7LSnG6lI5Z4iSUNcGX0j/F22kM4LcVACtfXRFBYjyh3HvlFP35+BmVexXy/q30t7eDD1JzSeVewnkiZmY5C5Nov/2VsXJHJng3idS8V61Q6PR+OX9eAINjUt050mYBJKjCx2NzWbxY08Qgh4GNmffwFj46P/O/F0SQFuhRWyIht56A==;SthHNx4kc8ko1H43bPEGnQ=="
 ---

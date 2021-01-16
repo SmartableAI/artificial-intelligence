@@ -7,7 +7,7 @@ originalUrl: "https://economist.com.na/58415/human-resources/local-women-champio
 webUrl: "https://economist.com.na/58415/human-resources/local-women-champion-in-the-merck-foundation-more-than-a-mother-africa-media-recognition-awards-2020-to-break-infertility-stigma/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 350
     height: 264
     isCached: true
-
-related:
-  - title: "Merck Foundation CEO Celebrates the Winners of \"Merck Foundation More Than a Mother\" Africa Media Recognition Awards 2020 to Break Infertility Stigma"
-    excerpt: "Senator Dr. RashaKelej, CEO of Merck Foundation, President 'Merck More Than a Mother and African Woman of the Year 2020 celebrated the winners saying \"Big congratulations to all the winners of 'Merck Foundation More Than a Mother' Africa Media Recognition Awards 2020."
-    publishedDateTime: 2021-01-11T13:02:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20210111/3689205.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "uMYtt/fhDkQwdGvJXJRSzJ1EhLtiMc1NNT7P/xSbPYQts8O7SKbgnGK3tuqvQbHMaH+yXVtvKQYZctAd6OcHwIc9DUR2PT3pRx3+ayrFwe5zfRiNXEbz29mD87FrB3DP4DXVUaxRFQqK7sCBn/wc7sNGzWOYUMXddeyUsLDiwQqryjKcfXbn3NTNNlc3lskgjaiSnEvRhwCrfNMXcxQi4oKWFAOpdFXhTsoaExxvzV3bgXgDduBiiAfqkRRW3I8krnp8tZi2vK499IubeBc7cZGssrsxW4XN2BH7wHYnXuYpdR/CG7nxK6n3oCJCt1JCfODXm/wk6HQKqSoGla1xyYjPtBKR4HJzh/aEkct+3vgHew8ry4R8qIS5kMEkKSy0waZN+tABF3rh63Zt8PvyWh7YglRwWJ1h3kwpjM38Z6+1IomrlLw+1hN9yAH4DYXT/kt0T79vRUOhNYdu0i6KyxmdAIGDB+UOwaTdG01qiT9yTvcNDxxkfBE1qTLPzsUw/5OCx/XOnasxGI8cb1QLFQ==;KyIzhHss8ZasYWZiumKQ3g=="
 ---

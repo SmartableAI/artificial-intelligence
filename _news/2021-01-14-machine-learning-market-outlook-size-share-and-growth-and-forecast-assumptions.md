@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13"
 type: article
 quality: 64
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
+    excerpt: "Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security"
+    publishedDateTime: 2021-01-16T02:58:00Z
+    webUrl: "https://www.wfmj.com/story/43165876/facial-recognition-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report"
+    type: article
+    provider:
+      name: WFMJ
+      domain: wfmj.com
+    quality: 0
 
 secured: "Ol4mB22Vsinq09vlpQ4mDmDnoSaE13FNZgIm5pJE23L9gLsICJDlXLpCMDKRNwCC9e2XgfqwByVt4QLTRFI6FQ7KSCCZOzjnM4P5ruIccWe2pp725GiDGVDgT+c+0y+OuXPBZQzKklZZovTSIq0+wUTkLdfZY7HqgwsxmmbBMeNFc4F52AGsrrS4gGL9S1vJKcv2HgtKexgI7JPIX8yLeOtweQeUJaf6ZIG5CVL0+iwSvCju+4qTdCXAPN7RUWPP/HruZ9GYtI+VEsit1PFD6G2ilWx2qSGI3n24gnM1AqHEGuMP+Hu7ohgYb4QK5ly4ygEcBm+dxU6NRmpwaSX+97lSjl8g6LJEKpZ3Z/KsYYk=;7R5uqa8Mezs7Wqs9XbaYMw=="
 ---

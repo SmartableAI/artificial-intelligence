@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -153,21 +153,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m.md",
-      "title": "Predictive healthcare analytics company Lumiata raises $14M",
-      "excerpt": "The company sells those predictions to healthcare plans, as well as to providers, especially accountable care organizations, that are risk bearing health systems. \"If you're in the health plan world,",
+      "path": "_news/2021-01-14-healthcare-specific-ai-platform-lumiata-raises-series-b-funding.md",
+      "title": "Healthcare Specific AI Platform Lumiata Raises Series B Funding",
+      "excerpt": "PRNewswire/ -- Lumiata, the healthcare-specific AI platform, announced today that it has completed $14 million in Series B funding, led by Defy.vc",
       "sourceUrl": null,
-      "webUrl": "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m",
-      "originalUrl": "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m",
+      "webUrl": "https://www.prnewswire.com/news-releases/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-301208447.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/healthcare-specific-ai-platform-lumiata-raises-series-b-funding-301208447.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://vatortv.s3.amazonaws.com/images/videos/main/20897.jpg",
-          "width": 320,
-          "height": 240,
+          "url": "https://mma.prnewswire.com/media/1420695/Lumiata.jpg?p=facebook",
+          "width": 600,
+          "height": 314,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -177,11 +177,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T04:02:00-08:00",
+      "publishedDateTime": "2021-01-14T04:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Vator",
-        "domain": "vator.tv",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -191,8 +191,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

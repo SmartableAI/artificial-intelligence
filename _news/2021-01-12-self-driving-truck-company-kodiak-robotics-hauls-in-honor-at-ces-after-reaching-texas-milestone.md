@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/technology/2021/01/11/self-drivi
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2021/01/11/self-driving-truck-company-kodiak-robotics-honored-at-ces-after-reaching-milestone-on-texas-roads/?outputType=amp"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup sets public benchmark for disengagement-free driving"
-    excerpt: "Kodiak Robotics believes it has achieved a self-driving milestone. In mid-December, the self-driving truck startup conducted a disengagement-free test drive between Dallas and Houston, amounting to 205 miles of operation without human intervention."
-    publishedDateTime: 2021-01-11T14:00:00Z
-    webUrl: "https://www.autonews.com/ces/self-driving-truck-startup-sets-public-benchmark-disengagement-free-driving"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 22
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Kodiak-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Video: Kodiak self-driving truck travels 205 miles, disengage free"
     excerpt: "Two years after it first began developing its self-driving technology for the trucking industry, Kodiak Robotics has navigated an entire highway portion of its route in Texas, traveling 205 miles completely disengage-free."
     publishedDateTime: 2021-01-14T14:00:00Z

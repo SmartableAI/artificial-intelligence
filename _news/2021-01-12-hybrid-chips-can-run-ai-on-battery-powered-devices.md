@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-po
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -52,34 +52,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 53
-  - title: "Team creates hybrid chips with processors and memory to run AI on battery-powered devices"
-    excerpt: "Transactions between processors and memory can consume 95 percent of the energy needed to do machine learning and AI, which severely limits battery life. A team led by Stanford engineers has designed a system that can run AI tasks faster,"
-    publishedDateTime: 2021-01-11T16:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/ssoe-tch010621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Researchers combine processors and memory on multiple hybrid chips to run AI on battery-powered smart devices"
-    excerpt: "In traditional electronics, separate chips process and store data, wasting energy as they toss data back and forth over what engineers call a"
-    publishedDateTime: 2021-01-11T16:03:00Z
-    webUrl: "https://www.miragenews.com/researchers-combine-processors-and-memory-on-multiple-hybrid-chips-to-run-ai-on-battery-powered-smart-devices/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 35
-    images:
-      - url: "https://news-media.stanford.edu/wp-content/uploads/2020/12/10130601/Illusion-art-555x370.jpg"
-        width: 555
-        height: 370
-        isCached: true
 
 secured: "m73Hl39RH75UxVs7wnpJ72qwxCD+W5GLnYD/GsZ61bMJf6Nr7FjLWfnG+Ij/ODyHBTwpeVHAQTm9ymx7qrQl5vhv27vI2ug6nL95IgUKDChmoNQNALUbA5OzEOHD8WNYkjPYuQHRjYDFtp4ck/rh3bYk/EqG20W7uZf/eDbquO4px5F+ZU7Xr111uEgmjEVYiP2RLXNMUaGUrVJw9ECkugNFu2dnXlDXip7tE5vZqZdl4Na0v1laQDGDvscnUJoRtn6qfGQ6CZtHN17wJml4YnuwMAspytxEeV6rnFd0q9dgfwVir+aiGY5/5gWk/aODm2ZZ+GahuWKwo/hdwJcU3rsv8U6ehVka01nPbC45roTgdwENotk+nUVPCJLmt9ZO83mBOCGTTHKsi4T3Z3x8vrlEXhRTUVRV0jCIH/ytFu8xFyXSRmb8As54iCBnmGGKRSNx4kpy9cmR0FSX048uS42xk40dwRccV/b7Lnp7gIB0m5LsMnHTncVa4Outx9muIjchmAE3z9nS0s+5k1BGQA==;PebzbDrhLwcz6McNqfpZEA=="
 ---

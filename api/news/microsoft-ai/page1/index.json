@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-15-alphabets-verily-goes-multicloud-for-terra-platform-turns-to-microsoft-azure-and-ai.md",
-      "title": "Alphabet's Verily goes multicloud for Terra platform, turns to Microsoft Azure and AI",
-      "excerpt": "The Broad Institute and Verily plan to use Microsoft’s cloud, data and AI technologies for their Terra platform, used for biomedicine research. Verily is part of Alphabet, the holding company that also includes Google - home to its eponymous search engine and the world's third largest cloud provider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-microsoft-president-begs-tech-industry-to-improve-its-ethics.md",
       "title": "Microsoft president begs tech industry to improve its ethics",
       "excerpt": "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -128,6 +85,58 @@
         "name": "Windows",
         "domain": "compsmag.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-cognitive-analytics-market-technological-to-witness-high-growth-in-near-future.md",
+      "title": "Cognitive Analytics Market technological to witness high growth in near future",
+      "excerpt": "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1044,50 +1053,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-02-msbai-guru-shows-the-elements-of-artificial-intelligence.md",
-      "title": "MSBAI GURU Shows the Elements of Artificial Intelligence",
-      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing explicit assignments, inside their specialisms these frameworks are some of the time fit for superhuman execution,",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
-      "originalUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg",
-          "width": 744,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-01T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops.md",
       "title": "Mohammed Farooq Q&A: How Hypergiant is pushing for an open AI platform for ‘ModelOps’",
       "excerpt": "Companies building AI applications may think Amazon's AWS is the only place to turn for help, but we need an open AI platform.",
@@ -1428,6 +1393,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
+      "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
+      "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "originalUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "publishedDateTime": "2020-12-25T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

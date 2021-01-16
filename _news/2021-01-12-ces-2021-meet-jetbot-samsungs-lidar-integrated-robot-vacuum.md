@@ -50,38 +50,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The Samsung JetBot AI Plus vacuum uses self-driving car tech to clean your home"
-    excerpt: "The Samsung JetBot AI Plus includes sensors and software designed to find the best possible path to clean your floors."
-    publishedDateTime: 2021-01-11T16:24:00Z
-    webUrl: "https://www.androidauthority.com/samsung-jetbot-robot-vacuum-1191587/"
-    ampWebUrl: "https://www.androidauthority.com/samsung-jetbot-robot-vacuum-1191587/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-jetbot-robot-vacuum-1191587/amp/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 85
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/01/samsung-jetbot-920x470.jpg"
-        width: 920
-        height: 470
-        isCached: true
-  - title: "CES 2021: Samsung unveils upgraded robots, AI-based solutions"
-    excerpt: "Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show."
-    publishedDateTime: 2021-01-11T16:34:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-ces-2021-samsung-unveils-upgraded-robots-ai-based-solutions-677513"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-ces-2021-samsung-unveils-upgraded-robots-ai-based-solutions-677513"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-ces-2021-samsung-unveils-upgraded-robots-ai-based-solutions-677513"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 74
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/01/samsung-store-1593705143-1610382756.jpg"
-        width: 715
-        height: 402
-        isCached: true
   - title: "Watch Samsung’s clever home robot lay the table and pour wine"
     excerpt: "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine."
     publishedDateTime: 2021-01-12T03:20:00Z
@@ -109,17 +77,6 @@ related:
         width: 2000
         height: 1047
         isCached: true
-  - title: "Samsung unveils upgraded robots, AI-based solutions at CES 2021"
-    excerpt: "Seoul/New Delhi, Jan 11 (IANS) Samsung Electronics on Monday introduced its latest innovations in sectors ranging from artificial intelligence (AI) and Internet of Things (IoT) to robots at its press conference for the world's largest tech show. Under the ..."
-    publishedDateTime: 2021-01-11T14:49:00Z
-    webUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
-    ampWebUrl: "https://www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/samsung-unveils-upgraded-robots-ai-based-solutions-at-ces-2021-news-education-vblplDcafjdhf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
   - title: "Samsung JetBot 90 AI+ robot vacuum features a built in camera (Video)"
     excerpt: "Samsung has unveiled a new robot vacuum cleaner, the JetBot 90 AI+ and it comes with a built in cameras and is powered by Intel AI. The video below gives"
     publishedDateTime: 2021-01-12T09:12:00Z
@@ -163,22 +120,6 @@ related:
       - url: "https://i1.wp.com/9to5toys.com/wp-content/uploads/sites/5/2021/01/Bot-Handy-Samsung-CES-2021.jpg?resize=1200%2C628&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Samsung's smart home announcements include a robot with a big arm and a vacuum with LiDAR"
-    excerpt: "Samsung is one of the largest makers of smart home products, all connected through the company's SmartThings platform. Samsung has plenty to show off"
-    publishedDateTime: 2021-01-11T16:04:00Z
-    webUrl: "https://www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/"
-    ampWebUrl: "https://www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/?amp"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2021/01/11/samsungs-smart-home-announcements-include-a-robot-with-a-big-arm-and-a-vacuum-with-lidar/?amp"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 52
-    images:
-      - url: "https://www.androidpolice.com/wp-content/uploads/2021/01/11/CES-2021_Samsung-Press-Conference_Bringing-AI-and-Robots-to-Daily-Life.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Samsung showcases two futuristic home robots, also announces JetBot 90 AI+ vacuum cleaner & SmartThings Cooking"
     excerpt: "Samsung is one of the world’s largest electronics companies. The firm sells a wide variety of products across the world. Like any other tech giant, it has also announced certain cutting-edge home products at the virtual CES 2021 trade show."

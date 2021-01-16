@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-mark
 webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: MarketWatch
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Predictive healthcare analytics company Lumiata raises $14M"
-    excerpt: "The company sells those predictions to healthcare plans, as well as to providers, especially accountable care organizations, that are risk bearing health systems. \"If you're in the health plan world,"
-    publishedDateTime: 2021-01-14T12:02:00Z
-    webUrl: "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m"
+  - title: "Is AWS Panorama a Game-Changer for Video Analytics?"
+    excerpt: "What makes Amazon different is AWS’ deep roots in artificial intelligence; however, it is conceivable that the two are now competitors. Much like S&ST, Panorama technology enables integrators and end-users to deploy CV applications from multiple sources ..."
+    publishedDateTime: 2021-01-15T16:47:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21203570/is-aws-panorama-a-gamechanger-for-video-analytics"
     type: article
     provider:
-      name: Vator
-      domain: vator.tv
-    quality: 54
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
     images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/20897.jpg"
-        width: 320
-        height: 240
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/01/GettyImages_1199478432.5ffcc2cedffd1.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 667
         isCached: true
   - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
     excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
@@ -77,6 +77,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "VoiceBase Delivers Predictive Analytics to Slice, Giving Local Pizzerias a Bigger Piece of the Pie"
+    excerpt: "VoiceBase and Slice power delicious insights by processing pizza order calls with predictive analytics. San Francisco, CA, USA, Jan. 12, 2021 (GLOBE NEWSWIRE) -- VoiceBase, the leading AI-powered voice analytics company,"
+    publishedDateTime: 2021-01-12T11:49:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-computing-and-information-technology-data-mining-ae8c4a52c9a933596bd19df98b67282a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "HibjNP3nnsiOy7oB+B6qBYzDFag8PpjZxrl9+GOItinpyLJbExKUmZRRxqw+mmnWQnPiAs8B7tSoX4GVy6hnaUNIXMYZ3/B+2lF/kCSc1Bi7NfffS+LyCmuKPtgbWWDosquD6V9R1f2kAnt/fFRbH3jTo4HvWNmY2z/2ASlNDDY53IwV1r5jJK4OPrb4y5TkEKlyLIM3gdJwLQx5i9Ocu3yVJ3rClTJkgD65JvRCKwMty+3Y9PmwuVSYkDIffTxrR4i4lSm81dwJ5iRSCv20VIJxIYDNu3T20oK3YdNW5y9Ru536aFqEJDSUfPBr5a7dOMHa8rh42nmAzCd+MJfPA3XrnWGxI/rqL+++4ue1Ybk=;drZe76Q/ua/NY+6ymQEfMw=="
 ---

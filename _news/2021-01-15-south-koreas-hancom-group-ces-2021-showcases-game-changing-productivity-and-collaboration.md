@@ -96,6 +96,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-robotics-36120032652d479b8e56c1d5e0f280f5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
     excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
     publishedDateTime: 2021-01-15T06:13:00Z
@@ -104,7 +118,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 14
+    quality: 12
   - title: "StradVision and D3 Engineering Showcase a Market-leading Automotive Front Camera Solution at CES 2021"
     excerpt: "PRNewswire/ -- StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AV), today announced its collaboration with D3 Engineering on an Automotive Front Camera solution delivering market-leading performance and price efficiency."
     publishedDateTime: 2021-01-13T17:03:00Z

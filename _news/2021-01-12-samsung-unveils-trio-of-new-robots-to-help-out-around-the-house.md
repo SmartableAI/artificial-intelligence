@@ -9,8 +9,8 @@ ampWebUrl: "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-ro
 cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Evening Express
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung's new washers and dryers use AI to clean your clothes more efficiently"
-    excerpt: "Samsung announced a new series of front-load washers and dryers that use artificial intelligence to reduce the time it takes to clean your clothes. The new models are part of the Samsung 8800 Series that sit near the top of the 2021 range and will be the only models to use the new AI-powered Optiwash mode."
-    publishedDateTime: 2021-01-11T14:00:00Z
-    webUrl: "https://www.techradar.com/au/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently"
+  - title: "Samsung unveils home robot that does the dishes at CES 2021 – latest updates"
+    excerpt: "Samsung has showed off a robotic waiter and butler that can pour you wine and do the washing up. Bot Handy was briefly on display as part of Samsung's presentation at the Consumer Electronics Show in Las Vegas."
+    publishedDateTime: 2021-01-11T18:06:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/11/ces-tech-expo-swaps-vegas-virtual-event-latest-updates/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 83
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 56
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/H7pBB2544H9wYUgHdQ8zeW-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/01/11/LG-smartbed_trans_NvBQzQNjv4Bq3C4DDbsH65fm6X__oq5DkEHQvb2UFjW03QidnNDMhGA.jpg"
+        width: 690
+        height: 431
         isCached: true
   - title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
     excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."

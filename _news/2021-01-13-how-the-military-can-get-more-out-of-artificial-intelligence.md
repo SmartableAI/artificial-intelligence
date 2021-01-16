@@ -7,7 +7,7 @@ originalUrl: "https://www.airforcetimes.com/opinion/2021/01/13/how-the-military-
 webUrl: "https://www.airforcetimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "£3m to fund new wave of Artificial Intelligence for the military"
-    excerpt: "Phase 2 of Intelligent Ship, run by DASA on behalf of the Defence Science and Technology Laboratory (Dstl), sought novel technologies for use by the military in 2030 and beyond. Nine innovative projects have been funded,"
-    publishedDateTime: 2021-01-11T13:03:00Z
-    webUrl: "https://www.politicmag.net/politics-news/3m-to-fund-new-wave-of-artificial-intelligence-for-the-military-31950-2021/"
-    type: article
-    provider:
-      name: politicmag.net
-      domain: politicmag.net
-    quality: 37
-    images:
-      - url: "https://www.politicmag.net/wp-content/uploads/2021/01/3m-to-fund-new-wave-of-Artificial-Intelligence-for-the-military.jpg"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "CKE2omDuHqxBIjTefuupFSVujd0gJ3Lm5R/JgSIhOerp3ixqpJUrCa2BroHMG9MLPjwf3XNQ2QG5WydJMDS98JMJkymXF5IF6us/LDdtComeui5D2m20JdokKLnxZyKyqQbP5LX/TzPM2zkzpEVRTKL/RVY5Z9H/0yDMZsW/kE8PcCcplP1Vf7MkVnaMTiw/TWXsekHOX083n6BGuGU6f8ywY7Tr7ixyEE2TGGuRmr8hF5Eu5PYXYuRmZYcXoHJg+yNhPQ1RQiMPUAkzhBM3T6ZgGWBOcHQ+bRd1kMPGaaWgyA2IFdUtcOeJ8q+ACfc4HwAN/32fJ6pmktig8NqFtOSM9C0pGOpkKV8BvyGG811uUkNcsmoQsPqkNwQHTRh4Yv7OX3k4yPI2EKpPXTOmHAWv0Oh1aqD+YZUsfMD0FWjk4mH1TJUdLLdbfFsVX7lfTvX9FLTZmLPyCK7YjOJK6aapFXhAM5NgL49iTq+5aAe3A9hevkkCDmEcujY96w/joj8HmknyRBFxv/YxMXcFAA==;3PRMww2RCR1kKfzRju5S1w=="
 ---

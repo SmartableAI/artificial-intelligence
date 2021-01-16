@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-16T05:00:00Z
 originalUrl: "https://www.telegraph.co.uk/technology/2021/01/16/google-translate-pets-ai-wants-understand-cat/"
 webUrl: "https://www.telegraph.co.uk/technology/2021/01/16/google-translate-pets-ai-wants-understand-cat/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Daily Telegraph

@@ -99,20 +99,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CES 2021 Experience the Ultimate Daily Care Wearable Device Solution on 2020 CES by Taiwanese Startup"
-    excerpt: "Measurement Device” made impressive gains on the very first day of CES 2020 earlier this year, with deals struck with Saygus (US), Elotec (Norway), and IDCP (Netherlands). In the upcoming CES 2021, Cloudmed is expecting to earn another hit with an IoT healthcare device that fits exceptionally well the healthcare priorities during the COVID-19 pandemic."
-    publishedDateTime: 2021-01-11T15:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-lung-disease-coronavirus-pandemic-asia-9976c1185bb211be2ff939db2dee8bf7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
     excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone"
     publishedDateTime: 2021-01-12T15:13:00Z

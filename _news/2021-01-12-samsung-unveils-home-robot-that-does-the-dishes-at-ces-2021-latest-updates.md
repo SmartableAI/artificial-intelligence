@@ -27,22 +27,40 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung reveals smarter Family Hub fridge and a robo-vac that thinks it’s a guard dog"
-    excerpt: "Samsung’s big Galaxy S21 launch may be coming later this week, but it’s home appliances which are getting their moment in the spotlight today. Fresh for CES 2021 are updates in the"
-    publishedDateTime: 2021-01-11T14:00:00Z
-    webUrl: "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/"
-    ampWebUrl: "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/"
+  - title: "Samsung unveils trio of new robots to help out around the house"
+    excerpt: "Samsung has unveiled a range of new robots designed to help out around the home – capable of filling the dishwasher and even pouring owners a glass of wine."
+    publishedDateTime: 2021-01-11T18:09:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 67
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 59
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/samsung-ces-2021-home-appliances-1.jpg"
-        width: 1680
-        height: 1050
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/368c9412-3124-4fa6-809a-468ee7adf1ff-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
+  - title: "Robot maids: Samsung unveils three robot helpers at CES 2021, offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T19:27:00Z
+    webUrl: "https://www.adelaidenow.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    type: article
+    provider:
+      name: Adelaide Now
+      domain: adelaidenow.com.au
+    quality: 22
+  - title: "CES 2021: Samsung unveils three robot helpers offering to wash dishes, clean up"
+    excerpt: "It’s been a long time since The Jetsons predicted we’d be using robotic maids but, if you believe Samsung, that promise may finally be close."
+    publishedDateTime: 2021-01-11T21:39:00Z
+    webUrl: "https://www.dailytelegraph.com.au/technology/innovation/robot-maids-samsung-unveils-three-robot-helpers-at-ces-2021-offering-to-wash-dishes-clean-up/news-story/a27eb71b8f31a6bac163ca0d8f75ac32"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 15
 
 secured: "0A2taaOF2fgvv2FRInk2pCMp+9JY9UZXU7RIVTq0jgrVAj/IjYtR1D4C/mAOzsw67mOq7cTnBpvPCQFtuzbo3DDfaRO5Ii65d3mnAS1fKVgyAcPhrUytPHbkbg4yAMKjXNSK3URm7XsxmNFNRmYgKM4z0HmgZ1myGkMxtil9Eved247aySuIoJEh+v1NYqjSIZRSeF5PmDAcBOZ8tk/hdFsNi2Qb5Z0+D93fOWV214ygZg+V4Gr5xHkzqXf/Qu9ATMW8bM9vl+zwva2McBbkPW4wCDlWuxPbJqFGb3AYV6CqFJMk9hjMAlfjpHFEichgyr/zxp1LCSBX0vvUINYmwIt/aax+87JuDDf0+0HZXvk=;rL62Zm8tYsyxKLMPYu0WaQ=="
 ---

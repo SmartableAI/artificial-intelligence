@@ -95,6 +95,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
+    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
+    publishedDateTime: 2021-01-12T09:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-robotics-36120032652d479b8e56c1d5e0f280f5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "South Korea's Hancom Group CES 2021 Showcases Game Changing Productivity and Collaboration"
     excerpt: "At this year's All Digital CES 2021, Hancom Group is showcasing some of the companies' most innovative technology. These include"
     publishedDateTime: 2021-01-14T17:00:00Z
@@ -117,7 +131,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 14
+    quality: 12
 
 secured: "s4Cj2Qdei4mzb2eIrEw3dRam0pU7jtj+hnN9RVw0piAvRJMWL1oVEV2AUJyYFkROea/AUVm940h3qR8d0xfPYrzYiPJbh+5IyEpLqekgs3wttyIxXBaLJMIaMe/JWHSt8FrPhB4NG+RhtA2xClgrOGt0EKBU6gx5oQvvTAmiLnOmC6diuMHOvKfmhPzsBVlUpAfdLuPzpxcVK94BW4ZacZQKvxfUVrqfY6DAC+HbOZHHzFwkq5gbTT6zKnGB0PWoANJk30Zm9Kd1bVlx1dJi82JwJNKySW6utGvl1i+R3jkP9jgWMA3CveohPHFoM+KXW0lvwHMVzb7OfpnJ7wZmyI2WnN2pNueYqR9SbYZOGt0=;xrDMkd5euzp+uVUFAdLAMw=="
 ---

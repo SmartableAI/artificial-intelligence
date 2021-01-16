@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Oqton raises $40 million to apply AI to additive manufacturing"
+    excerpt: "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million.Read"
+    publishedDateTime: 2021-01-16T07:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oqton-raises-$40-million-to-apply-ai-to-additive-manufacturing-9699103"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/oqton-raises-$40-million-to-apply-ai-to-additive-manufacturing-9699103"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oqton-raises-$40-million-to-apply-ai-to-additive-manufacturing-9699103"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Oqton raises $40 million to apply AI to additive manufacturing – Jaweb"
     excerpt: "Oqton, a startup developing a factory operating system that integrates engineering software with manufacturing hardware, today raised $40 million. The company says the funds will be used to further develop Oqton’s platform while expanding its commercial partnerships in markets including additive manufacturing,"
     publishedDateTime: 2021-01-15T08:45:00Z
