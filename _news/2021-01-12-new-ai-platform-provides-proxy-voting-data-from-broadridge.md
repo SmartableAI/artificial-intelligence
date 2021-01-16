@@ -1,43 +1,20 @@
 ---
 category: news
 title: "New AI Platform Provides Proxy Voting Data from Broadridge"
-excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy"
-publishedDateTime: 2021-01-12T12:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
+excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data,"
+publishedDateTime: 2021-01-12T12:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
+webUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "New AI platform provides proxy voting data from Broadridge"
-    excerpt: "Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
-    publishedDateTime: 2021-01-12T17:31:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provides-proxy-voting-data-from-broadridge"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
-
-secured: "n6nFiJOcS98sbfivB45xY/hDO8RyM9nhALtVDGDnyLbZFdP6z0/JL9DvT5FgBn0RekvH7F6R+waUmUf8ijTSAnqhxvmjV2bb0IASUdT9N5spCMlsP5GEcD1PDnMTPlXx8XiayAl/Rw0GcmJ0xmLXBxWX+JunpNGLzWIvxFtkeKxYBcmClgy98fRi8GyoJJPnwFNyfeaOrfZT2hqvr3naRtF0MGfRA9wsOZ1KHtIWXJXMBXzum7gXBcPXELr4vlIkCYJciJVs877lR+6HKpnPkD6poNBUM5PQSZAHbzSIE42PSiAR4RW4N36zFb/d6mA10zZSs1dTX4ynNZRHzPA/PlGuuCJj3Yskd2KE2Gv16KA=;VHIAemzKUQESJi4fGd3BuQ=="
+secured: "NPOhQWNX/VEjulT2GmVmUOEjRaEPYGAcldaXIinNLE5USWkqoO6FLHqCo6i23M2/yPYs4HjSCwscfbWLcnuWhn9vD8JvAbMXyOG/+V09fjsx5K8LOiP1m7Enl7qXN2izS/JBMNFRyDT4PsqPsH0hcllruxIQU4bO39Sn8pZTqVmNg29ZV0+SYkuNhT6QnnCcnJT5NuSeWylE8DQ0LBhJfxJaJK//ppVFcoQEmgx0kVNunSj9bVtYDImkPGtrz49E41fmS6Nwja/BiyWHhrYRf0dtvCHBZcCEscmmQtHLbuV59z6wi3lrF91H6u2Hi1NRak9eezWd6lsN0R7Jy7hh/1t0SMYygpsoOv+clMjm9EA=;nj2OBxWBxdYKBN7jVDzWuQ=="
 ---
 
