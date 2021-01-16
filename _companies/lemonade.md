@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lemonade_inc"
   url: "https://twitter.com/lemonade_inc"
-  followers: 23340
+  followers: 23348
 
 size: 51-200 employees
 yearFounded: 2015
