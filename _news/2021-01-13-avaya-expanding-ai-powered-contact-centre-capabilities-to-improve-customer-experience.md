@@ -27,33 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
-    excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
-    publishedDateTime: 2021-01-12T21:38:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
+  - title: "Avaya Extends AWS Relationship to Support AI Capabilities"
+    excerpt: "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday."
+    publishedDateTime: 2021-01-12T23:10:00Z
+    webUrl: "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 56
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 54
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
-    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
-    publishedDateTime: 2021-01-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png"
+        width: 272
+        height: 270
         isCached: true
   - title: "Avaya partners with AWS to expand AI-powered customer experience for OneCloud CCaaS customers"
     excerpt: "Avaya expands its AI-powered customer experience capabilities for Avaya OneCloud CCaaS customers, through a relationship with AWS."
@@ -69,84 +55,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
-    excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
-    publishedDateTime: 2021-01-13T06:48:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-79f9d1d533c146dfb3f18a412be7b521"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Avaya expands AI-powered contact centre functionalities with AWS"
-    excerpt: "Avaya expanded its artificial intelligence (AI)-powered customer experience functionalities for Avaya OneCloud CCaaS customers, through an extended relationship with Amazon Web Services (AWS). As an AWS Partner offering AWS Contact Center Intelligence (CCI) products,"
-    publishedDateTime: 2021-01-13T10:02:00Z
-    webUrl: "https://www.telecompaper.com/news/avaya-expands-ai-powered-contact-centre-functionalities-with-aws--1368430"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
-  - title: "Cresta to Bring Real-Time Intelligence to Contact Centers with AWS Contact Center Intelligence Solutions"
-    excerpt: "PRNewswire/ -- Cresta, the real-time intelligence platform for customer conversations, today announced its participation as a launch partner for the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions."
-    publishedDateTime: 2021-01-13T06:57:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-07a11d28771afaad2dc708a07e156c53"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CallRevu Enhances Its Communication Intelligence (CI) Platform"
-    excerpt: "CallRevu's CI Platform is powered by artificial intelligence to provide insights into customer communications."
-    publishedDateTime: 2021-01-15T10:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144703"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 22
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
-  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-    excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
-    publishedDateTime: 2021-01-12T21:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 21
-  - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
-    excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
-    publishedDateTime: 2021-01-12T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210112005076/clarabridge-cx-analytics-launches-aws-contact-center-intelligence-solution"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
-  - title: "Avaya expanding AI-powered contact centre capabilities to improve customer experience, participating with AWS Contact Centre Intelligence"
-    excerpt: "Avaya has joined the AWS Partner Network (APN) as an AWS Select Technology Partner. As an AWS partner offering AWS Contact Centre Intelligence (CCI) solutions, Avaya can enable customers to leverage AWS AI Services and Machine Learning (ML) capabilities to drive more rewarding customer and employee experiences across both voice and digital channels through natural,"
-    publishedDateTime: 2021-01-15T00:05:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137127/avaya-expanding-ai-powered-contact-centre/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 1
 
 secured: "VkLSXK9PyQ5VFsrvQxWHYDwm5QEVmT9+afL/qf6TjSTLb/IbRERJ5odhimKxxBD/Nd/Ys8nqU3eFpFstsZpCa93+uBRharT9i6Rgc6+oBacoETf0Ql5HRHZodVgg07lcaaBcVor2NXxLFfrJn+vgShzMHxK6i4mHeV++rsWHXHCz6yFbxXZczD16ixsWEdcRpTOuXcCyzKTtTKoShXG6fy99LD20Gps2dM+DcTXJy70riuEC2i2OWEJTdGO6fBGwa+7Rw5IczH7In4PXTrQ+1hlo2152SkK1lNk10UibuUg+5iEs9kVCL8CKRUKp236HcEFRycRIrjVVaGYnApyVkboWw9xgjNdE22sMQ3cG0aw=;ck3adAc8v217/sNJm8yZAg=="
 ---

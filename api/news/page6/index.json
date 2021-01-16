@@ -2,6 +2,160 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-12-scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are.md",
+      "title": "Scientists use supercomputers and AI to determine how good (or deadly) your street drugs are",
+      "excerpt": "A team of researchers from the University of Victoria have developed an AI system capable of determining the expected chemical makeup of drugs. While it involves supercomputers and a robust cocktail of cloud-based machine learning technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/drugs-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/amp/",
+      "publishedDateTime": "2021-01-11T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-how-ai-will-guide-corporations-part-1-by-redefining-roles.md",
+      "title": "How AI Will Guide Corporations, Part 1: By Redefining Roles",
+      "excerpt": "For the first article in my three-part series, I’ll walk you through how, guided by AI, executive roles within companies will change in the 2020s. Companies have long assigned new responsibilities to some executive roles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5643b70f34f885c49aa56%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/amp/",
+      "publishedDateTime": "2021-01-11T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021.md",
+      "title": "Argus Research Analysts Highlight 5 Of Their Top Stock Picks For 2021",
+      "excerpt": "Several leading experts from Argus reveal their favorite investment ideas for the year ahead — included as part of our annual MoneyShow 2021 Top Picks report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
+      "originalUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc9778d3d641fe5ab07647%2F0x0.jpg",
+          "width": 1200,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
+      "publishedDateTime": "2021-01-11T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-meet-the-researcher-creating-more-access-with-language.md",
       "title": "Meet the researcher creating more access with language",
       "excerpt": "When you’ve got your hands full, so you use your voice to ask your phone to play your favorite song, it can feel like magic. In reality, it’s a more complicated combination of engineering, design and natural language processing at work, making it easier for many of us to use our smartphones. But what",
@@ -1115,143 +1269,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-baidu-teams-up-with-geely-to-create-new-self-driving-car-company.md",
-      "title": "Baidu teams up with Geely to create new self-driving car company",
-      "excerpt": "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "publishedDateTime": "2021-01-10T19:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-police-use-of-clearview-ais-facial-recognition-tech-spiked-after-capitol-raid.md",
-      "title": "Police Use of Clearview AI's Facial Recognition Tech Spiked After Capitol Raid",
-      "excerpt": "Clearview AI’s controversial facial-recognition app has seen a spike in use as police track down the pro-Trump insurgents who descended on the Capitol on Wednesday. With so many of those idiots snapping selfies and livestreaming the raid as if it was a school field trip,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687",
-      "originalUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lk5ifyehxrqpzqqo03oe.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-use-of-clearview-ais-facial-recognition-tech-spi-1846030687/amp",
-      "publishedDateTime": "2021-01-10T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru.md",
-      "title": "AI all-women crew takes off on historic flight to Bengaluru",
-      "excerpt": "Air India has said this will be the longest commercial flight in the world to be operated by it or any other airline in India.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965.html",
-      "originalUrl": "https://www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/01/10/550x309/air-india_bc7e11cc-3c68-11eb-b180-736642f23257_1610318151794.jpg",
-          "width": 549,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965-amp.html",
-      "publishedDateTime": "2021-01-10T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

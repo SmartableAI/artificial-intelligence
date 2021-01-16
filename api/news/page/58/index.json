@@ -2,6 +2,143 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-11-27-ibm-smart-lineup-decisions-for-nfl-week-12.md",
+      "title": "IBM Smart Lineup Decisions for NFL Week 12",
+      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
+      "originalUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1126%2Fr781106_1296x729_16%2D9.jpg",
+          "width": 1298,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
+      "cdnAmpWebUrl": "https://www-espn-co-uk.cdn.ampproject.org/c/s/www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
+      "publishedDateTime": "2020-11-27T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ESPN",
+        "domain": "espn.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-artificial-intelligence-in-healthcare-global-market-forecast-to-2027.md",
+      "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2027",
+      "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to 2027\" - https:/",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944",
+      "publishedDateTime": "2020-11-27T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-2021-will-see-the-spread-of-ai-and-automation-in-the-workplace.md",
+      "title": "2021 will see the spread of AI and automation in the workplace",
+      "excerpt": "Andy Watson, senior vice president for Asia, Pacific, Japan, and Greater China at SAP Concur, says many organizations will turn to automation and AI in 2021 as a way to address key business pain points and simplify cumbersome processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "originalUrl": "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/11/06/540c3182-e4b1-44c2-af38-c8091a4facbf/resize/1200x/150cde9b43159f6cdf2dbe7fcd0158e1/istock-1205428317.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "publishedDateTime": "2020-11-27T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-another-city-is-using-crime-control-as-an-excuse-for-facial-recognition-surveillance.md",
       "title": "Another City Is Using Crime Control as an Excuse for Facial Recognition Surveillance",
       "excerpt": "Varanasi in India is installing 3,000 CCTV cameras with automated facial recognition tech at the city’s crossings.",
@@ -1080,153 +1217,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-speech-recognition-market-growth-analysis-by-application-scope-and-regional-demand-over-2020-2027.md",
-      "title": "Speech Recognition Market Growth Analysis by Application Scope and Regional Demand Over 2020-2027",
-      "excerpt": "Allied Market Research Published Latest Report titled, “Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End Use (Consumer Electronics, Healthcare, Enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2196861/speech-recognition-market-growth-analysis-by-application-scope",
-      "originalUrl": "https://www.openpr.com/news/2196861/speech-recognition-market-growth-analysis-by-application-scope",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb26571497_g.jpg",
-          "width": 790,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2196861/speech-recognition-market-growth-analysis-by-application-scope",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196861/speech-recognition-market-growth-analysis-by-application-scope",
-      "publishedDateTime": "2020-11-26T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-robotics-researchers-propose-ai-that-locates-and-safely-moves-items-on-shelves.md",
-      "title": "Robotics researchers propose AI that locates and safely moves items on shelves",
-      "excerpt": "Robotics researchers at Google and the University of California, Berkeley propose methods that help robots to more accurately move objects.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
-      "originalUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/39049f7f-901d-4bf1-8a64-af2737f6b89f-e1606343440372.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 895,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
-      "publishedDateTime": "2020-11-26T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-security-startup-helia-raises-3m-from-silicon-valley-investors.md",
-      "title": "Security Startup Helia Raises $3M From Silicon Valley Investors",
-      "excerpt": "Helia is headquartered in San Francisco and founded by Indian origin entrepreneur Ashwin Sreenivas along with Russell Kaplan and Daniel Berrios",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360475",
-      "originalUrl": "https://www.entrepreneur.com/article/360475",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606401128-heliaeditfinal.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360475",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360475",
-      "publishedDateTime": "2020-11-26T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

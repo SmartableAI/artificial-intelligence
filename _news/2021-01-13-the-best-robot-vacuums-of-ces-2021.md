@@ -300,20 +300,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "CES 2021: Now AI can detect Alzheimer’s"
-    excerpt: "A biotech startup claims that AI brain mapping with an electroencephalogram (EEG) can now detect pre-clinical Alzheimer’s dementia. At CES 2021, iMediSync has launched an EEG digital biomarker for early detection of Alzheimer’s dementia on their AI cloud platform,"
-    publishedDateTime: 2021-01-11T08:30:00Z
-    webUrl: "https://gadget.co.za/ces21-ai-can-detect-alzheimers/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 37
-    images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2021/01/iMediSync-Image-1.png?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the ..."
     excerpt: "Bosch's tagline at CES 2021 Bosch as a pioneer in climate action: Under the tagline “Sustainable #LikeABosch,” the company will be presenting intelligent, sustainable solutions for health, living, and mobility at the virtual tech trade fair CES 2021."
     publishedDateTime: 2021-01-12T09:52:00Z

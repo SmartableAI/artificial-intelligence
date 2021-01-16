@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-16-aws-goes-big-with-contact-center-intelligence.md",
+      "title": "AWS Goes Big with Contact Center Intelligence",
+      "excerpt": "Artificial intelligence is redefining contact centers and AWS is taking a leading position. We are two weeks into 2021, and Amazon Web Services has wasted no time in making a splash in the contact center industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
+      "originalUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T16:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-upstart-ceo-on-using-artificial-intelligence-to-modernizing-lending.md",
+      "title": "Upstart CEO on using artificial intelligence to modernizing lending",
+      "excerpt": "Upstart CEO Dave Girouard joined Jim Cramer on \"Mad Money\" to explain how the online marketplace seeks to transform bank lending by matching borrowers with lenders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/01/15/upstart-ceo-on-using-artificial-intelligence-to-modernizing-lending.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/01/15/upstart-ceo-on-using-artificial-intelligence-to-modernizing-lending.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106825631-16107556956ED3-MM-D-BLOCK-011521.jpg?v=1610755694",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T14:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-want-to-work-with-robots-all-day-heres-what-you-need-to-do.md",
       "title": "Want to work with robots all day? Here's what you need to do.",
       "excerpt": "Today, robots are doing much more than assembling cars. Robots work in the retail, security, hospitality, and logistic industries. These robots and robotic services include drones, chatbots, security patrols,",
@@ -1044,49 +1148,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-tackling-subjectivity-in-hiring-with-ai-and-machine-learning.md",
-      "title": "Tackling subjectivity in hiring with AI and machine learning",
-      "excerpt": "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670373",
-      "originalUrl": "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670373",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-artificial-intelligence-creates-tremendous-changes-for-the-direction-of-marketing.md",
       "title": "Artificial Intelligence Creates Tremendous Changes for the Direction of Marketing",
       "excerpt": "Artificial intelligence has entered numerous facets of our lives. Here’s how it is revolutionizing the business world by changing the marketing landscape.",
@@ -1181,57 +1242,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
-      "title": "Can an AI Predict the Language of Viral Mutation?",
-      "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "originalUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "publishedDateTime": "2021-01-14T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/apple-canoo-acquisition-investment-report-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
-    excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
-    publishedDateTime: 2021-01-11T08:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130863_hyundai-and-apple-to-reportedly-build-self-driving-ev-in-us-from-2024"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/apple-store_100528844_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Apple reportedly discussed acquiring EV startup Canoo"
     excerpt: "The Verge, citing people familiar with the matter, reported Tuesday that Apple held talks with Canoo in the first half of 2020 over options ranging from an investment to a full acquisition. According to the sources,"
     publishedDateTime: 2021-01-13T12:00:00Z

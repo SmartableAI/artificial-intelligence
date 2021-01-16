@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

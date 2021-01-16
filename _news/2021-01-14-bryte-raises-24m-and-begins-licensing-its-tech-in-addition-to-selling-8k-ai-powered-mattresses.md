@@ -44,22 +44,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Cyber Security Consultant Alexander Mirvis Teaches People to Deal with Telemarketing Frauds and Scammers Using AI Bot, Lenny"
-    excerpt: "Alexander Mirvis, an IT consultant and a professional personal injury Legal Negotiator is out to lend a hand in helping people deal with"
-    publishedDateTime: 2021-01-11T08:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/ab19094342/cyber-security-consultant-alexander-mirvis-teaches-people-to-deal-with-telemarketing-frauds-and-s"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19094342"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19094342"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.abnewswire.com/uploads/1610154503.png"
-        width: 1617
-        height: 1051
-        isCached: true
 
 secured: "Ueuem2PYZvelAI4tDPdSNRS6IgSkeo7cn9IxoZtQLTD1mWoOc5vwwz2S8DIiOjH0wp7pXt2gta1/I6dGYQ0KPLGQmLbzz3ICbaMqMcg5gjGRt9p4Bor3F/y52R0NSyVl6KhLeUQdsWvb8snXdfasZ4xHeqppkG6OjvKSGd2q0GosafNuVImhjUsJcymifzm/t/ECiJ/JrulpI+8DJ0Pk9788zwtU52gpJboant6Js/oBSmLRtVMGSJ7cJl/aVgBWl7k20Z1mzRkUJSv18aMMC8BSUjbye0l+eAnYbX0bk/PP3z8IZr6OaYLwrUQo1Vnu+JsCaEAqWi7BRrnxV+EB8McM/tC5GPHZS0kk10FB4lHuun5ymI007tqSBxvaeVfKZqBJkQ/pqZXmZ+fA8E2aUJig2V8jy4bqzx18XLZJfZj6lawSRJzSrD199TLHEstD8AJ/fpgIgbj9lri89LYqCecPBS/0kIO4DHqIRzKVE1fHNGGH5EllQVrVTWaKQp352wfi8ep4GBY3MMBEcHYSxg==;zdhcdOt0ge607ShTqmLTPw=="
 ---

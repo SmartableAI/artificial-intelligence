@@ -222,15 +222,6 @@ related:
         width: 1920
         height: 1113
         isCached: true
-  - title: "Facial recognition that works with masks"
-    excerpt: "With so many casinos now implementing facial recognition systems it is interesting that a Japanese company has introduced one that will work even when guests ar"
-    publishedDateTime: 2021-01-11T07:51:00Z
-    webUrl: "https://www.intergameonline.com/casino/news/facial-recognition-that-works-with-masks"
-    type: article
-    provider:
-      name: InterGame
-      domain: intergameonline.com
-    quality: 19
 
 secured: "Lcao2DYX9ANGzuYjjXVVBQFI9GAj8NtByWkkaJ5SU43chX5lVFG7FldRuSIOe9wYwrVBDwoMgFiKUz9uqSXNGv9F/eLMn/ux/dHb95Ik5tvraYXpfxfYrsMrgzy3RxuIDj/QZbhRfq9fbsb48N8Edx3X8WP8hZQxzAPzuoD5gfYg2d7KZmVF/AiYqeOxRLRtt4kmA8iyCFbq5yV61CAbVb9kp0v3Hj2pgx0sMdMfBn5hFOhPXdd6S+Vce9B8iCvMZipo1zDa786HFcGsjUpxBGZ7+nNIuqFjKKdWRrMZCHaH0bp8cOn2WB3j8cWISY11c3Em1iTBm84v+4BAVfJOkbljiHy523ccqiC4qI5ZrnriSGUUG0sGxhnMHj9sgY+EXYTUyarvuE3nxyhRxXCOroCiESTEfj1npxN85sKk21WEOWzPKjqkQ2FRsQgYzKQbmp6DxVP6qaTQ/T59quzJlecWFf0GBftkhVJmqpO5OEvAGYzYl9W36QrMWRxjaN6fujpLkNTlmQlE4hikWvvFAg==;PfPZRTz4/8BR+R6+sgyoZw=="
 ---

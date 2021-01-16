@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-16-aws-goes-big-with-contact-center-intelligence.md",
+      "title": "AWS Goes Big with Contact Center Intelligence",
+      "excerpt": "Artificial intelligence is redefining contact centers and AWS is taking a leading position. We are two weeks into 2021, and Amazon Web Services has wasted no time in making a splash in the contact center industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
+      "originalUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T16:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk.md",
       "title": "Automating Amazon Personalize solution using the AWS Step Functions Data Science SDK",
       "excerpt": "Machine learning (ML)-based recommender systems aren’t a new concept across organizations such as retail, media and entertainment, and education, but developing such a system can be a resource-intensive task—from data labelling, training and inference, to scaling. You also need to apply continuous integration,",
@@ -151,21 +204,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-aws-expands-its-ai-powered-contact-center-intelligence-cci.md",
-      "title": "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)",
-      "excerpt": "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers.",
+      "path": "_news/2021-01-13-avaya-extends-aws-relationship-to-support-ai-capabilities.md",
+      "title": "Avaya Extends AWS Relationship to Support AI Capabilities",
+      "excerpt": "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
+      "webUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
+      "originalUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png",
+          "width": 272,
+          "height": 270,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -175,11 +228,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:38:00-08:00",
+      "publishedDateTime": "2021-01-12T15:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -189,9 +242,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1381,49 +1433,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-senzing-delivers-first-serverless-entity-resolution-for-aws.md",
-      "title": "Senzing Delivers First Serverless Entity Resolution for AWS",
-      "excerpt": "Provides Breakthrough Price Performance for Cloud-based DeploymentsLAS VEGAS, Dec. 18, 2020 (GLOBE NEWSWIRE) -- Senzing, Inc., an innovative artificial intelligence-based (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43079599/senzing-delivers-first-serverless-entity-resolution-for-aws",
-      "originalUrl": "https://www.wboc.com/story/43079599/senzing-delivers-first-serverless-entity-resolution-for-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

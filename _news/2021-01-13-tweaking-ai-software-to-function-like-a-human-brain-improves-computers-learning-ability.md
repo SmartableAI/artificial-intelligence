@@ -24,15 +24,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Tackling subjectivity in hiring with AI and machine learning"
-    excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
-    publishedDateTime: 2021-01-15T00:56:00Z
-    webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670373"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 64
   - title: "Programming tweak helps AI software imitate human visual learning"
     excerpt: "Using a novel programming tweak, a pair of neuroscientists have managed to replicate human visual learning in computer-based artificial intelligence."
     publishedDateTime: 2021-01-12T14:20:00Z
@@ -49,33 +40,49 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "HireVue Leads the Industry with Commitment to Transparent and Ethical Use of AI in Hiring"
-    excerpt: "HireVue, the global leader in video interviewing, assessments, chatbot and recruiting automation technology, today made two announcements to extend its leadership position defining the transparent and appropriate use of AI and software as part of the hiring process."
-    publishedDateTime: 2021-01-12T16:42:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
+  - title: "FDA Releases Action Plan for AI, Machine Learning Medical Software"
+    excerpt: "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach."
+    publishedDateTime: 2021-01-13T09:30:00Z
+    webUrl: "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "FDA Outlines Plan for AI and Machine Learning-Based Software"
+    excerpt: "FDA has released its holistic approach toward giving guidance for artificial intelligence and machine learning solutions. The federal agency’s first AI/ML-Based Software as a Medical Device Action Plan outlines five actions that the FDA intends to take,"
+    publishedDateTime: 2021-01-13T21:31:00Z
+    webUrl: "https://www.mddionline.com/regulatory-quality/fda-outlines-plan-ai-and-machine-learning-based-software"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 54
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan132021at40448PM.jpg"
+        width: 770
+        height: 400
+        isCached: true
+  - title: "Computer's learning ability improved by tweaking AI software to function like a human brain: Study"
+    excerpt: "Washington: Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
+    publishedDateTime: 2021-01-13T03:56:00Z
+    webUrl: "https://www.freepressjournal.in/science/computers-learning-ability-improved-by-tweaking-ai-software-to-function-like-a-human-brain-study"
+    ampWebUrl: "https://m.freepressjournal.in/article/science/computers-learning-ability-improved-by-tweaking-ai-software-to-function-like-a-human-brain-study/53b6bdeb-3988-479e-a190-7f56274e8878"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/science/computers-learning-ability-improved-by-tweaking-ai-software-to-function-like-a-human-brain-study/53b6bdeb-3988-479e-a190-7f56274e8878"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
     quality: 45
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Opening the black box: AI, applied"
-    excerpt: "In the accounting profession, there is a similar uneasiness when dealing with the idea of AI, though it has nothing to with how the software looks. The technology has the potential for high-level automation of processes,"
-    publishedDateTime: 2021-01-11T14:08:00Z
-    webUrl: "https://www.accountingtoday.com/news/opening-the-black-box-ai-applied"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 41
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/538890f/2147483647/strip/true/crop/3150x1654+0+1048/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F18%2F95%2Fa04124434b48ac7dbdc768334c53%2Fact1021-cover-image.jpg"
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-01/ef759e74-46a5-41de-80fd-867de78f47ad/etc_3rd_lead_jan_12.jpeg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "Tweaking AI software to function like a human brain improves computer's learning ability"
     excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
@@ -91,6 +98,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Computer's learning ability improved by tweaking AI software to function like a human brain: Study"
+    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
+    publishedDateTime: 2021-01-12T08:03:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210112/3689643.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 5
 
 secured: "wOV5IhJ47geNx3if3otxHIB8TOx3QHn+Kz/NY/Nr32Xw7z4BfM8+dvE4gXRSfJhFVM8ib0rS8NbdpUqTCjkTfnRnIti0XpY1RjOeiGNEdLL9eCAK7wM+FzTYPNzduMy1kdpwrD+i41Up20T5xMswf65TIhwvnUuhkQJ/oRivAtGSC05dGrQUEfJGMhnleGOES22U95Eu4G2qidd0c6l2ASaIvC+yPxJ6a8ba3rC8gs6NzonyM/6U87iLmP5jfnE9bZyqu9T9AWFnt2pvVkpM6wy874xWleThouYSdobyE41oC35EVwpxf6Sc/JxZl4uRZpphX2CE+I3OPJbv3fKNMmtCMC4BxhhHldZIlwOVtG8=;CCGRf0paHVDF76B+sDaBcQ=="
 ---

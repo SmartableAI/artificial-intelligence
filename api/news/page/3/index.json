@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-14-autonomous-vehicle-startup-weride-raises-320-million.md",
+      "title": "Autonomous vehicle startup WeRide raises $320 million",
+      "excerpt": "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/1_owq-V2IrljRj2C9YoZNnkA-e1610586000900.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/",
+      "publishedDateTime": "2021-01-13T17:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions.md",
       "title": "Machine Learning Market Outlook, Size, Share and Growth and Forecast Assumptions",
       "excerpt": "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -254,6 +305,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-14-callrevu-uses-ai-machine-learning-for-latest-dealer-solution-upgrade.md",
+      "title": "CallRevu uses AI & machine learning for latest dealer solution upgrade",
+      "excerpt": "CallRevu recently upgraded its communications intelligence (CI) solution to help dealerships monitor and improve their communications with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoremarketing.com/technology/callrevu-uses-ai-machine-learning-latest-dealer-solution-upgrade",
+      "originalUrl": "https://www.autoremarketing.com/technology/callrevu-uses-ai-machine-learning-latest-dealer-solution-upgrade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autoremarketing.com/sites/default/files/CallRevu%20for%20web.png",
+          "width": 880,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T11:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto Remarketing",
+        "domain": "autoremarketing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection.md",
       "title": "Surveillance group exposes disturbing Huawei patent for AI-powered Uighur detection",
       "excerpt": "Researchers from IPVM revealed that Huawei and a range of other Chinese tech firms have filed patents for spotting Uighurs and other ethnic groups.",
@@ -459,7 +553,7 @@
       "originalUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -614,7 +708,7 @@
       "originalUrl": "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 318,
+      "heat": 308,
       "tags": null,
       "images": [
         {
@@ -1155,89 +1249,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-rugged-computer-artificial-intelligence-ai-edge-supercomputing.md",
-      "title": "rugged computer artificial intelligence (AI) edge supercomputing",
-      "excerpt": "News Highlights: rugged computer artificial intelligence (AI) edge supercomputing. SUGAR LAND, Texas - System Inc. in Sugar Land, Texas, introduces the",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
-      "originalUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/rugged-computer-artificial-intelligence-AI-edge-supercomputing.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
-      "publishedDateTime": "2021-01-12T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI could be the 21st century’s biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future; it’s here.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/",
-      "originalUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/01/artificial-intelligence-stocks-the-10-best-ai-companies-2/amp/",
-      "publishedDateTime": "2021-01-12T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Facebook AI",
-        "IBM AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

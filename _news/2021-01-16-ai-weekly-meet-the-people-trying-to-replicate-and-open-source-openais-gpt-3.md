@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-15T19:33:00Z
 originalUrl: "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/"
 webUrl: "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all"

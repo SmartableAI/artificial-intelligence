@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/video/363273"
 webUrl: "https://www.entrepreneur.com/video/363273"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/01/5efbb2d25eee78c62357c2c4_ForHome-hotspots.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Cyber Security Consultant Alexander Mirvis Teaches People to Deal with Telemarketing Frauds and Scammers Using AI Bot, Lenny"
-    excerpt: "Alexander Mirvis, an IT consultant and a professional personal injury Legal Negotiator is out to lend a hand in helping people deal with"
-    publishedDateTime: 2021-01-11T08:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/ab19094342/cyber-security-consultant-alexander-mirvis-teaches-people-to-deal-with-telemarketing-frauds-and-s"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19094342"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19094342"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.abnewswire.com/uploads/1610154503.png"
-        width: 1617
-        height: 1051
         isCached: true
 
 secured: "EC8wqGqxAVzxzapKv+MmHcuKJe/wBcWVkv4ioCNXTH5Sbo9nGfxUhjHQZpHmt90dczB0NZV2aNLYr7BDiUCfaZcFtEDt8rtJBbxwZSmKXg8/X718cZouW688BKJxe4CfniDpyeCfYO9wcp2hsXu4iHNu1e0pO8/LUxNaVLL34cuZAb7djlT8XxXyzNGlqzhCAOsBC/wAY2Btxgd7L4o51lGehtW4cGl82tyrhymB2/Y6QzpwYpyIp/2eKhgXGbgnjh1gf2RIglp+qpbqV3fVo1cS5X2vgilG517ZdyhI/NhgMB5G2sZZ5fmOEo9w9fEIAydiOlm/ajtk3KG1VMNPvfCKv7Czza8EHTobEML7heAoo3mfzqK7TEswnOj9Emjx1DdUvnYspA1GBppe7dC5nTKMVIoxcjYx9FL0E2ArGoN0o6OPrrYv/NSBwWLkFOjhz/ju+WowNKCpzt2lUGss9r63kbtnlflBhuRU5Z6Vu0Wmc+ZFzlszXwItc4JVyP+rvfjSs92Q3stBcLWfZFy8HA==;bZzAUeBTMpAAKkDCE/TEMA=="

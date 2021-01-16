@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
 type: article
 quality: 106
-heat: 246
+heat: 236
 published: true
 
 provider:
@@ -227,15 +227,6 @@ related:
         width: 1920
         height: 1113
         isCached: true
-  - title: "Facial recognition that works with masks"
-    excerpt: "With so many casinos now implementing facial recognition systems it is interesting that a Japanese company has introduced one that will work even when guests ar"
-    publishedDateTime: 2021-01-11T07:51:00Z
-    webUrl: "https://www.intergameonline.com/casino/news/facial-recognition-that-works-with-masks"
-    type: article
-    provider:
-      name: InterGame
-      domain: intergameonline.com
-    quality: 19
 
 secured: "dzLK0ZEjecOgeWsHkpL5KN+2Sh29bkPv42BQaVhc+aMIlVsF0SPlbDhMMAPpFVRsNNOGoW63mgTsue4hOxy/3odg01kTWvgU/jxYxajxH4jLinexyD+mdgEtyzTQ9hKkWhfQGci9Ivyh1aqTV3ikuWJBlRv90aqtZRDExeojlRJyQW4G9gZ+SWzH2J+6lyYGcmNSHSS3hVpB8/oSakXVH+aQf0YCHeYrnypuGpaKZyOs6XSmPiDe9p5sL7N93hL2DTzKZwDZ43O1mocLr5yTgJDTOZRJ2FNrRap9AQeeT8qaBQnlLWzyJlxlTLODDkdC+QWVxKmKtTxWi90ewqIQqB83AO++oPw8nGd58NfPF7OAgJj7rVMKCJExi6PQ4tigXBW3qG5btb48LveQT9ZWtP0X5ATxmyqSSjuliCMuy6AJvb/7SWPVW6NQ+5W597YnvyY5AV2uV/18WG3F9G46d3vjLqEuRJBx3FIgcL/4K/tkQdfvh78c8AcKYmgqL9GUEl/nYlWvjN22kp7LHLqouA==;EegxntQl7les7SSZdNX8UQ=="
 ---

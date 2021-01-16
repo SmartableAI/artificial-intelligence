@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/ibm-uses-light-to-create-ultra-fa
 webUrl: "https://www.analyticsinsight.net/ibm-uses-light-to-create-ultra-fast-computing-in-ai-systems/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "Photonic Chips Seem To Boost Speed of AI Processes Dramatically"
-    excerpt: "A team of researchers has recently applied photonic processors to artificial intelligence applications, demonstrating that photonic processors can greatly surpass the information processing capability of regular electronic chips."
-    publishedDateTime: 2021-01-11T07:24:00Z
-    webUrl: "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 56
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1200/h:900/q:auto/https://www.unite.ai/wp-content/uploads/2021/01/spectrum-113364_1920.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Light-based processors can process data substantially more quickly, something electronic chips are unequipped for doing."
-    excerpt: "Light-based processors are speeding up machine learning operations than electronic chips. Working along with a global team, researchers at the University of Münster are growing new methodologies and process architectures."
-    publishedDateTime: 2021-01-13T05:38:00Z
-    webUrl: "https://www.analyticsinsight.net/going-beyond-electronic-chips-light-based-processors-in-ml/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 0
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Machine-Learning-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "okI5Vuj9O35pzVaVvSjMYGtZLJrDg3ZTB1JUVcHq2XPpgXjH6NwGQv0d1uh6siQGZk+NWL1i8aSF24bRd2a8rSJz2yWnnGZMdPNPDP4ODbbi+1QmiHS+YqejykO9BTO8P2ZRNgLpoQ8MTLuitguzZPl+x21F3h2Y1eNHV35tDRPHs3bJP2EZveiNJsWy9b/RNYfl2TS7S0e9QkcDK4XSR355WqK0jDoIYBkal8hBdjoIV+4Mx4faTMMLdo3M46TGZmtdlqyWIgo7rJR6q77K1O69gtFdvzUGh6h5LntrQI2eOoQHokSSvfc6kO8+TM1E5eCtO+5qO040P9vXrA//f5/cMY0cCxe/skuI/kPbzPc=;40rwVizlWHIwywSN3XQZuQ=="
 ---

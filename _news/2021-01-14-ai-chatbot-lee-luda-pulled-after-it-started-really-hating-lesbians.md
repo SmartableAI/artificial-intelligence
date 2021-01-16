@@ -39,7 +39,7 @@ related:
   - title: "Controversial chatbot leaves lessons on AI use ethics"
     excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use."
     publishedDateTime: 2021-01-13T06:40:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html"
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html"
     ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
     type: article

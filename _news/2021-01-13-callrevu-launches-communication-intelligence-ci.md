@@ -38,6 +38,20 @@ related:
         width: 880
         height: 495
         isCached: true
+  - title: "CallRevu Enhances Its Communication Intelligence (CI) Platform"
+    excerpt: "CallRevu's CI Platform is powered by artificial intelligence to provide insights into customer communications."
+    publishedDateTime: 2021-01-15T10:29:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144703"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 22
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
 
 secured: "1H0AxtrDtvr12mSsy+0oBdxEwfCBKHN2rN3ZxqmvWTK/Pbssjfh/jhLlnuI/egbICS7Olj0kzSw9RnLYKqxdfoya5ipdaAOD7q71XiqyupyDBea+/cVZ2FIKG7RuAc+TEvcp4wltLzxfbd56pGTFQ/zPzz4LMrswsKeJn2pCP+KBD+edDf2mcmIP7XhF1k9w57vEUd8Hba9XkhVxUcDbYEYkQkqZm4uB/QjLomfn1jUFXgLa/5edzJZ/QqecMBO1Bp8CfqbkMopRUjwSFw0N2ANqfnk9HG9d+QCwyIYm+/1/Sze9iDJFGC5morsz6h8gK/LclU1WrwuSXG+NWNjQ0TgsJNcu8qHUdWexEsGdxgY=;tlHUumnfj2h7vEzQX/ohlQ=="
 ---

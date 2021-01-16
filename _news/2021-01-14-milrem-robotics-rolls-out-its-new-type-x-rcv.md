@@ -9,7 +9,7 @@ ampWebUrl: "https://en.antaranews.com/amp/news/165844/milrem-robotics-rolls-out-
 cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/165844/milrem-robotics-rolls-out-its-new-type-x-rcv"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -103,15 +103,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021"
-    excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Processor, a full-stack AI system-on-chip platform, to partners and customers at CES 2021."
-    publishedDateTime: 2021-01-11T08:43:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210111005733/grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "FBOxSkGpN5mlaAdPcoA4/RST7adZUvQeHIVNIyjh8y788pKa4bRJRiqXDdN0SN8t6l2XkZirWZjUyHM9Uz3rZ2f7uap2yp6EvvCZJ3ATuGtIeadQ56O/5CqEeiJeZJwHGvRsTTmVOwP3uHKRLLJi7jzhmEcssN0mxxFOWKJgwpWzVeySSoRzOMmyx6bDqnsHgqJr1T1bUNbABRYOTLFMcUlFhZgOEhAQoQCK2fpJ28Cbt/GTjRAV/NrKUV3jFGFUUHFXzBx5vxi/35E2UpAL17W3MX9gqmdOlnUGSNhS5005qpfQrTaXNCTVkrbIkDs9w3FuvrUeiKEOBveT0ts3xJLar8FJXyqW1lDgTNovTuQ=;BDI4ywN7IZ3WrynPASsfzQ=="
 ---

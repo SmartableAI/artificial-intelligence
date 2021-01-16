@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
-    excerpt: "Selbyville, Delaware Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
-    publishedDateTime: 2021-01-11T08:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Intelligent Virtual Assistant (IVA) Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
     excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
     publishedDateTime: 2021-01-14T10:38:00Z

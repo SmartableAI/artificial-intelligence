@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Hyundai and Apple to reportedly build self-driving EV in US from 2024"
-    excerpt: "Apple will reportedly tap Hyundai to build a self-driving electric vehicle, a beta version of which could be revealed as early as 2022."
-    publishedDateTime: 2021-01-11T08:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130863_hyundai-and-apple-to-reportedly-build-self-driving-ev-in-us-from-2024"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/apple-store_100528844_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Apple reportedly held talks with EV startup Canoo about an acquisition"
     excerpt: "According to a recent report, in the first half of 2020, Apple held talks with Canoo - an electric vehicle startup from California. Two sources familiar with"
     publishedDateTime: 2021-01-15T02:03:00Z

@@ -2,6 +2,153 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-04-the-reality-of-ai-in-healthcare-promises-roles-evolution-and-more.md",
+      "title": "The reality of AI in healthcare: promises, roles, evolution, and more",
+      "excerpt": "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
+      "originalUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
+      "publishedDateTime": "2021-01-04T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025.md",
+      "title": "Global Natural Language Processing (NLP) Market 2020 Demand, Industry Synopsis, Operational Efficiency and Market Capitalization by 2025",
+      "excerpt": "The statistical report titled Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2020-2025 has all the important market aspects penciled down in a understandable language format.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025-2021-01-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025-2021-01-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T22:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period.md",
+      "title": "Assistive Robotics Market Is Expected To Grow USD 11.2 Billion By 2024, At A CAGR Of 22.3% During The Forecast Period",
+      "excerpt": "One of the major driving factors for the assistive robotics market is the rising insurance coverage for medical exoskeletons and robotic surgeries. The assistive robotics market is expected to grow from USD 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T22:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-bbc-sound-of-2021-greentea-peng-goes-from-beach-town-rock-star-to-the-world.md",
       "title": "BBC Sound of 2021: Greentea Peng goes from 'beach town rock star' to the world",
       "excerpt": "The free-spirited Londoner had pretty much given up on singing and songwriting during a \"reckless\" period in her teens - and was instead documenting her travels under the online pseudonym Greentea Peng.",
@@ -1056,136 +1203,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml.md",
-      "title": "MLCommons Launches and Unites 50+ Global Technology and Academic Leaders in AI and Machine Learning to Accelerate Innovation in ML",
-      "excerpt": "MLCommons, an open engineering consortium, launches its industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good. The non-profit organization initially formed as MLPerf,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml/",
-      "publishedDateTime": "2021-01-01T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-veritone-achieves-aws-public-safety-disaster-response-competency.md",
-      "title": "Veritone Achieves AWS Public Safety & Disaster Response Competency",
-      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the worlds first operating system for artificial intelligence, aiWARE„¢, today announced that it has achieved Amazon Web Services (AWS) Public Safety & Disaster Response (PSDR) Competency status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/veritone-achieves-aws-public-safety-disaster-response-competency/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/veritone-achieves-aws-public-safety-disaster-response-competency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-01T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award.md",
-      "title": "SambaNova Systems Wins “Best Innovation in AI Hardware” 2020 AIconics Award",
-      "excerpt": "SambaNova Systems, the company building the industrys most advanced systems platform to develop and deploy next-generation artificial intelligence (AI) and data-intensive applications from the data center to the cloud and the edge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award/",
-      "publishedDateTime": "2020-12-31T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

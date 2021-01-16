@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
+      "title": "Can an AI Predict the Language of Viral Mutation?",
+      "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
+      "originalUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
+      "publishedDateTime": "2021-01-14T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
       "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
       "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
@@ -148,7 +199,7 @@
       "originalUrl": "https://www.entrepreneur.com/video/363273",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -449,7 +500,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -535,49 +586,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-hyundai-robotics-advancing-predictive-maintenance-with-ai.md",
-      "title": "Hyundai Robotics: advancing predictive maintenance with AI",
-      "excerpt": "Discover how Hyundai Robotics is advancing predictive maintenance alongside MakinaRocks with AI-based anomaly detection In partnership with MakinaRocks, Hyundai Robotics - following the signing of a memorandum of understanding (MOU) - will work together to advance AI-based industrial robot anomaly detection for robot arms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
-      "originalUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkjwz1rzc140120215213.jpeg",
-          "width": 1000,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manufacturingglobal.com",
-        "domain": "manufacturingglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -675,7 +683,7 @@
       "originalUrl": "https://en.antaranews.com/news/165844/milrem-robotics-rolls-out-its-new-type-x-rcv",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -951,6 +959,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-14-makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection.md",
+      "title": "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'",
+      "excerpt": "Enterprise AI solution provider, MakinaRocks ( announced the signing of a memorandum of understanding (MOU) with Hyundai Robotics on January 14, regarding the cooperation of the two companies in developing AI-based anomaly detection for industrial robot arms.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062",
+      "publishedDateTime": "2021-01-13T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-microsoft-president-begs-tech-industry-to-improve-its-ethics.md",
       "title": "Microsoft president begs tech industry to improve its ethics",
       "excerpt": "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past.",
@@ -1056,7 +1107,7 @@
       "originalUrl": "https://mainichi.jp/english/articles/20210114/p2g/00m/0bu/062000c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1132,57 +1183,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-autonomous-vehicle-startup-weride-raises-320-million.md",
-      "title": "Autonomous vehicle startup WeRide raises $320 million",
-      "excerpt": "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/",
-      "originalUrl": "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/1_owq-V2IrljRj2C9YoZNnkA-e1610586000900.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/",
-      "publishedDateTime": "2021-01-13T17:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

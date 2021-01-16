@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-24-reflections-on-my-2020-predictions-for-ai-dl-and-ml.md",
+      "title": "Reflections On My 2020 Predictions For AI, DL, And ML",
+      "excerpt": "I published a piece on five 2020 predictions - this is my reflection on that story. While many industries came to a halt in 2020, it was exciting to see the forward momentum in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
+      "originalUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe397b1724bccc64f4c6a81%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
+      "publishedDateTime": "2020-12-23T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live.md",
       "title": "How AI and ML innovations are driving the need for hardware transformation (VB Live)",
       "excerpt": "Access free on demand here. Innovations in AI and machine learning demand more compute power than ever, but today’s chips can’t keep up with the demand. Moore’s law — the idea that ...",
@@ -1399,58 +1451,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-fun-machine-learning-experiment-creates-a-vocal-opera-in-your-browser.md",
-      "title": "Fun machine learning experiment creates a vocal opera in your browser",
-      "excerpt": "Google's Arts and Culture lab has launched a clever browser experiment in collaboration with David Li. The Blob Opera puts four operatic voices at your disposal to create glorious AI-driven performances.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
-      "originalUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/afd589d/2147483647/strip/true/crop/1071x714+65+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9e%2F02%2F996578d848038d6c195522c0ef87%2F01.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
-      "publishedDateTime": "2020-12-16T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

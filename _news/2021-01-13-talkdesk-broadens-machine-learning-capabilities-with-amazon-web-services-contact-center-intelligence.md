@@ -1,25 +1,45 @@
 ---
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
-publishedDateTime: 2021-01-12T21:12:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
+excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
+publishedDateTime: 2021-01-12T16:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
 related:
+  - title: "AWS Goes Big with Contact Center Intelligence"
+    excerpt: "Artificial intelligence is redefining contact centers and AWS is taking a leading position. We are two weeks into 2021, and Amazon Web Services has wasted no time in making a splash in the contact center industry."
+    publishedDateTime: 2021-01-16T00:10:00Z
+    webUrl: "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 71
+    images:
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image"
+        width: 560
+        height: 300
+        isCached: true
   - title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
     excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
     publishedDateTime: 2021-01-12T21:38:00Z
@@ -34,22 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Avaya Expanding AI-powered Contact Centre Capabilities To Improve Customer Experience"
-    excerpt: "Avaya expanding AI-powered contact centre capabilities to improve customer experience, participating with AWS Contact Centre Intelligence. Sydney, Australia – January 13, 2021"
-    publishedDateTime: 2021-01-13T02:10:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 52
-    images:
-      - url: "https://m.scoop.co.nz/stories/images/1803/vodafone_logo.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
     excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
     publishedDateTime: 2021-01-12T08:00:00Z
@@ -63,20 +67,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Avaya partners with AWS to expand AI-powered customer experience for OneCloud CCaaS customers"
-    excerpt: "Avaya expands its AI-powered customer experience capabilities for Avaya OneCloud CCaaS customers, through a relationship with AWS."
-    publishedDateTime: 2021-01-14T01:18:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/01/14/avaya-aws/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 43
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
@@ -115,19 +105,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CallRevu Enhances Its Communication Intelligence (CI) Platform"
-    excerpt: "CallRevu's CI Platform is powered by artificial intelligence to provide insights into customer communications."
-    publishedDateTime: 2021-01-15T10:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144703"
+  - title: "CES 2021 LUCID, the leader in AI supporting E-commerce increase conversion and purchases with intelligence"
+    excerpt: "PRNewswire/ -- Lucid empowers E-commerce with AI to convert users to sales by optimizing search, recommendation and product display by applying intelligent tagging and image manipulation with AI to achieve the highest revenue for our customers,"
+    publishedDateTime: 2021-01-13T04:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-data-management-a5965ab21c5ae0ec332861daaad132e4"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 22
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
-        width: 480
-        height: 610
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
@@ -148,6 +138,6 @@ related:
       domain: arnnet.com.au
     quality: 1
 
-secured: "0PWcdBneqXggpVZWVOw1TK4h+zF7rMRg6/TL5ezRACmrovc5k6hhKKNdmRA6x1TzJPreU/D4DQOUmnAQEj0N0G7p1b0wWslwPnnarIrm/Mcimpmf6ko8fkC37LBDxTQfNAHIZY5ywtQj9m4QSSVmVVVQNV4xmCXAGVfLVg7sGd6qniX8LDzQDyrSWcPA5dib7k3f+4Sw6wPTZCJbU84Be118W6rd2uUcbCrApWEWtxXBwX4Zfj7JaRecPTKuuGjWmyOLl1eY8d79dzN3Tr6YwDhhaZRAD9NQepXmPFGYQomFtk380fn3d2KlxvNdbbQLdNvbiGauIr7hwvzR6YZg5a8RQ6YVHtC2ccZpixQNwvg=;bhwKM/8iJKfMG+m+bJ0UXg=="
+secured: "mdn1M4kwFbuc00dmlZN8xXbpRuHPK2PEWN92Z0qIHQRHbPJYoDkqs2wYaOqDnorUoLfmI6cHBBxS771OybbfL7wiERLgFVvTVs7VXq7b2qFLUDMEZlyaetbLx8hF8T3uiI1ufP0h6Y2YP3rYi1A4fpW2c38RLyGEwcq2y4IIIudDVdZhqnKxtVktT+mdAmOjb18DVERcESXfdSeEreuJuAF2LUAC316os8aTZQGOvT78JVOnurlk1vIJM06oFhu9pK68HoU1h0h0KOKPSwyTKLmYrvPXmZpsdMc4o6P/jjvvap8gz+q363MoEwa9EGmHx0+4wfO9b0c4lHn1boHmE3f4AjB7DSBJFaMm6hAzMPA=;5JNfW8v2tXpwHhZq/GJh2Q=="
 ---
 

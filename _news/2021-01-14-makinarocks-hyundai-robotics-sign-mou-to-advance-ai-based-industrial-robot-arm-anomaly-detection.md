@@ -1,28 +1,28 @@
 ---
 category: news
-title: "MakinaRocks, Hyundai Robotics sign MOU to ‘advance AI-based industrial robot arm anomaly detection’"
-excerpt: "Managing Director of Hyundai Robotics, and Andre Yoon (right), co-CEO of MakinaRocks, signed a memorandum of understanding (MOU) to advance AI-based industrial robot arm anomaly detection. SEOUL, South Korea,"
-publishedDateTime: 2021-01-14T07:06:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba"
+title: "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'"
+excerpt: "Enterprise AI solution provider, MakinaRocks ( announced the signing of a memorandum of understanding (MOU) with Hyundai Robotics on January 14, regarding the cooperation of the two companies in developing AI-based anomaly detection for industrial robot arms."
+publishedDateTime: 2021-01-14T07:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062"
+webUrl: "https://markets.businessinsider.com/news/stocks/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 85
+heat: 95
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Hyundai Robotics: advancing predictive maintenance with AI"
@@ -40,6 +40,6 @@ related:
         height: 387
         isCached: true
 
-secured: "BC+dD4Ggcw0THr3j1oC3V9z1K8B/AXclFOXn7RcqIdbvbj1dJoByQwn9FiHdiZcDYl5/yQ4NEQrWMA6tzE0llj968xc/rAYO3kbscMiHPhjzdmtinXfDYkaIGVXo27d5QGDxKT2W+/8m+aegdJ+0ELdj+lrYmTgqjf08oROufG3ydvFydd9JWcaoRX/p8syzCe6D2cNdTfTiNB1+xff8/PCPpuwP0i9qzAnL7sE4F53neuNCLlVqEpuSjurEUm0USp1GhTFkrh+VjoAus93CuKjErfOB0DDtZ3KDANpQbMG1Mb/dLL3EjoNuZHJ5Mgv37si+QoYymJi7KNIxITiPdMfSBnl7VJx74k0Vx/M7VCw=;DphhUQgxnvZVCwABo1UiVw=="
+secured: "blCwAwfQM8RXyVXbvb3a3UWXV8ctKmtClpo4+1KA+taGOca/POjlafuJAfE6AKdEi8OLRhU8nzWgrIoiNUwSVbrsF/AsNRQshfcU/cqM6WAMnN/yiKnv+wdCQB8LzSX4iVQ5CU3pyBqt0wClNJHJILQYnwwl5kZwblOXIB9dMjyc4Q/ZDyCo/RJvZfi1u/22pNUJOgpTgPWI/Vu+087W/Biu38uVBALn3wG4vcbMghWzhZL0irwM2mS1fPsbv0Axe9dWaFJq2HSb+gtk5Op2k9t0dmgbsMl3sNiOILQCVqSybCMLzy6bVkCYzLEClt6Xy8aZ//llJfANpy/vjyooDIRQKf8rCIhqkcdHXV+Uf0c=;2vKwj2EjcvoZzDRJU/o5/A=="
 ---
 

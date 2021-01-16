@@ -2,6 +2,127 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-31-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
+      "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
+      "excerpt": "Artificial intelligence packed with more than a ... such as those developed by Waymo, which began in 2009 as the Google Self-Driving Car Project. This fall, Waymo introduced a fully driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.html",
+      "originalUrl": "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html",
+      "publishedDateTime": "2020-12-31T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-how-israel-brings-together-robots-and-ai-into-a-lethal-combo.md",
+      "title": "How Israel Brings Together Robots and AI Into a Lethal Combo",
+      "excerpt": "On the back porch of a rundown building near the sea in central Israel a plank leads to an unlikely machine. A robot dog is surveying the area, preparing for a mission. Alongside it, like a sidekick,",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518",
+      "originalUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/V%20%2847%29.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518?amp",
+      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518?amp",
+      "publishedDateTime": "2020-12-31T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
+      "title": "3 Machine Learning Stocks for a Touchless Society",
+      "excerpt": "Investors looking for a high-growth play will find this machine learning stock a great buy. DocuSign is best known for its e-signature service which ... She is a financial writer and analyst ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
+      "originalUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/12/ai-stocks-1600-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
+      "publishedDateTime": "2020-12-31T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout.md",
       "title": "Israeli Computer Vision Startup Raises $60 Million To Expand ‘Frictionless’ Checkout",
       "excerpt": "Gabay’s low-key manner stands in stark contrast to the buzz around the Tel Aviv startup he co-founded in 2017 with brother Daniel Gabay, Trigo CTO and 2020 Forbes 30Under30 honoree. Trigo’s latest Series B funding round,",
@@ -1047,159 +1168,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai.md",
-      "title": "The Future-Proof Service Desk: Preventing Tomorrow’s Tech Issues With AI",
-      "excerpt": "For them — the service desk — managing a massive IT environment means endlessly putting out small fires: an engineer locked out of her corporate account or a sales leader who can’t access the latest report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb5235e81425c71821786d%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-future-proof-service-desk-preventing-tomorrows-tech-issues-with-ai/amp/",
-      "publishedDateTime": "2020-12-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai.md",
-      "title": "Humans Are Still Needed In An AI World: How Your Business Can Best Leverage AI",
-      "excerpt": "With all of these technological advancements attempting to make our daily lives easier, how do these advances specifically affect business leaders and how will this technology shape the way they do business?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb37cc8aac85841b727e82%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
-      "publishedDateTime": "2020-12-30T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai.md",
-      "title": "The 2021 Enterprise Network: Retiring The Branch, Fueling Transformation And Getting More From AI",
-      "excerpt": "As we turn past events into predictions, the pandemic continues to dominate our thoughts. IT priorities will be about learning from 2020 and adapting to whatever the new year brings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
-      "publishedDateTime": "2020-12-30T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Singapore start-up clinches JR East deal to deploy robot baristas in Japan train stations"
-    excerpt: "Local start-up Crown Technologies has secured an investment from a subsidiary of East Japan Railway Company, which will boost the deployment of its robot baristas at selected JR East's train stations in Japan."
-    publishedDateTime: 2021-01-11T08:59:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/singapore-start-up-clinches-jr-east-deal-to-deploy-robot-baristas-in"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 45
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/11/yq-crowntech-210111.jpg?itok=KcpTCDto"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Robots in Singapore: 4 Innovations that Operate Around the Island"
     excerpt: "Autonomous robots are changing the way we live, work and play. Here are some robotic innovations that exist in our country"
     publishedDateTime: 2021-01-11T11:50:00Z
