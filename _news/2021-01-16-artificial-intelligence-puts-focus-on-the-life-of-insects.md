@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence puts focus on the life of insects"
-    excerpt: "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing u"
-    publishedDateTime: 2021-01-12T16:56:00Z
-    webUrl: "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html"
-    ampWebUrl: "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/1-artificialin.jpg"
-        width: 1430
-        height: 726
-        isCached: true
   - title: "Pentagon to Expand the Role of AI in Military Efforts"
     excerpt: "The Pentagon is looking to expand artificial intelligence across its military services and agencies. A budget of $841 million has been requested to bolster its artificial intelligence work for fiscal 2021."
     publishedDateTime: 2021-01-15T22:27:00Z
@@ -52,6 +36,34 @@ related:
     images:
       - url: "https://media2.govtech.com/images/US-NEWS-MILITARY-AI-GET.jpg"
         width: 945
+        height: 630
+        isCached: true
+  - title: "Pentagon aims to spread artificial intelligence across military services"
+    excerpt: "New contract procedures aim at making it easier for small companies to bid for artificial intelligence uses for the military"
+    publishedDateTime: 2021-01-14T19:58:00Z
+    webUrl: "https://www.rollcall.com/2021/01/14/pentagon-aims-to-spread-artificial-intelligence-across-military-services/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 51
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/01/GettyImages-1192770770.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How the military can get more out of artificial intelligence"
+    excerpt: "The authors argue the military must remain educated and become the masters of AI instead of training to be its servants."
+    publishedDateTime: 2021-01-13T11:03:00Z
+    webUrl: "https://www.airforcetimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 37
+    images:
+      - url: "https://www.armytimes.com/resizer/ZNgdMdpJvDsmwaRkyRn14Gpt9vE=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/GCAL2AIX2BEJJK3TMYLCARSZIM.jpg"
+        width: 1200
         height: 630
         isCached: true
 

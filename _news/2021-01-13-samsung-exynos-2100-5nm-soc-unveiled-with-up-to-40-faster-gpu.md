@@ -9,7 +9,7 @@ ampWebUrl: "https://www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-so
 cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 676
     height: 425
     isCached: true
-
-related:
-  - title: "Samsung Exynos 2100 announced today with significant upgrades and a built-in 5G modem"
-    excerpt: "Samsung has unveiled its new flagship chipset. The Exynos 2100 processor is a 5nm chipset with significant upgrades in CPU, GPU, and AI performance and it also comes with a built-in 5G modem. The Exynos 2100 5nm processor is built on the 5nm EUV process node."
-    publishedDateTime: 2021-01-12T15:21:00Z
-    webUrl: "https://www.gizmochina.com/2021/01/12/samsung-exynos-2100-announced-today-with-significant-upgrades-and-a-built-in-5g-modem/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 47
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/Exynos-2100-featured.jpg"
-        width: 566
-        height: 339
-        isCached: true
 
 secured: "gIWb0JP7JyvlIBsRQYaOduAfBtvDub97zVN1lYV+W3mKc5RKVbBsfOPp8tqgzzGj20iCnFYfsos4KkBKqMo99wcYt2lHUhAPxQI9rayTojwNnlZcZ366PEh+faJI98HW70Ngz8M/FBuiVMOzjP6Jg+lBx6Ox0Ip0e43lnrXFMuyVw17m7K3MZmfd5Y1TiM/vfZZTL/mYbhyi+FC7gr4KzCjeTk6tib9PU59RMd2vmegekMMxAgvkEkWwoGyOFT+JtP5EdcFpIQ6ujvPEr1mbAzkHcmNZ49Cv9AHUyvVEXamzva57DZAmbVCrPJ2HJR8Y+lXVZsUlPaR0CqU1gPFnjB0JKg60PmdnhapTPgjIL08rkbNZQmnzN4eKhvHpCCoOhAsY4mmn02KCXgxIWyTK8/djh8ZZRTcx6LgBFv/PkKeIsrAuhegoPTfg11+Rf7UAe/sMPxS4KV2VKokhvCBOtVK8obnujafp7caw8ACpRsuH1m8TmemQmoV+OgjiQq41pb4seeeeZvRb3QI4zyDOuA==;aKPx9BHXT3sCjXASP6xx3A=="
 ---

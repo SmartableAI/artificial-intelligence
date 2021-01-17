@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-nation
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AI-concept_shutterstock-1698713356_700x.jpg"
         width: 700
         height: 401
-        isCached: true
-  - title: "The White House Launches the National Artificial Intelligence Initiative Office"
-    excerpt: "For the past 4 years, the Trump Administration has been committed to strengthening American leadership in artificial intelligence (AI). After recognizing t"
-    publishedDateTime: 2021-01-12T15:07:00Z
-    webUrl: "https://www.whitehouse.gov/briefings-statements/white-house-launches-national-artificial-intelligence-initiative-office/"
-    type: article
-    provider:
-      name: The White House
-      domain: whitehouse.gov
-    quality: 35
-    images:
-      - url: "https://www.whitehouse.gov/wp-content/uploads/2021/01/National-AI-Office-Seal_300ppi-1-300x300.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "White House Launches ‘Central Hub’ for Artificial Intelligence Research and Policymaking"
     excerpt: "The White House Office of Science and Technology Policy on Tuesday announced its formation of a new federal nucleus to centrally drive cooperation between the government’s diverse internal and external partners advancing artificial intelligence-rooted policies and research: the National AI Initiative Office."

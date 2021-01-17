@@ -74,20 +74,6 @@ related:
         height: 450
         isCached: true
   - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
-    excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone"
-    publishedDateTime: 2021-01-12T15:13:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-unusly-provides-extended-reality-software-to-be-used-on-mobile-unmanned-vehicles-as-drones-301206574.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
     excerpt: "Technical speaking, Unusly builds machine learning and AI-powered technology for mobile unmanned vehicles, starting with drones. Over 75% of Unusly AI algorithms are designed by two female graduate researchers at National Taiwan University,"
     publishedDateTime: 2021-01-13T07:10:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-industrial-technology-coronavirus-pandemic-asia-9c88266770112356fea9084562a00d67"

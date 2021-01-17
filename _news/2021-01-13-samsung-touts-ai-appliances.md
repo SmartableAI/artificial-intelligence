@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1047
         isCached: true
-  - title: "Samsung has just made a team of robot butlers to cater for your every whim"
-    excerpt: "With the distinct appearance of androids from a sci-fi film, Samsung has introduced a couple of robots that function as domestic servants."
-    publishedDateTime: 2021-01-12T16:51:00Z
-    webUrl: "https://recombu.com/general/article/samsung-has-just-made-a-team-of-robot-butlers-to-cater-for-your-every-whim"
-    type: article
-    provider:
-      name: Recombu
-      domain: recombu.com
-    quality: 37
-    images:
-      - url: "https://recombu-images.imgix.net/app/uploads/2021/01/Samsung-Bot-Handy.png?fm=png&ixlib=php-3.3.0"
-        width: 940
-        height: 525
-        isCached: true
 
 secured: "bO8xjU2ghtqAbhkS6v1mco6DXkRZdfXYugJJwpXCDgIXoXEsBWhGJPYl17d8xEonI6kDCZAShFNYpNkQIuy7HQ7+QczS5jhU0zPH7mTI1HPmWH8wSvBfqejwiVHZ89p6LqORebTGEasHYA7pT3Z1pQco4FrHZq/9g6pcaWJnZCJbEY7p45qMekQx1bDGz1BuiFIOocK+p2AmSOgRVP1F2Dn/f5pp4lIJzZJbktaDI8NpXMRsDDXUp9u9GflYdRkbCIBff2XOBXpS12qklgIHzAyyxp/MyGvFCU0F1Hr5ztOdOyYAmKgUiWxDvmZ5UFXABUEi2tPAEO+Z++GZwfgHGD1+CQS2rVFraQcRQqt1au0=;Hr7TTwK5y/QtdvnpEfhj1A=="
 ---

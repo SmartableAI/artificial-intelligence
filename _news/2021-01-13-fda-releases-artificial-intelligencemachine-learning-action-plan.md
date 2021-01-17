@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-m
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Associated Press
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
-    excerpt: "Today, the U.S. Food and Drug Administration released the agency's first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as"
-    publishedDateTime: 2021-01-12T15:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/317925/FDA_Logo.jpg?p=facebook"
-        width: 2423
-        height: 1269
-        isCached: true
   - title: "FDA Releases Action Plan for AI, Machine Learning Medical Software"
     excerpt: "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach."
     publishedDateTime: 2021-01-13T09:30:00Z
@@ -81,6 +67,20 @@ related:
       - url: "https://www.aha.org/sites/default/files/2018-07/FDA-guidance.jpg"
         width: 900
         height: 400
+        isCached: true
+  - title: "Heavy Construction Process to be Measured by Space-based Machine Automated Recognition"
+    excerpt: "The Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence, announced a multi-year research effort called the Space-based Machine Automated Recognition Technique (SMART) program."
+    publishedDateTime: 2021-01-13T06:32:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21220872/heavy-construction-process-to-be-measured-by-spacebased-machine-automated-recognition"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 16
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/01/16x9/blacksky_on_demand_1.5ffdf547154a5.5ffdf5a323ba4.png?auto=format&fit=max&w=1200"
+        width: 1000
+        height: 562
         isCached: true
 
 secured: "wMp9BucZ53CklNsERE6H35KhK5gWESjRT7BhOePnoACC5VPzLE0KsYVMyCCTKodxsjqTSno/VJVpx7Fy+ajeiy4DB/CLYeiTABCtzA3TEB7BzfNUtK0VkJj9hG2F67hD0EnUcqtxWAJLh9B4T2cRJesAR5kMbyy4PimR1zE58AJInPYMxBd5YVjQONHlVrk2oXWSfxpqxblnXJ+hyMDHdZkYrWr6pKhyzuN/jGUVSdWuMkhKwNFMQLf8/nEOTodzoKp3FBnMrvny16Z3CIvblKHnsaezs8Ut7MzDXvUivel6yMd+XopTWUQUCMnG3KufRyu2oS+UpIniBLEpvwf6ucL+El1nWBcEn22Altv8loc=;Hmp8D96c33jWdxba3MjnNw=="

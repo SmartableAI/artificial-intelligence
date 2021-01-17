@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-star
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
 type: article
 quality: 58
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
-    excerpt: "Founded by two Googlers in 2019, Unusly provides service to connect agents, remote buyers and real property through AI-powered drone"
-    publishedDateTime: 2021-01-12T15:13:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwanese-startup-unusly-provides-extended-reality-software-to-be-used-on-mobile-unmanned-vehicles-as-drones-301206574.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
     excerpt: "Technical speaking, Unusly builds machine learning and AI-powered technology for mobile unmanned vehicles, starting with drones. Over 75% of Unusly AI algorithms are designed by two female graduate researchers at National Taiwan University,"

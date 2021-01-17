@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
-    excerpt: "Today, the U.S. Food and Drug Administration released the agency's first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as"
-    publishedDateTime: 2021-01-12T15:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/317925/FDA_Logo.jpg?p=facebook"
-        width: 2423
-        height: 1269
-        isCached: true
-  - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
     excerpt: "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software."
     publishedDateTime: 2021-01-13T06:59:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
@@ -80,6 +66,20 @@ related:
       - url: "https://www.aha.org/sites/default/files/2018-07/FDA-guidance.jpg"
         width: 900
         height: 400
+        isCached: true
+  - title: "Heavy Construction Process to be Measured by Space-based Machine Automated Recognition"
+    excerpt: "The Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence, announced a multi-year research effort called the Space-based Machine Automated Recognition Technique (SMART) program."
+    publishedDateTime: 2021-01-13T06:32:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21220872/heavy-construction-process-to-be-measured-by-spacebased-machine-automated-recognition"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 16
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/01/16x9/blacksky_on_demand_1.5ffdf547154a5.5ffdf5a323ba4.png?auto=format&fit=max&w=1200"
+        width: 1000
+        height: 562
         isCached: true
 
 secured: "fklwHC+xjLLxaRxH0ubc5Mc+kGUtzTv94/Iw2YP7X62QaeFqKvawoQpye3KWQCptDKv+UCaWg7NtqPwZP2MLiU3062yOJ6qGfUErQMXSplgkE5hPJuNr6d2xlOPndWKvB8YRs8lcWaJXsNeYkzPBUgVRpBNYmg24quuY40DQupMpZLQbUU/wrz7zww1Fy63XPf932K4s5Lf5aCiB6nBSrgv43VY9tpMpZ3Ab3DgZCk6oo0p5lCkStltOJiHcz/Sjm6GyPsojasdlqGQX1DYTcF/1bL9WbP3+1iXvEiMd1F+trl48jVEXqGKQ+qdnYw1NQitRZCZQYyrcybqBeiZA5SBZOlrdfa2CrWn0quhVK3JbjXyg13SO4zHmwrHlyF4DuF4YtOVzChFGiA9WM7FBa37T2kg9mUmNMLoPhcQ1rjbFoeHsk3LihBnOB7gtR5r6+GsdHQKACJ1242emKy/tSYzfwGa4h4CP1f3Q/sME9N5bHbSxZiD8jeLoLcwgFdVmnwJjWrYMQaqf2nfbhjZTCg==;ORxqbh1irATAIDDJCbh7cQ=="

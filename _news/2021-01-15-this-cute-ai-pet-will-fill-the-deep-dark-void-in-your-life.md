@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 796
     height: 417
     isCached: true
-
-related:
-  - title: "Moflin Is the AI Emotional Support Pet We All Need Right Now"
-    excerpt: "This year, that honor goes to Moflin, an AI pet robot that looks like someone spilled water on a Mogwai boom mic. Moflin, like many of its adorable CES counterparts, comes with “emotional capabilities” and the ability to learn."
-    publishedDateTime: 2021-01-12T15:25:00Z
-    webUrl: "https://www.entrepreneur.com/article/363186"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1610465007-moflin.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "N/K4uf7ncCKJyxSo2QMm8xp+BZFZ17kTpbj1W6Kj5NRXCOaMSSqI/jooQRGg4DxW6zgwLJ38pNvT/j1w5OqEDC/GO2DTGCWpRWWf9dWXL8mWbvCowXryET0wCDpQyCeNx9oEUpPxv+OjwywDJ11/H6ABmcdYySS3ma4wYeAvJm0AobdK34mS3gf7Y39bB1kPO5T1gYCaPxT8uH9zIkcNZ6ee5uDgQqq9MVZm7oAiAv2qAplSlB5UhF+qTXH5V96cvjWB4ez+Otl88MymbXyOkGgmgUYUpQA3ax+Ezhxcm6OdwZE9r95BQI7NFNf14P18Ab74MwR6jb0Lqc1ozMAC3uc+7ToCqZkeDOtSLtCJ7J7WPB+AtgznEoWdX27fGVh+fEk9GIvudcsERizj3bcDCTp7vFPqo3JIkFXzvkU5d1slfcA1Bpz705mvY8LiKGBOYE4eX+xBOQm9QMSVhsFMQbbfCcaO8rbqPWx6eAlI6vOfB5iT2GFAh4345eenBY+HcaJ/BTBYZqczG68JkyTDmg==;fQpKw1Ko0V0q3jknNEC4jA=="
 ---

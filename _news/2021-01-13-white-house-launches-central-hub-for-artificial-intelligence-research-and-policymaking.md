@@ -54,20 +54,6 @@ related:
         width: 700
         height: 401
         isCached: true
-  - title: "The White House Launches the National Artificial Intelligence Initiative Office"
-    excerpt: "For the past 4 years, the Trump Administration has been committed to strengthening American leadership in artificial intelligence (AI). After recognizing t"
-    publishedDateTime: 2021-01-12T15:07:00Z
-    webUrl: "https://www.whitehouse.gov/briefings-statements/white-house-launches-national-artificial-intelligence-initiative-office/"
-    type: article
-    provider:
-      name: The White House
-      domain: whitehouse.gov
-    quality: 35
-    images:
-      - url: "https://www.whitehouse.gov/wp-content/uploads/2021/01/National-AI-Office-Seal_300ppi-1-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "nNlNr7iN/wZMN7GsjtB/jW+JScb91P06bQ9IiKr7LymIS456NGaUCpvDJBnt0Y7ZKrwsflXy3EKUkmjzfGLp+V1gAnn7ZpVtnvsR4KOdreWzb2Wqqr7JE1X3h7iho9F9FXnk5+bPRO4y0P31PMeoZqddzCtz3uRDdFSs7qttOFiIjd/j9ZoPOCYhqtHE7TJ8uOiC3z/t3CMq8fRNeGqPztJ8uJWBRCgFl0H6HUsu9D2XrsJqBF/ih8NSzOEedKiEoKeN0oAojaa9r7j3GSaMiih3ijh4to1QbV4AB7sosIp4UL5PS17xTVT6NQOF3eYHCf2pCtnf6d0fZSoiFhjx5D/UmSz+2XBLqD6cYkFSKoprynOlSkB0J4TEtyz/id0La4XkDCQws2kiM/77C3UHJIu0Ep+MW80d5tfRu4RIEMXOobcfo0CaChKrO7/SI2S1/1ldCDzmJnBAjogvNgERoRsYKlYD3qE9mDgup3rPUiHDoHN6WCAFIzImqT/9r9fOAn9hCZrKPj+7RL+/RHXPoA==;hahX3sRFhFpvFU5smeu5lw=="
 ---

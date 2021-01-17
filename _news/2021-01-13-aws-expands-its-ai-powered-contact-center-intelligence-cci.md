@@ -3,10 +3,10 @@ category: news
 title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
 excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
 publishedDateTime: 2021-01-12T21:38:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: destinationcrm.com
 
 topics:
-  - AWS AI
+  - Natural Language Processing
   - AI
+  - AWS AI
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
@@ -38,20 +39,6 @@ related:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image"
         width: 560
         height: 300
-        isCached: true
-  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-    excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
-    publishedDateTime: 2021-01-12T16:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
@@ -114,6 +101,6 @@ related:
       domain: arnnet.com.au
     quality: 1
 
-secured: "Fga8W0kkYQETdvXf+CP1gWxXSBoNGI4LKs3tBG6Zgosp254Xb0ur6ZxKXHRtKXi/5bRt2bkxKOAfINWwp5/14tY9dj8huoos6fGq7jh0RWiNdkb7X+CNsvo/yvfcYp7WL68QUs4MTS5jl13AjYsfQbAVrMoQnOMx/bqXBJ7jBDML739HmMflbFsqiig7XMBckDiACa1BRkZXQd8rm7NhPTZrG0NkuDeiRrxRww4ekRBi76txjZVnrUwtrT6PHTfSab+VQxBVY32W/ry6Ujqr0hy0f2WoMlUhxxBwUGwLgJXgLv0xFUcxqJAZPyMwFzZ4OSBHqsuBBxA32DbJrucisPYMRpM6apg81DFw+xMBbig=;SWnO6B0NakOtUDQoHIoTSg=="
+secured: "e6X11ynH/oR+pJ25qyX/26yaN6PkI2EUTki1oqedt5AB8a+PuJh899cGsSY5VaJy9VaFM2LsiFLNGJcz8raZS+4tywQVfgHRLWjxI8LcWjXwgy/uFT0AfNegsYKkfEUd7eZwMbmKv8IbeHgepA0GpdJhgf6wahiroRCqrnUEeJa9PKKXzhJ6d42Ov/jOl4Ahd6F9cjad7wBsbQNviMGbPOwvSLxAOxj52jK33PgKB5D7aLBJaR7Bo4VlViMPBOBdu6CV9wrCQdE6DQ2H9T9L3unYYevHsEMm3RwDzco/qbrYHXln6qLNu/1p8IOTv5SA75tMZRSM8XBkg81EgnFw0S3dsGAKV7yFiMxDUtnhyE4=;De5YVqUjP+MIS6Ou7O/S7A=="
 ---
 

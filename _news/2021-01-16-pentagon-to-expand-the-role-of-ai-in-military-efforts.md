@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-i
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html?AMP"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Government Technology
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence puts focus on the life of insects"
-    excerpt: "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing u"
-    publishedDateTime: 2021-01-12T16:56:00Z
-    webUrl: "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html"
-    ampWebUrl: "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp"
+  - title: "Pentagon aims to spread artificial intelligence across military services"
+    excerpt: "New contract procedures aim at making it easier for small companies to bid for artificial intelligence uses for the military"
+    publishedDateTime: 2021-01-14T19:58:00Z
+    webUrl: "https://www.rollcall.com/2021/01/14/pentagon-aims-to-spread-artificial-intelligence-across-military-services/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Roll Call
+      domain: rollcall.com
+    quality: 51
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/1-artificialin.jpg"
-        width: 1430
-        height: 726
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/01/GettyImages-1192770770.jpg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Artificial intelligence puts focus on the life of insects"
     excerpt: "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing unknown species and for tracking the life of insects across space and time."
@@ -51,6 +49,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "How the military can get more out of artificial intelligence"
+    excerpt: "The authors argue the military must remain educated and become the masters of AI instead of training to be its servants."
+    publishedDateTime: 2021-01-13T11:03:00Z
+    webUrl: "https://www.airforcetimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 37
+    images:
+      - url: "https://www.armytimes.com/resizer/ZNgdMdpJvDsmwaRkyRn14Gpt9vE=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/GCAL2AIX2BEJJK3TMYLCARSZIM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7tGWFeU0wh93Hg2n7D4olx1ssizTmWBBfvOiy+ocQEi5GcLGqCMugzgfqaFgv7U+1H7q56ay6rL712tGJc1G3eNG+ul2FnoXoy3nxYmgJ6w85oElxayX30Dmckwixtimbdt6AuWlIgKnxUmEb50BB/4vfwYeRtW9RrEUoGmJhDCfzvp2ecv+IM4Gi19BDGTlaLisd/8ZK9a+OyOIyE9gguFC16WCzXfNooI6Qd6QN7wEGL8fW6QCAm2kWExWBSz2pt+r+uX+JzDST25d89llJEpC3gnOYilQbKYeuHEW5eKicxRzxxZ279q00DoTH0QE8KetPsXeZzDLQj5ZlG0Z6PAE/+AZrtqPelWasJHyAPI=;9+au0hmtz0rjifuTxyRy+g=="
 ---

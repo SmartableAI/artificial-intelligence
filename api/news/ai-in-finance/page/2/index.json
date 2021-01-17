@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-11-1-fintech-stock-to-buy-before-2021.md",
+      "title": "1 Fintech Stock to Buy Before 2021",
+      "excerpt": "Several different next-gen fintech stocks have thus done very well in 2020. One such intriguing name posting impressive growth metrics heading into 2021 is Chinese fintech OneConnect Financial Technology (NYSE: OCFT).",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11",
+      "originalUrl": "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp",
+      "publishedDateTime": "2020-12-11T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise.md",
       "title": "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?",
       "excerpt": "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?",
@@ -1295,49 +1329,6 @@
       "provider": {
         "name": "Crowdfund Insider",
         "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services.md",
-      "title": "Accern Upgrades No-Code, AI Platform with Powerful, Advanced Features for Financial Services",
-      "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of its no-code AI platform, which provides the ultimate user-friendly experience with easy navigation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201123ny01033/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201123ny01033/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

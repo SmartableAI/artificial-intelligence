@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-hand
 cdnAmpWebUrl: "https://www-foodandwine-com.cdn.ampproject.org/c/s/www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy?amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Food & Wine
@@ -40,20 +40,6 @@ related:
       - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1"
         width: 620
         height: 413
-        isCached: true
-  - title: "Samsung has just made a team of robot butlers to cater for your every whim"
-    excerpt: "With the distinct appearance of androids from a sci-fi film, Samsung has introduced a couple of robots that function as domestic servants."
-    publishedDateTime: 2021-01-12T16:51:00Z
-    webUrl: "https://recombu.com/general/article/samsung-has-just-made-a-team-of-robot-butlers-to-cater-for-your-every-whim"
-    type: article
-    provider:
-      name: Recombu
-      domain: recombu.com
-    quality: 37
-    images:
-      - url: "https://recombu-images.imgix.net/app/uploads/2021/01/Samsung-Bot-Handy.png?fm=png&ixlib=php-3.3.0"
-        width: 940
-        height: 525
         isCached: true
 
 secured: "6EiYPlPLHNYDzn8d5sTmfN9jI97g6t0rAyiQ64RFsRE/CSi06dcWZ84XEWekzU100NOJML1FshAVsXhNAtzC54tODrbHcovYMtpu+asEA1saOq38u6rKubWJ7BLncSBWkpFaaqGqPNGxrvUmFFQLM68RBcJgSQetUjezcAHwFsOLoCCK5JtDeRYXN5S8nQA4r7qzr4F+sDy0bZRUCyNiDwdfq9re2QRXK+/1C2gO60WhCxwdiRIQyQrJvTBhxphg1QFCyitL4GeGBpyqIEQveJHO+ppbP7PGvkTs/nAlgg3dZ4a7DJ8j1SFxFjc0BaO6FpFF1XYt/cKVHGE5YVJgt5QUHvv0iWT5tkjkRqOKhMWS6Se5W4QlZ0+u1YBfTnPlNsDqrZlVIjHzsj54fj8/+VhOPkbJTaTJ2FVtgzO4+spGgLlpEklVcaPo4As5GUY/hKLuKWFin+Bqfw205qC/iC/aKjCKrebe0ppCtMyb8Ut//4p1yaZc39VdD2KVZ9dHWHCAQEzaaWACdsEByZ1KCg==;s7ZCvU3wqpucChWeOIFEog=="

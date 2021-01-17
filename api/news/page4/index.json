@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-13-nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai.md",
+      "title": "Nayya raises $10 million to guide employee health benefits decisions with AI",
+      "excerpt": "Nayya, an insurance benefits management platform, has raised $10 million for its technology that leverages AI to match employees with plans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai/amp/",
+      "publishedDateTime": "2021-01-13T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-salesforce-researchers-release-framework-to-test-nlp-model-robustness.md",
       "title": "Salesforce researchers release framework to test NLP model robustness",
       "excerpt": "Researchers at Salesforce released a framework called Robustness Gym to benchmark the robustness of NLP models.",
@@ -446,6 +497,50 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-fda-releases-artificial-intelligencemachine-learning-action-plan.md",
+      "title": "FDA Releases Artificial Intelligence/Machine Learning Action Plan",
+      "excerpt": "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T22:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -966,49 +1061,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-samsungs-new-robot-will-pour-you-a-glass-of-wine-and-do-the-dishes.md",
-      "title": "Samsung’s New Robot Will Pour You a Glass of Wine and Do the Dishes",
-      "excerpt": "\"But what if that home, and those technologies in it, were actually built around you?\" To answer that question, Samsung presented the JetBot 90 AI+, a vacuum cleaner equipped with LiDAR and 3D sensors to keep it from running into the furniture while it tidies up,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy",
-      "originalUrl": "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2021%2F01%2F12%2Fsamsung-wine-robot-FT-BLOG0121.jpg",
-          "width": 2000,
-          "height": 1047,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy?amp=true",
-      "cdnAmpWebUrl": "https://www-foodandwine-com.cdn.ampproject.org/c/s/www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy?amp=true",
-      "publishedDateTime": "2021-01-12T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Food & Wine",
-        "domain": "foodandwine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-all-hail-your-new-robot-vac-overlord-irobot-roomba-i3-is-here.md",
       "title": "All hail your new robot vac overlord: iRobot Roomba i3+ is here",
       "excerpt": "They’ve dusted down the iRobot robot vac range and added the Roomba i3+ which looks and performs a treat iRobot has taken the dust covers off its brand new model, the Roomba i3+. This manufacturer is known for producing some of the best robot vacuum cleaners money can buy and the latest addition to the Roomba robot vacuum lineup comes packed with new features.",
@@ -1143,58 +1195,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu.md",
-      "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
-      "excerpt": "The new 13-inch gaming PC converts between a laptop and tablet via a 360-degree hinge and gets a performance boost from an external GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "originalUrl": "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/b217b9e2-8472-4358-9fd7-36b134d84990/resize/1200x/97ea6a08734939b0c166dc9b21c9cf79/flow-x13-and-xg-mobile.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "publishedDateTime": "2021-01-12T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

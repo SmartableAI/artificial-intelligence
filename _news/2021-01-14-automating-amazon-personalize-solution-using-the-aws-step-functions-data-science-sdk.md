@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-amazon-pe
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk/"
 type: article
 quality: 97
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 633
     height: 563
     isCached: true
-
-related:
-  - title: "AWS Announces the global expansion of AWS CCI Solutions"
-    excerpt: "We’re excited to announce the global availability of AWS Contact Center Intelligence (AWS CCI) solutions powered by AWS AI Services and made available through the AWS Partner Network. AWS CCI solutions enable you to leverage AWS machine learning (ML) capabilities with your current contact center provider"
-    publishedDateTime: 2021-01-12T16:00:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-announces-the-global-expansion-of-aws-cci-solutions/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/Site-Merch_ML-CCI_Blog.jpg"
-        width: 800
-        height: 398
-        isCached: true
 
 secured: "3Ou8HZVbeiwRRYPpOrJ1wGwkfgawFUdjg6lwYeNqSoP4UwWbjXwb+9TXYkli4YWnuJ2y6vz+MNc5DkD3n0EFfZlJbuc/AAikVVqdsyyHHdoWAzaFgoDoFF2Ibp6nXaWIw41m+ftgQ8pgfYaPFR1csgUjks2baxsd3JNlX4ok0pzaSp/YcoxM1Tiy71Y5DzBbSGQmXpXpsgrgAWetoI2SbRo6UezI237nXOawZq/N+NF+GtR3JPb3P6q5wl0RSGRXvqCmcTBERN+UKx1yN27XxMxVBW612cwnsq53klypWvZoQKY8sOgEsGP/DjihWFsttzTtQiD5YX27txyLU6RHXrfTVkjNDLn194v7UdO6y50=;/nQpK3xsRtOVlDgYFGbOEQ=="
 ---
