@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung’s New Robot Will Pour You a Glass of Wine and Do the Dishes"
-    excerpt: "\"But what if that home, and those technologies in it, were actually built around you?\" To answer that question, Samsung presented the JetBot 90 AI+, a vacuum cleaner equipped with LiDAR and 3D sensors to keep it from running into the furniture while it tidies up,"
-    publishedDateTime: 2021-01-12T21:01:00Z
-    webUrl: "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy"
-    ampWebUrl: "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy?amp=true"
-    cdnAmpWebUrl: "https://www-foodandwine-com.cdn.ampproject.org/c/s/www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy?amp=true"
+  - title: "Samsung’s Galaxy Unpacked 2021: 3 New S21 Phones and What Else to Expect"
+    excerpt: "Samsung will reveal its latest line-up of Galaxy S21 devices on the last day of the CES. Samsung Electronics is expected to unveil the Galaxy S21 series, at its annual Unpacked event with the theme \"Welcome to the Everyday Epic\" that coincides with the last day of CES,"
+    publishedDateTime: 2021-01-14T17:00:00Z
+    webUrl: "https://www.thestreet.com/investing/samsung-galaxy-unpacked-2021-3-new-s21-phones-what-else-to-expect"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/samsung-galaxy-unpacked-2021-3-new-s21-phones-what-else-to-expect"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/samsung-galaxy-unpacked-2021-3-new-s21-phones-what-else-to-expect"
     type: article
     provider:
-      name: Food & Wine
-      domain: foodandwine.com
-    quality: 59
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 43
     images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2021%2F01%2F12%2Fsamsung-wine-robot-FT-BLOG0121.jpg"
-        width: 2000
-        height: 1047
+      - url: "https://content.jwplatform.com/thumbs/v3LyAgQT-720.jpg"
+        width: 720
+        height: 406
         isCached: true
 
 secured: "bO8xjU2ghtqAbhkS6v1mco6DXkRZdfXYugJJwpXCDgIXoXEsBWhGJPYl17d8xEonI6kDCZAShFNYpNkQIuy7HQ7+QczS5jhU0zPH7mTI1HPmWH8wSvBfqejwiVHZ89p6LqORebTGEasHYA7pT3Z1pQco4FrHZq/9g6pcaWJnZCJbEY7p45qMekQx1bDGz1BuiFIOocK+p2AmSOgRVP1F2Dn/f5pp4lIJzZJbktaDI8NpXMRsDDXUp9u9GflYdRkbCIBff2XOBXpS12qklgIHzAyyxp/MyGvFCU0F1Hr5ztOdOyYAmKgUiWxDvmZ5UFXABUEi2tPAEO+Z++GZwfgHGD1+CQS2rVFraQcRQqt1au0=;Hr7TTwK5y/QtdvnpEfhj1A=="

@@ -3,10 +3,10 @@ category: news
 title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
 excerpt: "World-leading Researchers, Policymakers, Designers, Companies Share Diverse Perspectives On Topics Such As Human-machine Collaboration and"
 publishedDateTime: 2021-01-13T17:51:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
-webUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+originalUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964746"
+webUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964746"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964746"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964746"
 type: article
 quality: 69
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 653
         isCached: true
 
-secured: "kRyNhiKvdX2xav9lRWglzvp2kQIPBIRElrq2py8Qjl/FkjMVYQAGaXsaF0OTLE4xaccptjzbFHt24fJ3RH5vXNvCSf0FP7ztvpIa7ecAwCiKoJCpdnCUEnLvSNOb/2y8Hahn9PNlM/oFNDOJHwAM80UZ1+ph+u+WforrEDP9LhB6oHSsFR+6INE9ufo1LRd9Ix4xKDhsbFVI4k+piINZIkvbWN3R1sxsZHlemzaqOgKI4mnrxWxcl56KZhNDelCZ5W78eIZxYuzAedlmxUw4hW8vmGgkgI4BBkQokoDGpRmChKt3QIPzzo+DtTaS0XE9CRYdmV06QDj35eWMm4MWtDMzLZGAanKwgjcGJ9ESsow=;NnCy3g8BdfM7LegXRG61Vw=="
+secured: "TcPOvxPSQVpcQK69C62VMcOPqYYnXg7pPwaAHXZ+fZnl7RwgMT2upl3XXoWle2TcU+3uo5dBBVem1WkftLGvdZ4hbuKBIIPvhrhYk7a8c7dUuoWGGGJkk/fWGH7AwxH5VLOR2GhEGke26Oz5kQQmVE0aXV8hymz21Rh6XaVfvW1t+ceJQOb2XXs223ehmgsW0Wpj7J6GvtvN+nmToajv/ey7Fy8H6uRpSEGEi8o7HUf3hASIAJxGQEDByFc/+gmxqaR9lWuqbf3fGEsPU1LEOexy2WnPL6olEFrQVL5SPW2oFPEiJ8HNmm/4w0K90AB73YiN71n6E2AVxbbflN5Y0vCxdjDlkc5jUFIbXuy7bTY=;fafdgXf/V+xhKXUKl4VzBA=="
 ---
 

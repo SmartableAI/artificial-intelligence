@@ -35,15 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
-    excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and"
-    publishedDateTime: 2021-01-12T19:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-1029961475"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "CES 2021 Taiwanese startup STO’s indoor map bridges the gap of Google Maps"
     excerpt: "STOMAP can be imagined as an indoor version of Google Maps. Users can use the map for navigation but for business owners, like shopping malls, we can provide offline data on where their customers go,"
     publishedDateTime: 2021-01-13T07:39:00Z

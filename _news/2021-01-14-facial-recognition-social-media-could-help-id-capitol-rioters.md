@@ -59,22 +59,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Facial recognition and social media may get Capitol rioters caught"
-    excerpt: "Just because they made it home doesn't mean they're home free. Police have identified dozens of suspects and are working on more."
-    publishedDateTime: 2021-01-12T19:08:00Z
-    webUrl: "https://www.app.com/story/news/crime/jersey-mayhem/2021/01/12/capitol-riot-facial-recognition-social-media/6599996002/"
-    ampWebUrl: "https://amp.app.com/amp/6599996002"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/6599996002"
-    type: article
-    provider:
-      name: app.com
-      domain: app.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/82bbae71-c9cc-45a4-b521-853dcad8d24a-GTY_1294932395.jpg?auto=webp&crop=7028,3954,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "LA Police Commission approves facial recognition tech for LAPD detectives"
     excerpt: "The new policy placed some restrictions on how detectives can use the system. They can only use the database to help them in criminal investigations, and when they need to identify incapacitated,"
     publishedDateTime: 2021-01-13T03:27:00Z

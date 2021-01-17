@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-15T00:00:00Z
 originalUrl: "https://www.linkedin.com/pulse/why-ai-ethics-requires-culture-driven-approach-narayanan"
 webUrl: "https://www.linkedin.com/pulse/why-ai-ethics-requires-culture-driven-approach-narayanan"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEX2TrAIGMRpQ/article-cover_image-shrink_720_1280/0/1610688152796?e=1616630400&v=beta&t=OiHaxVfiRkAhdcIghUUt88w5AmpqMz1hbd8gcrABSU0"

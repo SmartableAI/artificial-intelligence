@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://images.wsj.net/im-284435/social"
         width: 1279
         height: 640
-        isCached: true
-  - title: "Facial recognition and social media may get Capitol rioters caught"
-    excerpt: "Just because they made it home doesn't mean they're home free. Police have identified dozens of suspects and are working on more."
-    publishedDateTime: 2021-01-12T19:08:00Z
-    webUrl: "https://www.app.com/story/news/crime/jersey-mayhem/2021/01/12/capitol-riot-facial-recognition-social-media/6599996002/"
-    ampWebUrl: "https://amp.app.com/amp/6599996002"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/6599996002"
-    type: article
-    provider:
-      name: app.com
-      domain: app.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/82bbae71-c9cc-45a4-b521-853dcad8d24a-GTY_1294932395.jpg?auto=webp&crop=7028,3954,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Facial Recognition, Social Media Could Help ID Capitol Rioters"
     excerpt: "Trump rioters that stormed and defaced the U.S. Capitol building last week has intensified and federal law enforcement is using every means at its disposal to investigate the incident."

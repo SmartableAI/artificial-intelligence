@@ -36,15 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
-    excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and"
-    publishedDateTime: 2021-01-12T19:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-biotech-startup-mprobe-cadx-develops-ai-health-analysis-platform-1029961475"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "CES 2021 Taiwanese startup VoiceTube found the ultimate equation for efficient English learning"
     excerpt: "Launched in 2013, VoiceTube successfully created the biggest English language learning platform in Asia with over four million registered users. Users can not only find English videos with subtitles but can also engage themselves in a specially designed learning system for targeting learnings."
     publishedDateTime: 2021-01-13T02:04:00Z
