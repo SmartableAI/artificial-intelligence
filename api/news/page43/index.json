@@ -2,6 +2,48 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-12-09-the-rise-of-the-ai-economy.md",
+      "title": "The rise of the AI economy",
+      "excerpt": "We have made significant progress in AI capability-building in the past few years through government initiatives and private sector investments. NITI Aayog’s national strategy for AI envisages ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/opinion/op-ed/the-rise-of-the-ai-economy/article33282408.ece",
+      "originalUrl": "https://www.thehindu.com/opinion/op-ed/the-rise-of-the-ai-economy/article33282408.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/nijwj6/article32650574.ece/ALTERNATES/LANDSCAPE_615/AI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-amazon-web-services-launches-new-tool-to-detect-bias-and-blind-spots-in-machine-learning.md",
       "title": "Amazon Web Services launches new tool to detect bias and blind spots in machine learning",
       "excerpt": "A new feature from Amazon Web Services will alert developers to potential bias in machine learning algorithms, part of a larger effort by the tech industry to keep automated predictions",
@@ -1178,49 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations.md",
-      "title": "ViacomCBS Taps AWS as Cloud Provider for Broadcast Operations",
-      "excerpt": "Amazon Web Services and ViacomCBS have announced a strategic partnership that will see AWS become the cloud provider for ViacomCBS’ global broadcast media operations. This deal will see the migration of ViacomCBS’ 425 linear TV channels and 40 global data and media centers to the AWS cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
-      "originalUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/otUuP58TKN4bPkNUZ7urJ3-1200-80.jpg",
-          "width": 434,
-          "height": 244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
-      "publishedDateTime": "2020-12-08T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

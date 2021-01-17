@@ -48,17 +48,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 21
-  - title: "Fujitsu Leverages Deep Learning to Achieve World's Most Accurate Recognition of Complex Actions and Behaviors Based on Skeleton Data"
-    excerpt: "Fujitsu Laboratories Ltd. has announced the development of a technology that utilizes deep learning to recognize the positions"
-    publishedDateTime: 2021-01-13T04:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/a19137115/fujitsu-leverages-deep-learning-to-achieve-worlds-most-accurate-recognition-of-complex-actions-and"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19137115"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19137115"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
 
 secured: "eY7mvaZ600I3pc4jU3zF2hNuj6/PF73w60zs2KuF3hl53CndK1ioXpLEibJ0sLn4KOtGcf1KiarE8SUXDJ62KHixAfivb8L8EJOe42HN/6UnK3vmXcU7641W/IP7Y2kDLPw/H6zZ9Wk/bVBUOJj2EB7GHYjk03ae3bL3ApwRZkYQang+9fDbBX9LagwKQa4Six8jf2eLkCP2Ie/n2z/5JNPcfqzeip52WswwulfKRwvE3SKHcKk4dnCo3Gdrgez0QGIp89ylX/dxQpDGWjJ2M4v2EeEWG5l9j/eiOmzZOUoNWYwJ5lf+GCciRrHx38xfMag/ms3BffwaPx8p8IdtH5LrcwHl4oDixFI/IBqAg7M=;08lhZgZYTeyZyFo7gjzf8Q=="
 ---

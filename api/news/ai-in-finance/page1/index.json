@@ -404,6 +404,41 @@
       ]
     },
     {
+      "path": "_news/2021-01-03-future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning.md",
+      "title": "Future Of Banking: YES Bank Datathon Pushes The Boundaries Of Finance With AI And Machine Learning",
+      "excerpt": "Used along with Machine Learning (ML) algorithms ... This is a unique facet wherein data professionals from a non- financial services background are participating in the challenge beyond the ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
+      "originalUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2021-01-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning-to-accelerate-innovation-in-ml.md",
       "title": "MLCommons Launches and Unites 50+ Global Technology and Academic Leaders in AI and Machine Learning to Accelerate Innovation in ML",
       "excerpt": "MLCommons, an open engineering consortium, launches its industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good. The non-profit organization initially formed as MLPerf,",
@@ -1317,58 +1352,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-td-bank-is-using-ai-to-boost-engagement-with-its-customers.md",
-      "title": "TD Bank is using AI to boost engagement with its customers",
-      "excerpt": "TD Bank upgraded its mobile banking app in Canada with AI-powered features that tailor users' experiences based on past behavior and transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
-      "originalUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fca3f1c037cbd0018613ca7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

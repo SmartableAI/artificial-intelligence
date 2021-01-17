@@ -2,6 +2,58 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-12-01-deepmind-breakthrough-helps-to-solve-how-diseases-invade-cells.md",
+      "title": "DeepMind Breakthrough Helps to Solve How Diseases Invade Cells",
+      "excerpt": "Google’s artificial intelligence unit took a giant step to predict the structure of proteins, potentially decoding a problem that has been described as akin to mapping the genome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-30/deepmind-s-alphafold-crosses-threshold-in-solving-protein-riddle",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-30/deepmind-s-alphafold-crosses-threshold-in-solving-protein-riddle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Mhi2KlALl4/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-deep-learning-model-predicts-the-risk-of-developing-breast-cancer.md",
       "title": "Deep Learning Model Predicts the Risk of Developing Breast Cancer",
       "excerpt": "Researchers have designed and developed a deep learning model that identifies imaging biomarkers to predict a patient’s risk of developing breast cancer.",
@@ -1101,49 +1153,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-how-artificial-intelligence-is-bringing-todays-amrs-into-the-future.md",
-      "title": "How Artificial Intelligence is Bringing Today’s AMRs into the Future",
-      "excerpt": "This definitely sounds smart, but some AMRs are taking those smarts to the next level with artificial i (AI) coupled with strategically placed cameras that function as extended robot sensors. Without AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future?listname=Automation & Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future?listname=Automation & Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/9a412ec1-25d3-4007-819a-acc71fd757c0/AMR-Nov30-2020-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

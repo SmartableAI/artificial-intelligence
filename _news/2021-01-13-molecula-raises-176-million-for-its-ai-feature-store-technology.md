@@ -54,7 +54,7 @@ related:
     provider:
       name: insidebigdata.com
       domain: insidebigdata.com
-    quality: 6
+    quality: 8
 
 secured: "RrPF5eMr2gStb0/cjNftMYKXt1Eo5onK6lgzY9mNzBNO9S0OfTvS06Cd2ByiADS+v7WM0iLwDZjipq6kycQ8C8bJBtfsLMf0sQiuOtUqs47soo/bolXdTwO/kT9QkjB/y33EJO6c9bjfWC1A8PpYIWGZeUr3w/G8IN5PvTh8u2K2wzqanwclmoC0grzo8vM6TDyXuxjd88phVEy9ouLnYbqjiPBn1fexI8QQ1773gupNmAw+4RexHrbfUeu5aOG4BydBRb/wmWRATOqu3WFdb2zkDPsLzZJMJ913Bh48s54LCmElVccAA/CKQHnBD2yRdhbjQtJyUbE10nnDEHAvs5N0Wi6S8MqtRL5GP/DjH6/PDlbYxb+j9cp7HurhwIsRNX8/X98qfm5T0UuP+TTiHvAg/H7SNGiH5hySA+NGodMcQrh1MqlGS+hk6uDtuii9U9hVnImYprbQnP0f2NWxbGa7DJVqK93/E33LLUYmp5S9yw7mLOgoIuK8QZ8HFCVsWwtR8Vwg2Nx06T4GrSyIww==;wka/Hd3Iw7hjF+wUwgEXuA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intel
 webUrl: "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CES 2021 LUCID, the leader in AI supporting E-commerce increase conversion and purchases with intelligence"
-    excerpt: "PRNewswire/ -- Lucid empowers E-commerce with AI to convert users to sales by optimizing search, recommendation and product display by applying intelligent tagging and image manipulation with AI to achieve the highest revenue for our customers,"
-    publishedDateTime: 2021-01-13T04:39:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-data-management-a5965ab21c5ae0ec332861daaad132e4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

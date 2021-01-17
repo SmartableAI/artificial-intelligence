@@ -655,6 +655,41 @@
       ]
     },
     {
+      "path": "_news/2021-01-03-future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning.md",
+      "title": "Future Of Banking: YES Bank Datathon Pushes The Boundaries Of Finance With AI And Machine Learning",
+      "excerpt": "Used along with Machine Learning (ML) algorithms ... This is a unique facet wherein data professionals from a non- financial services background are participating in the challenge beyond the ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
+      "originalUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2021-01-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-leading-computer-scientists-debate-the-next-steps-for-ai-in-2021.md",
       "title": "Leading computer scientists debate the next steps for AI in 2021",
       "excerpt": "What do we need to push AI to the next level? A panel of experts hosted by Montreal AI discussed possible answers.",
@@ -1342,58 +1377,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future.md",
-      "title": "National Grid sees machine learning as the brains behind the utility business of the future",
-      "excerpt": "If the portfolio of a corporate venture capital firm can be taken as a signal for the strategic priorities of their parent companies, then National Grid has high hopes for automation as the future of the utility industry.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/",
-      "originalUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1171442301.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/24/national-grid-sees-machine-learning-as-the-brains-behind-the-utility-business-of-the-future/amp/",
-      "publishedDateTime": "2020-12-24T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

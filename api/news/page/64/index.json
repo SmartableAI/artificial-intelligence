@@ -2,6 +2,57 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-11-24-softbank-led-round-values-uber-like-truck-startup-at-12-billion.md",
+      "title": "SoftBank-Led Round Values Uber-Like Truck Startup at $12 Billion",
+      "excerpt": "known as Manbang in Chinese, said Tuesday it broke even this year and currently handles transactions for some 10 million truckers and 5 million shippers. It’s also expanding into automotive technology and backs autonomous trucking startup Plus.AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZmQLXcawPmM/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
+      "publishedDateTime": "2020-11-23T20:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge.md",
       "title": "GrAI Matter Labs Raises $14M to Bring Fastest AI per Watt to Every Device on the Edge",
       "excerpt": "Press Release GrAI Matter Labs, a pioneer of brain inspired ultra-low latency computing, today announced its latest financing round of $14 million. The round was led by iBionext, joined by all existing investors and newly welcomed Bpifrance through the Future",
@@ -1126,58 +1177,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-ibm-takes-the-next-step-with-cloud-pak-for-data.md",
-      "title": "IBM takes the next step with Cloud Pak for Data",
-      "excerpt": "IBM is in the midst of rolling out Cloud Pak for Data as a managed service on the IBM Cloud. It finally makes this end-to-end environment into the self-service offering that it was designed to be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/21/7fd6f1d6-f2f9-4102-9b3d-5c4225480509/ibm-cloud-pak.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "publishedDateTime": "2020-11-23T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

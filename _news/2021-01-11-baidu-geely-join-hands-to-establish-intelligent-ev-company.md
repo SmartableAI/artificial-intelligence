@@ -1,105 +1,28 @@
 ---
 category: news
 title: "Baidu, Geely join hands to establish intelligent EV company"
-excerpt: "Beijing, Jan 11 (IANS) China-based search engine giant Baidu Inc on Monday announced its partnership with multinational auto manufacturer Zhejiang Geely Holding Group (Geely) to establish a company to produce intelligent electric vehicles (EV)."
-publishedDateTime: 2021-01-11T12:36:00Z
-originalUrl: "https://www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
-webUrl: "https://www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
-ampWebUrl: "https://www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/baidu-geely-join-hands-to-establish-intelligent-ev-company-news-education-vblmPGghcjbdb.html"
+excerpt: "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Robin Li, Co-founder and CEO of Baidu, said in a statement. According to ..."
+publishedDateTime: 2021-01-11T12:45:00Z
+originalUrl: "https://www.prokerala.com/news/articles/a1120051.html"
+webUrl: "https://www.prokerala.com/news/articles/a1120051.html"
+ampWebUrl: "https://www.prokerala.com/news/articles/a1120051.html?amp=1"
+cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1120051.html?amp=1"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Prokerala
+  domain: prokerala.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Baidu Confirms Plans to Join the Smoking Hot EV Market"
-    excerpt: "In a press release on Monday, Baidu (NASDAQ:BIDU) confirmed that it was entering the red-hot electric-vehicle (EV) market. The company plans to set up an independent subsidiary co"
-    publishedDateTime: 2021-01-11T23:31:00Z
-    webUrl: "https://www.fool.com/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F607988%2Fbaidu-apollo-car.jpg&w=1200&op=resize"
-        width: 1200
-        height: 762
-        isCached: true
-  - title: "China’s search giant Baidu to set up an EV-making venture"
-    excerpt: "China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely."
-    publishedDateTime: 2021-01-12T08:11:00Z
-    webUrl: "https://techcrunch.com/2021/01/10/baidu-electric-car-making/"
-    ampWebUrl: "https://techcrunch.com/2021/01/10/baidu-electric-car-making/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/10/baidu-electric-car-making/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/apollo-baidu-e1610341383915.jpeg?w=1024"
-        width: 1024
-        height: 546
-        isCached: true
-  - title: "Baidu Is Entering the EV Industry. Tesla Bulls Beware."
-    excerpt: "The Chinese tech giant is working with a Chinese auto maker to build a smart electric vehicle. Investors should expect more partnerships between tech companies and auto makers in the future."
-    publishedDateTime: 2021-01-11T14:31:00Z
-    webUrl: "https://www.barrons.com/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681"
-    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-is-entering-the-ev-industry-tesla-bulls-beware-51610374681"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-283366/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Baidu to set up EV manufacturing venture"
-    excerpt: "Chinese tech giant Baidu is preparing to set up its new electric vehicle manufacturing venture, the company said on Monday."
-    publishedDateTime: 2021-01-11T13:16:00Z
-    webUrl: "https://www.sharecast.com/news/international-economic/baidu-set-up-ev-manufacturing-venture--7773205.html"
-    ampWebUrl: "https://www.sharecast.com/amp/news/international-economic/baidu-set-up-ev-manufacturing-venture--7773205.html"
-    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/international-economic/baidu-set-up-ev-manufacturing-venture--7773205.html"
-    type: article
-    provider:
-      name: Sharecast
-      domain: sharecast.com
-    quality: 59
-    images:
-      - url: "https://img4.s3wfg.com/web/img/images_uploaded/d/d/baidu_logo_2.jpg"
-        width: 780
-        height: 300
-        isCached: true
-  - title: "China’s Baidu set to create EV firm"
-    excerpt: "Chinese internet search giant Baidu announced on January 11 that it plans to establish an intelligent electric vehicle (EV) company and has formed a strategic partnership with auto manufacturer Zhejiang Geely Holding Group as the country’s new energy vehicle (NEV) market gets in the fast lane."
-    publishedDateTime: 2021-01-12T15:41:00Z
-    webUrl: "https://www.phnompenhpost.com/business/chinas-baidu-set-create-ev-firm"
-    type: article
-    provider:
-      name: The Phnom Penh Post
-      domain: phnompenhpost.com
-    quality: 39
-    images:
-      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/beijing-based_baidu_will_support_the_new_companys_growth_with_its_full_portfolio_of_core_technologies._china_daily.jpg"
-        width: 990
-        height: 660
-        isCached: true
+images:
+  - url: "https://www.prokerala.com/news/photos/imgs/1200/self-driving-cars-can-easily-mimic-human-drivers-xinhua-ju-huanzong-ians-993334.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
-secured: "cWP7gsfgCt26vSVccrILCkKq2JtQ4dxFc/xOqbDJiXc36a1hPUW8TDgHb+qPA+Ak/EwvFlDBmcCNry7pTd9mn5RJEpFCFhLc+8iFPeWVdr52ZlMsVGkZgZ7wgyxnzj7mBKUVY9GejgfqO7nCVkvN83IOBQ0jGdfr/Oa4wXKkIU78kxKkXTQK1i6HRBUkuQP+pP8wQ3o1xuGZp0hPW7eSuiC5MIMv0urYkLOnhTV7yihI8e5xj4e9Gv+utMr4O8QJz/Xh5chFUzMiuDVmUkxzMowudmRhpl/M2shc4TMNkvhxAELrnWJaInSi2wNu143HViDBMc3myRZjuTV0I/AALfqTXpv8nS2IqFG35HjtnR0=;cYFHSLt8gYxogy+WeLLo8Q=="
+secured: "GAhXYWOyve5iyk5MTrsFQsrVK2xm302W/WhmJeMGGHlfs2jh23gutMakSwconcAe2zU+gaNMfF/Ce8b7buCyLo3n56BZRpO1Wl7SWEUfvIsM/5Lq8K51SZR650RHr/RqQMACZKvNrb0lgvAGNqt9OrHdGKw9tk0JZUKP/bInsai5XgRbH/NnppgAoxlK2/RstIuByZZO4xsar6ZiUkjIDvHesPEDSSAm3mb03IY5r/CU6BnLFXiWB+r2dyOKjQQZRagW+N5xsMzyJGTaiwNTC4zlPSH+0tlk5LsgKMmZjbqgU7AqWoXdnL1gpdjTG6yGzD3x1+3uO2Pg5R3fEzs5ZptU8YGENo6w3sgsgjpmLcg=;xqRhp2KJ0Po7MHNUoQoylg=="
 ---
 

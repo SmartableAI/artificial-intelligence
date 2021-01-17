@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-24-uk-based-ai-fintech-finchatbot-secures-12-million-through-latest-investment-round.md",
+      "title": "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round",
+      "excerpt": "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/pounds-toa-heftiba-unsplash-600x400.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/",
+      "publishedDateTime": "2020-11-23T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services.md",
       "title": "Accern Upgrades No-Code, AI Platform with Powerful, Advanced Features for Financial Services",
       "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of its no-code AI platform, which provides the ultimate user-friendly experience with easy navigation,",

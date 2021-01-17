@@ -73,22 +73,6 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "LA Police Commission approves facial recognition tech for LAPD detectives"
-    excerpt: "The new policy placed some restrictions on how detectives can use the system. They can only use the database to help them in criminal investigations, and when they need to identify incapacitated,"
-    publishedDateTime: 2021-01-13T03:27:00Z
-    webUrl: "https://www.dailynews.com/2021/01/12/la-police-commission-approves-facial-recognition-tech-for-lapd-detectives/"
-    ampWebUrl: "https://www.dailynews.com/2021/01/12/la-police-commission-approves-facial-recognition-tech-for-lapd-detectives/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/12/la-police-commission-approves-facial-recognition-tech-for-lapd-detectives/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 58
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Use facial recognition cameras to identify people refusing to wear masks, says former commissioner"
     excerpt: "Facial recognition cameras should be used to spot people who refuse to wear face masks, the Government's former surveillance camera commissioner has said."
     publishedDateTime: 2021-01-14T16:30:00Z

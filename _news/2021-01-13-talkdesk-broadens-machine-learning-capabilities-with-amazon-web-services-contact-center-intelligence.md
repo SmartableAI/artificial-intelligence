@@ -12,9 +12,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -22,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "1EL29mHKWDLxFo7B/kO6SeORt5qG51tP/AB7Gi1/BvvmxwvAiTNetNt5Vi93cksVViL2td2vKlXlFhnyhgwS5BrJ65Sgoi2hzqiVcntRIoTj24++ulTKBLAf29n7LBMVSHjS7i4v0j+8MvpTOBorNEY8ccpLK3TYt9rAcy7LFPRDVD7E6509v04TfdN5LGa/Ds4uJnN55qo6T4Ty5iCZok4G8oAy6BRoLTuE+1khjMZvCr+paom2kUKi3VQ1LbidETgYddQ9MaFlw0gSmurAdYbul3mI2Z/mk2c9RVqAiqaR0052w7HFJk/f2xJAzdR0A7PdQdULzBWFdNJqB40zPYQ52ER0akde3+pFxUp1rq8=;MtBhu2xc9CWt8tFHXTAHRw=="
+secured: "imwyMWk+5UGbMLx2OKviQ5Qpy/jV7ygH0sE2zmS98RnFHQl4Z8oJ/UwRgxkfhDFcgxkbu6JZbsklQKO+91usnM5p2S0iyWAfXxsikZ0SSQbWc/Qn8ji/CS0MtGgE+R2QrLlW3W3cqRL3bIaA/DN3uSt7g1LIcryMeE6ma0/FiB8izm7CGOONSRpUkgO2KjAEkDb1xzQvGYk5rZZV011APnTxH4k0DnIPOlwmI6M7v/0MW/Ps/H911d8Tlp3o4Ovd0qrGQmmZ22up6xOY4/9qf54f3IdDkHFqJFZAfF8P8j/c84HhExwK4Xc5Np3t36VC6nc+fq++uAUXwnWLEgQy5e1IPVTMc6qo/XkduG4Ljz4=;Sr6F+EwtOsQMZN+d/TwNmw=="
 ---
 

@@ -70,20 +70,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CES 2021 LUCID, the leader in AI supporting E-commerce increase conversion and purchases with intelligence"
-    excerpt: "PRNewswire/ -- Lucid empowers E-commerce with AI to convert users to sales by optimizing search, recommendation and product display by applying intelligent tagging and image manipulation with AI to achieve the highest revenue for our customers,"
-    publishedDateTime: 2021-01-13T04:39:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-data-management-a5965ab21c5ae0ec332861daaad132e4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "1uw3HWWj95k0xkzt5K4OaP7/FmkfUPxRvUyKQmeLH2MPGXbVtRz8Z1Jx6YAf/VKvxoU5BusUXv4mVwV+05/QgATGOEacAKy3CCxHVqnaBIIjNU5GW+BprXy3wD+EFcjvDBSWIYDbgplV3N3kNhi6BV8WqWfBGbXYoxkO/95wmFPjPUCsfbnf9y17d0ZNxwuJUAaXGCgM+t+oHaEQzEmJztmM1mnaq5LNKaQ5jdkQiFe6WwwY3UXA60vC3wrvixAQfvF9FTKRsstIUUwKlB3qCu+N/JG5eziFXjhq9YfykQfNJgwOsNTgx8jiPJu6jPcYtkqQt6HKyRYVXk8QOfgOJFtU4klTOp8vOFFTz0H7qkA=;sRlNG4FspSSN/CErplZtqA=="
 ---

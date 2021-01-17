@@ -41,22 +41,6 @@ related:
         width: 675
         height: 450
         isCached: true
-  - title: "FinTech Market Next Big Thing | Major Giants Qudian, Xero, Sofi, Lufax"
-    excerpt: "Global FinTech Market Size Status and Forecast 2019 2025 is latest research study released by HTF MI evaluating the market highlighting opportunities risk side analysis and leveraged with strategic and tactical decision making support The study provides information on market"
-    publishedDateTime: 2021-01-13T03:57:00Z
-    webUrl: "https://www.openpr.com/news/2224208/fintech-market-next-big-thing-major-giants-qudian-xero-sofi"
-    ampWebUrl: "https://www.openpr.com/amp/2224208/fintech-market-next-big-thing-major-giants-qudian-xero-sofi"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2224208/fintech-market-next-big-thing-major-giants-qudian-xero-sofi"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/1/U113742639_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
 
 secured: "AszVAsBGjhUQP9TruZDwtuhsXgWKH6clR2BmSpuuD9HpG1zWXGjUUONcVLSqC+Xs0gqTVcAaL++nCY8MhbYegIfkvOh33lWLIkFBQCh4FUOAtMI0qFW0uKJtuh98jiooWuO+bZu0nbldlura8muYIvon908RZ8T9AlsBxrWzGuXwuQVm4MDFuvqPt+0MVKe/VqF1lZbHBuyJNCsFXCemtNahmx4RZO0Bd7F8lfC1epjvhIIvZ/U0W6lescAgSjwJx8q3ZRipXPFvrP5LDkIdzotAIhDcGqm2EmixEJxJMenBrVVZFtkfPOZTvr4eFJZqYVooMujebjkhFnT04ofWsj6YvfJW9CXKwGPR42BLspAWsgYZ3zMsRzufBUgnmpG1BZN0BY/t4d7odtIfWNXGBQ2JwuCg1LWUj2cobVrKRGkqi0PeSNxfS4Ot7dbKaKj/GuJebFn9YYdNo3gkTJFHZASKMpmxIm+inYe6RtWeagq0G1KEwoqt+pwfpMpI9H0+6/+FH02EnEivFc5QTwc9pg==;w4/VJ1qa12Sd/eppsWHcjw=="
 ---

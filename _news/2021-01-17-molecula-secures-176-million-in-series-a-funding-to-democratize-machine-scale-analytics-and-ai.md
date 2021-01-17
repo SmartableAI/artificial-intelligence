@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-17T14:40:00Z
 originalUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
 webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
 type: article
-quality: 6
+quality: 8
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Molecula raises $17.6 million for its AI feature store technology"

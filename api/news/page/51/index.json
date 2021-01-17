@@ -2,6 +2,59 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-12-03-healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Research Report, Growth Forecast 2026",
+      "excerpt": "The major vendors in the Healthcare Natural Language Processing (NLP) market aggressively focused on enhancing their contributions to meet the business goal. Request a sample Report of Healthcare Natural Language Processing (NLP) Market Analysis Report at:  Global Healthcare Natural Language Processing (NLP) Market to reach USD XX billion by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-himax-ultralow-power-we-i-plus-endpoint-ai-development-board-available-at-sparkfun-to-enable-ai.md",
       "title": "Himax Ultralow Power WE-I Plus Endpoint AI Development Board available at SparkFun to enable AI ...",
       "excerpt": "High performance Endpoint AI solution with ultralow power consumption The WE-I Plus processor is designed to accommodate a wide selection of TinyML Neural Network models with programmable DSP running up to 400MHz clock and 2MB internal SRAM.",
@@ -1106,49 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-european-computer-vision-industry-to-2026-featuring-intel-sony-and-texas-instruments-researchandmarketscom.md",
-      "title": "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com",
-      "excerpt": "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
-      "originalUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

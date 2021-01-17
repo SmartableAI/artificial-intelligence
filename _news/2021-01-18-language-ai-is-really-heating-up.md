@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/"
 ampWebUrl: "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence.jpg?w=1200&strip=all"
@@ -59,6 +60,6 @@ related:
         height: 720
         isCached: true
 
-secured: "yYnzUjBwIVhoFO1pfItlW4HO6tR5qFxp8ZFWmjdifJsWwExTvdfvwD6M95Z5nYMew1no2zDsr0FOfYtpjJqFZY4R2K9kXMisbcRm9eTBFaXhOsiLjSmyNxKqCwKn8rkiLpIAHeXpjexieu+Kdc9DsSaL9w4lvzjLb11F7lcIzswumJ/WCUEkPRnA+RJh43CUNtDpIN+/nQIjrQdXEgQQ7hLDVzxZXx5u1IidREwz8NV4CviUUP3aPZv/zmabgcB8zhBzP3qce9uh7Ft3V4nNKiYr3Ry2tj/eb86lVK4lax+BdftF1XHMmW9a4Jmyo6p5E3z0cRh2usFp/JZbX5wBYjUCTYxsF9DXpR4PvgmHcRw=;w1AyshQmPj9E7QcdB4gHuQ=="
+secured: "UJ9kU+p0C4QZ8pLZGQTWy9uxJCBSYYlwKsiCN4gxCBfsAJqUAsJnJsphA4IP7NWeXH283RFVLzHJCCgXa8MIerasV1Womx5gInO6a2wGHvD+SI5POEU0MU6ZPQsiknwOxoDRMrPboEaTMr8K2EXa10wG/ndm2KPuLg7F9014DxJjhJAc7PnFqSyISLfwKEeAKBeS9G0pZd7aM+CoDPlT3mxvPpiQGEVJsGHMbHbtOgnBxeyEFj4EujOYH36Y3XOSKQ3MRyUorbuJcyxvDkPw2saPSY0Z0EnucRwlMcA+xP8N7PlpZwQi6M9uYjYB6yf6dT3jS8wL/JnGUz+e+q/qF7oUhbxwLTV+OlXl4avEguilgI0SJQLAD73l6BTzx3bknKNcWzQ7bxnzJspsl1UOFYIvvEourxHCzgIT9SqL14DPZBzzkHd9OCn4mn/FWKiUwWxtNfBWDM4U1ZdLzpWNME2iLK9Sw8zZWokWu0OPfsTD8gjf1H/GiQwGVoB2wBlnxzbkrNfbDBUpFa2JQn0+3w==;PuuEiNUxh7ljFIrbqE+WEQ=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-28-levelling-the-playing-field.md",
+      "title": "Levelling the playing field",
+      "excerpt": "IBM has been using AI in its HR processes for several years thanks to the creation of Watson, a natural language computer system predating Amazon’s Alexa, which can answer questions in a human-like way. IBM’s Andi Britt says: “We’ve been doing a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
+      "originalUrl": "https://www.hrmagazine.co.uk/article-details/levelling-the-playing-field-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hrmagazine.co.uk/article-images/image-library/138/screenshot_2020-12-22_at_18.49.06_f348cd83.jpg",
+          "width": 800,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-27T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HR Magazine",
+        "domain": "hrmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-tensorflow-tutorial-uses-python.md",
       "title": "Tensorflow Tutorial Uses Python",
       "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
@@ -1123,48 +1166,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-05.md",
-      "title": "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ) Shares Up 0.5%",
-      "excerpt": "Global X Artificial Intelligence & Technology ETF (NYSEARCA:AIQ)’s share price shot up 0.5% during trading on Tuesday . The company traded as high as $27.20 and last traded at $27.18. 47,403 shares traded hands during trading,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/25/global-x-artificial-intelligence-technology-etf-nysearcaaiq-shares-up-0-5.html/amp",
-      "publishedDateTime": "2020-12-24T17:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

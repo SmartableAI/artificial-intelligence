@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2225535/artificial-intelligence-in-sports
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: openpr.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Market Next Big Thing | Major Giants Qudian, Xero, Sofi, Lufax"
-    excerpt: "Global FinTech Market Size Status and Forecast 2019 2025 is latest research study released by HTF MI evaluating the market highlighting opportunities risk side analysis and leveraged with strategic and tactical decision making support The study provides information on market"
-    publishedDateTime: 2021-01-13T03:57:00Z
-    webUrl: "https://www.openpr.com/news/2224208/fintech-market-next-big-thing-major-giants-qudian-xero-sofi"
-    ampWebUrl: "https://www.openpr.com/amp/2224208/fintech-market-next-big-thing-major-giants-qudian-xero-sofi"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2224208/fintech-market-next-big-thing-major-giants-qudian-xero-sofi"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/1/U113742639_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "AI banks, next big thing in SA market"
     excerpt: "AI can lead to higher automation and, when deployed after controlling for risks, can often improve human decision-making, says Stu Chalmers, Winjit associate VP for Sales and Business Development in SA."
     publishedDateTime: 2021-01-13T06:47:00Z

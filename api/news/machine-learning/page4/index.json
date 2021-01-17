@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-16-how-insurers-can-use-deep-learning-to-boost-performance-marketing.md",
+      "title": "How insurers can use deep learning to boost performance marketing",
+      "excerpt": "With deep learning, insurance companies can drive down the costs of customer acquisition while improving the effectiveness of their advertising, enabling them to win away more new customers in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/",
+      "originalUrl": "https://www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/12/Data-analytics-Rawpixels-Shutterstock.jpg",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/?amp=1",
+      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/12/15/how-insurers-can-use-deep-learning-to-boost-performance-marketing/?amp=1",
+      "publishedDateTime": "2020-12-16T04:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PropertyCasualty360",
+        "domain": "propertycasualty360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-the-four-mistakes-that-kill-artificial-intelligence-projects.md",
       "title": "The Four Mistakes That Kill Artificial Intelligence Projects",
       "excerpt": "By Joey Bertschler, data analyst for Uniworld.io: artificial intelligence for B2B and B2C. I came across a Quora question recently that asked, “What makes AI projects fail?” It’s a valid question: The vast majority of artificial intelligence (AI) projects fail,",
@@ -1332,58 +1376,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-ionqs-roadmap-quantum-machine-learning-by-2023-broad-quantum-advantage-by-2025.md",
-      "title": "IonQ’s roadmap: Quantum machine learning by 2023, broad quantum advantage by 2025",
-      "excerpt": "IonQ's roadmap for trapped ion quantum computers: rack-mounted modular quantum computers by 2023 and broad quantum advantage by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
-      "originalUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/ionq-roadmap-graphic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
-      "publishedDateTime": "2020-12-09T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
