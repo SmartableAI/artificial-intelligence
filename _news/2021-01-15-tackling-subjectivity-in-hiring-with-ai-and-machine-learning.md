@@ -3,8 +3,8 @@ category: news
 title: "Tackling subjectivity in hiring with AI and machine learning"
 excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
 publishedDateTime: 2021-01-15T00:56:00Z
-originalUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670264"
-webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670264"
+originalUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-669469"
+webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-669469"
 type: article
 quality: 64
 heat: -1
@@ -47,6 +47,6 @@ related:
       domain: techinasia.com
     quality: 64
 
-secured: "jeDoUAZPG8va8fGxmdued/cylRoqRld6gcc0gjAnnmGI0u2VL1yxP3d0Y4eHks50acHRErBsKSOgFfa4hKUJNu1i6vIwsOMDVNRzLms7wwP48M7E5Qc2+w4wenX0CeC8DDeWv1CftBKXAe7H8fjmF/y6Nq0LYBE32ImiSkXhycQb5rdP9qtgK4e0JcVbPX/Kt0WeA7UoJw3zSs4qSbeEBSJ6s4y2kJbCuYYKUq5H0TmE/rSj05Gf2m3y7VfRkOUs0xngF6JUXjGs33PlrGiIk467lYTlMPh4yQybyQolr+BRsLZWmodp1WBvN7WS0WsCnmTH9vutuz4QapO91Pc2EoR4gW+I3etAg9wRB8xag8CzAf7zPvbCRLtVXRDtxtoUCqnyIKl9Gv66U1BTQkOYcvX5tqXB1bRLZlXar13m3/8969AcoOrKQ4TzR0S3bj19EAqAWxgrZK52OCtm+mSE3jbXa+WmaWlmxwwoNH86I2FpFsGInZus3Qx0ikfLTOt7Az6YCqJxP/5PzjV0KUw17Q==;1mt1eQPXBhi1AEdQnWVXqw=="
+secured: "sWWPRIepD4HQz2nDCulACV+xR3TXV81hIBoks2Vt3dwrnyialBf6lUir3b+0iVc5E7qvU8MGQ6oRslYKn9gLiSK6bp1tljXN6JxbfYbTrmQ/yoAizLtTU6UPZwUPPXjdpTXbpBQU1IiT/Gzvx1uSrm/PHDtogtsxrDqt7eCU9bPaHLk9+gxjz00bpT023WcJCXHpdOHoEvFDtQRcibaISF9uEp5EjXlyjXgKsIvoIHPG/ZFN04p/O3kGXqz/PfIlHtUL2jPxyymt9dpZrEd1r8SYRIM6Xlw8plg6lJq27klFvnO8zUK64GvYIteTYiiN9YmfYBRBl6SWRspwoX4wPuTZfq18ibiVaZXUyNvUp9uby8d5HKGXcLqbhO+XLZMHsby3gqOB1rtROb9VpRRRq9sS7XjQvl6184zS0rOJ+6o37Z2PTQewQXrrOju/nx+kM/Jd6AliDAbngYz+jyj3MAn3S0Xu9WP5WPCj+OGiYYYCV79agMT+Cwe08GDmM/Lv8qPRMg5xI9eugfcW3B69Qw==;jDODEGkv5GtJkS1Ri/iOkw=="
 ---
 

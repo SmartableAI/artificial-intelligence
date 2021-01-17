@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

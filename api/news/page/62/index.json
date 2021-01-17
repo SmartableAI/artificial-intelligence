@@ -2,6 +2,57 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-11-24-admed-unlocks-answers-to-health-questions-with-watson-assistant.md",
+      "title": "AdMed unlocks answers to health questions with Watson Assistant",
+      "excerpt": "It can be challenging to communicate accurate scientific information, especially in times where the COVID-19 pandemic is by far the most searched topic on Google, impacting everything from our news to the economy. Having so much information available also leads to the rapid spread of all sorts of misinformation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/Watson_Blog_Healthcare_Leadspace-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T10:20:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-using-deep-java-library-to-do-machine-learning-on-springboot.md",
       "title": "Using Deep Java Library to do Machine Learning on SpringBoot",
       "excerpt": "Apply these frameworks to integrate ML capabilities into microservices for deep learning. Many AWS customers—startups and large enterprises—are on a path to adopt machine learning and deep ...",
@@ -1100,49 +1151,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-preludedx-announces-partnership-with-americas-choice-provider-network.md",
-      "title": "PreludeDx™ Announces Partnership with America's Choice Provider Network",
-      "excerpt": "\"DCISionRT combines the latest innovations in molecular biology with artificial intelligence and machine ... surgery alone or surgery with radiation therapy is appropriate.\" ACPN contracts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/preludedx-announces-partnership-with-americas-choice-provider-network-301179195.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/preludedx-announces-partnership-with-americas-choice-provider-network-301179195.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/613101/PreludeDXLogoPMS_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

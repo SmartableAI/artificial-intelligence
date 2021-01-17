@@ -24,17 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Accenture Positioned as a Leader in Microsoft Azure Systems Integrators by Everest Group"
-    excerpt: "Accenture (NYSE: ACN) has been strongly positioned as a Leader in both Market Impact and Vision & Capability in the inaugural Everest Group PEAK Matrix ® for System Integrator (SI) Capabilities on Microsoft Azure Services,"
-    publishedDateTime: 2021-01-12T08:44:00Z
-    webUrl: "https://www.financialbuzz.com/accenture-positioned-as-a-leader-in-microsoft-azure-systems-integrators-by-everest-group/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 25
-
 secured: "swsbRDnRyu12duc+FKwguJs38wrI/FylnlWD9Xrxy9zlNOd+St9/k8zlYAUJRqFsFWsorGPkzfg5bceNTu7vcFKAAreZue0Trd5FwLrRJkm1MeRfBxbCf/ulHB51d8kWoKhBBUyq5g39qX23Lt558Hqfq4+tXDeauoLZMrAoyNxv4fE2K/EfIcB99fQp8O1lBdedyHru6gdZiYiFUYPFB57AVJHak8PS8gaKr7qCpxWrw1ZtOYyGaGyCls9idBvWMDhWLakyJlkov/FwAMW8otpBiT+LYi9BmrKqKs39Bzf4NrpEOA8rWpxREIXUORS92nDwJElwJjry2LMY0AmlP8lDdWyM6cnIjs+3BUJDHfA=;OwIKktM5tLEQyPKQy0wd1Q=="
 ---
 

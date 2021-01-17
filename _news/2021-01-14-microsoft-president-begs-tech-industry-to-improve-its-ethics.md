@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/go
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -142,15 +142,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft backs Terra project for biomedical data"
-    excerpt: "Broad Institute of MIT and Harvard, Alphabet company Verily, and Microsoft entered a strategic partnership to accelerate new innovations in biomedicine through the Terra platform. Terra, originally created by Verily and the Broad Institute of MIT and Harvard,"
-    publishedDateTime: 2021-01-12T08:30:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-backs-terra-project-for-biomedical-data--1368202"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "/SWPkpsV/YaPJds4D9XGJC4FxjzCQflgGQFfHOAYyQtxSLrRa5SpqFNMTNpHWl4fxrDf2t3hhhp89qkEvOsQYzA63dn7HYusTuvm2VYu49aA2O18t4xIt2H/OyJoWvErNNKLgh0oISxm8xd4FgEXF4VVKCILOyxF065G4MKdh9BBUvUaijrRfcTWs/z3KRH2tH3FzC60nJM3pnlcjnat/74kjCU7VS1UquarSy3b9cWmzFN+1SNySc2FdMc/YNik/bOOXkU1bUULyOl4lFEP7o94EPg9glerO+4svY9u2tNecoI+BQKAyMpN4SLFU13YdSZ68cuXc808wuqGiDkgsfdHYGfvqjQLNStIlvbCn9jjtOQj8OFaBucJrh3voz8oYEBp9lKfHDOlhofOJpSlysag/N9B8PT7V0jOMSXdWmSub2jY9EV8+6v9E16X/iEqeBJ3hrcJ/GMoRxxeJwfpmbxjUE99SBA6lkwLg8Vm+rvED8WIE925NJXIv0WbCymMvDPsWa6OjRB9ImSiEzsJMA==;mN46bzr/QkR79WJma0lVFw=="
 ---

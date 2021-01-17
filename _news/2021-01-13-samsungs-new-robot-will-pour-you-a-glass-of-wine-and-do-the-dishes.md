@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-hand
 cdnAmpWebUrl: "https://www-foodandwine-com.cdn.ampproject.org/c/s/www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy?amp=true"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://recombu-images.imgix.net/app/uploads/2021/01/Samsung-Bot-Handy.png?fm=png&ixlib=php-3.3.0"
         width: 940
         height: 525
-        isCached: true
-  - title: "Samsung’s new Vacuum Cleaner empties its own bin and has LiDAR"
-    excerpt: "At its “A Better Normal For All” CES event, Samsung announced new TVs, home appliances, and new vacuum robot cleaners. One of them is the JetBot 90 AI+. Samsung uses a combination of sensors and AI-enhanced object recognition technology to navigate its vacuum cleaner around your home with “the same efficiency and care you do."
-    publishedDateTime: 2021-01-12T08:44:00Z
-    webUrl: "https://pocketnow.com/samsungs-new-vacuum-cleaner-empties-its-own-bin-and-has-lidar"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 24
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/01/CES2021-JetBot-90-AI_1.jpg"
-        width: 1000
-        height: 750
         isCached: true
   - title: "CES 2021: Meet JetBot, Samsung’s lidar-integrated robot vacuum"
     excerpt: "Samsung Electronics introduced a new robot vacuum that better responds to its environment in the home or office by using artificial intelligence (AI) and lidar. The JetBot 90 AI+ uses a combination of sensors and AI to improve object recognition."

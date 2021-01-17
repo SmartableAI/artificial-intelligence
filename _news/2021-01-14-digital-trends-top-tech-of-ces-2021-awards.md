@@ -71,17 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Startup Watchlist: 7 Indian Fintech Startups To Watch Out For In 2021"
-    excerpt: "In this Startup Watchlist 2021 article, we offer a rundown of the top 7 Indian fintech startups that are a must watch in 2021"
-    publishedDateTime: 2021-01-12T07:30:00Z
-    webUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/"
-    ampWebUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 24
 
 secured: "wWKh+oDJ1sHDzqSsuvT2jGVi8tsKspgWYq6M2tjF67r3NaSmGCFEwDfj4D8QtG5HwY+BUZ4nbEslckb403ZB9pPenXixFxYwsB3Tkhxj+VOaPsyyFYSKAGmFbysHwUk9ec6+N3AuMgN06A8m4Y/zUewVWMXYv4W4mEfBCAgjJRr8ayDiwGiiwirtI1AxxVRyACgfd61bzTYm12UD9MFcarZ7uL6AfY8Doa/AmmHihwl5vJWZ9Vkzekda7eX7OMwhzhF/vO3bTiqi1Ljw5NPPkHinBpjDMx1fMkH7mCK1zeDWcmW2MZXjrwp+KrTz8IDgy0a318z+Ngo2MakCU5+ZNQCcI+9yYhijbJgAtezBIPcHSPoZEaGKJBesxn/aNRIqqN9NDhs1MRVtaFxFq/hSZqy0T/bE+ISU5GVHJorHcKlgKUG7unX5VRtwuR3e94WM2A39ifvRtB+HHQ0shzNH6QsNWsGDUZiZi1l4j3dbWeA+AuteS3BqjTzbBznUfJeFt6v6UmccRYGj8gPINegcSA==;ilWt6ryI5PuSr2nWplupgg=="
 ---

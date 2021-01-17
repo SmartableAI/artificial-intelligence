@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society.md",
+      "title": "Incoming White House science and technology leader on AI, diversity, and society",
+      "excerpt": "Incoming White House science and technology leader Dr. Alondra Nelson addressed the relationship between AI development an inclusion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
+      "originalUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alondra-nelson.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "publishedDateTime": "2021-01-16T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-artificial-intelligence-ai-helps-map-intestinal-bacteria.md",
       "title": "Artificial Intelligence (AI) Helps Map Intestinal Bacteria",
       "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Changes in the intestinal flora, caused by antibacterial and antibiotic drugs, may have an effect on a person's ...",
@@ -105,7 +156,7 @@
       "originalUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -158,7 +209,7 @@
       "originalUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -365,7 +416,7 @@
       "originalUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -660,7 +711,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1107,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1107,7 +1158,7 @@
       "originalUrl": "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1150,7 +1201,7 @@
       "originalUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1190,51 +1241,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-artificial-intelligence-creates-tremendous-changes-for-the-direction-of-marketing.md",
-      "title": "Artificial Intelligence Creates Tremendous Changes for the Direction of Marketing",
-      "excerpt": "Artificial intelligence has entered numerous facets of our lives. Here’s how it is revolutionizing the business world by changing the marketing landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
-      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/How-Artificial-Intelligence-is-Transforming-Business-Marketing.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
-      "publishedDateTime": "2021-01-14T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -84,15 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Computer's learning ability improved by tweaking AI software to function like a human brain: Study"
-    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
-    publishedDateTime: 2021-01-12T08:03:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210112/3689643.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 5
 
 secured: "wOV5IhJ47geNx3if3otxHIB8TOx3QHn+Kz/NY/Nr32Xw7z4BfM8+dvE4gXRSfJhFVM8ib0rS8NbdpUqTCjkTfnRnIti0XpY1RjOeiGNEdLL9eCAK7wM+FzTYPNzduMy1kdpwrD+i41Up20T5xMswf65TIhwvnUuhkQJ/oRivAtGSC05dGrQUEfJGMhnleGOES22U95Eu4G2qidd0c6l2ASaIvC+yPxJ6a8ba3rC8gs6NzonyM/6U87iLmP5jfnE9bZyqu9T9AWFnt2pvVkpM6wy874xWleThouYSdobyE41oC35EVwpxf6Sc/JxZl4uRZpphX2CE+I3OPJbv3fKNMmtCMC4BxhhHldZIlwOVtG8=;CCGRf0paHVDF76B+sDaBcQ=="
 ---

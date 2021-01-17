@@ -3,10 +3,10 @@ category: news
 title: "U.S. exempts self-driving vehicles from some crash standards"
 excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
 publishedDateTime: 2021-01-15T04:52:00Z
-originalUrl: "https://www.reuters.com/article/top100InnovatorsVBC/idUSKBN29J29Z"
-webUrl: "https://www.reuters.com/article/top100InnovatorsVBC/idUSKBN29J29Z"
+originalUrl: "https://www.reuters.com/article/us-autos-autonomous-safety/u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSKBN29J29Z"
+webUrl: "https://www.reuters.com/article/us-autos-autonomous-safety/u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSKBN29J29Z"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "Exemptions From Some Safety Rules Eyed for Self-Driving Cars"
@@ -116,6 +122,6 @@ related:
         height: 630
         isCached: true
 
-secured: "udsZRPr4jElEhshAukMsWxRkTmdCFs08jTVs+DD6FQjZ0kIjyZ3KTwC2q6VR+mLMIT5oUq50RKRamBWrKGfDVMlN3cnpMLx8+qitwZ9RrrPYgLSjq8rDy9dKK62l7V/3RIa5bz27Uvijkuctf/m0yDYIFM3Oco5EHO+695JekkQsjyANNt+ifQPuaDd2R1IpBTS2iK5rq7u4lLXS2DSYQvneoAEe7oknMcRzVuCq+P+GCVsLWof+5LN6Fd/TfIUTYl2PbwwNOcEncSQgaK6eLGQAq7NQ6b6bX7toSNAYmIbSYMLXCGiFPs0RBnTA8F5wXu7c/taZ0r6LqGC+4Hpb5RhwipYJmjadae6+I8LR4Zr7eaI1ZI0K/gM5Gbr4vjMnftcj2JKRDoLqR6X02wweJXp1tglyYlkGvkDoOqVxlieuMGp/hrGQFeFtGcrBNU+/GmL4AgsbhAcdBgToZ3wpF9gFphA3n39AfwO809RPCRL4rJlJFg9FSmrsV3Jl0H9YD5jkMmyGHDvKYdPm/ke4pw==;LrmRGJmslpjuBOSAHBRPrg=="
+secured: "9mUTUc9Cvo6R6cN5NcAChG7+cwT+Ry9cx/1Yn5mXXJlMN32ufHyvbjl+CJXu0jKqqcYqdlBxUwpQ2acVjqkgthj616Ee1f+bpOdTjelSwWzj2qig6NtbW+AQOdaR/xG6WAkdnhrVzlVCbIUnhq6xEk3Dqpl6+Kd9GNbUvb5vNsgt0p0R3BHCooIJx9RxN7s2liFSy4SxZiRjFFEw/+fFHSiADdEeNRsktLfQ+KY4arAoRLmugX9yJroTe5+MEmIBCJI6Zxc9V6aiIpfo723Mj4XtSIMpu6aLh8d4/Uv/6rqOdnk+BErFXlGjo4N0oIdclx8HCY4amj7xWqR3jqSDXM1A72ZBUoWDDCgLS6W/Xiw=;gdUS83DHaJ4l5nXtO2A8cw=="
 ---
 

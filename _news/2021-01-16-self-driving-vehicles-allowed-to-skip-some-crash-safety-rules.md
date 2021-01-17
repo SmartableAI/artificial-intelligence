@@ -43,6 +43,20 @@ related:
         width: 360
         height: 221
         isCached: true
+  - title: "U.S. exempts self-driving vehicles from some crash standards"
+    excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
+    publishedDateTime: 2021-01-15T04:52:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-safety/u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSKBN29J29Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Get ready for self-driving banks"
     excerpt: "Popular Science magazine envisioned self-driving cars. The reality arrived sooner than anyone anticipated, and before safety regulators could adapt. Most automotive laws — on speed limits, giving signals,"
     publishedDateTime: 2021-01-12T12:03:00Z
@@ -75,15 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. exempts self-driving vehicles from some crash standards"
-    excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
-    publishedDateTime: 2021-01-15T04:52:00Z
-    webUrl: "https://www.reuters.com/article/top100InnovatorsVBC/idUSKBN29J29Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
   - title: "NHTSA Eyes Exemptions From Some Safety Rules for Self-Driving Cars"
     excerpt: "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans."
     publishedDateTime: 2021-01-14T18:00:00Z

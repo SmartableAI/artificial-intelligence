@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-07-quadriplegic-man-feeds-himself-a-twinkie-utilizing-ai-robotics-and-brain-waves.md",
+      "title": "Quadriplegic man feeds himself a Twinkie utilizing AI, robotics, and brain waves",
+      "excerpt": "While many a Twinkie eater probably doesn’t spend all that much time savoring their tasty treat, that’s not the case for Robert \"Buz\" Chmielewski, a quadriplegic for the last 30 years, who just fed himself one of Hostess’ time-honored (and time-defying) yellow cake creations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
+      "originalUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/buzz-chmielewski.jpg?offset-x=0",
+          "width": 976,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/quadriplegic-man-feeds-utilizing-ai-robotics-brain-waves?amp",
+      "publishedDateTime": "2021-01-06T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-waymo-says-its-ditching-the-term-self-driving-in-dig-at-tesla.md",
       "title": "Waymo says it’s ditching the term ‘self-driving’ in dig at Tesla",
       "excerpt": "The Google sister company says it is through using the term “self-driving cars” to describe its fleet of autonomous vehicles. And it is subtly pointing fingers at Elon Musk’s Tesla as the reason why. Waymo says it is committing to “using more ...",
@@ -1173,48 +1216,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-ai-algorithms-detect-diabetic-eye-disease-inconsistently.md",
-      "title": "AI algorithms detect diabetic eye disease inconsistently",
-      "excerpt": "Diabetes continues to be the leading cause of new cases of blindness among adults in the United States. But the current shortage of eye-care providers would make it impossible to keep up with demand to provide the requisite annual screenings for this population.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/4-eye.jpg",
-          "width": 1920,
-          "height": 1487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
-      "publishedDateTime": "2021-01-05T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

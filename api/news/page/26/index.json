@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-12-21-chinese-face-scanning-firm-cloudminds-rebrands-us-unit-after-blacklisting.md",
+      "title": "Chinese face-scanning firm CloudMinds rebrands U.S. unit after blacklisting",
+      "excerpt": "The U.S. unit of SoftBank-backed robotics startup CloudMinds has changed its name to distance itself from the blacklisted China-based firm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "publishedDateTime": "2020-12-21T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-reliance-general-insurance-uses-microsoft-azure-ai-tech-for-rapid-claim-settlement.md",
       "title": "Reliance General Insurance uses Microsoft Azure AI-tech for rapid claim settlement",
       "excerpt": "Reliance General Insurance (RGI), a subsidiary of Reliance Capital, says it has accelerated acceleration to its vehicle claim process by introducing ‘Rapid’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities.",
@@ -1080,48 +1132,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-element-ai-sold-for-230-million-as-founders-saw-value-mostly-wiped-out-document-reveals.md",
-      "title": "Element AI sold for $230-million as founders saw value mostly wiped out, document reveals",
-      "excerpt": "Tides turned fast for former domestic darling that just four years ago burst onto the tech scene promising to anchor a thriving domestic AI sector",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
-      "originalUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/Xe89nLDKykN61L6kb2S375e9ryQ=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/K5O5GVZWYJPNPDA6JF46EDBN7A.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

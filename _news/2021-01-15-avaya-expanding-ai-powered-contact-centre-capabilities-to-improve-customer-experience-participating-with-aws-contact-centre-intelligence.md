@@ -36,44 +36,16 @@ related:
   - title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
     excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
     publishedDateTime: 2021-01-12T21:38:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
     type: article
     provider:
       name: Destination CRM
       domain: destinationcrm.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
-    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
-    publishedDateTime: 2021-01-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-    excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
-    publishedDateTime: 2021-01-12T16:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
@@ -98,6 +70,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
+    excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
+    publishedDateTime: 2021-01-12T16:12:00Z
+    webUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 23
   - title: "Cresta to Bring Real-Time Intelligence to Contact Centers with AWS Contact Center Intelligence Solutions"
     excerpt: "PRNewswire/ -- Cresta, the real-time intelligence platform for customer conversations, today announced its participation as a launch partner for the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions."
     publishedDateTime: 2021-01-13T06:57:00Z

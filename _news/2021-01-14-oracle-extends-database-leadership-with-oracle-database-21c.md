@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Oracle Extends Database Leadership with Oracle Database 21c"
-excerpt: "Oracle today announced that Oracle Database 21c is available on Oracle Cloud, including the Always Free tier of Oracle Autonomous Database. Oracle Database 21c contains more than 200 new innovations,"
-publishedDateTime: 2021-01-13T16:04:00Z
-originalUrl: "https://www.oracle.com/news/announcement/oracle-database-21c-011321.html"
-webUrl: "https://www.oracle.com/news/announcement/oracle-database-21c-011321.html"
+excerpt: "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML ..."
+publishedDateTime: 2021-01-13T16:38:00Z
+originalUrl: "https://tylerpaper.com/news/texas/oracle-extends-database-leadership-with-oracle-database-21c/article_7bd0b48b-2c7d-56e2-9d3e-50e4f162fce3.html"
+webUrl: "https://tylerpaper.com/news/texas/oracle-extends-database-leadership-with-oracle-database-21c/article_7bd0b48b-2c7d-56e2-9d3e-50e4f162fce3.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Oracle
-  domain: oracle.com
+  name: Tyler Morning Telegraph
+  domain: tylerpaper.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.oracle.com/oce/press/assets/CONT52E22DF3F5124000BC7E3E6FAC92CA15/native/og-social-db-21c.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Oracle Database 21c spotlights in-memory processing and ML, adds new low-code APEX cloud service"
@@ -111,6 +105,6 @@ related:
         height: 301
         isCached: true
 
-secured: "vn2MYtnZOTTQAiOV8bxyag/LqNGcccmTBv02nB7UOlYASoo2mk9gQMdhPjyDC0sih+7f2F9a+529XCs7b+S/ai6brjS1N909j+j5fBKiowIWMr9HsH0fzwBn46Vv/gx94lwO7IICYClodQDDq10AyWUW3yolVy9lD5s/qNHVzO2hHK7CCHw6xW1JaGGQ1lB7yGJ00XVlJ7kvelZgAb0hFUNSriF4vQzQER1y4nyt9sGIExxhSEjIzoL0qsvJk2ITnKO4N7CyvX2wlkGIcDCCJYV1eb8B2QsHzGOfBJNxCrGTEUcn30gN+xsPoB1mlyNubF4o+Fd9xsCQ+JUDoIWcwBlWRfq0pdjLkpGIhBnBkNlLVxIvzSfx0o1dt1Px9v/vCY2eu0ImUuGqxT2Lic5vvC6YyVJso6/mcMjXIKD/zy4wgkJ63aqY9fP1UD1OhPu4KHuFGp4jh3a5izydSM2+STe7b+ESBqDeJ0TmuQO8U4O6AznZRikQS4yvRWpeOYTaoBgWqE6nOQZsXH0aadusiw==;ySmU96elDka331Gx26kRbw=="
+secured: "lbsqUseSoPxm7tMx1dvDBhjGslfDvu8koAA5DaPa2PPWoY3g9ThFIZI7LlPwB21uhHsPr+bEDIIlyE47SDmBWL2lvykCTCqkGJXJFV+gxXIb6ZAbY4363EzHcIyKzw/FCxwT/W+Ntx+y3l5qyHVYJsCBFRDhkFOUf5498/91hN1JFJIJ3zkjKbiAkFwZHvGzHttD6rJoGbh7nhKpgp0TMcUjLfUrh8kLLo5RUYETDizRYbxrym02JICOiHXPWOzmjQ81nLvIdPbEPiZ5dLSe0zcAshJYxDHJjXkSlUgfvkacBYisXDfNKi+EH2GjcdzBA/KBqYSbWK1dimoISWGXdh7D0hCYMwkaikVMznHxXXQ=;y264OBFo6YwNJCvnCusgyA=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-13-molecula-raises-176-million-for-its-ai-feature-store-technology.md",
+      "title": "Molecula raises $17.6 million for its AI feature store technology",
+      "excerpt": "Molecula, a company developing feature stores for AI and big data analytics workloads, has raised $17.6 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
+      "publishedDateTime": "2021-01-13T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-back-to-work-say-hi-to-the-new-office-robot.md",
       "title": "Back to work? Say hi to the new office robot",
       "excerpt": "For robotics developers, promoting employee and customer confidence in the workplace through new health and safety tools is a prominent business priority for 2021. The clearest example is the surge in disinfecting robots,",
@@ -820,7 +871,7 @@
       "originalUrl": "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1143,57 +1194,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-startup-opportunities-in-ai-the-unbundling-of-search.md",
-      "title": "Startup Opportunities In AI – The Unbundling Of Search",
-      "excerpt": "The first major wave of AI was search.. Every great technology wave has a paradigm, a very broad and deep movement that is o",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/01/12/startup-opportunities-in-ai--the-unbundling-of-search/",
-      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/01/12/startup-opportunities-in-ai--the-unbundling-of-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffd0f3a90dfd0c80f3d607b%2F0x0.jpg",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/01/12/startup-opportunities-in-ai--the-unbundling-of-search/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/01/12/startup-opportunities-in-ai--the-unbundling-of-search/amp/",
-      "publishedDateTime": "2021-01-12T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

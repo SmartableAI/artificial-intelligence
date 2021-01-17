@@ -67,20 +67,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Potential jurors favor use of artificial intelligence in precision medicine"
-    excerpt: "Physicians who follow artificial intelligence (AI) advice may be considered less liable for medical malpractice than is commonly thought, according to a new study of potential jury candidates in the U."
-    publishedDateTime: 2021-01-12T08:53:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-potential-jurors-favor-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 35
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Marc Levin Joins United Fintech as Partner & COO"
     excerpt: "Marc Levin, former CEO of CFH Group, has joined United Fintech as Partner and Chief Operating Officer (COO). With responsibility for the operational and commercial aspects of United Fintechs portfolio,"
     publishedDateTime: 2021-01-12T10:36:00Z

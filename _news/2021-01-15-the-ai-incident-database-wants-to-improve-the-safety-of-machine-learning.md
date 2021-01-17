@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/"
 type: article
 quality: 105
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://cmsimages.tribuneindia.com/gallary_content/2021/1/2021_1$largeimg_1133401646.jpg"
         width: 724
         height: 483
-        isCached: true
-  - title: "Improve computer's learning ability by tweaking AI software"
-    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects say tw"
-    publishedDateTime: 2021-01-12T07:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267510156/improve-computer-learning-ability-by-tweaking-ai-software"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1610437370.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "EMMlIFa4dAW7SGfb4MoZC1dAka996zo1vUhkiApIZvPD7DgB+zF41ezMJNW2ZY48mRKJuW0+1HlYhIAgeq6o1zHo70u5ToaBPlr9tZWukuYVIyNoVfDDdevk0ECGwTmUm7Go7Ov+C5hJ+tzIbn/cH+7to7yxM5KlF6s1vrGmaBpBkFFofOiI23Ht0U8Sv3t4jPAes7GLVUXdxBvTKnDvq3rcKCjXQeFekU24w2cUEP0bjfx4fYdKT0u5mD/BpHN+MFNAokTuzc5DFO+0fM+lnXSDwwNjgubg0WYngWFRZm5clVBSbPgrkw747TNbHDhz5vZ1O0DrA2F8Fc8ciAGTzhC0omVihn93e7YZrUNbdDmmKKFrO8VqiHNKE9qLRq8P/emv4+FZvrW0lg46D0pUO7ZNds6iMIGA9eUiFvW6tv7E71Do8JNnJHoUb32CZrrk75SzFBT4ClMG6fXrUYYEXlAfG0/K4UL0N6V1w1fmNlGulWsbr/RnQJ8Y+6KvOm6hl+v6mLf3BogUajJSlKcVcw==;65JNBkyUy4UKjvyA0CKkmQ=="

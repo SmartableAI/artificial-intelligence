@@ -2,6 +2,58 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-11-27-ecbs-panetta-open-to-case-by-case-resumption-of-bank-dividends.md",
+      "title": "ECB’s Panetta Open to Case-by-Case Resumption of Bank Dividends",
+      "excerpt": "European Central Bank Executive Board member Fabio Panetta said he’s open to allowing some banks to resume paying dividends as the economy improves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilR5j0VZWcoo/v0/360x-1.jpg",
+          "width": 360,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "publishedDateTime": "2020-11-26T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-chinas-industrial-profits-surge-at-fastest-pace-in-nine-years.md",
       "title": "China’s Industrial Profits Surge at Fastest Pace in Nine Years",
       "excerpt": "Profits at Chinese industrial enterprises surged at the fastest pace in a single month in almost nine years in October, a further sign the economic recovery is gathering pace.",
@@ -1172,49 +1224,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-innovation-key-highlights-of-covid-19-impact-on-the-artificial-intelligence-in-agriculture-market.md",
-      "title": "Innovation: Key Highlights of COVID-19 impact on the Artificial Intelligence in Agriculture Market",
-      "excerpt": "Research Dive :A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-pune-a011c3d1cc23a3a5e540fff1bd89754f",
-      "originalUrl": "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-pune-a011c3d1cc23a3a5e540fff1bd89754f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

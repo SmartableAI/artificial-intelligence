@@ -81,20 +81,6 @@ related:
         width: 1280
         height: 851
         isCached: true
-  - title: "Oracle Extends Database Leadership with Oracle Database 21c"
-    excerpt: "Oracle today announced that Oracle Database 21c is available on Oracle Cloud, including the Always Free tier of Oracle Autonomous Database. Oracle Database 21c contains more than 200 new innovations,"
-    publishedDateTime: 2021-01-13T16:04:00Z
-    webUrl: "https://www.oracle.com/news/announcement/oracle-database-21c-011321.html"
-    type: article
-    provider:
-      name: Oracle
-      domain: oracle.com
-    quality: 24
-    images:
-      - url: "https://www.oracle.com/oce/press/assets/CONT52E22DF3F5124000BC7E3E6FAC92CA15/native/og-social-db-21c.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Oracle launches Apex Application Development service and Oracle Database 21c"
     excerpt: "Oracle has released its low-code Apex Application Development service and announced the availability of Oracle Database 21c on Oracle Cloud. Apex Application Development is said to make it possible to develop and deploy data-driven enterprise applications quickly and easily."
     publishedDateTime: 2021-01-13T17:01:00Z
@@ -109,6 +95,15 @@ related:
         width: 375
         height: 301
         isCached: true
+  - title: "Oracle Extends Database Leadership with Oracle Database 21c"
+    excerpt: "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML ..."
+    publishedDateTime: 2021-01-13T16:38:00Z
+    webUrl: "https://tylerpaper.com/news/texas/oracle-extends-database-leadership-with-oracle-database-21c/article_7bd0b48b-2c7d-56e2-9d3e-50e4f162fce3.html"
+    type: article
+    provider:
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
+    quality: 4
 
 secured: "5HY2iSivGBEtLOdhtgtHwueYjK8Br65jXkhbVAmphBADArEaHYsiyQVX4Fl8uj1P1L0YRl19zIYMe+m2VmujthiPgrZKeHLoz8zEGYWu35J2xEUB0e6bYnMgOjqZ8E/UanCcxLAzTWXIZ4pCxTB5x4484SbSS2dR4C/LKPMH8FMp9HCvMQTwDJJWpN5WHJBibJGygxgG2jBVVYMTGiMgU/OK/XLQL5zdyzTLmMwhwVcmTjW3McRBA8Dw2BnKQck7E4+BoJkbKSzLG7zUpYzc9RD65420StDwO0Elb4J3WPknW65pEGBG/Rq36yvi2nmxrl48VsFR/ry5wFlmjaCgRkqV3hImYLreBmGxrclsVR8=;ntlqkvdarMwQKGiyLC9YLA=="
 ---

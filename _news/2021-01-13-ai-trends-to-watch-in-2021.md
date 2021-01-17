@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -72,17 +72,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Startup Watchlist: 7 Indian Fintech Startups To Watch Out For In 2021"
-    excerpt: "In this Startup Watchlist 2021 article, we offer a rundown of the top 7 Indian fintech startups that are a must watch in 2021"
-    publishedDateTime: 2021-01-12T07:30:00Z
-    webUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/"
-    ampWebUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/startup-watchlist-2021/startup-watchlist-7-indian-fintech-startups-to-watch-out-for-in-2021/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 24
 
 secured: "WVjqd/XFxvUMqhPtFEEGnwAeMQSI8LCNAzS3RVQtvSltYojsFW3nXpr1S7m4u/2jyJna6ihWeCo/0wKWzy7lZu50N+ruf1mzzxskDoyLO9iCS94uqVexTkWOUAAuIdVf2BNfLG/+bBhohm025D2tz0Yrqe8t5uqsGdWUlKDMiFYnRocmnEW4+NDfc39T26KhyRZLpbcKXA1YJEyYtCMDwLfFt0j42V+43XsAr282K/sMfz27efzu68EXdk5tPRlUSTbwZjPqPVSZrlgYrFmbzIlEN/5/HD6YOW6QW0t50sR7yUz4puHFMCHfGM+bl8DAW6cRxCufDKYE/kwFlB+wvZv3fZsW+LGPKxTVeBjbIWkyLqJBFRRs7leg8RdsgzMDglP/gYj0bX8/uBW1JAHjGdQLhwuVtdY8ePtlvOuZ/as0ALP7SjATK+1OLf+vYr/xJxfLO42p1U//L2A6FkfSBzxclPn2gnZ/GFrgjQ0pju4s/K/Vv3V/ArdJrFD9UVLSrvBaM3KDSY/yx3G2mWL9gw==;+Y00hNy5V+k1e6AYZy7pIw=="
 ---

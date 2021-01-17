@@ -40,7 +40,7 @@ related:
   - title: "Tackling subjectivity in hiring with AI and machine learning"
     excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
     publishedDateTime: 2021-01-15T00:56:00Z
-    webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670264"
+    webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-669469"
     type: article
     provider:
       name: Techinasia

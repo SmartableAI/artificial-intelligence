@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Improve computer's learning ability by tweaking AI software"
-    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects say tw"
-    publishedDateTime: 2021-01-12T07:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267510156/improve-computer-learning-ability-by-tweaking-ai-software"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1610437370.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "9fzdT2gaUMXEAKUNQ2iSQg/rK3etsZLDrhE6a/jvmr2MwTyrT73VnNz/qP0aR9Z1p/XCmAgYBZ2HWibPNkO3q+z7R0u5uYH0JgxYa3OMmM9xWL0AYc7fWWHEDWc9AiezxCirfD/COabW1Sjo1L9qMx86eVOxaGAoUS4VpeXdcEzK4POTHyZl9QB+knLHjYtbI/6VtZiCXN1dt98oHo3cAicDfmsv5j3ELYEU8WZPozB1P1UXm6N5NgJ7kNXhlpyOAYy5UifWlPnAxCUAo6acWNOpJToMz2+u+/M8KxjGxWmdcmTASXgDR4yYXfEhc65NTwC83MhoJbPcpWK7S8EG1HbvG+48Hrs4N2jmreaehyU=;KNcSzrvkytQkvprEXhWEVw=="
 ---

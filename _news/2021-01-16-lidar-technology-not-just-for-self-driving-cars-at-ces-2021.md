@@ -49,20 +49,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "China to let self-driving cars be tested on highways"
-    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
-    publishedDateTime: 2021-01-12T08:10:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
-        width: 1198
-        height: 797
-        isCached: true
 
 secured: "IE0VosTDwVlYDWcR+VbpzPpJC8W6zpe9feP8zgChFOoLrqD9miEQJf0j4UZmvcX1J9M8DfBZCkvU45cTo+gkxDPbN0iJO9qHme/lP6uOfwdKIH9K1DH6IxkRnEcp74HefACIWyGJHM8Kn6qAnBnQsoF6LI0tTpPBTU3w7ZAPErYpQzhguFUMW2/kOflEU7pwC42UaNYFL2CfFZ73ZpVzVV5PYSsNkokUyxXbfg6bwZLvOimsjmrhnZDglF0U5Odzwlwm8+mAzqLa7h1C3jNZCMvNPKBTt7Lm8tdvb8cU2YAzK2BaNpWL4SiRpe0slIA54oK3tuI7N5I49grLQfWaN5OtNx8s9iMaHpgQiQz8duI=;xHzsxMUIzwCapi0XItogZA=="
 ---

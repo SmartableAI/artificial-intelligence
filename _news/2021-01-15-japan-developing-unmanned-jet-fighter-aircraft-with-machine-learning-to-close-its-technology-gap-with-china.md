@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "China to let self-driving cars be tested on highways"
-    excerpt: "China plans to allow autonomous vehicles to be tested on highways, as local companies have developed self-driving technologies for expressways and they have a strong demand to test their vehicles in a wider range of scenarios,"
-    publishedDateTime: 2021-01-12T08:10:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/01/12/china-to-let-self-driving-cars-be-tested-on-highways"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005198.png"
-        width: 1198
-        height: 797
-        isCached: true
   - title: "Lidar technology: not just for self-driving cars at CES 2021"
     excerpt: "News Highlights: Lidar technology: not just for self-driving cars at CES 2021 The technology has been around since the 1970s. However, it was considered"
     publishedDateTime: 2021-01-16T11:48:00Z

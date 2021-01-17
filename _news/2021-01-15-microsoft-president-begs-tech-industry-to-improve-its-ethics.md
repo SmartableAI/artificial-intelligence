@@ -142,15 +142,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft backs Terra project for biomedical data"
-    excerpt: "Broad Institute of MIT and Harvard, Alphabet company Verily, and Microsoft entered a strategic partnership to accelerate new innovations in biomedicine through the Terra platform. Terra, originally created by Verily and the Broad Institute of MIT and Harvard,"
-    publishedDateTime: 2021-01-12T08:30:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-backs-terra-project-for-biomedical-data--1368202"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "gMqNakQUY+gsQ/hYuq6s9BheN39Bkn3gOJWoQluTUrFh3tX98+GNB0Zpv1kAD0ouwNJGEhLe80CkAi28MGUZgddt/6pGbo4i/MlEUlfLf+hvNWMsyqnI9AmDU5sz5PcWQh1n3TbZvBHq3SbwgnEYBJ1Hs8rbo2oRF11nPuQF2j+la7tRnw+bG3eOBn+C/Vfd2LT3QpYo55EDwOTRSJTwQuUYxD3nuGzosQDihqjsTRFH3uvS4BhyXBl86NBngl7U2HzL/Es5eB4sWaohYYUtEEjgmn9pFxYc5A6ou3Em42Dp4FEE4B6OOVaNycKGlFDaM1GLYd9WHa5myEdp/w9P8Pqd7y0751d06PlfKhwCCgSzzzitLUs+02+bUH+nMJ924dPJJv8R1PYBv81lVOPej/J6ORdvRh4f08CxT6MitWOz9+DcKrvCYbX8xq+UgO7RTaqTxzVsobw1fiF2VWWMngIUUlcToo2pTNN/H5hUNrVvOtWBQNYdZsdKdpzVQn08HPFz48QwnULGV8/HaiA/jA==;T3JLODdsfY7VPZ43TVVvlA=="
 ---

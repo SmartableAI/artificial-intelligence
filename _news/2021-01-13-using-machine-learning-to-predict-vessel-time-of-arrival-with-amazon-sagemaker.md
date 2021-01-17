@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/using-machine-learni
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/"
 type: article
 quality: 102
-heat: 142
+heat: 143
 published: true
 
 provider:

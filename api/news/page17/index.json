@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-31-facial-recognition-market-future-adoption-overview-2028-airborne-biometrics.md",
+      "title": "Facial Recognition Market Future Adoption Overview 2028 | Airborne Biometrics",
+      "excerpt": "Global Facial Recognition Market Snapshot A few international vendors such as Cognitec Systems 3M Cogent Safran Gemalto and NEC have stronghold over the global facial recognition market dominating with their technological and financial might feeding their biometric technology customers However",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "originalUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc31301324_g.jpg",
+          "width": 800,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "publishedDateTime": "2020-12-30T23:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-mobile-speech-recognition-to-revolutionize-mobile-marketing-gigaom.md",
       "title": "Mobile speech recognition to revolutionize mobile marketing: GigaOm",
       "excerpt": "While today's mobile devices are only beginning to embrace speech-enabled technologies, speech recognition is triggering the next revolution in mobile user experience, according to new research from GigaOM Pro and immr. We will see an extraordinary shift ...",
@@ -1149,57 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton.md",
-      "title": "Hamilton song written by AI features odd reference to Hillary Clinton",
-      "excerpt": "Hard-core fans of the musical Hamilton can never get enough of the catchy soundtrack (I speak from experience). So they may be happy to know they now have a new song to earworm over. Lin-Manuel Miranda,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/",
-      "originalUrl": "https://www.cnet.com/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/gNYBeg7tlbjadIBTz8JB3juQ3YU=/2020/12/30/36c9f544-7259-44c6-a61b-49153d39d2fb/hamilton.jpg",
-          "width": 1716,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hamilton-song-written-by-ai-features-odd-reference-to-hillary-clinton/",
-      "publishedDateTime": "2020-12-29T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

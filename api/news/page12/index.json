@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-06-ai-algorithms-detect-diabetic-eye-disease-inconsistently.md",
+      "title": "AI algorithms detect diabetic eye disease inconsistently",
+      "excerpt": "Diabetes continues to be the leading cause of new cases of blindness among adults in the United States. But the current shortage of eye-care providers would make it impossible to keep up with demand to provide the requisite annual screenings for this population.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/4-eye.jpg",
+          "width": 1920,
+          "height": 1487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
+      "publishedDateTime": "2021-01-05T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-apple-patents-point-to-using-your-macbook-to-wirelessly-charge-your-iphone-and-apple-watch.md",
       "title": "Apple patents point to using your MacBook to wirelessly charge your iPhone and Apple Watch",
       "excerpt": "According to the patent images, a MacBook’s lid, palm rest, or trackpad could be used to charge a wireless charging-compatible iOS device. The problem the patents claim to solve is the one where you may find yourself without enough outlets,",
@@ -1130,58 +1172,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-qualcomms-snapdragon-480-chip-promises-5g-for-all.md",
-      "title": "Qualcomm's Snapdragon 480 chip promises 5G for all",
-      "excerpt": "The 8nm Qualcomm Snapdragon 480 5G is the latest chip in the entry-level 4-series and the first to feature a Snapdragon X51 5G Modem-RF System, which can support mmWave and Sub-6GHz 5G. This is in addition to 2x2 dual Wi-Fi antennas to support key Wi-Fi 6 features,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all",
-      "originalUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1609842346/itpro/2021/01/shutterstock_smartphone%20users.jpg",
-          "width": 636,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all?amp",
-      "publishedDateTime": "2021-01-05T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

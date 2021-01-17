@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

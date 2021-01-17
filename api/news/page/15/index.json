@@ -2,6 +2,51 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-03-why-robotics-and-language-need-each-other.md",
+      "title": "Why robotics and language need each other",
+      "excerpt": "Combining robotics and language complicates both, but they have the potential to bolster each other",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
+      "originalUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/istock-1127591787.jpg?itok=tVPxJFyv",
+          "width": 1260,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
+      "cdnAmpWebUrl": "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
+      "publishedDateTime": "2021-01-03T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity.md",
       "title": "If Microsoft Can Be Hacked, What About Your Company? How AI Is Transforming Cybersecurity",
       "excerpt": "The hackers are starting to use AI, and the only way to successfully defend against future threats is for your company to use AI as well.",
@@ -542,17 +587,17 @@
     {
       "path": "_news/2021-01-02-msbai-guru-shows-the-elements-of-artificial-intelligence.md",
       "title": "MSBAI GURU Shows the Elements of Artificial Intelligence",
-      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing ... showing society away towards driverless vehicles. To win the show, Watson utilized regular language preparing and examination on huge storehouses of ...",
+      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be ... in 2009 Google demonstrated its self-driving Toyota Prius could finish more than 10 excursions of 100 miles each, showing ...",
       "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
-      "originalUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
+      "webUrl": "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence",
+      "originalUrl": "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg",
+          "url": "https://menafn.com/updates/pr/2021-01/01/i_ea46ada3-8_Image_In_Body.jpg",
           "width": 744,
           "height": 389,
           "title": null,
@@ -564,11 +609,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-01T22:03:00-08:00",
+      "publishedDateTime": "2021-01-01T21:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1132,49 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.md",
-      "title": "Apple's 'Back Tap' Patent also explores using new Voice Recognition Technology to control a Future TV by Apple & more",
-      "excerpt": "Today the US Patent & Trademark Office published a patent application from Apple that relates to devices that could be controlled via acoustic vibration. A device could be trained to understand that a user tapping their fingers on a desk in a certain rhythm translates to a command for \"answer call and activate speaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.patentlyapple.com/patently-apple/2021/01/apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.html",
-      "originalUrl": "https://www.patentlyapple.com/patently-apple/2021/01/apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.patentlyapple.com/.a/6a0120a5580826970c0263e98855eb200b-800wi",
-          "width": 793,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-31T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patently Apple",
-        "domain": "patentlyapple.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

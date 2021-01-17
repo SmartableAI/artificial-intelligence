@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics"
-excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx)"
-publishedDateTime: 2021-01-14T00:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics"
-webUrl: "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics"
+excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy targeting patients with Loss of Heterozygosity (LOH)."
+publishedDateTime: 2021-01-13T19:20:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9"
+webUrl: "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9"
 type: article
-quality: 2
-heat: 2
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "HiberCell and Biodesix Initiate Broad Collaboration for Companion Diagnostic Discovery, Development and Commercialization"
@@ -38,6 +44,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "Gq/ZYHOjPy3G6ogoBxbD8NQsQmLQ8OPtbVP9fc6n/7jvkWdWTU45Btf4hxaBnz4/wZ8ZcLKghxQHNnb4nFRPBU7nAnEQvR6A++Hkai7/071cJAkcLtK+58jC9I0BbgG2vPnRXrIKpdGX4FHpfB1BTjU8q8KDOIAaT0LkdTLLP0g+AjbJGT9JW0xRhE3VitJM7qC63XjCjsEf+kgcolXcXa2DqbgU6gepmJGe80h96Ec7bmm60rjiLxzME5MWjBqc1YtDQXpAWUBS9dZkjRgIrVJle6HF1GnosLQIDasqoUPu5RR8I6HG0Colgh1KX0zk/m/YiMaHZ8gEuQwOkIdEUxDFjb/PFqYmLhORFGslhogZMdyPLVUOG6URyQgrv/I4N1SHQ6rVIqdwRuPERu3yqMClGQCwHt7ex3WfUuQ0+OJEniaUO4rucYqQzQZ8GrIkeFOeeB7NEvmprNkQJzVh05ng28fDimLuVeKhtxkGhNz/M6aWGhBXfroL9+313mmHB4kRM58rCKO6jNaHiv+e5w==;EQsythleGjzl6zS0Hl3/jQ=="
+secured: "pxISkzc6PjWakvJTgjN3s3A3sDTpBTPkDp9p/LiScLi6TqqTDNpVXh7zAmZe0rOkXETy63zwNdAHLobH1cSQ1hD8cT4RTeqQwoV6SAgDhHFh4FNhStJwfDxBOAX4pOGyqiKuFIFnrlKhNbcFK/9XsJeWaLxJr7si3FqgXE6KlwE14GhqTDGVWdbPhdbVio479YRxWzIeI+UhTQ+DaZzMvMq/AEjjH7rLNbpAFp9OD9m2qTqrMp4WrlFSu1NdF+rAFh3LH4WTKz6m5duqhMP5xOu3EmqnmFgz0CFWbTTcE+LhVSg7scRE6dsB+lAYSvqtHqc6Mefntc1XA6Hw/pxDSmr6+4ankrifsFauFlDqTrM=;5x/9Y34J+E3yCe5VW0RfAg=="
 ---
 

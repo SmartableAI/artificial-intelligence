@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-14-microsoft-president-begs-tech-industry-to-improve-its-ethics.md",
+      "title": "Microsoft president begs tech industry to improve its ethics",
+      "excerpt": "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "publishedDateTime": "2021-01-13T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-amazon-ai-conclave-2021-everything-you-need-to-know.md",
       "title": "Amazon AI Conclave 2021: Everything You Need To Know",
       "excerpt": "Roche, the second-largest pharmaceutical company in the world, uses Amazon SageMaker to accelerate the delivery of treatments and tailor medical experiences. And the list goes on… Data scientists, researchers,",
@@ -245,7 +298,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1150,7 +1203,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1191,57 +1244,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-molecula-raises-176-million-for-its-ai-feature-store-technology.md",
-      "title": "Molecula raises $17.6 million for its AI feature store technology",
-      "excerpt": "Molecula, a company developing feature stores for AI and big data analytics workloads, has raised $17.6 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
-      "originalUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
-      "publishedDateTime": "2021-01-13T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

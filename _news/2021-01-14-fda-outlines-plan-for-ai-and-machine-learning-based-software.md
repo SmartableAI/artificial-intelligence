@@ -80,15 +80,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 42
-  - title: "Computer's learning ability improved by tweaking AI software to function like a human brain: Study"
-    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
-    publishedDateTime: 2021-01-12T08:03:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210112/3689643.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 5
 
 secured: "EAhcZyYPCmsTySFK+4zOtYwKhmcM1IdoWSwC61/I8FFB9OoIkYHQk6SypMdGq0CPNycN8xiBss/0K5LZWlOyYR+HjzHc3yM+SpiEVQgKP7m2QzR/OSx2jHZCU/NmrVIb8DuAim6m8c01cfFqhm6jplwTiB1bzXG3LV3XqDVgcn13Z4qZoYT/W3x54wsE9MlBO7+pgDpwZtgu+ovcLwcyDm6RY6EOwiHmgX31bW/2fk5e+TtqsN/qp2mLuyMIHuTbQwv9IuNLKqWGL5eK+QymjX1ZLW7qRLbVva7BQvy5t+zWvADT0vQDwvIi876lySOBd54tfwY9W9Fq7cdxji3x8zrDts2Kp+PBPUQK0z7z3fA=;DyTlTjLtEraAH01wIeTFpw=="
 ---

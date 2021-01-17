@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/14/1016122/these-five-ai-de
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 82
 published: true
 
 provider:

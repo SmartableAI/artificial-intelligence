@@ -2,28 +2,23 @@
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
 excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
-publishedDateTime: 2021-01-12T16:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+publishedDateTime: 2021-01-12T16:12:00Z
+originalUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+webUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
 type: article
-quality: 41
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - AWS AI
 
 related:
   - title: "AWS Goes Big with Contact Center Intelligence"
@@ -43,28 +38,14 @@ related:
   - title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
     excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
     publishedDateTime: 2021-01-12T21:38:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
     type: article
     provider:
       name: Destination CRM
       domain: destinationcrm.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
-    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
-    publishedDateTime: 2021-01-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
@@ -138,6 +119,6 @@ related:
       domain: arnnet.com.au
     quality: 1
 
-secured: "pfIT8FLTrvNdIxaKrPeQKjA4wZU6pRE3OqqQ0Exb6bu+5TStzdD+lwdm3dWmR7GJcE11znsTEMCAlwXXbv8KSUuztIMUKZcURUXRt3i2XjcERWMHP8XaHFXEBwt7TSDlFsgrE0FkY5SEPkP3lmdeLbZn7BnDfRsmVCDdh22vD6U99DJcMoEHPDIbxRj1J+dQ/YCparOI4nGcMKkC1j81pSFewm8lccfERVcBaYLjDpowVk8/SH58U3TZdSWg+BtiB6643CL9KALSw/FqfMbenetjtFV0m0QJdPI6pSRUheCADrbebIupd+SBIQQ43oS008XEuCp3KeWnvItAfKzlwpbu3/jbwsvIE6MiZmtg/74=;pmoqR1du5gJv7UkFe9dfuw=="
+secured: "XCv76e5t5aeq3Kd7X1j2TKztS23DauJr/0HF2slxKVWEbjh+zKm5G7wK8zQV19vrS8CdOZ4rktkVLvv8BFiM9nqkJEDpGgU/WZQLUI4KLYDSaivKaJSsLTOzpmHUJIx6D1EZQ9bVgD2Y1pJ70X/D5sUY+AXIYXppqBcp4TKP22mnMUISOVYASBA7cdN0GUuivMO7NXc4fBSqD5mJxb+EXlxbhGizuFDx3VKce7+3hEsz7r8aC14XNPfkJY106jaeFPMru3LGQuKZzsk+EA8n8/OK8v54NNtkUucHVV5dmmGlfQFQKQavZKAL+5ZqOkemsC5HQAoyxL7r23+Q/VCRKtDmbRR8tUUjGBS9C1zg9do=;IpA9wubGDmyS5DQa/PzpGg=="
 ---
 
