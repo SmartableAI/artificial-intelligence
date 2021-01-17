@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence in Healthcare Report 2020 - Global Market Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "Forecast To 2027” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2021-01-12T10:03:00Z
-    webUrl: "https://apnews.com/article/technology-business-corporate-news-drug-trials-pharmaceutical-manufacturing-0340f5efed0f41a49cabf04e032eaa69"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "pC0NvugTOAU+Ab253TosqRm2TAHhzuzM+MEb5cgfhLMBxO13/F7IdPT6sg1ODWbRSpN4Wnb4ktK5E8/uvaHQ2bIQ7wNMPTMFDEnWbp8mNouW1BJ6l9yZBT9fLnDlYBwRYtoQfhfoLOw380ZyuvJrdK1C3tGUGGlwo1Wo2t9NLv3qsT4ra2wsY2hRo4j8g6sC8ZVso4SB1Ib0DVXCMG6PQrcP5ozlgMnfCGd6BcXPLa7KQXpAVMe3whu8g5gjGR/RuEu06zT+M/pmQIYryGT6ph3Z2MwQ0vG2YZMtkvHKGtvBKSXsQXtBqA5PH7E9COmcb8Y7yqrnjwYexNCfoY8oAvW73uXwpHWutGxigK9e2UI=;W66vmVo3Bh1ghLclGwuOYw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/south-korea-mulls-investing-11
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/south-korea-mulls-investing-114-billion-ai-chips-1404553"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/20210112fa4897245dcac8c0f_th_1024x0.jpg"
         width: 960
         height: 640
-        isCached: true
-  - title: "South Korea to invest $114 billion in AI chips"
-    excerpt: "South Korea's ICT ministry said Tuesday it will invest 125.3 billion won ($114.1 million) this year to support the development of neural processors, up 75 percent from last year. Neural processing units refer to high-performance and low-powered logic chips that specialize in artificial intelligence (AI) services,"
-    publishedDateTime: 2021-01-12T10:15:00Z
-    webUrl: "https://www.bna.bh/en/SouthKoreatoinvest114billioninAIchips.aspx?cms=q8FmFJgiscL2fwIzON1%2bDtVBZkJ3eiwmEKtJpSrDjwY%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 54
-    images:
-      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/11-bdbfe251-3926-4ce4-b7b8-aa94af8b9dcd.jpeg"
-        width: 740
-        height: 453
         isCached: true
 
 secured: "46GMkCNRSG33J5PzMHLi84BFGydSbJBIRZYrE73xDSxqy8diiVp5bQl5AbsBuua3F3MDIi0GRymHo3lrYEzdouxR+gF5VI+rwC9Dkdti/x7YSHfzbKCZrItWwqaqMK23YLzHw65JOPtrfFJFn+KXpLUUQsMYe0Apogl3kjeeFfEhFlLsD+4k2JikdGxedHvzOjWEsd163Oec+ePxGdThLWxk8BW22NubIyuog1HSAHw47ZFW2gmxuHhxHO3zKz9yQBrSYIlcg/NUBpOy7JkEV6R3Afkrv8iZMSAt0k/+80v2sI1Kxf6iDkNbD2bTsWOvNUQOntwi+5cPNZYnXeL7oQ+VX13wz65/uUU+MO2KzCQSSEDbp109saeli1bU95f+yxJCny/74mUpheYDvK8xOOxcZaDrh/ttSbMC5MS50inALxD0l7e+JQLOlG5qb/442JvbX+oRao1w+PyPYJhXs40gRTVXcsBfdPIKN9dfnMni49uoo1UGkYptde+a3IFJt7jpsy40hbWnIozli3JrSg==;IU585yW1bb8dN/yi21AoJg=="

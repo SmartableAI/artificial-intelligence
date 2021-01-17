@@ -76,15 +76,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CES 2021 Taiwanese startup developed dentall HiS: The next generation dental software system"
-    excerpt: "PRNewswire/ -- dentall Global introduces the dentall HiS software, an E-commerce platform for dental supply, online/offline lecture and management consulting. The company intends to implement the software with multiple functions including ERP,"
-    publishedDateTime: 2021-01-12T12:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-developed-dentall-his-the-next-generation-dental-software-system-1029959101"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
     excerpt: "Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants TAIPEI, Jan. 12, 2021 /PRNewswire/ -- Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year."
     publishedDateTime: 2021-01-13T07:03:00Z

@@ -40,20 +40,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 45
-  - title: "Robot Software Market 2021 with Strategies to Boost Growth, COVID-19 Impact, Manufactures, Types, Applications, Status and Outlook to 2024"
-    excerpt: "Virtual assistance, autonomous robots, point-of-care testing, navigation & object detection, business process automation, customer support services, and autonomous vehicles among others are some of the use cases of the robot software."
-    publishedDateTime: 2021-01-12T12:16:00Z
-    webUrl: "https://menafn.com/1101420071/Robot-Software-Market-2021-with-Strategies-to-Boost-Growth-COVID-19-Impact-Manufactures-Types-Applications-Status-and-Outlook-to-2024"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232380"
-        width: 374
-        height: 250
-        isCached: true
 
 secured: "62ThFZ0eQvM2W2OB+0YOXcjgiGND2ipszbnkz+R1uIM8z5f5aQIkkI+vPsGrFp2+ssBz/sbtv3duWfvnbwHuijhgWDfQysEr8HaVHJjt1vDeHo2esg7ODz77xdEztsnIXpkasp4ik0k+uXtaaKpfFyhi4OekiDt22rproseiFT9veQzj+YmvBFytJdXu1ZEU6MH4RhhiUv997Vp8bVTI1SSY+NkuXQZlYacMreJUr++vQA/+wK+YIZmBZErl/pdec5yUTK9L5Xnvoo2cZfTdzFRpTJnXR28bAS3yBxxYEQBKBxnidhzs/9mBX0y6OPndRjVM/2HrrbqOT9WGXRtu4Cv38xER6V1TIqu2cippNZA=;uihiApbpGtZ47D0MWMegmg=="
 ---

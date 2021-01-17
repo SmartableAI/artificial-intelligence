@@ -1,24 +1,45 @@
 ---
 category: news
-title: "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'"
-excerpt: "Enterprise AI solution provider, MakinaRocks ( announced the signing of a memorandum of understanding (MOU) with Hyundai Robotics on January 14, regarding the cooperation of the two companies in developing AI-based anomaly detection for industrial robot arms."
-publishedDateTime: 2021-01-14T07:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062"
-webUrl: "https://markets.businessinsider.com/news/stocks/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-1029967062"
+title: "MakinaRocks, Hyundai Robotics sign MOU to ‘advance AI-based industrial robot arm anomaly detection’"
+excerpt: "Managing Director of Hyundai Robotics, and Andre Yoon (right), co-CEO of MakinaRocks, signed a memorandum of understanding (MOU) to advance AI-based industrial robot arm anomaly detection. SEOUL, South Korea,"
+publishedDateTime: 2021-01-14T07:06:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba"
 type: article
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "Y+vCmJrJE4OSBh3FTobwEHhMHR+0r1o+/Cl8dcf6RA5cL/V7IisCdrEVRN3i4i2TdzQp8WzxPQU8+yd9SxiGEjTn/AUF7DWpg4Xi5Dy1Od61Gk1OpNLv5g/Tm6lg0oDABPcgQgKP+QBABFLiKsCVaxMt3qz9DwDZjPKm0cMY0DOVBYh8Df6ond8S21jair2TdeGgdJApzeYUX1t0jPTT3B9wS0648PsQEKHQvk+irBTX52TvH3hdUtxlCq7NXR47nUb4V3MtcKNP8i21DZoUuuk7ZAyOqTvA8zmMgJLign0KUuGj4KGaq5zRyUhSDHaNs8LL1ihXwtSV9sNE27lVl9GOOUnG5ba/cJWkukXu2o8=;KCCdIbFxHyOc7bAPVmmKsA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Hyundai Robotics: advancing predictive maintenance with AI"
+    excerpt: "Discover how Hyundai Robotics is advancing predictive maintenance alongside MakinaRocks with AI-based anomaly detection In partnership with MakinaRocks, Hyundai Robotics - following the signing of a memorandum of understanding (MOU) - will work together to advance AI-based industrial robot anomaly detection for robot arms."
+    publishedDateTime: 2021-01-14T15:23:00Z
+    webUrl: "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 69
+    images:
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkjwz1rzc140120215213.jpeg"
+        width: 1000
+        height: 387
+        isCached: true
+
+secured: "c6IWvNMvq4420S+0v3yhLcqnPsW/U6KyrMiO3R8fCVRjuaasLHWE8juJPH3ZXBGeGxqWzpQ0wMrSWmho5JSuaCSAGu0yytKBHnoOp+vbg0aKUCmF7YRn/HuKeTXv9k52wuffgy6CuPRd96hjMeTCf7ruJFH0m2jp0uq5CbEjqpGMkdDykvWHnsQonekVvEP//R0KLd60cIQh6Yisjfv94Oyup0eUc0Jy0IaYaSo4mGw8i2v/QGM2BbMWF5equz8bAkLW5rUS//RFGNOKws4K80wmj6xGIJ88ke3yQx/JfWZdgzGnQfXyL/ZRolYRH+rNFx0vqff+O5Qq2Je7qyHr8TY6AlGeYyATBmlpzlil8DQ=;p7QDxjXhIsruA5jBH89TDw=="
 ---
 

@@ -46,22 +46,6 @@ related:
         width: 4000
         height: 2250
         isCached: true
-  - title: "IBM Leads in Quantum Computing, Ford in Driverless Car Patents"
-    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of U.S. patents issued over the past five years."
-    publishedDateTime: 2021-01-12T11:38:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 91
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwEsndloHN6I/v0/-1x-1.png"
-        width: 750
-        height: 820
-        isCached: true
   - title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
     excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
     publishedDateTime: 2021-01-14T08:50:00Z

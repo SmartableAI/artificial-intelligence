@@ -24,22 +24,6 @@ images:
     height: 594
     isCached: true
 
-related:
-  - title: "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities"
-    excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),"
-    publishedDateTime: 2021-01-12T09:47:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b/gallery/c11ecc5667401ba031708f29a0cf3e06"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 2
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "f9ttb57tDhB4LENZPvaoJZcU35rqgEqwMRF4GVyf4s1n6kuT5ChDvB28Z3pGkRUflL2gXPOIAgjOoUmA2Kw2G3sPIM/YG4RDPgAcNvCdZdivboU9aEbh+wzAmgtheKuoL5orldR6Tm67/rKP/hBwjhLMGgtqcSVOiS7f0LHBSCLcIAiWGayEtvUHNdSM6UujR6VjciEckMnKcfxjuGhgXUnkyv0EyUWDC6I3lZp4xFIOYtwGdstK9sL1jvyNFWC2rJRdsKq8oYPIzPkoslmT8JbSCTXjm4W9cFbE88w07pIw4rysOIiA5/VjwgBCc+AQxUbRJ7odLLgK5vhQl2QJKr46ALODNrUp4t7z8HE45Bk=;t6ut6nX2HEwqmoaAznjGrQ=="
 ---
 

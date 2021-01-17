@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-riva
 webUrl: "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-16-image-12.jpg"
         width: 1906
         height: 1271
-        isCached: true
-  - title: "Intel wants to bring affordable self-driving cars to everyone by 2025 – here's how"
-    excerpt: "Mobileye – the self-driving car company acquired by Intel for $15 billion in 2017 – has outlined its plans to bring autonomous vehicles (AVs) to the masses through new laser sensor technology intended to lower the cost of producing self-driving vehicles."
-    publishedDateTime: 2021-01-12T12:45:00Z
-    webUrl: "https://www.techradar.com/au/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/yjtnMCiLGrWANVG37M8vMS-1200-80.jpg"
-        width: 690
-        height: 388
         isCached: true
 
 secured: "tlTzAPiOTG1ofU5goPQ3ciSxI6Bpz6gg4R0kw/c9CdjG8hUil1J348fNIYkl+cKyJwOMYifvjAEDVEABt1Dftk046TXQTuzePPPJ0U7qh7IrdaU2clPoCveMs/SaSVbsVQBxrC8jmZpLIoQRSg2vSvXQyUvH49YOxVizQlpsKll/UJaOJPG5EdTr7CBovdF3aKZkY+iYizEfo0OKhLM9U2g24cKxNidtucfOA0UPD+fZcaSrGaa05WqkZB90saGFC/u3KtoAyQGl2lv1ApWPvAR1E5hGCxwv4ky9VZKDTUjjzWwqds108I9sO/WEaR9sGSsJQV8LYlqU7F0TyboPcfUJXVkVT/yEjg6pfuwfT9cyjKMZHQuUXal5fTbN6isqB2OnDUXn+qscTAsTEn5yyOMQI7xWxw5JsifeZhHfAD+7LCzlI+oDuS/oZ3Ke3Mf6y9a1Hzbh+oeOYbzKEFMuJiNsu/uyOIz5W2YkGEZQYryhmg8WqdXptT3LDUeVPPiQOqWzBmmKSEG04ZA5Mt5TDg==;wuyuRSH4JuSFHbDMcYKxtw=="

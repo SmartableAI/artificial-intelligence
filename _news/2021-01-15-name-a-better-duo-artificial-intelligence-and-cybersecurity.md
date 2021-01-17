@@ -37,20 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security"
-    excerpt: "automation and building trust in AI, and continually infusing new capabilities from IBM Research into our IBM Watson products. In 2020, this included the IBM Watson team announcing the first ..."
-    publishedDateTime: 2021-01-12T11:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Fast, fused and deep: CES sheds new light on 5G, AI, cybersecurity and digital currencies"
     excerpt: "At the start of a new year, the Consumer Electronics Show offers an opportunity to gaze at technology’s distant horizon and take measure of what may be coming over the ridge. Foremost among these was a general recognition that the pandemic has dramatically accelerated digital transformation across the globe more rapidly than anyone could have envisioned at CES in Las Vegas one year ago."
     publishedDateTime: 2021-01-14T23:54:00Z

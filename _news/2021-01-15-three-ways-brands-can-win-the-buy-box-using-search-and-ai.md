@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Find The Right Business Insurance Using AI"
-    excerpt: "No longer just a hallmark of science-fiction, AI is pushing the business world even further with its integration into several business sectors, including insurance."
-    publishedDateTime: 2021-01-12T10:58:00Z
-    webUrl: "https://www.newsweek.com/amplify/how-find-right-business-insurance-using-ai"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 69
-    images:
-      - url: "https://d.newsweek.com/en/full/1702534/coverwallet-insurance-ai.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Google’s new AI can win a game without knowing the rules"
     excerpt: "Google's new AI can win a game without knowing the rules In addition to offering the Internet via hot air balloons, Google's parent"
     publishedDateTime: 2021-01-16T15:25:00Z

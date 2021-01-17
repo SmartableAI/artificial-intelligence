@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pandemic's robot 'heroes' highlight their value at CES 2021"
-    excerpt: "Among those taking the virtual stage at CES are robot companions, concierges, cooks, delivery drones, medical assistants and those handling the perilous tasks of sanitizing workplaces and medical facilities."
-    publishedDateTime: 2021-01-12T12:00:00Z
-    webUrl: "https://gulfnews.com/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    ampWebUrl: "https://gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/01/12/20210112-robot-heroes_176f646af35_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
 
 secured: "ZdFuvtG4CHcbkH+79QOaTEBUtwB+jIgm4O5rqDstuLceYYnLGRZpeq3Ku6neRxQYvCXkui/oBRkxaYysOgYtxMaQ65lom+7z6m87mLkykEvSIcm9JK8TTHu5oXCAhkNtglbBwXwhKykJ4OLeUxT89QwoyNRMQSaG9Xzb0MaDXfunJpSSEfVNYZYdFx8Yv8r2lcDd4y9g0Wa15zmoRjPNhOnSeKuHmZcg+wf0ehGuGnQPSDWRuPj9EmCL4Xw6fKY74Jr5lmUcyacL8K71OfWLFMR8o5L5TlJpjqVSGVTFB3BXR3MOuP2NiY22sn/IO6+rKFXrAatLYmnReqWdgPSc5WpHsmRDBLSPips9gco1RtE=;mkTUXdpyc6rFLmrck8urLw=="
 ---

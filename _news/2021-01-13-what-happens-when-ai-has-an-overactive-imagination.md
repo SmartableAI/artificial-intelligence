@@ -34,7 +34,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg"
         width: 1920

@@ -37,17 +37,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Global AI in Agriculture Market Size & Share Estimated to Reach USD 2,400 million by 2026: Facts & Factors"
-    excerpt: "Facts and Factors have published a new research report titled \"AI in Agriculture Market By Technology (Machine"
-    publishedDateTime: 2021-01-12T11:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19117222/global-ai-in-agriculture-market-size-share-estimated-to-reach-usd-2-400-million-by-2026-facts-fact"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19117222"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19117222"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
 
 secured: "Xx0YGZNwhiEL9xolvg7kzVyv/Pp0hMwn7IiG750yhgKsJdZ/Gpd01ID8clN3XuTqkUTSG5+MWlagmgR823OXuTeWyF5GPNAB647uummfWCQtsV/tVNroAZnYOBKEy52luFFycDl0OvA9le4+RfYuC9A9++1OQQqOaVjJbI9ENuAzlSEtcHT7Nd8RtVZvfzWBNcLSB4FDxAhkK+7R0sOtDzrR9btmzmLnHJpap7JqPtTXsYQUB9mLGfjmf9VF1z6xxsy06bD5cCgBfO4e0ex5e6ZlCiPMqD5QNoFtFTO52a3l3qFetNYKGViqZIi+re2F8EfxMwL0l0YmU1JSOqVdAoOk6F4uWuUBA88q+76n2W4=;wsYcXFf/EQDN5m7Dhfe5fg=="
 ---

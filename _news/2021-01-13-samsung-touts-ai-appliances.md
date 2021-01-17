@@ -41,34 +41,6 @@ related:
         width: 2000
         height: 1047
         isCached: true
-  - title: "Samsung JetBot 90 AI+ robot vacuum features a built in camera (Video)"
-    excerpt: "Samsung has unveiled a new robot vacuum cleaner, the JetBot 90 AI+ and it comes with a built in cameras and is powered by Intel AI. The video below gives"
-    publishedDateTime: 2021-01-12T09:12:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-jetbot-90-ai-robot-vacuum-features-a-built-in-camera-12-01-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/01/Samsung-JetBot-90-AI-.jpg"
-        width: 700
-        height: 525
-        isCached: true
-  - title: "Samsung develops wine-pouring robot"
-    excerpt: "Tech firm Samsung has unveiled a new robot that can pour a glass of wine, put away groceries and hand you a drink. Samsung made the announcement during a virtual press conference as part of the 2021 Consumer Electronics Show (CES)."
-    publishedDateTime: 2021-01-12T10:41:00Z
-    webUrl: "https://www.thedrinksbusiness.com/2021/01/samsung-develops-wine-pouring-robot/"
-    type: article
-    provider:
-      name: The Drinks Business
-      domain: thedrinksbusiness.com
-    quality: 39
-    images:
-      - url: "https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2021/01/Screenshot-2021-01-12-101423-350x350.png"
-        width: 350
-        height: 350
-        isCached: true
   - title: "Samsung has just made a team of robot butlers to cater for your every whim"
     excerpt: "With the distinct appearance of androids from a sci-fi film, Samsung has introduced a couple of robots that function as domestic servants."
     publishedDateTime: 2021-01-12T16:51:00Z

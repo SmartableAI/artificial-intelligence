@@ -107,15 +107,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
-    excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
-    publishedDateTime: 2021-01-12T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210112005076/clarabridge-cx-analytics-launches-aws-contact-center-intelligence-solution"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
 
 secured: "1uw3HWWj95k0xkzt5K4OaP7/FmkfUPxRvUyKQmeLH2MPGXbVtRz8Z1Jx6YAf/VKvxoU5BusUXv4mVwV+05/QgATGOEacAKy3CCxHVqnaBIIjNU5GW+BprXy3wD+EFcjvDBSWIYDbgplV3N3kNhi6BV8WqWfBGbXYoxkO/95wmFPjPUCsfbnf9y17d0ZNxwuJUAaXGCgM+t+oHaEQzEmJztmM1mnaq5LNKaQ5jdkQiFe6WwwY3UXA60vC3wrvixAQfvF9FTKRsstIUUwKlB3qCu+N/JG5eziFXjhq9YfykQfNJgwOsNTgx8jiPJu6jPcYtkqQt6HKyRYVXk8QOfgOJFtU4klTOp8vOFFTz0H7qkA=;sRlNG4FspSSN/CErplZtqA=="
 ---

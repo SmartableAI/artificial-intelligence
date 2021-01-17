@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mut
 ampWebUrl: "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:

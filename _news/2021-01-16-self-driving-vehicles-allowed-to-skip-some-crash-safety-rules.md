@@ -57,22 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Get ready for self-driving banks"
-    excerpt: "Popular Science magazine envisioned self-driving cars. The reality arrived sooner than anyone anticipated, and before safety regulators could adapt. Most automotive laws — on speed limits, giving signals,"
-    publishedDateTime: 2021-01-12T12:03:00Z
-    webUrl: "https://www.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
-    ampWebUrl: "https://amp.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc531a247-670f-4893-8765-cd3221341a3a.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Self-driving vehicles allowed to skip some crash safety standards under new rule"
     excerpt: "The Trump administration issued the first of what is likely to be several rules designed to speed the deployment of autonomous vehicles."
     publishedDateTime: 2021-01-14T19:51:00Z

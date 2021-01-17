@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung introduces the 5nm Exynos 2100 with 10% faster CPU, 40% faster GPU"
-    excerpt: "Samsung has formally introduced its latest flagship mobile processor, the Exynos 2100. It features an octa-core CPU with a top-tier Cortex-X1 core, and up to 40% more graphics performance."
-    publishedDateTime: 2021-01-12T09:24:00Z
-    webUrl: "https://www.neowin.net/news/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu"
-    ampWebUrl: "https://www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 87
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/01/1610461044_exynos_2100_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Samsung Exynos 2100 5nm SoC unveiled with up to 40% faster GPU"
     excerpt: "The new mobile processor is the company’s first premium 5G-integrated mobile processor built on the 5-nanometer (nm) extreme ultra-violet (EUV) process node."
     publishedDateTime: 2021-01-13T06:04:00Z

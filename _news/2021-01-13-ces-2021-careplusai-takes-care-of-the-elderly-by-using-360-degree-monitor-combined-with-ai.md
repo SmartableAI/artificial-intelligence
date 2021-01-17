@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "CES 2021 CarePLUS.ai takes care of the elderly by using 360-degree monitor combined with AI"
-    excerpt: "Anticipating the aging population in Taiwan and the need for taking care of them amid long hour work of the younger population, CarePLUS.ai,"
-    publishedDateTime: 2021-01-12T11:55:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ces-2021-careplusai-takes-care-of-the-elderly-by-using-360-degree-monitor-combined-with-ai-301206244.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "A3DHjCym3oe4qlXcoFK0ZR5TnTKrPipmKekhRFIRHhgCEfB5tUlEVAcgPy21aeocH4qYu08Hqr8pjaY/YjOdI3JNLnj6wxxJjs/RRECKniY6/RSBP0uG0TbHJeteSd9Fp8xHzqdO5J+hunCIVw43YMBsGi9Fqeu0yX6A9aEoKAsZkQdPqRUW25WO25lG6mZ0Wo5kssI7QxrOexXKdVH6LOd1TdiOhCDs+ozWUUc2qNhyFb56FSJ/P0APzQARPHkhfugoOl1u64ctJl6Cj+QyEo4k6NNNqBswNNMQLULfMTyThovt+COuePaGwKqy3LJa+5M0UHIx6MRj5yTzSB6nbQZ925gMaSWHm4bEtvlagkw=;xgbk0Shj0Vz4q8lIHRBTVA=="
 ---
 

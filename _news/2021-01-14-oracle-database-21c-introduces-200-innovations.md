@@ -82,6 +82,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Oracle Extends Database Leadership with Oracle Database 21c"
+    excerpt: "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML ..."
+    publishedDateTime: 2021-01-13T16:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/oracle-extends-database-leadership-with-oracle-database-21c-301207193.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Oracle launches Apex Application Development service and Oracle Database 21c"
     excerpt: "Oracle has released its low-code Apex Application Development service and announced the availability of Oracle Database 21c on Oracle Cloud. Apex Application Development is said to make it possible to develop and deploy data-driven enterprise applications quickly and easily."
     publishedDateTime: 2021-01-13T17:01:00Z
@@ -96,15 +110,6 @@ related:
         width: 375
         height: 301
         isCached: true
-  - title: "Oracle Extends Database Leadership with Oracle Database 21c"
-    excerpt: "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML ..."
-    publishedDateTime: 2021-01-13T16:38:00Z
-    webUrl: "https://tylerpaper.com/news/texas/oracle-extends-database-leadership-with-oracle-database-21c/article_7bd0b48b-2c7d-56e2-9d3e-50e4f162fce3.html"
-    type: article
-    provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
-    quality: 4
 
 secured: "H0ZX2O70NQ4V2z2qRTYRwa/qCVDNkcqbUrSEvzHzHvldUv/HiwaSSN76QMjk8Wp0oiv/jbM0MnnpDJaezWUQ2fQD5BFa9mRkFOH+x7v2eDdwAl6Riypbwu8CfPoXI4sbtsADv0dRTiLunc3CYfQWSk2ckLvZ6+N68kmY5LK8Q0YlrvbbnzaMwsQneYViAS7SWO2rX9mI14Sjcx0IOvtsNcHHNjVDV+F2LF7qB/Z27EHlnmneLw7OnNfaKNzUH6Uf7R/Q3tISybat1FIAX7uLIJbyLXgQfkKPX8VgfsAZp9H9tgNF0Zx+sV1FEf6Q2MyTJmotZIKkKeMhN7eqTUePIKtAm18vJAqbrTvyXzhdhuI3mg46GKLDkzQV8KDKwUzxZIpEssm5ZLitmr+utxqDygD/TBM9mO2ZCT6fqP4F+jys0knV40rtijj4ZfZMAf3xh3j6mI+Xq93bDwj8um7VQMUvhnzzCzDxj9ImDWiu27xbJt6mRi3JHJVsQBGyJEZa8wOSLp84CSiDIeGvdU2uwA==;mo6kWkIM8nHcDIoQ9mN5yA=="
 ---

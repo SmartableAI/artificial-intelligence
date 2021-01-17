@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-15T13:43:00Z
 originalUrl: "https://www.adexchanger.com/podcast/industry-preview-getting-beyond-the-ai-buzzwords-with-david-jones/"
 webUrl: "https://www.adexchanger.com/podcast/industry-preview-getting-beyond-the-ai-buzzwords-with-david-jones/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AdExchanger

@@ -3,8 +3,8 @@ category: news
 title: "Readers' Writes: Machine Learning"
 excerpt: "It’s 9 AM when the young woman in scrubs greets me in the waiting room. Erica is armed with an instant read thermometer. She points it at my forehead and,"
 publishedDateTime: 2021-01-15T18:39:00Z
-originalUrl: "https://www.ithaca.com/special_sections/readers_writes/readers-writes-machine-learning/article_e37eca1a-5760-11eb-9490-eb48810b64ac.html"
-webUrl: "https://www.ithaca.com/special_sections/readers_writes/readers-writes-machine-learning/article_e37eca1a-5760-11eb-9490-eb48810b64ac.html"
+originalUrl: "https://www.ithaca.com/opinion/readers-writes-machine-learning/article_e37eca1a-5760-11eb-9490-eb48810b64ac.html"
+webUrl: "https://www.ithaca.com/opinion/readers-writes-machine-learning/article_e37eca1a-5760-11eb-9490-eb48810b64ac.html"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 844
     isCached: true
 
-secured: "yKY3dQGlaD7+I1RM8QeAqe2ixU9RNuMoNHDQDNuYyhAJOww82Lu71Lf4YXXd5Uy4lrSGUW/yNGxyFZRCWGL5S2JHUweVvUb9zwlTHmK55ZzLTnTW5oQjETeUH62T7SWDTsOQRD9fpA1A3sworX69N17jNREXoi/s117NtQCf06SUGKAqvnkG95yxeJFzMePtqARr1AKwHJuv2OG0BwRzDjzYDeZM8oif2lJzje3Ptg1HGm98rTILHWyxHkAvW5Nu021+woj6yei1CssJleP1vNkysG8kyzcPfcTtagH1ribCzoUmXRwmpd5UdHqA6Th+R68jd4sjbgFk6dtNffjrvWv1HUzAgPsSu+tTB4nW6f0=;3vxxHUl65d0oVHWhxFmtAQ=="
+secured: "y60U0pnOO/0tzPA8IiDn5sFdM45o6Qerfo5dqtqsXCKEUE6ybGtLDk3plBTrCZvNb14X81QeO9t8q8r2I/s19aAoMmwnHHmspOq0i4VGaJNUmnUD5OcWvqTW6n+M2cswX6IHQrzX9nWp/ZuHnAc26oR9tLoWWrBSXPSoA9P2GZPff8G3Oszqtud2Nayi+ZJf4TKikXChZ19MveFLAFO9hOoU1f+okMUGqB2yO3Xt6iuuPW7eti/bOK3XzFkzWHkO27Gr7zfWak3SPR3pSCLqT1I2YCjizWvWFLoAI/6DCZ99vaBjQ0TU/BFaiS22fHXueZ0YwY82XE3wYh6TGHlGKUZLAYdslk8Mm8tEgtfAFWg=;t9NPy9LkirUKStXOpdITbw=="
 ---
 

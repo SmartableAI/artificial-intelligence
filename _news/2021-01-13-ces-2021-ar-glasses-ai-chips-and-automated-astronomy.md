@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
-    excerpt: "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site (  ITRI’s featured technologies include the Dual Arm Robot System (DARS),"
-    publishedDateTime: 2021-01-12T09:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-energy-industry-electric-utilities-greater-china-62ad8429deb3b03c423f463f96929ff5/gallery/f6e10d436a9041020b2a20c1908e34c4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "CES 2021: This AI dog collar tells you how your pup is really feeling"
     excerpt: "If your dog could talk, what would it say? Well, thanks to the PetPuls AI-powered dog collar, you can get a glimpse into your pup's state of mind. Well, sort of, anyway. Debuted at CES 2021, the PetPuls smart collar uses artificial intelligence and built-in microphones to track your dog's barks and detect five different emotional states: happy,"
     publishedDateTime: 2021-01-13T14:18:00Z
@@ -134,6 +120,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Robots rising: Firms debut fuzzy pets, household helpers at CES"
+    excerpt: "Firms unveiled AI-enabled gadgets aimed at making staying home during the ... Sensors enable Cradlewise to start soothing your baby back to sleep at just the right time [Courtesy: Cradlewise] Cradlewise is the brainchild of company founder and CEO Radhika ..."
+    publishedDateTime: 2021-01-17T03:18:00Z
+    webUrl: "https://www.aljazeera.com/economy/2021/1/15/robots-rising-firms-debut-fuzzy-pets-household-helpers-at-ces"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2021/1/15/robots-rising-firms-debut-fuzzy-pets-household-helpers-at-ces"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2021/1/15/robots-rising-firms-debut-fuzzy-pets-household-helpers-at-ces"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2021/01/MOFLIN-image_2.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep learning AI chip introduced at CES 2021"
     excerpt: "While much of the world’s current artificial intelligence (AI) is software based, the market for hardware-based AI is accelerating quickly with several announcements for hardware AI semiconductors being announced last year."
     publishedDateTime: 2021-01-12T13:39:00Z
@@ -170,20 +172,6 @@ related:
       name: KDFW
       domain: fox4news.com
     quality: 41
-  - title: "UBTECH Showcases New UV-C Robots at CES 2021"
-    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;"
-    publishedDateTime: 2021-01-12T09:41:00Z
-    webUrl: "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "CES 2021: Bosch turns to AI for a healthy and sustainable future"
     excerpt: "Bosch doubles down on AI and connectivity to develop intelligent, climate-friendly solutions for health, living, industry, and mobility"
     publishedDateTime: 2021-01-13T06:55:00Z
@@ -236,20 +224,6 @@ related:
       - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/ALBERT_PRINT_AD.jpg?resize=1000%2C600&#038;ssl=1"
         width: 1000
         height: 600
-        isCached: true
-  - title: "CES 2021: Bosch puts its faith in AI and connectivity – for the protection of people and the ..."
-    excerpt: "Bosch's tagline at CES 2021 Bosch as a pioneer in climate action: Under the tagline “Sustainable #LikeABosch,” the company will be presenting intelligent, sustainable solutions for health, living, and mobility at the virtual tech trade fair CES 2021."
-    publishedDateTime: 2021-01-12T09:52:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-industrial-technology-fcc0754fecc1df56ceb6e922eca7eadf/gallery/e533e5ed1156e6c42eb09d383285e5cd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "ye0gAIW9LCMGwNPZtlZgdYbLVDBb2e+jh6jgdPtwYJk6CeOyOpbQRfqszrs3grlkERX06FngUa6+GPb77Tt/iOEbrzNCN8n6sEQPohVH8gTMqHQuy/KzwgCGkC0cwOuzACuTgpHBI4+e1unzbUrHmaxQRaKqVX0XJbIvT6LaXn9mwNpn79aWP+vgO8kUP6AZT1wHLryib2Pj1ZY/etDDMS8vHtBw8ZhSdAsa2vAdQstIMQ1CuBHD/V9g1QxMvjSsRkQgkOOhMOVWQOJxeq+Ay/B7qdajgrPIRCU5A6luAYBf5ZNCXqKL1dD8Vnv+eV88XyTJ07JxF/4wSo6LTi7wt04aiqobjnYTVidWHxodkekQxhW1Bf5GHgBhhnqtU5IBj1b3gcBOySKe5t+lHCLjOJIxczLsLgXWg5oylQkkW9Go71Jk7uYq0h/04Xmpg5Wp8MmCq9joKphiVwYwvo8b9suJUdv9r2J/05BcRupY70/EAGKtMmch1liEuUr4maxwHKv9zeujj+2ySAitHagaVQ==;PEKyD08D2+ceT4GlGF+04g=="

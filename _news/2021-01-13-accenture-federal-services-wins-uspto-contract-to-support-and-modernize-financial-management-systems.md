@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-13T13:59:00Z
 originalUrl: "https://www.nasdaq.com/press-release/accenture-federal-services-wins-uspto-contract-to-support-and-modernize-financial"
 webUrl: "https://www.nasdaq.com/press-release/accenture-federal-services-wins-uspto-contract-to-support-and-modernize-financial"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Nasdaq

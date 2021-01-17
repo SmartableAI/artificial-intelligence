@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitche
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pandemic's robot 'heroes' highlight their value at CES 2021"
-    excerpt: "Among those taking the virtual stage at CES are robot companions, concierges, cooks, delivery drones, medical assistants and those handling the perilous tasks of sanitizing workplaces and medical facilities."
-    publishedDateTime: 2021-01-12T12:00:00Z
-    webUrl: "https://gulfnews.com/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    ampWebUrl: "https://gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/pandemics-robot-heroes-highlight-their-value-at-ces-2021-1.1610450356988"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/01/12/20210112-robot-heroes_176f646af35_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Pandemic’s robot ‘heroes’ highlight their value domestically at top tech virtual show"
     excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
     publishedDateTime: 2021-01-13T18:34:00Z

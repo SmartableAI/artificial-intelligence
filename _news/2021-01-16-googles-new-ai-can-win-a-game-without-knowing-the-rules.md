@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How To Find The Right Business Insurance Using AI"
-    excerpt: "No longer just a hallmark of science-fiction, AI is pushing the business world even further with its integration into several business sectors, including insurance."
-    publishedDateTime: 2021-01-12T10:58:00Z
-    webUrl: "https://www.newsweek.com/amplify/how-find-right-business-insurance-using-ai"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 69
-    images:
-      - url: "https://d.newsweek.com/en/full/1702534/coverwallet-insurance-ai.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "CQ6Hyp7qCNEgr76FSi1aCF4WimrQSEfLXkawjjHho+fGlIahy8gbFicI2fBZRTkkL1430jAn1fmZof5ru3Tbw8SKThNLNWbg+KCC2sNdeGcBfDLpt1q0hC7e/6AaMauf3X23eJUocCK5wANuIW8cLu+KMNedrsuuWBT0buqhhkfCt4uIPNxvGVpe2itYPAogSCTfJ+qlZPVOc2JyXqnSYE02vGQ2trXOGGG1KnH7QuSpEtfX6MXfFi4BHJQs0dI/QdB/hOPHN3mJZQncNSFlMHp7KpuKI/XKHAHbQ1I8Jxt0QOMljpDBjKMP0FH8uBDwO/IHthgGdcqqD4WgJRMba8Z+X9NFnnAKsa6dGRIaENsItR9+gCtbzwHqb08vGr9urWgouWk3F8vdecQI8YRWPzALOS51RiD0X8/jMSk07D1sW7gM/XRHOGs+EhzMc8CQGER7iBH/Z1b4jnB9j8bzzvvOqGd1/hw2cRNlhpgjw7wtiPGwGbwROEz1YSopkNgPlC2dfFovRw5S5Y+bY+VuzQ==;cj9UBs4onDSLJ/W3mnZM9Q=="
 ---

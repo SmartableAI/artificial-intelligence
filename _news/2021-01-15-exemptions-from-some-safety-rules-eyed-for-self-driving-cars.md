@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-fr
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "Get ready for self-driving banks"
-    excerpt: "Popular Science magazine envisioned self-driving cars. The reality arrived sooner than anyone anticipated, and before safety regulators could adapt. Most automotive laws — on speed limits, giving signals,"
-    publishedDateTime: 2021-01-12T12:03:00Z
-    webUrl: "https://www.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
-    ampWebUrl: "https://amp.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1caca5b-01f7-41be-85a4-3ecb883f2417"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc531a247-670f-4893-8765-cd3221341a3a.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "Self-Driving Vehicles Allowed to Skip Some Crash Safety Rules"
     excerpt: "The Trump Administration issued final rules Thursday that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."

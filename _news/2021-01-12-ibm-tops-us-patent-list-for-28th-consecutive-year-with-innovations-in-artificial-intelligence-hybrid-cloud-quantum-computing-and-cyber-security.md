@@ -20,6 +20,12 @@ topics:
   - AI
   - AI in Security
 
-secured: "7NaQ1tzG32BQoYRHwEuBOZbsgHhmwZgOzHUty3vAKUpfWQqRqorzbRIzxr28TGgDB9+orY1V9fpTNCe2ZPBJuEmjogyVcmiFKo8r3lt4iZxqJG0WQ3JNYnzOxzbuSf0VETpe2T/y17Hh0LKe2HtGKDEjEf8jzw6j6zdiNyAGFXdTqTNGdZvaBBEwJ+vY6gUPeFhe4q/rwBBhlIKVsvHnMnvICW1SiuKisjB9fU9MXxEpetPJt+bO75BJsei6pUr6/JnI0fPRrviyaCkvSzflT1zH0ab6YckjqqJbYuOrUTR5AS1BSwYu140RnM/DDUWfKT2p9kL9ze8in0Zj6P1jbB3B6qJ1cjdNzlu2ge3eWM8=;VhbmxD39NF4kTrCuFt3N+Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "3Tn3j5eOKrN+HFHSgsuVfyhYKPc/vN/Urw9hXi92J4nSXTyv6DrgmG6FAI3vDkRlAm12/VHLeeXZaEeQ9p+uZ0zPWT3jd2AUzdglw1H+7gqE/cjCjg8xGLyRV9MR3kMKu71vT95AIObPQ/eM9kexUY82LFIx603zzWiO4lN0ASG+rPJjBp3vj3KlUvZtLeghpgxM0NSGPtPeyOA/tDdjOzMqsE8CDoSav+YSDTl3paByWzONfrcP2tG0nTbQHr/TK1KfAoR+k/ko/EagJIpdjhfg/HJzpnWfnPfuEfs5Hi+QXcbZr8KErFM+AosDl5Z4rcSxFMwR870Wj8JgYofzWDZL6lh5HgA9/WoNAAuGdDQ=;bRtFJ/5ESvonMLrgRU3OEA=="
 ---
 

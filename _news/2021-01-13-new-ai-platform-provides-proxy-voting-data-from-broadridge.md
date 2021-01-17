@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provid
 webUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provides-proxy-voting-data-from-broadridge"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI Platform Provides Proxy Voting Data from Broadridge"
-    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy"
-    publishedDateTime: 2021-01-12T12:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
     excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
     publishedDateTime: 2021-01-13T13:00:00Z

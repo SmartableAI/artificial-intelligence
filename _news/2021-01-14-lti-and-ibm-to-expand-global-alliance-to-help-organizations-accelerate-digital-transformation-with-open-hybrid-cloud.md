@@ -87,22 +87,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "L&T Infotech and IBM expand global alliance to help organizations accelerate digital transformation with hybrid cloud"
-    excerpt: "Larsen & Toubro Infotech, a global technology consulting and digital solutions company is expanding its multi-year, global alliance with IBM to help businesses transform their operations through hybrid cloud adoption."
-    publishedDateTime: 2021-01-12T10:39:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/l-t-infotech-and-ibm-expand-global-alliance-to-help-organizations-accelerate-digital-transformation-with-hybrid-cloud-121011200485_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/l-t-infotech-and-ibm-expand-global-alliance-to-help-organizations-accelerate-digital-transformation-with-hybrid-cloud-121011200485_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/l-t-infotech-and-ibm-expand-global-alliance-to-help-organizations-accelerate-digital-transformation-with-hybrid-cloud-121011200485_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 21
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2017-11/15/full/1510720324-0154.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "LTI and IBM expand Global Alliance to help Organizations accelerate Digital Transformation with Hybrid Cloud"
     excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI), a global technology consulting and digital solutions company is expanding its multi-year, global alliance with IBM (NYSE: IBM) to help businesses tran"
     publishedDateTime: 2021-01-13T14:23:00Z

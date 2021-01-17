@@ -54,20 +54,6 @@ related:
         width: 700
         height: 370
         isCached: true
-  - title: "CES 2021 FaceHeart improves the health of humanity by integrating AI technology into our everyday lives"
-    excerpt: "This year the world was suffering from the pandemic, FaceHeart recognizes the very need for a contactless detection device in order to come up with better solutions to address this problem. Since its founding,"
-    publishedDateTime: 2021-01-12T12:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-medical-technology-lung-disease-coronavirus-pandemic-3123a4e9a73739200a24356cb5e433aa"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "LBS4VrY3SduBNL4GpV/2t/Ot3bFh6dG79hXKOub4pZmwT8tdr329axRT/QxxFzPgJAZFJ8Kw9fcog5OufIVAdckB7TcWFzzFJQOrWZg53d3Ogz2bhPYb20ibRUUcuuJAVdCoXNYMont+TByL5eUIaxY/2tFhgl5A2LKidytEv2aeHL6HZdQl+niNx5VkaqSV12K//n8Xy4g5OHBGWrqqOJyo1JcAJLTkr6tQn00TaiFJ1IO4ggwg1aHkiaeogl1Kfj3akxHvGboQRUT2rUbvg0vABFdy/vgr1bhbfDxCkmEJGFJZn+QU9Vg55xwjeyjUHsSRpzwZpebje7oEekIlTat/uS8Y0SP2WAeI2dIjo7TjERMegS4xgbHO/1EEAutI+O4PX0juBKlHHuNcj9Y94XnD1+nBzW0iqD29RjoVdJ6ypafF6o5bU0dQ2Drib1zvMb9U9Ovn0CGDTHY18BS5Tom5aVKuhlTfp8yT4TXdoh7sHsTRMqOynGVMt17sEJO0i62waKTVe2qd1GkAj0d6xg==;gEC91/ZTKNVSzGipA8O22A=="
 ---

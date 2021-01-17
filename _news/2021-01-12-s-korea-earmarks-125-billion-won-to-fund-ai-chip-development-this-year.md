@@ -41,20 +41,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "South Korea to invest $114 billion in AI chips"
-    excerpt: "South Korea's ICT ministry said Tuesday it will invest 125.3 billion won ($114.1 million) this year to support the development of neural processors, up 75 percent from last year. Neural processing units refer to high-performance and low-powered logic chips that specialize in artificial intelligence (AI) services,"
-    publishedDateTime: 2021-01-12T10:15:00Z
-    webUrl: "https://www.bna.bh/en/SouthKoreatoinvest114billioninAIchips.aspx?cms=q8FmFJgiscL2fwIzON1%2bDtVBZkJ3eiwmEKtJpSrDjwY%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 54
-    images:
-      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/11-bdbfe251-3926-4ce4-b7b8-aa94af8b9dcd.jpeg"
-        width: 740
-        height: 453
-        isCached: true
 
 secured: "FFZE7EiMCUZLaW8ZvKaFFLoKQBeiqb9jsg6rpe1KUZTlW35aRK4xcnoGCLQIkIBCADbbU2Xent52juNWuvKx380EkyLE7uPcbLj/YjG/NUlLSl2BxR+ylD/QFTEXtMsM1Mj8LYd/o0GmwPyjXIB0Y+Y1tmxgvdNjRZjNy+OTyWsGfCO5rvOfwqe/e4Y6WmgeY88QXkZRA7yicUpHXsajjQoYq6gkTUEJLbZNH0RNq3nNp9SCtFvhS4hsM/eKCG1S2IbR2jNqJ+Fd/ZP8wfXL8Z8+If5aM81l9cPdI6v0mdTD9I1Gp7hR2aQN7MTGSsJUBBrb65Gvq+t50gkB8aDiEBlkNi/P2f4DVvR26tx7/BEb/ao8dlMRBpqp35q/jFaM/IbCxAbjwIaBpEcoHRD5Et+kdjFPomoqQ3VlBOgPNSoSl+TCHbwtE5lzb23FWTHPDwGQuzNAag6kaAtAbqNsh2xlFnxIz1+69PObJFyUueZvrsKlJ1GvajNnZWiKY6Md3IbtLZdoioYXe1iAN93ZLA==;ImA/jQKzyDQuxTrRSZfQqw=="
 ---

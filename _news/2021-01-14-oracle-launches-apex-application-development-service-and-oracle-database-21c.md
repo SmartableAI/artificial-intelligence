@@ -99,12 +99,17 @@ related:
   - title: "Oracle Extends Database Leadership with Oracle Database 21c"
     excerpt: "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML ..."
     publishedDateTime: 2021-01-13T16:38:00Z
-    webUrl: "https://tylerpaper.com/news/texas/oracle-extends-database-leadership-with-oracle-database-21c/article_7bd0b48b-2c7d-56e2-9d3e-50e4f162fce3.html"
+    webUrl: "https://www.prnewswire.com/news-releases/oracle-extends-database-leadership-with-oracle-database-21c-301207193.html"
     type: article
     provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "EbDjDxJpNBUWQAZY9d0/RlfKdH8bslvKPD0Zom3r6PduCGzNrkTw7KFUZhGmlqJOS4jcLFkn+6829TRgDw6zuTwi0EoMCHu7NzPGN6BIb0ZY1kAvoxjgDd5PxCLRDZu6VJ75K2yg/GmSSSNDMC9kUdQNeQbtgvf6R7foq2YK8Jtj4+vjYhL6FUPxKKhWF8i9ov4oJYy0H388j9yCD+H3fpZ0X+y6gAQSLWPkfVaHlweMnE6X58FJSgICeSqcO2TX3zvmpxz2tLKsO4mKcyGKwevl+NnrDviy2ISi/8I6So2dgVIz5hwMjvbeRMiFqS/aHf8Y/uDA7sdzOvuIlNjMJ9NpJgg+oD79nh0zyjC4+sB3c9Rzfp39NWQ8ZEze8GGT0GCw9yL+64BOQA9TF2LW5G198e0xI2S5xGEK3RtjxXdlPTgffGJPRqLtgll0/omPXdHiH00rvQN9VpfzSeiDy7sK9xOyXpj9I/StyfgAgAxcXsP7RbJ3CaeqaEMmdx1AhRMhzSp7FJ5CkN7nUOf39Q==;1ryvFmUlJ2Y19hwnbvWv4A=="
 ---

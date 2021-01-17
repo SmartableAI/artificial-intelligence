@@ -55,20 +55,6 @@ related:
         width: 700
         height: 401
         isCached: true
-  - title: "Intrado Launches Mosaic, an AI-Powered Customer Service Platform"
-    excerpt: "Intrado Corporation (“Intrado” or the “Company”), a global leader in technology-enabled communication services, announced today the launch of the Mosaic customer service platform. Mosaic uses predictive intent technology to enable artificial intelligence (AI)-powered virtual assistants to comprehend and automatically complete customer service interactions."
-    publishedDateTime: 2021-01-12T12:46:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/intrado-launches-mosaic-an-ai-powered-customer-service-platform/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 39
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "White House Launches ‘Central Hub’ for Artificial Intelligence Research and Policymaking"
     excerpt: "The White House Office of Science and Technology Policy on Tuesday announced its formation of a new federal nucleus to centrally drive cooperation between the government’s diverse internal and external partners advancing artificial intelligence-rooted policies and research: the National AI Initiative Office."
     publishedDateTime: 2021-01-12T21:16:00Z

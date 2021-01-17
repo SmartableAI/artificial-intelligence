@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/14/1016162/ai-language-nlp-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/14/1016162/ai-language-nlp-coronavirus-hiv-flu-mutations-antinbodies-immune-vaccines/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 3000
     height: 1688
     isCached: true
-
-related:
-  - title: "Jumbled up sentences show that AIs still don’t really understand language"
-    excerpt: "Many AIs that appear to understand language and that score better than humans on a common set of comprehension tasks don’t notice when the words in a sentence are jumbled up, which shows that they don’t really understand language at all."
-    publishedDateTime: 2021-01-12T12:09:00Z
-    webUrl: "https://www.technologyreview.com/2021/01/12/1016031/jumbled-up-sentences-ai-doesnt-understand-language-nlp-bert-fix/"
-    ampWebUrl: "https://www.technologyreview.com/2021/01/12/1016031/jumbled-up-sentences-ai-doesnt-understand-language-nlp-bert-fix/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/12/1016031/jumbled-up-sentences-ai-doesnt-understand-language-nlp-bert-fix/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 58
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/word-jumble.jpg?w=2399"
-        width: 2399
-        height: 1351
-        isCached: true
 
 secured: "YXaJqiHgPqy45t6R/Xr59mZVXORk0jCuuvO4A7byHaGjNPcgNVwOWLwIGMLzLCy1gUgaVM/YtaIUgySXgvvUnPcTck4/cQ9TC2jv3G0t3KRYfJ/kyfjyPxOlj5M0wbD/87g/m17N52DmJfDy1c30tpVdPrKa7Bc/io3hTx8nUPB1V24Scm37Ta4CNKVFa731tsuMtMT7ZNV63dCpyQ7+GmJE7LxsSBX629KUUpPE4apChNva6R2ZgE7obfJNlLIfLM6FUlUxPgAfuUkxXrk80cUEadCMj89WKFECkG3+4+X8jj4bF8rg4AiUAeKR+HgHX4vY8zgNCU9+ukEO4aaKi9c0fkLL5hqTHxEq5RLVRcCqB+TR0tUGjI+dYrEDuw50QXMCPr+ByfUthmm5nVC6QJ2z6s45xzqiOHJTnn2F+LSqx8TTG+6EW15sBDer552t7JdqpfnU3aEPh3OkO/NIJs0v/NUyQVahJzd4tyfe/1nR2re3BHdH1MrzwGmmCXZeeae44Zd/24LqTk1FHIFcfQ==;eJmJxwNatcu0UVeU/WT53Q=="
 ---

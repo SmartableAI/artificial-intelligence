@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
 type: article
 quality: 193
-heat: 243
+heat: 233
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Leads in Quantum Computing, Ford in Driverless Car Patents"
-    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of U.S. patents issued over the past five years."
-    publishedDateTime: 2021-01-12T11:38:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-12/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 91
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwEsndloHN6I/v0/-1x-1.png"
-        width: 750
-        height: 820
-        isCached: true
   - title: "Autonomous vehicle startup WeRide raises $320 million"
     excerpt: "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital."
     publishedDateTime: 2021-01-14T01:03:00Z

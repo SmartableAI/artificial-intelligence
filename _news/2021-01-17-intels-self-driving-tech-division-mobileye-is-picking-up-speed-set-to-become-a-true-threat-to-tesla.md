@@ -45,22 +45,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Intel wants to bring affordable self-driving cars to everyone by 2025 – here's how"
-    excerpt: "Mobileye – the self-driving car company acquired by Intel for $15 billion in 2017 – has outlined its plans to bring autonomous vehicles (AVs) to the masses through new laser sensor technology intended to lower the cost of producing self-driving vehicles."
-    publishedDateTime: 2021-01-12T12:45:00Z
-    webUrl: "https://www.techradar.com/au/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/intel-wants-to-bring-affordable-self-driving-cars-to-everyone-by-2025-heres-how"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/yjtnMCiLGrWANVG37M8vMS-1200-80.jpg"
-        width: 690
-        height: 388
-        isCached: true
 
 secured: "WgndaGCZz6jcD9VUWC+BIdVWFGOJdTP8hWvCzSWiiK7AMHYbO5JVYWlWyVBs7gzzYLWZ0IlTCmWStdvIyFSFecxCO0zSLIJdLK/hMBS0ZIb2zooAyspmOaWTefrJKL/48w6sm+fQDrToq+SHdU96UcKe/u2tfzjKuxUeWtiK+7TpsNXFMY/c615Ga3rJJbh5eTh4OqWyj+ByfGfCOAOmU9tRu7FaQddfzhLD1vZmYsSXVQofuP9Q37IdEwIitAeBallEn2Tw+6ah0eYK6qeJctYrKJso6W5btP9ZckQSyEFecCS742dTliZS8q3qI5pgN1iCFvdQlg1xxkZ7aFYtiT0RioGI9CvtR+JnK0SjxVYBuWbwTZxnxB9kmjtY0xHwK6KXjOH5O2yo1Kbvv4yDTAB8kxbv2N2tLUyqK2xhLksLfNnY7i7GWm8tSgpJFQGRt2XpXgCnqhHMBvWhz7KvyWb4j8CfXEso+gW4GvChgtcsJMeImQASfe1tkS6J8kdVfWCJF/baCMtcxzetpPF2nA==;UFLAYcRC97mTs3w9BC5xUw=="
 ---

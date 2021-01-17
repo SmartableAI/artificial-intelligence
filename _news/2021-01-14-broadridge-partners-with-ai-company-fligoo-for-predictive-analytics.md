@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New AI Platform Provides Proxy Voting Data from Broadridge"
-    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy"
-    publishedDateTime: 2021-01-12T12:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "New AI platform provides proxy voting data from Broadridge"
     excerpt: "Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
     publishedDateTime: 2021-01-12T17:31:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "RadNet’s DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer ..."
-    excerpt: "(NASDAQ: RDNT) today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence (AI) for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
-    publishedDateTime: 2021-01-12T09:49:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-health-care-industry-cancer-diagnostic-tests-646714e7ab7a1b428ef40e2a11d12447"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "RadNet’s DeepHealth Artificial Intelligence Subsidiary Demonstrates Earlier Breast Cancer Detection in New Study"
     excerpt: "RadNet, Inc. (NASDAQ: RDNT) today reported that its DeepHealth subsidiary, a leading developer of artificial intelligence (AI) for mammography interpretation, published results of its novel AI algorithms in Nature Medicine,"
     publishedDateTime: 2021-01-13T04:58:00Z
