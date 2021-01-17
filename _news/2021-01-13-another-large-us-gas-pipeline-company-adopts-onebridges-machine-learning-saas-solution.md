@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Another Large U.S. Gas Pipeline Company Adopts OneBridge's Machine Learning SaaS Solution"
-excerpt: "(TSXV:OSS) (OTCQB:OSSIF) (the \"Company\" or \"OneSoft\") is pleased to announce that one of the largest gas pipeline companies in the U.S.A. (the \" Client \") has entered into an agreement with the Company's wholly owned subsidiary,"
+excerpt: "OneSoft Solutions Inc. is pleased to announce that one of the largest gas pipeline companies in the U.S.A. has entered into an agreement with the Company's wholly owned subsidiary, OneBridge Solutions Inc."
 publishedDateTime: 2021-01-13T12:00:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/624059msn/another-large-us-gas-pipeline-company-adopts-onebridges-machine-learning-saas-solution"
-webUrl: "https://www.morningstar.com/news/accesswire/624059msn/another-large-us-gas-pipeline-company-adopts-onebridges-machine-learning-saas-solution"
+originalUrl: "https://www.nasdaq.com/press-release/another-large-u.s.-gas-pipeline-company-adopts-onebridges-machine-learning-saas"
+webUrl: "https://www.nasdaq.com/press-release/another-large-u.s.-gas-pipeline-company-adopts-onebridges-machine-learning-saas"
 type: article
-quality: 10
-heat: 10
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
@@ -29,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "Y/2sZMCJxJoJZ6e2wbwjpnGAsq6dxfbHlakK0zcXY3KzKtUefZvEK3KvsL8xrz42DFpU89rtM8G+X5lpCVrWfE6ZY1dtUw1Orm/NPNdiRamz307ExWfEJA8hT3NTLl1lQmv+cIraryBAY2+KCjBljwMSLuRyjzSXISC1EUmGEMaNzUfWh6NFGAtwsalBB6r9AcpitQJ2EnmKttUwuwEcwng/6B8GFQoGHRp71pOPEqCXuBbPjW4ojjNkXfnz3jtSMvRImsmQrJ3hEQMavBUs3Tg/wNE/3W/XJZu1wV/LAwtqjRF38EnBP0/ivAZWcWvCwky/hQIYt0lJ2nGr2vJbOaQoK5XxSePTyMWXkvqn9b0=;alziKOq7lf4GbOLo+PWe0A=="
+secured: "JxjSb2mhYT3/+OLsdwBUn+VDGOdonf+fEf8TRKZ1ypNfeylU2W1SoIJ6xO75uFBioRG1UZQfk+NyR/laHEf6zRKOn6VdBk8zQRLA69nHGrPH10tgboa0+woqLsMTFytkOiAFzFGW2twBZ5o7T8/wNnEGq3iMTZ3Xs70sYOPsXKIDhWw0x5llA8aCos7QNqCdo6GE9Tk469WrH9rQnT8m3j7MgrFBC2y96HQac1pjU40bWrVD+SdHU+qtHeGchW8PaWocRmVCsqzkxt3Lc2wxlZynYbHHs+a+YaDeXyQgiT2l2BCOPbrf/s7kv15XW4VrL8Wx888C1yZI1ovcvaPJSEBhVUY221Koj/wFw1DOW3c=;gxVTp04of17gnz5goxNt6Q=="
 ---
 

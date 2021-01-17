@@ -3,10 +3,10 @@ category: news
 title: "Cloud Services Brokerage Market worth $12.9 billion by 2025 - Exclusive Report by MarketsandMarkets™"
 excerpt: "According to market research report on \"Cloud Services Brokerage Market by Service Type (Integration & Support, Migration & Customization, a"
 publishedDateTime: 2021-01-15T15:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973245"
-webUrl: "https://markets.businessinsider.com/news/stocks/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973245"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973245"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973245"
+originalUrl: "https://markets.businessinsider.com/news/stocks/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973234"
+webUrl: "https://markets.businessinsider.com/news/stocks/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973234"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973234"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973234"
 type: article
 quality: 39
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 402
         isCached: true
 
-secured: "z60FBCDCD4p46Jwq3BVjub3OBM3g0mgjtGkxnpMtdmNTgbwxF33GkyQAfcpWj4H+z2cEpXYDWY40AHuD10pTdK1XmebFSyyfWdFJlos4sJKt+1738OyBwH4l9c5O6TlHpw7yPEYUJ0RURDZRNomy6QgBVehnyu0VWEdql6VSmhC5nc8tt+BikBLoDxcgeeW5YNf69eNXMq0d1x1/F8vLlk6PUYuSZl/bvwu4Z+0kmamSHzmNl6+fRX79pw0AyDupzd0R6nMSIYbFtJZGRCRhIgejRM2xcFFSVTs3HFIusMZ5iNHQ2EuzucUlU5m6aX/lUhqxlRrYnXIWZRFUX/bOzD2we33bmHcCvqoghpncmAo=;A5iS/lJaEYV04HYdW0S2kQ=="
+secured: "UIViBhf71vEKB40cgkEwIL4omewuzUTsOwZlU9DALvwhZO1jp/bHxUe7D/js8ebJcwzf9JuRKkI/oVWsz7WZJpN8E8JvPdN651l0k89sAcmYLAaPvulWGHvhJZQ/QcrD65rKFLEbxizPqFnm4mvIPfa/oWI8vCpocZV3vE23DzleQRNH3FwMA4KHFZnL8h8zU8k8HmNNBGxq5v8nAAekjn17GB5pIwPKchls0kxWJ9Y2Z/s4UMC+DgMAwyknuESHMlr/ZttcpMReeuryjfg8tBJHDyvQSmGKkrMN80yQn70c96rAUZgzsxwh2KjN13MG9EkV9T/auQLLvyMwEoXKfRE1akjB/nAFHmBQ6xGx3fg=;a5MLU/G2EKvw7mIHfcv1Xg=="
 ---
 

@@ -2,11 +2,11 @@
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
 excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
-publishedDateTime: 2021-01-13T13:01:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-860994479.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-860994479.html"
+publishedDateTime: 2021-01-13T13:02:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
+webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
 type: article
-quality: 43
+quality: 63
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "Using machine learning to predict vessel time of arrival with Amazon SageMaker"
@@ -77,6 +83,6 @@ related:
         height: 432
         isCached: true
 
-secured: "8nPgy4hv0W18x3Es4AxQKL9RH3O/YCdOusF9ZLiKu+8FsYjlQBsYyOA5+2o9Bsc6123Z26ct6ZbTw2InGOkAr653/LoMpO8qm0M2AVbGO/l1xxgz/eNKvfXIJXBeDTYfooKbSqBxckVzhS0txe0MxvHL0vXDDP7H1NLk1ttscCa7baM/IRrdPzTOA7HwtCsZvJhI4J3PKZUirygXdwnk7beiy2Oh/7d6IsfzPu72uvXZ3zYHKtRxbdSqm6mUubLfzF6svtAEfVFErMfvfnfQd83hBf8L4aDJ3+flUHNIbdMz+JWWgymKQJ8zWCdWDMdY4NZnKRpP1JJJHN12ZmDXPNbxpFy1ulEa5wc3+IC/oFU=;dpBYa63LOybeKgSW2vWwjw=="
+secured: "U1xxnpGPi8SVBDK7QPgBR+e0FFB0DgNTkdynvhFLgvETJApL2ivcd4Kcem+kUN/RYMjsWG/seDfomYOtbHGNq/ZdahjzLVq/xBBXpy7eBC9PuIbHaudbABI19ZSneXrvWk3H7cWkdx10hqiGIcxFv19jGVLUdV9eKjwrAUMlDRghsXCqjmVpmxrfPUruGPpSWVXjz3qU1XWeMuV5p5JZjAdOngchz+cPsXM/HJrD8c+DUFztUuGfScWS88GCxr8qqFMpxhk3ENRTKujuipA1L1D98hWRQx6Wi0w1EdAGlQb5iYMQIiGa49t+w295U/Vi9nWEjNmrYv8E9mQyt+l9kNbvJDN5Gb/QiisMa2wCPrw=;ZZZRsgN6hUY5bfZJRX55rA=="
 ---
 

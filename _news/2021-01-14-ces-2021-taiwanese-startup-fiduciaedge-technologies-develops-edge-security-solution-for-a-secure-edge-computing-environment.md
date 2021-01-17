@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-star
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CES 2021 Taiwanese startup VoiceTube found the ultimate equation for efficient English learning"
-    excerpt: "Launched in 2013, VoiceTube successfully created the biggest English language learning platform in Asia with over four million registered users. Users can not only find English videos with subtitles but can also engage themselves in a specially designed learning system for targeting learnings."
-    publishedDateTime: 2021-01-13T02:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-greater-china-celebrity-arts-and-entertainment-059b9d5db9b1e06af62b38c7d3cb23ee"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

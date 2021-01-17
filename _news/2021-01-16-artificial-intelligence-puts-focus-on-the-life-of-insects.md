@@ -39,18 +39,18 @@ related:
         height: 630
         isCached: true
   - title: "Pentagon aims to spread artificial intelligence across military services"
-    excerpt: "After spending the past few years demonstrating how artificial intelligence tools can boost U.S. military efforts, the office responsible for overseeing such programs at the Defense Department is"
-    publishedDateTime: 2021-01-15T15:51:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/pentagon-aims-to-spread-artificial-intelligence-across-military-services/article_fd5b7739-fe9d-5d88-9c4c-aac310b6d900.html"
+    excerpt: "New contract procedures aim at making it easier for small companies to bid for artificial intelligence uses for the military"
+    publishedDateTime: 2021-01-14T19:58:00Z
+    webUrl: "https://www.rollcall.com/2021/01/14/pentagon-aims-to-spread-artificial-intelligence-across-military-services/"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
+      name: Roll Call
+      domain: rollcall.com
     quality: 51
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/01/GettyImages-1192770770.jpg?resize=1200,600"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
   - title: "How the military can get more out of artificial intelligence"
     excerpt: "The authors argue the military must remain educated and become the masters of AI instead of training to be its servants."

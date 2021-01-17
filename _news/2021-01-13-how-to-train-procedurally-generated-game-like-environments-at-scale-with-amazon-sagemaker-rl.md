@@ -58,6 +58,20 @@ related:
         height: 371
         isCached: true
   - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
+    excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
+    publishedDateTime: 2021-01-13T13:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 63
+    images:
+      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
     excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ..."
     publishedDateTime: 2021-01-14T01:02:00Z
     webUrl: "https://www.thaipr.net/en/it_en/3018538"
@@ -71,15 +85,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
-    publishedDateTime: 2021-01-13T13:01:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-860994479.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 43
 
 secured: "ZX4jmOhX5UEpC7cea3WbC9DeBfUrmhwT56MW2a16kgoqKDFNnlnHGb5PM1SydBu1oKwhiciSMOUeE0p5dS/rfQrGZl6+/5d4MeDLjI74BPxauuM1Hy5DGE0mnj8OAODxwsH79XeZ/7Kq2EixfZsQJLMmXaSsRo3U77Ta2Y4Vlvr9ZbEaLy2qVVCbg76fjTeBZqgzjnKfPQ02VshIP8T7/o6fRXcPFQ82BBgZXXjHKAyrvDFamOd9L11YI1uvgLkF5Qg9FXSpYPsMC5SKM7gL2yBATm7NX9bnvx+vz29WuTIRjluI56y3Ag4H7L30k0d1YibjM8KZ9fnOwN//XmdBvjJVi/3e0ylTe947KE17tVU=;CT3Ee5UDPFLzEMEzeD2DzQ=="
 ---

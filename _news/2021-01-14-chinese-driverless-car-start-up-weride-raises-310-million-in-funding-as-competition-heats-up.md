@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
 type: article
 quality: 193
-heat: 223
+heat: 213
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/1_owq-V2IrljRj2C9YoZNnkA-e1610586000900.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "IBM leads in quantum computing, Ford in driverless car patents"
-    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
-    publishedDateTime: 2021-01-13T01:40:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005733.jpg"
-        width: 1240
-        height: 823
         isCached: true
   - title: "Chinese self-driving tech startup bags a total of $310m in series B round"
     excerpt: "WeRide will continue to develop its smart mobility technology, commercialize its mini robobus product, as well as expand its services to more cities this year."

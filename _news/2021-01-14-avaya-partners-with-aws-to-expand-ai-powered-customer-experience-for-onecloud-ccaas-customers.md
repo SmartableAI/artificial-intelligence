@@ -7,7 +7,7 @@ originalUrl: "https://www.helpnetsecurity.com/2021/01/14/avaya-aws/"
 webUrl: "https://www.helpnetsecurity.com/2021/01/14/avaya-aws/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Avaya Expanding AI-powered Contact Centre Capabilities To Improve Customer Experience"
-    excerpt: "Avaya expanding AI-powered contact centre capabilities to improve customer experience, participating with AWS Contact Centre Intelligence. Sydney, Australia – January 13, 2021"
-    publishedDateTime: 2021-01-13T02:10:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 52
-    images:
-      - url: "https://m.scoop.co.nz/stories/images/1803/vodafone_logo.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "nphsKdvN7WG90dxvg3apshvWs3vnSD7gZSoGGB7CBsh1GCtEaFdM0rge34Ru98VwiPj7Bvg3G+T6AmLWQe6J1fDyrq0ss6Ul0U73Zn9lmHHZWv3u8hEM2+d3qN+ER6hzZ4P4M3/abDgDo/fAhiOu4rD+jUFukx5Ic+LtokpyuGNvTKmmmEZ6TAHV/+A7xjqW6tTR074FM1UiwyVftDkHlLBPy7Gu3lcHCDxC4EcM1HQvuNFvLV1SStRNZ8G0o0ki4zB/swOuAzTay5JxgZ+VO9hM66NKfZ4/FGdj6zrgU1nxDMg94KVmgGB2DcjcVDCOz/ecx0Kx5CDdwCJ6hxyNFZBNOOxQ44BlnrhZX0cJcYQ=;kMb5rvZk2UqMtmj9//QQ2A=="
 ---

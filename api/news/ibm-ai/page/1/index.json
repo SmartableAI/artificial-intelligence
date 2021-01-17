@@ -109,17 +109,17 @@
       "title": "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security",
       "excerpt": "automation and building trust in AI, and continually infusing new capabilities from IBM Research into our IBM Watson products. In 2020, this included the IBM Watson team announcing the first ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-301205792.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-301205792.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,21 +129,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T03:10:00-08:00",
+      "publishedDateTime": "2021-01-12T07:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

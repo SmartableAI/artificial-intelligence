@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Feces and algorithms: Artificial Intelligence to map our intestinal bacteria"
-    excerpt: "Both past and present-day scientists have suspected the intestines of playing a role in various diseases. Present-day studies focus on the intestinal flora's role in physical diseases such as diabetes and overweight,"
-    publishedDateTime: 2021-01-14T17:45:00Z
-    webUrl: "https://phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.html"
-    ampWebUrl: "https://phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/gut.jpg"
-        width: 1483
-        height: 1920
-        isCached: true
   - title: "New method uses artificial intelligence to map intestinal bacteria using feces"
     excerpt: "The intestines and their bacteria are sometimes called our ’second brain’, but studying these bacteria in their natural environment is difficult. Now researchers from the University of Copenhagen have developed a method that uses artificial intelligence to map intestinal bacteria using feces."
     publishedDateTime: 2021-01-15T05:37:00Z
@@ -66,6 +50,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Feces and algorithms: Artificial Intelligence to map our intestinal bacteria"
+    excerpt: "The intestines and their bacteria are sometimes called our 'second brain', but studying these bacteria in their natural environment is difficult. Now researchers have developed a method that uses artificial intelligence to map intestinal bacteria using feces."
+    publishedDateTime: 2021-01-15T00:42:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210114130148.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
   - title: "Faeces and algorithms: Artificial Intelligence to map our intestinal bacteria"
     excerpt: "The intestines and their bacteria are sometimes called our 'second brain', but studying these bacteria in their natural environment is difficult. Now researchers from the University of Copenhagen have developed a method that uses artificial intelligence to map intestinal bacteria using faeces."
     publishedDateTime: 2021-01-14T16:39:00Z

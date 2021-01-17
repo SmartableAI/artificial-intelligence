@@ -2,6 +2,60 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-31-you-dont-code-do-machine-learning-straight-from-microsoft-excel.md",
+      "title": "You don’t code? Do machine learning straight from Microsoft Excel",
+      "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
+      "publishedDateTime": "2020-12-30T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-facial-recognition-technology-law-yet-to-catch-up.md",
       "title": "Facial recognition technology: law yet to catch up",
       "excerpt": "There are currently 16 different facial recognition tracking (FRT ... threat to the fundamental rights to privacy and freedom of speech and expression because it does not satisfy the threshold ...",
@@ -1137,58 +1191,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-highlights-from-the-year-in-science-2020.md",
-      "title": "Highlights from the year in science 2020",
-      "excerpt": "One of the biggest scientific breakthroughs of the year came just last month, with news that Alphabet's DeepMind AI has made huge strides in being able to accurately predict the 3D structures of ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/science-2020-year-review/",
-      "originalUrl": "https://newatlas.com/science/science-2020-year-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1957683/2147483647/strip/true/crop/1999x1333+0+46/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F40%2Fde%2F1497dbbb40b18507ebe95f4976d0%2Fdepositphotos-13261072-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/science/science-2020-year-review/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/science-2020-year-review/?amp=true",
-      "publishedDateTime": "2020-12-29T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

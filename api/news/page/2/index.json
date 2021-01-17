@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-15-a-major-business-breakthrough-in-ai-is-happening-now-do-you-know-about-it.md",
+      "title": "A Major Business Breakthrough In AI Is Happening Now -- Do You Know About It?",
+      "excerpt": "Almost every business in the world will be transformed by the use of artificial intelligence (AI) and machine learning (ML) technology. However, to non-data-scientist business and IT leaders, ML is often a black box that is hard to understand and manage,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6000aee8fcea373dc9e83566%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/amp/",
+      "publishedDateTime": "2021-01-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-space-robotics-market-predicted-to-grow-to-57-billion-by-2027.md",
       "title": "Space robotics market predicted to grow to $5.7 billion by 2027",
       "excerpt": "The global space robotics market size is expected to reach $5.71 billion by 2027, registering a compound annual growth rate of 5.2 percent from 2020 to 2027, according to a new report by Grand",
@@ -207,7 +258,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1131,7 +1182,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1173,50 +1224,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-these-five-ai-developments-will-shape-2021-and-beyond.md",
-      "title": "These five AI developments will shape 2021 and beyond",
-      "excerpt": "Despite the travesties of 2020, artificial intelligence has quickened its progress. Baidu upped its performance across vaccines, autonomous vehicles, language processing, and quantum computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/image001.jpg?w=1920",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/amp/",
-      "publishedDateTime": "2021-01-14T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

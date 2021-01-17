@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-15-it-takes-a-lot-of-energy-for-machines-to-learn-why-ai-is-so-power-hungry.md",
+      "title": "It takes a lot of energy for machines to learn: Why AI is so power-hungry",
+      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
+      "originalUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/ittakesaloto.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
+      "publishedDateTime": "2020-12-15T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research.md",
       "title": "BERG Deepens Research Collaboration With AdventHealth To Advance Aging, Metabolism and Nash Research",
       "excerpt": "PRNewswire/ -- BERG, a clinical-stage biotech that employs patient biology and artificial intelligence (AI) to research diseases and develop",
@@ -1161,58 +1204,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-if-you-were-a-fintech-genie.md",
-      "title": "If you were a fintech genie...",
-      "excerpt": "By Theodora Lau & Bradley Leimer of Unconventional Ventures If you were a fintech genie in 2020, what wish would you grant? For a year that is far from normal, with many of us being socially isolated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/you-were-fintech-genie-theodora-lau",
-      "originalUrl": "https://www.linkedin.com/pulse/you-were-fintech-genie-theodora-lau",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEb9SdtDzspAQ/article-cover_image-shrink_720_1280/0/1608058864776?e=1614211200&v=beta&t=pufKHrCX-RtjtOIjoofERJUvfnHgnEoiMWeLLV7XVSg",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

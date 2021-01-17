@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
+      "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
+      "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
+      "originalUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Deep-learning-concept-whitening.jpg?w=1200&strip=all",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "publishedDateTime": "2021-01-12T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-compeer-financial-delivers-superior-user-experience-with-citrix.md",
+      "title": "Compeer Financial Delivers Superior User Experience with Citrix®",
+      "excerpt": "Our lives are driven by technology and we expect it to be always on and perform flawlessly– especially at work. It’ s a tall order, but one that just got easier to deliver at Compeer Financial, thanks to Citrix Systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
+      "originalUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-new-ai-platform-provides-proxy-voting-data-from-broadridge.md",
       "title": "New AI Platform Provides Proxy Voting Data from Broadridge",
       "excerpt": "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy",
@@ -231,59 +317,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security.md",
-      "title": "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security",
-      "excerpt": "automation and building trust in AI, and continually infusing new capabilities from IBM Research into our IBM Watson products. In 2020, this included the IBM Watson team announcing the first ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -1159,58 +1192,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-pegasystems-acquires-quriousio-to-apply-speech-analytics-to-customer-service.md",
-      "title": "Pegasystems acquires Qurious.io to apply speech analytics to customer service",
-      "excerpt": "Pegasystems has acquired Qurious.io to bring speech analytics to customer service interactions augmented by AI",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/",
-      "originalUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/shutterstock_572804956-e1516199341990-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/amp/",
-      "publishedDateTime": "2021-01-11T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

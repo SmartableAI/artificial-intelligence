@@ -105,20 +105,6 @@ related:
         width: 1823
         height: 1140
         isCached: true
-  - title: "State using facial recognition tools to identify Capitol rioters"
-    excerpt: "As police work to identify people who breached the Capitol building last week, Massachusetts Governor Charlie Baker said facial recognition technology is being used to identify"
-    publishedDateTime: 2021-01-13T02:34:00Z
-    webUrl: "https://www.westernmassnews.com/news/state-using-facial-recognition-tools-to-identify-capitol-rioters/article_b37edad0-5544-11eb-bcb1-c33adc38c000.html"
-    type: article
-    provider:
-      name: Western Mass News
-      domain: westernmassnews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/westernmassnews.com/content/tncms/assets/v3/editorial/d/e1/de1f73d9-4f35-5073-99e7-95d5fc171986/5ffe65d1ad8cc.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Facial recognition software now being used to check temperatures"
     excerpt: "Since the pandemic started knowing your temperature is now the norm. Security cameras with facial recognition software that can check temperatures have been booming across"
     publishedDateTime: 2021-01-15T00:33:00Z

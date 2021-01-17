@@ -30,9 +30,9 @@ related:
   - title: "Cloud Services Brokerage Market worth $12.9 billion by 2025 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to market research report on \"Cloud Services Brokerage Market by Service Type (Integration & Support, Migration & Customization, a"
     publishedDateTime: 2021-01-15T15:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973245"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973245"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973245"
+    webUrl: "https://markets.businessinsider.com/news/stocks/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973234"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973234"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-services-brokerage-market-worth-12-9-billion-by-2025-exclusive-report-by-marketsandmarkets-1029973234"
     type: article
     provider:
       name: Business Insider

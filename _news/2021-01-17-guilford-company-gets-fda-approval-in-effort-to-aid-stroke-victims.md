@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Guilford company gets FDA approval in effort to aid stroke victims"
-excerpt: "Time is of the essence in preventing brain injury following a stroke, and a Guilford-based company has received federal approval for a development that may be able to aid in that fight. Officials with U."
+excerpt: "The company got approval to use artificial intelligence in its portable MRI machines, which researchers say could make the crucial difference in preventing brain damage."
 publishedDateTime: 2021-01-17T13:00:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php?src=sthpbusiness"
-webUrl: "https://www.stamfordadvocate.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php?src=sthpbusiness"
+originalUrl: "https://www.sfchronicle.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+webUrl: "https://www.sfchronicle.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - AI in Healthcare
@@ -24,6 +24,6 @@ images:
     height: 2048
     isCached: true
 
-secured: "akgwKqY/TXd6NMxwMjC9WrKQ/Jf8qsAl+K8O9o7qJ+q5Fy1DvjyInCMPE8S6Ymuhhge86pJyMdFN89gH12wLyudJ1rtNGOkCLKpJ+DNw0s71b2EDGYV43OwBQI3p0COLtOi8EzFQ07ligjx6WH3CBHOssVf22E/G45l5O9c6ih0wsrG23POdHVyaTDqEebTLvpeM0eZ6+hJNv3zdH4K5RW6EPZZt+DHNHw3JLGSzmRWXoH+ejAKMplpW2xOu8SYk0o1NjO5g4NcZpgLA6BT0yjurOPq5iXXHejVGm2omtkPaf1o3AgYRMb+wX6QrsNmE8xXqn8Iwyyt0mQ8RLYIsKSjrSUOM4to/bOTGujAN3iSUCR8ZNekTnU/MCkgxCL6B3OdDdmN+zBPT2u8a3e5y4XJrPqyRMUVVOPewzDN+h3YzSv6pi2j8b4icWJGftw4Vk33P3YcPTqCvxJCESUxjgGmWQv0KJlTvzjpUZhGT/gUNOfVYuuE8b4q3VTCCwoRouyUyP/1w11xdxtW3cae7bQ==;TFB+onTjW3I2Ah5k5zMk4g=="
+secured: "ob5Ge7ycDSK3XTza6YUsdAq/CYLnFODhbUxgW07m01aaJcEBu3nZiqGayO1si8FtOmp1jBs2y70H4wHd3+2cDXn1jQIH1a4IGqqi6Ih3e/iYm7BRvwTZmD9hLJeX509EiplYLwgd/jcKqMYAwABEu0U/vc+519H2UcNY2A0pXbUylvEkr0iMhg4DHm+ZVacQO1R9ClJiKy6fLtpUXesSeMweK/uSi3gpeb17CQcatWzsfgsWc5xkrW2UCc265P6+clFrrIPA5zhdO1YrQHOEdgs0L8ssbFvV/7ZYOTXwi8whPO852PA0/A4fCACmIg3xoEMz3ilkivwDSlh8jSRRG0ElXZN1sW+d9EilG6yJ21E=;Qny4Ml2NnVAcWN39/y5kKg=="
 ---
 

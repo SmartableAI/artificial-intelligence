@@ -37,6 +37,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Artificial Intelligence likely to replace humans in cybersecurity space by 2030"
+    excerpt: "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools."
+    publishedDateTime: 2021-01-17T17:06:00Z
+    webUrl: "https://www.freepressjournal.in/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030"
+    ampWebUrl: "https://m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 53
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-01/3b2dd1c1-ba9f-430b-98c0-bd68bdfa8c0c/etc_lead_jan_17.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Fast, fused and deep: CES sheds new light on 5G, AI, cybersecurity and digital currencies"
     excerpt: "At the start of a new year, the Consumer Electronics Show offers an opportunity to gaze at technology’s distant horizon and take measure of what may be coming over the ridge. Foremost among these was a general recognition that the pandemic has dramatically accelerated digital transformation across the globe more rapidly than anyone could have envisioned at CES in Las Vegas one year ago."
     publishedDateTime: 2021-01-14T23:54:00Z

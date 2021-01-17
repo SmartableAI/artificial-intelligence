@@ -71,6 +71,17 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
+  - title: "Startup Watchlist: 6 Indian Media & Entertainment Startups To Watch Out For In 2021"
+    excerpt: "The media and entertainment industry in India put up a great show in 2020. From adults who wanted an escape from their mundane work-from-home life, to kids who were trying to get used to playing indoors,"
+    publishedDateTime: 2021-01-17T18:51:00Z
+    webUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-6-indian-media-entertainment-startups-to-watch-out-for-in-2021/"
+    ampWebUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-6-indian-media-entertainment-startups-to-watch-out-for-in-2021/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/startup-watchlist-2021/startup-watchlist-6-indian-media-entertainment-startups-to-watch-out-for-in-2021/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 31
 
 secured: "xfBjrE2xjLV/phFb10wz2gBVbf261rJVNdHHZNKJzgzCuUq/vPHZ4vYLDmEIzFER+vXJcVwLYfM2GqlWUGgxohcC4HDsw8ixjGTAJQbfTdXT6rAl0S7sgLkqIyCV4limHi6ZvKUTvv+nXJjlF23VFH8uJglce6XvYJT9mGHXYxAzOGpm8tkCKkFo0yFbG6cxdzsqZ9rxVIGXO1Rg8EWuz1cvmKcRHr39j351rQKqvxtwvQ1mUB+9FHnaJN+znBZklkQ5zFTpBW1AScpcWgbBdYxDpRAZCJ1JE+rOmo40YYjZpoT0It4M99STn6H9YVWGxQ0A63bvmILnsd8Iz/out2hGzS+3fjrl8iNIkDTm59y4p3a3OTCVReM/OqLf19gS6RCfsLpAXdVfX2E09AdC/CMUpgF7Dw3Qo7YzxS27NpAFYiWrHXvaNM1cEA4+UYbDxb4qgUVjgyRgs2CpQU0qjgDV9tc/p5HRw5ZJl8FtOnkWUS/LELpifLqPJX90LWGa1HpTJgKL10Tjr7sZtfNw2g==;tbrsxDJckGxH3LAkCX4hbw=="
 ---

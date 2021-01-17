@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-12-pegasystems-acquires-quriousio-to-apply-speech-analytics-to-customer-service.md",
+      "title": "Pegasystems acquires Qurious.io to apply speech analytics to customer service",
+      "excerpt": "Pegasystems has acquired Qurious.io to bring speech analytics to customer service interactions augmented by AI",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/",
+      "originalUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/shutterstock_572804956-e1516199341990-cropped.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/pegasystems-acquires-qurious-io-to-apply-speech-analytics-to-customer-service/amp/",
+      "publishedDateTime": "2021-01-11T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-samsungs-jetbot-90-ai-robot-vacuum-doubles-as-a-roving-security-camera.md",
       "title": "Samsung's JetBot 90 AI+ Robot Vacuum Doubles as a Roving Security Camera",
       "excerpt": "The JetBot 90 AI+ works with the Samsung SmartThings app to let you access its integrated camera and keep an eye on your home from wherever you are.",
@@ -853,40 +905,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automation-platform-with-new-advanced-ai-capabilities.md",
-      "title": "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities",
-      "excerpt": "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic",
-      "originalUrl": "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },

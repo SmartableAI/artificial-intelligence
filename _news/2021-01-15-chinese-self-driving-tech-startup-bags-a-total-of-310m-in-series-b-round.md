@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM leads in quantum computing, Ford in driverless car patents"
-    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
-    publishedDateTime: 2021-01-13T01:40:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005733.jpg"
-        width: 1240
-        height: 823
-        isCached: true
 
 secured: "P/bXJK5m26Tjsuype9JPV8xyLZks5du6QDW2P2BGxW7t0kiJADbi68XD+F0TfBL4dJTOpz42+hhh3hRaUYrFGooHC6rS8fIsqxeskSOV0f+pslW/kB+K3JKCKz/nxPMV7AbG131LcJbuSFWYTbdL/NaHJg0Cvy8f4O8KNCdywvVhjvNOF1YgUSPwolBdS82EDWYScvoVhJUJ+elKksV8vgErZ8DXH3zWYlUrK2h75vlNLLfvi6sKxqGLrnJ/hHLHS8I06S04pfE3/mGnGDR5XKrZs/ta63is7YCG4+HLZCwE7x4oquuhBPy56M50rvFutPuZ6iLpN1qzoPOOFIncHwD+F8nfpWCqEjO/f0PiIfVBi5J2Ir7ZMENVbqL0hKtb0DEXnmPcW9m72cFLOEUcNkFlmuqUPwazxa2dtv2SM2igW7Hp5wNNGa3YaUu4G2pxSP0fN7c0vMsYj251ZYVNh0Ll3LF1jXmmpyfftyqP7Txjz0MCE4ubQ/KSe/Cbvg/vCm1hn9aAXjJlADbEPfG25w==;cFsKc6Xo1XNM7JgSyXk2Iw=="
 ---

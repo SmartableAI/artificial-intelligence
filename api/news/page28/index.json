@@ -2,6 +2,57 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-12-19-skypes-latest-update-uses-ai-to-make-group-calls-less-awkward.md",
+      "title": "Skype's latest update uses AI to make group calls less awkward",
+      "excerpt": "The tool uses an AI-powered segmentation technology to put everyone in a video call in the same virtual space. Even if you don’t use Microsoft Teams, you’ve probably seen Together Mode in action. The NBA turned to the feature when it tried to recreate the atmosphere of a packed arena without any fans physically present.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-together-mode-skype-192645916.html",
+      "originalUrl": "https://www.engadget.com/microsoft-together-mode-skype-192645916.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F870b7a80-0a2b-11eb-a7bb-1d6e9840372c&client=amp-blogside-v2&signature=3fc0e71912332330467332922e673536cc32c7b3",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-together-mode-skype-192645916.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-together-mode-skype-192645916.html",
+      "publishedDateTime": "2020-12-18T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more.md",
       "title": "Predicting 2021 in cybersecurity: DDoS attacks, 5G speed, AI security, and more",
       "excerpt": "Talk here about some predictions for 2021 as we round out, fortunately, this year 2020. Let's start with 5G. Of course, we're moving now from that hype phase to reality, and we're starting to see 5G inching its way in a little bit more.",
@@ -1133,58 +1184,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025.md",
-      "title": "Cognitive Data Management Market Size Rising at more than 11.3% CAGR During 2020-2025",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 18, 2020 (Market Insight Reports) -- Selbyville, Delaware Growth forecast report \" Cognitive Data Management ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025-2020-12-18?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025-2020-12-18?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

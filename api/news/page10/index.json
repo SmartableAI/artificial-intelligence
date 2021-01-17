@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-08-robotics-ready-for-its-moment-as-pandemic-headwinds-abate.md",
+      "title": "Robotics Ready for Its Moment as Pandemic Headwinds Abate",
+      "excerpt": "Disruptive technologies can encounter headwinds over the course of their evolutions, but that doesn't always mean long-term negativity. Take the case of robotics investments. The coronavirus pandemic could have been a problem for the group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-2-artificial-intelligence-stocks-leading-the-new-wave.md",
       "title": "2 Artificial Intelligence Stocks Leading the New Wave",
       "excerpt": "It's a new year, and good time to take a look at what lies ahead. Not in the short term, but on the longer horizon. So, here’s a number to think about: $126 billion. That’s the predicted size of the Artificial Intelligence (AI) technology market in 2025.",
@@ -1104,49 +1138,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm.md",
-      "title": "POET enters into development and supply agreements with photonic neural network systems firm",
-      "excerpt": "POET Technologies Inc of Toronto, Ontario, Canada — designer and developer of the POET Optical Interposer and photonic integrated circuits (PICs)",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
-      "publishedDateTime": "2021-01-07T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
