@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-12-17-lantern-pharma-announces-collaboration-with-world-leading-brain-cancer-program-at-johns-hopkins-to-further-develop-lp-184-as-therapy-for-glioblastoma.md",
+      "title": "Lantern Pharma Announces Collaboration with World Leading Brain Cancer Program at Johns Hopkins to Further Develop LP-184 as Therapy for Glioblastoma",
+      "excerpt": "We leverage advances in machine learning, genomics, and artificial intelligence by using a proprietary A.I. platform to discover biomarker signatures that help identify patients more likely to ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-collaboration-with-world-leading-brain-cancer-program-at-johns-hopkins-to-further-develop-lp-184-as-therapy-for-glioblastoma-1029901874",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-collaboration-with-world-leading-brain-cancer-program-at-johns-hopkins-to-further-develop-lp-184-as-therapy-for-glioblastoma-1029901874",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1216507/Lantern_Pharma_Logo.jpg",
+          "width": 400,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-speech-and-voice-recognition-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
       "title": "Speech and Voice Recognition Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
       "excerpt": "Dec 17, 2020 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the ...",
@@ -1151,58 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-light-powered-brain-like-ai-chips-are-in-development.md",
-      "title": "Light-powered, brain-like AI chips are in development",
-      "excerpt": "The chip could potentially be used to power drones, robotics, smart watches, and bionic implants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/20/d1eb7060-4ea6-4d3a-a2a9-8522490a2dc7/thumbnail/770x578/4c0e95589ad879e2c227bc6c03fb5190/the-human-brain-inspires-rmit-researcher-5fb5f1f16df74d74600bc66d-1-nov-20-2020-24-22-49-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

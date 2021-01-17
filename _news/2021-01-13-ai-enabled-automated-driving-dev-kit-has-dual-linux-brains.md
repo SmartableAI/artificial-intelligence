@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/linux/ai-enabled-automated-driving-dev
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/ai-enabled-automated-driving-dev-kit-has-dual-linux-brains/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Windows
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Orbbec’s 3D cam dev kit runs Linux on Amlogic A311D"
-    excerpt: "Orbbec has launched a $143 “Zora P1” development board for its cameras that runs Linux on an Amlogic A311D. It also previewed ToF, industrial 3D, and Astra+ 3D cameras."
-    publishedDateTime: 2021-01-12T18:49:00Z
-    webUrl: "https://linuxgizmos.com/orbbecs-3d-cam-dev-kit-runs-linux-on-amlogic-a311d/"
-    type: article
-    provider:
-      name: run Linux-based Opera TV
-      domain: linuxgizmos.com
-    quality: 24
-    images:
-      - url: "https://linuxgizmos.com/files/orbbec_zorap1_detail-sm.jpg"
-        width: 350
-        height: 236
-        isCached: true
   - title: "BeagleV SBC runs Linux on AI-enabled RISC-V SoC"
     excerpt: "Board.org and Seeed unveiled an open-spec, $119-and-up “BeagleV” SBC with a StarFive JH7100 SoC with dual SiFive U74 RISC-V cores, 1-TOPS NPU, DSP, and VPU. The SBC ditches the Cape expansion for a Pi-like 40-pin GPIO."
     publishedDateTime: 2021-01-13T20:01:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "HHS Names New Chief Artificial Intelligence Officer"
-    excerpt: "LinkedIn. This is a new CXO-level position that puts Mek at the head of AI strategy for the agency. Mek has been with HHS for over a decade and was already working on the AI innovation at HHS in his previous post as Senior Advisor to the HHS CIO."
-    publishedDateTime: 2021-01-12T17:53:00Z
-    webUrl: "https://www.meritalk.com/articles/hhs-names-new-chief-artificial-intelligence-officer/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 37
-    images:
-      - url: "https://www.meritalk.com/wp-content/uploads/2020/12/Lamar-1.jpg"
-        width: 398
-        height: 398
-        isCached: true
   - title: "HHS Names First Ever Chief Artificial Intelligence Officer"
     excerpt: "AI is playing and will continue to play a significant role in overall technology modernization,” HHS Chief Information Officer Perryn Ashmore told Nextgov via email Thursday. “As such, I have named Oki Mek the Chief Artificial Intelligence Officer (CAIO) for the Office of the Chief Information Officer."
     publishedDateTime: 2021-01-15T16:27:00Z

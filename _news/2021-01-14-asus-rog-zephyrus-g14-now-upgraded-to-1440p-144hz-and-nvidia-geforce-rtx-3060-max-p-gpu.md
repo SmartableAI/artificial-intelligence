@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pocket-lint.com/laptops/news/asus/155323-asus-rog-zephyr
 cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/laptops/news/asus/155323-asus-rog-zephyrus-g14-now-upgraded-to-1440p.amphtml"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Unveils GeForce RTX 30 Series Laptops And The Aggressively-Priced GeForce RTX 3060 Desktop GPU At CES"
-    excerpt: "PC Graphics giant, NVIDIA today has taken the wraps off new GeForce RTX 30 Series gaming laptop platform technologies, as well as a new GeForce RTX 3060 graphics card that will address the meat of the market at a popular $329 midrange price band."
-    publishedDateTime: 2021-01-12T17:35:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffdceee9238e5474ced6a5d%2F0x0.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
-    excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
-    publishedDateTime: 2021-01-12T17:47:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "NVIDIA Introduces GeForce RTX 3060 Next Generation of the World’s Most Popular GPU"
     excerpt: "PTI takes no editorial responsibility for the same.) Powered by NVIDIA Ampere Architecture, Delivers Up to 10x the Ray-Tracing Performance of GTX 1060; Starting at INR 29,500 Bangalore, Karnataka, India – Business Wire India NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU."
     publishedDateTime: 2021-01-14T05:26:00Z
@@ -68,20 +38,6 @@ related:
       name: The Week
       domain: theweek.in
     quality: 33
-  - title: "Asetek Liquid Cooling Advances Overclocking Capability of New GeForce RTXtm 30-Series GPU Cooler from MSI"
-    excerpt: "Asetek, the creator of the all-in-one (AIO) liquid cooler and the global leader in liquid cooling solutions for gaming PCs and DIY enthusiasts, announced that OEM Partner MSI has introduced a new series of graphics cards based on the NVIDIA®"
-    publishedDateTime: 2021-01-14T02:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-19599736.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 22
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "q/KZ3rBH+eYZbVtbPh8rW4TkfZVB4D4kZChu6rrisGa/jD3oJdfhhCTTVO+DSKgQcMy6WuqMglpR0Kjh5vT+CARmZ8cwBjPjnNqoMvxp4zYRjf72z7tYu367ttlJlGqXi5IXr8E6uLwsLk2JCtz0MqcisYpT4OZWb8Qj490inChwXIleZFXR+ApbWqI6zjem38wfU2BuCAryepyUHbm5/oE/7n4EfXTNwLT9JYdZUVY8j9oLjFxT/WvTvqzuRcqEJG1kE5DLSqiw8Kr7qnVmIaWAF6m5mOSS8aNZqBNVOE3xTxj9fz12xhIztfSAo/LXuocntZIW9ZyuPzJnxC5YK5+BkFhbtqfK0NYzvfP/keIO1T7pOiZCYOEFuSbdTvZqYzz6uFW9mvzSSJ72C6+rHnjDjhFQWnKpNWBJmzQupsQlujQy5IxXstIPJUKRY0em3kSZgaCQZzmnsK0Z3oDtzz0GmWleBhTYgv55a1CKTLJbpkb3P/yre+6DPXfIfLTxNr9hmx7nyFMORm9tuM3C0g==;zmsPsoTKi9GhWOLxtYNE9g=="
 ---

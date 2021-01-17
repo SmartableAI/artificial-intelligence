@@ -48,15 +48,6 @@ related:
       name: Bio IT World
       domain: bio-itworld.com
     quality: 19
-  - title: "Oxford Nanopore and Nvidia Partner DGX AI System with PromethION Genomics Sequencer"
-    excerpt: "Oxford Nanopore Technologies and Nvidia are collaborating this year to integrate the Nvidia DGX Station A100 into Oxford Nanopore’s gene sequencing system, PromethION with the aim of delivering real-time analyses at scale,"
-    publishedDateTime: 2021-01-12T17:17:00Z
-    webUrl: "https://insidehpc.com/2021/01/oxford-nanopore-and-nvidia-partner-dgx-ai-system-with-promethion-genomics-sequencer/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 13
 
 secured: "Jr33m6bGze0OXdVGMeyJ+hwlVts8JK/KQ5qEsEyxNIxnhWLEfCnrA0Xzb1UvM55poCyFf0t4T/2c3F3oBvcaQLYBY8vVlZwGsk/kBbvI34wdc0wvzSwKfJolqqZHKLIHqMl1/oMF7qKqRS3UExn6mXNsZWSuwYT1EaRcSmA6n9NsohHV3FZqIlr0wobM4BSdXmx4M2vZeZsQ5pJkJaErDpPmGg01XIApXQNzikYY4xo3IffbqAR9eXm5667l7UVVYZry2vf9I7eYe+E39odb1u3ah0mUTBbKTsuaSoadrZEJRHHENx+zmHT6g9F73eJvnnLzoQj9pfTlPs1W5TweevHGaXyWbgnj3nTthkRsn14=;lV5XL3d6YxREwcCfZttzuA=="
 ---

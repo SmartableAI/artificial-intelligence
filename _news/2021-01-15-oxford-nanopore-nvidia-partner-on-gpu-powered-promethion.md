@@ -47,15 +47,6 @@ related:
         width: 900
         height: 495
         isCached: true
-  - title: "Oxford Nanopore and Nvidia Partner DGX AI System with PromethION Genomics Sequencer"
-    excerpt: "Oxford Nanopore Technologies and Nvidia are collaborating this year to integrate the Nvidia DGX Station A100 into Oxford Nanopore’s gene sequencing system, PromethION with the aim of delivering real-time analyses at scale,"
-    publishedDateTime: 2021-01-12T17:17:00Z
-    webUrl: "https://insidehpc.com/2021/01/oxford-nanopore-and-nvidia-partner-dgx-ai-system-with-promethion-genomics-sequencer/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 13
 
 secured: "q8PQjAlPSPkw3/flhgTP/eo3XYJ8+A6CGuMJ73ned2hUhNsYJmbW1rzZYL0vMRzt4bl5TmSnRxJfYZmYiJZ5AKawgfx6jjgRH6TVmS5VRiOkkg8pKm+PpevpS3rocinpuKv3EYDDi+V/9MVsF9qTGMQUr8O9o/S/S+0IVhg9ORKHnU9UbvXO42x4AKvqiS7Bp587ZRJVKTsIDLZEkXFFzpboUKZ//0eybpibvOsyE4hbVvJbCx5eNuhjw5hF3XFD78rlnXoXdM9TzAtTFLEKSm28NfPX2c5GeiyTfyRzPE5ERswdsr2tbojs3gQtGHg4NTtNRB09V32aSaVoGxWBaQQj+4ZrTappIi/PvWM4oRw=;IKWxim5aUAQLdSs/BPsedA=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The AI arms race comes to enterprise content management"
+    excerpt: "Enterprise content management (ECM) platforms that have historically been employed to manage files are, thanks to the rise of AI, about to evolve into central repositories for keeping track of relationships between a much wider range of types of data."
+    publishedDateTime: 2021-01-13T18:41:00Z
+    webUrl: "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/"
+    ampWebUrl: "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/M-Files-Intelligent-Information-Management-Summit-2018.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
     excerpt: "World-leading Researchers, Policymakers, Designers, Companies Share Diverse Perspectives On Topics Such As Human-machine Collaboration and"
     publishedDateTime: 2021-01-13T17:51:00Z
@@ -36,17 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "How AI Might Change the BI Experience"
-    excerpt: "Natural language processing coupled with speech interfaces have been promising to change the way end users interact with applications for quite some time. However, Amazon Web Services (AWS) at the recent AWS re:Invent conference made a bold promise to specifically transform how end users interact with business intelligence (BI) by enabling them to launch verbally query data."
-    publishedDateTime: 2021-01-12T20:52:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-changes-the-bi-experience.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-changes-the-bi-experience.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-changes-the-bi-experience.html"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
 
 secured: "ubbWIJ0Ne82l5wdUNq7pZTrjxWAQ+FEGaFyj0WzZJH48Q/dESz+QX6ymG89bwxokGzQT06PImLebc912gJ6HLKRyA7FVKFnBB961AQMVT+ZXVf9+axIV8KHpnKP4Fmn3IwIPBNyuzzHNz1H+EJnmtmpUhMCUs3OWB1cYcOpFjPHNndjCekkeXJXa3P8dX0oN+7j8HC/7lcLd6z52Cpxab4ssXIECXuBEjmZZu2KJpqG0rXIf7Y67MTkaJObcu3ODBZ8PdtoXu2HUDwdhpZsO5bjPOte73FGoP/NI6yJT9nb60sTI/A9VaR5e6vGzovmHaK5pGyuGlDhryH/0GdG8WCBZfJZzIMjKF9Zc/0EfP5M=;5aTGQbf0uJEyFe3Yfda3Nw=="
 ---

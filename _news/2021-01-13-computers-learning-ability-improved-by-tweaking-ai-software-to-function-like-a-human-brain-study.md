@@ -26,17 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Tweaking AI software to function like a human brain improves computer's learning ability"
-    excerpt: "Computer-based artificial intelligence can function more like human intelligence when programmed to use a much faster technique for learning new objects, say two neuroscientists who designed such a model that was designed to mirror human visual learning."
-    publishedDateTime: 2021-01-12T18:37:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210112085359.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
-
 secured: "uMz/1jwCs80hAN5VAhMUgdrD5sDyF4WDKlLZJLRR8s9SPQr0dbQh92DXY2g5Wm8AHd4BtzbZYwOxolEOaSXVZuVZkcmKqu2A4q2+frZU+pQhulJJilhAafJY4Hpce9xwS5MFEv3SdMPA4cl+NkG5uSoAEdLKo6r0VbZs6D0qE+hTVVOSUGsz2u8BVMORZp3hPg2gaS3AeiT4wTSWsFF0dIySQwaywX12E8pydNvHZF3KPl06Xgqx19ZHT9XvILIJ41/Wf7ntxe9XVdqPUN03qr/1w9eEoncr+KApNx4F3FL1lzU/FqF6LEBmrkibt7LUofm7fE7dV2Cc7pcW4cb5xM7X65IRyPUSPBUsPgKLq3k=;Dxv0Of+/kJ66teNQai72Rw=="
 ---
 

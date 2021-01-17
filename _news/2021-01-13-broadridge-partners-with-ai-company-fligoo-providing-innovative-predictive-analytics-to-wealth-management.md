@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-
 webUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI platform provides proxy voting data from Broadridge"
-    excerpt: "Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
-    publishedDateTime: 2021-01-12T17:31:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provides-proxy-voting-data-from-broadridge"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Broadridge partners with AI company Fligoo for predictive analytics"
     excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
     publishedDateTime: 2021-01-14T08:06:00Z

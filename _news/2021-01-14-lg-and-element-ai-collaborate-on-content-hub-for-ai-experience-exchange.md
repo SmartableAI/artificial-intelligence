@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/lg-and-element-ai-colla
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -25,17 +25,22 @@ topics:
   - AI
 
 related:
-  - title: "How AI Might Change the BI Experience"
-    excerpt: "Natural language processing coupled with speech interfaces have been promising to change the way end users interact with applications for quite some time. However, Amazon Web Services (AWS) at the recent AWS re:Invent conference made a bold promise to specifically transform how end users interact with business intelligence (BI) by enabling them to launch verbally query data."
-    publishedDateTime: 2021-01-12T20:52:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/ai-changes-the-bi-experience.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/ai-changes-the-bi-experience.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/ai-changes-the-bi-experience.html"
+  - title: "The AI arms race comes to enterprise content management"
+    excerpt: "Enterprise content management (ECM) platforms that have historically been employed to manage files are, thanks to the rise of AI, about to evolve into central repositories for keeping track of relationships between a much wider range of types of data."
+    publishedDateTime: 2021-01-13T18:41:00Z
+    webUrl: "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/"
+    ampWebUrl: "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/M-Files-Intelligent-Information-Management-Summit-2018.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
     excerpt: "CNW/ - At CES® 2021, LG Electronics (LG) president and CTO Dr. I.P. Park and Element AI CEO Jean-François Gagné will unveil AIX Exchange: The Future of AI"
     publishedDateTime: 2021-01-13T14:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterpr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -30,21 +30,30 @@ images:
     isCached: true
 
 related:
-  - title: "Containment algorithms won’t stop super-intelligent AI, scientists warn"
-    excerpt: "Computer scientists used theoretical calculations to show it would be impossible to build an algorithm that could control super-intelligent machines."
-    publishedDateTime: 2021-01-12T18:42:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/12/containment-algorithms-wont-stop-super-intelligent-ai-scientists-warn/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/12/containment-algorithms-wont-stop-super-intelligent-ai-scientists-warn/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/12/containment-algorithms-wont-stop-super-intelligent-ai-scientists-warn/amp/"
+  - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
+    excerpt: "World-leading Researchers, Policymakers, Designers, Companies Share Diverse Perspectives On Topics Such As Human-machine Collaboration and"
+    publishedDateTime: 2021-01-13T17:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
+    excerpt: "CNW/ - At CES® 2021, LG Electronics (LG) president and CTO Dr. I.P. Park and Element AI CEO Jean-François Gagné will unveil AIX Exchange: The Future of AI"
+    publishedDateTime: 2021-01-13T14:00:00Z
+    webUrl: "https://www.newswire.ca/news-releases/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-881529040.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 39
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-12T182000.105-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://mma.prnewswire.com/media/1419259/LG_Electronics_Canada_LG_and_Element_AI_Collaborate_on_Content_H.jpg?p=facebook"
+        width: 1248
+        height: 653
         isCached: true
 
 secured: "qKhJXmiy4u+78PVIS2a5B7i556j3eeREFtFhnPWXWO4VIZZs+Rfara/DhUjr3NGDmzu0LiJhe3KG0p36mAjWxetg/vT4M+L7V1tvUnsTMfw20WRVVV73OeToaawJW8JHv+oXK4ceFD7oDlPOIVw4shk0TUWN01P1rWHV9EER8yTvHSjVVBgkCjTVpxjBXQxYlYM3a0TZzcELwoyzhUqfIE/PlWFW2QQV1v8tPNCEHy9GGLNawC7bvoyjt0rHarCc4pts9Y+2RX/gZaKPA9aAKBEwwpBFnp1zwGTgyOKElg3229dqir+Us7qeaS0buO9NfUz2TIIb3DKrDXXCwlYID0oWo58C5elA7AmEV550/dds6GYt2NpPqyDJbcbSQ17J5VV2CBVUt0rjOvL4Dx7hEd2RAYOa4g3r1d3P9oC6VRBAuE7yPTCa/zhaevuo0mEp1MUvwJbZv/PL3vNQXZhsa2GXelYIE/0IThJp5kqi1NmV3Y5IzoT2nCKYNDUKTlKASSgCcLnaD5cu7QVl0K02dw==;VlNLRgutHP4H3Bl1b7MLew=="

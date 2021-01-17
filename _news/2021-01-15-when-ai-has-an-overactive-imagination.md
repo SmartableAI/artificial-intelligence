@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/reel/video/p093h7hr/what-happens-when-ai-has-a
 webUrl: "https://www.bbc.com/reel/video/p093h7hr/what-happens-when-ai-has-an-overactive-imagination-"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BBC
@@ -26,6 +26,22 @@ images:
     width: 1376
     height: 774
     isCached: true
+
+related:
+  - title: "Honing In on AI, US Launches National Artificial Intelligence Initiative Office"
+    excerpt: "To drive American leadership in the field of AI into the future, the National Artificial Intelligence Initiative Office has been launched by the White"
+    publishedDateTime: 2021-01-13T20:07:00Z
+    webUrl: "https://www.hpcwire.com/2021/01/13/honing-in-on-ai-us-launches-national-artificial-intelligence-initiative-office/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 48
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AI-concept_shutterstock-1698713356_700x.jpg"
+        width: 700
+        height: 401
+        isCached: true
 
 secured: "ooqR1bsgqAyKyFsQP8KsAKLPeKwGVRwU1SXmT0dHKhDYYk4zJo6/pURMzEpmj4NgR8Bu0zfHp2wer9h1glCdpV8DeY5KMq4skN0i/WdC+/mxLgTcf2aK5/P3OTsdaRJIx4yt/DMdkvAku6bhTzFNhCy+gIY7siqcQ7tE+Yx2zE+yUAr6gG3cGoaSsaVEKFc+J/fHGMUgfeIAp6zvE6LtSS25rWIqjWpnrNa/J3Dw96BWfbCV8FNrS2p6PmdY1mfcHsTmjG9MSkNtGd0qvSKKOpclu/nR27kRgA6Z/R4MmaHsYOgkozRybyAWxxg8mFokUxoLTqEbJvvwEW8PH/3ch4Jzk4f7Rq1LElcnxCCQY+1V0OgoGKM+PsOWVRQizRlioZnRHrikzBcayAxtTKtkp4YNc5MkyxlU2enzxBPbFYaCShFyIzanmEOpamqK3Pj0iclV8VWPj2YjG+D4hsy9wZs0QSHcnNKs803dJXpNUW6LvH20613AOB5qjgPMR1F0Halw5ZJ/pROMkvhay2HbEQ==;r5yqH8YkYErC5ZTmC4T9YQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/therecorder/2021/01/14/judge-poised-to-grant-1
 webUrl: "https://www.law.com/therecorder/2021/01/14/judge-poised-to-grant-110m-in-attorneys-fees-in-facebook-facial-recognition-settlement/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Facebook fined $650 million for collecting facial recognition data inappropriately"
+    excerpt: "Facebook has been ordered to pay $540 million to Illinois residents for collecting facial recognition data without their consent | NewsBytes"
+    publishedDateTime: 2021-01-16T13:45:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 55
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l220_5631610796178.jpg"
+        width: 1440
+        height: 809
+        isCached: true
 
 secured: "bNP5v0bJyeFw9FTdzwZ0iQyktML39LL8/OxeTsP2Eilkl7C2cUWH5tieYfgaUYAn+pNKp+iPYN0fEkVzz209Hh+uX+UDRqXTjRviUc7j2n54R9rj13via3ZEwEL83l9hy21ahQ/B5K4vAUlz7rJQS8Lyjoa5vfCZj4asHf9hlHKCn3hEvwwxGOoBhOOo+X9FAhEZ00Pyw0ZXG4jc5PQrMHm995FxKYLwguHqYmFtwms4gJlxss5TKprN8HTs/rVAu/5PMVzs4S9LldSnKjayLsHx2oqa5D60hiLTh2LOErMgLgf9QELbWyLBaqWvrqcz6ccBcH/u0/ZtHP0zCpwqpu6tjxAXpePmJ0SidlQjdp2lcXj7k/10I5AfZATqpBNW2XDwwTrJ906TQfxsU9u4ubruJqgDSIEZiGgMZXjEIWcRuOW9GdCmxStQsN7/UuuxhWNQE4ojGTQeU4xlobUgauocX+b0iCj4M+H5yz6wKWQkzQ3CRL71qSIRa5voHP5znShIiebZ7aoBo05t0F6iKQ==;h3F1wMw4pTg39PzAKdLEDw=="
 ---

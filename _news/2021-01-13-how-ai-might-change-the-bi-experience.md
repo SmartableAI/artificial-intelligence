@@ -21,30 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
-    excerpt: "World-leading Researchers, Policymakers, Designers, Companies Share Diverse Perspectives On Topics Such As Human-machine Collaboration and"
-    publishedDateTime: 2021-01-13T17:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-1029964748"
+  - title: "When AI meets the TV set"
+    excerpt: "TVs are the stars of this 2021 edition of CES, an exceptionally 100%-virtual edition due to the COVID-19 pandemic."
+    publishedDateTime: 2021-01-13T12:58:00Z
+    webUrl: "https://technology.inquirer.net/107216/when-ai-meets-the-tv-set"
+    ampWebUrl: "https://technology.inquirer.net/107216/when-ai-meets-the-tv-set/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/107216/when-ai-meets-the-tv-set/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
-    excerpt: "CNW/ - At CES® 2021, LG Electronics (LG) president and CTO Dr. I.P. Park and Element AI CEO Jean-François Gagné will unveil AIX Exchange: The Future of AI"
-    publishedDateTime: 2021-01-13T14:00:00Z
-    webUrl: "https://www.newswire.ca/news-releases/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-881529040.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 39
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1419259/LG_Electronics_Canada_LG_and_Element_AI_Collaborate_on_Content_H.jpg?p=facebook"
-        width: 1248
-        height: 653
+      - url: "https://technology.inquirer.net/files/2021/01/114551_tx_65jz2.c86ce133711.w768-620x465.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "CTFKtavcBUzxhSNu7mev3JT2a1uit3cDctokA4tchTUhj6FlzpyWLMOan5iWEgHK32qX4FSLCEuZ9aRTyhz83ipRSo91f9Qhb+LVMaFfFvFdY4LkuhcYxUnybH7PjpecOYJ/ZXN09XDFl7D1Vnm+MmY+e8q+i9eaQ+2aOwbecnMF08n1Mmt+noQJHhNN/HjnBkBNzYPlSVRj+rJdM72JM7yOnE/KsemjGFtInueJqwTy7fktgfM2I8mp59jP2yuI40Nf/kQbRHwscPdSzRpByXHqzvN4DmbFXiwMU/CjS6mTEImgkETunpoals2IijdO3hQaPkEnmUGCL3aLbW7ICvGWvZayMHlAV9K0DplSS1JQ5/yTyyL/hz2PJq9tsLwQ3tnSDB6M009ttetFeVKCvVPKJZVJq2AxLioqTYDWC0jcQu13jNNe/ewVoluv1yXYJVfJyH6dDpJ+WqCXgLguaHr0+oDZtggGKb0nMA9VXO6fKDH8H79g39u1XkXM3p491aI8ccYtcIIc1qhprEDl4Q==;3RH4ae2NyCM5dIz9/LCecg=="

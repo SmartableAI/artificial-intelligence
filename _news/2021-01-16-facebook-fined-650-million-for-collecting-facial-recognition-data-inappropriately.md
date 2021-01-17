@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsbytesapp.com/news/science/facebook-fined-650-million
 cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story/amp"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "How far can facial recognition go in finding rioters in D.C.?"
-    excerpt: "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case."
-    publishedDateTime: 2021-01-12T18:44:00Z
-    webUrl: "https://www.wtsp.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    ampWebUrl: "https://www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45"
+  - title: "Judge Poised to Grant $110M in Attorneys Fees in Facebook Facial Recognition Settlement"
+    excerpt: "This is a groundbreaking settlement in a novel area that took a lot of effort to get to substantive and professional goodwill,” said U.S. District Judge James Donato."
+    publishedDateTime: 2021-01-15T01:30:00Z
+    webUrl: "https://www.law.com/therecorder/2021/01/14/judge-poised-to-grant-110m-in-attorneys-fees-in-facebook-facial-recognition-settlement/"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 59
+      name: Law
+      domain: law.com
+    quality: 31
     images:
-      - url: "https://media.wtsp.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Entrepreneur wants to change how we shop using facial recognition"
-    excerpt: "Grand Rapids-based Iris Technology wants to use its technology to replace bar codes The system would use facial recognition software and computer vision technology to replace scanning, checkout Co-founder James Meeks intends to demonstrate the technology to large grocery retailers Some startups have modest goals: they just want to carve out a niche for themselves and make a profit on the margins."
-    publishedDateTime: 2021-01-17T05:04:00Z
-    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/entrepreneur-wants-change-how-we-shop-using-facial-recognition"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/James%20and%20David%20IRIS-main_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/02/Donato-James-Article-202002061504.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "zFXNTJU0w+Two1P9Z6230wgHBirQKnp6A8VgWc39HpfDJunsKw73MJnYeRtcPhWnDth8aqkneNwYmRn9l2ooYIZ6dss8JYP6yX3XSdbAUH6qKR9dihU0lgvowGIrXuOJY6s3uMfryH9+/rwmznOMQ8dw1teXOn1bDvZn1gRClbADsfHB7VHO8iypUS/6Oi2xj9dwJHS4e32/C+KxuxmMB3pIbPQ1Z7p5OJrpBiQf5LBXlKZKTT15HW+PHP53+eRN3kfQG8JzQT5A4Ot+qY942azSwKLbZ2nQV6E7ZcDiBt6naLM7Q5SsLWKX21PDr6qezcaEnykowA4VJdAYRuWShlo4j9+ibCTYtKBA2PmNdBg=;AxXcZ4bmGt3N+Sjv4RGpSg=="

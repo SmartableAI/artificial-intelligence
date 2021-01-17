@@ -68,20 +68,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "FTC declares facial recognition surveillance tech dangerous, warns against federal privacy pre-emption"
-    excerpt: "The FTC has come out swinging against facial recognition, issuing a proposed settlement with Paravision, its first focused on the biometric technology."
-    publishedDateTime: 2021-01-12T17:43:00Z
-    webUrl: "https://www.biometricupdate.com/202101/ftc-declares-facial-recognition-surveillance-tech-dangerous-warns-against-federal-privacy-pre-emption"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
 
 secured: "Ssr9E4A82Bc4U1VgjXwlrJe6QTT7ZmQIT4s041lakmyuMv3xwL2wzjlWSdsi3L4IG8OwMopLJ+23myB/TsacNsY/eJsK5cKzr2EKUz1yCK35oYy8QYyogWn2cqDkg9UzgP2j7OVfprkS3e2ikp8U0ZoRvXZ0YBudQ5gdUeXhWf3C0/J0Z5UsV8xWAIn0I/5devEliJd1aRBcOBKDWHOz2WsPLc42kRXnn+9pcA1uFg2EkQEkr9KJuq41Vi4tfNgz507+D+019DLeIcoVKbpFntjEPRBIP+R/v7yY4tpE3GKRd5Bk6FPu8FI0+dM+LvOHohDW/o4p6iJ9hDZ0K4mq5Eu5pNtxPTWvXtBGCFz6i0dBJoPeDJrnR2H2uMpNPRiDGgP1bBM0/Cd9OtpeT0tpL1tlzbsXtFhM2BYowi9nAuE9L/JD1aYNye83PfY3FVw5LipW4MA6AHBldC7Hse30n8W5UUs+BQDxIwE3KBMobc2LBLq2nV/OcNe9uybAowVmApqbjZYgDdfOgDWjGywrHw==;yWzwjSSWGCv8eY/o0Aeh9Q=="
 ---
