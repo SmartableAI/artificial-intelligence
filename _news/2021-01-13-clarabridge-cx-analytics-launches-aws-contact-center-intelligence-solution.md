@@ -39,20 +39,6 @@ related:
         width: 560
         height: 300
         isCached: true
-  - title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
-    excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
-    publishedDateTime: 2021-01-12T21:38:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 56
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Avaya expands AI-powered contact centre functionalities with AWS"
     excerpt: "Avaya expanded its artificial intelligence (AI)-powered customer experience functionalities for Avaya OneCloud CCaaS customers, through an extended relationship with Amazon Web Services (AWS). As an AWS Partner offering AWS Contact Center Intelligence (CCI) products,"
     publishedDateTime: 2021-01-13T10:02:00Z

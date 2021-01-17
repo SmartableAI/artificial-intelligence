@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/best-robots-at-ces-2
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
 type: article
 quality: 98
-heat: 228
+heat: 208
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The best robot vacuums of CES 2021"
-    excerpt: "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year."
-    publishedDateTime: 2021-01-12T21:39:00Z
-    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
   - title: "The best new robot vacuums of CES 2021"
     excerpt: "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year."
     publishedDateTime: 2021-01-14T13:39:00Z
@@ -125,20 +114,6 @@ related:
       - url: "https://www.aljazeera.com/wp-content/uploads/2021/01/MOFLIN-image_2.jpg?resize=1200%2C630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "CES 2021: AR Glasses, AI Chips and Automated Astronomy"
-    excerpt: "From smart telescopes to computational storage, digital health to endpoint AI, CES 2021 had it all—proving that an all-digital show needn’t get in the way of showcasing technological innovation."
-    publishedDateTime: 2021-01-12T21:09:00Z
-    webUrl: "https://www.arm.com/blogs/blueprint/ces-2021"
-    type: article
-    provider:
-      name: ARM architecture
-      domain: arm.com
-    quality: 54
-    images:
-      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2021/01/lenovo_thinkreality.jpg"
-        width: 1940
-        height: 980
         isCached: true
   - title: "CES 2021: A closer look at artificial intelligence"
     excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."

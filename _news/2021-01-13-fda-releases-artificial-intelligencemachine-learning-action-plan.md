@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-m
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
     images:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan132021at40448PM.jpg"
         width: 770
-        height: 400
-        isCached: true
-  - title: "FDA releases plan to advance oversight of medical AI software"
-    excerpt: "Food and Drug Administration released for comment its first plan for advancing oversight of medical software based on artificial intelligence and machine learning."
-    publishedDateTime: 2021-01-12T22:44:00Z
-    webUrl: "https://www.aha.org/news/headline/2021-01-12-fda-releases-plan-advance-oversight-medical-ai-software"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 39
-    images:
-      - url: "https://www.aha.org/sites/default/files/2018-07/FDA-guidance.jpg"
-        width: 900
         height: 400
         isCached: true
   - title: "Heavy Construction Process to be Measured by Space-based Machine Automated Recognition"

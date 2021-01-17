@@ -121,17 +121,6 @@ related:
         width: 1823
         height: 1140
         isCached: true
-  - title: "Baker promotes facial recognition technology after Capitol riot"
-    excerpt: "After insisting the state’s police reform bill not ban facial recognition, Gov. Charlie Baker said the technology is important after last"
-    publishedDateTime: 2021-01-12T22:06:00Z
-    webUrl: "https://whdh.com/news/baker-promotes-facial-recognition-technology-after-capitol-riot/"
-    ampWebUrl: "https://whdh.com/news/baker-promotes-facial-recognition-technology-after-capitol-riot/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/baker-promotes-facial-recognition-technology-after-capitol-riot/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 39
   - title: "L.A. Police Face New Limits on Facial Recognition Tech"
     excerpt: "The new policy bans LAPD from using any other facial recognition technology beyond that used by the Los Angeles County Sheriff’s Department system. It also sets up oversight requiring LAPD to collect data on how the system is being used and whether it’s effective."
     publishedDateTime: 2021-01-13T23:33:00Z

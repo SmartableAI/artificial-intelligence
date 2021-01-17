@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2021-01-15"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Asset Management APAC Market (2020 to 2026) - Industry Analysis and Forecast - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific AI In Asset Management Market is expected to witness market growth of 44% CAGR during the forecast period (2020-2026). From the past few years, financial institut"
+    publishedDateTime: 2021-01-14T06:48:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-investment-management-d53744c8ae134ea8839dbdc874cc9b17"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
   - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
     excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."
     publishedDateTime: 2021-01-14T06:44:00Z

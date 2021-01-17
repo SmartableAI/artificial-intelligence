@@ -25,6 +25,22 @@ images:
     height: 225
     isCached: true
 
+related:
+  - title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
+    excerpt: "GenkiTek, a spinoff company from Taiwan’s Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
+    publishedDateTime: 2021-01-13T06:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-spin-offs-4c80eaf470485367a9a93d5829aca98b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "BhpeCp/mQyRhK/wiyhzm0hPxsCL384ATUEljSVJk4w8VY9U/Je+7QdzGZTMyVWf7rai9sOnBNfsfz1i/jNkMR9s+6GD4XOOYroAJCl23xA14OLmrxOUw9CITIgLlVs2xyX3vm0lhLJ1Yr8KgnBxYpOokAQdIYG4VY/Kv1KPQbG4D2ZVOYqi0/wnhMk0BMJCD/B6LNSLEh8R1zeYKcmltCdAhkL6KB8tqZlppPYQqArwo0flrYF8Y6igV5l4wSIaYghJ5obyA4dQTlB73Nv+rxiLYCXmFwGje6ULlBYSMPtSvEvYTShr9gkLCUcMBJQnvD7XjWxAzVThufvFt1cfLD0qMxYh9hH8vCeiNwObjUgg=;Z18Q/ZOO5/2X4/UEi+ys3w=="
 ---
 

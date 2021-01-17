@@ -80,15 +80,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Fintech Provider Quavo, Inc. Announces Minimum Livable Wage Policy for Employees"
-    excerpt: "Last week, financial technology provider Quavo, Inc. stated that it is instituting a minimum livable wage for all full-time empl"
-    publishedDateTime: 2021-01-12T21:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-provider-quavo-inc-announces-minimum-livable-wage-policy-for-employees-1029961623"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "Fintech Apps that Made the Grade Amidst the Pandemic"
     excerpt: "As people stayed in the safety of their homes for weeks and months on end, we needed to alter our daily routines and use technology more than ever. From Zoom meetings and food deliveries to online sho"
     publishedDateTime: 2021-01-15T11:02:00Z

@@ -67,20 +67,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "FDA releases plan to advance oversight of medical AI software"
-    excerpt: "Food and Drug Administration released for comment its first plan for advancing oversight of medical software based on artificial intelligence and machine learning."
-    publishedDateTime: 2021-01-12T22:44:00Z
-    webUrl: "https://www.aha.org/news/headline/2021-01-12-fda-releases-plan-advance-oversight-medical-ai-software"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 39
-    images:
-      - url: "https://www.aha.org/sites/default/files/2018-07/FDA-guidance.jpg"
-        width: 900
-        height: 400
-        isCached: true
 
 secured: "CMJywI/wd8mj4LYL0tIJL+v0cgus6QOa+rcxK+PE8NrMTrOnuIUfxy+ihMlle/f5Y+Mk3PVPqdHyROhgfB6UpmuuWu3stB8Pva7BhFwNCcHYfceecNBGISYeqf+KyBwHE9a2OBrNFfxLSCoXYNjpj2+ThDifquhtJJTi3rRfmaW8ssTBfN6RcPLD/bXbZ8rh/2b8x1SqmyWDr/sC8mQlgWNQzD0SsvVy7IEy+Pm/1aUt87JmJ8LIk8TG5Rb0lvArTtJSmyOzL4gkgUySq6BVEqjUYmfMt5A/80sypt3J7n+s+SDJjKqb94z/l1YaszRyrB5T1R8x+52ck/bHBAwnXjJ6h8gyXYOvlAmsqmUIY5fmsob0xKJUBY0IACunirr6DimzEthRMbIJoWCIENN8H9VMKXfa9AkvsVogZKsxiq8VmB5GL7Wpa9E89L3nlfiRh47JdldjC7snjo2vy5YCRK9eWSTsizHkcDKxeqZPYXG9ZLJ3l7l/XT8k0ybyXL7Z4KrixHVfkHiFaWPf6YuHZA==;7sSy7OhDnM9vE65BmDb5tA=="
 ---

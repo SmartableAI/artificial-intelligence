@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digitaltrends.com/home/best-smart-home-tech-ces-2021/?am
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-smart-home-tech-ces-2021/?amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Digital Trends
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "The best tech of CES 2021"
-    excerpt: "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,"
-    publishedDateTime: 2021-01-12T21:46:00Z
-    webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 54
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112170333-ces-lead-image-super-169.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Techlicious Top Picks of CES 2021 Awards"
     excerpt: "Our team of tech industry veterans scoured this year's virtual exhibit halls and picked our absolute favorite products for the Techlicious Top Picks of CES 2021 Awards."
     publishedDateTime: 2021-01-14T15:07:00Z

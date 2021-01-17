@@ -53,20 +53,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "FDA releases plan to advance oversight of medical AI software"
-    excerpt: "Food and Drug Administration released for comment its first plan for advancing oversight of medical software based on artificial intelligence and machine learning."
-    publishedDateTime: 2021-01-12T22:44:00Z
-    webUrl: "https://www.aha.org/news/headline/2021-01-12-fda-releases-plan-advance-oversight-medical-ai-software"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 39
-    images:
-      - url: "https://www.aha.org/sites/default/files/2018-07/FDA-guidance.jpg"
-        width: 900
-        height: 400
-        isCached: true
   - title: "Heavy Construction Process to be Measured by Space-based Machine Automated Recognition"
     excerpt: "The Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence, announced a multi-year research effort called the Space-based Machine Automated Recognition Technique (SMART) program."
     publishedDateTime: 2021-01-13T06:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watc
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Fintech Provider Quavo, Inc. Announces Minimum Livable Wage Policy for Employees"
-    excerpt: "Last week, financial technology provider Quavo, Inc. stated that it is instituting a minimum livable wage for all full-time empl"
-    publishedDateTime: 2021-01-12T21:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-provider-quavo-inc-announces-minimum-livable-wage-policy-for-employees-1029961623"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "Marc Levin Joins United Fintech as Partner & COO"
     excerpt: "Marc Levin, former CEO of CFH Group, has joined United Fintech as Partner and Chief Operating Officer (COO). With responsibility for the operational and commercial aspects of United Fintech’s portfolio,"
     publishedDateTime: 2021-01-13T07:20:00Z

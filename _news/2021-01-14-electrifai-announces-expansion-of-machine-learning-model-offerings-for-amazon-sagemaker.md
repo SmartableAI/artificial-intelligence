@@ -2,17 +2,19 @@
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
 excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ..."
-publishedDateTime: 2021-01-14T01:02:00Z
-originalUrl: "https://www.thaipr.net/en/it_en/3018538"
-webUrl: "https://www.thaipr.net/en/it_en/3018538"
+publishedDateTime: 2021-01-14T05:32:00Z
+originalUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/"
+webUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/"
+ampWebUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
+cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
 type: article
-quality: 63
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: thaipr.net
-  domain: thaipr.net
+  name: SUAS News
+  domain: suasnews.com
 
 topics:
   - AWS AI
@@ -20,9 +22,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2021/01/unnamed-2-2-e1610706551699-768x432.jpg"
-    width: 768
-    height: 432
+  - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1"
+    width: 2560
+    height: 1340
     isCached: true
 
 related:
@@ -83,6 +85,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "9s6hnaBogzUyPfNm0YzRbVrCGY6I59H0kO0rFda8WKkCwPhpHjBTK8RAPLlOY//BAv4kG8dQF4u3QlRfoV02zC7gZgnQtpKJYHG7POBbZfjOCG/mH4y46AyRC/X/DEW00zWr8u/29NohO8woSDgigQfLgNLS3Znqruv48UvtvtC8k4+IFpQq8Q5MdsKMsV1w9KMxU7P5YPVxgF0O2g2k0oIQOujYl0yf7z6+nouQqRn6hJOdCPPI7SrhNVg3XhfkDVuyBl1E0Emws5coMP7XrsN36vpvLdk5PNjaSlNAT3xoOJbJ6LfVOiHV4MX6Z5rHdW0+5b8uBkBtq8Db1rdrY3/LsLdhbmAxgRZ2xt793rQ=;U4MY+hmJaME5BsqcObWRgg=="
+secured: "1W5Vjn1PxoyGWYEaNayfII6am7+qtnr7l1YGMFWd/mR6z0Hb0Pa5C1IAxU48F7nO9gfsssvksr4W+eEFTrVd3peGQreytUYK02QItkeWsu/LedwGWhId2dwfZc6/zYtTKzSI86r374nUnJQuee4EiuBRMXDYOjIziGpql2bx0SJutw1garDR79YyD4mxjqLTCEUi/l8dNGMmOQkvjslRBNSM6rSjTktYZQIW0OFwb3SgwTYsYVY3qX9Pk2TwekgkG1du9nyP/65QSENlHdmGugmiLUTEvcHZCDkXxLJATQBzq0W3ad7q5oFNJX/ShF4pOnB3WAZvj6nUwpaPVLU6fm6yldGVokySRdAtJnpGeIE=;PLQJOkicXtu5ELwVOzBrHQ=="
 ---
 

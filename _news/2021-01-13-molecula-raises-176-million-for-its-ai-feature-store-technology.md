@@ -47,19 +47,14 @@ related:
         height: 600
         isCached: true
   - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
-    excerpt: "AUSTIN, Jan. 13, 2021 (GLOBE NEWSWIRE) -- Molecula, an enterprise feature store built for machine-scale analytics and AI, today announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by ..."
-    publishedDateTime: 2021-01-17T06:58:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-science-north-america-artificial-intelligence-texas-dfab16732772b38fea4838216bde378d"
+    excerpt: "Molecula, an enterprise feature store built for machine-scale analytics and AI, announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by Drive Capital,"
+    publishedDateTime: 2021-01-17T14:40:00Z
+    webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 6
 
 secured: "RrPF5eMr2gStb0/cjNftMYKXt1Eo5onK6lgzY9mNzBNO9S0OfTvS06Cd2ByiADS+v7WM0iLwDZjipq6kycQ8C8bJBtfsLMf0sQiuOtUqs47soo/bolXdTwO/kT9QkjB/y33EJO6c9bjfWC1A8PpYIWGZeUr3w/G8IN5PvTh8u2K2wzqanwclmoC0grzo8vM6TDyXuxjd88phVEy9ouLnYbqjiPBn1fexI8QQ1773gupNmAw+4RexHrbfUeu5aOG4BydBRb/wmWRATOqu3WFdb2zkDPsLzZJMJ913Bh48s54LCmElVccAA/CKQHnBD2yRdhbjQtJyUbE10nnDEHAvs5N0Wi6S8MqtRL5GP/DjH6/PDlbYxb+j9cp7HurhwIsRNX8/X98qfm5T0UuP+TTiHvAg/H7SNGiH5hySA+NGodMcQrh1MqlGS+hk6uDtuii9U9hVnImYprbQnP0f2NWxbGa7DJVqK93/E33LLUYmp5S9yw7mLOgoIuK8QZ8HFCVsWwtR8Vwg2Nx06T4GrSyIww==;wka/Hd3Iw7hjF+wUwgEXuA=="
 ---

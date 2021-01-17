@@ -36,20 +36,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "The best tech of CES 2021"
-    excerpt: "In order to find the best products from CES 2021, we met with manufacturers big and small for in-depth briefings, compared these gadgets to our top tested picks in terms of specs and features and, in some cases,"
-    publishedDateTime: 2021-01-12T21:46:00Z
-    webUrl: "https://www.cnn.com/2021/01/12/cnn-underscored/best-of-ces-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 54
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112170333-ces-lead-image-super-169.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "V/PZHLsXPkfPvG3RKR2os3RDzBnqVrfInMlqVBWOgrg6M96eAZBhJg8LSK3soi18xBRMSwBCDAb5B5jRPLelllotldrbtia2RgEhcV9SMnFQc8EkcmdpqUuPhS6RESoVE0UhvLJ+rS0vrBgL0wGA3vsOo8p7LomRxMk2RWBCVraRqzMw5ANvd81EanFiHAR4jiTDib8Nm8+VN4TkVF3J0HAxOXiribP+6mVg2WDBaeu6NVPdMoJF1NmbLOvtPNg1tlOjPJ8D0aDrYqd4PZGOwxjEpRXM5z8BQ+G2R/yUhEOcYkf30Ow7qiydfuG83Oeu+D2jPyixtkYIy4ry/35pzAGtwP5QTxhGoRZsll9bHaTMVbyTJcI5ezEYeJA0VJYJA2xyASUQ2liWMJTl6wR+2bZNaM98TJ4l7+rKhoj4GAyAq/ThRwHVlI8IcKQDVPI1trfuTIN54h6fC2oa10ZeoS2AVAaddRZMlG/0d3aD2oznfrB3v37O65+NUqhSug/wn2jv/pls0Z1HEGRDTdhUvQ==;DQyuqVb30WR9zCIDTPlmGA=="
 ---

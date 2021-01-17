@@ -24,22 +24,6 @@ images:
     height: 427
     isCached: true
 
-related:
-  - title: "Gowin Semiconductor Embeds 64Mb HyperRAM DRAM from Winbond for AI Edge Computing Solution"
-    excerpt: "Winbond’s HyperRAM product offers low pin count, low power consumption, and high data bandwidth in miniature KGD form factor."
-    publishedDateTime: 2021-01-12T21:33:00Z
-    webUrl: "https://www.embedded-computing.com/news/gowin-semiconductor-embeds-64mb-hyperram-dram-from-winbond-for-space-and-power-savings-in-ai-edge-computing-solution"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 30
-    images:
-      - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmZmUxMDE2YzNjYzMuanBnJnZlcnNpb249MDAwMCZzaWc9MzhkYTMxY2Y0ZGQ0MmJhMjE5NmY2OGVmODA4NGRmNjA%253D"
-        width: 500
-        height: 272
-        isCached: true
-
 secured: "2jndT4Melr2XSYOZEjlgI0Rqj86x317HGlZfzCO0etDv2Vstpqfh9GyjjUvueEat7zx403zSh033OwZha10ZFgpZZef+adqySlk2hzyegXK3C5dGROUUwQ9ul2mNrZifM+siRE6vaDlvi/mq67RisJ5nUMcJJpmu+WKWwMF57ABPjZWYkQyPEyddKO1UmBLU51Nekxg8hckC/qlzgzZX3hHu69rkl9/TJNr7fa2fUfV0amn59imOxJ48hP1x0uRfg+8xmj8if7fNncYzgqggXWJM85ag7zIwMxUKirfIscqReoKaiHOicpAeY0Dp/FBObEJuc679jkOYYOLr8Y36PKTL1bxh28TfILOGuoBdJJXpFq3tnhCY/NPTP1xGyyar8CX9uhqYP1EcjE2gMuzj9fULF6ZmiOx1hvrEVld0pm/eOPgUBeNZfAlj+lP/uJ8b1SR7D6AfTqP0mVzBkRW6WMw+IJP03or0tg4N1QVsr8bcSUNxKlnC9vWR5PiYzo6nMXDYCoO0Vr3yFE7qAtn6ZA==;Yx+DjS7FteYUPvkliz+AEA=="
 ---
 
