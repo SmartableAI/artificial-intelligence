@@ -1,66 +1,26 @@
 ---
 category: news
 title: "New AI Platform Provides Proxy Voting Data from Broadridge"
-excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy"
-publishedDateTime: 2021-01-12T12:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-platform-provides-proxy-voting-data-from-broadridge-1029959155"
+excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data,"
+publishedDateTime: 2021-01-12T12:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
+webUrl: "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "New AI platform provides proxy voting data from Broadridge"
-    excerpt: "Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data, a first-of-its-kind comprehensive platform providing an open data-feed of proxy voting data and analytics."
-    publishedDateTime: 2021-01-12T17:31:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85675/new-ai-platform-provides-proxy-voting-data-from-broadridge"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-    excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
-    publishedDateTime: 2021-01-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
-        width: 2697
-        height: 1414
-        isCached: true
-  - title: "Broadridge partners with AI company Fligoo for predictive analytics"
-    excerpt: "We’re excited to leverage Broadridge’s extensive wealth management expertise, insights and data to develop software"
-    publishedDateTime: 2021-01-14T08:06:00Z
-    webUrl: "https://www.leaprate.com/forex/institutional/broadridge-partners-with-ai-company-fligoo-for-predictive-analytics/"
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 19
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "rRdcQtnndkbo9DBFBZ/zrUvp/qXcHx8uIrkGWbFtqHkXuWkNLCAG/cf4UvR2j84dW14CQ/LyF+vZDNwkvG30Tg2lIcnPTAA8GbECKQIvc1Y/vDgR4BbHwCiGQpHYFJoQrpREcFNTY5qLRZeXQ3ZLiAACSzxfNycn+Mv8clBKLlXp5XC70JDAvJq0hJ1+9ZezTPSKepu2StSWLqadtYoduR+BEn2DyezFfgV0xWWxZXQuJSiKoNNVp5xgEaEXzR6vtCk/IoRgMgoBIYPd2G4B4tHIRd48rUFebZsEwY4CiAiBHqiGCRImS+pYrhBjNFgVkgmw3d4c9cZuLFNFIk7lim+X0LCI5JvgFvdtdBKoTxM=;eWbOy2UQs3/dPp21w1GMSw=="
+secured: "JeXPyk50PbS69efjQ+fLfKfO1A36O2MketOs6h9OOcWsB0s3HhNf6uMwuKx94yPmvJBgXVYWZmnS0dJOi8tT79M0yY/ZaUoy+EQYF+qj0jtho5ce4/VPwENIRGcLcS1R63TyB3wOjmx0kKqtNX/mxS1GXCLHspWilj+rAKIGuAsI5oZ7jlEDqwVXewow9JQfis58bljOEXRQWiTXR7OzbPkBct30gWWmIXI09QXyRj5tb4fS71hkMA8KPNJ3NxMY4oGR4rsg3xE4FtuAnGRYY+JGyYg32sgU/n7Xau0c+X6B+dyP+mREqghjdPbRaPIii3X2mlyTWLt5w5Musy0hEnJb0eLlg2clxFfXsn3M+Ok=;aOhLb1loBv9H9YhILf8HOw=="
 ---
 

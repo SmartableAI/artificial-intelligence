@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-05-recycler-ai-maker-amp-robotics-raises-55m-in-series-b.md",
+      "title": "Recycler AI maker AMP Robotics raises $55M in Series B",
+      "excerpt": "AMP Robotics Corp. brought in $55 million in its second round of funding last week, including an undisclosed investment from Google’s venture capital group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/",
+      "originalUrl": "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailycamera.com/wp-content/uploads/migration/2016/0429/20160429_02dcbpretw-1.jpg?w=1024&h=670",
+          "width": 654,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/",
+      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/01/04/recycler-ai-maker-amp-robotics-raises-55m-in-series-b/amp/",
+      "publishedDateTime": "2021-01-04T14:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Camera",
+        "domain": "dailycamera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-of-animal-bondage-andre-nortons-iron-cage.md",
+      "title": "Of Animal Bondage: Andre Norton’s Iron Cage",
+      "excerpt": "She and her husband were colonists on a newly discovered world, and were captured and taken offworld to serve as mind-controlled slaves. But Rutee and Bron could not be controlled, and their young ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tor.com/2021/01/04/of-animal-bondage-andre-nortons-iron-cage/",
+      "originalUrl": "https://www.tor.com/2021/01/04/of-animal-bondage-andre-nortons-iron-cage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.tor.com/wp-content/uploads/2020/12/Iron-Cage-Norton.jpg?fit=300%2C+9999&crop=0%2C0%2C100%2C496px&quality=100&ssl=1",
+          "width": 300,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tor.com",
+        "domain": "tor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-how-some-companies-are-solving-the-issues-with-language-and-ai.md",
       "title": "How some companies are solving the issues with language and AI",
       "excerpt": "Verbally interfacing with AI requires detailed capabilities on the part of the AI software to be able to understand the spoken word. Here are some of the challenges and solutions involved.",
@@ -1108,110 +1194,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025.md",
-      "title": "Global Natural Language Processing (NLP) Market 2020 Demand, Industry Synopsis, Operational Efficiency and Market Capitalization by 2025",
-      "excerpt": "The statistical report titled Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2020-2025 has all the important market aspects penciled down in a understandable language format.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025-2021-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025-2021-01-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T22:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period.md",
-      "title": "Assistive Robotics Market Is Expected To Grow USD 11.2 Billion By 2024, At A CAGR Of 22.3% During The Forecast Period",
-      "excerpt": "One of the major driving factors for the assistive robotics market is the rising insurance coverage for medical exoskeletons and robotic surgeries. The assistive robotics market is expected to grow from USD 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-is-expected-to-grow-usd-112-billion-by-2024-at-a-cagr-of-223-during-the-forecast-period-2021-01-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T22:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

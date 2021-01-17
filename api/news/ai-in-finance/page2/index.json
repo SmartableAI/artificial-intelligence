@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-11-will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise.md",
+      "title": "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?",
+      "excerpt": "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/",
+      "originalUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd2cbb4abc4e6125bd76adf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/",
+      "publishedDateTime": "2020-12-11T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards.md",
+      "title": "QuantaVerse Tops Off 2020 Success with Notable List of Financial and Regulatory Technology Awards",
+      "excerpt": "QuantaVerse is Recognized by Two Coveted Industry Awards and Grabs a Spot on the Prestigious RegTech 100 List WAYNE, Pa. (PRWEB) QuantaVerse, which uses AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/p18743716/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/p18743716/quantaverse-tops-off-2020-success-with-notable-list-of-financial-and-regulatory-technology-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18743716",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18743716",
+      "publishedDateTime": "2020-12-10T17:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-octoml-announces-faster-machine-learning-model-inferencing-on-apples-new-m1-than-apples-core-ml-4-provides.md",
       "title": "OctoML Announces Faster Machine Learning Model Inferencing on Apple’s New M1 Than Apple’s Core ML 4 Provides",
       "excerpt": "OctoML, the MLOps automation company for superior model performance, portability and productivity, today demonstrated better model performance on Apple’s M1 chip than Apple’s core inferencing engine.",
@@ -1253,92 +1339,6 @@
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-this-fintech-and-blockchain-training-bundle-features-8-courses-for-40.md",
-      "title": "This fintech and blockchain training bundle features 8 courses for $40",
-      "excerpt": "With investments in blockchain tech growing, so will the job opportunities. This 8-course bundle can help. By ZDNet Academy | November 22, 2020 -- 13:00 GMT (05:00 PST) | Topic: Blockchain Blockchain could very well be the technology of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "publishedDateTime": "2020-11-22T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-this-fintech-and-blockchain-training-bundle-features-8-courses-for-40.md",
-      "title": "This fintech and blockchain training bundle features 8 courses for $40",
-      "excerpt": "FinTech School provides practical fintech training through online courses, covering topics ranging from AI to robo-advisors. With this bundle, you'll get full access to eight of FinTech School's courses, each of which is taught by practicing fintech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "originalUrl": "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "publishedDateTime": "2020-11-22T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

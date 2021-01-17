@@ -28,22 +28,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "VCs have poured $40 billion into self-driving-car startups. These 12 power-player firms have been the most aggressive dealmakers."
-    excerpt: "The race to develop self-driving cars has attracted a slew of investments from venture capitalists hoping to find the next breakout startup."
-    publishedDateTime: 2021-01-12T13:59:00Z
-    webUrl: "https://www.businessinsider.com/top-vc-firms-autonomous-vehicles-self-driving-car-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
-    images:
-      - url: "https://i.insider.com/5fd7d7b678a5740019a155ad?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
 secured: "fETufQT2HVfGY6gQDoHjk7Pv25gKSihFWLDl9fQHJcM4f4/o0+/PznjJTj+RRx0oRKH29btsupF0Zvkygp+uGkmncMo0wgIpIEPVvfFybAo+lXWD3mPL2I25d46I0/uFZFslSR5NsITyV8RzmkETM31+Oh4NwG2LFVQgvvU/ataPjlwXkr/riB4DGzV4x0Mc2VmEB+WmWK5MIB5eKJfQ+8WE1xlQ+QQ/VU6xlbK3vu4kxtIELrWoDMHFMdnhiYBwI8cS3Wy+Bwo/ZhjFOSM2EUmEtieT7YnhTHpl1WD1f/f0fJ4gg38a51YNspQlfpCS1s0dfZJCzaRgk6IjSh5fhvgrofhohIwHElwmJw2kA7TFfMeIyf5TXjx+CTZRIcjwc9DLo+gaAYsE35o3fvEMsVudPMArH8BBR6q7b1GqX5NS4tQcXs29eeJEdJ8e3Q3ZZN4yHA/cJB5qvbusoKcIuP7DpQiZ03gmJng7I0eaIBgd3WRv+4hhw2gQgarTt8r5hFjqusarOc1ztRWhQWDo+Q==;P9L2mlq7oArkFRMhb+hjEA=="
 ---
 

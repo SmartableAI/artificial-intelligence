@@ -64,15 +64,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
-    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-    publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
   - title: "Microsoft gives users control over their voice clips"
     excerpt: "Microsoft is rolling out updates to its user consent experience for voice data to give customers more meaningful control over whether their voice data is used to improve products, the company announced Friday. These updates let customers decide if people can listen to recordings of what they said while"
     publishedDateTime: 2021-01-15T17:00:17Z
@@ -113,20 +104,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/cortana-logo-microsoft.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "20 healthcare moves from Amazon, Google, Microsoft & Apple in 2020"
-    excerpt: "Amazon, Google, Microsoft and Apple all played a role in the pandemic response while forwarding their strategies in digital health. Here are 20 moves they made in 2020. 1. Amazon is rumored to be making plans to expand the Amazon Care program,"
-    publishedDateTime: 2021-01-12T14:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/20-healthcare-moves-from-amazon-google-microsoft-apple-in-2020.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 60
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
     excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"

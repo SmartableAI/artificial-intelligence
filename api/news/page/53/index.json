@@ -2,6 +2,92 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-12-02-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
+      "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
+      "excerpt": "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism's cloud-first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/blue-prism-intelligent-automation-now-available-in-aws-marketplace-301183474.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/blue-prism-intelligent-automation-now-available-in-aws-marketplace-301183474.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1346299/Blue_Prism_scaleatspeed_aws.jpg?p=facebook",
+          "width": 1198,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-24.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NYSEARCA:BOTZ) Shares Up 2.4%",
+      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NYSEARCA:BOTZ) shot up 2.4% during trading on Tuesday . The company traded as high as $32.46 and last traded at $32.40. 1,041,867 shares traded hands during mid-day trading,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html/amp",
+      "publishedDateTime": "2020-12-02T00:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success.md",
       "title": "Seoul Fintech Lab Online Meet-up in Luxembourg Ended in Success",
       "excerpt": "The online meet-up ' 10X Extension in Luxembourg ' held by the Seoul Fintech Lab on November 26 was ended in great success. This press release features multimedia. View the full release here:   (Graphic: Business Wire) The meet-up was organized for the purpose of business matching between the startups of the Seoul Fintech Lab that wish to enter the European market and investors and financiers in Europe.",
@@ -1127,111 +1213,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving.md",
-      "title": "AI still struggles to recognize hateful memes, but it’s slowly improving",
-      "excerpt": "The preliminary results of Facebook's Hateful Memes Challenge suggest that multimodal tasks pose a challenge for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/amp/",
-      "publishedDateTime": "2020-12-01T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down.md",
-      "title": "WaveOne aims to make video AI-native and turn streaming upside down",
-      "excerpt": "Video has worked the same way for a long, long time. And because of its unique qualities, video has been largely immune to the machine learning explosion upending industry after industry. WaveOne hopes to change that by taking the decades-old paradigm of video codecs and making them AI-powered —",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/waveone-header.jpg?w=1024",
-          "width": 1024,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
-      "publishedDateTime": "2020-12-01T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
       ]
     }
   ],

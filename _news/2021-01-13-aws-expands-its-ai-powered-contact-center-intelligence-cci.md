@@ -3,10 +3,10 @@ category: news
 title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
 excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
 publishedDateTime: 2021-01-12T21:38:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
+originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
+webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: destinationcrm.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AWS AI
+  - AI
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
@@ -39,6 +38,20 @@ related:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image"
         width: 560
         height: 300
+        isCached: true
+  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
+    excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
+    publishedDateTime: 2021-01-12T16:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
     excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
@@ -63,15 +76,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-    excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
-    publishedDateTime: 2021-01-12T16:12:00Z
-    webUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 23
   - title: "Cresta to Bring Real-Time Intelligence to Contact Centers with AWS Contact Center Intelligence Solutions"
     excerpt: "PRNewswire/ -- Cresta, the real-time intelligence platform for customer conversations, today announced its participation as a launch partner for the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions."
     publishedDateTime: 2021-01-13T06:57:00Z
@@ -110,6 +114,6 @@ related:
       domain: arnnet.com.au
     quality: 1
 
-secured: "GkQ+emqTygz3nUvU2X/vtGQCQ6OfJF5a4dy52iqhyRIVFbnORwT6F0YmqfVVmcuZVb1nbbV0fb4lf/BnSHpTTEud1kIMyE06ymrszu9d4PmWB5lMuBy7dh6x4LbTFkDF94lwNuP8WARDD+nuJYO0Q0C1pkS0j6/7odarCWAeHBiUfl8In9aa3n71TygTCI9aZH/rX5F60gYF9V31QlZuFYC+nHnphd5LIiiBG2tQ3z+j8UBvmxRhpM6sxs003DIGD6F/VoJ5gMs/sEuvifhUaSCCi7KGRbiNMtzfEamTBLpoY+SxCHQGLq+aHrqFeDfuj22nV+IXTHJIJA4+MdOe41Iyq3r43Cuj0ai0S+R6iL8=;TIZWt5XvA6vWhxijdzFAxA=="
+secured: "Fga8W0kkYQETdvXf+CP1gWxXSBoNGI4LKs3tBG6Zgosp254Xb0ur6ZxKXHRtKXi/5bRt2bkxKOAfINWwp5/14tY9dj8huoos6fGq7jh0RWiNdkb7X+CNsvo/yvfcYp7WL68QUs4MTS5jl13AjYsfQbAVrMoQnOMx/bqXBJ7jBDML739HmMflbFsqiig7XMBckDiACa1BRkZXQd8rm7NhPTZrG0NkuDeiRrxRww4ekRBi76txjZVnrUwtrT6PHTfSab+VQxBVY32W/ry6Ujqr0hy0f2WoMlUhxxBwUGwLgJXgLv0xFUcxqJAZPyMwFzZ4OSBHqsuBBxA32DbJrucisPYMRpM6apg81DFw+xMBbig=;SWnO6B0NakOtUDQoHIoTSg=="
 ---
 

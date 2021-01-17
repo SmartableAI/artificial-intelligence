@@ -45,22 +45,6 @@ related:
         width: 676
         height: 425
         isCached: true
-  - title: "Samsung Exynos 2100 SoC unveiled with 5nm technology, 40% faster Mali GPU, Integrated 5G Modem"
-    excerpt: "The new Exynos 2100 chipset will be used on the Samsung Galaxy S21, Galaxy S21+, and Galaxy S21 Ultra in several regions around the world, including India. So, without any further delays, let’s take a deep dive into the new Exynos 2100 chip."
-    publishedDateTime: 2021-01-12T14:39:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/samsung-announces-5nm-based-exynos-2100-soc-with-40-faster-mali-gpu-integrated-5g-modem-6337261.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/samsung-announces-5nm-based-exynos-2100-soc-with-40-faster-mali-gpu-integrated-5g-modem-6337261.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/samsung-announces-5nm-based-exynos-2100-soc-with-40-faster-mali-gpu-integrated-5g-modem-6337261.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 47
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/01/Exynos-2100-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
 
 secured: "85XJjswwP64+swX/1TPRbK3XYlXd7PbYe0h/Qe/syhjZ7NjsQabT0qqdE0mAArepGzKzGbrdGWWQUUCz0CRjFSu0mqRzX2zlWUs5fGzfc4znDgdlNzrTXzVuS/5CBFgQWGErYas/I7JG8GVkwyvwDSSB5qnT5Qv+iAKJRyzPb9iW2nqg59WX+zhfIE01OM8Q++BWP7Ttz7WHklGjgdiBPs/pBXI6bAV0pkDAdfPSt9oawzd8kxYoYrPPv2CuN0g/JPQUzFMgpZaPHxYuKu7YrhKToztgxgr7A4d+/7GQdp88iiGLunuxZHIY0nBVpRS61nnGkfOAGwdhYckacoyB46iDZZV+NG8U+XkJgI+0Xiw=;Hp/KNFafgobCB+L8t0PCBg=="
 ---

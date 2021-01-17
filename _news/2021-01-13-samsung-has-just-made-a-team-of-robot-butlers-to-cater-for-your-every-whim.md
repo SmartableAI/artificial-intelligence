@@ -55,15 +55,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "CES 2021: Meet JetBot, Samsung’s lidar-integrated robot vacuum"
-    excerpt: "Samsung Electronics introduced a new robot vacuum that better responds to its environment in the home or office by using artificial intelligence (AI) and lidar. The JetBot 90 AI+ uses a combination of sensors and AI to improve object recognition."
-    publishedDateTime: 2021-01-12T14:20:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16187/ces-2021-meet-jetbot-samsung-s-lidar-integrated-robot-vacuum"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 21
 
 secured: "88fs2lccpnEKLKIMp2nCajoJTSnE0zWYvwiyM2zGg36rbtufYVJgjw8Hx6s7DBoe93vkwXBC8sgeQ3xT+xqN9CUwx91gm19vC7ZO01QMwe0sftws+NyrDeJSDnFAwplxbwHYTeLtJgui40UVaDoOruUcNZLxm2lcn3ECaI7qtf3jeE+j/QeJNRD1Q+tg5cHGwls1/KBolkme1QEFxk6Wp2OvOUrYsGaHpvC9v48Uhe0GQ0nwHYrqnNNjF9KQf23VeaRbvaEZ0dN8/wCZiLT/TwVpOZkY+JprLtX1zz4tJYSUSvR4W2LwDMq11Et6fAUHBI/xcUBnlWRFKyx/zqg3wZCC5AAImzkwcxIg8AA8NBM=;uFFFCycAL/zWk0qGQfKwUw=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Natural language predicts viral escape"
+    excerpt: "Viral mutations that evade neutralizing antibodies, an occurrence known as viral escape, can occur and may impede the development of vaccines. To predict which mutations may lead to viral escape, Hie et al."
+    publishedDateTime: 2021-01-15T00:00:00Z
+    webUrl: "https://science.sciencemag.org/content/371/6526/248.17.full"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 24
+    images:
+      - url: "https://science.sciencemag.org/content/371/6526/F1.medium.gif"
+        width: 346
+        height: 440
+        isCached: true
 
 secured: "wJJq8wTbkQHEiYYuUfD2rKwYdquGbilNyWbMsj+FBoHj8XVG31/ln3h5gSFP/xxDYL0uOdCMdcMpXw2VMbDaq0b433OvZ3lsEIzgKNAe+MAuMeCumLPlzE4ClV3U+K9Zm6ukN9eWSZxStozQYzPVShb90R4IUYs2wpyyDYO+fBXfAV5c2fO+u+oAEnu7sd9Xqsy5Pwr5OvTDUYC/NJ7M0BpAsu2z4wkzYlBZ41Bv6hPcMsH/q1hYPxHumrwP++mbYRepcMMiTatpUFyFmDXISJVUU5AXsJNNYyvmBeaxsdsl9S4ztjBMhC6bA+A8VVNFGwYArgWJMSSVSr4MwKECEqFJ7HdEtIKNCWYOOJPCfprOna3i2VUybF43oCTJddmGNrr8L6pZzn2SSrbkOtG4/1kTQKmU6YF+SnE6l1zT3UQF/UGBT86KSgvoNV/VMnYS3SFKLPe5AZ1Tm+YSGuIA9jrOK5azqrJGcCDFt5MoM1S9CsOUJtXNraf5cVRh+o3RQvOGeRt5aabhCeD4bOFXAw==;80ecPvOcsdPj22A8/Pc8ig=="
 ---

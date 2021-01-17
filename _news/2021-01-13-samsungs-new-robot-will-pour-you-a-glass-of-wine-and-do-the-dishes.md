@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-hand
 cdnAmpWebUrl: "https://www-foodandwine-com.cdn.ampproject.org/c/s/www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy?amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 940
         height: 525
         isCached: true
-  - title: "CES 2021: Meet JetBot, Samsung’s lidar-integrated robot vacuum"
-    excerpt: "Samsung Electronics introduced a new robot vacuum that better responds to its environment in the home or office by using artificial intelligence (AI) and lidar. The JetBot 90 AI+ uses a combination of sensors and AI to improve object recognition."
-    publishedDateTime: 2021-01-12T14:20:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16187/ces-2021-meet-jetbot-samsung-s-lidar-integrated-robot-vacuum"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 21
 
 secured: "6EiYPlPLHNYDzn8d5sTmfN9jI97g6t0rAyiQ64RFsRE/CSi06dcWZ84XEWekzU100NOJML1FshAVsXhNAtzC54tODrbHcovYMtpu+asEA1saOq38u6rKubWJ7BLncSBWkpFaaqGqPNGxrvUmFFQLM68RBcJgSQetUjezcAHwFsOLoCCK5JtDeRYXN5S8nQA4r7qzr4F+sDy0bZRUCyNiDwdfq9re2QRXK+/1C2gO60WhCxwdiRIQyQrJvTBhxphg1QFCyitL4GeGBpyqIEQveJHO+ppbP7PGvkTs/nAlgg3dZ4a7DJ8j1SFxFjc0BaO6FpFF1XYt/cKVHGE5YVJgt5QUHvv0iWT5tkjkRqOKhMWS6Se5W4QlZ0+u1YBfTnPlNsDqrZlVIjHzsj54fj8/+VhOPkbJTaTJ2FVtgzO4+spGgLlpEklVcaPo4As5GUY/hKLuKWFin+Bqfw205qC/iC/aKjCKrebe0ppCtMyb8Ut//4p1yaZc39VdD2KVZ9dHWHCAQEzaaWACdsEByZ1KCg==;s7ZCvU3wqpucChWeOIFEog=="
 ---

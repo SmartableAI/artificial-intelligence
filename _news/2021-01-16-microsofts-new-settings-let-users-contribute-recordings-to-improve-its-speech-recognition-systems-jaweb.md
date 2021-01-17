@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
-    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-    publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
   - title: "Microsoft’s new settings let users contribute voice clips to improve its speech recognition systems"
     excerpt: "Microsoft's new settings allow users to contribute voice clips that'll be used to improve the company's AI speech technologies."
     publishedDateTime: 2021-01-15T17:21:00Z
@@ -123,20 +114,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/cortana-logo-microsoft.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "20 healthcare moves from Amazon, Google, Microsoft & Apple in 2020"
-    excerpt: "Amazon, Google, Microsoft and Apple all played a role in the pandemic response while forwarding their strategies in digital health. Here are 20 moves they made in 2020. 1. Amazon is rumored to be making plans to expand the Amazon Care program,"
-    publishedDateTime: 2021-01-12T14:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/20-healthcare-moves-from-amazon-google-microsoft-apple-in-2020.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 60
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "JcQDkrDR1N+fxpg6Q7Q3GbzqRiFZTF7BBlmU0+H4AVPMFzJKGZavqnFr/B1r8a5zu0MroSmRH2U5jlIKM8jHPjNTHVoBOULpd0DByHgTh7gUqvDpr9LRMlTMMjYg03Qu+ejk5FkxaMWH84Pz2fCXc5cBLnmZHcHZwGWWs86E634Phe6rP6km5DX20fuTRU5C6ArXFkhMqq8+oGdIIGZ4oVXn+XT3nlvbKtpNyZfwWj09ePAQF8yaFLCqvurlMttfQlTtnL0J4O2+qglMIbu8SlIAkT8l80PoWOH5J19PcLpv+RCrsJD/ZCYHNEaIjjWhhl+4plGcZF/RLQOyekNPZ83shDJgPtAr8woWAyRxURQIBVccDZ/Vy9KitlmIJtmONBxOcBLhd/X9sJTREGH3R+5Z68bsd7FIWCGo2l/nASdClpClvo7L5VcSKxqJSeu4W71z6e3GkD5h6Px55M87umHvs1KBqut5t0sw2oQXQAlYZsHO8WSJff2JhP2OLCby1L6hJ+hXRk9vq5SneDtn0w==;pdvwaFVV/rcrwOoCRgXfSA=="

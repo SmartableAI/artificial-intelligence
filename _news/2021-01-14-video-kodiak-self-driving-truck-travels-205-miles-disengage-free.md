@@ -7,7 +7,7 @@ originalUrl: "https://insights.globalspec.com/article/15767/video-kodiak-self-dr
 webUrl: "https://insights.globalspec.com/article/15767/video-kodiak-self-driving-truck-travels-205-miles-disengage-free"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Video: DeepRoute details its neural network engine for self-driving cars"
-    excerpt: "Chinese autonomous driving startup DeepRoute.ai has introduced its second-generation inference engine technology designed to accelerate the path to Level 4 self-driving cars. The DeepRoute-Engine, which debuted at CES 2021,"
-    publishedDateTime: 2021-01-12T14:09:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16188/video-deeproute-details-its-neural-network-engine-for-self-driving-cars"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 35
 
 secured: "qqGJ/6Pp18USc/4H+XXTeT38bkIk31l9AhaKLpA3vOuxjOEP3Zdp8kJG0j5U96Q+5OsP5Oz3ptZifY+64fFsOnzcB9j2ltG9bJG04+Q6L5hoRYchHD1NapAu1vmhNO6Ehj/VF4dxRaOS0flVGkm1JxWxYXIHvTZmp3e7Qi07GvCdq6KBuiB1+CQEGGF8g4d08LJLICnbf/COW7s7Zhx7iHGYd945B/Uxm9Owl1oI5vJJz09T0GdxSIFUQm7purBFF76ODKVM+53L4eaG/5hNycOOTZMDSjiiBdqOgnkfUs94g3VIX19KS8zE9vKHPBhVtcB4p5d44upW3/4a6eWpJrc2NLIH3iVnu+pJhAwEzoE=;3ReU99BFLnKH7xHbBO2Dag=="
 ---

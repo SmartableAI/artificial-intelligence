@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/roboflow-raises-2-1m-for-its-end-to-end-computer-vision-platform/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "M-Files raises $80 million for AI that automates enterprise information management"
-    excerpt: "Files raised $80 million for its AI that automates the process of organizing and tracking internal documents and data for enterprises."
-    publishedDateTime: 2021-01-12T14:56:00Z
-    webUrl: "https://venturebeat.com/2021/01/12/m-files-raises-80-million-for-ai-that-automates-enterprise-information-management/"
-    ampWebUrl: "https://venturebeat.com/2021/01/12/m-files-raises-80-million-for-ai-that-automates-enterprise-information-management/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/m-files-raises-80-million-for-ai-that-automates-enterprise-information-management/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/m-files-e1610461140239.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "XWvldcWCsJZvdmjSsxTQhSUP3prvyLWNEpzwi5+Na+IQGlfNvP9h2RAcQzScjfELuD9KisboV3JXBGhHba4CKZx9Tbee6HJoSmyPb92HjUhx0Q52kQfmc9/y7lD5IWN2P4PZ1pv/ZkPRQLdVP+GMZ09QWQT4lz0C7oq4edcCENIJz8snja855ObLMO+dwVv+eI7X37xn3Yk9l2qH66tNoMCGcULig34QzhRkmqYYHeAtldE9mZN1AV8UyqD2BJkcClJC23674Y4uyCDXxj+WSnFJSi5iwJPJpOVrP+2ho7WTIFIHiFhXT6zyfzqv7Yk+YmtlwRfF3of78pK6lS2u6IM7hJh2M5j9xuV/lBsBQYSZiOCh88i8CHDzqhjBagsol+y8l1TYSh7TYWLCCJrs/AY7g0qQIzoolICBjIvryN+0E93VmVOHecpGrhf8kUvlCb9fC3a2ssgRWtNfwq/OWJVXIGV/hhGdgmGgO6g1L4p6TtaTR9I0v2v4qWC3w8KW27ukcK+4I2OXQful2qJcvA==;zw0uvEFGnQxMb92RKnFjaA=="
 ---

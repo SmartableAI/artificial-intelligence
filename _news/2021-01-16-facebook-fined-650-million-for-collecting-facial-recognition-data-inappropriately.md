@@ -44,6 +44,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Entrepreneur wants to change how we shop using facial recognition"
+    excerpt: "Grand Rapids-based Iris Technology wants to use its technology to replace bar codes The system would use facial recognition software and computer vision technology to replace scanning, checkout Co-founder James Meeks intends to demonstrate the technology to large grocery retailers Some startups have modest goals: they just want to carve out a niche for themselves and make a profit on the margins."
+    publishedDateTime: 2021-01-17T05:04:00Z
+    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/entrepreneur-wants-change-how-we-shop-using-facial-recognition"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/James%20and%20David%20IRIS-main_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "zFXNTJU0w+Two1P9Z6230wgHBirQKnp6A8VgWc39HpfDJunsKw73MJnYeRtcPhWnDth8aqkneNwYmRn9l2ooYIZ6dss8JYP6yX3XSdbAUH6qKR9dihU0lgvowGIrXuOJY6s3uMfryH9+/rwmznOMQ8dw1teXOn1bDvZn1gRClbADsfHB7VHO8iypUS/6Oi2xj9dwJHS4e32/C+KxuxmMB3pIbPQ1Z7p5OJrpBiQf5LBXlKZKTT15HW+PHP53+eRN3kfQG8JzQT5A4Ot+qY942azSwKLbZ2nQV6E7ZcDiBt6naLM7Q5SsLWKX21PDr6qezcaEnykowA4VJdAYRuWShlo4j9+ibCTYtKBA2PmNdBg=;AxXcZ4bmGt3N+Sjv4RGpSg=="
 ---

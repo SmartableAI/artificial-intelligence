@@ -2,23 +2,28 @@
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
 excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
-publishedDateTime: 2021-01-12T16:12:00Z
-originalUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
-webUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+publishedDateTime: 2021-01-12T16:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
 type: article
-quality: 23
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AWS Goes Big with Contact Center Intelligence"
@@ -38,12 +43,12 @@ related:
   - title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
     excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
     publishedDateTime: 2021-01-12T21:38:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
     type: article
     provider:
       name: Destination CRM
       domain: destinationcrm.com
-    quality: 56
+    quality: 54
     images:
       - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
         width: 1200
@@ -110,6 +115,6 @@ related:
       domain: arnnet.com.au
     quality: 1
 
-secured: "PQKs4lkOvLYmXbm7mCgfOn6PAlyWb5+hppW1l00BBMxEh8HLn29vGDYqn4w0lsxn2xxs3F5bl/CWIviQ4u8vi60wulCvE+tlscCKRGRlUcRhbJtmAkVw7n+iLeLupwF+Sn14kiQG9c42nvEk3W3kIgRpBXDM+JXnccI+mHfYyt3pQl88P7IVyrY0zmIrCDY4at6AgM58+eSG1VMJ/wguBAFBKOGlM4d90vU6q8LKbyUKGkKuAitFERw0hP1tNgTXIMdZmpFj6RPLJ3QYSBDbykmPrOClYCi57HTzo2GOlVxKsjEeb2g/rAtj/r+XQ2lN57jbW+5EKuBuBJ1xrJSJKcprp9oG8Zuoq9MCBvGMgus=;/9Hjfxjp57W6tR4LDvPM6g=="
+secured: "5suASnYHkUkZQDK5l+VYC/f0+mqnacyM1RqCDL7mTEOlaVXADv5hpaT8LA2mAQjU59s+5lOF2dOmRvq5WKSD59hCLhxp5M84hTcMf/aHjZnYj6UE6SQ1rsK0SbGMAKW/UqcOCu6b2d8BO98JbML2Fs8Ml+p13q0nPbAjE1Odi0hSspO+5cK0ETCI5VZYV8nHkv/+IZXSHuXNH7+tma7h/agdaHZm+1jclB9yFhixHx8LygnTTE6Jj6r8/BOMISTabT8K/XDfTrh8b0JzjHkcM+ieChn6TVB/CHujeSwrOI99QzEcBlsWsbMJoE70+pD9VVinCiqrCYUl+P26AnByEc0hAlwctaKUs2T35GzmtCE=;1sRxKXW4djaaAOeXgvlvFg=="
 ---
 

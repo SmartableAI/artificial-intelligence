@@ -73,18 +73,18 @@ related:
         height: 1414
         isCached: true
   - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker,"
-    publishedDateTime: 2021-01-14T06:58:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-amazoncom-inc-north-america-new-jersey-5c70fa87dfac11c621e1e31094d0b116"
+    excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ..."
+    publishedDateTime: 2021-01-14T01:02:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3018538"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: thaipr.net
+      domain: thaipr.net
     quality: 63
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.thaipr.net/wp-content/uploads/2021/01/unnamed-2-2-e1610706551699-768x432.jpg"
+        width: 768
+        height: 432
         isCached: true
 
 secured: "RjS2K7VMD5lTO/Jq63wzFt/J1pUGyZmdL461seP1/DKn6X7NmFgJEk0ju3TiJXz6lqc/9ec+24967DgVnYlmsMRx3am6wQXregyq+nz9EkrfZmihgHjwkIe2CjZ6Mgn5ksP7K5s7ATbqzVL5auuH5vuQMPxwUYOQgXFmaySHot3jDhTAzZrda1vV34fKLjL1/lcDEPrWoB40w3zLFgmr8QScxpbqUlksGdhkjDy/TFSxh93PCmbd0E+pnFaYTQ0eUIHOsdl7ND6Z0DAJxwEEGX+bLM1eK6iOYebrvSknFVk7p95l20YRVb6vgTZTSPsH+Ygxa6429KjmeVN+9M40OF4dRPItDSDliBDvpO//POw=;iqFomCdC1lAJ1pBPLd9z7A=="

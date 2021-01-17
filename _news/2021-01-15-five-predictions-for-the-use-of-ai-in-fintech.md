@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/the-long-read/96/five-predictions-for-the
 webUrl: "https://www.finextra.com/the-long-read/96/five-predictions-for-the-use-of-ai-in-fintech"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,33 @@ images:
     isCached: true
 
 related:
+  - title: "2 Fintech IPOs to Watch"
+    excerpt: "Then, the pair take a closer look at fintech start-up SoFi, which is getting set to go public via a SPAC merger with Social Capital Hedosophia Holdings V (NYSE:IPOE). And last but not least, we discuss the recent correction in bitcoin and other cryptocurrencies,"
+    publishedDateTime: 2021-01-15T23:48:00Z
+    webUrl: "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+  - title: "BlackRock taps fintech startup to bolster ESG investing"
+    excerpt: "BlackRock will integrate Clarity AI’s data into the Aladdin tool as social and economic factors push investor appetite for ESG investing."
+    publishedDateTime: 2021-01-14T18:35:00Z
+    webUrl: "https://www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359"
+    ampWebUrl: "https://www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359/amp"
+    cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359/amp"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 44
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2020/04/Blackrock.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report"
     excerpt: "Insider Intelligence looks at the shifts in the broader environment that fintechs operate in, including key players, emerging technologies, funding patterns and regulatory trends."
     publishedDateTime: 2021-01-15T02:15:00Z
@@ -38,22 +65,6 @@ related:
       - url: "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "BisB Appoints a Judging Panel for the Fintech Competition ‘BisB Innovation Challenge’"
-    excerpt: "Bahrain Islamic Bank (BisB) recently announced the selection of its judging committee for the ‘BisB Innovation Challenge’ a Fintech Competition which is currently being run as part of the Bank’s partnership with the CBB Digital Lab “FinHub 973”,"
-    publishedDateTime: 2021-01-13T10:05:00Z
-    webUrl: "https://www.albawaba.com/business/pr/bisb-appoints-judging-panel-fintech-competition-‘bisb-innovation-challenge’-1404764"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/bisb-appoints-judging-panel-fintech-competition-%E2%80%98bisb-innovation-challenge%E2%80%99-1404764"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/bisb-appoints-judging-panel-fintech-competition-%E2%80%98bisb-innovation-challenge%E2%80%99-1404764"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 37
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/Chief%20Executive%20Officer%20of%20Bahrain%20Islamic%20Bank%2C%20Mr.%20Hassan%20Jarrar.jpg?itok=Bn80scnW"
-        width: 960
-        height: 540
         isCached: true
   - title: "Fintech Provider Quavo, Inc. Announces Minimum Livable Wage Policy for Employees"
     excerpt: "Last week, financial technology provider Quavo, Inc. stated that it is instituting a minimum livable wage for all full-time empl"

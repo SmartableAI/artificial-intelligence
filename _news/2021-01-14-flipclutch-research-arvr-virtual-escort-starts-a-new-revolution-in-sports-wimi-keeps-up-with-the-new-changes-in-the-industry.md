@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/flipc
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/flipclutch-research-ar-vr-virtual-escort-starts-a-new-revolution-in-sports-wimi-keeps-up/article_7de35324-f89a-50e4-995c-6f0748cb9fb1.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Flipclutch Research: Global AR advertising revenue is huge, WIMI intends to seize this business opportunity"
-    excerpt: "According to the prediction of research institutes, the global AR advertising market will reach 8.8 billion U.S. dollars in 2023, and"
-    publishedDateTime: 2021-01-12T14:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/flipclutch-research-global-ar-advertising-revenue-is-huge-wimi-intends-to-seize-this-business-opportunity-301206504.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 6
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "u4/asXdMFz1IPUZ9cAfdKFJpw43ZasoGdmJww02j2dpXZWYXywNSzOK47S9k9gZbJG1Yj6e+Ty/YBhUwtcRv2KMAOf+hpSj4sbKAscpaYf8cO4x+BJ6+9rNG6VY7MbYa7Jt15Lf58u7RwBpjuocm4wdDvA5NZMKh+tRGq4GtZgSQetwuuw71l4A1nyzJ9ArCT5B4m3EJVfb+N4e2DK6UoIkNtAnd9oYFKNbkMyB9rUq/xKP82Li8OAixPkqN8hoxBcbM/OB20P1v4CuR9aHGlZqcsb3ERJkAsUvCCVbLv3CbRatoY1vhn81L3cUOVs7v//HmNpxfbNkcW6DoCmJm5khpBBVq9IBZrve2hnqbCWo=;MyWXzIWj2F6Ahn33lD0NIg=="
 ---

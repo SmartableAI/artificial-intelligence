@@ -36,15 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "CES 2021 Taiwanese startup STO's indoor map bridges the gap of Google Maps"
-    excerpt: "PRNewswire/ -- Spatial Topology Technology (STO) is the only indoor map platform embedded with both indoor positioning and"
-    publishedDateTime: 2021-01-12T14:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-sto-s-indoor-map-bridges-the-gap-of-google-maps-1029960237"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "CES 2021 Taiwanese biotech startup mProbe CADx develops AI health analysis platform"
     excerpt: "PRNewswire/ -- mProbe Taiwan is a subsidiary biotechnology company of mProbe Inc, committed to promoting human health and"
     publishedDateTime: 2021-01-12T19:07:00Z
@@ -54,15 +45,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "CES 2021 Taiwanese Startup Heroic Faith Integrates AI to Revolutionize the Stethoscope"
-    excerpt: "Heroic Faith launched an AI-powered respiratory identification system that recognizes inhalation and exhalation and distinguishes abnormal breathing sounds. Introducing artificial intelligence to critical patient monitoring reduces risks and human factors in emergency care settings such as ICUs,"
-    publishedDateTime: 2021-01-12T14:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-heroic-faith-integrates-ai-to-revolutionize-the-stethoscope-1029960266"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "CES 2021 Taiwanese startup VoiceTube found the ultimate equation for efficient English learning"
     excerpt: "Launched in 2013, VoiceTube successfully created the biggest English language learning platform in Asia with over four million registered users. Users can not only find English videos with subtitles but can also engage themselves in a specially designed learning system for targeting learnings."
     publishedDateTime: 2021-01-13T02:04:00Z

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-13-salesforce-researchers-release-framework-to-test-nlp-model-robustness.md",
+      "title": "Salesforce researchers release framework to test NLP model robustness",
+      "excerpt": "Researchers at Salesforce released a framework called Robustness Gym to benchmark the robustness of NLP models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
+      "publishedDateTime": "2021-01-13T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers.md",
       "title": "Telehealth startup NeuroFlow raises $20 million to expand its network of care providers",
       "excerpt": "NeuroFlow, a telehealth startup developing a platform to support clinicians, has raised $20 million in venture capital.",
@@ -113,7 +165,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -439,49 +491,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-faster-gpu.md",
-      "title": "Samsung Exynos 2100 5nm SoC unveiled with up to 40% faster GPU",
-      "excerpt": "The new mobile processor is the company’s first premium 5G-integrated mobile processor built on the 5-nanometer (nm) extreme ultra-violet (EUV) process node.",
-      "sourceUrl": null,
-      "webUrl": "https://www.themobileindian.com/news/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575",
-      "originalUrl": "https://www.themobileindian.com/news/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/01/34575/Exynos-2100_425_735.jpg",
-          "width": 676,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575",
-      "cdnAmpWebUrl": "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575",
-      "publishedDateTime": "2021-01-12T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile",
-        "domain": "themobileindian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-ces-2021-day-two-highlights-bold-ideas-and-lots-of-bending-oleds.md",
       "title": "CES 2021 day two highlights: Bold ideas and lots of bending OLEDs",
       "excerpt": "Looking for the latest CES 2021 news? We've got you covered. In this daily roundup, we'll bring you all the biggest developments of the day.",
@@ -669,7 +678,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -965,7 +974,7 @@
       "originalUrl": "https://www.foodandwine.com/news/samsung-wine-pouring-robot-bot-handy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {

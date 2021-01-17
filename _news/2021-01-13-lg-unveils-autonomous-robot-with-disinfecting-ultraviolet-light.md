@@ -150,31 +150,6 @@ related:
         width: 1940
         height: 980
         isCached: true
-  - title: "Deep learning AI chip introduced at CES 2021"
-    excerpt: "While much of the world’s current artificial intelligence (AI) is software based, the market for hardware-based AI is accelerating quickly with several announcements for hardware AI semiconductors being announced last year."
-    publishedDateTime: 2021-01-12T13:39:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16183/deep-learning-ai-chip-introduced-at-ces-2021"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 51
-  - title: "CES 2021: Bosch Puts Its Faith in AI and Connectivity for the Protection of People and the Environment"
-    excerpt: "To improve people’s health and to protect our planet, Bosch is counting on AIoT, taking advantage of the possibilities offered by data, artificial intelligence, and the internet of things to benefit people and the environment with technical solutions."
-    publishedDateTime: 2021-01-12T14:30:00Z
-    webUrl: "https://www.albawaba.com/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ces-2021-bosch-puts-its-faith-ai-and-connectivity-protection-people-and-environment"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 43
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/bosch_softwareentwicklung_4.jpg?itok=-_RdG45m"
-        width: 960
-        height: 539
-        isCached: true
   - title: "CES 2021: A closer look at artificial intelligence"
     excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."
     publishedDateTime: 2021-01-14T00:22:00Z

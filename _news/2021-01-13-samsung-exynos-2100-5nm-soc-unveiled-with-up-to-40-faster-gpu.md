@@ -9,8 +9,8 @@ ampWebUrl: "https://www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-so
 cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/samsung-exynos-2100-5nm-soc-unveiled-with-up-to-40-per-cent-faster-gpu-34575"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Mobile
@@ -40,22 +40,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/Exynos-2100-featured.jpg"
         width: 566
         height: 339
-        isCached: true
-  - title: "Samsung Exynos 2100 SoC unveiled with 5nm technology, 40% faster Mali GPU, Integrated 5G Modem"
-    excerpt: "The new Exynos 2100 chipset will be used on the Samsung Galaxy S21, Galaxy S21+, and Galaxy S21 Ultra in several regions around the world, including India. So, without any further delays, let’s take a deep dive into the new Exynos 2100 chip."
-    publishedDateTime: 2021-01-12T14:39:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/samsung-announces-5nm-based-exynos-2100-soc-with-40-faster-mali-gpu-integrated-5g-modem-6337261.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/samsung-announces-5nm-based-exynos-2100-soc-with-40-faster-mali-gpu-integrated-5g-modem-6337261.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/samsung-announces-5nm-based-exynos-2100-soc-with-40-faster-mali-gpu-integrated-5g-modem-6337261.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 47
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/01/Exynos-2100-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
         isCached: true
 
 secured: "gIWb0JP7JyvlIBsRQYaOduAfBtvDub97zVN1lYV+W3mKc5RKVbBsfOPp8tqgzzGj20iCnFYfsos4KkBKqMo99wcYt2lHUhAPxQI9rayTojwNnlZcZ366PEh+faJI98HW70Ngz8M/FBuiVMOzjP6Jg+lBx6Ox0Ip0e43lnrXFMuyVw17m7K3MZmfd5Y1TiM/vfZZTL/mYbhyi+FC7gr4KzCjeTk6tib9PU59RMd2vmegekMMxAgvkEkWwoGyOFT+JtP5EdcFpIQ6ujvPEr1mbAzkHcmNZ49Cv9AHUyvVEXamzva57DZAmbVCrPJ2HJR8Y+lXVZsUlPaR0CqU1gPFnjB0JKg60PmdnhapTPgjIL08rkbNZQmnzN4eKhvHpCCoOhAsY4mmn02KCXgxIWyTK8/djh8ZZRTcx6LgBFv/PkKeIsrAuhegoPTfg11+Rf7UAe/sMPxS4KV2VKokhvCBOtVK8obnujafp7caw8ACpRsuH1m8TmemQmoV+OgjiQq41pb4seeeeZvRb3QI4zyDOuA==;aKPx9BHXT3sCjXASP6xx3A=="

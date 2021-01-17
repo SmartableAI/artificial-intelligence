@@ -2,6 +2,93 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-12-14-global-head-of-ibm-watson-advertising-dubs-2021-the-year-of-evolution.md",
+      "title": "Global Head Of IBM Watson Advertising Dubs 2021 The Year Of Evolution",
+      "excerpt": "Sheri Bachstein, global head of IBM Watson Advertising and The Weather Company, believes 2021 will see more advanced technologies such as AI and AR come into play across a variety of platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/358623/global-head-of-ibm-watson-advertising-dubs-2021-th.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/358623/global-head-of-ibm-watson-advertising-dubs-2021-th.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/12/14/sheribachstein-ibmwatson-600_wOWljPW.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-an-introduction-to-tensorflow-lite-development-on-android.md",
+      "title": "An introduction to TensorFlow Lite development on Android",
+      "excerpt": "What is deepfake? Should you be worried? Deepfake videos are all the hype online, but they are also the source of public fear. What's this all about? Let's tell you. Edgar CervantesNovember 4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/tag/ai/",
+      "originalUrl": "https://www.androidauthority.com/tag/ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-nationwide-selects-aws-as-its-preferred-cloud-provider.md",
       "title": "Nationwide selects AWS as its preferred cloud provider",
       "excerpt": "Nationwide, a Fortune 100 insurance and financial services provider, is expanding its relationship with AWS and has selected AWS as its preferred cloud provider. Nationwide is leveraging AWS’ services, including analytics, database, machine learning ...",
@@ -1129,109 +1216,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more.md",
-      "title": "Bringing data back to the future: Forecasting supply chains with savvy data usage, deep learning, and more",
-      "excerpt": "Historical insights are routinely deployed to determine market forecasts, but how does one predict shifts in consumer behavior related to an unprecedented modern plague? The answer: Clever data use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/12/11/0eea8d4a-e8e0-40b4-8444-869d5c3d7aa3/resize/1200x/0b738c38ac165efdd7d7439d63bbc47a/monsitj-3.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "publishedDateTime": "2020-12-11T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-teachable-ai-will-help-alexa-users-set-up-preferences.md",
-      "title": "Teachable AI will help Alexa users set up preferences",
-      "excerpt": "Amazon says that in the coming months, Alexa customers will be able to 'teach' the virtual assistant their preferences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/",
-      "originalUrl": "https://venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/amp/",
-      "publishedDateTime": "2020-12-11T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

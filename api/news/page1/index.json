@@ -305,6 +305,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-16-2-fintech-ipos-to-watch.md",
+      "title": "2 Fintech IPOs to Watch",
+      "excerpt": "Then, the pair take a closer look at fintech start-up SoFi, which is getting set to go public via a SPAC merger with Social Capital Hedosophia Holdings V (NYSE:IPOE). And last but not least, we discuss the recent correction in bitcoin and other cryptocurrencies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/",
+      "publishedDateTime": "2021-01-15T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-upstart-ceo-on-using-artificial-intelligence-to-modernizing-lending.md",
       "title": "Upstart CEO on using artificial intelligence to modernizing lending",
       "excerpt": "Upstart CEO Dave Girouard joined Jim Cramer on \"Mad Money\" to explain how the online marketplace seeks to transform bank lending by matching borrowers with lenders.",
@@ -1201,57 +1244,6 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-oqton-raises-40-million-to-apply-ai-to-additive-manufacturing.md",
-      "title": "Oqton raises $40 million to apply AI to additive manufacturing",
-      "excerpt": "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/",
-      "originalUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/fb-homepage-pic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/",
-      "publishedDateTime": "2021-01-15T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
