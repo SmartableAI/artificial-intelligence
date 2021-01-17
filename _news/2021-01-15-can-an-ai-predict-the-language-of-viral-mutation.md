@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg"

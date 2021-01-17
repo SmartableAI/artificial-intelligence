@@ -6,9 +6,6 @@ publishedDateTime: 2021-01-12T11:10:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790"
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security-1029958790"
 type: article
-quality: 48
-heat: -1
-published: false
 
 provider:
   name: Business Insider
@@ -23,53 +20,6 @@ topics:
   - AI
   - AI in Security
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-related:
-  - title: "AI set to replace humans in cybersecurity by 2030, says Trend Micro"
-    excerpt: "Trend Micro predicts that cybercriminals will look to home networks as a critical launch pad to compromising corporate IT and IoT networks."
-    publishedDateTime: 2021-01-15T11:27:00Z
-    webUrl: "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-  - title: "Name a better duo: Artificial intelligence and cybersecurity"
-    excerpt: "Artificial Intelligence (AI) has become increasingly popular over the last few years and has dramatically benefited industries, including healthcare, education, marketing, e-commerce, and cybersecurity."
-    publishedDateTime: 2021-01-15T08:30:00Z
-    webUrl: "https://www.cuinsight.com/name-a-better-duo-artificial-intelligence-and-cybersecurity.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 41
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2020/07/bigstock-D-Rendering-Of-Human-Brain-O-150112583-e1596111178657.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Fast, fused and deep: CES sheds new light on 5G, AI, cybersecurity and digital currencies"
-    excerpt: "At the start of a new year, the Consumer Electronics Show offers an opportunity to gaze at technology’s distant horizon and take measure of what may be coming over the ridge. Foremost among these was a general recognition that the pandemic has dramatically accelerated digital transformation across the globe more rapidly than anyone could have envisioned at CES in Las Vegas one year ago."
-    publishedDateTime: 2021-01-14T23:54:00Z
-    webUrl: "https://siliconangle.com/2021/01/14/fast-fused-deep-ces-sheds-new-light-5g-ai-cybersecurity-digital-currencies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Vestberg-CES-2021.jpg"
-        width: 839
-        height: 443
-        isCached: true
-
-secured: "TJErY5HY7F5N4vGjwLEV6DMJA0+y9j7GZk61x7lcmYSL6uKmlCeWaaac/vkKoVCMGo+aC96+YJ9GZYw48o4l50thbbmZOhSHjGQRhGmSGMilQXluOST3C3btRz1OI2XKDZ7y9PS+VgqrulnFUVNtM692p6kfuLEHt1l8PycRYtdSfMulYwz35Kz4SCgKJjX6AeOETi1GX7uLSzuKCsftooMV8klN9qRank/9fkBWa1zhdiKjWWZI5qqqL6uwJknR1l5e4AEtw8PKUinUz9/5zAzO+L7dLvvtZOVz8POVvriVymbBNK2W7jkzesyGZRPq9dA1x8dnIlz2J/0JORqSv1yhScIrWOEdk2gS4OqwN9U=;nWXW2js3YFaPEYgz2nHAbg=="
+secured: "7NaQ1tzG32BQoYRHwEuBOZbsgHhmwZgOzHUty3vAKUpfWQqRqorzbRIzxr28TGgDB9+orY1V9fpTNCe2ZPBJuEmjogyVcmiFKo8r3lt4iZxqJG0WQ3JNYnzOxzbuSf0VETpe2T/y17Hh0LKe2HtGKDEjEf8jzw6j6zdiNyAGFXdTqTNGdZvaBBEwJ+vY6gUPeFhe4q/rwBBhlIKVsvHnMnvICW1SiuKisjB9fU9MXxEpetPJt+bO75BJsei6pUr6/JnI0fPRrviyaCkvSzflT1zH0ab6YckjqqJbYuOrUTR5AS1BSwYu140RnM/DDUWfKT2p9kL9ze8in0Zj6P1jbB3B6qJ1cjdNzlu2ge3eWM8=;VhbmxD39NF4kTrCuFt3N+Q=="
 ---
 
