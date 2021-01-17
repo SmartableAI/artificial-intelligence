@@ -2,6 +2,153 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-01-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
+      "title": "How Apple’s self-driving car plans might transform the company itself",
+      "excerpt": "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
+      "originalUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/apple1mt.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
+      "publishedDateTime": "2020-12-31T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-tecate-bids-2020-good-riddance-uses-computer-vision-to-do-it.md",
+      "title": "Tecate Bids 2020 Good Riddance, Uses Computer Vision To Do It",
+      "excerpt": "Mirriad’s AI and computer vision technology inserts products and signage formats in content after it is produced. The technology allows brands to contextually target the ad across platforms and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/359134/tecate-music-video-bids-2020-good-riddance-ties-i.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/359134/tecate-music-video-bids-2020-good-riddance-ties-i.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/01/04/screen-shot-2020-12-31-at-35121-pm_9PQ7Eko.png",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-31T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-tesla-sweetens-new-ev-purchase-with-full-self-driving-trial-tossed-in-for-free.md",
+      "title": "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free",
+      "excerpt": "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "publishedDateTime": "2020-12-31T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-new-teslas-get-free-trial-of-full-self-driving-option-but-theres-a-catch.md",
       "title": "New Teslas Get Free Trial of Full Self-Driving Option, but There's a Catch",
       "excerpt": "Well, now you've got a new incentive to make your own magic happen: three free months of the company's questionably named Full Self-Driving Capability feature, as decreed on Twitter by Elon Musk ...",
@@ -1010,145 +1157,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-mobile-speech-recognition-to-revolutionize-mobile-marketing-gigaom.md",
-      "title": "Mobile speech recognition to revolutionize mobile marketing: GigaOm",
-      "excerpt": "While today's mobile devices are only beginning to embrace speech-enabled technologies, speech recognition is triggering the next revolution in mobile user experience, according to new research from GigaOM Pro and immr. We will see an extraordinary shift ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/3710.html?referrer_site=www.mobilemarketer.com",
-      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/3710.html?referrer_site=www.mobilemarketer.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketingdive.com/user_media/pressrelease/company_logos/20210107163821413/logo2x.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-30T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketing Dive",
-        "domain": "marketingdive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-assistive-robotics-market-by-mobility-product-type-applications-and-geography-global-forecast-to-2024.md",
-      "title": "Assistive Robotics Market by Mobility, Product Type, Applications, and Geography - Global Forecast to 2024",
-      "excerpt": "The assistive robotics market is expected to grow from USD 4.1 billion in 2019 to USD 11.2 billion by 2024, at a CAGR of 22.3% during the forecast period. The assistive robotics market is expected to grow from USD 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/assistive-robotics-market-by-mobility-product-type-applications-and-geography---global-forecast-to-2024-2020-12-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-30T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-ai-and-robot-run-farms-are-transforming-agriculture.md",
-      "title": "AI and robot-run farms are transforming agriculture",
-      "excerpt": "Ag-tech startup Plenty's vertical farm produces 400 times more food per acre than a flat farm with employed robots and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
-      "originalUrl": "https://techwireasia.com/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/plenty-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
-      "publishedDateTime": "2020-12-30T18:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

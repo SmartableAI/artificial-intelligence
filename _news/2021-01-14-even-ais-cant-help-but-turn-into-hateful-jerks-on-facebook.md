@@ -73,20 +73,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Facebook AI Residency Program 2021 Is Now Open"
-    excerpt: "Facebook AI has recently announced that applications are now open for its Artificial Intelligence (AI) Residency Program, till 31st January 2021. This one-year research training position has been designed to give candidates hands-on experience with artificial intelligence research while working in Facebook AI."
-    publishedDateTime: 2021-01-13T05:16:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-residency-program-2021-is-now-open/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Facebook-AI-Residency-Program-For-2021-Is-Now-Open.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "rX1O+PI2GUOQqE2UTRKV0tGb3Km9TjoaNrbnMj7k/OjvbdjpTec3hIAb3k7EkRhxvTln8sjDmky+zCT8r5G1UXpwZxr9YXW7HcpaHMQAbDyF9XUZonxGmRAWGhmSdYpKl7HxHeCljIzZ1AQz+dG1tSw+kEIb4fZEj0BZrUZCW00YiROKctn92qHW95rYa91ZmVNPcKVW2VZJcBMEsSklg+5YoCrgSBsNGb63nNy/cRwEw7KKa8OWjixR65g1hI59gU0smL1Xc2ChSQLgi6kBNQ5yGhgSsTNO8VFf1mKUpMSSd8KFIxkuhB5g3q5jgxRqEuhO5e9m//A1nGWd8x81/12hnV7Zh+denCy1Ll7spFOpYe40hF8tNWjra3GbZHtoIsF1SSO+V7xOBjCea8DBuLXkiwiEteb713AoOp4VHio9TYoOxBshEq9tLRc+0mO+2YMamDG8PdNHuy0PM4hRA2qhlj5iA+SoRfsH3TfmD4gE7pbbQMeW6ahfw/NjHzPVQJQ6sREFRSbuoP5mOADyGQ==;AFGrjuakI9mBCBBuYW/G+Q=="
 ---

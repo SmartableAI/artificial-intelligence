@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What happens when AI has an overactive imagination?"
-    excerpt: "An overactive imagination can sometimes make us see things that are not really there. Now it seems artificial intelligence can have one too. Google researcher Alex Mordvintsev decided to develop this idea and turn the concept into art."
-    publishedDateTime: 2021-01-13T06:41:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/technology-55574903?curator=TechREDEF"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093xfx4.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Natural language predicts viral escape"
     excerpt: "Viral mutations that evade neutralizing antibodies, an occurrence known as viral escape, can occur and may impede the development of vaccines. To predict which mutations may lead to viral escape, Hie et al."
     publishedDateTime: 2021-01-15T00:00:00Z

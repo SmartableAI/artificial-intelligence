@@ -120,17 +120,6 @@ related:
       name: KDFW
       domain: fox4news.com
     quality: 41
-  - title: "CES 2021: Bosch turns to AI for a healthy and sustainable future"
-    excerpt: "Bosch doubles down on AI and connectivity to develop intelligent, climate-friendly solutions for health, living, industry, and mobility"
-    publishedDateTime: 2021-01-13T06:55:00Z
-    webUrl: "https://www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future"
-    ampWebUrl: "https://www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 39
   - title: "CES 2021: AI steps into 3D foot scanning"
     excerpt: "Foot scanning technology and orthotics leader Aetrex Worldwide this week showcased the next generation of the company’s 3D foot scanner, Albert 2, at CES 2021. Albert 2 combines computer vision, machine learning,"
     publishedDateTime: 2021-01-14T08:08:00Z

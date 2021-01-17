@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "What happens when AI has an overactive imagination?"
-    excerpt: "An overactive imagination can sometimes make us see things that are not really there. Now it seems artificial intelligence can have one too. Google researcher Alex Mordvintsev decided to develop this idea and turn the concept into art."
-    publishedDateTime: 2021-01-13T06:41:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/technology-55574903?curator=TechREDEF"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093xfx4.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "GS8DLSTNkw33nPxyMg9ELfVkz4jbDCI8hpRlzOswHPTe55SbkQSa7nuDChvMR40VbymduRA8Zmom+GSvNHmD13hkKxVCXYcM77AYjk/6pCP1ZDRvSiS7joJf7aJ6KRygBtyRmXYRxPgOhbFqOvg9i75l64Z0OvMNq59aDj49VA05uf7hG6rcnrFrc7uu4QfDmW+0EoRq9Dp+qTd7kO4mmxb0hURE4mWbbrXQJ733pyNx/EBsS6m4bJ3LQwTh6Eg247Td4JvGgStX4/AYsh0P77Y9EgJY/uYmNeRSSiyFP1rbXVRjMuqeQh9qb0VWn/M6RzagKaIYbre3vw6sTrNj7cH/Hgxhz3PGeT52AjL3YLU=;wXpbgArhyPjt6UHJYsMzew=="
 ---

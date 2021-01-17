@@ -165,7 +165,7 @@
       "originalUrl": "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -719,6 +719,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-13-fda-releases-action-plan-for-ai-machine-learning-medical-software.md",
+      "title": "FDA Releases Action Plan for AI, Machine Learning Medical Software",
+      "excerpt": "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software",
+      "originalUrl": "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-gm-unveils-a-futuristic-self-driving-cadillac-that-can-fly.md",
       "title": "GM unveils a futuristic self driving Cadillac that can fly",
       "excerpt": "GM (General Motors) unveiled a new futuristic self driving car. This was a new Cadillac imagined by the automobile maker, which is even capable of flying and can carry a passenger through the skies. According to a Reuters report,",
@@ -1181,58 +1224,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
-      "title": "Job Screening Service Halts Facial Analysis of Applicants",
-      "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "originalUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ffcea25072d3ec215c55753/master/pass/hirevue-1210924894.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "publishedDateTime": "2021-01-12T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

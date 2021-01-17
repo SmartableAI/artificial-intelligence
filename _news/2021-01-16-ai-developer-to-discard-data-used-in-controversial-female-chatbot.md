@@ -35,22 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
-  - title: "Controversial chatbot leaves lessons on AI use ethics"
-    excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use."
-    publishedDateTime: 2021-01-13T06:40:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/133_302390.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/0573ca44e97c4371b32c6db43eedfa53.jpg"
-        width: 640
-        height: 453
-        isCached: true
   - title: "AI developer to discard data used in controversial 'female' chatbot"
     excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the artificial intelligence (AI) platform amid mounting criticism over its data collection process and hate speech."
     publishedDateTime: 2021-01-15T06:59:00Z

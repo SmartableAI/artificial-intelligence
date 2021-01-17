@@ -57,34 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in Machine Vision Market Size, Top Countries Research Trends, Manufacturers, Detailed Analysis and Forecasts 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Deep Learning in Machine Vision Market\" report provides an in-depth market evaluation by highlighting information on various aspects covering global drivers,"
-    publishedDateTime: 2021-01-13T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-size-top-countries-research-trends-manufacturers-detailed-analysis-and-forecasts-2026-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2021-01-13T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Size, Share 2021 Global Industry Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
     excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
     publishedDateTime: 2021-01-14T05:44:00Z

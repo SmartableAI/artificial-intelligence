@@ -197,19 +197,19 @@
     {
       "path": "_news/2021-01-12-thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021.md",
       "title": "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021",
-      "excerpt": "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution 4.5 at CES 2021, from Jan.",
+      "excerpt": "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021/article_d2c408a0-8d0b-5b57-bfc4-ad10b41d9240.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021/article_d2c408a0-8d0b-5b57-bfc4-ad10b41d9240.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-301205896.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021-301205896.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -222,8 +222,8 @@
       "publishedDateTime": "2021-01-11T21:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -780,20 +780,20 @@
     },
     {
       "path": "_news/2021-01-05-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70.md",
-      "title": "Microsoft Azure helps Irctc chatbot boost user experience by 70%",
-      "excerpt": "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent.",
+      "title": "Microsoft Azure helps IRCTC chatbot boost user experience by 70%",
+      "excerpt": "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered chatbot.",
       "sourceUrl": null,
-      "webUrl": "https://www.imdb.com/news/ni63147427/",
-      "originalUrl": "https://www.imdb.com/news/ni63147427/",
+      "webUrl": "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png",
-          "width": 1000,
-          "height": 1000,
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/11/microsoft-1604214907.jpg",
+          "width": 1199,
+          "height": 674,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -801,13 +801,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T05:15:00-08:00",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70-676250",
+      "publishedDateTime": "2021-01-05T07:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IMDb",
-        "domain": "imdb.com",
+        "name": "India TV",
+        "domain": "indiatvnews.com",
         "images": null,
         "publishers": null,
         "authors": null

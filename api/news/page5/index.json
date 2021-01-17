@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
+      "title": "Job Screening Service Halts Facial Analysis of Applicants",
+      "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
+      "originalUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ffcea25072d3ec215c55753/master/pass/hirevue-1210924894.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
+      "publishedDateTime": "2021-01-12T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-ces-liveblog-laptops-robovacs-and-lab-grown-breast-milk.md",
       "title": "CES Liveblog: Laptops, Robovacs, and Lab-Grown Breast Milk",
       "excerpt": "The consumer tech show is virtual this year, and the WIRED Gear crew is watching all the Zooms to bring you up-to-the-minute highlights of news from CES.",
@@ -58,8 +110,8 @@
       "title": "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)",
       "excerpt": "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers.",
       "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx",
-      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx",
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -92,8 +144,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1128,58 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
-      "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
-      "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
-      "originalUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Deep-learning-concept-whitening.jpg?w=1200&strip=all",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
-      "publishedDateTime": "2021-01-12T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

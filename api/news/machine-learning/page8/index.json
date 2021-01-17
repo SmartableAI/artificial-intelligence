@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-20-deep-learning-helps-robots-grasp-and-move-objects-with-ease.md",
+      "title": "Deep learning helps robots grasp and move objects with ease",
+      "excerpt": "Researchers have created new artificial intelligence software that gives robots the speed and skill to grasp and smoothly move objects, making it feasible for them to soon assist humans in warehouse environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201118141827.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201118141827.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-a-deep-learning-toolkit-gives-java-developers-a-jumpstart.md",
       "title": "A Deep Learning Toolkit Gives Java Developers a Jumpstart",
       "excerpt": "Deep Java Library (DJL), is an open-source library created by Amazon to develop machine learning (ML) and deep learning (DL) models natively in Java while simplifying the use of deep learning ...",

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-15-after-737-max-debacle-former-boeing-ceo-makes-a-comeback-at-monarch-self-driving-tractor-venture.md",
+      "title": "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture",
+      "excerpt": "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
+      "originalUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
+      "publishedDateTime": "2020-12-14T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-autonomous-vehicles-take-another-big-leap.md",
       "title": "Autonomous Vehicles Take Another Big Leap",
       "excerpt": "On Monday, the Amazon-owned Zoox is unveiling an electric autonomous vehicle as part of what will likely be an aggressive attempt by the company to make robo-taxis a thing. That effort has had a rocky start for Zoox — as well as for Google,",
@@ -1394,58 +1446,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-elon-musk-makes-clear-his-stance-on-self-driving-cars-ai-oversight-and-his-ad-for-mars.md",
-      "title": "Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'",
-      "excerpt": "In a recent interview, Musk discussed his thoughts on a self-driving car revolution, government oversight on AI, and his timeline to get into space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcd6a35eadd8400183df672?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "publishedDateTime": "2020-12-06T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -106,17 +106,6 @@ related:
       name: KDFW
       domain: fox4news.com
     quality: 41
-  - title: "CES 2021: Bosch turns to AI for a healthy and sustainable future"
-    excerpt: "Bosch doubles down on AI and connectivity to develop intelligent, climate-friendly solutions for health, living, industry, and mobility"
-    publishedDateTime: 2021-01-13T06:55:00Z
-    webUrl: "https://www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future"
-    ampWebUrl: "https://www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/95580-ces-2021-bosch-turns-to-ai-for-a-healthy-and-sustainable-future?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 39
   - title: "LG unveils autonomous robot with disinfecting ultraviolet light"
     excerpt: "LG has unveiled an autonomous robot with disinfecting ultraviolet light. The company says the newest addition to its CLOi range of robots are aimed at hotels, schools, offices, restaurants and"
     publishedDateTime: 2021-01-13T15:20:00Z

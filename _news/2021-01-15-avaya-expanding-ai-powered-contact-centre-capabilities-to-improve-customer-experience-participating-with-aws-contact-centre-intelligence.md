@@ -33,20 +33,6 @@ related:
         width: 560
         height: 300
         isCached: true
-  - title: "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution"
-    excerpt: "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the world’s top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),"
-    publishedDateTime: 2021-01-13T06:48:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-79f9d1d533c146dfb3f18a412be7b521"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Avaya expands AI-powered contact centre functionalities with AWS"
     excerpt: "Avaya expanded its artificial intelligence (AI)-powered customer experience functionalities for Avaya OneCloud CCaaS customers, through an extended relationship with Amazon Web Services (AWS). As an AWS Partner offering AWS Contact Center Intelligence (CCI) products,"
     publishedDateTime: 2021-01-13T10:02:00Z
@@ -56,20 +42,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "Cresta to Bring Real-Time Intelligence to Contact Centers with AWS Contact Center Intelligence Solutions"
-    excerpt: "PRNewswire/ -- Cresta, the real-time intelligence platform for customer conversations, today announced its participation as a launch partner for the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions."
-    publishedDateTime: 2021-01-13T06:57:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-07a11d28771afaad2dc708a07e156c53"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "1uw3HWWj95k0xkzt5K4OaP7/FmkfUPxRvUyKQmeLH2MPGXbVtRz8Z1Jx6YAf/VKvxoU5BusUXv4mVwV+05/QgATGOEacAKy3CCxHVqnaBIIjNU5GW+BprXy3wD+EFcjvDBSWIYDbgplV3N3kNhi6BV8WqWfBGbXYoxkO/95wmFPjPUCsfbnf9y17d0ZNxwuJUAaXGCgM+t+oHaEQzEmJztmM1mnaq5LNKaQ5jdkQiFe6WwwY3UXA60vC3wrvixAQfvF9FTKRsstIUUwKlB3qCu+N/JG5eziFXjhq9YfykQfNJgwOsNTgx8jiPJu6jPcYtkqQt6HKyRYVXk8QOfgOJFtU4klTOp8vOFFTz0H7qkA=;sRlNG4FspSSN/CErplZtqA=="
 ---

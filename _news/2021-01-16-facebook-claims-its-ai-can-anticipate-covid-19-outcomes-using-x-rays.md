@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-antici
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.adweek.com/wp-content/uploads/2020/12/IBM_PE_011520_HP-640x360.png"
         width: 640
         height: 360
-        isCached: true
-  - title: "Facebook AI Residency Program 2021 Is Now Open"
-    excerpt: "Facebook AI has recently announced that applications are now open for its Artificial Intelligence (AI) Residency Program, till 31st January 2021. This one-year research training position has been designed to give candidates hands-on experience with artificial intelligence research while working in Facebook AI."
-    publishedDateTime: 2021-01-13T05:16:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-residency-program-2021-is-now-open/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Facebook-AI-Residency-Program-For-2021-Is-Now-Open.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "cCQuvzHGmTgqraZ1S+3d75cqXZElUaoFXndOzKbFfOjTbSFF3fWIP6xP1S8wOizJXwJmXlG1UguGVRo0eX8bvL2gHsbeyCGEJacNnP2rnJuVenY+lOhwbz7EanO3Cwq1I5kLsxXrCpgUIAYzjGfLchJZxg5wUqkdnFLQ6A02lTXx3rsUvU7c8KgIdysgIbKx+0l9QhD379bI60YLqhQ0lrx8rAZfipZgBu7OIxmFNzg+O5qaiV/vqOaMA06L84X8WmiLjNkolwVpWTBZ7XdoEWErHjU2XX0cjQV948mcAlIpK6bGKL0Lu9t1pScLd/7uZqcTOncrhRGw0tacthAu6KT7yuIu+SNNACK7HIMUy0KJsrvpL8g+EGhdO5XBCnCbib1fxLSzJtmMuvZq16ngW7l7l2iSR8mPMEmH/657uGxbc8WrZMEcClrzIq2d04CU9LLFXq75UN/LcBYdFpd6lswX3Asn4WIis9i0c1FThm498tc4B8ZtdXqZYYjP86J6W4b48gGgagkPz5AOBCMzsQ==;vBkhO8NQkPsmIa+tNS3AUA=="

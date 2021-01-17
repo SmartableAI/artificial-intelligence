@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FDA Releases Artificial Intelligence/Machine Learning Action Plan"
-    excerpt: "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software."
-    publishedDateTime: 2021-01-13T06:59:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "FDA Releases Action Plan for AI, Machine Learning Medical Software"
     excerpt: "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach."
     publishedDateTime: 2021-01-13T09:30:00Z
@@ -53,20 +39,17 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Heavy Construction Process to be Measured by Space-based Machine Automated Recognition"
-    excerpt: "The Intelligence Advanced Research Projects Activity (IARPA), within the Office of the Director of National Intelligence, announced a multi-year research effort called the Space-based Machine Automated Recognition Technique (SMART) program."
-    publishedDateTime: 2021-01-13T06:32:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21220872/heavy-construction-process-to-be-measured-by-spacebased-machine-automated-recognition"
+  - title: "Metrics AI secures FDA clearance for platform"
+    excerpt: "A local medical imaging startup has received FDA clearance for its flagship imaging analysis platform. AI Metrics previously received FDA clearance and CE mark clearance for its Liver Surface Nodularity (LSN) software,"
+    publishedDateTime: 2021-01-13T17:35:00Z
+    webUrl: "https://www.bizjournals.com/birmingham/news/2021/01/13/metrics-ai-secures-fda-clearance-for-platform.html"
+    ampWebUrl: "https://www.bizjournals.com/birmingham/news/2021/01/13/metrics-ai-secures-fda-clearance-for-platform.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/birmingham/news/2021/01/13/metrics-ai-secures-fda-clearance-for-platform.amp.html"
     type: article
     provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 16
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/01/16x9/blacksky_on_demand_1.5ffdf547154a5.5ffdf5a323ba4.png?auto=format&fit=max&w=1200"
-        width: 1000
-        height: 562
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
 
 secured: "EAhcZyYPCmsTySFK+4zOtYwKhmcM1IdoWSwC61/I8FFB9OoIkYHQk6SypMdGq0CPNycN8xiBss/0K5LZWlOyYR+HjzHc3yM+SpiEVQgKP7m2QzR/OSx2jHZCU/NmrVIb8DuAim6m8c01cfFqhm6jplwTiB1bzXG3LV3XqDVgcn13Z4qZoYT/W3x54wsE9MlBO7+pgDpwZtgu+ovcLwcyDm6RY6EOwiHmgX31bW/2fk5e+TtqsN/qp2mLuyMIHuTbQwv9IuNLKqWGL5eK+QymjX1ZLW7qRLbVva7BQvy5t+zWvADT0vQDwvIi876lySOBd54tfwY9W9Fq7cdxji3x8zrDts2Kp+PBPUQK0z7z3fA=;DyTlTjLtEraAH01wIeTFpw=="
 ---

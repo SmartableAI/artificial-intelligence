@@ -3,8 +3,8 @@ category: news
 title: "U.S. exempts self-driving vehicles from some crash standards"
 excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
 publishedDateTime: 2021-01-15T04:52:00Z
-originalUrl: "https://www.reuters.com/article/us-autos-autonomous-safety/u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSKBN29J29Z"
-webUrl: "https://www.reuters.com/article/us-autos-autonomous-safety/u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSKBN29J29Z"
+originalUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
 type: article
 quality: 54
 heat: -1
@@ -106,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IedkFsMNb1YhCZKCL/GmllGNa+mKVFwhJ926DvuJD2t96K9tdwjLC7GG6lgEjnYx809l/psvCP9R3m+aR2Kb3cvxy+6VYCbjbluT/jQ1J6Vsnh1HkEqHzlxBz0zlwvgdqNyZ9HZ0s3WNvyCWwjRi4yPCpclqu7MYZmrafjkVyNQekhMb7MA/VvduhCsUN4pqOe/zrIkRoYEVdlJVJoPc5Bfy6VyNLh85zWKUgesCfBzewIb42pWoNG2VMAnCQsUjcSs+WuQqxVpXcV0iagMmikUKdZsCpr8g4I5aHnMO9JghhJ47pnY4u1Sr9ZJHOddzx2zgBGtd/8YB3Gmn/pi4NEWhJr58StIey/c+9JNyceWoqV/NOSmtNeOQkU3rOawg4W29CGedd4ckR0BmYK89wziPuLVsFtCY4G5LbWNalygEuza9wiq01tVlNFhQhJYekLtXJDxP67hDtG2Ig8w69tWAf5O3Sh5Mojl9jL8TT9OrYa53eBfcy6YIiY25vXtExwutvJEimYjh/Ns3rSiL5w==;2qY2PYm5eyqcuoC+9zu5YQ=="
+secured: "VwruMqXlx9rgkWxs8nK0CQQPKxhmTCcCjq7eYhHP8StDvmyEyQ+UaiuY541Fa7glWvMOFjUkDIM8/Pv/itODnrAwlV+hA3iknhNaPeoG5NCjGn+pd4sovUbodXybQVmbbIWi7RgnqEX+H599asFwZ876Q7MKlVJv3vMfrjC9kgLCg85BMMrw99QmPZMp/8/NeZbf3TN7Madff7LQEwztt0WgdNYTy7+mwkKUu0Uro0/PTMTiy8rrz2/IvHHsd1xQjek8TgJlN/QPrPGX/g6eKqXs8yx/PWs7eB2tOqJXGdnorSaSEecZPNPPgfD79f7RIq4lgOky1rhbBdSobub0TZNGdm2vVI4+QI+gVEvqc2o=;efLgs88/zth1SNpM7qNbFg=="
 ---
 

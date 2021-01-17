@@ -2,6 +2,145 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-12-21-chinese-face-scanning-firm-cloudminds-rebrands-us-unit-after-blacklisting.md",
+      "title": "Chinese face-scanning firm CloudMinds rebrands U.S. unit after blacklisting",
+      "excerpt": "The U.S. unit of SoftBank-backed robotics startup CloudMinds has changed its name to distance itself from the blacklisted China-based firm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/chinese-face-scanning-firm-cloudminds-rebrands-u-s-unit-after-blacklisting/amp/",
+      "publishedDateTime": "2020-12-21T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-reliance-general-insurance-uses-microsoft-azure-ai-tech-for-rapid-claim-settlement.md",
+      "title": "Reliance General Insurance uses Microsoft Azure AI-tech for rapid claim settlement",
+      "excerpt": "Reliance General Insurance (RGI), a subsidiary of Reliance Capital, says it has accelerated acceleration to its vehicle claim process by introducing ‘Rapid’ equipped with image analytics powered by Microsoft Azure Cognitive Services and Azure Machine Learning capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996",
+      "originalUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/538aac69-cbc4-4d9c-b9f3-8c51de1935ee.JPG",
+          "width": 735,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1",
+      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-national/reliance-general-insurance-uses-microsoft-azure-aitech-for-rapid-claim-settlement-77996?amp=1",
+      "publishedDateTime": "2020-12-21T01:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autocar Pro",
+        "domain": "autocarpro.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-diving-into-japans-top-aiml-startups.md",
+      "title": "Diving into Japan’s top AI/ML startups",
+      "excerpt": "To learn more, we heard from three rising AI/ML startups in Japan at the forefront of the country’s AI/ML growth. The following responses have been edited for brevity and clarity. Umitron, founded by Ken Fujiwara,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups#!",
+      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-20T22:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-russian-army-tests-artificial-intelligence-equipped-target-robots.md",
       "title": "Russian Army Tests Artificial Intelligence Equipped Target Robots",
       "excerpt": "Artificial intelligence (AI) based mobile target robots that dodge shooters’ bullets have been tested for the first time in Patriot Park shooting range near Moscow. The AI-based robots are dressed as soldiers and carry dummy guns.",
@@ -986,142 +1125,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-element-ai-sold-for-230-million-as-founders-saw-value-mostly-wiped-out-document-reveals.md",
-      "title": "Element AI sold for $230-million as founders saw value mostly wiped out, document reveals",
-      "excerpt": "Tides turned fast for former domestic darling that just four years ago burst onto the tech scene promising to anchor a thriving domestic AI sector",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
-      "originalUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/Xe89nLDKykN61L6kb2S375e9ryQ=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/K5O5GVZWYJPNPDA6JF46EDBN7A.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-alibaba-facial-recognition-tech-picks-out-uyghur-minorities.md",
-      "title": "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities",
-      "excerpt": "Chinese multinational technology company Alibaba Group Holding Ltd is offering Uyghur/ethnic minority recognition as a cloud service, according to a new report by surveillance industry researcher IPVM and The New York Times. Users simply send photographs ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipvm.com/reports/alibaba-uyghur",
-      "originalUrl": "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1tzzns6d79su2.cloudfront.net/uploads/embedded_image/e3225a8a645d553e2a92b40639bb2261b05ec42dd7df56ba648f049dfd0f17d7/placeholder_b2388037-5fce-4827-bf00-8467fd5b1671.jpg",
-          "width": 903,
-          "height": 1177,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosecurity-magazine.com",
-        "domain": "infosecurity-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier.md",
-      "title": "Sony AI launches its Gastronomy Flagship Project to make the world a bit tastier",
-      "excerpt": "Sony AI recently announced its Gastronomy Flagship Project, an AI-powered initiative built on “enhancing the creativity and techniques of chefs around the world.” This might sound like a small-potatoes problem compared to self-driving cars,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/sonygastro-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/",
-      "publishedDateTime": "2020-12-18T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

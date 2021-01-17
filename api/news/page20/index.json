@@ -2,6 +2,145 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-12-29-ai-chipmaker-graphcore-raises-222m-as-it-takes-on-nvidia.md",
+      "title": "AI chipmaker Graphcore raises $222m as it takes on Nvidia",
+      "excerpt": "Graphcore, the UK-based maker of artificial intelligence chips, has raised $222m in new funding as it braces itself for tougher competition from Nvidia. The latest round values Graphcore at $2.5bn (without including the new capital raised),",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
+      "originalUrl": "https://www.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a03ad48-165a-448f-a7da-eb28c2df2959.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/702f9b58-78b8-4b39-83c5-c833cadf4bb5",
+      "publishedDateTime": "2020-12-28T23:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-artificial-intelligence-robotics-market-to-see-major-growth-by-2025-nvidia-intel-ibm.md",
+      "title": "Artificial Intelligence Robotics Market to See Major Growth by 2025: NVIDIA, Intel, IBM",
+      "excerpt": "Latest Study on Artificial Intelligence Robotics Market published by AMA offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Robotics Market research report shows the latest market insights with upcoming trends and breakdown of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "originalUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc29648211_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "publishedDateTime": "2020-12-28T21:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-how-doe-researchers-are-using-ai-and-robots-to-design-the-successor-to-lithium-ion-batteries.md",
+      "title": "How DOE Researchers Are Using AI And Robots To Design The Successor To Lithium-Ion Batteries",
+      "excerpt": "Building the better battery may be too big a job for humans, according to researchers at the Joint Center for Energy Storage Research, so the researchers are turning to artificial intelligence to find the right ingredients and to robots to make and test them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
+      "originalUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea3059d12e840ff06d83a7%2F0x0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
+      "publishedDateTime": "2020-12-28T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-catching-them-young-hexagons-centre-to-train-students-in-ai-skills.md",
       "title": "Catching them young: Hexagon’s centre to train students in AI skills",
       "excerpt": "The fundamental and advanced level courses designed for Class VIII-XII students, and senior engineering graduates respectively",
@@ -1066,152 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions.md",
-      "title": "YouTube Cofounder Steve Chen Launches Hedge Fund That Uses AI To Make Investment Decisions",
-      "excerpt": "YouTube cofounder Steve Chen is partnering with veteran money manager Jack Fu to launch a hedge fund that picks stocks and fixed-income assets through the use of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/27/youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/27/youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe3eddcf2b252f7a283b42b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D676%26cropY1%3D97%26cropY2%3D478",
-          "width": 676,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/27/youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2021/12/27/youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions/amp/",
-      "publishedDateTime": "2020-12-27T20:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025.md",
-      "title": "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025",
-      "excerpt": "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-27T19:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-this-woman-entrepreneur-aims-to-make-children-future-ready-by-introducing-them-to-stem-robotics.md",
-      "title": "This woman entrepreneur aims to make children future-ready by introducing them to STEM, robotics",
-      "excerpt": "Edtech startup Whizrobo, founded by husband-wife duo Dimple and Naveen Verma, offers products and training in artificial intelligence and robotics to the K-12 group.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
-      "originalUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/Untitleddesign16-1609060197399.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
-      "publishedDateTime": "2020-12-27T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
