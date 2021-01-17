@@ -2,19 +2,17 @@
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
 excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ..."
-publishedDateTime: 2021-01-14T05:32:00Z
-originalUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/"
-webUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/"
-ampWebUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
-cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
+publishedDateTime: 2021-01-14T01:02:00Z
+originalUrl: "https://www.thaipr.net/en/it_en/3018538"
+webUrl: "https://www.thaipr.net/en/it_en/3018538"
 type: article
-quality: 83
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: SUAS News
-  domain: suasnews.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - AWS AI
@@ -22,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1"
-    width: 2560
-    height: 1340
+  - url: "https://www.thaipr.net/wp-content/uploads/2021/01/unnamed-2-2-e1610706551699-768x432.jpg"
+    width: 768
+    height: 432
     isCached: true
 
 related:
@@ -71,20 +69,15 @@ related:
         height: 371
         isCached: true
   - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-01-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
+    excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
+    publishedDateTime: 2021-01-13T13:01:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-860994479.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 63
-    images:
-      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
+    quality: 43
 
-secured: "1W5Vjn1PxoyGWYEaNayfII6am7+qtnr7l1YGMFWd/mR6z0Hb0Pa5C1IAxU48F7nO9gfsssvksr4W+eEFTrVd3peGQreytUYK02QItkeWsu/LedwGWhId2dwfZc6/zYtTKzSI86r374nUnJQuee4EiuBRMXDYOjIziGpql2bx0SJutw1garDR79YyD4mxjqLTCEUi/l8dNGMmOQkvjslRBNSM6rSjTktYZQIW0OFwb3SgwTYsYVY3qX9Pk2TwekgkG1du9nyP/65QSENlHdmGugmiLUTEvcHZCDkXxLJATQBzq0W3ad7q5oFNJX/ShF4pOnB3WAZvj6nUwpaPVLU6fm6yldGVokySRdAtJnpGeIE=;PLQJOkicXtu5ELwVOzBrHQ=="
+secured: "EP8FyVuNhv6i1QZq1EueEbQTUqpp1Tq28GsYNza9tL1DAvAJW/qGfJeP/ntUOXBm+zRX8OZi5ZwYB6YvGrpf3lGyuiJL18vUw2c8PNXXA9KV7OxeJs5PgipxyFk99zvnWg3y1OlHa4zugy2DwZzs/B/BL+B6WbVwgNt61IizTLVxmG8uKVJ/+p4tr3DMo0ePkW8M73wuFne63uVVbaE8izIt3DGWL5WD5iGJ4KhWmksKmossKHDu92AQRBZlRcm/V0CBhxW9r4PECpRPJybjRtMRCQHZc9/ZjTVv8ssFjcU90PkAOG6dj6bVDL8dxyd1I+AnweTB8tYXTlnnZxnf1p46kgjE9sXnB8L+ODxcPSA=;KKiTYei/We9gqwLt+peqkw=="
 ---
 

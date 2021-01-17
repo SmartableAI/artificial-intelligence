@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Space robotics market predicted to grow to $5.7 billion by 2027"
+    excerpt: "The global space robotics market size is expected to reach $5.71 billion by 2027, registering a compound annual growth rate of 5.2 percent from 2020 to 2027, according to a new report by Grand"
+    publishedDateTime: 2021-01-15T13:35:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/nasa-valkyrie-robot-4_0-2.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Commerce Artificial Intelligence Market Is Expected To Reach USD 1,977.77 Million By 2027"
     excerpt: "The research and analysis conducted in Commerce Artificial Intelligence Report helps clients to predict investment in an emerging market expansion of market share or success of a new product with the help of global market research analysis This report has"
     publishedDateTime: 2021-01-15T17:08:00Z

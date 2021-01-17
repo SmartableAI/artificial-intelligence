@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21152263/startup-rolls-out-ondevice-voice-command-chip-that-runs-on-1mw"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 623
     isCached: true
-
-related:
-  - title: "Startup Rolls Out On-Device Voice Command Chip That Runs on 1mW"
-    excerpt: "Syntiant, a startup building tiny artificial intelligence chips that bring voice commands out of the cloud and onto devices, rolled out its latest generation of chips with a power budget of 1/1000 of a watt."
-    publishedDateTime: 2021-01-13T00:00:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21152263/startup-rolls-out-ondevice-voice-command-chip-that-runs-on-1mw"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 41
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/Syntiant.5fffb1a118c98.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 623
-        isCached: true
 
 secured: "qJXXPeARDASZVy2UBecHiisIN1Uydou3bEmb9CGD8+fpG1KV7uRUN9lqXEHwfFJ/Xsf9EshTN6C2pKvDcH1pAwbcndCuLvhtLEeFVSVb6OxgFImpYdCLTvEXREYeZgm0HonwiH7wPF5og98Fl9I8Jdb3e1nHemwBx6eBPr47iwFOsZiL9uzCRBuDFevq0wZxNrWINqvbK15TtmWPwWPKiX2duE9Xst8dNzrrNuSiMi2M5tTZcKfDyQE6B+gmmg1Js5dSlZjd/2P4qbLk5WroegKcJ/BSk/lMiXUZA6d4n0z/iuL/w4vhDf1rvvjvL6Iv/c/w7AC+b7AySxQNlUeWMllhUyoJBGA84JGzC7s+xg+XgweMBdx8tjpXGBFxAkxyfSZEPMkQ0fhieBKcRjhW4S95Q8Ag7Wqv+pjWhvewR6D6bimN+myDqIve7ixS5wjYVS5/u/J91rECyI4SE6wXcOykhnHeKdGPaQny90uuQXiRvdnt/2VELqLRK3slsnQ8MBXDCn8NoUSIOp/Qxnw0qA==;v8iaHum3YOAIDDCEzqzYpg=="
 ---

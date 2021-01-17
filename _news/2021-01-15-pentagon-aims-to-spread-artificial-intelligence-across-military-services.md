@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Pentagon aims to spread artificial intelligence across military services"
-excerpt: "New contract procedures aim at making it easier for small companies to bid for artificial intelligence uses for the military"
-publishedDateTime: 2021-01-14T19:58:00Z
-originalUrl: "https://www.rollcall.com/2021/01/14/pentagon-aims-to-spread-artificial-intelligence-across-military-services/"
-webUrl: "https://www.rollcall.com/2021/01/14/pentagon-aims-to-spread-artificial-intelligence-across-military-services/"
+excerpt: "After spending the past few years demonstrating how artificial intelligence tools can boost U.S. military efforts, the office responsible for overseeing such programs at the Defense Department is"
+publishedDateTime: 2021-01-15T15:51:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/washington/pentagon-aims-to-spread-artificial-intelligence-across-military-services/article_fd5b7739-fe9d-5d88-9c4c-aac310b6d900.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/pentagon-aims-to-spread-artificial-intelligence-across-military-services/article_fd5b7739-fe9d-5d88-9c4c-aac310b6d900.html"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Roll Call
-  domain: rollcall.com
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - AI
 
 images:
-  - url: "https://content.rollcall.com/wp-content/uploads/2021/01/GettyImages-1192770770.jpg?resize=1200,600"
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
     width: 1200
-    height: 600
+    height: 630
     isCached: true
 
 related:
@@ -64,6 +64,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XHCSJLaVlplIoCYXBjP5EJ6L1C4/mWaa8Z1RzsgOdDgC2e3PZgG10vB/sfvAJRuQ8VBC2WUlU8lzeUaNq/qsfOQTw3HQ+bfoAoF9ZwBZzbtJGnK6IyKjlr5Iwd848Wi+t/n5Ydonccg8XOlCFObWbg78A8aJUNX3BkGbSXBgSmh9SdXYBJ24Q3HVTL9q2pEWXy1LB+G6k5D0Nnrt2HZ0qscAjQLztkV1dVERSnAAJAMbnXoG+CAF6mDZQOpIJGZVbUra34uMH8swMrfbfue6SfypYQfHlYHiHoCO9d55WHuTsEgqf6t+TxndFFE5NrxsNNPAYAM5yU1NBZQOkpaH1CXZsRlkxnjQDvkCClNFa/nUj0/aIn2bca67Ig5x718DSngWHOSqBzK4fTCbI4x8JdpSMTm+vsDl6vSt0K87LmyS7EEpuIZ7Deu7AYVpj7MpCuEZl83jOzYPCHjCccg9+lxZmVK8tcTBmgK6Stkns7W6KKXiLinEIDA6I3gD6omVLHc+bLQLj+9QHC7nXnMHlg==;/SnAPnz5P23NXAY4r435WA=="
+secured: "vEAbmpHlezDSOm1K4fhWvqgLDgb22icxND1j4eeOn0avwQna41+cUKN/Zsd1dLMWmOgrFWlYSBrHlOwBRSfm8GIVgN6A6ki+bkCASAshkeaHNfX0cuL4MPhewT4TFJMSY+u0QhCpD4cqjl3+4L5fMBhJwDe/yDqwHle4tVrcq7wZQnNcv4i9W0ZgsTXAvWgnloHmeo4bqiPl2Mk2GqTCprAHIiSMKvnZO2CIjMzpLeKrzLvDbcALJjl02PlTP/goi3MwFEVdi3Iv+GS1Y6FEIjC9SEYgPfECN7CZ54OWEGlGC0SFMF9GmAYYWP8J+S3/d4v8ZzcO56bJ0dIAFUrDNloFiwNdp8LcOc49rBLtzu0=;hCzpHWuhfMmOPzRO9v+vCA=="
 ---
 

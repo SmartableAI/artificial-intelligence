@@ -33,20 +33,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Oxford Nanopore & Nvidia collaborate to partner DGX AI compute system with ultra-high throughput PromethION sequencer"
-    excerpt: "Oxford Nanopore Technologies and Nvidia are collaborating to integrate the NVIDIA DGX Station A100 into Oxford"
-    publishedDateTime: 2021-01-12T23:33:00Z
-    webUrl: "https://www.wboc.com/story/43159351/oxford-nanopore-nvidia-collaborate-to-partner-dgx-ai-compute-system-with-ultra-high-throughput-promethion-sequencer"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 16
-    images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20242214_G.jpg?lastEditedDate=1610434336000"
-        width: 900
-        height: 495
-        isCached: true
 
 secured: "q8PQjAlPSPkw3/flhgTP/eo3XYJ8+A6CGuMJ73ned2hUhNsYJmbW1rzZYL0vMRzt4bl5TmSnRxJfYZmYiJZ5AKawgfx6jjgRH6TVmS5VRiOkkg8pKm+PpevpS3rocinpuKv3EYDDi+V/9MVsF9qTGMQUr8O9o/S/S+0IVhg9ORKHnU9UbvXO42x4AKvqiS7Bp587ZRJVKTsIDLZEkXFFzpboUKZ//0eybpibvOsyE4hbVvJbCx5eNuhjw5hF3XFD78rlnXoXdM9TzAtTFLEKSm28NfPX2c5GeiyTfyRzPE5ERswdsr2tbojs3gQtGHg4NTtNRB09V32aSaVoGxWBaQQj+4ZrTappIi/PvWM4oRw=;IKWxim5aUAQLdSs/BPsedA=="
 ---

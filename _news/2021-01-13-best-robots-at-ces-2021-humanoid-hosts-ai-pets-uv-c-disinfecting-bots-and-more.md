@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/best-robots-at-ces-2
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
 type: article
 quality: 98
-heat: 208
+heat: 188
 published: true
 
 provider:
@@ -67,22 +67,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "CES 2021: LG unveils artificial intelligence for \"at-home\" products"
-    excerpt: "From sanitizing robots to a self-cleaning water dispenser, LG Electronics is redefining what it means to be at home."
-    publishedDateTime: 2021-01-12T23:15:00Z
-    webUrl: "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products"
-    ampWebUrl: "https://www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-lg-unveils-artificial-intelligence-for-at-home-products.amp"
-    type: article
-    provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/01/932/470/595-530P-TZ_CES_-LG-HOME-INITIATIVE_00.00.05.15.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "CES 2021: From COVID-killing lamps to wine-pouring robot butlers"
     excerpt: "The world’s most anticipated technology show known as CES 2021 forges ahead with big names, bigger screens and wine-pouring robots. The only thing missing from Las Vegas was the huge crowds and media."
     publishedDateTime: 2021-01-14T01:32:00Z
@@ -150,20 +134,6 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/LG-UVC-Robot_03.jpg"
         width: 800
         height: 889
-        isCached: true
-  - title: "Samsung betting big on robots with CES 2021 presentation"
-    excerpt: "Samsung revealed new robots during its presentation at CES 2021, which is all virtual this year because of the COVID-19 pandemic"
-    publishedDateTime: 2021-01-12T23:58:00Z
-    webUrl: "https://www.fox13now.com/news/technology/samsung-betting-big-on-robots-with-ces-2021-presentation"
-    type: article
-    provider:
-      name: KSTU
-      domain: fox13now.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9cc25b4/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fd21%2Fef205c0e5ea14d77944cbd6904335118%2Fd213522841fb4f149412ed0aa6b36ee6%2Fposter_a13fb1d4654e4b8c8e720f40a7b30697.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "CES 2021: AI steps into 3D foot scanning"
     excerpt: "Foot scanning technology and orthotics leader Aetrex Worldwide this week showcased the next generation of the company’s 3D foot scanner, Albert 2, at CES 2021. Albert 2 combines computer vision, machine learning,"

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-publishedDateTime: 2021-01-13T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
-webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
+excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
+publishedDateTime: 2021-01-13T13:01:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-860994479.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-860994479.html"
 type: article
-quality: 63
+quality: 43
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
 
 related:
   - title: "Using machine learning to predict vessel time of arrival with Amazon SageMaker"
@@ -70,21 +64,19 @@ related:
         isCached: true
   - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
     excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ..."
-    publishedDateTime: 2021-01-14T05:32:00Z
-    webUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/"
-    ampWebUrl: "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/"
+    publishedDateTime: 2021-01-14T01:02:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3018538"
     type: article
     provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 83
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 63
     images:
-      - url: "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1"
-        width: 2560
-        height: 1340
+      - url: "https://www.thaipr.net/wp-content/uploads/2021/01/unnamed-2-2-e1610706551699-768x432.jpg"
+        width: 768
+        height: 432
         isCached: true
 
-secured: "E/j97/3rT1d2r99PfvKhezDuZgUy4Q/YfE6R1kiVlQ9gxjg/sMwHOTwYMca+0Rg6KZ8O5Q+l/Y0/QpCChqgkLY0oF2CSj5HYtVRfE8QmWTKQmmCcjS7fbN40AHECO+568LOMTAaqVYyQnUrr8W2dhWxM1JKIVTzVhrD2SM4U/RAh9T+5WbiVCT5/F0RlVwohYTXG63lEqw3tO9LsAtZqhtyUIG5ofJK6sRsG2q2N8yHOM55j1ioZrBAbh7H93PZc97r1Z16aWSG6uiLg5SyYAQb7A9tIfrt2qP/U7oJj6f8Q+h9hncXSHI6v32NTuuXbN6FFLZ0HR+kas2Wt62yCuzWCnXZWE9etPZc9NmHecS4=;ANxHDi20V0jEwowJMpPLdw=="
+secured: "8nPgy4hv0W18x3Es4AxQKL9RH3O/YCdOusF9ZLiKu+8FsYjlQBsYyOA5+2o9Bsc6123Z26ct6ZbTw2InGOkAr653/LoMpO8qm0M2AVbGO/l1xxgz/eNKvfXIJXBeDTYfooKbSqBxckVzhS0txe0MxvHL0vXDDP7H1NLk1ttscCa7baM/IRrdPzTOA7HwtCsZvJhI4J3PKZUirygXdwnk7beiy2Oh/7d6IsfzPu72uvXZ3zYHKtRxbdSqm6mUubLfzF6svtAEfVFErMfvfnfQd83hBf8L4aDJ3+flUHNIbdMz+JWWgymKQJ8zWCdWDMdY4NZnKRpP1JJJHN12ZmDXPNbxpFy1ulEa5wc3+IC/oFU=;dpBYa63LOybeKgSW2vWwjw=="
 ---
 

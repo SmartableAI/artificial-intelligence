@@ -7,8 +7,8 @@ originalUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-ma
 webUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Robotics & Automation News
@@ -25,20 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market Top Trends Accentuating, Size by 2024"
-    excerpt: "The service robotics market is expected to grow at a substantial rate driven by the system's high efficiency, reliability and convenience as compared to conventional labor. Integration of artificial intelligence (AI) and proliferation of IoT is bringing key transformations in the market."
-    publishedDateTime: 2021-01-12T23:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12"
+  - title: "Commerce Artificial Intelligence Market Is Expected To Reach USD 1,977.77 Million By 2027"
+    excerpt: "The research and analysis conducted in Commerce Artificial Intelligence Report helps clients to predict investment in an emerging market expansion of market share or success of a new product with the help of global market research analysis This report has"
+    publishedDateTime: 2021-01-15T17:08:00Z
+    webUrl: "https://www.openpr.com/news/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
+    ampWebUrl: "https://www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/1/U115421416_g.jpg"
+        width: 400
+        height: 300
         isCached: true
+  - title: "Global $50+ Billion Healthcare Artificial Intelligence Market to 2027: Focus on Medical Imaging, Precision Medicine, & Patient Management"
+    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-15T13:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19180648/global-50-billion-healthcare-artificial-intelligence-market-to-2027-focus-on-medical-imaging-preci"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19180648"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19180648"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
 
 secured: "5DMKEWfdxnInhZklnAPC4TwpaGOLLvCZJo9VzslyP7DoPl2Qu4pIYrua0XTL27D3pTWiWcmp1BQpjigCdyl7Gnq9Hps12dwXcSsx1j9h1IM751NsiDya2iR1589qZTWhsg4nBYLxvQeKjPo0Y12GAn+fvEQpyR6KHxvzmpPyM/Jy/WVyEhWiMQW6835Yoiq0TuXRGGndODcTYrsxBsdZVxX5209qDP5sVFj37QB1YM74jDJRq2VEyGIIPXJGwMfUmLLmpKho+21Zlc1q9R/ce7phT43YoV9k2h9CH0IqQH0FnV10JwsRyeLpee5Dlhs8FP92L3EkvVSUUOZPaj6oz/xuM+HwNxBmEOnm8b8WLbfT/yqxN9uC1zrIOHyr1ovr7AfEINgfsmgbr2U870mxkWXh5d1fcbPcrfP7MbkAiPxDGZo8sw9rV87RfZNnd7IM+EitAjcTO8Qgey59Mnkd38hlrTqONhlh9uSkuaJ4YY8QDUx2+t6QIWschmSCpcOZluaExmLmCr5WMor+G3FdBg==;d+acb/0kJDdzgTvl9hzWdw=="
 ---

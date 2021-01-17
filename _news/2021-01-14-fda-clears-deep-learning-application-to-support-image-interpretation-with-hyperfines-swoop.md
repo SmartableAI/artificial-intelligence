@@ -3,8 +3,8 @@ category: news
 title: "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™"
 excerpt: "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,"
 publishedDateTime: 2021-01-14T15:20:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
 type: article
 quality: 28
 heat: 28
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 15
 
-secured: "90D9c8wIYFVn8sGX1RQfT1d5WRo5oNJpGWFNaUMAEPreGCrWaMfl7HiVjOjBfjagVgDsiQPPz7l/Fe/EU0jk1gqWkvTH+OVC2w8wu+TNuj4g1IvjpOVYqyxfJ+2cfo+R0kIAFlUP8OkUsqI5J66am0AwqXS3fx1s1RYJitpz8PMjdHzWT0ZayravcZm8T0Tes8zd+KEIPAmKxFjb1EaqrUhWU9J22wDbxr9STi55kYZLTTw+PvrQMDL0YRG3pFNjJfScBZmSBDbyfjEkyY3pq93hOvjz8Yw2wr/1oEgbkJrkEOQ7jyEbRKQSeSfqTaPIYw1xgyxThF061j/NR7+L+HBVPoK9R0TBIpC4eJ6faqE=;ZwDRzFXSagI1nfrNGQZhDA=="
+secured: "ZA+Vg5SueM9KnsBKHRbNSyRiEv0/hXRqofIwmXoZOGGhWwUpBHqMXRQEi2LEjM6JMyPCLk5cpmHlJ4jfjepRUN73ID1KY88W8dXjjxspsa2H0pA3VXyzJJqzSnlmXm3sX9/ZGr6uUH1I3am+a21994AsgOJUFBQTCgYnHsI85EM5XlHuwLC1oQ94/EBvP0o6wphs5C9XncjqHR3L7Ju+cGiIlWSDziyV45IpPnT6BQrIENzWMqa+loqIIZ6XhECMgdQBjyTD/SrSmzAfjEkeywtkczYoXVxhVKI9GnZycrnosRUqSg7cYhlRdsL/6nzI8yApakjRXggXXanZQPsQMs25WlDoT9Hrt11iHCXRcR4=;ac/ox5lR2xbda5WMLDXi7g=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
-excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
+excerpt: "China's SZ DJI  Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
 publishedDateTime: 2021-01-14T08:50:00Z
-originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
-webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUKKBN29J0DA"
+originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA?mc_cid=5d70cdeb20&mc_eid=ebf7c98b66"
+webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA?mc_cid=5d70cdeb20&mc_eid=ebf7c98b66"
 type: article
 quality: 48
 heat: -1
@@ -29,62 +29,46 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up"
-    excerpt: "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\""
-    publishedDateTime: 2021-01-14T03:42:00Z
-    webUrl: "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
+  - title: "DJI is building a new team that will work on self driving technology"
+    excerpt: "The popular drone making brand, DJI, is apparently building a new team that will be working on developing self driving or autonomous technologies. The company has put up various job listings and has already begun hiring as well."
+    publishedDateTime: 2021-01-14T10:07:00Z
+    webUrl: "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 193
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106688926-1599111743041-WeRide_in_Guangzhou.jpeg?v=1599111846"
-        width: 4000
-        height: 2250
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/maxresdefault.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Autonomous vehicle startup WeRide raises $320 million"
-    excerpt: "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital."
-    publishedDateTime: 2021-01-14T01:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/"
-    ampWebUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
+  - title: "Japan developing unmanned jet fighter aircraft with machine learning to close its technology gap with China"
+    excerpt: "Japanese companies are researching technologies, with Subaru developing unmanned flight control, while Mitsubishi working on information-sharing."
+    publishedDateTime: 2021-01-15T07:33:00Z
+    webUrl: "https://www.militaryaerospace.com/unmanned/article/14195601/unmanned-jet-fighter-machinelearning"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Military
+      domain: militaryaerospace.com
+    quality: 36
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/1_owq-V2IrljRj2C9YoZNnkA-e1610586000900.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/Japan_fighter_drone_15_Jan_2021.600051e707f37.png?auto=format&fit=max&w=1200"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "IBM leads in quantum computing, Ford in driverless car patents"
-    excerpt: "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years."
-    publishedDateTime: 2021-01-13T01:40:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents"
+  - title: "Lidar technology: not just for self-driving cars at CES 2021"
+    excerpt: "News Highlights: Lidar technology: not just for self-driving cars at CES 2021 The technology has been around since the 1970s. However, it was considered"
+    publishedDateTime: 2021-01-16T11:48:00Z
+    webUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/lidar-technology-not-just-for-self-driving-cars-at-ces-2021/amp/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005733.jpg"
-        width: 1240
-        height: 823
-        isCached: true
-  - title: "Chinese self-driving tech startup bags a total of $310m in series B round"
-    excerpt: "WeRide will continue to develop its smart mobility technology, commercialize its mini robobus product, as well as expand its services to more cities this year."
-    publishedDateTime: 2021-01-15T08:37:00Z
-    webUrl: "https://www.techinasia.com/chinese-autonomous-vehicle-developer-bags-total-310m-series?ref=recommender-669313"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 33
+      name: Windows
+      domain: compsmag.com
+    quality: 24
 
-secured: "/KfZLIO25OtRVF88UKYfaMoi5FjR8hgBr8gTsBPp0nkCxWjANEW/Fx7fn6LIJBQ2xcJwxIRXht/756YX0kSl/4eQnXAIs0Q+gNde7Xm/9UaI968wMCQtmPOaZT3laYDFk9+a5OCG365Rj4G+3TMMJfQ/V2Z5FNUZhIws96SURzTrM73tPV8C8ge7TcJhPKuqY9HA19++9YGKUekfhW5iWUKos1EBYIwcxJGMKgRshTcrum1dEFLn6oePAl1FtxXMFPZeMEyG3lm1JHjgOsm+9avKfiA0GDEQ3NGqU/np4jyCXIhahMYjgU11P/rze0wuk9LCQIR0tfzgXRXJIbC/JCMmiTu//YqIWTeJx/vTFlH+yURypQNu5OlmyWrVvDCpYLwPuAb/g80fwGHZAfNDUIeP7OoKyfVvFPMB5p2z8dITVoa1YTr33eUZaML6D17wFNdAMs/V7pV3DnnZuDSbo16qkC62Iyjw/BNwZrkcx1dm/bv8ota5CfXrKiQjyZcSbM+2yvE0cCLCBghB4nrjww==;9ECJps7/pJ+Q2PEcPpZq+A=="
+secured: "lhdvcYXUgahjyIu0ObSp+aZpGIVuwPvPVRRcsqoFv35faJgvI+PWsaGXlSJjF8JuNB31zb6uJSj7rIY2oNEtCgS4xrbqJ+V/RkSK8Aky02WZm33WNhGkEmid1qVG8T5Y+xbarfhamJpa8izo2c4Hzwji4XSxgxFBNZoy6znIX8ie1tuEsKaeGVOaoabLX43M2m8x7lcgI5+XPQC/Jt6DcirQX8KrddkNGjj5iECr6xgsVxKaI/+r0BX/+Zhk+mcOM11GXBe67oSAKWwS+Snrn0DrzykmPQckKRjYCFlaamoJ1dYSzF5DBVvSp3PM51i+YuF+lpy7X1wshK3Ha3yGAkrw5VNKHUhy1AybPog6wg4=;mfjQ5DLRYGCJ2qeCf3p+bQ=="
 ---
 

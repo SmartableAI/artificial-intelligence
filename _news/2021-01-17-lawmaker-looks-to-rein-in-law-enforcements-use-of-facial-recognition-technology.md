@@ -59,22 +59,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Police Commission approves new oversight for LAPD’s use of facial recognition, rejects call to ban the technology"
-    excerpt: "The Police Commission approved a policy Tuesday that set new parameters on the LAPD’s use of facial recognition technology, but stopped far short of the outright ban sought by many"
-    publishedDateTime: 2021-01-13T00:17:00Z
-    webUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/"
-    ampWebUrl: "https://ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-approves-new-oversight-for-lapds-use-of-facial-recognition-rejects-call-to-ban-the-technology/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 38
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/01/download-5.jpeg?w=1280"
-        width: 840
-        height: 473
-        isCached: true
 
 secured: "4oO/4GGLiiBEFb/1YzV/KGERYZBW6Z35uW6rRcbeMAvNv2r4M61TIbGNQEOsi+BQjgPv5NDIBC0zI3VlqcEwcIBduwSJKZRn4Vkg/g2t5YWIXOXHPm+g+nydQQgB18bElnDqXr1PHD1itzpMHan1yCxvmHlDc0+XuZrkQl88GvH66UFt/ItH3VD9bGx4YNLSvx08xDdObUNi0SCaUBNU4/nHPuqHtAZgp31LGU9LyRYXBKuBaSno9C5r5MWCQroHdi/VYY0PgRiTnUAn6crF1i9cFTMIV4zLFFIHDRw6Buf2bPbRmdoNHPUFRIAdUkXfiTUxhawlRSADizAe8QbubyyQhGRP3lSHMv5SOHnFfOs2cxFmHqQTsM0JjeQu0dUaqOoZWhTy6KQfB7Tmbw0DddBZBkEWP1d4OvTYgWpA00hMkT1xJhkucscLhSZGIrhaWnZPZr2eqDZdEgoLm2melVnBabnty5fUmv+hF8qiX98cPeDwTxOihAB/4k6vm2klNb3QtEqD7+3afTsysWAA7w==;LMPD9njJVTIOo5IKIwGXFQ=="
 ---

@@ -25,21 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence tool for reading MRI scans could transform prostate cancer surgery and treatment"
-    excerpt: "Researchers at the Center for Computational Imaging and Personalized Diagnostics (CCIPD) at Case Western Reserve University have preliminarily validated an artificial intelligence (AI) tool to predict how likely the disease is to recur following surgical treatment for prostate cancer."
-    publishedDateTime: 2021-01-15T14:17:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-tool-mri-scans.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-tool-mri-scans.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-artificial-intelligence-tool-mri-scans.amp"
+  - title: "How Data And AI Can Help Create A Mobility Renaissance"
+    excerpt: "Evangelos Simoudis’ latest book Transportation Transformation: How Autonomous Mobility Will Fuel New Value Chains, meticulously presents the case for redefining mobility value chains globally."
+    publishedDateTime: 2021-01-17T16:05:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 42
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-mri.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60045ed8592ed21731f31ce5%2F0x0.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "How explainable artificial intelligence can help humans innovate"
+    excerpt: "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ..."
+    publishedDateTime: 2021-01-13T08:02:00Z
+    webUrl: "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php"
+    ampWebUrl: "https://www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 72
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "How Explainable Artificial Intelligence Can Help Humans Innovate"
+    excerpt: "By peering into the AI black box, we can uncover and teach people new facts about the world that have not yet been discovered, leading to new innovations."
+    publishedDateTime: 2021-01-13T17:57:00Z
+    webUrl: "https://singularityhub.com/2021/01/13/how-explainable-artificial-intelligence-can-help-humans-innovate/"
+    ampWebUrl: "https://singularityhub.com/2021/01/13/how-explainable-artificial-intelligence-can-help-humans-innovate/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/13/how-explainable-artificial-intelligence-can-help-humans-innovate/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 72
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/01/rubiks-cube-shadow-1.jpg"
+        width: 1408
+        height: 792
+        isCached: true
+  - title: "How Artificial Intelligence Can Improve Cannabis Yield and Security"
+    excerpt: "The more advanced a smart monitoring system is in its use of machine learning and real-time monitoring integration, the more effective it is in spotting anomalous activity."
+    publishedDateTime: 2021-01-15T01:59:00Z
+    webUrl: "https://www.greenhousegrower.com/technology/how-artificial-intelligence-can-improve-cannabis-yield-and-security/"
+    type: article
+    provider:
+      name: Greenhouse Grower
+      domain: greenhousegrower.com
+    quality: 54
+    images:
+      - url: "https://www.greenhousegrower.com/wp-content/uploads/2020/11/photoperiod_for_cannabis_featured.jpg"
+        width: 896
+        height: 504
+        isCached: true
+  - title: "How explainable artificial intelligence can help humans innovate"
+    excerpt: "Therefore, AI researchers like me are now turning our efforts toward developing AI algorithms that can explain themselves in a manner that humans can understand. If we can do this, I believe that AI will be able to uncover and teach people new facts about the world that have not yet been discovered,"
+    publishedDateTime: 2021-01-15T21:02:00Z
+    webUrl: "https://gcn.com/articles/2021/01/15/explainable-ai.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 52
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/rubiks_cube.jpg"
+        width: 760
+        height: 368
         isCached: true
 
 secured: "kHexq8vpOZhXrM/MBuMCXKBiKp2PwWV8rZYqvBJveowxw0fBt/E9ZpX70+XMdwXjxvxx073xXApwylFn91EKhUHgmx/Dps6jf/slFQkRIBP/EveY++QRAl/wGXg3NjNX91uJc/S2159bab35SroJxVOHrF9gntGoelb4NfPde18Lp1l9raiOGrz9Y8i4RkgJxQKna6i8JZDv51FrhD25QlWj7WpBIoC6+5cZjWhEYsGJextNQpgCyAHf8DIXe11OofQ4fwSfvZKslKiKK+NfESe4KqFVZa9GNqH0R78bCh6keiDt2X111fMTE6Au2uRlSOxJALKSriMojYocvrx0K7a+z0CpHbtF9skkXzrWAKBtu3H+wy+tz0HqcusO/Vs19H8roSdSsubvBeJo0A2LAEorhoqO8fRbMoMud45q6y0Q/iW5ysMfWqG5BArtqVSPu46UDgf2SmNawYxid+KBmitJHQjVHQiGPLYZ7nIO9fSXOEgD/CAu0HR6C7CCCYBdaQLcsf+RCgP+Yj5QiPFlIQ==;gV9ZDmMXRafvz0CnjXt4KQ=="

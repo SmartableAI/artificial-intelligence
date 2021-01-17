@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytic
 webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "RetailNext Showcases Next-Gen Machine Learning Analytics and Releases 2020 Holiday Season Analysis at NRF's Big Show"
-    excerpt: "Onboard demographics are introduced as part of the enhanced machine learning capabilities, along with a Holiday 2020 recap report"
-    publishedDateTime: 2021-01-12T23:38:00Z
-    webUrl: "https://www.wboc.com/story/43161213/retailnext-showcases-next-gen-machine-learning-analytics-and-releases-2020-holiday-season-analysis-at-nrfs-big-show"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 31
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
     excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"

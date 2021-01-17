@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2226016/commerce-artificial-intelligence-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Space robotics market predicted to grow to $5.7 billion by 2027"
+    excerpt: "The global space robotics market size is expected to reach $5.71 billion by 2027, registering a compound annual growth rate of 5.2 percent from 2020 to 2027, according to a new report by Grand"
+    publishedDateTime: 2021-01-15T13:35:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/nasa-valkyrie-robot-4_0-2.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Global $50+ Billion Healthcare Artificial Intelligence Market to 2027: Focus on Medical Imaging, Precision Medicine, & Patient Management"
     excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
     publishedDateTime: 2021-01-15T13:58:00Z

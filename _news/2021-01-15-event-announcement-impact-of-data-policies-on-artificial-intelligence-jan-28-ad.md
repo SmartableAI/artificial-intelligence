@@ -42,20 +42,6 @@ related:
         width: 1077
         height: 606
         isCached: true
-  - title: "Amazon announces global expansion of its Contact Center Intelligence tools"
-    excerpt: "Amazon Web Services Inc. is expanding the focus of its Contact Center Intelligence services that customers can use to add artificial intelligence capabilities to their contact center operations. AWS CCI can now be used with customer’s existing contact center providers to deliver new efficiencies,"
-    publishedDateTime: 2021-01-13T00:29:00Z
-    webUrl: "https://siliconangle.com/2021/01/12/amazon-announces-global-expansion-contact-center-intelligence-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/CCI-web-image-side.24c04d2d367e37921da48fed7f5baffb9ee5b5cf.png"
-        width: 624
-        height: 407
-        isCached: true
 
 secured: "e1voREwbgvd4bNtZo4b7hrSIrKQgp4tePEn7B/5+tvmmQztTs5vuYOB5hy8k7BOW1Lt0v1UnW9ew+PM8VHKYhHlLNHzH2t3WZZVX2QtCoZNcnWW0mFMqp7bsVxWmG+G0BkRhhwLhINJRfNIzO45sI2KaCj/W+VnBZJJU23LQH0C8VPhGsskd476LwFBpsn4S/os0Q9X3OyW6O2wFPvz0mKRTRul+mmr75JBoWR7iHEs1xhu5/9oC1dYkEf9S2vUyaeSEvB0QLs4bh+YsntDDeNViHzLVM61lT9NpmSDIp7JhJMf6qA+Uhs23kuHHYD0rReIvRsDa2XBBZ9Bbp/K7R6D9iEB0mTuFMlTUB5dlxqbvHAAAD0rbKP4hI2kYBgrdgQFLlcHGJnE5jICrMd+/B8mLSd+o3YB25OnEXl/iAtr1wswCRU5dD57ABSrNrvnfusG6Y5HSqeImEtEWLlpxlvZLiE+08wFrafP5cOYN9jt7ucbXnlTn9wzunosC290gNQAKJOVkppT65ZK481Diug==;Gh/q06E79zWsOXO/p1dtQg=="
 ---

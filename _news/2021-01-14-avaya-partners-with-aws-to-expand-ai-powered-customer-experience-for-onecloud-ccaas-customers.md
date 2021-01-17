@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Avaya Extends AWS Relationship to Support AI Capabilities"
-    excerpt: "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday."
-    publishedDateTime: 2021-01-12T23:10:00Z
-    webUrl: "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 54
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png"
-        width: 272
-        height: 270
-        isCached: true
   - title: "Avaya Expanding AI-powered Contact Centre Capabilities To Improve Customer Experience"
     excerpt: "Avaya expanding AI-powered contact centre capabilities to improve customer experience, participating with AWS Contact Centre Intelligence. Sydney, Australia – January 13, 2021"
     publishedDateTime: 2021-01-13T02:10:00Z

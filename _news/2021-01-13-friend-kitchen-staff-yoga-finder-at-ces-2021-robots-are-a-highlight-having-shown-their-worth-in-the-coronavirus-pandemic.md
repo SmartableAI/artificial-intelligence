@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitche
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
 type: article
 quality: 62
-heat: 72
+heat: 92
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence used in bid to improve coronavirus treatment"
+    excerpt: "NHSX has brought together 40,000-plus CT scans, MRIs and X-rays from more than 10,000 patients across the UK during the course of the pandemic."
+    publishedDateTime: 2021-01-17T15:58:00Z
+    webUrl: "https://www.shropshirestar.com/news/uk-news/2021/01/17/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 37
+    images:
+      - url: "https://www.shropshirestar.com/resizer/FxzVh85c6nF9MMb6jXbZuoweOLM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/DC4PTJ65VBDMVOGGRCD4O743TY.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Pandemic’s robot ‘heroes’ highlight their value domestically at top tech virtual show"
     excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
     publishedDateTime: 2021-01-13T18:34:00Z
@@ -44,6 +58,20 @@ related:
       - url: "https://www.khmertimeskh.com/wp-content/uploads/2020/04/Engineering-professors-pose-with-the-version-two-prototype-of-the-IIUM-Medibot-medical-robot.jpg"
         width: 750
         height: 440
+        isCached: true
+  - title: "10 weird and wonderful highlights from CES 2021"
+    excerpt: "CES was an online-only affair this year, but that didn’t stop a load of big-name tech companies coming together to show off what they’ve been working on. In typical CES fashion, we saw a mixture of predictable upgrades to old releases and exciting reveals for futuristic products that must be seen to be believed."
+    publishedDateTime: 2021-01-15T12:43:00Z
+    webUrl: "https://www.which.co.uk/news/2021/01/10-weird-and-wonderful-highlights-from-ces-2021/"
+    type: article
+    provider:
+      name: Which
+      domain: which.co.uk
+    quality: 24
+    images:
+      - url: "https://dwkujuq9vpuly.cloudfront.net/news/wp-content/uploads/2021/01/B.jpg"
+        width: 1920
+        height: 1152
         isCached: true
 
 secured: "TCi6+Lx6nqbF5byRV98pyBdpAyCXFHw9s9BftTfj9FyKShH0SIOLoPyuHpCee/y6AjjRWWea/zxDvnO8T2UHFTUMw3s7xJvUuuSdDL3ePf+FqzJNmUOqSScjh86XfPTsWMyzuDcaJdn5YzpmGoEuhONvxplmO1W7qOZL8GHo5DUAj2qztSFOVu0s3t/ckLA0TjNf5YuSfsRO+1WQuUV6SclTlZsKgVTCkGXzmXSMxnWYfHbyZWAlUStQ9tma5u1p2HCJ2xYsN4s1M2x7Tk4VLfqMYFcqRTGq9rl/J5xT6uhIaoLZWNCXZzE/dmclFgbG2i4sp/Mxb3pIHDH0eLZRPxsEoGsVtfL7yU3YURBtrmUk+sxNKMVLFrgWuemvq94shOyeKi6eGiDvjJ3BTY65PBLxPHi8uNHexGQMdM9oNJTKDD0pj9wA14A9Km8k5QOA9H/3yv/Fq3RGzaKHD6qdg0mo7fohRu2ovRdP1sA/5rY6r2HzWMHUAyy5bzwoezHGrwZAmwiL6Yl7XIC+v4yKqA==;06w0HiRXUDVw5IXzdAe1eA=="

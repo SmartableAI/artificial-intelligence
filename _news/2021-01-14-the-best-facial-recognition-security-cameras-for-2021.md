@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2021/01/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "LA Police Commission Adopts Oversight Measures for Facial Recognition Tool"
-    excerpt: "The LAPD’s promise of robust oversight for facial recognition technology in police work hasn’t quelled concerns from civil liberties groups that the tools will perpetuate harm in communities of"
-    publishedDateTime: 2021-01-12T23:31:00Z
-    webUrl: "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
-    ampWebUrl: "https://www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/la-police-commission-adopts-oversight-measures-for-facial-recognition-tool/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 57
-    images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/LAPD-HQ.jpg?fit=1200%2C800&ssl=1"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Use facial recognition cameras to identify people refusing to wear masks, says former commissioner"
     excerpt: "Facial recognition cameras should be used to spot people who refuse to wear face masks, the Government's former surveillance camera commissioner has said."

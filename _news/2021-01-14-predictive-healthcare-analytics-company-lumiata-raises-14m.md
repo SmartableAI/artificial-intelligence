@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "RetailNext Showcases Next-Gen Machine Learning Analytics and Releases 2020 Holiday Season Analysis at NRF's Big Show"
-    excerpt: "Onboard demographics are introduced as part of the enhanced machine learning capabilities, along with a Holiday 2020 recap report"
-    publishedDateTime: 2021-01-12T23:38:00Z
-    webUrl: "https://www.wboc.com/story/43161213/retailnext-showcases-next-gen-machine-learning-analytics-and-releases-2020-holiday-season-analysis-at-nrfs-big-show"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 31
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
     excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
     publishedDateTime: 2021-01-14T12:00:00Z

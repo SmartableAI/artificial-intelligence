@@ -24,7 +24,7 @@ related:
   - title: "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™"
     excerpt: "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,"
     publishedDateTime: 2021-01-14T15:20:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
     type: article
     provider:
       name: Associated Press

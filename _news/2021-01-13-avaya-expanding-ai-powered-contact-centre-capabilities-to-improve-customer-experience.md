@@ -9,7 +9,7 @@ ampWebUrl: "https://m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-power
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2101/S00046/avaya-expanding-ai-powered-contact-centre-capabilities-to-improve-customer-experience.htm"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Avaya Extends AWS Relationship to Support AI Capabilities"
-    excerpt: "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday."
-    publishedDateTime: 2021-01-12T23:10:00Z
-    webUrl: "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 54
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png"
-        width: 272
-        height: 270
-        isCached: true
   - title: "Avaya partners with AWS to expand AI-powered customer experience for OneCloud CCaaS customers"
     excerpt: "Avaya expands its AI-powered customer experience capabilities for Avaya OneCloud CCaaS customers, through a relationship with AWS."
     publishedDateTime: 2021-01-14T01:18:00Z

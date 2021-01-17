@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "RetailNext Showcases Next-Gen Machine Learning Analytics and Releases 2020 Holiday Season Analysis at NRF's Big Show"
-    excerpt: "Onboard demographics are introduced as part of the enhanced machine learning capabilities, along with a Holiday 2020 recap report"
-    publishedDateTime: 2021-01-12T23:38:00Z
-    webUrl: "https://www.wboc.com/story/43161213/retailnext-showcases-next-gen-machine-learning-analytics-and-releases-2020-holiday-season-analysis-at-nrfs-big-show"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 31
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "eJx2EyHkwaLSYgeoy7LeJZs34Bv3jf1Tvq8lCoYitpfhcMb0ILQVyaKsc7MO5kykTSPCEgQb+Q18/LKqFieK4waHhk27YV1krMMZqn+j3hn9/LPwxz9Mycc9PaPgZGgXDDZWRsgGgDEynKj5yKq0Spav6g4sk7aSh7uHM6YcoXuBHeh/a04G2PzEJwL77FGbWUvLQtWgd172rYhXEtApiIIPh6IOVCAqNeN8IlRw7tdamn5EBzS2YqISzNzjdbRiRKqR1OiP5SOKjvpzJt3WZ853iW8A23EzT+owrp7jesxY26QawkInQig9oeKFKujrTnHHM1bVRmPUFhJTMB0cKYc0BWfFzdMzMZ+YWC83nqk=;Bo2chfnbW8n9P9ElrcrJ+A=="
 ---

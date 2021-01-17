@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Pentagon aims to spread artificial intelligence across military services"
-    excerpt: "New contract procedures aim at making it easier for small companies to bid for artificial intelligence uses for the military"
-    publishedDateTime: 2021-01-14T19:58:00Z
-    webUrl: "https://www.rollcall.com/2021/01/14/pentagon-aims-to-spread-artificial-intelligence-across-military-services/"
+    excerpt: "After spending the past few years demonstrating how artificial intelligence tools can boost U.S. military efforts, the office responsible for overseeing such programs at the Defense Department is"
+    publishedDateTime: 2021-01-15T15:51:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/pentagon-aims-to-spread-artificial-intelligence-across-military-services/article_fd5b7739-fe9d-5d88-9c4c-aac310b6d900.html"
     type: article
     provider:
-      name: Roll Call
-      domain: rollcall.com
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
     quality: 51
     images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2021/01/GettyImages-1192770770.jpg?resize=1200,600"
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
   - title: "Artificial intelligence puts focus on the life of insects"
     excerpt: "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing unknown species and for tracking the life of insects across space and time."
