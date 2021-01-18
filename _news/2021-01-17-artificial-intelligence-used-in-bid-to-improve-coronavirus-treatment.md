@@ -25,21 +25,16 @@ images:
 
 related:
   - title: "Artificial intelligence used in bid to improve coronavirus treatment"
-    excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients. It is hoped that thousands of scans made available to hospitals will result in patients with Covid-19 receiving faster treatment,"
-    publishedDateTime: 2021-01-18T00:16:00Z
-    webUrl: "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/"
-    ampWebUrl: "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/amp/"
-    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/amp/"
+    excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'"
+    publishedDateTime: 2021-01-18T06:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
     type: article
     provider:
-      name: Evening Express
-      domain: eveningexpress.co.uk
-    quality: 57
-    images:
-      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/2.57546805-3-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Researchers use natural language processing tech to identify new coronavirus variants"
     excerpt: "The utility of natural language processing algorithms for understanding and predicting the changes of viruses lies in the adherence of viral structures to a kind of grammar and semantics, MIT Technology Review reported."
     publishedDateTime: 2021-01-15T19:15:00Z

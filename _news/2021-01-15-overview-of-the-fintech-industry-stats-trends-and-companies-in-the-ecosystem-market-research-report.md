@@ -84,6 +84,20 @@ related:
         width: 853
         height: 480
         isCached: true
+  - title: "Fintech apps that blew our minds (and helped our wallets) in 2020"
+    excerpt: "As people stayed in the safety of their homes for weeks and months on end, we needed to alter our daily routines and use technology more than ever. From Zoom meetings and food deliveries to online shopping"
+    publishedDateTime: 2021-01-18T04:14:00Z
+    webUrl: "https://businessmirror.com.ph/2021/01/18/fintech-apps-that-blew-our-minds-and-helped-our-wallets-in-2020/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 24
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/01/Fintech-Apps.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "X7iFdD6U/nflS7vPCww4MLHDYLuYmtRwsbLdT/Das4r6IGVBm0hopoPVFFfXwd9D5axEt/kBJeE4aJMijAKSjDsA9IRTVIuvFHcjdMoTzfmTCMjnhwZJWMs0iMN8cvyPSw6nu4lIwIn+Z9yxXf0kYRK+zVwD2jNERhNybF3tQnzaFXyyWMjKorFHXSlen2DcxXmZujd1sN3gZx+ySTiWqfrOV03BD/xMPNB9dhwp3FHktVoNau04klz+pBkXMBqIMDUqx+ZQ8/bjOLuuZVQg9cAaXkd1A6UvBSydi0o+LRMAvAAMWQdY33X0ETbYj9JIpQJvjoFBu9cXdJxe5PU0X7cHvKL7mLihFsBWHle1uf95qZe3iPvMfV6Z/4WUXccLVLSUmXL5KCDn5WiSOH8PpRbme+cyK43McYj8wjgutoi/vs3JudAI59oYysUSDi58Cl5PNPLGoV4Oci/ut1vMXOrm8B76cPFa9dQN6khCT/q0Oxs1htbLY6zrbml+pod4v2KTFd2WJ0MXL/xPW+9ssA==;arIgMpWPQfe1+r1ua1xXjA=="
 ---

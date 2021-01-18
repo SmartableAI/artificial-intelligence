@@ -108,6 +108,29 @@ related:
         width: 1280
         height: 740
         isCached: true
+  - title: "KLIA to roll out facial recognition technology in 1H 2021"
+    excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
+    publishedDateTime: 2021-01-18T06:43:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=1923008"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 39
+    images:
+      - url: "https://www.bernama.com/storage/photos/4d11767660ecb3d1edf7fac350faa2aa5e8d5d9f630d5-medium"
+        width: 350
+        height: 219
+        isCached: true
+  - title: "Facebook nabs facial recognition website"
+    excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."
+    publishedDateTime: 2021-01-18T06:12:00Z
+    webUrl: "https://www.itp.net/commsmea/12296"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "MJm0hAARvUeUT+rde6Lf/DB/+pnSe+KkMau+K9XAdtHQXqJ4+/1QQUOAhaAwzAdkuRivKdSUEXPIiRqb3JbSn370b9JooOn4igJRNLj+gvCNtTeU8No8ml+wJ0KSD0Zf1cqa21uy9406yj8BPiaZOfgII1j/qkWCGz1coT8IUSadprYO89lxgRANKc3DCNk+ebxq1pL07xPp2cmTgq+VU5r8PtWGprtCAUJC3de9pKPMm1kskctWtTk70vcTLNJKupMB5SG5D4Gkh1alGUImRDkEdBTordkey7QWAvOuoWreWVWyO32cqZwKm9IyljkOHN65KctNTqDJ3ozNh6/3rTpLyEbkWW4qOU++Ppx6A+s/Db6YWFkFS5o/dCGtLncHNpuxiT3dm/Dg5PqRM4fMSlozP8BWR5vSUWa7lmWt8mAwxckKwNxsS7TTl7EA/6ywH/ZlnflN+XU1/UIftHRpmpgVWtO2pA8T8x04Z0roDjyd8/tVmdFtvE4ctGLpa3Czz79xkncgK39Wfs2QcS3vHg==;tWk1KL4Aiu/AfrPmnnQZgA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.autoremarketing.com/technology/callrevu-uses-ai-machin
 webUrl: "https://www.autoremarketing.com/technology/callrevu-uses-ai-machine-learning-latest-dealer-solution-upgrade"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Auto Remarketing
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "CallRevu Launches Communication Intelligence (CI)"
-    excerpt: "CallRevu's CI Platform is powered by artificial intelligence to provide insights into customer communications."
-    publishedDateTime: 2021-01-13T14:57:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144703"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 22
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "CallRevu Enhances Its Communication Intelligence (CI) Platform"
     excerpt: "CallRevu's CI Platform is powered by artificial intelligence to provide insights into customer communications."
     publishedDateTime: 2021-01-15T10:29:00Z

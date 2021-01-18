@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Facial Recognition Market Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2026"
-    excerpt: "Selbyville, Delaware, this detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere."
-    publishedDateTime: 2021-01-13T14:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2026-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Size, Share 2021 Global Industry Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
     excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
     publishedDateTime: 2021-01-14T05:44:00Z

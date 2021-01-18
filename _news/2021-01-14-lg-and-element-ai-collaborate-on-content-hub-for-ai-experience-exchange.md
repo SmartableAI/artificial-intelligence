@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "LG and Element AI Collaborate on Content Hub for AI Experience Exchange"
-    excerpt: "CNW/ - At CES® 2021, LG Electronics (LG) president and CTO Dr. I.P. Park and Element AI CEO Jean-François Gagné will unveil AIX Exchange: The Future of AI"
-    publishedDateTime: 2021-01-13T14:00:00Z
-    webUrl: "https://www.newswire.ca/news-releases/lg-and-element-ai-collaborate-on-content-hub-for-ai-experience-exchange-881529040.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1419259/LG_Electronics_Canada_LG_and_Element_AI_Collaborate_on_Content_H.jpg?p=facebook"
-        width: 1248
-        height: 653
-        isCached: true
 
 secured: "IZMawPOdBe3H+AZHadDjXXsyBDHGd74LtcAo6Lh1p3eVcVgs/yhJe7O1IUYbr826IkeqYoqBvr7AOEduVYewP8cXLzIIE0oM19pNIYx6a6pZcLWd1z6OwkbvRa6hQu5vVmm0ymYg4Y3Ft6ZNE886a3IgMQ8ctz5OfuCd9lS0rK5uPB4TgbVFvJik5MH+qO6SH8/KnT3KF4eTIi8uP6JGWL7szLivo/2NWsc969GF+WA4VwdI1bbqy8kYoCDrmnyjRnq9fEwze+ToFzxgotrfJ8PTSFGsPgECJdUdRJBE65QOWTdjgG/S3z020pvR6Dluhe7YX9NfmsEZPKIQoOBRXU8o0LeYTvHwGvcc949ejfQ=;CgitFZMOTDevUCQxVqEWKQ=="
 ---

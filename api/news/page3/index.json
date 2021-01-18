@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-15-this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life.md",
+      "title": "This cute AI pet will fill the deep, dark void in your life",
+      "excerpt": "Meet Moflin, an AI pet with “emotional capabilities that evolve like living animals.” The creature, which looks like a cross between a hamster and a slipper, won the Best of Innovation Award in Robotics at CES 2021 this week.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-14T145203.477-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/amp/",
+      "publishedDateTime": "2021-01-14T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-exemptions-from-some-safety-rules-eyed-for-self-driving-cars.md",
       "title": "Exemptions From Some Safety Rules Eyed for Self-Driving Cars",
       "excerpt": "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans.",
@@ -62,7 +113,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -159,7 +210,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -861,7 +912,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -913,7 +964,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1105,49 +1156,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-callrevu-uses-ai-machine-learning-for-latest-dealer-solution-upgrade.md",
-      "title": "CallRevu uses AI & machine learning for latest dealer solution upgrade",
-      "excerpt": "CallRevu recently upgraded its communications intelligence (CI) solution to help dealerships monitor and improve their communications with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoremarketing.com/technology/callrevu-uses-ai-machine-learning-latest-dealer-solution-upgrade",
-      "originalUrl": "https://www.autoremarketing.com/technology/callrevu-uses-ai-machine-learning-latest-dealer-solution-upgrade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autoremarketing.com/sites/default/files/CallRevu%20for%20web.png",
-          "width": 880,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T11:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto Remarketing",
-        "domain": "autoremarketing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-the-ai-arms-race-comes-to-enterprise-content-management.md",
       "title": "The AI arms race comes to enterprise content management",
       "excerpt": "Enterprise content management (ECM) platforms that have historically been employed to manage files are, thanks to the rise of AI, about to evolve into central repositories for keeping track of relationships between a much wider range of types of data.",
@@ -1156,7 +1164,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {

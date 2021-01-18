@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/after-a-record-year-for
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/after-a-record-year-for-israeli-startups--16-investors-tell-us-whats-next-9702750"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -23,24 +23,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Israeli AI tech aims to transform patient care for the better"
-    excerpt: "The imaging AI allows a clinician to see the progression of COVID-19 in the lungs, and helps the doctor decide if the patient needs to go to the ICU, needs a ventilator, or if the condition of the patient is not critical."
-    publishedDateTime: 2021-01-13T14:33:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/israeli-ai-tech-aims-to-transform-patient-care-for-the-better-655302"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/israeli-ai-tech-aims-to-transform-patient-care-for-the-better-655302/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-ai-tech-aims-to-transform-patient-care-for-the-better-655302/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/467120"
-        width: 640
-        height: 428
-        isCached: true
 
 secured: "iPzKjcO/ivgc3g0rCDCqYAWAtAtC5VD4P19K3MklY0tRRpZfG6EOPxyjqdi3x938wqB9+bm8UlRvija26w9T5nQollsyRG6uIZum3STqiUX5MxPePiowkv5F8yFE45SyQTN3HjNk3S6hOjUcOc14KxRRn/oeRdfCR/mwvybQ2ZvTXGkXb7PmT2ZXj2yWKdGOaD5ZpJb42d9XUzy4JwAFV2N2qdAbuigHX6kdemYQj+SdgTJ02gPsS3Ae2ByG2XznqIS6EUjkCJl4OLqlFtXqFJXEQ/wtjL0lmzioAnHog2uPq5cz0TXcR79SzEOAQWVBwcglJ6szV4HSYhnrjkxwwE9lX6sk9bcVVouINyxOggM=;NbPvl9qb/TinfKP2BnyAXQ=="
 ---

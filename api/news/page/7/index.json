@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-12-watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine.md",
+      "title": "Watch Samsung’s clever home robot lay the table and pour wine",
+      "excerpt": "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
+      "originalUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
+      "publishedDateTime": "2021-01-11T19:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style.md",
+      "title": "Philips Sonicare 9900 Prestige toothbrush uses AI to adjust to your style",
+      "excerpt": "Machine learning and AI are the buzzwords in tech these days and almost all new products add these to their bullet points as a selling feature. Although they have long been using such marketing",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
+      "originalUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/philips-9900-prestige-in-use.download.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
+      "publishedDateTime": "2021-01-11T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-chinas-baidu-to-team-up-with-geely-on-evs.md",
+      "title": "China's Baidu to team up with Geely on EVs",
+      "excerpt": "The new company will make and sell electric cars. Baidu will provide the technology for self-driving, while Geely will likely handle production. Baidu has not provided further details, such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210112_09_929166_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
+      "publishedDateTime": "2021-01-11T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise.md",
       "title": "IBM acquires 7Summits to deepen its salesforce consulting expertise",
       "excerpt": "IBM acquires 7Summits to expand scope of Salesforce consulting practice focusing on digital business transformation",
@@ -1080,153 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier.md",
-      "title": "Microsoft's Power BI and DirectQuery: Making data analysis and visualisation easier",
-      "excerpt": "Mixing datasets to generate complex insights can help even the smallest organisation maximise business value from its data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/11/bdf92a85-ff6a-4ca8-9dc6-c1568df3cb28/resize/1200x/50c9144aa13bac2aefd673276c636f1b/istock-679353026.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "publishedDateTime": "2021-01-11T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs.md",
-      "title": "AI Drug Discovery Startup Valo Raises $190 Million And Unveils Cancer Therapy Programs",
-      "excerpt": "The Boston-based company aims to accelerate the drug discovery process for cancer therapies that are both more effective and less toxic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexknapp/2021/01/11/ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs/",
-      "originalUrl": "https://www.forbes.com/sites/alexknapp/2021/01/11/ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffbcd6ed1f8d43cb34beaad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D237%26cropY2%3D2505",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2021/01/11/ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2021/01/11/ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs/amp/",
-      "publishedDateTime": "2021-01-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-baidu-geely-join-hands-to-establish-intelligent-ev-company.md",
-      "title": "Baidu, Geely join hands to establish intelligent EV company",
-      "excerpt": "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Robin Li, Co-founder and CEO of Baidu, said in a statement. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prokerala.com/news/articles/a1120051.html",
-      "originalUrl": "https://www.prokerala.com/news/articles/a1120051.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prokerala.com/news/photos/imgs/1200/self-driving-cars-can-easily-mimic-human-drivers-xinhua-ju-huanzong-ians-993334.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.prokerala.com/news/articles/a1120051.html?amp=1",
-      "cdnAmpWebUrl": "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1120051.html?amp=1",
-      "publishedDateTime": "2021-01-11T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prokerala",
-        "domain": "prokerala.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

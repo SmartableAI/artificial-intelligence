@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-securit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
 type: article
 quality: 106
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -108,6 +108,29 @@ related:
         width: 1280
         height: 740
         isCached: true
+  - title: "KLIA to roll out facial recognition technology in 1H 2021"
+    excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
+    publishedDateTime: 2021-01-18T06:43:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=1923008"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 39
+    images:
+      - url: "https://www.bernama.com/storage/photos/4d11767660ecb3d1edf7fac350faa2aa5e8d5d9f630d5-medium"
+        width: 350
+        height: 219
+        isCached: true
+  - title: "Facebook nabs facial recognition website"
+    excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."
+    publishedDateTime: 2021-01-18T06:12:00Z
+    webUrl: "https://www.itp.net/commsmea/12296"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "dzLK0ZEjecOgeWsHkpL5KN+2Sh29bkPv42BQaVhc+aMIlVsF0SPlbDhMMAPpFVRsNNOGoW63mgTsue4hOxy/3odg01kTWvgU/jxYxajxH4jLinexyD+mdgEtyzTQ9hKkWhfQGci9Ivyh1aqTV3ikuWJBlRv90aqtZRDExeojlRJyQW4G9gZ+SWzH2J+6lyYGcmNSHSS3hVpB8/oSakXVH+aQf0YCHeYrnypuGpaKZyOs6XSmPiDe9p5sL7N93hL2DTzKZwDZ43O1mocLr5yTgJDTOZRJ2FNrRap9AQeeT8qaBQnlLWzyJlxlTLODDkdC+QWVxKmKtTxWi90ewqIQqB83AO++oPw8nGd58NfPF7OAgJj7rVMKCJExi6PQ4tigXBW3qG5btb48LveQT9ZWtP0X5ATxmyqSSjuliCMuy6AJvb/7SWPVW6NQ+5W597YnvyY5AV2uV/18WG3F9G46d3vjLqEuRJBx3FIgcL/4K/tkQdfvh78c8AcKYmgqL9GUEl/nYlWvjN22kp7LHLqouA==;EegxntQl7les7SSZdNX8UQ=="
 ---

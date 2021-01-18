@@ -24,17 +24,6 @@ images:
     height: 768
     isCached: true
 
-related:
-  - title: "Healthcare Fraud Shield Announces Growth Investment by Charlesbank Capital Partners"
-    excerpt: "(GLOBE NEWSWIRE) -- Healthcare Fraud Shield (the “Company” or “Healthcare Fraud Shield”), the leading provider of Fraud, Waste and Abuse (“FWA”) detection software to healthcare payers, announced today that Charlesbank Technology Opportunities Fund,"
-    publishedDateTime: 2021-01-13T14:47:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-health-care-industry-3c701526d68a0ce0cbd1943ef6165606"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-
 secured: "zy2lE5lDAwBkzapbr9hDnAJqGtIZKUXveTnatuoyg7qBmLuFpwBKJhQOIOLdYFoF+jE4q1XJcV2gh1CK4vSOzhDCe67w5xCK3zBD7mUIqqI+yz6z7aGeX89WvJnLPnw2YLCuJ6EYhYS8g0KyaB3oMArK3FYGbUZQpWGrpePgU1/GHwPVjcPeOnhem1gY3FICH93/+DChRCNNZFsiRxtVgsVuf0YYhRyBwyNqU516tr5b66EG7YEw7UNO4TX4DTc5CY2P5tMHbvQkESOISfYfaM/XfBfNAqZRic1KYyf6kC2Me08aAE9w3sZHN76zLJR8tdovCjmrwEE2IGzhYEMG2uhNLfYYoarDINPZMyi+/k4=;ZCkhmIUZxhEbig7humoOVQ=="
 ---
 

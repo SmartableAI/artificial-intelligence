@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Device Market Industry Demand, Top Players, Industry Future Growth by 2025"
-    excerpt: "Selbyville, Delaware, The Global Face Recognition Device Market Research Report 2020-2025 is a valuable source"
-    publishedDateTime: 2021-01-13T14:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-industry-demand-top-players-industry-future-growth-by-2025-2021-01-13"
+  - title: "Natural Language Processing Market By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The global natural language processing (NLP) market was valued at USD 10."
+    publishedDateTime: 2021-01-15T17:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2021-01-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market 2021 : Top Countries Data with Drivers and Restraints, Business Opportunities, Advancement Technologies and Forecast to 2026"
+    excerpt: "Research Reports has published a detailed report on “Computer Vision Market\" 2021 which has been categorized by"
+    publishedDateTime: 2021-01-15T14:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-top-countries-data-with-drivers-and-restraints-business-opportunities-advancement-technologies-and-forecast-to-2026-2021-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,34 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Segmented by Product Top Manufacturers Geography Trends & Forecasts to 2026"
-    excerpt: "Global voice recognition market is universally gaining prominence as one of the fastest emerging verticals within the sustainable and smart technologies space and will experience notable growth in the future."
-    publishedDateTime: 2021-01-14T13:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2026-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
-    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
-    publishedDateTime: 2021-01-13T18:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-technological-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market Share 2021 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2025"
     excerpt: "Global Cloud Natural Language Processing Market Research Report focuses on market size, status and forecast 2020-2025, along with this report also focuses on market opportunities and treats, risk analysis,"
     publishedDateTime: 2021-01-14T07:46:00Z
@@ -99,22 +85,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market worth USD 53.0 Billion by 2025 | Latest Innovation, Advance Technology, Top Companies"
-    excerpt: "According to Market Study Report Image Recognition Market provides a comprehensive analysis of the Image Recognition Market segments including their dynamics size growth regulatory requirements competitive landscape and emerging opportunities of global industry Get Free Sample Report in PDF Format"
-    publishedDateTime: 2021-01-13T17:30:00Z
-    webUrl: "https://www.openpr.com/news/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
-    ampWebUrl: "https://www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2224805/image-recognition-market-worth-usd-53-0-billion-by-2025-latest"
+  - title: "AI in Asset Management APAC Market (2020 to 2026) - Industry Analysis and Forecast - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific AI In Asset Management Market is expected to witness market growth of 44% CAGR during the forecast period (2020-2026). From the past few years, financial institut"
+    publishedDateTime: 2021-01-14T06:48:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-investment-management-d53744c8ae134ea8839dbdc874cc9b17"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
-    images:
-      - url: "https://cdn.openpr.com/U/1/U113350752_g.jpg"
-        width: 640
-        height: 411
-        isCached: true
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+  - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."
+    publishedDateTime: 2021-01-14T06:44:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-global-trade-import-and-export-prices-middle-east-asia-e6cebd1d76284a94a4b2061ea8050aa6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "INWvF+qdXp3of2yN7u6c55Cjf09jX2lqSH64uX8Qtu4xAIIg+nbAEawCggyuGqgGNMJeCCFg9T4A+O0gzdeIlTarUvdNl6sLY4Q4CBRy/HcNt3f0wXZo+kqKtWkHXTfz6ugLaaPdu2Pcawpjzi/bFipizBSk6cvCyx5fw5X3J/0lWPv2GgtT7giFdQNDxR/U0nQTNyxX9Y5WHPdTuqTNJExxzXCUJ5kZMSf461VPlmSept3XCDP8qui0SKKmrBhKHz0lkd8N9jpOQwbnaKAs2sXsGKBZHKyQPbHZCRxq28HeJaGwiTlTN8eAEMeXL7IRXI1hidJte1mZqXoxXut3mqaI0on0pLAHybt8/9BxSZ8=;3ZG8haSNMmWIwuYc1hINMQ=="
 ---

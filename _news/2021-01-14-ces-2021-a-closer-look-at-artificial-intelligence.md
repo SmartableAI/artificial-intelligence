@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "CES 2021: This AI dog collar tells you how your pup is really feeling"
-    excerpt: "If your dog could talk, what would it say? Well, thanks to the PetPuls AI-powered dog collar, you can get a glimpse into your pup's state of mind. Well, sort of, anyway. Debuted at CES 2021, the PetPuls smart collar uses artificial intelligence and built-in microphones to track your dog's barks and detect five different emotional states: happy,"
-    publishedDateTime: 2021-01-13T14:18:00Z
-    webUrl: "https://www.techradar.com/uk/news/ces-2021-this-ai-dog-collar-tells-you-how-your-pup-is-really-feeling"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/dUaWgkQPqfKHrSX8hs37nn-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The best new robot vacuums of CES 2021"
     excerpt: "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year."
     publishedDateTime: 2021-01-14T13:39:00Z

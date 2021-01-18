@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytic
 webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
+    excerpt: "Molecula, an enterprise feature store built for machine-scale analytics and AI, announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by Drive Capital,"
+    publishedDateTime: 2021-01-17T14:40:00Z
+    webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 8
 
 secured: "LxJvpmAAGwSmzyYEp4uUAtKRdCIP6yrt+SPYHYpvjuFFI6xL28T/U+UrzcBhdHR5bF1zYjecIOstyKAtPPNqVKSNojY42jIDiTeKAfmwXgrqCC8o8pyMVW0HOzQyaRUrWA0zdIKJ6ZaQ8u4esUJfD/G4NhsluR82hGq4E9ZP0uGy0YFAZRiQoZ6NhCzVJEQpLEDtsKWyFIOgl1iojDtP6woDkgDx42MTIxhWELg9blmvNEYM7xDUTVlBu+cCQTN3JXpGnZKea+KMtWmWhm2nvM/BlTSQacvOA/QSK1VaGF8yGyxcnhokJw6BD9Ea8mLas9THls4/UpWeg/QXFvP415Pti8wgc36C4+j+bvzRhec=;7NLUp6se2MLIuShfx2GfEg=="
 ---

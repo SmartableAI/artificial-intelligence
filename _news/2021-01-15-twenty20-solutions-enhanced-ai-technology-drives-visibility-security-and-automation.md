@@ -41,15 +41,6 @@ related:
         height: 480
         isCached: true
   - title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
-    excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and classification capabilities designed to maximize operational efficiency for its customers."
-    publishedDateTime: 2021-01-13T14:19:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210113ph48036/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 16
-  - title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
     excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control"
     publishedDateTime: 2021-01-13T20:19:00Z
     webUrl: "https://www.benzinga.com/pressreleases/21/01/n19151399/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities"

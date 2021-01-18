@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-18-artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment.md",
+      "title": "Artificial intelligence used in bid to improve coronavirus treatment",
+      "excerpt": "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
+      "publishedDateTime": "2021-01-17T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection.md",
+      "title": "Fitch invests in AI start-up to improve bank misconduct detection",
+      "excerpt": "Fitch Ratings has struck a partnership with a French artificial intelligence start-up as it seeks to improve its early detection of misconduct after a spate of high-profile banking scandals around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
+      "originalUrl": "https://www.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcfa249f5-9238-4f03-9088-af8349dcc534.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
+      "publishedDateTime": "2021-01-17T21:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
       "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
       "excerpt": "The pandemic created a new sense of urgency regarding getting AI and ML projects completed, a key point made by CIOs across the financial services and tech sectors last year during interviews.",
@@ -52,48 +137,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment.md",
-      "title": "Artificial intelligence used in bid to improve coronavirus treatment",
-      "excerpt": "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients. It is hoped that thousands of scans made available to hospitals will result in patients with Covid-19 receiving faster treatment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/",
-      "originalUrl": "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/2.57546805-3-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/amp/",
-      "cdnAmpWebUrl": "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/amp/",
-      "publishedDateTime": "2021-01-17T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Evening Express",
-        "domain": "eveningexpress.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -650,7 +693,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1038,7 +1081,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2021-01-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1182,49 +1225,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-604-in-december.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 60.4% in December",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) saw a significant drop in short interest during the month of December. As of December 31st, there was short interest totalling 197,600 shares,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html/amp",
-      "publishedDateTime": "2021-01-15T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

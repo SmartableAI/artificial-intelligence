@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Facial Recognition Market Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2026"
-    excerpt: "Selbyville, Delaware, this detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere."
-    publishedDateTime: 2021-01-13T14:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2026-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Intelligent Virtual Assistant (IVA) Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
     excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
     publishedDateTime: 2021-01-14T10:38:00Z

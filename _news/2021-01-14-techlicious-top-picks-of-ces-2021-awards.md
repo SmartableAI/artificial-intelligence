@@ -7,7 +7,7 @@ originalUrl: "https://www.techlicious.com/blog/techlicious-top-picks-ces-2021-aw
 webUrl: "https://www.techlicious.com/blog/techlicious-top-picks-ces-2021-awards/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 700
     height: 370
     isCached: true
+
+related:
+  - title: "Digital Trends Top Tech of CES 2021 Awards"
+    excerpt: "The first all-digital CES brought challenges, but also a world-changing slate of amazing gadgets and devices. We picked the best of the best."
+    publishedDateTime: 2021-01-13T17:15:00Z
+    webUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/"
+    ampWebUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
 
 secured: "V/PZHLsXPkfPvG3RKR2os3RDzBnqVrfInMlqVBWOgrg6M96eAZBhJg8LSK3soi18xBRMSwBCDAb5B5jRPLelllotldrbtia2RgEhcV9SMnFQc8EkcmdpqUuPhS6RESoVE0UhvLJ+rS0vrBgL0wGA3vsOo8p7LomRxMk2RWBCVraRqzMw5ANvd81EanFiHAR4jiTDib8Nm8+VN4TkVF3J0HAxOXiribP+6mVg2WDBaeu6NVPdMoJF1NmbLOvtPNg1tlOjPJ8D0aDrYqd4PZGOwxjEpRXM5z8BQ+G2R/yUhEOcYkf30Ow7qiydfuG83Oeu+D2jPyixtkYIy4ry/35pzAGtwP5QTxhGoRZsll9bHaTMVbyTJcI5ezEYeJA0VJYJA2xyASUQ2liWMJTl6wR+2bZNaM98TJ4l7+rKhoj4GAyAq/ThRwHVlI8IcKQDVPI1trfuTIN54h6fC2oa10ZeoS2AVAaddRZMlG/0d3aD2oznfrB3v37O65+NUqhSug/wn2jv/pls0Z1HEGRDTdhUvQ==;DQyuqVb30WR9zCIDTPlmGA=="
 ---

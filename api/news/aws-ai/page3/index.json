@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-10-capital-one-closes-all-data-centers-relies-on-aws-on-demand-infrastructure.md",
+      "title": "Capital One closes all data centers, relies on AWS on-demand infrastructure",
+      "excerpt": "The highly regulated financial industry has been notoriously cautious about moving to the cloud. To benefit from the flexibility and economy of cloud computing but also to be able to address ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Melanie-Frank-AWS-re-Invent-2020.jpg",
+          "width": 666,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-aws-accelerates-ai-and-ml-in-the-public-sector-with-the-rapid-adoption-assistance-initiative.md",
       "title": "AWS accelerates AI and ML in the public sector with the Rapid Adoption Assistance Initiative",
       "excerpt": "It provides a direct, scalable and automated mechanism for all the public sector partners to reach out to AWS experts within our team for assistance in building and deploying machine learning workloads on behalf of the agencies,",
@@ -1279,49 +1322,6 @@
       "provider": {
         "name": "TV Technology",
         "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities.md",
-      "title": "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\"",
-      "excerpt": "It will also use Amazon Rekognition software to tag every frame of its movie and TV library, \"making it easier for MGM’s partners to find and license film and TV shows for their lineups.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "originalUrl": "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "publishedDateTime": "2020-12-07T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
         "images": null,
         "publishers": null,
         "authors": null

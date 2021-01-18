@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-and-art
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Enterprise AI Market Growth Analysis, Outlook by 2021 - Trends, Opportunities and Forecast to 2025"
+    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
+    publishedDateTime: 2021-01-14T14:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-outlook-by-2021---trends-opportunities-and-forecast-to-2025-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Space Robotics Market Size Worth $5.7 Billion By 2027 | CAGR: 5.2%: Grand View Research, Inc."
     excerpt: "The global space robotics market size is expected to reach USD 5.71 billion by 2027, registering a CAGR of 5.2% from 2020 to 2027, according"
     publishedDateTime: 2021-01-14T08:35:00Z

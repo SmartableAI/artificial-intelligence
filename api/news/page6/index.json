@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-12-dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show.md",
+      "title": "Dishwashing robots and Bluetooth masks: Pandemic products hit tech's biggest show",
+      "excerpt": "Companies big and small showed off their new innovations at the closely watched tech trade show, which kicked off on Monday, many with features tied to life during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "originalUrl": "https://www.wesh.com/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-4b3ba58cf2361b74931fdaec902b028f-h-23a6214b45f666e02e3ebea2eefaa196-1610457872.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/dishwashing-robots-and-bluetooth-masks-pandemic-products-hit-techs-biggest-show/35189660",
+      "publishedDateTime": "2021-01-12T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WESH",
+        "domain": "wesh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-fda-releases-artificial-intelligencemachine-learning-action-plan.md",
+      "title": "FDA Releases Artificial Intelligence/Machine Learning Action Plan",
+      "excerpt": "Today, the U.S. Food and Drug Administration released the agency's first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/fda-releases-artificial-intelligencemachine-learning-action-plan-301206557.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/317925/FDA_Logo.jpg?p=facebook",
+          "width": 2423,
+          "height": 1269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-us-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank.md",
       "title": "U.S. Fintech Artis Announces New Bank Funding Partneship With Drummond Community Bank",
       "excerpt": "Artis Technologies, a U.S.-based fintech that provides lending solutions for businesses, announced on Tuesday it has entered into a new bank funding partnership with Drummond Community Bank for its Artis Credit platform.",
@@ -309,6 +396,48 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders.md",
+      "title": "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders",
+      "excerpt": "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1034,143 +1163,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine.md",
-      "title": "Watch Samsung’s clever home robot lay the table and pour wine",
-      "excerpt": "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
-      "originalUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
-      "publishedDateTime": "2021-01-11T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style.md",
-      "title": "Philips Sonicare 9900 Prestige toothbrush uses AI to adjust to your style",
-      "excerpt": "Machine learning and AI are the buzzwords in tech these days and almost all new products add these to their bullet points as a selling feature. Although they have long been using such marketing",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
-      "originalUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/philips-9900-prestige-in-use.download.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
-      "publishedDateTime": "2021-01-11T18:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-chinas-baidu-to-team-up-with-geely-on-evs.md",
-      "title": "China's Baidu to team up with Geely on EVs",
-      "excerpt": "The new company will make and sell electric cars. Baidu will provide the technology for self-driving, while Geely will likely handle production. Baidu has not provided further details, such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210112_09_929166_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "publishedDateTime": "2021-01-11T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

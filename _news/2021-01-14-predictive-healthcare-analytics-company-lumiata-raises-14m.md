@@ -64,6 +64,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
+    excerpt: "Molecula, an enterprise feature store built for machine-scale analytics and AI, announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by Drive Capital,"
+    publishedDateTime: 2021-01-17T14:40:00Z
+    webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 8
 
 secured: "pLgsRxR1fgPvaVAL9GzHz0ZwFvcRvJZ4ZFAkFxQ+bvqEdkwd3fUr2GopVFk0lQmtWfIUr8QFZ6ab3d8CAncFp5GP9ZL4nXHQXvTFtxNiuYKxG+MyF0GuBST+51VRyvSYmJZPnL1XF8DrBa/kKBYs4O0Ft0ZmveetBUh7JMeh7YvRSNkmILhl0oF26ATUiMWnGAoSS9ZupQVMwS2ZC93o9vlWs2uOyEW559SHayMdWPP5NwgIy/0E2M1VaPa9gzFRl1RfUtpLij+RU0W/evth5/Pbd11L4IsCN2DHhYWRDDTFn4MjGb+VwwxEsoxrFF+l5X9Dr1TgUSscl4hCLOqlTXsiIEa4e0Lj96dwQoEy7OLlJNooA1UHe8+1UZ5WPsiZQ1hSv2m4kusJ7ai3NnrZbp5nD5Tf7ubVltS3+EoitVSUXsFNylnc6l729+/M4sJh06XI8pstrfmH3bAc//011Ejw7tTbehzKWWj4JoVNqt47qgCYOn96rK92e5wVesU6Qrr7s7gPmm/rKvWu3UDTVw==;eMyXTEs8w62zzmaCazZZ3Q=="
 ---

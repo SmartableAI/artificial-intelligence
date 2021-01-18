@@ -2,6 +2,136 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-07-4-stocks-to-gain-traction-from-fintech-evolution-in-2021.md",
+      "title": "4 Stocks to Gain Traction From Fintech Evolution in 2021",
+      "excerpt": "Certain behavioral changes induced by the pandemic like online shopping, cashless payments and no-contact deliveries are here to stay and will continue to boost the Fintech space in 2021 and the years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-dall-e-openais-ai-system-can-convert-words-and-sentences-into-images.md",
+      "title": "DALL-E: OpenAI’s AI System Can Convert Words And Sentences Into Images",
+      "excerpt": "OpenAI has developed an AI system that lays its foundations in GPT-3, DALL-E — capable of creating images from natural language texts.",
+      "sourceUrl": null,
+      "webUrl": "https://techlog360.com/dall-e-openai-ai-system/",
+      "originalUrl": "https://techlog360.com/dall-e-openai-ai-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/tl360.b-cdn.net/wp-content/uploads/2021/01/DALL-E-OpenAI-AI-System.jpg?fit=1200%2C630&#038;ssl=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techlog360.com/dall-e-openai-ai-system/amp/",
+      "cdnAmpWebUrl": "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/dall-e-openai-ai-system/amp/",
+      "publishedDateTime": "2021-01-07T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techlog360.com",
+        "domain": "techlog360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-seoul-robotics-a-3d-vision-of-the-future.md",
+      "title": "Seoul Robotics: A 3D Vision Of The Future",
+      "excerpt": "Seoul Robotics leverages LiDAR 3D vision to make robots intelligent and enable autonomous systems from smart cities to smart factories",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff7162c24227293870c722f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
+      "publishedDateTime": "2021-01-07T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
       "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
       "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
@@ -1035,144 +1165,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure.md",
-      "title": "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure",
-      "excerpt": "New offering extends Blue Prism’s intelligent automation leadership in the cloud and brings increased benefits to Microsoft Azure users",
-      "sourceUrl": null,
-      "webUrl": "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/",
-      "originalUrl": "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.biztechafrica.com/media/images/stories/Screen_Shot_2021-01-06_at_6.42.51_PM.png",
-          "width": 509,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BiztechAfrica",
-        "domain": "biztechafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-robots-in-retail-what-investors-need-to-know.md",
-      "title": "Robots in Retail: What Investors Need to Know",
-      "excerpt": "I'll be watching you,'' that iconic yet creepy lyric from The Police song ''Every Breath You Take'' now applies to the world of artificial intelligence ... That's one aspect of the world of robots in retail. Find out what else could (literally) be in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/millionacres/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
-      "originalUrl": "https://www.fool.com/millionacres/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/millionacres/images/retail_store.max-1200x600.jpg",
-          "width": 899,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/millionacres/amp/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/millionacres/amp/real-estate-investing/articles/robots-in-retail-what-investors-need-to-know/",
-      "publishedDateTime": "2021-01-06T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops.md",
-      "title": "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops",
-      "excerpt": "Seneca College has teamed up with Microsoft Canada and the Royal Bank of Canada (RBC) to create opportunities for Canadian students, graduates",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888",
-      "originalUrl": "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1",
-      "publishedDateTime": "2021-01-06T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

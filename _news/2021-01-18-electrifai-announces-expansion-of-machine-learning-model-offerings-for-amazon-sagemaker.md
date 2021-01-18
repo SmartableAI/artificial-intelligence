@@ -76,15 +76,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
-    publishedDateTime: 2021-01-13T13:28:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 43
 
 secured: "InB9R/dertdLfo/MOa8Wno2ozjNN55RmxP9ZRIjV5R+BSkF6nJbVEaerMjFBDHvGPN7oaSbpL+pA+++vMrkZxiumom09HQJLBzMfUTY+9PEKTUPxfNXZD/LyK//x0n9s333syrp4U1RNf1BArUsLQywPomD/UFkByVclW9tDF1GutyHGlpVXPwKDOYc9tArrkIi8dREVau7ctw6RYWWl6/gnTGlDZXVxy19VrA0CdSxSzCEBOp25wz5TelaWl1sqs2KMgd5EWcIujq6QH3oWRF19gd87loViEUVL3HaV2X31JXpo1lrM1Y6uTGGba+7We+rUXjDnlKCpPv7Uq361qM0IutcyKvVn8MtACUEAPyc=;XpjHk3CH+8qIjsoYUBxJhA=="
 ---

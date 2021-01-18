@@ -30,31 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Molecula raises $17.6 million for its AI feature store technology"
-    excerpt: "Molecula, a company developing feature stores for AI and big data analytics workloads, has raised $17.6 million."
-    publishedDateTime: 2021-01-13T13:02:00Z
-    webUrl: "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/"
-    ampWebUrl: "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/"
+  - title: "Oqton raises $40 million to apply AI to additive manufacturing"
+    excerpt: "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million."
+    publishedDateTime: 2021-01-15T08:04:00Z
+    webUrl: "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/"
+    ampWebUrl: "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
-        width: 1000
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/fb-homepage-pic.jpg?w=1200&strip=all"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
-    excerpt: "Molecula, an enterprise feature store built for machine-scale analytics and AI, announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by Drive Capital,"
-    publishedDateTime: 2021-01-17T14:40:00Z
-    webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
+  - title: "Oqton raises $40 million to apply AI to additive manufacturing"
+    excerpt: "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million.Read"
+    publishedDateTime: 2021-01-16T07:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oqton-raises-$40-million-to-apply-ai-to-additive-manufacturing-9699103"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/oqton-raises-$40-million-to-apply-ai-to-additive-manufacturing-9699103"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oqton-raises-$40-million-to-apply-ai-to-additive-manufacturing-9699103"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 8
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+  - title: "Oqton raises $40 million to apply AI to additive manufacturing – Jaweb"
+    excerpt: "Oqton, a startup developing a factory operating system that integrates engineering software with manufacturing hardware, today raised $40 million. The company says the funds will be used to further develop Oqton’s platform while expanding its commercial partnerships in markets including additive manufacturing,"
+    publishedDateTime: 2021-01-15T08:45:00Z
+    webUrl: "https://elmoudjaweb.com/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing-jaweb/"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 37
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Oqton-raises-40-million-to-apply-AI-to-additive-manufacturing.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NAtM+2iNbY9gAOukwXIXTkss4kGKyNZKX1tPjm1tgLKFpXbxMV/hkw5n0DdPnmbwbHDOCo+6/2gxzmsZndJ6NaNKl86U4P2JRDxjB39Da467wn+mpVeRsS09E98YcU1fQc1Qr/bEDG6ipTxFSEBZVdKJnabcHXbRrhwBRLofhm3WuCbP7V9pzkkoLjJmrUYM4xHeeNkxU07GcKvmaUFWg1MPgQJ/+0CBIgh0brGVQ24l6m+2pU6pt8wHWC8s25GNi/IRtJSj1xTGRM+EbiT5VStjthDiza3cm2neQ/ztwgWTG6h6DOBAtsF/QuoPs7E0XSkQh0+mQsZ2+CUA49MCYAGviXxWw1gjW/FnUaTEWy8sql8BsCLkDfJCBQN0ieXFdx9MlCB33lLSuJCzeGLnWkBpeR7RU9K5A5NNH9F+S3/Y0pkHmh8foIY3q3QFfIdSJnN0+/eUxuu4WHPAESi4Qb/r1W3KgziLMudUKdI1YYmcd3gJ+zsuG91cd88dpsMKfY5BSRm5JxX8mfTmB534dw==;tmImLmDlLTBYgK6EyZn6pQ=="
 ---

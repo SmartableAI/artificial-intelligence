@@ -2,6 +2,153 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-04-microsoft-takes-azure-to-the-next-level.md",
+      "title": "Microsoft takes Azure to the next level",
+      "excerpt": "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
+      "originalUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg",
+          "width": 660,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-deep-learning-and-extreme-weather-catastrophes.md",
+      "title": "Deep Learning and Extreme Weather Catastrophes",
+      "excerpt": "Welcome to the second edition of the AI and Global Grand Challenges newsletter, where we explore how AI is tackling the largest problems facing the world. In the short term we are focusing exclusively on the use of AI in Healthcare and Climate Change!",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/deep-learning-extreme-weather-catastrophes-marcel-hedman",
+      "originalUrl": "https://www.linkedin.com/pulse/deep-learning-extreme-weather-catastrophes-marcel-hedman",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFBIRQHlQ4HQw/article-cover_image-shrink_600_2000/0/1609762916485?e=1616025600&v=beta&t=hXyO50zf5Us3Cow_8uO1rvaK4etLRmznXvdTxbcPSOM",
+          "width": 1800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-darpas-on-chip-terabit-laser-communication-program.md",
+      "title": "DARPA’s On-chip Terabit Laser Communication Program",
+      "excerpt": "American Institute for Manufacturing Integrated Photonics (AIM Photonics), a program of NY CREATES gave $19 million in research program awards for advanced integrated photonics under The Defense Advan",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/01/Screen-Shot-2021-01-03-at-3.07.33-PM-1024x695.jpg",
+          "width": 1024,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html?amp",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html?amp",
+      "publishedDateTime": "2021-01-03T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-payments-by-selfie-new-tech-lets-stores-be-paid-by-facial-recognition.md",
       "title": "Payments by Selfie: New tech lets stores be paid by facial recognition",
       "excerpt": "When we founded the company two and a half years ago, we were originally focused on offering a solution to give stores tools to personalize their customers’ shopping experience,” said CEO and co-founder Eyal Fisher.",
@@ -759,17 +906,17 @@
     {
       "path": "_news/2021-01-02-msbai-guru-shows-the-elements-of-artificial-intelligence.md",
       "title": "MSBAI GURU Shows the Elements of Artificial Intelligence",
-      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing ... showing society away towards driverless vehicles. To win the show, Watson utilized regular language preparing and examination on huge storehouses of ...",
+      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be ... in 2009 Google demonstrated its self-driving Toyota Prius could finish more than 10 excursions of 100 miles each, showing ...",
       "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
-      "originalUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
+      "webUrl": "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence",
+      "originalUrl": "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg",
+          "url": "https://menafn.com/updates/pr/2021-01/01/i_ea46ada3-8_Image_In_Body.jpg",
           "width": 744,
           "height": 389,
           "title": null,
@@ -781,11 +928,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-01T22:03:00-08:00",
+      "publishedDateTime": "2021-01-01T21:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1030,135 +1177,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award.md",
-      "title": "SambaNova Systems Wins “Best Innovation in AI Hardware” 2020 AIconics Award",
-      "excerpt": "SambaNova Systems, the company building the industrys most advanced systems platform to develop and deploy next-generation artificial intelligence (AI) and data-intensive applications from the data center to the cloud and the edge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/sambanova-systems-wins-best-innovation-in-ai-hardware-2020-aiconics-award/",
-      "publishedDateTime": "2020-12-31T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers.md",
-      "title": "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial services provider, is expanding its relationship with AWS and has selected AWS as its preferred cloud provider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers/",
-      "publishedDateTime": "2020-12-31T21:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-study-data-from-university-of-central-florida-update-knowledge-of-risk-management.md",
-      "title": "Study Data from University of Central Florida Update Knowledge of Risk Management",
-      "excerpt": "New research on Risk Management is the subject of a report. Financial support for this research came from Advanced Transportation and Congestion Management Technologies Deployment grant from Federal Highway Administration.",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/study-data-from-university-of-central-florida-update-knowledge-of-risk-management",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/study-data-from-university-of-central-florida-update-knowledge-of-risk-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-31T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

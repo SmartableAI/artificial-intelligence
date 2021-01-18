@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-17T10:08:00Z
 originalUrl: "https://www.heraldscotland.com/news/19017391.neil-mackays-big-read-artificial-intelligence-will-either-saviour-exterminator-human-race/"
 webUrl: "https://www.heraldscotland.com/news/19017391.neil-mackays-big-read-artificial-intelligence-will-either-saviour-exterminator-human-race/"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.heraldscotland.com/resources/images/12231798/"

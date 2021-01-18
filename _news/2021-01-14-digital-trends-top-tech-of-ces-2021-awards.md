@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,63 +25,20 @@ topics:
   - AI
 
 related:
-  - title: "AI Trends To Watch In 2021"
-    excerpt: "In order to tackle short-term, long-term and unexpected obstacles, many leaders have turned to AI to help navigate these disruptions."
-    publishedDateTime: 2021-01-13T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/13/ai-trends-to-watch-in-2021/amp/"
+  - title: "Techlicious Top Picks of CES 2021 Awards"
+    excerpt: "Our team of tech industry veterans scoured this year's virtual exhibit halls and picked our absolute favorite products for the Techlicious Top Picks of CES 2021 Awards."
+    publishedDateTime: 2021-01-14T15:07:00Z
+    webUrl: "https://www.techlicious.com/blog/techlicious-top-picks-ces-2021-awards/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Techlicious
+      domain: techlicious.com
+    quality: 24
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda5383788cdd2ee50b6eb3%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.techlicious.com/images/misc/ces-2021-award-logo-hero-layout-700px.jpg"
+        width: 700
+        height: 370
         isCached: true
-  - title: "The State Of AI In Production In 2021"
-    excerpt: "In 2020, I've seen numerous enterprises discover just how much AI and ML tools can help their organization remain stable and even continue to grow despite the turmoil rolling through the markets. But this growth comes with the necessity to assure the health of ML models in production to avoid drifts,"
-    publishedDateTime: 2021-01-13T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/13/the-state-of-ai-in-production-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Enterprise AI Market Growth Analysis, Outlook by 2021 - Trends, Opportunities and Forecast to 2025"
-    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
-    publishedDateTime: 2021-01-14T14:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-outlook-by-2021---trends-opportunities-and-forecast-to-2025-2021-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Startup Watchlist: 6 Indian Media & Entertainment Startups To Watch Out For In 2021"
-    excerpt: "The media and entertainment industry in India put up a great show in 2020. From adults who wanted an escape from their mundane work-from-home life, to kids who were trying to get used to playing indoors,"
-    publishedDateTime: 2021-01-17T18:51:00Z
-    webUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-6-indian-media-entertainment-startups-to-watch-out-for-in-2021/"
-    ampWebUrl: "https://inc42.com/infocus/startup-watchlist-2021/startup-watchlist-6-indian-media-entertainment-startups-to-watch-out-for-in-2021/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/startup-watchlist-2021/startup-watchlist-6-indian-media-entertainment-startups-to-watch-out-for-in-2021/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 31
 
 secured: "wWKh+oDJ1sHDzqSsuvT2jGVi8tsKspgWYq6M2tjF67r3NaSmGCFEwDfj4D8QtG5HwY+BUZ4nbEslckb403ZB9pPenXixFxYwsB3Tkhxj+VOaPsyyFYSKAGmFbysHwUk9ec6+N3AuMgN06A8m4Y/zUewVWMXYv4W4mEfBCAgjJRr8ayDiwGiiwirtI1AxxVRyACgfd61bzTYm12UD9MFcarZ7uL6AfY8Doa/AmmHihwl5vJWZ9Vkzekda7eX7OMwhzhF/vO3bTiqi1Ljw5NPPkHinBpjDMx1fMkH7mCK1zeDWcmW2MZXjrwp+KrTz8IDgy0a318z+Ngo2MakCU5+ZNQCcI+9yYhijbJgAtezBIPcHSPoZEaGKJBesxn/aNRIqqN9NDhs1MRVtaFxFq/hSZqy0T/bE+ISU5GVHJorHcKlgKUG7unX5VRtwuR3e94WM2A39ifvRtB+HHQ0shzNH6QsNWsGDUZiZi1l4j3dbWeA+AuteS3BqjTzbBznUfJeFt6v6UmccRYGj8gPINegcSA==;ilWt6ryI5PuSr2nWplupgg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuv
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Nasdaq
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Qualcomm will acquire Nuvia, server CPU maker led by ex-Apple chip architect"
-    excerpt: "The deal could give Qualcomm the high-performance chip design chops to match or beat Apple, which now offers powerful M1 computer chips."
-    publishedDateTime: 2021-01-13T14:19:00Z
-    webUrl: "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/"
-    ampWebUrl: "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/01/2019-01-04T130429Z_2_LYNXNPEF030OH_RTROPTP_4_QUALCOMM-M-A-BROADCOM-e1546625473928.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Qualcomm acquires chip startup Nuvia for $1.4 billion"
     excerpt: "Qualcomm yeterday announced that its subsidiary, Qualcomm Technologies, Inc., has entered into a definitive agreement to acquire NUVIA for approximately $1.4 billion before working capital and other adjustments."
     publishedDateTime: 2021-01-14T08:05:00Z

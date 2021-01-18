@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence used in bid to improve coronavirus treatment"
-excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients. It is hoped that thousands of scans made available to hospitals will result in patients with Covid-19 receiving faster treatment,"
-publishedDateTime: 2021-01-18T00:16:00Z
-originalUrl: "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/"
-webUrl: "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/"
-ampWebUrl: "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/amp/"
-cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/amp/"
+excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'"
+publishedDateTime: 2021-01-18T06:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
 type: article
-quality: 57
-heat: 77
+quality: 67
+heat: 87
 published: true
 
 provider:
-  name: Evening Express
-  domain: eveningexpress.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/2.57546805-3-scaled.jpg"
-    width: 2560
-    height: 1920
-    isCached: true
 
 related:
   - title: "Artificial intelligence used in bid to improve coronavirus treatment"
@@ -55,6 +53,6 @@ related:
         height: 300
         isCached: true
 
-secured: "90aFRDBpgJUIclENO0Qmvn66C/l7zTGOJDiRirwKlWrfErv1mvhHoLaXh7fwHSbW5xljzK+/OhgilbHzp9aRzAzOKuPfrm0cuZhLX1EzMCgIXZfwlWe7XLiu7exQf5I9iRjt8ZWJ467B2tHb6CyIfnhMpI320R4rAJIePouXiEsTMioN/+fr56insbciNLeqW2Sh85JX+jv4P3cUQ9eleWWz/Bjv8RrQ2Wf6vfwWIDqPvvE9aHi+Q7W8Vg91jcogG3YbfcBoPRA2z662TJpOu+46VbLzZsZGu6FqcuJoc3hlPkdKgLRMR0iWktj1a64URfahjDxQp0zvwy194TBFBY5XJFKW+yj9pRZskQeOwt0=;siHxyTOEElf198HOdY3Mjg=="
+secured: "c0ltmEm7gk9Rnx4WcNhqe7My9/G+R3jJvli2FEHkggoYbwYfaztCEY4RrW56hTQ2oJhpRverRqC5Mcd4Qj7R0KRxyyn4CprLHYvr+GBO715/3S0pIGldi7bL/6MG52sgPS8cGaTgvGXEzNzRKVFxD1q205Q/JKL1rshZqpcv4bg5kvtUJdnjIfrzQtWADBy6cW+3njePb9WhaYqhaAAmzEf9zW/eA37tJd3p0cDMZ1PZ7diNPTIkUWlTu55A8hWnfK1iZKCaMBXN7HbtGPQUE775H6iTtZ2o6r63Bf9jf3FqLyDLOMFl9YjlAp6TgeLULiGuZYKjIeufidq1FFrocMmIBJEgkWj+SOI4YZJnwHY=;r4NgbfZF15NU9OiD1C6xhg=="
 ---
 

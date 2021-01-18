@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm will acquire Nuvia, server CPU maker led by ex-Apple chip architect"
-    excerpt: "The deal could give Qualcomm the high-performance chip design chops to match or beat Apple, which now offers powerful M1 computer chips."
-    publishedDateTime: 2021-01-13T14:19:00Z
-    webUrl: "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/"
-    ampWebUrl: "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/01/2019-01-04T130429Z_2_LYNXNPEF030OH_RTROPTP_4_QUALCOMM-M-A-BROADCOM-e1546625473928.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Qualcomm To Snap Up Chip Startup Nuvia For $1.4B"
     excerpt: "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of next-generation 5G computing.  With this acquisition, Qualcomm (QCOM) will be able to put Nuvia’s processors into its portfolio of products,"
     publishedDateTime: 2021-01-13T15:57:00Z

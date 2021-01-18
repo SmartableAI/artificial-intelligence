@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watc
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
     images:
       - url: "https://mb.com.ph/wp-content/uploads/2021/01/Fintech-Apps.jpg"
         width: 853
+        height: 480
+        isCached: true
+  - title: "Fintech apps that blew our minds (and helped our wallets) in 2020"
+    excerpt: "As people stayed in the safety of their homes for weeks and months on end, we needed to alter our daily routines and use technology more than ever. From Zoom meetings and food deliveries to online shopping"
+    publishedDateTime: 2021-01-18T04:14:00Z
+    webUrl: "https://businessmirror.com.ph/2021/01/18/fintech-apps-that-blew-our-minds-and-helped-our-wallets-in-2020/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 24
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/01/Fintech-Apps.jpg"
+        width: 720
         height: 480
         isCached: true
 
