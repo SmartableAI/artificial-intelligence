@@ -2,6 +2,146 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-12-21-unleashing-new-frontiers-from-chips-to-industries.md",
+      "title": "Unleashing new frontiers: From chips to industries",
+      "excerpt": "Following its $40B acquisition by NVIDIA, Arm’s CEO Simon Segars opens up about bold plans for the company’s future and its growth plans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/",
+      "originalUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Simon-Segars_Interview-Still-15_selected-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/",
+      "publishedDateTime": "2020-12-21T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises.md",
+      "title": "Why Covid Will Make AI Go Mainstream In 2021: Top 3 Trends For Enterprises",
+      "excerpt": "Artificial Intelligence will transform the future of Pharma Drug Discovery, Work from Home, and Edge Computing in 2021. Find out why this will be the year when AI sees widespread use across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d64beeb2ee80897aea726%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D552%26cropY2%3D3185",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/12/21/why-covid-will-make-ai-go-mainstream-in-2021-top-3-trends-for-enterprises/amp/",
+      "publishedDateTime": "2020-12-21T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-fintech-innovators-partner-to-turn-nlp-into-dollars.md",
+      "title": "FinTech Innovators Partner to Turn NLP into Dollars",
+      "excerpt": "CHICAGO & SAN FRANCISCO--(BUSINESS WIRE)--Vectorspace AI in partnership with CloudQuant announce the availability of novel datasets that reveal relationships between global equity products. Vectorspace AI datasets are designed to boost precision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201221005087/en/FinTech-Innovators-Partner-to-Turn-NLP-into-Dollars",
+      "originalUrl": "https://www.businesswire.com/news/home/20201221005087/en/FinTech-Innovators-Partner-to-Turn-NLP-into-Dollars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-cognizant-acquires-uk-based-artificial-intelligence-and-machine-learning-company-inawisdom.md",
       "title": "Cognizant acquires UK-based artificial intelligence and machine learning company Inawisdom",
       "excerpt": "San Francisco, Information technology company Cognizant on Monday announced to acquire UK-based Inawisdom, a privately-held AI, machine-learning, and data analytics consultancy, for an undisclosed sum.",
@@ -984,146 +1124,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-how-to-create-space-for-ethics-in-ai.md",
-      "title": "How to create space for ethics in AI",
-      "excerpt": "It was not the observation of a disinterested observer but an optimistic vision for coalescing the ethical AI community around notions of power, justice, and structural change. Yet in the intervening months it has proven to be,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/",
-      "originalUrl": "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/humanAI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/19/how-to-create-space-for-ethics-in-ai/amp/",
-      "publishedDateTime": "2020-12-19T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-senzing-delivers-first-serverless-entity-resolution-for-aws.md",
-      "title": "Senzing Delivers First Serverless Entity Resolution for AWS",
-      "excerpt": "Provides Breakthrough Price Performance for Cloud-based DeploymentsLAS VEGAS, Dec. 18, 2020 (GLOBE NEWSWIRE) -- Senzing, Inc., an innovative artificial intelligence-based (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43079599/senzing-delivers-first-serverless-entity-resolution-for-aws",
-      "originalUrl": "https://www.wboc.com/story/43079599/senzing-delivers-first-serverless-entity-resolution-for-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla.md",
-      "title": "ARK Autonomous Technology & Robotics ETF: Triple-Digit Gains Including Tesla",
-      "excerpt": "ARKQ's underlying objective is well positioned to profit from advancements in new technologies in the energy, automation, manufacturing, materials, and transportation sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4395453-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla",
-      "originalUrl": "https://seekingalpha.com/article/4395453-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.seekingalpha.com/uploads/2020/12/17/saupload_MsLjLqyJfr14D57VrhIFoiC8XHytQPd_IMFrhHf43PTTPySp2wdgam7pwUi_QUfAug5Eq9o60OaykBpT1QRaK_8PDWwc2zR_mpr4NAE_w1440_thumb1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

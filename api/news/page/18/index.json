@@ -2,6 +2,116 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-01-apple-has-won-5-design-patents-presented-in-photo-line-art-forms-covering-the-ipad-pro-magic-keyboard-combination.md",
+      "title": "Apple has Won 5 Design Patents presented in photo & line art forms covering the iPad Pro & Magic Keyboard Combination",
+      "excerpt": "Patently Apple posted design patent report titled \"Apple was Granted 13 Design Patents for their 2020 iPad Air.\" Today we discovered that the Hong Kong Patent and Trademark Office has granted Apple 5 design patent totaling 38 images covering Apple's iPad Pro and Magic Keyboard combination.",
+      "sourceUrl": null,
+      "webUrl": "https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10853717&IDKey=6E72242A6301%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D31%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPTXT%2526s1%3Dmicrosoft.ASNM.%2526OS%3DAN%2Fmicrosoft%2526RS%3DAN%2Fmicrosoft",
+      "originalUrl": "https://www.patentlyapple.com/patently-apple/2021/01/apple-has-won-5-design-patents-presented-in-photo-line-art-forms-covering-the-ipad-pro-magic-keyboard-combination.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently Apple",
+        "domain": "patentlyapple.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.md",
+      "title": "Apple's 'Back Tap' Patent also explores using new Voice Recognition Technology to control a Future TV by Apple & more",
+      "excerpt": "Today the US Patent & Trademark Office published a patent application from Apple that relates to devices that could be controlled via acoustic vibration. A device could be trained to understand that a user tapping their fingers on a desk in a certain rhythm translates to a command for \"answer call and activate speaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.patentlyapple.com/patently-apple/2021/01/apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.html",
+      "originalUrl": "https://www.patentlyapple.com/patently-apple/2021/01/apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.patentlyapple.com/.a/6a0120a5580826970c0263e98855eb200b-800wi",
+          "width": 793,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently Apple",
+        "domain": "patentlyapple.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-3-top-artificial-intelligence-stocks-to-buy-in-january.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in January",
+      "excerpt": "Artificial intelligence and related technology giving ... generating but promising upstarts like autonomous vehicle outfit Waymo and life sciences technologist Verily. Even if Google's core ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31?amp",
+      "publishedDateTime": "2020-12-31T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
       "title": "How Apple’s self-driving car plans might transform the company itself",
       "excerpt": "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business.",
@@ -1019,143 +1129,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-in-the-cultural-revolution-ai-weiweis-father-burned-the-familys-books.md",
-      "title": "In the Cultural Revolution, Ai Weiwei’s Father Burned the Family’s Books",
-      "excerpt": "What books are on your night stand? This is really a question that gets to me. I don’t have a bookshelf or books next to my bed. What’s the last great book you read? The last great book I read was “Permanent Record,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/03/books/review/03ByTheBook/03ByTheBook-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.amp.html",
-      "publishedDateTime": "2020-12-31T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots.md",
-      "title": "China’s Flexiv raises over $100M for its adaptive Rizon robots",
-      "excerpt": "Shiquan Wang led Chinese robot maker Flexiv has raised more than 100 million for its Rizon adaptive robot in a Series B funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/",
-      "originalUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thetechportal.com/wp-content/uploads/2020/12/Flexiv-e1609398956471.jpg",
-          "width": 1900,
-          "height": 1049,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp",
-      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp",
-      "publishedDateTime": "2020-12-30T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechportal.com",
-        "domain": "thetechportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-facial-recognition-market-future-adoption-overview-2028-airborne-biometrics.md",
-      "title": "Facial Recognition Market Future Adoption Overview 2028 | Airborne Biometrics",
-      "excerpt": "Global Facial Recognition Market Snapshot A few international vendors such as Cognitec Systems 3M Cogent Safran Gemalto and NEC have stronghold over the global facial recognition market dominating with their technological and financial might feeding their biometric technology customers However",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "originalUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc31301324_g.jpg",
-          "width": 800,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
-      "publishedDateTime": "2020-12-30T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

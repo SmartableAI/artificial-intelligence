@@ -2,21 +2,21 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-01-12-ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security.md",
-      "title": "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security",
-      "excerpt": "automation and building trust in AI, and continually infusing new capabilities from IBM Research into our IBM Watson products. In 2020, this included the IBM Watson team announcing the first commercialization of capabilities from Project Debater – a ...",
+      "path": "_news/2021-01-12-how-far-can-facial-recognition-go-in-finding-rioters-in-dc.md",
+      "title": "How far can facial recognition go in finding rioters in D.C.?",
+      "excerpt": "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case.",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/01/12/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/01/12/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in",
+      "webUrl": "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "originalUrl": "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://media.wfaa.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T03:07:00-08:00",
+      "ampWebUrl": "https://www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "cdnAmpWebUrl": "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "publishedDateTime": "2021-01-12T03:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "WFAA8",
+        "domain": "wfaa.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,102 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-burnley-to-use-artificial-intelligence-in-search-for-future-stars.md",
+      "title": "Burnley to use artificial intelligence in search for future stars",
+      "excerpt": "Burnley have announced they are to use artificial intelligence to help them identify young talent. The Clarets have partnered with talent identification platform AiSCOUT and launc",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html",
+      "originalUrl": "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.imgix.net/21/01/sean-dyche_1.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html",
+      "cdnAmpWebUrl": "https://www-sportsmole-co-uk.cdn.ampproject.org/c/s/www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html",
+      "publishedDateTime": "2021-01-12T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Mole",
+        "domain": "sportsmole.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-collaborating-through-open-source-to-advance-ai.md",
+      "title": "Collaborating through open source to advance AI",
+      "excerpt": "That something is open source. The sheer number of open source tools available to developers - from libraries to frameworks, IDEs, data lakes, streaming, model serving and inference solutions, and even the recent end-to-end tool aggregator,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/collaborating-through-open-source-to-advance-ai",
+      "originalUrl": "https://www.techradar.com/news/collaborating-through-open-source-to-advance-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai",
+      "publishedDateTime": "2021-01-12T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1118,109 +1211,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai.md",
-      "title": "LG’s 2021 OLED TVs are bigger, brighter, and built around AI",
-      "excerpt": "LG has unveiled its 2021 OLED TV lineup. The range includes an extra-large C1, the brighter G1, and AI-driven features. LG isn’t just counting on its Mini LED TVs to lead its 2021 big-screen offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/",
-      "originalUrl": "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/01/lg-c1-2021-oled-tv-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/",
-      "publishedDateTime": "2021-01-11T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy.md",
-      "title": "AI devs claim they’ve created a robot that demonstrates a ‘primitive form of empathy’",
-      "excerpt": "Columbia University researchers have developed a robot that displays a \"glimmer of empathy\" by visually predicting how another machine will behave.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-11T181530.219-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
-      "publishedDateTime": "2021-01-11T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

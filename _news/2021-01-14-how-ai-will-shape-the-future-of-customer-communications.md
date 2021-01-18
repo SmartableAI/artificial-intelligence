@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "How Artificial Intelligence Will Power Amazon into 2021"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon"
+    publishedDateTime: 2021-01-18T17:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "How AI Will Be Pushed to the Very Edge"
     excerpt: "Driving AI out to edge computing platforms where data is being collected and processed in real time is a major challenge. The race to push deployment of artificial intelligence (AI) models beyond the network edge is officially on."
     publishedDateTime: 2021-01-15T14:07:00Z

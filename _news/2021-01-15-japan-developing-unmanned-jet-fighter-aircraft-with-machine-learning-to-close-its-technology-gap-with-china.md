@@ -53,6 +53,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "English Village To Trade Driveways For Green Space With Self-Driving And -Parking Cars"
+    excerpt: "Chelmsford Garden Village, a housing development near London, is preparing itself for a future with autonomous cars by removing the driveways from its homes. Or, at least, that’s what they’re planning to do eventually."
+    publishedDateTime: 2021-01-18T19:31:00Z
+    webUrl: "https://www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 36
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/01/vb537238_215839-056-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Lidar technology: not just for self-driving cars at CES 2021"
     excerpt: "News Highlights: Lidar technology: not just for self-driving cars at CES 2021 The technology has been around since the 1970s. However, it was considered"
     publishedDateTime: 2021-01-16T11:48:00Z

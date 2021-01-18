@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-i
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
 type: article
 quality: 98
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -88,6 +88,29 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "Facebook to use AI in predicting if COVID patients health"
+    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence AI unit in an effort to help healthcare providers predi"
+    publishedDateTime: 2021-01-18T20:26:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267575276/facebook-to-use-ai-in-predicting-if-covid-patients-health"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1611000254.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
+    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a COVID-19 patient may need more intensive care solutions and adjust resources accordingly."
+    publishedDateTime: 2021-01-18T20:03:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 33
 
 secured: "x406kycs/iWvvqYluH0K7rnGpEWBP1wK89qmYv7TPfkyX+4GAJCyskPXGQMPsOkf1rYOJ1jUAl1VMw6KF+pNom6jKEM/haLfU9kWg6/zStANNGud1uRxzK70G0i0qLgWACW+LJjF1UnLpObnqR71ZIiauEECD9hbGtg9k/8DEzmtw+MVGpwK6y02YQ5W7t3UGp6+4WiCUgZNU6ZoetQV5yGd1sfCBQUy7soDDd8o8au4GdLIdiyllP86tDpimqoQw2QjDeorfKwApsZsMZX8R+3cO3eAutOtGvOkMBS9RMvh16IsF1u+kEUiTw/K0+EtJw4t1TaFG6XGxxJ3Je6VB4vkxHkTuvfBTLtQT/1dl70=;hQiLO621y/n+zuomgxXB2w=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-15T01:30:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

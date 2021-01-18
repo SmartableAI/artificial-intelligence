@@ -63,6 +63,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "English Village To Trade Driveways For Green Space With Self-Driving And -Parking Cars"
+    excerpt: "Chelmsford Garden Village, a housing development near London, is preparing itself for a future with autonomous cars by removing the driveways from its homes. Or, at least, that’s what they’re planning to do eventually."
+    publishedDateTime: 2021-01-18T19:31:00Z
+    webUrl: "https://www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 36
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/01/vb537238_215839-056-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
 
 secured: "IE0VosTDwVlYDWcR+VbpzPpJC8W6zpe9feP8zgChFOoLrqD9miEQJf0j4UZmvcX1J9M8DfBZCkvU45cTo+gkxDPbN0iJO9qHme/lP6uOfwdKIH9K1DH6IxkRnEcp74HefACIWyGJHM8Kn6qAnBnQsoF6LI0tTpPBTU3w7ZAPErYpQzhguFUMW2/kOflEU7pwC42UaNYFL2CfFZ73ZpVzVV5PYSsNkokUyxXbfg6bwZLvOimsjmrhnZDglF0U5Odzwlwm8+mAzqLa7h1C3jNZCMvNPKBTt7Lm8tdvb8cU2YAzK2BaNpWL4SiRpe0slIA54oK3tuI7N5I49grLQfWaN5OtNx8s9iMaHpgQiQz8duI=;xHzsxMUIzwCapi0XItogZA=="
 ---

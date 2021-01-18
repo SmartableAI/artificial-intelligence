@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-
 webUrl: "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 56
-  - title: "Providence bets on machine-learning, consolidating data centers"
-    excerpt: "Providence will lean on technology to help recover from the financial damage the COVID-19 pandemic wrought on the Renton, Wash.-based health system, according to it management team speaking at the J.P."
-    publishedDateTime: 2021-01-14T03:19:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/providence-bets-machine-learning-consolidating-data-centers"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 26
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/artificial-intelligence-4469138_1280_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "tMHZhJUOK6bYCq2I1+C1VTwVRxCM+xu6ElocMcXnvmfV4HvAST7irn5fk7Kx/g1B3aBN9f/rbsv0MQJKgFCEomGSNrF/wm/hacQy378+B7lSr/DUVQGp/n0duoZH1hXAjbBUZei5ZS/8ZmHbCumfmlXrVHNGvY4CjZnNWQY71mAEVVnsUYuRzwqnp6hnr6XNR5rFJrR20gnqlvkx9fXWydQ99dkVmp21jdKDmuuuKto4MXKmpgQDIB4q0KlOQayesBxb/kWxAVLTADStWk02jKsiN54zwOPved8vpqIFa1krF8EQhhuV/TlLIS6h4TIFORn3S7eAUkqx+S6854q6R/XvQ4iAWRTdPOMnJ9+aU3gI5RKHTiTec2UpH4756Cv7hnv6RgVLIoGHq5aUyfC/ye5IZrbcISv1BgIEobxHwy3lz9AIY9L5vRwmAPHz2gCPeDzlNoxXuLznQIzo5yDJttwar86pID9VpcNxWwlkS34GUczEnp+qhIJFoSY7WXhJKwGlAiJLQBwvFTK/GzqfrA==;0mIwuctXqJFGRot5gmuXgw=="
 ---

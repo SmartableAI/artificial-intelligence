@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-
 cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "How Artificial Intelligence Will Power Amazon into 2021"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon"
+    publishedDateTime: 2021-01-18T17:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "How AI Will Shape the Future of Customer Communications"
     excerpt: "In this contributed article, Eric Schurke, VP of Operations at Ninja Number, discusses how AI solutions are changing the way businesses communicate in 2021 and beyond. To succeed you should focus on three different aspects: incorporating customer feedback,"
     publishedDateTime: 2021-01-14T15:23:00Z

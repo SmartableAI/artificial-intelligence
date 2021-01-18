@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon AI Conclave 2021: Everything You Need To Know"
-    excerpt: "Roche, the second-largest pharmaceutical company in the world, uses Amazon SageMaker to accelerate the delivery of treatments and tailor medical experiences. And the list goes on… Data scientists, researchers,"
-    publishedDateTime: 2021-01-14T04:34:00Z
-    webUrl: "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know"
-    ampWebUrl: "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 91
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/shutterstock-1083512990-1_fw3k.620.jpg"
-        width: 620
-        height: 347
-        isCached: true
   - title: "2020 Was Impossible To Predict. Can AI Save 2021?"
     excerpt: "Is 2021 the year that businesses and governments start building an AI strategy so computers can look at data the way humans too frequently don’t?"
     publishedDateTime: 2021-01-14T22:55:00Z
@@ -57,17 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "How Artificial Intelligence Will Power Amazon into 2021"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon"
-    publishedDateTime: 2021-01-18T17:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+  - title: "Top Five Artificial Intelligence Predictions For 2021"
+    excerpt: "Here are five predictions on what we should expect to see in AI in 2021: Something’s going to give around AI governance. Though regulation hasn’t reached a boiling point yet, AI governance will continue to be a hot topic in 2021."
+    publishedDateTime: 2021-01-15T09:51:00Z
+    webUrl: "https://analyticsindiamag.com/top-five-artificial-intelligence-predictions-for-2021/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Top-Five-Artificial-Intelligence-Predictions-For-2021.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "KyxlzijFOfWR87BX2zRmA9BjtZJ3LMcS0+GGbMJPOVQFw50Avj9phat7ZSOjdcTQYULcphjjNHyV06uqdYwHVLsgsh9BjhCQX0UVDU1w3jWvrQod8v0wzvt3kx6OZXg0eUwNnYGRAUPM9JQUNUKPfN5h6wdnQNmbW4L3L0VA2bXhYFWaCVwoKlH4Q4ViUzOJqSC9ldevLfqbSkOiMoATcdiioIKDKvgsw38anpP0dsWYXZdRpcvMJhCT9HZUebzgT2EAkHIQ3dmQsrcg7xEK6EAxMlIxE/MJLjc9Qi9HWAtHXavaKz17LdaIQ3lhnuWuaN8VaxfciIMMgyNdts5i2u4jRmmQ0AvO4F+0CR+RkUM=;JDeQcXrEyu7oat45vN86rg=="
 ---

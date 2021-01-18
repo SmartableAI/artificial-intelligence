@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work
 webUrl: "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/Japan_fighter_drone_15_Jan_2021.60009450b340b.png?auto=format&fit=max&w=1200"
         width: 1000
         height: 563
+        isCached: true
+  - title: "English Village To Trade Driveways For Green Space With Self-Driving And -Parking Cars"
+    excerpt: "Chelmsford Garden Village, a housing development near London, is preparing itself for a future with autonomous cars by removing the driveways from its homes. Or, at least, that’s what they’re planning to do eventually."
+    publishedDateTime: 2021-01-18T19:31:00Z
+    webUrl: "https://www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 36
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/01/vb537238_215839-056-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Lidar technology: not just for self-driving cars at CES 2021"
     excerpt: "News Highlights: Lidar technology: not just for self-driving cars at CES 2021 The technology has been around since the 1970s. However, it was considered"

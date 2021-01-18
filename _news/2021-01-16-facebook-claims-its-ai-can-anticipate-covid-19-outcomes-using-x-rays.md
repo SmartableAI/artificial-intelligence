@@ -91,6 +91,29 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "Facebook to use AI in predicting if COVID patients health"
+    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence AI unit in an effort to help healthcare providers predi"
+    publishedDateTime: 2021-01-18T20:26:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267575276/facebook-to-use-ai-in-predicting-if-covid-patients-health"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1611000254.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
+    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a COVID-19 patient may need more intensive care solutions and adjust resources accordingly."
+    publishedDateTime: 2021-01-18T20:03:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 33
 
 secured: "cCQuvzHGmTgqraZ1S+3d75cqXZElUaoFXndOzKbFfOjTbSFF3fWIP6xP1S8wOizJXwJmXlG1UguGVRo0eX8bvL2gHsbeyCGEJacNnP2rnJuVenY+lOhwbz7EanO3Cwq1I5kLsxXrCpgUIAYzjGfLchJZxg5wUqkdnFLQ6A02lTXx3rsUvU7c8KgIdysgIbKx+0l9QhD379bI60YLqhQ0lrx8rAZfipZgBu7OIxmFNzg+O5qaiV/vqOaMA06L84X8WmiLjNkolwVpWTBZ7XdoEWErHjU2XX0cjQV948mcAlIpK6bGKL0Lu9t1pScLd/7uZqcTOncrhRGw0tacthAu6KT7yuIu+SNNACK7HIMUy0KJsrvpL8g+EGhdO5XBCnCbib1fxLSzJtmMuvZq16ngW7l7l2iSR8mPMEmH/657uGxbc8WrZMEcClrzIq2d04CU9LLFXq75UN/LcBYdFpd6lswX3Asn4WIis9i0c1FThm498tc4B8ZtdXqZYYjP86J6W4b48gGgagkPz5AOBCMzsQ==;vBkhO8NQkPsmIa+tNS3AUA=="
 ---

@@ -37,20 +37,6 @@ related:
         width: 690
         height: 402
         isCached: true
-  - title: "Providence bets on machine-learning, consolidating data centers"
-    excerpt: "Providence will lean on technology to help recover from the financial damage the COVID-19 pandemic wrought on the Renton, Wash.-based health system, according to it management team speaking at the J.P."
-    publishedDateTime: 2021-01-14T03:19:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/providence-bets-machine-learning-consolidating-data-centers"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 26
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/artificial-intelligence-4469138_1280_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "j5cdhprNFt8nxlYXE29WczcF8PPOl3zeBPmcpxwdeK7Nxpf8HeQP+1lMNFhgnjoaixHzVMj42VcHTx80MI9IyZivXH7atFXyWK4VyhtcTJW76pfdweqzxdvCoW4NRpqHY4hiLdiUC12q80WmS9e67L9IUWL8r8qc0ruTiXQnKHxuHEdFqU2vmOxtXWMC6IHtJvN4mMPgN0aXMFl3PbyjlovCWwbxPoJbQ2vxxng5QJo3W5cTUNR+lPdAN/S991mvmJl9g0fLOt44VfccVF9wCklz/0WiP06KFJIh8mN2DgR6RDWTLybHOaUAqaZw8vr2iaPj8oMNeLGSsGZGOGe8aL0zKNShFOR42pmDmtqbpJ0=;5XBUWbkLEUkL5Ha9RQNhrA=="
 ---
