@@ -46,14 +46,14 @@ related:
   - title: "Japan developing unmanned jet fighter aircraft with machine learning to close its technology gap with China"
     excerpt: "Japanese companies are researching technologies, with Subaru developing unmanned flight control, while Mitsubishi working on information-sharing."
     publishedDateTime: 2021-01-15T07:33:00Z
-    webUrl: "https://www.militaryaerospace.com/unmanned/article/14195601/unmanned-jet-fighter-machinelearning"
+    webUrl: "https://www.militaryaerospace.com/unmanned/article/14195641/unmanned-jet-fighter-machinelearning"
     type: article
     provider:
       name: Military
       domain: militaryaerospace.com
     quality: 36
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/Japan_fighter_drone_15_Jan_2021.600051e707f37.png?auto=format&fit=max&w=1200"
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/Japan_fighter_drone_15_Jan_2021.60009450b340b.png?auto=format&fit=max&w=1200"
         width: 1000
         height: 563
         isCached: true

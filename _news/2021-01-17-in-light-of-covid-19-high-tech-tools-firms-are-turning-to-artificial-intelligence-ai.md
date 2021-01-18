@@ -29,35 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning tool gives early warning of cardiac issues in COVID-19 patients"
-    excerpt: "A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors several hours before hospitalized COVID-19 patients experience cardiac arrest or blood clots."
-    publishedDateTime: 2021-01-14T14:37:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
+  - title: "NHS adopts AI imaging algorithm to improve COVID-19 treatment"
+    excerpt: "Hospitals around the country will soon be able to use artificial intelligence (AI) to help diagnose COVID-19 patients and reduce the time needed to create treatment plans.  The 'COVID-19 Chest Imaging Database' (NCCID) has been pulled together by NHSX,"
+    publishedDateTime: 2021-01-18T12:42:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 87
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/cardiacdevice.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://media.itpro.co.uk//image/upload/v1610965572/itpro/MicroscopingVirus_shutterstock.jpg"
+        width: 1000
+        height: 506
         isCached: true
-  - title: "Machine learning tool gives early warning of heart issues in COVID-19 patients"
-    excerpt: "Julie K. Shade, lead author and a doctoral student in the Department of Biomedical Engineering, built the machine-learning algorithm with more than 100 clinical data points, demographic ..."
-    publishedDateTime: 2021-01-17T23:48:00Z
-    webUrl: "https://knowridge.com/2021/01/machine-learning-tool-gives-early-warning-of-heart-issues-in-covid-19-patients/"
+  - title: "Artificial intelligence used in bid to improve coronavirus treatment"
+    excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'"
+    publishedDateTime: 2021-01-18T06:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
     type: article
     provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 35
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+  - title: "Artificial Intelligence Market with COVID-19 Impact in Homeland Security & Public Safety - 2020-2025"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Market with COVID-19 Impact in Homeland"
+    publishedDateTime: 2021-01-14T09:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19157413/artificial-intelligence-market-with-covid-19-impact-in-homeland-security-public-safety-2020-2025"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19157413"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19157413"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+  - title: "Artificial intelligence used in bid to improve coronavirus treatment"
+    excerpt: "NHSX has brought together 40,000-plus CT scans, MRIs and X-rays from more than 10,000 patients across the UK during the course of the pandemic."
+    publishedDateTime: 2021-01-17T15:58:00Z
+    webUrl: "https://www.shropshirestar.com/news/uk-news/2021/01/17/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 37
     images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/01/Machine-learning-tool-gives-early-warning-of-cardiac-issues-in-COVID-19-patients.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.shropshirestar.com/resizer/FxzVh85c6nF9MMb6jXbZuoweOLM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/DC4PTJ65VBDMVOGGRCD4O743TY.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "9ZUfnh3JMpK7j6jCtBdaXFekqsuvA+OOiEZqb2JgMPLdEvtrbNzU3dpF+1G+3plGWfxugYWACBqdpdN+QgCfoSuGSUR7qF/nnyRsx9krjSALiiXqRhBeqRTspLmYZ+fsje2EIYcVFAvz7UZ0TN0S6k9c/fNm/eHYyG+DS5h4J6ckgv0Ucqpp5yhIk1EbXsIqrujrvx+kTaLoXZjIMxqZl/p8MFMO7Q302M502LYc3BD1N1kumimh0UhPgx+aqBed3a9a5iCHnKUPpWjoV18vUxtoddwZSdLPnwcpU0E+HnWnfdDs34OvVugMp/ohswqsJSfvJsLnNo0K1hjPculdz2ghYza84GvdjYZYrfJ2Ut6PWkXu5U6mwa2oiANg4yxH3yPZu24hgKx/zgTLqPxhw1FmGTapgqXV3a5x8Vrxmi7l73L7VZAPeWrPYrX0hx2d052AF6H7nxPtKrxH+jfyFOfi6YrMlXBuOHNyQbvL88S8uCQi2isL3bhvb+75N9eWAxffN3GEHr8UV8RVe5sb9A==;gkU4KN5xS80Or4RwzGLt+g=="

@@ -8,8 +8,8 @@ webUrl: "https://ecfr.eu/publication/artificial-divide-how-europe-and-america-co
 ampWebUrl: "https://ecfr.eu/publication/artificial-divide-how-europe-and-america-could-clash-over-ai/?amp"
 cdnAmpWebUrl: "https://ecfr-eu.cdn.ampproject.org/c/s/ecfr.eu/publication/artificial-divide-how-europe-and-america-could-clash-over-ai/?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://ecfr.eu/wp-content/themes/ecfr/assets/img/social-card.png"

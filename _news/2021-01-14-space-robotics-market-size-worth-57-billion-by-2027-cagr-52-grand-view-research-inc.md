@@ -53,6 +53,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
+    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% from 2020 to 2027 to ..."
+    publishedDateTime: 2021-01-18T14:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19202252"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19202252"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
   - title: "Business Intelligence and Analytics Market Size to Reach Value of USD 60.49 Billion by 2027 Growing at a CAGR of 11.2% | Emergen Research"
     excerpt: "Vancouver, British Columbia, (GLOBE NEWSWIRE) -- The global business intelligence and analytics market is expected to reach a value of USD 60.49 Billion by 2027, according to latest analysis by Emergen Research."
     publishedDateTime: 2021-01-15T10:18:00Z
@@ -67,6 +78,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com | Morningstar"
+    excerpt: "ResearchAndMarkets.com The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-18T14:18:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210118005340/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
 
 secured: "eLMvqMhFb5n9d1Rm4vCm+MrMjMuH981co5lFlptWGEgbXO8A2+iZOVq6W/3/i9n9iHLY5FySGWtSPWrRKR4rI2cbGzhiV8/X/TeKAkU1pY7PVATdD7q/rRS7Fp3Hifam0KLeaCoNomVVjWFfRxpj3EpjJmtQpxBEwiRnOcDMc+dykSsZTDMjfjR9HDCjXWSxli0RYT9Rlf+hfjHvpG80YeN5sI/F0yioeb7F5cTMVqlHbrLPxa02aB/bMCTlv1fq1KQgnzV2fq63Drn3xJJb1gIPzp4sAa+o5zW2cNWaeVpKs6GNQSkl50jR5e14pB+KNZir+I2U2SP2DSny27p+FBUA1zbmQ2VREzimgZdvSMc=;8zxWuHD+VPxyjExPxnxUmw=="
 ---

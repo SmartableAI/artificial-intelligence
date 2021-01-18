@@ -39,20 +39,6 @@ related:
         width: 730
         height: 499
         isCached: true
-  - title: "Ceva licenses AI processing for DARPA biometrics and research programs"
-    excerpt: "Ceva has reached an open licensing agreement with the Defense Advanced Research Projects Agency to help its programs innovate with smart sensing technologies."
-    publishedDateTime: 2021-01-13T22:03:00Z
-    webUrl: "https://www.biometricupdate.com/202101/ceva-licenses-ai-processing-for-darpa-biometrics-and-research-programs"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Face biometrics firm SVI and digital ID platform Auth0 announce board appointments"
     excerpt: "Former SoftBank executive Steve Carlin and retired U.S. Army Lieutenant General Ken Tovo to serve on StereoVision advisory board, tech leaders join Auth0 board."
     publishedDateTime: 2021-01-16T01:16:00Z

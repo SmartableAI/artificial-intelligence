@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/with-c3-ai-stock-down-2
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/with-c3-ai-stock-down-22-investors-should-still-wait-for-better-1029973296"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -22,19 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "With Analysts Divided on C3.Ai Stock, It’s OK to Stay on the Sidelines"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Enterprise artificial intelligence firm C3.ai (NYSE:AI) became a"
-    publishedDateTime: 2021-01-13T22:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/with-analysts-divided-on-ai-stock-its-ok-to-stay-on-the-sidelines-1029966103"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/with-analysts-divided-on-ai-stock-its-ok-to-stay-on-the-sidelines-1029966103"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/with-analysts-divided-on-ai-stock-its-ok-to-stay-on-the-sidelines-1029966103"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
 
 secured: "ESJ4whfi25YM7/bE5HSvMLEZKXNzDz7kyXmWauXTzS65IKRMTYdl36tR8FC3hRclCGmetCpJVIpKwVcebEzzjKLouqEOy9lUXjQPoKDhQkcgkGbeWys0qaeXV2K+2id50ySSwceYFrnNxc1vs4jUJfedBbZR49JdTIoEeG6rHOh4+eqIgPooV/ii2hzDhH9knFhpwR5TKxzJHpn4wmCVEkMJfyWdTQ1M923EZII1bUYABT2cSxkZKKkBIuhloj35bLFyAxyNDzVDwSx0hG4udrB7GxgTPiOMP9TXVLv+1UfAK6pXeX+9P0PLQnG4TnETcE74NLjxPphRxznv3uWjtq14qqpr0xBEpw5Z6O8OSkI=;kH/ozjqPN+MKEHiK9Aj1aA=="
 ---

@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Neurotechnology Releases New SentiVeillance 8.0 SDK for Identification and Analytics Using Live and Video Streams"
-excerpt: "PRNewswire/ -- Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object"
-publishedDateTime: 2021-01-18T11:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19200279/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-an"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19200279/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-an"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19200279"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19200279"
+excerpt: "New SentiVeillance 8.0 SDK from Neurotechnology provides identification and analytics using live video streams from digital surveillance cameras or video files, and it includes algorithms for face recognition,"
+publishedDateTime: 2021-01-18T14:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-d895c5e344b25e95b16491272b90d6ff"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-d895c5e344b25e95b16491272b90d6ff"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1421802/SentiVeillance_SDK_finalist.jpg"
-    width: 400
-    height: 225
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "ZwmSh7Y71xlsjM7n27/f9bSxOfDAA1vVttYEQYwOIBiANhmE/JbzxvEuMTNg8BtWsukcvcRW2TbZwXTabGNfpKqtPELzNyz2yZIGBbUoZvh+kqn09lC4iBaUSJ9eNErj7XaqHPaWxfAZDt/9VE0+eH8LSiX4jT65PNfvaTv+qhMji6rNnQgorxkAb3TKwSCtiwJzJLPEvgYyhgdSqVrKrhiR+tkRaUD6S3LR/BBbkyz2oCsg6O2ACRFa7lzEb5tudHWV/yaaPyr4pAj7RSq2kesRzeePH4ikB60dLpprozoQ8J9OIvQVi8uKpCgu+3faZGtUtMANZgJqN5w+G0Qw1VvU+cCLzhCEuJHsLqEmGHs=;0a1g9lyaZxwguz03RCS1VQ=="
+secured: "wLcE4wmrUkgDK+9U6NtpZmtJjgqfIkaOLwM2/0VLEZ4ACShvZEE5xqaI9cGuU1Df8IvxwZv66MR9weVujldBNYMEnsn77tGnnduCOZ1ZB/u0iX6tY4QkgFzKp/NxFV84Ch+3TxB2x8M3v5NWjKQlJ4lqnwN0thWrUF4a91T91Lr5E8JrjlBfUP5JL07m7TDprPI2SusEzjBf5FfLg2RHCdJh9wVIHENBT+PUDvGfiKFyoNVIczYeMjY33mY5YSE26kcXUB7MgGjWxFXyRNYQDRQ4+RCeQ6rLh30BKkIwKvrfXi2hdmUzyRBipCZOeRvSFvBnwvYWppepPrM41b+O+4g4n0aTMrPlGsNVfDl2dxg=;QdKVMGyCtpOseYuUUWkc2w=="
 ---
 

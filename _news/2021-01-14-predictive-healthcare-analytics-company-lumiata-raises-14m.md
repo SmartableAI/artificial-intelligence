@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "BlackRock boosts sustainability analytics with stake in Clarity AI"
+    excerpt: "BlackRock has taken a minority stake in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios. Founded in 2017, Clarity AI has offices in the US ..."
+    publishedDateTime: 2021-01-18T14:13:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37291/blackrock-boosts-sustainability-analytics-with-stake-in-clarity-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/test_header_low.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Global Commerce Artificial Intelligence Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 17, 2021 (CDN Newswire via Comtex) -- Global Commerce Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides a ..."
     publishedDateTime: 2021-01-18T08:12:00Z

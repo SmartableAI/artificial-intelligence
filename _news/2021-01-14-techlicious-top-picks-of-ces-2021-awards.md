@@ -36,17 +36,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "The best robots at CES 2021"
-    excerpt: "This year at CES 2021, we’re seeing quite a few robots on display, from robots that'll help around the house to educational robots to bots that sanitize."
-    publishedDateTime: 2021-01-13T21:23:00Z
-    webUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
   - title: "10 weird and wonderful highlights from CES 2021"
     excerpt: "CES was an online-only affair this year, but that didn’t stop a load of big-name tech companies coming together to show off what they’ve been working on. In typical CES fashion, we saw a mixture of predictable upgrades to old releases and exciting reveals for futuristic products that must be seen to be believed."
     publishedDateTime: 2021-01-15T12:43:00Z

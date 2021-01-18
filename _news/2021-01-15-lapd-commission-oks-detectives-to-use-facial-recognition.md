@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
         width: 1200
         height: 495
+        isCached: true
+  - title: "New advances in detection of bias in face recognition algorithms"
+    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-18T13:32:00Z
+    webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/01/MG_5999_2021-01-18_21-25-39-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
 
 secured: "6RRmJ/XdO1ulbRRVTB8VMDNKETBeqd/fgd0+vnBuHUkbKDOUbtKfUQbgQq5bXWATIWazeBTo8YBVpGw14iUg39xaQWUm70kBllYM6HYFsRJbl31botGGdMW4X34wxFlNivNOCK2Nt6DlGqJ21jdVwxrxc350YCZrTL44ZS+ugEh5iYSYRbjIb4lobLjnS90kc7NxDfUPnHEu1ghUfth2U2ufTvTlwnw/MRmzysXV7XHsOBMr1o5ImhEflNmOYF+gqnlUDqKWAzyurJrYyQ0oxLtRhTAbNyKsGHJA0mM1vJYqXQpx1emnNuWhsgwbNe9dCjEXmb8VSmsXF8Y/j1kUYh45JtwsvPlMAw9dQmo15l59yXRatdB6VXXr38yaZKxXMqizIIP70asEMxGE+sRB8PAfQMMAXXAf9TftQpRWPDvcpG+P55RuS0v3tl76BY2XfPdSKYtIyQB9BmSCLB49VKbalOnpbFcblR3iqdwEs4oPGEy8ZNPFoVpoPEFe6hkyjeRVZ6ifrZtNYd8d8xA/IQ==;dM4lzmKD6iBQ42vkkPKGtw=="

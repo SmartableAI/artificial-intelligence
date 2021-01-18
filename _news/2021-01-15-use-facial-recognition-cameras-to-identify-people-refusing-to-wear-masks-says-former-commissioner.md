@@ -43,38 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Promise and Peril of Facial Recognition"
-    excerpt: "Agencies are using the technology to identify the Capitol rioters."
-    publishedDateTime: 2021-01-13T22:10:00Z
-    webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 91
-    images:
-      - url: "https://images.wsj.net/im-284435/social"
-        width: 1279
-        height: 640
-        isCached: true
-  - title: "Facial Recognition, Social Media Could Help ID Capitol Rioters"
-    excerpt: "Trump rioters that stormed and defaced the U.S. Capitol building last week has intensified and federal law enforcement is using every means at its disposal to investigate the incident."
-    publishedDateTime: 2021-01-13T22:49:00Z
-    webUrl: "https://www.govtech.com/public-safety/Facial-Recognition-Social-Media-Could-Help-ID-Capitol-Rioters.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Facial-Recognition-Social-Media-Could-Help-ID-Capitol-Rioters.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Facial-Recognition-Social-Media-Could-Help-ID-Capitol-Rioters.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1888752913.jpg"
-        width: 940
-        height: 627
-        isCached: true
   - title: "L.A. Police Face New Limits on Facial Recognition Tech"
     excerpt: "The new policy bans LAPD from using any other facial recognition technology beyond that used by the Los Angeles County Sheriff’s Department system. It also sets up oversight requiring LAPD to collect data on how the system is being used and whether it’s effective."
     publishedDateTime: 2021-01-13T23:33:00Z

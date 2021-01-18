@@ -1,47 +1,38 @@
 ---
 category: news
 title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
-excerpt: "The \"Growth Opportunities in AI, Threat Intelligence and SCA Tools\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions"
-publishedDateTime: 2021-01-18T11:08:00Z
-originalUrl: "https://www.lelezard.com/en/news-19603929.html"
-webUrl: "https://www.lelezard.com/en/news-19603929.html"
+excerpt: "This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions powered by artificial intelligence, threat intelligence, and software component analysis tools that help companies protect from threats ..."
+publishedDateTime: 2021-01-18T14:18:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210118005226/en/"
+webUrl: "https://www.businesswire.com/news/home/20210118005226/en/"
 type: article
-quality: 25
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
 related:
-  - title: "Artificial Intelligence in Sports Market Next Big Thing | Biggest Opportunity Of 2021"
-    excerpt: "Global Artificial Intelligence in Sports Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market"
-    publishedDateTime: 2021-01-15T07:04:00Z
-    webUrl: "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing"
+  - title: "Global Commerce Artificial Intelligence Market 2020 Trend and Opportunities, PESTEL Analysis, CAGR and Value Chain Study to 2025"
+    excerpt: "Global Commerce Artificial Intelligence Market 2020 by Company, Type and Application, Forecast to 2025 announced"
+    publishedDateTime: 2021-01-18T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2025-2021-01-17"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://cdn.openpr.com/U/1/U115981371_g.jpg"
-        width: 675
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "as6y1QOBf/DgE54igKE/ZWz93GM6Ij1fA/dWIyM6Nsh/D3bC1tDxIL40xq40ufqjifm9UyGIOlwjMvCtblj20OE7T9U1vxscpV5feMaYdMv/5MtgV8hDo3Y32Xa+xvWua758Dy9rqX6n2KHw9TkT7RO33rfBbEUvmO6nxCE8CDU6l4hS6E8Z2TPI4YF1MAdqqI2thznHXbVs/dQh/XXGkRjNNyGYOaNJk0c9qoYl82Gbz1zFo8zCs3AMy/Q8A+jcGOQoNzYjR6OEGykYB0bVs5Ww2blMXGhk2E0OhyNvCp0gj6YflHGGsPj8vDxQZc3PSqqFu5ZT6gD8g0B6X3fwC47M22bUih+YqQI+Gy9dhnQ=;lZ5A8paYZt/Plb9s/daA7w=="
+secured: "2TEfjYO+Z0VClt7caGRpwNC5PX/rU79uh8HxGzStXk2/4h46+juTMcRZpVgrqG3rFU1doM3uaafbLuZF1h/4SYB8v88RUBIgD5pxlcNqNjXCIB3KNO8Ywc+tml3YgsiFZzMpKJgTTKVcP+hcA6VI8P6hErOfI1D9ntei0vwkLfGmtcKZFZf+73S+1Vuh+ulFRGFWPMmHECxWAmpOKB/Zhpqm8W5zV/REHMuJA2JGjVOJMZ3H9cmHtz0ysU+kfcZyLvSIGL7zoYCnIEONIrhIx/0JUg+AmUMfM0k9a+AeorTwsbdqWB6UuME24rGd1mGt6oxgHsNltiI2Epdmy23+eajm6ALC8zlqDdb+0pSpyhs=;b0XfsTLmxYSAoUlhCRiynw=="
 ---
 

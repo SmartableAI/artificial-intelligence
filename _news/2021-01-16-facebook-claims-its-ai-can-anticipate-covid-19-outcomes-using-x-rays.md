@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-antici
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
 type: article
 quality: 89
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "NHS adopts AI imaging algorithm to improve COVID-19 treatment"
-    excerpt: "Hospitals around the country will soon be able to use artificial intelligence (AI) to help diagnose COVID-19 patients and reduce the time needed to create treatment plans.  The 'COVID-19 Chest Imaging Database' (NCCID) has been pulled together by NHSX,"
-    publishedDateTime: 2021-01-18T12:42:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
+  - title: "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How"
+    excerpt: "Facebook's artificial intelligence researchers developed models that use x-rays to anticipate the progression of the disease in a patient and help hospitals prepare."
+    publishedDateTime: 2021-01-18T14:05:00Z
+    webUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how"
+    ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 87
+      name: Mashable
+      domain: mashable.com
+    quality: 98
     images:
-      - url: "https://media.itpro.co.uk//image/upload/v1610965572/itpro/MicroscopingVirus_shutterstock.jpg"
-        width: 1000
-        height: 506
+      - url: "https://sm.mashable.com/t/mashable_in/news/f/facebook-t/facebook-to-send-notifications-to-users-who-like-or-share-co_wj6r.620.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "New self-supervised AI models scan X-rays to predict prognosis of COVID-19 patients"
     excerpt: "Researchers from Facebook and NYU Langone Health say their system forecasts COVID-19 mortality more accurately than radiologists."
@@ -60,22 +60,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F01%2FUntitled-design-2021-01-15T134250.373.png&signature=16c0e1c446789121fa9cc14628059186"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Even AIs can't help but turn into hateful jerks on Facebook"
-    excerpt: "The popular South Korean Al chatbot, Lee Luda, has been suspended from Facebook after being reported for making racist remarks, and discriminatory comments about members of the LGBTQ+ community, as well as people considered to have disabilities."
-    publishedDateTime: 2021-01-14T13:23:00Z
-    webUrl: "https://www.pcgamer.com/ai-chatbot-suspended-facebook/"
-    ampWebUrl: "https://www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tEzDTfy6yUTw4Q56rQneYf-1200-80.jpg"
-        width: 960
-        height: 540
         isCached: true
   - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
     excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."
@@ -92,6 +76,20 @@ related:
       - url: "https://www.adweek.com/wp-content/uploads/2020/12/IBM_PE_011520_HP-640x360.png"
         width: 640
         height: 360
+        isCached: true
+  - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
+    excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."
+    publishedDateTime: 2021-01-17T09:11:00Z
+    webUrl: "https://www.analyticsinsight.net/how-has-artificial-intelligence-risen-in-the-healthcare-sector/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-e1610856351543.jpg"
+        width: 900
+        height: 499
         isCached: true
 
 secured: "cCQuvzHGmTgqraZ1S+3d75cqXZElUaoFXndOzKbFfOjTbSFF3fWIP6xP1S8wOizJXwJmXlG1UguGVRo0eX8bvL2gHsbeyCGEJacNnP2rnJuVenY+lOhwbz7EanO3Cwq1I5kLsxXrCpgUIAYzjGfLchJZxg5wUqkdnFLQ6A02lTXx3rsUvU7c8KgIdysgIbKx+0l9QhD379bI60YLqhQ0lrx8rAZfipZgBu7OIxmFNzg+O5qaiV/vqOaMA06L84X8WmiLjNkolwVpWTBZ7XdoEWErHjU2XX0cjQV948mcAlIpK6bGKL0Lu9t1pScLd/7uZqcTOncrhRGw0tacthAu6KT7yuIu+SNNACK7HIMUy0KJsrvpL8g+EGhdO5XBCnCbib1fxLSzJtmMuvZq16ngW7l7l2iSR8mPMEmH/657uGxbc8WrZMEcClrzIq2d04CU9LLFXq75UN/LcBYdFpd6lswX3Asn4WIis9i0c1FThm498tc4B8ZtdXqZYYjP86J6W4b48gGgagkPz5AOBCMzsQ==;vBkhO8NQkPsmIa+tNS3AUA=="

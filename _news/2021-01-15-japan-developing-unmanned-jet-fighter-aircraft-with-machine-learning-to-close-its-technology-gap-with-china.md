@@ -3,8 +3,8 @@ category: news
 title: "Japan developing unmanned jet fighter aircraft with machine learning to close its technology gap with China"
 excerpt: "Japanese companies are researching technologies, with Subaru developing unmanned flight control, while Mitsubishi working on information-sharing."
 publishedDateTime: 2021-01-15T07:33:00Z
-originalUrl: "https://www.militaryaerospace.com/unmanned/article/14195601/unmanned-jet-fighter-machinelearning"
-webUrl: "https://www.militaryaerospace.com/unmanned/article/14195601/unmanned-jet-fighter-machinelearning"
+originalUrl: "https://www.militaryaerospace.com/unmanned/article/14195641/unmanned-jet-fighter-machinelearning"
+webUrl: "https://www.militaryaerospace.com/unmanned/article/14195641/unmanned-jet-fighter-machinelearning"
 type: article
 quality: 36
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/Japan_fighter_drone_15_Jan_2021.600051e707f37.png?auto=format&fit=max&w=1200"
+  - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/01/Japan_fighter_drone_15_Jan_2021.60009450b340b.png?auto=format&fit=max&w=1200"
     width: 1000
     height: 563
     isCached: true
@@ -65,6 +65,6 @@ related:
       domain: compsmag.com
     quality: 24
 
-secured: "hE6wsmmwqalRBC0mab5mqfgq8Q2SPYzJMEqlVP6DDaM3tCjULL9omyibCsd6HBRnWTFs7t1nO+SANPnu0phbhHXLbYoMgHl6lH2ATuF/PnJpjeYc95350/qGw3gBJNZbgnqQu1gwUm3XYYckDXBPrHshhCUudiFAnoKl2GvwUYXmQlm0FdxiwPJG8pMDnyvm02MmyXoSKIxyRkMvFWEYtmr+G12N2ZTvyumzQjmM9+FxAwBV5H/ucagI3UhaY7XPiWHTUxlwQHzUnyf+ex+UltFlwzCnc+LL7K7hYpi47tenKnqA7qcQ0pTUNdJTCK8lBVbAMUwo0z6goDL9rCqIlrbYzQlznLQ5706zcZSkxwBTv/kmL50WUaGeW65KJ6Lsaf+ksFcBTRlVq3zO+3pO9VPWlmg2p6ccwXnlMixGtmTfmTOb5TlIDp8axxlbWppdg1sCHG+PXgghWg1ASzq5oUdkExS1cdUENT16HWnvCUyEXM4Wkb84nSpMMg6qSV+TpTmbEwCGTORvn9VeFM+5ZA==;egjUkWnmcEgEf1aey2G1Eg=="
+secured: "oixbPkAmfWpG4di+AafzADtSAIfT0isdXCjSvpVGW4Sv/YUxwseXd9yser6WkIrLBdEmZfYIQy0F6laACUYEoOslq2P56VUmZeYWR/jx+Q/jwtcHxNc9X/QvqbjTFH8dzqNYVs9b0Lm7ceD4D6WS9+GH0BKLbRA7pVp2qTfrJTqGp4GG+O4ARsiyBVrxRFH2XW2NIosJHz4hpDMnX5S4uIaSBdGu8T6BIu0Gr9Pz7CCZpt97ofBRTSi9jH5inoAriTmu3LwSAa5HrpVGceTzd8MSvN0XNQSbt8TTv7bwxBgY0KgOSzxYodlnoWcRQ07dDrIHI+dh/RvMFNB5odlCH8Gslv5wOGjENQQUiRymgAg=;ccSVJu7nSeYTbBeKhvngkw=="
 ---
 

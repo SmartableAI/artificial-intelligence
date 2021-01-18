@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2225535/artificial-intelligence-in-sports
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 675
     height: 450
     isCached: true
-
-related:
-  - title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
-    excerpt: "The \"Growth Opportunities in AI, Threat Intelligence and SCA Tools\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions"
-    publishedDateTime: 2021-01-18T11:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19603929.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 25
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "4XcgAF7TsSjzXVZdDfzIi4VnrCDHxNiyFDgSSmSSokMhOXaHYBTADVVFdmc3x2j5QCW12/bCZIzzbeGRHYGXjbZDMDxafMcoQYrY2Nhw5A889C0jU83RRz+6dk0xhxCXB+TsuLtQvohOaw7uKc9FSlrR/t7vNysES7m/BTeYq6ilQpRwG6PW9DBdNhSK9PtXzdgQcg1F8zYuVFdJw4EIlHzH8OIEaqxbzx9VKODvk9pYJI1jtvLfnY+Y+MYjR3BBIueYti1XmRwEPjpCr4H+5tCLZsuUm9qHeKZbVYpPdM0eM/o6ujmZCnNoxpsUe2eY0WZc1tiULqbqQDwP8q9usXR+DlBUhiijbQq7P8fZB/onZrcv3UQLkMcedS/RaRvb+FB2+3qImBcPNMr8JPB2WUECfRW2E548OSoNRMgT264+284FJO125WSrvC1//HpuKvROpYTyiTX57i1lYI8VcINRmXBI5b0dLomB7B6QDLSLlS+KVbxxlQZzJXzIsRLl9ygYB+u2mrpOcZm2HSuksg==;eJwQ5hbMEB178zRmeGFoDw=="
 ---

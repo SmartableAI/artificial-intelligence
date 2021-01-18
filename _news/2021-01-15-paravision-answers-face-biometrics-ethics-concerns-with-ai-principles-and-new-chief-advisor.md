@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ceva licenses AI processing for DARPA biometrics and research programs"
-    excerpt: "Ceva has reached an open licensing agreement with the Defense Advanced Research Projects Agency to help its programs innovate with smart sensing technologies."
-    publishedDateTime: 2021-01-13T22:03:00Z
-    webUrl: "https://www.biometricupdate.com/202101/ceva-licenses-ai-processing-for-darpa-biometrics-and-research-programs"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Face biometrics deployments increase as regulator and public push back"
     excerpt: "The regulatory heat around facial recognition continues to rise, even as implementations increase, from airports to digital health credentials around the world."
     publishedDateTime: 2021-01-16T18:35:00Z

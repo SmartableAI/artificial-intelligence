@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-is
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "In light of COVID-19 high-tech tools firms are turning to artificial intelligence (AI)"
-    excerpt: "According to CNA News, in light of COVID-19, with more firms looking to better manage manpower with high-tech tools firms are turning to artificial intelligence (AI) and machine learning in Singapore."
-    publishedDateTime: 2021-01-16T21:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/light-covid-19-high-tech-tools-firms-turning-ai-amanda-goh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 46
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZbZpPwfThQ/article-cover_image-shrink_720_1280/0/1610770097853?e=1616025600&v=beta&t=OMQiXwLPLw14Q0ZJJOiKTWbfD2QPRM2KijhOam8urrQ"
-        width: 1240
-        height: 720
-        isCached: true
   - title: "Machine learning tool gives early warning of heart issues in COVID-19 patients"
     excerpt: "Julie K. Shade, lead author and a doctoral student in the Department of Biomedical Engineering, built the machine-learning algorithm with more than 100 clinical data points, demographic ..."
     publishedDateTime: 2021-01-17T23:48:00Z

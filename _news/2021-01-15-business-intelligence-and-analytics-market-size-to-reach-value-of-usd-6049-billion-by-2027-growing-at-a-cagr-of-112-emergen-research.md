@@ -70,6 +70,26 @@ related:
         width: 1400
         height: 733
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
+    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% from 2020 to 2027 to ..."
+    publishedDateTime: 2021-01-18T14:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19202252"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19202252"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com | Morningstar"
+    excerpt: "ResearchAndMarkets.com The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-18T14:18:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210118005340/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
 
 secured: "8fWTpnTetYvN0NBowWmrh8XdKMdv126UcoduXOSbh8q2yJyUkCKcuYdOmyJNGxaonpyM/jirA3zLwDgkfU1sN0yciOuavKSJr74nTi3pSI4eywb93NC7iuczdIbtSJyyoIOhulmz3rUB2H0UHRUhR8cwmXpSVgHlgUrMqT6dRP7yqXHwyQAu0DPiOjXFb70gVy7xjyEkrg4j4lGt8a4LX8FSk9son0WzEeQuj/X+2kNG6IgAs1KwcRitD0PizY7zV86ehv1Pz+SSX7ksWI83MeQ//Yx8Me7qkosxdrYnShhcaAGFjLmphneRgafDESqfZH0VcLNXXTBQF+aKDoDdmrgfowePYO5CU0hOLCcfCyI=;nWwhtrB3s40raOVT4E0lrQ=="
 ---

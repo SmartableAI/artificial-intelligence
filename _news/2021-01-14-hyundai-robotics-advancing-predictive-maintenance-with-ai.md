@@ -36,6 +36,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 85
+  - title: "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'"
+    excerpt: "Enterprise AI solution provider, MakinaRocks ( announced the signing of a memorandum of understanding (MOU) with Hyundai Robotics on January 14, regarding the cooperation of the two companies in developing AI-based anomaly detection for industrial robot arms."
+    publishedDateTime: 2021-01-18T13:58:00Z
+    webUrl: "https://www.roboticstomorrow.com/story/2021/01/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection/16108/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 35
 
 secured: "wDmBjj5Wq5PpWkHDV5ycPs+21KCsqRQNdyGsCldOmzfcOy8HMm/YsqILxPjo+deYI11NyvXj9nVXnX8gmWVkkYadoN/ka1ZpRWk/o1/n2hgCS9TtTaaPSmtvpJJyHIlutqGFSpukTS0rrXcAfhUodBkZYC2rQ7hotVJ26bGYCK3754flgu16I+gM3fHnuFHLiN/cUVZDoPuA4blaRcQhKs6f/1N46Dxep7CFdi73nQdM0ly8ft47C9AfAhEMkR7yz5zyKdl9kn+2BKZgC4sXyytH3IcIegRjSZAHsav+fAdU/m2WUtjTNitCxCaIr3jTom7p+Ws1HK0t0bjgl2jdhMV0oTAMtT5zHioefIGKo19P1q5D8wpHHm8bNFGqJDHqhMXJCDwcKFrDgHFCQKTl/n2I4BOFA5G5xCGYewcK8fi1KVpCZ1i/rgS6uBcXTnu6W15IxeTHkdcN9RO/k5wOUeTvre8CqrlqZbWnLcdXMCefhdXbMxV7XXd2GmT9E5iDIY5/0TBcD1YEQa9Xq2S4Iw==;/6ZwdHnqsIqGMK10qvzRrQ=="
 ---

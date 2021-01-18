@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How"
+    excerpt: "Facebook's artificial intelligence researchers developed models that use x-rays to anticipate the progression of the disease in a patient and help hospitals prepare."
+    publishedDateTime: 2021-01-18T14:05:00Z
+    webUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how"
+    ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 98
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/news/f/facebook-t/facebook-to-send-notifications-to-users-who-like-or-share-co_wj6r.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Facebook claims its AI can anticipate COVID-19 outcomes using X-rays"
     excerpt: "Researchers at Facebook and NYU trained a machine learning model to predict when COVID-19 patients' condition might deteriorate."
     publishedDateTime: 2021-01-15T17:03:00Z
@@ -44,38 +60,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NHS adopts AI imaging algorithm to improve COVID-19 treatment"
-    excerpt: "Hospitals around the country will soon be able to use artificial intelligence (AI) to help diagnose COVID-19 patients and reduce the time needed to create treatment plans.  The 'COVID-19 Chest Imaging Database' (NCCID) has been pulled together by NHSX,"
-    publishedDateTime: 2021-01-18T12:42:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 87
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1610965572/itpro/MicroscopingVirus_shutterstock.jpg"
-        width: 1000
-        height: 506
-        isCached: true
-  - title: "Even AIs can't help but turn into hateful jerks on Facebook"
-    excerpt: "The popular South Korean Al chatbot, Lee Luda, has been suspended from Facebook after being reported for making racist remarks, and discriminatory comments about members of the LGBTQ+ community, as well as people considered to have disabilities."
-    publishedDateTime: 2021-01-14T13:23:00Z
-    webUrl: "https://www.pcgamer.com/ai-chatbot-suspended-facebook/"
-    ampWebUrl: "https://www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tEzDTfy6yUTw4Q56rQneYf-1200-80.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
     excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."
     publishedDateTime: 2021-01-15T21:27:00Z
@@ -91,6 +75,20 @@ related:
       - url: "https://www.adweek.com/wp-content/uploads/2020/12/IBM_PE_011520_HP-640x360.png"
         width: 640
         height: 360
+        isCached: true
+  - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
+    excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."
+    publishedDateTime: 2021-01-17T09:11:00Z
+    webUrl: "https://www.analyticsinsight.net/how-has-artificial-intelligence-risen-in-the-healthcare-sector/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-e1610856351543.jpg"
+        width: 900
+        height: 499
         isCached: true
 
 secured: "EiZbR/F4rV/lzWnWUOnmoq3uwNelVyZ6JugsDbwzeYFfspxWxczwFzRFLFECWM7+IXoqikmbN3RUJUgKqCJJHt5m4cKviarwYFhs3HweuIo+1K+Zmkn2TBkF7IImmPPl/ONNpe9h2Zl15iHDpKZHDdtDiDfIJYBy9hwetxI6zSSfbtuWRRFXF58t7YeMVgHKcxlnan2BQifDx80jY+8I/axqUBGIl4gbRYtc5R+x0rlYM7ee04N+xNRG1d4giCjVSWpBb0xBQVpWD5eEukwR8SegV751jlQgOGlCM6U2dIxY6fTMGfrpaiOvqC3KS/WXRW6A/ZeN+fy1I8x/+IousRguAkh0lIr5lMf7uPZ3d+2hf2xf3eEdcb5nELTDg08dXnK1q4u+LPrlN1V/A/MI2idH8LAtq//AYCAzNq2/yZq5iGn/JhDwYvJA5wwnIAZkMVmHM/FXKK/7fqcbIskLx92gbT1ky7b8HtnE1uxZsrCq67G2kiUibBSidHH3J69dLATmXRmPXD53dYzKZgiDYA==;pDUylmfReHs3vpP9rhmlxw=="

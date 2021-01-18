@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Even AIs can't help but turn into hateful jerks on Facebook"
+    excerpt: "The popular South Korean Al chatbot, Lee Luda, has been suspended from Facebook after being reported for making racist remarks, and discriminatory comments about members of the LGBTQ+ community, as well as people considered to have disabilities."
+    publishedDateTime: 2021-01-14T13:23:00Z
+    webUrl: "https://www.pcgamer.com/ai-chatbot-suspended-facebook/"
+    ampWebUrl: "https://www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tEzDTfy6yUTw4Q56rQneYf-1200-80.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Facebook fined $650 million for collecting facial recognition data inappropriately"
     excerpt: "Facebook has been ordered to pay $540 million to Illinois residents for collecting facial recognition data without their consent | NewsBytes"
     publishedDateTime: 2021-01-16T13:45:00Z

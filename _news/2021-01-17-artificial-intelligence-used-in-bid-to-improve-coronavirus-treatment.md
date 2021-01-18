@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "NHS adopts AI imaging algorithm to improve COVID-19 treatment"
+    excerpt: "Hospitals around the country will soon be able to use artificial intelligence (AI) to help diagnose COVID-19 patients and reduce the time needed to create treatment plans.  The 'COVID-19 Chest Imaging Database' (NCCID) has been pulled together by NHSX,"
+    publishedDateTime: 2021-01-18T12:42:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 87
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1610965572/itpro/MicroscopingVirus_shutterstock.jpg"
+        width: 1000
+        height: 506
+        isCached: true
   - title: "Artificial intelligence used in bid to improve coronavirus treatment"
     excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'"
     publishedDateTime: 2021-01-18T06:20:00Z
@@ -35,20 +51,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Researchers use natural language processing tech to identify new coronavirus variants"
-    excerpt: "The utility of natural language processing algorithms for understanding and predicting the changes of viruses lies in the adherence of viral structures to a kind of grammar and semantics, MIT Technology Review reported."
-    publishedDateTime: 2021-01-15T19:15:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/researchers-use-natural-language-processing-tech-to-identify-new-coronavirus-variants.html"
+  - title: "In light of COVID-19 high-tech tools firms are turning to artificial intelligence (AI)"
+    excerpt: "According to CNA News, in light of COVID-19, with more firms looking to better manage manpower with high-tech tools firms are turning to artificial intelligence (AI) and machine learning in Singapore."
+    publishedDateTime: 2021-01-16T21:02:00Z
+    webUrl: "https://www.linkedin.com/pulse/light-covid-19-high-tech-tools-firms-turning-ai-amanda-goh"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 32
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 46
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZbZpPwfThQ/article-cover_image-shrink_720_1280/0/1610770097853?e=1616025600&v=beta&t=OMQiXwLPLw14Q0ZJJOiKTWbfD2QPRM2KijhOam8urrQ"
+        width: 1240
+        height: 720
         isCached: true
+  - title: "Artificial Intelligence Market with COVID-19 Impact in Homeland Security & Public Safety - 2020-2025"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Market with COVID-19 Impact in Homeland"
+    publishedDateTime: 2021-01-14T09:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19157413/artificial-intelligence-market-with-covid-19-impact-in-homeland-security-public-safety-2020-2025"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19157413"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19157413"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
 
 secured: "0nsrvPfS76cOyOhlzulh46s1ABGWpbv3yTz78uJ1i1ODBKoMes0c1lTEHMpd8wK6YPobl8lqnqXNm0+g4wGkgQlFuUofIik0XHbtGvzeYhXnNzguW1uZC/q1l9S9pg868cWKWH0otEzOgD81et0m3VHSlas5DveF5NuF/PVanyWS5cALiOroBiBGXWoip/DXN6j8/4l5bhnWySFZ9LiXmY/pvHEMs9x07q9I108odl9PBEmwFkRb/1oBffc5YmJyx8s9eOtnMflh5cfAJ+jDHE8k0YN1MfmOE3ybimjmNOwkct/EBqylN57Ys0nvejDq2wUrr+aPOqStB8vumO15JmTKlRIsGegZXg4M7YuIfRs=;BhizavUuHSvowQhRBbYUqQ=="
 ---

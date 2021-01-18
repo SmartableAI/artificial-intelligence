@@ -38,6 +38,20 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Doosan Bobcat North America Invests in Ainstein AI to Elevate Radar-Sensing Solutions"
+    excerpt: "Doosan Bobcat North America announced a strategic equity investment with Ainstein AI Inc. , a startup radar technologies company located in Lawrence, Kan., to continue the development of next-generation radar sensor systems for Bobcat equipment solutions."
+    publishedDateTime: 2021-01-18T14:36:00Z
+    webUrl: "https://www.constructionequipmentguide.com/doosan-bobcat-north-america-invests-in-ainstein-ai-to-elevate-radar-sensing-solutions/51007"
+    type: article
+    provider:
+      name: Construction
+      domain: constructionequipmentguide.com
+    quality: 30
+    images:
+      - url: "https://dmt55mxnkgbz2.cloudfront.net/900x0_s3-51007-MNSW-DOOS-AINSTEIN.jpg"
+        width: 900
+        height: 879
+        isCached: true
   - title: "Doosan Bobcat North America announces investment in Ainstein AI to elevate radar-sensing solutions"
     excerpt: "WEST FARGO, N.D., Jan. 14, 2021 /PRNewswire/ -- Doosan Bobcat North America announced today a strategic equity investment with Ainstein AI, Inc., a startup radar technologies company located in Lawrence, Kan., to continue the development of next-generation ..."
     publishedDateTime: 2021-01-15T09:15:00Z

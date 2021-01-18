@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-13-using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker.md",
+      "title": "Using machine learning to predict vessel time of arrival with Amazon SageMaker",
+      "excerpt": "According to the International Chamber of Shipping, 90% of world commerce happens at sea. Vessels are transporting every possible kind of commodity, including raw materials and semi-finished and finished goods, making ocean transportation a key component of the global supply chain. Manufacturers, retailers,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/24/ML-1521-1.jpg",
+          "width": 800,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T14:46:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-with-analysts-divided-on-c3ai-stock-its-ok-to-stay-on-the-sidelines.md",
+      "title": "With Analysts Divided on C3.Ai Stock, It’s OK to Stay on the Sidelines",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Enterprise artificial intelligence firm C3.ai (NYSE:AI) became a",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/with-analysts-divided-on-ai-stock-its-ok-to-stay-on-the-sidelines-1029966103",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/with-analysts-divided-on-ai-stock-its-ok-to-stay-on-the-sidelines-1029966103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/with-analysts-divided-on-ai-stock-its-ok-to-stay-on-the-sidelines-1029966103",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/with-analysts-divided-on-ai-stock-its-ok-to-stay-on-the-sidelines-1029966103",
+      "publishedDateTime": "2021-01-13T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-tesla-files-to-use-new-millimeter-wave-radar-on-its-full-self-driving-electric-cars.md",
       "title": "Tesla files to use new ‘millimeter-wave radar’ on its ‘full self-driving’ electric cars",
       "excerpt": "Tesla has applied with the FCC for the use of a new “millimeter-wave radar” for Autopilot and Full Self-Driving in its electric cars. New Tesla Radar Tesla uses a front-facing radar sensor hidden inside the front fascia of its vehicles as part of its Autopilot/Full Self-Driving (FSD) sensor suite.",
@@ -205,6 +300,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-5-things-to-know-about-employee-recognition-in-2021.md",
+      "title": "5 Things to Know About Employee Recognition in 2021",
+      "excerpt": "Employee recognition company Terryberry discusses how organizations are changing they way they recognize and appreciate teams the midst of a global pandemic. GRAND RAPIDS, Mich.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/p19149002/5-things-to-know-about-employee-recognition-in-2021",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/p19149002/5-things-to-know-about-employee-recognition-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19149002",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19149002",
+      "publishedDateTime": "2021-01-13T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1086,153 +1215,6 @@
         "AI",
         "AI in Sales",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-friend-kitchen-staff-yoga-finder-at-ces-2021-robots-are-a-highlight-having-shown-their-worth-in-the-coronavirus-pandemic.md",
-      "title": "Friend, kitchen staff, yoga finder: at CES 2021, robots are a highlight, having shown their worth in the coronavirus pandemic",
-      "excerpt": "The pandemic is helping robots prove their worth, from one that helps people feel less lonely to another that can cut labour costs in the kitchen – and they take centre stage at a consumer tech show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
-      "originalUrl": "https://www.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2021/01/13/253e9dc0-54a7-11eb-84b3-e7426e7b8906_image_hires_114147.jpg?itok=WBrpKgD0&v=1610509319",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight",
-      "publishedDateTime": "2021-01-13T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-fda-releases-action-plan-for-ai-machine-learning-medical-software.md",
-      "title": "FDA Releases Action Plan for AI, Machine Learning Medical Software",
-      "excerpt": "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software",
-      "originalUrl": "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-gm-unveils-a-futuristic-self-driving-cadillac-that-can-fly.md",
-      "title": "GM unveils a futuristic self driving Cadillac that can fly",
-      "excerpt": "GM (General Motors) unveiled a new futuristic self driving car. This was a new Cadillac imagined by the automobile maker, which is even capable of flying and can carry a passenger through the skies. According to a Reuters report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/01/13/gm-unveils-futuristic-self-driving-cadillac-that-can-fly/",
-      "originalUrl": "https://www.gizmochina.com/2021/01/13/gm-unveils-futuristic-self-driving-cadillac-that-can-fly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/01/Cadillac-VTOL-Flying-VTOL-Craft.jpg",
-          "width": 875,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

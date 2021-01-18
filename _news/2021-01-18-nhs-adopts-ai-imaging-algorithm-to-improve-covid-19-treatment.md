@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: IT Pro
@@ -30,67 +30,55 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook claims its AI can anticipate COVID-19 outcomes using X-rays"
-    excerpt: "Researchers at Facebook and NYU trained a machine learning model to predict when COVID-19 patients' condition might deteriorate."
-    publishedDateTime: 2021-01-15T17:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/"
-    ampWebUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
+  - title: "Artificial intelligence used in bid to improve coronavirus treatment"
+    excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'"
+    publishedDateTime: 2021-01-18T06:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+  - title: "In light of COVID-19 high-tech tools firms are turning to artificial intelligence (AI)"
+    excerpt: "According to CNA News, in light of COVID-19, with more firms looking to better manage manpower with high-tech tools firms are turning to artificial intelligence (AI) and machine learning in Singapore."
+    publishedDateTime: 2021-01-16T21:02:00Z
+    webUrl: "https://www.linkedin.com/pulse/light-covid-19-high-tech-tools-firms-turning-ai-amanda-goh"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 46
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&strip=all"
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZbZpPwfThQ/article-cover_image-shrink_720_1280/0/1610770097853?e=1616025600&v=beta&t=OMQiXwLPLw14Q0ZJJOiKTWbfD2QPRM2KijhOam8urrQ"
+        width: 1240
+        height: 720
+        isCached: true
+  - title: "Artificial Intelligence Market with COVID-19 Impact in Homeland Security & Public Safety - 2020-2025"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Market with COVID-19 Impact in Homeland"
+    publishedDateTime: 2021-01-14T09:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19157413/artificial-intelligence-market-with-covid-19-impact-in-homeland-security-public-safety-2020-2025"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19157413"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19157413"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+  - title: "Artificial intelligence used in bid to improve coronavirus treatment"
+    excerpt: "NHSX has brought together 40,000-plus CT scans, MRIs and X-rays from more than 10,000 patients across the UK during the course of the pandemic."
+    publishedDateTime: 2021-01-17T15:58:00Z
+    webUrl: "https://www.shropshirestar.com/news/uk-news/2021/01/17/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 37
+    images:
+      - url: "https://www.shropshirestar.com/resizer/FxzVh85c6nF9MMb6jXbZuoweOLM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/DC4PTJ65VBDMVOGGRCD4O743TY.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "New self-supervised AI models scan X-rays to predict prognosis of COVID-19 patients"
-    excerpt: "Researchers from Facebook and NYU Langone Health say their system forecasts COVID-19 mortality more accurately than radiologists."
-    publishedDateTime: 2021-01-15T17:27:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/15/new-self-supervised-ai-models-scan-x-rays-to-predict-prognosis-of-covid-19-patients/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 61
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F01%2FUntitled-design-2021-01-15T134250.373.png&signature=16c0e1c446789121fa9cc14628059186"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Even AIs can't help but turn into hateful jerks on Facebook"
-    excerpt: "The popular South Korean Al chatbot, Lee Luda, has been suspended from Facebook after being reported for making racist remarks, and discriminatory comments about members of the LGBTQ+ community, as well as people considered to have disabilities."
-    publishedDateTime: 2021-01-14T13:23:00Z
-    webUrl: "https://www.pcgamer.com/ai-chatbot-suspended-facebook/"
-    ampWebUrl: "https://www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/ai-chatbot-suspended-facebook/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tEzDTfy6yUTw4Q56rQneYf-1200-80.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
-    excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."
-    publishedDateTime: 2021-01-15T21:27:00Z
-    webUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/"
-    ampWebUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 57
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/12/IBM_PE_011520_HP-640x360.png"
-        width: 640
-        height: 360
+        height: 900
         isCached: true
 
 secured: "Kn0QchSHpGmWd7cTiFP67hKLXS0Cep+C2CELq62FuVl/VFeRSAFwOrHOnfie/4WuH6nctsNK0r8HBzqMzU0tW7LTmUaj74qhBMn+iDOFE2yIUukvIGDOjntGOw/uKv0EWNA91LIpbJzUKZunoeOg+EfgVUFu15omHXECf4OS8brWXtQkcfJ9b3bRg8/zbrzLC5M5BmTnAb/wAlT6Xl9zpFbxQ3g+CTIz3KUIm1z8LYQ926RVqlGoX0LRyUncqoi+LgBPLZPg+Ob3bMT0YIoeM/7Ra/DDZ4qb1N5cXrdWStTzh3MfYe64FTvJ90BOpiLYgbpdpwCQxtAWCmLFmADtrMU4TmZy6q1P2ax9m+s0iM0=;u29Fl80Dcywhzie2BQtJeg=="
