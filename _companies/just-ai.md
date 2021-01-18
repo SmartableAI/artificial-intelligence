@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "JustAIglobal"
   url: "https://twitter.com/JustAIglobal"
-  followers: 744
+  followers: 746
 
 size: 51-200 employees
 yearFounded: 2016
