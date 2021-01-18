@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytic
 webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://vatortv.s3.amazonaws.com/images/videos/main/20897.jpg"
         width: 320
         height: 240
-        isCached: true
-  - title: "Cognitive Analytics Market technological to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2021-01-13T18:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Global Commerce Artificial Intelligence Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 17, 2021 (CDN Newswire via Comtex) -- Global Commerce Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides a ..."

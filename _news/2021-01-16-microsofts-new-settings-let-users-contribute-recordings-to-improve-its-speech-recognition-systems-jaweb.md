@@ -104,6 +104,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland's deep knowledge,"
+    publishedDateTime: 2021-01-18T10:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-19603866.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "JcQDkrDR1N+fxpg6Q7Q3GbzqRiFZTF7BBlmU0+H4AVPMFzJKGZavqnFr/B1r8a5zu0MroSmRH2U5jlIKM8jHPjNTHVoBOULpd0DByHgTh7gUqvDpr9LRMlTMMjYg03Qu+ejk5FkxaMWH84Pz2fCXc5cBLnmZHcHZwGWWs86E634Phe6rP6km5DX20fuTRU5C6ArXFkhMqq8+oGdIIGZ4oVXn+XT3nlvbKtpNyZfwWj09ePAQF8yaFLCqvurlMttfQlTtnL0J4O2+qglMIbu8SlIAkT8l80PoWOH5J19PcLpv+RCrsJD/ZCYHNEaIjjWhhl+4plGcZF/RLQOyekNPZ83shDJgPtAr8woWAyRxURQIBVccDZ/Vy9KitlmIJtmONBxOcBLhd/X9sJTREGH3R+5Z68bsd7FIWCGo2l/nASdClpClvo7L5VcSKxqJSeu4W71z6e3GkD5h6Px55M87umHvs1KBqut5t0sw2oQXQAlYZsHO8WSJff2JhP2OLCby1L6hJ+hXRk9vq5SneDtn0w==;pdvwaFVV/rcrwOoCRgXfSA=="
 ---

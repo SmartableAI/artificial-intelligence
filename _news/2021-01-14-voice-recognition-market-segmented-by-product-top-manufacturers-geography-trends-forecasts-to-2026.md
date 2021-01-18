@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Voice Recognition Market technological Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
-    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
-    publishedDateTime: 2021-01-13T18:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-technological-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "joj18YUdAXJJ3H8gRDsrsfpZilMjO1UbQBtbikaFdc85Lip73aTqedeidoZnvv/1YQ2WWJcs7B7eq3Ayxoh3E89UW7AGsGP08BlDGbXltdHgFKn+er9iAjL5QcMfSwfMCfaVrgMVN00Q3RgC0xEMQnFy/bfIRq/tj8MgE5ZUQSmHf7P/ec4fQksFww0APq6MDs8BX6vTBqw0DDBj2hoYKmjdzRW832HxYOSpbH2B8UqpKmzH48rwi7WFmWMAiB+/ppJdWuCrAFfw3EY76jSSTBs7DFoGx4kf6TUdID3QYRose3KoRjyunlNpQJeWfSBmiZwkU5lVITYulcEe1+XyD/ZqERlPC5f4Bl06PJ7gyrw=;EGmOKoBCPkNuS9swwsaPkw=="
 ---
 

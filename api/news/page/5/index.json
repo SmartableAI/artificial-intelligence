@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-01-13-fda-releases-action-plan-for-ai-machine-learning-medical-software.md",
-      "title": "FDA Releases Action Plan for AI, Machine Learning Medical Software",
-      "excerpt": "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software",
-      "originalUrl": "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-gm-unveils-a-futuristic-self-driving-cadillac-that-can-fly.md",
       "title": "GM unveils a futuristic self driving Cadillac that can fly",
       "excerpt": "GM (General Motors) unveiled a new futuristic self driving car. This was a new Cadillac imagined by the automobile maker, which is even capable of flying and can carry a passenger through the skies. According to a Reuters report,",
@@ -1188,6 +1145,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces.md",
+      "title": "NVIDIA Unveils GeForce RTX 30 Series Laptops And The Aggressively-Priced GeForce RTX 3060 Desktop GPU At CES",
+      "excerpt": "PC Graphics giant, NVIDIA today has taken the wraps off new GeForce RTX 30 Series gaming laptop platform technologies, as well as a new GeForce RTX 3060 graphics card that will address the meat of the market at a popular $329 midrange price band.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffdceee9238e5474ced6a5d%2F0x0.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/01/12/nvidia-unveils-geforce-rtx-30-series-laptops-and-the-aggressively-priced-geforce-rtx-3060-desktop-gpu-at-ces/amp/",
+      "publishedDateTime": "2021-01-12T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

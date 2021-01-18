@@ -45,20 +45,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Machine Learning Tool Gives Early Warning Of Cardiac Issues in COVID Patients"
-    excerpt: "Natalia Trayanova A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors"
-    publishedDateTime: 2021-01-13T18:44:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-tool-gives-early-warning-of-cardiac-issues-in-covid-patients/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://releases.jhu.edu/wp-content/uploads/2016/05/NT-Este.jpg"
-        width: 366
-        height: 524
-        isCached: true
   - title: "Machine learning tool gives early warning of heart issues in COVID-19 patients"
     excerpt: "Julie K. Shade, lead author and a doctoral student in the Department of Biomedical Engineering, built the machine-learning algorithm with more than 100 clinical data points, demographic ..."
     publishedDateTime: 2021-01-17T23:48:00Z

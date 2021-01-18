@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-is
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZbZpPwfThQ/article-cover_image-shrink_720_1280/0/1610770097853?e=1616025600&v=beta&t=OMQiXwLPLw14Q0ZJJOiKTWbfD2QPRM2KijhOam8urrQ"
         width: 1240
         height: 720
-        isCached: true
-  - title: "Machine Learning Tool Gives Early Warning Of Cardiac Issues in COVID Patients"
-    excerpt: "Natalia Trayanova A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors"
-    publishedDateTime: 2021-01-13T18:44:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-tool-gives-early-warning-of-cardiac-issues-in-covid-patients/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://releases.jhu.edu/wp-content/uploads/2016/05/NT-Este.jpg"
-        width: 366
-        height: 524
         isCached: true
   - title: "Machine learning tool gives early warning of heart issues in COVID-19 patients"
     excerpt: "Julie K. Shade, lead author and a doctoral student in the Department of Biomedical Engineering, built the machine-learning algorithm with more than 100 clinical data points, demographic ..."

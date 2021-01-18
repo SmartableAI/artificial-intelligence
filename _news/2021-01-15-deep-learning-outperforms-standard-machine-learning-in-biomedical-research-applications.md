@@ -51,15 +51,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Deep Learning Outperforms Standard Machine Learning in Biomedical Research Applications, Research Shows"
-    excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging."
-    publishedDateTime: 2021-01-13T17:23:00Z
-    webUrl: "https://news.gsu.edu/2021/01/13/deep-learning-outperforms-standard-machine-learning-in-biomedical-research-applications-research-shows/"
-    type: article
-    provider:
-      name: Georgia State University
-      domain: gsu.edu
-    quality: 18
 
 secured: "j5cdhprNFt8nxlYXE29WczcF8PPOl3zeBPmcpxwdeK7Nxpf8HeQP+1lMNFhgnjoaixHzVMj42VcHTx80MI9IyZivXH7atFXyWK4VyhtcTJW76pfdweqzxdvCoW4NRpqHY4hiLdiUC12q80WmS9e67L9IUWL8r8qc0ruTiXQnKHxuHEdFqU2vmOxtXWMC6IHtJvN4mMPgN0aXMFl3PbyjlovCWwbxPoJbQ2vxxng5QJo3W5cTUNR+lPdAN/S991mvmJl9g0fLOt44VfccVF9wCklz/0WiP06KFJIh8mN2DgR6RDWTLybHOaUAqaZw8vr2iaPj8oMNeLGSsGZGOGe8aL0zKNShFOR42pmDmtqbpJ0=;5XBUWbkLEUkL5Ha9RQNhrA=="
 ---

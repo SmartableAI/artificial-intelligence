@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "How the use of robotics is evolving at sorting facilities"
-    excerpt: "A recycling facility operator and a robotics company say artificial intelligence is providing materials recovery firms with much-needed data to analyze changes in the recycling stream. That’s in addition to sortation improvements."
-    publishedDateTime: 2021-01-13T17:20:00Z
-    webUrl: "https://resource-recycling.com/plastics/2021/01/13/how-the-use-of-robotics-is-evolving-at-sorting-facilities/"
-    ampWebUrl: "https://resource-recycling.com/plastics/2021/01/13/how-the-use-of-robotics-is-evolving-at-sorting-facilities/amp/"
-    cdnAmpWebUrl: "https://resource--recycling-com.cdn.ampproject.org/c/s/resource-recycling.com/plastics/2021/01/13/how-the-use-of-robotics-is-evolving-at-sorting-facilities/amp/"
-    type: article
-    provider:
-      name: Resource-Recycling
-      domain: resource-recycling.com
-    quality: 74
-    images:
-      - url: "https://resource-recycling.com/plastics/wp-content/uploads/sites/4/2021/01/AMP-Robotics-Tandem_Gripper-web-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Researchers Offer Human-Robot Teaming Recommendations to Help Inform Army R&D"
     excerpt: "A new report that built on a workshop sponsored by the National Science Foundation (NSF) and University of Maryland provides 31 recommendations on enabling spoken language interaction between soldiers and robots to help the U."
     publishedDateTime: 2021-01-16T04:56:00Z

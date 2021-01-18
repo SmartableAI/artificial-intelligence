@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Explainable Artificial Intelligence Can Help Humans Innovate"
-    excerpt: "By peering into the AI black box, we can uncover and teach people new facts about the world that have not yet been discovered, leading to new innovations."
-    publishedDateTime: 2021-01-13T17:57:00Z
-    webUrl: "https://singularityhub.com/2021/01/13/how-explainable-artificial-intelligence-can-help-humans-innovate/"
-    ampWebUrl: "https://singularityhub.com/2021/01/13/how-explainable-artificial-intelligence-can-help-humans-innovate/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/13/how-explainable-artificial-intelligence-can-help-humans-innovate/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 72
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/01/rubiks-cube-shadow-1.jpg"
-        width: 1408
-        height: 792
-        isCached: true
   - title: "How Artificial Intelligence Can Improve Cannabis Yield and Security"
     excerpt: "The more advanced a smart monitoring system is in its use of machine learning and real-time monitoring integration, the more effective it is in spotting anomalous activity."
     publishedDateTime: 2021-01-15T01:59:00Z

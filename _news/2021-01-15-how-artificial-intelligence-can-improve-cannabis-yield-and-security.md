@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "How Explainable Artificial Intelligence Can Help Humans Innovate"
-    excerpt: "By peering into the AI black box, we can uncover and teach people new facts about the world that have not yet been discovered, leading to new innovations."
-    publishedDateTime: 2021-01-13T17:57:00Z
-    webUrl: "https://singularityhub.com/2021/01/13/how-explainable-artificial-intelligence-can-help-humans-innovate/"
-    ampWebUrl: "https://singularityhub.com/2021/01/13/how-explainable-artificial-intelligence-can-help-humans-innovate/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/13/how-explainable-artificial-intelligence-can-help-humans-innovate/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 72
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/01/rubiks-cube-shadow-1.jpg"
-        width: 1408
-        height: 792
-        isCached: true
   - title: "How explainable artificial intelligence can help humans innovate"
     excerpt: "Therefore, AI researchers like me are now turning our efforts toward developing AI algorithms that can explain themselves in a manner that humans can understand. If we can do this, I believe that AI will be able to uncover and teach people new facts about the world that have not yet been discovered,"
     publishedDateTime: 2021-01-15T21:02:00Z

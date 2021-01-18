@@ -1,39 +1,45 @@
 ---
 category: news
 title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
-excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
-publishedDateTime: 2021-01-15T06:13:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
-webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
+excerpt: "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,"
+publishedDateTime: 2021-01-15T01:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
+  - Google AI
   - AI
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
 related:
-  - title: "StradVision and D3 Engineering Showcase a Market-leading Automotive Front Camera Solution at CES 2021"
-    excerpt: "PRNewswire/ -- StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AV), today announced its collaboration with D3 Engineering on an Automotive Front Camera solution delivering market-leading performance and price efficiency."
-    publishedDateTime: 2021-01-13T17:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-photographic-equipment-and-supplies-manufacturing-consumer-electronics-manufacturing-a9346cc0f05941d036ff098775ea4278"
+  - title: "South Korea's Hancom Group CES 2021 Showcases Game Changing Productivity and Collaboration"
+    excerpt: "At this year's All Digital CES 2021, Hancom Group is showcasing some of the companies' most innovative technology. These include"
+    publishedDateTime: 2021-01-14T17:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/south-koreas-hancom-group-ces-2021-showcases-game-changing-productivity-and-collaboration-solutions-artificial-intelligence-and-robots-smart-city-and-blockchain-security-301208235.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1420551/CES2021_DroneSat.jpg?p=facebook"
+        width: 1919
+        height: 1005
         isCached: true
 
-secured: "SMhiAXhiMgRMj5MnKMCcdT1hRtNyh4d/kf1GCLniDlrYHgujcFX8nx54M5tyCgC/WRURCsL4li7/stsa1aCPx5ORG0ULzhlBddVnu+4592NM0+wTq8GrPLzmMXP5CGxz/qGHcwsLXJVXX3Vibd9TvIM/OFYH7WpaC1dLGcCoeUHSTg9PTKFMvKdj18ycrjvZ9OF8v2dpgmNkyQ15/T5PetpbNoesghExy4y1w5RkJiaTy0e2KPbyA4I+4x1RQSewOsmfw8v6X+PZre19snpiBm0QWwurL6DSh+85+IJV8znGgkcDdzSwRmO97FFe6B1D48DwJWiraokgwjj0TAdRxQw8C/CsVgzJPsZOrX870bX7jFE6XrmMDN0u2GqhAqmtbqa4n/N0hs7aOim0xKB1MGXyCWt7Wpbkk0cSRcgvMMGUZSJrRWjm51zJ52+bM9NMTKm/RoRiuCGENciDqukK2cRa1UQaBox8QvZt7a/7e5dBKHJx5YVfIMQi2CZB9CHqxLmwcxr/KWVsoOeKyeM5Tg==;gIyEJkuBTDi/fIVW+fvemg=="
+secured: "MV7rx6W/6GY1GUV3NpjhIWsk+do6RfghphU8y4gZEF8gTdbzOIFmbrXHH5ts6TnAzfSf7+wwr2my4nVcJT6mUPdnOJzvsTZ4ZKBbU2DByIKBuFdx/9WYjhdyOuXTqpIzu/ymboy6+xevM8HkRBaG2MwKZXorKe8jgCPGkGLR0OnrNm/2SS1T4tYY+Dmlh1QNmBUrrvzcKzi6QNNDWm3rQwhA0vytXSGy+sRvfNRj8+CuGVV/Tfs7woiZfjIbaOccKSpypWZHPP3InbNTaeI3oPnK0XtS/utXqJHauUdleBPbYg6/J8LPBtWg/ifZoTWAXS9c4k6QS4MHyOiopwJ1KMFyC1jQuehO4fk30xF5Az4=;jFeJuUeH7XTcN1s0a8a08A=="
 ---
 

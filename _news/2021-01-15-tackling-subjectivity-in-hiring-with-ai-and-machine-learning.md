@@ -3,8 +3,8 @@ category: news
 title: "Tackling subjectivity in hiring with AI and machine learning"
 excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
 publishedDateTime: 2021-01-15T00:56:00Z
-originalUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670418"
-webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670418"
+originalUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?_escaped_fragment_="
+webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?_escaped_fragment_="
 type: article
 quality: 64
 heat: -1
@@ -47,6 +47,6 @@ related:
       domain: techinasia.com
     quality: 64
 
-secured: "LM3UplnBxQ2DhGdG1nmi4cJsKFhcmbt0aD2J91By2u5cQNvlDwVHCvtfdZOuqO9uPMMIseBfrQi8XYiOEG1mx/yVGBmdv4Q/7Te2ZqRIO4zIHi8lu+XOwyxawO/o5X6xSegDYt2E1lkzPDt4zAkTVR5r7x1QKdwhYHtkwYQlBrEykbJShslTH3Yttp/xB/uJ9GPd3a6r2fAMWADcBwNTyGtWYbe5lLzJDh86bqUxgSVuXEI+R38ofnUioNAXieWBATi2+IPNkDWwePlwZnrEo1QRzVldXMzHJakMaaDG4ZjHWXUMaeEujFmCpesIBkZRty9liScDmO1M/NUpxK5a97dg9x4qApOEN7h/AUslsideKNyw33hTB1qwpjfcwYt3qhozYxcoFGzvZoLMZCCmRH5bALOx7TfeucXlYUmwDhsEzfcgcGd3ZfWYN2PIMDQyRyiUlp6VcOSQq8Ckgs5Q7WRpz8nwsxzO31onfwkP+YLno3hLGppQeaYyOuCNOUX0/5PW7q0ftQDdFqGymLRbRg==;/JzoYRTvS3k4z2rT0ro3hg=="
+secured: "exl2LhMV3atG1StabpVP4BBWOEyKmQbuHmlaly0Tv7QNjRsLNBUlR5xkj2FnOi/XsQcJ20rMXr6obEGf4Yhkm9hwds1S9COnHNCz17Imk6YvhpTk08g+n2yFfK6oEiz5IH7JHcaoL7GkL80LnZTpupPN3PPusR9iOp37wV+JclExy5/I9sa3qW9zHj2YeyQ8yzIlr+H+ZJyrUELhj91LsQ0BJVHEMlL3XIDZjtmzXvkCJDD1HgLI6ao/a7qfFcQPr/JFheDGiv8nipyJSuE1vx097QwnAjBJOBPRzO6QYRJVyNpKMhk4CY9uQnFdanUBvxK9xwnrlsYZdrmF2yOG5eAeYYdcUyWD2Q2l8hjJ9GqrnZF6FwRaZ0IoDB9dI8AUYJKxAkY+wn24GX4bYR3ptOawKmFlsbPQFCotWJzOIeAlGgVkaSnYw501GclMvaIB3c9GeVgCv8Ze13Xns0mPQHh5/49XtxYfvhp8SSyJWN1Ky3mW6+cgq7Ku8td9OvCa5uYvLc6nDwYJ5malNZhfnQ==;2bLxztYur+kh//V9SltBqw=="
 ---
 

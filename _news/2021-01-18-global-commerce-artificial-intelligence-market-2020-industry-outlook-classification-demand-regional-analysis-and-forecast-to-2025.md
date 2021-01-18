@@ -56,20 +56,6 @@ related:
         width: 320
         height: 240
         isCached: true
-  - title: "Cognitive Analytics Market technological to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2021-01-13T18:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-technological-to-witness-high-growth-in-near-future-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
     excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
     publishedDateTime: 2021-01-14T12:00:00Z

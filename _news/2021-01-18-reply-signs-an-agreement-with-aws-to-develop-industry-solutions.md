@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Reply Signs an Agreement with AWS to Develop Industry Solutions"
-excerpt: "Reply’s companies dedicated to AWS will offer solutions for highly ... to improve products’ Quality Assurance using artificial intelligence and machine learning services, and to provide ..."
-publishedDateTime: 2021-01-18T08:51:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790"
-webUrl: "https://markets.businessinsider.com/news/stocks/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790"
+excerpt: "Reply, specialized on new communications channels and digital media, announces today it has signed a Strategic Collaboration Agreement (SCA) with Amaz"
+publishedDateTime: 2021-01-18T09:47:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210118005019/en/Reply-Signs-an-Agreement-with-AWS-to-Develop-Industry-Solutions"
+webUrl: "https://www.businesswire.com/news/home/20210118005019/en/Reply-Signs-an-Agreement-with-AWS-to-Develop-Industry-Solutions"
 type: article
-quality: 69
-heat: 69
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "uat86oj0LYVUpxe1Mgwy8uTMKhjx4CBjVv6un7ReSBT8td7trMjzloDYi9tgdmZVU4E+OF1Xin/Srax4RAXsVV2FiZVCKUXoLc1hx7mI5ErzR/QJBrzRUJ4bP/SnpcjW/bu5MeWAUC+IHAfq/FNcTidTPKmuBhHg17EwQ63IsnCbFG0SaIj2xIj4GsLPI9CSdnqclPtKAGIw3wQ5rzgGGmyCeEEcPGRXe/rYXVD+w0y5iKuaEY0syEemCwrZ3g+YW2WtFTXtqI7/JgRbmzxrVO69a4ffyuZKTAG6/iS3Sw3wfSO5Fx2CHHL8p7cFd4HVe/1mi8YRGEhKn/OngEHCY59PYruqqCcXXWY0N/tvsps=;EvOY5Tc/XIFAlrDgU9gdRg=="
+secured: "kMWAQoQe35F3Oe1YVGTF8taxa1qtdHXZso6q4pbry2dlQOat4N46nuQzxYjnyHB+izr0lRe0TXkVx/xDVszELdNhHdBVpIkqdNiSHfcvWn0HDoBcwLjrz6f3v9z+1cgffbluwVZzQoma44SqZ+BfyR3gXyyiLI2/YIlaD44ZLxDFafYtlyxTgDUf+YjINwoKP+ik6T+lUwZfDSr4y3zWrTQjN3Zhhf2z6CuST66pdDCArOyxwPQRM/J5EkLNBhDtWj75lB30n73xt7FNU3OJZt7WE//7mFrpQcXCJ+FV95GHWaSjKi7OSHc13NYyOfpAoyc7GWrMUQlkadPcEKdziaIrLaHpTmmAIauGKTcSYlj11XW6Jc0+tT3crn4KgdEATOKMhWKjv8BxqnPX/mJevY7gL6dbJVO5d5kvx+PJB3B+uYcKULr3db+SLWNPJSt8CYtCB/2RoFP1EBGHAgwpvs1504nKQ71UgGCHRVHEDVLiZ9MZ+Qt5tBureP6bUWCbvVV2hU1vxUVsCWzsPsMwkA==;4ym9Tg1iV+IXAnWsjdpZ1w=="
 ---
 

@@ -47,17 +47,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Digital Trends Top Tech of CES 2021 Awards"
-    excerpt: "The first all-digital CES brought challenges, but also a world-changing slate of amazing gadgets and devices. We picked the best of the best."
-    publishedDateTime: 2021-01-13T17:15:00Z
-    webUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/"
-    ampWebUrl: "https://www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/top-tech-of-ces-2021-awards/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
   - title: "Techlicious Top Picks of CES 2021 Awards"
     excerpt: "Our team of tech industry veterans scoured this year's virtual exhibit halls and picked our absolute favorite products for the Techlicious Top Picks of CES 2021 Awards."
     publishedDateTime: 2021-01-14T15:07:00Z

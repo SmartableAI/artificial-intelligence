@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/regulatory-quality/fda-outlines-plan-ai
 webUrl: "https://www.mddionline.com/regulatory-quality/fda-outlines-plan-ai-and-machine-learning-based-software"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 770
     height: 400
     isCached: true
-
-related:
-  - title: "Metrics AI secures FDA clearance for platform"
-    excerpt: "A local medical imaging startup has received FDA clearance for its flagship imaging analysis platform. AI Metrics previously received FDA clearance and CE mark clearance for its Liver Surface Nodularity (LSN) software,"
-    publishedDateTime: 2021-01-13T17:35:00Z
-    webUrl: "https://www.bizjournals.com/birmingham/news/2021/01/13/metrics-ai-secures-fda-clearance-for-platform.html"
-    ampWebUrl: "https://www.bizjournals.com/birmingham/news/2021/01/13/metrics-ai-secures-fda-clearance-for-platform.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/birmingham/news/2021/01/13/metrics-ai-secures-fda-clearance-for-platform.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
 
 secured: "EAhcZyYPCmsTySFK+4zOtYwKhmcM1IdoWSwC61/I8FFB9OoIkYHQk6SypMdGq0CPNycN8xiBss/0K5LZWlOyYR+HjzHc3yM+SpiEVQgKP7m2QzR/OSx2jHZCU/NmrVIb8DuAim6m8c01cfFqhm6jplwTiB1bzXG3LV3XqDVgcn13Z4qZoYT/W3x54wsE9MlBO7+pgDpwZtgu+ovcLwcyDm6RY6EOwiHmgX31bW/2fk5e+TtqsN/qp2mLuyMIHuTbQwv9IuNLKqWGL5eK+QymjX1ZLW7qRLbVva7BQvy5t+zWvADT0vQDwvIi876lySOBd54tfwY9W9Fq7cdxji3x8zrDts2Kp+PBPUQK0z7z3fA=;DyTlTjLtEraAH01wIeTFpw=="
 ---

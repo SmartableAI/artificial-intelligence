@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/go
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Microsofts-new-settings-let-users-contribute-recordings-to-improve-its.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland's deep knowledge,"
+    publishedDateTime: 2021-01-18T10:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-19603866.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "/SWPkpsV/YaPJds4D9XGJC4FxjzCQflgGQFfHOAYyQtxSLrRa5SpqFNMTNpHWl4fxrDf2t3hhhp89qkEvOsQYzA63dn7HYusTuvm2VYu49aA2O18t4xIt2H/OyJoWvErNNKLgh0oISxm8xd4FgEXF4VVKCILOyxF065G4MKdh9BBUvUaijrRfcTWs/z3KRH2tH3FzC60nJM3pnlcjnat/74kjCU7VS1UquarSy3b9cWmzFN+1SNySc2FdMc/YNik/bOOXkU1bUULyOl4lFEP7o94EPg9glerO+4svY9u2tNecoI+BQKAyMpN4SLFU13YdSZ68cuXc808wuqGiDkgsfdHYGfvqjQLNStIlvbCn9jjtOQj8OFaBucJrh3voz8oYEBp9lKfHDOlhofOJpSlysag/N9B8PT7V0jOMSXdWmSub2jY9EV8+6v9E16X/iEqeBJ3hrcJ/GMoRxxeJwfpmbxjUE99SBA6lkwLg8Vm+rvED8WIE925NJXIv0WbCymMvDPsWa6OjRB9ImSiEzsJMA==;mN46bzr/QkR79WJma0lVFw=="

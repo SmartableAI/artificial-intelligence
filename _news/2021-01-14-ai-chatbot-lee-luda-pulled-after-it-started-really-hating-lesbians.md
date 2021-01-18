@@ -63,20 +63,6 @@ related:
         width: 980
         height: 665
         isCached: true
-  - title: "GM Financial's AI chatbot proves saving grace"
-    excerpt: "When the coronavirus pandemic swept the U.S. last March, shuttering auto factories and forcing most of the country into their homes, GM Financial's chief experience officer Bob Beatty had his hands full."
-    publishedDateTime: 2021-01-13T18:20:00Z
-    webUrl: "https://www.autonews.com/finance-insurance/gm-financials-ai-chatbot-proves-saving-grace"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 41
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/OEM11_160419913_AR_-1_PJVFMUVBHANW.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "qOs0DEt/T/kKhoKCZoa7yqpH97je7f252x5LJkT2pLFiP2Uwk6kFz3kCThAmMmgqXdWAZw1agtDhC4OFyFL6967CGRCP7aoU8bbRoWxIKvsac7r4CkeWpgt+jtAxqU2HEkrBzO0aQg9aWOWT6/GIykis99i0XAE/9hfpX4IcwoKhvhFMc4BBIcr4YbdOVkxRLlTt1b5GUXal/m4ciYOSuDDaMJarvMc69rxCSX1+voC84L1ewcN/03hP+Knm+t42m6FOh1Zv1eUMU99jCqAtwSnqEvsXTqzTCt74HVGu4pHTkuc9xtmkNXmGBQNb2RhpbvDCrZVsRrtKTqAnWKhvQNce04U3MqA7OpvJV5HvTpaU0RIsoqv2dXfvT8HZXGBQQ6epOh1amSImdYzn3wX7k2XyWzar4TZQpFkhIHszbhURw3H7s+AejyOwtIbw6OcOvzOWBWLZKto5uxRHr+9nXwwU9Eb3xItUv71ExGNWmMc/VVZe1JYwssUOb3Q05ZFnZAKQzGOBTfQMML92km/gIQ==;nGxy2kSA40irBt1SExikeQ=="
 ---

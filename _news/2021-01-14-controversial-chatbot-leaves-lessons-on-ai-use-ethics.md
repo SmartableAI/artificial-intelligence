@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/controversial-chatbot-l
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/bb7fc1b753c94279aec1b2fcca08a00e.jpg"
         width: 980
         height: 665
-        isCached: true
-  - title: "GM Financial's AI chatbot proves saving grace"
-    excerpt: "When the coronavirus pandemic swept the U.S. last March, shuttering auto factories and forcing most of the country into their homes, GM Financial's chief experience officer Bob Beatty had his hands full."
-    publishedDateTime: 2021-01-13T18:20:00Z
-    webUrl: "https://www.autonews.com/finance-insurance/gm-financials-ai-chatbot-proves-saving-grace"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 41
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/OEM11_160419913_AR_-1_PJVFMUVBHANW.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "AI chatbot Lee Luda pulled after it started ‘really hating’ lesbians"
     excerpt: "Lee Luda, a South Korean AI chatbot, has been pulled from Facebook after started saying it \"really hated\" lesbians because they're \"creepy\"."

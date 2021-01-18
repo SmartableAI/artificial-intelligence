@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffkart/2021/01/15/research-targets-so
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/01/15/research-targets-sorting-robots-and-separating-chemicals-to-improve-plastic-recycling/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How the use of robotics is evolving at sorting facilities"
-    excerpt: "A recycling facility operator and a robotics company say artificial intelligence is providing materials recovery firms with much-needed data to analyze changes in the recycling stream. That’s in addition to sortation improvements."
-    publishedDateTime: 2021-01-13T17:20:00Z
-    webUrl: "https://resource-recycling.com/plastics/2021/01/13/how-the-use-of-robotics-is-evolving-at-sorting-facilities/"
-    ampWebUrl: "https://resource-recycling.com/plastics/2021/01/13/how-the-use-of-robotics-is-evolving-at-sorting-facilities/amp/"
-    cdnAmpWebUrl: "https://resource--recycling-com.cdn.ampproject.org/c/s/resource-recycling.com/plastics/2021/01/13/how-the-use-of-robotics-is-evolving-at-sorting-facilities/amp/"
-    type: article
-    provider:
-      name: Resource-Recycling
-      domain: resource-recycling.com
-    quality: 74
-    images:
-      - url: "https://resource-recycling.com/plastics/wp-content/uploads/sites/4/2021/01/AMP-Robotics-Tandem_Gripper-web-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Are robots the future of recycling?"
     excerpt: "Recycling is a simple thing we all do to help try and protect the environment, but it's also big business. But in 2021, the industry is seeing dramatic changes, all powered by artificial intelligence."
     publishedDateTime: 2021-01-15T04:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.poandpo.com/companies/qualcomm-acquires-chip-startup-nuv
 cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/qualcomm-acquires-chip-startup-nuvia-for-14-billion.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Qualcomm-NUVIA-acquisition-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Qualcomm Acquires Nuvia Chip Startup Founded By Apple Veterans for $1.4 Billion"
-    excerpt: "Qualcomm has announced an agreement to acquire Nuvia, a chip startup founded by Apple veterans for $1.4 billion."
-    publishedDateTime: 2021-01-13T17:03:00Z
-    webUrl: "https://www.iclarified.com/79303/qualcomm-acquires-nuvia-chip-startup-founded-by-apple-veterans-for-14-billion"
-    ampWebUrl: "https://www.iclarified.com/79303/qualcomm-acquires-nuvia-chip-startup-founded-by-apple-veterans-for-14-billion/amp"
-    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/79303/qualcomm-acquires-nuvia-chip-startup-founded-by-apple-veterans-for-14-billion/amp"
-    type: article
-    provider:
-      name: iClarified
-      domain: iclarified.com
-    quality: 55
-    images:
-      - url: "https://www.iclarified.com/images/news/79303/79303/79303-640.jpg"
-        width: 640
-        height: 367
         isCached: true
   - title: "Qualcomm announces the acquisition of chip start-up NUVIA"
     excerpt: "Qualcomm has revealed that it has bought the CPU-design team NUVIA for approximately US$1.4 billion. The OEM asserts that the move will make it more competitive in the future, and will enhance the development of Snapdragon mobile chipsets,"

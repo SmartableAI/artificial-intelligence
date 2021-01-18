@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-
 webUrl: "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Deep Learning Outperforms Standard Machine Learning in Biomedical Research Applications, Research Shows"
-    excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging."
-    publishedDateTime: 2021-01-13T17:23:00Z
-    webUrl: "https://news.gsu.edu/2021/01/13/deep-learning-outperforms-standard-machine-learning-in-biomedical-research-applications-research-shows/"
-    type: article
-    provider:
-      name: Georgia State University
-      domain: gsu.edu
-    quality: 18
 
 secured: "tMHZhJUOK6bYCq2I1+C1VTwVRxCM+xu6ElocMcXnvmfV4HvAST7irn5fk7Kx/g1B3aBN9f/rbsv0MQJKgFCEomGSNrF/wm/hacQy378+B7lSr/DUVQGp/n0duoZH1hXAjbBUZei5ZS/8ZmHbCumfmlXrVHNGvY4CjZnNWQY71mAEVVnsUYuRzwqnp6hnr6XNR5rFJrR20gnqlvkx9fXWydQ99dkVmp21jdKDmuuuKto4MXKmpgQDIB4q0KlOQayesBxb/kWxAVLTADStWk02jKsiN54zwOPved8vpqIFa1krF8EQhhuV/TlLIS6h4TIFORn3S7eAUkqx+S6854q6R/XvQ4iAWRTdPOMnJ9+aU3gI5RKHTiTec2UpH4756Cv7hnv6RgVLIoGHq5aUyfC/ye5IZrbcISv1BgIEobxHwy3lz9AIY9L5vRwmAPHz2gCPeDzlNoxXuLznQIzo5yDJttwar86pID9VpcNxWwlkS34GUczEnp+qhIJFoSY7WXhJKwGlAiJLQBwvFTK/GzqfrA==;0mIwuctXqJFGRot5gmuXgw=="
 ---
