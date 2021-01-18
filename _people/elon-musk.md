@@ -8,7 +8,7 @@ heat: 724
 twitter:
   username: elonmusk
   url: https://twitter.com/elonmusk
-  followers: 42535400
+  followers: 42536959
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Elon_Musk
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Elon Musk"
 
-secured: "zItOIwHBdPn5dMQ4auDjawKcZwF3JOn0RqloQE0KV9rCFz2z1raVtjYGG2P4RHqdfOdhTkIGVZvYgDFrEE0A2xH76V8/uO3fQ8VrpZX1MgcEIOkcI4T5C+nFHcz6WmuJAAWrw8s7Cj+dEgoiBkTaRp9bZnqTHv6yi6k9PsVt/kulu/oBEVbUF84n87qIleNPpDAHi+rzrjXRhQiAzPP4ZDc++y2D/isGO5rgbeR1wbdK/o8Eex04jg7Fo4bl3pP+NTDO7U64A2iCQNSo8K45zCxY1/TlofvvNVNkrbzO+yRyMl30HXSyFAd4rZqcghgfhQu/farbmJT3QXLaDdXD3hLaa9QNb46W4klXIoWO9wwH6DzvXigk4DKnXbYDvXY/N+YWLCB6FHWVp/rh9jus54/+vzIDk0y0njYvddJefBw=;YZZKURDKqxFEI7RQhU+xBQ=="
+secured: "stJAkwXANuvDkoyCRP9Fs8r1plXhb/g7h6ameEqh70pJiDD7bj9cJ54REWzhjOMmGWZSRHsfvuEjEM/6X1AiZRXpb4wiuGpJIrvRZkJQaPFgBCv5c9/3HWlFsH3GiFNFdsRgBlLx+eFgpB55zVepvXp22o8O95WSo0JcRbflchyQ5NHL9BOEIvSp9H9q0pQk0qB9XBXjHSDVkOAEZd2kQawOiKLWVRfq4sy6CsNyJ1YJA1cVCvGOlZO5ViwCTFAsiru/GdjTJ1Y8Vjkkn152nci89V+tSTK2dq+QDuAwla8Y2dQshzFZ81OZZVRZSfitTeqEv/NyRFyYRGTEHmojI+CYHTTBKi3gF7OjywSIwMVKWKYWN86TQBsuN0BH+FgpJNWNqG6oM3jK17VkDY8RNmDlZwtoCUs9lG3NsWCV3PA=;g2VYQYbP1uc+9zGYo1lYWg=="
 ---
 
