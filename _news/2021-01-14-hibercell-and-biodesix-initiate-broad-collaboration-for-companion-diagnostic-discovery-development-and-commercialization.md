@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-biotechnology-drug-trials-e1214f6c93aa4ac28fabaf54b6dd37be"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics"
-    excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy targeting patients with Loss of Heterozygosity (LOH)."
-    publishedDateTime: 2021-01-13T19:20:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "rQbDcA6zZTHxX9QkONyMF6RDrzA1247Xz9qRtJ3hz681yGmfa6baVEb2H9ZShGQLvSEplnDN2M5AVn1rvdCxIELD3zNUm75SRFM2kYf/in6osRb0m96z/sF5LNUFhfYhsI+L9f49dQhQ07as0f9+n3Yplo27h9LbAGNCcgukE0lwr8Azm2vX7fxr8MijDm8+jFHmI1K2c1xfSNAv/EkGuagDbpliEkhc7GqNWorQLgoSoJ71nFgXUWdAU4II9FXplFskbe3cGi7mehgxGkjPkK1iorlzLFHTXpXCvg3qOrY427Azqh1TJoCDKEsi29TNITY/vt7e6jP/kCWefrBkN39+gHOLGB0ZBXOEccRrbjI=;f9h0gkloWGfhaCrjiUqXpA=="
 ---

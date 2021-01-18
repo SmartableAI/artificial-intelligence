@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/go
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
+    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
+    publishedDateTime: 2021-01-18T11:47:00Z
+    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 95
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
+        width: 1200
+        height: 704
         isCached: true
   - title: "Microsoft’s new settings let users contribute voice clips to improve its speech recognition systems"
     excerpt: "Microsoft's new settings allow users to contribute voice clips that'll be used to improve the company's AI speech technologies."

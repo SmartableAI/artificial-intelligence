@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-01-12-ftc-settles-facial-recognition-misuse-suit-with-everalbum.md",
-      "title": "FTC Settles Facial Recognition Misuse Suit With Everalbum",
-      "excerpt": "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field.",
-      "sourceUrl": null,
-      "webUrl": "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/",
-      "originalUrl": "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/",
-      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/",
-      "publishedDateTime": "2021-01-11T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law Street Media",
-        "domain": "lawstreetmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google.md",
       "title": "Artificial Intelligence for Edge Devices Booming Segments; Investors Seeking Growth| Baidu, Intel, Google",
       "excerpt": "Global Artificial Intelligence for Edge Devices Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 This report studies the COVID-19 Outbreak-Global Artificial Intelligence for Edge Devices market size,",
@@ -1217,6 +1174,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more.md",
+      "title": "How AI is improving operational efficiencies across oil and gas, healthcare, and more",
+      "excerpt": "Arificial intelligence is being used in many industries today, and it's only expanding. Here are some use cases to explain the challenges and benefits of AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
+      "publishedDateTime": "2021-01-11T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

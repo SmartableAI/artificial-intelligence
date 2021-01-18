@@ -41,36 +41,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Qualcomm Inks $1.4 Billion Acquisition Deal With Chip Startup NUVIA"
-    excerpt: "Qualcomm has signed a $1.4 billion deal to acquire NUVIA, a data center chip developer launched by former Apple executives."
-    publishedDateTime: 2021-01-13T20:49:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Qualcomm-NUVIA-acquisition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Qualcomm announces the acquisition of chip start-up NUVIA"
-    excerpt: "Qualcomm has revealed that it has bought the CPU-design team NUVIA for approximately US$1.4 billion. The OEM asserts that the move will make it more competitive in the future, and will enhance the development of Snapdragon mobile chipsets,"
-    publishedDateTime: 2021-01-13T20:02:00Z
-    webUrl: "https://www.notebookcheck.net/Qualcomm-announces-the-acquisition-of-chip-start-up-NUVIA.514993.0.html"
-    type: article
-    provider:
-      name: NotebookCheck
-      domain: notebookcheck.net
-    quality: 39
-    images:
-      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/qc_nuvia_line_002.png"
-        width: 800
-        height: 418
-        isCached: true
 
 secured: "shMe9kQVSy0TAtq0s9DSARWaiAW7JnfjaiN70q/g6AWzUHroAiTBozLWUJUR+iDkDFpYyfuY+1MTCNAKfYVhU9xVKWhfbmSVjFS3Sx6FkMz1M8kVehpwcP1RHEdXz4paCIpot5h1k6WePjD4qdudgnaZCnJfUcD2OiNecmKtHWSY4sU4PwrUODLdz2dF+jXcI1RAldBJIvvfcbxynHFLq0xqm2YOtfZNuEcRnZr5wNH8Z0aEnbDRMCkix4UcjJHBlm5u1iKpbqYMQ70+PH44X+aq3n4OW/+0s/UZ36BhudBZK5d9Z4XlI10z5ysW1ctqxdrQCtHxhpzT237yhQ9/iLbZCgK0hmId3lhJ74r1XYDCDGMvJ/Lf1GTFlmetKkH2beJ7S30mnJY6fp5GCeAPpNvXrkehxxrRPEEnzYeSELE68p/edYyKFl9ZzQ1+8c9RJAXmIa/e7esaAJsP74LJjlD1ALziXyI/aIz2z0PBtyG+maSACiG9gC34MG/vaVzjWFDaiKcll8/MFG8CmJonAg==;CdEjq7ridvAIz57Z8F2b5Q=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Voice Life Inc. Showcases Wireless Power For The 21st Century With NVIDIA Deep Learning Accelerator Technology At CES 2021 Showcase"
-excerpt: "Voice Life Inc. today announced its digital presence at the CES 2021 Showcase launching the Life-Line Power Connect platform based upon a terahertz-based scalable network designed for far field wireless charging."
-publishedDateTime: 2021-01-08T17:20:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb"
+excerpt: "Voice Life Inc. today announced its digital presence at the CES 2021 Showcase launching the Life-Line Power Connect platform based upon"
+publishedDateTime: 2021-01-08T16:20:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/voice-life-inc-showcases-wireless-power-for-the-21st-century-with-nvidia-deep-learning-accelerator-technology-at-ces-2021-showcase-301203446.html"
+webUrl: "https://www.prnewswire.com/news-releases/voice-life-inc-showcases-wireless-power-for-the-21st-century-with-nvidia-deep-learning-accelerator-technology-at-ces-2021-showcase-301203446.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1390405/Voice_Life_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
-secured: "7NL6uO/BWHGb0354bXPSvgLCHWJi59skAqknMwLki0kbDwDM9Df7N0b6/7w+XCTS/bx+Zc88rSFY70bYzEIDqhvnjbY/TKqNd3wA6dgDYNBgdZSETsxgCzd1o77DmFKBmDe2YOpHdcxEMqO8iVRZ/OjVIcdP9reHiz1dX1QYzBEUNqzyBZaEEtHL2JzxjoSrnIDHf+KyJVM6a+qnckGqFIAAT5peittyo4Nso5atc2OiSM4oUgSjQ0srgS3g95BgiIDPuYgV9v6uEbtGq2IvHqd0K762JPlwR2ckoyhZsLzj/LeQoBl5BpbNb8u1FdzxQ7yP4TsqCoXpCQy/FYjV2H50yi7JFzmluDHIWjf+Nfk=;DEBGg90kFefdCABmFh2FzA=="
+secured: "QwKtlTFL2BE+YUqSakxZwmcNPcBrbnhpMcr7VqLy1ojYWLDPWl97jjT8kIcD0LiDVQaNVTA+ooqx1Ny9JSxVI/Zno6Ugk24Fba+vyawApzCACrOcqfdszY+IVQe2bhY/S4Z48G+a8ghWVFG3jPBezSFGX5vZed9BUXQ3FvJFP1V700pBoj/q67FhCHiZ5iQzXPhj/Aedj5Ga8K4L7WRfHlLtQ83oRavx3ixq1S52vTNV0x9CTaSVqzZl69lsVo1cc2z3U4O0bU+/co1LGurAWgObpapk8CpXrs201mR+/pmE/Gt78wDjRpwDtvDLQtV/msii02kv8E5ntyXrMQq/RirKnXFlQskVO+h1+wWJ1o4=;zm4vfFgDYy/oPlbmfK4Eeg=="
 ---
 

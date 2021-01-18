@@ -2,26 +2,21 @@
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
 excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
-publishedDateTime: 2021-01-12T16:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+publishedDateTime: 2021-01-12T16:12:00Z
+originalUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+webUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "40ht4ZcIe7AGr0OgvjW56dc8HqnhwKoOOHNCjA7XbcRgcDnuoeuqVDiGTanyHVPEOMbXJ05V2Kx1vUFQlILmw0CNChgdvm8zsaUzr5AEdHWZYtd5dE4NxMYBX11WIwTztUvrPU8D/gCT143DUgO68d34ax951ugWpDMRhfxxdEJS4MQVvLIPNozVvc8Ri3r8gnCueo5Lh8Wj9v3MroAauVwUF8RmhpRCtQFZqNgW8N7sw/MnZtRoiXdagv9IOEIiMlWQzVpU+higoL3NlDeFQbycWADVjrDfyNVrCzKTGieqXCWsuXQk4AnHNDmaMlsG/GkN1LlIiCeY8X3oe7/hah8CBtLjNx5kJ5Gvh8vVWS8=;TDqSiztU6Tu7Ixp/6aJZ8A=="
+secured: "gl0Gxc4lEGJQ4U7b7ZgIixQMNx0po0qaCxVDJJ3m5X5WEuowaBXqxZ9s3WTc7xw51Z+xyv/IbRg9ZJRTioJxz7tk3LUIC/tAT5c20/TZ+/RhxkUIpVeGfNqCu5yK6EPbpRRKeMkkYhssBGJEWdWUpMMIeMZMOfOCitQ5PwckdZYb/uNe4gxA1sDTLyGW9Tlz2A5oBQvImgvq1CbZyHLmkmZXLpiNoY7Ef3sb/pwDmi2shVCTOMv5FZxfI6+hZl50KhUILGHgF6iZcEMy7SLug7FhajEl2Ra7w7ZmFPFrMhWBS7wkCHHON1CzhwpWIuDgI3OHPzVK6LinZNTUT+hlKwrv2cpc8rJ5j+qRmzocKKM=;Ke8DC0jM5mf85+iqRGTyBg=="
 ---
 

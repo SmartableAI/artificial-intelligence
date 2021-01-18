@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-waymo-ditches-self-driving-term-in-apparent-dig-at-tesla.md",
+      "title": "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla",
+      "excerpt": "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362902",
+      "originalUrl": "https://www.entrepreneur.com/article/362902",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
       "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
       "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
@@ -1380,59 +1432,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-tesla-uses-three-free-months-of-full-self-driving-to-push-year-end-sales.md",
-      "title": "Tesla uses three free months of 'Full Self-Driving' to push year-end sales",
-      "excerpt": "Driving” system that Tesla sells as a $10,000 option isn’t available in subscription form yet, but the car company is already using that idea to boost sales. Reported earlier by Electrek and confirmed in a tweet by Elon Musk,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
-      "originalUrl": "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ffa7d8220-4a3a-11eb-9faf-2c885b46bd4b&client=amp-blogside-v2&signature=c32d614053b5590ce90e5251cb05134f3601ab4c",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html",
-      "publishedDateTime": "2020-12-29T17:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

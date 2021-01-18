@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-intels-self-driving-tech-division-mobileye-is-picking-up-speed-set-to-become-a-true-threat-to-tesla.md",
+      "title": "Intel's self-driving tech division Mobileye is picking up speed, set to become a true threat to Tesla",
+      "excerpt": "The world of self-driving vehicles is roughly hewn into two factions: companies that believe fully autonomous vehicles will naturally evolve from advanced driver-assistance systems (ADAS), and",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html",
+      "originalUrl": "https://www.techspot.com/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-16-image-12.jpg",
+          "width": 1906,
+          "height": 1271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html",
+      "publishedDateTime": "2021-01-16T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
       "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
       "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
@@ -1395,58 +1447,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-waymo-ditches-self-driving-term-in-apparent-dig-at-tesla.md",
-      "title": "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla",
-      "excerpt": "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/362902",
-      "originalUrl": "https://www.entrepreneur.com/article/362902",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

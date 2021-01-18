@@ -2,58 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-01-07-microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark.md",
-      "title": "Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark",
-      "excerpt": "The Microsoft AI model DeBERTa—being integrated into the next version of Microsoft Turing—set a new state of the art in natural language understanding. Learn how it uses 3 novel techniques to surpass human performance on and top the SuperGLUE leaderboard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
-      "originalUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Deberta_nologo_still-scaled.jpg",
-          "width": 2560,
-          "height": 1441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-openais-dall-e-turns-weird-text-into-weird-images.md",
       "title": "OpenAI's DALL-E turns weird text into weird images",
       "excerpt": "OpenAI is known for developing impressive AI models like GPT-2 and GPT-3, which are capable of writing believable fake news but can also become essential tools",
@@ -1234,6 +1182,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience.md",
+      "title": "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience",
+      "excerpt": "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

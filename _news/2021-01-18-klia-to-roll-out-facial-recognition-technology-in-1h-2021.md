@@ -117,6 +117,20 @@ related:
         width: 1280
         height: 740
         isCached: true
+  - title: "MAHB to roll out facial recognition for passenger authentication, replacing boarding passes"
+    excerpt: "Malaysia Airports Holdings Bhd (MAHB) said today the group is rolling out the first phase of the \"Single Token Journey\" under its Airports 4.0 initiatives, where facial recognition will replace physical travel documents such as airline tickets and boarding passes for faster and safer passenger authentication at the Kuala Lumpur International Airport (KLIA)."
+    publishedDateTime: 2021-01-18T08:28:00Z
+    webUrl: "https://www.theedgemarkets.com/article/mahb-roll-out-facial-recognition-passenger-authentication-replacing-boarding-passes"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 29
+    images:
+      - url: "https://assets.theedgemarkets.com/MAHB-2_20200928161859_malaysiaairports.com_.my__3.jpg?As6YzEYd0NIf3.vPreRPh5_ENOOkT8QK"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook nabs facial recognition website"
     excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."
     publishedDateTime: 2021-01-18T06:12:00Z

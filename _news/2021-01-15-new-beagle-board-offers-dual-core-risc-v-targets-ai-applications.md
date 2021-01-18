@@ -24,17 +24,6 @@ images:
     height: 743
     isCached: true
 
-related:
-  - title: "BeagleV SBC runs Linux on AI-enabled RISC-V SoC"
-    excerpt: "Board.org and Seeed unveiled an open-spec, $119-and-up “BeagleV” SBC with a StarFive JH7100 SoC with dual SiFive U74 RISC-V cores, 1-TOPS NPU, DSP, and VPU. The SBC ditches the Cape expansion for a Pi-like 40-pin GPIO."
-    publishedDateTime: 2021-01-13T20:01:00Z
-    webUrl: "https://linuxgizmos.com/beaglev-sbc-runs-linux-on-ai-enabled-risc-v-soc/"
-    type: article
-    provider:
-      name: run Linux-based Opera TV
-      domain: linuxgizmos.com
-    quality: 19
-
 secured: "HB7MCreTTnJLEO3ojx91eUIHcAhbR//nVdBRVfXG7LSGZHwCCmiC81Dg/Ant4wtQF3Vqhjnm6mFNaK0hkEIManJlv6wFggrKdFbIvTvqYUgtUMKAAwBquIgdVgnXapUbywxg9CHi6cYXZigZkRz7IvAd3cCNo+8/xM5myb6PXL5PvZG7+KJzNcwoZeH7ImZ+p4SLQvWzduXvkxjoXTyhsIdCQsmtzAtktCK+caFnIeIMmL9gCJmj9hHgG9qYvwyGYgFNax6vhuMNEv603Ga1UO6KrsgV3y0JgqrioJWRSKi6Zam1d2VPPzyhubNCt70y8BztdAL0qlii6viEzMghKi8aCyRnttSmq88WypqR6H3TFCa4EzMiSbQMPPfstHdf2RpUE+GZeL6gU5P4flV1ZqCtsLWwRrn/y+3eiq24F/e5E6dVq7ESqu9jjSfF8KZxuEYzX99r0A0WQCGo/7TNZk4MZnY7VG9UJJBX2PQI4rgU+V8z+00adO6mDsyN3y11xQQL7f1qI4n1YQCgNwV6ww==;oCourOvcu60MIm7kZagJ+Q=="
 ---
 

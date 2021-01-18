@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "NHS adopts AI imaging algorithm to improve COVID-19 treatment"
+    excerpt: "Hospitals around the country will soon be able to use artificial intelligence (AI) to help diagnose COVID-19 patients and reduce the time needed to create treatment plans.  The 'COVID-19 Chest Imaging Database' (NCCID) has been pulled together by NHSX,"
+    publishedDateTime: 2021-01-18T12:42:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 87
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1610965572/itpro/MicroscopingVirus_shutterstock.jpg"
+        width: 1000
+        height: 506
+        isCached: true
   - title: "Even AIs can't help but turn into hateful jerks on Facebook"
     excerpt: "The popular South Korean Al chatbot, Lee Luda, has been suspended from Facebook after being reported for making racist remarks, and discriminatory comments about members of the LGBTQ+ community, as well as people considered to have disabilities."
     publishedDateTime: 2021-01-14T13:23:00Z

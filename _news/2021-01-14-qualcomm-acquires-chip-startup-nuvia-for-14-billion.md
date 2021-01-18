@@ -9,8 +9,8 @@ ampWebUrl: "https://www.poandpo.com/companies/qualcomm-acquires-chip-startup-nuv
 cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/qualcomm-acquires-chip-startup-nuvia-for-14-billion.amp"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: poandpo.com
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm Inks $1.4 Billion Acquisition Deal With Chip Startup NUVIA"
-    excerpt: "Qualcomm has signed a $1.4 billion deal to acquire NUVIA, a data center chip developer launched by former Apple executives."
-    publishedDateTime: 2021-01-13T20:49:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/qualcomm-inks-1-4-billion-acquisition-deal-with-chip-startup-nuvia/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/Qualcomm-NUVIA-acquisition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Qualcomm announces the acquisition of chip start-up NUVIA"
-    excerpt: "Qualcomm has revealed that it has bought the CPU-design team NUVIA for approximately US$1.4 billion. The OEM asserts that the move will make it more competitive in the future, and will enhance the development of Snapdragon mobile chipsets,"
-    publishedDateTime: 2021-01-13T20:02:00Z
-    webUrl: "https://www.notebookcheck.net/Qualcomm-announces-the-acquisition-of-chip-start-up-NUVIA.514993.0.html"
-    type: article
-    provider:
-      name: NotebookCheck
-      domain: notebookcheck.net
-    quality: 39
-    images:
-      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/qc_nuvia_line_002.png"
-        width: 800
-        height: 418
-        isCached: true
   - title: "Qualcomm buys chip design startup Nuvia for $1.4 bn"
     excerpt: "Chip maker Qualcomm has acquired Nuvia, formed in 2019 by three former Apple engineers including one of Indian origin, for a whopping $1.4 billion for the 5G era. As part of the transaction, Nuvia founders Gerard Williams,"
     publishedDateTime: 2021-01-14T09:41:00Z

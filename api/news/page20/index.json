@@ -2,49 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2020-12-30-analysts-see-more-gains-for-chip-stocks-here-are-their-top-picks.md",
-      "title": "Analysts See More Gains for Chip Stocks. Here Are Their Top Picks.",
-      "excerpt": "Chip stocks have had a strong year despite the Covid-19 pandemic. Analysts at Mizuho Securities think there are more gains to come, powered by growth in next generation smartphone technology, a return to strength among auto makers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "originalUrl": "https://www.barrons.com/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-278683/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "publishedDateTime": "2020-12-29T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-30-the-marketplace-is-demanding-ethical-ai.md",
       "title": "The Marketplace Is Demanding Ethical AI",
       "excerpt": "Under the right conditions, AI can be highly beneficial and a force for good. Under the wrong conditions, however, AI can lead to widespread discrimination and reinforce existing socioeconomic disparities.",
@@ -1206,6 +1163,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use.md",
+      "title": "Release of Deep Learning Framework \"SmallTrain 0.2.0\" For Professional/Commercial Use",
+      "excerpt": "\"SmallTrain,\" which generates user-friendly deep learning models for high accuracy and high functionality as a standalone deep learning library and as a wrapper for TensorFlow and PyTorch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/n18941010/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/n18941010/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg",
+          "width": 400,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18941010",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18941010",
+      "publishedDateTime": "2020-12-28T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

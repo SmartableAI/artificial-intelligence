@@ -25,36 +25,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
-    excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces"
-    publishedDateTime: 2021-01-13T20:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-301207883.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Twenty20tm Solutions Introduces Enhanced Artificial Intelligence Capabilities"
-    excerpt: "Twenty20tm Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces its launch of enhanced Artificial Intelligence (AI) technology with advanced visual detection and"
-    publishedDateTime: 2021-01-13T20:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-19599445.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 36
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
 secured: "sCa3tFq8JwBS7OmDJTbjLa0TLqLXz+FbS9RN6mxP+zBzqOtuSByGfmV6omHGrkuHt7Gnbaip2O39d3saU7cW/vi+uAfazCtNp1WJH4p6ztnSD9Kgg06cB7D3ZkPjRIk64Gz7JuK/ggAj+FmUHmuRazjTInwIN2GfPi980brOpSlfO1n8Fr3wtFCkIaT34/pohJO7f+6AOU//A0jPJnlR1CBb04Uo6BrEIa8Zxe3n4rjJqVRj2z8oNylOxvVW/D7l8gwGK8eM5BcutHfMWCLFI9Cqm8h2LFF1jA1qpWP01+s6iGN3wOxBl2hr/vC7rzxj1hYI9goiKgvIMgHbgcvXrwHpQjkdLvW5VCd2WfTa6S0=;KANp9uCHJUK+wQFJa3Uj9g=="
 ---
 

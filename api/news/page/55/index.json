@@ -2,57 +2,6 @@
   "page": 55,
   "value": [
     {
-      "path": "_news/2020-12-02-nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images.md",
-      "title": "Nvidia introduces AI for generating video conference talking heads from 2D images",
-      "excerpt": "Nvidia researchers created AI for recreating and manipulating talking heads in video conferences from a singe 2D image.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nividia-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "publishedDateTime": "2020-12-01T13:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-scale-ai-hits-35b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza.md",
       "title": "Scale AI hits $3.5B valuation as its turns the AI boom into a venture bonanza",
       "excerpt": "Scale AI, the four-year-old data labeling startup, has discovered that selling the picks and shovels needed to develop and apply artificial intelligence is big business. The company, which created a visual data labeling platform that uses software and people to label image,",
@@ -1229,6 +1178,58 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-facial-recognition-is-getting-better-at-making-matches-around-face-masks.md",
+      "title": "Facial recognition is getting better at making matches around face masks",
+      "excerpt": "Scientists agree that face masks are here to stay, and research finds that facial recognition technology is starting to catch up. Since the start of the pandemic, facial recognition providers have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
+      "originalUrl": "https://www.cnet.com/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/xx0OCJhFZ3mvk7oybRnu3nm8vEY=/1200x630/2020/03/19/4efc54e4-464f-4791-a361-055412759011/coronavirus-masks-n95-health-4948.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-is-getting-better-at-making-matches-around-face-masks/",
+      "publishedDateTime": "2020-12-01T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

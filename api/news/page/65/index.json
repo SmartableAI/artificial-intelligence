@@ -2,49 +2,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_news/2020-11-24-houston-airports-add-facial-recognition-tech-to-arrival-process.md",
-      "title": "Houston Airports Add Facial Recognition Tech to Arrival Process",
-      "excerpt": "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_530657836.jpg",
-          "width": 940,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
-      "publishedDateTime": "2020-11-23T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help.md",
       "title": "We should hold animals accountable for their crimes. Here’s how AI can help",
       "excerpt": "Two park rangers hiding behind a tree pointing a camera at a bear in the distance so they can use facial recognition software to determine if they’ve actually found the infamous picnic-basket-snatching ursus known as Yogi.",
@@ -1203,6 +1160,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-the-7-most-promising-government-led-ai-solutions.md",
+      "title": "The 7 Most Promising Government Led AI Solutions",
+      "excerpt": "From the US to Canada, and Denmark to Estonia, massive governmental initiatives are being mobilized to boost AI solutions across sectors. The efforts that nations put forth now on the digital front will define our globe's leaders and laggards in digitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb925cd4ff701e40d46dd8f%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/amp/",
+      "publishedDateTime": "2020-11-23T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

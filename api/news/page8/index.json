@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-01-12-how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more.md",
-      "title": "How AI is improving operational efficiencies across oil and gas, healthcare, and more",
-      "excerpt": "Arificial intelligence is being used in many industries today, and it's only expanding. Here are some use cases to explain the challenges and benefits of AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-improving-operational-efficiencies-across-oil-and-gas-healthcare-and-more/",
-      "publishedDateTime": "2021-01-11T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing.md",
       "title": "Stanford researchers design accelerator chip that speeds up AI inferencing",
       "excerpt": "Researchers at Stanford developed hardware that can run AI tasks quickly and energy-efficiently by melding eight cores into one AI engine.",
@@ -1243,6 +1191,48 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru.md",
+      "title": "AI all-women crew takes off on historic flight to Bengaluru",
+      "excerpt": "Air India has said this will be the longest commercial flight in the world to be operated by it or any other airline in India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965.html",
+      "originalUrl": "https://www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/01/10/550x309/air-india_bc7e11cc-3c68-11eb-b180-736642f23257_1610318151794.jpg",
+          "width": 549,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/ai-all-women-crew-takes-off-on-historic-flight-to-bengaluru-101610317943965-amp.html",
+      "publishedDateTime": "2021-01-10T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

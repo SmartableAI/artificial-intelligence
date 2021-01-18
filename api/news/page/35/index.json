@@ -2,58 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2020-12-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Amazon may be best known as an e-commerce company but the company is also making big bets on artificial intelligence. Amazon Web Services (AWS), the company's cloud computing business, is not only ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604683%2Fgettyimages-1145585734.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-12-15T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-ai-is-the-key-to-more-affordable-and-available-live-transcription.md",
       "title": "AI Is The Key To More Affordable And Available Live Transcription",
       "excerpt": "Many organizations with an accessibility mindset (or mandate) consider real-time transcription services a must-have for live events. How else to ensure every attendant is able to follow what's happening,",
@@ -1212,6 +1160,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-ai-ethics-learn-the-basics-in-this-free-online-course.md",
+      "title": "AI ethics: Learn the basics in this free online course",
+      "excerpt": "It's time to think about the potential risks of artificial intelligence, instead of after something happens. This free online course about AI ethics is a good starting point.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
+      "publishedDateTime": "2020-12-14T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

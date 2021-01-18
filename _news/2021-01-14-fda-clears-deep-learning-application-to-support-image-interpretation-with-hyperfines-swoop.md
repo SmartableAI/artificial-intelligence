@@ -3,8 +3,8 @@ category: news
 title: "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™"
 excerpt: "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,"
 publishedDateTime: 2021-01-14T15:20:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
 type: article
 quality: 28
 heat: 28
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 15
 
-secured: "H0jCccebEtVY9OpvtZB9N9uzQ0XPFlxbjGJOmjM4I15+gkBN0l55tQD3ItRna0C0xj7DKdrMxQyekg5fLxDOSvf/74fr26et0esMk4JogNH3zZWrxgPshFPBbrb/gvDKWKTwYkG4/eCxBkyThJSdUkTS5+qbvwpaGioiP1t12oX0TMaOVL94D2Wztt29InBOUhZTGacWyohdqMa2fvLjAY+amIc73vas9NS2Z5OyAkpWd1u6/BoLAMMubQlvyr/kYQ8a7SQ2SAgp0W5G47R7QTP1OFuEbuWMcJl7EOptHn4QJRi84bfK1n605uhM7p3cyIwdrByVKOt7kw9Uho+HDU4UAj3Ijd/NTpQxvQiBI0k=;zeNOp0PekcxUQdwhOKsL2w=="
+secured: "xxRCC5nsJWY4moZ/2gSaSgNmY6RKstUGIqhj2mffwW8r4GiWE2UXY86KqjENKJTXp4m98vWq1sapB1fatdnkiyzrLRK9Q+uBDkhb4oMy8USbGsdgopBBy0bMLUoHpToPw91WC83BtAD156cjAccFN00ry2geb76PK/XBXRtCOkFZxWMiGBr0Nzp5UoTn4Hkiu0tZ6x+8w8P6MULnD6lxYlr9SUptCXjdyUL+q7wBh9UdbFDm/OmbffFbeY9pCEayCafBcoW92UAWbGWhNOxFWmg8nLvE7xY2T/2rGDpMhb/CIZ4V/wM6pAhwi6zZ0CO5ST/jB/5bA54yScdknHjD7yYCUoTFleMXyB/o3PlVAlE=;0R5ZEzp/AetMASrmPLwTJA=="
 ---
 

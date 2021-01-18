@@ -2,57 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2020-12-10-sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts.md",
-      "title": "Sensorium and Mubert develop AI-driven DJs for virtual reality concerts",
-      "excerpt": "Sensorium has teamed up with Mubert to develop AI-driven DJs that can make AI-created music at virtual concerts in virtual reality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
-      "originalUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/sensorium.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
-      "publishedDateTime": "2020-12-10T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-electric-self-driving-tractor-may-just-be-the-future-of-farming-as-we-know-it.md",
       "title": "Electric, self-driving tractor may just be the future of farming as we know it",
       "excerpt": "This autonomous, all-electric tractor promises to be a game-changer for farms. Here's what makes it so special.",
@@ -1157,6 +1106,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai.md",
+      "title": "Lenovo Shows New Data Management Solutions for Hybrid Cloud, AI",
+      "excerpt": "Lenovo has considerably expanded its business customers’ options for working with hybrid cloud, analytics and artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/pc-hardware/lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai",
+      "originalUrl": "https://www.eweek.com/pc-hardware/lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/03/Lenovo.logo2020.jpg?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T23:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
