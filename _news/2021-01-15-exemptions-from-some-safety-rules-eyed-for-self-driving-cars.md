@@ -34,7 +34,7 @@ related:
   - title: "U.S. exempts self-driving vehicles from some crash standards"
     excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
     publishedDateTime: 2021-01-15T04:52:00Z
-    webUrl: "https://www.reuters.com/article/autos-autonomous-safety/update-2-us-exempts-self-driving-vehicles-from-some-crash-standards-idUSL1N2JP24E"
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-safety/u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSKBN29J29Z"
     type: article
     provider:
       name: Reuters

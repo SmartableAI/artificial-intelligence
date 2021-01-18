@@ -1,8 +1,8 @@
 ---
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
-publishedDateTime: 2021-01-13T13:02:00Z
+excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+publishedDateTime: 2021-01-13T13:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
 webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
 type: article
@@ -15,9 +15,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
@@ -83,6 +83,6 @@ related:
         height: 432
         isCached: true
 
-secured: "U1xxnpGPi8SVBDK7QPgBR+e0FFB0DgNTkdynvhFLgvETJApL2ivcd4Kcem+kUN/RYMjsWG/seDfomYOtbHGNq/ZdahjzLVq/xBBXpy7eBC9PuIbHaudbABI19ZSneXrvWk3H7cWkdx10hqiGIcxFv19jGVLUdV9eKjwrAUMlDRghsXCqjmVpmxrfPUruGPpSWVXjz3qU1XWeMuV5p5JZjAdOngchz+cPsXM/HJrD8c+DUFztUuGfScWS88GCxr8qqFMpxhk3ENRTKujuipA1L1D98hWRQx6Wi0w1EdAGlQb5iYMQIiGa49t+w295U/Vi9nWEjNmrYv8E9mQyt+l9kNbvJDN5Gb/QiisMa2wCPrw=;ZZZRsgN6hUY5bfZJRX55rA=="
+secured: "64jkkd3nbXZSZyIMia71veKXOj99giNwMm0HetoB0MBk8KEJ+j7GSxjExOWJhIP18Lqb3Bdbc7O1k70LxDibbpR3VIFEqf7mCPnmQgvnac59DdmvIpBK42mck2id94bJTLZmg+0KLrUsuMgH2vpsh6gtHWw8zYIsvR4nbTrUZ44NcD+h0pb1DyLGpL4aUgOx4oNSAh6yi7g10dFZTVUcSGhXSCUckzFY5bn0z/by/VrQwReOfqMHa4+DUixzhNlyEPTZ7p6391v2PClq/jl0V8FrhG+e++q9Zwp8r3CNo7JoKREPDs1dmmODlKpMFyhO5nbAWyiMJab8PB2hGdfYP6wDH4/KT6gjtGeXwIAKOgg=;0qNUlkXK869tYIiudUTv2g=="
 ---
 

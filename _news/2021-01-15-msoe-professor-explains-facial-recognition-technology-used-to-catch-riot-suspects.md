@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Rise of the Machines: Facial Recognition Technology Heralds Upswing in Litigation"
+    excerpt: "As the facial recognition industry faces hostile regulations, claims of racial bias and growing public mistrust, more suits over the fledgling technology are expected."
+    publishedDateTime: 2021-01-15T21:11:00Z
+    webUrl: "https://www.law.com/njlawjournal/2021/01/15/rise-of-the-machines-facial-recognition-technology-heralds-upswing-in-litigation/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 34
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2021/01/Facial-Recognition-Software-Article-202101151327.jpg"
+        width: 620
+        height: 372
+        isCached: true
+
 secured: "GnzlJes+ch+2upGhVFzIinOsh1I0T6JLNxmYHJlid/pCluvGgX4X5bCEGfca9vY2kaf5E4rIMT0MWl8qmuLYGqSC0jA8bjRwoJ++eI86hbtbBe3Q0u2NetDOchcVTU5wgd1TRRUSaxM5JbOam3KgXy/GfaMbVZzMBAx65FKmmCT+hJdKrlrf7ozGZ4eukkBOr3ougE9phbFyC1YNpIUsKcax6I7+xkWt4e7W3P8aVRKlkL14X3xMQ2Lf7mIsA85RhvWW0J6ACUMGcmAy/FOayoqEcAB58G0zqnLENqVqtceugA18WN7LR3CIe7KahBxLLeuJbYOFncpWfRBXMAA9ZDRKcSwHqlyPBw+0Ofvyu1lWDC+OGQvUJGzieE6oMfPijXatLWABqNfR25HWauJeoMVIqyrnE/76lbqqci04yA8jjFBCbZ8ZGYXlfPB0ajrjPAYK3kwneMKI84qSpprWJTqsnmsXg8OXJlg5B8mx3oVLu4ZJ9G7r0jjBGR5vAJ42ROu6XXOSswgtyzoDD4YdTQ==;5AVxOj6qvRY2YGairclqkA=="
 ---
 

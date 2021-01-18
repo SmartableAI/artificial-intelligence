@@ -9,7 +9,7 @@ ampWebUrl: "https://www.smartdatacollective.com/artificial-intelligence-creates-
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

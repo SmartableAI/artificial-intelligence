@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Marc Levin Joins United Fintech as Partner & COO"
-    excerpt: "Marc Levin, former CEO of CFH Group, has joined United Fintech as Partner and Chief Operating Officer (COO). With responsibility for the operational and commercial aspects of United Fintech’s portfolio,"
-    publishedDateTime: 2021-01-13T07:20:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-executive-changes-financial-technology-1a299c28a9b840aea2ac174a71735600"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "DVklqzJNefaiCQYDUfKzuzOUQUmSIQWl2NBBs/qEMo8otGhxqoY+GnPuCUMCVLsW+YIh8+nLGaReVLh3gu3hdcIhgF37herBcYXWbH5sd2kptzjGx+pxkw4NqMD5hC5AZs5bU9fKAHaujoagNgGxMCMiMd0+EqNl2viCy1prarvn5JpjEXoFBe6QOYNXx18DirpYsFYdpj4s39L3fJAXbQu3bwOEO3qDK3MIsC4uGsoFk5Jr5f1uRoJWZ+bhC/7Vz3LiC2oDFJr8iJQOmFH71JDW6RcvGLaqUSc8GLNoBG/l0LWCqXHcZFjRPwqQ0tMIDYYo79oPCu9swhWYWE0eWv0E+2jo74WLPm0ECVb0osJ7ei9b5PUr1yRI6hMa9q7hL2aMWLPtogTt7pL5q63TbbaKJrV1GE5Gx+IX2VUD3xuomsoMRrvCZg4yVLaHzL12jFeqRvaWRG6KZdIPvDpsAQUN2AnY4e+pVN3gq+zoo0WlyBLiwxsFjzXpT6tK53uVHN/F6TGs2V+YQa264K+qXQ==;AAPTRb2+YZrWeOIJCjEkQw=="
 ---

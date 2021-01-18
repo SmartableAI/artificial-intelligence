@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How explainable artificial intelligence can help humans innovate"
-    excerpt: "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ..."
-    publishedDateTime: 2021-01-13T08:02:00Z
-    webUrl: "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php"
-    ampWebUrl: "https://www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 72
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "How Explainable Artificial Intelligence Can Help Humans Innovate"
     excerpt: "By peering into the AI black box, we can uncover and teach people new facts about the world that have not yet been discovered, leading to new innovations."
     publishedDateTime: 2021-01-13T17:57:00Z

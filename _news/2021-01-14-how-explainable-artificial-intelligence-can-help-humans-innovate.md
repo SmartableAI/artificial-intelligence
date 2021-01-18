@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "How explainable artificial intelligence can help humans innovate"
-    excerpt: "(THE CONVERSATION) The field of artificial intelligence (AI) has created computers that can drive cars, synthesize chemical compounds, fold proteins and detect high-energy particles at a superhuman level. However, these AI algorithms cannot explain the ..."
-    publishedDateTime: 2021-01-13T08:02:00Z
-    webUrl: "https://www.chron.com/news/article/How-explainable-artificial-intelligence-can-help-15866807.php"
-    ampWebUrl: "https://www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-explainable-artificial-intelligence-can-help-15866807.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 72
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "How Artificial Intelligence Can Improve Cannabis Yield and Security"
     excerpt: "The more advanced a smart monitoring system is in its use of machine learning and real-time monitoring integration, the more effective it is in spotting anomalous activity."
     publishedDateTime: 2021-01-15T01:59:00Z

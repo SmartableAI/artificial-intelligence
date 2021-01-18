@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pandemic's robot 'heroes' highlight their value at tech show"
+    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry's annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
+    publishedDateTime: 2021-01-18T00:15:00Z
+    webUrl: "https://www.brecorder.com/news/40052634"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40052634"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40052634"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 59
+    images:
+      - url: "https://i.brecorder.com/large/2021/01/6004b86e3ff4a.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Artificial intelligence used in bid to improve coronavirus treatment"
+    excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients. It is hoped that thousands of scans made available to hospitals will result in patients with Covid-19 receiving faster treatment,"
+    publishedDateTime: 2021-01-18T00:16:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/amp/"
+    type: article
+    provider:
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 57
+    images:
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/2.57546805-3-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Artificial intelligence used in bid to improve coronavirus treatment"
     excerpt: "NHSX has brought together 40,000-plus CT scans, MRIs and X-rays from more than 10,000 patients across the UK during the course of the pandemic."
     publishedDateTime: 2021-01-17T15:58:00Z

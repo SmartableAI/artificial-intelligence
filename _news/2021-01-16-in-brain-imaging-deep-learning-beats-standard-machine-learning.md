@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-
 webUrl: "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning"
 type: article
 quality: 69
-heat: 100
+heat: 99
 published: true
 
 provider:

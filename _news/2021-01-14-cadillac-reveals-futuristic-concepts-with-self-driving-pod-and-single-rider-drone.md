@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM unveils a futuristic self driving Cadillac that can fly"
-    excerpt: "GM (General Motors) unveiled a new futuristic self driving car. This was a new Cadillac imagined by the automobile maker, which is even capable of flying and can carry a passenger through the skies. According to a Reuters report,"
-    publishedDateTime: 2021-01-13T09:00:00Z
-    webUrl: "https://www.gizmochina.com/2021/01/13/gm-unveils-futuristic-self-driving-cadillac-that-can-fly/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/Cadillac-VTOL-Flying-VTOL-Craft.jpg"
-        width: 875
-        height: 492
-        isCached: true
   - title: "Cadillac Reveals Futuristic Self-Driving Pod And Single-Rider Drone Concepts"
     excerpt: "Cadillac and GM are determined that it simply will not be that way. They are already set to launch a luxury EV SUV. And they have revealed, in their keynote speech at CES 2021 as part of their electrifying future,"
     publishedDateTime: 2021-01-13T21:42:00Z

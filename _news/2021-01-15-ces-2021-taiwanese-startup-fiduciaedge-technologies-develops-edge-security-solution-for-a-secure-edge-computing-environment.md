@@ -30,48 +30,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "CES 2021 Taiwanese startup STO’s indoor map bridges the gap of Google Maps"
-    excerpt: "STOMAP can be imagined as an indoor version of Google Maps. Users can use the map for navigation but for business owners, like shopping malls, we can provide offline data on where their customers go,"
-    publishedDateTime: 2021-01-13T07:39:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-asia-taiwan-east-asia-221467ff1d9f8e62dcabb387a5379a18"
+  - title: "CES 2021 Taiwanese Startup ACSI Gives New Technological Shine to Traditional Chinese Medical Treatments"
+    excerpt: "Chinese medicine has been receiving increased attention worldwide. These traditional therapeutic treatments are now being combined with modern technology and integrated into Western medicine. Acupuncture,"
+    publishedDateTime: 2021-01-15T06:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CES 2021 Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants"
-    excerpt: "Taiwanese startup New Garden launched a new AI agriculture platform to automatically grow any plants TAIPEI, Jan. 12, 2021 /PRNewswire/ -- Agritech is getting more and more important across the world as the possibility of a food crisis rises year by year."
-    publishedDateTime: 2021-01-13T07:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-plants-corporate-news-environment-and-nature-products-and-services-9ad1e9020fa0ee8028b2425b536b16d8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CES 2021 Taiwanese Startup Unusly provides extended reality software to be used on mobile unmanned vehicles as drones"
-    excerpt: "Technical speaking, Unusly builds machine learning and AI-powered technology for mobile unmanned vehicles, starting with drones. Over 75% of Unusly AI algorithms are designed by two female graduate researchers at National Taiwan University,"
-    publishedDateTime: 2021-01-13T07:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-industrial-technology-coronavirus-pandemic-asia-9c88266770112356fea9084562a00d67"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
 
 secured: "vU34falIArswYeTuXrdacsjnNSx+X+ldXn2kMg32VsikGw1ypEf1GBGmpx4844VhIrVWvj21DT6b+JgdjchLWJxsPoFgcvlkNDX/L3JsdekVkvfmXOgEgbQh4dpv8klB8WIVtWWp/RkxBYUuB/Z69mTSj48q+028DhqD3ByuJPT8LmCM0HyEAUP5CUXefLnWq/XpLB5FVh3v1zFY5B/vKDLFiwtJvOL7F9Nn/rv4/3ESD1BdSxx7z6tH3t0miwqM+jlkAF8gPJdKEOET4TS0UvSZ9k1fmxlfjK4OSFKv9R6yhUcW9tbUGmc4hxCwxLyDrSbuWIXbNSvrJkOYL1RGOGAQygVCg/Q9K0TYkTV84Bc=;bu+xp8PIJD472XhxnwjzvA=="
 ---

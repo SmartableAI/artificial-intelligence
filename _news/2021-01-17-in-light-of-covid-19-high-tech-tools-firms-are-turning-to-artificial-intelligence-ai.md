@@ -59,6 +59,20 @@ related:
         width: 366
         height: 524
         isCached: true
+  - title: "Machine learning tool gives early warning of heart issues in COVID-19 patients"
+    excerpt: "Julie K. Shade, lead author and a doctoral student in the Department of Biomedical Engineering, built the machine-learning algorithm with more than 100 clinical data points, demographic ..."
+    publishedDateTime: 2021-01-17T23:48:00Z
+    webUrl: "https://knowridge.com/2021/01/machine-learning-tool-gives-early-warning-of-heart-issues-in-covid-19-patients/"
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 35
+    images:
+      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/01/Machine-learning-tool-gives-early-warning-of-cardiac-issues-in-COVID-19-patients.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "9ZUfnh3JMpK7j6jCtBdaXFekqsuvA+OOiEZqb2JgMPLdEvtrbNzU3dpF+1G+3plGWfxugYWACBqdpdN+QgCfoSuGSUR7qF/nnyRsx9krjSALiiXqRhBeqRTspLmYZ+fsje2EIYcVFAvz7UZ0TN0S6k9c/fNm/eHYyG+DS5h4J6ckgv0Ucqpp5yhIk1EbXsIqrujrvx+kTaLoXZjIMxqZl/p8MFMO7Q302M502LYc3BD1N1kumimh0UhPgx+aqBed3a9a5iCHnKUPpWjoV18vUxtoddwZSdLPnwcpU0E+HnWnfdDs34OvVugMp/ohswqsJSfvJsLnNo0K1hjPculdz2ghYza84GvdjYZYrfJ2Ut6PWkXu5U6mwa2oiANg4yxH3yPZu24hgKx/zgTLqPxhw1FmGTapgqXV3a5x8Vrxmi7l73L7VZAPeWrPYrX0hx2d052AF6H7nxPtKrxH+jfyFOfi6YrMlXBuOHNyQbvL88S8uCQi2isL3bhvb+75N9eWAxffN3GEHr8UV8RVe5sb9A==;gkU4KN5xS80Or4RwzGLt+g=="
 ---
