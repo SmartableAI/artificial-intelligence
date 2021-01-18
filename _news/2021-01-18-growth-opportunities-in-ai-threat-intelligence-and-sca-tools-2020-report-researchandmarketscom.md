@@ -1,38 +1,47 @@
 ---
 category: news
 title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Growth Opportunities in AI, Threat Intelligence and SCA Tools\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security ..."
-publishedDateTime: 2021-01-18T14:18:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210118005226/en/"
-webUrl: "https://www.businesswire.com/news/home/20210118005226/en/"
+excerpt: "The \"Growth Opportunities in AI, Threat Intelligence and SCA Tools\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions"
+publishedDateTime: 2021-01-18T11:08:00Z
+originalUrl: "https://www.lelezard.com/en/news-19603929.html"
+webUrl: "https://www.lelezard.com/en/news-19603929.html"
 type: article
-quality: 3
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
 related:
-  - title: "Computer Vision Market 2021 : Top Countries Data with Drivers and Restraints, Business Opportunities, Advancement Technologies and Forecast to 2026"
-    excerpt: "Research Reports has published a detailed report on “Computer Vision Market\" 2021 which has been categorized by"
-    publishedDateTime: 2021-01-15T14:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-top-countries-data-with-drivers-and-restraints-business-opportunities-advancement-technologies-and-forecast-to-2026-2021-01-15"
+  - title: "Artificial Intelligence in Sports Market Next Big Thing | Biggest Opportunity Of 2021"
+    excerpt: "Global Artificial Intelligence in Sports Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market"
+    publishedDateTime: 2021-01-15T07:04:00Z
+    webUrl: "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing"
+    ampWebUrl: "https://www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/1/U115981371_g.jpg"
+        width: 675
+        height: 450
         isCached: true
 
-secured: "r0Kcc3OIKD98LV3QbuH2AzYJJQz2B52YpKAxcf6hbTgPX4wow0taR13mB65WIFbpdUjZxt0/myc24dP5pxCVomPA0XAdlf4Pecht3iuzonBkoFbiV66rd+7Kpe1OMmB6l+4xfa51GOBo4VOtiYzyb7xt5DXjI+azUBNRGBNdf/4Wj1gh5/tFcvDgWxnBM+qF03xcvlN1XXPBMRACd4jmXwTDgg0hiSUdgETT2l8OL0JfjsFbildxKYMPBIL60lF8NAd/9aUQaiMpYVji4OmBUMN0Tog4TNK7AOvcfhipW8ctvFGm0ZsYU9bIqEMPRCYKUPgvMPR8d/F8l5Rc9tJ6j8oREODooLuSaNdFj5trMok=;7SJXQBcDt/2jadvZK6FpWA=="
+secured: "Bv6uIqU2345CU0vzEF7hF3XqSysszLmr8vPxVf5t+pLKLls3bXrJBLrKygG3tfDSQfGV5PnBKlOA3W68xt4OYdpegSwaqZzuWsI5kIi28cxbZ9/80U2hBex36xzAXiFwsYq/mHhpPDwoHgBU8zU46BoeLYkxJKUbe/mTgahGgaIZaJ/yhHk/usFq4p48rBeLn0TpjttpdurkX+pCWllPNg7nviAk4bN8a8Yv75K4D6MzpY3sLAN/ffftkbrQ2t+xqnvZMVSsPuLa+d55s5sgNfiJezApCDcnaZCZB4XHDyJX8YIPpRhE84I+bbJvZGS5zGuYfv6cTKBhKCcMCVVSidT2V81Ixsd0L7nfpfKwEkw=;QGEFLNQB5yJ6gbAI9oC+3A=="
 ---
 

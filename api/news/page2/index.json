@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-16-former-dod-head-the-us-needs-a-new-plan-to-beat-china-on-ai.md",
+      "title": "Former DOD Head: The US Needs a New Plan to Beat China on AI",
+      "excerpt": "In an interview with WIRED, former secretary of defense Ash Carter discussed how to build morality into AI—and make sure other countries do too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/former-dod-head-us-needs-new-plan-to-beat-china-ai/",
+      "originalUrl": "https://www.wired.com/story/former-dod-head-us-needs-new-plan-to-beat-china-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6001f2c2e5adb74950e3d73d/master/pass/Sec_AshCarter_631997374.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/former-dod-head-us-needs-new-plan-to-beat-china-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/former-dod-head-us-needs-new-plan-to-beat-china-ai/amp",
+      "publishedDateTime": "2021-01-15T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-pentagon-to-expand-the-role-of-ai-in-military-efforts.md",
       "title": "Pentagon to Expand the Role of AI in Military Efforts",
       "excerpt": "The Pentagon is looking to expand artificial intelligence across its military services and agencies. A budget of $841 million has been requested to bolster its artificial intelligence work for fiscal 2021.",
@@ -342,6 +394,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-natural-language-processing-market-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025.md",
+      "title": "Natural Language Processing Market By Growth,Research Methodology, Emerging Trends and Forecast By 2025",
+      "excerpt": "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The global natural language processing (NLP) market was valued at USD 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2021-01-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2021-01-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -933,6 +1037,59 @@
       ]
     },
     {
+      "path": "_news/2021-01-15-microsoft-president-begs-tech-industry-to-improve-its-ethics.md",
+      "title": "Microsoft president begs tech industry to improve its ethics",
+      "excerpt": "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "publishedDateTime": "2021-01-15T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-oqton-raises-40-million-to-apply-ai-to-additive-manufacturing.md",
       "title": "Oqton raises $40 million to apply AI to additive manufacturing",
       "excerpt": "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million.",
@@ -1083,146 +1240,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-artificial-intelligence-creates-tremendous-changes-for-the-direction-of-marketing.md",
-      "title": "Artificial Intelligence Creates Tremendous Changes for the Direction of Marketing",
-      "excerpt": "Artificial intelligence has entered numerous facets of our lives. Here’s how it is revolutionizing the business world by changing the marketing landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
-      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/How-Artificial-Intelligence-is-Transforming-Business-Marketing.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
-      "publishedDateTime": "2021-01-14T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-lapd-commission-oks-detectives-to-use-facial-recognition.md",
-      "title": "LAPD Commission OKs Detectives to Use Facial Recognition",
-      "excerpt": "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "originalUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "publishedDateTime": "2021-01-14T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation.md",
-      "title": "Stanford team behind BS gaydar AI says facial recognition can expose political orientation",
-      "excerpt": "Stanford researcher Michael Kosinski, the PhD behind the infamous “Gaydar” AI, is back with another phrenology-adjacent (his team swears it’s not phrenology) bit of pseudo-scientific ridiculousness. This time,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/02/ugh_green-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/",
-      "publishedDateTime": "2021-01-14T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -62,20 +62,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Global Commerce Artificial Intelligence Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 17, 2021 (CDN Newswire via Comtex) -- Global Commerce Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides a ..."
-    publishedDateTime: 2021-01-18T08:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2021-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
     excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
     publishedDateTime: 2021-01-14T12:00:00Z

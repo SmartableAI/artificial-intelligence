@@ -1,21 +1,27 @@
 ---
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
-publishedDateTime: 2021-01-13T13:28:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker"
+excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+publishedDateTime: 2021-01-13T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
+webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
-secured: "EPJZSSlx6w08pJRzCCyMnANdB66RcMRu9fq7Nix4WX9z6QjvP/qoCjtvDG1cVUDvevxACQ4pkDslFVQKoNHoSskNYmWHIufCLk4oSb9oBlz4l00HeOGXKEr8S1zHW59J05AIKJgAsiI3we9Gu4lJhFxsEMT7kgOvX3u8Q3wMOBYnDaHT0W+5PfPW/8eGGhQ6uVq3Izcb4PC9NIPTciFmhZOBntyDqy6aX/8h9CGVQRxRjuzG0Adhk7RQ0+aeVll3LGb9d5vor0+Gs5/gnjN43EqQ3QVBCJpK4HIkb+XNmU4lm72xzTHk7sSziXnkn93K98gBtvf0OWbk2Y+8X8C4OYd00cY/ZVt4UtwYMq7JLJM=;ndhheGIy+DHl2Uy24wuD6A=="
+images:
+  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
+secured: "f2UTgvXgvgFaD5lFTo0N98NTavzSHzrMbShXDPCimZbaKbb2h/adHosbXnib8afXWFR6AQrC224xJZJgKPzgu6IkLdpaqn2fKVOe92sruszEfvr+fEuWQkwg0BrWge4ssM4j32gOGEDIFBbsdpesGOqEPch5cQhrVs1f0MZMeG0IcyJaTt0LbC6H5+nIzBtKw5D2p0H/QrC/63KqDxVGBXkb+hXIRncHrfW6ETy0QLwDjBRtCosL4vjdEJTsC9f8boPWMwP3hxi6cr0CfR3yYxoQCzNqrT32wiw3iIFEiu3EeTNTu2WlwjqoRIvgr82iSiqfOrILL5hhIxwDZMTGWpblZN8o6V1oFI5kYvy8bio=;LYqVBIJ7koB9G4rbEbnZVA=="
 ---
 

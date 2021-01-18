@@ -42,9 +42,9 @@ related:
         height: 720
         isCached: true
   - title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
-    excerpt: "China's SZ DJI  Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
+    excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
     publishedDateTime: 2021-01-14T08:50:00Z
-    webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA?mc_cid=5d70cdeb20&mc_eid=ebf7c98b66"
+    webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
     type: article
     provider:
       name: Reuters
@@ -81,6 +81,6 @@ related:
       domain: compsmag.com
     quality: 24
 
-secured: "P0+woLdpaTuinx6oZrLpZe3J9sw92o9fROBzCkHjNnlSVzkpZaTFxvFqJBU9V/IK5Xn5ZbTqLD2jwohqS/WVpParWuLBzDQJjUUy/itVdlXqMu8uEKUcxoOtqF/1pGalizT3myXaT6aMqWFJzbza80uagFn0usLOWr/BDRNRKUOY+1lDihh2Od/4bFnua2t4i23EgjX27dus/oi+F1mtTA5GgdZYRmom/L9KQPu7t/uhTLbELNtjGswdUbUanJTjCaOVGdQyBELObvouDK4CN/BiXqtkhbVobsi0FWFtYskZ9306IeDAW4Dh0lrcHzUcfcwaLwzSfGIdcuDKHhlXm+wliwD4uGaqqgpYmjdUTvc=;ZmfWKDjGf56bhSn+fYfLJQ=="
+secured: "UoLcy/Z32hnTaOWJhRs1vyKblvHN2sWaa8z0wwGLBCWrTCe58T4IIfo+0frbY9soz8ZDH4Qt/36Qe65wixFM1PzGCuKiK8fdFk4XscG8hdsH2nyhlGWWEp+YfRihJXF6dKWQ8gs7KA2YkZBWtB4VdpFvvqhcae04RS0lnfPjUuyyr/wq65KSSkLfmhHTlnOemQF0+ZOUHEJAMyTvqx/5xQYe8u6EWU5CflcYdD6KsrNxertWppFUjbY/rvoM2oqSfC/zp3OJHqEyDRRXOhUEox2yrLGerLypFhWtw6YFSmuZ5M5h3btdqfMvXDSLa49QNuEt2QGwM1bs1AXARfW0xdzygWao1dZ/odEWHKWQcoKCTpj6Fs8LOl8WexBVjDpfyOGMjaLR5E2jnEMZ5qL8ESHgfLIKWeZGT2OaROithg4vVuPz7dg4W4hpzSYwMU2K8VzqSdPBL7QIDA2THYFGhU/KFp/Jc4PHlQu1UxvOjfTwWn5HY/5MuX343GDIcO10PGPtRoktJm9iCFK1QQ1kJQ==;FNRmqg+9aZLVKTVpPbgZKg=="
 ---
 

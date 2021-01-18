@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-31-for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner.md",
+      "title": "For New Year’s Resolutions, Never Think You’re Too Old to Become a Beginner",
+      "excerpt": "Have we ever needed a fresher start than the one promised by 2021? As we head into a new year with all its hopes—new year, new you, newly recovered world—there is one thing from the outgoing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner-11609426707",
+      "originalUrl": "https://www.wsj.com/articles/for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner-11609426707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-31T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-heres-why-this-hot-artificial-intelligence-ipo-stock-isnt-worth-buying.md",
       "title": "Here's Why This Hot Artificial Intelligence IPO Stock Isn't Worth Buying",
       "excerpt": "The enterprise artificial intelligence company priced its IPO at $42 a share on Dec. 8, but the stock opened at $100 the following day and subsequently surged to about $140. C3.ai raised $651 million in its IPO,",
@@ -1285,49 +1328,6 @@
         "AI",
         "AI in Security",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-microsoft-launches-new-data-governance-service-azure-purview-in-public-preview.md",
-      "title": "Microsoft Launches New Data Governance Service Azure Purview in Public Preview",
-      "excerpt": "showing how Chaos Engineering can benefit from AI. Recently Microsoft announced a new data governance solution in public preview on its cloud platform called Azure Purview. This new service automates the discovery of data and cataloging while minimizing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/",
-      "originalUrl": "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/12/microsoft-azure-purview-preview/en/headerimage/croppted-ms-azutre-purview-1607335922430.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T21:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

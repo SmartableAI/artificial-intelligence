@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-13-nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai.md",
+      "title": "Nayya raises $10 million to guide employee health benefits decisions with AI",
+      "excerpt": "Nayya, an insurance benefits management platform, has raised $10 million for its technology that leverages AI to match employees with plans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai/amp/",
+      "publishedDateTime": "2021-01-13T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-salesforce-researchers-release-framework-to-test-nlp-model-robustness.md",
+      "title": "Salesforce researchers release framework to test NLP model robustness",
+      "excerpt": "Researchers at Salesforce released a framework called Robustness Gym to benchmark the robustness of NLP models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
+      "publishedDateTime": "2021-01-13T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers.md",
       "title": "Telehealth startup NeuroFlow raises $20 million to expand its network of care providers",
       "excerpt": "NeuroFlow, a telehealth startup developing a platform to support clinicians, has raised $20 million in venture capital.",
@@ -105,41 +208,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-molecula-raises-176-million-for-its-ai-feature-store-technology.md",
       "title": "Molecula raises $17.6 million for its AI feature store technology",
       "excerpt": "Molecula, a company developing feature stores for AI and big data analytics workloads, has raised $17.6 million.",
@@ -188,6 +256,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
+      "excerpt": "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -705,8 +817,8 @@
       "title": "AI Startup Sees Opportunity Forecasting Pandemic-Era Consumer Demand",
       "excerpt": "New York-based Centricity is helping companies track consumer demand by analyzing some 2.5 billion data points’ worth of internet traffic a day.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=newsviewer_click",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=newsviewer_click",
+      "webUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=hp_lista_pos5",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=hp_lista_pos5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1089,92 +1201,6 @@
         "Natural Language Processing",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-all-hail-your-new-robot-vac-overlord-irobot-roomba-i3-is-here.md",
-      "title": "All hail your new robot vac overlord: iRobot Roomba i3+ is here",
-      "excerpt": "They’ve dusted down the iRobot robot vac range and added the Roomba i3+ which looks and performs a treat iRobot has taken the dust covers off its brand new model, the Roomba i3+. This manufacturer is known for producing some of the best robot vacuum cleaners money can buy and the latest addition to the Roomba robot vacuum lineup comes packed with new features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.t3.com/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
-      "originalUrl": "https://www.t3.com/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/fLKRdQrKG4hg7j8MkG7aoU-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.t3.com/amp/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
-      "cdnAmpWebUrl": "https://www-t3-com.cdn.ampproject.org/c/s/www.t3.com/amp/news/irobot-launches-the-dazzling-new-dust-munching-roomba-i3",
-      "publishedDateTime": "2021-01-12T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T3",
-        "domain": "t3.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-the-weather-company-raises-gpu-storage-forecasts.md",
-      "title": "The Weather Company Raises GPU, Storage Forecasts",
-      "excerpt": "For those who follow supercomputing, weather forecasting is one area to watch for systems that are designed for maximum capability. Unlike the many other",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
-      "originalUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/29ibm-web-superJumbo.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
-      "publishedDateTime": "2021-01-12T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

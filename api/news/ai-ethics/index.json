@@ -151,6 +151,59 @@
       ]
     },
     {
+      "path": "_news/2021-01-15-microsoft-president-begs-tech-industry-to-improve-its-ethics.md",
+      "title": "Microsoft president begs tech industry to improve its ethics",
+      "excerpt": "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "publishedDateTime": "2021-01-15T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-controversial-chatbot-leaves-lessons-on-ai-use-ethics.md",
       "title": "Controversial chatbot leaves lessons on AI use ethics",
       "excerpt": "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked",
@@ -1424,59 +1477,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-reuters-reports.md",
-      "title": "Google told its scientists to 'strike a positive tone' in AI research, Reuters reports",
-      "excerpt": "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from company reviewers, a source said. The published version ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105384585-1533750651888rts1wjr5.jpg?v=1533750713",
-          "width": 3516,
-          "height": 2344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
-      "publishedDateTime": "2020-12-23T21:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

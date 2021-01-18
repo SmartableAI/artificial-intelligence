@@ -2,6 +2,102 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-12-10-artificial-neural-network-ann-market.md",
+      "title": "Artificial Neural Network (ANN) Market",
+      "excerpt": "Artificial Neural Network (ANN) market report gives insights into revenue growth and sustainability initiative. By understanding and keeping into focus customer requirement, one method or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2205883/artificial-neural-network-ann-market-competitive-outlook",
+      "originalUrl": "https://www.openpr.com/news/2205883/artificial-neural-network-ann-market-competitive-outlook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc09811690_g.jpg",
+          "width": 595,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2205883/artificial-neural-network-ann-market-competitive-outlook",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2205883/artificial-neural-network-ann-market-competitive-outlook",
+      "publishedDateTime": "2020-12-09T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-amazon-unveils-dozens-of-machine-learning-tools.md",
+      "title": "Amazon unveils dozens of machine learning tools",
+      "excerpt": "Invent, the company announced new capabilities for Amazon SageMaker, the general availability of Amazon Neptune ML, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/09/931c1e72-e9d2-4ba3-a949-81f37789e560/resize/1200x/5f8454c96d426ad2237cb267edaf438d/13016607905898753203226-n.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
+      "publishedDateTime": "2020-12-09T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-microsoft-msft-makes-azure-digital-twins-generally-available.md",
       "title": "Microsoft (MSFT) Makes Azure Digital Twins Generally Available",
       "excerpt": "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI).",
@@ -1022,93 +1118,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
-      "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
-      "excerpt": "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T21:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning.md",
-      "title": "AWS expands on SageMaker capabilities with end-to-end features for machine learning",
-      "excerpt": "Nearly three years after it was first launched, Amazon Web Services’ SageMaker platform has gotten a significant upgrade in the form of new features, making it easier for developers to automate and scale each step of the process to build new automation and machine learning capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1085999578.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
-      "publishedDateTime": "2020-12-08T18:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

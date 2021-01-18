@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
-excerpt: "China's SZ DJI  Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
+excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
 publishedDateTime: 2021-01-14T08:50:00Z
-originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA?mc_cid=5d70cdeb20&mc_eid=ebf7c98b66"
-webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA?mc_cid=5d70cdeb20&mc_eid=ebf7c98b66"
+originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
+webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
 type: article
 quality: 48
 heat: -1
@@ -85,6 +85,6 @@ related:
       domain: compsmag.com
     quality: 24
 
-secured: "JxehRpDrQxA8/jxaJpQictr/L3RJMgoW4OZJHHDG/BneRcDG6IW9PVoMhmlwcbZXsZHGTLCo7L/TFBq5mGjZ+Ixv5Dx+9LjzhmJaB/i9GArfjv+doqgzgXykVdmChFP8OLA7vP1KkmkKVeP3INfOEfX6iJNe5mTMC1BZrxtmgWvVjrLbyemsTxhIomrz+W9ScqhPT4QgKkZ1q9JbljJPqHJXsKWlXlUYF606XUHbOqWZIfntnztcUewOJXXZIiPQ74TRldG9cWJlyuPRDXseC0+TcyqiNavY6b5Q+11/QfhYChfEeomjq9fh+gxEOfMe3SJE7I9Gy4q6A90gai0C05O3Q6qotCgypyuQ3KWk3Bkh7E1WuNaXZaVSw1YV4GpbkiTUH5H0oxwt5jTdQoA5QKnIfcze2k9Yvn4frqJq4s3Oe9UDubixPa3xz+1o1RRd9RCQHUPAcpfvuDMBXLPPpqUna26AQ7kmgLCzq9XeMELmF8dFvM7sWD+cARHrGdhSOTUPvBDYACs7D+SPDqAShw==;A7C7EZQjrntBY+6g7rAlIA=="
+secured: "mnuHgfelTfFA2GDh+pPZQXmsXFmAxhYM59iyL5EhvaBq8K8lUbh5XhZqVhwiAfmRivVTyJzJgrYqhprVApdn32Yhx6Xj9QlPt3u5bNIhsjYELkaeW+NPNx4ki+zU+4GfLSt146Y2Pvg6CqpGxF27vU2eNGvVvC2ZcECvUmWkORbj+EVfqZsgsv/x1LbBJ6rlkcOVQT1XbWqTNmhJf53dMBqFMTMv4v8k7gJZMi0lS74a/40NYjHFyt9eOKjyflxQDVYOpDHjyau1ooM7AOBxhxAp0tNZRGR11bajXQ6CcLhu6y2KkUXWaAd2mVIugH2KdyiLtPBIUIJ3ugLmnh8ysY99KJtQ1dO+lgFHXv0CaE8=;p2iMENMXMMYZPwLIu7WhBA=="
 ---
 

@@ -2,6 +2,110 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-12-22-five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office.md",
+      "title": "Five ways technology is helping get the COVID-19 vaccine from the manufacturer to the doctor's office",
+      "excerpt": "Pharma companies are using every tool in the digital transformation toolbox to make and deliver billions of doses safely and quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/12/22/62b5258c-1091-48b7-8890-e4ea5bf0b5c8/resize/1200x/a5da70d95ee794f0bb9dedc5fd355bd1/carrier-cold-chain.jpg",
+          "width": 1200,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
+      "publishedDateTime": "2020-12-21T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-apple-reportedly-aiming-to-launch-self-driving-cars-by-2024.md",
+      "title": "Apple Reportedly Aiming to Launch Self-Driving Cars By 2024",
+      "excerpt": "The iPhone maker is reportedly targeting 2024 as a potential goal date to enter the fray with a self-driving passenger vehicle, one which will potentially be powered by Apple’s proprietary battery technology.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
+      "originalUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hqqi6njbxxweyncc7jwi.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
+      "publishedDateTime": "2020-12-21T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-how-face-masks-can-disrupt-facial-recognition-and-daily-life.md",
       "title": "How face masks can disrupt facial recognition — and daily life",
       "excerpt": "Thanks to preventative measures to reduce COVID-19 transmission — including social distancing and wearing face masks — the possibility of meaningful public interaction is all but gone. “For those of you who don’t always recognize a friend or acquaintance wearing a mask,",
@@ -1067,111 +1171,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-the-morning-after-teslas-self-driving-subscription-slides-to-2021.md",
-      "title": "The Morning After: Tesla's self-driving subscription slides to 2021",
-      "excerpt": "If, say, a friend of yours is still in need of last-minute shopping information, or you just want to double check what’s out there, the Engadget Holiday Gift Guides for 2020 are here to help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-fd-subscription-tma-122520244.html",
-      "originalUrl": "https://www.engadget.com/tesla-fd-subscription-tma-122520244.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F36fb7560-4386-11eb-9bff-cde63905018f&client=amp-blogside-v2&signature=0374e1be309989630418c16e17c4b07f74e6dc19",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-fd-subscription-tma-122520244.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fd-subscription-tma-122520244.html",
-      "publishedDateTime": "2020-12-21T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
-      "title": "Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
-      "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

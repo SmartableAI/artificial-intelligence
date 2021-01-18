@@ -24,17 +24,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Accessible marketing, CES highlights, and making consumers comfortable with facial recognition"
-    excerpt: "Marketer principal analyst at Insider Intelligence Victoria Petrock discusses how to make marketing more accessible. She then talks about the most interesting takeaways from this year's Consumer Electronics Show (CES),"
-    publishedDateTime: 2021-01-14T05:46:00Z
-    webUrl: "https://www.emarketer.com/content/podcast-accessible-marketing-ces-highlights-making-consumers-comfortable-with-facial-recognition"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 24
-
 secured: "eYkLHUXqIa8Uj0oVv5v/MRpkrib0OiRcDJ9HLTgy8+W3NuRBPXnKJhQg/c82D7plyvuDjCjewbyKqXDx+z0xiMRsbGDpXGo3VoDs6DFA2PVDCGiMjXw8b45cN7ZVDN+PejmyWgFhtnjNWH+hRRGYzN/WSEseLxMgRW7xYlFfdGdsPC8B/68iO4QrILqWii83nVgoij7pAWN6PMQ3bSz/M+me+7TfYv+4hnEPxIMnqRGqb5tk/aiyujDPrPmk8cEPJ66B/Ebo4Yrvh4qNPUN9vnawYMda/0sEFBmKkFZ45oxfD34gTtrR8yOfIGoSDQ/g00APJr+Qbo9drqOyEM0ULcVuPFEsLzSQ+nH304LE7WU8iLu0FKahCUixPr008xNfPcvziYzGl6sGAYr6J0iDkDDdbMevxQM4110qT/Zt5mekR8p+R6VHCA3tQ4GdjyTgCO6svVsNe/go2fS8T71oFNOyV3rQ4BryE+NjJbcqOlVNDwuwOXNT6ofrvkLgdT8jhKTqLjZtuB8X55jmCyqkkA==;Q9cjZpdTPQNpYb6n4m8+Ng=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-19-global-edge-artificial-intelligence-ai-chip-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025.md",
+      "title": "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025",
+      "excerpt": "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2021-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2021-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices.md",
       "title": "Vdoo raises $25M more to develop its AI-based security for IoT and connected devices",
       "excerpt": "Today, Israeli startup Vdoo — which has been developing AI-based services to detect and fix those kinds of vulnerabilities in IoT devices — is announcing $25 million in funding, money that it ...",
@@ -1398,49 +1450,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-darpas-on-chip-terabit-laser-communication-program.md",
-      "title": "DARPA’s On-chip Terabit Laser Communication Program",
-      "excerpt": "American Institute for Manufacturing Integrated Photonics (AIM Photonics), a program of NY CREATES gave $19 million in research program awards for advanced integrated photonics under The Defense Advan",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/01/Screen-Shot-2021-01-03-at-3.07.33-PM-1024x695.jpg",
-          "width": 1024,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/darpas-on-chip-terabit-laser-communication-program.html?amp",
-      "publishedDateTime": "2021-01-03T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

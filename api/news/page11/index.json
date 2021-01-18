@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-08-chinas-baidu-teams-with-geely-on-electric-cars.md",
+      "title": "China’s Baidu Teams With Geely on Electric Cars",
+      "excerpt": "though it’s unclear if the partners intend to eventually also produce self-driving cars. Representatives for the two companies declined to comment. Read more: China’s Baidu Said to Pick CLSA ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-08/china-s-baidu-is-said-to-team-with-geely-to-make-electric-cars",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-08/china-s-baidu-is-said-to-team-with-geely-to-make-electric-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4H0sjd0aCQA/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-08/china-s-baidu-is-said-to-team-with-geely-to-make-electric-cars",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/china-s-baidu-is-said-to-team-with-geely-to-make-electric-cars",
+      "publishedDateTime": "2021-01-07T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-google-ai-concocts-breakie-and-cakie-hybrid-baked-goods.md",
+      "title": "Google AI concocts ‘breakie’ and ‘cakie’ hybrid baked goods",
+      "excerpt": "If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/",
+      "originalUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/cakie.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/",
+      "publishedDateTime": "2021-01-07T16:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-lisk-machine-learning-trading-up-158-over-last-week-lml.md",
       "title": "Lisk Machine Learning Trading Up 15.8% Over Last Week (LML)",
       "excerpt": "Lisk Machine Learning (CURRENCY:LML) traded up 31.8% against the U.S. dollar during the 24-hour period ending at 18:00 PM Eastern on January 7th. One Lisk Machine Learning token can now be purchased for about $0.",
@@ -1030,93 +1134,6 @@
         "name": "techfinancials",
         "domain": "techfinancials.co.za",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor.md",
-      "title": "DSP Group Unveils DBM10 Low-Power Edge AI/ML SoC with Dedicated Neural Network Inference Processor",
-      "excerpt": "SAN JOSE, Calif., Jan. (GLOBE NEWSWIRE) -- DSP Group, Inc. (NASDAQ:DSPG), a leading global provider of wireless and voice-processing chipset solutions for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19055169",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19055169",
-      "publishedDateTime": "2021-01-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
-      "title": "EV Dreams Power Baidu but May Not Last",
-      "excerpt": "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "originalUrl": "https://www.wsj.com/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-281927/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "publishedDateTime": "2021-01-07T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
