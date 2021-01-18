@@ -7,7 +7,7 @@ originalUrl: "https://businessinsider.in/tech/the-21-smartest-ai-scientists-work
 webUrl: "https://businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Google AI
   - AI
+
+related:
+  - title: "DeepMind's New AI Can Destroy You In Games Without Knowing The Rules"
+    excerpt: "Following their massive success in uncovering predicting protein folding in 2020, Google’s DeepMind has now released another AI that is less about solving complex biological problems, and more about dominating it’s opponents in strategy games ..."
+    publishedDateTime: 2021-01-18T16:51:00Z
+    webUrl: "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
+    ampWebUrl: "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 74
+    images:
+      - url: "https://cdn.iflscience.com/images/2080a3f8-6b4f-54c6-b158-ffe681d97cbc/default-1610976793-ms-pac-man-in-an-arcade.jpg"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "Z+2GWUP1IC7IZ0RlWcgE9Yhmi5VOiFQ4In8m/ckl/0TFdDC+w7ip0PHwnG8+DfJtvQvEubllhlTHtTrmIo8TB5NaJ03AGeDYUWvP2fFjTN2gINUKltmPnWSfIe//xgS+PhZigRC3QBYTA9ic3SKyPaeP9jfROzy2pLv7mDmwegyqLZI0lfnAf5ethAWarjm7xbZileybl+Tlif3nn/SH1Li3mdyhMqjEgXVSEZ/rL7rl4HYcvg2kmJy5cB46FctLGGtJq/5W29fv+pPnHZ8JWilTj4g1nkZ4eVSwhGsdpv7MWoDL7CHjW51uesMWKc5wkRvc1zNvcWdoaoMRZpiHEExEEPz9+g+7iNjqEcvWojg=;sIgEifuVLB6c6J0NMZcPHA=="
 ---

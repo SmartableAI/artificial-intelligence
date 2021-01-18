@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How Mirroring the Architecture of the Human Brain Is Speeding Up AI Learning"
+    excerpt: "The brain’s ability to learn so quickly depends on its ability to use prior knowledge to understand new concepts based on little data."
+    publishedDateTime: 2021-01-18T15:00:00Z
+    webUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/"
+    ampWebUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 56
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/01/neurons-582050_1280-brain-AI-learning.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "How Artificial Intelligence is enabling Smart Homes"
     excerpt: "There are multiple applications of artificial intelligence in smart homes, e.g. artificial Intelligence based appliances in smart kitchen, smart speakers, Robotic vacuum cleaners and much more."
     publishedDateTime: 2021-01-14T07:13:00Z

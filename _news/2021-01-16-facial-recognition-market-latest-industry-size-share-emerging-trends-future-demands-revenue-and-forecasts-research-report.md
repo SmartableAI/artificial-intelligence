@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Market Outlook, Size, Share and Growth and Forecast Assumptions"
-    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
-    publishedDateTime: 2021-01-14T00:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Analysis, Size, Share, Growth and Opportunity Assessment"
-    excerpt: "The major factors speculated to augment the markets are growing security requirements in government sectors for"
-    publishedDateTime: 2021-01-14T00:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-size-share-growth-and-opportunity-assessment-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Educational Robot Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
     excerpt: "The educational robot market is expected to grow at a CAGR of 16 4 from 2019 to 2025 The role of educational robots is not to replace teachers but to make the entire learning process much easier and more convenient"
     publishedDateTime: 2021-01-18T10:14:00Z
@@ -63,6 +35,48 @@ related:
         width: 770
         height: 338
         isCached: true
+  - title: "Natural Language Processing Market By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
+    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The global natural language processing (NLP) market was valued at USD 10."
+    publishedDateTime: 2021-01-15T17:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2021-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning as a Service (MLaaS) Market 2021 Industry Analysis, Forthcoming Growth, Industry Prospects and Forecast to 2026"
+    excerpt: "Market provides detailed analysis of Market Overview, Drivers, Prospects, Potential Application. Also Machine Learning as a Service (MLaaS) Industry research report includes the future impact of major drivers and challenges and,"
+    publishedDateTime: 2021-01-15T12:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2021-industry-analysis-forthcoming-growth-industry-prospects-and-forecast-to-2026-2021-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
+    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
+    publishedDateTime: 2021-01-18T10:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-2020-size-growth-analysis-top-key-players-latest-innovation-and-forecast-to-2025-2021-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Size, Share 2021 Global Industry Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
     excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
     publishedDateTime: 2021-01-14T05:44:00Z
@@ -72,6 +86,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market Share 2021 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2025"
+    excerpt: "Global Cloud Natural Language Processing Market Research Report focuses on market size, status and forecast 2020-2025, along with this report also focuses on market opportunities and treats, risk analysis,"
+    publishedDateTime: 2021-01-14T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-2021-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2025-2021-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -100,19 +128,21 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Speech and Voice Recognition Market Latest Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2021-01-18T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast-2021-01-18"
+  - title: "Image Recognition Market 2020-2027 | Latest Trending Report with Analysis and Future Growth Opportunities"
+    excerpt: "The global image recognition market was valued at 17 911 million in 2017 and is projected to reach 86 001 million by 2025 growing at a CAGR of 21 8 from 2018 to 2025 The report offers key drivers that"
+    publishedDateTime: 2021-01-18T14:12:00Z
+    webUrl: "https://www.openpr.com/news/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    ampWebUrl: "https://www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/1/U118376725_g.jpg"
+        width: 500
+        height: 331
         isCached: true
 
 secured: "MjnkWc61iaG26N8GOYLetBZtzYQsTenuQ1qZRHc9H8LxNbLb+hcIrq9+h6R5q7x70IGHHwtCyiAdfFD8M5XCyKshG/By/9ignZZvyspd+e3KAP9tE8J56H+SvLpXEPdcIR6e5nZTDQc5mdo9ye9SyE5qJPAEiZI9c2dYiyrOM32b7fYc1cnMJBQVK6tJSx28bwMU3zYXD1GLJ3gtJLHRKXaEdUihawCrhSB/HXAxgvQlUViJdRRQqnTs9TWiam6YDOQRQVWYhYV1EMZm8A/+tiD0r25dtoivF0P56eXxunq8Uazxp01hvzhny0DOckw3Fb/TGkSlALXVh4pmLxtDoinsxYhINsI0jXyNgI9QZsc1g2f7mXD4Xgli+MYbOXSiU7dz8Gv6I2MxsvjEWIK/Aw3COZUo4OkPQIQLGmmbE1fDRLI6dhS9TU1Pqjoo83Told7DOUdhsI2Lkowo810DARP8kFHp5x4wxkVeQnDR2XFMHPQhr27hrnllthNcZZC0eW0qvgVHxOyTwfnTIlHgDQ==;CDuPoXhb1QIvDWPIvLNy5A=="

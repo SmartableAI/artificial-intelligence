@@ -1,46 +1,23 @@
 ---
 category: news
 title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
-excerpt: "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,"
-publishedDateTime: 2021-01-15T01:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
+excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
+publishedDateTime: 2021-01-15T06:13:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
+webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
 type: article
-quality: 34
-heat: 34
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Google AI
-  - AI
   - AI Hardware
+  - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "South Korea's Hancom Group CES 2021 Showcases Game Changing Productivity and Collaboration"
-    excerpt: "At this year's All Digital CES 2021, Hancom Group is showcasing some of the companies' most innovative technology. These include"
-    publishedDateTime: 2021-01-14T17:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/south-koreas-hancom-group-ces-2021-showcases-game-changing-productivity-and-collaboration-solutions-artificial-intelligence-and-robots-smart-city-and-blockchain-security-301208235.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1420551/CES2021_DroneSat.jpg?p=facebook"
-        width: 1919
-        height: 1005
-        isCached: true
-
-secured: "V/HOS72TpoWxsgGp4buzwQXLeXP2aLiNsdAvGUEm5t4bYQCPf6AHYyRyyLkB8vhar04wfFxiMtsgbEaNfsw4RQ4v93adrOgMqAJCPz50Q8/oC7RNkjRAu9Sj2hCHA4lclcGkgffC7V2IMtQ0muGT/fmVdAshhSUqvozR+/ECMx+doEWn2ha2yYAFrJvwHXALwosiYTs5TYN8acFl86rA+Ab/pHPcFnfoL/9oCXMb4CeaqLtuoMIEWvrDfiZ1YmNHsf9RbNgTfxzF0rWn8Mgx3UbgQAYpT96eWVSHkRrNFe+MyKNAGCrPExR7R+tSvCVaaCOOPCR5S/PtmcnF6wCTu9e18naHCY5y3FKjBBe25wM=;K0KxXIYHPV/OISPstUH7sQ=="
+secured: "vzOLShYFmbSFHHhv97gY8/T+Gox9jbId/PDi33lEh8/RWPDXlhdBg5ONHp+BLx0Hm2sQX2iIw/HJhoRnZfVaRC/CG0/SXru/DCw9WKERpTl+IwEa8drnyV81mrFSr4trUpI76IeMAWAF78pr7lLscHe6Y1AljpDP2Brs4BpkNKWmp+R+X950gga0dgVTu0RSY1aRqSElDgxdXvsQcVIDQfPxKm+chGWKiCU8ya9NlBXwYqSFCiAPDj0gCVd9DQcyZe6ns6a59eMHZJfwQeQgGWG7uQ36Sn2Wph74Jt7FTKS4hG07R9k9e9X0LV7h28HAxQzNPoQQcV+Lv5/UwbH0n/EifK8VPD1Y0g5fmhEdqGZI42Nt/72XMT7tgYUW8ccVzKrYzToUPxGx8+6sZUQv1h3qGBaZYX6NHzBMunOKweNoMhabOTqikTB56fbomatYCnlcGhwddxl2GYKxGND7fZMXiFz28bnW+rH80r0Y1pK09o+GrqRlD4+UdHr7FUHpkguux+iaeS6zkDvBZTuT/Q==;ke8ptNDQsZHEQGYGwLDnAw=="
 ---
 

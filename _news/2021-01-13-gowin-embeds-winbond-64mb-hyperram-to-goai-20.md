@@ -3,12 +3,9 @@ category: news
 title: "Gowin embeds Winbond 64Mb HyperRAM to GoAI 2.0"
 excerpt: "Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions, today announced that FPGA manufacturer Gowin Semiconductor has embedded a Winbond 64Mb HyperRAM fast memory device in its new GoAI 2."
 publishedDateTime: 2021-01-13T04:12:00Z
-originalUrl: "https://www.digitimes.com/news/a20210112PR201.html?chid=9"
-webUrl: "https://www.digitimes.com/news/a20210112PR201.html?chid=9"
+originalUrl: "https://www.digitimes.com/news/a20210112PR201.html&chid=9"
+webUrl: "https://www.digitimes.com/news/a20210112PR201.html&chid=9"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Digi Times
@@ -24,6 +21,6 @@ images:
     height: 427
     isCached: true
 
-secured: "2jndT4Melr2XSYOZEjlgI0Rqj86x317HGlZfzCO0etDv2Vstpqfh9GyjjUvueEat7zx403zSh033OwZha10ZFgpZZef+adqySlk2hzyegXK3C5dGROUUwQ9ul2mNrZifM+siRE6vaDlvi/mq67RisJ5nUMcJJpmu+WKWwMF57ABPjZWYkQyPEyddKO1UmBLU51Nekxg8hckC/qlzgzZX3hHu69rkl9/TJNr7fa2fUfV0amn59imOxJ48hP1x0uRfg+8xmj8if7fNncYzgqggXWJM85ag7zIwMxUKirfIscqReoKaiHOicpAeY0Dp/FBObEJuc679jkOYYOLr8Y36PKTL1bxh28TfILOGuoBdJJXpFq3tnhCY/NPTP1xGyyar8CX9uhqYP1EcjE2gMuzj9fULF6ZmiOx1hvrEVld0pm/eOPgUBeNZfAlj+lP/uJ8b1SR7D6AfTqP0mVzBkRW6WMw+IJP03or0tg4N1QVsr8bcSUNxKlnC9vWR5PiYzo6nMXDYCoO0Vr3yFE7qAtn6ZA==;Yx+DjS7FteYUPvkliz+AEA=="
+secured: "P3DGGc9x0TcyQd18D5Xqs2+EzRB0ZlAIB8JqwI5H1W5i78btMhIERMH3YRsgMPvXwigI0uLgCe1EN/Yrx6Tu/Kf3GJINBpbHVnI0PBfBM3PKLs3ZgIzwm62xEuVAJ4bHEl2V4bF8SRS0WVfZe48WfcWr87TRxp2lgLnMXr53GGhu/BzFJqi4zPpT0iVLPgMj8h+BKPB2Rrm+R9i6j9YzJlcHJ5hdPGjgtUbdZnX6K42KFGmTZ0if5JSyNtIwWWBdKO2BEWwmybNN0TQVMMVVN6dAZlaBpsN543T+WGXw8GRZI0wYH2ypM9QlDAGccWUkHLKg9GvW9T92F8bCqJ57JLXEyt81L9gXahfTDzH4t0o=;Pifp8Yg/a0QWiayTmVe86g=="
 ---
 

@@ -30,96 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market Outlook, Size, Share and Growth and Forecast Assumptions"
-    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
-    publishedDateTime: 2021-01-14T00:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13"
+  - title: "Voice Recognition Market Segmented by Product Top Manufacturers Geography Trends & Forecasts to 2026"
+    excerpt: "Global voice recognition market is universally gaining prominence as one of the fastest emerging verticals within the sustainable and smart technologies space and will experience notable growth in the future."
+    publishedDateTime: 2021-01-14T13:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2026-2021-01-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Analysis, Size, Share, Growth and Opportunity Assessment"
-    excerpt: "The major factors speculated to augment the markets are growing security requirements in government sectors for"
-    publishedDateTime: 2021-01-14T00:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-size-share-growth-and-opportunity-assessment-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Educational Robot Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
-    excerpt: "The educational robot market is expected to grow at a CAGR of 16 4 from 2019 to 2025 The role of educational robots is not to replace teachers but to make the entire learning process much easier and more convenient"
-    publishedDateTime: 2021-01-18T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share"
-    ampWebUrl: "https://www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118883099_g.jpg"
-        width: 770
-        height: 338
-        isCached: true
-  - title: "Facial Recognition Market Size, Share 2021 Global Industry Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
-    excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
-    publishedDateTime: 2021-01-14T05:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-2021-global-industry-trends-growth-drivers-demands-business-opportunities-and-demand-forecast-to-2025-2021-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Intelligent Virtual Assistant (IVA) Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
-    excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
-    publishedDateTime: 2021-01-14T10:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Growth, Size, Share, Demand, Trends and Forecasts to 2025"
-    excerpt: "Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. Request Sample copy of this Report @  Api."
-    publishedDateTime: 2021-01-14T05:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-growth-size-share-demand-trends-and-forecasts-to-2025-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-  - title: "Facial Recognition Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
-    excerpt: "Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security"
-    publishedDateTime: 2021-01-16T02:58:00Z
-    webUrl: "https://www.wfmj.com/story/43165876/facial-recognition-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report"
-    type: article
-    provider:
-      name: WFMJ
-      domain: wfmj.com
-    quality: 0
 
 secured: "ita0F0PTQsjWEdYeqCefM7aKOIwoRiXsTwReomMtIgfn+N6csNIAG7Ase0HHmt1sipBRmjMDEbh+F4lSAxSKFcyjiF6ZYDUB2shiK3BbVcr2Vnx38F0JLGA3CfxFOWbnJ5IvDL+KQZtohwbGLkTudupb9pi1QcPR8YpeMWVD/TWf2wEJFrRBOBerzQL8hRkQWyh3cyvfMRvVyOBYzBEwKCxhOW4EmxYdC5Wgp9nbzrltohLajXf91kWGbHrOb1Go+FsPrRZ4OqxJ+C6zepX+JsVg5K4Cz5NbOeOvi1Ji/WWEnIeiS8XDmo6bIRmIFQ+n7UJm0k5q+tZ6A++76mPuQXBw+649/gZlMy33AfgTPp4=;3chQPtHiKjvcephQqQjBMA=="
 ---

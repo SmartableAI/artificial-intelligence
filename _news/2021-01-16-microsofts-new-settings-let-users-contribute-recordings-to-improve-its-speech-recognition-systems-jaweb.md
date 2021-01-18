@@ -120,6 +120,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft clarifies its practices for voice data collection"
+    excerpt: "... rolling out some important updates to give users more control over how their voice data is used to improve its speech recognition technology. The new setting will allow users to choose if the company can use their voice recordings to enhance the ..."
+    publishedDateTime: 2021-01-18T16:36:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-clarifies-its-practices-for-voice-data-collection"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 41
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/microsoft-settings-control-over-voice-data.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland's deep knowledge,"
     publishedDateTime: 2021-01-18T10:11:00Z

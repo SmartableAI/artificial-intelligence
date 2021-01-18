@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html"
 type: article
 quality: 193
-heat: 213
+heat: 203
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous vehicle startup WeRide raises $320 million"
-    excerpt: "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital."
-    publishedDateTime: 2021-01-14T01:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/"
-    ampWebUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/1_owq-V2IrljRj2C9YoZNnkA-e1610586000900.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Chinese self-driving tech startup bags a total of $310m in series B round"
     excerpt: "WeRide will continue to develop its smart mobility technology, commercialize its mini robobus product, as well as expand its services to more cities this year."
     publishedDateTime: 2021-01-15T08:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Mirroring the Architecture of the Human Brain Is Speeding Up AI Learning"
+    excerpt: "The brain’s ability to learn so quickly depends on its ability to use prior knowledge to understand new concepts based on little data."
+    publishedDateTime: 2021-01-18T15:00:00Z
+    webUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/"
+    ampWebUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 56
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/01/neurons-582050_1280-brain-AI-learning.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Google thinks it’s language AI can manage a trillion parameters"
     excerpt: "Can’t be worse than what it has now While firms are under the mistaken believe that they can save a buck or two on translation services using AI, the technology is a long way away from being remotely reliable."
     publishedDateTime: 2021-01-14T11:40:00Z

@@ -43,22 +43,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "LAPD's facial recognition use policy approved by Los Angeles Police commission"
-    excerpt: "The policy was approved with a modification for the Inspector General to work with the commission's executive committee to develop and ensure a \"strong oversight system.\""
-    publishedDateTime: 2021-01-13T23:56:00Z
-    webUrl: "https://abc7.com/police-commission-approves-lapds-facial-recognition-use-policy/9632866/"
-    ampWebUrl: "https://abc7.com/amp/9632866/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/9632866/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 55
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/9632776_011321-kabc-5a-facial-recognition-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "New advances in detection of bias in face recognition algorithms"
     excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
     publishedDateTime: 2021-01-18T13:32:00Z

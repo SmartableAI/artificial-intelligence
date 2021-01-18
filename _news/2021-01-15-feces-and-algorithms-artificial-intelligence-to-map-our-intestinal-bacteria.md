@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Feces and algorithms: Artificial Intelligence to map our intestinal bacteria"
-excerpt: "Both past and present-day scientists have suspected the intestines of playing a role in various diseases. Present-day studies focus on the intestinal flora's role in physical diseases such as diabetes and overweight,"
-publishedDateTime: 2021-01-14T17:45:00Z
-originalUrl: "https://phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.html"
-webUrl: "https://phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.html"
-ampWebUrl: "https://phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-feces-algorithms-artificial-intelligence-intestinal.amp"
+excerpt: "The intestines and their bacteria are sometimes called our 'second brain', but studying these bacteria in their natural environment is difficult. Now researchers have developed a method that uses artificial intelligence to map intestinal bacteria using feces."
+publishedDateTime: 2021-01-15T00:42:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/01/210114130148.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/01/210114130148.htm"
 type: article
-quality: 54
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/gut.jpg"
-    width: 1483
-    height: 1920
-    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) Helps Map Intestinal Bacteria"
@@ -91,6 +87,6 @@ related:
       domain: hindustantimes.com
     quality: 17
 
-secured: "Ce04FVESicc4HzyCE8xpHGo5XTmXOOTgTFewtH8yDRCeEdEcN3mJgDfeuuKZxU5oH5j/U6HMzfPohaU4N4U0ExTw+ngYIUmDrBg8lYp/1HGOuCiapEEieYe4MrnMimsp/iBwrQrLkea0tDhJxu3KoADcbCptsfArDeucHolpX/4iFZ1pWMRGDxjnpu1ap+zhVmaKPH778vqJjnulVFSghW2dLkQifqQXamk7YcHZxvHmVViElto5mj6XB3QNvJJLfyqRv7af1H2sx7UhWoyLIzF8oWGGIdOaq7si2EPI+OZeU+RkTWoksjXBZjv3vwqz/J3v4nD6T48dH+rYNrk96LTe1Orn0swtQIPBArpKNBjs/2IvGuzKHMk17TNdlgiIbPO5v6c/sh76Gkwbxg5L8G4O2Cy5cOHjFgjAMeuFunUB8uzdCgG3GlVUv+W/ip1ccWRtiJrmibSN0g26xcej/mr+sJOVSAzAJ5EYorxV0F8W1an80JNiDshs5zMuNSP71slXftczJW7GTEuBvxOfVQ==;xiWEM/tE3EKt/5GcUBJkEw=="
+secured: "n2ooS9t92PZk3YY1yMzCBRqnBkgFJI3kZLnZrJLREBNqBnateqq4++rzplKmAsne7dNtdMpmVvrcUiJXKFOXymsBfsVc4m8TylW6GJL9Jtq+OEVP+RAKeC15t4/UWNm6breOrmIN+Pptq4jJ++beonA7zighd6cOM6+x4jPDH5jS3S68zjhbS+Vr2uZ6hbKxsR7TtCfLoAlbhWVFRN4gisaJJqHlsynVbPzxsrs3rBqrbH6LcqSl/82/wmD/PfjNLRyu1KtphjnsxLh32kPuwhnAkBjdoV0rB75YPeSgybgUEHegDb6jJBI5e/txh3fDVsxVY5njNotQnfGFrwEH9mufPvIEtztTPGu8jnBFSUE=;bDM/0cIdYYd+fvGCLDK6bA=="
 ---
 

@@ -39,22 +39,6 @@ related:
         width: 4000
         height: 2250
         isCached: true
-  - title: "Autonomous vehicle startup WeRide raises $320 million"
-    excerpt: "WeRide, a Guangzhou, China-based startup developing autonomous vehicle systems, has raised $320 million in venture capital."
-    publishedDateTime: 2021-01-14T01:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/"
-    ampWebUrl: "https://venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/autonomous-vehicle-startup-weride-raises-320-million/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/1_owq-V2IrljRj2C9YoZNnkA-e1610586000900.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "P/bXJK5m26Tjsuype9JPV8xyLZks5du6QDW2P2BGxW7t0kiJADbi68XD+F0TfBL4dJTOpz42+hhh3hRaUYrFGooHC6rS8fIsqxeskSOV0f+pslW/kB+K3JKCKz/nxPMV7AbG131LcJbuSFWYTbdL/NaHJg0Cvy8f4O8KNCdywvVhjvNOF1YgUSPwolBdS82EDWYScvoVhJUJ+elKksV8vgErZ8DXH3zWYlUrK2h75vlNLLfvi6sKxqGLrnJ/hHLHS8I06S04pfE3/mGnGDR5XKrZs/ta63is7YCG4+HLZCwE7x4oquuhBPy56M50rvFutPuZ6iLpN1qzoPOOFIncHwD+F8nfpWCqEjO/f0PiIfVBi5J2Ir7ZMENVbqL0hKtb0DEXnmPcW9m72cFLOEUcNkFlmuqUPwazxa2dtv2SM2igW7Hp5wNNGa3YaUu4G2pxSP0fN7c0vMsYj251ZYVNh0Ll3LF1jXmmpyfftyqP7Txjz0MCE4ubQ/KSe/Cbvg/vCm1hn9aAXjJlADbEPfG25w==;cFsKc6Xo1XNM7JgSyXk2Iw=="
 ---

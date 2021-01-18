@@ -57,20 +57,6 @@ related:
         width: 1823
         height: 1140
         isCached: true
-  - title: "L.A. Police Face New Limits on Facial Recognition Tech"
-    excerpt: "The new policy bans LAPD from using any other facial recognition technology beyond that used by the Los Angeles County Sheriff’s Department system. It also sets up oversight requiring LAPD to collect data on how the system is being used and whether it’s effective."
-    publishedDateTime: 2021-01-13T23:33:00Z
-    webUrl: "https://www.techwire.net/news/la-police-face-new-limits-on-facial-recognition-tech.html"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 39
-    images:
-      - url: "https://media.erepublic.com/image/FRsoftware.jpg"
-        width: 938
-        height: 623
-        isCached: true
   - title: "Facial recognition software now being used to check temperatures"
     excerpt: "Since the pandemic started knowing your temperature is now the norm. Security cameras with facial recognition software that can check temperatures have been booming across"
     publishedDateTime: 2021-01-15T00:33:00Z

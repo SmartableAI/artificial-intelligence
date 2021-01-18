@@ -46,17 +46,6 @@ related:
         width: 620
         height: 347
         isCached: true
-  - title: "CES 2021: A closer look at artificial intelligence"
-    excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."
-    publishedDateTime: 2021-01-14T00:22:00Z
-    webUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence"
-    ampWebUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 41
   - title: "CES 2021: AI steps into 3D foot scanning"
     excerpt: "Foot scanning technology and orthotics leader Aetrex Worldwide this week showcased the next generation of the company’s 3D foot scanner, Albert 2, at CES 2021. Albert 2 combines computer vision, machine learning,"
     publishedDateTime: 2021-01-14T08:08:00Z

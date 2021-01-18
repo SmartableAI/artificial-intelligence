@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "CES 2021: A closer look at artificial intelligence"
-    excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."
-    publishedDateTime: 2021-01-14T00:22:00Z
-    webUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence"
-    ampWebUrl: "https://www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/ces-2021-a-closer-look-at-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 41
 
 secured: "KyxlzijFOfWR87BX2zRmA9BjtZJ3LMcS0+GGbMJPOVQFw50Avj9phat7ZSOjdcTQYULcphjjNHyV06uqdYwHVLsgsh9BjhCQX0UVDU1w3jWvrQod8v0wzvt3kx6OZXg0eUwNnYGRAUPM9JQUNUKPfN5h6wdnQNmbW4L3L0VA2bXhYFWaCVwoKlH4Q4ViUzOJqSC9ldevLfqbSkOiMoATcdiioIKDKvgsw38anpP0dsWYXZdRpcvMJhCT9HZUebzgT2EAkHIQ3dmQsrcg7xEK6EAxMlIxE/MJLjc9Qi9HWAtHXavaKz17LdaIQ3lhnuWuaN8VaxfciIMMgyNdts5i2u4jRmmQ0AvO4F+0CR+RkUM=;JDeQcXrEyu7oat45vN86rg=="
 ---

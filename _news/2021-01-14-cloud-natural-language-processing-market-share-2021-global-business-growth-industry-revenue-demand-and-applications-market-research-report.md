@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Educational Robot Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
+    excerpt: "The educational robot market is expected to grow at a CAGR of 16 4 from 2019 to 2025 The role of educational robots is not to replace teachers but to make the entire learning process much easier and more convenient"
+    publishedDateTime: 2021-01-18T10:14:00Z
+    webUrl: "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share"
+    ampWebUrl: "https://www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/U/1/U118883099_g.jpg"
+        width: 770
+        height: 338
+        isCached: true
   - title: "Natural Language Processing Market By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
     excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The global natural language processing (NLP) market was valued at USD 10."
     publishedDateTime: 2021-01-15T17:43:00Z
@@ -71,34 +87,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2021 : Top Countries Data with Drivers and Restraints, Business Opportunities, Advancement Technologies and Forecast to 2026"
-    excerpt: "Research Reports has published a detailed report on “Computer Vision Market\" 2021 which has been categorized by"
-    publishedDateTime: 2021-01-15T14:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-top-countries-data-with-drivers-and-restraints-business-opportunities-advancement-technologies-and-forecast-to-2026-2021-01-15"
+  - title: "Facial Recognition Market Size, Share 2021 Global Industry Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
+    excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
+    publishedDateTime: 2021-01-14T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-2021-global-industry-trends-growth-drivers-demands-business-opportunities-and-demand-forecast-to-2025-2021-01-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Segmentation, Future Business Strategy, Manufacturers Analysis and Forecast by 2025"
-    excerpt: "The recently distributed report entitled Global Artificial Intelligence of Things (AIoT) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
-    publishedDateTime: 2021-01-18T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-segmentation-future-business-strategy-manufacturers-analysis-and-forecast-by-2025-2021-01-17"
+  - title: "Intelligent Virtual Assistant (IVA) Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
+    publishedDateTime: 2021-01-14T10:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-01-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Growth, Size, Share, Demand, Trends and Forecasts to 2025"
+    excerpt: "Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. Request Sample copy of this Report @  Api."
+    publishedDateTime: 2021-01-14T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-growth-size-share-demand-trends-and-forecasts-to-2025-2021-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
   - title: "Image Recognition Market 2020-2027 | Latest Trending Report with Analysis and Future Growth Opportunities"
     excerpt: "The global image recognition market was valued at 17 911 million in 2017 and is projected to reach 86 001 million by 2025 growing at a CAGR of 21 8 from 2018 to 2025 The report offers key drivers that"
     publishedDateTime: 2021-01-18T14:12:00Z
@@ -115,23 +140,14 @@ related:
         width: 500
         height: 331
         isCached: true
-  - title: "AI in Asset Management APAC Market (2020 to 2026) - Industry Analysis and Forecast - ResearchAndMarkets.com"
-    excerpt: "The Asia Pacific AI In Asset Management Market is expected to witness market growth of 44% CAGR during the forecast period (2020-2026). From the past few years, financial institut"
-    publishedDateTime: 2021-01-14T06:48:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-investment-management-d53744c8ae134ea8839dbdc874cc9b17"
+  - title: "Facial Recognition Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
+    excerpt: "Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security"
+    publishedDateTime: 2021-01-16T02:58:00Z
+    webUrl: "https://www.wfmj.com/story/43165876/facial-recognition-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-  - title: "Global Synthetic or Artificial Staple Fibers Yarn Market Analysis and Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "Yarn Of Synthetic Or Artificial Staple Fibers” report has been added to ResearchAndMarkets.com’s offering. This report has been designed to provide an in-depth study of the global synthetic yarn market."
-    publishedDateTime: 2021-01-14T06:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-global-trade-import-and-export-prices-middle-east-asia-e6cebd1d76284a94a4b2061ea8050aa6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMJ
+      domain: wfmj.com
     quality: 0
 
 secured: "WMdD1iWT/O4nwTfIaLCqq7UQQk5pcfSmSjHcVb9NwQKfE6BbaLGXVQb7BiYQQoKOE2mSiakGmoviXTTdDFu2gORVs8qdEAjx497m1bZs6FIgYY96jgXL9HY4FIFFE0bdCvv9MukOw7EBh6zNoa9sr/NKpMEIKyLgWKck5IzbQlIPV3Ou5+6q91jCD2Crt8yuvI+DsTgt1uGL/vM1tY4tm2r1ERA4TbC9AfnqKTWCDGGmnPgSvpVKjKDKDqCryRqGyvIgB2fc7v0zSQr0rEhYe5m8TlRTyJslgYUvV4z4qgHDS/Q6tIP/ynS4ulBsaPbRFuY0FpPtCeKfeUhW1+7NVe+cOiy0ikj+VYh5AvC6Nro=;kwbSa9XKW8y8l830KR/wGg=="
