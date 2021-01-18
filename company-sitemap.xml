@@ -1465,12 +1465,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/speechmatics/</loc>
-    <lastmod>2021-01-11T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/company/affectiva/</loc>
     <lastmod>2021-01-11T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1628,6 +1622,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/soundhound/</loc>
+    <lastmod>2021-01-11T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/speechmatics/</loc>
     <lastmod>2021-01-11T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
