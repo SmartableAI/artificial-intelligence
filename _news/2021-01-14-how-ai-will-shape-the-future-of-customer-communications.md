@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence Will Change Tank Warfare"
-    excerpt: "AI-related technical nuances are by no means restricted to identifying enemy vehicles, but can also be applied across a wide or even seemingly limitless sphere of combat factors."
-    publishedDateTime: 2021-01-14T01:36:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/how-artificial-intelligence-will-change-tank-warfare-176376"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2017-02-14T000000Z_1822755669_RC1DF190B4D0_RTRMADP_3_ROMANIA-ARMY-U-S_0.JPG"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "How AI Will Be Pushed to the Very Edge"
     excerpt: "Driving AI out to edge computing platforms where data is being collected and processed in real time is a major challenge. The race to push deployment of artificial intelligence (AI) models beyond the network edge is officially on."
     publishedDateTime: 2021-01-15T14:07:00Z

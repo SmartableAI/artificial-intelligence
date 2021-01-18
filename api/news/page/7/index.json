@@ -2,21 +2,21 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-01-12-collaborating-through-open-source-to-advance-ai.md",
-      "title": "Collaborating through open source to advance AI",
-      "excerpt": "That something is open source. The sheer number of open source tools available to developers - from libraries to frameworks, IDEs, data lakes, streaming, model serving and inference solutions, and even the recent end-to-end tool aggregator,",
+      "path": "_news/2021-01-12-ibm-tops-us-patent-list-for-28th-consecutive-year-with-innovations-in-artificial-intelligence-hybrid-cloud-quantum-computing-and-cyber-security.md",
+      "title": "IBM Tops U.S. Patent List for 28th Consecutive Year with Innovations in Artificial Intelligence, Hybrid Cloud, Quantum Computing and Cyber-Security",
+      "excerpt": "automation and building trust in AI, and continually infusing new capabilities from IBM Research into our IBM Watson products. In 2020, this included the IBM Watson team announcing the first commercialization of capabilities from Project Debater – a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/collaborating-through-open-source-to-advance-ai",
-      "originalUrl": "https://www.techradar.com/news/collaborating-through-open-source-to-advance-ai",
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/01/12/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/01/12/ibm-tops-u-s-patent-list-for-28th-consecutive-year-with-innovations-in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
-          "width": 970,
-          "height": 646,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/collaborating-through-open-source-to-advance-ai",
-      "publishedDateTime": "2021-01-12T03:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T03:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +40,9 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "IBM AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -147,49 +139,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ubtech-showcases-new-uv-c-robots-at-ces-2021.md",
-      "title": "UBTECH Showcases New UV-C Robots at CES 2021",
-      "excerpt": "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1",
-      "originalUrl": "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T01:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1220,6 +1169,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy.md",
+      "title": "AI devs claim they’ve created a robot that demonstrates a ‘primitive form of empathy’",
+      "excerpt": "Columbia University researchers have developed a robot that displays a \"glimmer of empathy\" by visually predicting how another machine will behave.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-11T181530.219-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
+      "publishedDateTime": "2021-01-11T11:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

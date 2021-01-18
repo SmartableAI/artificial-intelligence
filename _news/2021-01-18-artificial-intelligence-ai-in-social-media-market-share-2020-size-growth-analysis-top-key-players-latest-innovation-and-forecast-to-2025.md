@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market Future Demands, Companies, Trends, Share and Size Forecast 2021-2027"
+    excerpt: "According to ReportsnReports study over the next 5 years the Artificial Intelligence AI Consulting Industry will register a xx CAGR in terms of revenue the global market size will reach xx Million USD by 2026 from xx Million USD in"
+    publishedDateTime: 2021-01-18T15:00:00Z
+    webUrl: "https://www.openpr.com/news/2226696/artificial-intelligence-ai-consulting-market-future"
+    ampWebUrl: "https://www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 50
+    images:
+      - url: "https://cdn.openpr.com/U/1/U118912294_g.jpg"
+        width: 560
+        height: 315
+        isCached: true
   - title: "Facial Recognition Market Size, Share 2021 Global Industry Trends, Growth Drivers, Demands, Business Opportunities and Demand Forecast to 2025"
     excerpt: "The global facial recognition market was valued at USD 4.4 billion in 2019, and it is projected to be valued at USD 10.9 billion by 2025, registering a CAGR of 17.6% over the forecast period, 2020-2025."
     publishedDateTime: 2021-01-14T05:44:00Z

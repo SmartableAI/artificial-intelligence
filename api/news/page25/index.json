@@ -2,6 +2,48 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-12-23-using-ai-to-count-and-map-craters-on-the-moon.md",
+      "title": "Using AI to count and map craters on the moon",
+      "excerpt": "A team of researchers affiliated with several institutions in China, one from Italy and one from Iceland has used a machine-learning artificial intelligence application to count and note the location of over 100,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-12-ai-craters-moon.html",
+      "originalUrl": "https://phys.org/news/2020-12-ai-craters-moon.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/moon.jpg",
+          "width": 2380,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-12-ai-craters-moon.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-ai-craters-moon.amp",
+      "publishedDateTime": "2020-12-23T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-5-self-driving-car-stocks-with-the-most-potential-moving-into-2021.md",
       "title": "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021",
       "excerpt": "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully ...",
@@ -1105,58 +1147,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-apple-said-to-be-planning-self-driving-electric-car.md",
-      "title": "Apple Said to Be Planning Self-Driving Electric Car",
-      "excerpt": "Apple Inc. Chief Executive Officer Tim Cook refused to take a meeting years ago to discuss acquiring Tesla Inc., according to the carmaker's chief executive officer Elon Musk. In recent years, Apple has hired a number of former executives from Tesla Motors Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzHncuh7w9A/v5/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T15:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

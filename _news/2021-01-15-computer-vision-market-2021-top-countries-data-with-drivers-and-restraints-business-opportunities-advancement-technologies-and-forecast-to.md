@@ -28,6 +28,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Growth Opportunities in AI, Threat Intelligence and SCA Tools\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security ..."
+    publishedDateTime: 2021-01-18T14:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210118005226/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
+
 secured: "i6ymE32f/Gi1Gg0JlN9fnTjX6dsBg5WFsYAw7C0x26QJRlQWgRLREm5Q7pKMuEZeuKNAKgJtdjpZrNQuIvQ1C0C38KmyKT1FdCG75ceoIInccB7cs6uXfcYG447MIHM++y3OARySqQ6q5xWkfMCNhk4ahEgr5yD+TrE26LBTmDxUhdihyzN4+JOedyFlG3Pjq00vwidd5n3ZBWwe+rQISpUbPsE8Ah8VqMIK4yGu9OG2q9knk7CwIOkFfQEihNAO4dEsK4d3FKyGbATa6BE0PcbvURIybkx/m2dCe4qYOjgr49t4Rd+vhGkNQsfXIwCRImESdNYvAB1pHE8QVKIlEKEObFTr5yhs8TUjWcq2AIU=;RSs+ni7bsctzJR5C4kiWlQ=="
 ---
 

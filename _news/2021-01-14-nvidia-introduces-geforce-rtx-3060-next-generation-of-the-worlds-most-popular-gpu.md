@@ -20,22 +20,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Asetek Liquid Cooling Advances Overclocking Capability of New GeForce RTXtm 30-Series GPU Cooler from MSI"
-    excerpt: "Asetek, the creator of the all-in-one (AIO) liquid cooler and the global leader in liquid cooling solutions for gaming PCs and DIY enthusiasts, announced that OEM Partner MSI has introduced a new series of graphics cards based on the NVIDIA®"
-    publishedDateTime: 2021-01-14T02:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-19599736.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 22
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
 secured: "csw0KqKIsGEJEN1m/TArUk5W3frpiSg3W/L3nisIraXHJzGXT3ykqBXU4Mv1gTMQo2LPgENO+XAAqyRZlY95zkIEZS/nm6KPFYdMzNUhIdmlS8NcRgn/JQzGGkwM4qqeO590Joct8z/rj81pDwqHGbm7kma8tiD4/ILXLcYA1/cZPeVfqnke67igC2djT5VFA+T8M/C1sqrqzecP1rdTcd8chke2BkzTOqrUUa01ny9zHScmn3jpRvjjwsHvwn//FNYFpBkSPg+hkR9qD4LPZFP9PtaQAshJVEHn4hi5pBFPhUUOX0AqzwW/cClL/cBFW46D/JWAKVJ2pPa1Wp00d8I8C0SsI8nvqTAi1xk43WQ=;UQFYgGJJtmsQ/M0yR6MfRQ=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "CES 2021 Rethinking Virtual Learning with Taiwanese Startup FlyingCrazyer's AI Evaluation System"
-excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall effectiveness issues result in low rates of interactive practice and provided feedback,"
-publishedDateTime: 2021-01-18T14:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
-webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
+excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online"
+publishedDateTime: 2021-01-18T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system-301209916.html"
+webUrl: "https://www.prnewswire.com/news-releases/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system-301209916.html"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1421905/FlyingCrazyer_meets_head_challenges_online_learning_specifically_Mandarin_speaking_markets_The.jpg?p=facebook"
+    width: 1598
+    height: 837
+    isCached: true
 
 related:
   - title: "CES 2021 Taiwanese startup FiduciaEdge Technologies develops Edge security solution for a secure edge computing environment"
@@ -56,6 +56,6 @@ related:
       domain: businesswire.com
     quality: 8
 
-secured: "yEJ3vfQKhBpsimGS85QTbuQw/8EUNQoHxTRgjH/JBGhEiTi9VYzEBbGwU1vV0AVPpqWO4bxgYj53YMgkICLMVpOLcztH6J10VA26+b2Wc69XUmIFLoQ87O9Np1IAW7NP6v3VdXC9It34jD6h4PpxGzBwPBgdGkFxJspo/D6dMl66MDo+hhAJKev1gwIvL2brv4W7KR+rhiwiNOJnX+qiGOJikCSZnqqjvzVHdmaKQ6PM4W0NGWLsG3qewIwj6T2X3NNwV/XZjSQuKfIi535vd67UB8cKI25EdaIcobkc8E+UfJq2b0KRkyfgRhr2EI1t3L98PSjnzggQ854K8F6IfbLYsdybzIYEzYzHDFZ8CNs=;TjquJBtZ1rEp62CMaUqRuQ=="
+secured: "3OLQHSoUfN65U6rSMb4rGMOyEIlqCEgXOW8IDoEKvQbp2e4KgQTLWB83fT56RakhhdBk8I9H3mOCY+3lsM/AmQoz3vFwgTHeJJMB3LNtnG6dG10NEbiEtR0RGROWcs3UY9t7PO3jh+ZQgCREVJk5RVG4Q0lW4vTi5xDfTL6hZ/SoeqZ09jArtAhtXLf+cqfWv+DiZixP0yaXyT3vHNDBgStpShu2YhQ2VhjylMdYn755bUwpb4YFxBIUEKz726cG7TQ+pNcKmCpWv5VsiTSUbxH7wbd2dqwL72AOBf1on/Ihracd31YL7s2q/E5eFNvtnCj7fqUoYH3wbIDaURDM4hVM59g8ukHgae8LN/MSHiw=;sevF+UK8r88c/mUNhvxelQ=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-11-25-iit-kharagpur-innovation-hub-on-ai-ml-to-translate-research-to-industrially-scalable-products.md",
+      "title": "IIT Kharagpur Innovation Hub On AI, ML To Translate Research To Industrially Scalable Products",
+      "excerpt": "IIT Kharagpur has set up a technology innovation hub on artificial intelligence (AI) and machine learning (ML) to translate academic research to industrially scalable products and processes, a spokesperson said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/education/iit-kharagpur-innovation-hub-on-ai-ml-translate-research-industrially-scalable-products",
+      "originalUrl": "https://www.ndtv.com/education/iit-kharagpur-innovation-hub-on-ai-ml-translate-research-industrially-scalable-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cache.careers360.mobi/media/article_images/2020/11/25/i46idagg_education_625x300_06_March_20.jpg",
+          "width": 625,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows.md",
       "title": "WeRide robotaxis gain loyal passengers but fixed pick-up, drop-off spots irk some, survey shows",
       "excerpt": "Nearly 60 per cent of about 650 passengers WeRide surveyed say they use the company’s robotaxi service for regular commutes.",
@@ -1156,50 +1200,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ipo-preview-c3ai-files-for-100-million-us-ipo.md",
-      "title": "IPO Preview: C3.ai Files For $100 Million U.S. IPO",
-      "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo",
-      "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png",
-          "width": 619,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo",
-      "publishedDateTime": "2020-11-24T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

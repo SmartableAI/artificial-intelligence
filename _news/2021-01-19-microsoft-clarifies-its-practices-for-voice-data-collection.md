@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
+    excerpt: "Azure Data Lake Storage is designed to work with gigabits ... and at the same time providing a platform that supports machine-learning techniques to add support for predictive analytics. At its heart, Synapse removes the usual barriers between standard ..."
+    publishedDateTime: 2021-01-18T17:37:00Z
+    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 95
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
+        width: 1200
+        height: 704
+        isCached: true
   - title: "Microsoft’s new settings let users contribute voice clips to improve its speech recognition systems"
     excerpt: "Microsoft's new settings allow users to contribute voice clips that'll be used to improve the company's AI speech technologies."
     publishedDateTime: 2021-01-15T17:21:00Z
@@ -149,6 +165,6 @@ related:
         height: 480
         isCached: true
 
-secured: "9cTOwCwaHKZKYnORt7qpRUSDyHRuxNMuXgeeg9OTSe3OoOgVUVkQeq31B+a/hq1iI6boWmQIUNLTr68LbvcZUogbCtcUMLTTi3VNWInXavMgRfwPeA+PN0fT77GnHwd+V9fmZJDNzwd0Gxv3P1/hC7BtTirMBDytDBBOYYY2IN6s54ZrzwycezJH/QpiTznUWBiDSH5XCxXLKXWlUK22kiRHRSsI0h2zZJHNjPSv+wdyocz5aRoEde7pcsdnzO4jLFIjajXY8utdwJ7VXbkfGqqXgnywRwKQOI/yf2W/lFekEo11IcYL0zTnNPU/a5w+hYMghXL1YswUuAGXJL2bgVCtWEnzuGvb4RGcXQnKZDA=;lR6xbURYeObNo6yqRE/iQg=="
+secured: "TUCvwAK4bh4Mm+TQhRKBAcbNWTSgHNdgmcMAMIxyGWPvGGLMyEYYPDzW5qBzkD27ei92GAvQgz20D4f5Z3f3KZwO40V4Y37HFMOd97NrW+K0PcjJL+VKSnje7e0VFbdISsjbmTWoJGR837HidyXJIOpfBOArKm1la4YT+yyfd39WYrSMnw73J39xbsSNmZWMBNaiUIcfMm4Uo82joAZ4uSyAw8aGcK1Yl9aJRUDHAL7JuSExWOh508fKFixDyGlEZAW/c3AMLncky1MsvPBg9hVs9juIIJKbKCunDHPEk4xJmXRACQDdfsmH685jmMNkcvDkrkWiBvcmgqxcvKDCtuylZd+UwCiIUx1/Xic8GrLXmApG7mZuBallMMGzfJsN2qOZoPlZjvCNnNLqcksyYUiHPdDNgvMrin4l4k3/HPZ54vJtWwfUU+7VqqC48rgzqdNurUwTm76R43hvWLeeAKfVpD/LQpzoliOXUZU1TfzRE3Zu9GTlKn2iA3StBndlMO6r4FScSlF/7PwKWVmgGw==;6qh7l3xfou6OXn4FS35L+A=="
 ---
 

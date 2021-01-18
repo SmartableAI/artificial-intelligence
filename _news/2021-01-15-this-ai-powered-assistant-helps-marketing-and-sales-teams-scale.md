@@ -40,7 +40,7 @@ related:
     provider:
       name: Business Line
       domain: thehindubusinessline.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33602216.ece/ALTERNATES/LANDSCAPE_615/PersonalisedMarketing"
         width: 615

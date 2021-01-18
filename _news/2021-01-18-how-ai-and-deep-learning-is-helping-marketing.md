@@ -8,7 +8,7 @@ webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai
 ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
 type: article
-quality: 91
+quality: 93
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Marketing
+  - AI in Finance
 
 images:
   - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33602216.ece/ALTERNATES/LANDSCAPE_615/PersonalisedMarketing"

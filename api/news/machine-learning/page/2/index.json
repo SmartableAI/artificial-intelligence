@@ -558,6 +558,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-06-oracle-packs-oracle-database-21c-with-more-than-200-innovations.md",
+      "title": "Oracle Packs Oracle Database 21c with More Than 200 Innovations",
+      "excerpt": "Oracle Database 21c is now available on Oracle Cloud, including the Always Free tier of Oracle Autonomous Database. The new release contains more than 200 new innovations, including immutable blockchain tables,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Oracle-Packs-Oracle-Database-21c-with-More-Than-200-Innovations-144764.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Oracle-Packs-Oracle-Database-21c-with-More-Than-200-Innovations-144764.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-machine-learning-improves-particle-accelerator-diagnostics.md",
       "title": "Machine learning improves particle accelerator diagnostics",
       "excerpt": "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly.",
@@ -1351,50 +1394,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use.md",
-      "title": "Release of Deep Learning Framework \"SmallTrain 0.2.0\" For Professional/Commercial Use",
-      "excerpt": "\"SmallTrain,\" which generates user-friendly deep learning models for high accuracy and high functionality as a standalone deep learning library and as a wrapper for TensorFlow and PyTorch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/n18941010/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/n18941010/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg",
-          "width": 400,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18941010",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18941010",
-      "publishedDateTime": "2020-12-28T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

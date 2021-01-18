@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2226366/educational-robot-market-growth-s
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
 type: article
 quality: 54
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market Future Demands, Companies, Trends, Share and Size Forecast 2021-2027"
+    excerpt: "According to ReportsnReports study over the next 5 years the Artificial Intelligence AI Consulting Industry will register a xx CAGR in terms of revenue the global market size will reach xx Million USD by 2026 from xx Million USD in"
+    publishedDateTime: 2021-01-18T15:00:00Z
+    webUrl: "https://www.openpr.com/news/2226696/artificial-intelligence-ai-consulting-market-future"
+    ampWebUrl: "https://www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 50
+    images:
+      - url: "https://cdn.openpr.com/U/1/U118912294_g.jpg"
+        width: 560
+        height: 315
         isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
     excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."

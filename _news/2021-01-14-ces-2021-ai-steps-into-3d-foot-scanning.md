@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How Artificial Intelligence Will Power Amazon into 2021"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon"
+    publishedDateTime: 2021-01-18T17:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
 secured: "KyxlzijFOfWR87BX2zRmA9BjtZJ3LMcS0+GGbMJPOVQFw50Avj9phat7ZSOjdcTQYULcphjjNHyV06uqdYwHVLsgsh9BjhCQX0UVDU1w3jWvrQod8v0wzvt3kx6OZXg0eUwNnYGRAUPM9JQUNUKPfN5h6wdnQNmbW4L3L0VA2bXhYFWaCVwoKlH4Q4ViUzOJqSC9ldevLfqbSkOiMoATcdiioIKDKvgsw38anpP0dsWYXZdRpcvMJhCT9HZUebzgT2EAkHIQ3dmQsrcg7xEK6EAxMlIxE/MJLjc9Qi9HWAtHXavaKz17LdaIQ3lhnuWuaN8VaxfciIMMgyNdts5i2u4jRmmQ0AvO4F+0CR+RkUM=;JDeQcXrEyu7oat45vN86rg=="
 ---

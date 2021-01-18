@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-18T16:25:00Z
 originalUrl: "https://medcitynews.com/2021/01/2021s-crystal-ball-6-ai-predictions-that-will-shape-a-new-commercial-model/"
 webUrl: "https://medcitynews.com/2021/01/2021s-crystal-ball-6-ai-predictions-that-will-shape-a-new-commercial-model/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1094395912.jpg"
@@ -23,6 +24,6 @@ images:
     height: 483
     isCached: true
 
-secured: "gXx17FJ7UG4D95X+iJgHnSCVx/gB9vpe2sItx/50dn7t2qlJVjnu4k1jwcQpbT0vcM+lVBKz2cvzbfmT0G8wRPkao4nXoRrgzzcwsG4ItMgPooEVBnR/GGLrwHlwDpzEzTOqQ0e9gvoZCSNZmN7h13pMxzgxA/OC+26F3MNoTUVTNHmDnFUerYYFzp9YIFrex2fIY2HQ4FagoRpi1zEIs1PN1DaVtAAxK9636FXcW4Mu0woCVdrEmh4h+8VLnqsjCtqE8qHG2qPLkZj8qK3d2vG7p1TDvJr1iIQVQRND9DVTDIf3ItNA7TPmYpUFvgDpNMBwDBbcaeq/XZ3T1PWUkqJq75JWpDrmm3bihFwBxUU=;4N9uqVaJWwbmXfjJwzSbfQ=="
+secured: "86++0O31OemlZoCUzb3UWiHppy6n/ocj85vMEQA6MYwO0iV7NG/dAwzwpnNUn56L1CuP9o8w7r7uQ3J3Pv4Wb41fEl7KvG8noY7Hqm96DYbKS3p/8wAvpZgkk7++/DS6rZv58bMrgZ7qSBFKL7pucTpc68pDsTKpJC0eRjvQwCdZEw/tFUZJLO035mU/pXGYeKqhmG0GVajpcsJj5Gx4pm50BjunOA1R7AaGdW8UFGMxwO++jcSGH3o6Rzvt0UGbXKAbQGJ4WGmi1U7yRK2UybEmeLiXlRVjJpmTy69H637xgSvD68GC0N79nFrdyTZOLquNvjj9yWAQ23Qk6cZOlxlBklsoSH7C0i/Bqv0fuZ1xxxqZGERpFXfNaHZklRxMr4tX4pMS96eczx6uav0iw66hy0TkdrRFlzLbRlyB53YoY1WWNtwCN4bdYpTy2qGXCnT704YW/Oan9lQJ7bYe5+xr0KmXSqrPkPxfehwYa76R5SxIAgvJ6dG4bUpw3MmIYIJ0+SbFC5XjE5Zkw6ysiw==;O6oV6+Q70BuTRNEiq2+vdw=="
 ---
 

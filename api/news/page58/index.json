@@ -2,6 +2,48 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-12-01-are-ai-professionals-actually-unwilling-to-work-for-the-pentagon.md",
+      "title": "Are AI Professionals Actually Unwilling to Work for the Pentagon?",
+      "excerpt": "A tense, adversarial relationship makes headlines — but how many AI professionals are actually unwilling to work with the U.S. military? Recent research by the Center for Security and Emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseone.com/ideas/2020/11/are-ai-professionals-actually-unwilling-work-pentagon/170359/",
+      "originalUrl": "https://www.defenseone.com/ideas/2020/11/are-ai-professionals-actually-unwilling-work-pentagon/170359/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.defenseone.com/media/img/upload/2020/11/30/max1200-2/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense One",
+        "domain": "defenseone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-ai-reveals-vast-racial-inequities-in-nyc-homeownership.md",
       "title": "AI reveals vast racial inequities in NYC homeownership",
       "excerpt": "SAS and the Center for NYC Neighborhoods analyzed housing data to uncover insights that could help design programs that increase Black homeownership.",
@@ -1108,58 +1150,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-ten-workforce-skills-for-finance-employees-to-complement-ai.md",
-      "title": "Ten Workforce Skills For Finance Employees To Complement AI",
-      "excerpt": "After delivering a number of talks on embracing servant leadership as a CFO, audience members commented positively on how future workforce skills, such as servant leadership, would complement artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b24deb13c5b56bae01eff%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/amp/",
-      "publishedDateTime": "2020-11-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

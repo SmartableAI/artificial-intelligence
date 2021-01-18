@@ -46,6 +46,17 @@ related:
         width: 620
         height: 347
         isCached: true
+  - title: "How Artificial Intelligence Will Power Amazon into 2021"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon"
+    publishedDateTime: 2021-01-18T17:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "CES 2021: AI steps into 3D foot scanning"
     excerpt: "Foot scanning technology and orthotics leader Aetrex Worldwide this week showcased the next generation of the company’s 3D foot scanner, Albert 2, at CES 2021. Albert 2 combines computer vision, machine learning,"
     publishedDateTime: 2021-01-14T08:08:00Z

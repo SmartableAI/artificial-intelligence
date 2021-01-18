@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-
 cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence Will Change Tank Warfare"
-    excerpt: "AI-related technical nuances are by no means restricted to identifying enemy vehicles, but can also be applied across a wide or even seemingly limitless sphere of combat factors."
-    publishedDateTime: 2021-01-14T01:36:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/how-artificial-intelligence-will-change-tank-warfare-176376"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2017-02-14T000000Z_1822755669_RC1DF190B4D0_RTRMADP_3_ROMANIA-ARMY-U-S_0.JPG"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "How AI Will Shape the Future of Customer Communications"
     excerpt: "In this contributed article, Eric Schurke, VP of Operations at Ninja Number, discusses how AI solutions are changing the way businesses communicate in 2021 and beyond. To succeed you should focus on three different aspects: incorporating customer feedback,"
     publishedDateTime: 2021-01-14T15:23:00Z
