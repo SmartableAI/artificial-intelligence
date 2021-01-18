@@ -1,29 +1,23 @@
 ---
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-publishedDateTime: 2021-01-13T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
-webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
+excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
+publishedDateTime: 2021-01-13T13:28:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker"
 type: article
-quality: 63
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
+  - AI
+  - Machine Learning
 
 related:
   - title: "Using machine learning to predict vessel time of arrival with Amazon SageMaker"
@@ -92,6 +86,6 @@ related:
       domain: webindia123.com
     quality: 43
 
-secured: "64jkkd3nbXZSZyIMia71veKXOj99giNwMm0HetoB0MBk8KEJ+j7GSxjExOWJhIP18Lqb3Bdbc7O1k70LxDibbpR3VIFEqf7mCPnmQgvnac59DdmvIpBK42mck2id94bJTLZmg+0KLrUsuMgH2vpsh6gtHWw8zYIsvR4nbTrUZ44NcD+h0pb1DyLGpL4aUgOx4oNSAh6yi7g10dFZTVUcSGhXSCUckzFY5bn0z/by/VrQwReOfqMHa4+DUixzhNlyEPTZ7p6391v2PClq/jl0V8FrhG+e++q9Zwp8r3CNo7JoKREPDs1dmmODlKpMFyhO5nbAWyiMJab8PB2hGdfYP6wDH4/KT6gjtGeXwIAKOgg=;0qNUlkXK869tYIiudUTv2g=="
+secured: "vYH7ro8CwmE354iDvK/+aBmD+khkXSKHfDBYWCB9zpG06UXALaueidVzXfNJlX8a5lvrRXg89a4f5wsOF/8XxrEwheRJfelPdFWKOgobF6VEY4I/FUCfYPBfWMQEqQ7SmzWI/wusv9NzIa6ZhHjPG+AWU+lhVxJe/E+UzCZJ0ILoib1FGQhZUohqWwsYRL4Gu/MOwJ1JAQ0/vXho7Efo4uMTHUWcln9bfhOng/6mqwWgM8IFfScv/KX7TMyDR1BwEiN/5eijerujwZRKk6YZxqQeV9nH5nDGItdOGSi1/tWzrD+EoRaijFQR4N1TpcGRtMuHYZC27zbdUBqatRnZDKViazmWoDqrQ6FbZtR1FV4=;3Oxrsh5Wsz6IXyINtH0KrQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-18T01:06:00Z
 originalUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/"
 webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg"
@@ -28,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "W9MHaqkl+BIRPbOKkT7jST/sVLXL2+KHTA9oxXfaIJe60kzl3oI0IRcwZjA8ieOaYLBVnwyRunYnrQWi1orNtZCDYx9Kx2NZUekY1nMnxfR+UmVQcl5cucPip81b2748kHQSnGkRS5NvDbnKEpiZ/MWSLTqlIEe0m9GJABPlDrF5uIQoDapC37g7zEWZ7qLzO+EY99lrYc9mEvyymt3EHQTTarqJZtP4i96BSqdB1wgUp3GTfSBkm80lMQgAfDkD0uJvd5jW5RyZCjruOzBB7wk6IzeWAR7lEU5mTnSy1aHNv2BV29Gkd/efyMfOTUdJDgltdknykhcniCeaS8ve6iJv0k4f2pvm5nKI0WcSsQ4=;hSnAhIHZCjoUiUaz/cMpTg=="
+secured: "b5ar9u0WC6fRvJNF8CAco3ezVjtXlPkEGLNj3nijFq4WEW/Zve5O7ipFplXFA+smS4M4yl0mS0ahnZn13TQmeS6BK2gr0SUkCHWc2BZo1b+wWroInzt1092SHy4KJHsm6IfTpTjOMq47uV4YTJfFy8W+10v/O94l06G6u6bihHEXjDeBFswz+Y/z10gNDF+MWUazpZx+Yl1k+aeluxAShyDD1JlPH+DhNc9SvW7vuJ7nSyoLsTaKdf1pCdRlmt5d/Gb+dSeL6Dikl6EhM78Ps+CcwcKGafaxf5+KXCKsdPabg2Uzux3yRlvu2UnJhylxcmmn4uxkmfIz2QfwPo3terizG2rjw4gOwMzokan5Wlk7LPYFkb1UO+Kz9rEWMidiU4IXs+LiX/0pYRA381sUjhnhe9XNcdolLp1wXGuncO5KKd+iRxWRPswRNs2e4r/RCsYW8obE2N5lKK8YSrJ88rfqnwZCqUeov41xNeX0jBrPOwgGjIIqK5Dmnd167SFYNmA0QQri+b/ZXnnjEODCAA==;8glJJxKP6fvoF2aqGEoT0A=="
 ---
 

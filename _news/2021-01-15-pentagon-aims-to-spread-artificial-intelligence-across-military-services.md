@@ -49,20 +49,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "How the military can get more out of artificial intelligence"
-    excerpt: "The authors argue the military must remain educated and become the masters of AI instead of training to be its servants."
-    publishedDateTime: 2021-01-13T11:03:00Z
-    webUrl: "https://www.airforcetimes.com/opinion/2021/01/13/how-the-military-can-get-more-out-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 37
-    images:
-      - url: "https://www.armytimes.com/resizer/ZNgdMdpJvDsmwaRkyRn14Gpt9vE=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/GCAL2AIX2BEJJK3TMYLCARSZIM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wkWMFMU23nNErXr9weSCGtPl61k8bId9SAtmmgrH6qYuf13+Iqqj5KN92GOgQe2Lq3JZJLwHK8Tt4wXlZYV2TvDatad82PbiO14feAE4tTRCsvm9qvUdplz3AGfRNucQJZ+WBqX6SP3VoL8ja6cv03B9M9iIGNPIuLmUpEA5CY/Xb1M3hjd0SQ9o6cmvgLCVoMakLDfxphMsm2+aCmEaDOPFxmRNVWXyLHlNTCSytYfvCM2t3sgvGloaPOSXxNqj/9Tm9jM+d3CGO5H/ZpFnSEJHgiKCCmYIvt3JRFQ9ryn4x3c9KX05He8K16xVjc8Ly02uKqZFFpC4Vr/GOU0fLITwHlrHddA1Utk4k6aCX9FQ1MFmAx+4VoeUai54of/CDnacMICDzVJsL4xSHyYfY1yPJlMvPoh/4kWVXGmvsRFh3IaY+48E4fYsvMVRBIK9pigG6R/GSgwN9s/SKN1tkSBSyNOe1hZL9ig2c4zTNgrH0qOcQK0vehDtnxiKbOQ+FogMveojIt5h3GQ+RGvP4Q==;WaLOeHfnoxlNO1savqrX9g=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Pandemic’s robot ‘heroes’ shines at tech show"
 excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
-publishedDateTime: 2021-01-17T17:10:00Z
-originalUrl: "https://www.phnompenhpost.com/lifestyle/pandemics-robot-heroes-shines-tech-show"
-webUrl: "https://www.phnompenhpost.com/lifestyle/pandemics-robot-heroes-shines-tech-show"
+publishedDateTime: 2021-01-18T03:19:00Z
+originalUrl: "https://phnompenhpost.com/lifestyle-creativity-innovation/pandemics-robot-heroes-shines-tech-show"
+webUrl: "https://phnompenhpost.com/lifestyle-creativity-innovation/pandemics-robot-heroes-shines-tech-show"
 type: article
 quality: 39
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 440
         isCached: true
 
-secured: "/CTyj6iN0gJ7forbhlnC7eT03udx60gK6YO4IpC/dWulttcPf+s3Vfr3ZhjbSyh6qfmF+MNfMCEBtDu5FPkw1KZSxZ12B23a759g8fsj354ry9SMcPSrm4cxvLa3hBljbG/dNPL8EvQWvZwLfeqUO4Gbm9/+LeRn58z6gK5ZhLuk0j7Lkoj1395rNBMQDz/MWNUJzhqAj9dJYzL22UHkcQJmwrSb/s0cPEuioXoYRaN0OeqyQy782NWydZ6ucRDEhD5RLhpxJTeuOUi7MHqowY9+0ViiH7bfGlvP41xVd3qwORV6r1lYOx7UbuIGKRWdotbBk6tNFpuGTmNHWlhjUG5sVRtgGE3JFu1m7OSvxLc=;wYITDEzhLsI5vdMkCq0mtA=="
+secured: "oK9/uwoeRAi8NVKEPCHyDiXnzNOeBUKuDUwCzFvSCeSCmj7hebBc2Xk4wYEPGjYkSkT1OXp4Sq91T7WU2KjyjwhwTksUPFcckgZcmJm5rL3cVp9dpuqwOBckIuj1SryEPhRUFj2ob0F7n84BlozYDBh/O2ZtmAtdJzpCfeQ95JNvWLMkYqTubkDosmHQScPGvi2QgMyp1xXdTr/O9m7wnEgLQ3I0Gf3jrf2WPkco+zlxW0ao0KXFtnWG4pmMji1/AMVcTXIFRNMjGx0Y+yeni5Oq5Ol6Y0JtV11NRqzI4+V924jdfMpwt6qyhkKh4aUsPckvFkCoY+kQRj3ZutNB1iYGn/2xm9PlMaUEADwXGns=;sv2yyJGk4VGI8Y7ZF8TqFg=="
 ---
 

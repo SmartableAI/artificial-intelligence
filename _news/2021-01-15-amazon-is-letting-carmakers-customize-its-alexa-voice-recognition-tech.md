@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 697
         isCached: true
+  - title: "Build your own Alexa – Amazon makes voice assistant available to businesses"
+    excerpt: "Businesses will be able to use Alexa tech to build their own customized voice assistants Amazon is eyeing the lucrative connected vehicle market,"
+    publishedDateTime: 2021-01-18T04:52:00Z
+    webUrl: "https://techwireasia.com/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 57
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/shutterstock_518400868-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "1An6222ZHSvLgIpA0uIa/5CCz0RKu0HiO8XKtBXM2shflz8uyAYrXJVh1gpq8TMeuygTCgRV0FPYw8gTHpxyMpPk8kbZrbcVebLAyM3hl3P+w+/UlKGdsOeeyQlVNjCadQkpQcRfsJZGP8bXwnKBTb0zG9iUEtAcrgWzRHHGmlc72svTY8a2lmG9RkYfprO47cL1vn2XefpdAFoxARILYTWHxz8n/3peUj/nIoWsKbP/YV/1R7H3V+eMJnAg+kpC16+uOZa1Nhlwkggkhu5EGUynHOWrzXzf5WYMm+SH3/VITlWw/jEXD38hfZ9aVjyk+EVk5OonHqdxDHIJEZtrWEHGDDVwh3ydhBi0rGGoqttuw/cfSsdH65zXEHIkEAI+VyPGOWVxFjdHXjgNUROl7j0rDG7dDFdy/Xv3mAjwlEh8xm14hoL3RMkYAsrgibOdrsJgpbp7o5v+J7ZjsfQ5KOMAFVVDgB9mIk9NBm4xcgZrF19v1E7WHTeS8g+uyWT7/8mhkye3v90BKb1BhYM9FA==;TteQDKLfHh4c05QyADK61A=="
 ---

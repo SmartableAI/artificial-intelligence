@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Amazon launches Alexa Custom Assistant to let brands build their own voice assistants"
-excerpt: "With Alexa Custom Assistant, Amazon looks to woo brands with tools that enable them to create their own bespoke intelligent assistants."
-publishedDateTime: 2021-01-15T13:04:00Z
-originalUrl: "https://venturebeat.com/2021/01/15/amazon-launches-alexa-custom-assistant-to-let-brands-build-their-own-voice-assistants/"
-webUrl: "https://venturebeat.com/2021/01/15/amazon-launches-alexa-custom-assistant-to-let-brands-build-their-own-voice-assistants/"
-ampWebUrl: "https://venturebeat.com/2021/01/15/amazon-launches-alexa-custom-assistant-to-let-brands-build-their-own-voice-assistants/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/amazon-launches-alexa-custom-assistant-to-let-brands-build-their-own-voice-assistants/amp/"
+title: "Build your own Alexa – Amazon makes voice assistant available to businesses"
+excerpt: "Businesses will be able to use Alexa tech to build their own customized voice assistants Amazon is eyeing the lucrative connected vehicle market,"
+publishedDateTime: 2021-01-18T04:52:00Z
+originalUrl: "https://techwireasia.com/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+webUrl: "https://techwireasia.com/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+ampWebUrl: "https://techwireasia.com/amp/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
 type: article
-quality: 67
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techwireasia.com
+  domain: techwireasia.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/01/amazon-alexa-echo-studio-echo-flex-fire-tv-cube-2.jpg?w=1200&strip=all"
-    width: 1200
-    height: 697
+  - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/shutterstock_518400868-450x300.jpg"
+    width: 450
+    height: 300
     isCached: true
 
 related:
@@ -63,21 +59,21 @@ related:
         width: 360
         height: 270
         isCached: true
-  - title: "Build your own Alexa – Amazon makes voice assistant available to businesses"
-    excerpt: "Businesses will be able to use Alexa tech to build their own customized voice assistants Amazon is eyeing the lucrative connected vehicle market,"
-    publishedDateTime: 2021-01-18T04:52:00Z
-    webUrl: "https://techwireasia.com/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+  - title: "Amazon launches Alexa Custom Assistant to let brands build their own voice assistants"
+    excerpt: "With Alexa Custom Assistant, Amazon looks to woo brands with tools that enable them to create their own bespoke intelligent assistants."
+    publishedDateTime: 2021-01-15T13:04:00Z
+    webUrl: "https://venturebeat.com/2021/01/15/amazon-launches-alexa-custom-assistant-to-let-brands-build-their-own-voice-assistants/"
+    ampWebUrl: "https://venturebeat.com/2021/01/15/amazon-launches-alexa-custom-assistant-to-let-brands-build-their-own-voice-assistants/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/amazon-launches-alexa-custom-assistant-to-let-brands-build-their-own-voice-assistants/amp/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/shutterstock_518400868-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/amazon-alexa-echo-studio-echo-flex-fire-tv-cube-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 697
         isCached: true
   - title: "Amazon is letting carmakers customize its Alexa voice recognition tech"
     excerpt: "Amazon is launching a feature named Alexa Custom Assistant that lets carmakers personalize its voice recognition technology."
@@ -96,6 +92,6 @@ related:
         height: 450
         isCached: true
 
-secured: "rEFucUyLrSVTAr02th/yoetvv5lP4Jw/fPxN2vyXeUnvC9u5VIgorOq6gHkk/MXFU6Ld1i1F1Nty9LYCRUKwsj7x+jx8u9s5RIHz/oq6hDJ965BF+OEkOrpsiqERCDHww/Q+aQlNg2uu6oRId4pnFWQLwa2QQEAPbrLsyiMw89HH3r+WEaohOjxRzkJguEv5TeZT02OJooRfbttzWySKBz8NvFM6cP55eVfE5QNQqTidVVFtLqY1ebgaTpqk7nynEggplQRXyifAF/lbLuHTkFyTIj4YyXhrUgCvdqywQZeY37Gul4cgyf70fKq3AT//3GeF+yLK1js+Jy5YQf888yWCuR7WCTauRmv00YcdEUrHuVVecqHLF3oF6ri1ANJaXmpmTvaXeMQvYWh8kscRZ7+ZWyfPLoAqdhzTwY5XEHc5Xwb3uer//XHF1oRb7hm2T9BUg/NgXarYrZcZ+87t90g6SORe938RAEbjqZP1+WC32FGarIEbQZX6BC4EoYSVhoiMNyy/yHQwbUnDNWc+aQ==;PMgxz4WbaDDH2YFyUY9Hxw=="
+secured: "Zhi1CRtGhjSqWPeKmrd90RHNTzZvupSZe1MH/4CLshaEezpdfL1M6FKyi/jW0jHpmcPKf5riFlq1S6lliOLlyoUzz2eq0fOhQd267cj9hT4i83h13RWNE7U/2VPpd5BHsM5+9xdd/Ih/LmH/VQRfy6NcZWE5TNpRCxSYzajIG4RfOS3PBO0etUyNF6VB6bukX4KUon6fkK1DHecbDEoq4DvhiAWUtRUsnQTMArkQrb2SAs9ENui7qVbGlChLtqmb33xBRxet1ZGt0l6eoPQWuZkNNP0yy/t9udTnA8krC8yDPZoo4b8dt1D5zDoGUDm6AmCw2l3PtSyBUrBRhCyiFzJZOny1BeNl5P11s+EXFAI=;6Y0Td4qpDcK4/oPgvtzfGA=="
 ---
 

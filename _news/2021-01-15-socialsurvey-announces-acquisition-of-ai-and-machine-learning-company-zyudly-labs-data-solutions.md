@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SocialSurvey Announces Acquisition of AI and Machine Learning Company Zyudly Labs Data Solutions"
-    excerpt: "SocialSurvey announces that they have completed the acquisition of Zyudly Labs Data Solutions. Zyudly Labs, based in Chennai, India, has emerged as a leader in Artificial Intelligence and Machine Learning."
-    publishedDateTime: 2021-01-13T12:56:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8125489/socialsurvey-announces-acquisition-of-ai-and-machine-learning-company-zyudly-labs-data-solutions"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 21
   - title: "Fujitsu Leverages Deep Learning to Achieve World's Most Accurate Recognition of Complex Actions and Behaviors Based on Skeleton Data"
     excerpt: "Fujitsu Laboratories Ltd. has announced the development of a technology that utilizes deep learning to recognize the positions and connections of adjacent joints in complex movements or behavior in which multiple joints move in tandem."
     publishedDateTime: 2021-01-14T08:58:00Z

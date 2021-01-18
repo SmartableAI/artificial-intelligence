@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/15/22231336/amazon-alex
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/15/22231336/amazon-alexa-auto-ai-custom-digital-assistants-car-makers"
 type: article
 quality: 79
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/amazon-alexa-echo-studio-echo-flex-fire-tv-cube-2.jpg?w=1200&strip=all"
         width: 1200
         height: 697
+        isCached: true
+  - title: "Build your own Alexa – Amazon makes voice assistant available to businesses"
+    excerpt: "Businesses will be able to use Alexa tech to build their own customized voice assistants Amazon is eyeing the lucrative connected vehicle market,"
+    publishedDateTime: 2021-01-18T04:52:00Z
+    webUrl: "https://techwireasia.com/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/build-your-own-alexa-amazon-makes-voice-assistant-available-to-businesses/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 57
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/shutterstock_518400868-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Amazon is letting carmakers customize its Alexa voice recognition tech"
     excerpt: "Amazon is launching a feature named Alexa Custom Assistant that lets carmakers personalize its voice recognition technology."

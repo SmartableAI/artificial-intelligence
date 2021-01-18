@@ -43,8 +43,8 @@ related:
         isCached: true
   - title: "Pandemic’s robot ‘heroes’ shines at tech show"
     excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
-    publishedDateTime: 2021-01-17T17:10:00Z
-    webUrl: "https://www.phnompenhpost.com/lifestyle/pandemics-robot-heroes-shines-tech-show"
+    publishedDateTime: 2021-01-18T03:19:00Z
+    webUrl: "https://phnompenhpost.com/lifestyle-creativity-innovation/pandemics-robot-heroes-shines-tech-show"
     type: article
     provider:
       name: The Phnom Penh Post

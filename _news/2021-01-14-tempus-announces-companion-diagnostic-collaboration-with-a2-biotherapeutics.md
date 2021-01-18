@@ -26,15 +26,6 @@ images:
 
 related:
   - title: "HiberCell and Biodesix Initiate Broad Collaboration for Companion Diagnostic Discovery, Development and Commercialization"
-    excerpt: "Initial program to focus on development of a companion diagnostic for HiberCell’s novel immunotherapy, Imprime PGG, to aid in patient selection across multiple oncology programs Biodesix, Inc. (Nasdaq: BDSX) today announced an agreement with HiberCell,"
-    publishedDateTime: 2021-01-13T12:25:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210113005304/hibercell-and-biodesix-initiate-broad-collaboration-for-companion-diagnostic-discovery-development-and-commercialization"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-  - title: "HiberCell and Biodesix Initiate Broad Collaboration for Companion Diagnostic Discovery, Development and Commercialization"
     excerpt: "Biodesix leverages multiple technologies with its proprietary artificial intelligence platform to discover, develop and commercialize diagnostic solutions for unmet clinical needs"
     publishedDateTime: 2021-01-14T06:43:00Z
     webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-biotechnology-drug-trials-e1214f6c93aa4ac28fabaf54b6dd37be"
