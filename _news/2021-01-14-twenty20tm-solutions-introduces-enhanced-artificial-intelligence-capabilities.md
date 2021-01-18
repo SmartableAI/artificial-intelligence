@@ -40,14 +40,19 @@ related:
         height: 627
         isCached: true
   - title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
-    excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control"
+    excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces"
     publishedDateTime: 2021-01-13T20:19:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19151399/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities"
+    webUrl: "https://www.prnewswire.com/news-releases/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-301207883.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "UuZhZycU4/21fAEUPaFxnkjz5QBNj07D7vQf5QpdLyFO8lUT7aooitOk1onX+YKnab4qUXrRKEZqX+LsY621UNtL8pPIEpmGp+FqHffPbYWxHk5Q1ZfL2uoq2UugCJMZCyZD2jujPw0VsgJLpcBhuVIKEquO2K7vKpDDVC1ag0gzxrlUR53NMFlh0ZbFTa0FNsjxfQMR1oSwW5N7Ixa/lmumbMiznQa7aVXcqSy4waqvSnh9SkdCDVWrUQwU4tDQA7vR59dxWkRATwOMsxVy68gu85MI5QDBHa74G+vqFhDChuFSKsw03ptdC9DcofJT6pKbK9RJYeqmv5bAGIhW/654vMfFLbI9G42i06GI7O4=;/suQLjO/M5e6eSAazVIKSg=="
 ---

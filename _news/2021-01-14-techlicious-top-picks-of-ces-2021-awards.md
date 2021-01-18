@@ -25,6 +25,28 @@ images:
     isCached: true
 
 related:
+  - title: "The best new robot vacuums of CES 2021"
+    excerpt: "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year."
+    publishedDateTime: 2021-01-14T13:39:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/"
+    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
+  - title: "The best robots at CES 2021"
+    excerpt: "This year at CES 2021, we’re seeing quite a few robots on display, from robots that'll help around the house to educational robots to bots that sanitize."
+    publishedDateTime: 2021-01-13T21:23:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "Digital Trends Top Tech of CES 2021 Awards"
     excerpt: "The first all-digital CES brought challenges, but also a world-changing slate of amazing gadgets and devices. We picked the best of the best."
     publishedDateTime: 2021-01-13T17:15:00Z
@@ -36,6 +58,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
+  - title: "10 weird and wonderful highlights from CES 2021"
+    excerpt: "CES was an online-only affair this year, but that didn’t stop a load of big-name tech companies coming together to show off what they’ve been working on. In typical CES fashion, we saw a mixture of predictable upgrades to old releases and exciting reveals for futuristic products that must be seen to be believed."
+    publishedDateTime: 2021-01-15T12:43:00Z
+    webUrl: "https://www.which.co.uk/news/2021/01/10-weird-and-wonderful-highlights-from-ces-2021/"
+    type: article
+    provider:
+      name: Which
+      domain: which.co.uk
+    quality: 24
+    images:
+      - url: "https://dwkujuq9vpuly.cloudfront.net/news/wp-content/uploads/2021/01/B.jpg"
+        width: 1920
+        height: 1152
+        isCached: true
 
 secured: "V/PZHLsXPkfPvG3RKR2os3RDzBnqVrfInMlqVBWOgrg6M96eAZBhJg8LSK3soi18xBRMSwBCDAb5B5jRPLelllotldrbtia2RgEhcV9SMnFQc8EkcmdpqUuPhS6RESoVE0UhvLJ+rS0vrBgL0wGA3vsOo8p7LomRxMk2RWBCVraRqzMw5ANvd81EanFiHAR4jiTDib8Nm8+VN4TkVF3J0HAxOXiribP+6mVg2WDBaeu6NVPdMoJF1NmbLOvtPNg1tlOjPJ8D0aDrYqd4PZGOwxjEpRXM5z8BQ+G2R/yUhEOcYkf30Ow7qiydfuG83Oeu+D2jPyixtkYIy4ry/35pzAGtwP5QTxhGoRZsll9bHaTMVbyTJcI5ezEYeJA0VJYJA2xyASUQ2liWMJTl6wR+2bZNaM98TJ4l7+rKhoj4GAyAq/ThRwHVlI8IcKQDVPI1trfuTIN54h6fC2oa10ZeoS2AVAaddRZMlG/0d3aD2oznfrB3v37O65+NUqhSug/wn2jv/pls0Z1HEGRDTdhUvQ==;DQyuqVb30WR9zCIDTPlmGA=="
 ---

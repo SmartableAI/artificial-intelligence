@@ -9,7 +9,7 @@ ampWebUrl: "https://www.clickz.com/why-marketers-need-both-rule-based-and-machin
 cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/why-marketers-need-both-rule-based-and-machine-learning-based-personalization/264717/amp/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 768
     height: 272
     isCached: true
+
+related:
+  - title: "This neobank tech startup’s AI platform offers personalised service to users"
+    excerpt: "Neobank tech startup UNObank promises to change the rules of digital banking through its AI platform to make banking more personalised, catering to each individual needs."
+    publishedDateTime: 2021-01-14T00:26:00Z
+    webUrl: "https://yourstory.com/2021/01/neobank-tech-startup-ai-platform-personalised-service"
+    ampWebUrl: "https://yourstory.com/2021/01/neobank-tech-startup-ai-platform-personalised-service/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/neobank-tech-startup-ai-platform-personalised-service/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/unobank-lead-image-1610449474967.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "wXyQ0UDyQTuM/le3mM3K+A855lt15draHZnjqjFikLhWueRtKb2sXCEovP3hHq4qxCAD1iLUPTCsb3yAhHVF9FEecVGdaxGZmHrxb9a8ChU536KkYeryLyDxb598orEWQEFmwubunbjAPb2X4o6EE8EMJ3yJwqpd6vjEpfq1YoynDb3cFKV5kEZuPDGcHbcZLOZLGocElCXi+zNfqsQpt3yMKGnFucYbL/hbannp5kByRcLd7nYcP9DiEtD4aON3NlAV4RVqPdapBITZdqbTxfDwW4SQIgahmZB08X5/9T68eTEzsRMd5NEATJJfvytN7ZUPBlsyX0xS0iSACv2wOE1/9tyWxqXSG5j8pj66BHQ=;INTLRf3Kxbc5ZKO1PqLu9g=="
 ---

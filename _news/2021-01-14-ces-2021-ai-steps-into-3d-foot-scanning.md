@@ -25,75 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Best robots at CES 2021: Humanoid hosts, AI pets, UV-C disinfecting bots, and more"
-    excerpt: "CES features the latest in robotics innovation, and this year is no exception. From disinfecting robots to AI-enabled companions, here are some of the best robots at CES 2021."
-    publishedDateTime: 2021-01-13T15:27:00Z
-    webUrl: "https://www.techrepublic.com/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-robots-at-ces-2021-humanoid-hosts-ai-pets-uv-c-disinfecting-bots-and-more/"
+  - title: "Amazon AI Conclave 2021: Everything You Need To Know"
+    excerpt: "Roche, the second-largest pharmaceutical company in the world, uses Amazon SageMaker to accelerate the delivery of treatments and tailor medical experiences. And the list goes on… Data scientists, researchers,"
+    publishedDateTime: 2021-01-14T04:34:00Z
+    webUrl: "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know"
+    ampWebUrl: "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know?amp=1"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 98
+      name: Mashable
+      domain: mashable.com
+    quality: 91
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/f629a590-bded-4833-932c-c74d846af5c8/resize/1200x/fd3a1a8ff2935b04e09b30bf703cb399/adibot-a-ubtech-1.jpg"
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/shutterstock-1083512990-1_fw3k.620.jpg"
+        width: 620
+        height: 347
+        isCached: true
+  - title: "2020 Was Impossible To Predict. Can AI Save 2021?"
+    excerpt: "Is 2021 the year that businesses and governments start building an AI strategy so computers can look at data the way humans too frequently don’t?"
+    publishedDateTime: 2021-01-14T22:55:00Z
+    webUrl: "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fff4443003dc6aa290e8a51%2F0x0.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "The best new robot vacuums of CES 2021"
-    excerpt: "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year."
-    publishedDateTime: 2021-01-14T13:39:00Z
-    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
-  - title: "The best robots at CES 2021"
-    excerpt: "This year at CES 2021, we’re seeing quite a few robots on display, from robots that'll help around the house to educational robots to bots that sanitize."
-    publishedDateTime: 2021-01-13T21:23:00Z
-    webUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/best-robot-ces-2021/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
-  - title: "CES 2021: From COVID-killing lamps to wine-pouring robot butlers"
-    excerpt: "The world’s most anticipated technology show known as CES 2021 forges ahead with big names, bigger screens and wine-pouring robots. The only thing missing from Las Vegas was the huge crowds and media."
-    publishedDateTime: 2021-01-14T01:32:00Z
-    webUrl: "https://www.theceomagazine.com/lifestyle/technology/ces-2021/"
-    ampWebUrl: "https://amp.theceomagazine.com/lifestyle/technology/ces-2021/"
-    cdnAmpWebUrl: "https://amp-theceomagazine-com.cdn.ampproject.org/c/s/amp.theceomagazine.com/lifestyle/technology/ces-2021/"
-    type: article
-    provider:
-      name: The CEO Magazine
-      domain: theceomagazine.com
-    quality: 59
-    images:
-      - url: "https://static.theceomagazine.net/wp-content/uploads/2021/01/14092637/samsung-bot-handy.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Robots rising: Firms debut fuzzy pets, household helpers at CES"
-    excerpt: "Firms unveiled AI-enabled gadgets aimed at making staying home during the ... Sensors enable Cradlewise to start soothing your baby back to sleep at just the right time [Courtesy: Cradlewise] Cradlewise is the brainchild of company founder and CEO Radhika ..."
-    publishedDateTime: 2021-01-17T03:18:00Z
-    webUrl: "https://www.aljazeera.com/economy/2021/1/15/robots-rising-firms-debut-fuzzy-pets-household-helpers-at-ces"
-    ampWebUrl: "https://www.aljazeera.com/amp/economy/2021/1/15/robots-rising-firms-debut-fuzzy-pets-household-helpers-at-ces"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2021/1/15/robots-rising-firms-debut-fuzzy-pets-household-helpers-at-ces"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 59
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2021/01/MOFLIN-image_2.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "CES 2021: A closer look at artificial intelligence"
     excerpt: "Have a conversation with someone who speaks another language on a whole new level in real-time. It's just one of the ways artificial intelligence is being packed into new products at the 2021 Electronics Show in Las Vegas."
@@ -106,20 +68,6 @@ related:
       name: KDFW
       domain: fox4news.com
     quality: 41
-  - title: "LG unveils autonomous robot with disinfecting ultraviolet light"
-    excerpt: "LG has unveiled an autonomous robot with disinfecting ultraviolet light. The company says the newest addition to its CLOi range of robots are aimed at hotels, schools, offices, restaurants and"
-    publishedDateTime: 2021-01-13T15:20:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/13/lg-unveils-autonomous-robot-with-disinfecting-ultraviolet-light/39513/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/LG-UVC-Robot_03.jpg"
-        width: 800
-        height: 889
-        isCached: true
 
 secured: "KyxlzijFOfWR87BX2zRmA9BjtZJ3LMcS0+GGbMJPOVQFw50Avj9phat7ZSOjdcTQYULcphjjNHyV06uqdYwHVLsgsh9BjhCQX0UVDU1w3jWvrQod8v0wzvt3kx6OZXg0eUwNnYGRAUPM9JQUNUKPfN5h6wdnQNmbW4L3L0VA2bXhYFWaCVwoKlH4Q4ViUzOJqSC9ldevLfqbSkOiMoATcdiioIKDKvgsw38anpP0dsWYXZdRpcvMJhCT9HZUebzgT2EAkHIQ3dmQsrcg7xEK6EAxMlIxE/MJLjc9Qi9HWAtHXavaKz17LdaIQ3lhnuWuaN8VaxfciIMMgyNdts5i2u4jRmmQ0AvO4F+0CR+RkUM=;JDeQcXrEyu7oat45vN86rg=="
 ---

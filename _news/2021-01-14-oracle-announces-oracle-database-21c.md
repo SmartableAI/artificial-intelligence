@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle Database 21c spotlights in-memory processing and ML, adds new low-code APEX cloud service"
-    excerpt: "Because COVID drove customers to postpone upgrades last year, the latest annual update of Oracle database packs two years’ worth of new features. And it’s adding icing to the cake with a new low-code/no-code developer cloud service with a free tier to draw rookie developers."
-    publishedDateTime: 2021-01-13T16:09:00Z
-    webUrl: "https://www.zdnet.com/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 76
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/08/ce523dd4-fe30-4673-b761-3850204c001b/low-code.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Oracle's (ORCL) Oracle Database 21c Available on its Cloud"
     excerpt: "Oracle Corporation ORCL recently announced availability of the newest version of its converged database — Oracle Database 21c — on its cloud platform. Oracle Database 21c supports various database services like Oracle Exadata Database Cloud@Customer,"
     publishedDateTime: 2021-01-14T14:05:00Z
@@ -54,20 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Oracle Database 21c update lands on Oracle’s cloud"
-    excerpt: "Oracle Corp. today announced the availability of its updated flagship database offering, Oracle Database 21c, on its cloud infrastructure, featuring a raft of additions such as blockchain tables and artificial intelligence features."
-    publishedDateTime: 2021-01-13T16:29:00Z
-    webUrl: "https://siliconangle.com/2021/01/13/oracle-database-21c-update-lands-oracles-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Oracle.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Oracle Database 21c introduces 200+ innovations"
     excerpt: "Oracle announced that Oracle Database 21c, the latest version of the world's leading converged database, is available on Oracle Cloud."
     publishedDateTime: 2021-01-14T08:20:00Z
@@ -81,34 +51,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/01/14081625/oracle-database.jpg"
         width: 1280
         height: 851
-        isCached: true
-  - title: "Oracle Extends Database Leadership with Oracle Database 21c"
-    excerpt: "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML ..."
-    publishedDateTime: 2021-01-13T16:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/oracle-extends-database-leadership-with-oracle-database-21c-301207193.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
-  - title: "Oracle launches Apex Application Development service and Oracle Database 21c"
-    excerpt: "Oracle has released its low-code Apex Application Development service and announced the availability of Oracle Database 21c on Oracle Cloud. Apex Application Development is said to make it possible to develop and deploy data-driven enterprise applications quickly and easily."
-    publishedDateTime: 2021-01-13T17:01:00Z
-    webUrl: "https://itwire.com/business-software/oracle-launches-apex-application-development-service-and-oracle-database-21c.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 21
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/36ca0dfa2a364e147ecb5b1eef837233_M.jpg"
-        width: 375
-        height: 301
         isCached: true
 
 secured: "osbDC4YPusQLyCtpD0tsWcKyPZWpeR/9JC1yNPQszNJid/DPppWa/X3cs5LXTL6zxBgqqmBBYRccNH6Hy+q1rjD5VMPL6oJ5EZzoWQLmIXR/g+g7Ud/kaiC5rZALIHkJ4hinbRPvwJ3j1bATZgjOQt8FBzzFlE6abj+DiUeOGOGUCMd/GVdbEm3IjSpmDVR0F5GLARc5fVbf3ykV6NyOBC79ChPReRenRXSf9rz92DaiJdjUQuiY9Z7bosEfXRUEzXx7AOaJKnDcLTBhylM1WWnTAgdXRVCXPTOtWWa+1kWbYqYjsod+xMVKU+YNcWKLWdA8RHmy8tFENt4aSN2YzTeIc7JkwJy9o3slI9ShutFwqHt9DeAUO0H08ibfavVQ2BKsflZlnOxbdlR2lbh+v/ZCzsfcuK8tc2MMo9Z806NUJkj0jIMvhjPgX5HHSsxf7XDr28ZCsHoPdOtgpsn0UrsdhqRIeeKMKnE0CTcahfkjm6erh4aqdgWI/Td2YmlI0pwmDt8kvBsXNJjFtitpDA==;lpWSauH6bvem175dIUbpqw=="

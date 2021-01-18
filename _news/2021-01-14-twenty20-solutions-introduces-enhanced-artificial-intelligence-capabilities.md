@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Twenty20™ Solutions Introduces Enhanced Artificial Intelligence Capabilities"
-excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control"
+excerpt: "Twenty20™ Solutions, a global provider of automation and security technology, smart surveillance and access control solutions, announces"
 publishedDateTime: 2021-01-13T20:19:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19151399/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19151399/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities"
+originalUrl: "https://www.prnewswire.com/news-releases/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-301207883.html"
+webUrl: "https://www.prnewswire.com/news-releases/twenty20-solutions-introduces-enhanced-artificial-intelligence-capabilities-301207883.html"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Twenty20 Solutions’ enhanced AI technology drives visibility, security and automation"
@@ -48,6 +54,6 @@ related:
         height: 480
         isCached: true
 
-secured: "bvJrW/oZP2vosVY0FYroUawucBoQFuhIJ2nmKPPlsG9DJvodGCRJeyO5++QAUtKo54edgZugZ2mUuo6oaWwOI13tZXdeoMzn/agRB92hwc0qPdcwA19pq7RDThc92iVGyBWZHKqSlJby1tv92584WcpO0k2jkJLwHR8EkCY9lNZEXefi8ST1ICiYV6zIZK76MRVSBbWLX6dGVLSchY1/7W+D9ei3Hk+D0+8oJBZEFdSqVpztwfRKhLBo0R1nN8Vcs0k2PI6fetUPc4zI02FJlltpQj7MbwSTblo/26wWSYT8CeukUEEhfBN4pzH2SDqcnqPtNCfb9UNWFxxzZ3r6/Eg9OpLG3l6gyYWhtAxucY4=;jpTcJFadS3SHnTVaxVF7PA=="
+secured: "CiT4HpcVIPx2QXBENsmzM+DRQJtVxks58d02b1kiCNijcoIXtPH7VJUgJfYLYa/ZPk7zSIm7VApluFyuQH46ZOIUKip4AJ1uDE5seGUHA10sFSVxwEmhqASuznb7an+yVvPFmTPhR3iB+D4hd4qwmD+tcC5/9sFPUWLsmllLCuMyk1FJ5uI5rxpq7Kw9FF6Ii5sQzp3EB3mOfSsNTitepAiKBD1S1lbUgWHX42SnlBg3EOSQha6vL0srVYjly4vjGmdCSohE+QXXux3K5c3IRa86/uwFHyD8SfB/+Ijln9XSV4eVu+9g5ooPZlO8g1NVz/MfUfCF2QgImfZOOe9q2396qceuYc1kNhVKwvT95kU=;gam28PPJW8X3wQuvmS/PrA=="
 ---
 

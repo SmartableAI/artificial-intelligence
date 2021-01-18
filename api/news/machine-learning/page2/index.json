@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-09-voice-life-inc-showcases-wireless-power-for-the-21st-century-with-nvidia-deep-learning-accelerator-technology-at-ces-2021-showcase.md",
+      "title": "Voice Life Inc. Showcases Wireless Power For The 21st Century With NVIDIA Deep Learning Accelerator Technology At CES 2021 Showcase",
+      "excerpt": "Voice Life Inc. today announced its digital presence at the CES 2021 Showcase launching the Life-Line Power Connect platform based upon a terahertz-based scalable network designed for far field wireless charging.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks.md",
+      "title": "Is neuroscience the key to protecting AI from adversarial attacks?",
+      "excerpt": "Deep neural networks are a key component of computer vision applications, from video editors to medical software and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "originalUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "publishedDateTime": "2021-01-08T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-transparent-machine-learning-powers-business-intelligence.md",
+      "title": "Transparent Machine Learning Powers Business Intelligence",
+      "excerpt": "In the current data-driven decision-making world, digital colleagues are becoming more common. That’s why intelligent machines that are transparent about their predictions are a must.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff71955e676e64e9488c102%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/08/transparent-machine-learning-powers-business-intelligence/amp/",
+      "publishedDateTime": "2021-01-08T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-google-ai-concocts-breakie-and-cakie-hybrid-baked-goods.md",
       "title": "Google AI concocts ‘breakie’ and ‘cakie’ hybrid baked goods",
       "excerpt": "If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats,",
@@ -1154,19 +1303,19 @@
     {
       "path": "_news/2020-12-29-release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use.md",
       "title": "Release of Deep Learning Framework \"SmallTrain 0.2.0\" For Professional/Commercial Use",
-      "excerpt": "KYOTO, Japan, Dec. 28, 2020 /PRNewswire/ -- Geek Guild Co., Ltd. announced the Open-Source Software (OSS) project, \"SmallTrain,\" which generates user-friendly deep learning models for high ...",
+      "excerpt": "\"SmallTrain,\" which generates user-friendly deep learning models for high accuracy and high functionality as a standalone deep learning library and as a wrapper for TensorFlow and PyTorch.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use-301198669.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use-301198669.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/n18941010/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/n18941010/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg?p=facebook",
-          "width": 2699,
-          "height": 1414,
+          "url": "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg",
+          "width": 400,
+          "height": 294,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1174,13 +1323,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T14:20:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18941010",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18941010",
+      "publishedDateTime": "2020-12-28T09:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1225,145 +1374,6 @@
       "provider": {
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-deep-learning-market-share-size-2021-to-2023-executive-summary-market-overview-and-top-company-profiles.md",
-      "title": "Deep Learning Market Share, Size 2021 to 2023: Executive Summary, Market Overview and Top Company Profiles",
-      "excerpt": "The Deep Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101348253/Deep-Learning-Market-Share-Size-2021-to-2023-Executive-Summary-Market-Overview-and-Top-Company-Profiles",
-      "originalUrl": "https://menafn.com/1101348253/Deep-Learning-Market-Share-Size-2021-to-2023-Executive-Summary-Market-Overview-and-Top-Company-Profiles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-neurals-ai-predictions-for-2021.md",
-      "title": "Neural’s AI predictions for 2021",
-      "excerpt": "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
-      "publishedDateTime": "2020-12-28T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops.md",
-      "title": "Rafael unveils AI, deep learning tech for IDF infantry troops",
-      "excerpt": "Under the new system, all parties in the battle will see the same image – provided by the goggles of an infantry soldier or a sensor on a fighter jet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389",
-      "originalUrl": "https://www.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jpost.com//HttpHandlers/ShowImage.ashx?id=387779&w=640&h=428",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/rafael-unveils-ai-deep-learning-tech-for-idf-infantry-troops-653389/amp",
-      "publishedDateTime": "2020-12-27T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ..."
-publishedDateTime: 2021-01-14T01:02:00Z
-originalUrl: "https://www.thaipr.net/en/it_en/3018538"
-webUrl: "https://www.thaipr.net/en/it_en/3018538"
+excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker,"
+publishedDateTime: 2021-01-14T06:58:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-amazoncom-inc-north-america-new-jersey-5c70fa87dfac11c621e1e31094d0b116"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-amazoncom-inc-north-america-new-jersey-5c70fa87dfac11c621e1e31094d0b116"
 type: article
 quality: 63
 heat: -1
 published: false
 
 provider:
-  name: thaipr.net
-  domain: thaipr.net
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2021/01/unnamed-2-2-e1610706551699-768x432.jpg"
-    width: 768
-    height: 432
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -78,6 +78,6 @@ related:
       domain: webindia123.com
     quality: 43
 
-secured: "5YMzx2rVeYaachEmQKb0lcbImSN8SqmVBcyq/Oujkht+eLjZ43G0iV9+HmTASfi++HqkinFxeVNCiLAw4NkSCYAJqub3SQ+rCcNxu459DAXag0GJJd4+5Nl5iJBDi0CJZ2nfLoZYGvfB22lYLsuqrEnELx5sFue9Va/XXU/RNrDUM8tD+cbJqzQ9EXzbvFmflacgiiPeWkbxnRsMZatRf4QmpHtn6ywoFJSe5SFbAhzxKiMt46U8lCXLytUb7R5HMlT/ZIiUDM2W1CVXG0qUMZ88lL7nepn6UWnVrELNePCkCRqEJouEmdgLzpCjBVS6+gPWUzuK61qVdJt/64pkagrL53U3zXj4/QMs8kejWjc=;e3k0fpFg2jgz105/cTwQuw=="
+secured: "kLO7f/YaxUNJYpZmZg8V6kucc8qSPSYN4gj7R0k9CeTRdOqUwggbS4iuTH2coRdfIK/Uc2XtM+CdmuZs8BMdCPwy8gdqgLdsfLObknKJAGh0hPAU5QBd8ccY0rDn6U1I0fc6irMs8bUPxc+AWclXRogqvvwzMNiZ0azIjIeT1WrH7z3KVopyy/sbKSb6Yg/+cM5l1KddfdjyyakdmhQZmsG5HKpUYhdd/K7JoqnDWnJFip3dHG/fIAA3iF30Ryl3m9IE7viqsRrkmmdCdQ+YI8a7Bx+n/HOizioTQHjfrJpYPlQ6HKt3vk1ffsuGDQhLi40KfY2qZTFM+7WLWrsrB5OwQEAVD2w0MMLZhX7Rjnc=;VnaMldZh4wNxk8C8X6VpKg=="
 ---
 

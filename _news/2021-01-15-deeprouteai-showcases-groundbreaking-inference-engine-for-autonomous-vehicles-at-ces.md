@@ -1,44 +1,24 @@
 ---
 category: news
 title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
-excerpt: "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,"
-publishedDateTime: 2021-01-15T01:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
+excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
+publishedDateTime: 2021-01-15T06:13:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
+webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
 type: article
-quality: 32
-heat: 32
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Google AI
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
 related:
-  - title: "South Korea's Hancom Group CES 2021 Showcases Game Changing Productivity and Collaboration"
-    excerpt: "At this year's All Digital CES 2021, Hancom Group is showcasing some of the companies' most innovative technology. These include"
-    publishedDateTime: 2021-01-14T17:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/south-koreas-hancom-group-ces-2021-showcases-game-changing-productivity-and-collaboration-solutions-artificial-intelligence-and-robots-smart-city-and-blockchain-security-301208235.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1420551/CES2021_DroneSat.jpg?p=facebook"
-        width: 1919
-        height: 1005
-        isCached: true
   - title: "StradVision and D3 Engineering Showcase a Market-leading Automotive Front Camera Solution at CES 2021"
     excerpt: "PRNewswire/ -- StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AV), today announced its collaboration with D3 Engineering on an Automotive Front Camera solution delivering market-leading performance and price efficiency."
     publishedDateTime: 2021-01-13T17:03:00Z
@@ -54,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "sgDOMKc8/RHxn9K0ePbs0zobYrG3TquIdbluC5H6E5ykQTelizDIJ1umudk/D0uj56Ko6vQU3UF9eJKMPXM59rLCsvtiyt8IVUBMFns4V4yMtQ0m+VikmJaRWvI5urIp3Dd9SbDoOKmz1XTVjIsRQF7ldk35chV78QvDtqcqvwjcWDkXognPwUTia0A8HTJJOrj6DyLlCbkAUDap6k4IO9y2ovVWJlkQdQjXlutD0jEtqoxQaUsxSpamx578MirGFSF7m4AO+FMj01HIVGAllPxnuY40fngnVhmgYBUzr3rX4EOZvYjA+wt1yGzl1I4qrQ/4kxV/3q9CLYYTPlArQ/gFYmTVZO6Z4rITXIlMnOQ=;QWR3eQ69v2B6zFSDTSG9KQ=="
+secured: "SMhiAXhiMgRMj5MnKMCcdT1hRtNyh4d/kf1GCLniDlrYHgujcFX8nx54M5tyCgC/WRURCsL4li7/stsa1aCPx5ORG0ULzhlBddVnu+4592NM0+wTq8GrPLzmMXP5CGxz/qGHcwsLXJVXX3Vibd9TvIM/OFYH7WpaC1dLGcCoeUHSTg9PTKFMvKdj18ycrjvZ9OF8v2dpgmNkyQ15/T5PetpbNoesghExy4y1w5RkJiaTy0e2KPbyA4I+4x1RQSewOsmfw8v6X+PZre19snpiBm0QWwurL6DSh+85+IJV8znGgkcDdzSwRmO97FFe6B1D48DwJWiraokgwjj0TAdRxQw8C/CsVgzJPsZOrX870bX7jFE6XrmMDN0u2GqhAqmtbqa4n/N0hs7aOim0xKB1MGXyCWt7Wpbkk0cSRcgvMMGUZSJrRWjm51zJ52+bM9NMTKm/RoRiuCGENciDqukK2cRa1UQaBox8QvZt7a/7e5dBKHJx5YVfIMQi2CZB9CHqxLmwcxr/KWVsoOeKyeM5Tg==;gIyEJkuBTDi/fIVW+fvemg=="
 ---
 

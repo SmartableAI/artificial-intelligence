@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Human.ai nabs $3.2M seed to build personal intelligence platform"
-    excerpt: "The last we heard from Luther.ai, the startup was participating in the TechCrunch Disrupt Battlefield in September. The company got a lot of attention from that appearance, which culminated in a $3.2 million seed round it announced today."
-    publishedDateTime: 2021-01-13T16:03:00Z
-    webUrl: "https://techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/amp/"
+  - title: "Why marketers need both rule-based and machine learning-based personalization"
+    excerpt: "Through machine learning-based personalization, brands can more easily scale decision-making and increase efficiencies where human processing power is limited. The symbiosis of rule-based and machine learning-based personalization provides the best ..."
+    publishedDateTime: 2021-01-15T10:41:00Z
+    webUrl: "https://www.clickz.com/why-marketers-need-both-rule-based-and-machine-learning-based-personalization/"
+    ampWebUrl: "https://www.clickz.com/why-marketers-need-both-rule-based-and-machine-learning-based-personalization/264717/amp/"
+    cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/why-marketers-need-both-rule-based-and-machine-learning-based-personalization/264717/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: ClickZ
+      domain: clickz.com
+    quality: 56
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1193843525.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://www.clickz.com/wp-content/uploads/2020/01/Personalization.jpg"
+        width: 768
+        height: 272
         isCached: true
 
 secured: "5EFJX0i6T//G4EoMjKGMBuWZFsXszZV9iyXt0/4gDzXPyfsQteotFPppsOtadOoFOKjfdpat4YAPKkE1AEh/AaCunmC/FJOOcb86lQ871+N21Gl6Kvn8U2jTXrj/82FTlouJu84xLfiNej7tgv6gMDyUupsBM01bt6jrE1X0OeJ5aDiVadkRfNJ9dRGZXKv0eJzlogoXfD9WBYWM7tbxC1wtPd0KqIvbo+cdEFJttrqnvuzsGXvasGQwZsU/gOKTSLO1Qj8Yljvvw3zTLEyCbgRUIyulTl6+HcuJ+0Z89cauIndzYawQSLKXnM8bDVbxNi6eQjZXHVdxNgWPsDwiVFsa2MQyZlNL5Tpou4XrFd2Emb//RfahMI6NR+uhgxtMkrzo1R8gZVGW45uukDatsDFRKynLqM24It4tOIW1XknQEbhn7KkZknzQ1CnnS274Je2NnSZKDnIQsy3GlWMhv5v+J26WwOPKsM13BEYHIWXKj8arqDNYJic5QAIY+VJvs4NnHijUTf6StvsjR5wZqg==;4towey/GxDwEK/gFrmaVQg=="

@@ -70,20 +70,6 @@ related:
         width: 1400
         height: 733
         isCached: true
-  - title: "Global Artificial Intelligence Market to Grow at a CAGR of 11.5 %with Advancements and Deployment in Dynamic Artificial Intelligence Solutions"
-    excerpt: "The global artificial intelligence market was USD 25.7 Billion in 2018 and it is projected to grow at a CAGR of"
-    publishedDateTime: 2021-01-13T16:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-to-grow-at-a-cagr-of-115-with-advancements-and-deployment-in-dynamic-artificial-intelligence-solutions-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8fWTpnTetYvN0NBowWmrh8XdKMdv126UcoduXOSbh8q2yJyUkCKcuYdOmyJNGxaonpyM/jirA3zLwDgkfU1sN0yciOuavKSJr74nTi3pSI4eywb93NC7iuczdIbtSJyyoIOhulmz3rUB2H0UHRUhR8cwmXpSVgHlgUrMqT6dRP7yqXHwyQAu0DPiOjXFb70gVy7xjyEkrg4j4lGt8a4LX8FSk9son0WzEeQuj/X+2kNG6IgAs1KwcRitD0PizY7zV86ehv1Pz+SSX7ksWI83MeQ//Yx8Me7qkosxdrYnShhcaAGFjLmphneRgafDESqfZH0VcLNXXTBQF+aKDoDdmrgfowePYO5CU0hOLCcfCyI=;nWwhtrB3s40raOVT4E0lrQ=="
 ---

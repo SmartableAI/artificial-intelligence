@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm To Snap Up Chip Startup Nuvia For $1.4B"
-    excerpt: "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of next-generation 5G computing.  With this acquisition, Qualcomm (QCOM) will be able to put Nuvia’s processors into its portfolio of products,"
-    publishedDateTime: 2021-01-13T15:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13"
-    ampWebUrl: "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Qualcomm acquires chip startup Nuvia for $1.4 billion"
     excerpt: "Qualcomm yeterday announced that its subsidiary, Qualcomm Technologies, Inc., has entered into a definitive agreement to acquire NUVIA for approximately $1.4 billion before working capital and other adjustments."
     publishedDateTime: 2021-01-14T08:05:00Z
@@ -97,20 +86,6 @@ related:
       - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
         width: 1000
         height: 1000
-        isCached: true
-  - title: "Qualcomm to acquire Arm server CPU startup Nuvia for $1.4bn"
-    excerpt: "Semiconductor and wireless networking giant Qualcomm has agreed to acquire Arm chip company Nuvia for $1.4bn. The company was founded in 2018 by several Apple veterans to target the server market, but Qualcomm says it hopes to use the tech in mobile,"
-    publishedDateTime: 2021-01-13T16:01:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/qualcomm-acquire-arm-server-cpu-startup-nuvia-14bn/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 22
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Nuviafounders.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "IncHcC1PZ3Wt+tY7ONzaYojo+Cw8k3FduDhdWfQJnMaGA5cfwBVsM2tp01b1cnKMimWtO3L5H7/tvnaUnY/KeH52ULUq+Kqk05THo5wkjqw0Z/cht6RQ+2uLM8PMGr4SB2iCJ7tWI5yBip4Pt9HLMQk38nUBOwk6UhREr6MsbLKlGDdDtQPNVyncvRNeCfozx8oAq5GII8k+N+hz858TIwSyfpzJU8xAZmOW9tBHQXj/MyNGxfU1QG6bfACmhFHrNiSoHWuiDQu0JnOCvKSHzh0f0zZ+rZsFEJF3df1fGrRvPMqy0EKLPx8fXYnrVytb7vykIQH88mNVX2S9kM76Y3rV8F2zfG8V6YquSUxNsoPexdrhWNmGz1yE7cxapBpPtl8o4+pVYRfmyK11KmUX3yaMFpmUMkuA0CSb100ZtKiVUwc6NmTC+MMk+2LWKVj66+uE3lYHhnsjx0MQ9hPNMOo4D7ofRzzvjdubiMjL1bDauTxBBWdqS6UcMtDXnsUfwIiCrb28x9QPeIFyG8eXxg==;gOcXqYFOp+9mdmqya/CRsg=="
