@@ -2,7 +2,7 @@
 name: "Vectra"
 overview: "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations."
 type: "profile"
-heat: 64
+heat: 57
 
 website: https://vectra.ai
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Vectra"
 
-secured: "BK7CTAceBgJXNJ/z0z1FWlY8zv6LdyeWQKkyjgnJu/mY+lPJ+goVDTzGgZp5i7RsrTOv6zQMRz4WrvBqH7mSnAN/KWBwOErGSO2mDgYLknJSSaoGsTzxW+6U0O5hHw6XSk9VDXVMLGcrmCsirVdMhmajTv8SSbLThDetqnbDUX8JNwNp7mcUvtDbThgiCbXn496Qv4rmoS3nLL+tH+y8osXXmZm6DDgvUH3JsC/afR7ILm8OrujNAGDagBGkoXmrGR7PaCrnExQeFmvje9JITU0CpbPpavn/+rzXHHHe16AGOVXXen4edLJ1GbIbKlgnQtDQy7bEN3ZwkdAcJlzlNcZLMeOY+BjbkuFnLNpRbchBmjhVvY1Mm3S4wCePZkTCDHl9F5eMnyq5Er2Hsc7l4GVhz7OWSy1UwQp3H5y1hm8=;3Cy+aEcUNNsOlt8gMqNFHQ=="
+secured: "eftSmZHULhWYMegfngdILRNIq6MEWRqh02fj+CTX7nGTFBt32qg6juqX06/15wkylCmvy23b7tF70dg/0odeebnoNL/RwyjWCtzTc5g4oTYo4KY0sx2UFReG5jybDxZnk0YvHlHgWiJkLpshtVb8eAhSqI1kg27KymV3Q0smy1giITiYg26rTXiExPCQkTyZlqQHw4JhKUnSLkctfdYSp7OgykFSuppRqpwZmFp/FEj/8d1YHYBAcoac/lPXfPHUsjJoxr7j1VxDRTGnCBqRD+BxvYkMUJ8UBs/za/XlczoDNw1xEjwxMc5i/EEF+Bvpm2RgZII0S84GC+e9hW9q5R/+KS9KU0zlsrVfok6UUeDSJie3rIGL1LldMYvWGDDBZuDnsbNkNg412P5Qa9jQS6k4QynwYl1IKjdgzw5AMP0=;f29aBm1b1eIBj86mB0YGJQ=="
 ---
 
