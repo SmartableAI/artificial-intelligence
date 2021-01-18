@@ -98,20 +98,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Voice Recognition Market Outlook to 2026 | Latest Trends, Market Strategy with Opportunities, Growth Overview and Technology Forecast"
-    excerpt: "Selbyville, Delaware, According to the research report titled 'Voice Recognition Market Size By Deployment Model (On-Premise, Cloud-Based), By Technology (AI-Based, Non-AI Based), By End-Use (Aerospace,"
-    publishedDateTime: 2021-01-13T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-outlook-to-2026-latest-trends-market-strategy-with-opportunities-growth-overview-and-technology-forecast-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "MjnkWc61iaG26N8GOYLetBZtzYQsTenuQ1qZRHc9H8LxNbLb+hcIrq9+h6R5q7x70IGHHwtCyiAdfFD8M5XCyKshG/By/9ignZZvyspd+e3KAP9tE8J56H+SvLpXEPdcIR6e5nZTDQc5mdo9ye9SyE5qJPAEiZI9c2dYiyrOM32b7fYc1cnMJBQVK6tJSx28bwMU3zYXD1GLJ3gtJLHRKXaEdUihawCrhSB/HXAxgvQlUViJdRRQqnTs9TWiam6YDOQRQVWYhYV1EMZm8A/+tiD0r25dtoivF0P56eXxunq8Uazxp01hvzhny0DOckw3Fb/TGkSlALXVh4pmLxtDoinsxYhINsI0jXyNgI9QZsc1g2f7mXD4Xgli+MYbOXSiU7dz8Gv6I2MxsvjEWIK/Aw3COZUo4OkPQIQLGmmbE1fDRLI6dhS9TU1Pqjoo83Told7DOUdhsI2Lkowo810DARP8kFHp5x4wxkVeQnDR2XFMHPQhr27hrnllthNcZZC0eW0qvgVHxOyTwfnTIlHgDQ==;CDuPoXhb1QIvDWPIvLNy5A=="
 ---

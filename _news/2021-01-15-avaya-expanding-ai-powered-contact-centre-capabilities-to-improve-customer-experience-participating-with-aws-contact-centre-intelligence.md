@@ -33,15 +33,6 @@ related:
         width: 560
         height: 300
         isCached: true
-  - title: "Avaya expands AI-powered contact centre functionalities with AWS"
-    excerpt: "Avaya expanded its artificial intelligence (AI)-powered customer experience functionalities for Avaya OneCloud CCaaS customers, through an extended relationship with Amazon Web Services (AWS). As an AWS Partner offering AWS Contact Center Intelligence (CCI) products,"
-    publishedDateTime: 2021-01-13T10:02:00Z
-    webUrl: "https://www.telecompaper.com/news/avaya-expands-ai-powered-contact-centre-functionalities-with-aws--1368430"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "1uw3HWWj95k0xkzt5K4OaP7/FmkfUPxRvUyKQmeLH2MPGXbVtRz8Z1Jx6YAf/VKvxoU5BusUXv4mVwV+05/QgATGOEacAKy3CCxHVqnaBIIjNU5GW+BprXy3wD+EFcjvDBSWIYDbgplV3N3kNhi6BV8WqWfBGbXYoxkO/95wmFPjPUCsfbnf9y17d0ZNxwuJUAaXGCgM+t+oHaEQzEmJztmM1mnaq5LNKaQ5jdkQiFe6WwwY3UXA60vC3wrvixAQfvF9FTKRsstIUUwKlB3qCu+N/JG5eziFXjhq9YfykQfNJgwOsNTgx8jiPJu6jPcYtkqQt6HKyRYVXk8QOfgOJFtU4klTOp8vOFFTz0H7qkA=;sRlNG4FspSSN/CErplZtqA=="
 ---

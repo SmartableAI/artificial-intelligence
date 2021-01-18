@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management"
-excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry."
-publishedDateTime: 2021-01-13T08:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-2021-01-13"
-webUrl: "https://www.marketwatch.com/press-release/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-2021-01-13"
+excerpt: "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions,"
+publishedDateTime: 2021-01-13T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
+webUrl: "https://www.prnewswire.com/news-releases/broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management-301207281.html"
 type: article
-quality: 51
-heat: 61
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
+    width: 2697
+    height: 1414
     isCached: true
 
 related:
@@ -39,6 +35,6 @@ related:
       domain: leaprate.com
     quality: 19
 
-secured: "yYvKg30x8F48Glq17kkMOMtASnprN5OWjURqO49i99c1BZEie8RcNcfoIlCMRSW4CKfBE0SKeDiKqUSnX5Uhvk9EJKStbxM78BTjsPH+NkrpninA2MzKg+Mzy8az7m6QSRoPMv9jbnw2AWjKZ+5rOHtAlyyKNf2uPE6ao89PlxGXa3ztpL4XfU9IZqhP+LvmwbbdWsC73HjhD3OLy9flR2vHgUxTd3PcL49shy4U/SM0OimOtVVyEI8SoAdOE4CG6uUrKveqSfLBeJ0k8iMFfyI8e7OPIgPlv1YXuJGS3nWIqzVX8aTCVGhHTb96mXgUAIwq6DN0jAcIT2Vq4fEmv1KBK38VWhUcaJrd6DF3rl0=;JK5xaok7WhVWgCf9L1kgWg=="
+secured: "t0Zk/SqxxRFeBSgjE491eXhk3si3OVr44UW58pUQ9wiGQF/xRLARLDapkET4N/+auEjLNlE2lzJlJeDlJoMh8rJZamcgPc9VSEuAAthDPS+GNQ1JZWexUVofG5DzIjAR83JCJTUOzWq7WjvH+5SXgB2DHJqOdkFva/cTCuuUJY0UXGcpCyjuJh/vKo3x0xq29HWv6xW671zHU7HTpMQl9UB9ibm1r4dzHeR/CNHj/xeBhwZa3AkfwhfSoAlKDv6ufRi8f3BlYr9Mid4Znmq4XyC/1w1NI2tHWzUoxHyVmyEEAkYh/kHW382GIpshtw5u5YrVAsiANQDuTVlSTGfqB7Hq0NGW0RQKl2z9kLP2DKI=;esI+0xfFwdkBVTZE4FkJ3g=="
 ---
 

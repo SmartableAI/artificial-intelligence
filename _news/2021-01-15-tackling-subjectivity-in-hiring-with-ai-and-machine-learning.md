@@ -3,8 +3,8 @@ category: news
 title: "Tackling subjectivity in hiring with AI and machine learning"
 excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
 publishedDateTime: 2021-01-15T00:56:00Z
-originalUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670269"
-webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670269"
+originalUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670418"
+webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?ref=recommender-670418"
 type: article
 quality: 64
 heat: -1
@@ -47,6 +47,6 @@ related:
       domain: techinasia.com
     quality: 64
 
-secured: "cby0fpUr3RazPmecBKqlK+ts82kLG9CECmwBMIC8BbLAeMG+BDGBZ05B7FEnYSdf+6r/NbA5A/6RcoNZ4kY7kXP4NEPWr1++S5DBOmQ6eUBv7u1QRdgE7FLVU1zp2NHDaEYb78TI+xkDwvn1GPqIPFIaIVuFXup2Dbu9F9V0y3TvBX6Wtz3zrKbXja1aQEkrq9+NSdlva6UBekGOVayn7Ilb9X+jkcxCcyEKi+0Te8xJRu3vuSaRxX7db5CGEsw8q0ilzHydOWytPCTETQvMXLowOj+D8ISt9oXs6W3E/06IeeuMwCh+Gh6G0cWtY3A3Bg8fyOFVTyG3gdrdM61/idLyTplW4nwvxDGsqwRhCQMRj9sxOyqp/C0C8wGWvoQdue8CFOqsFeybeE8m5OUkjAqQTiFDt6SKnM+x6XxdXFSxZxtmLZTb/7Yyl4VAMcqNW2QaIB1eoq+AyEPBLrc9cEKLASJ4uPakTyuTsoihV+2gDOxIfESa72bOrzFmdNX4ozPTDq99v8EUJFjzl5vuTg==;0iVz5BlDrgaoQIRSBLZWMA=="
+secured: "LM3UplnBxQ2DhGdG1nmi4cJsKFhcmbt0aD2J91By2u5cQNvlDwVHCvtfdZOuqO9uPMMIseBfrQi8XYiOEG1mx/yVGBmdv4Q/7Te2ZqRIO4zIHi8lu+XOwyxawO/o5X6xSegDYt2E1lkzPDt4zAkTVR5r7x1QKdwhYHtkwYQlBrEykbJShslTH3Yttp/xB/uJ9GPd3a6r2fAMWADcBwNTyGtWYbe5lLzJDh86bqUxgSVuXEI+R38ofnUioNAXieWBATi2+IPNkDWwePlwZnrEo1QRzVldXMzHJakMaaDG4ZjHWXUMaeEujFmCpesIBkZRty9liScDmO1M/NUpxK5a97dg9x4qApOEN7h/AUslsideKNyw33hTB1qwpjfcwYt3qhozYxcoFGzvZoLMZCCmRH5bALOx7TfeucXlYUmwDhsEzfcgcGd3ZfWYN2PIMDQyRyiUlp6VcOSQq8Ckgs5Q7WRpz8nwsxzO31onfwkP+YLno3hLGppQeaYyOuCNOUX0/5PW7q0ftQDdFqGymLRbRg==;/JzoYRTvS3k4z2rT0ro3hg=="
 ---
 

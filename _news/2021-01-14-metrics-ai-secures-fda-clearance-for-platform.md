@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "FDA Releases Action Plan for AI, Machine Learning Medical Software"
-    excerpt: "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach."
-    publishedDateTime: 2021-01-13T09:30:00Z
-    webUrl: "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "FDA Outlines Plan for AI and Machine Learning-Based Software"
     excerpt: "FDA has released its holistic approach toward giving guidance for artificial intelligence and machine learning solutions. The federal agency’s first AI/ML-Based Software as a Medical Device Action Plan outlines five actions that the FDA intends to take,"
     publishedDateTime: 2021-01-13T21:31:00Z

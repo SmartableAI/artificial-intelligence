@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/regulatory-quality/fda-outlines-plan-ai
 webUrl: "https://www.mddionline.com/regulatory-quality/fda-outlines-plan-ai-and-machine-learning-based-software"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FDA Releases Action Plan for AI, Machine Learning Medical Software"
-    excerpt: "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach."
-    publishedDateTime: 2021-01-13T09:30:00Z
-    webUrl: "https://healthitanalytics.com/news/fda-releases-action-plan-for-ai-machine-learning-medical-software"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Metrics AI secures FDA clearance for platform"
     excerpt: "A local medical imaging startup has received FDA clearance for its flagship imaging analysis platform. AI Metrics previously received FDA clearance and CE mark clearance for its Liver Surface Nodularity (LSN) software,"
     publishedDateTime: 2021-01-13T17:35:00Z

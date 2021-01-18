@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Segmentation, Future Business Strategy, Manufacturers Analysis and Forecast by 2025"
+    excerpt: "The recently distributed report entitled Global Artificial Intelligence of Things (AIoT) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
+    publishedDateTime: 2021-01-18T01:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-segmentation-future-business-strategy-manufacturers-analysis-and-forecast-by-2025-2021-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Segmented by Product Top Manufacturers Geography Trends & Forecasts to 2026"
     excerpt: "Global voice recognition market is universally gaining prominence as one of the fastest emerging verticals within the sustainable and smart technologies space and will experience notable growth in the future."
     publishedDateTime: 2021-01-14T13:43:00Z

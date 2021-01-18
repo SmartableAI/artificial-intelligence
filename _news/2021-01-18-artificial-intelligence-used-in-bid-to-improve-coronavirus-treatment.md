@@ -9,8 +9,8 @@ ampWebUrl: "https://www.eveningexpress.co.uk/news/uk/artificial-intelligence-use
 cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/uk/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Evening Express
@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Friend, kitchen staff, yoga finder: at CES 2021, robots are a highlight, having shown their worth in the coronavirus pandemic"
-    excerpt: "The pandemic is helping robots prove their worth, from one that helps people feel less lonely to another that can cut labour costs in the kitchen – and they take centre stage at a consumer tech show."
-    publishedDateTime: 2021-01-13T09:31:00Z
-    webUrl: "https://www.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
-    ampWebUrl: "https://amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/gadgets/article/3117422/friend-kitchen-staff-yoga-finder-ces-2021-robots-are-highlight"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 62
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2021/01/13/253e9dc0-54a7-11eb-84b3-e7426e7b8906_image_hires_114147.jpg?itok=WBrpKgD0&v=1610509319"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Pandemic's robot 'heroes' highlight their value at tech show"
-    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry's annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
-    publishedDateTime: 2021-01-18T00:15:00Z
-    webUrl: "https://www.brecorder.com/news/40052634"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40052634"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40052634"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 59
-    images:
-      - url: "https://i.brecorder.com/large/2021/01/6004b86e3ff4a.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Artificial intelligence used in bid to improve coronavirus treatment"
     excerpt: "NHSX has brought together 40,000-plus CT scans, MRIs and X-rays from more than 10,000 patients across the UK during the course of the pandemic."
     publishedDateTime: 2021-01-17T15:58:00Z
@@ -72,33 +40,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Pandemic’s robot ‘heroes’ highlight their value domestically at top tech virtual show"
-    excerpt: "Robots that helped people survive and stay safe over the past year are touting their value at the tech industry’s annual extravaganza amid a pandemic which has given fresh momentum to the robotics sector."
-    publishedDateTime: 2021-01-13T18:34:00Z
-    webUrl: "https://www.khmertimeskh.com/50803265/pandemics-robot-heroes-highlight-their-value-domestically-at-top-tech-virtual-show/"
+  - title: "Researchers use natural language processing tech to identify new coronavirus variants"
+    excerpt: "The utility of natural language processing algorithms for understanding and predicting the changes of viruses lies in the adherence of viral structures to a kind of grammar and semantics, MIT Technology Review reported."
+    publishedDateTime: 2021-01-15T19:15:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/researchers-use-natural-language-processing-tech-to-identify-new-coronavirus-variants.html"
     type: article
     provider:
-      name: Khmer Times
-      domain: khmertimeskh.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 32
     images:
-      - url: "https://www.khmertimeskh.com/wp-content/uploads/2020/04/Engineering-professors-pose-with-the-version-two-prototype-of-the-IIUM-Medibot-medical-robot.jpg"
-        width: 750
-        height: 440
-        isCached: true
-  - title: "10 weird and wonderful highlights from CES 2021"
-    excerpt: "CES was an online-only affair this year, but that didn’t stop a load of big-name tech companies coming together to show off what they’ve been working on. In typical CES fashion, we saw a mixture of predictable upgrades to old releases and exciting reveals for futuristic products that must be seen to be believed."
-    publishedDateTime: 2021-01-15T12:43:00Z
-    webUrl: "https://www.which.co.uk/news/2021/01/10-weird-and-wonderful-highlights-from-ces-2021/"
-    type: article
-    provider:
-      name: Which
-      domain: which.co.uk
-    quality: 24
-    images:
-      - url: "https://dwkujuq9vpuly.cloudfront.net/news/wp-content/uploads/2021/01/B.jpg"
-        width: 1920
-        height: 1152
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "LSrKtozPVVqG8EDtsjbDiypsgi6mV58BWIOkRmjEnP2/MQYsTVM9IKsmuX88o5WehfmjDSn6HbvPkIrk+zxNxJoNctUpQE5p58N8N1ZJGP0Er15XhO2PXXSqLNIV30chQ7fe0UP5I25xm5a8aArj7nJgOYHa4DftM8yoA0fYxfin/kXiNEGV5gDwZgHaq7REjZUKAB6w4qsuD9EzBrYc28Q77+SLISmH4S910JbNmgo6YpqVyvVOB/XxrS3ODuQwCTvJLijKvN13m6TIEjLPNgGVWyV/FI+xsHi6eM++cLyqOvxXQocAhqG2vcqWxhmFkDBg5ToUTDpjW6Yp6xPrKk0g5qmlZLb3Eog4bJUx0Xw=;AXamznD9H444+gBnqE3QZQ=="

@@ -85,6 +85,15 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
+    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker,"
+    publishedDateTime: 2021-01-18T01:09:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1178990&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 43
 
 secured: "ZX4jmOhX5UEpC7cea3WbC9DeBfUrmhwT56MW2a16kgoqKDFNnlnHGb5PM1SydBu1oKwhiciSMOUeE0p5dS/rfQrGZl6+/5d4MeDLjI74BPxauuM1Hy5DGE0mnj8OAODxwsH79XeZ/7Kq2EixfZsQJLMmXaSsRo3U77Ta2Y4Vlvr9ZbEaLy2qVVCbg76fjTeBZqgzjnKfPQ02VshIP8T7/o6fRXcPFQ82BBgZXXjHKAyrvDFamOd9L11YI1uvgLkF5Qg9FXSpYPsMC5SKM7gL2yBATm7NX9bnvx+vz29WuTIRjluI56y3Ag4H7L30k0d1YibjM8KZ9fnOwN//XmdBvjJVi/3e0ylTe947KE17tVU=;CT3Ee5UDPFLzEMEzeD2DzQ=="
 ---

@@ -94,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Voice Recognition Market Outlook to 2026 | Latest Trends, Market Strategy with Opportunities, Growth Overview and Technology Forecast"
-    excerpt: "Selbyville, Delaware, According to the research report titled 'Voice Recognition Market Size By Deployment Model (On-Premise, Cloud-Based), By Technology (AI-Based, Non-AI Based), By End-Use (Aerospace,"
-    publishedDateTime: 2021-01-13T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-outlook-to-2026-latest-trends-market-strategy-with-opportunities-growth-overview-and-technology-forecast-2021-01-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
     excerpt: "Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security"
     publishedDateTime: 2021-01-16T02:58:00Z

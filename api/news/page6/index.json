@@ -2,6 +2,137 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-12-us-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank.md",
+      "title": "U.S. Fintech Artis Announces New Bank Funding Partneship With Drummond Community Bank",
+      "excerpt": "Artis Technologies, a U.S.-based fintech that provides lending solutions for businesses, announced on Tuesday it has entered into a new bank funding partnership with Drummond Community Bank for its Artis Credit platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/benjamin-vladimir-solomyani-unsplash-600x400.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
+      "publishedDateTime": "2021-01-12T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-south-korea-mulls-investing-114-billion-in-ai-chips.md",
+      "title": "South Korea Mulls Investing $114 Billion in AI Chips",
+      "excerpt": "South Korea's ICT ministry said Tuesday it will invest 125.3 billion won ($114.1 million) this year to support the development of neural processors, up",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
+      "originalUrl": "https://www.albawaba.com/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/d08_standard/public/im_new/areej/AI_CHIP_shutterstock_12Jan21.jpg?h=707772c7&itok=lVi3b_3K&mrf-size=m",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
+      "publishedDateTime": "2021-01-12T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-programming-tweak-helps-ai-software-imitate-human-visual-learning.md",
+      "title": "Programming tweak helps AI software imitate human visual learning",
+      "excerpt": "Using a novel programming tweak, a pair of neuroscientists have managed to replicate human visual learning in computer-based artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "originalUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/7781610457664/2021/1/69303160586a78ce2dec53bee2c8f1d7/v1.5/Programming-tweak-helps-AI-software-imitate-human-visual-learning.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "publishedDateTime": "2021-01-12T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery.md",
       "title": "Who Is Mr. Blue Eyes In ‘Cyberpunk 2077,’ Part Of Its Sprawling Rogue AI Unsolved Mystery?",
       "excerpt": "This past week, the senior quest designer of Cyberpunk 2077 said that even after millions of hours of gameplay in the past month, not all of the game’s secrets have been uncovered yet. Mr. Blue Eyes may be one of them.",
@@ -514,8 +645,8 @@
       "title": "Here’s How 6 Major LSP Client Segments Use Data for AI",
       "excerpt": "AI services are integral to train and help AI performance. Here's how translation agency clients use text, image, and speech data.",
       "sourceUrl": null,
-      "webUrl": "https://slator.com/demand-drivers/heres-how-6-major-lsp-client-segments-use-data-for-ai/",
-      "originalUrl": "https://slator.com/demand-drivers/heres-how-6-major-lsp-client-segments-use-data-for-ai/",
+      "webUrl": "https://slator.com/data-research/heres-how-6-major-lsp-client-segments-use-data-for-ai/",
+      "originalUrl": "https://slator.com/data-research/heres-how-6-major-lsp-client-segments-use-data-for-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1040,153 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-chinas-baidu-to-team-up-with-geely-on-evs.md",
-      "title": "China's Baidu to team up with Geely on EVs",
-      "excerpt": "The new company will make and sell electric cars. Baidu will provide the technology for self-driving, while Geely will likely handle production. Baidu has not provided further details, such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210112_09_929166_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "publishedDateTime": "2021-01-11T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise.md",
-      "title": "IBM acquires 7Summits to deepen its salesforce consulting expertise",
-      "excerpt": "IBM acquires 7Summits to expand scope of Salesforce consulting practice focusing on digital business transformation",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/11/ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise/",
-      "originalUrl": "https://venturebeat.com/2021/01/11/ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/7summits-ibm.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/11/ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise/amp/",
-      "publishedDateTime": "2021-01-11T15:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-baidu-confirms-plans-to-join-the-smoking-hot-ev-market.md",
-      "title": "Baidu Confirms Plans to Join the Smoking Hot EV Market",
-      "excerpt": "In a press release on Monday, Baidu (NASDAQ:BIDU) confirmed that it was entering the red-hot electric-vehicle (EV) market. The company plans to set up an independent subsidiary co",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/",
-      "originalUrl": "https://www.fool.com/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F607988%2Fbaidu-apollo-car.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/",
-      "publishedDateTime": "2021-01-11T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
