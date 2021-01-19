@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macrumors.com/2021/01/15/apple-car-to-leverage-eye-track
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/01/15/apple-car-to-leverage-eye-tracking-with-c1-chip/amp/"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 2500
     height: 1406
     isCached: true
+
+related:
+  - title: "Apple Car may use 'C1' chip based on the A12 Bionic processor"
+    excerpt: "San Francisco: The long-rumoured Apple Car is expected to use a \"C1\" chip based on the A12 Bionic processor with in-cabin AI capabilities such as eye-tracking. According to US-based magazine 'EETimes',"
+    publishedDateTime: 2021-01-19T11:43:00Z
+    webUrl: "https://english.mathrubhumi.com/technology/tech-news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-1.5370569"
+    ampWebUrl: "https://english.mathrubhumi.com/technology/tech-news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-1.5370569"
+    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/technology/tech-news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-1.5370569"
+    type: article
+    provider:
+      name: Mathrubhumi
+      domain: mathrubhumi.com
+    quality: 59
+    images:
+      - url: "https://english.mathrubhumi.com/polopoly_fs/1.5370570.1611056439!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg"
+        width: 1080
+        height: 608
+        isCached: true
 
 secured: "Qm9JHT9VsvIW8O0LEIz9ZD86ts8nbVP8d3lN2tIWE2G+1HCoys4wOvTXHHCOc3OnRCut6IJUywIYOlQYwNE76jECe0ba4Il/qx7exlnZMCGDJ0ZUTMfIYigzsiFEkTuVBEEPY5UC2daqcmv+gXsIIVlYXYpjyiQ5Ir38QAFvSRt16lg82ru/VhkQpCUhCCfL1y/GbwFRjmnt57xcIxGWKSZXi/AeY+Oqt2J53GdEL/nLQnUGP75lr2/taflIroJMKNvFsbGtMAIHN1d4koef/Z2TCF6VI9z93n5zFVzZ2B1+z0mB+oMDJrGL3CMdIAX57b3kaPE3qAme1/7A2/K2UiOhV9PzfdNMn5FnmLBtujJP5Aau9DXtQS2aiacIniIN8mYu5RCvxcbGBCsb3Su8+t2c14LbSmyk18M8obt2iApLKqbHjyjH6dl4jcpQA3t/oWiiKNyN/C11nUehJWGcGK8KErAksvkeZ3uat0DYjM7FtaLJeNQl/gbnWgRFq1INjSVqyI1l+fy4GuNcXBGUsA==;Nh9Gt7R1OzFiXbchLSZFWg=="
 ---

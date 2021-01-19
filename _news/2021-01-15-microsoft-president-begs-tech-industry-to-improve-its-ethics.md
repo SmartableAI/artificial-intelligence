@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-president-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
 type: article
 quality: 106
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -126,22 +126,33 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft will soon allow users to have more control over their voice clips"
+    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
+    publishedDateTime: 2021-01-19T11:41:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-will-soon-allow-users-to-have-more-control-over-their-voice-clips-ceddf190-8703-4554-bd4a-5272e4f135b6"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-will-soon-allow-users-to-have-more-control-over-their-voice-clips-ceddf190-8703-4554-bd4a-5272e4f135b6"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-will-soon-allow-users-to-have-more-control-over-their-voice-clips-ceddf190-8703-4554-bd4a-5272e4f135b6"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/4863x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4ce67df8-4bad-5179-b3c6-3dc1a4b1394f&operation=CROP&offset=267x1283&resize=3470x1952"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Microsoft allows users more control over their voice clips"
     excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
     publishedDateTime: 2021-01-19T10:27:00Z
-    webUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/"
-    ampWebUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
+    webUrl: "https://www.sify.com/news/microsoft-allows-users-more-control-over-their-voice-clips-news-education-vbtkPDgegicfh.html"
+    ampWebUrl: "https://www.sify.com/news/microsoft-allows-users-more-control-over-their-voice-clips-news-education-vbtkPDgegicfh.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-allows-users-more-control-over-their-voice-clips-news-education-vbtkPDgegicfh.html"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 61
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-        width: 1080
-        height: 582
-        isCached: true
+      name: Sify.com
+      domain: sify.com
+    quality: 41
   - title: "Microsoft clarifies its practices for voice data collection"
     excerpt: "... rolling out some important updates to give users more control over how their voice data is used to improve its speech recognition technology. The new setting will allow users to choose if the company can use their voice recordings to enhance the ..."
     publishedDateTime: 2021-01-18T16:36:00Z

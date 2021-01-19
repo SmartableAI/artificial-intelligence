@@ -37,6 +37,6 @@ related:
       domain: industryleadersmagazine.com
     quality: 33
 
-secured: "RxBpO5VcTv3HhV+a8LgiFFVDld3BcqdVOTJ08OKLPomKdnRTPqjNlNV2xazVqiGwv4Oelus4fN0y5w3Fe6fzKQ+NZnjcy4iNJCX7FjmkEoa7BnQiNicY3CHgVQ9yDYFSNiZMW/mqhU/TSsnKp19nOkw0Pv62aYsuy8yv0QrIyq4/+MHFhxru74CVA1K7zKzPCYM35Rg3qPh5xp6KcUlJBmhd4mM2+LFykuvXFXiI/0zNSwGkFl5aWvJPKOqENZlr5Djv42bx9alSB/9QHiu6CmyLC0Y5j+HATjYHn1nio/+x12LdMYXIHEH6x/TkiWh6+UBo4xkexenys8ugPI2gFpah5CNf4dV4JWdmGUnX7RE=;XHoQsgz/pYio+1uOMd8J9g=="
+secured: "ns77oWL2RHmgfO3WRW/Eap7Bq2/5g5uoG9Fl/cnSkbrJFfvNh16mFEt5FgDq65kegG/um8oC/I85G2Kv3Yl+3SrWJm7ImLE/44EUeiAYGujq5byGOckNLRXPT12mq+t0rPWqpSyJUkmCLZqo/jqeRvnD7Gu01HsH0HeLZPLDl0QHb9vZ9NjZrKgyyO8xr9rbFY/95DkTazjqpxNDeDGJFfo7A9LrdxsaesLi2OIfRJMMWT6LdAGL+waubqgRkQzmhwstZ/9qfnQy8pOaTlLMEtaCjvaxSxkejGGiE8FceDrFjrlfRQ6SbXGchwW3AcFqiA1ryhS+gJNhfnYKo4SSdci2LKOksEEykMi0B545gPY=;BsN7ZBP2NWcwWfSENIJHrg=="
 ---
 

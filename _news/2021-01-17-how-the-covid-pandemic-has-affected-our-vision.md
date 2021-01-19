@@ -41,6 +41,17 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Global Micro Fulfillment Industry 2020-2026 - Huge Investments in Start-ups During the COVID-19 Pandemic"
+    excerpt: "The \"Micro Fulfillment Market for Grocery and General Merchandise By Technologies (AutoStore, Shuttle Based), By Warehouse Size, By Geography - Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-01-19T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-micro-fulfillment-industry-2020-2026-huge-investments-in-start-ups-during-the-covid-19-pandemic-1029980246"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-micro-fulfillment-industry-2020-2026-huge-investments-in-start-ups-during-the-covid-19-pandemic-1029980246"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-micro-fulfillment-industry-2020-2026-huge-investments-in-start-ups-during-the-covid-19-pandemic-1029980246"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "Providence accelerates data center consolidation, plans to close six amid Covid troubles"
     excerpt: "Washington-based healthcare provider aims to reduce data center portfolio in the wake of Covid-fueled financial challenges"
     publishedDateTime: 2021-01-15T11:06:00Z

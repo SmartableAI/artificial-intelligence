@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Global Micro Fulfillment Industry 2020-2026 - Huge Investments in Start-ups During the COVID-19 Pandemic"
+    excerpt: "The \"Micro Fulfillment Market for Grocery and General Merchandise By Technologies (AutoStore, Shuttle Based), By Warehouse Size, By Geography - Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-01-19T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-micro-fulfillment-industry-2020-2026-huge-investments-in-start-ups-during-the-covid-19-pandemic-1029980246"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-micro-fulfillment-industry-2020-2026-huge-investments-in-start-ups-during-the-covid-19-pandemic-1029980246"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-micro-fulfillment-industry-2020-2026-huge-investments-in-start-ups-during-the-covid-19-pandemic-1029980246"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "Providence accelerates data center consolidation, plans to close six amid Covid troubles"
     excerpt: "Washington-based healthcare provider aims to reduce data center portfolio in the wake of Covid-fueled financial challenges"
     publishedDateTime: 2021-01-15T11:06:00Z
@@ -57,6 +68,6 @@ related:
         height: 248
         isCached: true
 
-secured: "Os/l5W9PNvQSg+WbC91s7YzJ2Q8MTNlf7QaC+k3HEGPR96xZFBfKhBFxlPUAX2/8Mtn87l+bSqdOBIZEXLSvpy9KC7Ji4hwUnKZ5Ruy8OZtjIxSdHFYrjt4jha+23N/650Qin55GpE6gjY4xhvQ8Wce1rtheyCPjSlPW7JnGN6YXpfsLyPVRK2UZaOI6Xd9go9zW7QCdWsTM0zHPyQ5cAK32q3cqfOvSLvKo5vivG4ahtRG4NeR3NU018l4HWcptIb+3xj6AnDV0pPcj1BBFhMOEI8QFOMFxVKPJ2kqSQaXm02oY2h9vnRF+iK+4HNHhIeGh3ngEjNeX6e6Mf5BgbqukKiNOwsLtitY/7Mbfdy0=;HJXnluZPy0cerOpPJyN3nw=="
+secured: "62B2DZX13uHh4f0kQLeC6T5fV9ohA463uD0plkvm1s49s3rJxRp5bmlrJu+KT5VEO0tqWSiUtySQHXH779aR/uF+kETmfc8wEN5ZeU2vhDZNh6Bgj0VMM/hBB5Ws8KnJ9djLB406DANpye7wSl36FU1R1XCOkk2PHImcfDENS1JlagaGn2+g8BGbNWxb6a3dmhvnjE18gMVwQrritEAame/iMVVQii2ZylgXhwStBrLGLD5Q3Xu7yRZr5WnWGjkIt0ZcUSYDIEh/KTPcLgEEgVX1rfnMPYVN1Ew8a5RZZXZJnI5xY7wZpfRu74AwR8Hsquub2Mgt6y0ILLa9P4q/0ifmievQU1MH94U2X74eDa28Ccx/MEywzrR71AbFH7tz9ITNsn6eDTTIOe2onVVXrHg9AegGIb37pG/qq5lxx1NRaIzMZzvGQ7J7BdGszKTaN5t/rbKMYA333Sb5awlSyzntruxVB5oj4YFV/nWwuLajXDJPCzXR91VrowHh4ViNTwZwHi90uiS0/BCtYTgMwQ==;wkgVvSUU7hvLL1veTW0B7Q=="
 ---
 

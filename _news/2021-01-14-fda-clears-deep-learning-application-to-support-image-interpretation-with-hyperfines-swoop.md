@@ -3,8 +3,8 @@ category: news
 title: "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™"
 excerpt: "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,"
 publishedDateTime: 2021-01-14T15:20:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "via9qfxnK8HgNsG37DZhdSxTSwP304Wq769kPPuslNymuWBfsvo8Xv1/D+1keYyOamuWt61v1Vamrus8pM/DLCHAvQ7XZ4nycZvBoy2UgaN8dzV+hYZemy2QFIB6TOMTIkNSC5ZqDPxMh6pE+0nqtGDdfqHv9zlY+QntAh10vkwJ+7HO4kIJxcId2uyBwM0dIZi2ktJDBdmT5M0CTwcVbXJnARcZ2KKRFiTR5gZsM40zifJHJS8PAUQKlhe4ZPL01du9UV7VyOC3UesofwDS8kH9vAOIHngZmdsrRTRFB5A5NsmDR9m4+ov0zu+zLMItRgokygihQE1A9GvXCp4Dk1h4hW5/EXh/w5ehYNPEbss=;6Ln3UVzXEVY1Jzods7VncA=="
+secured: "DQ6ZI85/1Jy02C3g2QOCGNW0YYCntqTCeSeDTJ+LRLSmwl25sRfU3wCCyTNR+U04dMblF6wBy14teW40O7G6Sj5NNT/jCRGl8l+xkVtS4w3oWQx9oIxUyyz9cjJKNO1BNRmRyrjkSdqijuekCqzaTpplODbzRhCzYvRDPQVY4tDqSES9gXdA5YFfmnyb5hM0M5VcDrBY+WYVu+lSfS61rGpvF06YcLsS/m7cry6ii5Y3RQfN4RSBqyIJ2vQh+uB1nbXacf5QpR1EonERl3MSuPnVkKUb95P3JPvVH8YYCu6azAuhwr1ItyhQCIPRO4ufuZ9edLmoOGabsi9C4UfVX5hL3M2f3yXlchWaziWEVMQ=;aczWKTV2oFNekWl1ccqmUg=="
 ---
 

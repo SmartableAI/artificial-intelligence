@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
-excerpt: "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization."
-publishedDateTime: 2021-01-12T21:12:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence"
+excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
+publishedDateTime: 2021-01-12T16:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
-secured: "yZ5DRgoM5acVx4VQhvMmVkpl8dFcTR8efNrjodBrsuaDC2oYGx4D5SWjCo1OIBqfA06ElBIFgYo4NAgqFStjdis7Vy7bZEyo3QcbUu+JgTmjcC8zUI9oYZcVvwCCr8sX9PyDJtjoFLECJa7oDImjVU5c2zz9gY2mnQkghR8xOfw4UVFt0eP5X1YJ8ozFuqdxWme80JIq/IkBGk9ZX5xuzSJSuplLqyPu5eew+WNVqI262nAfww2zSm5PnBV1DeCKuQNSRcIu8HEOFFM7E4P5NcrFJ/2IHoWoH2nDqLadevj0Aifox+0DcqYrQ+s9M9z6XX4xesu65e7LtqAPT7jrnxNt7UfZHPM1Ypj6Hac46Us=;mlNmN9gfrS1vDhZdWu73Xw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "SteUlkQaP27C9A+n4cpxzVvJoVPYjLIbHpaJt//PFPBCrIWxD9UJI+LghX703nCZHZXRGASQsXugJyQG35ibAovjUXCGxnUd1qFZry3m7+UpscjiY2qpkWxakbINLIStqQZDXOHvn96ekwNjWJmpOdrIUmf1BHxuuPpbXDDJQSVF8xo89sR0BAdzZqTEuLuCQYkthGoWnjNZYpcILikxis6nW+EHGez/rjeEz+1VcMIvSOJwY1gauuMeO9eSLnOtulLw/d+XFXcQsORanAfWTHG7t3zSo7q3Cs2H+T+8aQX1emHhlKg8lKoC7Rh6PFVtuOqtFrRSXlphsgUBDlgC8BxJsuJFlbcnfTvDUk37oXA=;76pL+MnGCPwgFjFT7OMVmg=="
 ---
 

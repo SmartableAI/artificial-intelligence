@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market"
+    excerpt: "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning"
+    publishedDateTime: 2021-01-19T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
   - title: "Upstart CEO on using artificial intelligence to modernizing lending"
     excerpt: "Upstart CEO Dave Girouard joined Jim Cramer on \"Mad Money\" to explain how the online marketplace seeks to transform bank lending by matching borrowers with lenders."
     publishedDateTime: 2021-01-15T22:08:00Z
@@ -72,20 +83,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106825631-16107556956ED3-MM-D-BLOCK-011521.jpg?v=1610755694"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "How Startup ThreeFlow Is Transforming How Benefits Are Sold Using Machine Learning"
-    excerpt: "Seeing an opportunity to improve the RFP process using data, advanced predictive analytics, and machine learning, ThreeFlow focused on the greatest pain points the employee benefits industry has today."
-    publishedDateTime: 2021-01-14T20:32:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/14/how-startup-threeflow-is-transforming-how-benefits-are-sold-using-machine-learning/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6000a83e530a198030e83566%2F0x0.jpg"
-        width: 1200
-        height: 705
         isCached: true
   - title: "Tackling subjectivity in hiring with AI and machine learning"
     excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."

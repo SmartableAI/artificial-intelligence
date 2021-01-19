@@ -42,16 +42,19 @@ related:
         height: 630
         isCached: true
   - title: "Progress towards unbiased facial recognition seen in EU computer vision challenge"
-    excerpt: "Progress towards unbiased facial recognition seen in EU computer vision challenge. A challenge organized by the Human Pose Recovery and"
-    publishedDateTime: 2021-01-19T01:15:00Z
-    webUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
+    excerpt: "This challenge aimed to address the issue of discrimination in facial recognition algorithms relating to inaccuracy in identifying ethnic minorities."
+    publishedDateTime: 2021-01-18T23:15:00Z
+    webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "KLIA to use facial recognition in place of boarding pass"
     excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
     publishedDateTime: 2021-01-18T23:50:00Z

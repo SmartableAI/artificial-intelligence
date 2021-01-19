@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving vehicles allowed to skip some crash safety standards under new rule"
-    excerpt: "The Trump administration issued the first of what is likely to be several rules designed to speed the deployment of autonomous vehicles."
-    publishedDateTime: 2021-01-14T19:51:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/01/14/self-driving-vehicles-skip-some-crash-safety-standards-under-rule/4161416001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/4161416001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4161416001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/28/PDTN/dd4e63ec-b9c7-41d5-9d1d-c466572cb488-AP20149516066866.jpg?auto=webp&crop=6602,3714,x0,y688&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-driving vehicles allowed to skip some crash safety standards"
     excerpt: "The Trump administration has issued final rules that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
     publishedDateTime: 2021-01-15T19:44:00Z

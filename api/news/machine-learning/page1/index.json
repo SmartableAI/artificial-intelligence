@@ -152,49 +152,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-16-in-brain-imaging-deep-learning-beats-standard-machine-learning.md",
-      "title": "In Brain Imaging, Deep Learning Beats Standard Machine Learning",
-      "excerpt": "Deep learning models were able to detect patterns and discriminative features in brain imaging better than standard machine learning tools.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
-      "originalUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-513688464.jpg",
-          "width": 690,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning.md",
       "title": "The AI Incident Database wants to improve the safety of machine learning",
       "excerpt": "The AI Incident Database documents failures of AI systems in the real world, revealing past failures to avoid repeating them.",
@@ -252,8 +209,8 @@
       "title": "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™",
       "excerpt": "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -486,17 +443,17 @@
       "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
       "excerpt": "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ...",
       "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
-      "originalUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
+      "webUrl": "https://www.thaipr.net/en/it_en/3018538",
+      "originalUrl": "https://www.thaipr.net/en/it_en/3018538",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1",
-          "width": 2560,
-          "height": 1340,
+          "url": "https://www.thaipr.net/wp-content/uploads/2021/01/Protein-drinks-1-768x432.jpg",
+          "width": 768,
+          "height": 432,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -504,13 +461,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
-      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
-      "publishedDateTime": "2021-01-13T21:32:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T17:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
+        "name": "thaipr.net",
+        "domain": "thaipr.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -948,24 +905,33 @@
     {
       "path": "_news/2021-01-13-talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence.md",
       "title": "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence",
-      "excerpt": "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization.",
+      "excerpt": "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:12:00-08:00",
+      "publishedDateTime": "2021-01-12T08:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -975,9 +941,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "AWS AI"
       ]
     },
     {
@@ -1403,6 +1369,40 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-decentralized-machine-learning-trading-up-602-over-last-week-dml.md",
+      "title": "Decentralized Machine Learning Trading Up 60.2% Over Last Week (DML)",
+      "excerpt": "Decentralized Machine Learning (CURRENCY:DML) traded 1.3% lower against the U.S. dollar during the one day period ending at 13:00 PM Eastern on January 9th. Over the last week, Decentralized Machine Learning has traded 60.",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html/amp",
+      "publishedDateTime": "2021-01-09T17:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

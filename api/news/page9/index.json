@@ -2,6 +2,196 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-12-argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021.md",
+      "title": "Argus Research Analysts Highlight 5 Of Their Top Stock Picks For 2021",
+      "excerpt": "Several leading experts from Argus reveal their favorite investment ideas for the year ahead — included as part of our annual MoneyShow 2021 Top Picks report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
+      "originalUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc9778d3d641fe5ab07647%2F0x0.jpg",
+          "width": 1200,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
+      "publishedDateTime": "2021-01-11T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-samsung-unveils-trio-of-new-robots-to-help-out-around-the-house.md",
+      "title": "Samsung unveils trio of new robots to help out around the house",
+      "excerpt": "Samsung has unveiled a range of new robots designed to help out around the home – capable of filling the dishwasher and even pouring owners a glass of wine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/",
+      "originalUrl": "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/368c9412-3124-4fa6-809a-468ee7adf1ff-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/",
+      "cdnAmpWebUrl": "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/",
+      "publishedDateTime": "2021-01-11T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Evening Express",
+        "domain": "eveningexpress.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-baidu-and-geely-shack-up-to-build-electric-cars-in-china.md",
+      "title": "Baidu and Geely shack up to build electric cars in China",
+      "excerpt": "What exactly the \"intelligent\" capabilities are, we don't know yet. Baidu created its Apollo self-driving car division in the past to research and develop autonomous car technology, however.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/baidu-geely-build-electric-cars-china/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/baidu-geely-build-electric-cars-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-meet-the-researcher-creating-more-access-with-language.md",
+      "title": "Meet the researcher creating more access with language",
+      "excerpt": "When you’ve got your hands full, so you use your voice to ask your phone to play your favorite song, it can feel like magic. In reality, it’s a more complicated combination of engineering, design and natural language processing at work, making it easier for many of us to use our smartphones. But what",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/googlers/shachi-dave-natural-language-processing/",
+      "originalUrl": "https://blog.google/inside-google/googlers/shachi-dave-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/shachi-hero-image.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/googlers/shachi-dave-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/shachi-dave-natural-language-processing/amp/",
+      "publishedDateTime": "2021-01-11T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-artificial-intelligence-in-healthcare-report-2020-global-market-forecast-to-2027-researchandmarketscom.md",
       "title": "Artificial intelligence in Healthcare Report 2020 - Global Market Forecast to 2027 - ResearchAndMarkets.com",
       "excerpt": "The \"Artificial intelligence in Healthcare Global Market - Forecast To 2027\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence in healthcare global market is expected to reach $35,",
@@ -1034,198 +1224,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-the-most-valuable-software-developer-skills-to-get-hired-now.md",
-      "title": "The most valuable software developer skills to get hired now",
-      "excerpt": "We identify some of the hot areas where software developers can focus their attention to better stand out from the crowd in a challenging job market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.html",
-      "originalUrl": "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/red-balloon_leader_unique_one-of-a-kind-100746953-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.amp.html",
-      "publishedDateTime": "2021-01-10T22:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-samsungs-digital-cockpit-is-a-futuristic-concept-for-self-driving-car-interiors.md",
-      "title": "Samsung’s Digital Cockpit is a futuristic concept for self-driving car interiors",
-      "excerpt": "Samsung has announced a concept tech that imagines turning cars of the future into mobile offices and entertainment centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/",
-      "originalUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/samsung-digital-cockpit-cars-1200x630-c-ar1.91.jpg",
-          "width": 846,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/?amp",
-      "publishedDateTime": "2021-01-10T21:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automation-platform-with-new-advanced-ai-capabilities.md",
-      "title": "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities",
-      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic rel",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities",
-      "originalUrl": "https://www.businesswire.com/news/home/20210111005124/en/Veritone-and-Alteryx-Announce-Strategic-Relationship-to-Power-the-Alteryx-Analytic-Process-Automation-Platform-With-New-Advanced-AI-Capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase.md",
-      "title": "Top 25 Machine Learning Startups To Watch In 2021 Based On Crunchbase",
-      "excerpt": "Throughout 2020, venture capital firms continued expanding into new global markets, with London, New York, Tel Aviv, Toronto, Boston, Seattle and Singapore startups receiving increased funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/?sh=1411d09a4038",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
-      "publishedDateTime": "2021-01-10T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

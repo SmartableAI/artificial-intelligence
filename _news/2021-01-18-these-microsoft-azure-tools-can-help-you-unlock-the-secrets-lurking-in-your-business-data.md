@@ -125,22 +125,33 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft will soon allow users to have more control over their voice clips"
+    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
+    publishedDateTime: 2021-01-19T11:41:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-will-soon-allow-users-to-have-more-control-over-their-voice-clips-ceddf190-8703-4554-bd4a-5272e4f135b6"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-will-soon-allow-users-to-have-more-control-over-their-voice-clips-ceddf190-8703-4554-bd4a-5272e4f135b6"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-will-soon-allow-users-to-have-more-control-over-their-voice-clips-ceddf190-8703-4554-bd4a-5272e4f135b6"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/4863x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4ce67df8-4bad-5179-b3c6-3dc1a4b1394f&operation=CROP&offset=267x1283&resize=3470x1952"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Microsoft allows users more control over their voice clips"
     excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
     publishedDateTime: 2021-01-19T10:27:00Z
-    webUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/"
-    ampWebUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
+    webUrl: "https://www.sify.com/news/microsoft-allows-users-more-control-over-their-voice-clips-news-education-vbtkPDgegicfh.html"
+    ampWebUrl: "https://www.sify.com/news/microsoft-allows-users-more-control-over-their-voice-clips-news-education-vbtkPDgegicfh.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-allows-users-more-control-over-their-voice-clips-news-education-vbtkPDgegicfh.html"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 61
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-        width: 1080
-        height: 582
-        isCached: true
+      name: Sify.com
+      domain: sify.com
+    quality: 41
   - title: "Microsoft clarifies its practices for voice data collection"
     excerpt: "... rolling out some important updates to give users more control over how their voice data is used to improve its speech recognition technology. The new setting will allow users to choose if the company can use their voice recordings to enhance the ..."
     publishedDateTime: 2021-01-18T16:36:00Z
@@ -193,6 +204,6 @@ related:
       domain: microsoft.com
     quality: 10
 
-secured: "zRbE7xeR6Z1zRqaRtKR1YEmOxTqeefDvpo2AcNHO0U817PVuXoPwzJywQpoK0c/qpE6aFF9A2kw5F/JJcXnlpKR5l6/W2/rnAmENKjFKViFvr58MYNEjUjJLRVlRF/jVmxrCN6jtXsFBu0RmEiV0/0HqXUJLFZwcg65z8S6uVH00SV12NOt/4oGWO8/zJgwE7Kz4lSSnSmttKQW3uH1rlYfYAq56bEo/sqfs4PbPPlU9j4MEE9smwHvEify8jHhWt/ebszZQhJknnUVCYgZ8EuKgQXFq/ojK4obGumxhj0u87ZxqarRvuZNyLWBvcEjFEXNTj0gFVn+FFh8wjVv8g56wLhXVw0IVpFCQmPwW9lM=;0CT06THurDDnA8jEiyJ9pg=="
+secured: "6oQonP/ef60Wt21QAnirZkfpTLc0zti16Au2sKvFWd4qVQpvx7lu2/XAwINBh7mBROq5lHI1eofL9K6KguGTXFw+uh5bPLxioTARC90K2umfAugTf8g/arnM21hMZkSBbquusXvOlHyGD9z1dOvwPDKB05n+rzIkFcvo8scBuKszT9jr0QvoNug7QITnA8xFsc6B2OxDijUxu3hz8K0fDL32CBd7tn6T3dEKp4//bL5eXbvN8AWANNnMsfhXmMhIob0qWBaNqUh2bzc5qsUtJzz4753M5ohLIPONZ8gXcQ2Cf45U0MkV45/S0zcd5YksSPUOE8RYMov6WBFzmSBr+/QybcHflVFxDSJRKmckwJArM0mVnxYDQUln8Sug21d7qPS5qUfKDkZJL/it4Yn5zeQBknPE8Tzni9voK74z2FidHzcl8vbAmGT8grhyDsnVJbKJkut0hK1OQO2Jwaet9o8cQ/pbQQwPk821KpF4JJ+EG7cuojwaSRidcn36MYGXqoRr3YCbuYgkjqrvfLmdTA==;BRN/vN3/A77DSNGBYCRCVA=="
 ---
 
