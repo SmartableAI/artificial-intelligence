@@ -39,6 +39,6 @@ related:
       domain: compsmag.com
     quality: 40
 
-secured: "Dq2oXZl/6gc+81iU//5tnyWytC8v/iazoEBEZNe3uWFmj01bKwxCXhQ+Z0XY22CnZpija8lcoymh8pOJFSbmhvpzuRPn36NyLAfVgsm+h6QwqygaSIJuXz2uRKQyiIAs1Dkl16JsPREvlfJVDMPqw3XDa36j9LGJXAzGJkuB4gkwS5f8trKrjyA7x/EAMasT9uHfnQ2GIWqvuCF04NHZP9fnOuvQN0QAINYbRiZ4/Ff65lwUwA9IQlTRjkOLNOj3R5phjTfCxcIzxStelwYta/LljjrXoNrAImYu9UswZywGnVBt5UPQX/Numt60R2pjatFspuZ72Ah/II/jUGtihSjy4lWroD3b96ZmaR1TzLM=;bH9GkulghpCokJWiKLZ+VQ=="
+secured: "Qz/TlIoaSaIONdJjrc3VpfH4Q1/QBd2QR+YkRSQGjcAyK07WsHf7Tnfx359X0PH+IVmxTNHNmu5yfN1D9NdB1Sz4yJH9dj/0nwkAjKupd1P9fv402uD6fU+BV+VeOF2J8REjAjbci8/T6bGY+MdTzbaxskAUhYJcUrslmAZSy4MNG2SrV24OIAAXX/ZxGIg0nrUF51RKI8GPgjxDELo6iCzh7iNIrmG/bSLzVBYb20qrQ9o+7vkVd0DpiQkw8VucdMTvLVQsD3QLufkI82j05u2Z9l01Zt7VYoL2CjmOQ/rhx0SQ/D1ZZhPHb2Vp2U6v49BaCzbh4zjoowng3Lu21wD79FW3qS5vjCcC1ZExOXc=;h4xuGigdBAq/vLy40q1hNw=="
 ---
 

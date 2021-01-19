@@ -78,6 +78,6 @@ related:
       domain: morningstar.com
     quality: 2
 
-secured: "22RSu3+Sm2Qc2IV/xdvnbktSQw0zb9ra2j3PodvHht+wGGN9D8A8C8w4TlJv6u7iR5/0pz+1Xrm754AU+o2aC3PZJyApt/lq+A0tSl7+D3dXEXTCY8JKUENCUaUuQ46bz3/BmNkOE8keK2zFyazHfPbmkljvrpSkKQRBtnSS6vjlIFmCOti+4itjFjN56RneWAjz6Zj/gUzx2TJIQgbayVbaKFh3XqzmcRpwXKGyDr3XvK5zmnVLCo01eRTjalFuZ1+dbIWVT/JuVOxu0Oqtd2pIsR5aJ6OSxkyTxb23PLgyv982nbtCyDUqn45y3uPs/pYPpKm/IfLBMvYLFLqrJbmgCPJst51+YUAd2d3E/m0=;ST9Ef6Emk/IeLOES2qxzFg=="
+secured: "Pt+V6P+k0ByETNV5I3UED8UTczb5DMR/NZfN9j0Ez14ijT7Ivarm/APatc5y9UD6Wxo2HIbkfhVqlWOcerco2iwoa0L59g6JTH4zXVlGghYgPR6352AzFkkKtaKEQ3MSXyagiHQ6CDfQlJlO+tkzLQFCrV0quHBhQaQZEpcJpUtIdgoN9eF2rZFsfYYSG41/EIOdz7hJPcp2STybCrvvQUQ7Fivj1hrnm6xF1f1hTmjNUySsmyPEYKn1avsUcSeGS4KGykUZHNEUhcdhf/LRbjIwHHVli8vDBzJo5bIA85KAtD/F2vH9z3ml+3vLIdd8nOaajxYPt1gnyQFlFOtkdOSTUaTpanfQzcJcuPplz+s=;nR2nUZ9JvP6J2gzUdi018w=="
 ---
 
