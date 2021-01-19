@@ -27,17 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "You won’t need wing mirrors in the US any more — if you’re a self-driving car"
-    excerpt: "The NHTSA is working on new rules that better acknowledge not all vehicles in our future will have passengers or drivers, and don't need the same features."
-    publishedDateTime: 2021-01-18T08:53:00Z
-    webUrl: "https://thenextweb.com/shift/2021/01/18/nhtsa-wont-need-wing-mirrors-regulations-trump-administraion-nuro/"
+  - title: "Paccar, Aurora to Develop Self-Driving Big Rigs"
+    excerpt: "Truck-maker Paccar will work with autonomous vehicle startup Aurora Innovation to develop self-driving heavy-duty trucks, the latest in a growing series of deals aimed at bringing automation to the business that moves most of the freight in the U."
+    publishedDateTime: 2021-01-19T20:00:00Z
+    webUrl: "https://www.wsj.com/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 51
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F04%2Fwing-mirror-nuro-driverless-autonomousm-car-delivery-bird-regulations.jpeg&signature=1f56ea53a4de370f2a5b584b66038b0f"
+      - url: "https://images.wsj.net/im-287222/social"
         width: 1280
         height: 640
         isCached: true

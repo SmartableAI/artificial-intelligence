@@ -2,27 +2,21 @@
 category: news
 title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
 excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
-publishedDateTime: 2021-01-19T13:58:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-437220a659744a2fa5311d4d7909d5ce"
-webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-437220a659744a2fa5311d4d7909d5ce"
+publishedDateTime: 2021-01-19T13:18:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210119005602/en/Global-Optical-Microscopes-Market-to-Grow-by-557.96-Million-During-2020-2024-Integration-of-AI-and-Machine-Learning-to-be-Key-Trend-Technavio"
+webUrl: "https://www.businesswire.com/news/home/20210119005602/en/Global-Optical-Microscopes-Market-to-Grow-by-557.96-Million-During-2020-2024-Integration-of-AI-and-Machine-Learning-to-be-Key-Trend-Technavio"
 type: article
-quality: 16
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "How AI and deep learning is helping marketing"
@@ -189,6 +183,6 @@ related:
         height: 1119
         isCached: true
 
-secured: "cpy3xV5J0v6UzHD+tFY2VL1WmNkTcREb7pDQefJ5g5TXskq4TsOYPrN/+3lYJiwVWQNLC1k3A2bgDXxJbqd+vZ+TKAbQcGG181DZGmvd2KCGpSoJkJ4hdwB596hLNkKmLvf+NtgclpEg5eg2M5G1xboWKlgtYLzE9kfm9D+su6QfrelrtVj3yQO5/6QB99MzoUHW67WQz8h/0HhpEmfaxDtO4uFnDRT4f7lsRc9irPiB+UCALnHZNNvcnU7TKJdeHaxRig69EZniGr1xamXXLL1XP0tSQduTPY2vsBJGRsSBwf+th+eqkoukAO9UXeGIJa2oKWAAdU3ouCjZ3h+T04cktxdnl5RYmUYoehJnZd8=;0xPnV9ax26vMMOw7ukls8g=="
+secured: "HpgmXwoTqi8wPT62/FFCGBGcH7tBkSQMPojmBRtueXfESrDvK6Z+VZOj8DCk3MukoAzCc4BjT7WB/LOa0jj7aHMWkHkdi7wBtT1lf8DEFY4CWR0wiFAWo4u/Mwzle+MKv5kdduyclO6yHMbbGVg0ITQdNI0L8FFzvxQddlZD/GnmWfQiMAPBI0tk8syHVaZs3BigvMK79Ttj3cgzQ8r81aYmWEQ5UKEoYulrUXAvjjuTcBl24bIQlholIyL/3WVdv5hCQZxvnN+C83uiCmX5XXlMpQ55RuZ4ZyXSgi9KSEyeFRZz2NqF6BoVwpXv0nw3o2mwRc0v1hMaB+sB9OyUeiIJH1llQBAeWDY/V28iPIMo1iyVfTBzW2EmD7RGenv3WmSMlGLqki3iyGck6b68pZCFFg8m5IoUv2D2KPUsAL8McJke+jXs2NVsG6vvyP/nK1xi1BE1o5Ib1/Q8Y5/dG0yP8yThEFbBEwwsYh3WXIJIT9E+9Oh+znW4F6GySQB2Bwzuu8OHXaG2JjUQyzxuzg==;Q70F37QkMZu/Cws56vg4gQ=="
 ---
 

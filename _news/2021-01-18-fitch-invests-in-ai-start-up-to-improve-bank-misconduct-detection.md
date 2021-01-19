@@ -37,6 +37,6 @@ related:
       domain: industryleadersmagazine.com
     quality: 33
 
-secured: "5w1hjH96Ybyum+ECUqhHHD+hMyvG9WmDX/sFWa0XlBxRtfKlGnk4WkFnFpvOtUO/9MsbBSukFxOr0sScmrqQKH3axAlPQmB//bk9nwTUCqIUV2JKfJlGkpreMcNMEwHhrCXw5UX/q+9+qBXT7TYgkZov+mkT/F9Q40B61lcKgiJmfpC1L8Yg6GhpD94k6sAjK7v+OGwKQAblU8jIc/i49rRbwQCuKDVIVKSZxb/3r+1onvikIy/f3zL/3lBqGM8dWNtKX9ZHg9iEno6bvWdyvHhoYAb4+uMfGqe02b+XJRotCmOmoBoJ3rC2VDjvnIF1eW4zRVZIlFUqR7oOaQywoqnjl9JiaDoo8jMlJtwZtTI=;SZ3+sGU48Wwdp+HXquaCcw=="
+secured: "XDfhBFn3wJ/oIQ6SxRhJ2YnsVfXR5OB0fs4kNraMCq8fdZgxiBPHO09YYcEFLl4auhQfk4sJ0xhoB1mtHjhtNF16oy2DEEGn0Wc3RdLDOr6MhIvm2O9+ofN/Q4n43Td+bAgihB5RukpBsInwI2+RguRlV06nfPOOZQEF8X75tpdoruUJd5dgSny8BcyDhj5V86e7sBCrSur1bhzjOUIvS7E1wpNNsFbWcZhgCafiPLygJwtT0UkJcV/m/exK7eHFFyfl0ALMwxavd8LkWx9itNOrXm4ilM9n2MId0da9AY32XKSK4ErvCrkGesugaEe9S9zfvfAIlLDg7AoWD85KPGShIWZtM9I/fP15L6sdRqM=;EDyRjlNMCUYzsipPAn6tCA=="
 ---
 

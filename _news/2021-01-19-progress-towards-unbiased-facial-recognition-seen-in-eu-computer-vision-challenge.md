@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Progress towards unbiased facial recognition seen in EU computer vision challenge"
-excerpt: "Progress towards unbiased facial recognition seen in EU computer vision challenge. A challenge organized by the Human Pose Recovery and"
-publishedDateTime: 2021-01-19T01:15:00Z
-originalUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/"
-webUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/"
-ampWebUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
+excerpt: "This challenge aimed to address the issue of discrimination in facial recognition algorithms relating to inaccuracy in identifying ethnic minorities."
+publishedDateTime: 2021-01-18T23:15:00Z
+originalUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
+webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Q9ktT02XLjHFZ7f6+m3D9dI+6kOycgen0uJd8ReVczcYDPIcy6L2n7ppm7LkhTZIZfAfXbbwlFKwWzh9zTyA44W05Ui49PugwTEN+1rcu0wDmG76LKF0gC60QM7vSFfZzphHdUrKTNI/j0WB4HXKaAF6i1nyVfpBak8bUfcs0E7pjHcznGx6urzieMBBXPyFo2PSQXtQheD9f22egMe1wtpf9mxRuaJXuWkoKJBe4pYy8fqEVzqOc6tInkd+ER94xxSYcYXCJxdUYGGmtkOT19INVqkrXW4w+4wuyv3Qda/oix74S4F1elEzA7eS5HIlzGMTGEnymYF6dffnbrMw5AaNW1Cu4HslsDUXivbdcY9iqUxEfNZ8TYdWnS+JYLCt9LYJMAukuqLiCYFtMFYHUuR0x22BDTVNazsRc8Us89wz80iLRycQPFDI1m0zvb0n/eR9sy3Tk3Bl6jmvx8qSeEz+nO5AD2LwsNC2bE3zTaku1neq8tYXRbsD5J5P2MTQXSqdjzF7MPUr8EANTGVxPQ==;TudMwNLRjWNK4z4ufv9xtA=="
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+    width: 1024
+    height: 662
+    isCached: true
+
+secured: "BTlfKWUGf524OEmkVt6g2MIbz1oFKWIiELH8c/G9t5UoddCZfLUGd6dym335sqjrBZAqOuMeEo4L26Ix0HIRDlFcAUGmqvKWZVAMEyGPBPXcQfxHRQzqAYbGfTMfNcYxqSGcGpqFKKkYu6M20rRlXVlcFKfpMpFupZ1sSP+DIXdP3ZEgv5mi9i13fanNmQMGCwYUDnDuckK4VD//3nO2WVYSHN0LTs2wvKusAUzMS9HYHAw+j9EK04aXrKqq0FQmJlJKnYKCMUjAnvn4/xbMp/2agbF04Ihma1dLK/akq2J+bZb4l/4KYRMz2fqoFA6j9+fz8DJrDnuzUT6ht6/1FJX5mw2E+hUgWFN4GbB9kok=;6eYj6azbYougs726eKDDJQ=="
 ---
 

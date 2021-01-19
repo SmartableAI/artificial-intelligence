@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-power
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/online-2900303_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Walser involved in launch of AI-driven solution designed for 30-minute vehicle delivery"
+    excerpt: "Walser Automotive Group, in partnership with PICO Venture Partners, announced the launch of a cloud-based predictive finance management system fueled by artificial intelligence that’s designed to cut the delivery process down from an average of three hours to 30 minutes."
+    publishedDateTime: 2021-01-19T21:13:00Z
+    webUrl: "https://www.autoremarketing.com/autofinjournal/walser-involved-launch-ai-driven-solution-designed-30-minute-vehicle-delivery"
+    type: article
+    provider:
+      name: Auto Remarketing
+      domain: autoremarketing.com
+    quality: 31
+    images:
+      - url: "https://www.autoremarketing.com/sites/default/files/fuse%20autotech%20for%20web.png"
+        width: 880
+        height: 495
         isCached: true
 
 secured: "kz95cc9KQ17hkOn3uNlmCd7P4doTZj30a7hftAtUb91FXG6XuNhstCNxIdIneyeY2ltqKDAgoBGg+0v6sIx9vUo/LN1GcQ6gTLxoa7aroVNf1GpNsmdpkOX0ZFxJHhFnAdxc3T8NT0M/s4C6hYDQ1gHUv+Dd8AeUmTGarl9uM7jtRBpGx68eOKoq9U8j7eiEs8BVbVsPk5cJ+Lr9+H78pWdt1YhNU8OHHG9vB8VtysMuLiyaB17WLAOuZaWR5Uf3SuVVZaZQ+2/SZKBXjlrxQHTaeWspcpNzGzpGyx95loKw89YmZ8RitMe+g8/DNOOHG2Y44SX1shXvWaxIYdwAwrCuc6ZNJPI+L6pX5fODDpDk+quJpOM4gBhvv4FQyKNZRBQCymYjBWSBY9cEei/oAFvW88O/4nh7v6AEZxezOfC1uTV88wSF5onrCM5KVKT1wTYTsprmjxKLncFDO9I3JsKXj5R/9WXakJCs8AImS+LQ+tp1vB3cgGqAzXxMmJ4pA+darRm15aumlX0azoBSaA==;y6/ZpEIXbK4Qc9Go2jtA3A=="

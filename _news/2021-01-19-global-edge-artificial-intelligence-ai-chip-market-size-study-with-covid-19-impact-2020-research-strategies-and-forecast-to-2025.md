@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
 type: article
 quality: 69
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Drug R&D Market: Key Industries Are Expecting To Recover From COVID-19 Outbreaks 2021-2030"
+    excerpt: "Market.Biz :The Artificial Intelligence Drug RD Market research study explains and justifies all tools and techniques by a market competitor that may proceed with your further research. It involves the learning of various techniques to conduct Artificial Intelligence Drug RD industry research and acquiring knowledge to perform different test cases,"
+    publishedDateTime: 2021-01-19T22:19:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-new-products-and-services-f0f818e5217ff4fd637ceddddeb877ae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "uSXJRzjwwuEVC0SKCJRwE4vx2rEfM/LwmnZeJF4gD93GhbkgJshEhuE+JaGel8mGzj+OSIOTokYvKaa9cnaEWXqQwA29IOGRssZqK58YC/g4qWbMdNXfb6qv3wIszdS9aOO3A5mMnttRIYf3EkDetsSyy11zIArAW4pwu3dinEFTFPIB6gb6+D12b+NKLNAaTAC0nYq6bfDB44gt7l+3KrkeOppKWxnQU6zIrOc28evcWIuUpqRpq/STj1j1JjCb5auB28DclF6rF/O3lge2TV6uNRWHvdBdcPPZ+b6jV8sI1fMZpvLC7ekbuY3rMbgJp4TKIOm/PVfA0a5vur9NAFUnM5O3pIQ8YL9kp9qAspo=;1I7BYTdmMZhFoEnG6x7nZw=="

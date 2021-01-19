@@ -1,55 +1,44 @@
 ---
 category: news
 title: "Insights on the Artificial Intelligence in Next Generation Networking Global Market to 2026 - Leading Companies, Strategies and Solutions"
-excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer, Enterprise, Industrial, and Government), and Industry Verticals 2021-2026\" report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-01-19T20:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026-leading-companies-strategies-and-solutions-1029983121"
-webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026-leading-companies-strategies-and-solutions-1029983121"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026-leading-companies-strategies-and-solutions-1029983121"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026-leading-companies-strategies-and-solutions-1029983121"
+excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer,"
+publishedDateTime: 2021-01-19T19:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026---leading-companies-strategies-and-solutions-301210796.html"
+webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026---leading-companies-strategies-and-solutions-301210796.html"
 type: article
-quality: 34
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-related:
-  - title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
-    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-01-19T19:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Global Collaborative Robots Markets Report 2020: Innovation That Fuels New Deal Flow and Growth Pipelines"
-    excerpt: "The \"Collaborative Robots, 2020\" report has been added to ResearchAndMarkets.com's offering. Conventional manufacturing setups have been exposed to traditional industrial robots over the years that have gained widespread adoption globally."
-    publishedDateTime: 2021-01-19T16:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19218929/global-collaborative-robots-markets-report-2020-innovation-that-fuels-new-deal-flow-and-growth-pip"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19218929"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19218929"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+images:
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
-secured: "NDYdKcSZhBjMLiXfK+eM7Iz2tICmGjX1i+JUBacTtRj5hlbRDbdiB8WkTlVZaUIdDpqyC5yG/rU1GpFq4xxgrxbzfNBcJYqfhkWwPG73zMAfQ1f+DH4Ea2Vde0rcpXALvJRIt1uM4rbxpEHmxn6dXWn0JAwyoBdStj6RGH+SR808se+L+8CmLwSZ5CPzsOMrjjKSZiDHW+lTkr/Y7hq+PbdTHTi7WAyjUT8l+DOHzOzGnzLe+nux6g7OkMREFzqVR8IwSRp4whGo4OMshf9SPxrHpbKBhwSTuezH4uk68ksFQCdLRZI95vVcEjSpde2T0ABoVy8j8kXshhMrHrUTkkFW27o9w07tTqmv/wX6bts=;v7wV741cO+2XNzhUKAMoGw=="
+related:
+  - title: "Aviso expands AI Virtual Guided Selling across global customers with new industry solutions and partner integrations"
+    excerpt: "Aviso, the only AI Revenue Intelligence platform for virtual selling that closes the loop from predictive forecasting to deal guidance, has launched new purpose-built AI solutions for Financial Services,"
+    publishedDateTime: 2021-01-16T05:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-83f0b08231344a6001f7393bbeb6d439"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "v7YtWpAWFgm+SPNmpKT7L8HsW9h9hcOWN5/n4f9m0ADZNwVR7H/ysyI6iGORBmynsNa8/DSSgfI0jnal2wyy8JPCCP+9EGp6/3LagpAZpjBg8XrK9NMKK8CMFn5OdUvPQmqTuaYQIGgRAS/Xo4aRlg9LYaxVVBwhazjv7MxELNbNoONvNI0p3kEYcdMxkgvSax+Sn+7W68tzuamChlYOasqb+VRnMC/GlLa3yU4z/Jo39BLsYTa4nvk1WjfqKg0GnpN4HPcd9BsySDqNXXU7iTNjh6lhdQRawJxQktXNqvAidNtm8WorrwUCgq50Ied+a4uFWFA3lCKPi/T4xYhlava8tnT+LKg2C6N0LTQGP8U=;jtME6P0HEFUm7jM+PwU66A=="
 ---
 

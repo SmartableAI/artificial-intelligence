@@ -171,6 +171,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Drug R&D Market: Key Industries Are Expecting To Recover From COVID-19 Outbreaks 2021-2030"
+    excerpt: "Market.Biz :The Artificial Intelligence Drug RD Market research study explains and justifies all tools and techniques by a market competitor that may proceed with your further research. It involves the learning of various techniques to conduct Artificial Intelligence Drug RD industry research and acquiring knowledge to perform different test cases,"
+    publishedDateTime: 2021-01-19T22:19:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-new-products-and-services-f0f818e5217ff4fd637ceddddeb877ae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "INWvF+qdXp3of2yN7u6c55Cjf09jX2lqSH64uX8Qtu4xAIIg+nbAEawCggyuGqgGNMJeCCFg9T4A+O0gzdeIlTarUvdNl6sLY4Q4CBRy/HcNt3f0wXZo+kqKtWkHXTfz6ugLaaPdu2Pcawpjzi/bFipizBSk6cvCyx5fw5X3J/0lWPv2GgtT7giFdQNDxR/U0nQTNyxX9Y5WHPdTuqTNJExxzXCUJ5kZMSf461VPlmSept3XCDP8qui0SKKmrBhKHz0lkd8N9jpOQwbnaKAs2sXsGKBZHKyQPbHZCRxq28HeJaGwiTlTN8eAEMeXL7IRXI1hidJte1mZqXoxXut3mqaI0on0pLAHybt8/9BxSZ8=;3ZG8haSNMmWIwuYc1hINMQ=="
 ---

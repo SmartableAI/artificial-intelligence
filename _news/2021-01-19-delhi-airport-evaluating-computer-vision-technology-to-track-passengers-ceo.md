@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-com
 cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://static.toiimg.com/photo/msid-80144619,width-242,height-136/80144619.jpg"
         width: 620
         height: 413
+        isCached: true
+  - title: "Delhi airport evaluating ‘computer vision’ tech to track flyers, ensure social distancing"
+    excerpt: "Delhi airport is evaluating a \"computer vision\" technology to track passengers, reduce waiting time and ensure social distancing at its"
+    publishedDateTime: 2021-01-19T21:40:00Z
+    webUrl: "https://www.dailyexcelsior.com/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 45
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2021/01/4-8.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Delhi airport evaluating ‘computer vision’ tech to track passengers, ensure social distancing: CEO"
     excerpt: "Delhi airport evaluating ‘computer vision’ tech to track passengers, ensure social distancing: CEO. Delhi Airport is evaluating \"computer"

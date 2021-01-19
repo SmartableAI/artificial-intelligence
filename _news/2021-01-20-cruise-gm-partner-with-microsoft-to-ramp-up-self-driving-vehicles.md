@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The building blocks of Microsoft’s responsible AI program"
+    excerpt: "The post The building blocks of Microsoft’s responsible AI program appeared first on The AI Blog.\n"
+    publishedDateTime: 2021-01-19T22:49:11Z
+    webUrl: "https://blogs.microsoft.com/on-the-issues/2021/01/19/microsoft-responsible-ai-program/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/5/2021/01/CELA-MOI-Blog-image_-1.15.20-1024x694.jpg"
+        width: 1024
+        height: 694
+        isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
     publishedDateTime: 2021-01-18T11:47:00Z
@@ -188,6 +202,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GM, Cruise Team Up With Microsoft For Driverless Car Tech"
+    excerpt: "Microsoft is joining GM, Honda and other institutional investors for a combined new equity investment of more than $2 billion in Cruise, the San Francisco-based autonomous start-up. Their common goal,"
+    publishedDateTime: 2021-01-19T22:50:00Z
+    webUrl: "https://www.carscoops.com/2021/01/gm-cruise-team-up-with-microsoft-for-driverless-car-tech/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/gm-cruise-team-up-with-microsoft-for-driverless-car-tech/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/gm-cruise-team-up-with-microsoft-for-driverless-car-tech/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 76
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/01/gm-cruise-and-microsoft-self-driving-tech-4-1024x554.jpg"
+        width: 1024
+        height: 554
+        isCached: true
   - title: "Microsoft, GM’s Cruise team up on driverless cars technology"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors said Tuesday they would partner with Microsoft to commercialize driverless autonomous vehicles. Microsoft will join General"
     publishedDateTime: 2021-01-19T18:46:00Z
@@ -234,7 +264,7 @@ related:
   - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
     publishedDateTime: 2021-01-19T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO?edition-redirect=ca"
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO"
     type: article
     provider:
       name: Reuters
@@ -531,6 +561,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Microsoft Joins Self-Driving Vehicles Race, Invests With General Motors In Cruise"
+    excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM), to"
+    publishedDateTime: 2021-01-19T19:17:00Z
+    webUrl: "https://www.techshout.com/business/2021/19/microsoft-joins-self-driving-vehicles-race-invests-with-general-motors-in-cruise/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 34
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/01/cruise-self-driving-car.jpg"
+        width: 690
+        height: 480
+        isCached: true
   - title: "Microsoft Lets Users Decide Whether Their Voice Clips Can Be Accessed By Human Reviewers"
     excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide"
     publishedDateTime: 2021-01-19T19:51:00Z
@@ -555,6 +599,6 @@ related:
       domain: microsoft.com
     quality: 10
 
-secured: "gbmunN/qZhqpl1M7S5e0PzZI5PSiI9WgsL8JbaQjJklpG5cB3OQuIP94dS0DS0A6gAmMothfJkYbwPVEjqgmhvjLzmFLCGaXldynmSXEG9T2t0amAfFxoy2EkL1S79ABh0E6lBhoxXlXNjbxBY9wzHK9cdAHGXA8pbcE1vr5r/N7qdqo1aCt70zFTLUTg6BqkoFZv799jp/lqN2Vq+xNtjBdY3DWao2GEsNetuifevQHX6a9QEq5PxHKMw3IHGVtcithqFQO+X89jrCaG/y/+crEt6MHdM8awEDAMF1cdxpK2yOsM+aNGhDc6hqCdtr9yLnjK7DQXKpOoohHoXGr5tOi/tEnykevhQZ+15tkrH8=;+Zaqjp56sJTyNE5TveoFFA=="
+secured: "BzHS01JjEqiVbgDvc8lJPjgIn9JXo+/FXW7HwM5/kpUqitPIi11AzwoYj2jJAYno+NRvpeA+wf4wfLo2M0UvLLxYsGvp5Bib7PxN5i80qLnCW3gfuCqm/qE7riJ0H0KJY50CEuGLVj7LqQWCJ3k4fB2ZTL8GIBO7oLkyu3ZbOCmht9q5E39qDC4D3tfhGQ0zT8Q6+cA0lgdA7JEi4VjaZhdCj+ilTX/JrfWvWviw3pdLL0NmNrGmjZ0E3jyOtsQfTIsusAyu8qFDCp1buYgYXcDwP2x3zT9SMYrKNANZ7fwYSTnoHGeTf5ycg5GAxZyManhK4KhqEmB2B0HSKIJU3hhzGUTTBOiVWfmTl7yYhu/Lc/t7lIxwKF14RIaL4WGLm9SrZ9VIhSaVQNJHbORaC8cPKRf8iSDuN3jjpQJ+g7WPebsip4pJyXnYHGcjDXOl5n7LHZPDmxXYaAr1zwrmfAkw7cVH59Y2VD+Fv4NUsCevaqThmsGGyH8BpbmLLo4wBzclg+cNFg2yF3VbA35eDw==;7Z3GXZfrgjYdMedIHgeJrQ=="
 ---
 

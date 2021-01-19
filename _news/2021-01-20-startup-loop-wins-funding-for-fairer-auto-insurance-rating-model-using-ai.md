@@ -175,18 +175,13 @@ related:
         isCached: true
   - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
     excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
-    publishedDateTime: 2021-01-19T13:58:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-437220a659744a2fa5311d4d7909d5ce"
+    publishedDateTime: 2021-01-19T13:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210119005602/en/Global-Optical-Microscopes-Market-to-Grow-by-557.96-Million-During-2020-2024-Integration-of-AI-and-Machine-Learning-to-be-Key-Trend-Technavio"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "63Ozjn3lFVC+BxfaQNkHiPWKiEDUya/2o1QK12ZsqrrByULtBkkUx/J9OQZqmMJ808ds3/lsqWSMkTSWn1uZO16BrRtS9V59hea0Q3dzc9iWjff9uynwiU1g++2yryYyCiV1oxMaBu2neCqzaPeBKucvCd5y8kUM2UUHvoakKnxUt61a3mWP+nm1OXCquLGoYY5+kGrtGp09QgWTMwT4ZPGGg4k2JZkR8IiAhR4KiUKx0wMG1YUfsGiPL9jVXH2mdQbu7m+Xz/cVfLVQSi2JcUM3Tq8408dIbiUYs0zI1y8MTq8fGiKWSmJTRL0TDlRAiuXfckqk8ho54GBly18okpkQFrjbHzl27h3HT7INB5iRpIlMLRQgODUiQhVFg30AsFV7TysDd6JaHmK5KgnZmg6sJs9vhNdwJsmEHG0rFjXF1qy/z+iVw+7ggbdaZjDwCnWSPtSTpENvKdLI7SGSUqVHnFas/2intqtKgMpZqeLtgpI1XaN6+W30wkWhu4BeTnaaXqwHwpTDn/j3XpuIHw==;4OVxcn7GqP8R170E8Grz4w=="
 ---

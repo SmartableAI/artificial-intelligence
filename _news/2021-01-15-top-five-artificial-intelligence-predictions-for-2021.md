@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Walser involved in launch of AI-driven solution designed for 30-minute vehicle delivery"
+    excerpt: "Walser Automotive Group, in partnership with PICO Venture Partners, announced the launch of a cloud-based predictive finance management system fueled by artificial intelligence that’s designed to cut the delivery process down from an average of three hours to 30 minutes."
+    publishedDateTime: 2021-01-19T21:13:00Z
+    webUrl: "https://www.autoremarketing.com/autofinjournal/walser-involved-launch-ai-driven-solution-designed-30-minute-vehicle-delivery"
+    type: article
+    provider:
+      name: Auto Remarketing
+      domain: autoremarketing.com
+    quality: 31
+    images:
+      - url: "https://www.autoremarketing.com/sites/default/files/fuse%20autotech%20for%20web.png"
+        width: 880
+        height: 495
+        isCached: true
 
 secured: "Z1vLAYSWJbVKkygYZXp36T2z37ImHdqzEKqjT7H0Glkbcn/rU3EBv0Gv+Fi/86gI/qFEO0q4M25n6DVnDXdPdJpSXRjNA5xBcwKO66d313i6yQjDhUMUP+3Y2QdoYHHmZlUOiLfHZq8RXA3VkCkM7BhW+/VOCCS7QMyaDGPjACu+BlUZz/XwNXXi3zJhlsJ73uE7XldEnsfW066B7sKMKkGFsqPFQPO5KZpRjuEXmp1Fp2JaH06g72Yg+295y8ZM4phwLmz1oWaV04eSXkwHQ8qHoaRoNonzY9WN+KiTQSIb4OkOESITQvRvi9U6X+U86hTR5HYH0XMMnsCDGvLkqC9OhUBNqpVOa8PH9eqBbcI=;XTSMaL9h5sINnpdWWyrB6w=="
 ---
