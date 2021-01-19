@@ -65,17 +65,6 @@ related:
         width: 1240
         height: 720
         isCached: true
-  - title: "Artificial Intelligence Market with COVID-19 Impact in Homeland Security & Public Safety - 2020-2025"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Market with COVID-19 Impact in Homeland"
-    publishedDateTime: 2021-01-14T09:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19157413/artificial-intelligence-market-with-covid-19-impact-in-homeland-security-public-safety-2020-2025"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19157413"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19157413"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
 
 secured: "0nsrvPfS76cOyOhlzulh46s1ABGWpbv3yTz78uJ1i1ODBKoMes0c1lTEHMpd8wK6YPobl8lqnqXNm0+g4wGkgQlFuUofIik0XHbtGvzeYhXnNzguW1uZC/q1l9S9pg868cWKWH0otEzOgD81et0m3VHSlas5DveF5NuF/PVanyWS5cALiOroBiBGXWoip/DXN6j8/4l5bhnWySFZ9LiXmY/pvHEMs9x07q9I108odl9PBEmwFkRb/1oBffc5YmJyx8s9eOtnMflh5cfAJ+jDHE8k0YN1MfmOE3ybimjmNOwkct/EBqylN57Ys0nvejDq2wUrr+aPOqStB8vumO15JmTKlRIsGegZXg4M7YuIfRs=;BhizavUuHSvowQhRBbYUqQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtai
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332-amp.html"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers"
+    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
+    publishedDateTime: 2021-01-19T00:20:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 74
   - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
     excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
     publishedDateTime: 2021-01-16T16:19:00Z
@@ -72,6 +83,6 @@ related:
         height: 557
         isCached: true
 
-secured: "V9da2o2kcx2+o9eBFrm8HOsMvLPDh7cppFyT6rQtk/MUxW+qq6bdnCaxnFSlMHNLNyyzmn0YzNi1GghfB0J6WV1pDFwpjcYvWkxqWUE0NZ4Lz5sN8TsMoo1036qq2xaeb1v21kUoVXTAIXvFNNtz4Ay9BF6Xud+IPaBAGO32WOt8s0lPwbAbSZnjgoN5VGjFAiIAhnTJ5rz4/fJR+i6DV3FX3vSQ4wapgXGTPdZIob8BpZNp2g8YE646zCfRG0Y5Y6glivem89R3DsN2p3mP+r5ZUIUrxFN/V79uSEhaFyhokuJa6FPuXQEaalHuufAV+0NlXuaNDnjgWRboZi97fPBc3SMvfMR+NvVnXXsRdfM=;rD05u9sGw6JdgHTb2EuGHA=="
+secured: "be+VJjt9w6Mkkvgfrm+B3eYk1NlHphW0ol7+vGLc00oWcgpMeA+GQy8PMqh2n3bwl6adOyRlM4lL+CZmvEo62Egm8pR+kk5fmxXgAvNLq1Q7/UuN36YI4fGIg9RrP+4/PTmkWpYLMohsEfQc2aA1jh0TAe5+7z3Zc+gwcJnMjA7T6cjPTiLrtoDTQKvrmFxbCTmij3svi9r6ejQMJpp7f4/Tcr16XRMQjEzRlVtn+Ii98q/2bAslP+vQXgwrJkckKJaodzRLTDGmaR9GEx+Wk0w1HKSHJ8AA9Mn3ycKmJayzzXCnMcTcv3+pLOSaKdVtqZUtAMrZG92TMC3BwXGbrFZr2f0izL+99mMEeu3yyLeVlNnJSBQBws8hSKcRd3Peryiq+yCsdTNBGfcMGEZ8vAfU907AgYfJBVO1XDE5egERzvEtYLUlN9uyXYPvKbr32tjS1K66aWNXlRJ0zquK48ZE0eBu5ZA1hnstywTX4F+CmSWNbQ1T/rwS+glP9DX/IVmwXl9NLihT4xU4GOd+fw==;m2pDmJj/CyPs1rWDDRCZrA=="
 ---
 

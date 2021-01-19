@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-develo
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp"
 type: article
 quality: 72
-heat: 72
+heat: 92
 published: true
 
 provider:
@@ -25,6 +25,35 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "AI developer to discard data used in controversial 'female' chatbot"
+    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the"
+    publishedDateTime: 2021-01-16T07:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+  - title: "AI developer to discard data used in controversial 'female' chatbot"
+    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the artificial intelligence (AI) platform amid mounting criticism over its data collection process and hate speech."
+    publishedDateTime: 2021-01-15T06:59:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302537.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302537"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302537"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/bb7fc1b753c94279aec1b2fcca08a00e.jpg"
+        width: 980
+        height: 665
+        isCached: true
 
 secured: "pwQjCEUqr6ETY1GlpSbjZ9uWMy3RNreG+6HNJDTjQKcum/ySYPr2lbnKyE2OvzVuLqxK4uKXLvWoE4+eVIfDpJJlx/kXzVZZm1qOyIEQO1GuhjuD2F6fT+d44n4BZ2rZGcSfHhjPyqKsEhyu0/e/BLK1wVKALbgaE5AOxg1vTAtOIOj6MQkRF4P/v36oaHG0aIFE+NVNFYTqtMoA1PSTBdTAOw3VqGfftD1ZaWT5OmEwgKGo6MTorO6+UUiLSFldgBrdwpm/PnlndWrp+FfgbhUTVsmEQkaxnuCIksj+enfFzQg0fZ5n3vwBYxg8lBnd/skePnlx/N0livYKtcJQZbue+oeIFENffKSw/Zv/RgSJw9G/TvQgD2bhugcFWTOPDHqEh2k3RzGyaB3xwEXmxYwiOsg/NDlFQFxtL91bx3Rb0adQMDhtnDUXPe7UUXImQ5tw46/+X2DItocQOGt4j3eIAE+rdiQL/RkKJiFGOncDVeOyFach6+o+hFti1PfnP5yMAnrVHVJYDpfMb2O5lQ==;n8hRhgT1zh7tNQnyeaZ86Q=="
 ---

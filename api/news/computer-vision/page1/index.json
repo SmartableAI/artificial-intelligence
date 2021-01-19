@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers.md",
-      "title": "US lawmakers aim to curtail face recognition even as technology IDs Capitol attackers",
-      "excerpt": "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
+      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
+      "title": "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers",
+      "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
       "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332.html",
-      "originalUrl": "https://www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332.html",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 114,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/01/19/550x309/2021-01-18T234159Z_901953953_RC2NAL9HTPYY_RTRMADP_3_USA-TRUMP-PROTESTS-FACIALRECOGNITION_1611014981714_1611015003203.JPG",
-          "width": 549,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332-amp.html",
-      "publishedDateTime": "2021-01-18T16:03:00-08:00",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp",
+      "publishedDateTime": "2021-01-18T16:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

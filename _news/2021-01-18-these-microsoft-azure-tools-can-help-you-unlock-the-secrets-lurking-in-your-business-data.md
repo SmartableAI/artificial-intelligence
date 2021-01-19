@@ -1,12 +1,12 @@
 ---
 category: news
 title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
-excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
+excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
 publishedDateTime: 2021-01-18T11:47:00Z
-originalUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+originalUrl: "https://www.techrepublic.com/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+webUrl: "https://www.techrepublic.com/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
 type: article
 quality: 95
 heat: -1
@@ -152,6 +152,6 @@ related:
         height: 480
         isCached: true
 
-secured: "QTy0raPdZQQdiHL9XJHpommH3RnAds2K3eCbQn+BssGksD/5i+UOYZXBmbxVqFSFYWCg9m2VNq0iMIBeNNYvK+S9NgZ0c+N6XSGez8CrKd2p35yHj6aWTZgTia/F1anq5tfw1kUdZm2WPRUwLLQzoMcnlBgukDtSwZRDRKNeZpI4y3gWCafTm4YfytfJnU/c2H4JmYaEmJbXQzuFB1B/CmWwS9whSeyslrcyiPtuC0KOo9NoMnzNHGw0Fjkt6fedSQ+0tpuxqLNC8XZsXLGT43VBjotGonvbFitx7r+R9/X6JzmNAGHM4qO0LnssA6oFzYT3LB6GofOe93OOYuxQ57+8lkcT/H6P23esn5zA1xI=;eQodh8/LBiTrtsrgcEJBcg=="
+secured: "eZrnHdpYeOfHwm4We6ML2+6sCQMi1oYpwPyx4WTu8yeXxrIZbOm9KnQPF0r2dIuJv/MPrEltqdsBK+0RWzs/944oNyrz4T/2kLPyIWvx453nRmdlQy6E+n3mHJoMgW4tud77mBFOqgpBKihwTRde9Dq2FGdelb+1wrUVCCE0oPn8Zty5lg8kIplIwW9kDn+Wcke4nZyZglqdiEG5n8Khq0BP3SY8sDkh/Oifj172nEG/bDo59eh6EEbgbc4jglZx18ipKlKi+dV6d/IFFdTOyYNco21hZkQ/eBo8VWMUSMyNop83fsWM2Xo54mDnqDimqNhda2e+Yfdf2DWNpzgCif8w0w7j10fmxTOiMmnk1no=;qmrWMgDt/WzGWl8/ITMwxw=="
 ---
 

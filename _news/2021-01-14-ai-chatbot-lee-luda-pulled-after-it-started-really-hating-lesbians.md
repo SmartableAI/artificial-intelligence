@@ -7,7 +7,7 @@ originalUrl: "https://www.pinknews.co.uk/2021/01/14/lee-luda-ai-chatbot-facebook
 webUrl: "https://www.pinknews.co.uk/2021/01/14/lee-luda-ai-chatbot-facebook-messenger-lesbians-racism-homophobia-discrimination/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,46 +23,6 @@ images:
     width: 1053
     height: 600
     isCached: true
-
-related:
-  - title: "Controversial chatbot leaves lessons on AI use ethics"
-    excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked"
-    publishedDateTime: 2021-01-14T09:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-  - title: "AI developer to discard data used in controversial 'female' chatbot"
-    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the"
-    publishedDateTime: 2021-01-16T07:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "AI developer to discard data used in controversial 'female' chatbot"
-    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the artificial intelligence (AI) platform amid mounting criticism over its data collection process and hate speech."
-    publishedDateTime: 2021-01-15T06:59:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/01/129_302537.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302537"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302537"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 57
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/bb7fc1b753c94279aec1b2fcca08a00e.jpg"
-        width: 980
-        height: 665
-        isCached: true
 
 secured: "qOs0DEt/T/kKhoKCZoa7yqpH97je7f252x5LJkT2pLFiP2Uwk6kFz3kCThAmMmgqXdWAZw1agtDhC4OFyFL6967CGRCP7aoU8bbRoWxIKvsac7r4CkeWpgt+jtAxqU2HEkrBzO0aQg9aWOWT6/GIykis99i0XAE/9hfpX4IcwoKhvhFMc4BBIcr4YbdOVkxRLlTt1b5GUXal/m4ciYOSuDDaMJarvMc69rxCSX1+voC84L1ewcN/03hP+Knm+t42m6FOh1Zv1eUMU99jCqAtwSnqEvsXTqzTCt74HVGu4pHTkuc9xtmkNXmGBQNb2RhpbvDCrZVsRrtKTqAnWKhvQNce04U3MqA7OpvJV5HvTpaU0RIsoqv2dXfvT8HZXGBQQ6epOh1amSImdYzn3wX7k2XyWzar4TZQpFkhIHszbhURw3H7s+AejyOwtIbw6OcOvzOWBWLZKto5uxRHr+9nXwwU9Eb3xItUv71ExGNWmMc/VVZe1JYwssUOb3Q05ZFnZAKQzGOBTfQMML92km/gIQ==;nGxy2kSA40irBt1SExikeQ=="
 ---

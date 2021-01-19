@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers"
+    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
+    publishedDateTime: 2021-01-19T00:20:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 74
   - title: "US lawmakers aim to curtail face recognition even as technology IDs Capitol attackers"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
     publishedDateTime: 2021-01-19T00:03:00Z
@@ -72,6 +83,6 @@ related:
         height: 941
         isCached: true
 
-secured: "zHiisEl9d2emzEOTl3bjYLsPWrtSEfhFTpAl1zVQBCMsxfGa7steTEvjCpgkVIMVY++72ij+pqWdOPjP399YpuAqKxhlaABWSjSC+4SzAoMfmhxeRBLP7hurQJe8yvy0b7DmAycGoT2EPiJ57h+aqNyS32AhJLtEFokrHszJ2kFWz/L0UaFmN0gSKRg2jmUb3wXkm9M56do9wyPQkdFn1Sd76vgWPO4hr1hLGB/OBNOLHejCrCSRm3qQwR5sUBFOiOCCWbBZoleJsD6bPZYSuksoDR3eDpvMzGJsdpd1pb2snKVZwCLeAp+N+iXAZb5bkMG00kFvF/khn9K291Yo9oeI1w6Xvdm2n18scBxS/2E=;ZBr2suz9eRQZWlao17Pr2w=="
+secured: "2/jn4ptVwrsJoJTxNHq3J1h2HRUoQ+SrwxJstXnSWhWQk1gFoY9X/4zoTxCybWyQMMQCoS9tz9IFWF8ABAtGQgk+FvJow9ZcgXSPs445eF9zsv6jYu9KXFCNlqZBRAjGQA5ulqIrwc/82esNr/9cNtCvKi9Rc1pDW/F44xSUfJUyt7nw6iSzRARyWofMXAE5jhnyzCNv/WvoC9l3bsrRDzCNuUhXZKLNDlcT/6tTZDJHFT3M9Sis0ld68Z4/Hk2qDbXulVejQ85HyJJvs3sQ2P/XzG3OQH0aggOzFhvBXsnyLN7Gst75+wdiCvIDEzjp4O5h75fiL41nXmFzATL9UoqUYCYrvLynb1B98UNBiC8j/50dv3ZsBNsX6e22QNot06vvK5pN8SqfuNwB/VJB68TFmdAqCtqB0jvrXgjAGmTjDrIpanXoPsscKf4ZdVPuv6vung05bVzXuiHZ/TXxki7USekfNSegncAJo7FRWs+Xm1hwUnXIej8QW8wamvfkfrgYc4XQMcymZa4G7zcpfw==;sbQk1XBjQ1A7QQQSLlSmIQ=="
 ---
 

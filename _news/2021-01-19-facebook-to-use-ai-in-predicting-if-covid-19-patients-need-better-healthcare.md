@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
-excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a COVID-19 patient may need more intensive care solutions and adjust resources accordingly."
-publishedDateTime: 2021-01-18T20:03:00Z
-originalUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
-webUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
+title: "Facebook to use AI in predicting if Covid-19 patients need better healthcare"
+excerpt: "The research, which can help produce predictions based on chest X-rays, has been done in collaboration with NYU Langone Health's Predictive Analytics Unit and Department of Radiology"
+publishedDateTime: 2021-01-19T01:57:00Z
+originalUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html"
+webUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html"
+ampWebUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
 type: article
-quality: 33
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - Facebook AI
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How"
@@ -111,6 +119,6 @@ related:
         height: 420
         isCached: true
 
-secured: "dH/mtEG3mXy7tajKS5l09JvWdJI5ojOEHzCmoffkDJGLXIyWz50DfWB9Jv9v28HUMpUOOTIWEmiDTL/TaTaxmqowsppqaFQXPy6CcNpSKOERimCjj0KpN5eKW2mAwJrI88s54IUZZULsSRWWxR2Jg2VF31gcEpgBXpjNuLAIlWfiOP7eVea50eiP2uR2pTH4PowBvmFxRlmnt/4lSjNztT7xT7gTtd14y5YPrhlXZnjv/5vWUQLhzjCNfShmogt4a3Fu3SedcaBGXsDzEIUJZ5KX71c1DspuqKMV4uZ8Mmh+UgAp92Vf9w1Qi0ppBWRMU2xqQ679bh4wfy2zw98QVPqKyb3dxYySKrm17nbADec=;Vr+p3MjG20vpvAObg9elmQ=="
+secured: "B8Kr+SVsiz78ITgMpRwInpUPsCo1X1lwK1oYYOP8Jt12c5zCwRtHFYfVd7lqpZNrrcVjzYxHkCVOLOIr00Bg080BfvKYITwGy3BFK+9Xt3ncIxVpG605yx6kAz645bVGB7m13vFbydAGs63Ql9auPth3MnSW6vnL6EH0VEoUh0DqLxICxpkKHjLrcvVN+kfR1knjj7aFiww3MANX2OWTxZch1enzyOF4nIYAxe2Oli/STm/e7BVVNepRQdQfgDXvlk4Yc5efwV8kCbD+OFn2tFoKAJuSE4/sVecl9M78czGjpV3wl7JvewE1V2nCV/woclCSLkoacipdYlUeMBl+pX4UgbewOxHRZGLj6zb9tvA=;d5+nMUoZpNz0dS5ngJlxTw=="
 ---
 

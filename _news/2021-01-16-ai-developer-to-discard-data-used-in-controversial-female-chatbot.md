@@ -24,17 +24,22 @@ topics:
   - AI
 
 related:
-  - title: "Controversial chatbot leaves lessons on AI use ethics"
-    excerpt: "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked"
-    publishedDateTime: 2021-01-14T09:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/controversial-chatbot-leaves-lessons-on-ai-use-ethics-9690795"
+  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
+    excerpt: "Powered by Microsoft Azure, Indian Railway Catering and Tourism Corporation’s (IRCTC) AI-powered chatbot AskDISHA has helped improve satisfaction of customer interactions by 70%."
+    publishedDateTime: 2021-01-17T04:46:00Z
+    webUrl: "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/"
+    ampWebUrl: "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 72
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1"
+        width: 800
+        height: 533
+        isCached: true
   - title: "AI developer to discard data used in controversial 'female' chatbot"
     excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the artificial intelligence (AI) platform amid mounting criticism over its data collection process and hate speech."
     publishedDateTime: 2021-01-15T06:59:00Z
@@ -50,20 +55,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/bb7fc1b753c94279aec1b2fcca08a00e.jpg"
         width: 980
         height: 665
-        isCached: true
-  - title: "AI chatbot Lee Luda pulled after it started ‘really hating’ lesbians"
-    excerpt: "Lee Luda, a South Korean AI chatbot, has been pulled from Facebook after started saying it \"really hated\" lesbians because they're \"creepy\"."
-    publishedDateTime: 2021-01-14T12:42:00Z
-    webUrl: "https://www.pinknews.co.uk/2021/01/14/lee-luda-ai-chatbot-facebook-messenger-lesbians-racism-homophobia-discrimination/"
-    type: article
-    provider:
-      name: PinkNews
-      domain: pinknews.co.uk
-    quality: 39
-    images:
-      - url: "https://s31242.pcdn.co/wp-content/uploads/2021/01/ErYYINpVEAAZIuw.jpeg"
-        width: 1053
-        height: 600
         isCached: true
 
 secured: "UEb2/x/0MThPe3RWkHdrmuPxlkaXtoZ3ecHnhEC4GO+1C5ENbZZjNK2b/iPZsCifGLX8KMnfmQtfX0Bs8BB2eFPOc+BGeb58yKthgMWYWBLQHO+BP6AH1dP06GnFcpv515ObOLw9qnPra1zGbN6WiP3CmvazMYbce+uktBFoAWPmAI7yHWOHA1gd7TGobq+W61L5eE7GCR19ie5Vfz/JW13p46F1vTXZgpFKx+XD2qBaxCDbghPGPiOfBos9GHebVFMXKiR8BR+dIFfd6M1pZBOSVP0/gFKIUGcUBG0yONHjRaahPcH3obYfuSLRzbOjJtalgGDYU5HnHFbJ/5fW80/1lQEs9rmtkWIiLwtbWDM=;03KdprObUnI79AR4zKqTdg=="

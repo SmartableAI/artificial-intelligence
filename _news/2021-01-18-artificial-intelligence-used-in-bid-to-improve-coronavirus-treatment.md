@@ -54,17 +54,6 @@ related:
         width: 1240
         height: 720
         isCached: true
-  - title: "Artificial Intelligence Market with COVID-19 Impact in Homeland Security & Public Safety - 2020-2025"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Market with COVID-19 Impact in Homeland"
-    publishedDateTime: 2021-01-14T09:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19157413/artificial-intelligence-market-with-covid-19-impact-in-homeland-security-public-safety-2020-2025"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19157413"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19157413"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
   - title: "Artificial intelligence used in bid to improve coronavirus treatment"
     excerpt: "NHSX has brought together 40,000-plus CT scans, MRIs and X-rays from more than 10,000 patients across the UK during the course of the pandemic."
     publishedDateTime: 2021-01-17T15:58:00Z

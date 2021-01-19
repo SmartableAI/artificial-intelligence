@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facebook to use AI in predicting if Covid-19 patients need better healthcare"
+    excerpt: "The research, which can help produce predictions based on chest X-rays, has been done in collaboration with NYU Langone Health's Predictive Analytics Unit and Department of Radiology"
+    publishedDateTime: 2021-01-19T01:57:00Z
+    webUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 73
+    images:
+      - url: "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "New self-supervised AI models scan X-rays to predict prognosis of COVID-19 patients"
     excerpt: "Researchers from Facebook and NYU Langone Health say their system forecasts COVID-19 mortality more accurately than radiologists."
     publishedDateTime: 2021-01-15T17:27:00Z
@@ -101,15 +117,6 @@ related:
         width: 900
         height: 499
         isCached: true
-  - title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
-    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a COVID-19 patient may need more intensive care solutions and adjust resources accordingly."
-    publishedDateTime: 2021-01-18T20:03:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 33
 
 secured: "6XoJ24B5IRlGCxThbP6N1+y8uTQ9Ddekihxa91QTW5Gxsks3Hduq4/ODRaBQEIja+91h6xxJuok+J8RqzP6AtsmbzE3mpaLJGPA84imrU7RdX0YPIi1y1fH2wEAmAEEiCPtacc+pRGKBDsSjBlgkMyLtjwHaseI0qBphmxLi4ASBVgcs/shaDUMY6iSPxG2jrYFqpfbj2BBbm8iW41rebb98j4it0c5T/sUK6DKVUvS370i2aFmbpiU2zgUnwGZThxzMYIS4/7V2zvotyG0WjbdJodqNXaOyqcjTQ5oPXDhiaTl8JwSLWmMchfj7hUwOpEJKITHAaFmuAiFOy1v8EhiWzE01FvHkFXCDOZW15dUeQrQ5iJzOj8Ts7n6qvKqFK6ax5u+stmcQKlch+kfvCE5cKGLo8RR8GGPQ7AezQ2iyThsQeTACfRP2B619AVQTE8BFGEbszPLzZ66zII9YCPOneKykZf+GKyT1sKeLHRsCoYukhwSa6p4uc1dQz6+0b9D8MfahWrQu1lY3Ov/l/A==;XbW6xysVIvXl98zfSaQe6w=="
 ---

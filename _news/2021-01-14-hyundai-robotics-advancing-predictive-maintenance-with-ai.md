@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robo
 webUrl: "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GHD to expand software robotics and AI practice"
+    excerpt: "Engineering firm GHD says it will hire at least 20 automation and artificial intelligence professionals across Australia over the next 12 months. Sukalp Sharma, digital experience practice director for the southern hemisphere at GHD Digital,"
+    publishedDateTime: 2021-01-19T01:55:00Z
+    webUrl: "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 69
+    images:
+      - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fCRN_690_Architecture+and+construction.jpg&w=480&c=0&s=1"
+        width: 480
+        height: 298
+        isCached: true
   - title: "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'"
     excerpt: "Enterprise AI solution provider, MakinaRocks ( announced the signing of a memorandum of understanding (MOU) with Hyundai Robotics on January 14, regarding the cooperation of the two companies in developing AI-based anomaly detection for industrial robot arms."
     publishedDateTime: 2021-01-18T13:58:00Z

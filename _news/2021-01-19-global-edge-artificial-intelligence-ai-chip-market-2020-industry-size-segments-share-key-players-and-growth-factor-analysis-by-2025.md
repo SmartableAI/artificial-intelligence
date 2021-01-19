@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2021-01-18"
 type: article
 quality: 66
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2025"
+    excerpt: "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
+    publishedDateTime: 2021-01-19T01:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enterprise AI Market Growth Analysis, Outlook by 2021 - Trends, Opportunities and Forecast to 2025"
     excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
     publishedDateTime: 2021-01-14T14:43:00Z
@@ -43,21 +57,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Educational Robot Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
-    excerpt: "The educational robot market is expected to grow at a CAGR of 16 4 from 2019 to 2025 The role of educational robots is not to replace teachers but to make the entire learning process much easier and more convenient"
-    publishedDateTime: 2021-01-18T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share"
-    ampWebUrl: "https://www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
+  - title: "Global Commerce Artificial Intelligence Market 2020 Trend and Opportunities, PESTEL Analysis, CAGR and Value Chain Study to 2025"
+    excerpt: "Global Commerce Artificial Intelligence Market 2020 by Company, Type and Application, Forecast to 2025 announced"
+    publishedDateTime: 2021-01-18T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-trend-and-opportunities-pestel-analysis-cagr-and-value-chain-study-to-2025-2021-01-17"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://cdn.openpr.com/U/1/U118883099_g.jpg"
-        width: 770
-        height: 338
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Machine Learning as a Service (MLaaS) Market 2021 Industry Analysis, Forthcoming Growth, Industry Prospects and Forecast to 2026"
     excerpt: "Market provides detailed analysis of Market Overview, Drivers, Prospects, Potential Application. Also Machine Learning as a Service (MLaaS) Industry research report includes the future impact of major drivers and challenges and,"
@@ -130,36 +142,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Intelligent Virtual Assistant (IVA) Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
-    excerpt: "To Gain More Insights into the Intelligent Virtual Assistant (IVA) Market Analysis, Browse Summary of the Research Report -  Intelligent Virtual Assistant (IVA) is a new-age, cutting-edge type of artificial intelligence,"
-    publishedDateTime: 2021-01-14T10:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market 2020-2027 | Latest Trending Report with Analysis and Future Growth Opportunities"
-    excerpt: "The global image recognition market was valued at 17 911 million in 2017 and is projected to reach 86 001 million by 2025 growing at a CAGR of 21 8 from 2018 to 2025 The report offers key drivers that"
-    publishedDateTime: 2021-01-18T14:12:00Z
-    webUrl: "https://www.openpr.com/news/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    ampWebUrl: "https://www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118376725_g.jpg"
-        width: 500
-        height: 331
         isCached: true
   - title: "Speech and Voice Recognition Market Latest Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast"
     excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
