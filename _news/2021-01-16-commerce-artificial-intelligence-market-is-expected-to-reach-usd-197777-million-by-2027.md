@@ -51,15 +51,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Healthcare Artificial Intelligence Market, 2027 – Market is Expected to Grow at a CAGR of 41.4% – ResearchAndMarkets.com"
-    excerpt: "Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% from 2020 to 2027 to reach $51."
-    publishedDateTime: 2021-01-19T08:44:00Z
-    webUrl: "https://www.financialbuzz.com/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-researchandmarkets-com/"
+  - title: "Business Intelligence and Analytics Market Size to Reach Value of USD 60.49 Billion by 2027 Growing at a CAGR of 11.2% | Emergen Research"
+    excerpt: "Vancouver, British Columbia, (GLOBE NEWSWIRE) -- The global business intelligence and analytics market is expected to reach a value of USD 60.49 Billion by 2027, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-01-15T10:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/business-intelligence-and-analytics-market-size-to-reach-value-of-usd-6049-billion-by-2027-growing-at-a-cagr-of-112-emergen-research-2021-01-14"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 9
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AJQDjEnVX75lEf8Io9ha5BvE5CoXSrIBbwEm/uR6aXq+1blvLUZmFNyReHbJx7XWLQTerW5yCl3n2ZqYMoK+fq9mWGf5Z5cGcW1rPMMaI7WTcFJHiCiQ6Yi4rvMN8MTooZrx6tgUMbWDUeZaj4py2157KzgYuFESqTDb8XvHJWgbnQ5X+ULzeerp+yj7fzqVx0cKZBoqabVtMWMipVISGkhM8sAi4yXcvZ7zrpRTOWdEWezvE6V03KATmifGtaXvS/P3G+7JANvQdTBh2Y+fWbDwsIFLn1CNaYuxzIjCH27w6tYds5mlCTH0BWGua7/8OBCqidhlESWiiJQvG977RkOKkLMfO2V/xzy9Jpg6iRi/grNjQrqG1rI79ho7WdI6FQuXOwiAYRp/qRBR6+aRW47rqbhcZP0ZqVhUKXRwFXOzET1oQcsBUcoYtuqXxdwkgtXGXdSg9O1kl1Pdpop3q6U3BZWyW5xcqEBtRTAknbQEoLDxiY7w3RRlwC78QBioZwKSe7KfUXJgKLLqMmDWFQ==;FmbbOOb53dVt9lWwDjfgXQ=="
 ---

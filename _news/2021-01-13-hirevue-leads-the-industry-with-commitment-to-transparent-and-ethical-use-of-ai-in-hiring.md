@@ -3,12 +3,9 @@ category: news
 title: "HireVue Leads the Industry with Commitment to Transparent and Ethical Use of AI in Hiring"
 excerpt: "HireVue, the global leader in video interviewing, assessments, chatbot and recruiting automation technology, today made two announcements to extend its leadership position defining the transparent and appropriate use of AI and software as part of the hiring process."
 publishedDateTime: 2021-01-12T16:42:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552"
 type: article
-quality: 45
-heat: -1
-published: false
 
 provider:
   name: Associated Press
@@ -24,22 +21,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Exploring Trust and Acceptance of Artificial Intelligence in Healthcare Industry"
-    excerpt: "Cheddar is joined by Dr. Jesse Ehrenfeld, Chair of the Board of Trustees at the American Medical Association, to talk about trust and the impact of AI on healthcare, especially amid the pandemic."
-    publishedDateTime: 2021-01-13T00:00:00Z
-    webUrl: "https://cheddar.com/media/exploring-trust-and-acceptance-of-artificial-intelligence-in-healthcare-industry"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 49
-    images:
-      - url: "https://img.chdrstatic.com/media/7cdc3d1b-4e24-4f2b-8009-4d2695a6a6a8.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "buRAevXIdWQCrM7X6rMqNbKXZ+cmo/evucwudFiXf29++dCT0AzkA8F3mcg2OUdBKArS91uA5XGYJPWrpZfmp4FP76ci9U5geqSHAKUvAuFZ3JIjmXSQk59Cl6ZO9vLxWQGYzaULG5VIzyPGyT4IBqr8SHfapS18D6uqPSBw+v/8VQZGcSQuYIuysdgL9j5B55PgMZkOz+48TnUNzedGSMfibvf0ZgnGWrsBVHDN4lw1zTg9/n1hoaYCoqb4a9Jueg4S35zF68WYat9paRcfwDV9TtZmmCCA/mOpaRx8J+wkSrBPR2KstvlHqS3c4q3hBT3ItWYUO4I/x/biDcuU4AXmhjyXCJ+f2L+E1DjV4Mc=;8rI5QbvdbNu/wm1zGoalmw=="
+secured: "HySTEAH/yojuMHqJ8EyQyrqj2PJewU6T7BIZKUbHKlmllnT2iotA6xZSQa0JkjMqngKkmeXwPjaiTrWchb94s4tcOdHCVb06McuYiA3YX+ypCyAQv0I7ghdejOzTGa+GXTxWS7JNP/1475V5db0bt7I+DqYwTYbtK5yogknCxOEJYwrau7gOssESpUeokeABg9XeFoDOWCE1L7eT5FWZXpZRK/bRw62viQ0Ugr+T6tc/FNU/Ox1lewKbo/eYaqqMCiDc6d21nO36vSoWEwU8Vh1OCjG/yuQcC32yr6m3poXfMqco/txskOwQnAddeNqbsw175sn48g0j8Fm7Lp94m5hOX0n9Kzypbm3MmbxltJw=;BQSCXOWgsdQvMzm9krDvNA=="
 ---
 

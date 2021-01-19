@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Fitch invests in AI start-up to improve bank misconduct detection"
-excerpt: "Credit rating agency seeks to expand how it evaluates lenders’ riskiness amid raft of scandalsRead more on 'Financial Times Companies'"
-publishedDateTime: 2021-01-18T06:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747"
-webUrl: "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747"
+excerpt: "Fitch Ratings has struck a partnership with a French artificial intelligence start-up as it seeks to improve its early detection of misconduct after a spate of high-profile banking scandals around the world."
+publishedDateTime: 2021-01-18T05:05:00Z
+originalUrl: "https://www.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7"
+webUrl: "https://www.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7"
+ampWebUrl: "https://amp.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7"
 type: article
-quality: 84
-heat: 94
+quality: 74
+heat: 84
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Times
+  domain: ft.com
 
 topics:
   - AI
   - AI in Finance
+
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcfa249f5-9238-4f03-9088-af8349dcc534.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
+    isCached: true
 
 related:
   - title: "Fitch Ratings invests in AI startup to improve bank misconduct detection"
@@ -35,6 +37,6 @@ related:
       domain: industryleadersmagazine.com
     quality: 33
 
-secured: "RPfrSsk78u848OgX6uZIkVtUW1ysLrrPIu5ASLYH5aurR5hUnuoiEff9VT9Ureyay4GZImgpD2YyqxZIm9l5UsgA63EDdOiqCw4VwgYPq9ejn3/Xozty8TAFBda1d5py5ApwcuRWEE9NUCvuY5voa0dLpIum9uZ5HLGqSg9m4VkJPLZXzKqPINlQ7jwtuWXSpajHCMVnMXuAkUwflFztWgSItaDsTsAoZNto9tH5B/lK6NP9wTlqW9aBPQKjqSxyctneKSNATY8jMDKugv1X97IZgxSO4a3CCM5SGER2ekE8QUvAnHoDBmGrfwFFmX765byDcvMtqy2xXsGA/XPzUH0ush5bJbfXzHnLbmNhaJw=;3/9tpv7ZQ0EvtQ0xHeW/wQ=="
+secured: "RxBpO5VcTv3HhV+a8LgiFFVDld3BcqdVOTJ08OKLPomKdnRTPqjNlNV2xazVqiGwv4Oelus4fN0y5w3Fe6fzKQ+NZnjcy4iNJCX7FjmkEoa7BnQiNicY3CHgVQ9yDYFSNiZMW/mqhU/TSsnKp19nOkw0Pv62aYsuy8yv0QrIyq4/+MHFhxru74CVA1K7zKzPCYM35Rg3qPh5xp6KcUlJBmhd4mM2+LFykuvXFXiI/0zNSwGkFl5aWvJPKOqENZlr5Djv42bx9alSB/9QHiu6CmyLC0Y5j+HATjYHn1nio/+x12LdMYXIHEH6x/TkiWh6+UBo4xkexenys8ugPI2gFpah5CNf4dV4JWdmGUnX7RE=;XHoQsgz/pYio+1uOMd8J9g=="
 ---
 

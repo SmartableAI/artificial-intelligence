@@ -51,9 +51,9 @@ related:
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
     publishedDateTime: 2021-01-18T11:47:00Z
-    webUrl: "https://www.techrepublic.com/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     type: article
     provider:
       name: TechRepublic
@@ -126,6 +126,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft allows users more control over their voice clips"
+    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
+    publishedDateTime: 2021-01-19T10:27:00Z
+    webUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/"
+    ampWebUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 61
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
+        width: 1080
+        height: 582
+        isCached: true
   - title: "Microsoft clarifies its practices for voice data collection"
     excerpt: "... rolling out some important updates to give users more control over how their voice data is used to improve its speech recognition technology. The new setting will allow users to choose if the company can use their voice recordings to enhance the ..."
     publishedDateTime: 2021-01-18T16:36:00Z
@@ -168,6 +184,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Yellow Messenger and Microsoft strengthen collaboration to transform voice virtual assistants"
+    excerpt: "Yellow Messenger transforms its voice automation solution using Azure AI Speech Services and Natural Language Processing (NLP) tools."
+    publishedDateTime: 2021-01-19T10:31:00Z
+    webUrl: "https://news.microsoft.com/en-in/yellow-messenger-and-microsoft-strengthen-collaboration-to-transform-voice-virtual-assistants/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
 
 secured: "VZlS8udomZWm/rhNB0yWBh/sBCPTqOvflmIUGgYAf9AYkpxE0jbvnAbP9e6ScvPb1C4thC4NjLPRGn2wl8+/X+laJq212Jqg6WrPotSBMAvSN0v/fGoLM8NoOZlBE1ObuUAhercNhdrnF39diFXqoyHbAq4IQRfTfB67iIcwBPMB1ukc3vyLSKDgcQ3siFHbE7aZIxeefaW3OlHgP16YRG2Q0k2RdLV5MGbP3Hyc1eJwthNoAh6bMN72MXHr16uGPkyACWqrcBau5nBqdmCCtl0xsbxCapd/A8MCxAk9gyyAq7Evp+QCuT+HdUX5/qaP+OAP/Y+YaLlSbjOPuvPEiQ3ry1P6u68fE3eDr8kTaefOGVif1GUfu3YenDDZPWa3PF5RwReXG2uogfe2mNNbj/p0hEKskkhhazrecDH4iJQlyHEwOU+XYj/0oRV02DBrimdN59C+aAqC0ve1BmafjVC0+bzXRMsdShBeNK0LX8ryObx4wCgL5VXvkiwLuLHMgYU5zbc2/43VE0O4VIkfcQ==;IxT7MPkvJk0/rnKLGnEgkA=="
 ---

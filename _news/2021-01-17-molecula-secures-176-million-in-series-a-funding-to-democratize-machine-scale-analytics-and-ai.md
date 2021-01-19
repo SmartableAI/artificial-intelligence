@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million
 webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -18,50 +18,6 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
-
-related:
-  - title: "AI and Big Data Analytics in Telecom Market Size, Status and Global Outlook 2021"
-    excerpt: "Global AI and Big Data Analytics in Telecom Market research report published by market insight reports explores"
-    publishedDateTime: 2021-01-14T18:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "BlackRock boosts sustainability analytics with stake in Clarity AI"
-    excerpt: "BlackRock has taken a minority stake in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios. Founded in 2017, Clarity AI has offices in the US ..."
-    publishedDateTime: 2021-01-18T14:13:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37291/blackrock-boosts-sustainability-analytics-with-stake-in-clarity-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/test_header_low.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Business Intelligence and Analytics Market Size to Reach Value of USD 60.49 Billion by 2027 Growing at a CAGR of 11.2% | Emergen Research"
-    excerpt: "Vancouver, British Columbia, (GLOBE NEWSWIRE) -- The global business intelligence and analytics market is expected to reach a value of USD 60.49 Billion by 2027, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-01-15T10:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/business-intelligence-and-analytics-market-size-to-reach-value-of-usd-6049-billion-by-2027-growing-at-a-cagr-of-112-emergen-research-2021-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BGvz7534g1HMCz51JZ7lcV84YIBjJlidzjZQRFsjDq9IWGxxQQj7sNmMqkUBZKjjiYCpkhxLADX3/LlNVEZRPjKz3TqyxcKhxplvbK3dyy6t1RXMOxCfo4pppYgw4QiKEcJ2qOG+IQNkzrFQ4NJKHHTZ0RHdngUOlitF8FeMUWUXxfc05mxEf1mfPX0CYlRTeJXEVacSReB56NLNapGInVI9aRbtrgpOI7nIok8mjZrJsoh2ts8BNN4Pos1Z0hJ+mzt+xaMSDbp4eoelnLzPFCtZuetaDMdkNv71tdL9KXQfWH9ieQnzM4EY2TWgmqcsrcC2Oj/iD4ms3BdCBZaYsxPNsLntxBZJAUL6UmlqxldscMHP/PFAbomOn0jxPT6S6lhwU2tyL5FBFMpDJ5jAR+xeekNHawGwTGmIo8jNiGPSi8XS3yObofnHW12HI8PG2XExSsAdfvgclK0ZcxEoTQgz4pCUqEQh8fpZDmkPcYG0/Jv4I3x/TxlQp5F0gl1MRThRTaRNl9NXAPMMGPBmqw==;vtEfvYCNmPYA19HYkpszaw=="
 ---

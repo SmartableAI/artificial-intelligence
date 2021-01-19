@@ -24,6 +24,19 @@ images:
     height: 667
     isCached: true
 
+related:
+  - title: "This is why this payment technology company is partnering AI with Analytics, IT News, ET CIO"
+    excerpt: "This is why this payment technology company is partnering AI with Analytics, IT News, ET CIO To stay relevant, BFSI players from"
+    publishedDateTime: 2021-01-19T10:08:00Z
+    webUrl: "https://www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 28
+
 secured: "MrfaCE28dxDuYnXXtbSaFCCjJ+EmgD1pSpLjo/s1tztMS8ym+2YiMuHBWuGChGwAsXRpY8Z9+11l66jpCxl9/mvetyVjCODp9nOJtsdOibsfxhWHe5b0FnjTD9AY2C1KJwnXPQ3aJD4+NB803yNWUnYoRTYwtA6MDV0a2SRDo2jSIUD74UXbip4njWj/Q0iDHEfPKWZb73oDx6Ltu/Q6sSveYlOnnHPSrvVUW42ph+qTPM0WAVjd+DwxEP456jcmENs2k/xrRdYILKAn/ao91UkpSBq/FDeCJhpgveLseZK22bTqwoP+a4f+MPB6Ye5E7E4DHeQBP0cHLj4jOXQE0icDkdKYh4C+G41BbpIFqPA=;WUa/8fbH5MYXafY5S1Uobg=="
 ---
 

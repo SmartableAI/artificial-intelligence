@@ -36,22 +36,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
-  - title: "BlackRock taps fintech startup to bolster ESG investing"
-    excerpt: "BlackRock will integrate Clarity AI’s data into the Aladdin tool as social and economic factors push investor appetite for ESG investing."
-    publishedDateTime: 2021-01-14T18:35:00Z
-    webUrl: "https://www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359"
-    ampWebUrl: "https://www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359/amp"
-    cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359/amp"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 44
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2020/04/Blackrock.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report"
     excerpt: "Insider Intelligence looks at the shifts in the broader environment that fintechs operate in, including key players, emerging technologies, funding patterns and regulatory trends."
     publishedDateTime: 2021-01-15T02:15:00Z

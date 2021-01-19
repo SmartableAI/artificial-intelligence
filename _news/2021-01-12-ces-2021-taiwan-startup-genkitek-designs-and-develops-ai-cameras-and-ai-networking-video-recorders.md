@@ -1,23 +1,25 @@
 ---
 category: news
 title: "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders"
-excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking video recorders. The company currently focuses on AI NVR software and its AI applications can be used in the elder centers,"
-publishedDateTime: 2021-01-12T12:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159"
-webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-1029959159"
+excerpt: "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking"
+publishedDateTime: 2021-01-12T12:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-301206284.html"
+webUrl: "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-301206284.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "WxeCxrx+1HxqEQP5Zt67OuW0Z36diV8ujv0Y/B7fKBh4BIBclrtvoFTRGIlT1pZAAPJLX37YaKAS1B5qvRMbjTuVGYIsR1ks75hiT4z1QR2gwwpaIztD847KSVTjimgRfpuBDHK17gcXVpdrlpu2k80MrEB7sQ4yY4HoK7USBssM0ea4k4PkJMcSz4qi6twAKqiA0Ri6oWNS979fH1MiKoBylwvHJ9qmYByGaJGBm677mHb/uG/eMvxXw3m3Pthspr9+7wzGNvne0+9JKY6aYr65ifVF+e3OYJrKWxPVG+zTHOBMpnj4YE3huPgvKKaK/UBSBALQeeNymGUOfjdiDgtSRHjwy6X8yzfx8ycT+6M=;qXIctL3cORhEsBatCcV/uA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "E0O3Mu5vE4wMd9sVA5KH0iG3SUOf/2cFhNUT6khryA96esBH58JebSazIqk1vNw4KdiHTlWDNOKPb1zWhLwkbaHgi8pgIYeYVUQVeY+M2wkrWMhoqKx0PQqiMOgwq9WHxibmLrG/eI5QW8Fb4EiHWalk8IdojTvsdCFMFRw8Vb5E75rNrl6Hdve48hSsxHJx+wyp9AqYzysxhq7MXSqEOFTcMFIPk+jHpOD6ZdL271wg+VoNX9xuIEM3cp/uziJTwShzuQdaAgPzy+Ze6HOe6gTuk6RSKh8LGDdRq5mi2bnZxXHIjTtrSA4AfKLSW/8pWUV40A0FwB672eQwq610Qa3FNeV3mDSgDT1TSksKS5o=;Aa6cpHRTbKv7nXwWUzGLdg=="
 ---
 

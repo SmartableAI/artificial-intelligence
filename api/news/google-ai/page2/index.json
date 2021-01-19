@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-18-deepmind-revenue-dwarfed-by-649-million-loss.md",
-      "title": "DeepMind revenue dwarfed by $649 million loss",
-      "excerpt": "DeepMind’s revenue more than doubled from $139 million to $359 million while losses increased from 2018 to 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/",
-      "originalUrl": "https://www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2020/12/DeepMind-Revenue-Alphabet-Google.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/amp/",
-      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/amp/",
-      "publishedDateTime": "2020-12-18T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leadership",
-        "domain": "industryleadersmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-18-google-waives-15-billion-deepmind-loan-as-ai-costs-mount.md",
       "title": "Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount",
       "excerpt": "Alphabet Inc.’s Google waived a 1.1 billion-pound loan ($1.5 billion) to DeepMind Technologies Ltd. in 2019 after the U.K.-based artificial intelligence lab continued to ramp up the scale of its research and development.",
@@ -1417,6 +1374,49 @@
         "Google AI",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-will-google-make-money-from-deepminds-once-in-a-generation-ai-breakthrough.md",
+      "title": "Will Google make money from DeepMind's 'once in a generation' AI breakthrough?",
+      "excerpt": "On Monday, British machine learning startup DeepMind announced that it had solved the 50-year \"protein folding\" problem. Scientists rejoiced at the promise of improved drugs for incurable diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4Bq9-zn32UdN-2qebTEmhS1ZTsJ7F30oTa8NmuLcxnm_sU.jpeg",
+          "width": 2370,
+          "height": 1482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/amp/",
+      "publishedDateTime": "2020-12-01T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

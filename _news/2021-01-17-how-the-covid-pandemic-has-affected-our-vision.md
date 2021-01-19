@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Covid-19 will shape a decade of education"
+    excerpt: "History has shown that every crisis comes with a hidden opportunity. Covid-19 is no exception. And its in education where we are witnessing some radical changes which will define this decade."
+    publishedDateTime: 2021-01-19T10:18:00Z
+    webUrl: "https://www.fortuneindia.com/opinion/covid-19-will-shape-a-decade-of-education/105059"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 41
+    images:
+      - url: "https://images.assettype.com/fortuneindia/2021-01/2d7993ad-a07a-4b12-a836-1e8c50163e93/2D82PXE.jpg?w=700"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Providence accelerates data center consolidation, plans to close six amid Covid troubles"
     excerpt: "Washington-based healthcare provider aims to reduce data center portfolio in the wake of Covid-fueled financial challenges"
     publishedDateTime: 2021-01-15T11:06:00Z

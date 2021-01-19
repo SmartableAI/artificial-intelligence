@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face it: Face recognition is a vital tool for those who want to catch and punish the Capitol’s insurrectionists"
+    excerpt: "Ban face recognition outright, goes the progressive cry — one that Oakland, San Francisco and Boston have all heeded, on the theory that government becomes Big Brother when it uses technology to identify suspected criminal perpetrators in bystander snapshots or security camera images."
+    publishedDateTime: 2021-01-19T09:05:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 39
+    images:
+      - url: "https://www.nydailynews.com/resizer/VgbWXkXtMc1-ccgIjW-fqrAg6-w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DGNAZDU7Q5BX3EBPCOVTTPZYEQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rise of the Machines: Facial Recognition Technology Heralds Upswing in Litigation"
     excerpt: "As the facial recognition industry faces hostile regulations, claims of racial bias and growing public mistrust, more suits over the fledgling technology are expected."
     publishedDateTime: 2021-01-15T21:11:00Z

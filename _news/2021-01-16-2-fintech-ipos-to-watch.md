@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watc
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "BlackRock taps fintech startup to bolster ESG investing"
-    excerpt: "BlackRock will integrate Clarity AI’s data into the Aladdin tool as social and economic factors push investor appetite for ESG investing."
-    publishedDateTime: 2021-01-14T18:35:00Z
-    webUrl: "https://www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359"
-    ampWebUrl: "https://www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359/amp"
-    cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/blackrock-taps-fintech-startup-to-bolster-esg-investing-201359/amp"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 44
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2020/04/Blackrock.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Five Predictions for the use of AI in Fintech"
     excerpt: "Inevitably, AI and machine learning, and a focus on harnessing data, will be key to bolstering business  strategies and enabling new areas of growth. There are, however, immediate challenges that must be overcome following the disruption brought about by the coronavirus crisis,"
     publishedDateTime: 2021-01-15T10:51:00Z

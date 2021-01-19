@@ -1,26 +1,24 @@
 ---
 category: news
 title: "CloudCommerce Goes Live with Artificial Intelligence (AI) Advertising Venture"
-excerpt: "( CLWD ), a leading provider of digital advertising solutions, today announced that it has officially launched aiAdvertising, Inc., its wholly owned subsidiary focused on using artificial intelligence (AI) to enhance its successful SWARM solution with the goal of cutting advertising costs by as much as 50%."
-publishedDateTime: 2021-01-19T08:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture-1029979452"
-webUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture-1029979452"
+excerpt: "SAN ANTONIO, Jan. (GLOBE NEWSWIRE) -- CloudCommerce, Inc. (CLWD), a leading provider of digital advertising solutions, today announced that it has officially"
+publishedDateTime: 2021-01-19T08:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/g19208431/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/g19208431/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19208431"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19208431"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "E5LL/siDOU0g5ywHUmrxox189kbB/cttQQt3/L4qnKusTaXhQmRfhj7NC9XRW9v5nd4tjbXSjBjVJ9kVfvV7ZIvzTeEyAZ7O26xIpbzaA1jIUuAqrqzwnU6XtZcNXZNEvgAWR43X2RRULyCzCxRgeeEEOYtMJo5MatFtNSXhV4fWUoDr2e98HiYZ7u16b2G5FNI/HdL9f6Cloh97yRbBV3BITAfcmlNtjIYwxFuGDL1sKuUqW9RqUt8fm+2TQ0cQo7R/3pWSpIedy+GsR2U2nfGAQLKdIotjigD3qhnEcgUSlqCjjC8HiwrlhFnGP0NHMoJb2hK7ecpOAjE8trV9e11qUNxlKd9m86WWld0WMnQ=;A015aWdnKMUBkjKDVOZjRQ=="
+secured: "yGdhQhWDriJ8fsQkezDhMHsi9G3a6gHUM566TRhM9K3Qx6jEb+6Co7Q2gZ3d0ftu1GFl2ktVG2zJgebKzLJy+IcVhvtTGay9pqsQ9Jt0ALb18E7pMWFaKzBb4AqnkbD4j13THPNqvHA1rfz0nSZEixMEWcAmnjoNG366+bMr0bunAHKFo1PdUevtjwByrhSTeaungrFWSTVoZQOhdEkyyVcd9MWi1Evz8S65qAYV/FlmDlL6t9ecouXJ/2U1OgB1JcvxNaGOwXWCTLu4ox4HTboX/f9WBnoZuDUoxSy9TpUlxzUfiQsN0Vx/ZHOphPApTV1GIH/LpWXWtz5mp+5FMUOsomkzYgtOBVaOV9c0cTQ=;5KrjF29blykkdv0wz3OxoA=="
 ---
 

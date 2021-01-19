@@ -1,66 +1,79 @@
 ---
 category: news
-title: "Healthcare Artificial Intelligence Market, 2027 – Market is Expected to Grow at a CAGR of 41.4% – ResearchAndMarkets.com"
-excerpt: "Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% from 2020 to 2027 to reach $51."
-publishedDateTime: 2021-01-19T08:44:00Z
-originalUrl: "https://www.financialbuzz.com/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-researchandmarkets-com/"
-webUrl: "https://www.financialbuzz.com/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-researchandmarkets-com/"
+title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
+excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+publishedDateTime: 2021-01-19T05:51:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
 type: article
-quality: 9
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
-  - title: "Space robotics market predicted to grow to $5.7 billion by 2027"
-    excerpt: "The global space robotics market size is expected to reach $5.71 billion by 2027, registering a compound annual growth rate of 5.2 percent from 2020 to 2027, according to a new report by Grand"
-    publishedDateTime: 2021-01-15T13:35:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/"
+  - title: "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data"
+    excerpt: "CAGR of 43.6%, Market Trends -Drug development for COVID-19. The global artificial intelligence (AI) in healthcare market is forecast to reach a market size of USD 61.59 Billion by 2027 and register a significantly high CAGR,"
+    publishedDateTime: 2021-01-19T10:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data-2021-01-19"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/nasa-valkyrie-robot-4_0-2.jpg"
-        width: 800
-        height: 600
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Commerce Artificial Intelligence Market Is Expected To Reach USD 1,977.77 Million By 2027"
-    excerpt: "The research and analysis conducted in Commerce Artificial Intelligence Report helps clients to predict investment in an emerging market expansion of market share or success of a new product with the help of global market research analysis This report has"
-    publishedDateTime: 2021-01-15T17:08:00Z
-    webUrl: "https://www.openpr.com/news/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
-    ampWebUrl: "https://www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
+  - title: "Artificial Intelligence (AI) Consulting Market Future Demands, Companies, Trends, Share and Size Forecast 2021-2027"
+    excerpt: "According to ReportsnReports study over the next 5 years the Artificial Intelligence AI Consulting Industry will register a xx CAGR in terms of revenue the global market size will reach xx Million USD by 2026 from xx Million USD in"
+    publishedDateTime: 2021-01-18T15:00:00Z
+    webUrl: "https://www.openpr.com/news/2226696/artificial-intelligence-ai-consulting-market-future"
+    ampWebUrl: "https://www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 48
+    quality: 50
     images:
-      - url: "https://cdn.openpr.com/U/1/U115421416_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://cdn.openpr.com/U/1/U118912294_g.jpg"
+        width: 560
+        height: 315
         isCached: true
-  - title: "Global $50+ Billion Healthcare Artificial Intelligence Market to 2027: Focus on Medical Imaging, Precision Medicine, & Patient Management"
-    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-15T13:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19180648/global-50-billion-healthcare-artificial-intelligence-market-to-2027-focus-on-medical-imaging-preci"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19180648"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19180648"
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
+    excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
+    publishedDateTime: 2021-01-18T14:19:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com | Morningstar"
+    excerpt: "ResearchAndMarkets.com The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-18T14:18:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210118005340/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
 
-secured: "uWXtW76mGptI4ecMYclmxwYgPoOXNiGUotFXP9IwdZN7jslHwLoq/FaYW4tihUSnVWNYlL9BWXc7Q0uGt2roik8WOTCKqsTBfCEvOtcSGxcJ7jMmMtkCMt7jD0m91vWt/VnG5iccp6x9QV6Wq3WsjOrNUDcoREyiqIdj8/w+wYL+DRNi015IUGQKWlkXfsryVbjzmQV6AVwFeBbA9JCBWHAopIadx8PrF+Mr6aFM9Vwr8pGY7L7zt10Gb1BgBAxU0IQ7S7QUUOV0uA4Krq4H/TWi6pHapj/Kp6wDb1wQ3SPrPp9BcCibxJWP21HoQLf7OGcoiMqoDWXyj4YO4yvlp+guelwsXyadoTa3++ZrCMQ=;DJK7D5bZD16a+neiZ+vsUg=="
+secured: "0dC0xQ94fxXsU/qbd5VjMK77KRneXTOjTkR0mi24TnbLcskNXdX0eS+pNloBVjVYm+QpFvFiFIi3lbzSGNXBhlBc5cMzXDB1mmf9gkuahbbXtNHxeqD7RqVsJKyr5MwGHofqd2m5M++sObzJMWRW2f8nMKkQ9pfIWrqmGjwlDtsipmu+MgpcSj3lLFUgqJTrcrCdnQ9q3mYpdfowXxqVfAqogp62/zW85Q61JdxEwQTBMbA7tlyvMfNOQ/xVKqpRKQ9OJCQ0nqnDl+MjFtHQClbtCjsbbCmjpBx9WLZmRcJrlfkJ/zprAPjLerENkWWoAvI9YE/6N6m9Vx7XbJCDl8zXe+8DvUGv/Ro8AxzjEHY=;SrQnzcuR/Pm4Z/D3C8/bmA=="
 ---
 

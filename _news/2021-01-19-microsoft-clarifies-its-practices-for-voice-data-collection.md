@@ -45,9 +45,9 @@ related:
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
     publishedDateTime: 2021-01-18T11:47:00Z
-    webUrl: "https://www.techrepublic.com/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     type: article
     provider:
       name: TechRepublic
@@ -136,6 +136,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft allows users more control over their voice clips"
+    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
+    publishedDateTime: 2021-01-19T10:27:00Z
+    webUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/"
+    ampWebUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 61
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
+        width: 1080
+        height: 582
+        isCached: true
   - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
     excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"
     publishedDateTime: 2021-01-15T17:37:00Z
@@ -164,6 +180,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Yellow Messenger and Microsoft strengthen collaboration to transform voice virtual assistants"
+    excerpt: "Yellow Messenger transforms its voice automation solution using Azure AI Speech Services and Natural Language Processing (NLP) tools."
+    publishedDateTime: 2021-01-19T10:31:00Z
+    webUrl: "https://news.microsoft.com/en-in/yellow-messenger-and-microsoft-strengthen-collaboration-to-transform-voice-virtual-assistants/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
 
 secured: "TUCvwAK4bh4Mm+TQhRKBAcbNWTSgHNdgmcMAMIxyGWPvGGLMyEYYPDzW5qBzkD27ei92GAvQgz20D4f5Z3f3KZwO40V4Y37HFMOd97NrW+K0PcjJL+VKSnje7e0VFbdISsjbmTWoJGR837HidyXJIOpfBOArKm1la4YT+yyfd39WYrSMnw73J39xbsSNmZWMBNaiUIcfMm4Uo82joAZ4uSyAw8aGcK1Yl9aJRUDHAL7JuSExWOh508fKFixDyGlEZAW/c3AMLncky1MsvPBg9hVs9juIIJKbKCunDHPEk4xJmXRACQDdfsmH685jmMNkcvDkrkWiBvcmgqxcvKDCtuylZd+UwCiIUx1/Xic8GrLXmApG7mZuBallMMGzfJsN2qOZoPlZjvCNnNLqcksyYUiHPdDNgvMrin4l4k3/HPZ54vJtWwfUU+7VqqC48rgzqdNurUwTm76R43hvWLeeAKfVpD/LQpzoliOXUZU1TfzRE3Zu9GTlKn2iA3StBndlMO6r4FScSlF/7PwKWVmgGw==;6qh7l3xfou6OXn4FS35L+A=="
 ---

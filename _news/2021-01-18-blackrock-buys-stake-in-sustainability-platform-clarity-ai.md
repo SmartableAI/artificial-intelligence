@@ -7,7 +7,7 @@ originalUrl: "https://www.investmentweek.co.uk/news/4025930/blackrock-buys-stake
 webUrl: "https://www.investmentweek.co.uk/news/4025930/blackrock-buys-stake-sustainability-platform-clarity-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 370
     height: 229
     isCached: true
+
+related:
+  - title: "BlackRock boosts sustainability analytics with stake in Clarity AI"
+    excerpt: "BlackRock has taken a minority stake in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios. Founded in 2017, Clarity AI has offices in the US ..."
+    publishedDateTime: 2021-01-18T14:13:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37291/blackrock-boosts-sustainability-analytics-with-stake-in-clarity-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/test_header_low.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "PrfGgjAGTmCbsggceOF58IWDVzNQdGJyaxDl3QYZpyvevWyJ8E9QF5h31bYR23AYrMZMQ+wLq0t2hoWNXjd1QB1i6S3jO31hopsJiZ2HkhS6QdDU0wSwvO329IoZ3ukCOovhsgKL3z2MhupCkC/sQ0jeQlsEVuA8bbcwsoVhRjCVklMBsh3UtFCZ2UxYSWj0cfJBlEkHhdxdNcSrBH6uN109keqoji46Bhe/n7YCVNM2gzRpoWfRoUyK5taOFkiwh2iAzmC3MN9haLOB/uX1Gytx+HBmrHwzsfPFDSkkMBu/wA/RrAi3xA2yNcWhrZ8VhGWoUtyv9NrRKcaT2a8DKsYmnua7RF/8GKV9mz8xhoVH6GbpCZm8QNnGC6GpzqGvbE8OFd2pobnLjN+CRoy51maKZN7iP8s4u71pe4jdUGbA0u/GioN7LY+7goJ+lZ26P3Dt0FbloxX3JZkplqLAyW3PkCdC8j/l8XKnVAFFR47IrstROlEFO23Cz1BRXa5rEYU+jzKo973wYHN2CHTJwA==;fV/wRvq3v/YrYQvWA8SJcw=="
 ---

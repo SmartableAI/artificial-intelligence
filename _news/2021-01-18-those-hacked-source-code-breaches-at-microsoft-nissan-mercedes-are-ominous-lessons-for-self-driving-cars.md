@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/17/those-hacked-so
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/17/those-hacked-source-code-breaches-at-microsoft-nissan-mercedes-are-ominous-lessons-for-self-driving-cars/"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,56 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Fugue announces new capabilities for managed container services by Amazon Web Services and Microsoft Azure"
+    excerpt: "Fugue, the company putting engineers in command of cloud security and compliance, announces new capabilities for bringing public cloud container resources into compliance and ensuring the"
+    publishedDateTime: 2021-01-19T09:58:00Z
+    webUrl: "https://www.sourcesecurity.com/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 88
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/fugue-cloud-infrastructure-920x533.png"
+        width: 612
+        height: 355
+        isCached: true
+  - title: "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used"
+    excerpt: "Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms."
+    publishedDateTime: 2021-01-18T07:35:00Z
+    webUrl: "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2018/01/15/37af3c7b-8de3-4016-b11a-f6c6ff0044eb/thumbnail/1200x675/0694bbed8403720a906252aaf7f4a583/5a578ebc69340d506caef07c-1280x7201jan152018133314poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
+    excerpt: "Powered by Microsoft Azure, Indian Railway Catering and Tourism Corporation’s (IRCTC) AI-powered chatbot AskDISHA has helped improve satisfaction of customer interactions by 70%."
+    publishedDateTime: 2021-01-17T04:46:00Z
+    webUrl: "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/"
+    ampWebUrl: "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 72
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "7ADRqDqOTkCNS75vTE4K94N1twLXnL2f1n06it4uDKSypOp4pArEpLFIpT1TkrA9587qIgqh/yWa9a1+Gg7oyNEF1G9GPgf2a1n4+W0l3xMj3DQFoQEOhezNMvJibq5uUh13UdDhMnbgDnDf4CgyGy1If3zxtoxhNkhCdO0VuqvABoybZ5vbYvDzn9lF/8QsWsrFZw+XIIN5t443q49v3mbsm0sTyqeJAQM3V0cClnJiiAnjTB0RjymBqxTZg3hO3ra44gUUs5Jmvfjb3s/TaGs73BqNfx+QCdkyiTJQ+QeBlbpSv2o3cK8idLFibQQtlwvwvE+3yHSeQgoN7kk92OwwBcz8cjQQqY6uRh0uzgq8bjLp1pzRcz5NjzFbZXBh7HIGGww1m0QlcpfyMYvyRIyuykAFhAPbWtKHwnKUkKFYxezaPNvKBrK4viL3ntPHbAL6lsc4lDl20BT+Zdd3ElksQAijm1sEFVYDnGAzstz+HtobXZJ2UqLbVGJAFXWJ9OQ+w7WSUvzHeQNoUJaXow==;a3JcvEPzuZJOE4XvH+8p8w=="
 ---

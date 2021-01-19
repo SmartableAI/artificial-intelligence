@@ -3,10 +3,10 @@ category: news
 title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
 excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
 publishedDateTime: 2021-01-18T11:47:00Z
-originalUrl: "https://www.techrepublic.com/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-webUrl: "https://www.techrepublic.com/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+originalUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
 type: article
 quality: 95
 heat: -1
@@ -125,6 +125,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft allows users more control over their voice clips"
+    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
+    publishedDateTime: 2021-01-19T10:27:00Z
+    webUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/"
+    ampWebUrl: "https://newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-allows-users-more-control-over-their-voice-clips/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 61
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
+        width: 1080
+        height: 582
+        isCached: true
   - title: "Microsoft clarifies its practices for voice data collection"
     excerpt: "... rolling out some important updates to give users more control over how their voice data is used to improve its speech recognition technology. The new setting will allow users to choose if the company can use their voice recordings to enhance the ..."
     publishedDateTime: 2021-01-18T16:36:00Z
@@ -167,7 +183,16 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Yellow Messenger and Microsoft strengthen collaboration to transform voice virtual assistants"
+    excerpt: "Yellow Messenger transforms its voice automation solution using Azure AI Speech Services and Natural Language Processing (NLP) tools."
+    publishedDateTime: 2021-01-19T10:31:00Z
+    webUrl: "https://news.microsoft.com/en-in/yellow-messenger-and-microsoft-strengthen-collaboration-to-transform-voice-virtual-assistants/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
 
-secured: "IF+w292aGvFPWRkKKPAE20C5KF7u5bp3DZs89wUJ9iDK9vGwW4gE3wmFLZx9YyD19JXZccUdc4pT5sfSWBM+a+8C+hsyhejVsnUuEWfilgISDwAVjnrpTsZ8Rdp7HJGKi02433y4Sfa5ICWzJ8nZY5jN3PohNJ1zo3S2a1nU7//dr6sW3CYTiijUxP6U8QzpJ1FBto2bKM4t04rf0FZF14CQZ3/PYp+J4iFFq616GfZMDolgHkJ6iBecdnXr3EIbr74E7GUXJ0iv5mXsvzbNg5qVJTKMmuaJdcCsQq1q1vU83ulfFSwNFUpMXYPQEcMHDNerYT9jHv66KOg4Z9xNwZtf7pmnF1XrWTKp/DfJvnImsDCLfV6JH8pbonusroayGUtCmvUgKJP+OPGX/6wBVdH/L59n80bnLKZ3i8/z+1qSpRfupxngnC9YGBHfVdfqjq9bTc18rNzHjrl+csqRIZgu6nhayESM15N6ViegQXfvup9aNWflUb2EOn4m0y0aUYo+UD5wk4rqeGotP3MEiQ==;IAIybldfoKiVGQEr7ywiZw=="
+secured: "zRbE7xeR6Z1zRqaRtKR1YEmOxTqeefDvpo2AcNHO0U817PVuXoPwzJywQpoK0c/qpE6aFF9A2kw5F/JJcXnlpKR5l6/W2/rnAmENKjFKViFvr58MYNEjUjJLRVlRF/jVmxrCN6jtXsFBu0RmEiV0/0HqXUJLFZwcg65z8S6uVH00SV12NOt/4oGWO8/zJgwE7Kz4lSSnSmttKQW3uH1rlYfYAq56bEo/sqfs4PbPPlU9j4MEE9smwHvEify8jHhWt/ebszZQhJknnUVCYgZ8EuKgQXFq/ojK4obGumxhj0u87ZxqarRvuZNyLWBvcEjFEXNTj0gFVn+FFh8wjVv8g56wLhXVw0IVpFCQmPwW9lM=;0CT06THurDDnA8jEiyJ9pg=="
 ---
 
