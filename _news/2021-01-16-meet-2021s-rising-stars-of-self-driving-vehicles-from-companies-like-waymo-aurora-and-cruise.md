@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/rising-stars-autonomous-vehicles-w
 webUrl: "https://www.businessinsider.com/rising-stars-autonomous-vehicles-waymo-aurora-cruise-nuro-2020-12"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Insider
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. exempts self-driving vehicles from some crash standards"
-    excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
-    publishedDateTime: 2021-01-15T04:52:00Z
-    webUrl: "https://www.reuters.com/article/charged/idUSKBN29J29Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Why Waymo boss says ‘self-driving' needs to go"
     excerpt: "Waymo had come to the conclusion the phrase didn't accurately describe the technology the company is building. \"Is the self the car? If so, it doesn't really do good service to the product we're working on,"
     publishedDateTime: 2021-01-17T05:00:00Z

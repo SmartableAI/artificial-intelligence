@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Progress towards unbiased facial recognition seen in EU computer vision challenge"
-excerpt: "This challenge aimed to address the issue of discrimination in facial recognition algorithms relating to inaccuracy in identifying ethnic minorities."
-publishedDateTime: 2021-01-18T23:15:00Z
-originalUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
-webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
+excerpt: "Progress towards unbiased facial recognition seen in EU computer vision challenge. A challenge organized by the Human Pose Recovery and"
+publishedDateTime: 2021-01-19T01:15:00Z
+originalUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/"
+webUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/"
+ampWebUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
-    width: 1024
-    height: 662
-    isCached: true
-
-secured: "ioJ/Ny8yairMY0UeQ6+g5+4Z1t0nW48cUZZybcZUH+g7jtbOstdZcs/6zVYZI1UK6m7kQK48Ky6R91G/r4ybb51ESboN3YCtjsYLbCy3l6iC00Ix4D0u7trHLr3wkrvyNVnPig0mleM35h+9URJnvYmIunhRzbAY1PvEFJGds7ypVVvQEybKF+Qg+nLAjcHpaewvJN3ZG4qtLtR2lFnrQFQWLh5niQtyWeaAkX3uxrjdu9LIAAB8ujlxSJkP0eopiTSNTMoiDyebWchOaResdQLRaqnA4anSpI9jGlNYU7wFXYM2P86FEKpXDalCHkedg7MPKqmpaqOG/RndRtC5JfnUgSmHEKyEEs43WNH54MP3b/NQpolRxHcIQN0I0qqvXArXH7JH/otK4qDSmn7JQWy0x7gr2SMuu7Twfymxtxchu7SBOXPtdCR9lyytXmIt01l9lXLVQXUWxYg4NIXz7HjPX5/LbRu2/5P92FCd8WXn+yx8NgQCFdfsd+kFSuNb3DlQooroTG0oivbqEAF0TA==;5r6FujaqHSHAMJfFMHFW2g=="
+secured: "Q9ktT02XLjHFZ7f6+m3D9dI+6kOycgen0uJd8ReVczcYDPIcy6L2n7ppm7LkhTZIZfAfXbbwlFKwWzh9zTyA44W05Ui49PugwTEN+1rcu0wDmG76LKF0gC60QM7vSFfZzphHdUrKTNI/j0WB4HXKaAF6i1nyVfpBak8bUfcs0E7pjHcznGx6urzieMBBXPyFo2PSQXtQheD9f22egMe1wtpf9mxRuaJXuWkoKJBe4pYy8fqEVzqOc6tInkd+ER94xxSYcYXCJxdUYGGmtkOT19INVqkrXW4w+4wuyv3Qda/oix74S4F1elEzA7eS5HIlzGMTGEnymYF6dffnbrMw5AaNW1Cu4HslsDUXivbdcY9iqUxEfNZ8TYdWnS+JYLCt9LYJMAukuqLiCYFtMFYHUuR0x22BDTVNazsRc8Us89wz80iLRycQPFDI1m0zvb0n/eR9sy3Tk3Bl6jmvx8qSeEz+nO5AD2LwsNC2bE3zTaku1neq8tYXRbsD5J5P2MTQXSqdjzF7MPUr8EANTGVxPQ==;TudMwNLRjWNK4z4ufv9xtA=="
 ---
 

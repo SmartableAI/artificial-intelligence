@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/fugue-announces-capabilities
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
 type: article
 quality: 88
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
+    excerpt: "Project will provide additional value and scale to Quorum’s popular Q Analytics Enterprise Reporting solutionCALGARY, Alberta, Jan. 19, 2021 (GLOBE NEWSWIRE) -- Quorum"
+    publishedDateTime: 2021-01-19T20:05:00Z
+    webUrl: "https://www.wboc.com/story/43195966/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 30
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "NcoyPIG/O7AKZpIq5LRmoDFboNXFoxy7tz6lYg7rBShh+E68JBVzjFCZEBxTrjU7dJNRSU27TgdlJfnbc1g456IcN+7leHeOMLX5wqD1TJe3c5pHgDq6ddi4DfyoiBpgsjlkdtRvBd5U43ZOL0mmKADiipbvF9qs7WFg1A8oXWZezsrUOlR6gH72zHRALuGxisgozF9YBnBlAHSbaqj5rLDhRfpQLP9s28W3ngHcWUNBGj+b4ke9Q6/mF96UzKwqMrRUoVcPocptLs6NexzwIZVO6zSgpMlmqZM5q1rB+Sh3oWt2wuFcoB01Bu1NV5y2PJfwuR7iHp9mqFdNXGKCKaR4J2ZMnr4SfRusp5aHL9DlDshxUty/w3kwr+KNmvigKORu9jvJAlHs9fkesiuvGwVv8WOowHy1ywfDUhDJXv4o6cVw/Bc7nLgTMk2j2yhAT+0ghHnhZ+23wJdl+hhziULgvm4mFE+fiT28s9JEadf9VVTBxpcFIb7PlX8LD40G+cMIpX97hUfCAv+BWVkang==;vx3qLvXR/gShed8uHPZ/MQ=="

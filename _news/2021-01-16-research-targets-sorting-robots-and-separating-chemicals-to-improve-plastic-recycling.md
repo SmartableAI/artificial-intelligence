@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffkart/2021/01/15/research-targets-so
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/01/15/research-targets-sorting-robots-and-separating-chemicals-to-improve-plastic-recycling/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Are robots the future of recycling?"
-    excerpt: "Recycling is a simple thing we all do to help try and protect the environment, but it's also big business. But in 2021, the industry is seeing dramatic changes, all powered by artificial intelligence."
-    publishedDateTime: 2021-01-15T04:06:00Z
-    webUrl: "https://www.fox5ny.com/video/890352"
-    ampWebUrl: "https://www.fox5ny.com/video/890352.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/890352.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 39
   - title: "Researchers Offer Human-Robot Teaming Recommendations to Help Inform Army R&D"
     excerpt: "A new report that built on a workshop sponsored by the National Science Foundation (NSF) and University of Maryland provides 31 recommendations on enabling spoken language interaction between soldiers and robots to help the U."
     publishedDateTime: 2021-01-16T04:56:00Z

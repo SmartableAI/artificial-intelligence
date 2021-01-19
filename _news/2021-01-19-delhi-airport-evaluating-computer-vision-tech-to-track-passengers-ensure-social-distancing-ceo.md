@@ -53,6 +53,15 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Delhi airport evaluating ‘computer vision’ tech to track passengers, ensure social distancing: CEO"
+    excerpt: "Delhi airport is evaluating \"computer vision\" technology to track passengers, reduce waiting time and ensure social distancing at its"
+    publishedDateTime: 2021-01-19T18:50:00Z
+    webUrl: "https://www.dailyexcelsior.com/delhi-airport-evaluating-computer-vision-tech-to-track-passengers-ensure-social-distancing-ceo/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 20
 
 secured: "IveEQKhrtzLgofmyoRWm1Ml/nwSjjwJew2nYH35qXaZhNDG7FA1shr74Nh4BNHnHxFT5dpvzbdodZyHrIju3vYL6LYTdNekryz/hrAsiP09Z2TnaI623HEknpN4kunC44C//hlVAQ9u3MUXnt8ANwFwC6j22R9H+ybbTYuEVUwAeMHgIelLDTzp0ojaeNiDQgcTv6HXm2OQXZjq2wuMKFlwPr1HHnodAJAn0n3WFi0MTcRO7WY4E3DCng1Ug6o7QAVqhzDTfP3RACS3DdvFJLv1CbucjbkiIkQOGzcLB/VbaYQZ3xO4Fi8g0+fqvNAVIrYAV1Hmwo06RQDE+fuhZiZUar0kfoRjkZbK6oMJNe2x2VB/huitOKcNUXpJBmJM7Pntfb6Av++YRIcYSR1T9yakzhQ8ylsomqDnTpu4yQvFY6uid6rqGbc0nBs/aZ2+KiduijPmzTYDeKV3GpDZ4yD2S2mFs567nxQo5idaQr7Mm5a04PzOhJw/NCWuw8rcaNItiRpUlEMchOq0blZoLmA==;Ii2sJXBvy1Ay0wm3WBOZ0A=="
 ---

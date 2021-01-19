@@ -54,6 +54,15 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 40
+  - title: "Delhi airport evaluating ‘computer vision’ tech to track passengers, ensure social distancing: CEO"
+    excerpt: "Delhi airport is evaluating \"computer vision\" technology to track passengers, reduce waiting time and ensure social distancing at its"
+    publishedDateTime: 2021-01-19T18:50:00Z
+    webUrl: "https://www.dailyexcelsior.com/delhi-airport-evaluating-computer-vision-tech-to-track-passengers-ensure-social-distancing-ceo/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 20
 
 secured: "Dn/JUFr+BG/GRcDW+UTFIo7doyyPCvkbgoUoDnZi0djuyDlhiM/y8ywvW7kxCq78TT4grt2Xp+Q1w53qMZmE4seENlsso7AJrkq/e6ACEOCdFOHLuXitnU1PG3hH2U5CV5s+bREZ0m6em8qF8kIZXNVWOazdkBS1BpV681YGQf1bzjfJ+KkWxPI49bw370/zJW/DKbJAkUiM8PWnLONdDKryLPnDNk3vpKArvbzOML5cwPiY1+It2kP6MUbPLNMQz7kw560l+6RTerUvNIGHJt51YuKiMGE4YLnBMVl4lkAIMBhX7FOZaSMxqZpQ1HigKl4I4+22jS8UPWqUf9pMd1WDZ+F/IcyDmwe7+Lg8A4vnWGPx7j2Z4lPo87IKq1Xw3/nCLAxB5w6PRjLtRGvRMogn3WtpDZ5a2rsJL+R40yrGZxUQ0ahSZYi+Jn4DqPJzKOAAliV3qateGeJO4qG1FDXpN/yPkcp36IhPARQnRYbUFVqbPRohFRGpEORZUxkqHbQYoPu451cv2rKVLYcG3A==;EFXCPB3+z9KW/mbBQEOTrw=="
 ---

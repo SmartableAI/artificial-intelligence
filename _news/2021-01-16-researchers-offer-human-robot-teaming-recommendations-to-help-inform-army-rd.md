@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Are robots the future of recycling?"
-    excerpt: "Recycling is a simple thing we all do to help try and protect the environment, but it's also big business. But in 2021, the industry is seeing dramatic changes, all powered by artificial intelligence."
-    publishedDateTime: 2021-01-15T04:06:00Z
-    webUrl: "https://www.fox5ny.com/video/890352"
-    ampWebUrl: "https://www.fox5ny.com/video/890352.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/890352.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 39
 
 secured: "2z8i0f3CVZn8oVLUKKrRnHuIPE57I9Pb2vx23KMcItpB/nU2bnwVpbfGBVyZFAdZc9gdAEJpTnFvHNCg2SH2ax66ObP+N0yPjzHUcJaamFa8IEDdzpU4yDSYZh7JFcOXNP2b7rRCa1EZn9tbe5q4snfBQ/yPMpyUpjVCpbP0EPAq886qlSdjQm/ttOMk5wfnSYnn89iYGU/Ouz/x4ZXPqNjN2Vuxul+amuurjmNJ0NhCgz7biWAVoksHl1BUkBoAOlHZuLeQ3F4pl2/G4H6l6E9pfa/e43cLjiGrHtiu8DWtbD25IX89ima3fXrTJwNpuYBiCcIuNv0noQceOzfheF7HdMpP/2Eubmn20jmgsbM=;vZN5JRTQh9nXthDuGLugcg=="
 ---

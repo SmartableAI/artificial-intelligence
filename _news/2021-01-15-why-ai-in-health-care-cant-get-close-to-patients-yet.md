@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/why-ai-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/why-ai-in-health-care-cant-get-close-to-patients---yet/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Why AI Has Yet to Deliver on Promises in Healthcare"
-    excerpt: "We’ve reached the point where computer vision and natural language processing (NLP) programs can match, and in some cases exceed, the capabilities of"
-    publishedDateTime: 2021-01-15T03:18:00Z
-    webUrl: "https://www.datanami.com/2021/01/14/why-ai-has-yet-to-deliver-on-promises-in-healthcare/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 58
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ai_doctor_shutterstock_Andrey_Popov.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "5YctPG4hdHcoxQZtXEDD/DbuZOigOXQoDIkKhpznluFZRsnW/lLjMJixMowHW6MbJsxaTu7HmBbD/2Z0VLVezYo6HQ+De9MmTqxQifaJov2be8FqL4qlKuOuDXTcMMNio5C+RCEiREn/0WB0L+CixzY9qaEN9UV5bujQ/TwLX+jlTYfNiTisq54zjcy1eztPKXWkdxj9DxWLQpaF0DdCgJlrFOnwB+Fbmh0Rh4itsYRHc0KgA1kS0Q2QxF9zewv6ao6WQH00q3zodKxjStUhqAZHgqolIKS/Y1l6VtCA/V4bwj9jhZIrsszn5adUoy64R5g8H/yJfzJd+EnSsGBwdGFYeU7rThbROxU9NAiHqXkkiw54THQQGPd/49h9mhK5XH+JcjwuFIKgsK9WPAEwsn4KBkTBIwIs0gOOh2m+mcxjq1KCYjvDfPwTrg4AP7ns/xXbmTyiuyh61Ea5W5xk81iOl4W8YCEPKlp4UME77L54tKMhapv2lxPrsPn9Q0EspoGe9pbC2fk2d0D7yM/DMg==;lpJy8T6N507/b5f3WTHhjw=="
 ---

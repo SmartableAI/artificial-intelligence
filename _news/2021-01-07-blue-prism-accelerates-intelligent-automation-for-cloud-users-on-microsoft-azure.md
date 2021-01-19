@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "New offering extends Blue Prism’s intelligent automation leadership in the cloud and brings increased benefits to Microsoft Azure users"
-publishedDateTime: 2021-01-06T20:31:00Z
-originalUrl: "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/"
-webUrl: "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/"
+excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
+publishedDateTime: 2021-01-06T23:02:00Z
+originalUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
+webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
 type: article
 
 provider:
-  name: BiztechAfrica
-  domain: biztechafrica.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.biztechafrica.com/media/images/stories/Screen_Shot_2021-01-06_at_6.42.51_PM.png"
-    width: 509
-    height: 249
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
     isCached: true
 
-secured: "X+3yCUlM6Opo/aFeQHu6NXS7CQEnsG3Q3yFTG+JAP+ApUVvC0yzOrbIyk35NerDsL/KACYSdr0SkeWcOl2UcjPZDBHn6HQmSKnOl9Gt8HtKza2XVoLD9dgs+LMIfeWJ5hWrggQZWQQm6L5l8AHnf/9k9YnFg7eYDMn9++gr+pTsKhew2t63om9w/wa9NBlsmFGJo2skt3lUFZxEnvuMnTwaTGyalSj2THwW5dUnyKSeR8kudZv/0pI2KV7pQfSxWiIc45bymt6oYc2+3QbB9nuSIGHsEFExmuvSpvNfAd08ZXwW6UcvBREE5hRHgBSPtJ0hPpp+tKMLSTPdtr8iAsvN+Zjx4SDIvNF2MorsoBymOKob0EkCyiqwGON9fw+By3oQri3gFE1zH3q0kqYV6pKNKP0cCY9QREiaZ1GZBLr1n2mEWYkBRns9+r80VYMZDljWTtRh6KFlwy2/EoE0JhAfmO9vklkebKCY9u7MmkCG43AF0FEoQFtf6Z1FO3I2zuHD2Kp75YD/ydtepFjzy0Q==;u7hSbwAtoGY3+YMQeNO4zw=="
+secured: "/OxrY9Lp3hSdjlfoaa/IkDv0KpLJQxwK3H+FsjtmwF2jB34p4zorNuCcrJX3Sy92MyoWVkVOR9NHZVDoJ34KDbZD7c1GmPJwstNXnXjqn5Dv0TQgQ8OnJsiD5MQSxxReu8Tuh1njFauKl+kvNjBAvlwHCy2JNuKGT1crAghyWoql2tg54M0AGNKKd3WoL37mJR5j7e6oZJZD5LnW54g79iDbql5MA40RpGaNFg0+2h1+1Cz13pM7Caj4zgvRyx/aE6Kh704Zc4YEcD6PJsbJuFnuKv3so9gNvoguJTu9hMfuGYXbDJKGLQ74SxoQgsI5jFqQ5mU0buMwCnj+a/23vtbVBG7VgFRWoHbHVjiXDqY=;U7OUSVdpBBl7iZGu9Y62mA=="
 ---
 

@@ -119,6 +119,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
+    excerpt: "Project will provide additional value and scale to Quorum’s popular Q Analytics Enterprise Reporting solutionCALGARY, Alberta, Jan. 19, 2021 (GLOBE NEWSWIRE) -- Quorum"
+    publishedDateTime: 2021-01-19T20:05:00Z
+    webUrl: "https://www.wboc.com/story/43195966/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 30
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "7ADRqDqOTkCNS75vTE4K94N1twLXnL2f1n06it4uDKSypOp4pArEpLFIpT1TkrA9587qIgqh/yWa9a1+Gg7oyNEF1G9GPgf2a1n4+W0l3xMj3DQFoQEOhezNMvJibq5uUh13UdDhMnbgDnDf4CgyGy1If3zxtoxhNkhCdO0VuqvABoybZ5vbYvDzn9lF/8QsWsrFZw+XIIN5t443q49v3mbsm0sTyqeJAQM3V0cClnJiiAnjTB0RjymBqxTZg3hO3ra44gUUs5Jmvfjb3s/TaGs73BqNfx+QCdkyiTJQ+QeBlbpSv2o3cK8idLFibQQtlwvwvE+3yHSeQgoN7kk92OwwBcz8cjQQqY6uRh0uzgq8bjLp1pzRcz5NjzFbZXBh7HIGGww1m0QlcpfyMYvyRIyuykAFhAPbWtKHwnKUkKFYxezaPNvKBrK4viL3ntPHbAL6lsc4lDl20BT+Zdd3ElksQAijm1sEFVYDnGAzstz+HtobXZJ2UqLbVGJAFXWJ9OQ+w7WSUvzHeQNoUJaXow==;a3JcvEPzuZJOE4XvH+8p8w=="
 ---

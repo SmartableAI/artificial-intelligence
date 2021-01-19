@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-11-photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically.md",
+      "title": "Photonic Chips Seem To Boost Speed of AI Processes Dramatically",
+      "excerpt": "A team of researchers has recently applied photonic processors to artificial intelligence applications, demonstrating that photonic processors can greatly surpass the information processing capability of regular electronic chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically/",
+      "originalUrl": "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1200/h:900/q:auto/https://www.unite.ai/wp-content/uploads/2021/01/spectrum-113364_1920.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-10T23:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase.md",
       "title": "Top 25 Machine Learning Startups To Watch In 2021 Based On Crunchbase",
       "excerpt": "Throughout 2020, venture capital firms continued expanding into new global markets, with London, New York, Tel Aviv, Toronto, Boston, Seattle and Singapore startups receiving increased funding.",
@@ -1117,6 +1161,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-03-want-to-dive-into-the-lucrative-world-of-deep-learning-take-this-online-class.md",
+      "title": "Want to dive into the lucrative world of deep learning? Take this online class.",
+      "excerpt": "TL;DR: The Ultimate Deep Learning and NLP Certification Bundle is on sale for £21.43 as of Jan. 3, saving you 97% on list price. Artificial intelligence and deep learning might bring to mind ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes/",
+      "originalUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F01%252F03%252F25%252F3bc5fc78a1c14aa5bd3540bfd1fbef73.cd6b9.jpg%252F1200x630.jpg?signature=H46_q9w0l8DXHM_wrYE-4pOIE9E=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes.amp",
+      "publishedDateTime": "2021-01-03T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning.md",
       "title": "Future Of Banking: YES Bank Datathon Pushes The Boundaries Of Finance With AI And Machine Learning",
       "excerpt": "Used along with Machine Learning (ML) algorithms ... This is a unique facet wherein data professionals from a non- financial services background are participating in the challenge beyond the ...",
@@ -1288,104 +1375,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
-      "title": "3 Machine Learning Stocks for a Touchless Society",
-      "excerpt": "Investors looking for a high-growth play will find this machine learning stock a great buy. DocuSign is best known for its e-signature service which ... She is a financial writer and analyst ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
-      "originalUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/12/ai-stocks-1600-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
-      "publishedDateTime": "2020-12-31T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-you-dont-code-do-machine-learning-straight-from-microsoft-excel.md",
-      "title": "You don’t code? Do machine learning straight from Microsoft Excel",
-      "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
-      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
-      "publishedDateTime": "2020-12-30T17:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

@@ -218,6 +218,20 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
+    publishedDateTime: 2021-01-19T19:11:00Z
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO?edition-redirect=in"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "GM Jumps as Microsoft Joins $2 Billion Self-Driving Venture"
     excerpt: "General Motors Co. and Microsoft Corp. are leading a $2 billion investment round in self-driving car startup Cruise LLC in a deal that will bring the software giant’s cloud and edge-computing capabilities to the venture."
     publishedDateTime: 2021-01-19T16:27:00Z
@@ -229,6 +243,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 71
+  - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
+    publishedDateTime: 2021-01-19T19:04:00Z
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 70
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Cruise and GM Team Up with Microsoft to Commercialize Self-Driving Vehicles"
     excerpt: "\"Our mission to bring safer, better and more affordable transportation to everyone isn't just a tech race – it's also a trust race,\" said Cruise CEO Dan Ammann. \"Microsoft, as the gold standard in the trustworthy democratization of technology,"
     publishedDateTime: 2021-01-19T15:18:00Z
@@ -289,6 +317,22 @@ related:
         width: 715
         height: 401
         isCached: true
+  - title: "General Motors Cruise, Microsoft Team on Self-Driving Vehicles"
+    excerpt: "Microsoft is part of a group of companies investing $2 billion into General Motors Cruise, the carmaker's autonomous-vehicles effort."
+    publishedDateTime: 2021-01-19T19:56:00Z
+    webUrl: "https://www.thestreet.com/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 61
+    images:
+      - url: "https://content.jwplatform.com/thumbs/6EXRbWC8-720.jpg"
+        width: 720
+        height: 404
+        isCached: true
   - title: "Microsoft allows users more control over their voice clips"
     excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can"
     publishedDateTime: 2021-01-19T16:46:00Z
@@ -304,6 +348,22 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2021/01/19/1025544-microsoft.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Microsoft joins $2B investment in GM's Cruise self-driving vehicles"
+    excerpt: "Microsoft said Tuesday it partnering with General Motors and Cruise to ramp up commercialization of self-driving vehicles."
+    publishedDateTime: 2021-01-19T19:12:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/19/Microsoft-joins-2B-investment-in-GMs-Cruise-self-driving-vehicles/2791611076721/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/19/Microsoft-joins-2B-investment-in-GMs-Cruise-self-driving-vehicles/2791611076721/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/19/Microsoft-joins-2B-investment-in-GMs-Cruise-self-driving-vehicles/2791611076721/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 61
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/2791611076721/2021/1/16110798015665/v1.5/Microsoft-joins-2B-investment-in-GMs-Cruise-self-driving-vehicles.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Microsoft partners with Cruise to commercialize self-driving vehicles"
     excerpt: "Microsoft Corp. is joining hands with Cruise to help accelerate the commercialization of driverless autonomous vehicles."
@@ -465,6 +525,20 @@ related:
     images:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
+        height: 480
+        isCached: true
+  - title: "Microsoft Lets Users Decide Whether Their Voice Clips Can Be Accessed By Human Reviewers"
+    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide"
+    publishedDateTime: 2021-01-19T19:51:00Z
+    webUrl: "https://www.techshout.com/security/2021/19/microsoft-lets-users-decide-whether-their-voice-clips-can-be-accessed-by-human-reviewers/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 32
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/01/stock-image.jpg"
+        width: 690
         height: 480
         isCached: true
   - title: "Yellow Messenger and Microsoft strengthen collaboration to transform voice virtual assistants"

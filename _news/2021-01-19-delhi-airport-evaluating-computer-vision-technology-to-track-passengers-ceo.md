@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-com
 cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 40
+  - title: "Delhi airport evaluating ‘computer vision’ tech to track passengers, ensure social distancing: CEO"
+    excerpt: "Delhi airport is evaluating \"computer vision\" technology to track passengers, reduce waiting time and ensure social distancing at its"
+    publishedDateTime: 2021-01-19T18:50:00Z
+    webUrl: "https://www.dailyexcelsior.com/delhi-airport-evaluating-computer-vision-tech-to-track-passengers-ensure-social-distancing-ceo/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 20
 
 secured: "dvjjJTZibW0rgd7erAmGCDQNT+Lq+WM44K0aKyX8QXQcw/6Ptu+HTE6iz60CaJfkgObE4ZuEUlGD93KWI8irTi40B0B8F0/VPAUCJaGa74OYpNl4PgJtmeEsBMWvbOY7CR8T4sJbRCWslBCoFIAsyx42kiCN+NixHjtExxa1/NAKl++GKKQMqREc/zJO2bhUn9T36GW1ECf7XpuAVcwXVsi9PmGd3PquwdX6bfIwhuWshdc79odAPLKmo0KJDarDTstqMt+kCy3/sr/e3NB9HRnLUpo9xTF+Oct5QnM6PYXql8tdi2MVreiAlCcEHdcLjTwG0UhwPXHBSn8peW3Sj43RpusPiu3sBoGP/uJNJzRzNRcyFHpbdm1ZNBo342O3zxUlUGmR5+/W0N6l9vNHnZ0LbAs+N4jD7JSVg4QC6RIsIohvS49qz8CJiIQ9bBpEgygBveQMA26Eou+dVmptbNPFG5ZO55wQFEA1DdttByLR7Q6I2a00pZhZ3O6eXhuJ23qvdylJ179aBD8c3+o2Jw==;xh79cxvXjJX0X6dUEB2tsA=="
 ---

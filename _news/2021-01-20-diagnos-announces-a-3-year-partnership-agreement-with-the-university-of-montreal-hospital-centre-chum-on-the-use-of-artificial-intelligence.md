@@ -1,21 +1,27 @@
 ---
 category: news
 title: "DIAGNOS announces a 3-year partnership agreement with the University of Montreal Hospital Centre (CHUM) on the use of Artificial Intelligence"
-excerpt: "DIAGNOS announces a 3-year partnership agreement with the University of Montreal Hospital Centre (CHUM) on the use of Artificial Intelligence"
-publishedDateTime: 2021-01-19T17:07:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/01/19/diagnos-announces-a-3-year-partnership-agreement-with-the-university-of"
-webUrl: "https://stockhouse.com/news/press-releases/2021/01/19/diagnos-announces-a-3-year-partnership-agreement-with-the-university-of"
+excerpt: "(GLOBE NEWSWIRE) -- Diagnos Inc. (\"DIAGNOS\" or \"Company\") (TSX Venture Exchange: ADK) (OTCQB: DGNOF), a leader in early detection of critical health problems through the use of artificial intelligence (AI),"
+publishedDateTime: 2021-01-19T20:15:00Z
+originalUrl: "https://www.wboc.com/story/43196604/diagnos-announces-a-3-year-partnership-agreement-with-the-university-of-montreal-hospital-centre-chum-on-the-use-of-artificial-intelligence"
+webUrl: "https://www.wboc.com/story/43196604/diagnos-announces-a-3-year-partnership-agreement-with-the-university-of-montreal-hospital-centre-chum-on-the-use-of-artificial-intelligence"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - AI
+
+images:
+  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "DIAGNOS announces a 3-year partnership agreement with the University of Montreal Hospital Centre (CHUM) on the use of Artificial Intelligence"
@@ -33,6 +39,6 @@ related:
         height: 480
         isCached: true
 
-secured: "INV3h7kiSWKeRwf6eJ0rqzkbezhGxs9Wdn64PoKVkwtoTEfVIiuHPZ1//96dQsjt9b2YHO4lODL2K6O9O5alFgwCWv8otUFnutBNbINV3URITYYNWnsFp+tlNO2jAGEbVrdvsmsLPH3l9sP4eYI+8gKlRVICDDBbA2KxhwMuzrTjOkS2AaolGuoLZmGAE+IkqdeGttjrmdlsNyNVJgQf4SOV8OKTZr2joV+hCVrWPXYrHcskE7Dc5gp/1YdVc8ZZ2/6MqY6I4nBQs9+/OKLAm1XvxaV25CZLzRZSjAzdvlg/pPdM9edEGvPjghX792N2ZAnlyinvYpkdTkrHn+IDjON3dA9bJ9RkJFyshJP3BmXpCmwnPDKYI5+qYF23IsUG01OHEnUUqR7GsBDo7ZlJaGgZngLo/nihmkCciv7bQz8yZ9IMSgxB4fIJjasuhTUVhVRTWwVlzcTqznpqCagnSN4plF7D2TEQRY1MhWtwW6D0bgVxYG9plpIwXcE9kNFFozSlNngWi3tsJa0gzGrV6Q==;bsUfKGGkLJfrQEcxLacVeg=="
+secured: "3AVBpufNn0wEEWtwqTxwbqcpvjrSKjIYTjHXoiIx3KhW18KpVU638tgu8R0tHhGPYakqhfVlVEq6DG1sgwTOj4k5XiQCKH0CbpXF64Fw+rgO3OEfB3YHWKvmMM1Q+/3hCntJjAyqYLdFv8XTO9Es4tk9B8qMaDqQYtNFfiJS+1mE7GqqZko1EEUt92zExjWMJFdht5On/28hZTHVv5lgMzTQD59+DaMbHzeei5nCTk460gEP2h39/7ZUTvrB5iGYKGHgxgC0Q/8MBt4la/DfAdo8lHmb9+0YA1eZTj8JkbMj91jrhLXKbA3jwPAWjJQ6ylIf8Id+IQHyJrfrGAPzOp1rC82GLutJdE4uIhRcKNI=;LSvG9rk+sNtqka4u9zd24Q=="
 ---
 

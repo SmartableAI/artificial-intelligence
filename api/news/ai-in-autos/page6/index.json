@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-12-08-huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo.md",
-      "title": "Huawei CASE Layout and Strategy Research Report 2020: 40+ CASE Indicators and Comparion of CASE Capabilities VS Bosch, Baidu, and Waymo",
-      "excerpt": "Layout and Strategy Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Research on Huawei's CASE (Connected, Autonomous, Shared, Electrified): Who is the main rival of Huawei in automotive engagement?",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-1029872468",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-1029872468",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-08-uber-is-selling-its-self-driving-car-business-to-aurora.md",
       "title": "Uber is selling its self-driving car business to Aurora",
       "excerpt": "Washington, DC (CNN Business)Uber is selling its self-driving car division to the autonomous vehicle startup Aurora, ending a five-year run of developing self-driving vehicles that was marred by ...",
@@ -1382,6 +1339,58 @@
         "name": "unite",
         "domain": "unite.ai",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-mit-developed-an-autonomous-roboat-that-can-transport-people-and-navigate-through-canals-in-amsterdam.md",
+      "title": "MIT developed an autonomous 'Roboat' that can transport people and navigate through canals in Amsterdam",
+      "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Self-driving cars get most of the attention, but engineers at MIT have been quietly working on an autonomous boat for the last five ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mit-self-driving-roboat-ii-in-amsterdam-canals-2020-11",
+      "originalUrl": "https://www.businessinsider.com/mit-self-driving-roboat-ii-in-amsterdam-canals-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa1949f69331a0011bc7009?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mit-self-driving-roboat-ii-in-amsterdam-canals-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mit-self-driving-roboat-ii-in-amsterdam-canals-2020-11?amp",
+      "publishedDateTime": "2020-11-29T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

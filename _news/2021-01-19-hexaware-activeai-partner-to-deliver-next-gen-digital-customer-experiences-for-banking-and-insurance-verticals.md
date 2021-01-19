@@ -1,29 +1,73 @@
 ---
 category: news
 title: "Hexaware & Active.Ai Partner to Deliver Next-Gen Digital Customer Experiences for Banking and Insurance Verticals"
-excerpt: "PRNewswire/ -- Hexaware, one of the fastest-growing next-generation providers of IT, BPO and Consulting Services, has announced its global"
+excerpt: "PRNewswire/ -- Hexaware, one of the fastest-growing next-generation providers of IT, BPO and Consulting Services, has announced its global strategic partnership with Active.Ai - a"
 publishedDateTime: 2021-01-19T11:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/hexaware--activeai-partner-to-deliver-next-gen-digital-customer-experiences-for-banking-and-insurance-verticals-301210750.html"
-webUrl: "https://www.prnewswire.com/news-releases/hexaware--activeai-partner-to-deliver-next-gen-digital-customer-experiences-for-banking-and-insurance-verticals-301210750.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-active-ai-partner-to-deliver-next-gen-digital-customer-experiences-for-banking-and-insurance/article_9e6173d8-eb8c-54d8-b3e3-133c3ededd21.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-active-ai-partner-to-deliver-next-gen-digital-customer-experiences-for-banking-and-insurance/article_9e6173d8-eb8c-54d8-b3e3-133c3ededd21.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/530945/Hexaware_Rebranding_Logo.jpg?p=facebook"
-    width: 1379
-    height: 721
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/6006cbbf268cd.image.jpg?resize=400%2C240"
+    width: 400
+    height: 240
     isCached: true
 
-secured: "WBwQGFef5N83TpLavtRy7Pr8STdXPc9tdLwefMxnSt+qfLlYrmnGeLWPxGsGlmv6e9nIyAt0sAo+Hxa4zVcZ/jmykfQtQfWFmBdpt2wSTMNUR60L2eedLTKfO8nTeJpCeYxvGaraPGhDTZLBbOG1WG2Vl+mEOir8ADWcnPq0v7UpJB5M47R57qaahWaH2Cdpda7qRC5i17/VlZ+Mh/4aJ4nJtSW4OCCBZEp2bGg3NaDNnIZgBc3Z0Q73dGJGhvgxZN6goI91r9wum9G/+8fJ6vcv3gGShJn2VmW9v1qgLEIoZ+q1BjOmQGUsm716CC2FObDCmnpZG+xcWuzEG2usy7S2U8hnTto1r5LPtn1co4A=;AJp/CdI79IpVzAFdYu1Y2g=="
+related:
+  - title: "P&R Dental Strategies and Denti.AI Join Forces in a Strategic Artificial Intelligence Partnership"
+    excerpt: "P&R Dental Strategies, LLC (P&R), the leading business intelligence solutions provider to dental payers, today announced an exclusive strategic partnership with Denti.AI Technology Inc. (Denti.AI), a leader in the emerging field of dental"
+    publishedDateTime: 2021-01-19T19:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-19607248.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 41
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation with AI and Red Hat OpenShift"
+    excerpt: "Atos and IBM today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos’ vertical decarbonized solution and service delivery assets,"
+    publishedDateTime: 2021-01-19T19:50:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/atos-and-ibm-collaborate-to-accelerate-digital-transformation-with-ai-and-red-hat-openshift/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 29
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/Eric-Lander-The-Broad-Institute-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
+  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
+    excerpt: "Atos and IBM (NYSE: IBM ) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos’ vertical decarbonized solution and service delivery assets,"
+    publishedDateTime: 2021-01-19T16:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-industrial-products-and-services-transportation-and-shipping-e9c2331e90a30f936998b549e9d0b035"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "viasSaUiSqHCRMlxoKWSwj58jUhnjnEE1QdVgq/bnzy5slE+HZ7Ivji+AFpZ2R29jMYD7MEwr+9V0kjY4iVo7OhOq5A3UYrUYrQ+mbvB52PmKNhP9rKDjcB6Q1eWmIMqVb1lmXU3eUJ5TxUWPQr9HarbNZ9eXR9l4xYyVh/0cD0hwbIWhFr5nWgBFqgkLSlQfTdA/HruWyRova91sWUHt0Z9kBYA2tdAPwN2xlPDuzHXU2z9NDak2KGW/hnL7htSe4O9m70ZQb7DDX36IZTE9rEC8iwINZUTPcPi61GkCN/z6yY65DIDA2pDwHqCLyNht1co/1x/mJ+IvbYVo0LHZJJRi4J0vBnHRQKdGMcQ9fg=;GEVtH2OvPYXqxRdMQbRKWA=="
 ---
 

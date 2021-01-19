@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-15-cognitive-assessment-and-training-market-worth-1801-billion-globally-by-2027-at-2856-cagr-verified-market-research.md",
+      "title": "Cognitive Assessment and Training Market Worth $ 18.01 Billion, Globally, by 2027 at 28.56% CAGR Verified Market Research",
+      "excerpt": "\"Cognitive Assessment and Training Market by type (Pen- and Paper-Based Assessment, Hosted Assessment, and Biometrics Assessment), by Component (Solution and Services), by Application (Clinical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wallstreet-online.de/nachricht/13274527-cognitive-assessment-and-training-market-worth-18-01-billion-globally-by-2027-at-28-56-cagr-verified-market-research/all",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/13274527-cognitive-assessment-and-training-market-worth-18-01-billion-globally-by-2027-at-28-56-cagr-verified-market-research/all",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix.md",
       "title": "Facial Recognition Market Growing at a CAGR 17.2% | Key Player Thales E-Security, Nuance Communications, Microsoft, Amazon, Ayonix",
       "excerpt": "MarketsandMarkets forecasts the Facial Recognition Market size to grow from USD 3.8 billion in 2020 to USD 8.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2020 to 2025. Growing importance of the surveillance industry,",
@@ -1382,49 +1416,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud.md",
-      "title": "TCS Launches New Version of DATOM™ to Help Accelerate Customers' Business Transformation on Azure Cloud",
-      "excerpt": "PRNewswire/ -- Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-301181744.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-301181744.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook",
-          "width": 2063,
-          "height": 1082,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
