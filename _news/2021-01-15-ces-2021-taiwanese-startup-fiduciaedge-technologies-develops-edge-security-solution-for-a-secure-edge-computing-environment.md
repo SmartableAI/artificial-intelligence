@@ -19,17 +19,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "CES 2021 Taiwanese startup FiduciaEdge Technologies develops Edge security solution for a secure edge computing environment"
-    excerpt: "FiduciaEdge's software/firmware platform makes edge intelligence trustworthy, while protecting data privacy at the source. With FiduciaEdge's solutions, the vulnerable edge computing landscape can be transformed into a trusted/confidential environment with ease."
-    publishedDateTime: 2021-01-14T07:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
   - title: "CES 2021 Rethinking Virtual Learning with Taiwanese Startup FlyingCrazyer's AI Evaluation System"
     excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall effectiveness issues result in low rates of interactive practice and provided feedback,"
     publishedDateTime: 2021-01-18T14:34:00Z
@@ -52,6 +41,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "CES 2021 P-Waver Combines Big Data and AI to Build Earthquake Early Warning System for Taiwan Government and High Tech Industry"
+    excerpt: "Leveraging its well-established database, AI technical knowledge, and a proven track record encompassing thousands of successful projects,"
+    publishedDateTime: 2021-01-15T06:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19176502/ces-2021-p-waver-combines-big-data-and-ai-to-build-earthquake-early-warning-system-for-taiwan-gove"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19176502"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19176502"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1419571/P_Waver_constructed_EEW_system_based_earthquake_data_Taiwan_s_Central_Weather.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "vU34falIArswYeTuXrdacsjnNSx+X+ldXn2kMg32VsikGw1ypEf1GBGmpx4844VhIrVWvj21DT6b+JgdjchLWJxsPoFgcvlkNDX/L3JsdekVkvfmXOgEgbQh4dpv8klB8WIVtWWp/RkxBYUuB/Z69mTSj48q+028DhqD3ByuJPT8LmCM0HyEAUP5CUXefLnWq/XpLB5FVh3v1zFY5B/vKDLFiwtJvOL7F9Nn/rv4/3ESD1BdSxx7z6tH3t0miwqM+jlkAF8gPJdKEOET4TS0UvSZ9k1fmxlfjK4OSFKv9R6yhUcW9tbUGmc4hxCwxLyDrSbuWIXbNSvrJkOYL1RGOGAQygVCg/Q9K0TYkTV84Bc=;bu+xp8PIJD472XhxnwjzvA=="
 ---

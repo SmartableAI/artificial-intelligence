@@ -3,8 +3,8 @@ category: news
 title: "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™"
 excerpt: "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,"
 publishedDateTime: 2021-01-14T15:20:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd"
 type: article
 quality: 28
 heat: 28
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 15
 
-secured: "xxRCC5nsJWY4moZ/2gSaSgNmY6RKstUGIqhj2mffwW8r4GiWE2UXY86KqjENKJTXp4m98vWq1sapB1fatdnkiyzrLRK9Q+uBDkhb4oMy8USbGsdgopBBy0bMLUoHpToPw91WC83BtAD156cjAccFN00ry2geb76PK/XBXRtCOkFZxWMiGBr0Nzp5UoTn4Hkiu0tZ6x+8w8P6MULnD6lxYlr9SUptCXjdyUL+q7wBh9UdbFDm/OmbffFbeY9pCEayCafBcoW92UAWbGWhNOxFWmg8nLvE7xY2T/2rGDpMhb/CIZ4V/wM6pAhwi6zZ0CO5ST/jB/5bA54yScdknHjD7yYCUoTFleMXyB/o3PlVAlE=;0R5ZEzp/AetMASrmPLwTJA=="
+secured: "Eku4/IbGH47aX1g5EJWFMtSil0a+gEUMFuqpPuKcdz+W0dQxIPYS28ZFPMHeewbzAyieKiwX1fB+X/eOrvZR15l+k9wsdXki0esl8KIB/rNM/Nh0UwHxgaGqtfEBa6QqDOBx1tXkpeEZXKmxpphT/yNe9xy9mzJlYJYwgJAqwKZ9lJPSfaSZxfHmlPyymTRd8ovYxjsDgQDCP768BdkojU3w819PQwoGhgsnUlp9h3V5OApLNNB5R7PWEP1AHyf3sB2Na1w70DO5LZjdPkiE/h01HHR0f+yUAJsr40k0uNitFgdjF0Qpwl7bz52kEQBbh0qfRO8cbP06W/+p4XGGCsfHQSXqyc/6dSQgX7AI/nM=;mUJliM1kO87S+09iI5Re6w=="
 ---
 

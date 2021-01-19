@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/amp/"
 type: article
 quality: 99
-heat: 101
+heat: 99
 published: true
 
 provider:

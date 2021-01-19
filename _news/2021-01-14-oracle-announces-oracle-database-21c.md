@@ -38,20 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Oracle Database 21c introduces 200+ innovations"
-    excerpt: "Oracle announced that Oracle Database 21c, the latest version of the world's leading converged database, is available on Oracle Cloud."
-    publishedDateTime: 2021-01-14T08:20:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/01/14/oracle-database-21c/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 24
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/01/14081625/oracle-database.jpg"
-        width: 1280
-        height: 851
-        isCached: true
 
 secured: "osbDC4YPusQLyCtpD0tsWcKyPZWpeR/9JC1yNPQszNJid/DPppWa/X3cs5LXTL6zxBgqqmBBYRccNH6Hy+q1rjD5VMPL6oJ5EZzoWQLmIXR/g+g7Ud/kaiC5rZALIHkJ4hinbRPvwJ3j1bATZgjOQt8FBzzFlE6abj+DiUeOGOGUCMd/GVdbEm3IjSpmDVR0F5GLARc5fVbf3ykV6NyOBC79ChPReRenRXSf9rz92DaiJdjUQuiY9Z7bosEfXRUEzXx7AOaJKnDcLTBhylM1WWnTAgdXRVCXPTOtWWa+1kWbYqYjsod+xMVKU+YNcWKLWdA8RHmy8tFENt4aSN2YzTeIc7JkwJy9o3slI9ShutFwqHt9DeAUO0H08ibfavVQ2BKsflZlnOxbdlR2lbh+v/ZCzsfcuK8tc2MMo9Z806NUJkj0jIMvhjPgX5HHSsxf7XDr28ZCsHoPdOtgpsn0UrsdhqRIeeKMKnE0CTcahfkjm6erh4aqdgWI/Td2YmlI0pwmDt8kvBsXNJjFtitpDA==;lpWSauH6bvem175dIUbpqw=="
 ---

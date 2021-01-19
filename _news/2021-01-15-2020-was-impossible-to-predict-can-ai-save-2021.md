@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2021: AI steps into 3D foot scanning"
-    excerpt: "Foot scanning technology and orthotics leader Aetrex Worldwide this week showcased the next generation of the company’s 3D foot scanner, Albert 2, at CES 2021. Albert 2 combines computer vision, machine learning,"
-    publishedDateTime: 2021-01-14T08:08:00Z
-    webUrl: "https://gadget.co.za/ces-2021-ai-steps-into-3d-foot-scanning/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/ALBERT_PRINT_AD.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Top Five Artificial Intelligence Predictions For 2021"
     excerpt: "Here are five predictions on what we should expect to see in AI in 2021: Something’s going to give around AI governance. Though regulation hasn’t reached a boiling point yet, AI governance will continue to be a hot topic in 2021."
     publishedDateTime: 2021-01-15T09:51:00Z

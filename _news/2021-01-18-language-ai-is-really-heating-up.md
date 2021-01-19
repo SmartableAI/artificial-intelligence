@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/34556497cfb36527c746abdcaed129ad_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "How Artificial Intelligence is enabling Smart Homes"
-    excerpt: "There are multiple applications of artificial intelligence in smart homes, e.g. artificial Intelligence based appliances in smart kitchen, smart speakers, Robotic vacuum cleaners and much more."
-    publishedDateTime: 2021-01-14T07:13:00Z
-    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-is-enabling-smart-homes/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Smart-homes.jpg"
-        width: 1200
-        height: 720
         isCached: true
 
 secured: "UJ9kU+p0C4QZ8pLZGQTWy9uxJCBSYYlwKsiCN4gxCBfsAJqUAsJnJsphA4IP7NWeXH283RFVLzHJCCgXa8MIerasV1Womx5gInO6a2wGHvD+SI5POEU0MU6ZPQsiknwOxoDRMrPboEaTMr8K2EXa10wG/ndm2KPuLg7F9014DxJjhJAc7PnFqSyISLfwKEeAKBeS9G0pZd7aM+CoDPlT3mxvPpiQGEVJsGHMbHbtOgnBxeyEFj4EujOYH36Y3XOSKQ3MRyUorbuJcyxvDkPw2saPSY0Z0EnucRwlMcA+xP8N7PlpZwQi6M9uYjYB6yf6dT3jS8wL/JnGUz+e+q/qF7oUhbxwLTV+OlXl4avEguilgI0SJQLAD73l6BTzx3bknKNcWzQ7bxnzJspsl1UOFYIvvEourxHCzgIT9SqL14DPZBzzkHd9OCn4mn/FWKiUwWxtNfBWDM4U1ZdLzpWNME2iLK9Sw8zZWokWu0OPfsTD8gjf1H/GiQwGVoB2wBlnxzbkrNfbDBUpFa2JQn0+3w==;PuuEiNUxh7ljFIrbqE+WEQ=="

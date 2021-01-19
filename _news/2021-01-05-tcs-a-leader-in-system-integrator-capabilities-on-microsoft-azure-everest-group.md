@@ -1,20 +1,28 @@
 ---
 category: news
 title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
-excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
-publishedDateTime: 2021-01-05T12:23:00Z
-originalUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
-webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
+excerpt: "New Delhi: Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been recognized as a Leader in the Everest"
+publishedDateTime: 2021-01-05T11:53:00Z
+originalUrl: "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/"
+webUrl: "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/"
+ampWebUrl: "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp"
 type: article
 
 provider:
-  name: Tata Consultancy Services
-  domain: tcs.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "EMfTyLD7bFbikkqDjvgCbvFdZl6zaV1hQeyfua/0K+AWuAq26Asw1S16uJ1atFynvkobCP/tflF73xzFDbu1/XiW5UX0F2SxJFehA+HkhCMhgdDr2p1jwoaqCBB3XEU9CEr5qP++2s7PmthQcyhxolwuhxOvOaULOoU/1idVLtnwHdEdQ1wWIdMSs8bAPDmafRvufbM58wfCY1HzA5S/87Iv4tQQduAoMKT3wFpWMtpXgzxQMyrZ4t/UM5ok9SagQ5bL+LM8HwFo19bvBjjcVMMn1bdNDCbpBTyHK7fnutCXUnzApxReUbJxsQYuxiScaW4OPIT439QvXQxitVg2VVh758NiZNdqX5ag6Ko0jub4P6CirAyeMDpR/ny6v2WhQ83Cb4DLco4HkWTW1UeLdu+Lf19AEG8EJHtp3lqJrNwido+Nn9/62E8+wDUKWIXNvq0lnjQUZRGtZYVCj9oqJvm9kCjCcb8I0Vk0okbb6N2259wG1pU9LgBLpu680ajRT4MpjTAW5HICX/chG10GyQ==;XRJGcmVOjXELmxqgmkujjQ=="
+images:
+  - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/TCS.jpg?fit=400%2C400&ssl=1"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "PHkgwRYm3zTeDRExxjguE1Pt+By2xKlzpTaJ0kJpdiBZCkAh9dRMRvanZGC32kQnqSTCp9Lr0knSYd4/YSG2DPqwvt9ys2X05OjSlWt+xpojUxZo94kb6kQwzKanE07NgKtn2c0xmg+IfKthTVGgvYx5o/7f7MPVY7q5HVOVvAEjT3eMONgIGeA5fGNvkD1DNWJFf8ou5JehzJRwuZ8NXBMRGS5YYyToF/XF20H8aD6E2DnB15Mb0i3ECuzJnlyQKp3YS1DVlntTFIYgx/EmaFqg9f7IsZPSWp9v1DvMtuEAeAdjMdmZBewDxabRgs7qDCAVZkYPV3iixx0DPSqXdl5wD4B6e85uK/3SQXRTOBQ=;wRLSQjbJFXqRHXC9PfHr4g=="
 ---
 

@@ -57,20 +57,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "How Artificial Intelligence is enabling Smart Homes"
-    excerpt: "There are multiple applications of artificial intelligence in smart homes, e.g. artificial Intelligence based appliances in smart kitchen, smart speakers, Robotic vacuum cleaners and much more."
-    publishedDateTime: 2021-01-14T07:13:00Z
-    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-is-enabling-smart-homes/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Smart-homes.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "Z0FV4qws0JsC32bM8XHh5Q1fXFYauqvdjpGdS7KghGPJjCnaleCzwGgrN/r5gJ3SsS4GeD5Q3oQVt0Cz1RMOQh1fgIlzeXCt6oNFfWu/pDwP08ycDpO+l2woaevbWVFQAb+1vhVSfS8IUg/N9TRBEjaUQKndpJ2L5REzF4iVpRSiicFUfUCpOPo+7NkgYlXdKsCIDSE8Px44OiRamq/qXirLjhj9VT0+wayveQgcGfcmIl4++jCz/srYHouJl6kt2+rD3Bi2cR2ydufpwjg51iRkM5osbdcjFRSar8u+qyxPVFe4c2Xf1XvtWxN3eyHN9ushUw4eQrNOyEs5BWdgxDqyr0e0AiqCv2IgyV30QXCP6h8U20mdZWkyTlsdPAVfgPULvsmApp7sV6qFmLZcVqx8KApYXOHyrfGzSj4Lzh8GsqhGdRW0FBYfHJ0tXPFE58DRDB80zudy1+zCimPdPou5RT6od2034/BTljcZliHpCUL+POsJZqQK7wgFppc7qcvA7BI3refdaleKBgh0ww==;MClLwfWEoMd3obNr3MKrmQ=="
 ---

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Space Robotics Market Size Worth $5.7 Billion By 2027 | CAGR: 5.2%: Grand View Research, Inc."
-    excerpt: "The global space robotics market size is expected to reach USD 5.71 billion by 2027, registering a CAGR of 5.2% from 2020 to 2027, according"
-    publishedDateTime: 2021-01-14T08:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/space-robotics-market-size-worth-5-7-billion-by-2027--cagr-5-2-grand-view-research-inc-301208140.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-        width: 1400
-        height: 733
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
     excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
     publishedDateTime: 2021-01-18T14:19:00Z

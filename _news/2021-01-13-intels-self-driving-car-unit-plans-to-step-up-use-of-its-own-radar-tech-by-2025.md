@@ -3,8 +3,8 @@ category: news
 title: "Intel's self-driving car unit plans to step up use of its own radar tech by 2025"
 excerpt: "The head of Intel Corp's self-driving car subsidiary said on Tuesday the company wants to shift toward using its own radar-based technology and use a single lidar sensor per vehicle by 2025 in a bid to lower the cost of autonomous driving."
 publishedDateTime: 2021-01-13T08:05:00Z
-originalUrl: "https://www.reuters.com/article/businessNews/idUSKBN29H2XU"
-webUrl: "https://www.reuters.com/article/businessNews/idUSKBN29H2XU"
+originalUrl: "https://www.reuters.com/article/us-intel-mobileye/intels-self-driving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025-idUSKBN29H2XU"
+webUrl: "https://www.reuters.com/article/us-intel-mobileye/intels-self-driving-car-unit-plans-to-step-up-use-of-its-own-radar-tech-by-2025-idUSKBN29H2XU"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 534
     isCached: true
 
-secured: "Q5J7FcmfjjDoLTwcfYlneKOBkwNCq1pvhkcftdFe7a816NzfSDw5DMKDh9LZycYKbnsW4zsguhJj7Q9CUG4mSGV1XVK7Is+ABAViKmkjLuD3IJXJHjVmTcSslmjBeeCx+vaVt83GY2AaVdT3DAsdObsUhwGeohdNbnGRONGQ69qAR5dIOOeWtFw4Fl2bfKI9nCNpe21IHFGt3vzdnarxZl9SVq4/pqaYgZRppyNWUcS3vUdEMbH5hK9XwVIwxUXLw8QJK7eS2g+e5XcHuSblPpfzLTS8RzJNwSR2fD01auNY/SwR0Y1zpVQinGEAkIYJ5TDacjkv9FMM0QDB13pXM18BIoB4eRprpeybCqOm31c=;yPef14rvWkCydCgvxk+zrg=="
+secured: "RD9AWV9zQOOk63zpbq7coKleOBIrbIIcval8DYkkbtbPspDh6K5j/0Y7cy1tC7iNaevdhX1KRvPs5rKERMRqWj/RQ2+eCKwqfDIYz3RVkFgy3HRmcKEVbrXKGETxVq7V/17OVIOkxAtRFg0qHe019e4UrUgmAFDTmCCaMML+06HU7oBBgO4L3ji9/Iim+/rajP5umiben9YaJNIIz/1zqALUghq9fmVprVwM1PHqxS0pz4u+OwkWqk1YuP5PMliPc9nfETmhEpVByJVVfk5/n8jP/G4iqrC6CnvusPEKSMs3k5sGh8FV303Ebb2NJ89GPDNjVC7BQN/4/uNvJDQTgAX7bNEZWvKsxxLY/HhNEcA=;eN0XvUAm1a5EohdRy1O24Q=="
 ---
 

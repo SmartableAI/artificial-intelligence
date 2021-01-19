@@ -54,6 +54,20 @@ related:
         width: 1024
         height: 485
         isCached: true
+  - title: "Apple hints at ultrasonic voice biometrics, in-display fingerprints and foldable screens"
+    excerpt: "Apple is reportedly working on an iPhone with a foldable screen, according to a company insider who spoke to media last week, along with new biometric sensors."
+    publishedDateTime: 2021-01-18T23:32:00Z
+    webUrl: "https://www.biometricupdate.com/202101/apple-hints-at-ultrasonic-voice-biometrics-in-display-fingerprints-and-foldable-screens"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06145144/apple-logo-building.png"
+        width: 721
+        height: 420
+        isCached: true
 
 secured: "syyE2m7eBC3STEsjN2vZqxI+IcPuQsg/4A2EFDj7vdMN91MebFueBgGgSaPlBvx2E6LU1paQncQo9aXIgY9rEMrWuXYu3HsiNNAHSMRexT804W7LuIMdl/CVTPDTOgZ0PpFu7zwKbj7SUTNAWrfB4DVo5P5WIdynAj3Z0E1fr5UIuxu78EruaHBfXfEO9jkTOVKmDG4qkafbkERiQlZ+H5nL2QIfYNQKGcuk/4IyqLOfIUep4j0v6/VWbvl468UBz2EsR1v0fGD6m6cTI67lAaK/4RFEx3GpEowxMrnoHXia/KX56+xIjDgh3h8HyGqj3kc8v6Z3JPCH/qTwKSAJnX+E/CChg3JOyPVI1Y7xuATMe8hT0Buq0G0OlqBvgsf99KdwKO8Nti6amNx67g7SxYDDftOHA0NlkTqIsUPM80oA/sK5+Nt8BYtxNJ8oTj0W4RaVTY/n/0ciudpEasPsDkBwA1IEc40Fl0M6vqNMgBxpDw/xAPmlrx4RNG4KPDJZ+uY1CZO3y/qQk32v3z0RJg==;MCRxjVIFRSXSRMQTJItKCw=="
 ---

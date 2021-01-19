@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-rethinking-vir
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Business Insider
@@ -24,17 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "CES 2021 Taiwanese startup FiduciaEdge Technologies develops Edge security solution for a secure edge computing environment"
-    excerpt: "FiduciaEdge's software/firmware platform makes edge intelligence trustworthy, while protecting data privacy at the source. With FiduciaEdge's solutions, the vulnerable edge computing landscape can be transformed into a trusted/confidential environment with ease."
-    publishedDateTime: 2021-01-14T07:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
   - title: "CES 2021 Taiwanese Startup ACSI Gives New Technological Shine to Traditional Chinese Medical Treatments"
     excerpt: "Chinese medicine has been receiving increased attention worldwide. These traditional therapeutic treatments are now being combined with modern technology and integrated into Western medicine. Acupuncture,"
     publishedDateTime: 2021-01-15T06:58:00Z
@@ -46,6 +35,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "CES 2021 P-Waver Combines Big Data and AI to Build Earthquake Early Warning System for Taiwan Government and High Tech Industry"
+    excerpt: "Leveraging its well-established database, AI technical knowledge, and a proven track record encompassing thousands of successful projects,"
+    publishedDateTime: 2021-01-15T06:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19176502/ces-2021-p-waver-combines-big-data-and-ai-to-build-earthquake-early-warning-system-for-taiwan-gove"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19176502"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19176502"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1419571/P_Waver_constructed_EEW_system_based_earthquake_data_Taiwan_s_Central_Weather.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "CES 2021 Taiwanese Startup FiduciaEdge Technologies Develops Edge Security Solution for a Secure Edge Computing Environment"
     excerpt: "Edge computing is transforming the way data is handled, processed, and delivered from millions of devices around the world. FiduciaEdge’s software/f"
     publishedDateTime: 2021-01-15T06:20:00Z
