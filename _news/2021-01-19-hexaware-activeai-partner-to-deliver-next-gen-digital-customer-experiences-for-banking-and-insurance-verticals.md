@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Hexaware & Active.Ai Partner to Deliver Next-Gen Digital Customer Experiences for Banking and Insurance Verticals"
-excerpt: "PRNewswire/ -- Hexaware, one of the fastest-growing next-generation providers of IT, BPO and Consulting Services, has announced its global strategic partnership with Active.Ai - a"
+excerpt: "PRNewswire/ -- Hexaware, one of the fastest-growing next-generation providers of IT, BPO and Consulting Services, has announced its global"
 publishedDateTime: 2021-01-19T11:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-active-ai-partner-to-deliver-next-gen-digital-customer-experiences-for-banking-and-insurance/article_9e6173d8-eb8c-54d8-b3e3-133c3ededd21.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-active-ai-partner-to-deliver-next-gen-digital-customer-experiences-for-banking-and-insurance/article_9e6173d8-eb8c-54d8-b3e3-133c3ededd21.html"
+originalUrl: "https://www.prnewswire.com/news-releases/hexaware--activeai-partner-to-deliver-next-gen-digital-customer-experiences-for-banking-and-insurance-verticals-301210750.html"
+webUrl: "https://www.prnewswire.com/news-releases/hexaware--activeai-partner-to-deliver-next-gen-digital-customer-experiences-for-banking-and-insurance-verticals-301210750.html"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/6006cbbf268cd.image.jpg?resize=400%2C240"
-    width: 400
-    height: 240
+  - url: "https://mma.prnewswire.com/media/530945/Hexaware_Rebranding_Logo.jpg?p=facebook"
+    width: 1379
+    height: 721
     isCached: true
 
-secured: "MGqIPtZzOOFB4Fhf6HJ7Wkm4qe/ZnI1nhDXv+PYqX18WsGj36AM/MZo+9O82kOJA+9lYF7vNO5uIiVXieLdA2QjjX76ooOvmzAYwPCL8vFjIFnWoy/6XKBC/RBdNU77kT1fA5ZaS2mj24YNifhIU0If3Y07laqFVqhmhyfo+6WBHlwkGK45clrOANBAIywhMfdefXYU9z1/t+XGu215Mtw3NzQVBMfFupLzpWg1UXvya6LIr063B4Qw5NOJU3kWYjd9v4/nzwofSyLyyeMmiPoF7Gy3MN0BKD4YyYPV7JMiVhbyhG/TS0c7vrjAKqMtJ0N01dl+eKbgKYfJXKUotk7nnKY/HW/K79kj4x2Sh9ks=;aiEzfrch3MNMbCzXiVQuhw=="
+secured: "WBwQGFef5N83TpLavtRy7Pr8STdXPc9tdLwefMxnSt+qfLlYrmnGeLWPxGsGlmv6e9nIyAt0sAo+Hxa4zVcZ/jmykfQtQfWFmBdpt2wSTMNUR60L2eedLTKfO8nTeJpCeYxvGaraPGhDTZLBbOG1WG2Vl+mEOir8ADWcnPq0v7UpJB5M47R57qaahWaH2Cdpda7qRC5i17/VlZ+Mh/4aJ4nJtSW4OCCBZEp2bGg3NaDNnIZgBc3Z0Q73dGJGhvgxZN6goI91r9wum9G/+8fJ6vcv3gGShJn2VmW9v1qgLEIoZ+q1BjOmQGUsm716CC2FObDCmnpZG+xcWuzEG2usy7S2U8hnTto1r5LPtn1co4A=;AJp/CdI79IpVzAFdYu1Y2g=="
 ---
 

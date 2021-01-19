@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "How FinTech IT Leaders are Driving Modern IT Operations"
+    excerpt: "Over the past century, businesses of all stripes have either increased efficiency, become more competitive, or reduced their cost"
+    publishedDateTime: 2021-01-19T18:56:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-fintech-it-leaders-are-driving-modern-it-operations-02378696"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-fintech-it-leaders-are-driving-modern-it-operations-02378696/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-fintech-it-leaders-are-driving-modern-it-operations-02378696/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 44
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/01/Image-1.png"
+        width: 337
+        height: 364
+        isCached: true
   - title: "Five Predictions for the use of AI in Fintech"
     excerpt: "Inevitably, AI and machine learning, and a focus on harnessing data, will be key to bolstering business  strategies and enabling new areas of growth. There are, however, immediate challenges that must be overcome following the disruption brought about by the coronavirus crisis,"
     publishedDateTime: 2021-01-15T10:51:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/96.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report"
-    excerpt: "Insider Intelligence looks at the shifts in the broader environment that fintechs operate in, including key players, emerging technologies, funding patterns and regulatory trends."
-    publishedDateTime: 2021-01-15T02:15:00Z
-    webUrl: "https://www.businessinsider.com/fintech-ecosystem-report"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Fintech Apps that Made the Grade Amidst the Pandemic"
     excerpt: "As people stayed in the safety of their homes for weeks and months on end, we needed to alter our daily routines and use technology more than ever. From Zoom meetings and food deliveries to online sho"

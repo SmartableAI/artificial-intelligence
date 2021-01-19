@@ -56,20 +56,6 @@ related:
         width: 730
         height: 439
         isCached: true
-  - title: "How Artificial Intelligence Can Improve Cannabis Yield and Security"
-    excerpt: "The more advanced a smart monitoring system is in its use of machine learning and real-time monitoring integration, the more effective it is in spotting anomalous activity."
-    publishedDateTime: 2021-01-15T01:59:00Z
-    webUrl: "https://www.greenhousegrower.com/technology/how-artificial-intelligence-can-improve-cannabis-yield-and-security/"
-    type: article
-    provider:
-      name: Greenhouse Grower
-      domain: greenhousegrower.com
-    quality: 54
-    images:
-      - url: "https://www.greenhousegrower.com/wp-content/uploads/2020/11/photoperiod_for_cannabis_featured.jpg"
-        width: 896
-        height: 504
-        isCached: true
   - title: "How explainable artificial intelligence can help humans innovate"
     excerpt: "Therefore, AI researchers like me are now turning our efforts toward developing AI algorithms that can explain themselves in a manner that humans can understand. If we can do this, I believe that AI will be able to uncover and teach people new facts about the world that have not yet been discovered,"
     publishedDateTime: 2021-01-15T21:02:00Z

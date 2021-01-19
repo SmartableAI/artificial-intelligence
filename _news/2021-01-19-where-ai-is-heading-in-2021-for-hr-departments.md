@@ -163,7 +163,35 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "Startup Loop Wins Funding for Fairer Auto Insurance Rating Model Using AI"
+    excerpt: "Loop, a managing general agency focused on building an auto insurance model that does not utilize credit scores and ZIP codes, announced the close of a"
+    publishedDateTime: 2021-01-19T17:15:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597874.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 36
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2014/01/auto_insurance.jpg"
+        width: 1678
+        height: 1119
+        isCached: true
+  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
+    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
+    publishedDateTime: 2021-01-19T13:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-437220a659744a2fa5311d4d7909d5ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "uLwWS3KdCp+3YBvCEU0bLpMIxxTR/3dI/Yo12ZQOvemv4wQEMjkZmzTo4C2fcpz6YYQHfKn1eAdsYccslxNtirI1TIrRqAAWibKnMxItDQYJVx/XEOK7pF1yh+ZNe55PpOSbRF65/ghhY3o9odBzUJH0By+pgoiZygCAxovcNegirDRNLAGINLS8dsl6IZlwvYSUWBmYRuUGeFtR0F29ZXa79VKJhXElSj/UJpecM7tdCVrF+eHWlrJajwhVjRg6ghLLFoIFC091tv/558TpZTD3MD0M6ToCDss6JVwiJ3MLJ8U0U+vEorXPk1LgL4QXAhS2j/9Yypye6TXbVAUcSp3BNven3uq6b5x1vFSwaak=;JtAJ4VskDt1qgR51ziSoHA=="
+secured: "tuq3312ZIAxMAapodrBrH9mE3aNmyap7iqTjOsKrBS+r19Jqv+HumAzq3x+o0/Cy+1TL8kvl2IRp0lUzBVVXas5u3f8sL+uoSjMsdiPzP9+PGif9gRa79EZj9KUfebSWWJytbK9+MRd8h4WfrIvN1UAYQ6JpDbHcQeuM+Y+kzSH2REnIkbAC0P5qS8OiRzbVRbV5oz9FSzuResnm4tQK+YImLm5cRTHpuiJwnSgExZVd58uPJQjndGmzrfAM9GqGVoFpNX0Z2cEOxieSAfZni74ye4W3WPUtXwkXTkHumiDgW4lX8MJ7B/TP68mvDB+yO689B0zQ6sivUfL3XrEJGHHjcAO15F5zphHX9+FMPF8tLqGqlvKh6CQAffcFpFOMgOeH5lINhSHy9I6jwSKxOLAAqSPGbsJTUkGghA0BzZku4TgwJ+kERBXMS9K697cK4rYmPwXDptvGUZggwZxMQInLJKbd1mmStTmrZ+/5PHNkj2YVdlvkFIsptf+2s48+U7ec3Blqi2TKzt7SMropWQ==;v2dQFSmeRCcN6smX4fNtAA=="
 ---
 

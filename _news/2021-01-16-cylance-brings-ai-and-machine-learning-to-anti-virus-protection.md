@@ -160,6 +160,34 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Startup Loop Wins Funding for Fairer Auto Insurance Rating Model Using AI"
+    excerpt: "Loop, a managing general agency focused on building an auto insurance model that does not utilize credit scores and ZIP codes, announced the close of a"
+    publishedDateTime: 2021-01-19T17:15:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597874.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 36
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2014/01/auto_insurance.jpg"
+        width: 1678
+        height: 1119
+        isCached: true
+  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
+    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
+    publishedDateTime: 2021-01-19T13:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-437220a659744a2fa5311d4d7909d5ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "4jSz3nc6/7Wr8fIoqGJcmCtTE4ekJ7QjwJ/rxSx/oBNKCwBGRkBWequL3eizGnUT6fnFwK36aH8jkarNG+nmStAODVx4upyIwma+6/5wVZXDseOKY2+cnMxW0gjoBIM7AGPYANZt/aOMwVLzSs/psdGZP43pPqDn+PlWdPdxVf4GUTbTW/F0br99RKZC4CmeQPPRfv3xi+ORgNfpMzvSr8KVuo5PugKJwaFJalDLe8p0jvXuUh1hAMsKzpUC8FIfBSBfA01M+egOhCIM44R4vqVg9L7mIS6DRxP5qo+hs4IWFVTl09eDeVjyyN5OO1Q0Fg9UXldyvBPjUncKGdlrRX94rl+YyrlqoNXhjLIn5JQ=;6tvVVVHnxNCDX3b6PYfQBQ=="
 ---

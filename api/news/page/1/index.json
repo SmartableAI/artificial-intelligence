@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-20-mission-healthcare-of-san-diego-adopts-muse-healthcares-machine-learning-tool.md",
+      "title": "Mission Healthcare of San Diego Adopts Muse Healthcare's Machine Learning Tool",
+      "excerpt": "ST. PAUL, Minn., Jan. 19, 2021 /PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "publishedDateTime": "2021-01-19T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering.md",
       "title": "Altair and Rolls-Royce Germany Join Forces to Converge Artificial Intelligence and Engineering",
       "excerpt": "First-of-its-kind collaboration will drive transformative business value by reducing development time and costs, improving product performance",
@@ -95,7 +139,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -143,8 +187,8 @@
       "title": "New AI software can turn regular security cameras into COVID-19 policy enforcement points",
       "excerpt": "Now being trialed in Georgia smart city Peachtree Corners, the new tech can pick up on people standing too close together and detect whether someone is wearing a mask.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
-      "originalUrl": "https://www.techrepublic.com/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
       "featuredContent": null,
       "highlight": null,
       "heat": 115,
@@ -161,8 +205,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
       "publishedDateTime": "2021-01-19T07:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -344,7 +388,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -383,7 +427,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -850,7 +895,7 @@
       "originalUrl": "https://mashable.com/video/tom-scott-ai-version/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1066,6 +1111,57 @@
       ]
     },
     {
+      "path": "_news/2021-01-19-providing-voice-ai-solutions-addressing-language-barrier.md",
+      "title": "Providing Voice AI Solutions & Addressing Language Barrier",
+      "excerpt": "Vernacular.ai has recently raised $5.1 million in its Series A round from Kalaari Capital and Exfinity Ventures",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/363655",
+      "originalUrl": "https://www.entrepreneur.com/article/363655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611047508-SourabhGupta-Co-founderandCEOVernacularai.JPG",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-prosus-bets-on-ai-to-help-reshape-indias-350-billion-farm-industry.md",
       "title": "Prosus Bets on AI to Help Reshape India’s $350 Billion Farm Industry",
       "excerpt": "Prosus NV is investing in agritech company DeHaat in a bet on India’s $350 billion farming industry. The Dutch e-commerce group with assets all round the globe led a Series C funding round of $30 million that DeHaat will use to hire more staff,",
@@ -1113,101 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
-      "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
-      "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
-      "originalUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T20:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-ghd-to-expand-software-robotics-and-ai-practice.md",
-      "title": "GHD to expand software robotics and AI practice",
-      "excerpt": "Engineering firm GHD says it will hire at least 20 automation and artificial intelligence professionals across Australia over the next 12 months. Sukalp Sharma, digital experience practice director for the southern hemisphere at GHD Digital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867",
-      "originalUrl": "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fCRN_690_Architecture+and+construction.jpg&w=480&c=0&s=1",
-          "width": 480,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

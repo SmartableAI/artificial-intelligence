@@ -2,6 +2,136 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-08-video-search-pioneer-panopto-hires-ibm-ai-marketing-executive.md",
+      "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
+      "excerpt": "At IBM, he played an integral role in the brand launch of Watson Advertising while leading all go-to-market strategies for a suite of AI-powered solutions designed for the advertising ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/b19061465/video-search-pioneer-panopto-hires-ibm-ai-marketing-executive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19061465",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19061465",
+      "publishedDateTime": "2021-01-07T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-nec-says-new-facial-recognition-system-isnt-stopped-by-masks.md",
+      "title": "NEC says new facial recognition system isn't stopped by masks",
+      "excerpt": "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "originalUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/nec-face-recognition-mask.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp",
+      "publishedDateTime": "2021-01-07T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-waymo-ditches-self-driving-term-in-apparent-dig-at-tesla.md",
+      "title": "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla",
+      "excerpt": "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362902",
+      "originalUrl": "https://www.entrepreneur.com/article/362902",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-4-stocks-to-gain-traction-from-fintech-evolution-in-2021.md",
       "title": "4 Stocks to Gain Traction From Fintech Evolution in 2021",
       "excerpt": "Certain behavioral changes induced by the pandemic like online shopping, cashless payments and no-contact deliveries are here to stay and will continue to boost the Fintech space in 2021 and the years to come.",
@@ -1009,162 +1139,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports.md",
-      "title": "Veo raises $25M for AI-based cameras that record and analyze football and other team sports",
-      "excerpt": "Sports have been among some of the most popular and lucrative media plays in the world, luring broadcasters, advertisers and consumers to fork out huge sums to secure the chance to watch (and sponsor) their favorite teams and athletes.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/",
-      "originalUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Veo-99.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/amp/",
-      "publishedDateTime": "2021-01-06T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-intel-is-using-its-realsense-tech-for-facial-recognition.md",
-      "title": "Intel is using its RealSense tech for facial recognition",
-      "excerpt": "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
-      "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F7daa7160-5050-11eb-a7fb-ebe8df925d58&client=amp-blogside-v2&signature=21ed96e62f4d4cf3a8e85595647849cb3e045c56",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
-      "publishedDateTime": "2021-01-06T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent.md",
-      "title": "In a sign of AI’s fundamental impact on computing, legendary chip designer Keller joins startup Tenstorrent",
-      "excerpt": "In a sign of the profound changes being wrought in computing by artificial intelligence, Toronto-based AI chip startup Tenstorrent on Wednesday announced it has hired legendary chip designer Jim Keller to be its chief technology officer. Keller most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/",
-      "originalUrl": "https://www.zdnet.com/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/01/06/f250f14a-bc14-4ebd-b8b0-1e175b2d6e94/tenstorrent-grayskull-schematic-april-2020.png",
-          "width": 1013,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/",
-      "publishedDateTime": "2021-01-06T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

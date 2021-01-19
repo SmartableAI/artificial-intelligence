@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "iAE+rxf++/0ZVacDzhGZi7tjiYiOBD1gyrjPKTTd2uHQSWrCczg3qv7H2lMLLhzc4HPyg8Fi8L+w+RMCJ+WBUaU7QmgJnYotO0XC/q2zp9MksGWw0Rys/kg7khvRZwTvay6FnG4oUpS8WtjQzdCegizx7fCb76PurwMhOTVp7PnazOS1qdjhctK+rbva+NuEtBl4JCY0sABI2sV/I9LMnKMx8TejF8UGGWe+WART5Cbb2ouWvLMiRD6Ujn2Jo6TyUyrMg660tRgFrA1kzU6B8OB9q4A5qIbUMnn2spAR+dPAx/02GnTUBwn3uDqbyKlEzuuXt/fw5wBZjuV4Pz9GHgmrdOfQfR2pxuodBSJksQ8=;x5tK6IZHSSwWnn+Sscqp3A=="
+secured: "MB1qAJctfsiGq4TU5s0MdmnHwKL7+F2H2hKexym6LSNYqZIMkZV2jTBs/xjdEbaW5RfB8mOliWLS1+odvnfiZJDyu9+gZc67L4vLByHey3P+pPbI2KRROag3KXwoSNfzsRTGU4HxuqdmjJh/Yj/Flx2J7jWCzoCrItbJX7HBvEVrSPjTiZQM6/PnXsOFaKymp/p+p1jrSPFgvP5XErNH/A8dlydD1vtJV9sr45tHdZ5/X7GW4hEFtGJDNViDOi+sc2/zxw/QQLYabYaaUzeLHd0ufZwnIL5+jdKz80OXqZpXvXhFNVvUPYdj7b5/o/0mJnbH3yVZ5JAlZwEyX9r3igUxF9ph8CdFoHQ41TMmQYw+okTdscct7x8RJOknyZx1G9Y9fvGHWMUqzeibI2lJk+daIqu/xS6O/WSjbU5rdlQ3LOrKA5UvLBtSeYqHiGA11hJqh+3gi8jfBFJPEm1Ba9Jy3JdxVhZGWiddhed+kgnRnTT5mr7Z1Jc3F5Pma0G1g4Sd8uvOtVlxri/7ar1j2Q==;hCqDaOToz26SruFoqEYs8A=="
 ---
 

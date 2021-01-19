@@ -36,6 +36,17 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 28
+  - title: "Voice Soars as Primary Interaction Modality of Choice In-Vehicle, Finds Strategy Analytics"
+    excerpt: "Based to Offer Best UX Strategy Analytics - Automakers of all types have largely aligned on touchscreen and voice control as the"
+    publishedDateTime: 2021-01-19T18:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19221518/voice-soars-as-primary-interaction-modality-of-choice-in-vehicle-finds-strategy-analytics"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19221518"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19221518"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "MrfaCE28dxDuYnXXtbSaFCCjJ+EmgD1pSpLjo/s1tztMS8ym+2YiMuHBWuGChGwAsXRpY8Z9+11l66jpCxl9/mvetyVjCODp9nOJtsdOibsfxhWHe5b0FnjTD9AY2C1KJwnXPQ3aJD4+NB803yNWUnYoRTYwtA6MDV0a2SRDo2jSIUD74UXbip4njWj/Q0iDHEfPKWZb73oDx6Ltu/Q6sSveYlOnnHPSrvVUW42ph+qTPM0WAVjd+DwxEP456jcmENs2k/xrRdYILKAn/ao91UkpSBq/FDeCJhpgveLseZK22bTqwoP+a4f+MPB6Ye5E7E4DHeQBP0cHLj4jOXQE0icDkdKYh4C+G41BbpIFqPA=;WUa/8fbH5MYXafY5S1Uobg=="
 ---

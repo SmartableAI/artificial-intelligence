@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Covid-19 will shape a decade of education"
-    excerpt: "History has shown that every crisis comes with a hidden opportunity. Covid-19 is no exception. And its in education where we are witnessing some radical changes which will define this decade."
-    publishedDateTime: 2021-01-19T10:18:00Z
-    webUrl: "https://www.fortuneindia.com/opinion/covid-19-will-shape-a-decade-of-education/105059"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 41
-    images:
-      - url: "https://images.assettype.com/fortuneindia/2021-01/2d7993ad-a07a-4b12-a836-1e8c50163e93/2D82PXE.jpg?w=700"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Global Micro Fulfillment Industry 2020-2026 - Huge Investments in Start-ups During the COVID-19 Pandemic"
     excerpt: "The \"Micro Fulfillment Market for Grocery and General Merchandise By Technologies (AutoStore, Shuttle Based), By Warehouse Size, By Geography - Forecast to 2026\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-01-19T11:50:00Z
@@ -52,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "Providence accelerates data center consolidation, plans to close six amid Covid troubles"
-    excerpt: "Washington-based healthcare provider aims to reduce data center portfolio in the wake of Covid-fueled financial challenges"
-    publishedDateTime: 2021-01-15T11:06:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/providence-accelerates-data-center-consolidation-plans-close-six-amid-covid-troubles/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 15
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/healthcare-investing-20161-450x37.2e16d0ba.fill-1200x630.jpg"
-        width: 470
-        height: 248
-        isCached: true
 
 secured: "ZBZDNRXDAOa12cyI92DFOokbSRMtjKUnSAlV+XYtUDHuew9Pc18OWBL7jWpnSZcqyA0ITOXUexiX4zvyFxAwfJ19exWvw5mdIC9xKNNWeGfiTj2B8t0HTOvi0Ful6tzosNVAGL/xUc7lOguBOVyM9vmU/YF7x+3YnFnAjb9Krknm8IcVwX+hdIxjBhP3YE2jcidTvtgtxOgRz0FbcfQFzWneY+JW0N6yl18asDWXbC9R7sk65ie/JoH6cKloKR0ACuMz7friG60SgrP2dfMLbxXuuzt5Exc2WknP+YvHeZwXguU81tbUdd90nOgow9PjowIuA1P6oPNg47DEGv3OgTDHGkm59hKVkKXad0iV2SBuJ+UBtQiNEngO+w5dNUnkkbKzHy7UikAflwPfwK96QHS9qsxDJIZHfUWlFyX8cS01kqjEE1aFSTKCL41mkiRL+LY0eW5g0yJF9NDkZm0xkWhIxZhdoNpQcVE71U3CnaBgCRMhzQSsBJRuVllrhtG7h0djcnHrDNx36yVq0SfLOw==;xl0MTYD3h6OmqygbrW6ElA=="
 ---

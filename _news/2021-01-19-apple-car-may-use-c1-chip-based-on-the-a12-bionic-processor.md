@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Apple Car may use 'C1' chip based on the A12 Bionic processor"
-excerpt: "San Francisco, Jan 19 (IANS) The long-rumoured Apple Car is expected to use a C1 chip based on the A12 Bionic processor with in-cabin AI capabilities such as eye-tracking."
-publishedDateTime: 2021-01-19T11:24:00Z
-originalUrl: "https://www.sify.com/news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-news-education-vbtlPEcbgceii.html"
-webUrl: "https://www.sify.com/news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-news-education-vbtlPEcbgceii.html"
-ampWebUrl: "https://www.sify.com/news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-news-education-vbtlPEcbgceii.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-news-education-vbtlPEcbgceii.html"
+excerpt: "The long-rumoured Apple Car is expected to use a \"C1\" chip based on the A12 Bionic processor with in-cabin AI capabilities such as eye-tracking. According to US-based magazine 'EETimes', Apple will require a chip foundry with capacity for automotive processes,"
+publishedDateTime: 2021-01-19T12:22:00Z
+originalUrl: "https://www.dailypioneer.com/2021/technology/apple-car-may-use--c1--chip-based-on-the-a12-bionic-processor.html"
+webUrl: "https://www.dailypioneer.com/2021/technology/apple-car-may-use--c1--chip-based-on-the-a12-bionic-processor.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/apple-car-may-use--c1--chip-based-on-the-a12-bionic-processor-2021-01-19.jpg"
+    width: 1000
+    height: 800
+    isCached: true
 
 related:
   - title: "Apple Car Speculated to Leverage Eye-Tracking Technology With a 'C1' Chip Based on A12 Processor"
@@ -38,6 +42,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "ONQrrebRHBjXsiw1YwCeosiyOepRPw+kbS2DJH9WnFIi3Pi7WqMKRFUp1GT9QcWXkSHoAIU+sU6p78UtITl507iiPV6FXWAMEmhfWPGL9IQirr/iTPHWvi35aRBZp35Y7dfowP5CH0TR2QuOWmUtDRBLbDvyd8a9ObgKVj/tJHfHcUxIDkDOobkVUCcGldNBlKfv1vTssLAREDmMFSiar05iIBlc08x3erstgsxPZX9+l9mJPrE5/QDuUMLI9AgDtJIphF2/vuyKIYI8+l9gEUhV5QGlpPIJhWH4umW9tQHAZ/voz5J1w/Px4sH05fr++Z00O1LPhGaQ/Wec+N1fbhVdA2L6v1f28FtRWAmT3Rg=;f3KN72OMIjeKGrZsv/5W4Q=="
+secured: "2DNdNDwSjMKMhsUM8k8bYXJ4FxfMXbp7JqUpnzSaa7MtGPlCFmnWTKl/RlneVnMWYSsdBJ+lW+QWxZ60QYfV79Gt5qNWlSTry8GsJBHvPTXG2DFIrqrWFUD8EV8ZysKlKNevmf2nxWKywXoE6GwS1xvJOl+5qt15zZWkRHaKchmTtIE/G6ZE63vkDxUgO3BAifz5O8jAxzCCiPT/r97G7NvhFRUnAFhpKfCrlF6QQ8sxj6GQrhGyK7u7kZzp6kyuYHpWV5FpuVl2QiEQ4uMCWRIa9MjPe2TYMaLN8mBg4jy6jkHmpBzL3b0J6OP8yktwFuukW9H49XHSAviUBmQ/TfcDoX+kdpzWnUjXstHnElo=;2ggENEdwpeAuRREFAnSnMQ=="
 ---
 

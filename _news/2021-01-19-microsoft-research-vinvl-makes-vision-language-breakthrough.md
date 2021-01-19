@@ -172,9 +172,9 @@ related:
   - title: "Microsoft wants to listen to your voice recordings - but will ask for permission first"
     excerpt: "Microsoft has confirmed some important changes to how it processes voice recordings. From now on, users of the company’s voice-enabled services like Cortana can decide whether their audio recordings are stored and analyzed by the company to improve speech recognition or not."
     publishedDateTime: 2021-01-19T16:01:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-wants-to-listen-to-your-voice-recordings-but-will-ask-for-permission-first"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-wants-to-listen-to-your-voice-recordings-but-will-ask-for-permission-first"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-wants-to-listen-to-your-voice-recordings-but-will-ask-for-permission-first"
+    webUrl: "https://www.techradar.com/uk/news/microsoft-wants-to-listen-to-your-voice-recordings-but-will-ask-for-permission-first"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-wants-to-listen-to-your-voice-recordings-but-will-ask-for-permission-first"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-wants-to-listen-to-your-voice-recordings-but-will-ask-for-permission-first"
     type: article
     provider:
       name: TechRadar
@@ -184,6 +184,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/JkCVTsARn3eG6Xdsqdj3cH-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft, GM’s Cruise team up on driverless cars technology"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors said Tuesday they would partner with Microsoft to commercialize driverless autonomous vehicles. Microsoft will join General"
+    publishedDateTime: 2021-01-19T18:46:00Z
+    webUrl: "https://nypost.com/2021/01/19/microsoft-invests-in-gms-driverless-car-maker-cruise/"
+    ampWebUrl: "https://nypost.com/2021/01/19/microsoft-invests-in-gms-driverless-car-maker-cruise/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/19/microsoft-invests-in-gms-driverless-car-maker-cruise/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 76
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/gm-cruise-microsoft.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft makes a huge bet on GM's driverless car"
     excerpt: "Microsoft will join General Motors, Honda and institution investors in a combined new equity investment of more than $2 billion in Cruise. As part of the deal, Cruise will use Microsoft’s cloud-computing service Azure to “commercialize its unique autonomous vehicle solutions at scale."
@@ -394,6 +410,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GM Unites with Microsoft to Commercialize Autonomous Cruise"
+    excerpt: "Microsoft announced January 19 a new partnership between it and General Motors’ self-driving Cruise business. The long-term strategic relationship will allow Cruise to utilize Microsoft’s cloud and edge computing platform,"
+    publishedDateTime: 2021-01-19T17:32:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/information-technology/article/21152674/gm-unites-with-microsoft-to-commercialize-autonomous-cruise"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2021/01/cruise_av_ev_gm_in_san_francisco.60071884067b7.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
     excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"
     publishedDateTime: 2021-01-15T17:37:00Z
@@ -446,6 +476,6 @@ related:
       domain: microsoft.com
     quality: 10
 
-secured: "pQsytpciAELURPZBCHmFtUjRJgKO1BVdDWLFLyCPWXX/9frcLETGudbZRJMOM5PfRT0phyNIYh/uy3etoDwGy4ZkWdyCXny8aZ/eJB66gbj9BzSOafWgxAn/HH5Zgcu4NqFQTUpwgEio0vzqV6ML1AI+WQFLcef1xVyK9k8KHpIq6aO9KIBg1Fb5tHtjmGScS50n1BY5bIZVgIz51szbGAEHhwhe9VQlRYgv1KiaGZo19y9zVu3MhQ2K4exTmuKi1OZ9AyKg8WVcHDWqmeMmCHplbF+NWwABaH6+R36YvKsV/cWKjET1vXL6VzhmstTt5E9Zr4VBsaTIu13DDnyPKYxGnGc/DGgcsiWTJuaFYe8=;pZBUrk7QUQExTlJXKcc9mQ=="
+secured: "ilijujBszGUvT+BU7GP463bKGllu+SDW/SCTD57Z8F2omPmfdJdMbuU0bjguktlTm8eMsieimiXs32U7Ei6Mugo4TjowQhEe30wBccMgAUnMsJSUZ12rnY0s6DLGkLTpVyg8AQvIHVezSaH0m+LpAe9eKlvt9iDHF3S9og0ydKuxM+i5lt3GN2Fr3vrPcKrhT5/XB+5SjhW3Mixdgj05QBYlXhVpMLMQd0DiBCc/JzoA/sdYv+9e3M93/ogy2MmQrCMPw01cIiwvNdlujfrAp5QqNAaVmi9sXwky/xcbjPgM4SS4cF8KL7xPogsVUxZ4iCJAIj4pMkkzgp/k2Kgvh3QDNZoAaH09LvVPSqWMKztBioDe83y/qUBwi1MF5FuMjXDFMYUVahJSFhXy79VThetry6yjhkNwPSK6bUP+iNWYBXb95sOWGWBtIAPJ1MypqHoQ8EpjXueGjStrjR5YYub3R/vjXTQOenc8MbEBCMepBlJIgOKoGMddcC706uu8Cufbs/l1swygdUu/3tbGJA==;6NfpY7qw9YTdFBB09fnoxA=="
 ---
 

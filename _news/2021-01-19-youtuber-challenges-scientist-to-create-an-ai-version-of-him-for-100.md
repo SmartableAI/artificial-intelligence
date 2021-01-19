@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/video/tom-scott-ai-version.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tom-scott-ai-version.amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

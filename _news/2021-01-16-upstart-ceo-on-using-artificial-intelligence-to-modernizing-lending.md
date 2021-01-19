@@ -163,6 +163,34 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "Startup Loop Wins Funding for Fairer Auto Insurance Rating Model Using AI"
+    excerpt: "Loop, a managing general agency focused on building an auto insurance model that does not utilize credit scores and ZIP codes, announced the close of a"
+    publishedDateTime: 2021-01-19T17:15:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597874.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 36
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2014/01/auto_insurance.jpg"
+        width: 1678
+        height: 1119
+        isCached: true
+  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
+    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
+    publishedDateTime: 2021-01-19T13:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-437220a659744a2fa5311d4d7909d5ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "NT3sWLKPtf9YU0dQ0r2m0SHeLyg7ifOKyDU5hRaba+TPycRdXs/uOKraaBJOxu0uTIEjx9TJzvVKsofaxLYGxvb1BHdFQf/WHaD6BFontBAypJ2r+w2eakn7DxAU5YghNS5Yo560v+ZKJN2j8HMUb6t936rNFr7ihH0r0BhoLpQV5QELefyPW13IowW+yVkmLCRDMcsOtpUankLGMlnn5Mb7cNn+TEC7NxP0o4UsEl7yAy1bPCfs2MSxy72eFOZ8aVkMOxgceZQnIPzT5BMmQi9ATmHy4c6+PvwPytikPZwKzpaXbmkJ/UE+MKwIEJ5JP9O2uVy1RsWLpcuLwPMWcs3W+MhSZl4V9aT6g23gzCc29zLRn6L7tINI9BUaEpw5SSdgMR/6E9boD8tAjnGDux+ml9Xxwcewu7FLYdZd95iTVgbBGxzXYSgdug5GWxz/1qBSamkY3IO8AsQd89l3+aG1sOpJom22gAk2yq7ngv9xw7Uc3IGFn6hfA2T76nnjcQYBw625I8gn7dBz5Xt1NQ==;dFh2rsN7aMiTv7MGHIzS+w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-c
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-industrial-products-and-services-transportation-and-shipping-e9c2331e90a30f936998b549e9d0b035"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
+    excerpt: "The expanded alliance includes an intended focus on the development of joint offerings built on Atos' vertical decarbonized solution and service delivery assets, powered by IBM. Atos and IBM will work together to address business challenges to serve the Manufacturing,"
+    publishedDateTime: 2021-01-19T14:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/atos-and-ibm-collaborate-to-accelerate-digital-transformation-in-the-enterprise-with"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 23
   - title: "Atos International: Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
     excerpt: "Companies Intend to Use Artificial Intelligence and IoT to Develop Joint Solutions to Optimize Operations for Clients in Manufacturing, Logistics and Supply Chain PARIS and ARMONK, N.Y., January 19"
     publishedDateTime: 2021-01-19T14:43:00Z

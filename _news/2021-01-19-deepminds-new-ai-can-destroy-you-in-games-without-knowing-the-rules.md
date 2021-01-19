@@ -160,6 +160,34 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "Startup Loop Wins Funding for Fairer Auto Insurance Rating Model Using AI"
+    excerpt: "Loop, a managing general agency focused on building an auto insurance model that does not utilize credit scores and ZIP codes, announced the close of a"
+    publishedDateTime: 2021-01-19T17:15:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597874.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 36
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2014/01/auto_insurance.jpg"
+        width: 1678
+        height: 1119
+        isCached: true
+  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
+    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
+    publishedDateTime: 2021-01-19T13:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-437220a659744a2fa5311d4d7909d5ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "nMZt1kKwwhpg2KajbWVgalPjvXCyUH6G7VAl5jTKSTMUugbWuQ6Gtz1oaWDyzDEelkvjgJXryz2km7giVJIo6iqFAMN8uHPhfnamQjMKwBvfVRszciHY9NEttXk+ezWD2CiQogc8q2q/eMgAbzV6gvudOo8F/+45SHetheePtSHFnjf5dEQKXkAGzLcPU1KIa9h4aPD3B9FpKA/l+5eQi7X1pTCwzwNmeZWm2QqRYeg6p9VdjQ+trg4V4xHFzo+oVm5uv7lGWCgnf5vKUZenEHy3xnCd0uMJCCynB7jAhrTDcqmZsYPadpeAv1JMDcVjSGmi1YX8BlZG7t3X0Zc5quTy4hHetC142O+FWxu2HXK6DkhyeZZ+ESe6ZaWWvLlEUwEV3vroJmmve7HZrzkZyTWGGjF4Y8dP+HZ8FJ6Dr1Q/WdR/EQMLDdMvPefPtZSL6giszZQs5hK4VK+Pcgv3hY8KVfPJva6g0mN63HIrOCJ4IIaYIEd2+fjoRrn3m+RIttru6BfF7fV/WWP5FhkIJg==;Xj6CsP2azrXklc0kKwVRlA=="
 ---

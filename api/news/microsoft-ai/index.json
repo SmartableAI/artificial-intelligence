@@ -108,7 +108,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 386,
+      "heat": 406,
       "tags": null,
       "images": [
         {
@@ -897,19 +897,19 @@
     {
       "path": "_news/2021-01-06-sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience.md",
       "title": "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience",
-      "excerpt": "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs.",
+      "excerpt": "\"With Microsoft Teams driving better collaboration ... built on trending technologies such as computer vision, cognitive services, big data, and data science. Our continuous effort to align ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1",
+      "webUrl": "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook",
+          "width": 1460,
+          "height": 766,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -919,11 +919,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T22:03:00-08:00",
+      "publishedDateTime": "2021-01-05T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

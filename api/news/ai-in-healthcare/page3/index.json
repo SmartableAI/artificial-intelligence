@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-09-global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-2280.md",
+      "title": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Share Price Passes Above 200-Day Moving Average of $22.80",
+      "excerpt": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) passed above its 200-day moving average during trading on Tuesday . The stock has a 200-day moving average of $22.80 and traded as high as $26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
+      "publishedDateTime": "2020-12-09T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily.md",
       "title": "Deep medicine: Artificial intelligence is changing the face of healthcare, daily",
       "excerpt": "This year has been a great definer. As we waged a battle against an unknown entity, proponents of artificial intelligence (AI) were swift to act. Just last week, DeepMind announced that it has",
@@ -1282,40 +1316,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-preludedxtm-announces-partnership-with-americas-choice-provider-network.md",
-      "title": "PreludeDx(TM) Announces Partnership with America's Choice Provider Network",
-      "excerpt": "Prelude Corporation (PreludeDx(TM)), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today that it has signed",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/preludedx-tm-announces-partnership-with-americas-choice-provider-network/article_f90d1080-8d16-566e-aa8d-ef9e95373dd4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/preludedx-tm-announces-partnership-with-americas-choice-provider-network/article_f90d1080-8d16-566e-aa8d-ef9e95373dd4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

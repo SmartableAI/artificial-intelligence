@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience"
-excerpt: "Sensiple announces the integration of its flagship Tryvium Desk platform with Microsoft Teams. Enterprises can now convert their Microsoft Teams environment into a modern contact center to improve the customer experience (CX) while reducing service desk operational costs."
-publishedDateTime: 2021-01-06T06:03:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
-webUrl: "https://apnews.com/press-release/newswire/technology-7df09af9024e012e864d5cf135a940b1"
+excerpt: "\"With Microsoft Teams driving better collaboration ... built on trending technologies such as computer vision, cognitive services, big data, and data science. Our continuous effort to align ..."
+publishedDateTime: 2021-01-05T16:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
+webUrl: "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook"
+    width: 1460
+    height: 766
     isCached: true
 
-secured: "hqtq5rZ2gywE+dB+W2heXOGG+AgehudW45xpcETQUsQ0iMtHA0A3Ly7RUPK6GPGj8BCkcxtjbPfZV6jyMPL9BJrpSi+BJjTZLLEW09Nm0535rxUUYH9ntK+GnVfqofeCk+EUFUc/rRfWc19o1kLZylXzsOIIkeRz4Hv9etUu4hizOP8cBf382ReSophC3JksyN6bPx8VrTQHRWjhcQBNNAiWFG5YhrcN9mRCYeJxFAsL4RVMHyUqcg3WbCu/C9x9RRbOgN0LYvhtqbordyi9zc7qK5Eso6NMbvPwrY7vWQ0Zmmm9LlJgyOmYWx9f6A2yYvStGW+HT/qCLPzd9gIadFJnzoLIokx2QEDo5KbJQwA=;NMlGeyo4I+83a7hZ/OuCEQ=="
+secured: "SQQQDg7ASg41GrHHFCyx0f0t4OvhAc106bFWxeVkSQAQcBZaJxLSp/NYC4JWxWKE0UxI/fN6i6QpwxiIGDqWxQOGzvzC6sSSeh3j+Rd79uBofhWEpupd494UTAlVYnTRAPg0lWXvtrcQWVYzq9XKmTQsqkMstZAoSryKsdPhaQCuOcFUnHpwTcmUHNYPfmsQU1aR9zCiefVlWWS4iZ4R9dYT81pfUt/zcuzVI+iqQ2/12mZ3ADD5gbrO5ZnYnFtHvswJswRgWI8fvPa87MU9kbkETrCI+RDi25WaJmNehNkRC1VIJz7/Y3T4CS0JQo0QxI1XsSOvNxh5oAyY/v0rXimzzvUzyYBVOJ5L0DsyYL0=;/QYZGMumX4lFWiSnFl3MKQ=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
 excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
 publishedDateTime: 2021-01-19T14:14:00Z
-originalUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
 type: article
 quality: 95
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
@@ -168,6 +168,6 @@ related:
         height: 420
         isCached: true
 
-secured: "3Sjij9cQOvnCju6h7lO8z1OdI9sOP+tWiNo+QmCc+80DKxTqVKZQGVjcXRmW1o9nbpjQGQI9RjERaVf2iwpH5MpsN0bEh3ZHj7olMNEMoLK2tPhug5tzjAvLzfTtaTJenEXNIQMnvTtu4iREk9CNR0CRyreKw2oZzDNJ6r2urqK3a79Kf3IIT2saD7JHFuJKMIhfn+jTEcTjCftYebmVa4gKoCRgdTe+V/JqygvvG2CfP7UGTFY+zP+UxiyQwsCcbGdadY5upLCLzIk9GSXUI8Vm1FNosNDBI275NWDKHkPdGdGl5xo45WSTPOikR5FjFnysff/0b02ZCM2Zqs1Oo90m+MyzuiToCMxEjXNahfsRqb5ZSDMuF4m3V9/qqPTemCAU5TG6zvICI/G2iwOA7YOVOZvLqP/SSLEHxzceL829O+bi+ht2JD27KAfR09wj8ZLFbuTkDKiYVCAIqYNp4rwipa0loyJsbxgQtuxIXmNyNWFkWDKIp1QSXrJkX5TqIarvTGdTZKxk0mR3EjFOLA==;mf2QTUVaUQBP9TiNhtPWNg=="
+secured: "zzDlJwmRofSAktem91v9yDXn2acP4NFDglPyqp3yhH3SA33TtnTTeg+NCjGY3m/vDlhUxciJ0ZG4PgtshNnnw1L3ln3EPnD7pa+LVpcVenbhUOsgDZOJ1s6LbLjxGHe9p/0FXJSm3CBq0vnTrDF9ZRWQhaX8BNM3EKE9K6JhISbitBSTBn7YIBtbjx/V5uShUu4gas+H1rnzThp6fl1MF/SNTUtSHKb4UHkKTVfR1s4KQGrJ3XRngU1Y5m9jSWGtwMu82/UT+yPDUsV/MyvPU2u0uuXQ+DXfhTBI3WpejvWE5l23J/0RX1zbPdDOPfBOsKd5yMpWTUPZ0NfctxD1G7OwjcpCWxtt7cMOj2Q5V3M=;A2yzOe1MNua8bFnp79QUjA=="
 ---
 

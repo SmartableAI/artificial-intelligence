@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
         width: 1200
@@ -55,6 +55,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Top-Five-Artificial-Intelligence-Predictions-For-2021.jpg"
         width: 960
         height: 640
+        isCached: true
+  - title: "Google Cloud announces new AI tools for online retail"
+    excerpt: "The new services, announced today, have been branded as Google’s Product Discovery Solutions for Retail. They include a Recommendations AI engine that’s now generally available. According to Google, Recommendations AI helps retailers to deliver highly personalized product recommendations at scale and across all channels."
+    publishedDateTime: 2021-01-19T17:34:00Z
+    webUrl: "https://siliconangle.com/2021/01/19/google-cloud-announces-new-ai-tools-online-retail/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/online-2900303_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "ljjKQl8HW0Ksmjhi5z9qPlZg1eBJgbz71omVcYeHimoIC4CQy587sIRWga/uquJLTQ6gN8IgKCTMiN/Df60DsQelYlNaB8GbgWgOh+8Dea2moyAum85Di+qlgHBvSkGf/4pVBbAVHHYFGWJ0Jg4gE7H6T3SB0nIFfqkQZX/qFZXIFgf1pgcR+FiyAc7+FOCDdM5iKzrJ6zxKRFWXb9+wZGlINJmtxGTKl1mJm2Oa+++GaxNhkP90FwgLbRCt3Y6lgN7bRmfzggao5XoP4hoojuNNIDLlfIyVXaIN4bdqA28Qi9FNpukqiu9EMyVWumLOaztcnR3ziFfjKjUsLQ8ZJpNU/0Cj44NgrehMBZcm7AcCkx802gMNA7b1R+l8LfwgdiA0xWpojX+JY2dHX+5Phbx0s5xkAvqCnu6QwirBj+o3ZBM1jqyDePZ8o2I0CA+3kQUlaOwRqEq7P3mlOiuCGfKW4jAwa7c9OMpvihF8iJcd89IUy8oGy7SYBoYLZ3odXlWeKYpONb6w6CI2Gx8Qpg==;K6zFEnSNFKdsFvuCagiiTQ=="

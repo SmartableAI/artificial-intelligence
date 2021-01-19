@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005ff901c6ca277f62e83f1%2F0x0.jpg"
         width: 730
         height: 439
-        isCached: true
-  - title: "How Artificial Intelligence Can Improve Cannabis Yield and Security"
-    excerpt: "The more advanced a smart monitoring system is in its use of machine learning and real-time monitoring integration, the more effective it is in spotting anomalous activity."
-    publishedDateTime: 2021-01-15T01:59:00Z
-    webUrl: "https://www.greenhousegrower.com/technology/how-artificial-intelligence-can-improve-cannabis-yield-and-security/"
-    type: article
-    provider:
-      name: Greenhouse Grower
-      domain: greenhousegrower.com
-    quality: 54
-    images:
-      - url: "https://www.greenhousegrower.com/wp-content/uploads/2020/11/photoperiod_for_cannabis_featured.jpg"
-        width: 896
-        height: 504
         isCached: true
   - title: "How explainable artificial intelligence can help humans innovate"
     excerpt: "Therefore, AI researchers like me are now turning our efforts toward developing AI algorithms that can explain themselves in a manner that humans can understand. If we can do this, I believe that AI will be able to uncover and teach people new facts about the world that have not yet been discovered,"

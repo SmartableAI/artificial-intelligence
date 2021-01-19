@@ -23,6 +23,22 @@ images:
     height: 785
     isCached: true
 
+related:
+  - title: "RCP Construction, Inc., and Everguard.ai Sign Agreement to Utilize Artificial Intelligence (AI) to Improve Job Site Safety"
+    excerpt: "RCP Construction, Inc. and Everguard.ai today announced a collaboration to bring artificial intelligence (AI) and sensor fusion to commercial construction job sites in an effort to improve safety measures."
+    publishedDateTime: 2021-01-19T17:16:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-occupational-accidents-lung-disease-workplace-safety-d00eb64779ded6911e08623858073a86"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "4O2RMBepKrfIY+3JxyerYoiYueRO5Gu0c5yhm71ydDOWT88nWViejFgp/xXrDFQUCTh1tTNjwy+F3ZeBMGoxml4Pdp/hKDhE1L2JDPQa6djIKHqsP8BS5r8eRaw5dtXFU+T8YCs6mLGyuIKYUscj0nFheQn1TUhqsg5EZNCsz0xpF49bo9CskuG+IJphD9jJnPCet1ZCmcb2Dam8CECWWjjANkgUlRdaOrFN5aWZHXcSZ94wE1hD6oDwHAiGQwIEkfPxo4BqNnVGCRv54o431AmnsfsHf4TQPMbS94z8+NoXHFmXK1WxHHL3gyprSiaiVwR/bVBUfEYdUbHhZeJRoXaUSz9QPIPzAOmoYZ1SQJE=;eDV8wrF60RPMo+ZxA6JzJg=="
 ---
 

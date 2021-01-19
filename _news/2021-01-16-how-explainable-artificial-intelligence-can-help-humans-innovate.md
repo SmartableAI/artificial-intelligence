@@ -56,20 +56,6 @@ related:
         width: 730
         height: 439
         isCached: true
-  - title: "How Artificial Intelligence Can Improve Cannabis Yield and Security"
-    excerpt: "The more advanced a smart monitoring system is in its use of machine learning and real-time monitoring integration, the more effective it is in spotting anomalous activity."
-    publishedDateTime: 2021-01-15T01:59:00Z
-    webUrl: "https://www.greenhousegrower.com/technology/how-artificial-intelligence-can-improve-cannabis-yield-and-security/"
-    type: article
-    provider:
-      name: Greenhouse Grower
-      domain: greenhousegrower.com
-    quality: 54
-    images:
-      - url: "https://www.greenhousegrower.com/wp-content/uploads/2020/11/photoperiod_for_cannabis_featured.jpg"
-        width: 896
-        height: 504
-        isCached: true
   - title: "Cerence Introduces Cerence Mobility Platforms; Delivers Voice and AI Experiences to New Areas of Mobility"
     excerpt: "AI for a world in motion, today announced its Cerence Mobility Platforms for Automotive, 2-Wheelers and Building Mobility. A focused, strategic approach to the company’s growth, Cerence Mobility Platforms deliver industry-leading innovation to three core areas of mobility – automotive,"
     publishedDateTime: 2021-01-19T14:50:00Z

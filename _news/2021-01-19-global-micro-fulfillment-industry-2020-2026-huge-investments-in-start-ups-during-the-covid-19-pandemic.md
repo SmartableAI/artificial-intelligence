@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Covid-19 will shape a decade of education"
-    excerpt: "History has shown that every crisis comes with a hidden opportunity. Covid-19 is no exception. And its in education where we are witnessing some radical changes which will define this decade."
-    publishedDateTime: 2021-01-19T10:18:00Z
-    webUrl: "https://www.fortuneindia.com/opinion/covid-19-will-shape-a-decade-of-education/105059"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 41
-    images:
-      - url: "https://images.assettype.com/fortuneindia/2021-01/2d7993ad-a07a-4b12-a836-1e8c50163e93/2D82PXE.jpg?w=700"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Providence accelerates data center consolidation, plans to close six amid Covid troubles"
-    excerpt: "Washington-based healthcare provider aims to reduce data center portfolio in the wake of Covid-fueled financial challenges"
-    publishedDateTime: 2021-01-15T11:06:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/providence-accelerates-data-center-consolidation-plans-close-six-amid-covid-troubles/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 15
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/healthcare-investing-20161-450x37.2e16d0ba.fill-1200x630.jpg"
-        width: 470
-        height: 248
-        isCached: true
 
 secured: "xopi9AJX+/2dzJNxHH5u1qV3Xx2xmV5TxefKaQC7tX55qBZn03nkApGa3goePLLAvJ6dJocVmHzJT+uTgLzyo8g2LtSoiXUOUb4OzQjC66OH9oZ0AaCgS/5W8loFy8nfBBF1bkTQFWFMpwvnDJlklhMKLYTF3DIH67fHIcD4xWjwSTieSf+p60OHsLLcOluAGb/EY5LMXDxKD9d5LtY3UlOqh4zt8SPHTecZX8NNPlQGeyoniZDJ/E3aQmwas+aPiVtE39TZ41asaUgo+UqZeFqLaKuZuz+qGenqfDCTPT1Poaesul8ZzlPCcb42VH883lAWRkj/rwGCf+w2Rg9DnPi1Eg9/kA873A2l7OkTvwg=;A1lUYhCCh33td8RCxoyFpg=="
 ---

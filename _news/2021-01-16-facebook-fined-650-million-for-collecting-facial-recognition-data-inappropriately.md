@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsbytesapp.com/news/science/facebook-fined-650-million
 cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story/amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: newsbytesapp.com
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Judge Poised to Grant $110M in Attorneys Fees in Facebook Facial Recognition Settlement"
-    excerpt: "This is a groundbreaking settlement in a novel area that took a lot of effort to get to substantive and professional goodwill,” said U.S. District Judge James Donato."
-    publishedDateTime: 2021-01-15T01:30:00Z
-    webUrl: "https://www.law.com/therecorder/2021/01/14/judge-poised-to-grant-110m-in-attorneys-fees-in-facebook-facial-recognition-settlement/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/02/Donato-James-Article-202002061504.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Facebook nabs facial recognition website"
     excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."
     publishedDateTime: 2021-01-18T06:12:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/363655"
 webUrl: "https://www.entrepreneur.com/article/363655"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Entrepreneur
@@ -26,6 +26,22 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "Companies are addressing issues related to language with AI"
+    excerpt: "Companies like Speechmatics and Paperspace are building an any-context recognition engine powered by artificial intelligence where they could build accent-agnostic language models with ASR (speech recognition) technology."
+    publishedDateTime: 2021-01-19T17:33:00Z
+    webUrl: "https://www.analyticsinsight.net/companies-are-addressing-issues-related-to-language-with-ai/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/How-some-companies-are-solving-the-issues-with-language-and-AI.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "4JY0TZrBZfxx9LVOqSYrgWvNM7C8zR5+zXIiIMPM/0G+/zwpTcIiKqt7lv/jWq/wUUPRt3e8mgnU9cL80NghSMLNDld5sMjalS4Rxj0kTBOTR2vCCb3AlpTHxvi2s9Jam7X63ndvFgI1yZ3J3+OTnpFOrQA/qj+imShLBxpu39mUq+uEjKAhkWvI/cjYvjYWr/Nukyug1/yb4drz0ZYoOh7a5BbxTGk90LETjVtNqnk3FlJ8qYah1myL6ctdvqkui8yhAOqSsS+GDKi6+LrtdK/3KuyZsp3NY8RWmKVOvgoRdsdCnK+TUka07CsYI02AjI7SY9yj5SDDmclCfzoCg5uxg0C26D7gsUWaeYTyz3VHaKfWNltFTVFYGUJVEkPExhPlZHC65X3zSfzU1P8CaRKEDfJnz7N1D7OY/82K4Jd+AZRQCtidoG5eHqxsKsgjgclOok0Ulmmn/i7x4KMz5vlI1aHXv+tFzS2SRt8DFPVK0ahOfjxN5kDKev4adJWJOdu/VndlE8ESfTvrSNVfmg==;CsS7mE630J25WdWSRwPaLA=="
 ---
