@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "NHS adopts AI imaging algorithm to improve COVID-19 treatment"
-    excerpt: "Hospitals around the country will soon be able to use artificial intelligence (AI) to help diagnose COVID-19 patients and reduce the time needed to create treatment plans.  The 'COVID-19 Chest Imaging Database' (NCCID) has been pulled together by NHSX,"
-    publishedDateTime: 2021-01-18T12:42:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 87
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1610965572/itpro/MicroscopingVirus_shutterstock.jpg"
-        width: 1000
-        height: 506
-        isCached: true
   - title: "Artificial intelligence used in bid to improve coronavirus treatment"
     excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'"
     publishedDateTime: 2021-01-18T06:20:00Z
@@ -51,19 +35,35 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "In light of COVID-19 high-tech tools firms are turning to artificial intelligence (AI)"
-    excerpt: "According to CNA News, in light of COVID-19, with more firms looking to better manage manpower with high-tech tools firms are turning to artificial intelligence (AI) and machine learning in Singapore."
-    publishedDateTime: 2021-01-16T21:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/light-covid-19-high-tech-tools-firms-turning-ai-amanda-goh"
+  - title: "Artificial intelligence used in bid to improve coronavirus treatment"
+    excerpt: "NHSX has brought together 40,000-plus CT scans, MRIs and X-rays from more than 10,000 patients across the UK during the course of the pandemic."
+    publishedDateTime: 2021-01-19T16:57:00Z
+    webUrl: "https://www.breakingnews.ie/world/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-1066033.html"
+    ampWebUrl: "https://www.breakingnews.ie/amp/world/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-1066033.html"
+    cdnAmpWebUrl: "https://www-breakingnews-ie.cdn.ampproject.org/c/s/www.breakingnews.ie/amp/world/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-1066033.html"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 46
+      name: BreakingNews.ie
+      domain: breakingnews.ie
+    quality: 57
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZbZpPwfThQ/article-cover_image-shrink_720_1280/0/1610770097853?e=1616025600&v=beta&t=OMQiXwLPLw14Q0ZJJOiKTWbfD2QPRM2KijhOam8urrQ"
-        width: 1240
-        height: 720
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjFcXFwvMDFcXFwvMTcxOTEyNTNcXFwvMi41NzU0NjgwNS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImE3ZmU4NjlmYWZkODQzMmJmYjEyZjJhNjdjZGIwNmU0ZWE1YWNmNTUifQ==/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Researchers use natural language processing tech to identify new coronavirus variants"
+    excerpt: "The utility of natural language processing algorithms for understanding and predicting the changes of viruses lies in the adherence of viral structures to a kind of grammar and semantics, MIT Technology Review reported."
+    publishedDateTime: 2021-01-15T19:15:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/researchers-use-natural-language-processing-tech-to-identify-new-coronavirus-variants.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 32
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "0nsrvPfS76cOyOhlzulh46s1ABGWpbv3yTz78uJ1i1ODBKoMes0c1lTEHMpd8wK6YPobl8lqnqXNm0+g4wGkgQlFuUofIik0XHbtGvzeYhXnNzguW1uZC/q1l9S9pg868cWKWH0otEzOgD81et0m3VHSlas5DveF5NuF/PVanyWS5cALiOroBiBGXWoip/DXN6j8/4l5bhnWySFZ9LiXmY/pvHEMs9x07q9I108odl9PBEmwFkRb/1oBffc5YmJyx8s9eOtnMflh5cfAJ+jDHE8k0YN1MfmOE3ybimjmNOwkct/EBqylN57Ys0nvejDq2wUrr+aPOqStB8vumO15JmTKlRIsGegZXg4M7YuIfRs=;BhizavUuHSvowQhRBbYUqQ=="

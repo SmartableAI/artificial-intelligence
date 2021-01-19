@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intel
 webUrl: "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 560
     height: 300
     isCached: true
-
-related:
-  - title: "Avaya expanding AI-powered contact centre capabilities to improve customer experience, participating with AWS Contact Centre Intelligence"
-    excerpt: "Avaya has joined the AWS Partner Network (APN) as an AWS Select Technology Partner. As an AWS partner offering AWS Contact Centre Intelligence (CCI) solutions, Avaya can enable customers to leverage AWS AI Services and Machine Learning (ML) capabilities to drive more rewarding customer and employee experiences across both voice and digital channels through natural,"
-    publishedDateTime: 2021-01-15T00:05:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137127/avaya-expanding-ai-powered-contact-centre/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 1
 
 secured: "fd73uTFZSPxFDqJ0QKgVRRGdcO0GM2gIqwgMAeVpwuvCtwJIrsHL7j2SHBsqk7RJmU7oxgxG37zLY3uV0TNBgLhybj0Z55QpyJmy6/pHQpe/h3KJPWKe//VRP1vpaoulcGY6swwoICibQ7y047a2sjC6/bcelpos53/5c75eTAPiLbPVT/WKL1eoaEqNMys7duddShZ2qFy2AOIsFYzOiqL558kP4XmCqZkTAD4uqawYCdIs7FayD48HNYlBrdnyIZzIDwu7gBc4BWbN30XkZ2GuR3+iSPwlerpN3e++kIOpFLGpqZkpRsMHz+Bfk52q021etI42UD4shg/SIfYsJYAlELY+tlGnbE3cj6uTTbf2hKTPTtrqfyXezagD4DPxwgBAlsBmasLFhDyLTZNH0Sdw9wXr+4gZrj1SsXBAyxVfd3ai+mGz9cnYWOa7cgkOSM+wctUZXD33f9Z0n5zR8KBXhe5762MWMX8N1LAUybxejy7DtoKszmWVFwqcyL4nu9FnFSDAMoXhh2zyyMnwuA==;cr/pRDFg9IWPxP2FYP0VVw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/fugue-announces-capabilities
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
 type: article
 quality: 88
-heat: 128
+heat: 148
 published: true
 
 provider:
@@ -59,6 +59,33 @@ related:
       - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1"
         width: 800
         height: 533
+        isCached: true
+  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
+    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
+    publishedDateTime: 2021-01-19T15:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+  - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
+    excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
+    publishedDateTime: 2021-01-19T16:08:00Z
+    webUrl: "https://www.barrons.com/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
+    ampWebUrl: "https://www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-287033/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Those Hacked Source Code Breaches At Microsoft, Nissan, Mercedes Are Ominous Lessons For Self-Driving Cars"
     excerpt: "A recent spate of source code breaches provides important cybersecurity lessons for those developing AI driving systems and self-driving cars."

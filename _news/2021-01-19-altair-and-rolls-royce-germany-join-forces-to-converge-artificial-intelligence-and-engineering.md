@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/altair-and-rolls-royce-
 webUrl: "https://www.prnewswire.co.uk/news-releases/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-880790413.html"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 2196
     height: 1150
     isCached: true
+
+related:
+  - title: "Altair and Rolls-Royce Germany Join Forces to Converge Artificial Intelligence and Engineering"
+    excerpt: "First-of-its-kind collaboration will drive transformative business value by reducing development time and costs, improving product performance"
+    publishedDateTime: 2021-01-19T16:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
 
 secured: "wFMgtil1f1WS7nyGfuqHGDgdJyzzBYFYXEyECaSE6+SHl+Tq4YN23WFjNpADsU2cLcu+4ccr+oxpuwwGXVc2A5X+8ammPnIv4zBX4xC+PT5wOygJc3edP/W+TvKILweAfZzoUbufHSFgrEOs5kQrBcg71aW39u1DfKjDET1FxtBvsxjhQ7nENOfAz23jh0SAxthXLTH7cR6SwqmkaivYysCTQ4VJYT+GSGo8maJnX0Y1WTGtdmyXdGhFsJI0Nu7IzdG/m+tyKVsuyWx+iGf3SOreB/ejWpID9JQ5rwVi69/a3tARQs0FJJMDrwnj9Pu8OPYAUb74eAZcdj/JS/Xny1g/Vqr5kAiUMMDYip56etM=;rFfL8y1uiDHwdJ6Ze/ignQ=="
 ---

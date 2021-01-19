@@ -28,19 +28,16 @@ images:
 
 related:
   - title: "Apple Car may use 'C1' chip based on the A12 Bionic processor"
-    excerpt: "The long-rumoured Apple Car is expected to use a \"C1\" chip based on the A12 Bionic processor with in-cabin AI capabilities such as eye-tracking. According to US-based magazine 'EETimes', Apple will require a chip foundry with capacity for automotive processes,"
-    publishedDateTime: 2021-01-19T12:22:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/apple-car-may-use--c1--chip-based-on-the-a12-bionic-processor.html"
+    excerpt: "San Francisco, Jan 19 (IANS) The long-rumoured Apple Car is expected to use a C1 chip based on the A12 Bionic processor with in-cabin AI capabilities such as eye-tracking."
+    publishedDateTime: 2021-01-19T11:24:00Z
+    webUrl: "https://www.sify.com/news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-news-education-vbtlPEcbgceii.html"
+    ampWebUrl: "https://www.sify.com/news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-news-education-vbtlPEcbgceii.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-news-education-vbtlPEcbgceii.html"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
+      name: Sify.com
+      domain: sify.com
     quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/apple-car-may-use--c1--chip-based-on-the-a12-bionic-processor-2021-01-19.jpg"
-        width: 1000
-        height: 800
-        isCached: true
 
 secured: "Qm9JHT9VsvIW8O0LEIz9ZD86ts8nbVP8d3lN2tIWE2G+1HCoys4wOvTXHHCOc3OnRCut6IJUywIYOlQYwNE76jECe0ba4Il/qx7exlnZMCGDJ0ZUTMfIYigzsiFEkTuVBEEPY5UC2daqcmv+gXsIIVlYXYpjyiQ5Ir38QAFvSRt16lg82ru/VhkQpCUhCCfL1y/GbwFRjmnt57xcIxGWKSZXi/AeY+Oqt2J53GdEL/nLQnUGP75lr2/taflIroJMKNvFsbGtMAIHN1d4koef/Z2TCF6VI9z93n5zFVzZ2B1+z0mB+oMDJrGL3CMdIAX57b3kaPE3qAme1/7A2/K2UiOhV9PzfdNMn5FnmLBtujJP5Aau9DXtQS2aiacIniIN8mYu5RCvxcbGBCsb3Su8+t2c14LbSmyk18M8obt2iApLKqbHjyjH6dl4jcpQA3t/oWiiKNyN/C11nUehJWGcGK8KErAksvkeZ3uat0DYjM7FtaLJeNQl/gbnWgRFq1INjSVqyI1l+fy4GuNcXBGUsA==;Nh9Gt7R1OzFiXbchLSZFWg=="
 ---

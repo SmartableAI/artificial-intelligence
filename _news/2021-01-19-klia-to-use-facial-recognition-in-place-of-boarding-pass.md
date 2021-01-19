@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software now being used to check temperatures"
-    excerpt: "Since the pandemic started knowing your temperature is now the norm. Security cameras with facial recognition software that can check temperatures have been booming across"
-    publishedDateTime: 2021-01-15T00:33:00Z
-    webUrl: "https://www.everythinglubbock.com/news/local-news/facial-recognition-software-now-being-used-to-check-temperatures/"
-    type: article
-    provider:
-      name: Everything Lubbock
-      domain: everythinglubbock.com
-    quality: 39
-    images:
-      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/01/Screen-Shot-2021-01-14-at-6.24.10-PM.png?w=1280"
-        width: 1280
-        height: 740
-        isCached: true
   - title: "Entrepreneur wants to change how we shop using facial recognition"
     excerpt: "Grand Rapids-based Iris Technology wants to use its technology to replace bar codes The system would use facial recognition software and computer vision technology to replace scanning, checkout Co-founder James Meeks intends to demonstrate the technology to large grocery retailers Some startups have modest goals: they just want to carve out a niche for themselves and make a profit on the margins."
     publishedDateTime: 2021-01-17T05:04:00Z
@@ -53,19 +39,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Facial recognition tech to be rolled out at KLIA"
-    excerpt: "Malaysia Airports Holdings will soon be implementing facial recognition technology at Kuala Lumpur Internatonal Airport (KLIA) for passenger identification authentication."
-    publishedDateTime: 2021-01-18T08:29:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/18/facial-recognition-tech-to-be-rolled-out-at-klia"
+  - title: "MAHB to roll out facial recognition for passenger authentication, replacing boarding passes"
+    excerpt: "Malaysia Airports Holdings Bhd (MAHB) said today the group is rolling out the first phase of the \"Single Token Journey\" under its Airports 4.0 initiatives, where facial recognition will replace physical travel documents such as airline tickets and boarding passes for faster and safer passenger authentication at the Kuala Lumpur International Airport (KLIA)."
+    publishedDateTime: 2021-01-18T08:28:00Z
+    webUrl: "https://www.theedgemarkets.com/article/mahb-roll-out-facial-recognition-passenger-authentication-replacing-boarding-passes"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 29
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/18/1012170.jpg"
-        width: 1240
-        height: 817
+      - url: "https://assets.theedgemarkets.com/MAHB-2_20200928161859_malaysiaairports.com_.my__3.jpg?As6YzEYd0NIf3.vPreRPh5_ENOOkT8QK"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "b/V6zAJBHxaAfGSlDiJn042Vf3Pkb+r3m8/dfBErQVfY5W9HOwYmJ+ne7O+k7XQ+DK2eS6FjnogM1wOMOUDm4tgIpJZKTl6EQM/CGVEa+rzvTG1HJhi6DwpBMcssurqfSnQwTQ414/ifIycizyQTYLG/8mMbDsyRie2Uq0ljwUxuHQ70szMS/ye3l1cdUrSJSdSpyk2M4AoWQTx1Heyd1PF95DEjPHxc8wZLfz1PJ6oqZHrFlU6Bl6wM/3EhVctXccjDrsgnb8QyX5j5eJuq79iqpjoQu4/jgmPaETsnzgKYyu+lnglO8ttpslC6gD12dPepmI2T7oImsov2mpA/NO1/Z9MfsY6UAm+8Jd3giyU=;Qt54g2aEqyy0rDOLHDk5ig=="

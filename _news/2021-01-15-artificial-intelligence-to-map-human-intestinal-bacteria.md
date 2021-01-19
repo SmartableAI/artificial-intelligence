@@ -50,15 +50,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Feces and algorithms: Artificial Intelligence to map our intestinal bacteria"
-    excerpt: "The intestines and their bacteria are sometimes called our 'second brain', but studying these bacteria in their natural environment is difficult. Now researchers have developed a method that uses artificial intelligence to map intestinal bacteria using feces."
-    publishedDateTime: 2021-01-15T00:42:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210114130148.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
   - title: "Artificial Intelligence to map human Intestinal Bacteria"
     excerpt: "The faculty of health and medical sciences from the University of Copenhagen have developed a ground-breaking technique that can assist to disentangle the secrets of the human intestinal microbes."
     publishedDateTime: 2021-01-16T06:24:00Z

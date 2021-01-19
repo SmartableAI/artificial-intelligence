@@ -27,47 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "MSOE professor explains facial recognition technology used to catch riot suspects"
-    excerpt: "More than a week after the riots in Washington, D.C., investigators all over the country are working to identify the people they believe illegally went inside the Capitol."
-    publishedDateTime: 2021-01-15T03:18:00Z
-    webUrl: "https://www.tmj4.com/news/local-news/msoe-professor-explains-facial-recognition-technology-used-to-catch-riot-suspects"
+  - title: "Opinion: Facial Recognition Vital to Nab Capitol Assailants"
+    excerpt: "While cities ranging from San Francisco to Boston have worked to ban facial recognition outright, without that technology, the FBI and Capitol Police would have had a harder job arresting the Capitol insurrectionists."
+    publishedDateTime: 2021-01-19T16:31:00Z
+    webUrl: "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html"
+    ampWebUrl: "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 49
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9203af3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F540%2F44c3f81cadf84cf5a6f4e6d100388208%2F5407372f96df46d28eb87787190ca06b%2Fposter_0cc6f71a6baa4515adecf7abbebe97e2.jpg"
-        width: 1200
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
         height: 630
         isCached: true
-  - title: "KLIA to roll out facial recognition technology in 1H 2021"
-    excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
-    publishedDateTime: 2021-01-18T06:43:00Z
-    webUrl: "https://www.bernama.com/en/general/news.php?id=1923008"
+  - title: "As U.S. Capitol investigators use facial recognition, it begs the question: Who owns our faces?"
+    excerpt: "We have unwittingly volunteered our faces in social media posts and photos stored in the cloud. But we've yet to determine who owns the data associated with the contours of our faces."
+    publishedDateTime: 2021-01-19T15:29:00Z
+    webUrl: "https://theconversation.com/as-u-s-capitol-investigators-use-facial-recognition-it-begs-the-question-who-owns-our-faces-153253"
+    ampWebUrl: "https://theconversation.com/amp/as-u-s-capitol-investigators-use-facial-recognition-it-begs-the-question-who-owns-our-faces-153253"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/as-u-s-capitol-investigators-use-facial-recognition-it-begs-the-question-who-owns-our-faces-153253"
     type: article
     provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 39
+      name: The Conversation
+      domain: theconversation.com
+    quality: 47
     images:
-      - url: "https://www.bernama.com/storage/photos/4d11767660ecb3d1edf7fac350faa2aa5e8d5d9f630d5-medium"
-        width: 350
-        height: 219
-        isCached: true
-  - title: "Rise of the Machines: Facial Recognition Technology Heralds Upswing in Litigation"
-    excerpt: "As the facial recognition industry faces hostile regulations, claims of racial bias and growing public mistrust, more suits over the fledgling technology are expected."
-    publishedDateTime: 2021-01-15T21:11:00Z
-    webUrl: "https://www.law.com/njlawjournal/2021/01/15/rise-of-the-machines-facial-recognition-technology-heralds-upswing-in-litigation/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/399/2021/01/Facial-Recognition-Software-Article-202101151327.jpg"
-        width: 620
-        height: 372
+      - url: "https://images.theconversation.com/files/379320/original/file-20210118-17-zx4vx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=231&fit=crop"
+        width: 320
+        height: 231
         isCached: true
 
 secured: "mm3CEtdQdiwNkSmOIpEVoH6W076e5cxH5Ft7lN8WjT55COJf8G/N/tFacixvWpLiEeaEE7SeYwhRaq1gSOYxDxMU1T19kP+XsM4NtT993sZPQwdcnCtYytZxVMaeg+ssGZLHQG69TbxKKFx3jNEKWx96ePzVi1e+6t3V/yIqS97Qp0Rmsr0W/XzZyiwdgP/BTcjLk5m4Jlh2xhdl16wD6TmI5D81Ra9gnEKT9Sp9rrczzqEReMqfpn5G1RoclUQRwZFzrsbJJLHViAYqktf1vT1geDURw0P6dBeFjYHO7aPSyF7gakABwOkDGLrZBS9icrS2F3wFk7JDKEXTgf8lskVG+7xnS0tO9/VlAcd2C1bcQO81ab833wl+kPTghtePaZ5GrBlWMjxPUZIGwkSKSvnx2tol+9TSk9gC2n/O+PWw2Q2elpe1l4hkP8Al7lxhnwjJQW28uJNa/Zbf/S1JvbzTyZoka0rZgnFHm0ip4sVyQcEWQLZKsompMU3L8XfBzBsZtofLEewuUnH6oGtzgw==;kgR4dI9zhlXrnkAkwo6qDg=="

@@ -82,6 +82,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Dimon Frets Over Weak Recovery and Fintech Rivals"
+    excerpt: "For someone who turned in his best quarter ever, JPMorgan Chase chief Jamie Dimon is worried. About the pandemic in the near-term. And fintech upstarts in the longer term. The market doesn’t seem to be too concerned,"
+    publishedDateTime: 2021-01-19T16:52:00Z
+    webUrl: "https://www.ai-cio.com/news/dimon-frets-weak-recovery-fintech-rivals/"
+    type: article
+    provider:
+      name: Ai-cio.com
+      domain: ai-cio.com
+    quality: 24
+    images:
+      - url: "https://si-interactive.s3.amazonaws.com/prod/ai-cio-com/wp-content/uploads/2019/04/08065350/bio_jamesdimon.jpg"
+        width: 270
+        height: 330
+        isCached: true
 
 secured: "X7iFdD6U/nflS7vPCww4MLHDYLuYmtRwsbLdT/Das4r6IGVBm0hopoPVFFfXwd9D5axEt/kBJeE4aJMijAKSjDsA9IRTVIuvFHcjdMoTzfmTCMjnhwZJWMs0iMN8cvyPSw6nu4lIwIn+Z9yxXf0kYRK+zVwD2jNERhNybF3tQnzaFXyyWMjKorFHXSlen2DcxXmZujd1sN3gZx+ySTiWqfrOV03BD/xMPNB9dhwp3FHktVoNau04klz+pBkXMBqIMDUqx+ZQ8/bjOLuuZVQg9cAaXkd1A6UvBSydi0o+LRMAvAAMWQdY33X0ETbYj9JIpQJvjoFBu9cXdJxe5PU0X7cHvKL7mLihFsBWHle1uf95qZe3iPvMfV6Z/4WUXccLVLSUmXL5KCDn5WiSOH8PpRbme+cyK43McYj8wjgutoi/vs3JudAI59oYysUSDi58Cl5PNPLGoV4Oci/ut1vMXOrm8B76cPFa9dQN6khCT/q0Oxs1htbLY6zrbml+pod4v2KTFd2WJ0MXL/xPW+9ssA==;arIgMpWPQfe1+r1ua1xXjA=="
 ---

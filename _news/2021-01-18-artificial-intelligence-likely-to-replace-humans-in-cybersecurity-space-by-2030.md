@@ -93,20 +93,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Fast, fused and deep: CES sheds new light on 5G, AI, cybersecurity and digital currencies"
-    excerpt: "At the start of a new year, the Consumer Electronics Show offers an opportunity to gaze at technology’s distant horizon and take measure of what may be coming over the ridge. Foremost among these was a general recognition that the pandemic has dramatically accelerated digital transformation across the globe more rapidly than anyone could have envisioned at CES in Las Vegas one year ago."
-    publishedDateTime: 2021-01-14T23:54:00Z
-    webUrl: "https://siliconangle.com/2021/01/14/fast-fused-deep-ces-sheds-new-light-5g-ai-cybersecurity-digital-currencies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Vestberg-CES-2021.jpg"
-        width: 839
-        height: 443
-        isCached: true
 
 secured: "un3uAw0X/IobQtjy2nuyI3vawKEACcyYpSG149/Yck3QOF8EoNTnJb+Bbs21rwF4j8fqeieWzxWii0gJa+2fHKVpz+lQj+g9zMkvTiBZLVcufeTMatPe0+GKwH+foyk4DcBljvkJWopmH9e2gZ1eb9DFHbas93ZJmWzvLbgYsyBV/9YFw3g4diGUncbUkaYyc1vhqDUqT4YJWbAEdG14e6/J5WlXy4ohYEuwMKj3yh9pGKVs7qk+YfGf8EP9tXvTiML4mdWf5i1O6bTIbk+vfVsCcV5YpkPfGBGk35Jh1koO2rb8bWQv9Df5sGFHGwQ+R1XeBHYY/BvuwkXvDR5/GwV2W+ua/ztd9RYjLrddnpM=;DfpU4Sicdtbb/9gndd7HJw=="
 ---

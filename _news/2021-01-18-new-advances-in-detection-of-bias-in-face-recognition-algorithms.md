@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-fa
 webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Even With a Mask, The Best Facial Recognition Algorithms Work Well, Test Shows"
-    excerpt: "The best facial recognition algorithms correctly matched individuals wearing masks 96 percent of the time in an evaluation last fall, demonstrating that pe"
-    publishedDateTime: 2021-01-19T14:06:00Z
-    webUrl: "https://www.defensedaily.com/even-mask-best-facial-recognition-algorithms-work-well-test-shows-2/homeland-security/"
+  - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
+    excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
+    publishedDateTime: 2021-01-19T15:16:00Z
+    webUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html"
+    ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
     type: article
     provider:
-      name: Defense Daily Network
-      domain: defensedaily.com
-    quality: 35
+      name: TechHive
+      domain: techhive.com
+    quality: 53
     images:
-      - url: "https://www.defensedaily.com/wp-content/uploads/2019/05/bigdhs.jpg"
-        width: 2000
-        height: 1994
-        isCached: true
-  - title: "Davenport police officer involved in ambush says Condition of the State recognition was an honor"
-    excerpt: "Gov. Kim Reynolds publicly recognized the three Davenport police officers involved in the incident, all of whom attended her address in person."
-    publishedDateTime: 2021-01-16T05:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/16/condition-state-davenport-officer-says-recognition-reynolds-honor/6653002002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6653002002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6653002002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 31
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/04/PDEM/35f1fc01-a148-4003-8f86-5ea76e69b8c3-Davenport_Police_Ambush.jpg?auto=webp&crop=1553,874,x0,y16&format=pjpg&width=1200"
+      - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
         width: 1200
-        height: 675
+        height: 800
+        isCached: true
+  - title: "Kami Launches Smart Video Doorbell with Facial Recognition"
+    excerpt: "PRNewswire/ -- Kami, the vision artificial intelligence (AI) company, today announced the availability of the Kami Doorbell Camera, a smart video"
+    publishedDateTime: 2021-01-19T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kami-launches-smart-video-doorbell-with-facial-recognition-301210552.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://i1.ytimg.com/vi/Gz--yqZ-NRA/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
 
 secured: "dkUdIGMGZUKspXPPJ7bRbgE/YStdAxYodOO9xoLxfyy492jx/XOLiG7mQYu8vnciQM0UMZ3MMChlqWzsseyoBR3QHe86++NypmUKnGnO0r3mU83G1Q3sL1vMbZtQO8C+AZ9aqRP6TtEHnSBs1BKUrdKFWzYKRXbHQEeEZjmeIZfmNxTemmZ0ZV5lelgBgrv7+uWm3rOk2FTSsjM73/Y3wCgtvxJLp5KVM7b2xW55eKn8PZ5OZaY76WuYUetZlgIeHEKSDH+JNoNpTnCIWD4uD4P2O/0EIHo7zNMxAzAD5LdtG5fTUhzdslIdF03CUBcD1aqME4YUg8z8/P/j3gnLqKA2csEcTGrfsFVPz3XXhGs=;qqjqfpyb8qhafVViS/8xtw=="

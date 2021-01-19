@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How AI Is Being Used In The Legal Industry"
+    excerpt: "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery."
+    publishedDateTime: 2021-01-19T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg"
+        width: 1200
+        height: 831
+        isCached: true
   - title: "Where AI Is Heading In 2021 For HR Departments"
     excerpt: "Artificial intelligence is set to become one of the best ways to connect HR with an entire organization and understand each department’s needs."
     publishedDateTime: 2021-01-19T13:50:00Z
@@ -105,15 +121,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tackling subjectivity in hiring with AI and machine learning"
-    excerpt: "And given that making the wrong hire has pretty significant consequences for businesses, affecting finances, productivity, and even morale, it’s no wonder a lot of effort is devoted to the hiring process."
-    publishedDateTime: 2021-01-15T00:56:00Z
-    webUrl: "https://www.techinasia.com/tackling-subjectivity-hiring-ai-machine-learning?_escaped_fragment_="
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 64
   - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be"
     excerpt: "Technavio Business Wire LONDON -- January"
     publishedDateTime: 2021-01-19T13:51:00Z
@@ -157,20 +164,6 @@ related:
       - url: "https://ctovision.com/wp-content/uploads/space.jpg"
         width: 632
         height: 422
-        isCached: true
-  - title: "How Accenture is Using Machine Learning to Uncover Human Trafficking Activities"
-    excerpt: "Human trafficking is a horrific business, and it's all around us, in plain sight. An estimated 25 million people are victims of human trafficking each year globally, with many more cases going unreported."
-    publishedDateTime: 2021-01-15T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-accenture-using-machine-learning-uncover-human-trafficking-vyas/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQERUl6fRRvIRg/article-cover_image-shrink_720_1280/0/1610734809501?e=1616630400&v=beta&t=Ru2J2rXPNIRqWcpKygi8Lz54esGPD8gj_n9PafuIbpE"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "3z62IVpvOPtJqG7gfDv9DceuEVEWjXZPFK/SBb2T5T5ETAYAOF3cMHVq+EZbpT4P9gkZFPmOWAxEbNuUssPLzUurIh5F7X/AYj0GQX6SgSM8moB86Sc3y5P2KUFMi1cTT6a/17zeTkxenVZFCpGLVhsng60Pr9YQ1Jl2ixKXd5vCPCWw4NO8aWdfFkjNWsU1LGWRghQ4c4pU7nCyJk2WUJnYokfUwi/T2NiZrvNIGWbNfeTyqG5cp/Rm/Y2qdg270H+/0NTJJwWyUEkBO00LNf2l/WFqvB8XC6ZzVOAG+LupIjqz/cQoZ5BGEHYEb+BZ0SjqydDnXL2GV1fjkIIwDuSNnfzMNi+ClZ75HRU1oOs=;c1ED0vHZ+Iu5nG8dxnjDVw=="

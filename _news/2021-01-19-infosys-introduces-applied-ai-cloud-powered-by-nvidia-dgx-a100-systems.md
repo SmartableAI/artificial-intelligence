@@ -37,21 +37,16 @@ related:
       domain: businessinsider.com
     quality: 69
   - title: "Infosys launches applied AI cloud powered by NVIDIA DGX A100 systems"
-    excerpt: "Infosys announced the launch of an Infosys Cobalt offering - its applied AI cloud, built on NVIDIA DGXTM A100 systems, the universal system for all AI workloads, offering unprecedented compute density,"
-    publishedDateTime: 2021-01-19T14:57:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html"
+    excerpt: "As a service delivery partner in the NVIDIA Partner Network, Infosys will also be able to build NVIDIA DGX A100-powered, on-prem AI clouds for enterprises, providing access to cognitive services, lice"
+    publishedDateTime: 2021-01-19T12:46:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011901150_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011901150_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011901150_1.html"
     type: article
     provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 59
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Infosys Builds applied AI Cloud, part of Infosys Cobalt"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, today announced the launch of an Infosys Cobalt offering - its applied AI cloud, built on NVIDIA DGXTM A100 systems,"
     publishedDateTime: 2021-01-19T12:13:00Z
@@ -62,6 +57,6 @@ related:
       domain: equitybulls.com
     quality: 19
 
-secured: "CzePZ7Nm3RobE9fY2qMOaScamg5cF8mOzMYl9U1/hHuxHMnO5C+c+J85g74XrVaJBPJ9tLJ8ykuuDpFPjK0nbYlwoxITLe42fbyYQdZ3ZSLXeOBWdi994gyhTQJvlqHLxAwqo2boj6UwxrOFZ4jwUAVDdf9O/yIKuvt75BH1CqvgCXI5cYfdINaB/UC9cWL/YVn6XU1FQXbnTjz7zAXDl/H0Lv2Vi9R786ZRkAjtlPFXw94UIQtBcUCw52zF7g0P9lFi7bdOizVI4qNNqgVzfLvnKT/7iwqv5smDLepc0Q7OUdPy6nFIQRb6wf8Ze7U0DBQbQ2s31h5bbRklhAFdAOuAJ9+NKVu0aMBPss49WLI=;7IbHstR17ipgFr14wBUsTA=="
+secured: "4JDaZCQTZJmnAZs8/y/cb70E3ab9yUUTMtAVI/L6w4h6qauKIUrYejYK2ZTtcnikbETdqKrHrUT58rUHmBYXRdOGh+f7Rb0OCWGy5hMNI+f1HLzRE1rt3yGLyCJ6gJjn+kInWHZCn2tk4cZC9k5vdmYOpJK/cLJCzHBz+MeW4i/aay5Lt6whmcjyfCbI+0KSK1BfTnT/H8GUL3xO3oty1fKp7VRGLwCYbPoxZmkVxm7FC5jiDmEF2YVkYrojUQxasLtIWYVo35RZjr3pCRzrq1bPxPyJe9xDw4Am/Zys7VD1T2KkWZoeTL4LrownjdxbmPd93Je/5FkEXWitrEeash2vLnfzAzIFn05T2ZTIdLiGjvVvqkcMpgPSmtysYRz/p3ZoQneUWCUbF7GzVYnuA9RFE8JcwXLV7MmDXu69lV28+7Jg352BYjMChRBoiKMe8I7z6cyfDW5QGzPEsNoZdeQOTcPTmHocV+nNzJKy/mTgy4GDWZYQ+HNVJ/L5lkRsvpFud0Heql8Bohh1y+W+Nw==;/5+9/5tEHjRPH0hemmbDmw=="
 ---
 
