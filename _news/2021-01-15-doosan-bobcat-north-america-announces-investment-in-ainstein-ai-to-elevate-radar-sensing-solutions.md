@@ -52,20 +52,6 @@ related:
         width: 900
         height: 879
         isCached: true
-  - title: "Doosan Bobcat Invests in Ainstein AI to Further Sensor Innovation for Compact Equipment"
-    excerpt: "The investment is aimed at furthering sensor innovation for compact equipment to advance productivity on construction jobsites."
-    publishedDateTime: 2021-01-14T22:10:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21232203/bobcat-co-doosan-bobcat-invests-in-ainstein-ai-to-further-sensor-innovation-for-compact-equipment"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 29
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/01/mmWave_Imaging_Radar.6000bb7884e27.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 1172
-        isCached: true
   - title: "Doosan Bobcat Invests in Artificial Intelligence to Advance Radar Sensor Tech for Compact Equipment"
     excerpt: "Investing in Ainstein AI is aimed at developing next-gen radar to enable Bobcat equipment to avoid obstacles and future innovations that support autonomous productivity enhancement on construction job"
     publishedDateTime: 2021-01-16T17:21:00Z

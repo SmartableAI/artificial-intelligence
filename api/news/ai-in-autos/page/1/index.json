@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-17-intels-self-driving-tech-division-mobileye-is-picking-up-speed-set-to-become-a-true-threat-to-tesla.md",
-      "title": "Intel's self-driving tech division Mobileye is picking up speed, set to become a true threat to Tesla",
-      "excerpt": "The world of self-driving vehicles is roughly hewn into two factions: companies that believe fully autonomous vehicles will naturally evolve from advanced driver-assistance systems (ADAS), and",
+      "path": "_news/2021-01-19-intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others.md",
+      "title": "Intel Unit MobilEye’s Strategy To Win Self-Driving Is Very Different From Tesla, Waymo And Others",
+      "excerpt": "You may not see MobilEye named as a major contender in self-driving a lot, but their radical strategy takes interesting bets and makes them a top company to watch.",
       "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html",
-      "originalUrl": "https://www.techspot.com/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html",
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-16-image-12.jpg",
-          "width": 1906,
-          "height": 1271,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006667bd1af2435b265762f%2F0x0.jpg",
+          "width": 1199,
+          "height": 796,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html",
-      "publishedDateTime": "2021-01-16T10:19:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
+      "publishedDateTime": "2021-01-19T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-fa
 webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,49 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "LAPD Commission OKs Detectives to Use Facial Recognition"
-    excerpt: "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people."
-    publishedDateTime: 2021-01-14T21:50:00Z
-    webUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
+  - title: "Even With a Mask, The Best Facial Recognition Algorithms Work Well, Test Shows"
+    excerpt: "The best facial recognition algorithms correctly matched individuals wearing masks 96 percent of the time in an evaluation last fall, demonstrating that pe"
+    publishedDateTime: 2021-01-19T14:06:00Z
+    webUrl: "https://www.defensedaily.com/even-mask-best-facial-recognition-algorithms-work-well-test-shows-2/homeland-security/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Defense Daily Network
+      domain: defensedaily.com
+    quality: 35
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
+      - url: "https://www.defensedaily.com/wp-content/uploads/2019/05/bigdhs.jpg"
+        width: 2000
+        height: 1994
         isCached: true
-  - title: "Progress towards unbiased facial recognition seen in EU computer vision challenge"
-    excerpt: "This challenge aimed to address the issue of discrimination in facial recognition algorithms relating to inaccuracy in identifying ethnic minorities."
-    publishedDateTime: 2021-01-18T23:15:00Z
-    webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
+  - title: "Davenport police officer involved in ambush says Condition of the State recognition was an honor"
+    excerpt: "Gov. Kim Reynolds publicly recognized the three Davenport police officers involved in the incident, all of whom attended her address in person."
+    publishedDateTime: 2021-01-16T05:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/16/condition-state-davenport-officer-says-recognition-reynolds-honor/6653002002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6653002002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6653002002"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 49
+      name: USA Today
+      domain: usatoday.com
+    quality: 31
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
-        width: 1024
-        height: 662
-        isCached: true
-  - title: "KLIA to use facial recognition in place of boarding pass"
-    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
-    publishedDateTime: 2021-01-18T23:50:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
-        width: 620
-        height: 413
+      - url: "https://www.gannett-cdn.com/presto/2020/09/04/PDEM/35f1fc01-a148-4003-8f86-5ea76e69b8c3-Davenport_Police_Ambush.jpg?auto=webp&crop=1553,874,x0,y16&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "dkUdIGMGZUKspXPPJ7bRbgE/YStdAxYodOO9xoLxfyy492jx/XOLiG7mQYu8vnciQM0UMZ3MMChlqWzsseyoBR3QHe86++NypmUKnGnO0r3mU83G1Q3sL1vMbZtQO8C+AZ9aqRP6TtEHnSBs1BKUrdKFWzYKRXbHQEeEZjmeIZfmNxTemmZ0ZV5lelgBgrv7+uWm3rOk2FTSsjM73/Y3wCgtvxJLp5KVM7b2xW55eKn8PZ5OZaY76WuYUetZlgIeHEKSDH+JNoNpTnCIWD4uD4P2O/0EIHo7zNMxAzAD5LdtG5fTUhzdslIdF03CUBcD1aqME4YUg8z8/P/j3gnLqKA2csEcTGrfsFVPz3XXhGs=;qqjqfpyb8qhafVViS/8xtw=="

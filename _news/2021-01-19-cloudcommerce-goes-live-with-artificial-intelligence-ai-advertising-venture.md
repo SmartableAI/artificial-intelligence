@@ -1,24 +1,22 @@
 ---
 category: news
 title: "CloudCommerce Goes Live with Artificial Intelligence (AI) Advertising Venture"
-excerpt: "SAN ANTONIO, Jan. (GLOBE NEWSWIRE) -- CloudCommerce, Inc. (CLWD), a leading provider of digital advertising solutions, today announced that it has officially"
+excerpt: "CloudCommerce, Inc., a leading provider of digital advertising solutions, today announced that it has officially launched aiAdvertising, Inc., its wholly owned subsidiary focused on using artificial intelligence to enhance its successful SWARM solution with the goal of cutting advertising costs by as much as 50%."
 publishedDateTime: 2021-01-19T08:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/g19208431/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/g19208431/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19208431"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19208431"
+originalUrl: "https://www.nasdaq.com/press-release/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture-2021-01"
+webUrl: "https://www.nasdaq.com/press-release/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture-2021-01"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
 
-secured: "Yh/t4llUOkcf4rSGWiUxN7n22Sp0x0vvZRt2OGRKPhB2BhqnVdZBJFr/+/x2WeAUbpuuxsTNyyWyQ+aD5GCqzkDcgiRY437XNQATh4lzXvQ/oQ96fFuNyUPBKcmx4GETI4J5qI36ZmfvVZkX3/B1v93l4gcPNAwKIm1+iVKNqQnZHo2/XIGLTq0Crbi3sSrLQ8sYf8y9XDcxhohKVHsM5232PKKbBWeskbViPUSDXAwkZEWqZ2Eg0tLd4emmmdJDgDrnYAGvp48324Snv0Eo41Sz+uKfYP9c7psBJ6v88XDXLkSAfPZE8EGccHrseoxaW0p1oh5GywF9aZfmHaWCaBCmOlCXDdcgblxnWIR3zmI=;247kCUi5NaBeJizSClUtpA=="
+secured: "yO+s1gEptIAbF/tinKmbn6CphMqNXl/St0aN8I7R9CLDXT9p0OHVjR5xhhq5GciuLn8b0Vsrv7/lrk2LNKNb+4IZyT9VpGTutSvUh6db3vZ+vAdpFSrdj/jJOc+m7gEoH8RQJgXH6TYk9DLd8A48lQ0XTVh2hBPSvWvRCxSyePoci94CPtZiXUChO1Mb8irEYzsTHxQXBvMHoTiqkmYeExEtGwUYaD+Ee3FC0lUumnp7BiJiCfopNyuSALMV1ZSksX1KVyvnQavc0cS5h6U3UQ2dANa/pymVc0iBS6A1qonoln2CXsG9tsVJhXGkfAAzPd/vEa6FZQQ12+A9lkwCJ7AJGSqTiKFLvd0rhpH57BM=;rzXXmqUhNXXZtfLX4qX7wg=="
 ---
 

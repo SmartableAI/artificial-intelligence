@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-i
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
 type: article
 quality: 98
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
+    excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
+    publishedDateTime: 2021-01-19T14:14:00Z
+    webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 95
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
+        width: 1200
+        height: 797
+        isCached: true
   - title: "Facebook claims its AI can anticipate COVID-19 outcomes using X-rays"
     excerpt: "Researchers at Facebook and NYU trained a machine learning model to predict when COVID-19 patients' condition might deteriorate."
     publishedDateTime: 2021-01-15T17:03:00Z
@@ -120,6 +136,20 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "Mission Healthcare of San Diego Adopts Muse Healthcare’s Machine Learning Tool"
+    excerpt: "PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care providers in California, will adopt Muse Healthcare’s machine learning and predictive modeling tool to help deliver a more personalized level of care to their patients."
+    publishedDateTime: 2021-01-19T13:57:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-health-care-industry-hospice-care-9982f9e5f1129000898b32acac2c0e2f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Facebook to use AI in predicting if COVID patients health"
     excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence AI unit in an effort to help healthcare providers predi"
     publishedDateTime: 2021-01-18T20:26:00Z
@@ -135,6 +165,6 @@ related:
         height: 420
         isCached: true
 
-secured: "x406kycs/iWvvqYluH0K7rnGpEWBP1wK89qmYv7TPfkyX+4GAJCyskPXGQMPsOkf1rYOJ1jUAl1VMw6KF+pNom6jKEM/haLfU9kWg6/zStANNGud1uRxzK70G0i0qLgWACW+LJjF1UnLpObnqR71ZIiauEECD9hbGtg9k/8DEzmtw+MVGpwK6y02YQ5W7t3UGp6+4WiCUgZNU6ZoetQV5yGd1sfCBQUy7soDDd8o8au4GdLIdiyllP86tDpimqoQw2QjDeorfKwApsZsMZX8R+3cO3eAutOtGvOkMBS9RMvh16IsF1u+kEUiTw/K0+EtJw4t1TaFG6XGxxJ3Je6VB4vkxHkTuvfBTLtQT/1dl70=;hQiLO621y/n+zuomgxXB2w=="
+secured: "Vp6e7bE2ZJd0p7yUc7Fiw0PHvIQfdIZ0b4mV+9AF/0X7Fq1m8gQfPLuyFCH4ez9ajHgRFmUHLxMk4/AUq4Yl3v7AQ7ic6Hy9xilnsc3ecTqaGym+BkR75kd6U0IUpdT+o3R1EFNvT/lMMLn+06o4Ixx2OdFAWTbvG7ZtihszE00Cwli3kNYtvkVYZYol2cmS674qkgsyAVrHu4uOQtPPmiaGkk8AcbNC8rSrLPSic6Xam+HVY3RNK8qGeeKEJ9kDTKdDe3hTQ7QiFYQ44R2HhvI8QTilWfE+hofxQzjCqe/leZXLw/Po4+k/D6DyubpOfnLNGaN0nuq7HxlNXTQwwq4HDG0268dGaocsvDwP4sd8AWTm5M9kVb0RD8Aj+ZnWSPs1IseKncnBS0VrXWPa9xenq8PPng1BTYyQPVt+cVoaKyGp3OF15cL83oIPUjcNyaloakAPuMT9+NCVer/EN3TboaYuSfHz6fIgIAe8jQes8G+HLiRMst8KiIdjLB6+wRMZ+nAVd1JzDNYltdybiw==;O6RoxY2KexQucRMFQp5CjA=="
 ---
 

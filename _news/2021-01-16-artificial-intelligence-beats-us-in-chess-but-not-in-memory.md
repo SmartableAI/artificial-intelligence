@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.a
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-chess-memory.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -38,6 +38,20 @@ related:
     quality: 39
     images:
       - url: "https://www.eurekalert.org/multimedia/pub/web/253677_web.jpg"
+        width: 720
+        height: 514
+        isCached: true
+  - title: "Artificial Intelligence Can Beat Many Of Us In Chess, Yet Strangely Not In Memory"
+    excerpt: "Computers are well-known for being able to recover information quickly - a Google search will often give you the result you wanted as you type, even if you make spelling errors - but are not known for creativity."
+    publishedDateTime: 2021-01-19T14:43:00Z
+    webUrl: "https://www.science20.com/news_staff/artificial_intelligence_can_beat_many_of_us_in_chess_yet_strangely_not_in_memory-252750"
+    type: article
+    provider:
+      name: Science 2.0
+      domain: science20.com
+    quality: 34
+    images:
+      - url: "https://www.science20.com/files/images/ai_vs_brain_chess_and_memory.jpg"
         width: 720
         height: 514
         isCached: true

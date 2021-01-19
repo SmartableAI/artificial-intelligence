@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-f
 webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -24,52 +24,6 @@ images:
     height: 662
     isCached: true
 
-related:
-  - title: "LAPD Commission OKs Detectives to Use Facial Recognition"
-    excerpt: "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people."
-    publishedDateTime: 2021-01-14T21:50:00Z
-    webUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
-  - title: "New advances in detection of bias in face recognition algorithms"
-    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
-    publishedDateTime: 2021-01-18T13:32:00Z
-    webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/01/MG_5999_2021-01-18_21-25-39-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "KLIA to use facial recognition in place of boarding pass"
-    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
-    publishedDateTime: 2021-01-18T23:50:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
-        width: 620
-        height: 413
-        isCached: true
-
-secured: "hVEEPF6jdxjxrvUzuvSH7YiShFLZpRapnNMZdyR5pxTiWuZmQg7Rsxx5+0iQf26hICPDu01HGO9bE779kk6T26Xmcnk3Vc+jTnWhfg9NAsYM1x5+oWQ6amC9xmOgqz9X+t+s6+WcJsPfAgjlWjua1dZ6mj66PjFu4u/IVI6Apy7BVNmgAFTGhqlpEYVvo3LLQLkj6dZSjHcj0hWKM/8PUns4VzBUJlfmdndZyNoPKPIl0PXkF6kq6veccolUn1qdaUXMN4Ck14Bx6NTBBIWApzsYwPXQO4X0So21AetB4TBFgNLk5B2HNSYFq2VXUinuItq4VgeB9UCfcrQBOKloWUPL2eiWNfDtpwDMbLDPA4Q=;mKOBlPc4nqsiFFHRvXJPPQ=="
+secured: "ioJ/Ny8yairMY0UeQ6+g5+4Z1t0nW48cUZZybcZUH+g7jtbOstdZcs/6zVYZI1UK6m7kQK48Ky6R91G/r4ybb51ESboN3YCtjsYLbCy3l6iC00Ix4D0u7trHLr3wkrvyNVnPig0mleM35h+9URJnvYmIunhRzbAY1PvEFJGds7ypVVvQEybKF+Qg+nLAjcHpaewvJN3ZG4qtLtR2lFnrQFQWLh5niQtyWeaAkX3uxrjdu9LIAAB8ujlxSJkP0eopiTSNTMoiDyebWchOaResdQLRaqnA4anSpI9jGlNYU7wFXYM2P86FEKpXDalCHkedg7MPKqmpaqOG/RndRtC5JfnUgSmHEKyEEs43WNH54MP3b/NQpolRxHcIQN0I0qqvXArXH7JH/otK4qDSmn7JQWy0x7gr2SMuu7Twfymxtxchu7SBOXPtdCR9lyytXmIt01l9lXLVQXUWxYg4NIXz7HjPX5/LbRu2/5P92FCd8WXn+yx8NgQCFdfsd+kFSuNb3DlQooroTG0oivbqEAF0TA==;5r6FujaqHSHAMJfFMHFW2g=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-res
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8fdab4651878de6f35fbf%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "0iE+wEeEyMedlGF1Up2r/x2nuoJwKo9oEFqkgAymXfdkiYfNranrkOeW8pvOLronnKSwuPVT2VQX7g7H+bWCLW1kr5+INAImiUtAN7fV7+CyEgYOwsMUV54ZERnFTE/g5nU28dnMRJsWs3eFpxsj3zaNkwwscecW8hFji5VYKKXMB3Gekw4/9cljdRjMZwogdrpyATuRssf1qyJFSpzOKzKWiUEH84clvgBoipuL0Yrfzjyth3E5hwB0XgXrlCJN/WVdciNFpzk8Lmm9x+tpcbj1+JYnFQpVakxEDZmCjynSGAVvq0K+rRbv8xgjRLKLI2k9iUh7WzTPbFsPtATQ5JJJNkY3HbN88Y6+scIvmfA=;lj1SZX+BpqTqGLP3ujs79Q=="
+secured: "lDoN8wMoFyfsIC8sZXFdG7Z4LUBDVCcHcpfxDPp+lfmUgSu5pg0oWKxLjVbXcP1HZkapn3L0hOXaf+FHlTmcgu/HDRcXl9ekC5Ocb6gk1H5HWrXEgDraLeq7CbG8dyetoTjf+yODcVj/ECc/J3WDcShnu+xKPPaecwNzWMK+PoLYd0Ak/XMIDE3VctWfaQe9XTex0At3BN8vX0LizZta7KFoxZO/a4Zfso+EbDX35jxzvNUlODo6IPYbATQ8/bQg2EY9g0r4OCC2b1yJE+iirqvN+l/4xr8QZtESSSv8UR7xurezJdvrt81Cn9ZHzwhJ9qUNIRFmsZDiwPlSywqFqnn++c/22KRshVCPhO/X4dOYaSf8hztyrJM+aNcr56sNRVzMjTlIFFldFoa1eBS7+i3G9c+Lj8c48tkRZcNe514XjWigLeJET/vplAIT91hzMrWsXWTik1m/jaBsWK9SQfJkEM+5pXl7/4GuFHpXomTNtA8K43ePffrhmfgoc6EDfGVTuQjm0CeSeT7kwnrYbA==;D7aNcumBb6i1Nyid3BYqSA=="
 ---
 

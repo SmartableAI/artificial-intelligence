@@ -43,6 +43,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
+    excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
+    publishedDateTime: 2021-01-19T14:14:00Z
+    webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 95
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
+        width: 1200
+        height: 797
+        isCached: true
   - title: "Facebook claims its AI can anticipate COVID-19 outcomes using X-rays"
     excerpt: "Researchers at Facebook and NYU trained a machine learning model to predict when COVID-19 patients' condition might deteriorate."
     publishedDateTime: 2021-01-15T17:03:00Z
@@ -118,6 +134,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-e1610856351543.jpg"
         width: 900
         height: 499
+        isCached: true
+  - title: "Mission Healthcare of San Diego Adopts Muse Healthcare’s Machine Learning Tool"
+    excerpt: "PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care providers in California, will adopt Muse Healthcare’s machine learning and predictive modeling tool to help deliver a more personalized level of care to their patients."
+    publishedDateTime: 2021-01-19T13:57:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-health-care-industry-hospice-care-9982f9e5f1129000898b32acac2c0e2f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Facebook to use AI in predicting if COVID patients health"
     excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence AI unit in an effort to help healthcare providers predi"

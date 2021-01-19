@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Where AI Is Heading In 2021 For HR Departments"
+    excerpt: "Artificial intelligence is set to become one of the best ways to connect HR with an entire organization and understand each department’s needs."
+    publishedDateTime: 2021-01-19T13:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market"
     excerpt: "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning"
     publishedDateTime: 2021-01-19T11:50:00Z
@@ -93,6 +109,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 64
+  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be"
+    excerpt: "Technavio Business Wire LONDON -- January"
+    publishedDateTime: 2021-01-19T13:51:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-19/global-optical-microscopes-market-to-grow-by-557-96-million-during-2020-2024-integration-of-ai-and-machine-learning-to-be"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Mirroring the Architecture of the Human Brain Is Speeding Up AI Learning"
     excerpt: "The brain’s ability to learn so quickly depends on its ability to use prior knowledge to understand new concepts based on little data."
     publishedDateTime: 2021-01-18T15:00:00Z
@@ -137,15 +167,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Medtronic honing in on AI, machine learning: 10 device company notes"
-    excerpt: "From Medtronic's CEO discussing the future of surgical medtech to a string of companies posting fourth-quarter financial results, here is the latest news:"
-    publishedDateTime: 2021-01-14T21:36:00Z
-    webUrl: "https://www.beckersspine.com/orthopedic-a-spine-device-a-implant-news/item/50917-medtronic-honing-in-on-ai-machine-learning-10-device-company-notes.html"
-    type: article
-    provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 34
 
 secured: "nMZt1kKwwhpg2KajbWVgalPjvXCyUH6G7VAl5jTKSTMUugbWuQ6Gtz1oaWDyzDEelkvjgJXryz2km7giVJIo6iqFAMN8uHPhfnamQjMKwBvfVRszciHY9NEttXk+ezWD2CiQogc8q2q/eMgAbzV6gvudOo8F/+45SHetheePtSHFnjf5dEQKXkAGzLcPU1KIa9h4aPD3B9FpKA/l+5eQi7X1pTCwzwNmeZWm2QqRYeg6p9VdjQ+trg4V4xHFzo+oVm5uv7lGWCgnf5vKUZenEHy3xnCd0uMJCCynB7jAhrTDcqmZsYPadpeAv1JMDcVjSGmi1YX8BlZG7t3X0Zc5quTy4hHetC142O+FWxu2HXK6DkhyeZZ+ESe6ZaWWvLlEUwEV3vroJmmve7HZrzkZyTWGGjF4Y8dP+HZ8FJ6Dr1Q/WdR/EQMLDdMvPefPtZSL6giszZQs5hK4VK+Pcgv3hY8KVfPJva6g0mN63HIrOCJ4IIaYIEd2+fjoRrn3m+RIttru6BfF7fV/WWP5FhkIJg==;Xj6CsP2azrXklc0kKwVRlA=="
 ---

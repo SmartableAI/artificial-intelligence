@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-04-ready-to-enter-a-new-era-of-ai-ready-smartphones.md",
+      "title": "Ready to enter a new era of AI-ready smartphones?",
+      "excerpt": "The Qualcomm Snapdragon 888 chip will let handsets take high-resolution photos faster and perform AI-related tasks more efficiently",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
+      "originalUrl": "https://techwireasia.com/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_1562699506-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
+      "publishedDateTime": "2020-12-03T16:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance.md",
       "title": "Qualcomm’s Snapdragon 888 Builds On Leadership In 5G, AI And Gaming Performance",
       "excerpt": "Qualcomm’s new Snapdragon 888 replaces last year’s Snapdragon 865 as the new flagship chip for the brand. The Snapdragon 888 brings many big improvements across the board to help elevate the mobile experience.",
@@ -1415,50 +1459,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-nvidia-rtx-2080-2070-2060-black-friday-deals-2020-top-early-gpu-sales-monitored-by-the-consumer-post.md",
-      "title": "Nvidia RTX 2080, 2070, 2060 Black Friday Deals (2020): Top Early GPU Sales Monitored by The Consumer Post",
-      "excerpt": "Save on Nvidia RTX graphics card deals at the early Black Friday 2020 sale, including RTX 2080 ti, 2080 super, 2070 super, 2060 super & more",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-rtx-2080-2070-2060-black-friday-deals-2020-top-early-gpu-sales-monitored-by-the-consumer-post-1029826464",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-rtx-2080-2070-2060-black-friday-deals-2020-top-early-gpu-sales-monitored-by-the-consumer-post-1029826464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Nvidia-RTX-2080-2070-2060-Black-Friday-Deals-2020-Top-Early-GPU-Sales-Monitored-by-The-Consumer-Post-1029826464",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nvidia-RTX-2080-2070-2060-Black-Friday-Deals-2020-Top-Early-GPU-Sales-Monitored-by-The-Consumer-Post-1029826464",
-      "publishedDateTime": "2020-11-19T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

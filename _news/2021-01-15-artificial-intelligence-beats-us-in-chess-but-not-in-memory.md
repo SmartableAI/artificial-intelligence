@@ -41,6 +41,20 @@ related:
         width: 985
         height: 704
         isCached: true
+  - title: "Artificial Intelligence Can Beat Many Of Us In Chess, Yet Strangely Not In Memory"
+    excerpt: "Computers are well-known for being able to recover information quickly - a Google search will often give you the result you wanted as you type, even if you make spelling errors - but are not known for creativity."
+    publishedDateTime: 2021-01-19T14:43:00Z
+    webUrl: "https://www.science20.com/news_staff/artificial_intelligence_can_beat_many_of_us_in_chess_yet_strangely_not_in_memory-252750"
+    type: article
+    provider:
+      name: Science 2.0
+      domain: science20.com
+    quality: 34
+    images:
+      - url: "https://www.science20.com/files/images/ai_vs_brain_chess_and_memory.jpg"
+        width: 720
+        height: 514
+        isCached: true
 
 secured: "Yc6Nh2djHeJiDuUa/NEbLB16e5fG8gTxFrvRyYVcF003W1L8ZI5//C9l400hd2TGL+XSl8NvJVPCBI6vKZtQUQN3567nMYCTfffsTLhhXF2y1QvT2eTLC/mximUZUx+D5k+8Sji4r7aZ6WtwvYglQFanXgyJGJENr7QaSBeTijpgtpsXJu/BZAW9w/6BImgRwnNn7yKp+aMCFvm+Zkq2Uf58fWH4KBalL3b857hh5wLHbHSH3rZOJTBpR3TXnkRbPrbtNz1SkE6DOtJSp2TY+YM0mbsi2NAhnhzHVQiEusH5MsoNGePgaRh+r6sCLW9itqzq0e/v4Fn2+2Kd9XgeeIRGUi+s3IO9xai65js15/ibZPyEIEG89IEyXPHzUv0hIicXHBXOze6wWIXqXdB9QPqccgFDTgsLrURqq00hzhHDeF2VCVe68h9COqPQuJtZuXOWxL8LswJZBK/KRuF4qD1TYD0d25BXNrdRFrkWQ8DDNKxzDkcqmwzNoObMc92ZKYRSv2gOgk7kf/EA6oRfXA==;166o9E5gjx5xSllFKPXmtQ=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Apple Car may use 'C1' chip based on the A12 Bionic processor"
-excerpt: "San Francisco: The long-rumoured Apple Car is expected to use a \"C1\" chip based on the A12 Bionic processor with in-cabin AI capabilities such as eye-tracking. According to US-based magazine 'EETimes',"
-publishedDateTime: 2021-01-19T11:43:00Z
-originalUrl: "https://english.mathrubhumi.com/technology/tech-news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-1.5370569"
-webUrl: "https://english.mathrubhumi.com/technology/tech-news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-1.5370569"
-ampWebUrl: "https://english.mathrubhumi.com/technology/tech-news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-1.5370569"
-cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/technology/tech-news/apple-car-may-use-c1-chip-based-on-the-a12-bionic-processor-1.5370569"
+excerpt: "The long-rumoured Apple Car is expected to use a \"C1\" chip based on the A12 Bionic processor with in-cabin AI capabilities such as eye-tracking. According to US-based magazine 'EETimes', Apple will require a chip foundry with capacity for automotive processes,"
+publishedDateTime: 2021-01-19T12:22:00Z
+originalUrl: "https://www.dailypioneer.com/2021/technology/apple-car-may-use--c1--chip-based-on-the-a12-bionic-processor.html"
+webUrl: "https://www.dailypioneer.com/2021/technology/apple-car-may-use--c1--chip-based-on-the-a12-bionic-processor.html"
 type: article
-quality: 59
-heat: 69
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: Mathrubhumi
-  domain: mathrubhumi.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://english.mathrubhumi.com/polopoly_fs/1.5370570.1611056439!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg"
-    width: 1080
-    height: 608
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/apple-car-may-use--c1--chip-based-on-the-a12-bionic-processor-2021-01-19.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "DGXOfdskCr7I9GnUns2fG2epDvV2gVOfmPQK+uyRiIcnZNPZAO2Biqfb3ynoqFjrhxeBVqHorgMJU/AoXCMbMcYsN6cwbEKIbrCKQODQl3EbsCIbGicJjRm17OAGauAK9uENMGkzPyGHmDgSkaHBNgTNTri/aToOLrhkigFcFLLv6JwrZ0jHOBi1dgarGoa84WQaCnXwvsLRHwfKU06+YSZpTUlZui/KmshqZz7d1yJwaBWFUemmtM1AemrJvRODczbFS3gS5lAKiI5Ramii9rMxqjUMrATfxzHwk1B567sQ1perXs//FfCcXFQzjVg2sfMEIVuUuP+jI457k22hU62opIGmZoyGwqL1OXYbLsk=;AcuwgJS+0xerxcsNz1lOZQ=="
+secured: "qdq/DpI4ZkPkoXwbDCZpX2ezKX/ya56RroAp4vg4XX0lsHaQMx5F7ET+LF501hwRoi/FI0+/zbtwBuQQi853emT1uPayuJdaHnFrPeW4vhslSkngoKhj1wJPaUVx1ar7my91lCOP/gI6qZP5WEeH+h0N7imSGpy4mO3KLIR2qjpkmAIZ81ZxWxQwzwxQJqPfp5nxzHmq5AFLYlssWq6ZKcB2fjz34CLHxBuuCAlEj5j7e8iziG/9UJYK5F45qXlvA6ppqSV91GfMSNp4leZJmcELkhvQZUCrhsNnppKPXh3v1HgKWeODnI2MSon8SI5ZEZMkzuZJA4wt02nRjFROWXVYG/d4xo6hR0viFQj6FI0=;jYDtFbd4Anr1krWgEHpl0A=="
 ---
 

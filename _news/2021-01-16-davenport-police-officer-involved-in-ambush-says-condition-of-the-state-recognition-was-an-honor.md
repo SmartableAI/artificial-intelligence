@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6653002002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6653002002"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "New advances in detection of bias in face recognition algorithms"
+    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-18T13:32:00Z
+    webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/01/MG_5999_2021-01-18_21-25-39-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Even With a Mask, The Best Facial Recognition Algorithms Work Well, Test Shows"
+    excerpt: "The best facial recognition algorithms correctly matched individuals wearing masks 96 percent of the time in an evaluation last fall, demonstrating that pe"
+    publishedDateTime: 2021-01-19T14:06:00Z
+    webUrl: "https://www.defensedaily.com/even-mask-best-facial-recognition-algorithms-work-well-test-shows-2/homeland-security/"
+    type: article
+    provider:
+      name: Defense Daily Network
+      domain: defensedaily.com
+    quality: 35
+    images:
+      - url: "https://www.defensedaily.com/wp-content/uploads/2019/05/bigdhs.jpg"
+        width: 2000
+        height: 1994
+        isCached: true
 
 secured: "WZKv49ZNfxUye19bBcDKOkD9pJ4NoeuJ2Lvx5JewLXmxhf/ZZk8BhIq41GVIVhGwI5v/c1+RZe4kzEg3bFWqe2NxbLcN+uAw23RGOYaV3QidAgb8NiC20h/iVK60vjIjxn3g+5c3iHZ92XpdSLfQ9ZUnmcgeLL+0HWTSOHmccnynx830Ld5crHdfB35iCF1EoMVwbCMHyYfr2Ddr4g6cUByFIHzIwdmsLxa4WZ7aQVh+XolHsr0R1ylYQ6HRhl36khRtiHr+AefhgNy43/FfLpbatsWIw+UcTq2yR5JqwX/b77StD0+Z9p1e1OXL9IWLfH4X75coBx/49gFTi9A5cwKFUvGU5X//ycr+wztw4hMbwMhUEnQ9iQkwGL5+T/BSYInl2J0NAaCNZNuCb5D4Hl/NBLMfHDzvn2jau78y9ptu13XJYMeGGHCM1LDz1R5ZOTQhik9pbRccNT4/YQvJJ0rIHDwWFM5v5mHeV1wcTAAB8VyJ7EG4wCOSulTNAyO5Ga9dZii4tmlVuSePd/NLAg==;1Uq9vCOTwUTpPlb9XSTNYw=="
 ---

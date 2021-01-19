@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-05-learn-about-nvidia-in-cambridge-and-its-plans-for-a-global-ai-research-centre.md",
+      "title": "Learn about NVIDIA in Cambridge and its plans for a global AI research centre",
+      "excerpt": "NVIDIA recently announced its acquisition of Arm and its intention to develop a new global centre of excellence in AI research in Cambridge. Join Cambridge Network for a special online event on Thursday 28 January,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
+      "originalUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridgenetwork.co.uk/sites/default/files/styles/large/public/Blog%20Advert%20%28News%29.png?itok=XJens5pZ",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge Network",
+        "domain": "cambridgenetwork.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-qualcomms-snapdragon-480-chip-promises-5g-for-all.md",
       "title": "Qualcomm's Snapdragon 480 chip promises 5G for all",
       "excerpt": "The 8nm Qualcomm Snapdragon 480 5G is the latest chip in the entry-level 4-series and the first to feature a Snapdragon X51 5G Modem-RF System, which can support mmWave and Sub-6GHz 5G. This is in addition to 2x2 dual Wi-Fi antennas to support key Wi-Fi 6 features,",
@@ -1387,50 +1430,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-new-ai-chips-managed-services-among-flood-from-aws-at-reinvent-2020.md",
-      "title": "New AI Chips, Managed Services Among Flood from AWS at re:Invent 2020",
-      "excerpt": "AI Trends’ Staff  Amazon Web Services CEO Andy Jassy delivered a three-hour keynote at a virtual event on Dec. 1, the AWS re:Invent 2020 event. Jassy, who has been with Amazon for over 23 years, and who is now seen as the most likely successor to Amazon founder Jeff Bezos,",
-      "sourceUrl": null,
-      "webUrl": "https://internetofbusiness.com/new-ai-chips-managed-services-among-flood-from-aws-reinvent-2020/",
-      "originalUrl": "https://internetofbusiness.com/new-ai-chips-managed-services-among-flood-from-aws-reinvent-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://internetofbusiness.com/wp-content/uploads/2020/12/12-11AmazonAWSlogo-2.jpg",
-          "width": 550,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Internet of Business",
-        "domain": "internetofbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

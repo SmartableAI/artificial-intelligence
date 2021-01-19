@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Image Recognition Market - Global Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "The Global Image Recognition Market Size Is Expected To Grow from an Estimated Value of USD 26.2 Billion in 2020 to USD 53.0 Billion by 2025, at a CAGR of 15.1% The image recognition industry is driven by various factors,"
+    publishedDateTime: 2021-01-19T13:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-6e4e0177dd3b452f9e307d2135d69062"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Speech and Voice Recognition Market Latest Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast"
     excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"

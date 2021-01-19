@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
+    publishedDateTime: 2021-01-19T13:03:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "AnClsxCkIRD2iKzAJxTkpybxLS4TuX7+fUrOtAUDI1CF7M+/MbwsmEOMMfiISwc6r1MAf29g5Z3M8yy2/eEWkBR+HMNeQGhV5ooox2RBIeliQj5OJFk4Bhyu6X+QqxMtVbjwzo2PEoZNLSGS+el7OJM1F8nUgTrAabbGx2A1/3cYFLU7Tw+TIeHC0RjKn2v+NwGpPERZ3hdytpLAXYZSyhDU+xNT0svMF7ehZzlaRJfZ1RvJhivBoNMDQPWO6rtOxcqehbZIqN73ec5WbkM2ErNJ1qEGEzIPBf988JcGOUeRQGEGM10Nr4GSGMK48GSfDTQOcSa/micAuUemzBC0+IVqLUlk/xmcuop0+4w9jrkKTdHPUU/BMUls9JEzSJx1+pQ38g5jBcSj/tCVJAKQ1uiQgQziANo1hTg/WJHalhZ38oOCyQdgcE842bKMhgosGAN6dBoAuHBmg7HjobaUJD9604XsWtnhHvNOZ+delzc4npmxI2YfSqm5z2ow8/wShCGjPK4HtWpMHW8oEfib2g==;twHcTNIiDstf7iSI/AY9sQ=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Altair and Rolls-Royce Germany Join Forces to Converge Artificial Intelligence and Engineering"
 excerpt: "PRNewswire/ -- Altair, (Nasdaq: ALTR) a global technology company providing solutions in data analytics, simulation, and high-performance computing"
-publishedDateTime: 2021-01-19T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-301209369.html"
-webUrl: "https://www.prnewswire.com/news-releases/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-301209369.html"
+publishedDateTime: 2021-01-19T12:12:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-880790413.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-880790413.html"
 type: article
 quality: 42
 heat: 42
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI Ethics
@@ -24,6 +24,6 @@ images:
     height: 1150
     isCached: true
 
-secured: "mpITcUlR+VPbvK1kdB8XKMR121upgLBwoWDfTyJE0lPp4dZ2WvxOIDaEGd0O91goavzZFvJvZ59akpB7xHLtcF4m+vwao8tSuULgZ502OtQ7LBEIfWtEN60FQte9KfLWRwmuD2oLogeC8BPY/QASp4hry3f5X1r0/2g2L8G7f3slew0Djl5BQSDx+XyYvTqwwoObtAErX/P2h+6vZOjiCs8C7Kok6wO7ZYUZviTQF2OWacwt0qc3tOGPf5aiuo5vQoXgZs3c6wCkzfdnS99hMldG1U+yvZ2AC/Bn4DjtOiJq62QsMMw2qUTckOBh7uIIEoporVCd0+wVitFoFFIumJ5frnWvUSSEWCASxqsOa5s=;/KYrgo0ps2FaG5tVuTJyxA=="
+secured: "wFMgtil1f1WS7nyGfuqHGDgdJyzzBYFYXEyECaSE6+SHl+Tq4YN23WFjNpADsU2cLcu+4ccr+oxpuwwGXVc2A5X+8ammPnIv4zBX4xC+PT5wOygJc3edP/W+TvKILweAfZzoUbufHSFgrEOs5kQrBcg71aW39u1DfKjDET1FxtBvsxjhQ7nENOfAz23jh0SAxthXLTH7cR6SwqmkaivYysCTQ4VJYT+GSGo8maJnX0Y1WTGtdmyXdGhFsJI0Nu7IzdG/m+tyKVsuyWx+iGf3SOreB/ejWpID9JQ5rwVi69/a3tARQs0FJJMDrwnj9Pu8OPYAUb74eAZcdj/JS/Xny1g/Vqr5kAiUMMDYip56etM=;rFfL8y1uiDHwdJ6Ze/ignQ=="
 ---
 

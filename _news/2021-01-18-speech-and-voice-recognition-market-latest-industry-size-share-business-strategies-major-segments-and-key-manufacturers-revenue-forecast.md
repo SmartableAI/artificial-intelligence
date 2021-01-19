@@ -158,6 +158,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market - Global Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "The Global Image Recognition Market Size Is Expected To Grow from an Estimated Value of USD 26.2 Billion in 2020 to USD 53.0 Billion by 2025, at a CAGR of 15.1% The image recognition industry is driven by various factors,"
+    publishedDateTime: 2021-01-19T13:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-6e4e0177dd3b452f9e307d2135d69062"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ita0F0PTQsjWEdYeqCefM7aKOIwoRiXsTwReomMtIgfn+N6csNIAG7Ase0HHmt1sipBRmjMDEbh+F4lSAxSKFcyjiF6ZYDUB2shiK3BbVcr2Vnx38F0JLGA3CfxFOWbnJ5IvDL+KQZtohwbGLkTudupb9pi1QcPR8YpeMWVD/TWf2wEJFrRBOBerzQL8hRkQWyh3cyvfMRvVyOBYzBEwKCxhOW4EmxYdC5Wgp9nbzrltohLajXf91kWGbHrOb1Go+FsPrRZ4OqxJ+C6zepX+JsVg5K4Cz5NbOeOvi1Ji/WWEnIeiS8XDmo6bIRmIFQ+n7UJm0k5q+tZ6A++76mPuQXBw+649/gZlMy33AfgTPp4=;3chQPtHiKjvcephQqQjBMA=="
 ---

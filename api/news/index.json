@@ -2,6 +2,263 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-19-eth-spin-off-latticeflow-raises-28m-to-help-build-trustworthy-ai-systems.md",
+      "title": "ETH spin-off LatticeFlow raises $2.8M to help build trustworthy AI systems",
+      "excerpt": "LatticeFlow, an AI startup that was spun out of ETH Zurich in 2020, today announced that it has raised a $2.8 million seed funding round led by Swiss deep-tech fund btov and Global Founders Capital, which previously backed the likes of Revolut,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/",
+      "originalUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1196045105.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/amp/",
+      "publishedDateTime": "2021-01-19T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-google-launches-suite-of-ai-powered-solutions-for-retailers.md",
+      "title": "Google launches suite of AI-powered solutions for retailers",
+      "excerpt": "Google's new Product Discovery Solutions for Retail aims to address ecommerce challenges during the pandemic with AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
+      "originalUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/",
+      "publishedDateTime": "2021-01-19T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain.md",
+      "title": "AI Plus IoT Are Among The Most Important Ingredients In Pandemic Vaccine Cold-Chain",
+      "excerpt": "Startup Youtiligent has developed an AIoT-based technology to help companies keep vaccines cold across complex distribution supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/01/19/ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/01/19/ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60008351fdb13aa729a4f062%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/01/19/ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/19/ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain/amp/",
+      "publishedDateTime": "2021-01-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-trovataio-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai.md",
+      "title": "Trovata.io raises $20 million to aggregate enterprise bank accounts with AI",
+      "excerpt": "Trovata.io, a startup that aggregates enterprise bank accounts using AI, raised $20 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/control.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/",
+      "publishedDateTime": "2021-01-19T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others.md",
+      "title": "Intel Unit MobilEye’s Strategy To Win Self-Driving Is Very Different From Tesla, Waymo And Others",
+      "excerpt": "You may not see MobilEye named as a major contender in self-driving a lot, but their radical strategy takes interesting bets and makes them a top company to watch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006667bd1af2435b265762f%2F0x0.jpg",
+          "width": 1199,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
+      "publishedDateTime": "2021-01-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-will-ai-save-the-movie-consumer.md",
       "title": "Will AI Save The Movie Consumer?",
       "excerpt": "Any organization planning to use AI in their processes should collect a diverse and trusted set of data upon which to perform thorough back-testing to reach the necessary precision for their intended application.",
@@ -61,7 +318,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -100,7 +357,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -112,7 +370,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/infosys-launches-applied-ai-cloud-cobalt-offering-1029980480",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -246,6 +504,48 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-youtuber-challenges-scientist-to-create-an-ai-version-of-him-for-100.md",
+      "title": "YouTuber challenges scientist to create an AI version of him for $100",
+      "excerpt": "That's the question YouTuber Tom Scott set out to find the answer to in his latest video, for which he challenged AI in neuroscience researcher Jordan Harrod to create a fake version of him for $100.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/tom-scott-ai-version/",
+      "originalUrl": "https://mashable.com/video/tom-scott-ai-version/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F01%252F19%252F7c%252Fa83dec8cc13c4aee9a190a98c71b0445.2df2f.jpg%252F1200x630.jpg?signature=WHlUQxZOgk3BSKB27uIxxqkHDck=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/tom-scott-ai-version.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tom-scott-ai-version.amp",
+      "publishedDateTime": "2021-01-19T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -396,7 +696,7 @@
       "originalUrl": "https://www.sourcesecurity.com/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html?ref=nav",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -586,7 +886,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -782,7 +1082,7 @@
       "originalUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -819,48 +1119,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-18-ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system.md",
-      "title": "CES 2021 Rethinking Virtual Learning with Taiwanese Startup FlyingCrazyer's AI Evaluation System",
-      "excerpt": "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall effectiveness issues result in low rates of interactive practice and provided feedback,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764",
-      "publishedDateTime": "2021-01-18T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-18-facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how.md",
       "title": "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How",
       "excerpt": "Facebook's artificial intelligence researchers developed models that use x-rays to anticipate the progression of the disease in a patient and help hospitals prepare.",
@@ -869,7 +1127,7 @@
       "originalUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -953,246 +1211,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-nhs-adopts-ai-imaging-algorithm-to-improve-covid-19-treatment.md",
-      "title": "NHS adopts AI imaging algorithm to improve COVID-19 treatment",
-      "excerpt": "Hospitals around the country will soon be able to use artificial intelligence (AI) to help diagnose COVID-19 patients and reduce the time needed to create treatment plans.  The 'COVID-19 Chest Imaging Database' (NCCID) has been pulled together by NHSX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1610965572/itpro/MicroscopingVirus_shutterstock.jpg",
-          "width": 1000,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp",
-      "publishedDateTime": "2021-01-18T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-educational-robot-market-growth-size-opportunity-share-and-forecast-2019-2025.md",
-      "title": "Educational Robot Market Growth, Size, Opportunity, Share and Forecast 2019-2025",
-      "excerpt": "The educational robot market is expected to grow at a CAGR of 16 4 from 2019 to 2025 The role of educational robots is not to replace teachers but to make the entire learning process much easier and more convenient",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share",
-      "originalUrl": "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U118883099_g.jpg",
-          "width": 770,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share",
-      "publishedDateTime": "2021-01-18T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-the-great-compromise-in-ais-buy-vs-build-dilemma.md",
-      "title": "The Great Compromise In AI’s Buy Vs Build Dilemma",
-      "excerpt": "Businesses is AI capabilities face a critical decision deciding whether to buy or build. An alternative exists which is able to take advantage of the benefits of both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/",
-      "originalUrl": "https://www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001c0040a8baa196cbb51b7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D253%26cropY2%3D3064",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/amp/",
-      "publishedDateTime": "2021-01-18T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined.md",
-      "title": "Machine Learning Finds More Gravitational Lenses Than All Astronomers Combined",
-      "excerpt": "The lensing effect stretches, distorts, and magnifies the background galaxy, as well as creating multiple images of it. One of Einstein’s most revolutionary predictions is that mass bends light. Starlight bent around the eclipsed Sun in 1919 confirmed this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/",
-      "originalUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe8fe3d591966afc92f2ce0%2F0x0.jpg",
-          "width": 1200,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/amp/",
-      "publishedDateTime": "2021-01-17T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection.md",
-      "title": "Fitch invests in AI start-up to improve bank misconduct detection",
-      "excerpt": "Fitch Ratings has struck a partnership with a French artificial intelligence start-up as it seeks to improve its early detection of misconduct after a spate of high-profile banking scandals around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
-      "originalUrl": "https://www.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcfa249f5-9238-4f03-9088-af8349dcc534.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
-      "publishedDateTime": "2021-01-17T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

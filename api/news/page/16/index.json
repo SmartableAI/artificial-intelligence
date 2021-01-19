@@ -2,6 +2,311 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-05-qualcomms-snapdragon-480-chip-promises-5g-for-all.md",
+      "title": "Qualcomm's Snapdragon 480 chip promises 5G for all",
+      "excerpt": "The 8nm Qualcomm Snapdragon 480 5G is the latest chip in the entry-level 4-series and the first to feature a Snapdragon X51 5G Modem-RF System, which can support mmWave and Sub-6GHz 5G. This is in addition to 2x2 dual Wi-Fi antennas to support key Wi-Fi 6 features,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all",
+      "originalUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1609842346/itpro/2021/01/shutterstock_smartphone%20users.jpg",
+          "width": 636,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all?amp",
+      "publishedDateTime": "2021-01-05T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-renalytixai-to-present-at-the-39th-annual-jp-morgan-healthcare-conference.md",
+      "title": "RenalytixAI to Present at the 39th Annual J.P. Morgan Healthcare Conference",
+      "excerpt": "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-360c63e89aa483632213378c60e96b2d",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-360c63e89aa483632213378c60e96b2d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-natural-language-processing-nlp-market-2020-2025-development-news-and-significant-growth-with-regional-trends-by-forecast.md",
+      "title": "Natural Language Processing (NLP) Market 2020 – 2025 | Development, News and significant Growth With Regional Trends By Forecast",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. The key players included in this market are [[24]7.ai, Inc., 3M, Abe AI Inc., Amazon Web Services, Inc., Apple Inc., Aylien Ltd., Cortical.io, DigitalGenius, Dolbey, Expert ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-2025-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-01-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-2025-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-01-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-why-diversity-is-key-to-a-successful-ai-strategy.md",
+      "title": "Why diversity is key to a successful AI strategy",
+      "excerpt": "However, AI bias isn’t an issue limited to big-name companies and high-profile scandals. A recent report from Capgemini that surveyed 800 organisations and 2,900 consumers has revealed 90% of organisations are aware of at least one instance where an AI system had resulted in ethical issues for their business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1609837385/itpro/2021/01/shuttterstock_diversity.jpg",
+          "width": 1312,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy?amp",
+      "publishedDateTime": "2021-01-05T01:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-how-artificial-intelligence-ai-chipsets-market-booming-worldwide-fortune-business-insights.md",
+      "title": "How Artificial Intelligence (AI) Chipsets Market Booming Worldwide? Fortune Business Insights",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/how-artificial-intelligence-ai-chipsets-market-booming-worldwide-fortune-business-insights-2021-01-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/how-artificial-intelligence-ai-chipsets-market-booming-worldwide-fortune-business-insights-2021-01-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T01:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-mlops-the-missing-piece-in-the-enterprise-ai-puzzle.md",
+      "title": "MLOps - The Missing Piece In The Enterprise AI Puzzle",
+      "excerpt": "MLOps brings the best of iterative development involved in training machine learning models and scalable and manageable model deployment. It is currently the missing piece of the puzzle in the enterprise AI strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff412ef2693833243b358ad%2F0x0.jpg",
+          "width": 1051,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/amp/",
+      "publishedDateTime": "2021-01-04T23:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price.md",
       "title": "How Machine Learning, Artificial Intelligence Anticipate Cryptocurrency Price?",
       "excerpt": "The popularity of cryptocurrencies skyrocketed in 2017 due to a few continuous months of an exponential development of their showcase capitalization. The",
@@ -880,293 +1185,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-ai-weekly-the-argument-in-favor-of-regulation-in-2021.md",
-      "title": "AI Weekly: The argument in favor of regulation in 2021",
-      "excerpt": "Join us for the world’s leading event about accelerating enterprise transformation with AI and Data, for enterprise technology decision-makers, presented by the #1 publisher in AI and Data With 2020 in the rearview mirror and New Year’s resolutions on the mind,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/ai-weekly-the-argument-in-favor-of-regulation-in-2021/amp/",
-      "publishedDateTime": "2021-01-04T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-amp-robotics-raises-55m-for-its-ai-based-recycling-robot.md",
-      "title": "AMP Robotics raises $55M for its AI-based recycling robot",
-      "excerpt": "Today, recycling robotics company AMP Robotics announced it’s raised $55 million in a funding round led by XN. Valor Equity Partners, GV, and existing investors Sequoia Capital, Sidewalk Infrastructure Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358222/amp-robotics-raises-55m-for-its-ai-based-recycling?amp",
-      "publishedDateTime": "2021-01-04T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes.md",
-      "title": "Deep Science: Using machine learning to study anatomy, weather and earthquakes",
-      "excerpt": "Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discoveries and papers — particularly in but",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/",
-      "originalUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/04/deep-science-using-machine-learning-to-study-anatomy-weather-and-earthquakes/amp/",
-      "publishedDateTime": "2021-01-04T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-graphcore-series-e-funding-710m-total-440m-cash-in-hand.md",
-      "title": "Graphcore Series E Funding: $710m Total, $440m Cash-in-Hand",
-      "excerpt": "One of the most well-funded ventures in this space is Graphcore, and the company just announced its latest Series E funding round of $222 million, taking it to $710m total across the five rounds. Graphcore,",
-      "sourceUrl": null,
-      "webUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
-      "originalUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/16346/July%20Launch%20Blog%20Header%20Image_smallv2_678x452.jpg",
-          "width": 678,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure.md",
-      "title": "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure",
-      "excerpt": "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
-      "title": "Healthcare Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
-      "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "IBM AI"
       ]
     }
   ],

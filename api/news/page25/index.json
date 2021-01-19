@@ -2,6 +2,311 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-12-24-ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth.md",
+      "title": "AI in Education Market Opportunities And Strategies To 2025: COVID-19 Implications and Growth",
+      "excerpt": "Dec (Heraldkeepers) -- Artificial intelligence (AI) may be a computer virus to imitate the human intelligence and enhancement of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-education-market-opportunities-and-strategies-to-2025-covid-19-implications-and-growth-2020-12-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry.md",
+      "title": "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry",
+      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://knowridge.com/2020/12/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry/",
+      "originalUrl": "https://knowridge.com/2020/12/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/12/It-takes-a-lot-of-energy-for-machines-to-learn-–-here’s-why-AI-is-so-power-hungry.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Knowridge",
+        "domain": "knowridge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents.md",
+      "title": "Google told its scientists to 'strike a positive tone' in AI research - documents",
+      "excerpt": "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,",
+      "sourceUrl": null,
+      "webUrl": "https://de.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB",
+      "originalUrl": "https://de.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545593006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0QT",
+          "width": 1056,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28X1CB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X1CB",
+      "publishedDateTime": "2020-12-24T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast.md",
+      "title": "Artificial Intelligence Market 2021 | Trade Analysis, Trends, Drivers, Challenges, Growth Forecast",
+      "excerpt": "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast-2020-12-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast-2020-12-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T00:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit.md",
+      "title": "Nuro R2 self-driving delivery cars receive California deployment permit",
+      "excerpt": "The media frenzy around self-driving vehicles has mostly been drowned out by this year’s more pressing concerns. That said, the need for contactless ways to transport goods has actually become even more important exactly because of those concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/",
+      "originalUrl": "https://www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/nuro-r2.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nuro-r2-self-driving-delivery-cars-receive-california-deployment-permit-24652405/amp/",
+      "publishedDateTime": "2020-12-23T22:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-reuters-reports.md",
+      "title": "Google told its scientists to 'strike a positive tone' in AI research, Reuters reports",
+      "excerpt": "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from company reviewers, a source said. The published version ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105384585-1533750651888rts1wjr5.jpg?v=1533750713",
+          "width": 3516,
+          "height": 2344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "publishedDateTime": "2020-12-23T21:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-galvanize-now-supports-complianceai-with-strategic-partnership-for-modernized-grc-solutions.md",
       "title": "Galvanize Now Supports Compliance.ai with Strategic Partnership for Modernized GRC Solutions",
       "excerpt": "Galvanize, the global leader in SaaS governance, risk, and compliance (GRC) software, today announced a strategic partnership with Compliance.ai, the leading AI-driven regulatory compliance technology,",
@@ -897,285 +1202,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-3-ai-stocks-to-snap-up-for-explosive-returns-in-2021.md",
-      "title": "3 AI Stocks to Snap Up for Explosive Returns in 2021",
-      "excerpt": "In 2019, the company acquired software and hardware startup, FWDNXT in a bid to deliver high ... on democratization of AI by development of conversational AI, ML, data sciences, robotics, and IoT. Moreover, Microsoft’s Azure contains AI-driven tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23",
-      "originalUrl": "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-to-snap-up-for-explosive-returns-in-2021-2020-12-23?amp",
-      "publishedDateTime": "2020-12-23T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-nuro-acquires-self-driving-truck-startup-ike.md",
-      "title": "Nuro acquires self-driving truck startup Ike",
-      "excerpt": "Ike, a self-driving truck company, has been acquired for autonomous delivery vehicle startup Nuro for an undusclosed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/",
-      "originalUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/1_9IoN3j6ndt5nxBKUJZWqbA-e1575988061611.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/amp/",
-      "publishedDateTime": "2020-12-23T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-new-york-issues-2-year-moratorium-on-facial-recognition-in-schools.md",
-      "title": "New York issues 2-year moratorium on facial recognition in schools",
-      "excerpt": "New York Gov. Andrew Cuomo (D) signed a bill into law on Tuesday that places a two-year moratorium on facial recognition and other biometric surveillance in schools. The legislation will place a moratorium on public and private schools purchasing or using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/",
-      "originalUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/12/Facial-Recognition-Schools-New-York.jpg",
-          "width": 3838,
-          "height": 1919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-moratorium/?amp",
-      "publishedDateTime": "2020-12-23T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-tesla-to-offer-full-self-driving-as-a-subscription.md",
-      "title": "Tesla To Offer Full Self-Driving As A Subscription",
-      "excerpt": "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/",
-      "originalUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/",
-      "publishedDateTime": "2020-12-23T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-how-to-drive-brand-awareness-and-marketing-with-natural-language-processing.md",
-      "title": "How to drive brand awareness and marketing with natural language processing",
-      "excerpt": "To grow brand awareness, a successful marketing campaign must be data-driven, using market research into customer sentiment, the buyer’s journey, social segments, social prospecting, competitive analysis and content strategy. For sophisticated results, this research needs to dig into unstructured data",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/2020_10_16blog_imagery_NLP_1980x996_v3-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T08:06:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-new-york-temporarily-bans-facial-recognition-in-schools.md",
-      "title": "New York temporarily bans facial recognition in schools",
-      "excerpt": "New York suspended the use of facial recognition in schools, as Governor Andrew Cuomo on Tuesday signed a bill that bans biometric tech in public and private schools until July 2022. It directs the state to study whether its use is appropriate in schools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
-      "originalUrl": "https://www.cnet.com/news/new-york-temporarily-bans-facial-recognition-in-schools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-temporarily-bans-facial-recognition-in-schools/",
-      "publishedDateTime": "2020-12-23T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

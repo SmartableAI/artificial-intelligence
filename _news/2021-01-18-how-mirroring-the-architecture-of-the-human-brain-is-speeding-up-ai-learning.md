@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Where AI Is Heading In 2021 For HR Departments"
+    excerpt: "Artificial intelligence is set to become one of the best ways to connect HR with an entire organization and understand each department’s needs."
+    publishedDateTime: 2021-01-19T13:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market"
     excerpt: "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning"
     publishedDateTime: 2021-01-19T11:50:00Z
@@ -109,6 +125,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 64
+  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be"
+    excerpt: "Technavio Business Wire LONDON -- January"
+    publishedDateTime: 2021-01-19T13:51:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-19/global-optical-microscopes-market-to-grow-by-557-96-million-during-2020-2024-integration-of-ai-and-machine-learning-to-be"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cylance brings AI and machine learning to anti-virus protection"
     excerpt: "Read Boing Boing’s review of Cylance’s new anti-virus protection powered by artificial intelligence and machine learning: Malware is everywhere. 350,000 new pieces of malware are discovered every day,"
     publishedDateTime: 2021-01-15T17:58:00Z
@@ -137,15 +167,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Medtronic honing in on AI, machine learning: 10 device company notes"
-    excerpt: "From Medtronic's CEO discussing the future of surgical medtech to a string of companies posting fourth-quarter financial results, here is the latest news:"
-    publishedDateTime: 2021-01-14T21:36:00Z
-    webUrl: "https://www.beckersspine.com/orthopedic-a-spine-device-a-implant-news/item/50917-medtronic-honing-in-on-ai-machine-learning-10-device-company-notes.html"
-    type: article
-    provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 34
 
 secured: "r7V0txNcnNw7X9zEye/oYHtLN7HlFtRFZXctc1R2AE+iMOSzpavCvl3ppsVGABni279wf0/b+Rm1IIchFvVTdJp765A0PWvXC4tAhB5P9k49ZLPE9smoUQtBfUVDQfH8rT/VFYalxeKgA5idOZxwb4acNDxi5t9mVkvXhClzc1zmz1iWSKEK94luyemrHXLBPPHxZCFwTojdABtkHGJVEMhBSIR3616FI8FGmInKRR5yJh2jr4WWD5cU3z5dNHErbInYiY5Q4JErBhMhT2RkuS3ABVzLJfpxBY0QijMuie2srU99btGx/WPJCyGvEbdzQ8O8ubuk2XoFA/NVcUVpoW5ofMECl7IV0JYhzD3oEIWqDpitRfH+o9+xMue3BjE6v0MBeWWxwLgjcLj5aZn+wziBbBK+DFB3DLYX5hUKT89MdFSQhrNyooUzUZl8I1SjJOyhZqeRLaVstXj748XX7Ec2llUOsupqGzPR73FfxAlA3WrpscyCiNR6uFguzgGPwNDlm2kh0WOopsTEYsm2dg==;TE5+Oko43DzBhA3fw0FRIQ=="
 ---

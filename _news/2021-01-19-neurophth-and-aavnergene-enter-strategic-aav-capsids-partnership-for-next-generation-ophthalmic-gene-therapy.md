@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Neurophth and AAVnerGene Enter Strategic AAV Capsids Partnership for Next-Generation Ophthalmic Gene Therapy"
-excerpt: "Neurophth Therapeutics, Inc., a subsidiary of Wuhan Neurophth Biotechnology Ltd. gene therapy company (hereafter Neurophth), and AAVnerGene Inc., a specializing AAV technology company, today announced a strategic partnership to provide Neurophth"
-publishedDateTime: 2021-01-19T06:38:00Z
-originalUrl: "https://www.lelezard.com/en/news-19604995.html"
-webUrl: "https://www.lelezard.com/en/news-19604995.html"
+excerpt: "Neurophth Therapeutics, Inc., a subsidiary of Wuhan Neurophth Biotechnology Ltd. gene therapy company (hereafter Neurophth), and AAVnerGene"
+publishedDateTime: 2021-01-19T06:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-for-next-generation-ophthalmic-gene-therapy-301210596.html"
+webUrl: "https://www.prnewswire.com/news-releases/neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-for-next-generation-ophthalmic-gene-therapy-301210596.html"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "Cfs5qtP3tDc36ypDbNtDTcoA+KIk7EsnAKQ1NSKjemw+MAk0VfmUSfZ1k9eb3lNr+eDy84Xp59g4/botS7xbPmAfjHMWRBIgQ7EH0ZBxVG23+Cz/ytA5mDf6mv7nKBAHUrg7tXsEBqH+xbJHphxkvD7OL6T6KEg/PJUPBVXi+qwj6HWu5rmkkSluocR1v2R3WhoCC5qJ4TXS0HP+B/gJBhxW4Ffasg8loW/WpSexDBJGIxDop7O3I7Brcg52ZY2jmM1qsX49PmMr+/s9VRTVdKit9AYHD5GivKVCtN4h5EnC4mz9uvGnp4wer1GMZ4ICJhUZBMYrA0DV0a1k7qjBB0H2BAubqJuj2b0d19f9yt0=;8gifUG22Oac64K+dggOTyA=="
+secured: "xqrfKpJ2ls6UaeQqN3clDY6n0+v87iZt2pACoj0f9srzN6AXjSnuqjRGbykYCOo6GBQVcIanqKnJsJpDyab00T28wfnmQbMhIzYvrgOyelWBbOJ++DtUA4Qk0lrx5skQ2JTMHXljtvo8bkW3EABp5pfdJ9Mr15B87SlcZdL80ZRIyGRocziH0gqrrjWuLYzhrHRJ6bHnbqkh0Y2DqqFNJ7pBR5mz2Rpy09dKDnqDstRJBxRL0GNBYTdjSWJ4U8hHsFakbnrI+aTyY2LwBbEo04glitRscVkaZxTKrMJd3RhKr0zCASqExKY03h41pQE7yJh/eclUvML/kRMqikbx/e1YA7AzjCKdO4xsi/+rHik=;BujQnGMbrKFVB5Kw/4HvZg=="
 ---
 

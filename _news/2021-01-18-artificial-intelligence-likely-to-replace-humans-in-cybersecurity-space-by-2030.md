@@ -37,6 +37,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Driverless Cars Demand Air-Tight Cybersecurity"
+    excerpt: "As autonomous vehicles develop, next-gen cybersecurity defenses are needed. Here’s how Kaspersky and AVL SFR are leading the way."
+    publishedDateTime: 2021-01-15T09:52:00Z
+    webUrl: "https://www.csoonline.com/article/3603580/driverless-cars-demand-air-tight-cybersecurity.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/01/istock-1079995912-100873810-large.jpg"
+        width: 1200
+        height: 739
+        isCached: true
   - title: "Name a better duo: Artificial intelligence and cybersecurity"
     excerpt: "Artificial Intelligence (AI) has become increasingly popular over the last few years and has dramatically benefited industries, including healthcare, education, marketing, e-commerce, and cybersecurity."
     publishedDateTime: 2021-01-15T08:30:00Z

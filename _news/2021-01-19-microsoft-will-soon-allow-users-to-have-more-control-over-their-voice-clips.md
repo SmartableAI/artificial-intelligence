@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "GM’s Cruise self-driving startup raises $2 billion led by Microsoft"
+    excerpt: "GM announced that Cruise, its self-driving startup, has raised a new $2 billion financing round led by Microsoft. The software giant is putting some skin in the self-driving game. GM Cruise Unlike other automakers having their automated driving divisions,"
+    publishedDateTime: 2021-01-19T14:39:00Z
+    webUrl: "https://electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/"
+    ampWebUrl: "https://electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 106
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/cruise-bolt-2000.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
     publishedDateTime: 2021-01-18T11:47:00Z
@@ -92,6 +108,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft invests in General Motors' self-driving subsidiary Cruise"
+    excerpt: "Microsoft is touting GM and its autonomous vehicle subsidiary Cruise as adopting Azure as their 'preferred' cloud provider."
+    publishedDateTime: 2021-01-19T06:40:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/19/e4a779b7-17be-4799-9ec0-e3e23e443286/microsoftcruisegm.jpg"
+        width: 1193
+        height: 679
+        isCached: true
   - title: "Microsoft voice data collection will be optional with one catch"
     excerpt: "After becoming a mostly touch-based society thanks to smartphones and tablets, tech giants are trying to turn us back towards using our literal voices to drive our interactions with technology. AI"
     publishedDateTime: 2021-01-19T04:07:00Z
@@ -138,17 +170,54 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft allows users more control over their voice clips"
-    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
-    publishedDateTime: 2021-01-19T10:27:00Z
-    webUrl: "https://www.sify.com/news/microsoft-allows-users-more-control-over-their-voice-clips-news-education-vbtkPDgegicfh.html"
-    ampWebUrl: "https://www.sify.com/news/microsoft-allows-users-more-control-over-their-voice-clips-news-education-vbtkPDgegicfh.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-allows-users-more-control-over-their-voice-clips-news-education-vbtkPDgegicfh.html"
+  - title: "GM, Cruise to partner with Microsoft for self-driving vehicles"
+    excerpt: "General Motors Co. and its autonomous partner Cruise LLC have entered a long-term strategic relationship with Microsoft Corp."
+    publishedDateTime: 2021-01-19T14:14:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2021/01/19/gm-cruise-partner-microsoft-self-driving-tech/4209677001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4209677001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4209677001"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 41
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 61
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDTN/842c4705-0be7-4daa-9053-51e3ad844d37-Cruise_car_in_Hayes_Valley_San_Francisco.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft allows users more control over their voice clips"
+    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
+    publishedDateTime: 2021-01-19T13:24:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-allows-users-more-control-over-their-voice-clips-679108"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-allows-users-more-control-over-their-voice-clips-679108"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-allows-users-more-control-over-their-voice-clips-679108"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 61
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/01/microsoft-1604214907-1611062553.jpg"
+        width: 715
+        height: 401
+        isCached: true
+  - title: "Microsoft collaborates with Yellow Messenger to transform voice virtual assistants"
+    excerpt: "Yellow Messenger has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services and NLP tools."
+    publishedDateTime: 2021-01-19T13:41:00Z
+    webUrl: "https://www.dqindia.com/microsoft-collaborates-with-yellow-messenger-to-transform-voice-virtual-assistants/"
+    ampWebUrl: "https://www.dqindia.com/microsoft-collaborates-with-yellow-messenger-to-transform-voice-virtual-assistants/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-collaborates-with-yellow-messenger-to-transform-voice-virtual-assistants/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 53
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/voice-stuff-e1523893561803_opt.jpg"
+        width: 850
+        height: 460
+        isCached: true
   - title: "Microsoft clarifies its practices for voice data collection"
     excerpt: "... rolling out some important updates to give users more control over how their voice data is used to improve its speech recognition technology. The new setting will allow users to choose if the company can use their voice recordings to enhance the ..."
     publishedDateTime: 2021-01-18T16:36:00Z
@@ -162,6 +231,20 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/01/microsoft-settings-control-over-voice-data.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Cruise and GM team up with Microsoft to commercialize self-driving vehicles"
+    excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their software and hardware engineering excellence,"
+    publishedDateTime: 2021-01-19T14:02:00Z
+    webUrl: "https://news.microsoft.com/2021/01/19/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/01/Cruise_AV_San-Francisco-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
     excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"
@@ -201,6 +284,6 @@ related:
       domain: microsoft.com
     quality: 10
 
-secured: "wI1vUBzO9qHOh79FqtVF0pzCawV6KwrYC1/KdZUyOmvLDVPjPWkY3JLlR002nO4L0VdR22BIew5KpZlC2wD8+lDiH5Xuh/EcmY3tOwzHt2GYBsZr5BrgzmgQeTGWRP/K7h1+rAzrNBJNpVGlOZ6vJ1tVyoU3NKjvpMkKBNfjyX0c+ZWCE3x2YSpTuiKJPvip/vARWf5XpBbxUvgfYpQATEAaL7jdIJWtZJRUwkqFvf85//miLikr50thkXYDY+X4ypHuCuRqwp1txq91uqoTQH7J5lhU8WhQqjxq/LwZKMDUIS5OKW5nfaTSUOrih6PVrBk1aNXLaK1FKwtZZguaqxt7MM9PQTnjCc0Yz9/etpM=;NIgwxt+W4ijLpynASPHKyA=="
+secured: "5gVmtMlLAuM9y6pNCA9hwUVXn5QfZkalU/II15a/BTuXr2Z/iXA/X2xN9/oUDcrwow0UFv9dG5oYIoZJ0cKOyMfmNMWNfEfRELi1ee916fQPlzJNff4jkc8NhBcYN/aAX321x4t618FBh5o+2iXrsSwIr0dfGVEXHatIdBBQH5LunbsJsxbzE82dnach7WnaNJLJ6tV/wg+7GE0KpTvTvIyUUnFg98cvwZ2zkEUA2yPW9hwUXhpVgweZ98T+x1iy1aK6N9EMU5xzjH1Y4Zb7LrcBDCo94RfEOvb/mMT8az3bbtnylZKTOdS+KkIxFh/UQm6aD06oTzftVpyMbcBivzzDx9OpAxlqXWAjs7HEnGa92eYSfnmbMBYiK4DZD1B7KxKwbAvVuF/NCTe9iTdvc3+K3a4INN2cPXoDWcgubKZlgS4T4uushzLIh+KMlBszui2Sl3yTR8xQl7AHWu2MjKi2oOVmObgq1nsiBi8YL1HaOKlsLqdH8dlqCdH4wcPbxq2925nPQ7iU05r4/oqphw==;/jXTG/oDgeciFEoM322qlQ=="
 ---
 

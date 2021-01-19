@@ -53,6 +53,20 @@ related:
         width: 1240
         height: 817
         isCached: true
+  - title: "KLIA to use facial recognition in place of boarding pass"
+    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
+    publishedDateTime: 2021-01-18T23:50:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "PCeWHlMTZNbVV48P5Bnusv/qd6H9zaJxSp3Ql0dCyUUcMx7hiuLP6DHFosHOOHkQFx0tm5z06IHa6cI1iUrfYmcbx4C3yQwHj93WY+tvgASeUHycWebHnn7oE3eDNuowNwLF2pbMomQJTAQrOZuAeBygFeH5kBBG0n+CFDJSbR0gCr2WsZGTXQ+dzF8FcPBWw6eHzgTBYkzi9iWzhCuYnpy6STd8UADHCWoYolfiz89IMzV2HAfunSDXx29WAHYCtWOkMWPMJNWUr31FkWZrjLcHdzWvyNJaRC4erNkigDvXTlG7ZwXluqbQgjKFYl0h2luFJ1W+qChcWpSKSBbVtehEeXCAZkXj6YtGCX7iSog1y00joNVfqBoooV/5qMjspFdbSHsx09DkXuIygjDHlXvD/ce6JilBY2F1+EJnlcTUplLsBbK1Va6mrFgj8K8NqTJhruvtpa40Lunr5z5SuDxKT5aTMRq/JHGbs1WqOmX2I0IMQkcMf+nLL5UWgukROHtzo5Rlh4nwweFDRnXt8w==;pBDRIWA3d/Fg3sgDq8BUFg=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "CES 2021 Rethinking Virtual Learning with Taiwanese Startup FlyingCrazyer's AI Evaluation System"
-excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall effectiveness issues result in low rates of interactive practice and provided feedback,"
-publishedDateTime: 2021-01-18T14:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
-webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
+excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall"
+publishedDateTime: 2021-01-18T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
 type: article
-quality: 54
-heat: 84
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/2b/d2bb0e74-1e0e-5fc0-b8c4-f4c756efcd70/60059c42bb38e.image.jpg?resize=400%2C300"
+    width: 400
+    height: 300
+    isCached: true
 
 related:
   - title: "CES 2021 Taiwanese Startup ACSI Gives New Technological Shine to Traditional Chinese Medical Treatments"
@@ -35,22 +35,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "CES 2021 P-Waver Combines Big Data and AI to Build Earthquake Early Warning System for Taiwan Government and High Tech Industry"
-    excerpt: "Leveraging its well-established database, AI technical knowledge, and a proven track record encompassing thousands of successful projects,"
-    publishedDateTime: 2021-01-15T06:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19176502/ces-2021-p-waver-combines-big-data-and-ai-to-build-earthquake-early-warning-system-for-taiwan-gove"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19176502"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19176502"
+  - title: "Chinese self-driving tech startup bags a total of $310m in series B round"
+    excerpt: "WeRide will continue to develop its smart mobility technology, commercialize its mini robobus product, as well as expand its services to more cities this year."
+    publishedDateTime: 2021-01-15T08:37:00Z
+    webUrl: "https://www.techinasia.com/chinese-autonomous-vehicle-developer-bags-total-310m-series?ref=recommender-669313"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1419571/P_Waver_constructed_EEW_system_based_earthquake_data_Taiwan_s_Central_Weather.jpg"
-        width: 400
-        height: 225
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 33
   - title: "CES 2021 Taiwanese Startup FiduciaEdge Technologies Develops Edge Security Solution for a Secure Edge Computing Environment"
     excerpt: "Edge computing is transforming the way data is handled, processed, and delivered from millions of devices around the world. FiduciaEdge’s software/f"
     publishedDateTime: 2021-01-15T06:20:00Z
@@ -61,6 +54,6 @@ related:
       domain: businesswire.com
     quality: 8
 
-secured: "VFI4WqNEsTgCaF7h8NwoTlwSJXrSPdK6tgytQMzLZ3suQ3Zr9Z0b7e7o/q08xPxSEXZsqga98t8toOcJax1TU22uW2Ic3ykOJcAmjTCMaUeoAZAHQEfAuS1gOcmKTs6wDEM89Cntn4wOB9q8iusrfy9pTTXc6gU3zbmvR33LK8K+zzsozgVnDRibC2tp6xWpHGpl4GvM0NTxOkEkwelIkOCvw2uXu/pwcZ3+sZsTnL0fdBWYPz9MmCFfxpYEo+ML4aI54iAeI9RDQFM9MuxwFS/kRSCSs4yij/eL2z7xMG94P7CWhSdRcdrtosgzR7YLwlpz/8Fgop8Fhp3/Affho+EvsYfrS+dSTIW+AJRw0hk=;YWZxPcgztxkmgB0mIlrRdw=="
+secured: "lQRXiVrV22cWzINL9xEzwRlT3QQeD5XDW12gZDpsvt0UKXsYF9K2NxH1s29rTyIYt3zGKfs4qxWC6FsofD+KmlFg/p4P6dKsVeFjmkIRQ8RagazPtWJaXKp4zN5pOzWE/m0uEC3oGsePQYjLX/Dge1zM+2eXN41EpDrgUaZy0q+kETznFn95fkhtuMTf4zIbnM3dmPg4STE0agLWoQXBV5GqY2C/CP/ZPGbgs2XW5oaNzn0ICqMEbsAeKDEw6zWQXk1/lXBZyMHbiZmFU3IsziGskRuYrYLO5KHmLhlgCJAT1N+9urumoNhkTT1O9uC4jUokZbhM83B1Po8buggF6fEtAnTifVvXON0mv2bvXT4=;Z8vD3eRlZa95PTRC1KhmnQ=="
 ---
 

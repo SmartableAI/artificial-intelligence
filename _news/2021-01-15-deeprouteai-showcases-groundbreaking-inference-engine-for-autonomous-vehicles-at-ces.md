@@ -1,29 +1,23 @@
 ---
 category: news
 title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
-excerpt: "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,"
-publishedDateTime: 2021-01-15T01:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
+excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
+publishedDateTime: 2021-01-15T06:13:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
+webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
 type: article
-quality: 32
-heat: 32
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "tk1ypznNw8kYghZsSckHzw3bbl77zoQco31paVorYt0TSC2pb/86qafycS9sKIEDaXwVQmtsO+l0TUkcSahmDoCeqTL5XwhUHy8ZEwk6X8S2kll8vDniky5zw9WBfXMc7If/QUEauwLYqQrMvqBixscClcW6AqoKgeEp5EdE46taC5nsIg6iYD99CMZcb/1UZJ2lYuiyplDSgfOHKoyEbQxvR/x4IAnlRBDaORjvomVv3l7SzsmcJpaxdwzo59Ohm32eC3551Tv9Ol/EuhYefbWQgPM/BvK1cVvsbqkEqiXXgwxlpq5S7Vsg5olJk8vGR29Xax+od4tukkfORNdTSjC314znY7BsqiF3tEWjeR4=;310ykunOD1THaKUs36lRMg=="
+secured: "Ksw/wmybfojO1EwKmiHvFNHJp+boCMiYEyk11QPNe6eLD1FEsa2Hfwz0+jJ0e0jze7EEVBQ30nolqInefKir67EldECWJaqO3d4tpmO9PBB0IG08Sla+FvBDHHpC3e8kj83G4zBq7GNFYuFz25paaPwVaZ5HM59R6RxPKtC1gUlHIwCiVxvXwYN0xVSZ+SNVGdO/wllsjg4g8BhAA7/6vczX6mIsVw9cEe0nEV+9BZwX57OIMLIKyge6KDs8eEdJd2q3iOO3ax5CP+K4vuodJ5228iIs24H+7U5ljyM6584aDH/79mybv9dQhpoPBD4l20oFIQgDCWzkkY+TPaDN+KIAVvuUej1jxJtvcyLh1UuF9OStmBJIAvPCFJxVW24XlnoEQropueeAQonhVXI+cW+6icbGfj0Sw4BsdOBTRNhycfK4l0fSbg/F5vyASM3uVJDMOS/HoFbZIDKrmjo8fGh/m2bGaqlaoNjrZzha9Z3fzL3MBAXMY4beZ0K/JZDUZu5EmJInn9u0YbkGI1KSog==;WOl5z7b6dydC5GS68NDZtA=="
 ---
 

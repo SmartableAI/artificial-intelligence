@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Driverless Cars Demand Air-Tight Cybersecurity"
+    excerpt: "As autonomous vehicles develop, next-gen cybersecurity defenses are needed. Here’s how Kaspersky and AVL SFR are leading the way."
+    publishedDateTime: 2021-01-15T09:52:00Z
+    webUrl: "https://www.csoonline.com/article/3603580/driverless-cars-demand-air-tight-cybersecurity.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/01/istock-1079995912-100873810-large.jpg"
+        width: 1200
+        height: 739
+        isCached: true
   - title: "Artificial Intelligence likely to replace humans in cybersecurity space by 2030"
     excerpt: "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools."
     publishedDateTime: 2021-01-17T17:06:00Z

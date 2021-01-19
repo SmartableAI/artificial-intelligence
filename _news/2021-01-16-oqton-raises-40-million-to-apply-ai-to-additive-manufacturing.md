@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "Trovata.io raises $20 million to aggregate enterprise bank accounts with AI"
+    excerpt: "Trovata.io, a startup that aggregates enterprise bank accounts using AI, raised $20 million in a venture round."
+    publishedDateTime: 2021-01-19T13:48:00Z
+    webUrl: "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/11/control.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Oqton raises $40 million to apply AI to additive manufacturing"
     excerpt: "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million."
     publishedDateTime: 2021-01-15T08:04:00Z
@@ -37,20 +53,6 @@ related:
     quality: 87
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/fb-homepage-pic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Oqton raises $40 million to apply AI to additive manufacturing – Jaweb"
-    excerpt: "Oqton, a startup developing a factory operating system that integrates engineering software with manufacturing hardware, today raised $40 million. The company says the funds will be used to further develop Oqton’s platform while expanding its commercial partnerships in markets including additive manufacturing,"
-    publishedDateTime: 2021-01-15T08:45:00Z
-    webUrl: "https://elmoudjaweb.com/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing-jaweb/"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 37
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Oqton-raises-40-million-to-apply-AI-to-additive-manufacturing.jpg"
         width: 1200
         height: 630
         isCached: true

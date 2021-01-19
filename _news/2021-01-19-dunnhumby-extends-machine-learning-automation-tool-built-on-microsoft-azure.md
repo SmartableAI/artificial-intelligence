@@ -1,30 +1,24 @@
 ---
 category: news
 title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their"
-publishedDateTime: 2021-01-19T12:27:00Z
-originalUrl: "https://www.lelezard.com/en/news-19605427.html"
-webUrl: "https://www.lelezard.com/en/news-19605427.html"
+excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
+publishedDateTime: 2021-01-19T13:25:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "JCv5K1wCk5NZx753lvlT1nz0X1tCkHdpymyfClLbT4Erfsu6yBqz3dYDGLbe4yUQyjP5zT/tI5BCmirxUt78vnYW5wr7lvY2V4WRmAtjqZIEgGz2E7FwGhNIaVaf9hDIgDqNmQOTLBqgeHsNJmVhy/irIW2Tx9s7ZFwPNsWalD2/9xW8SL50q3GQEs6ApQMVb+b5BI5e6+rXXvqgW87PUYZ1nu7551vO50ul1OhO6LEF9m7JEKiIrgxi5qo5Bo0DoeIhqVoXe1SbDS5J9ubeqSO2SnnXIJMvqmR86ZI523O7rXplQslO2jmNCrTTvQ+G9ExZ8oh9NzFgOXGJ1lyNQZOQFhG6fAWxTCYr/kaHloY=;Kkinp4FJIg7mZrcrxVu6uA=="
+secured: "LGsTHc39xzcsAG+IAqFb7NDJ/Pd6TtiW+e4Rv0u1C641NoDdNCtuYbmCfO3Y5onNAucYJd03Ix3dMPo000wR3jVrfQiSVbrn44wTE1iiGzC7T88CJvq7fHlN82CC84FBGtUjGRxdIESm77qIrDcuHmqwJ4qwz6VsTXBSSyfGqA39SGAQGXLCslYdazJagNiNgLXyWYA8CV8An4rMc0a5lwsPpwaN/42q6EU4V2JxrexOqTWGT5gC42XTAu/g67jYJF+mwyJElskRnkNAF1EowsQmWxkjV89IebEZZ8s5bMTqVxXgBFD/lpUU/HzPnWAFKbi3Uf2k2KGL4r83WD4rFz3s6Hfu+IuNkN3yIfsg7Io=;ANZ8x8MjYp8udg4FfKL8pg=="
 ---
 

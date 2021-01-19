@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "2020 Was Impossible To Predict. Can AI Save 2021?"
-    excerpt: "Is 2021 the year that businesses and governments start building an AI strategy so computers can look at data the way humans too frequently don’t?"
-    publishedDateTime: 2021-01-14T22:55:00Z
-    webUrl: "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/"
+  - title: "Google launches suite of AI-powered solutions for retailers"
+    excerpt: "Google's new Product Discovery Solutions for Retail aims to address ecommerce challenges during the pandemic with AI and machine learning."
+    publishedDateTime: 2021-01-19T14:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/"
+    ampWebUrl: "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fff4443003dc6aa290e8a51%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
         width: 1200
-        height: 900
+        height: 600
+        isCached: true
+  - title: "Google announces new AI tools for online retail"
+    excerpt: "The new services, announced today, have been branded as Google’s Product Discovery Solutions for Retail. They include a Recommendations AI engine that’s now generally available. According to Google, Recommendations AI helps retailers to deliver highly personalized product recommendations at scale and across all channels."
+    publishedDateTime: 2021-01-19T14:07:00Z
+    webUrl: "https://siliconangle.com/2021/01/19/google-announces-new-ai-tools-online-retail/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/online-2900303_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "Z1vLAYSWJbVKkygYZXp36T2z37ImHdqzEKqjT7H0Glkbcn/rU3EBv0Gv+Fi/86gI/qFEO0q4M25n6DVnDXdPdJpSXRjNA5xBcwKO66d313i6yQjDhUMUP+3Y2QdoYHHmZlUOiLfHZq8RXA3VkCkM7BhW+/VOCCS7QMyaDGPjACu+BlUZz/XwNXXi3zJhlsJ73uE7XldEnsfW066B7sKMKkGFsqPFQPO5KZpRjuEXmp1Fp2JaH06g72Yg+295y8ZM4phwLmz1oWaV04eSXkwHQ8qHoaRoNonzY9WN+KiTQSIb4OkOESITQvRvi9U6X+U86hTR5HYH0XMMnsCDGvLkqC9OhUBNqpVOa8PH9eqBbcI=;XTSMaL9h5sINnpdWWyrB6w=="

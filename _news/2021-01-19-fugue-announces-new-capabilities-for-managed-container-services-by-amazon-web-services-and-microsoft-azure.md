@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/fugue-announces-capabilities
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60021aa0b1ac699a3bd4deec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4708%26cropY1%3D239%26cropY2%3D2888"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
+    publishedDateTime: 2021-01-19T13:03:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "NcoyPIG/O7AKZpIq5LRmoDFboNXFoxy7tz6lYg7rBShh+E68JBVzjFCZEBxTrjU7dJNRSU27TgdlJfnbc1g456IcN+7leHeOMLX5wqD1TJe3c5pHgDq6ddi4DfyoiBpgsjlkdtRvBd5U43ZOL0mmKADiipbvF9qs7WFg1A8oXWZezsrUOlR6gH72zHRALuGxisgozF9YBnBlAHSbaqj5rLDhRfpQLP9s28W3ngHcWUNBGj+b4ke9Q6/mF96UzKwqMrRUoVcPocptLs6NexzwIZVO6zSgpMlmqZM5q1rB+Sh3oWt2wuFcoB01Bu1NV5y2PJfwuR7iHp9mqFdNXGKCKaR4J2ZMnr4SfRusp5aHL9DlDshxUty/w3kwr+KNmvigKORu9jvJAlHs9fkesiuvGwVv8WOowHy1ywfDUhDJXv4o6cVw/Bc7nLgTMk2j2yhAT+0ghHnhZ+23wJdl+hhziULgvm4mFE+fiT28s9JEadf9VVTBxpcFIb7PlX8LD40G+cMIpX97hUfCAv+BWVkang==;vx3qLvXR/gShed8uHPZ/MQ=="
