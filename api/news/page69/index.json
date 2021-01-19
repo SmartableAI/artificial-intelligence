@@ -2,6 +2,49 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-11-21-how-everyone-can-play-a-role-in-defining-the-future-of-ai-and-robotics.md",
+      "title": "How everyone can play a role in defining the future of AI and robotics",
+      "excerpt": "At the Bengaluru Tech Summit 2020, experts said that collaboration between academia and industry is important for creating AI and robotics innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart",
+      "originalUrl": "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/70651a302d6d11e9aa979329348d4c3e/Imagenxvc-1605888848586.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart/amp",
+      "publishedDateTime": "2020-11-20T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-houston-implements-facial-recognition-technology-at-airports.md",
       "title": "Houston implements facial recognition technology at airports",
       "excerpt": "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals.",
@@ -1121,49 +1164,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.md",
-      "title": "Study examines the phenomenon of visual illusions in convolutional networks",
-      "excerpt": "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201120/Study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201120/Study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201120/Study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201120/Study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.aspx",
-      "publishedDateTime": "2020-11-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

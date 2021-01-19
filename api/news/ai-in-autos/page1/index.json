@@ -201,6 +201,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-14-chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources.md",
+      "title": "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources",
+      "excerpt": "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/technologyNews/idUSKBN29J0DA",
+      "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN29J0DA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547727620&r=LYNXMPEH0D073&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T00:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-chinese-driverless-car-start-up-weride-raises-310-million-in-funding-as-competition-heats-up.md",
       "title": "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up",
       "excerpt": "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\"",
@@ -1404,49 +1456,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
-      "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
-      "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
-      "originalUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "publishedDateTime": "2021-01-07T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

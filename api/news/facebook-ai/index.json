@@ -10,7 +10,7 @@
       "originalUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -54,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -193,6 +193,49 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-artificial-intelligence-in-sports-market-next-big-thing-biggest-opportunity-of-2021.md",
+      "title": "Artificial Intelligence in Sports Market Next Big Thing | Biggest Opportunity Of 2021",
+      "excerpt": "Global Artificial Intelligence in Sports Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "originalUrl": "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/1/U115981371_g.jpg",
+          "width": 675,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing",
+      "publishedDateTime": "2021-01-14T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1442,58 +1485,6 @@
         "AI",
         "AI in Marketing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-trump-could-torpedo-a-bill-to-boost-funding-for-ai.md",
-      "title": "Trump Could Torpedo a Bill to Boost Funding for AI",
-      "excerpt": "The National Defense Authorization Act would increase US investment by $6.4 billion over 5 years. But the president could veto it over other provisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
-      "originalUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fd939cf55d4309f339343c4/master/pass/Business-Defense-Bill-AI-Trump-1290145039.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
-      "publishedDateTime": "2020-12-16T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

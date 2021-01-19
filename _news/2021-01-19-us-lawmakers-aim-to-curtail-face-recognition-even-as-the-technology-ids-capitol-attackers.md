@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecogn
 webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/u-s-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -103,7 +103,21 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Lawmakers Sought to Ban Facial Recognition Software Being Used to Find Capitol Attackers"
+    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump"
+    publishedDateTime: 2021-01-19T06:07:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597789.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 30
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2019/02/microsoft-facial-recognition-privacy-bill.jpg"
+        width: 1740
+        height: 978
+        isCached: true
 
-secured: "VJYIin6nFYJ91r0IM1GN6e1CdH58QTCdw5aCmdUp1okbEF1DUvZsgwpX2fbX3PlUdJFet+aLLOib0QTHnRtFuqmJZyP6D5ifcVFRWC9tV2dUNHElJSF4dGjls5MuD4pEqMI3GhBkhuPf9gNtbQgkis4tfYVWmdfnO2N2eMkeLfEz+zE5aTLl4YZ310TZ6E6J0hUjE464cZ1H0SQfYQIfhBBydTsS2be62jENA2JYyYEcRr8F5KjkpaXC4Jll+o7hQqLfX36Mr8cqegJ0bN8xmdmdjw96POIVv74IAUzSApj6yIq0rfhxAUqQ/HU1YBlJOwaZS3ZGmkc2/OSHBZPyLRslRoVznXsyycC1zsoin30=;8b4MYYFhHeZJCPJ4vAVb8g=="
+secured: "i+Hs7l3/vgjwF4pe4A9LLMfUzKxvoDaJLjpoInBWby6inrQM/2lnop3tKgxv2b76kC9OKo6ehN7R9qEo4wOuzqtX0NyeiMPKEgtVpHXBzr8MTcKP1J22mPmfpjP/wyyFo3m+I521MRyQysxz1MlMBNKHQ0iB84LUoHbWwBTlN/AyOWO3No0ZCwZfsGK4ZUR+P4MmqlB3xhvWz4wgham03LFIH2Em12vr8GefGoTHjcaPz0BNeSfBSpNFhGYs2eRpLcJSVVyG6XsOr2FN6uPwlDfFqfYzvIjQxVI7D3YNLxSjFAEGB66PkP7jTv6msHhomeIEdiJVKp43yjV8DrfKPOe7dVEFlENgkmojK8XeqyG7Vk8RHPKoTPEuVN2A3FXjWXDWD/ZBvceZThjypb74jjjDTeMgRywzOnRcNklpO9cfjy00mTYxw/zlODjjOSD4oXUGs1icW17VnUKBkxEMA93gfoIAI1NyqrXA0lwoph3G5Tg/oTaE5lpx3ceGR+RuHx5qRP8WBI4PHENN4nQJTA==;1jNtOhKPlUN2m0j3MecZFw=="
 ---
 

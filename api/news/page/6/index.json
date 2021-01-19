@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-13-avaya-extends-aws-relationship-to-support-ai-capabilities.md",
+      "title": "Avaya Extends AWS Relationship to Support AI Capabilities",
+      "excerpt": "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
+      "originalUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png",
+          "width": 272,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
       "title": "Job Screening Service Halts Facial Analysis of Applicants",
       "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
@@ -1123,57 +1166,6 @@
         "AI",
         "Facebook AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery.md",
-      "title": "Who Is Mr. Blue Eyes In ‘Cyberpunk 2077,’ Part Of Its Sprawling Rogue AI Unsolved Mystery?",
-      "excerpt": "This past week, the senior quest designer of Cyberpunk 2077 said that even after millions of hours of gameplay in the past month, not all of the game’s secrets have been uncovered yet. Mr. Blue Eyes may be one of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/01/12/who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/01/12/who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffda841cccba87cb23b5016%2F0x0.jpg",
-          "width": 1024,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/01/12/who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/01/12/who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery/amp/",
-      "publishedDateTime": "2021-01-12T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

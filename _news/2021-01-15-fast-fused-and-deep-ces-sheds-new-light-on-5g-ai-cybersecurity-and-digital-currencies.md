@@ -65,6 +65,34 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Deploying AI-powered cybersecurity directly on drones"
+    excerpt: "SparkCognition and SkyGrid deploy AI-powered cybersecurity directly on drones, protecting them from zero-day attacks during flight."
+    publishedDateTime: 2021-01-19T06:52:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/19/ai-powered-cybersecurity-directly-on-drones/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/01/19074709/deeparmor-gui.jpg"
+        width: 1280
+        height: 686
+        isCached: true
+  - title: "SparkCognition and SkyGrid Deploy First AI-Powered Cybersecurity System on Drones"
+    excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company,"
+    publishedDateTime: 2021-01-19T06:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sparkcognition-and-skygrid-deploy-first-ai-powered-cybersecurity-system-on-drones-301210532.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1422612/SkyGrid.jpg?p=facebook"
+        width: 716
+        height: 377
+        isCached: true
 
 secured: "89ZDFiiRPOmGkuRjO6YjDy2JmE8aL1TNoShwWM/N27Pfbijk/YZ37e1LbLAi5+SMmJ39NmTXSQvZtty8YwQhzv4Mq9U1xnjBvSDQjkfOMYqU3WnNuDqhF41kKY3+EINfRGQ72YhBL2bCOj3Pl2m6oMyDMbOYHRrnV9IOn+8G7m/vtvolE6JKLoUUj21ZHM1NDA/w9AOEUHFybACpeUX5s6SwoJMaNcqqPhCxAJXYOuY0XwUuIxBJ2KNjkurT8DI4vCg46s0aLDNLPpS5h1CBNO41iwYFMstpcbHDk5OJEncuaoTPKcMr+/3cz9Q6MebrcxwGySGFOw07CA/wiCnWAGq/aCLyGq3RdlZo7T0rZaA=;iu6BpA5hf2y6olBCzDt/0A=="
 ---

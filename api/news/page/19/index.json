@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-12-31-data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai.md",
+      "title": "Data-driven 2021: Predictions for a new year in data, analytics and AI",
+      "excerpt": "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
+      "originalUrl": "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
+      "publishedDateTime": "2020-12-31T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
       "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
       "excerpt": "Artificial intelligence packed with more than a ... such as those developed by Waymo, which began in 2009 as the Google Self-Driving Car Project. This fall, Waymo introduced a fully driverless ...",
@@ -1098,58 +1141,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-20-things-that-made-the-world-a-better-place-in-2020.md",
-      "title": "20 Things That Made the World a Better Place in 2020",
-      "excerpt": "Read more at The Guardian. DeepMind Solves 50-Year-Old Protein-Folding Problem DeepMind's AI has accurately predicted protein shapes from their sequences alone, a tough task that normally requires lengthy, expensive lab experiments. While the AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/20-things-world-better-place-2020/?X0y&X0y&X0y",
-      "originalUrl": "https://www.wired.com/story/20-things-world-better-place-2020/?X0y&X0y&X0y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fe429ef6a4c22d9a3277a00/191:100/w_1280,c_limit/Science_2021_1230196314.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-30T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

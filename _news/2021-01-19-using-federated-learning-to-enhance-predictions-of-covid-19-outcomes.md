@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210118/Using-federated-learn
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210118/Using-federated-learning-to-enhance-predictions-of-COVID-19-outcomes.aspx"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning tool gives early warning of cardiac issues in COVID-19 patients"
-    excerpt: "A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors several hours before hospitalized COVID-19 patients experience cardiac arrest or blood clots."
-    publishedDateTime: 2021-01-14T14:37:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/cardiacdevice.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Machine learning tool gives early warning of heart issues in COVID-19 patients"
     excerpt: "Julie K. Shade, lead author and a doctoral student in the Department of Biomedical Engineering, built the machine-learning algorithm with more than 100 clinical data points, demographic ..."
     publishedDateTime: 2021-01-17T23:48:00Z

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "LTI and IBM to expand global alliance; to set up CoE in Bengaluru"
-    excerpt: "The companies will establish a centre of excellence in Bengaluru to help clients migrate and modernize core business applications leveraging IBMs open hybrid cloud platform built on Red Hat OpenShift."
-    publishedDateTime: 2021-01-14T14:58:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/articleshow/80271575.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/amp_articleshow/80271575.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/lti-and-ibm-to-expand-global-alliance-to-set-up-coe-in-bengaluru/amp_articleshow/80271575.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg"
-        width: 412
-        height: 255
-        isCached: true
   - title: "LTI plans to expand global alliance with IBM"
     excerpt: "Larsen & Toubro Infotech plans to expand its multi-year, global alliance with IBM (NYSE: IBM) to help businesses transform their operations through open hybrid cloud adoption. With the proposed center,"
     publishedDateTime: 2021-01-14T15:42:00Z
@@ -58,20 +42,6 @@ related:
       - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
         width: 350
         height: 233
-        isCached: true
-  - title: "LTI and IBM to expand global alliance"
-    excerpt: "LTI has developed industry-ready solutions using hybrid cloud capabilities from IBM including Cloud Pak for Data and Cloud Pak for Automation and offerings tha"
-    publishedDateTime: 2021-01-14T14:03:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267534872/lti-and-ibm-to-expand-global-alliance"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1610632780.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "XVqpXV3Mq+beUNz9bixJrErtEZr0nuJhwR6PJkXccbrbop/zVkwAEM0B83pIq8lXzV8sfsK7vCTqz2w2js2HwMyq/bOyOriqfDO0qDupfvVrH8wpNu7beE6ubIIGM6/H4xnEyF1Py9s+avxmJjXD7/BtX58diPE75Bw/jyeL4HV82fV6a1wbEegHsf2yLLbwBG9Q3KEoh/atf/MD24MOa9GKM6Ulj0i6n+r/kT0IkslAigg9437P4cUDbiPX+M6xtdcfgCyjDidnseDC+DJ8M4cAFH47U0yUP1p7fdWnToLA1rlk5Q9MVQeO4NBH6A8QYXWSl93U4f5tgkcq41lSzaNXmNjeEbkxS5NyhCgV+Qq8EH3WnWsAKIOjvqC9/hpVRsqYKibqbABRmH+kloAeqKdjaUnKY690kbhyk8KYt4WULY/V6ALV6sXbV8g4MFxilPwtPnk+R0JvcSZhxs5qsa+6LOMjW2EdMXLe6Idz0ZgUlPqL11eUxaw/l4XDTju7DCyqgQeQugmaTlphX/gaxg==;FoO5vcSVGodd4+EcZ+UWxQ=="

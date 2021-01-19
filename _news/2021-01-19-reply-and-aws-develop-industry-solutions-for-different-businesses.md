@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "Reply Signs an Agreement with AWS to Develop Industry Solutions"
+    excerpt: "Reply, specialized on new communications channels and digital media, announces today it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to develop industry solutions for Financial Services,"
+    publishedDateTime: 2021-01-19T05:53:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-products-and-services-082a2c27820d4bf682582ea639dd97a4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Reply Signs an Agreement with AWS to Develop Industry Solutions"
     excerpt: "Reply, specialized on new communications channels and digital media, announces today it has signed a Strategic Collaboration Agreement (SCA) with Amaz"
     publishedDateTime: 2021-01-18T09:47:00Z
     webUrl: "https://www.businesswire.com/news/home/20210118005019/en/Reply-Signs-an-Agreement-with-AWS-to-Develop-Industry-Solutions"

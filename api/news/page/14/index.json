@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-06-artificial-intelligence-software-platform-market-is-predicted-to-touch-usd-113-billion-at-a-healthy-281gr-between-2018-2023.md",
+      "title": "Artificial Intelligence Software Platform Market is Predicted to Touch USD 11.3 Billion at a Healthy 28.1?GR Between 2018- 2023",
+      "excerpt": "Artificial Intelligence Software Platform Market is Predicted to Touch USD 11.3 Billion at a Healthy 28.1?GR Between 2018- 2023 <br />  Jan 6, 2021 1:52 AM ET<p>The global <a href=' target='_blank'>ar",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101391834/Artificial-Intelligence-Software-Platform-Market-is-Predicted-to-Touch-USD-113-Billion-at-a-Healthy-281GR-Between-2018-2023",
+      "originalUrl": "https://menafn.com/1101391834/Artificial-Intelligence-Software-Platform-Market-is-Predicted-to-Touch-USD-113-Billion-at-a-Healthy-281GR-Between-2018-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-artificial-intelligence-in-a-post-covid-world-2021-and-beyond.md",
       "title": "Artificial Intelligence in a post-covid world: 2021 and beyond",
       "excerpt": "COVID-19 has impacted every aspect of our lives including the way we do business. In fact, according to a recent survey by McKinsey, COVID has accelerated companies’ digital transformation journeys.",
@@ -1138,57 +1181,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design.md",
-      "title": "Jarvis Meets Automotive: How Artificial Intelligence Is Remodeling Computer-Aided Design",
-      "excerpt": "The world of computer-aided design is transforming from a visual, drafting tool to an artificial intelligence agent that uses feedback and weighted goals to design an integrated system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce6fad7d46dc2167aa1ac4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
-      "publishedDateTime": "2021-01-05T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

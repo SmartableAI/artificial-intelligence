@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-16-vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices.md",
-      "title": "Vdoo raises $25M more to develop its AI-based security for IoT and connected devices",
-      "excerpt": "Today, Israeli startup Vdoo — which has been developing AI-based services to detect and fix those kinds of vulnerabilities in IoT devices — is announcing $25 million in funding, money that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
-      "originalUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/02/getty-satellite-globe-data.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/amp/",
-      "publishedDateTime": "2021-01-16T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-01-16-researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems.md",
       "title": "Researchers propose using the game Overcooked to benchmark collaborative AI systems",
       "excerpt": "Researchers propose using the video game Overcooked as a robustness test for collaborative AI and machine learning systems.",
@@ -754,7 +701,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1106,7 +1053,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1235,6 +1182,57 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-oqton-raises-40-million-to-apply-ai-to-additive-manufacturing.md",
+      "title": "Oqton raises $40 million to apply AI to additive manufacturing",
+      "excerpt": "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/",
+      "originalUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/fb-homepage-pic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/",
+      "publishedDateTime": "2021-01-15T00:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

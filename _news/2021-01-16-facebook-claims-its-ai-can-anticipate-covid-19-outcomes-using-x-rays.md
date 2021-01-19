@@ -47,6 +47,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Facebook claims it's AI can help predict the need for better Covid-19 care"
+    excerpt: "In an elaborate blog post, Facebook says that it could use artificial intelligence (AI) to predict the need for better or more focussed care of Covid-19 patients. This, it said, is part of the outcomes of researches conducted by an in-house AI unit wherein the healthcare professionals could be warned of the need for intensive care for patients."
+    publishedDateTime: 2021-01-19T06:13:00Z
+    webUrl: "https://www.techradar.com/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+    ampWebUrl: "https://www.techradar.com/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VuJmFShWnVmmRbq6GZnbSR-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facebook to use AI in predicting if Covid-19 patients need better healthcare"
     excerpt: "The research, which can help produce predictions based on chest X-rays, has been done in collaboration with NYU Langone Health's Predictive Analytics Unit and Department of Radiology"
     publishedDateTime: 2021-01-19T01:57:00Z

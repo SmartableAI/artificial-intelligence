@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-e
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-d895c5e344b25e95b16491272b90d6ff"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Neurotechnology SentiVeillance 8.0 SDK: Creating identification by using live video streams"
+    excerpt: "Neurotechnology announced the release of the SentiVeillance 8.0 SDK for identification and analytics using live and video streams."
+    publishedDateTime: 2021-01-19T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/19/neurotechnology-sentiveillance-8-0-sdk/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 14
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "wLcE4wmrUkgDK+9U6NtpZmtJjgqfIkaOLwM2/0VLEZ4ACShvZEE5xqaI9cGuU1Df8IvxwZv66MR9weVujldBNYMEnsn77tGnnduCOZ1ZB/u0iX6tY4QkgFzKp/NxFV84Ch+3TxB2x8M3v5NWjKQlJ4lqnwN0thWrUF4a91T91Lr5E8JrjlBfUP5JL07m7TDprPI2SusEzjBf5FfLg2RHCdJh9wVIHENBT+PUDvGfiKFyoNVIczYeMjY33mY5YSE26kcXUB7MgGjWxFXyRNYQDRQ4+RCeQ6rLh30BKkIwKvrfXi2hdmUzyRBipCZOeRvSFvBnwvYWppepPrM41b+O+4g4n0aTMrPlGsNVfDl2dxg=;QdKVMGyCtpOseYuUUWkc2w=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-16-trump-could-torpedo-a-bill-to-boost-funding-for-ai.md",
+      "title": "Trump Could Torpedo a Bill to Boost Funding for AI",
+      "excerpt": "The National Defense Authorization Act would increase US investment by $6.4 billion over 5 years. But the president could veto it over other provisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
+      "originalUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd939cf55d4309f339343c4/master/pass/Business-Defense-Bill-AI-Trump-1290145039.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
+      "publishedDateTime": "2020-12-16T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-global-artificial-intelligence-in-law-market-2021-market-growth-trends-revenue-share-and-demands-research-report.md",
       "title": "Global Artificial Intelligence in Law Market 2021: Market Growth, Trends, Revenue, Share and Demands Research Report",
       "excerpt": "The report outlines the competitive framework of the “Artificial Intelligence in Law Market” industry detailing the",

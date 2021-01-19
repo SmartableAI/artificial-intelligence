@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-08-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
+      "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
+      "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
+      "originalUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX",
+      "publishedDateTime": "2021-01-07T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-waymo-ditches-self-driving-term-in-apparent-dig-at-tesla.md",
       "title": "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla",
       "excerpt": "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,",
@@ -1380,58 +1423,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market.md",
-      "title": "Is Velodyne or Luminar Stock The Better Bet On The Self-Driving Market?",
-      "excerpt": "Velodyne Lidar (NASDAQ: VLDR) and Luminar Technologies (NASDAQ: LAZR), two companies that specialize in lidar technology, went public this year. Lidar - a laser-based technology, which essentially helps computers detect surrounding objects - is poised to grow meaningfully,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fec1fa366ff7efc54a6e497%2F0x0.jpg",
-          "width": 705,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/30/is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market/amp/",
-      "publishedDateTime": "2020-12-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

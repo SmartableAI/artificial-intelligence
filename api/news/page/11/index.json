@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-08-updated-amp-robotics-raises-55m-in-financing.md",
+      "title": "Updated: Amp Robotics raises $55M in financing",
+      "excerpt": "The company raised financing from new investors Valor Equity Partners and GV as well as several existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/",
+      "originalUrl": "https://www.recyclingtoday.com/article/amp-robotics-raises-55-million-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.recyclingtoday.com/fileuploads/image/2021/01/06/amp%20logo%20web.jpg?w=736&h=414&mode=crop",
+          "width": 736,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Recycling Today",
+        "domain": "recyclingtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms.md",
       "title": "To make AI a success, every child needs to understand the risk and potential of algorithms",
       "excerpt": "According to the AI Council, the biggest barrier to AI deployment is skills - and it starts as early as school.",
@@ -1110,49 +1153,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-dall-e-openais-ai-system-can-convert-words-and-sentences-into-images.md",
-      "title": "DALL-E: OpenAI’s AI System Can Convert Words And Sentences Into Images",
-      "excerpt": "OpenAI has developed an AI system that lays its foundations in GPT-3, DALL-E — capable of creating images from natural language texts.",
-      "sourceUrl": null,
-      "webUrl": "https://techlog360.com/dall-e-openai-ai-system/",
-      "originalUrl": "https://techlog360.com/dall-e-openai-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/tl360.b-cdn.net/wp-content/uploads/2021/01/DALL-E-OpenAI-AI-System.jpg?fit=1200%2C630&#038;ssl=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techlog360.com/dall-e-openai-ai-system/amp/",
-      "cdnAmpWebUrl": "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/dall-e-openai-ai-system/amp/",
-      "publishedDateTime": "2021-01-07T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techlog360.com",
-        "domain": "techlog360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

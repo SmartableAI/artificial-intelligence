@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-12-30-20-things-that-made-the-world-a-better-place-in-2020.md",
+      "title": "20 Things That Made the World a Better Place in 2020",
+      "excerpt": "Read more at The Guardian. DeepMind Solves 50-Year-Old Protein-Folding Problem DeepMind's AI has accurately predicted protein shapes from their sequences alone, a tough task that normally requires lengthy, expensive lab experiments. While the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/20-things-world-better-place-2020/?X0y&X0y&X0y",
+      "originalUrl": "https://www.wired.com/story/20-things-world-better-place-2020/?X0y&X0y&X0y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fe429ef6a4c22d9a3277a00/191:100/w_1280,c_limit/Science_2021_1230196314.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-30T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-is-velodyne-or-luminar-stock-the-better-bet-on-the-self-driving-market.md",
       "title": "Is Velodyne or Luminar Stock The Better Bet On The Self-Driving Market?",
       "excerpt": "Velodyne Lidar (NASDAQ: VLDR) and Luminar Technologies (NASDAQ: LAZR), two companies that specialize in lidar technology, went public this year. Lidar - a laser-based technology, which essentially helps computers detect surrounding objects - is poised to grow meaningfully,",
@@ -1115,40 +1167,6 @@
       "provider": {
         "name": "unite",
         "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-zacks-analyst-blog-highlights-baidu-tesla-general-motors-ford-and-volkswagen.md",
-      "title": "The Zacks Analyst Blog Highlights: Baidu, Tesla, General Motors, Ford and Volkswagen",
-      "excerpt": "Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12",
-      "originalUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-baidu-tesla-general-motors-ford-and-volkswagen-2020-12?amp",
-      "publishedDateTime": "2020-12-29T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

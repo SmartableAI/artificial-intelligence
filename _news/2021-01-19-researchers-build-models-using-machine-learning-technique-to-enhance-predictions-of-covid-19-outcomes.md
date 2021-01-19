@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning tool gives early warning of cardiac issues in COVID-19 patients"
-    excerpt: "A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors several hours before hospitalized COVID-19 patients experience cardiac arrest or blood clots."
-    publishedDateTime: 2021-01-14T14:37:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/cardiacdevice.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Using 'federated learning' to enhance predictions of COVID-19 outcomes"
     excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine electronic health records to better predict how COVID-19 patients will progress."
     publishedDateTime: 2021-01-18T22:43:00Z

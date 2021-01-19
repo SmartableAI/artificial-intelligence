@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Release of Deep Learning Framework \"SmallTrain 0.2.0\" For Professional/Commercial Use"
-excerpt: "\"SmallTrain,\" which generates user-friendly deep learning models for high accuracy and high functionality as a standalone deep learning library and as a wrapper for TensorFlow and PyTorch."
-publishedDateTime: 2020-12-28T17:38:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18941010/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/n18941010/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18941010"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18941010"
+excerpt: "KYOTO, Japan, Dec. 28, 2020 /PRNewswire/ -- Geek Guild Co., Ltd. announced the Open-Source Software (OSS) project, \"SmallTrain,\" which generates user-friendly deep learning models for high ..."
+publishedDateTime: 2020-12-28T22:20:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use-301198669.html"
+webUrl: "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-0-for-professionalcommercial-use-301198669.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Google AI
@@ -19,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg"
-    width: 400
-    height: 294
+  - url: "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg?p=facebook"
+    width: 2699
+    height: 1414
     isCached: true
 
-secured: "6lMcfzX2DTNeorAcg6kZJBITHBGZntIeHQ/xe/kl2Ya/JtICOaEf1jtx/Ac+gDuvmSfpvDoFV3vVYcJZni+wcfj8UTNvcCAioi7XURItrpKjX13uqDgf+JXA0EkrQOESoZO5RXrOj3w6gAHzR2vFiKDnye5W3BJUmUY7U/YbS6wmsBanjeTmm9nO7r6amUW6jN6iK919MrZLuok3vrUAimtGYcnVNaKXv3s8QZ3TAnNZeoyOLdtfaqxiCsI+zqgR8jQGbGVx66RaqWLn4GL1Ev9kabeZQHUftmXQzEzi78GZ1/GFLxHEj+HMt+4hn2LG/PY+H8XqFDsOk6MYLherfrVXOPVt2YeeTsIUtaDO5Js=;xgYttijfDPjhcyO0vbqaeQ=="
+secured: "liC0hXuFG7zaeI6s2JsJAQI6f02rThXU3Gc3TiJDh0PCW17lIRLWorHopzmXMl5Yc6g4aT43NcJRStty99esiZznWDRhiCiZ/p3FP2yLH+pvgwxii/9/sfHHskQxpEDw0zUHlES3yCHCPbq01UcTozzifCFSAbuZWq5ANepFcndKkbshs5gmaR+wuf9QpbOEv0Xgc9vUp8XACcjVMqXGtc3ev355+cemMyEPfBFpzLK6Wd+O2mWuwLVjBD8b2i+13sE/TZIT0o2wTVHYgJ8kICyzy2GgoLqtNebVPZezI9BTf/B3is18pLZZxLy1mnbGremyqN+rFBmlYDhQVaK3lh7rYtCdNRmJmOEuAMtfsRY=;qUe0zFIFHgK6/OxCr/1j8A=="
 ---
 

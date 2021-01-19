@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
 type: article
 quality: 67
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,34 @@ related:
       - url: "https://www.cuinsight.com/wp-content/uploads/2020/07/bigstock-D-Rendering-Of-Human-Brain-O-150112583-e1596111178657.jpg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "Deploying AI-powered cybersecurity directly on drones"
+    excerpt: "SparkCognition and SkyGrid deploy AI-powered cybersecurity directly on drones, protecting them from zero-day attacks during flight."
+    publishedDateTime: 2021-01-19T06:52:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/19/ai-powered-cybersecurity-directly-on-drones/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/01/19074709/deeparmor-gui.jpg"
+        width: 1280
+        height: 686
+        isCached: true
+  - title: "SparkCognition and SkyGrid Deploy First AI-Powered Cybersecurity System on Drones"
+    excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company,"
+    publishedDateTime: 2021-01-19T06:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sparkcognition-and-skygrid-deploy-first-ai-powered-cybersecurity-system-on-drones-301210532.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1422612/SkyGrid.jpg?p=facebook"
+        width: 716
+        height: 377
         isCached: true
   - title: "Fast, fused and deep: CES sheds new light on 5G, AI, cybersecurity and digital currencies"
     excerpt: "At the start of a new year, the Consumer Electronics Show offers an opportunity to gaze at technology’s distant horizon and take measure of what may be coming over the ridge. Foremost among these was a general recognition that the pandemic has dramatically accelerated digital transformation across the globe more rapidly than anyone could have envisioned at CES in Las Vegas one year ago."

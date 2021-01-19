@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-and-art
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-19T05:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Business Intelligence and Analytics Market Size to Reach Value of USD 60.49 Billion by 2027 Growing at a CAGR of 11.2% | Emergen Research"
     excerpt: "Vancouver, British Columbia, (GLOBE NEWSWIRE) -- The global business intelligence and analytics market is expected to reach a value of USD 60.49 Billion by 2027, according to latest analysis by Emergen Research."
     publishedDateTime: 2021-01-15T10:18:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/u-s-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -242,57 +242,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-curefit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos.md",
-      "title": "Cure.fit acquires AI body tracker Onyx to enable two-way workout videos",
-      "excerpt": "Now India’s most funded health startup is making a move to bridge that gap, using a California company’s AI system to replace human fitness coaches at users’ homes. Currently offered as an ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
-      "originalUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/onyxcurefit.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
-      "publishedDateTime": "2021-01-18T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-18-ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system.md",
       "title": "CES 2021 Rethinking Virtual Learning with Taiwanese Startup FlyingCrazyer's AI Evaluation System",
       "excerpt": "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall effectiveness issues result in low rates of interactive practice and provided feedback,",
@@ -343,7 +292,7 @@
       "originalUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -682,34 +631,34 @@
     {
       "path": "_news/2021-01-18-fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection.md",
       "title": "Fitch invests in AI start-up to improve bank misconduct detection",
-      "excerpt": "Fitch Ratings has struck a partnership with a French artificial intelligence start-up as it seeks to improve its early detection of misconduct after a spate of high-profile banking scandals around the world.",
+      "excerpt": "Credit rating agency seeks to expand how it evaluates lenders’ riskiness amid raft of scandalsRead more on 'Financial Times Companies'",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
-      "originalUrl": "https://www.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcfa249f5-9238-4f03-9088-af8349dcc534.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4bf67e86-84ff-4616-ab40-36fd25fc71b7",
-      "publishedDateTime": "2021-01-17T21:05:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "publishedDateTime": "2021-01-17T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1222,6 +1171,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices.md",
+      "title": "Vdoo raises $25M more to develop its AI-based security for IoT and connected devices",
+      "excerpt": "Today, Israeli startup Vdoo — which has been developing AI-based services to detect and fix those kinds of vulnerabilities in IoT devices — is announcing $25 million in funding, money that it ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
+      "originalUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/02/getty-satellite-globe-data.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/amp/",
+      "publishedDateTime": "2021-01-16T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI Hardware"
       ]
     }
   ],

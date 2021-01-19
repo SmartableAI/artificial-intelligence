@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-i
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
 type: article
 quality: 98
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Facebook claims it's AI can help predict the need for better Covid-19 care"
+    excerpt: "In an elaborate blog post, Facebook says that it could use artificial intelligence (AI) to predict the need for better or more focussed care of Covid-19 patients. This, it said, is part of the outcomes of researches conducted by an in-house AI unit wherein the healthcare professionals could be warned of the need for intensive care for patients."
+    publishedDateTime: 2021-01-19T06:13:00Z
+    webUrl: "https://www.techradar.com/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+    ampWebUrl: "https://www.techradar.com/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VuJmFShWnVmmRbq6GZnbSR-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facebook to use AI in predicting if Covid-19 patients need better healthcare"
     excerpt: "The research, which can help produce predictions based on chest X-rays, has been done in collaboration with NYU Langone Health's Predictive Analytics Unit and Department of Radiology"

@@ -99,7 +99,21 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Lawmakers Sought to Ban Facial Recognition Software Being Used to Find Capitol Attackers"
+    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump"
+    publishedDateTime: 2021-01-19T06:07:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597789.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 30
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2019/02/microsoft-facial-recognition-privacy-bill.jpg"
+        width: 1740
+        height: 978
+        isCached: true
 
-secured: "MDQ0EIQz5uKX+xWlHJrVJEOdxj+xukve3lm+WcTT+yP7OgVpKvy3x3x8VmvFXjgl6LXnKgjuFyzYMGC7t78s/pKoKprwBnDuJQbzbMDc7/3WnSQSJZ5vcmHuyJUpqEnWxm//gesqtV+J8wHQt3T9CnvSi+QBEM0EfBsAjVcv0EKOualH31L7Z99H18pwbXLUC0ogL8h4k4RLnC7bpkUIt2bWF3LeLJz2RNguHRcqPKbHz0zI+jp+BB9ofOyvRdu01Nu/FstGM+es/SHilcLXEIO6lq3klw3CfMCThevpnJTxvKiO+w5n5+RgY07dcVtsyssLO58f1wUqmQaPf6y+frOf9V8+s8WDExc1m8r/xTw=;A7nnRaSxFOEHVVA7lPPypA=="
+secured: "fIojMIJZTkQpEcqcyZ23NYtwJkFOqA468CG4Xf0e2jYU3lGmXWlNMTSy6H4SU/y3SkC9eiE7Uu02yAOLZHExplvepe+N1OzcoBM9rEbDen8yQAAE+liS+h+br9+kq54han0oQUf+YQvasXIakIIDqF4LEHlAKJuAyQd6tlHOfdiIVHam6BMupve+fwav/VP9YO0ZWPc2b4iWgMCYjq3U373m7q2QtAPAYh0ssyZHZ6oy95kJMKcLkvvPIM/Bmn6TWQtCdLu4FYpI+Y2gV0AnTZ0mWhSa7dsgyTAwUY8wcJjcD0l2AP/qI8TMckxi12vFQUsE/9ZM5lVn0fnlJdKuNVj23fl16XeUL9MWFtqGxzCGf0ATgOoDU++NiX9PCjIkks7vpXyfR83A66ALAZSBNjfOXysFANrwZBp7cKT8v5UgrPrx0/IZxRozNFxERo2SP/gi/J0vDCyxVemGoLjKEjkzzYTCBIHW/NR/6RuSrIrs8SWWB3BkO05TVVErQK8QOsni76dAgHSNoUnGVJI5ng==;Ysn6kPqcoSxDQIqRv4rgUQ=="
 ---
 

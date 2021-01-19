@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-12-chinas-baidu-to-team-up-with-geely-on-evs.md",
+      "title": "China's Baidu to team up with Geely on EVs",
+      "excerpt": "The new company will make and sell electric cars. Baidu will provide the technology for self-driving, while Geely will likely handle production. Baidu has not provided further details, such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210112_09_929166_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
+      "publishedDateTime": "2021-01-11T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise.md",
       "title": "IBM acquires 7Summits to deepen its salesforce consulting expertise",
       "excerpt": "IBM acquires 7Summits to expand scope of Salesforce consulting practice focusing on digital business transformation",
@@ -1166,58 +1209,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-chinese-search-giant-baidu-teams-up-with-geely-to-build-electric-cars.md",
-      "title": "Chinese search giant Baidu teams up with Geely to build electric cars",
-      "excerpt": "Hong Kong (CNN Business)Chinese search giant Baidu is teaming up with carmaker Geely to build electric vehicles, the latest move by a tech company to shape the future of the autos industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "originalUrl": "https://www.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210111020126-01-baidu-geely-auto-self-driving-electric-cars-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "publishedDateTime": "2021-01-11T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

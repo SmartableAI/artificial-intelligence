@@ -3,8 +3,8 @@ category: news
 title: "U.S. exempts self-driving vehicles from some crash standards"
 excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
 publishedDateTime: 2021-01-15T04:52:00Z
-originalUrl: "https://www.reuters.com/article/us-autos-autonomous-safety/u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSKBN29J29Z"
-webUrl: "https://www.reuters.com/article/us-autos-autonomous-safety/u-s-exempts-self-driving-vehicles-from-some-crash-standards-idUSKBN29J29Z"
+originalUrl: "https://www.reuters.com/article/charged/idUSKBN29J29Z"
+webUrl: "https://www.reuters.com/article/charged/idUSKBN29J29Z"
 type: article
 quality: 54
 heat: -1
@@ -106,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NUagn5ceE3YdpHs+StnK98OFPE3WaKbpRUqs2TKL3r30rxMO9/Omc/w9oQCEJIRMR3E9gAb9ytysqgD3GPtSVG63lY2ghRq6HsSPrlqxS8pkdHumhFUuEkVmupsm4w5wCAKK1xSw5OuRzfMIijo3tYMiY/S7TxJFIbvXQzi5sjUPwV4xkaiqe6nHbWv2ErrvRrAj4gaEEWFaiJJrNRacbtGxyAW7r9iTlGRSLquOAkoYDg5Cpy0xJKF8MvML8d6o5dWiV8apmTQhavdSdYW/imGd73Zd2TnhDalTd2BfWknP/OnMxIuJk6rl4CdNzP59CYr+/FoXeAyagECfFLVPMxzapJ+JrB0XpCss65HLv0JoOm+BDUjPGgRMUMtxirbVcOUIJPD6s0erfYNOhg4K+iaY5zsi1rYF1U1W5ABBlnR6F5zuKK3kaxYAFf1XvKB0J2JRz0UtV+3bpdlmJl3DQ4qallg3agSVipxXdqkmznDr6neQS/kwMxd8wjjyqxvQ9oJEmwfoRaEdsV2IKUxD9A==;CiCI6bU9AIhwBNDhip/QZQ=="
+secured: "YC6gDpvYhEg5owxxUhVBdGyWb9c1hvz9uH5MIA/8QqPlIHOw06mzSoAe56MQTHUKcq9XqJ2nnZl1PlPlptKE3o1/FSYL7GfIaD+IG+Vk7m9IzKCgG/iAiiQUu2a2/PR9ao/GR4T3qLdoU38/TGp9XdMKJSKEpqT4TEZtHjcJVHePbQQ42SV2RZFFsQ4yCRwtK9uCuevItadfi/Xt22YyzkADHtfoDT1ZkQppLfmFOAJRJhVU+xTYzo/jFdo2qqTvBmAhPKmSZ4i6zfV5JeD0cxunW5tiEyZS6X6Rx0C0a4ntQlMrwOJ6aOWBRipq6RXBtVqMo3d0MvhO+JakY54qGLg2etYkihT+lzqYb/lXo6Y=;TRGnnGJzuBFCmRRbtDmflw=="
 ---
 
