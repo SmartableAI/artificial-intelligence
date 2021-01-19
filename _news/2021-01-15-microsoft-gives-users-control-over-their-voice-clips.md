@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft voice data collection will be optional with one catch"
+    excerpt: "After becoming a mostly touch-based society thanks to smartphones and tablets, tech giants are trying to turn us back towards using our literal voices to drive our interactions with technology. AI"
+    publishedDateTime: 2021-01-19T04:07:00Z
+    webUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/"
+    ampWebUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 91
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Microsoft finally gives you control over your voice clips"
     excerpt: "Microsoft will give people an informed choice with what happens to voice clips when using Microsoft services. Microsoft came under fire in 2019 when it reported that contractors and employees listened to voice clips."
     publishedDateTime: 2021-01-15T18:59:00Z

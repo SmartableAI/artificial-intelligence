@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers"
+  - title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
     excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T00:20:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp"
+    publishedDateTime: 2021-01-19T04:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/u-s-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 74
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548246247&r=LYNXMPEH0H1DG&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "US lawmakers aim to curtail face recognition even as technology IDs Capitol attackers"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
     publishedDateTime: 2021-01-19T00:03:00Z
@@ -81,6 +84,20 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13990792/16x9/991/557/203191f8df567c1150d93ead6f0a5f5a/sT/file-photo--supporters-of-u-s--president-donald-trump-storm-the-u-s--capitol-1.jpg"
         width: 991
         height: 557
+        isCached: true
+  - title: "Face recognition targeted by US lawmakers even as the tech IDs Capitol rioters"
+    excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
+    publishedDateTime: 2021-01-19T04:40:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/19/face-recognition-targeted-by-us-lawmakers-even-as-the-tech-ids-capitol-rioters"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1013160.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "4oO/4GGLiiBEFb/1YzV/KGERYZBW6Z35uW6rRcbeMAvNv2r4M61TIbGNQEOsi+BQjgPv5NDIBC0zI3VlqcEwcIBduwSJKZRn4Vkg/g2t5YWIXOXHPm+g+nydQQgB18bElnDqXr1PHD1itzpMHan1yCxvmHlDc0+XuZrkQl88GvH66UFt/ItH3VD9bGx4YNLSvx08xDdObUNi0SCaUBNU4/nHPuqHtAZgp31LGU9LyRYXBKuBaSno9C5r5MWCQroHdi/VYY0PgRiTnUAn6crF1i9cFTMIV4zLFFIHDRw6Buf2bPbRmdoNHPUFRIAdUkXfiTUxhawlRSADizAe8QbubyyQhGRP3lSHMv5SOHnFfOs2cxFmHqQTsM0JjeQu0dUaqOoZWhTy6KQfB7Tmbw0DddBZBkEWP1d4OvTYgWpA00hMkT1xJhkucscLhSZGIrhaWnZPZr2eqDZdEgoLm2melVnBabnty5fUmv+hF8qiX98cPeDwTxOihAB/4k6vm2klNb3QtEqD7+3afTsysWAA7w==;LMPD9njJVTIOo5IKIwGXFQ=="

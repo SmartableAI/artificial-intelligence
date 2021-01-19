@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Google thinks it’s language AI can manage a trillion parameters"
-    excerpt: "Can’t be worse than what it has now While firms are under the mistaken believe that they can save a buck or two on translation services using AI, the technology is a long way away from being remotely reliable."
-    publishedDateTime: 2021-01-14T11:40:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/52205-google-thinks-it-s-language-ai-can-manage-a-trillion-parameters"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/34556497cfb36527c746abdcaed129ad_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "r7V0txNcnNw7X9zEye/oYHtLN7HlFtRFZXctc1R2AE+iMOSzpavCvl3ppsVGABni279wf0/b+Rm1IIchFvVTdJp765A0PWvXC4tAhB5P9k49ZLPE9smoUQtBfUVDQfH8rT/VFYalxeKgA5idOZxwb4acNDxi5t9mVkvXhClzc1zmz1iWSKEK94luyemrHXLBPPHxZCFwTojdABtkHGJVEMhBSIR3616FI8FGmInKRR5yJh2jr4WWD5cU3z5dNHErbInYiY5Q4JErBhMhT2RkuS3ABVzLJfpxBY0QijMuie2srU99btGx/WPJCyGvEbdzQ8O8ubuk2XoFA/NVcUVpoW5ofMECl7IV0JYhzD3oEIWqDpitRfH+o9+xMue3BjE6v0MBeWWxwLgjcLj5aZn+wziBbBK+DFB3DLYX5hUKT89MdFSQhrNyooUzUZl8I1SjJOyhZqeRLaVstXj748XX7Ec2llUOsupqGzPR73FfxAlA3WrpscyCiNR6uFguzgGPwNDlm2kh0WOopsTEYsm2dg==;TE5+Oko43DzBhA3fw0FRIQ=="
 ---

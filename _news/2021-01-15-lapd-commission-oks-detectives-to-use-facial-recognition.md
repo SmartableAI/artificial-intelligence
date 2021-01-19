@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,16 +28,19 @@ images:
 
 related:
   - title: "Progress towards unbiased facial recognition seen in EU computer vision challenge"
-    excerpt: "Progress towards unbiased facial recognition seen in EU computer vision challenge. A challenge organized by the Human Pose Recovery and"
-    publishedDateTime: 2021-01-19T01:15:00Z
-    webUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
+    excerpt: "This challenge aimed to address the issue of discrimination in facial recognition algorithms relating to inaccuracy in identifying ethnic minorities."
+    publishedDateTime: 2021-01-18T23:15:00Z
+    webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "New advances in detection of bias in face recognition algorithms"
     excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
     publishedDateTime: 2021-01-18T13:32:00Z
@@ -51,6 +54,20 @@ related:
       - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/01/MG_5999_2021-01-18_21-25-39-768x512.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "KLIA to use facial recognition in place of boarding pass"
+    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
+    publishedDateTime: 2021-01-18T23:50:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "6RRmJ/XdO1ulbRRVTB8VMDNKETBeqd/fgd0+vnBuHUkbKDOUbtKfUQbgQq5bXWATIWazeBTo8YBVpGw14iUg39xaQWUm70kBllYM6HYFsRJbl31botGGdMW4X34wxFlNivNOCK2Nt6DlGqJ21jdVwxrxc350YCZrTL44ZS+ugEh5iYSYRbjIb4lobLjnS90kc7NxDfUPnHEu1ghUfth2U2ufTvTlwnw/MRmzysXV7XHsOBMr1o5ImhEflNmOYF+gqnlUDqKWAzyurJrYyQ0oxLtRhTAbNyKsGHJA0mM1vJYqXQpx1emnNuWhsgwbNe9dCjEXmb8VSmsXF8Y/j1kUYh45JtwsvPlMAw9dQmo15l59yXRatdB6VXXr38yaZKxXMqizIIP70asEMxGE+sRB8PAfQMMAXXAf9TftQpRWPDvcpG+P55RuS0v3tl76BY2XfPdSKYtIyQB9BmSCLB49VKbalOnpbFcblR3iqdwEs4oPGEy8ZNPFoVpoPEFe6hkyjeRVZ6ifrZtNYd8d8xA/IQ==;dM4lzmKD6iBQ42vkkPKGtw=="

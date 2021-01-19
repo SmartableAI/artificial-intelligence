@@ -73,20 +73,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "LTI and IBM to Expand Global Alliance to Help Organizations Accelerate Digital Transformation with Open Hybrid Cloud"
-    excerpt: "Larsen & Toubro Infotech, a global technology consulting and digital solutions company plans to expand its multi-year, global alliance with IBM to help businesses transform their operations through open hybrid cloud adoption."
-    publishedDateTime: 2021-01-14T11:47:00Z
-    webUrl: "https://www.aninews.in/news/business/business/lti-and-ibm-to-expand-global-alliance-to-help-organizations-accelerate-digital-transformation-with-open-hybrid-cloud20210114184515/"
-    type: article
-    provider:
-      name: Asian News International
-      domain: aninews.in
-    quality: 1
-    images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ltijan142021lkjhjty_uAroOc6.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "qV7fmJfdzWj7VgyY+yUD2KsEkWvmWsdIiGy+WOtcGjLfMHPAwpep+btQXnAAgiuhWYvapu4o/l0A1t3nN5bS81mjoRTETP+bkb0GEGQLw1MyhjDr4FVDVqSA4jZNtj6WylmhCdi2WPOogoaMdfr2bUZdWtB0dNDpoIzb+2QFWpuza8UOAizopTeRGz/Q+GHkjJ5SPYux2hvfiQMW8oafvFzx1Y8HxoiqGfdrL61hjyrDNF7+tWzZV/4BmmlS7cAchnv2c2/oaEKksGN9a4Z+6g2sW3K2m5/1GhoHjvy6J0OtmJwa+Wnl+cgV2U4gYvZ6nhCWkhzspH0TT1CoGmYbDFDMjc3ati1Y998MMc/nVqddT0pG0Ih5vWzQ6ii09fd91ZTTqUKN275MZ3U7bRwguJ+QV+QaAjFimYH+L/Q3OJ9Ww2A200wm3zMDaeiq1d9ljviu5HW5sPwOPcoEstujnfkJrATyoQvGOBLhyLcVR+rB3Z1KcQA0SmgBZjpUG/VEJzJiDA9gbwEdJTGNZm6Aww==;au/mpzyrFh0yC8NkaILP8Q=="
 ---

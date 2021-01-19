@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-president-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
 type: article
 quality: 106
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft voice data collection will be optional with one catch"
+    excerpt: "After becoming a mostly touch-based society thanks to smartphones and tablets, tech giants are trying to turn us back towards using our literal voices to drive our interactions with technology. AI"
+    publishedDateTime: 2021-01-19T04:07:00Z
+    webUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/"
+    ampWebUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 91
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero.jpg"
+        width: 1280
+        height: 800
         isCached: true
   - title: "Microsoft gives users control over their voice clips"
     excerpt: "Microsoft is rolling out updates to its user consent experience for voice data to give customers more meaningful control over whether their voice data is used to improve products, the company announced Friday. These updates let customers decide if people can listen to recordings of what they said while"

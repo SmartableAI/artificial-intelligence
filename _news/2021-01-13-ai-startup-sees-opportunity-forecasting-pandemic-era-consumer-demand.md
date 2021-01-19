@@ -2,9 +2,9 @@
 category: news
 title: "AI Startup Sees Opportunity Forecasting Pandemic-Era Consumer Demand"
 excerpt: "New York-based Centricity is helping companies track consumer demand by analyzing some 2.5 billion data points’ worth of internet traffic a day."
-publishedDateTime: 2021-01-13T00:13:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=hp_lista_pos5"
-webUrl: "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=hp_lista_pos5"
+publishedDateTime: 2021-01-13T00:28:00Z
+originalUrl: "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808"
+webUrl: "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 640
     isCached: true
 
-secured: "p2Esc2Gp1TMMCLiqKvKyKf/qTjokcoJ8/PoVtQOv9vfZcaAD6oypT3xemFYAzj0rL3pHROUOMmTOSGKPVipBHbkvhnk6kT8U/N+7KhRD9hLIILHP0t41lu4E6tTb3oTmtFSzBbLVet+dVdxFlPr0M/QdrzC0U1StXhrHBo1prTNpJ4RK4+jL7zdPI3linAHNyZ40uvAvFX6Sb9wQ1IRVfoi9kq9r6rfgbHs2CpOTbcK826BawJe6YSJbIfGsnOB1Uj78vwrir+bSxOBBVmykmqNqHnHPhLyFJ37rhlhN4I4sDlPNenZyvund4vApRZNDVikeGlmv2THONo6EXBjDuWkoCECUH5JGuCKEEu2Jpq9YoqIS8ogVTYlriRt8COeD7QARxxY9ddpGQOwUYfNwL6gnlLQM5cUh1bxpWEIkrSW3PVz7ADvx3cTJvngO1FQwgt6MlXZ7cHxNShq/9GuXK8lFFpP/Jixtu2DMH52HgevD1+2ya+ujQ7uiywrDFtWpCCIkh4wGe2SEWmQ52mV3WQ==;o82zSZNJXKKZrhSKPTFmrQ=="
+secured: "7uPg8r5td9DurTPlCdgi2oWNzS1FHYoyx0nUuk/Fq8jE3Qmij7wSEtG6MG2wJNfyG2+rCM4np8BntYWLj2MVtQ0z9txmr1ftvpFVsEHL8bAqTIHtawGlZUQYe8gV7YouPMMytJVcQ4XQDqDD/FzxvZoHYdZZz80UIQlt17l3Eg5zEYowF8uT/tO7+KkvXooJ4Sq+WicpLLciHPDpWZW4O+6Xp9NI+SpSnffCcNLCdSjDKrBsIf8HTHpE2NNVKyeuyGA/BVl6XeW5kGEBioRsnLRPKLWoKo8RWW6CBIPoODjHex5/W63NowOrXZlqnIeU9pD9AgNfq9V13vD/HfHXb4SbeO1GChhXIYB1SnUFKuo=;1DjOpG9dmQMbl7+f3KEtpg=="
 ---
 

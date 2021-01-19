@@ -1,28 +1,32 @@
 ---
 category: news
-title: "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers"
+title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
 excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-publishedDateTime: 2021-01-19T00:20:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?context=amp"
+publishedDateTime: 2021-01-19T04:55:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/u-s-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L"
+webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/u-s-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548246247&r=LYNXMPEH0H1DG&w=800"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "US lawmakers aim to curtail face recognition even as technology IDs Capitol attackers"
@@ -85,7 +89,21 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Face recognition targeted by US lawmakers even as the tech IDs Capitol rioters"
+    excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
+    publishedDateTime: 2021-01-19T04:40:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/19/face-recognition-targeted-by-us-lawmakers-even-as-the-tech-ids-capitol-rioters"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1013160.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
-secured: "VOJ++ZBaMK3D7MAEfmMNH/hymzTUa37llWzSXqNS7u6XvzLy/pXN17JIQ6EsgoX1K5SWDBVdEVzDh6Z+t7Ui84a1OVeWxy9eWbxZBizj++oyMqsj20eOvum2C92VSYgaFUt7QVeLOet8Q9FT1SJWbQIGsC2E4uhG5h7uv1UeaRK1NfCio56sMmqzJEUbBp9CKSR/dvIVvmiCXkMAe8cjVjOp6dc+VLsgBwe4xDnaoIGfsq2JUz9Ourb/Ej1z4MynAmyoS+6Vp9B3/oAZFNliv6leFKIIhxZ1Atrld2Vx+Iz2qMddI8dKUEGpjxzY/MlXaakkUogF5xRbZgsmdyUMPXPmHkpFeNKywGxF1hHxFXfyz1tjzPkwgtm9cpIacZHt60hE9cynlvaHTtJKGEQWTsQZO48qVi6kYoEkVurmg++7G3QAydR4TdLnTLYjlaCutqF8N2cjbcJO5STK+pfS2lLQF1Jv52XYiFjWiCV02JVMlII9iNl2EqyXY/ARjroucD0ySm05I6rKgXTfNm3BbA==;6ffYRqwYKGgaoKcPRqTgYQ=="
+secured: "4KSm/tX4Nyfmzfq9/R6gxhdvw3OV0y3fQjXCVzgTLcfbgyX6ondIo14zUZm0Tz/xO91KeUfB6uqg2x5NJj/HC+OsfeDGymld5qpv8CQ30V+NfEe3gj9Hw9l2QTkb9M8XtWaUhoURDuv+48hWCDc397HYN2xBw6xNwo7RySc3BedUJSZz7yZJBVpO0hj61+Mtu2gmGeYL1MoohEcwBKssPBjaNM9z4MWQeOopmL6VUttPCnbP7UV+QqKdSnBb75CFt+25MsGQDZOAeHbfdPZwfsTonMUCer70TdP1RN6F4JGH9xz1zJ04UfTf7N/5P0JugRn/kAx6obiUeYZjvb0rK3//g6Bc00QVn6Ha9zottMQ=;AzceZdRSECKZdB+vMnqlpQ=="
 ---
 

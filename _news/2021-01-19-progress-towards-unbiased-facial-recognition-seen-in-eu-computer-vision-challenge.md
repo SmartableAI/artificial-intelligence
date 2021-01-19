@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Progress towards unbiased facial recognition seen in EU computer vision challenge"
-excerpt: "Progress towards unbiased facial recognition seen in EU computer vision challenge. A challenge organized by the Human Pose Recovery and"
-publishedDateTime: 2021-01-19T01:15:00Z
-originalUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/"
-webUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/"
-ampWebUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
+excerpt: "This challenge aimed to address the issue of discrimination in facial recognition algorithms relating to inaccuracy in identifying ethnic minorities."
+publishedDateTime: 2021-01-18T23:15:00Z
+originalUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
+webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+    width: 1024
+    height: 662
+    isCached: true
 
 related:
   - title: "LAPD Commission OKs Detectives to Use Facial Recognition"
@@ -51,7 +55,21 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "KLIA to use facial recognition in place of boarding pass"
+    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
+    publishedDateTime: 2021-01-18T23:50:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
+        width: 620
+        height: 413
+        isCached: true
 
-secured: "1o5BjQPP7Lwvu04npOjWshLKdmoiIJna7FqRZUfIwDdJNCfra+gGMiLMOQ/oPAoSwYcCOhKVU17gOYDROAlX7RtMAGXeq+j7A3aHNCRnX3K+nMnw53CoR3CfsILSKHJfP2fMni74Q6ZUg6c8pQCwMja0axbnQv2yktJqnDDa5lRPEUGZI1a06g74UjmJ5br32QrYvEzNhSOl8r6xHyFgU0fksduDZ2d1tICzHgac4GmjAM3u6Ldgv4WSYqZcf88GyNzZ00JwzTTUIkwjpox2/Po/gcbSJ3qxA/KSfWcdzkRsbS8HXjYA1j0Lx7Ex1ULrZfQe7+1ADuV+mb29e+wcYcsvLYRBt1ln9aHo9v73vLmSEdXTu/upV00/+BkSI0qWbybL5RSykZGzu5J4lKMHC5+VdYwtAXXirjDD2yO2zdW8H4TTv1650PCiQuOfYpbvBXLreeLrjaN/8kFtP/muVRiYvooJ9OsXwQmiA72925QLv/S2Vyt8B2BJUhgDfUnsCROomvkVe8u/umDMdBNn2w==;ZcQX0pbRrBOMlYC0TdlEig=="
+secured: "ptWSk6k5kogHCzyyCC1W3HabmKlxKdf34kL8Y6PMHMXkMQTtwk9a3XlhyMQv9sb0dPDV+kzamKhlGvu3Tz9Q39NtDK+qGt/dyO6/sfzspLymQ+3x1/aWPMuCpDyBgKi271tEHJXP2i/D/sy6kCJ+04nMI89JV7PylshQqGw/Yq6p0cBrLRjmUHQs+dUVson+G+j2ecd0x3e1GPq8e2S7KT+Qz1We9Vfzo0Z0N0gxZmu252y3/ZjJayIlM+T6ZjlEQQyhue/AHZ335nE1dun3VF11J7IfEjiVEhjdjezNlRl0Kd1QofC+nmZWnpTTIrqRfv7+Fvckn/Tf5RQi2iS6TfCJR3r3NBcnaIRk6XcKe9M=;EY+N3Pk4wyzBL/WGjHF4aA=="
 ---
 

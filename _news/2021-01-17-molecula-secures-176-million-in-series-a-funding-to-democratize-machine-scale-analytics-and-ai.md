@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Predictive healthcare analytics company Lumiata raises $14M"
-    excerpt: "The company sells those predictions to healthcare plans, as well as to providers, especially accountable care organizations, that are risk bearing health systems. \"If you're in the health plan world,"
-    publishedDateTime: 2021-01-14T12:02:00Z
-    webUrl: "https://vator.tv/news/2021-01-14-predictive-healthcare-analytics-company-lumiata-raises-14m"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 54
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/20897.jpg"
-        width: 320
-        height: 240
-        isCached: true
   - title: "BlackRock boosts sustainability analytics with stake in Clarity AI"
     excerpt: "BlackRock has taken a minority stake in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios. Founded in 2017, Clarity AI has offices in the US ..."
     publishedDateTime: 2021-01-18T14:13:00Z
@@ -62,17 +48,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Scanmarket expands analytics capabilities with the acquisition of artificial intelligence company MIA Data"
-    excerpt: "Scanmarket is pleased to announce the acquisition of MIA Data, an analytics technology company specializing in"
-    publishedDateTime: 2021-01-14T12:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19158792/scanmarket-expands-analytics-capabilities-with-the-acquisition-of-artificial-intelligence-company-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19158792"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19158792"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "BGvz7534g1HMCz51JZ7lcV84YIBjJlidzjZQRFsjDq9IWGxxQQj7sNmMqkUBZKjjiYCpkhxLADX3/LlNVEZRPjKz3TqyxcKhxplvbK3dyy6t1RXMOxCfo4pppYgw4QiKEcJ2qOG+IQNkzrFQ4NJKHHTZ0RHdngUOlitF8FeMUWUXxfc05mxEf1mfPX0CYlRTeJXEVacSReB56NLNapGInVI9aRbtrgpOI7nIok8mjZrJsoh2ts8BNN4Pos1Z0hJ+mzt+xaMSDbp4eoelnLzPFCtZuetaDMdkNv71tdL9KXQfWH9ieQnzM4EY2TWgmqcsrcC2Oj/iD4ms3BdCBZaYsxPNsLntxBZJAUL6UmlqxldscMHP/PFAbomOn0jxPT6S6lhwU2tyL5FBFMpDJ5jAR+xeekNHawGwTGmIo8jNiGPSi8XS3yObofnHW12HI8PG2XExSsAdfvgclK0ZcxEoTQgz4pCUqEQh8fpZDmkPcYG0/Jv4I3x/TxlQp5F0gl1MRThRTaRNl9NXAPMMGPBmqw==;vtEfvYCNmPYA19HYkpszaw=="
 ---

@@ -42,16 +42,33 @@ related:
         height: 630
         isCached: true
   - title: "Progress towards unbiased facial recognition seen in EU computer vision challenge"
-    excerpt: "Progress towards unbiased facial recognition seen in EU computer vision challenge. A challenge organized by the Human Pose Recovery and"
-    publishedDateTime: 2021-01-19T01:15:00Z
-    webUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge/amp/"
+    excerpt: "This challenge aimed to address the issue of discrimination in facial recognition algorithms relating to inaccuracy in identifying ethnic minorities."
+    publishedDateTime: 2021-01-18T23:15:00Z
+    webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
+        isCached: true
+  - title: "KLIA to use facial recognition in place of boarding pass"
+    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
+    publishedDateTime: 2021-01-18T23:50:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "dkUdIGMGZUKspXPPJ7bRbgE/YStdAxYodOO9xoLxfyy492jx/XOLiG7mQYu8vnciQM0UMZ3MMChlqWzsseyoBR3QHe86++NypmUKnGnO0r3mU83G1Q3sL1vMbZtQO8C+AZ9aqRP6TtEHnSBs1BKUrdKFWzYKRXbHQEeEZjmeIZfmNxTemmZ0ZV5lelgBgrv7+uWm3rOk2FTSsjM73/Y3wCgtvxJLp5KVM7b2xW55eKn8PZ5OZaY76WuYUetZlgIeHEKSDH+JNoNpTnCIWD4uD4P2O/0EIHo7zNMxAzAD5LdtG5fTUhzdslIdF03CUBcD1aqME4YUg8z8/P/j3gnLqKA2csEcTGrfsFVPz3XXhGs=;qqjqfpyb8qhafVViS/8xtw=="
 ---

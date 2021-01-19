@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft voice data collection will be optional with one catch"
+    excerpt: "After becoming a mostly touch-based society thanks to smartphones and tablets, tech giants are trying to turn us back towards using our literal voices to drive our interactions with technology. AI"
+    publishedDateTime: 2021-01-19T04:07:00Z
+    webUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/"
+    ampWebUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 91
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Microsoft gives users control over their voice clips"
     excerpt: "Microsoft is rolling out updates to its user consent experience for voice data to give customers more meaningful control over whether their voice data is used to improve products, the company announced Friday. These updates let customers decide if people can listen to recordings of what they said while"
     publishedDateTime: 2021-01-15T17:00:17Z
@@ -152,6 +168,6 @@ related:
         height: 480
         isCached: true
 
-secured: "eZrnHdpYeOfHwm4We6ML2+6sCQMi1oYpwPyx4WTu8yeXxrIZbOm9KnQPF0r2dIuJv/MPrEltqdsBK+0RWzs/944oNyrz4T/2kLPyIWvx453nRmdlQy6E+n3mHJoMgW4tud77mBFOqgpBKihwTRde9Dq2FGdelb+1wrUVCCE0oPn8Zty5lg8kIplIwW9kDn+Wcke4nZyZglqdiEG5n8Khq0BP3SY8sDkh/Oifj172nEG/bDo59eh6EEbgbc4jglZx18ipKlKi+dV6d/IFFdTOyYNco21hZkQ/eBo8VWMUSMyNop83fsWM2Xo54mDnqDimqNhda2e+Yfdf2DWNpzgCif8w0w7j10fmxTOiMmnk1no=;qmrWMgDt/WzGWl8/ITMwxw=="
+secured: "IF+w292aGvFPWRkKKPAE20C5KF7u5bp3DZs89wUJ9iDK9vGwW4gE3wmFLZx9YyD19JXZccUdc4pT5sfSWBM+a+8C+hsyhejVsnUuEWfilgISDwAVjnrpTsZ8Rdp7HJGKi02433y4Sfa5ICWzJ8nZY5jN3PohNJ1zo3S2a1nU7//dr6sW3CYTiijUxP6U8QzpJ1FBto2bKM4t04rf0FZF14CQZ3/PYp+J4iFFq616GfZMDolgHkJ6iBecdnXr3EIbr74E7GUXJ0iv5mXsvzbNg5qVJTKMmuaJdcCsQq1q1vU83ulfFSwNFUpMXYPQEcMHDNerYT9jHv66KOg4Z9xNwZtf7pmnF1XrWTKp/DfJvnImsDCLfV6JH8pbonusroayGUtCmvUgKJP+OPGX/6wBVdH/L59n80bnLKZ3i8/z+1qSpRfupxngnC9YGBHfVdfqjq9bTc18rNzHjrl+csqRIZgu6nhayESM15N6ViegQXfvup9aNWflUb2EOn4m0y0aUYo+UD5wk4rqeGotP3MEiQ==;IAIybldfoKiVGQEr7ywiZw=="
 ---
 

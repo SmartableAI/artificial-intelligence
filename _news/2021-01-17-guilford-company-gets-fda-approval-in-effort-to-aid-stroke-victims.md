@@ -3,16 +3,18 @@ category: news
 title: "Guilford company gets FDA approval in effort to aid stroke victims"
 excerpt: "Time is of the essence in preventing brain injury following a stroke, and a Guilford-based company has received federal approval for a development that may be able to aid in that fight. Officials with U."
 publishedDateTime: 2021-01-17T13:00:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php?src=sthpbusiness"
-webUrl: "https://www.stamfordadvocate.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php?src=sthpbusiness"
+originalUrl: "https://www.nhregister.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+webUrl: "https://www.nhregister.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+ampWebUrl: "https://www.nhregister.com/business/amp/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/business/amp/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - AI in Healthcare
@@ -40,6 +42,6 @@ related:
         height: 2048
         isCached: true
 
-secured: "HQ+vlPOJk6Sc3Zj5l7Avrfyw5itZHWVU7hYph4i9YwQ5Lx7eWXB5y/1hCgh7tgy+DZaUMiFW9BGZXfXrB8fhB7kWaZhSpxzH4MZRDcwXjKT1QetprqakIPHu9x8L34ybSNtiKpHKEDNHXt4JCWtMT6NWrawU6MwSV5pzHBO73yRuRpD+GHtDKBX+Kn3lN7h9E3sutIASK3VSU8iZv+cOnq6zxmIKMqIbdBdt5svDXviCVArCqIuC/4VBFto7EN//uzdW4kwDL7A8QLjhxX888XgtUpRzLhWrX9Ppi+UzuuvS2I1EB5f440wz35IBhNBHJpzO6sUkpqrlQK3du/LBDC7Jwjz5X9CldDYLGyKCqUI=;B0FUOJJuaThX9YcARyjUoQ=="
+secured: "bWoOJvAtBmVqu46RjdswJQIB7CiilT0C3ZbXZF5wUSCOf04jK+jCoMOe6C99nPfDo8DJoGPEbYqFTXHUNnMvA3uC403R8kllYyNQ8aKfLDpVpU8YvW7ucopXGgdrncSLKDO46Unppig6KyY+m5rit02ltwrKLxnXCIzcBaoBkrXV6/utaBJVvRsr2W/7aNlJ1uQbNwmqRyc98GtyC0SOx1VI1T7Gf/87PWUB4Vh77WdWQIK+SrD9fHfKm3IbWb+rjY3q7fjMiGjev5N4meDnHmC/77NUSmW/S+OacuBU+R8a/wX7KgwVSCyO20vwB/IUDkfvsur0PbPcN450RFjxq4LtvyYSEO2xeapeKiHs1G0=;85kLX5RbgIiaVyDi/Rzinw=="
 ---
 

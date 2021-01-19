@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lumiata raises $14 million to predict health care costs and outcomes with AI"
-    excerpt: "Lumiata, a startup developing software that can predict health care outcomes and costs with AI, has raised $14 million."
-    publishedDateTime: 2021-01-14T12:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/14/lumiata-raises-14-million-to-predict-health-care-costs-and-outcomes-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/01/14/lumiata-raises-14-million-to-predict-health-care-costs-and-outcomes-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/lumiata-raises-14-million-to-predict-health-care-costs-and-outcomes-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Oqton raises $40 million to apply AI to additive manufacturing"
     excerpt: "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million.Read"
     publishedDateTime: 2021-01-16T07:22:00Z
