@@ -39,6 +39,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "US lawmakers aims to curtail face recognition"
+    excerpt: "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities."
+    publishedDateTime: 2021-01-19T08:19:00Z
+    webUrl: "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers"
+    ampWebUrl: "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  "
+        width: 800
+        height: 533
+        isCached: true
   - title: "US lawmakers aim to curtail face recognition even as technology IDs Capitol attackers"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
     publishedDateTime: 2021-01-19T00:03:00Z
@@ -114,6 +130,6 @@ related:
         height: 826
         isCached: true
 
-secured: "BW8C7JL+LH1AZaY6EpkNOpXN4RnchBDLwnoPBYLivaw8//QIloAaQ+D+GuouQouzyvB2L087ZcADjoVFoAGHFs3caf3oXGpPgJ37qmYrRPanmDJf+1neUWixgADHW2g/5YfnC1Tgx6ur/Q8NRGzpmb25CgU84WhwL2Eb8WA/s+TZKQwJrw0H6GqyvIttIsecrlC+Hsqwwb9ibg44gXOa4dlQLlea+0/v9ZPn28/1fRfMnZhUKHzpA5DFKjSO+5C5FlpzzSpHC6mhwTcBukvo6FcegSmYL0/NdhD9w2IqiRHzbxEH1zD87EtQiG0jK/JGPyLcwTjoT1mUZ9kFdy5mG/u+X6dQBroKZELSIBS/8zI=;6oaZLob0c42dyK7UAUaXtQ=="
+secured: "x7V2HUF5mNJNz/LxAMKuynkCtWxk337oe3Pd4apDKBE0xIMq1jzgUovhbhEgtR2zC37DAjUzW2rNijT0SLoFrRVddaO+E3RL7O22WOWEzzJ4Vdmqxc9NcNkDmASuWDHRcLghG4yjIrEQgDX+smzBfi7UK20Z3MmWKrAytp/lXgdx4+Hncw8dQHP2hYwwODoFh8JeB4Ho1BTfpvr++KbB4GHWGuMkeRjYgebZKTU/ffOEj4LA8Q8XdXRm23k5yno5PfJWLuGeZCqXDJrLebgvC69MoS6DjhukkaQNJAtSQFTwCEgv5BhWVoHkV2KNkor4eRWuhwBhPBRbphdnFHmkn5T19SxpNUTUS43Klofgjvf+IciL8Vz8elh62B+21yVVxIPyDs1I5SGzJoHD6Y01U81TaqwmRySmYef/loqfUmhsyQmry9cJ447VrxQeQ2wccbD+812Oxb2CLUe7VMQZ0PjZPlNP5irJY7p38BDlezepZsRrcDe8Us5lCuoZWJ07mlz+tZP9IeJyLKSp9Pc+OA==;t+gHTUNbICm5J2ozWjWlmQ=="
 ---
 

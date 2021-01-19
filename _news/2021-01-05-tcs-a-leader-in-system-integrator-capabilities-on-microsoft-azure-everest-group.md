@@ -1,28 +1,20 @@
 ---
 category: news
 title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
-excerpt: "New Delhi: Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been recognized as a Leader in the Everest"
-publishedDateTime: 2021-01-05T11:53:00Z
-originalUrl: "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/"
-webUrl: "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/"
-ampWebUrl: "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp"
+excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
+publishedDateTime: 2021-01-05T12:23:00Z
+originalUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
+webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
 type: article
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: Tata Consultancy Services
+  domain: tcs.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/TCS.jpg?fit=400%2C400&ssl=1"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "7wgfTTG9HbxUyJGXhUirYxV8t2yDKCcSR5saxHy6M2Lo/UMmWLZaDITFNhX9MLiDkkXrOUrE9encVDfPWBaPh97VLAB1d+NU+JYeRFSBrX5n+lbZrNAhdcYgLWG6J5hthhQu8rdt/TxrFDuwR4k1s1K6ckdiK1FuD4eakZIjvlpEjmYqtv125zGIZ2FUUCfG6OmDR3xqNwMHfMbelixsQcEAyhnMMjVrZg6j9sYQW84mCpFi8h8N8vA5mMMISS2m4clya430NmGxbSpjyXBYhIM5LrIX+pNzHPXjsefrbspRpSw+3qGTvkQbmDybckD19bpn3i9LmSZ5tUC/zSWbGAt3OQvu8xBXwX2mifHxUa0=;qkzpfib59gX/VLiMBl+/vQ=="
+secured: "+xUdS+A16M8jU8DyiMsUdxS2nGB8gD+Y7nOE+MDs9iOBAconLdhuWPtNSITcduJqAVMw5YArR/ivnqWaCkp6c1G9TfbCdl1NizdmsvbgzDB1LlGY35nTz+DmVcbNmMUPE5wMcDFZOBrFRYu8jYJ8ePCF4Cp5OwKqB4Te31swK2WRuoTHvcSnmU8XjYRXgchjvLeSI+zS8IYX5UejqiAPyDCIa3ZGonsF913rVoPSaLXSMVAyOu9GyCRrB5N6GMFwd8HHK3kQO0MQfzzGgy+NcWGGS8Jd6HF03/1tjyms0/58KjRd8G5lbqw7j3YYwJHTSdoIFRfbjvoSqHTpzx2rJDyWMICy/DxtNxzGu4wwrPBNFIiW5SzaJ5SjG2HbQakas05TjwPMzBN85JefNmHQqIhNd4guFRJg/k31ZmmDARpvaPUHYPfKSm8KW9NoE2mVObTvrb5XptdcfrhTwOt0rda2gN3WtUxYeuk8oma+GOHtk1Islv+XnXVNk5rvfQHWFVzTPzhQFB05Zq53EWJAow==;WYcvWsMIEXl5dzV0Av7o1Q=="
 ---
 

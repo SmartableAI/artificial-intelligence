@@ -29,83 +29,30 @@ images:
     isCached: true
 
 related:
-  - title: "Exemptions From Some Safety Rules Eyed for Self-Driving Cars"
-    excerpt: "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans."
-    publishedDateTime: 2021-01-14T16:57:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
+  - title: "Meet 2021's rising stars of self-driving vehicles from companies like Waymo, Aurora, and Cruise"
+    excerpt: "These are the brightest young stars at autonomous-vehicle companies like Waymo, Aurora, Cruise, and Nuro."
+    publishedDateTime: 2021-01-16T13:50:00Z
+    webUrl: "https://www.businessinsider.com/rising-stars-autonomous-vehicles-waymo-aurora-cruise-nuro-2020-12"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXeN87BDBPAs/v1/360x-1.jpg"
-        width: 360
-        height: 221
-        isCached: true
-  - title: "Self-Driving Vehicles Allowed to Skip Some Crash Safety Rules"
-    excerpt: "The Trump Administration issued final rules Thursday that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
-    publishedDateTime: 2021-01-15T16:21:00Z
-    webUrl: "https://www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html"
-    ampWebUrl: "https://www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Self-Driving-Vehicles-Allowed-to-Skip-Some-Crash-Safety-Rules.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_CAR_CRASH_NIGHT.jpg"
-        width: 940
-        height: 627
-        isCached: true
-  - title: "Self-driving vehicles allowed to skip some crash safety standards under new rule"
-    excerpt: "The Trump administration issued the first of what is likely to be several rules designed to speed the deployment of autonomous vehicles."
-    publishedDateTime: 2021-01-14T19:51:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/01/14/self-driving-vehicles-skip-some-crash-safety-standards-under-rule/4161416001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/4161416001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4161416001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/28/PDTN/dd4e63ec-b9c7-41d5-9d1d-c466572cb488-AP20149516066866.jpg?auto=webp&crop=6602,3714,x0,y688&format=pjpg&width=1200"
+      - url: "https://i.insider.com/60005a08fe7e140019f7ee64?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "NHTSA Eyes Exemptions From Some Safety Rules for Self-Driving Cars"
-    excerpt: "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans."
-    publishedDateTime: 2021-01-14T18:00:00Z
-    webUrl: "https://www.ttnews.com/articles/nhtsa-eyes-exemptions-some-safety-rules-self-driving-cars"
+  - title: "Why Waymo boss says ‘self-driving' needs to go"
+    excerpt: "Waymo had come to the conclusion the phrase didn't accurately describe the technology the company is building. \"Is the self the car? If so, it doesn't really do good service to the product we're working on,"
+    publishedDateTime: 2021-01-17T05:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/why-waymo-boss-says-self-driving-needs-go"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/autonomous-1200.jpg?itok=3RbeNMmD"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Self-driving vehicles allowed to skip some crash safety standards"
-    excerpt: "The Trump administration has issued final rules that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
-    publishedDateTime: 2021-01-15T19:44:00Z
-    webUrl: "https://omaha.com/self-driving-vehicles-allowed-to-skip-some-crash-safety-standards/article_04afec56-576a-11eb-8c3e-b3df21c5e472.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
-secured: "YC6gDpvYhEg5owxxUhVBdGyWb9c1hvz9uH5MIA/8QqPlIHOw06mzSoAe56MQTHUKcq9XqJ2nnZl1PlPlptKE3o1/FSYL7GfIaD+IG+Vk7m9IzKCgG/iAiiQUu2a2/PR9ao/GR4T3qLdoU38/TGp9XdMKJSKEpqT4TEZtHjcJVHePbQQ42SV2RZFFsQ4yCRwtK9uCuevItadfi/Xt22YyzkADHtfoDT1ZkQppLfmFOAJRJhVU+xTYzo/jFdo2qqTvBmAhPKmSZ4i6zfV5JeD0cxunW5tiEyZS6X6Rx0C0a4ntQlMrwOJ6aOWBRipq6RXBtVqMo3d0MvhO+JakY54qGLg2etYkihT+lzqYb/lXo6Y=;TRGnnGJzuBFCmRRbtDmflw=="
+secured: "6rXSwgLG+7D1jwEJ8U9jvkl9xCRdgTIF3KSzspraMRR9OFNycQvYQzcZO94O+5T3cbRUSn4ABoo3rSrUYiJfXpTBaY94LBTpFzLbxpsNI1YukPHv7fPCY46rCL+xJn3VLxKfPoM3qVyliVFyfiIOkC0BQ6tE0lZUOZvSWhLufklQWbyiOhAVX1MlPKB3e8HdTaRDfN8FiKbokToQfhyQi3bFJ+lZouaAP+YCAz4V/ycNzKd7/Sa1JtN0mbPYVQHrurHz69Tl8htuVsmynLUzkuMHAx4TZWPKlr2G/jTGFM3YUWqKijEsOwsEMNo3YyYUzx87FhVbWEXwmZQpWMUcMBpO7X+XnNGdOqEnUCMhQm349WPLW8Oyj2A/reba5KKTAneQWZH3Hm7IFhXSr3OWnv86a57rbu0iW9KcHRmCwq9IWRPg+pl/TMJ5oglGR5TZthB/jYswkjnrbs6s45czWByTauMWnIXeJSmwFJsl6Le5MDEyUhJoJJQSDNCcvIZ+SpD52tvKItWHKCnOA1aGLA==;BOrixWU3Gyw/L9KHYXfxzQ=="
 ---
 

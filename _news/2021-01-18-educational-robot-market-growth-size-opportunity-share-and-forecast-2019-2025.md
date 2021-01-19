@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2226366/educational-robot-market-growth-s
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 500
         height: 331
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
+    excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
+    publishedDateTime: 2021-01-18T14:19:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
   - title: "Facial Recognition Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
     excerpt: "Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security"
     publishedDateTime: 2021-01-16T02:58:00Z

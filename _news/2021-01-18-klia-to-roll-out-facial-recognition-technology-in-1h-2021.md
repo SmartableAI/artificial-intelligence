@@ -25,75 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "The best facial recognition security cameras for 2021"
-    excerpt: "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces."
-    publishedDateTime: 2021-01-14T15:47:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
+  - title: "MSOE professor explains facial recognition technology used to catch riot suspects"
+    excerpt: "More than a week after the riots in Washington, D.C., investigators all over the country are working to identify the people they believe illegally went inside the Capitol."
+    publishedDateTime: 2021-01-15T03:18:00Z
+    webUrl: "https://www.tmj4.com/news/local-news/msoe-professor-explains-facial-recognition-technology-used-to-catch-riot-suspects"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
+      name: TMJ4
+      domain: tmj4.com
+    quality: 49
     images:
-      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9203af3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F540%2F44c3f81cadf84cf5a6f4e6d100388208%2F5407372f96df46d28eb87787190ca06b%2Fposter_0cc6f71a6baa4515adecf7abbebe97e2.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Use facial recognition cameras to identify people refusing to wear masks, says former commissioner"
-    excerpt: "Facial recognition cameras should be used to spot people who refuse to wear face masks, the Government's former surveillance camera commissioner has said."
-    publishedDateTime: 2021-01-14T16:30:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2021/01/14/use-facial-recognition-cameras-identify-people-refusing-wear/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2021/01/14/use-facial-recognition-cameras-identify-people-refusing-wear/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/01/14/use-facial-recognition-cameras-identify-people-refusing-wear/amp/"
+  - title: "Rise of the Machines: Facial Recognition Technology Heralds Upswing in Litigation"
+    excerpt: "As the facial recognition industry faces hostile regulations, claims of racial bias and growing public mistrust, more suits over the fledgling technology are expected."
+    publishedDateTime: 2021-01-15T21:11:00Z
+    webUrl: "https://www.law.com/njlawjournal/2021/01/15/rise-of-the-machines-facial-recognition-technology-heralds-upswing-in-litigation/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 45
+      name: Law
+      domain: law.com
+    quality: 34
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2021/01/14/TELEMMGLPICT000248138303_trans_NvBQzQNjv4BqGS9GXieP1M2SWwRrte9tdPkW7FzXbjdwT8tZLJetqZA.jpeg"
-        width: 1823
-        height: 1140
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2021/01/Facial-Recognition-Software-Article-202101151327.jpg"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Facial recognition software now being used to check temperatures"
-    excerpt: "Since the pandemic started knowing your temperature is now the norm. Security cameras with facial recognition software that can check temperatures have been booming across"
-    publishedDateTime: 2021-01-15T00:33:00Z
-    webUrl: "https://www.everythinglubbock.com/news/local-news/facial-recognition-software-now-being-used-to-check-temperatures/"
-    type: article
-    provider:
-      name: Everything Lubbock
-      domain: everythinglubbock.com
-    quality: 39
-    images:
-      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/01/Screen-Shot-2021-01-14-at-6.24.10-PM.png?w=1280"
-        width: 1280
-        height: 740
-        isCached: true
-  - title: "MAHB to roll out facial recognition for passenger authentication, replacing boarding passes"
-    excerpt: "Malaysia Airports Holdings Bhd (MAHB) said today the group is rolling out the first phase of the \"Single Token Journey\" under its Airports 4.0 initiatives, where facial recognition will replace physical travel documents such as airline tickets and boarding passes for faster and safer passenger authentication at the Kuala Lumpur International Airport (KLIA)."
-    publishedDateTime: 2021-01-18T08:28:00Z
-    webUrl: "https://www.theedgemarkets.com/article/mahb-roll-out-facial-recognition-passenger-authentication-replacing-boarding-passes"
-    type: article
-    provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 29
-    images:
-      - url: "https://assets.theedgemarkets.com/MAHB-2_20200928161859_malaysiaairports.com_.my__3.jpg?As6YzEYd0NIf3.vPreRPh5_ENOOkT8QK"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Facebook nabs facial recognition website"
-    excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."
-    publishedDateTime: 2021-01-18T06:12:00Z
-    webUrl: "https://www.itp.net/commsmea/12296"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
 
 secured: "h+XBbyGz3UQNsn14Ox2WFFmUWQfZ5joz3b/Im0uL5GXj+uuWDEhNLV0TcZDdzH2tSokJQnJN3SK3IvCSHmiYbkZYtoNZnS0SJSX74dXJTAClDQ++6471BifPWq60gH+7E86jkm1aZbXulhm0LV2PFwEcc4ZHapf+1NtddybGlyVjjqVPj2TLH7u8WM2qTj58Mjx4LwK7UzEKLHEvaQBlhQkJcz5EcTY/vQMvuctelehAaV15NsVUutS4aJpNzfel9DJPpKPq2+vcQDAnWKiOAg11ye1cztEyober3vYRQptiNAPN6/4lWHAoZ/jSqX96vVpEGJWQbloc62QQCt4iR3tk1ZEfMeBcckPp7TWbgYzpeox9mXKHqwhvv5aJwF3X58b2p1Jd3q8A9KNTT6eHtJ3c9pR6q6cATT5LjWnQa3HFIH9zf8E2yKOL6G7zdMSU8XwFfrwIPvATtFJ9QHBk5nb4pAFpAKuokLoFlQh8OQXioKeoDiqMfDfnTfM1BDOdsaiwZonlw7VyeCnJXDn93Q==;kUS3Ov6K/tnLY1xgWlci1A=="
 ---

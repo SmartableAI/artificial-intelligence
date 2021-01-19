@@ -7,7 +7,7 @@ originalUrl: "https://www.everythinglubbock.com/news/local-news/facial-recogniti
 webUrl: "https://www.everythinglubbock.com/news/local-news/facial-recognition-software-now-being-used-to-check-temperatures/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,75 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "The best facial recognition security cameras for 2021"
-    excerpt: "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces."
-    publishedDateTime: 2021-01-14T15:47:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/"
+  - title: "Entrepreneur wants to change how we shop using facial recognition"
+    excerpt: "Grand Rapids-based Iris Technology wants to use its technology to replace bar codes The system would use facial recognition software and computer vision technology to replace scanning, checkout Co-founder James Meeks intends to demonstrate the technology to large grocery retailers Some startups have modest goals: they just want to carve out a niche for themselves and make a profit on the margins."
+    publishedDateTime: 2021-01-17T05:04:00Z
+    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/entrepreneur-wants-change-how-we-shop-using-facial-recognition"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Use facial recognition cameras to identify people refusing to wear masks, says former commissioner"
-    excerpt: "Facial recognition cameras should be used to spot people who refuse to wear face masks, the Government's former surveillance camera commissioner has said."
-    publishedDateTime: 2021-01-14T16:30:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2021/01/14/use-facial-recognition-cameras-identify-people-refusing-wear/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2021/01/14/use-facial-recognition-cameras-identify-people-refusing-wear/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/01/14/use-facial-recognition-cameras-identify-people-refusing-wear/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 45
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2021/01/14/TELEMMGLPICT000248138303_trans_NvBQzQNjv4BqGS9GXieP1M2SWwRrte9tdPkW7FzXbjdwT8tZLJetqZA.jpeg"
-        width: 1823
-        height: 1140
-        isCached: true
-  - title: "KLIA to roll out facial recognition technology in 1H 2021"
-    excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
-    publishedDateTime: 2021-01-18T06:43:00Z
-    webUrl: "https://www.bernama.com/en/general/news.php?id=1923008"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
+      name: Crain's Detroit
+      domain: crainsdetroit.com
     quality: 39
     images:
-      - url: "https://www.bernama.com/storage/photos/4d11767660ecb3d1edf7fac350faa2aa5e8d5d9f630d5-medium"
-        width: 350
-        height: 219
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/James%20and%20David%20IRIS-main_i.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "MAHB to roll out facial recognition for passenger authentication, replacing boarding passes"
-    excerpt: "Malaysia Airports Holdings Bhd (MAHB) said today the group is rolling out the first phase of the \"Single Token Journey\" under its Airports 4.0 initiatives, where facial recognition will replace physical travel documents such as airline tickets and boarding passes for faster and safer passenger authentication at the Kuala Lumpur International Airport (KLIA)."
-    publishedDateTime: 2021-01-18T08:28:00Z
-    webUrl: "https://www.theedgemarkets.com/article/mahb-roll-out-facial-recognition-passenger-authentication-replacing-boarding-passes"
+  - title: "Facial recognition tech to be rolled out at KLIA"
+    excerpt: "Malaysia Airports Holdings will soon be implementing facial recognition technology at Kuala Lumpur Internatonal Airport (KLIA) for passenger identification authentication."
+    publishedDateTime: 2021-01-18T08:29:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/18/facial-recognition-tech-to-be-rolled-out-at-klia"
     type: article
     provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 29
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://assets.theedgemarkets.com/MAHB-2_20200928161859_malaysiaairports.com_.my__3.jpg?As6YzEYd0NIf3.vPreRPh5_ENOOkT8QK"
-        width: 1200
-        height: 800
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/18/1012170.jpg"
+        width: 1240
+        height: 817
         isCached: true
-  - title: "Facebook nabs facial recognition website"
-    excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."
-    publishedDateTime: 2021-01-18T06:12:00Z
-    webUrl: "https://www.itp.net/commsmea/12296"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
 
 secured: "PCeWHlMTZNbVV48P5Bnusv/qd6H9zaJxSp3Ql0dCyUUcMx7hiuLP6DHFosHOOHkQFx0tm5z06IHa6cI1iUrfYmcbx4C3yQwHj93WY+tvgASeUHycWebHnn7oE3eDNuowNwLF2pbMomQJTAQrOZuAeBygFeH5kBBG0n+CFDJSbR0gCr2WsZGTXQ+dzF8FcPBWw6eHzgTBYkzi9iWzhCuYnpy6STd8UADHCWoYolfiz89IMzV2HAfunSDXx29WAHYCtWOkMWPMJNWUr31FkWZrjLcHdzWvyNJaRC4erNkigDvXTlG7ZwXluqbQgjKFYl0h2luFJ1W+qChcWpSKSBbVtehEeXCAZkXj6YtGCX7iSog1y00joNVfqBoooV/5qMjspFdbSHsx09DkXuIygjDHlXvD/ce6JilBY2F1+EJnlcTUplLsBbK1Va6mrFgj8K8NqTJhruvtpa40Lunr5z5SuDxKT5aTMRq/JHGbs1WqOmX2I0IMQkcMf+nLL5UWgukROHtzo5Rlh4nwweFDRnXt8w==;pBDRIWA3d/Fg3sgDq8BUFg=="
 ---

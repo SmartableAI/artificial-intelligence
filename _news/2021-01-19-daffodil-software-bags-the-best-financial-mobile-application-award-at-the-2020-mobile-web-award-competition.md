@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Daffodil Software bags the Best Financial Mobile Application award at the 2020 Mobile Web Award Competition"
-excerpt: "Daffodil Software bagged the award for the Best Financial Services Mobile Application at the recently held annual Mobile Web Awards organized by the Web Marketing Association. The software services provider won the award for its AI-enabled Mobile App for Currency Detection called MANI (Mobile Aided Note Identifier)."
-publishedDateTime: 2021-01-19T04:48:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/daffodil-software-bags-the-best-financial-mobile-application-award-at-the-2020-mobile-web-award-competition-853636154.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/daffodil-software-bags-the-best-financial-mobile-application-award-at-the-2020-mobile-web-award-competition-853636154.html"
+excerpt: "The software solutions company - Daffodil Software bagged the award for the Best Financial Services Mobile Application at the recently held annual Mobile Web Awards organized by the Web"
+publishedDateTime: 2021-01-19T06:00:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/daffodil-software-bags-the-best-financial-mobile-application-award-at-the-2020-mobile-web-award-competition-121011900399_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/daffodil-software-bags-the-best-financial-mobile-application-award-at-the-2020-mobile-web-award-competition-121011900399_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/daffodil-software-bags-the-best-financial-mobile-application-award-at-the-2020-mobile-web-award-competition-121011900399_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/daffodil-software-bags-the-best-financial-mobile-application-award-at-the-2020-mobile-web-award-competition-121011900399_1.html"
 type: article
-quality: 6
-heat: -1
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1089491/daffodil_software_Logo.jpg?p=facebook"
-    width: 672
-    height: 352
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/19/full/20210119105857.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 420
         isCached: true
 
-secured: "pJf1Cf1lcSUSshFm3q1IJEjSy6vrcNCF7N2sj41DSljSQoOsR43TiPZTVFLH69TZrSCLyAsFYPGq4O2Q/IcObbD0GDmf2Qekx50szGuAQ6PYyuaS26jEgzVtiDZvU3lvJkVRubTFuJsyO8beVDy+fAXuvzeNdW+HzcsNcfheB+IGaA2dn+fLHzQ+p1WwdqtPp8M8fR67KeDOEvp/88MvSJ1jSje28zb5Wa+jpOcxgAA3K1ypeKbAqB3yEFZX7cyyYWeDc/EZg9vvpgKfDvPDNoopVCuAik1tDpPyZY7TCtjv832CN4MQgx2VYXN8/u/tTBvADbtkn213+xg7QxsdXnyNDiHyei7tQ3loAysmRsY=;p6hMNC4gDPHU/I7X3OJQNg=="
+secured: "aIEOdP9Nb+Ay0HMY9VVWBmJ76N6221YRMCRPidZLtHE9TwG8RAWrwbbzmqjBFi9pBnFtK/3+yKae5/K2y9z4bPzJeFNKt+giY7UD213H+ZvtquArQTAAr16gu7604KECt7Hm2aYo3mFkjd9PrCEIXJqXdQi7xTQyVP/y918ydPeDZBWsSpfVeMSLEXSNiOHRtjW8BUkySYBHJNGJNpxB8Ix7BfXteewXE+DaieVoCf6fEK6O0EWaIurRaiXGvrzEqpTjEIOYzDjvnUkRw6XRS4pKpTsZRetBKB5XsqV+0H8nCK+wn/OjtjkA0rhaJN4KJGH+GgV3NQzXYGWY5nthNfwamiRSTkK/IT/gJq/HKcY=;ABrfKMO+e9KtlLHLH0xSfQ=="
 ---
 

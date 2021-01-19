@@ -65,6 +65,15 @@ related:
         width: 500
         height: 331
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
+    excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
+    publishedDateTime: 2021-01-18T14:19:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
 secured: "MjnkWc61iaG26N8GOYLetBZtzYQsTenuQ1qZRHc9H8LxNbLb+hcIrq9+h6R5q7x70IGHHwtCyiAdfFD8M5XCyKshG/By/9ignZZvyspd+e3KAP9tE8J56H+SvLpXEPdcIR6e5nZTDQc5mdo9ye9SyE5qJPAEiZI9c2dYiyrOM32b7fYc1cnMJBQVK6tJSx28bwMU3zYXD1GLJ3gtJLHRKXaEdUihawCrhSB/HXAxgvQlUViJdRRQqnTs9TWiam6YDOQRQVWYhYV1EMZm8A/+tiD0r25dtoivF0P56eXxunq8Uazxp01hvzhny0DOckw3Fb/TGkSlALXVh4pmLxtDoinsxYhINsI0jXyNgI9QZsc1g2f7mXD4Xgli+MYbOXSiU7dz8Gv6I2MxsvjEWIK/Aw3COZUo4OkPQIQLGmmbE1fDRLI6dhS9TU1Pqjoo83Told7DOUdhsI2Lkowo810DARP8kFHp5x4wxkVeQnDR2XFMHPQhr27hrnllthNcZZC0eW0qvgVHxOyTwfnTIlHgDQ==;CDuPoXhb1QIvDWPIvLNy5A=="
 ---

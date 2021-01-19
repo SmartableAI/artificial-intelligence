@@ -28,52 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning and Artificial Intelligence Integration Drives the Growth of the Global Natural Language Processing Market at a CAGR of 18.4%"
-    excerpt: "In 2019, the global natural language processing market reached USD 9.2 Billion and it is expected to grow at a"
-    publishedDateTime: 2021-01-14T15:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14"
+  - title: "AI and Big Data Analytics in Telecom Market Size, Status and Global Outlook 2021"
+    excerpt: "Global AI and Big Data Analytics in Telecom Market research report published by market insight reports explores"
+    publishedDateTime: 2021-01-14T18:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-19T05:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
+  - title: "BlackRock boosts sustainability analytics with stake in Clarity AI"
+    excerpt: "BlackRock has taken a minority stake in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios. Founded in 2017, Clarity AI has offices in the US ..."
+    publishedDateTime: 2021-01-18T14:13:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37291/blackrock-boosts-sustainability-analytics-with-stake-in-clarity-ai"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/test_header_low.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-    excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
-    publishedDateTime: 2021-01-18T14:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
+  - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
+    excerpt: "Molecula, an enterprise feature store built for machine-scale analytics and AI, announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by Drive Capital,"
+    publishedDateTime: 2021-01-17T14:40:00Z
+    webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com | Morningstar"
-    excerpt: "ResearchAndMarkets.com The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-18T14:18:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210118005340/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 8
 
 secured: "8fWTpnTetYvN0NBowWmrh8XdKMdv126UcoduXOSbh8q2yJyUkCKcuYdOmyJNGxaonpyM/jirA3zLwDgkfU1sN0yciOuavKSJr74nTi3pSI4eywb93NC7iuczdIbtSJyyoIOhulmz3rUB2H0UHRUhR8cwmXpSVgHlgUrMqT6dRP7yqXHwyQAu0DPiOjXFb70gVy7xjyEkrg4j4lGt8a4LX8FSk9son0WzEeQuj/X+2kNG6IgAs1KwcRitD0PizY7zV86ehv1Pz+SSX7ksWI83MeQ//Yx8Me7qkosxdrYnShhcaAGFjLmphneRgafDESqfZH0VcLNXXTBQF+aKDoDdmrgfowePYO5CU0hOLCcfCyI=;nWwhtrB3s40raOVT4E0lrQ=="
 ---

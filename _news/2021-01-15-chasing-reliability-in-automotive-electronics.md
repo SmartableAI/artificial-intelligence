@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/chasing-reliability-in-automotive-elec
 webUrl: "https://semiengineering.com/chasing-reliability-in-automotive-electronics/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1582
     height: 1228
     isCached: true
-
-related:
-  - title: "New algorithm mimics electrosensing in fish"
-    excerpt: "Weakly electric fish are specially adapted to traverse murky waters without relying on vision; instead, they sense their environment via electric fields. Researchers developed an innovative algorithm for observing objects via electrosensing that is based on the real behavior of weakly electric fish."
-    publishedDateTime: 2021-01-14T15:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/sfia-nam011121.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/253235_web.jpg"
-        width: 720
-        height: 648
-        isCached: true
 
 secured: "p9BcbvRSFnEKby5dO327cKtZOPbdXV7arvROqUULuL94MWZ4mP/MnVYRMN1SuCNtCb4nWt8n5lzEPuMe/CJ3d3v6BpnXiFjMoqI9rwRbw8qG5jzIQTTHB3i7+XHGWIudfbMuVNXJaWRTPXawtl3NZHnHvQtrV49sI9HWjuuC90YD11uNo7T1wevNibb/bN0S+skR8AwE5OLoofzYV7P+3sjt1BzZfCr+bXYYyUnJHHSSPmcaKlH1rxMvB9i1ZRv7Og41mGRqlRFGwZbdjZbf99OxwefGSPxsM065ARe3MbpjHMXBPW7jF/We6w8yRpdpAEj+Z0x7hiFkFFbEww8qBUN0NUtf7s+seoSlvbDOC0A=;zOnsaFm/Y0MjsVPHZ2jBeA=="
 ---

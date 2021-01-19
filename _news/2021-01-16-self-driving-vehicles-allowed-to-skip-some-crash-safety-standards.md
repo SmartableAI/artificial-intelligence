@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exemptions From Some Safety Rules Eyed for Self-Driving Cars"
-    excerpt: "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans."
-    publishedDateTime: 2021-01-14T16:57:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXeN87BDBPAs/v1/360x-1.jpg"
-        width: 360
-        height: 221
-        isCached: true
-  - title: "U.S. exempts self-driving vehicles from some crash standards"
-    excerpt: "The outgoing Trump administration said on Thursday it was issuing new rules that would allow manufacturers of automated vehicles to bypass some crash standards required of conventional vehicles, which would cut production costs."
-    publishedDateTime: 2021-01-15T04:52:00Z
-    webUrl: "https://www.reuters.com/article/charged/idUSKBN29J29Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547822359&r=LYNXMPEH0D1G1&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Self-Driving Vehicles Allowed to Skip Some Crash Safety Rules"
     excerpt: "The Trump Administration issued final rules Thursday that will allow self-driving vehicle manufacturers to skip certain federal crash safety requirements in vehicles that aren't designed to carry people."
     publishedDateTime: 2021-01-15T16:21:00Z

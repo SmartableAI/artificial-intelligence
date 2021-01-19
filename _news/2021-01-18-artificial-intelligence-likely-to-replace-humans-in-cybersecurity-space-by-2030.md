@@ -66,18 +66,18 @@ related:
         height: 686
         isCached: true
   - title: "SparkCognition and SkyGrid Deploy First AI-Powered Cybersecurity System on Drones"
-    excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company,"
-    publishedDateTime: 2021-01-19T06:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sparkcognition-and-skygrid-deploy-first-ai-powered-cybersecurity-system-on-drones-301210532.html"
+    excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company, today announced a new collaboration to deploy AI-powered cybersecurity directly on drones,"
+    publishedDateTime: 2021-01-19T06:20:00Z
+    webUrl: "https://www.lelezard.com/en/news-19604992.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/1422612/SkyGrid.jpg?p=facebook"
-        width: 716
-        height: 377
+      - url: "https://www.lelezard.com/img/pr_sections/tourism-vacations.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Fast, fused and deep: CES sheds new light on 5G, AI, cybersecurity and digital currencies"
     excerpt: "At the start of a new year, the Consumer Electronics Show offers an opportunity to gaze at technology’s distant horizon and take measure of what may be coming over the ridge. Foremost among these was a general recognition that the pandemic has dramatically accelerated digital transformation across the globe more rapidly than anyone could have envisioned at CES in Las Vegas one year ago."

@@ -7,8 +7,8 @@ originalUrl: "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and
 webUrl: "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: IT News For Australia Business
@@ -25,29 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai Robotics: advancing predictive maintenance with AI"
-    excerpt: "Discover how Hyundai Robotics is advancing predictive maintenance alongside MakinaRocks with AI-based anomaly detection In partnership with MakinaRocks, Hyundai Robotics - following the signing of a memorandum of understanding (MOU) - will work together to advance AI-based industrial robot anomaly detection for robot arms."
-    publishedDateTime: 2021-01-14T15:23:00Z
-    webUrl: "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai"
+  - title: "Pentagon to Expand the Role of AI in Military Efforts"
+    excerpt: "The Pentagon is looking to expand artificial intelligence across its military services and agencies. A budget of $841 million has been requested to bolster its artificial intelligence work for fiscal 2021."
+    publishedDateTime: 2021-01-15T22:27:00Z
+    webUrl: "https://www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html"
+    ampWebUrl: "https://www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html?AMP"
     type: article
     provider:
-      name: manufacturingglobal.com
-      domain: manufacturingglobal.com
-    quality: 69
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
     images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkjwz1rzc140120215213.jpeg"
-        width: 1000
-        height: 387
+      - url: "https://media2.govtech.com/images/US-NEWS-MILITARY-AI-GET.jpg"
+        width: 945
+        height: 630
         isCached: true
-  - title: "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'"
-    excerpt: "Enterprise AI solution provider, MakinaRocks ( announced the signing of a memorandum of understanding (MOU) with Hyundai Robotics on January 14, regarding the cooperation of the two companies in developing AI-based anomaly detection for industrial robot arms."
-    publishedDateTime: 2021-01-18T13:58:00Z
-    webUrl: "https://www.roboticstomorrow.com/story/2021/01/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection/16108/"
+  - title: "Eta Compute Pivots to AI Software"
+    excerpt: "When you’re in the processor business, you’re also in the compiler business. Like it or not, inventing a new CPU or MCU with its own instruction set means you’re also on the hook for its entire"
+    publishedDateTime: 2021-01-18T14:51:00Z
+    webUrl: "https://www.eejournal.com/article/eta-compute-pivots-to-ai-software/"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 35
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 39
+    images:
+      - url: "https://www.eejournal.com/wp-content/uploads/2021/01/JT-210118.jpg"
+        width: 1000
+        height: 1000
+        isCached: true
 
 secured: "ni/YzM2obC6h5o+a08xIHRm/22x1n2IeWIVg7lz3LWwsdrRotwI8BPcdTEIsV4kituxnwt/ezoHtGNVlz4jgXY4gE6rqAzJdIieG8KVL3cjq+tei0HxVVIvd7gszkTcE42SqJC7HwkWRfu6TYiVH5M75E+f5FRLLJFCN5xWas//AU+1iBa7Il/TRw6eFx7/wlS3u3AmhifSlGxY0UeW52zdL4xozwly+rssuGTa67OJHGzDixTvGHjeps8dwv5yy32cAVPwQVwp030OlhMo6sxI0DIv4InBcpM3DdIc003jpquvDN1APwOaIzz0WjbgBEji5E6jjpXGh3CL3wCM2aFnpynizAeH9aLdoOsO8Ld8=;xHJ7canv6fKkoQRc11g9lA=="
 ---

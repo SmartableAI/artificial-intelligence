@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Neurophth and AAVnerGene Enter Strategic AAV Capsids Partnership for Next-Generation Ophthalmic Gene Therapy"
-excerpt: "Neurophth Therapeutics, Inc., a subsidiary of Wuhan Neurophth Biotechnology Ltd. gene therapy company (hereafter Neurophth), and AAVnerGene"
+excerpt: "Use of AAVnerGene capsid library provided to Neurophth for ophthalmic gene therapy Next Generation AAVs enhance gene therapies by increasing transduction efficiency and specificity while reducing"
 publishedDateTime: 2021-01-19T06:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-for-next-generation-ophthalmic-gene-therapy-301210596.html"
-webUrl: "https://www.prnewswire.com/news-releases/neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-for-next-generation-ophthalmic-gene-therapy-301210596.html"
+originalUrl: "https://www.asiaone.com/business/neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-next-generation"
+webUrl: "https://www.asiaone.com/business/neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-next-generation"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2021/pr-newswire_500_4_869.jpg?itok=ri7rVtDE"
     width: 600
-    height: 315
+    height: 316
     isCached: true
 
-secured: "eWrSk1/pCdWP/D2huIJOqMFKf604svJO0wbHWhxAj34E4XeJ0+K9wPOqeqRtYjR53v7i7Z/ZDz7xSNAtkVvh7sA9BIW3tcluPmSlak+GppwunjC/28CmJQt1Z3qWZOgdLW7kbCPAMLOWZoTzspVg1WkGY5sZLKWrNIwcAS+9e8/9KAjXZNWp6seBkKMFYRX95CzA3JgR5FDeg4XYfBZyaYVHbxSXsBmq8JEpE6Fuj/Co1JSwVq4RuEL8F4FH050byiDUGsomovYZSXE5x0FD6/rX/h3B4jhJGDSgsnf0+a5yaQTkz0WbB3/QHrEhsNjI07GWWhFhyz78H8btTdaMjwq/n9hjueFYmn00GdeDDOc=;Xl3nV/Nctu5aasrSnKQAJQ=="
+secured: "tU/P0ADExBidmOQqvrhJarzXhnwHWgUvjGaB/3H4zFvxAiLpyQkQZkStcMM/beyCNhuKdGBsWE5fSlQ+ND25NWBhAavCYJfZymY3IFGHsUPhRRALvdUmDPYOyS1r0sqNB5To4MvIX5p03F++qCSlCE2nt3eUb8doWqmAsWzRKAE5vHCCXgwlVSL7MzmGLp4QB/NYmQusHMgh0jferDzCNsMwkI1P0ZbDv86tn10qLHDvueEw8jK9se2FaMhczielYQib3nJfU9k2pBc5dcF0ZPGbZ119el17W6IwzmkDPfSrMs2rH7yP+Ixbfv8pwm84fgS4fZTSoMi1m+OmDuTc8fC2uXFFKciC6s8IYYbJo5o=;S8yhZhpqEAl52BPw/WOZ6A=="
 ---
 

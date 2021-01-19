@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Paravision answers face biometrics ethics concerns with AI Principles and new chief advisor"
-    excerpt: "Paravision has published a set of principles to guide the ethical development of face biometrics and other technologies related to artificial intelligence."
-    publishedDateTime: 2021-01-14T16:42:00Z
-    webUrl: "https://www.biometricupdate.com/202101/paravision-answers-face-biometrics-ethics-concerns-with-ai-principles-and-new-chief-advisor"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 46
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "Face biometrics deployments increase as regulator and public push back"
     excerpt: "The regulatory heat around facial recognition continues to rise, even as implementations increase, from airports to digital health credentials around the world."
     publishedDateTime: 2021-01-16T18:35:00Z

@@ -1,26 +1,27 @@
 ---
 category: news
 title: "SparkCognition and SkyGrid Deploy First AI-Powered Cybersecurity System on Drones"
-excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company,"
-publishedDateTime: 2021-01-19T06:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sparkcognition-and-skygrid-deploy-first-ai-powered-cybersecurity-system-on-drones-301210532.html"
-webUrl: "https://www.prnewswire.com/news-releases/sparkcognition-and-skygrid-deploy-first-ai-powered-cybersecurity-system-on-drones-301210532.html"
+excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company, today announced a new collaboration to deploy AI-powered cybersecurity directly on drones,"
+publishedDateTime: 2021-01-19T06:20:00Z
+originalUrl: "https://www.lelezard.com/en/news-19604992.html"
+webUrl: "https://www.lelezard.com/en/news-19604992.html"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1422612/SkyGrid.jpg?p=facebook"
-    width: 716
-    height: 377
+  - url: "https://www.lelezard.com/img/pr_sections/tourism-vacations.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -94,6 +95,6 @@ related:
         height: 443
         isCached: true
 
-secured: "P3OG9uplU+d2+1nE4uDRaUfC4N+ana4Akz3BiQv/8BWlFIVfSbVI0tS8fzb0QHfPFyWdO9ZBV0P9f5ZTcvddHfY8BBfV5QiEQjYzofmKBSeWwd7/TH1kN8M21XpropaCvArfKaNXQdGp0nDMA08Wr45hRwd/9WXexwACJA8wzujtRlGytwSDxfvqdkl38M6E+tTWM1aaGU+dQn2sOJAQFtCp5emufMvVBZ3XJUSsrnlK0UX9SQQgawJL1r2wqk01WW9QcET7rTX44ziU/11Tm1JmO/k6w6lCip1+9HezJcWQ9hdjUEyTbmOr9mATrUbd6klF0Myqw21RaNj7LkINQKY/sJWJH2O5YXGgmwEvnA0=;5szcyfC8Mqrgxe9YcpaxDw=="
+secured: "tPZoxpTWk4DCkFz+aEQFP/lAFO56Qj4i0nLPmSIFlVKFxkPd8jwER4zYhVMsTjcbdXtYCazP8XGvL4BVXW0O8FGtibbrxNLoDa29bVaVJEEmF2uVVfXmsjEc3RVw+bcl4FZ3TYyj3XhVXCzjDgGPpHt5J75hN8R/gH8smQ9ikenqb2E/kUa006IlyrwBU63yc/XL1TB3DffiJRsnl0Y9tXlGSuFTKyPD0yGufuSsExoZvCqOxFprmxVxukw915UTx2ZIfgNrhS3HhH4Op22k/Knckc9M8J2FyTShe9dosz6AZeoRfFyzROBNmI6V/WZdVm1AD88bJnhO/dA9G+YZyE5RFO9rhgx2mC4oG9RN33o=;qiQpx8h6dXKVzhgzgnQ5AQ=="
 ---
 

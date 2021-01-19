@@ -3,8 +3,8 @@ category: news
 title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
 excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
 publishedDateTime: 2021-01-14T08:50:00Z
-originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29J0DA"
-webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN29J0DA"
+originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA?edition-redirect=ca"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 533
     isCached: true
 
-secured: "wfsa3JyZv8/HXOsRM8ebH6lZ46anuJMn72WqJL1n5wWTrseCnbasCr1KWPGyrIQwNLk4uivR9GUgIHZlB41s1uKAxvbLPqGEjotC/OnwwLRK1XutM4XDxoYpSrhzzu4sq/hxuVH7CS5n9A+6ly93oFIJupbGreemJEuvu97MysoU5icgHPo2nwULGVegEhjaiPivliF6gqs7IqLiv43WZQygLRgzxFXucKj0+Awo5O1c1GYW7lUkLYxv8PguWKHKY9q3SauewBARPOKb1avbmghWIpIOWKNcy2VC4MNrwfyequGhfTDbBGJXCqgGF8caim4D0ESOUhuLmfdMmG1kQ2XqyDL5S45kofZceGqoQgU=;fqBfYZOahz6G/QmGwBcA2w=="
+secured: "Jh2/U97RnB04KkelRQtGnAR+UQjqCHXUYydeoPPTarJ2MJHqviW6di0eZCL69Ab5MHVdSvfGpX2TW5znnszw6CKhNihzzAnmrnKP0Wx3oV9abUAAoMJsoGcPD/sZIrgMd5ADwJ/cUVO/9OxjuxprqUDJY9AxNA+6CGBZ1sDQxPgSsphUHjRwfKNAKeyYQNkIJ8stSDfsY6IsSL5FICYgbWzIV+mvg7YDAtL0uV1w/RFINWEZONViXdQAnx7hnCYuxNGi2FfGpLm426Cg8RQJ5O/045FOTBSFYTq9mwGyG8d/UFGZmr7JeaZogeX0i82ShduiiZr7Z4gPf+IAw821ENwuffQQaCPVbD1AnSukKGY=;OXJX+vfA7ju6VF3fSldWuw=="
 ---
 

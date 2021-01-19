@@ -66,18 +66,18 @@ related:
         height: 500
         isCached: true
   - title: "SparkCognition and SkyGrid Deploy First AI-Powered Cybersecurity System on Drones"
-    excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company,"
-    publishedDateTime: 2021-01-19T06:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sparkcognition-and-skygrid-deploy-first-ai-powered-cybersecurity-system-on-drones-301210532.html"
+    excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company, today announced a new collaboration to deploy AI-powered cybersecurity directly on drones,"
+    publishedDateTime: 2021-01-19T06:20:00Z
+    webUrl: "https://www.lelezard.com/en/news-19604992.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/1422612/SkyGrid.jpg?p=facebook"
-        width: 716
-        height: 377
+      - url: "https://www.lelezard.com/img/pr_sections/tourism-vacations.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Fast, fused and deep: CES sheds new light on 5G, AI, cybersecurity and digital currencies"
     excerpt: "At the start of a new year, the Consumer Electronics Show offers an opportunity to gaze at technology’s distant horizon and take measure of what may be coming over the ridge. Foremost among these was a general recognition that the pandemic has dramatically accelerated digital transformation across the globe more rapidly than anyone could have envisioned at CES in Las Vegas one year ago."
@@ -94,6 +94,6 @@ related:
         height: 443
         isCached: true
 
-secured: "Q+54JXChMIXmkSScoqzO7dqOH238VZlavdfo9rvJlaA6PRfwkkALFi8RHLIb2Gs0/6ed5+kZaximxtkjhE3J0hOO/ZvYvWTTIuABwiyQMUFXjtap3OSsdAtzKnlOut8F52AAa22QznY6Wwkpk680Mm5qnSZInJd0SROw0MmtUqACoFNiSQCgpCj7uU58aebBvQWx0vQ7fswXyBePXMNUzqCzKsG0/AS0IbN7Ve3gqRJoDwdV+3rgY9/xsg2QgEpesrygytMO5lHfCrI1/UbU4sI7em4Tv96F7u9gPyAcI9HWtsVKIftNC4KRmLMXmOXrwGbjiSNzB1/Qe9tRuQCfXL70JXXy7T9duuh+ajVwoSY=;kpWPUCabQonaum83yjU4Qg=="
+secured: "YcmBkDGG+RqWn6/9bcIn8x++a6U/xbFF4QSBN0IbeKXCjQK6rkC8KOUq8fK0gbMQQr2+IPZuGGI+FjkV6z5kI1eO2NAnUdaRGWOCTayLUc66I700qTMBQ+VLlISoV7wsX2Xqxbe8vrJXyrOgikJj5/cc4m6Wi+bt+WpJwKTaj1wTqZcXdoz5D+AjIDhq1BfOcZ641Gpu7tLkNexMHVU9mUEhAFFxRxe6NB4PPapux9iuu4d6oSPOLH7tSPgEQqQDdKEKl1UOLEqkgDCGm6TXf+AKGFp3Qx5g6sUn8zcWHkMKhpuBYGRNhFj+pUyojD/3v0jUsae1p/1ofxnbe6eyqXawJu3UZ+9kon6WeChp9i+ECoqKeQ1N3/6cz6lppU5r6z33GFXRNtT4K52JFa4ho6JLro/KV2tyCYAOAH4F4jWY/RWdYeWy4GOphrM2EFKnqd8RkiL1acDeNaRsGZGZ6MKj6DIBksIIXBzliFcsNFH7rcvs2ffTsXP3GOtclgyD7QYy3p71BN+yjwBqkhmzCA==;jCl9o70phLPfalwBzFw94g=="
 ---
 

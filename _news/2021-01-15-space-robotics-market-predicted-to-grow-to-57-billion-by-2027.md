@@ -7,7 +7,7 @@ originalUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-ma
 webUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "Healthcare Artificial Intelligence Market, 2027 – Market is Expected to Grow at a CAGR of 41.4% – ResearchAndMarkets.com"
+    excerpt: "Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% from 2020 to 2027 to reach $51."
+    publishedDateTime: 2021-01-19T08:44:00Z
+    webUrl: "https://www.financialbuzz.com/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 9
 
 secured: "5DMKEWfdxnInhZklnAPC4TwpaGOLLvCZJo9VzslyP7DoPl2Qu4pIYrua0XTL27D3pTWiWcmp1BQpjigCdyl7Gnq9Hps12dwXcSsx1j9h1IM751NsiDya2iR1589qZTWhsg4nBYLxvQeKjPo0Y12GAn+fvEQpyR6KHxvzmpPyM/Jy/WVyEhWiMQW6835Yoiq0TuXRGGndODcTYrsxBsdZVxX5209qDP5sVFj37QB1YM74jDJRq2VEyGIIPXJGwMfUmLLmpKho+21Zlc1q9R/ce7phT43YoV9k2h9CH0IqQH0FnV10JwsRyeLpee5Dlhs8FP92L3EkvVSUUOZPaj6oz/xuM+HwNxBmEOnm8b8WLbfT/yqxN9uC1zrIOHyr1ovr7AfEINgfsmgbr2U870mxkWXh5d1fcbPcrfP7MbkAiPxDGZo8sw9rV87RfZNnd7IM+EitAjcTO8Qgey59Mnkd38hlrTqONhlh9uSkuaJ4YY8QDUx2+t6QIWschmSCpcOZluaExmLmCr5WMor+G3FdBg==;d+acb/0kJDdzgTvl9hzWdw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/how-artificial-intellig
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -35,15 +35,6 @@ related:
       name: IT Business Edge
       domain: itbusinessedge.com
     quality: 39
-  - title: "How AI Will Shape the Future of Customer Communications"
-    excerpt: "In this contributed article, Eric Schurke, VP of Operations at Ninja Number, discusses how AI solutions are changing the way businesses communicate in 2021 and beyond. To succeed you should focus on three different aspects: incorporating customer feedback,"
-    publishedDateTime: 2021-01-14T15:23:00Z
-    webUrl: "https://insidebigdata.com/2021/01/14/how-ai-will-shape-the-future-of-customer-communications/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "gcJAG5g0FfKdPuOyCS2Tr/HRYtggc8D2AYoK8NAIMyulkjIuu8DiHHeBPEidpAKl7xn5VFtJ3e5rTEfABrsyJoY3plTCv1cLBRoxMrqgqkdQWC8u8suCCa/NWSCEImqKXA2aIPocaKsxcRNEbX5bo1KG3DfDsbOCvGCznKraaAnjX2JDJz0IOynDukyZjlLXnQyCRvGy8VESq5EQfrdSRhLX5mP9OpS9p2BWt4/TycoxkRKzuE/jpfEwlEnmdheMwul8PmqYww9OLbHHWZH9UF9e4sKJqCAR1XUUjOZuFjK7Ajq6QFOlvmbHOe/E5yke/dTZufDJz+xX9ZqMHs7JUrOJRKoZnpGB4C4nVvW0G3anj42xY8uqLZXbW/1hQLrp0x4i6Q/G7E8Azh5vK1RfynPBskbVxRrIC5B0/j71MP6nR8KOSVsS0C45NQUW1TDIIJfbnCF8mgD2rkLjeKAYT5DQGPEx8FSwpGJKrNcf+bo0osCG1rjo/y3Ao3tA3E8FFa0809Q5On9VBYZvY6lfkw==;7mCe/WV8x44DYzdkdaa1lQ=="
 ---

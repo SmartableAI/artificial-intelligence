@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Cure.fit acquires AI body tracker Onyx to enable two-way workout videos"
-excerpt: "India's top fitness app company is buying a U.S.-based health AI startup, creating a digital personal trainer that can track body motions.Read"
-publishedDateTime: 2021-01-19T06:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos-9706271"
-webUrl: "https://markets.businessinsider.com/news/stocks/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos-9706271"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos-9706271"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos-9706271"
+excerpt: "Now India’s most funded health startup is making a move to bridge that gap, using a California company’s AI system to replace human fitness coaches at users’ homes. Currently offered as an ..."
+publishedDateTime: 2021-01-18T16:48:00Z
+originalUrl: "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/"
+webUrl: "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/"
+ampWebUrl: "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-secured: "uq5zgBSCSjN7NpyS+Xrn/nRpCVG66WhwpeXLAz9MxHSVwL85LhyP8A8G25hxyciPDDcVFUK1a+y4FRmjknKIcaJULFU4wqnSUpYidziL25Qwuoe/DwacVWOOV6i1FoRm5SoK4vyMozvgx38kwnTJJIX6gKAoN3aBD6wy9OXHoV1dpIbkg6hMj2fNKxXFhP/1ixnVBHIosgh+50or8xC+O6fBzecmhozIpM+wB2hugNRpwZ5mh0DpB1L/3vePfyY1KW1HHFzmAVXMlRrO/EZjjHRcS+p20FSz5pTwN8MshkMXQGKOop2PPXD14DHp6xDiEaMk4yt1920gp7KBjVw4Lk8Y4eOfE50nQpxSEmYUIyY=;qkE/IPUfsvdyyxXSRiZ83A=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/01/onyxcurefit.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "VcHa7mVlTJGUtIw2yeVST0lZMrNRf8vA/nrH6eiBhqpWFpcMnbnKt2j3gkcWEqliamsaQb5bnJb1OHPi9Z9y+cVqvARK4/YTu7Zghg+FBPwfV6Qr8E+6GgIG3MI62d0cksOUHIjBzaEnOKW7qY/D8GpShMbt4vGBf0P6t1Gk8a6eygXMwQm1pdfq1hoRpCIWPs3O+uYsqoxORONc3/d8+4oMO/ay47uzqPqwNBohHTYeSxRaBc6xg0EHSPZcrfU1ImfsuCTRzhJ14xUva6w95VrMq8uqpOpwChAXElpduPETUUGTBXtXHJrWhqV41ZVai2k+TWS75s9zAS56sUid4fKnde8Jtuek2VW9r6EF63Y=;veYKXwLtZudDWKG5IuYb/g=="
 ---
 
