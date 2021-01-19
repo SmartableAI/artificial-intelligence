@@ -8,7 +8,7 @@ heat: 41
 twitter:
   username: jeanliuqing
   url: https://twitter.com/jeanliuqing
-  followers: 1132
+  followers: 1131
 
 weibo:
   url: https://www.weibo.com/u/2209030102
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Jean Liu"
 
-secured: "iyONhCV1OcGzVWX7g+DkJOQgQW6JvGfMKQf4UOxxymhJ1JhI6p4AxruJ0McZcYabd5KAKYQBOEMxv+asgFsRzXiaZa89jAuAJeEq8MgY5XaYVkgPPrzoeylk1GgOliM5VqxLRufnUW30Kl2Yxa8BPmCzSiR5hu+dF2GwrsRI8NFDu1w8wkJ4J7WZ+5RkOwbJzf8F0nnoz8zXL6A+hmPUg9yItN2AD7JjBnEH8i9uSkeLkSpqBgj5yPjbEL7RPuwzILMiGkAPsR/a+mlnnuyRZZuQBj5CKZr80oTYQ9j5/PvhqueQFbwMTOPv2ma7JHllPLDYFRAsVul35KnL8dixbJpp0zzuxUWBu6YFtDAKbtNWvHymbAMw/blz51LBd/lvhuTzjnuTatxkRT1zxFrWLC8zf75bJtYONbEWAmwpEg8=;Ebf8bohtq855aAaWV1Z6XQ=="
+secured: "zezdrvCcu5jMj4O+m5c7FK/2CN2WTA2fd+jw05iTomQtMrbIrsa2HiiwEblgijcy2Teu09oc6E5huEDTEGF3Cwp1qiGrCjxlBG6Hr6cjE0DHPlVEBvF2jvD2SRlK4UQao5DwEqGxPRyl7YbDmNb8M1gnlpgODstLKR3BxKEUO7flwXDs/qxGv/0P5MIwRgxAjnc8r/dEBB5QhSagWOAsnlb/K/ywTdNAotxbH3sU/rjpQdoENn610W+zktNUHptAGW5YYbMLi4Rw9itNvz1QF+UU0EJamLXS0ScJBbtiPxxbrj5wnbbGAwx1WWLw3jIUtcQnxAdUs0S8be95rQkbUKNCfmKFhOq9chw4M7p3EGHHyRzZqZCvwQXNQoyrpFwV8w6olGtS5rNCDZvGi0Out8gZUch6t9Ft3JT7P7++zyk=;1yIF2a+yRo5MlW+epQ+y1w=="
 ---
 
