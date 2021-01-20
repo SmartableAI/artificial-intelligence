@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "2 Fintech IPOs to Watch"
-    excerpt: "Then, the pair take a closer look at fintech start-up SoFi, which is getting set to go public via a SPAC merger with Social Capital Hedosophia Holdings V (NYSE:IPOE). And last but not least, we discuss the recent correction in bitcoin and other cryptocurrencies,"
-    publishedDateTime: 2021-01-15T23:48:00Z
-    webUrl: "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/"
+  - title: "Innovate Finance: The UK Retains European Fintech Investment Crown in 2020"
+    excerpt: "Innovate Finance has published a note regarding Fintech investment in the UK. According to their numbers, the UK retains its title as the top investment destination in Europe for Fintech firms at with $4."
+    publishedDateTime: 2021-01-20T16:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 72
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/London-UK-Fintech-600x447.jpg"
+        width: 600
+        height: 447
+        isCached: true
   - title: "How FinTech IT Leaders are Driving Modern IT Operations"
     excerpt: "Over the past century, businesses of all stripes have either increased efficiency, become more competitive, or reduced their cost"
     publishedDateTime: 2021-01-19T18:56:00Z
@@ -53,48 +58,6 @@ related:
       - url: "https://cdn.business2community.com/wp-content/uploads/2021/01/Image-1.png"
         width: 337
         height: 364
-        isCached: true
-  - title: "Fintech apps that blew our minds (and helped our wallets) in 2020"
-    excerpt: "As people stayed in the safety of their homes for weeks and months on end, we needed to alter our daily routines and use technology more than ever. From Zoom meetings and food deliveries to online shopping"
-    publishedDateTime: 2021-01-18T04:14:00Z
-    webUrl: "https://businessmirror.com.ph/2021/01/18/fintech-apps-that-blew-our-minds-and-helped-our-wallets-in-2020/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 24
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/01/Fintech-Apps.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Dimon Frets Over Weak Recovery and Fintech Rivals"
-    excerpt: "For someone who turned in his best quarter ever, JPMorgan Chase chief Jamie Dimon is worried. About the pandemic in the near-term. And fintech upstarts in the longer term. The market doesn’t seem to be too concerned,"
-    publishedDateTime: 2021-01-19T16:52:00Z
-    webUrl: "https://www.ai-cio.com/news/dimon-frets-weak-recovery-fintech-rivals/"
-    type: article
-    provider:
-      name: Ai-cio.com
-      domain: ai-cio.com
-    quality: 24
-    images:
-      - url: "https://si-interactive.s3.amazonaws.com/prod/ai-cio-com/wp-content/uploads/2019/04/08065350/bio_jamesdimon.jpg"
-        width: 270
-        height: 330
-        isCached: true
-  - title: "Fintech Expands Data Services Through Acquisition of Aperity"
-    excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (\"Fintech\" or \"the Company\"), the leading business solutions provider for the beverage"
-    publishedDateTime: 2021-01-20T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fintech-expands-data-services-through-acquisition-of-aperity-301211182.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/562037/Fintech_logo_with_tm_dk_bl.jpg?p=facebook"
-        width: 1367
-        height: 716
         isCached: true
 
 secured: "PwqWDOCvoLKdu2QByAi3eE/wtaMePHHE88TM6dZy834/ardkWQ0j3rD58GYpcSxlNpwcedRaDpvjGYYZg5ibdp0SxqpsqsW0o6WG03+pQSN2h2qPOdTvIM379+KC0CnLzhcehEAGIYixohuvsRfQw20n134XnedXm/WBhsBlxG5aqZ4x7IlBPMjMtCy9jxt1AZSCMxt8ZiAYQjPTHdLXcrt+KA2iYzyX+eR9y6XX3L6pXj3of/Daq94iaL+zcrluUk8MxJt6CbWb0LCyAzpgEzY6ySfIy1Mzbdn5WYjIDxGrMPrFZjBWBOBoJBntkeERjEqU/m0DCnFuxC7F6NXcFbMPxrQB9ErDmZ1Vh3Cz2GLvnbd1cpUnfNgglQHuMR0bKmkezxPvKDBJTZYGBSviCOgV17j9ImF5Dixjk6BnSyd6ZbVZ4vCX9RQxwBDWzlMeheNMK3QN7hqmIeZ0o4UW53PG3DXOaby2p+eD5+LNKYVNzpS+sQBZ5xSDB+mgaDe347la1mcC1fbr2Kz+IJT8HA==;eWDxwtxt45q2OBOSwf4tew=="

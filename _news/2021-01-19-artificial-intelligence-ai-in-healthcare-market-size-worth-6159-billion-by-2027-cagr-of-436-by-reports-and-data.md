@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market to record 37.5% CAGR through 2027"
+    excerpt: "Global Artificial Intelligence (AI) Hardware Market Report from its database. The report provides study with in-depth overview, describing about the Product, Size, Share, and Industry Scope and elaborates market outlook and status to 2027."
+    publishedDateTime: 2021-01-20T15:35:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137201/artificial-intelligence-ai-hardware-market-to/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 30
   - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
     publishedDateTime: 2021-01-19T05:51:00Z

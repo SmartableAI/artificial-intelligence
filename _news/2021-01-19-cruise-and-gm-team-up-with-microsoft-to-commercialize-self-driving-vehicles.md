@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
-    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
-    publishedDateTime: 2021-01-19T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 170
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "GM’s Cruise self-driving startup raises $2 billion led by Microsoft"
     excerpt: "GM announced that Cruise, its self-driving startup, has raised a new $2 billion financing round led by Microsoft. The software giant is putting some skin in the self-driving game. GM Cruise Unlike other automakers having their automated driving divisions,"
     publishedDateTime: 2021-01-19T14:39:00Z
@@ -218,21 +204,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used"
-    excerpt: "Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms."
-    publishedDateTime: 2021-01-18T07:35:00Z
-    webUrl: "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+  - title: "The Earth’s atmosphere has been modelled in Microsoft Azure as part of a project to tackle climate change caused by aviation"
+    excerpt: "SATAVIA, which is based in Cambridge, uses artificial intelligence and data analytics to study and tackle aircraft contrail formation."
+    publishedDateTime: 2021-01-20T12:10:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2021/01/20/the-earths-atmosphere-has-been-modelled-in-microsoft-azure-as-part-of-a-project-to-tackle-climate-change-caused-by-aviation/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Microsoft
+      domain: microsoft.com
     quality: 77
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2018/01/15/37af3c7b-8de3-4016-b11a-f6c6ff0044eb/thumbnail/1200x675/0694bbed8403720a906252aaf7f4a583/5a578ebc69340d506caef07c-1280x7201jan152018133314poster.jpg"
-        width: 1200
-        height: 675
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2021/01/190913165136-a7-bbg-qatarairways-777-2dz-lr-akl-doh-20190613-epx27085-cnn-web-768x432.jpg"
+        width: 768
+        height: 432
         isCached: true
   - title: "GM, Cruise Team Up With Microsoft For Driverless Car Tech"
     excerpt: "Microsoft is joining GM, Honda and other institutional investors for a combined new equity investment of more than $2 billion in Cruise, the San Francisco-based autonomous start-up. Their common goal,"
@@ -336,6 +320,20 @@ related:
       - url: "https://www.newsmax.com/Newsmax/files/d4/d482a16e-94a4-49ca-a7ed-6592d675f779.jpg"
         width: 600
         height: 500
+        isCached: true
+  - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
+    publishedDateTime: 2021-01-19T19:04:00Z
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 70
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "UPDATE 1-Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
@@ -645,20 +643,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Give Users of Cortana Control Over Voice Recording Access"
-    excerpt: "Microsoft says users of Cortana and other voice-enabled service can now opt in or out of allowing the company to accessing audio recordings."
-    publishedDateTime: 2021-01-19T15:20:00Z
-    webUrl: "https://winbuzzer.com/2021/01/19/microsoft-give-users-of-cortana-control-over-voice-recording-access-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 41
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/09/hi-im-cortana-resized.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GM joins with Microsoft to speed up self-driving cars"
     excerpt: "General Motors and Microsoft are joining forces to accelerate the development of self-driving vehicles.America’s largest carmaker and one of the world’s leading technology companies will lead a $2"
     publishedDateTime: 2021-01-20T00:01:00Z
@@ -819,19 +803,19 @@ related:
         width: 690
         height: 480
         isCached: true
-  - title: "Microsoft Research Asia partners with universities in Asia to build OpenNetLab, empowering AI-assisted networking research"
-    excerpt: "Microsoft Research Asia announced the establishment of OpenNetLab, an open networking community and platform in collaboration with multiple universities in Asia, including academia from China, Korea and Singapore."
-    publishedDateTime: 2021-01-19T12:42:00Z
-    webUrl: "https://news.microsoft.com/apac/2021/01/19/microsoft-research-asia-partners-with-universities-in-asia-to-build-opennetlab-empowering-ai-assisted-networking-research/"
+  - title: "Microsoft Lets Users Decide Whether Their Voice Clips Can Be Accessed By Human Reviewers"
+    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide"
+    publishedDateTime: 2021-01-19T19:51:00Z
+    webUrl: "https://www.techshout.com/security/2021/19/microsoft-lets-users-decide-whether-their-voice-clips-can-be-accessed-by-human-reviewers/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 28
+      name: TechShout
+      domain: techshout.com
+    quality: 32
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/ONL-Hero-Image-1600x1067.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://www.techshout.com/wp-content/uploads/2021/01/stock-image.jpg"
+        width: 690
+        height: 480
         isCached: true
   - title: "Microsoft joins GM to build self-driving cars, invests in $2bn fund"
     excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM)"

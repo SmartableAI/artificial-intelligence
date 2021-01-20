@@ -63,6 +63,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
+    excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
+    publishedDateTime: 2021-01-20T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/363767"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/363767"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363767"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 88
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611158780-03y4aZSGaxg8n0A3gIm3L57-11611143412fit-limfit-limsize-1696x.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Facebook claims it's AI can help predict the need for better Covid-19 care"
     excerpt: "In an elaborate blog post, Facebook says that it could use artificial intelligence (AI) to predict the need for better or more focussed care of Covid-19 patients. This, it said, is part of the outcomes of researches conducted by an in-house AI unit wherein the healthcare professionals could be warned of the need for intensive care for patients."
     publishedDateTime: 2021-01-19T06:13:00Z
@@ -161,6 +177,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "0pxUVO+05owK9xEobnlOqlTMEpZKe6aLVW6k9ckernp2923/QMYkyGEK8x2ejSS8nhztMCu0MZenBButWp7XugJ4Gqlbezm++/WUYrQFdnF/jNm14x4zsvwsS6STAzplXUYHrSxwZVhs9kUiaoEJl22UsAZIdRvI47DDsqubYYAFtPJxvuVs2YBP/5Flc5idwR5UddZ6vKD71Anynt77x/WGlhCc1IXNUAUfZeatgu4bCH3LzMJIax4OmJNTmeqHl3J/3pbDvaciztivGOu/KVOpGp88e67vYr9DLQ7+rTfEXTYI0dZjIQ4JO4zNqLCga4qyYSloQBdDSB1vuFKPmkj4+miNfDa44j7zS9e47Q8=;TYnWVBhHmher2gel3qa0pQ=="
+secured: "6ZeqFikWUqIFm/X24JTLy9vo5IWI/WqclsTdp09/zGCioWDlJcqayHvE2DEKwOWdw+Hs4TDq0EiE+ntEUQmWyOo0/rpEmPk+AxIDkY1mouAbIMQ0Bjyd9r/HaJZbUqkUdC+0nc6r0Yx0PMiik97i4k5MkEGUV6lcFTjGdsTXc1dDaRS38lsphU4qloreeUpRSax28m683aqBkAlTXsaKmYdo4p6LhnIvmB+1707GUPTa/DOwVwLakPSd09J+N1t4LIgCEatqT5ZYoyGoPDFmdR48XMygsO7hZrzFg/BWY6eaxdIoPShJIemnsqxOfAjTbqhAlX/rdx8S4pD9mT/Y1MmrGkjCMEwz4mTnaJuCClY=;EdmmwzrJZzyjILTtW+rjPQ=="
 ---
 

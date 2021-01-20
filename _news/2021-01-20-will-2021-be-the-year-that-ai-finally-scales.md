@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-
 ampWebUrl: "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008425e5c7cd8d2b54d06ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D942%26cropY1%3D12%26cropY2%3D543"
@@ -29,6 +30,6 @@ images:
     height: 531
     isCached: true
 
-secured: "swIqvTIY+gpo/fA/RL6qjXdxmBts5cjg5YjTAHXJ9ekxwCDSUuhEaWsersoxydztiEBOGLtZLs6JIkaIgEik/CBpm/4bR+gfnC7CnZPSCYBbyc4XeoU233fPG/bT4VAPMmhq9kdePuhR9Mo5Mnsjvo139+scnU4xT3/Ey4M66mbk7G6nPO1Mb3nTxgbTwQZIG5twPrTWkFpbsRvZc5p8PT/X8NLHDkNjASu2NDqon7zadw9tmFbZ2nmPFo6b2y0uFXImmM69TnHy/ZxiR9+KViChX6ak2h+VoIsgddup3KKBFCVYObumNzPpn9+3c8KcyAOZMRCNrC0UXhXAYorba1i4vV8IrhAlVSYbjZWoEN8=;rJzF5CmUEOVxHQW2EU/Qhg=="
+secured: "E8JQ5pMQ+LJDktO8KQ7kGgFdPo5WWFTTAXpItm6ucB7d8at6DGr7C883CaebSkr9etnbgx6xh29JYZ26HTm4mxXr+gCuB7cadxs3ULjBjOwBf8UZcHmgsE+zTit+v65F2xUGKgfGABMjH73ERnrzDIK4F4MjtAGlRNOgqEQSmVddsfyBjwkJglyieoA4PQXXYyNFwxMYc8jgSsFPsO+Kf2/WzU0hdWnrUkg6cDzeROOVPZSmfphUk/80s44HbcTmz5V2EIQi17wMIl5MmacTq93EvhhZYVTp3ijsEGZPBWxvmyKniz8FbVDwj2HjDTFbNjdqZx11t1X+iGIygWuZoLUDjTxkRZ9TN+SRlnt6Ht6WyD/odFR1QSbKYY4x30PrgUfZPF4qarPsxZfKwjqSPx9FYgkT05f/TPYo8AGSKhLUSKLPRW8h8khR58QCKLA/CSySM/9Bz8OoO1YCtGSqOoPN2niVueSHrEH+Tso7uRUOATezQIYlscT+4vDXr/AslKiN+uPG2yWHKU3GHez/EQ==;xRnnjh0b2kau4g5cBPE11g=="
 ---
 

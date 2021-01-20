@@ -2,6 +2,197 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-30-tesla-uses-three-free-months-of-full-self-driving-to-push-year-end-sales.md",
+      "title": "Tesla uses three free months of 'Full Self-Driving' to push year-end sales",
+      "excerpt": "Driving” system that Tesla sells as a $10,000 option isn’t available in subscription form yet, but the car company is already using that idea to boost sales. Reported earlier by Electrek and confirmed in a tweet by Elon Musk,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
+      "originalUrl": "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ffa7d8220-4a3a-11eb-9faf-2c885b46bd4b&client=amp-blogside-v2&signature=c32d614053b5590ce90e5251cb05134f3601ab4c",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fsd-3-month-offer-011341156.html",
+      "publishedDateTime": "2020-12-29T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-robo-taxi-market-size-report-2020-recent-trends-share-and-growth-forecast-to-2027.md",
+      "title": "Robo Taxi Market Size Report 2020, Recent Trends, Share, and Growth forecast to 2027",
+      "excerpt": "Top companies covered in the robo taxi market are Ford Motor Company, EasyMile, Lyft Inc., Uber Technologies Inc., NAVYA Ridecell Inc., Daimler AG, Waymo LLC, and more players profiled",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43112114/robo-taxi-market-size-report-2020-recent-trends-share-and-growth-forecast-to-2027",
+      "originalUrl": "https://www.wboc.com/story/43112114/robo-taxi-market-size-report-2020-recent-trends-share-and-growth-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-meet-the-women-leading-the-fight-for-more-women-in-ai.md",
+      "title": "Meet The Women Leading The Fight For More Women In AI",
+      "excerpt": "The exciting potential of women in AI is that their presence has such a wide reach. Not only is AI one of the most pervasive technologies industry-wise, the data it produces can have significant social impacts on our society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5febc497756ba71281a9e2d0%2F0x0.jpg%3FcropX1%3D143%26cropX2%3D879%26cropY1%3D0%26cropY2%3D414",
+          "width": 736,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/12/29/meet-the-women-leading-the-fight-for-more-women-in-ai/amp/",
+      "publishedDateTime": "2020-12-29T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-highlights-from-the-year-in-science-2020.md",
+      "title": "Highlights from the year in science 2020",
+      "excerpt": "One of the biggest scientific breakthroughs of the year came just last month, with news that Alphabet's DeepMind AI has made huge strides in being able to accurately predict the 3D structures of ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/science-2020-year-review/",
+      "originalUrl": "https://newatlas.com/science/science-2020-year-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1957683/2147483647/strip/true/crop/1999x1333+0+46/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F40%2Fde%2F1497dbbb40b18507ebe95f4976d0%2Fdepositphotos-13261072-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/science/science-2020-year-review/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/science-2020-year-review/?amp=true",
+      "publishedDateTime": "2020-12-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-improving-algorithms-with-high-level-synthesis.md",
       "title": "Improving Algorithms With High-Level Synthesis",
       "excerpt": "Sometimes the results of HLS are seen feeding back into the algorithm. Klein said he recently worked on a voice recognition system in which the original TensorFlow algorithm, as defined by the data scientists, called for a feature map of spectral data in a ...",
@@ -993,194 +1184,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-artificial-intelligence-robotics-market-to-see-major-growth-by-2025-nvidia-intel-ibm.md",
-      "title": "Artificial Intelligence Robotics Market to See Major Growth by 2025: NVIDIA, Intel, IBM",
-      "excerpt": "Latest Study on Artificial Intelligence Robotics Market published by AMA offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Robotics Market research report shows the latest market insights with upcoming trends and breakdown of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
-      "originalUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc29648211_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
-      "publishedDateTime": "2020-12-28T21:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-how-doe-researchers-are-using-ai-and-robots-to-design-the-successor-to-lithium-ion-batteries.md",
-      "title": "How DOE Researchers Are Using AI And Robots To Design The Successor To Lithium-Ion Batteries",
-      "excerpt": "Building the better battery may be too big a job for humans, according to researchers at the Joint Center for Energy Storage Research, so the researchers are turning to artificial intelligence to find the right ingredients and to robots to make and test them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
-      "originalUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea3059d12e840ff06d83a7%2F0x0.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2021/12/29/how-doe-is-using-ai-and-robots-to-design-the-successor-to-lithium-ion/amp/",
-      "publishedDateTime": "2020-12-28T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-catching-them-young-hexagons-centre-to-train-students-in-ai-skills.md",
-      "title": "Catching them young: Hexagon’s centre to train students in AI skills",
-      "excerpt": "The fundamental and advanced level courses designed for Class VIII-XII students, and senior engineering graduates respectively",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/catching-them-young-hexagons-centre-to-train-students-in-ai-skills/article33442402.ece/amp/",
-      "publishedDateTime": "2020-12-28T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business.md",
-      "title": "Artificial Intelligence Is Great For Day-To-Day Stuff, But It Can’t Build A Business",
-      "excerpt": "AI can't build a business the way humans can. getty. Let’s face it, artificial intelligence is probably one of the best management tools to come along since the first commercial",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea1efdc398efe2f56e500e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
-      "publishedDateTime": "2020-12-28T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

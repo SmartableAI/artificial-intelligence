@@ -19,6 +19,50 @@ topics:
   - AI
 
 related:
+  - title: "SD Times news digest: Splice Machine Feature Store launched, Command PATH security fix in Go, and Sensory VoiceHub released"
+    excerpt: "The newly announced Splice Machine Feature Store is designed to help companies implement machine learning in their operations by providing data scientists with actionable real-time data and by reducing the complexity of feature engineering."
+    publishedDateTime: 2021-01-20T16:09:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-splice-machine-feature-store-launched-command-path-security-fix-in-go-and-sensory-voicehub-released/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 45
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/01/Splice-Machine-Launches-the-Splice-Machine-Feature-Store-to-Simplify-Feature-Engineering-and-Democratize-Machine-Learning.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Sensory’s VoiceHub Will Boost Accessibility For Voice Assistants"
+    excerpt: "Sensory released VoiceHub, and the portal will allow users to add a natural language voice user interface (UI) to anything, with the help of vocabulary additions."
+    publishedDateTime: 2021-01-20T03:21:00Z
+    webUrl: "https://www.pymnts.com/voice-activation/2021/sensory-voicehub-will-boost-accessibility-voice-assistants/"
+    ampWebUrl: "https://www.pymnts.com/voice-activation/2021/sensory-voicehub-will-boost-accessibility-voice-assistants/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/voice-activation/2021/sensory-voicehub-will-boost-accessibility-voice-assistants/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/shutterstock_708158770-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Splice Machine Creates Feature Store Platform"
+    excerpt: "Splice Machine, provider of a scale-out SQL database with built-in machine learning, is launching the Splice Machine Feature Store, helping more companies operationalize machine learning by reducing the complexity of feature engineering."
+    publishedDateTime: 2021-01-20T15:54:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Splice-Machine-Creates-Feature-Store-Platform-144816.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Splice Machine Launches the Splice Machine Feature Store Platform to Simplify Feature Engineering and Democratize Machine Learning"
     excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced it has launched the Splice Machine"
     publishedDateTime: 2021-01-19T13:30:00Z
@@ -33,15 +77,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
-    excerpt: "Molecula, an enterprise feature store built for machine-scale analytics and AI, announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by Drive Capital,"
-    publishedDateTime: 2021-01-17T14:40:00Z
-    webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 8
 
 secured: "x5DJ6PU28NyFUM2QiEu4dzECga85fbZys6eoTVu3vWDgX/D5kWh17ifLFr8ml6gJef5y5+JSoOBdoh/YHnvB8RPqMVN4C/LeYoE7G6/jNTPKK4COPMpuLqZuYO9Tf/vgRKvaKy22ITmd2+fUzOi2+pzI0AFz9ob8Oh8SiCyUHnV79I+1dgbhDRXiyFWGOBGhgd4zzhDBSlppPwU+WGVUUwO06LvQcOCCF5Dr3t2wJzGW1sslLL2KgzsJPJf3t4Iwl2C75jkFNfcn5efG92JI4S9T78pj6TAEDeXVQUdNx5k7Fow0jPXmU3f5CKrWGoZrIhg/asEZWl90HITxS3KDoXBiE9ivF5fO7n8aJF+Pru8=;iaZ6IBpjJY5XSU9kK0Iu6A=="
 ---

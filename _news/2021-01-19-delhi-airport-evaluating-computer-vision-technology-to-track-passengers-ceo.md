@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official"
-    excerpt: "Delhi airport, which is also led by a GMR group-headed consortium, installed the 'Xovis' passenger tracking system at Terminal 3 last month"
-    publishedDateTime: 2021-01-19T11:31:00Z
-    webUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html"
+    excerpt: "Delhi airport is evaluating a 'computer vision' technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a t"
+    publishedDateTime: 2021-01-19T11:57:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: India Times
+      domain: indiatimes.com
     quality: 60
     images:
-      - url: "https://images.livemint.com/img/2021/01/19/600x338/PTI23-12-2020_000268B_1611054870782_1611054896014.jpg"
-        width: 600
-        height: 338
+      - url: "https://static.toiimg.com/photo/msid-80144619,width-242,height-136/80144619.jpg"
+        width: 620
+        height: 413
         isCached: true
   - title: "Delhi Airport evaluating computer vision to ensure social distancing"
     excerpt: "In today technology news, we covered about the Delhi Airport evaluating computer vision to ensure social distancing"

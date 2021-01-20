@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-suppo
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Microsoft Research Asia partners with universities in Asia to build OpenNetLab, empowering AI-assisted networking research"
+    excerpt: "Microsoft Research Asia announced the establishment of OpenNetLab, an open networking community and platform in collaboration with multiple universities in Asia, including academia from China, Korea and Singapore."
+    publishedDateTime: 2021-01-19T12:42:00Z
+    webUrl: "https://news.microsoft.com/apac/2021/01/19/microsoft-research-asia-partners-with-universities-in-asia-to-build-opennetlab-empowering-ai-assisted-networking-research/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 28
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/ONL-Hero-Image-1600x1067.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "Wf7si6WSYj3/t+XiPxm+ld2amQHNBUZAlYe1LMMSDwHKh8XsrB/PzLqAZcacUwsVj1x2GkyAarLsIv8NlsNOA50/vMQTey/KeSSZyv2i11NEkbMQgQ0m1oov2+WXgjyWlCcrlsDBgwy21g+lv4DdLF7XqLI73UBWr5P/jgeAfXMkoPE9mfrtXLE2U1Y/lZBKX/8032DNwe5F6S0946HfJPk5r4b3WXk3rC5McJ4DWmmmHkyp33TaJeQgQNrZm8EYSjwopze/wk8bBbZ09a+6THKSG8N+HpO2+GmdbS07H5TFlFSs7ZfUJsT2X/oykIpCHh6f3XSUwFv5mi3b8xWrSUfdsUTwCCcKVfwdIZqTQ2c=;S5d2u4vZSbqOLEQtmX4EnA=="

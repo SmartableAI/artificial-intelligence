@@ -3,29 +3,31 @@ category: news
 title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
 excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
 publishedDateTime: 2021-01-19T04:55:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L"
-webUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L?via=indexdotco"
+webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L?via=indexdotco"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29N23L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29N23L"
 type: article
-quality: 174
-heat: 254
+quality: 94
+heat: 174
 published: true
 
 provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
-    width: 800
-    height: 533
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548297838&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0H1DG"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -143,6 +145,6 @@ related:
       domain: insurancejournal.com
     quality: 2
 
-secured: "x54Ml4mZH/4kHXGbwCxNZYZqebZhNlV6iEnmd6JLiOe//rZjIWBJG/ld1tONdBLiW/cgvJU1MGCp+Rtt3jslUfEfpIZ7pvv4mRLr8/pIsOfVP4RooO7/s58U2x7DLHH9Tuq3qRzatnHw6PyxxeucC0qKB/frHu5vaKJDdgzB9VTe7SlPnIjbrFP04Wq2vpzAagj/OxoDxppDEAovGqXMeteP+dDrwLegWUQ+4RwYiOXhdq4f9rb9SYqei5nppLrvMe8eG1iIe0EZ0jgk5/diZx2URVEO3dfdTYptUvKt5DDzb738ZXlzbyD3HGKTG9EKoPeVPKnuv5lEFyCkhHVWQgBIEc7wK8Hnec5EKR3pz4U=;d94DQxq7lYjMmcQ+RekIpQ=="
+secured: "P+VcJPwpRODj+41FAhTqrsbsfRnekvaDg3M6DwW42lNiuyHWcSnQxmS2ptsXYkyn6TPjY2UcbVrTII68CRFpVos1gVzNAwkBQN4Fgg6dcDfaKeSpS98UF+lx6oZqLb28TPKUU3ReEbkRntw4Ez1CNQCiNS/wDBjjc8V96BETJVCUewfRyiPEmAkKWJFi8VLpVclpfSEyhJmOTfdEbuy9pbS8/JukeGgg9dFliE7vp7zLRnpXy0LyHMzWZmcxXP3m2n6ZsxfMdToVuLrhQnLojq6MaOgaus8Pt9ackKhr+HhZuPTQrJVHDBRUsZMiCZJCy0ZcZIlHxCvwDFqiftFjZyMSxak6QQ1ICF/eupAzTsE=;BdxuaOgViXEiDBG3n9As5A=="
 ---
 

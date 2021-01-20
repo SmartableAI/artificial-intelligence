@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump pardons former Google self-driving car engineer Levandowski"
+title: "Trump Pardons Former Google Self-Driving Car Engineer Levandowski"
 excerpt: "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit."
-publishedDateTime: 2021-01-20T12:15:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-pardons-google-idUKKBN29P0J8"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-pardons-google-idUKKBN29P0J8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29P0J8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29P0J8"
+publishedDateTime: 2021-01-20T15:26:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski?context=amp"
 type: article
-quality: 74
-heat: 114
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548405767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09P"
-    width: 830
-    height: 545
-    isCached: true
 
 related:
   - title: "Trump pardons former Google self-driving car engineer Anthony Levandowski"
@@ -89,6 +83,6 @@ related:
       domain: forbes.com
     quality: 34
 
-secured: "uXOg2El20nLRc1/BQG6pAwvF+C3SWbDuNdjtns1wi60Eqbpg9Pzp9YG2+dO2OMehGpxz9ISZKVwhuXvpsvzlUxGwnhQ3yI2EFdYmxhufxe9l5e6aF3hCsFe4rS8Dkhbi5srZhzxxTiHiPgKMocDzIeEbet8q5Mx8h9yiswdxV8U+cNRHRwKchFzaJJrCxw6BmFJCRzGuz5oDcUp/THvwE8c9RQcgk+l7Dd1MA+s26rWMpXN9y9Zv18pFH8rIjx4fZRKu9itynIS60CO2JasllUHaHNxYj4ybs1L9eXdkk+4u1Y/3awgd7L2WzRLqVLC6du7YJk6JPCVYbMgVd0+yfg74QvqDZ30BFSpsoF8klIs=;yH+BKAl2DZWxVmvRa2ZrfA=="
+secured: "AfoaOvjWk4dgAV2Jpva7buH3Zlsz6m/Q92lIoy8M06HHPdmenDnWJnITGm0txopPmRV11EQTPJILoWPWMSmhUIwo4U53Op8cCjeixcvWRKoEwNnPNOVkadnlG5BP6wz9z+CjzjRB3L2vJEIm1ECZj82XbR/xW72cx6GSVi1/rWa/oJm4Kb3fAIukPIN5XnBHDbs4ngNWMzt1V1R7hVeVQC09JzxTf4Jsw3a6dMgiCGwH8qYfAhT8cIMBY+d+Wp+WabhmAY6UuDrIaA0cVW96zVhpuiPBqqDR2It80e6GTrS9MP54Q2BxL5WnG++pMHhvKJnsRGJ79RTe5CdOj7iX/kIENTrrwyGTCMC1OaR1qYmFe7IG7ASMXIr11oWhfvzYuVysDXrfT4CH2BLzVDIwFROYqclj2Y2Rz8Xw8CKhWyecqsVssEtTwu7lOgM/4LlqAdU1EB65Sjzdb4quRVtBbwhJZF7K2ZbQTO1sK+NmtARUPoHEE9rcxSlGfOQNBbVxcRvznVFy/mFnUpHqkgrvUQ==;dAkjOX59/RkrSLNXHgBePg=="
 ---
 

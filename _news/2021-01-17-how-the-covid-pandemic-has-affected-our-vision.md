@@ -9,7 +9,7 @@ ampWebUrl: "https://www.breakingnews.ie/amp/lifestyle/how-the-covid-pandemic-has
 cdnAmpWebUrl: "https://www-breakingnews-ie.cdn.ampproject.org/c/s/www.breakingnews.ie/amp/lifestyle/how-the-covid-pandemic-has-affected-our-vision-1063963.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Global Micro Fulfillment Industry 2020-2026 - Huge Investments in Start-ups During the COVID-19 Pandemic"
-    excerpt: "The \"Micro Fulfillment Market for Grocery and General Merchandise By Technologies (AutoStore, Shuttle Based), By Warehouse Size, By Geography - Forecast to 2026\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-19T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-micro-fulfillment-industry-2020-2026-huge-investments-in-start-ups-during-the-covid-19-pandemic-1029980246"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-micro-fulfillment-industry-2020-2026-huge-investments-in-start-ups-during-the-covid-19-pandemic-1029980246"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-micro-fulfillment-industry-2020-2026-huge-investments-in-start-ups-during-the-covid-19-pandemic-1029980246"
+  - title: "2021 technology trend review, part two: AI, knowledge graphs, and the COVID-19 effect"
+    excerpt: "AI chips, MLOps, and ethics. Knowledge, and Graphs. COVID-19 as a mixed bag for technological progress and adoption"
+    publishedDateTime: 2021-01-20T08:16:00Z
+    webUrl: "https://www.zdnet.com/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2018/05/04/c838f755-7efa-4ab2-ad10-b322acbf5234/istock-692654376.jpg"
+        width: 770
+        height: 577
+        isCached: true
 
 secured: "ZBZDNRXDAOa12cyI92DFOokbSRMtjKUnSAlV+XYtUDHuew9Pc18OWBL7jWpnSZcqyA0ITOXUexiX4zvyFxAwfJ19exWvw5mdIC9xKNNWeGfiTj2B8t0HTOvi0Ful6tzosNVAGL/xUc7lOguBOVyM9vmU/YF7x+3YnFnAjb9Krknm8IcVwX+hdIxjBhP3YE2jcidTvtgtxOgRz0FbcfQFzWneY+JW0N6yl18asDWXbC9R7sk65ie/JoH6cKloKR0ACuMz7friG60SgrP2dfMLbxXuuzt5Exc2WknP+YvHeZwXguU81tbUdd90nOgow9PjowIuA1P6oPNg47DEGv3OgTDHGkm59hKVkKXad0iV2SBuJ+UBtQiNEngO+w5dNUnkkbKzHy7UikAflwPfwK96QHS9qsxDJIZHfUWlFyX8cS01kqjEE1aFSTKCL41mkiRL+LY0eW5g0yJF9NDkZm0xkWhIxZhdoNpQcVE71U3CnaBgCRMhzQSsBJRuVllrhtG7h0djcnHrDNx36yVq0SfLOw==;xl0MTYD3h6OmqygbrW6ElA=="
 ---

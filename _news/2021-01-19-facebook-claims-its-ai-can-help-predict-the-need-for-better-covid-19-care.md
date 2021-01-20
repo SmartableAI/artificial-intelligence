@@ -79,6 +79,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
+    excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
+    publishedDateTime: 2021-01-20T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/363767"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/363767"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363767"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 88
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611158780-03y4aZSGaxg8n0A3gIm3L57-11611143412fit-limfit-limsize-1696x.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Facebook to use AI in predicting if Covid-19 patients need better healthcare"
     excerpt: "The research, which can help produce predictions based on chest X-rays, has been done in collaboration with NYU Langone Health's Predictive Analytics Unit and Department of Radiology"
     publishedDateTime: 2021-01-19T01:57:00Z

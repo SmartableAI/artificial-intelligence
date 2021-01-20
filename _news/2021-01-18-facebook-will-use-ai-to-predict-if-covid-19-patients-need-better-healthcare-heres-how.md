@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-i
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
 type: article
 quality: 98
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/20/320b9ac2-461d-41c8-a63f-477d00d43a01/nrp-cross-post-using-ai-to-improve-photo-descriptions-for-the-blind-banner-2.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
+    excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
+    publishedDateTime: 2021-01-20T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/363767"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/363767"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363767"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 88
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611158780-03y4aZSGaxg8n0A3gIm3L57-11611143412fit-limfit-limsize-1696x.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
   - title: "Facebook claims it's AI can help predict the need for better Covid-19 care"
     excerpt: "In an elaborate blog post, Facebook says that it could use artificial intelligence (AI) to predict the need for better or more focussed care of Covid-19 patients. This, it said, is part of the outcomes of researches conducted by an in-house AI unit wherein the healthcare professionals could be warned of the need for intensive care for patients."

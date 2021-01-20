@@ -1,0 +1,65 @@
+---
+category: news
+title: "Innovate Finance: The UK Retains European Fintech Investment Crown in 2020"
+excerpt: "Innovate Finance has published a note regarding Fintech investment in the UK. According to their numbers, the UK retains its title as the top investment destination in Europe for Fintech firms at with $4."
+publishedDateTime: 2021-01-20T16:35:00Z
+originalUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/"
+webUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/"
+ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
+type: article
+quality: 72
+heat: 92
+published: true
+
+provider:
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/London-UK-Fintech-600x447.jpg"
+    width: 600
+    height: 447
+    isCached: true
+
+related:
+  - title: "How FinTech IT Leaders are Driving Modern IT Operations"
+    excerpt: "Over the past century, businesses of all stripes have either increased efficiency, become more competitive, or reduced their cost"
+    publishedDateTime: 2021-01-19T18:56:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-fintech-it-leaders-are-driving-modern-it-operations-02378696"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-fintech-it-leaders-are-driving-modern-it-operations-02378696/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-fintech-it-leaders-are-driving-modern-it-operations-02378696/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 44
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/01/Image-1.png"
+        width: 337
+        height: 364
+        isCached: true
+  - title: "Regulating the Fast-Changing Fintech Landscape"
+    excerpt: "The fast-developing fintech marketplace rests on security and fraud protection systems that need to continuously evolve and strengthen."
+    publishedDateTime: 2021-01-19T17:30:00Z
+    webUrl: "https://www.fairobserver.com/business/technology/sonia-katyal-fintech-regulation-digital-currency-finance-innovation-poverty-reduction-news-15261/"
+    ampWebUrl: "https://www.fairobserver.com/business/technology/sonia-katyal-fintech-regulation-digital-currency-finance-innovation-poverty-reduction-news-15261/amp/"
+    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/business/technology/sonia-katyal-fintech-regulation-digital-currency-finance-innovation-poverty-reduction-news-15261/amp/"
+    type: article
+    provider:
+      name: Fair Observer
+      domain: fairobserver.com
+    quality: 44
+    images:
+      - url: "https://www.fairobserver.com/wp-content/uploads/2021/01/Fintech-2.jpg"
+        width: 938
+        height: 450
+        isCached: true
+
+secured: "Q4r+LqbM+mMGjkgE0LruZUbodX8iDDFgFQ/yEKS4GLCOYrbfl8uOTnv+NKtCUG1MJpMGtzMCibT6GzLtw9CGLopd1wJlyzgLnmPBWPInOn5FFi20Dmk8w3/4Hk6BxHXB202HDQwSeV3YYIw5cNaaqGQ/m3acUQM0hzvzDdzzB3/HE0jkaqCiHUwrkncPTZL9HV6u2lCW5pAWez3FmNx19Il23hTJeyAhhyRJOTJjOj2mHAbU4UyRktpok3tRvrJzqgLvzdl7Bpc39bJHrxvSvw/BEheAjH0oGmk5dbOCHpZN4RAs+cfrZK3gJaDrw1gDfPqxygVQNRgg6tFvIhBJR/4zg/E3ULzAt6h6V2l4q6U=;NoN4dVxeQbK1PIKEQveAig=="
+---
+

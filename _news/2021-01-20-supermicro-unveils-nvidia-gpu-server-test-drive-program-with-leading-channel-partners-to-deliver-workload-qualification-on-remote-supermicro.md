@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
-publishedDateTime: 2021-01-20T14:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986562"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986562"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986562"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986562"
+excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
+publishedDateTime: 2021-01-20T14:33:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
 type: article
-quality: 30
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program"
@@ -39,7 +39,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Supermicro Unveils NVIDIA GPU Server Remote Test Drive Program"
+    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and"
+    publishedDateTime: 2021-01-20T15:54:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/supermicro-unveils-nvidia-gpu-server-remote-test-drive-program/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_bushfire-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
-secured: "0AgM+8iOrB1dH8BGxE+Cw/ip1viTZMq5Pv11MGjR81h8pD4C5dyGE5GnTa+fi371InQo1xU6GxVGU+iZuqbvAvL4bIhTwPqjBM6FuE0WMhTZa5xogHxSyGumZZm12FVA0/ybmSKWIMAydbTJsNSY3LZ7HvOPX7gsfV3KOD6M5Q+UF1fMU9jluO16Ufq4x0GJwSj4MMmdUUdDUAERAqqv+0ge8MrVFlcZguA44BDOhoxKESV1ncSk+imN0730WII44qIGUyhn1mVZQ3d8h+U7nHDosLtkLMoIFgVtWnGmazdrLq8oxCTbvvKUR8J1zenHH0pl861a4xd25ZbfHG3XsLex2voNf6YIRgv0is2K1Jw=;GCGEJyxw+WhFylplgWWDqA=="
+secured: "qSAbVw+IdZkzeeNzEWdVOOCBdgngvXSTr9dMaC0Rd6yLuxDltFxt0KFLNQq5sgrSZK3GWgH9oynTs5ePiDahyq1dWaEo7SEMnuCIsHU9bau/jMC4jKcYsYHjmhkHZBCMtcbgzN7ZGhfTe8mXBcRcy2eDEjYcHpu2bBpB7t+aXPXuA6bE+h2GTJCCuOB/VgkDEokzMeZApA4oRK4CmWiaT6RyLQBhws2UtTjdvWvUfnbE1s7qJ3oB2GVWUV4Qi71ExE6hyBwS9LwobU2Mk/ftrOUrKS9M4bIggxzEp1Aqv4vSGv7ICLcw5LjCh6tX+IIzB380EjPddoj2Iq8wLypKk4nCfrWLO6VoKz5cwzQQDsg=;916ChZRLqLYs6PV7/IsNTQ=="
 ---
 

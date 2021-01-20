@@ -7,8 +7,8 @@ originalUrl: "https://www.prnewswire.com/news-releases/amax-accelerates-next-gen
 webUrl: "https://www.prnewswire.com/news-releases/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program-301211533.html"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: PR Newswire
@@ -25,18 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-    excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
-    publishedDateTime: 2021-01-20T14:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986562"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986562"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986562"
+  - title: "Supermicro Unveils NVIDIA GPU Server Remote Test Drive Program"
+    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and"
+    publishedDateTime: 2021-01-20T15:54:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/supermicro-unveils-nvidia-gpu-server-remote-test-drive-program/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_bushfire-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
+  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
+    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
+    publishedDateTime: 2021-01-20T14:33:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "n4NG24GzQSFOyFyzpr6Wo7xy08VAEOWnqlEo6dFbttX/Uqv129McodiIaTWmZ2R7UX+tpogkE6td8cWxNXtO1XnQl0eY3iR8GSSPnrUTecKhwFMalUxkMa5CXapAfVUCDfyFE1VzPqh6SUT7RucnQTacKzCWkfBKoHJ+AFa9iSIZWPs2gS21r66ujSoRkSztxWEsz7GRASfoC7EnLGYGWjTlOk3Qblo6e0SICZ6+iule4yDrmQoSp9sVW0sqDS8Pq9SmbVFWNAdNtBpBjSK0NrFhynJGRIHt8vyOGfAYQ2WMT2hZwioLTzvnBVvjWOKFj1eCXIzCWpCszNB7EsaXNAbHDD0/Fkt6pRoGweJeFdg=;QsMyphtsugLuBPenJFMbDQ=="
+secured: "CXpoF7pEi7l23lyTMJbZJfuTd5EEq0NUT9UigUVEakU5xZO9pWP93Hqwh2VZCGXVkrEuCl1kO1ZOJil4oYUj5zshh+joCTVLMXh7LXBaXefatrRZIsKvs4Po9NrBN7deHHCo/FdjaOSsGAPwJheCy2Ak/hQ8mplLG1BpXur3VxBOaSAWpQvGr14T7NUSLPh1RKD9CP5UUiBZuVKyeZAR6cEO2M1E6nPX2K6kCdvosN30fPD+mjvMj8cR3FrWWD1qqvLan5EkUaXbZZwW2eCvL77I4PLZMe6Wjkn3L6jNFfe2OtIq0IEmI3cF6Hga2GUHkx9TPsXszQiIVBv8u/sGeLBjN2erIhKTzx84WLTBCOM=;CljvJZ2uFFJKI+0+4Pw5/g=="
 ---
 

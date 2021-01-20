@@ -50,14 +50,16 @@ related:
         height: 229
         isCached: true
   - title: "Voice Soars as Primary Interaction Modality of Choice In-Vehicle, Finds Strategy Analytics"
-    excerpt: "Voice Control. 1.19.21 A new report from the Strategy Analytics’ In-Vehicle UX (IVX) service, “ Voice-First at Long Last? Consumer Usage of In-Car Voice Controls ”, surveyed car owners in China, the US,"
-    publishedDateTime: 2021-01-20T06:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-greater-china-automobile-manufacturing-asia-802a90b945c84afea681204634cf7a0e"
+    excerpt: "Based to Offer Best UX Strategy Analytics - Automakers of all types have largely aligned on touchscreen and voice control as the"
+    publishedDateTime: 2021-01-19T18:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19221518/voice-soars-as-primary-interaction-modality-of-choice-in-vehicle-finds-strategy-analytics"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19221518"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19221518"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "N3my3cUbffZLnpagXIUrqQCq/Uh2bhrso0c0ge29aT8Waaa2gMLU+MlYioObIkUHOEmd/3MjDZFv0syRaH9nAvpZCooHA0kWg563k+wuLhXCfb/AJ3+PJY0pPlqAI5eITlz9ydMgCa6w1Piknkx/UgvLTTNti0moGY+a3E5edF1DL1W6PZxW5IXxLNH9Jt47jVech5wALVUCKCMNI4bBdG+8dC9fbU+Mz4dPjbnEKOdU9l1hRrJY1Qcc+oduY5GW/wPb+AIkROL+Nb6sNnYcKn01G2/tt4DUbTcezDYlcnymo5Vq8RKGjprl4O6/DYs0r2ABL8ufLdTQJe7tXSrzf/OOfw7RlMdvGtyq3eW6NQaJjGFONQ6IuaJUt87KWbElGBER2boHHaJ57gx8uOC13K+bweDXBIdQwAgx9XznCFBcIFE4kEbmCRQYqfWGF04tY0vQyLOi3bBhY2V5v+q6IlfpmkkcGiWxhzvhY8wLylGoj4M7tuNzVuchRTmP/1fK64TmQPC41KqKu4ngppI12Q==;llyynbiBGLn79DOQCovIHQ=="
 ---
