@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descript
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1024
         height: 453
         isCached: true
+  - title: "Facebook Improves Photo Experience For The Blind, Visually Impaired"
+    excerpt: "Facebook said it has launched an improved version of its automatic alternative text or AAT feature to improve photo descriptions for its users who are blind or visually impaired. AAT utilizes object recognition to generate descriptions of photos on demand so that blind or visually impaired,"
+    publishedDateTime: 2021-01-20T14:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "FB Improves AI used to Describe Images for Visually Impaired Users"
     excerpt: "Facebook has announced new modifications to its artificial intelligence (AI) technology for assisting visually impaired users."
     publishedDateTime: 2021-01-20T09:20:00Z
@@ -103,6 +114,6 @@ related:
       domain: itp.net
     quality: 19
 
-secured: "Gn/ZBzzRSFJ8ORRto5mwrn79TFZHrAMyd28X9ubp8T3xB6KAy/KY8/LdlplTMR1RomaBC4P2fqhW3kfl01mwVvDC3bHqp33BpBwNugWtDKNPHbWAKetwppWeFmo4l7PovCIao4LjDyiYZboRyzYTeykYe/rNPXdLz7HjeGB2trp36MLoJJ5sKcIJDs1z4Cy1vEcRutQmsgVOKwESdEb9t+Hbfii0kIeW9FQCGxRm1Iu7daOjwBI1Y/tq93IIXKKecks9x33LvPdCaOuiK6xltgYw1iO5x1IOWM7nwKVMpJ65AeZVDdSJb4K9IKrHy9z+p1AyPAlQaLs1lOFIX2Xmfgdi8q3ftM60lSpiBvNbYaY=;NdVParwthjxBakQVXqSlWA=="
+secured: "uPSCovfK9WESNKKO+M8YzV/Mm7lbMrzvOWO3/mFHmS7sWDXIvEL2zSVdfkR07ZeXjdCHPICVwWJgpsbzg1/59MjPQplyeU4yEiT8SsRlkHZqqMlarGjMcg/g6h9BkfMVBo6yDREhQicYr0Jvbbe3eqw3PuTLN4XYF1S2f6uBKFam+R4owI9NNhG5r3OKzBBpgfpMSrnYWbfzzzktzN6UpkjD51Zs285a8qBBs+RQ8dEJtFV7zQ6xlRIkcLj3v0PLvuEHEdhuEacjFpLwdh/ZOLSZH4K8VTD+DNEnEVdnM35vWfS3E+kZSb6qYp3fpADOwQTPnCpmYk0f+iym85Rn83E0AIFbGEjOrYobjrNbJ4e9/b1t5B8Oh9uC4aU8UeDMYTdjq55aNKHr/X65DR+jFCpcHyLOBF9uktsFeJ4ZlNugRepa0f/ksvXHN2QhgYZYAFQ5tk8mFx1oN95mp3igojS1v7pZzrv4Ye7jl6nSv3TuCW5FioeePFdPRh0kUg16VS25HFrwLzT+7dWDHu7pwg==;kUzlmAqF7duYdshSwMgTgA=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Image Recognition Markets, 2025 - Digital Image Processing, Facial Recognition, Pattern Recognition"
+    excerpt: "The image recognition industry is driven by various factors, such as an increased in the need for efficient and profitable retail execution processes with adherence to compliance standards and technological advancements to boost the adoption of image recognition market across the globe during the forecast period."
+    publishedDateTime: 2021-01-20T14:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/image-recognition-markets-2025---digital-image-processing-facial-recognition-pattern-recognition-301211658.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "WDT/Inuxh1xYwLAF7ZZpXavTDRTespkbJhPSHKpgH6jA3bjm/IA3VrhFFqetq2FJEc9JtFsteqFS93EQGUXjx4B3gJRDf1n/IEj7dX6mgMFBCwCLlmKx36Lx9tVoemb3I6j2j2t/K8J7HV6wBf9c8vsAWaDCsjnf6qYH2hLrKsk/saO7RUA8N0ocSwtTHWBcZBOmG3fw3zsPMmamf7ZZt43dpGcurmOdqb+q5XIQiO+3zrbh+gPoqJ+SqACE+LpjTryBzhicbCvPweeex9egAG/TRBEmUuraxybOJd9RuPPVQRU40LRfHFOCeEQIhPnw+LJwLPMkKc37pxOYGAebrXWQkaejMDikmmTn0woCfvNAwfLMeQyDe5k5gSfvP3OH0BmX7YFzfIDG3AxxcK/w4xAC4qXeRd3LoFU3nR/Wkp2C0kjFTHqpygNDkBUIcqgpV2hMz8iKqUI3lkEsIsOI6KDz1G1VBNVNir6IcsJzU/zmtKOxX/mNj88tlrdZTvuzwTH6Jjx1yTZZR16zLRVKmQ==;eA7n20egDqM0SUht+9JFbg=="
 ---

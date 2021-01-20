@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "ETH spin-off LatticeFlow raises $2.8M to help build trustworthy AI systems"
+    excerpt: "LatticeFlow, an AI startup that was spun out of ETH Zurich in 2020, today announced that it has raised a $2.8 million seed funding round led by"
+    publishedDateTime: 2021-01-20T14:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/eth-spin-off-latticeflow-raises-$2-8m-to-help-build-trustworthy-ai-systems-9709579"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/eth-spin-off-latticeflow-raises-$2-8m-to-help-build-trustworthy-ai-systems-9709579"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/eth-spin-off-latticeflow-raises-$2-8m-to-help-build-trustworthy-ai-systems-9709579"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
 
 secured: "+t1XTL+Os+fJAgTpHUwl67FGUDLoxABBshEAlaMPhfBtKZmQj6/0fky4gikNVE6cqx14NsHz0jRALeZxra1cVxx/CzxA7/hASTGXXJQAbE9RcbpErxreoB3iGdmUtbO0F9WvljZfr8dPNlnhqJ9jEdo6tsVT7fHqxugT95Gm68wo0kzbwcEGxB4qyQwZLlFd+5jQ0dcdxnEnQgwht0SYKZ5YBdJ0N1TGCgAZO3f/8Np5ygc6Nj2QcUOMDZEB2YIKcl8EnY0H+YWIOQ7PFqHVVfpJY/py2KzQW4M4Ll1RvGRQKLPJrPQWGGwDhs4g0E3bAR4KJtHjLBfxhvwXtXhOjUdw1yw6GdFtVQDZRScwFYVhx4MQPwprKSs2td5rqOje01lN4gYsh8o2Qkz46YOpFlh0YxUFdxsJa7sKkBqr2SassMoid6pLUc7SEc0fzeWZHMchCLSu7CW6kuMxMMt9lEqvOHXapJzaun+bfRk3HaAHfx9bFC+BJeF9aVlIcDRx4hbC0v7SsZg2DlyVXM+WcA==;8Akivfjon+QWSlD4t+yryg=="
 ---

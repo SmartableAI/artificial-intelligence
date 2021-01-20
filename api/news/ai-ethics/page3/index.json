@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-07-google-ai-researcher-pushed-out-amid-ethics-concerns.md",
+      "title": "Google AI Researcher Pushed Out Amid Ethics Concerns",
+      "excerpt": "She examined the risks of computer systems that analyze huge language databases to create their own human-like text.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturing.net/home/news/21205809/google-ai-researchers-exit-sparks-ethics-bias-concerns",
+      "originalUrl": "https://www.manufacturing.net/home/news/21205809/google-ai-researchers-exit-sparks-ethics-bias-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2020/12/16x9/iStock_1163973538.5fce4f5ac2ffc.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturing.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
       "title": "Google AI researcher’s exit sparks ethics, bias concerns",
       "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped ... of problems facing the company heading into the new year. Waymo signs sublease deal for big Silicon Valley expansion Google ...",

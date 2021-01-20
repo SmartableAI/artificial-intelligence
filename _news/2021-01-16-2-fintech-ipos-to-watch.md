@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watc
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://si-interactive.s3.amazonaws.com/prod/ai-cio-com/wp-content/uploads/2019/04/08065350/bio_jamesdimon.jpg"
         width: 270
         height: 330
+        isCached: true
+  - title: "Fintech Expands Data Services Through Acquisition of Aperity"
+    excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (\"Fintech\" or \"the Company\"), the leading business solutions provider for the beverage"
+    publishedDateTime: 2021-01-20T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintech-expands-data-services-through-acquisition-of-aperity-301211182.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/562037/Fintech_logo_with_tm_dk_bl.jpg?p=facebook"
+        width: 1367
+        height: 716
         isCached: true
 
 secured: "a5b9HF+1uy/NICU29vmLmVmmbGNaCu6RqE+ICiGEjXg1dYFbMQv13/vYJUkBSV3GI6WZ86uzEFoa3js4Um2t65dNQ3dJ515JpLXml77mx6QZMgoq4c2LlES9zxXpYxDBOYAxwUfLp3tGenLwUEhLkhfhqPPIO3V3eZCW3eY0BjAotHXT8ZwYo34zwiiYlk8G/gmbVVhM50dMjiTWCFRj07FKy6N6ggKqKuCZCrZgF0snQchPZngZPVpS+T115UUiICsjUU9PaIgblZ3zWiao1wBm+jGrXj2iWbxWRIXn8vLm5ilRDbr067qiVR1ESDyR8XKQnwic8sKFO2dJUnjYcZZHyPQGajG5OvbB6qf5rI21epMaiuo2D0K45LtoR7clyjer0ROwCI71OgRR0hSuqv6bp3lp/XwBH/fTD2SR7kLxzDLG0z1s/myxsq4lZdeZuWKf+QvHf/SIpXdfI1hsrwH57541sYlnE5nR2ajNLMiYdEkb95DwfFIqkCvlWp5zgqy9QptC/sVS0s59psmR7w==;TZMdZsjfV5t741hNE4ycew=="

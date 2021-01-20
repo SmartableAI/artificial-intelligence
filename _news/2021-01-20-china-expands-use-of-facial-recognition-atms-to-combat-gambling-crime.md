@@ -9,8 +9,8 @@ ampWebUrl: "https://calvinayre.com/2021/01/20/business/china-expands-use-of-faci
 cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CalvinAyre
@@ -40,20 +40,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
         width: 620
         height: 413
-        isCached: true
-  - title: "Rise of the Machines: Facial Recognition Technology Heralds Upswing in Litigation"
-    excerpt: "As the facial recognition industry faces hostile regulations, claims of racial bias and growing public mistrust, more suits over the fledgling technology are expected."
-    publishedDateTime: 2021-01-15T21:11:00Z
-    webUrl: "https://www.law.com/njlawjournal/2021/01/15/rise-of-the-machines-facial-recognition-technology-heralds-upswing-in-litigation/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/399/2021/01/Facial-Recognition-Software-Article-202101151327.jpg"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "h38r12Nrs73iHT9GT5eQpTnClqu+Ia30GLgrYp4gwWJxWgcrNuUlmus7kP99Xjq4XOtVZPqxVr7EPa8sHo3zs4IYWER1b1NlBmeLN4oHHkNNpqVTr9jDsVlGQelio5LgtKAXZSwSlOnp7wEle/jHfpXmOTQXAOz0oN+ojSO2NaU4BrpOPnNL0P38aiVFAsm3hZXKXksu2GnyrNQhDt5CLMlWqr2vedomX7m3Fz2HyhYrrPFTCPG2WUktiqPEabgoiDb/NdyikBp00rMMUn+9LMCgeNkcj8mFw75i5icmNuyKBfyN8QAqTgJxCjWLoifBraGrRUKqE9Cn9tfp1gC0WEh1RjlLfGCHw9ftI3+1iKtvCtuGN/PHSo3zeCkckNCyPOJGznjepm7y3m+6TNxXsy34j+kng6vQnM4qtx87QyK1Q0Dp3kWFMRViNTd1kw8LkcrNgN4kB3BeUiaUowViZfjQH3a84tz4yrnYym6GLlEEDBV5gLJ/de40w74qVdAdzaCG7hkpfJ1yWfj7cFNcmg==;EriF43BZaEyV4l5dDksXPA=="

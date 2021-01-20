@@ -47,20 +47,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
-  - title: "Microsoft Research Asia partners with universities in Asia to build OpenNetLab, empowering AI-assisted networking research"
-    excerpt: "Microsoft Research Asia announced the establishment of OpenNetLab, an open networking community and platform in collaboration with multiple universities in Asia, including academia from China, Korea and Singapore."
-    publishedDateTime: 2021-01-19T12:42:00Z
-    webUrl: "https://news.microsoft.com/apac/2021/01/19/microsoft-research-asia-partners-with-universities-in-asia-to-build-opennetlab-empowering-ai-assisted-networking-research/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 28
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/ONL-Hero-Image-1600x1067.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "g+ZPU0l0cYnG59l4ztUXdF0UOZtawfkwSTG94ZMG7NlnbsK3tH6R60theGNMbpnLrneWqhDqbOdOzrphCSbjDZKRLCGIMzXrhQVFPu8qPKQCzK9bNOMUbOAHGkGRdIJPOjUa93hcg+tQxzy88jh+FN/olVd9FCyEAR1bkJwMKjl6hl1z9tM9KuuAHfz7fnzDzz79G3WO51t/sKYNt9OHG96vdFYEPyy5oFlhat3Asl+bfGIoaxtlK3zjwrHsYVsKwa85ML4St8mrGauPGlSSJce0KnRsm6dso0PW4asl9e+Mth12Yb98sdZm7+zypSnXPtHLTw/mI+dQa1vD4SQ1NRtFHPnP8px7jXUrKIUm58M=;quo1WRN3WFQr+N6W/sCTHQ=="
 ---

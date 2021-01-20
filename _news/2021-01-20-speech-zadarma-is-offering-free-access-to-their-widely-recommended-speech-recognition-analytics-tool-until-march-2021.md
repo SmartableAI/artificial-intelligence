@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Speech Zadarma is offering free access to their widely recommended speech recognition analytics tool until March 2021"
-excerpt: "Speech analytics is transforming many aspects of business, and is especially beneficial to any sales driven organisation. Zadarma, most"
-publishedDateTime: 2021-01-20T08:33:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/speech-zadarma-is-offering-free-access-to-their-widely-recommended-speech-recognition-analytics-tool-until-march-2021-845731624.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/speech-zadarma-is-offering-free-access-to-their-widely-recommended-speech-recognition-analytics-tool-until-march-2021-845731624.html"
+excerpt: "Speech analytics is transforming many aspects of business, and is especially beneficial to any sales driven organisation. Zadarma, most well known as a leading global VoIP provider, also offers an industry leading smart speech recognition and analytics feature as part of their incredibly easy to use and highly affordable telecommunications offering."
+publishedDateTime: 2021-01-20T13:22:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-voice-recognition-computing-and-information-technology-933e88f3ccee3d1896bd7108774e370d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-voice-recognition-computing-and-information-technology-933e88f3ccee3d1896bd7108774e370d"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "coyul76+HiepgFSEr/sjxSibInU+R1vH2UcQ3WPx3l5bdMUm8uy0ZcrDnXI8t4Mzh4hGZKCvu+5jQeQKfM0Zu1k5XmFINb1PgF1xPlsMpklRK6KCdBYUscsgdtnVXu9HdMLXLR+F3NmKkroTkkeKrNFB9RBzHTx6IGTZ7qT5VhUL8Rw4YbY8meS699c3ACrDYNPb2RH0iS/m/7R3nXgeCCKKSZcg7WLLa32YjDHRrX78E5cHkt7bGvLzlgIOQ0R/wLWoLJ9OJXp9gRlTPcK8ez05xqW49M8md0GBUwgr5coYFCIt0bMLslKJqAEShrGW3mbsnFvmNreUJpPcvWa2Vk1ueeIiE1w5+6h+FfD++1A=;AohHHqQJ3IH1/1Z6v/Rxmg=="
+secured: "qCLDOKJr3e157PhhW1lviTZ4PxtJVYSIl6T1cD4wrtcKUBGacK5HpYilDwE27R/Hn5bHwPtGkmziKEsR558QNpqNYuROYfOb6QN1eM9APTPccP0L0T/yWhCkrT1dryh2tWlshFi/ThES6CZIo0ywHPdPpuyjoUWysDo7nK4V4ZbHWqbtfHrirdZ+IA20/2pbcLgVlBvjCWeHMQxSsXeNyyXxpViZkrjVRzFSkgIlIFtinLElYBlc4xN7Ota56iTrhC43tTuNgR8oXkSARft9k0ZEFkgn/FQzQnekAL/y8oKEOqDYj4r4HuptpHO+bzTnJIT/ptPptvUTLzG/RDEdqxX5SvBzT6JctaBMBNN6s6E=;vXGzLP73uKX6187WSaI76Q=="
 ---
 

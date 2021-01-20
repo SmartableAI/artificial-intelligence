@@ -48,9 +48,9 @@ related:
   - title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
     excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
     publishedDateTime: 2021-01-19T14:14:00Z
-    webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
     type: article
     provider:
       name: TechRepublic
@@ -109,22 +109,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
-    excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."
-    publishedDateTime: 2021-01-15T21:27:00Z
-    webUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/"
-    ampWebUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 57
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/12/IBM_PE_011520_HP-640x360.png"
-        width: 640
-        height: 360
-        isCached: true
   - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
     excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."
     publishedDateTime: 2021-01-17T09:11:00Z
@@ -177,6 +161,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "yvNyDf2UQtGaSsgcLnpLhGxrHoHlSXalmBZGP/4QIpdU7QMFEYBjNQlWBIQ6woDM2BtX10jXzlLhXW94F3zNAdlpP6t5hN06/52LWd6rXRIMRRd5O/CkBGn/ZWcq6fKaa1SkcriBYP57/hGaOGBUV8PrU58sCtIRQtdzA987WYy333gP3iUmRmU1vrcSuXeQL/gkWk5Ryoq2hTIj0On+AzDkXPEt64V4jV7EbgcpJt6ZDCloNA9l+yWCVg07O6xBh0rl0dJvqxNM0X/0xOIxgyYMdVlLHUxRVt4GWBgO69BWemyLx7C7cvWFlKeqcP/B0B96X5r3LkeeMh+j6Z7+g7qxcfbK9ciApyHmOVHZaZk=;2fCtNeXX52Axj+hPoq9eyw=="
+secured: "mv8ooIIT3iCo54xeBn6NURYxLGiftEKq4ZeGJRE2hVjW66guahV+OPbJeUB6ylfQ2XE/dWEvuiq37TUFiPgCY4qVzRCgQNwoaJ8sA6sIvoWcn7tj/w4brQhGOMzbeDFlOfZePlEd38TiAaCAIQmNTqu7Horlc08m66Geu0sSZCda2DZXJsRHR9+2yM24MWg6Qf78xwd7Ycyjf0zYo25RZTjRYr8EEtTnO/nqBcjySJv6YtsC83oKOuwM92x/wnCCMtGPL09SqT19FuYK5QKX48sZqZgN7E0XmY9I0MPDZWwvWf9G1Uvg0V58HNGXHk5aGGnVBJuv67mx79SKBGWFjUerz2yfFn92uMrPq2ZTD/irj9QbW2/a6M2tyYRZnwbVW1tjOmclo3Luhbt3YJbOh7YXVyUaAw+zSnuDolNwPVpjwm2VczJvmofYRM59a+wDJ0fi5XfpIcr/rvMzn4TrKb31ODDmkA+KzZ4efTr1LnpcZYKgnSkTZytP1lOXajHsRRkNqpAaFw3dmkBG7bcppw==;TCp+gysVqADZ2W8/ge/0WQ=="
 ---
 

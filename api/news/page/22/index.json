@@ -2,6 +2,144 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-12-31-microsoft-surface-duo-review-beautiful-hardware-terrible-software.md",
+      "title": "Microsoft Surface Duo Review: Beautiful Hardware, Terrible Software",
+      "excerpt": "I’ve been a huge fan of the Surface devices ever since I first got the original Surface Pro after waiting in line during a snowstorm at the Microsoft ... take up too much cognitive energy ...",
+      "sourceUrl": null,
+      "webUrl": "https://pocketnow.com/microsoft-surface-duo-review",
+      "originalUrl": "https://pocketnow.com/microsoft-surface-duo-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-30T16:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker.md",
+      "title": "Extracting buildings and roads from AWS Open Data using Amazon SageMaker",
+      "excerpt": "Sharing data and computing in the cloud allows data users to focus on data analysis rather than data access. Open Data on AWS&nbsp;helps you discover and share public open datasets in the cloud. The&nbsp;Registry of Open Data on AWS&nbsp;hosts a large amount of public open data. The datasets range from",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/ML-1363-1.jpg",
+          "width": 800,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-30T14:32:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-the-obligatory-artificial-intelligence-year-end-article-2020-edition.md",
+      "title": "The Obligatory Artificial Intelligence Year End Article, 2020 Edition",
+      "excerpt": "While it has had a major impact on many areas of society, I don’t feel that it has changed the artificial intelligence (AI ... Departments are beginning to look at the issue. As healthcare has been an early adopter of AI, especially in radiology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/amp/",
+      "publishedDateTime": "2020-12-30T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-black-man-files-lawsuit-after-being-jailed-due-to-error-in-facial-recognition-technology.md",
       "title": "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology",
       "excerpt": "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days.",
@@ -1050,144 +1188,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-improving-algorithms-with-high-level-synthesis.md",
-      "title": "Improving Algorithms With High-Level Synthesis",
-      "excerpt": "Sometimes the results of HLS are seen feeding back into the algorithm. Klein said he recently worked on a voice recognition system in which the original TensorFlow algorithm, as defined by the data scientists, called for a feature map of spectral data in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/improving-algorithms-with-high-level-synthesis/",
-      "originalUrl": "https://semiengineering.com/improving-algorithms-with-high-level-synthesis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/09/iStock-513307992-blue-mascot.jpg?fit=1394%2C753&#038;ssl=1",
-          "width": 1394,
-          "height": 753,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-why-stateful-machine-learning-could-help-cybersecurity-efforts.md",
-      "title": "Why stateful machine learning could help cybersecurity efforts",
-      "excerpt": "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2018/07/25/8ae5653e-c9ca-4bf4-9a38-bb359e711d89/resize/1200x/621a2dea264eb08476ac63b000f64dd2/ai-hacker-6.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "publishedDateTime": "2020-12-29T13:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-man-uses-brain-controlled-prosthetic-robot-arms-to-eat-a-twinkie.md",
-      "title": "Man uses brain-controlled prosthetic robot arms to eat a Twinkie",
-      "excerpt": "A quadriplegic man, who suffered an accident in his teens that left him with minimal movement in his hands, used two prosthetic robot arms to feed himself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/",
-      "originalUrl": "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/?amp",
-      "publishedDateTime": "2020-12-29T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
+    excerpt: "Molecula, an enterprise feature store built for machine-scale analytics and AI, announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by Drive Capital,"
+    publishedDateTime: 2021-01-17T14:40:00Z
+    webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 8
   - title: "Splice Machine Launches the Splice Machine Feature Store Platform to Simplify Feature Engineering and Democratize Machine Learning"
     excerpt: "Splice Machine, the only scale-out SQL database with built-in machine learning, today announced it has launched the Splice Machine Feature Store Platform. The Platform will help more companies operationalize machine learning by reducing the complexity of feature engineering and allow data scientists to make the right decisions based on real-time data."
     publishedDateTime: 2021-01-20T06:08:00Z

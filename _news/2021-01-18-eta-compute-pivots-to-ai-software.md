@@ -39,22 +39,6 @@ related:
         width: 480
         height: 298
         isCached: true
-  - title: "Pentagon to Expand the Role of AI in Military Efforts"
-    excerpt: "The Pentagon is looking to expand artificial intelligence across its military services and agencies. A budget of $841 million has been requested to bolster its artificial intelligence work for fiscal 2021."
-    publishedDateTime: 2021-01-15T22:27:00Z
-    webUrl: "https://www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html"
-    ampWebUrl: "https://www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-MILITARY-AI-GET.jpg"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "pYhOVURZscTWQ1EBXr5ROrTG67kTHJ+Wn+fSRtoGk/czlKbLLt47q8FRpoj2q/9RgLFf0rRLIOVCer0+gnNAlEtPGivKeOuhz1/ARB4nY6sIUddwHrxXy53+AasmFRgTeL9T9kYSvFmew/v2UQ/tGSnpHfsYPGIkJ+LaZ1G4fxS7uO/Pcwdb3SBrPP+XYwBRionkhKGyTt9cKE1qtkK31EsUZhCdbd4xUAAL+B8zywoixyXpTtVDhMbZGp7GCbYYsvGZ3Q/1V58t6qVBn5EHBrpG5wbzhVkHHJpJwWU0EZaXZQNLkXcgZDldIE53QL9qDNwJjqnn2988VIo6P/nePmwIuvcq4wl2hyK51dFMVPHQHBou43t4VXlz511D3ujVYJAyIDLoSnrozFDHZLUBdApukJ1P9YgwVLWkL1NgornmjHri0uMkZRXZOrz2vTTRNXKfmTbat2Trd3S4qyT6TplT/44F5HxmUJzVjY/S9gRRCGIvnjcWleGz9XhGpEas6M2nhw4w2VBrDOZx+n3xoA==;SS5rbonYAgienrWyK20Szw=="
 ---

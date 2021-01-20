@@ -10,7 +10,7 @@
       "originalUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -41,49 +41,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime.md",
-      "title": "China expands use of facial recognition ATMs to combat gambling crime",
-      "excerpt": "Facial recognition will allegedly help authorities reduce crime, as well as prevent individuals from allowing non-cardholders to use their cards to transfer potentially illicit funds. This isn’t the first time that the area has seen ATM s with facial recognition capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/",
-      "originalUrl": "https://calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://calvinayre.com/wp-content/uploads/2021/01/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime-1-e1611134859445.jpg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/amp/",
-      "cdnAmpWebUrl": "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/amp/",
-      "publishedDateTime": "2021-01-20T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CalvinAyre",
-        "domain": "calvinayre.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -235,6 +192,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-19-kamis-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.md",
+      "title": "Kami’s new video doorbell boasts on-device person detection and facial recognition",
+      "excerpt": "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html",
+      "originalUrl": "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html",
+      "publishedDateTime": "2021-01-19T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHive",
+        "domain": "techhive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-google-launches-suite-of-ai-powered-solutions-for-retailers.md",
       "title": "Google launches suite of AI-powered solutions for retailers",
       "excerpt": "Google's new Product Discovery Solutions for Retail aims to address ecommerce challenges during the pandemic with AI and machine learning.",
@@ -243,7 +243,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -295,7 +295,7 @@
       "originalUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -330,19 +330,19 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-us-lawmakers-aims-to-curtail-face-recognition.md",
-      "title": "US lawmakers aims to curtail face recognition",
-      "excerpt": "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities.",
+      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
+      "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
+      "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
       "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
-      "originalUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "webUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 254,
       "tags": null,
       "images": [
         {
-          "url": " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  ",
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800",
           "width": 800,
           "height": 533,
           "title": null,
@@ -352,14 +352,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
-      "publishedDateTime": "2021-01-19T00:19:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T20:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -368,8 +377,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {

@@ -2,6 +2,212 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-19-can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future.md",
+      "title": "Can AI Scouting Tech Identify The Premier League Talents Of The Future?",
+      "excerpt": "Burnley FC will hold an open trial for anyone around the world, with video recognition algorithms determining whether they can make the grade",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006f4f9649f35fb713681db%2F0x0.jpg",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/amp/",
+      "publishedDateTime": "2021-01-19T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-how-ai-is-being-used-in-the-legal-industry.md",
+      "title": "How AI Is Being Used In The Legal Industry",
+      "excerpt": "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg",
+          "width": 1200,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/",
+      "publishedDateTime": "2021-01-19T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-eth-spin-off-latticeflow-raises-28m-to-help-build-trustworthy-ai-systems.md",
+      "title": "ETH spin-off LatticeFlow raises $2.8M to help build trustworthy AI systems",
+      "excerpt": "LatticeFlow, an AI startup that was spun out of ETH Zurich in 2020, today announced that it has raised a $2.8 million seed funding round led by Swiss deep-tech fund btov and Global Founders Capital, which previously backed the likes of Revolut,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/",
+      "originalUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1196045105.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/amp/",
+      "publishedDateTime": "2021-01-19T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-google-launches-suite-of-ai-powered-solutions-for-retailers.md",
+      "title": "Google launches suite of AI-powered solutions for retailers",
+      "excerpt": "Google's new Product Discovery Solutions for Retail aims to address ecommerce challenges during the pandemic with AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
+      "originalUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/",
+      "publishedDateTime": "2021-01-19T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain.md",
       "title": "AI Plus IoT Are Among The Most Important Ingredients In Pandemic Vaccine Cold-Chain",
       "excerpt": "Startup Youtiligent has developed an AIoT-based technology to help companies keep vaccines cold across complex distribution supply chains.",
@@ -61,7 +267,7 @@
       "originalUrl": "https://www.bloomberg.com/press-releases/2021-01-19/global-optical-microscopes-market-to-grow-by-557-96-million-during-2020-2024-integration-of-ai-and-machine-learning-to-be",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -544,7 +750,7 @@
       "originalUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -575,58 +781,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data",
-      "excerpt": "CAGR of 43.6%, Market Trends -Drug development for COVID-19. The global artificial intelligence (AI) in healthcare market is forecast to reach a market size of USD 61.59 Billion by 2027 and register a significantly high CAGR,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data-2021-01-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data-2021-01-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -671,49 +825,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-us-lawmakers-aims-to-curtail-face-recognition.md",
-      "title": "US lawmakers aims to curtail face recognition",
-      "excerpt": "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities.",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
-      "originalUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  ",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
-      "publishedDateTime": "2021-01-19T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -765,6 +876,111 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning.md",
+      "title": "The AI-Powered Robot That Learnt Curling Using Adaptive Deep Reinforcement Learning",
+      "excerpt": "In curling, a sport that’s been referred to as “chess on ice” because of the strategy and precision involved, a robot named Curly beat Korean national teams in three out of four official matches. Robots have certainly come a long way,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGGfrIOdCLlJw/article-cover_image-shrink_720_1280/0/1611036814546?e=1616630400&v=beta&t=jPuqxOelBmEmh0yTKtbuZQ2jxnn7Z_nVM_kc3VuON4E",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
+      "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
+      "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -827,7 +1043,7 @@
       "originalUrl": "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -870,7 +1086,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -914,6 +1130,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-19-recruitment-platform-predictivehire-shares-its-ethical-framework-for-ai.md",
+      "title": "Recruitment Platform PredictiveHire shares its ethical framework for AI",
+      "excerpt": "Addressing valid concerns in the HR industry about AI, PredictiveHire has released an ethical framework to encourage transparency in the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/recruitment-platform-predictivehire-shares-its-ethical-framework-for-ai-1029978589",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/recruitment-platform-predictivehire-shares-its-ethical-framework-for-ai-1029978589",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/recruitment-platform-predictivehire-shares-its-ethical-framework-for-ai-1029978589",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/recruitment-platform-predictivehire-shares-its-ethical-framework-for-ai-1029978589",
+      "publishedDateTime": "2021-01-18T17:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data.md",
       "title": "Researchers develop AI framework that predicts object motion from image and tactile data",
       "excerpt": "Recent AI research has pointed out the synergies between touch and vision. One enables the measurement of 3D surface and inertial properties while the other provides a holistic view of objects’ projected appearance.",
@@ -946,237 +1205,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-how-artificial-intelligence-will-power-amazon-into-2021.md",
-      "title": "How Artificial Intelligence Will Power Amazon into 2021",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
-      "publishedDateTime": "2021-01-18T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules.md",
-      "title": "DeepMind's New AI Can Destroy You In Games Without Knowing The Rules",
-      "excerpt": "Following their massive success in uncovering predicting protein folding in 2020, Google’s DeepMind has now released another AI that is less about solving complex biological problems, and more about dominating it’s opponents in strategy games ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "originalUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/2080a3f8-6b4f-54c6-b158-ffe681d97cbc/default-1610976793-ms-pac-man-in-an-arcade.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "publishedDateTime": "2021-01-18T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-curefit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos.md",
-      "title": "Cure.fit acquires AI body tracker Onyx to enable two-way workout videos",
-      "excerpt": "Now India’s most funded health startup is making a move to bridge that gap, using a California company’s AI system to replace human fitness coaches at users’ homes. Currently offered as an ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
-      "originalUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/onyxcurefit.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
-      "publishedDateTime": "2021-01-18T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how.md",
-      "title": "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How",
-      "excerpt": "Facebook's artificial intelligence researchers developed models that use x-rays to anticipate the progression of the disease in a patient and help hospitals prepare.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
-      "originalUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/f/facebook-t/facebook-to-send-notifications-to-users-who-like-or-share-co_wj6r.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1",
-      "publishedDateTime": "2021-01-18T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals.md",
-      "title": "AI imaging database for COVID-19 diagnosis provided to UK hospitals",
-      "excerpt": "The National COVID-19 Chest Imaging Database (NCCID) includes more than 40,000 CT scans, MRIs, and X-rays that can be used in AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F01%2FUntitled-design-2021-01-18T124627.424.png&signature=901901e69fbe2d6c41f0074e58cf92cf",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

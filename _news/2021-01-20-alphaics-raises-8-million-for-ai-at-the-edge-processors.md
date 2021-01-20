@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-
 ampWebUrl: "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/alpha-2.jpg?w=1200&strip=all"
@@ -45,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI-startup AlphaICs raises $8 million in Series B funding"
+    excerpt: "The funding was led by Endiya Partners and Emerald Technology Ventures.The startup will use the funds to develop the software stack and to build system solutions for its target markets"
+    publishedDateTime: 2021-01-20T14:09:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://images.livemint.com/img/2021/01/20/600x338/dollar6-kPTE--621x414@LiveMint_1611151313091.JPG"
+        width: 600
+        height: 337
         isCached: true
   - title: "Edge AI company AlphaICs raises $8 million in funding round"
     excerpt: "AlphaICs the artificial intelligence technology company from California-based Milpitas said on Wednesday it has secured funding worth eight million dollars a"
@@ -75,6 +92,6 @@ related:
         height: 915
         isCached: true
 
-secured: "gsZzWNi+pr7Nad5zEJ2R0saEfCPSaoMpaQTNhlP0n8ya6JLv0/2xFUBhHC2wVet0ovo06JrwVgjnujxPG51gq5/UDkYjWiqTHUSmpFgcf8tueBu51Z7hi47x3OT7P+pl5JtuJtrdx2xUqpA6x61GQ0jc4g8Qb8c9mJF5I0nuB69k6QuDIAILMiKXE3pMlN4Bv81quSxhcFay7Z3/wU8vO9mFUm6HmHSljJhCXNVbzMPux0LWricpMM63YAMCeTWXAyOMAN7tO0IcltTW8J7Paf/PJQ47pQADbVlMweTiNAnDUQG7FZ+ejcDmV4GfbkxWoSGPHyZniT6VmvWYmMPE8oYFcRqIIU/MRazTED7YqcM=;F9Rg5Vts7vNrez2XPeGCPw=="
+secured: "+vvGr4wd+wa++9SWFAfCv1qFB+OXeqUMoKCNuu8CKzyPz5zV/4tG0fDsxa2OhvQ2bSG9Crjtu94FxE/uh3tqkDsecKlFCNYDvi1hFfk7znMVDUPQkfuWlKY68xNFCmoqD2SAMOQAMPa2I4nU4Hmr+nhh+2hOpEgmLGMm5ZIM+Ixa63zi5oPmcInT6kYdBT55DxrKq1cPcpnmA2efI7c6ERI0EAGUsoKIXpgN4O+8ydVv8C0LDaFVFa6E4ogE9TTG6Uinc1L8bIgGVredtuNCKUUB4GzdZY7kYCT1ONZ8sGGLIdTfjy0ivMsMtJlRE7dTVg3+cLjbLhGQq27dFpgg/KTARtC+/ByzvpipiGpOPtR0DZEXafoRg+3BrdyHRMDgqsiNJ3k6liuxGnmE90H1PRBUc+GCEZPXgeRwZsZt5GLcRPmzt8jEIHQ9MU+zeiYBtPpkQUfR4TSUp0h0kGoDuMYiBzJrNATgHdw9awtLP/RfUrKX0aL7ELKutQONZKOxiow0zs8FU2IFaFV0lu2ohQ==;Y3rZagho3YHVUKQ6XrfXkQ=="
 ---
 

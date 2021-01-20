@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-21-method-finds-hidden-warning-signals-in-measurements-collected-over-time.md",
+      "title": "Method finds hidden warning signals in measurements collected over time",
+      "excerpt": "The stakes of this request are high: If the deep learning algorithm fails to detect an anomaly, the team could miss an opportunity to fix things. But if it rings the alarm every time there's a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201217135355.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201217135355.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-20T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says.md",
+      "title": "AI, ML can bolster cybersecurity, and vice versa, professor says",
+      "excerpt": "Howard University professor talks about his research in emerging technologies.  The following is an edited transcript of their conversation. Karen Roby: I know that your, your focus a lot is on AI, machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/d761e067-abc3-4f1b-9710-d5d0353ba5c6/thumbnail/1200x675/f4905e10df5b7ab57ac881b8a88de52a/20201215-howarduni-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/",
+      "publishedDateTime": "2020-12-18T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-global-deep-learning-market-top-companies-covid-19-impact-regional-demand-and-future-development-research.md",
       "title": "Global Deep Learning Market -Top Companies, COVID-19 Impact, Regional Demand And Future Development Research",
       "excerpt": "Facto Market Insights published a title on “Global Deep Learning Market – 2020-2028”, to its collection. The study on the global deep learning market defines the analysis of all the segments ...",
@@ -1316,103 +1411,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-deep-learning-gpu-cluster.md",
-      "title": "Deep Learning GPU Cluster",
-      "excerpt": "In this whitepaper, “Deep Learning GPU Cluster,” our friends over at Lambda walk you through the Lambda Echelon multi-node cluster reference design: a node design, a rack design, and an entire cluster level architecture. This document is for technical ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2020/12/deep-learning-gpu-cluster/",
-      "originalUrl": "https://insidehpc.com/2020/12/deep-learning-gpu-cluster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/12/Echelon2.png",
-          "width": 700,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler.md",
-      "title": "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler",
-      "excerpt": "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist’s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1680-2.jpg",
-          "width": 800,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T09:39:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

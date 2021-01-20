@@ -2,6 +2,163 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-16-faa-approves-first-fully-automated-commercial-drone-flights.md",
+      "title": "FAA Approves First Fully Automated Commercial Drone Flights",
+      "excerpt": "A small Massachusetts-based company was granted permission to operate drones without hands-on piloting or direct observation by human controllers or observers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/faa-approves-first-fully-automated-commercial-drone-flights-11610749377?mod=tech_lead_pos6",
+      "originalUrl": "https://www.wsj.com/articles/faa-approves-first-fully-automated-commercial-drone-flights-11610749377?mod=breakingnews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-286433/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/faa-approves-first-fully-automated-commercial-drone-flights-11610749377",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/faa-approves-first-fully-automated-commercial-drone-flights-11610749377",
+      "publishedDateTime": "2021-01-15T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-want-to-work-with-robots-all-day-heres-what-you-need-to-do.md",
+      "title": "Want to work with robots all day? Here's what you need to do.",
+      "excerpt": "Today, robots are doing much more than assembling cars. Robots work in the retail, security, hospitality, and logistic industries. These robots and robotic services include drones, chatbots, security patrols,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
+      "publishedDateTime": "2021-01-15T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3.md",
+      "title": "AI Weekly: Meet the people trying to replicate and open-source OpenAI’s GPT-3",
+      "excerpt": "A grassroots group of researchers is attempting to create an open source language model as powerful as OpenAI's GPT-3.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/",
+      "originalUrl": "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai.md",
       "title": "Feature store repositories emerge as an MLOps linchpin for advancing AI",
       "excerpt": "A race to build an MLOps ecosystem around feature store repositories is now uderway as organizations look for ways to accelerate AI projects",
@@ -1059,153 +1216,6 @@
         "AI",
         "AI in Marketing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-lapd-commission-oks-detectives-to-use-facial-recognition.md",
-      "title": "LAPD Commission OKs Detectives to Use Facial Recognition",
-      "excerpt": "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "originalUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "publishedDateTime": "2021-01-14T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation.md",
-      "title": "Stanford team behind BS gaydar AI says facial recognition can expose political orientation",
-      "excerpt": "Stanford researcher Michael Kosinski, the PhD behind the infamous “Gaydar” AI, is back with another phrenology-adjacent (his team swears it’s not phrenology) bit of pseudo-scientific ridiculousness. This time,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/02/ugh_green-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/",
-      "publishedDateTime": "2021-01-14T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
-      "title": "Can an AI Predict the Language of Viral Mutation?",
-      "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "originalUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "publishedDateTime": "2021-01-14T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

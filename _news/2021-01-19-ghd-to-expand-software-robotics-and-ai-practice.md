@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and
 webUrl: "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon to Expand the Role of AI in Military Efforts"
-    excerpt: "The Pentagon is looking to expand artificial intelligence across its military services and agencies. A budget of $841 million has been requested to bolster its artificial intelligence work for fiscal 2021."
-    publishedDateTime: 2021-01-15T22:27:00Z
-    webUrl: "https://www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html"
-    ampWebUrl: "https://www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Pentagon-to-Expand-the-Role-of-AI-in-Military-Efforts.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-MILITARY-AI-GET.jpg"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Eta Compute Pivots to AI Software"
     excerpt: "When you’re in the processor business, you’re also in the compiler business. Like it or not, inventing a new CPU or MCU with its own instruction set means you’re also on the hook for its entire"
     publishedDateTime: 2021-01-18T14:51:00Z

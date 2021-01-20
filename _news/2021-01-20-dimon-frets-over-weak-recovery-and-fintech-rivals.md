@@ -82,6 +82,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Fintech Expands Data Services Through Acquisition of Aperity"
+    excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (\"Fintech\" or \"the Company\"), the leading business solutions provider for the beverage"
+    publishedDateTime: 2021-01-20T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintech-expands-data-services-through-acquisition-of-aperity-301211182.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/562037/Fintech_logo_with_tm_dk_bl.jpg?p=facebook"
+        width: 1367
+        height: 716
+        isCached: true
 
 secured: "mSZEK/otchMLl98MB8PydnPrn2IWuPBvMKSHhzFEniM5AVT4pHZrLG8FlN29o+6rDHMq9ee8G8bhD/ZOkDK37waMd0w4/0qUc0L3FE2AH1b+ANUbjFF+zDLh3cMTs3rIT/RL3uvHionyvUi4YwgcuqKSl59XwSASbBIW3IbZ8MVq19Pgiwko+32gWtxqS91g2vKXAEK05t9SBYm0jdSqYM41F1GVXqn2o0ii4ow6HLyxiyvNpgN1pJhSeEgs4YYAv7t98NaZhACCKIDbX2eOwp6GjzC4v5I3nAnGadXRj2c9L0Ma4d6woCmj/Qj1Edvct86fAw5jBKbdzuxKV55VcWEemQ3l9Y8sYLZze1DVE68cQDYA2k1poZyTUqlven/83FpYm78XMt9borjxpybPki65/4S364wIDDbczBCDxe5nrJUN8bLZQnCFIabppUfnhqLYdUervIGcJ3CDo/BgYWldqcuiU/AUxl+ea7IZL/iTW0IUtZ82omAhl5CZyGCjGVKW543p304CFGWymvfucQ==;5LsOe7xN9Ory0r+COTpcJw=="
 ---

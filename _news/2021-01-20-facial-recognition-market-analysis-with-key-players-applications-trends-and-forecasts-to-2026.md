@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cleaning Robot Market Covid-19 Impact Challenges, Key Vendors, Drivers, Trends and Forecast"
+    excerpt: "Top Boosters and Key Deterrents . Since the COVID-19 outbreak and the rapid spread of the pandemic, cleanliness has become a major focus worldwide. The adoption of cleaning robots"
+    publishedDateTime: 2021-01-20T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-covid-19-impact-challenges-key-vendors-drivers-trends-and-forecast-2021-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Commerce Artificial Intelligence Market 2020 Trend and Opportunities, PESTEL Analysis, CAGR and Value Chain Study to 2025"
     excerpt: "Global Commerce Artificial Intelligence Market 2020 by Company, Type and Application, Forecast to 2025 announced"
     publishedDateTime: 2021-01-18T04:12:00Z

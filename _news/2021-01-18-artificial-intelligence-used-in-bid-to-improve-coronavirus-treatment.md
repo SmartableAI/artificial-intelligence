@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

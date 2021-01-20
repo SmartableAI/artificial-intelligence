@@ -9,8 +9,8 @@ ampWebUrl: "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-fac
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1"
 type: article
 quality: 74
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Express Tribune
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
+    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
+    publishedDateTime: 2021-01-19T04:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 174
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "US lawmakers aim to curtail face recognition even as technology IDs Capitol attackers"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
     publishedDateTime: 2021-01-19T00:03:00Z
@@ -59,15 +73,20 @@ related:
         width: 1200
         height: 495
         isCached: true
-  - title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
-    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T04:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L"
+  - title: "Following the U.S. Capitol attack, tough ethical decisions ahead on face recognition technology"
+    excerpt: "Today’s columnist, Rustom Kanga of iOmniscient, says Americans will have to make some tough ethical choices about face recognition technology as political tensions and divisions mount across the country. (Credit: iOmniscient) The attack on the U.S ..."
+    publishedDateTime: 2021-01-18T11:00:00Z
+    webUrl: "https://www.scmagazine.com/perspectives/following-the-u-s-capitol-attack-tough-ethical-decisions-ahead-on-face-recognition-technology/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
+      name: SC Media
+      domain: scmagazine.com
+    quality: 44
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
+        isCached: true
   - title: "US lawmakers aim to curtail face recognition even as the technology identifies Capitol attackers"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of"
     publishedDateTime: 2021-01-19T00:48:00Z
@@ -81,20 +100,6 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13990792/16x9/991/557/203191f8df567c1150d93ead6f0a5f5a/sT/file-photo--supporters-of-u-s--president-donald-trump-storm-the-u-s--capitol-1.jpg"
         width: 991
         height: 557
-        isCached: true
-  - title: "New advances in detection of bias in face recognition algorithms"
-    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
-    publishedDateTime: 2021-01-18T13:32:00Z
-    webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/01/MG_5999_2021-01-18_21-25-39-768x512.jpg"
-        width: 768
-        height: 512
         isCached: true
   - title: "Face recognition targeted by US lawmakers even as the tech IDs Capitol rioters"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
@@ -124,6 +129,15 @@ related:
         width: 1740
         height: 978
         isCached: true
+  - title: "Lawmakers Sought to Ban Facial Software Being Used to ID Capitol Attackers"
+    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump"
+    publishedDateTime: 2021-01-20T05:16:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597789.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 2
 
 secured: "U8zD6UC/ADHaM1OqPYk9MCJlVrZZOnOVfJ11PQ4emY8SF4V4eF3MjuXeKoEPPGGtC6HhsT7VManjrcSMcAmtJy14vW+UG/qy9Djf2pp1SdmMYab3kj+dGtvpyEnT+NY4gO0iAf3qI5hRGQoSocelcM2JgQDq/HPEg+IFSNGUUblVnDuGgRH14Y2bv1xGo9c4JeANnN/yKBkRxZQV0B1QffQWxahUEzNsCrFUl+MHjgTlBFPNe33WrJ3yXURztptjdi5v6qu8wop8cMBQZqfW5KoelAcRbkU9C9NboyE7pjU3AgMFZbrid2v2wG0PljawVJ9mpVfIEABwflbbfNLt1pTHS4bRAnSl7vyzjgC6VyEArrzJtMJ4BEQKdZB4JbjdI5w6be3RaZU37I/IzPR8Hdy+HCg8Af/MRMT1AwSxc2bLNblzriOf7Pq/hj3LufRzKB3oRIjmCY2H0C8VIVFFW3H1Bct8vQ3PmyCQzm67rK86tUpbm1jiNBx3l9yyA/jYZ56r708SPAuYhd+Yuzc7gQ==;o0Ik5I+dqb/50tOgnY54Cg=="
 ---

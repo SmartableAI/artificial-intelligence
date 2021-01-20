@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor.md",
+      "title": "DSP Group Unveils DBM10 Low-Power Edge AI/ML SoC with Dedicated Neural Network Inference Processor",
+      "excerpt": "SAN JOSE, Calif., Jan. (GLOBE NEWSWIRE) -- DSP Group, Inc. (NASDAQ:DSPG), a leading global provider of wireless and voice-processing chipset solutions for",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19055169",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19055169",
+      "publishedDateTime": "2021-01-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent.md",
       "title": "In a sign of AI’s fundamental impact on computing, legendary chip designer Keller joins startup Tenstorrent",
       "excerpt": "In a sign of the profound changes being wrought in computing by artificial intelligence, Toronto-based AI chip startup Tenstorrent on Wednesday announced it has hired legendary chip designer Jim Keller to be its chief technology officer. Keller most ...",
@@ -1386,40 +1421,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple.md",
-      "title": "Chip Giants Intel and Nvidia Face New Threats From Amazon to Google to Apple",
-      "excerpt": "Chip making has long been ruled by big manufacturers and design houses such as Intel Corp., Advanced Micro Devices Inc. and graphics-chip maker Nvidia Corp. Now Amazon.com Inc., Microsoft Corp. and Google are getting into the game in the hunt for improved performance and lower costs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
-      "originalUrl": "https://www.morningstar.com/news/dow-jones/20201220547/chip-giants-intel-and-nvidia-face-new-threats-from-amazon-to-google-to-apple",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-19T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

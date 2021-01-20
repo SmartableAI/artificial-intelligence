@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/alpha-2.jpg?w=1200&strip=all"
         width: 1190
@@ -56,6 +56,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI-startup AlphaICs raises $8 million in Series B funding"
+    excerpt: "The funding was led by Endiya Partners and Emerald Technology Ventures.The startup will use the funds to develop the software stack and to build system solutions for its target markets"
+    publishedDateTime: 2021-01-20T14:09:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://images.livemint.com/img/2021/01/20/600x338/dollar6-kPTE--621x414@LiveMint_1611151313091.JPG"
+        width: 600
+        height: 337
         isCached: true
   - title: "Edge AI Company AlphaICs Raises $8 Million In Series B"
     excerpt: "Edge AI technology company from Bangalore, AlphaICs announced today that it has secured $8 million funding in a Series B round."

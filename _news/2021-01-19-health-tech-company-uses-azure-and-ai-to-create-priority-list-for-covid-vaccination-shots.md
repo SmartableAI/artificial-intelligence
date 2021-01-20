@@ -3,10 +3,10 @@ category: news
 title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
 excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
 publishedDateTime: 2021-01-19T14:14:00Z
-originalUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
 type: article
 quality: 95
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
@@ -109,22 +109,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
-    excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."
-    publishedDateTime: 2021-01-15T21:27:00Z
-    webUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/"
-    ampWebUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 57
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/12/IBM_PE_011520_HP-640x360.png"
-        width: 640
-        height: 360
-        isCached: true
   - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
     excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."
     publishedDateTime: 2021-01-17T09:11:00Z
@@ -177,6 +161,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "85MkySyJGKPvv0n0NFVmDRSuIDTk5a002OZ43uSaxY+nyGtoMkgBhLZq3BERRr7oswkcuqx9uzKE6PHhfnq77QiV4B0MjxE3U+Q5wouhn5kdGfGEUPmvWuhW9Gjs7c2uQ7bif83eb2oS2T9K6sMhWVlN1f173OPYx7WS9S8YwqpdoumQvmS+z+RDxhxwzv5lGJx8NuSMCZ78jWd+CkU7eYD1urNhN7zMB/eFk+iH2rRIv0JohAHSPqR3vV24aprhl5qh7JT6YC6LrsyEXKpS2EhcBMPIOaV/1G3+O/815kjWWJkP5r93sOw4uSQISP4DmwwdRGjp7fmeMVes4Ru3AFG9Rt3LxbJ1huD8B4OqR1eV+gIsItJ235vjV/kdRSLlJ3EbbYKylRxuMhU+LoQ05DXEe/C5lfqV9TxsQMx4nHhFE4S+XlMj8FXzCk7XUuP29wSalHlf1Fx2PrtHI4YiDyBDzYLJ6zrUJx2PFXMHJfTJ1B2SQFtN9DUXz4j2uk8oynIgq0s12XEi57tFi//hkg==;MHkpU5rx3xM7Oltn6zRsJQ=="
+secured: "0pxUVO+05owK9xEobnlOqlTMEpZKe6aLVW6k9ckernp2923/QMYkyGEK8x2ejSS8nhztMCu0MZenBButWp7XugJ4Gqlbezm++/WUYrQFdnF/jNm14x4zsvwsS6STAzplXUYHrSxwZVhs9kUiaoEJl22UsAZIdRvI47DDsqubYYAFtPJxvuVs2YBP/5Flc5idwR5UddZ6vKD71Anynt77x/WGlhCc1IXNUAUfZeatgu4bCH3LzMJIax4OmJNTmeqHl3J/3pbDvaciztivGOu/KVOpGp88e67vYr9DLQ7+rTfEXTYI0dZjIQ4JO4zNqLCga4qyYSloQBdDSB1vuFKPmkj4+miNfDa44j7zS9e47Q8=;TYnWVBhHmher2gel3qa0pQ=="
 ---
 

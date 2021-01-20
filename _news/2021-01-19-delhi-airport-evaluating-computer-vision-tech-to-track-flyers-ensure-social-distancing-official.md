@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official"
-excerpt: "Delhi airport is evaluating a 'computer vision' technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a t"
-publishedDateTime: 2021-01-19T11:57:00Z
-originalUrl: "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms"
-webUrl: "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms"
-ampWebUrl: "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
+excerpt: "Delhi airport, which is also led by a GMR group-headed consortium, installed the 'Xovis' passenger tracking system at Terminal 3 last month"
+publishedDateTime: 2021-01-19T11:31:00Z
+originalUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html"
+webUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html"
+ampWebUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.toiimg.com/photo/msid-80144619,width-242,height-136/80144619.jpg"
-    width: 620
-    height: 413
+  - url: "https://images.livemint.com/img/2021/01/19/600x338/PTI23-12-2020_000268B_1611054870782_1611054896014.jpg"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -43,6 +43,17 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Delhi Airport evaluating computer vision to ensure social distancing"
+    excerpt: "In today technology news, we covered about the Delhi Airport evaluating computer vision to ensure social distancing"
+    publishedDateTime: 2021-01-20T14:37:00Z
+    webUrl: "https://www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 54
   - title: "Delhi airport evaluating ‘computer vision’ tech to track flyers, ensure social distancing"
     excerpt: "Delhi airport is evaluating a \"computer vision\" technology to track passengers, reduce waiting time and ensure social distancing at its"
     publishedDateTime: 2021-01-19T21:40:00Z
@@ -78,6 +89,6 @@ related:
       domain: dailyexcelsior.com
     quality: 20
 
-secured: "Dn/JUFr+BG/GRcDW+UTFIo7doyyPCvkbgoUoDnZi0djuyDlhiM/y8ywvW7kxCq78TT4grt2Xp+Q1w53qMZmE4seENlsso7AJrkq/e6ACEOCdFOHLuXitnU1PG3hH2U5CV5s+bREZ0m6em8qF8kIZXNVWOazdkBS1BpV681YGQf1bzjfJ+KkWxPI49bw370/zJW/DKbJAkUiM8PWnLONdDKryLPnDNk3vpKArvbzOML5cwPiY1+It2kP6MUbPLNMQz7kw560l+6RTerUvNIGHJt51YuKiMGE4YLnBMVl4lkAIMBhX7FOZaSMxqZpQ1HigKl4I4+22jS8UPWqUf9pMd1WDZ+F/IcyDmwe7+Lg8A4vnWGPx7j2Z4lPo87IKq1Xw3/nCLAxB5w6PRjLtRGvRMogn3WtpDZ5a2rsJL+R40yrGZxUQ0ahSZYi+Jn4DqPJzKOAAliV3qateGeJO4qG1FDXpN/yPkcp36IhPARQnRYbUFVqbPRohFRGpEORZUxkqHbQYoPu451cv2rKVLYcG3A==;EFXCPB3+z9KW/mbBQEOTrw=="
+secured: "fm04BETN1naguRM9VYnRrZwysvxHPBiJHhbL96Hh2nYxH0SDNkSmCV92YISQ9PDugUR7Rlk+OmwuZJMQQUiZ0F4dn4G+0OJOxQtvo/JpEc5Vcju74IjkpD9RyDvIGPciyBfumm7N4YZHlo9+tREk1z0fsabcAe9nT0tmkno8Y78Ch6lTDYoqcbhyHQKk7PGmZrKfTf/u/phaPVAADvlMJXbC+uLjERNhMI4plC9BxyRHMJK7485fMd8XmdjoCSY+FsrptPfvzhOogjRfZRwXNi0AYiO5Ph2rLbVE4YXE2p/9pWeWXVEmS1BLogl1SX8krO3bkI7VqdJoNSuHo+wTMwf2OnANiacLbjTFegq2w1E=;YsM8mXO7AZh97JWF2eVkpQ=="
 ---
 

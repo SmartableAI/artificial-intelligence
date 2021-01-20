@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 87
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60047a4b441ba3192b29fb3b%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI Is Paving The Way For More Sustainable Supply Chains"
+    excerpt: "Here are the capabilities that decision-makers should prioritize in a digital approach to supply chain sustainability."
+    publishedDateTime: 2021-01-20T14:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/how-ai-is-paving-the-way-for-more-sustainable-supply-chains/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/how-ai-is-paving-the-way-for-more-sustainable-supply-chains/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/how-ai-is-paving-the-way-for-more-sustainable-supply-chains/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007450f956c16614dbeed40%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true

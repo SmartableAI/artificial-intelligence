@@ -39,6 +39,20 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Understanding and Resolving the Threats of Adversarial Attacks in Machine Learning"
+    excerpt: "The Adversarial Machine Learning Threat Matrix report follows the ATT&CK framework that addresses the growing concerns related to the cyberthreats and adversarial Attacks in machine learning"
+    publishedDateTime: 2021-01-20T13:44:00Z
+    webUrl: "https://www.analyticsinsight.net/how-to-address-adversarial-attacks-in-machine-learning/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Machine-learning-3.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "HNJO9Q10UzEs2+ZKktUSaiBvwXprhKUoegPNvFuvoqsjpPN9wySD8zLzch6MA/we60KR0vOpPwj2XLZlvVmnXwetdamYF87wcKz1pAwMnw/u+K4i2lw1TA/dLLC0qZED4coursqcbydFguhzk9BTZDthm60zaJNzqewuAT2Vms/89OQmlV4E9yvIiPYGY0N+tAH3uDuJJxzy8DJM7XBe/meDPnuLA6WVEwyG9ltghDmNJ8vmXpxhufun4LmPY7ynGXMvqbGDQuNnLWo6/DmE+RFSME9cGNHRmCKnclEhe6LG6KIZJMlGl1DF/VPR0t0vDZa2biLlz+9UQTvUsED+3lGoezSO0x06Imp0jP/7FoQ=;E9sJ8heFbXXdR9gKWl+70g=="
 ---

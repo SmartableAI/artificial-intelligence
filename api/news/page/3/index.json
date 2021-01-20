@@ -2,21 +2,63 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-18-educational-robot-market-growth-size-opportunity-share-and-forecast-2019-2025.md",
-      "title": "Educational Robot Market Growth, Size, Opportunity, Share and Forecast 2019-2025",
-      "excerpt": "The educational robot market is expected to grow at a CAGR of 16 4 from 2019 to 2025 The role of educational robots is not to replace teachers but to make the entire learning process much easier and more convenient",
+      "path": "_news/2021-01-19-how-artificial-intelligence-will-power-amazon-into-2021.md",
+      "title": "How Artificial Intelligence Will Power Amazon into 2021",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share",
-      "originalUrl": "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
+      "publishedDateTime": "2021-01-18T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules.md",
+      "title": "DeepMind's New AI Can Destroy You In Games Without Knowing The Rules",
+      "excerpt": "Following their massive success in uncovering predicting protein folding in 2020, Google’s DeepMind has now released another AI that is less about solving complex biological problems, and more about dominating it’s opponents in strategy games ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
+      "originalUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.openpr.com/U/1/U118883099_g.jpg",
-          "width": 770,
-          "height": 338,
+          "url": "https://cdn.iflscience.com/images/2080a3f8-6b4f-54c6-b158-ffe681d97cbc/default-1610976793-ms-pac-man-in-an-arcade.jpg",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +66,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share",
-      "publishedDateTime": "2021-01-18T02:14:00-08:00",
+      "ampWebUrl": "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
+      "publishedDateTime": "2021-01-18T08:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "IFLScience",
+        "domain": "iflscience.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +82,153 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-curefit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos.md",
+      "title": "Cure.fit acquires AI body tracker Onyx to enable two-way workout videos",
+      "excerpt": "Now India’s most funded health startup is making a move to bridge that gap, using a California company’s AI system to replace human fitness coaches at users’ homes. Currently offered as an ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
+      "originalUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/onyxcurefit.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
+      "publishedDateTime": "2021-01-18T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how.md",
+      "title": "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How",
+      "excerpt": "Facebook's artificial intelligence researchers developed models that use x-rays to anticipate the progression of the disease in a patient and help hospitals prepare.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
+      "originalUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/f/facebook-t/facebook-to-send-notifications-to-users-who-like-or-share-co_wj6r.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1",
+      "publishedDateTime": "2021-01-18T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals.md",
+      "title": "AI imaging database for COVID-19 diagnosis provided to UK hospitals",
+      "excerpt": "The National COVID-19 Chest Imaging Database (NCCID) includes more than 40,000 CT scans, MRIs, and X-rays that can be used in AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F01%2FUntitled-design-2021-01-18T124627.424.png&signature=901901e69fbe2d6c41f0074e58cf92cf",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -93,59 +281,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used.md",
-      "title": "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used",
-      "excerpt": "Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "originalUrl": "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2018/01/15/37af3c7b-8de3-4016-b11a-f6c6ff0044eb/thumbnail/1200x675/0694bbed8403720a906252aaf7f4a583/5a578ebc69340d506caef07c-1280x7201jan152018133314poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "publishedDateTime": "2021-01-17T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -209,7 +344,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -399,7 +534,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -986,7 +1121,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1070,163 +1205,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-faa-approves-first-fully-automated-commercial-drone-flights.md",
-      "title": "FAA Approves First Fully Automated Commercial Drone Flights",
-      "excerpt": "A small Massachusetts-based company was granted permission to operate drones without hands-on piloting or direct observation by human controllers or observers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/faa-approves-first-fully-automated-commercial-drone-flights-11610749377?mod=tech_lead_pos6",
-      "originalUrl": "https://www.wsj.com/articles/faa-approves-first-fully-automated-commercial-drone-flights-11610749377?mod=breakingnews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-286433/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/faa-approves-first-fully-automated-commercial-drone-flights-11610749377",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/faa-approves-first-fully-automated-commercial-drone-flights-11610749377",
-      "publishedDateTime": "2021-01-15T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-want-to-work-with-robots-all-day-heres-what-you-need-to-do.md",
-      "title": "Want to work with robots all day? Here's what you need to do.",
-      "excerpt": "Today, robots are doing much more than assembling cars. Robots work in the retail, security, hospitality, and logistic industries. These robots and robotic services include drones, chatbots, security patrols,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "publishedDateTime": "2021-01-15T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3.md",
-      "title": "AI Weekly: Meet the people trying to replicate and open-source OpenAI’s GPT-3",
-      "excerpt": "A grassroots group of researchers is attempting to create an open source language model as powerful as OpenAI's GPT-3.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/",
-      "originalUrl": "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware",
-        "Google AI"
       ]
     }
   ],

@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
+    excerpt: "Molecula, an enterprise feature store built for machine-scale analytics and AI, announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by Drive Capital,"
+    publishedDateTime: 2021-01-17T14:40:00Z
+    webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 8
 
 secured: "x5DJ6PU28NyFUM2QiEu4dzECga85fbZys6eoTVu3vWDgX/D5kWh17ifLFr8ml6gJef5y5+JSoOBdoh/YHnvB8RPqMVN4C/LeYoE7G6/jNTPKK4COPMpuLqZuYO9Tf/vgRKvaKy22ITmd2+fUzOi2+pzI0AFz9ob8Oh8SiCyUHnV79I+1dgbhDRXiyFWGOBGhgd4zzhDBSlppPwU+WGVUUwO06LvQcOCCF5Dr3t2wJzGW1sslLL2KgzsJPJf3t4Iwl2C75jkFNfcn5efG92JI4S9T78pj6TAEDeXVQUdNx5k7Fow0jPXmU3f5CKrWGoZrIhg/asEZWl90HITxS3KDoXBiE9ivF5fO7n8aJF+Pru8=;iaZ6IBpjJY5XSU9kK0Iu6A=="
 ---

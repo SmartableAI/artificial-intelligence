@@ -27,45 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Educational Robot Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
-    excerpt: "The educational robot market is expected to grow at a CAGR of 16 4 from 2019 to 2025 The role of educational robots is not to replace teachers but to make the entire learning process much easier and more convenient"
-    publishedDateTime: 2021-01-18T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share"
-    ampWebUrl: "https://www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118883099_g.jpg"
-        width: 770
-        height: 338
-        isCached: true
-  - title: "Artificial Intelligence Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
-    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2021-01-20T08:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2021-01-20"
+  - title: "Video Analytics Market Report (2020-2025) | The Demand For The Market Will Drastically Increase In The Future Trending"
+    excerpt: "The Global Video Analytics Market was valued at USD 2.06 billion in 2016 and is projected to reach USD 28.6 billion"
+    publishedDateTime: 2021-01-20T14:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-market-report-2020-2025-the-demand-for-the-market-will-drastically-increase-in-the-future-trending-2021-01-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
-    excerpt: "Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security"
-    publishedDateTime: 2021-01-16T02:58:00Z
-    webUrl: "https://www.wfmj.com/story/43165876/facial-recognition-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report"
+  - title: "Social Assistance Market Employs Big Data Analytics To Gather Insights For Social Services"
+    excerpt: "The Business Research Company’s Social Assistance Global Market Report 2021: COVID-19 Impact and Recovery to 2030"
+    publishedDateTime: 2021-01-19T23:58:00Z
+    webUrl: "https://www.wboc.com/story/43194685/social-assistance-market-employs-big-data-analytics-to-gather-insights-for-social-services"
     type: article
     provider:
-      name: WFMJ
-      domain: wfmj.com
-    quality: 0
+      name: WBOC
+      domain: wboc.com
+    quality: 14
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20266660_G.png?lastEditedDate=1611038615000"
+        width: 900
+        height: 455
+        isCached: true
 
 secured: "1/rMJuw2mfm2U5pq/+jEO620UEBcD7Og6vfW17FOHTGI4/3SLiPEP3ubHm3OGTBhMD0pd5Rrhhqkd21RCvzDEz6QmCbf1NOyW2NKD9q+k0IFCQso2EzK3PEXAErYC5icJBbzYAjgiwEhYew92m/JXNWDSBFGpGgldFEVqE0DcrMw7gD1Oeb29pX6tJMXxNbg3G2fu6LFIGSSX86vbpys41AIxLlKzSGZClFBBdcUkMBSIrRLedpoxn9wvzwqnNmq+IPI/b9umiUJPqhWHW8pkCa122D6uRtYgXdjDceVQyAlNW07067uL2UVGb91H8x0dU3KgrjxuUzv64tlIuVgB4GV4x30lrwi6AEsgXj3wc5Ty7dC/9zaCQheWxB6SQIvhtzmCnKx9dD1ajPEP39WearqyTsOB7echwEZ3p5sxd5KZYxska2KX7W+On09ZErA5fDZmdjxGmbALR2HBITZ0Hue8vBkVJmxiR8pzAX2qH4Xu7AEQxfKivVA6r/uLQon8DjZMXbfTHcccig4oZ7CnA==;L+QD//JqCU1zsE2kAliQcQ=="
 ---

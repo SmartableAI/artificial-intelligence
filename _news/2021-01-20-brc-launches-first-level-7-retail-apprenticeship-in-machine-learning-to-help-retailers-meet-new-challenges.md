@@ -3,8 +3,8 @@ category: news
 title: "BRC launches first Level 7 retail apprenticeship in Machine Learning to help retailers meet new challenges"
 excerpt: "The British Retail Consortium’s educational arm, BRC Learning, has partnered with Cambridge Spark, a leader in transformational data science and AI education, to develop a MSc Level qualification for advanced data analytics,"
 publishedDateTime: 2021-01-20T12:30:00Z
-originalUrl: "https://internetretailing.net/themes/themes/brc-launches-first-level-7-retail-apprenticeship-in-machine-learning-to-help-retailers-meet-new-challenges-22590"
-webUrl: "https://internetretailing.net/themes/themes/brc-launches-first-level-7-retail-apprenticeship-in-machine-learning-to-help-retailers-meet-new-challenges-22590"
+originalUrl: "https://internetretailing.net/technology/technology/brc-launches-first-level-7-retail-apprenticeship-in-machine-learning-to-help-retailers-meet-new-challenges-22590"
+webUrl: "https://internetretailing.net/technology/technology/brc-launches-first-level-7-retail-apprenticeship-in-machine-learning-to-help-retailers-meet-new-challenges-22590"
 type: article
 quality: 36
 heat: 36
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "MoFPJq2CwCHjxiZkROVvonrtEMbQIIDbsgwYpq6rmIs8mnEf2PES134lbjRRKht0CzmJpv3aSeb0xVMOmfYIVM5oNRAGQvT7W7UY9hdsRPTrlJrb0a/uLMpdGzXkNk9Aky+x9gx914SQi6CkMwrwkONEZxhMsArprI+HclUxCPX+dFhQ/SDz4lyfSO9BPSUwopE5pnCz8bQbm/1FRQmzjSR1WTm4wSmovwmLn1di67/prEP0j89sFRcvtbM8Zjv6S+JJ+bXC11HjhPgL7t/RBPAwTtvIfc8kiZtGTtEJkHGx6LA6bQKZxgCwqMRogDLMCcwN1CrOvaOCUDMtkZ90VJUbBzYhwTViqqKYvX7q+z8=;vME+whRxjS5AGZkvcr1sYg=="
+secured: "nGSA7NDDxURF5syNtXA4VENZ0hsLMUG62v3Xn2rOfasjaJ5ILNrNlgpnW9eXOzmGqpuQc6jD3WM2d42ueyxpb0j9Z4eLhOZw62hYX+e4iSNqEzSUMqcpZiIKmrZK/zNHQJT07M28C4CJcszHbvshRrx/A+L303yrCBluGPhlxKB5ZiFcXcZzr4QgPKWqSsN49MgOXJzim90OYq063i2MrA9rjxaQrkoEqlLp2glM8KJTrTk0tNBy5xqzVpslm7LND3LcuH19XYdq44T5EiWb7km2dua/ztlU/zrPp2qx/s/oKP0umBKZZRwy1MujQ1vgLg1wcidIO+ZGI131zZGoVotEDO8IYee2LeBXeYGiMKU=;R6ZCFMOskxxQtYu/vb2nBw=="
 ---
 

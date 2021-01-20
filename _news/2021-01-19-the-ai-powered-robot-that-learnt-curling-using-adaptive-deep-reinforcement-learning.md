@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-usi
 webUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: LinkedIn
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Understanding and Resolving the Threats of Adversarial Attacks in Machine Learning"
+    excerpt: "The Adversarial Machine Learning Threat Matrix report follows the ATT&CK framework that addresses the growing concerns related to the cyberthreats and adversarial Attacks in machine learning"
+    publishedDateTime: 2021-01-20T13:44:00Z
+    webUrl: "https://www.analyticsinsight.net/how-to-address-adversarial-attacks-in-machine-learning/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Machine-learning-3.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "CEA-Leti Reports Machine-Learning Breakthrough That Opens Way to Edge Learning"
     excerpt: "CEA-Leti scientists have demonstrated a machine-learning technique exploiting what have been previously considered as “non-ideal” traits of resistive-RAM (RRAM)"
     publishedDateTime: 2021-01-19T18:10:00Z

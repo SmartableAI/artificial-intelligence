@@ -2,6 +2,162 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-04-forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed.md",
+      "title": "Forbes A.I. Awards 2020: Meet GPT-3, The Computer Program That Can Write An Op-Ed",
+      "excerpt": "Self-driving vehicles are now creeping into the mainstream while advances in machine learning are changing the way we write code and discover drugs. Here are the best products, the most intriguing people and the most exciting trends of a year in which A.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/?sh=1de41af393a7",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2021/01/04/forbes-ai-awards-2020-meet-gpt-3-the-computer-program-that-can-write-an-op-ed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdff97b0c3566fa06d16d26%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1880%26cropY1%3D0%26cropY2%3D1058",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-were-google-workers-and-we-are-forming-a-union.md",
+      "title": "We’re Google Workers, and We Are Forming a Union",
+      "excerpt": "Google employees, along with employees of Waymo, Verily and other Alphabet companies, stopped working and walked off the job in cities around the world. A week earlier, The New York Times reported that the company had paid tens of millions of dollars to two executives who had been accused of sexual misconduct toward our co-workers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/04/opinion/04google-02/04google-02-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/04/opinion/google-union.amp.html",
+      "publishedDateTime": "2021-01-04T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job.md",
+      "title": "Here are 10 career skills you need to learn in 2021 to land your dream job",
+      "excerpt": "It can be hard to live up to New Year expectations, but it's entirely possible if learning new skills is one of your New Year's Resolutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job-01609360489",
+      "originalUrl": "https://www.marketwatch.com/story/here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job-01609360489",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-279400/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job-01609360489",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/here-are-10-career-skills-you-need-to-learn-in-2021-to-land-your-dream-job-01609360489",
+      "publishedDateTime": "2021-01-04T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-the-reality-of-ai-in-healthcare-promises-roles-evolution-and-more.md",
       "title": "The reality of AI in healthcare: promises, roles, evolution, and more",
       "excerpt": "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?",
@@ -1049,134 +1205,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-ktr-releases-telanganas-2020-year-of-ai-success-report.md",
-      "title": "KTR releases Telangana’s 2020 Year of AI success report",
-      "excerpt": "Telangana IT and Industries Minister KT Rama Rao today released the report “Telangana’s Year of AI – 2020 and Beyond” highlighting the various achievements made in the sector during 2020. A year which saw one of the biggest FDIs wherein Amazon Web Services announced plans to invest about $ 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/pyrjlk/article33018127.ece/ALTERNATES/LANDSCAPE_615/Telangana-targeGM17U5V1I6jpgjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/ktr-releases-telanganas-2020-year-of-ai-success-report/article33480960.ece/amp/",
-      "publishedDateTime": "2021-01-02T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-senate-overrides-trumps-veto-of-defense-bill.md",
-      "title": "Senate overrides Trump's veto of defense bill",
-      "excerpt": "The Senate on Friday overrode President Trump's veto of the National Defense Authorization Act, the $740 billion defense policy bill. This veto, in the waning days of Mr. Trump's presidency, marked the first time Congress has voted to override him.",
-      "sourceUrl": null,
-      "webUrl": "https://spacenews.com/congress-overrides-trumps-veto-and-passes-the-national-defense-authorization-act/",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/senate-overrides-trumps-veto-of-defense-bill/ar-BB1coX5g",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://spacenews.com/wp-content/uploads/2020/05/Capitol_USC.jpg",
-          "width": 879,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-02T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://spacenews.com/congress-overrides-trumps-veto-and-passes-the-national-defense-authorization-act/",
-        "domain": "https://spacenews.com/congress-overrides-trumps-veto-and-passes-the-national-defense-authorization-act/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-could-the-ancient-greeks-really-not-see-blue.md",
-      "title": "Could the Ancient Greeks really not see blue?",
-      "excerpt": "Blue seems to be all around us, we see it in the sky and we see it in the ocean - but the word blue was missing from our lexicon until relatively recently. Professor Jules Davidoff has been researching colour recognition for many decades,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rnz.co.nz/national/programmes/the-weekend/audio/2018779012/could-the-ancient-greeks-really-not-see-blue",
-      "originalUrl": "https://www.rnz.co.nz/national/programmes/the-weekend/audio/2018779012/could-the-ancient-greeks-really-not-see-blue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rnz.co.nz/assets/news_crops/115781/eight_col_greek_ruins.jpg?1609540664",
-          "width": 720,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-02T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rnz",
-        "domain": "rnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -42,6 +42,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
+    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-19T19:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
     excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
     publishedDateTime: 2021-01-18T10:40:00Z

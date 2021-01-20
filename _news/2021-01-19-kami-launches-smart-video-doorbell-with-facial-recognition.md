@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New advances in detection of bias in face recognition algorithms"
+    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-18T13:32:00Z
+    webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/01/MG_5999_2021-01-18_21-25-39-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "AcOmNIbGwIOhbRwluy0udPxykQeVySXsPevqYD8m0GeE6JcJP7KGgnoyvF4JGV3Lf8K/AB6NraO2spjMgDqpykIq6ucOE3aAvH7pHq998lAGced8+LFZVKmQsGGXyT2YfkNotdTmo7vbFRgknglp070JFH/oSbP7E7uyeuc9lMoTmZpepihm+Zh3num68UJJKBpFE+3NK3NfIar87fZWYbA+1X6+s0KqrwnC+kZq9BPkeM279jt09z/7484B8EAaDKZpW1rMU0W+fsIGpmwZNZ933WsEmtsbk0NGlVsAgluKWsS93fFReD0whUHGZIfraRVvo7vNfM8zBStRJESk2OmUpQ6nPlKBkk+v/x+2iHj8r5h4zbtIVbfYdPtrGM5bCft7qY9nijVCiHDYCg20wwWBGmhhveM/fIEoIEh2IBEVdBd9q7sDndrzPXGBNH82sCCkqudxtGjmsls1dwRbrNdgkFfPsHWFk8jYZTNfR1lbjHc6pK0Z4lqcBmdSa81EIWk68n9+K7mMymjqMKGP8w==;1G5AU9WQsYMQPqRaJZAQAQ=="
 ---

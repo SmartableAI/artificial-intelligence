@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "ZIM cooperation network on AI-based agricultural robotics launched: Artificial intelligence for sustainable agriculture"
+    excerpt: "Zentrum für Agrarlandschaftsforschung (ZALF) e.V. The recently approved ZIM cooperation network \"DeepFarmbots\" met virtually for its official kick-off on November 25. The central goal of the network is to develop and disseminate new agricultural robotics solutions for efficient and sustainable agriculture."
+    publishedDateTime: 2021-01-20T13:10:00Z
+    webUrl: "https://idw-online.de/de/news761539"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 60
+    images:
+      - url: "https://files.idw-online.de/corona_idw.png"
+        width: 615
+        height: 284
+        isCached: true
   - title: "Google announces new AI tools for online retail"
     excerpt: "The new services, announced today, have been branded as Google’s Product Discovery Solutions for Retail. They include a Recommendations AI engine that’s now generally available. According to Google, Recommendations AI helps retailers to deliver highly personalized product recommendations at scale and across all channels."
     publishedDateTime: 2021-01-19T14:07:00Z

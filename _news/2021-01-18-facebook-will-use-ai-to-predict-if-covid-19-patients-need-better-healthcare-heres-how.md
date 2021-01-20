@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-i
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
 type: article
 quality: 98
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -31,9 +31,9 @@ related:
   - title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
     excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
     publishedDateTime: 2021-01-19T14:14:00Z
-    webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
     type: article
     provider:
       name: TechRepublic
@@ -105,22 +105,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_njkb.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
-    excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."
-    publishedDateTime: 2021-01-15T21:27:00Z
-    webUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/"
-    ampWebUrl: "https://www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/facebook-nyu-langone-health-use-ai-to-predict-health-of-covid-19-patients/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 57
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/12/IBM_PE_011520_HP-640x360.png"
-        width: 640
-        height: 360
         isCached: true
   - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
     excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."

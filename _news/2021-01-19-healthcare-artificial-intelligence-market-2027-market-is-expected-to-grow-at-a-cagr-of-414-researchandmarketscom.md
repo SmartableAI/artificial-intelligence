@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Artificial Intelligence (AI) Market Worth $51.3 Billion by 2027 at a CAGR of 41.4%"
+    excerpt: "According to this latest publication from Meticulous Research(R), the healthcare artificial intelligence market is"
+    publishedDateTime: 2021-01-20T14:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 88
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data"
     excerpt: "CAGR of 43.6%, Market Trends -Drug development for COVID-19. The global artificial intelligence (AI) in healthcare market is forecast to reach a market size of USD 61.59 Billion by 2027 and register a significantly high CAGR,"
     publishedDateTime: 2021-01-19T10:09:00Z

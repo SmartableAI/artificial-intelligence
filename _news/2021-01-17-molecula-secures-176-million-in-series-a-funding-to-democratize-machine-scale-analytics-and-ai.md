@@ -20,28 +20,28 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Social Assistance Market Employs Big Data Analytics To Gather Insights For Social Services"
-    excerpt: "The Business Research Company’s Social Assistance Global Market Report 2021: COVID-19 Impact and Recovery to 2030"
-    publishedDateTime: 2021-01-19T23:58:00Z
-    webUrl: "https://www.wboc.com/story/43194685/social-assistance-market-employs-big-data-analytics-to-gather-insights-for-social-services"
+  - title: "Splice Machine Launches the Splice Machine Feature Store Platform to Simplify Feature Engineering and Democratize Machine Learning"
+    excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced it has launched the Splice Machine"
+    publishedDateTime: 2021-01-19T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/splice-machine-launches-the-splice-machine-feature-store-platform-to-simplify-feature-engineering-and-democratize-machine-learning-301209712.html"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 14
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 9
     images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20266660_G.png?lastEditedDate=1611038615000"
-        width: 900
-        height: 455
+      - url: "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Xdroid Applauded by Frost & Sullivan for Its Innovative Voice and Facial Analytics Solution Portfolio"
-    excerpt: "and a speech-to-text and keyword recognition model that provides highly accurate transcriptions. The company's automated record innovation allows the language engine to capture and analyze ..."
-    publishedDateTime: 2021-01-18T01:09:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1178955&cat=PR News Wire"
+  - title: "Splice Machine Launches the Splice Machine Feature Store Platform to Simplify Feature Engineering and Democratize Machine Learning"
+    excerpt: "Splice Machine, the only scale-out SQL database with built-in machine learning, today announced it has launched the Splice Machine Feature Store Platform. The Platform will help more companies operationalize machine learning by reducing the complexity of feature engineering and allow data scientists to make the right decisions based on real-time data."
+    publishedDateTime: 2021-01-20T06:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-data-management-artificial-intelligence-computing-and-information-technology-b5f48b9304ecfa01e5edabc23762c64c"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
 
 secured: "BGvz7534g1HMCz51JZ7lcV84YIBjJlidzjZQRFsjDq9IWGxxQQj7sNmMqkUBZKjjiYCpkhxLADX3/LlNVEZRPjKz3TqyxcKhxplvbK3dyy6t1RXMOxCfo4pppYgw4QiKEcJ2qOG+IQNkzrFQ4NJKHHTZ0RHdngUOlitF8FeMUWUXxfc05mxEf1mfPX0CYlRTeJXEVacSReB56NLNapGInVI9aRbtrgpOI7nIok8mjZrJsoh2ts8BNN4Pos1Z0hJ+mzt+xaMSDbp4eoelnLzPFCtZuetaDMdkNv71tdL9KXQfWH9ieQnzM4EY2TWgmqcsrcC2Oj/iD4ms3BdCBZaYsxPNsLntxBZJAUL6UmlqxldscMHP/PFAbomOn0jxPT6S6lhwU2tyL5FBFMpDJ5jAR+xeekNHawGwTGmIo8jNiGPSi8XS3yObofnHW12HI8PG2XExSsAdfvgclK0ZcxEoTQgz4pCUqEQh8fpZDmkPcYG0/Jv4I3x/TxlQp5F0gl1MRThRTaRNl9NXAPMMGPBmqw==;vtEfvYCNmPYA19HYkpszaw=="

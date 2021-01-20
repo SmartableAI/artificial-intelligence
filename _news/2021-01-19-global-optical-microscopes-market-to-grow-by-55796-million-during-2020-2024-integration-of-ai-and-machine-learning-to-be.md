@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2021-01-19/global-optical
 webUrl: "https://www.bloomberg.com/press-releases/2021-01-19/global-optical-microscopes-market-to-grow-by-557-96-million-during-2020-2024-integration-of-ai-and-machine-learning-to-be"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
-    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-01-19T19:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Insights on the Artificial Intelligence in Next Generation Networking Global Market to 2026 - Leading Companies, Strategies and Solutions"
     excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer,"
     publishedDateTime: 2021-01-19T19:45:00Z
