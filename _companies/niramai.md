@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "niramaianalytix"
   url: "https://twitter.com/niramaianalytix"
-  followers: 810
+  followers: 811
 
 locations:
   - Rich Jerk Headquarters, USA
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=3mx-g-RJoKg"
 
-secured: "HTwBPRhbEHuRxTCbuP+0LEMSILyoiGuMSFtuqeQDbbAygxbosYGWlPye52eUxVAvV3oczdGWIeqo2oJk2hTnrEu9kIJHNGYndZmFUz1B/dLUBzMpemUHpOAQTYssXyXvF2tF/8omhbfvbdbTYPEuTJU9LL+RxoDgOBHkID8nrsZfLqqe7Jr4/Sb9t6Q3Yck9C7RiD0FRU+pN8sEM6w4x1aKrZcuWPTF1LJcFjuf9VnigaJXqvscuJr9Tfy2k868vp24IgSFFzeFQQ0Y/NxNUMETz/6lcBJekcuGKQ2zdqndYWyhsYNHRNvwgfj7+BRxn3WH6WcZ2r2Z5r5wTP0MbwknOBucyu99DqFjA7LtORtwkFVU9J14mLzryNSpZ+03tZ1Erj27ifsOQhmAmP5INNw==;bivBVE7jcQLSt8oGL03p2Q=="
+secured: "6Mf9zZJ1WMTjFX3yil/z7/sl/X/F8TiTVtUShvr86Jwkn8s0QbmpCl4Jbr+ZJfEVt2BlrrVXOEJquWqKYGhFiTQ2njGaBq4j3oKpEibG7HTPtUSfBsr3RhPDvWBMjcNWkK5Sdn6RycOiHaOTLu3tgwhmXRAJFiM32L0kyNGta6sBwkqUWlC29X3TehQm5Shn/2tJDMJbVeupNdyMpkQyoIARGx675GqgI58XesDq5XwAE/pBDaHZrDjlzx5CTpLb2rW+TpQ/SxUQ1UBTklJbTNm2bHBVfueHXzMqj3dJYv7uAJ9L0ztnIXfAsBAPo/9QKylTeMIyaLFFSStUw0kuHLYY3IT1JViZef2FVQxLUMA30noVjTuHCEC7U455RzQERUTXCjJId+8ufuMxbzhfyQ==;U7XVYLvL7weNUo7CSqAHbg=="
 ---
 

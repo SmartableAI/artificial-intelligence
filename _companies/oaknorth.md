@@ -2,7 +2,7 @@
 name: "OakNorth"
 overview: "OakNorth is the next-generation credit platform that is redefining lending to lower mid-market businesses ($1-$25m loan size) globally."
 type: "profile"
-heat: 72
+heat: 58
 
 website: https://www.oaknorth.com/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "OmAJR3ejePjnuf5U/UDB/bsdRDdNXmzS9vWAboKGUDUsUoG86VChpjg7Knws51OLE+HCgE7+kPZp7TtXLtpcTZVodELsm6NosNd1mk2f4ZvxTDKgXBAs/8fmMUhP5UqdTBaZBafgvSyZ3Tn7MgeHSx+mrL8suGyx09UYjqd5JAGYaoEL938GglWigHRkdpC0pQ/XDDQo21fueQdMUCgnQZ+kGAn34mdCzHYjLPemIuJblrwpRg7AZR1A9Ib7O+ixK0x3Fma5NoxZhQB79OJrIEzWLo4UZBRKLIoXXyK5UOiNX+m517tLC7PAVb7Ml5tVmjs0mb2kClkfCZdbu2gO7AEaM382lRh1hYPArZ/QNyKSeIlG7wLk+z0E9E12A6S2WFF89ACQC6UWmwMRU2ZokQ==;qn0R+d/Q7FbHnpKLdwJUVg=="
+secured: "vN7a6f1nV18+vTOHN4ZAdayW8+XOpdVz6/FVWeivVleiAoBtXvhru0nf7kZSOntflvBVBVw3fEPsOX67jZP9S7fgTypdxapAy+ZBXdHyNZEbyx7256kW0Xm+pKB2+sTxOdKQ86/H301KQUG4LZApelkIpYZwOdOwZSvsea7oQXqrY4Qh4t1jyUGmXhh2TMf01eALYmxMFmqzckl8ilpmc5CwrR3vbGGrx25EDuLhKZm8U3HGdCk4k+BKIx3yc5+hoziSvcouBKbGdXZMYnq9UKC/gwW943ORtujmxmEhwqDdlJZqT/VjA8dAgi2HNUvuGpGCUOZoNrbGrFlk/mcoHTevUn2fR1zdm1BrrQsU7ySQPjZZm6BxrX8wKct4aBEHdPopQeBRPr/8XdPsxCOu1Q==;yfMH7EVgRdAPJPTyFeC8pQ=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "avawomen"
   url: "https://twitter.com/avawomen"
-  followers: 1571
+  followers: 1570
 
 size: 51-200 employees
 yearFounded: 2014
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ok_A0kTEGpw"
 
-secured: "Yato8eJGZPCCp+ExVXAg7k9/PVjKyawfzf8UZrHw0py9sk46lO0cLPxYkf3cKF0jdqMwKFCgtl/T+uc8Ccctmyd60Q9Gw1dS8HJ8FDbEVALoMbBF3HtWOEsIy5LEyeBgIYW4tSpu8Ho2Q1v89VGbk0nZUunUVHAbAkgH2sVkKZqyjC4Vk6c1X7DyhRFymHIbFPGsJ1p6NI+sAyOMm8AAd6DfOBu6USyfGAiL8xuRRegRO9GAKHCeEK4PyYfGfKJwd55GYgRXegAM3sXQjYwfcSmwdynJVtYmrAG3mEcZWtOP//FJHAoo1QDOgBH9g8XY/1bVVKSDoNTztn3it11rsNLJtsXqU5/6WeGj9tm0XMGcu1McAagxE7AqZKrE05Bkgn667zpGgnppuktzbpmAoDZtaRH3FoAFqI8uAZ+aJUc=;SGdEoc5mi2R5z8sjTNfDFw=="
+secured: "Enmrbc4Uz2MgENKebptOGVjQfDBw1xfMpscf3aulo3bz7O8M4T7KTvf0D4hB/Dt6vTt1CSHb5bP5zc/7GkBpm4j5ybOqFkC+Voxh/cqigEJSJp8TyNZuTssuYpS96Pm/28EZ8uQ8qTQKykuubdsUq9CZWCQ9igvWFjLBKCUfexrCkRYWMx0zQyTomMGM8bsWXqiZz2siQ+4727VPTj9WncyYEiu6Zr32Csb273Rs4hYVaFnRrvAME4cZn7VxIiqCvLTD7ABs598SjBaEnaccSnYP7LQw2WaJFuv82IHbDA0syP5tBXmAKa2epftJIWz9FvawFYt+cOeo5fu94ejcG31QX6i0SFCuWFRu6HebNGhW1T9uN+Qufl3LTTucIkF9MOYn8bBsdkOUrXAqEG8Ziq/357ZEIew8S792/eMLY0c=;qwaIOJuKcR7QVxaphFzmGg=="
 ---
 
