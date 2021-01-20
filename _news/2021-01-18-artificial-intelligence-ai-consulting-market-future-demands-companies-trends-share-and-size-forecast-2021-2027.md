@@ -42,6 +42,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (AI) Robots Market Covering Prime Factors and Competitive Outlook till 2027"
+    excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI Robots Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market factors"
+    publishedDateTime: 2021-01-20T17:08:00Z
+    webUrl: "https://www.openpr.com/news/2228408/artificial-intelligence-ai-robots-market-covering-prime"
+    ampWebUrl: "https://www.openpr.com/amp/2228408/artificial-intelligence-ai-robots-market-covering-prime"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228408/artificial-intelligence-ai-robots-market-covering-prime"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
   - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
     excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
     publishedDateTime: 2021-01-18T10:40:00Z

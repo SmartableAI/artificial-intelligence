@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/"
 type: article
 quality: 73
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump pardons former Google self-driving car engineer Levandowski"
+    excerpt: "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit."
+    publishedDateTime: 2021-01-20T13:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0JM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0JM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548414698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09X"
+        width: 830
+        height: 545
+        isCached: true
   - title: "Trump Pardons The Guy Who Stole Self-Driving Car Secrets From Google’s Waymo"
     excerpt: "Anthony Levandowski was sentenced to 18 months in prison, though he didn't actually serve time due to COVID-19."
     publishedDateTime: 2021-01-20T12:57:00Z
@@ -47,17 +63,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Trump Pardons Former Google Self-Driving Car Engineer Levandowski"
-    excerpt: "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit."
-    publishedDateTime: 2021-01-20T15:26:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
   - title: "Trump pardons former Google self-driving car engineer Anthony Levandowski – Jaweb"
     excerpt: "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber’s rival unit."
     publishedDateTime: 2021-01-20T10:49:00Z
@@ -83,6 +88,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Trump Pardons Levandowski, Who Stole Self-Driving Truck Trade Secrets"
+    excerpt: "The self-driving truck entrepreneur who committed what one judge called the 'biggest trade secret crime I have ever seen” will avoid his 18-month prison sentence thanks to a last-minute pardon from President Trump."
+    publishedDateTime: 2021-01-20T16:50:00Z
+    webUrl: "https://www.truckinginfo.com/10135034/trump-pardons-levandowski-for-stealing-self-driving-truck-trade-secrets"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 24
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2021-01/anthony-levandowski-pronto-web-__-1200x630-s.jpg"
+        width: 788
+        height: 630
+        isCached: true
 
 secured: "OjBKAFB3I6qvhIrn1vJFBu/Kj/NnZ/GM+AlO2DsWVnpJGXqCBijnxOKJ/fAfrYz9Jau9Us/vHiVEJlPj/wcQzM0n1NTA32GxfzOErxPu1wQm99W35zd3Y6X9s2UtTypin9/2Oajmr7pfQG+wIgHVdurskK8ZBFgEIrM9dHT1BweHpV0MIHI45mEI/oGbM7cK1h+OJBj9ii18qP8gvctGEn8bX9B0EZIF5w/78/NgrsCViWjCYcd34/mcfZ86vRnyYyWFBwFtyMh6Znu8pVNeI+Lu9PrlJQzIcL/VtNPcw6u50r2S5BGMMhrltXL3QXk0zuFlA//GjDnthnZM38IpNkDf3cCS/WHOX0/cf322BnwjCC3jNXqC48pyo4jcCVjIB8qpdn8ugPmIndyLriWrvO6boFg3qPlt/eYyYWIzr85CvzDu3xR/vdOdjmLaZd0hRGnSj/OEypKUKb6Mo3jtzZ7Ym/jWXnz0JuVrvQY5uRym2iW9aw64pAv02vrpua6WgCj2k1wtmQ5HzWcyfIRVGw==;P4dkh6XQrDiVadrwVcdY2A=="
 ---

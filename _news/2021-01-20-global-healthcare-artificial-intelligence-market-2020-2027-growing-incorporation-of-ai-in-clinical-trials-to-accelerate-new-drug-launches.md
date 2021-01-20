@@ -15,8 +15,8 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
   - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
@@ -72,6 +72,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "th4xlL5Wlc5yG5VPqpDcSkXFBSHf+pb1EmrizYGUmILL+rk3Cy59qyyUG58J+msbqf8+HjN6/jRXlv9zBppLbCOke35fHy+Ego1Zc/HDk8EjXrJOWfD3XPGd7Ly+QWzGJFUUbtI1bAZ4ul5NDCZdtsPr0xma9BcV9WOiasGZJRHfklcSLbeKxPLZeHCEiu9ZTA+jMissik/jkiF+AeiYlFZXQ06bdLRp3ZJvLZiJN4G2dArc0mCMYnTtYMUnGLbQK4zCizWOl6ajBahUCjfY9Hle55QxqAQSi2Xz92zTFpHYJ8czCZeg1X8JDEQ/LhJbXWycOPsD6HF2rGuQKa9jpUQ9k1MVKUlgTbtjby1+vXs=;+ox/bBLU25ouBnDtxmzx9g=="
+secured: "uoE6dSmjD57PyYRa8MPdTsfcsonorXWMv1b/HPvhhM3fyHbblUPhoixiXOygEKcmKrxC8aCyQMwieZxtvDqlCRZE99Ki5WEmclCe3IWlX5WOse4LlaoVpDoG6FnMjfgQlBKyUOYzC1F1PhMEIDjHibfQavBAPD4zvVeuezpvCmIb9iCGDHDn4fY1+JIyFceVofKmghC2UMXz5c4rzkgYDhviI1pb1OIgCOAlt9n+x9cjfWjGtYlnCEuFdIeggF6Gk3ixDi/VI1HsBCCfidgkWyHSuqLaNIyHsNozE5N7cj5eG+37qLyJA0wY4N3gmm2zr4Z6BqMZGecwVzYXAYTtLn1PBFIjpFm/kJEX0gVEiBM=;NXU3NpYx6CD16/tWYoWy2g=="
 ---
 

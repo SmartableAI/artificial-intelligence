@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2228125/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Robots Market Covering Prime Factors and Competitive Outlook till 2027"
+    excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI Robots Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market factors"
+    publishedDateTime: 2021-01-20T17:08:00Z
+    webUrl: "https://www.openpr.com/news/2228408/artificial-intelligence-ai-robots-market-covering-prime"
+    ampWebUrl: "https://www.openpr.com/amp/2228408/artificial-intelligence-ai-robots-market-covering-prime"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228408/artificial-intelligence-ai-robots-market-covering-prime"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
   - title: "Artificial Intelligence (AI) Consulting Market Future Demands, Companies, Trends, Share and Size Forecast 2021-2027"
     excerpt: "According to ReportsnReports study over the next 5 years the Artificial Intelligence AI Consulting Industry will register a xx CAGR in terms of revenue the global market size will reach xx Million USD by 2026 from xx Million USD in"
     publishedDateTime: 2021-01-18T15:00:00Z

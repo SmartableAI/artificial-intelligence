@@ -67,20 +67,6 @@ related:
         width: 900
         height: 499
         isCached: true
-  - title: "Face biometrics firm SVI and digital ID platform Auth0 announce board appointments"
-    excerpt: "Former SoftBank executive Steve Carlin and retired U.S. Army Lieutenant General Ken Tovo to serve on StereoVision advisory board, tech leaders join Auth0 board."
-    publishedDateTime: 2021-01-16T01:16:00Z
-    webUrl: "https://www.biometricupdate.com/202101/face-biometrics-firm-svi-and-digital-id-platform-auth0-announce-board-appointments"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-1024x485.jpg"
-        width: 1024
-        height: 485
-        isCached: true
   - title: "Global contactless biometrics Technology Market analysis 2020-2026: speech recognition, hand geometry / palm recognition, iris"
     excerpt: "Global contactless biometrics Technology Market analysis 2020-2026: speech recognition, hand geometry / palm recognition, iris DUBLIN–"
     publishedDateTime: 2021-01-19T09:40:00Z

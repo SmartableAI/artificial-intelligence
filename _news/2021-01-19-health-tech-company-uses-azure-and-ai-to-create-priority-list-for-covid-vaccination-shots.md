@@ -3,10 +3,10 @@ category: news
 title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
 excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
 publishedDateTime: 2021-01-19T14:14:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+originalUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
 type: article
 quality: 95
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
@@ -177,6 +177,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "6ZeqFikWUqIFm/X24JTLy9vo5IWI/WqclsTdp09/zGCioWDlJcqayHvE2DEKwOWdw+Hs4TDq0EiE+ntEUQmWyOo0/rpEmPk+AxIDkY1mouAbIMQ0Bjyd9r/HaJZbUqkUdC+0nc6r0Yx0PMiik97i4k5MkEGUV6lcFTjGdsTXc1dDaRS38lsphU4qloreeUpRSax28m683aqBkAlTXsaKmYdo4p6LhnIvmB+1707GUPTa/DOwVwLakPSd09J+N1t4LIgCEatqT5ZYoyGoPDFmdR48XMygsO7hZrzFg/BWY6eaxdIoPShJIemnsqxOfAjTbqhAlX/rdx8S4pD9mT/Y1MmrGkjCMEwz4mTnaJuCClY=;EdmmwzrJZzyjILTtW+rjPQ=="
+secured: "JHJzEjJ5ALaGPY/s7z6+rHFg0JQGT08vHpdCwbxAV23y/6AZTY6ecypHsVbly+BHkiV3Bw/DifBg2d7wPyUbhsrXtGHnhN3Fyx6BCBCMm3WylDa6iRK3aTRyBx4fmIcaK5kLkkslDaVNYKD08V0nGn/B0cOhWeKEGFvzf6KZojjUVYDFUeruvqgrxEwxC5XijvIzYdI7iH6QLZbzTyITvVCgyiBrHQ1kCfrV+DgAXCf/62zzTooxKmQj1pC2a0W1O/UJAjPEc0bkmSENAW2ny2L+ldDyk/gSYHwwPG3idSLOMRThorqec6nF6IKjlmfwTUXIrPssv+a+9CyYBYpP+cFHy9vinRGuQCHhWUYn+k0=;LRGl97k33tu+8s9jJCeFpA=="
 ---
 

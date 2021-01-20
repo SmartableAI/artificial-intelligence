@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/twenty20-solutions-introduc
 webUrl: "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition"
 type: article
 quality: 51
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
         width: 900
         height: 499
-        isCached: true
-  - title: "Face biometrics firm SVI and digital ID platform Auth0 announce board appointments"
-    excerpt: "Former SoftBank executive Steve Carlin and retired U.S. Army Lieutenant General Ken Tovo to serve on StereoVision advisory board, tech leaders join Auth0 board."
-    publishedDateTime: 2021-01-16T01:16:00Z
-    webUrl: "https://www.biometricupdate.com/202101/face-biometrics-firm-svi-and-digital-id-platform-auth0-announce-board-appointments"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-1024x485.jpg"
-        width: 1024
-        height: 485
         isCached: true
   - title: "Apple hints at ultrasonic voice biometrics, in-display fingerprints and foldable screens"
     excerpt: "Apple is reportedly working on an iPhone with a foldable screen, according to a company insider who spoke to media last week, along with new biometric sensors."

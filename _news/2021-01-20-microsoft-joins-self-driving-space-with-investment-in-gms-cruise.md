@@ -146,6 +146,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
+    publishedDateTime: 2021-01-19T19:04:00Z
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29O1MO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O1MO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 90
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548348568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I0YQ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Microsoft backs General Motors' Cruise Automation self-driving car venture"
     excerpt: "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,"
     publishedDateTime: 2021-01-19T16:15:00Z
@@ -311,20 +327,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
-    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
-    publishedDateTime: 2021-01-19T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 70
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Cruise and GM Team Up with Microsoft to Commercialize Self-Driving Vehicles"
     excerpt: "\"Our mission to bring safer, better and more affordable transportation to everyone isn't just a tech race – it's also a trust race,\" said Cruise CEO Dan Ammann. \"Microsoft, as the gold standard in the trustworthy democratization of technology,"
     publishedDateTime: 2021-01-19T15:18:00Z
@@ -480,6 +482,38 @@ related:
       - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2021/01/Cruise-car-in-San-Francisco-streets.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "Microsoft (MSFT) Invests in Self-Driving Electric Car Venture"
+    excerpt: "Microsoft (MSFT) has entered into a long-term strategic relationship with the Cruise unit of GM to develop self-driving electric vehicles."
+    publishedDateTime: 2021-01-20T17:44:00Z
+    webUrl: "https://www.investopedia.com/microsoft-msft-invests-in-self-driving-electric-car-venture-5096128"
+    ampWebUrl: "https://www.investopedia.com/amp/microsoft-msft-invests-in-self-driving-electric-car-venture-5096128"
+    cdnAmpWebUrl: "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/microsoft-msft-invests-in-self-driving-electric-car-venture-5096128"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 61
+    images:
+      - url: "https://www.investopedia.com/thmb/hcU1NTsE99Uh1TJbBND7qoB3bkw=/680x453/filters:fill(auto,1)/shutterstock_251998009_1_self_driving_car-5bfc3e4a4cedfd0026c5b77d.jpg"
+        width: 680
+        height: 453
+        isCached: true
+  - title: "Microsoft partners with GM, invests $2bn in self-driving start-up Cruise"
+    excerpt: "Microsoft has jumped headlong into the driverless car space by investing $2 billion in Cruise. Microsoft's stake in General Motors' autonomous vehicle subsidiary takes its total valuation to an impressive $30 billion."
+    publishedDateTime: 2021-01-20T18:54:00Z
+    webUrl: "https://www.newsbytesapp.com/news/business/microsoft-partners-with-gm-invests-2bn-in-cruise/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/business/microsoft-partners-with-gm-invests-2bn-in-cruise/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/business/microsoft-partners-with-gm-invests-2bn-in-cruise/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 60
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l220_26701611143398.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Microsoft Research VinVL Makes Vision-Language Breakthrough"
     excerpt: "VinVL is a Microsoft Research project that brings leading image encoding in the VL space and will be a part of Azure Cognitive Services."
@@ -686,6 +720,20 @@ related:
       name: Motor Trend
       domain: motortrend.com
     quality: 41
+  - title: "Microsoft teams up with General Motors for self-driving cars"
+    excerpt: "Self-driving cars are all the rage nowadays, and big tech companies are more than happy to clamber aboard the bandwagon. In the most recent such development, Microsoft has teamed up with automotive titan General Motors (GM) to work on producing electric,"
+    publishedDateTime: 2021-01-20T18:47:00Z
+    webUrl: "https://www.techjuice.pk/microsoft-teams-up-with-general-motors-for-self-driving-cars/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 41
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/01/ms-cars.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cruise, GM partner with Microsoft to commercialise self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize"
     publishedDateTime: 2021-01-19T14:30:00Z
@@ -820,6 +868,20 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2021/01/stock-image.jpg"
         width: 690
         height: 480
+        isCached: true
+  - title: "Microsoft looks to bolster the self-driving car market with new Cruise and GM partnership"
+    excerpt: "Microsoft appears to be re-entering the automotive market in a significantly greater capacity than it has been previously. A few years back, Microsoft seemingly slunk away from the automotive"
+    publishedDateTime: 2021-01-20T15:19:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-looks-to-bolster-the-self-driving-car-market-with-new-cruise-and-gm-partnership"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 32
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Cruise-Microsoft-cropped.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft joins GM to build self-driving cars, invests in $2bn fund"
     excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM)"

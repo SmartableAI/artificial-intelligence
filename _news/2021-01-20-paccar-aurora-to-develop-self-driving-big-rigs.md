@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/paccar-aurora-to-develop-self-drivi
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/01/vb537238_215839-056-1024x555.jpg"
         width: 1024
         height: 555
+        isCached: true
+  - title: "PCAR Moves Higher on Self-Driving Truck Deal"
+    excerpt: "PACCAR (PCAR) stock is eyeing fresh highs this morning, following a collaboration with self-driving car startup Aurora"
+    publishedDateTime: 2021-01-20T15:32:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2021/01/20/pcar-moves-higher-on-self-driving-truck-deal"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 24
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/mergers/bigstock-isometric-arrow-formed-by-two--253666525.jpg?sfvrsn=15a1db06_4"
+        width: 1600
+        height: 1200
         isCached: true
   - title: "Self-driving big rigs could be future of long-haul trucking"
     excerpt: "Now there are companies thinking much bigger in the ever-growing world of artificial intelligence: self-driving tractor-trailers. San Diego-based in TuSimple is getting ready to launch a fleet of self-driving big rigs."

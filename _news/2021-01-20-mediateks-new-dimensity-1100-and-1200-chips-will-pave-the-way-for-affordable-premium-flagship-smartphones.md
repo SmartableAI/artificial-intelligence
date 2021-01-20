@@ -35,17 +35,20 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "MediaTek Launches 6nm Dimensity 1200 Premium 5G SoC with Unrivaled AI and Multimedia for Powerful 5G Experiences"
-    excerpt: "MediaTek today unveiled its new Dimensity 1200 and Dimensity 1100 5G smartphone chipsets with unrivaled AI, camera and multimedia features for powerful 5G experiences. The addition of the 6nm Dimensity 1200 and 1100 chipsets to MediaTek's 5G portfolio gives device makers a growing suite of options to design highly capable 5G smartphones with top of the line camera features,"
-    publishedDateTime: 2021-01-20T07:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-1029984804"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-1029984804"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-1029984804"
+  - title: "MediaTek announces new 5G chips"
+    excerpt: "MediaTek said its new Dimensity 1200 and Dimensity 1100 chips for 5G smartphones sport new AI, camera and multimedia features."
+    publishedDateTime: 2021-01-20T17:36:00Z
+    webUrl: "https://www.lightreading.com/5g/mediatek-announces-new-5g-chips/d/d-id/766778"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "MediaTek’s new Dimensity 1100 and 1200 chips are here to take on the premium flagship segment"
     excerpt: "Having promised to announce a new flagship processor during its virtual summit at the tail-end of 2020, MediaTek has gone one better by launching the"
     publishedDateTime: 2021-01-19T19:19:00Z
@@ -59,6 +62,20 @@ related:
       - url: "https://i1.wp.com/img.talkandroid.com/uploads/2021/01/MediaTek-Dimensity-1200-3-TA-scaled-e1611080583742.jpg"
         width: 1939
         height: 1548
+        isCached: true
+  - title: "MediaTek Launches 6nm Dimensity 1200 Premium 5G SoC with Unrivaled AI and Multimedia for Powerful 5G Experiences"
+    excerpt: "MediaTek today unveiled its new Dimensity 1200 and Dimensity 1100 5G smartphone chipsets with unrivaled AI, camera and multimedia features"
+    publishedDateTime: 2021-01-20T07:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-301210345.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1421818/MediaTek_Dimensity_1200_ChipKV.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "JrARRC/5Mo7gNeFrZ6Uvu4E1HKEDkBWWSBJWvaEhOUGtYKQwpdIGQl9fwxUlzvT2YJJYje6914y66gHIuef64MaJe1d2L1SPm+KAFv1lz4ZWrQXCJQculKgWqsROXW6Cq2eJxuZCijcGKVY2sVUJofowJFuCRvPAAWUKBfRD37Fy4HciTIEZGNIz3JGaMxTCoIiQhwh1eowghLwF1ChNKjBUTJZAwT08/Glz86GGGu0cTR7UdOO+rP3K0pv9pCQquKZsgyhwihWzC/emJCbmKmB9vL2BvnAWlUwpv7hiSAO4v3nw1dCquSmFysfwjb2g4HlmLt1F7M3mex38kEX+g7wWrUXU95b4kL2VewuyChvELkLY7zLXlm/H7ZwqJpJByahlBp4LIa3rjAWft5OXkbMVBh8NRf1oLwDws/PtiFwXFOoYZK9aTFJ6lSK8bPSJR4QMp0YclT5NJuZLwkTjNZtQiNkBYtegwlny+mlQykjAnV2wRTjBL6ElElHhYO1QhMLB1S6wjZZwnbhWW77Aeg==;O45usTZ/m5h/CS/lyYtiEw=="

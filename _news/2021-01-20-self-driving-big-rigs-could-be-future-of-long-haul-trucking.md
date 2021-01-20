@@ -53,6 +53,20 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "PCAR Moves Higher on Self-Driving Truck Deal"
+    excerpt: "PACCAR (PCAR) stock is eyeing fresh highs this morning, following a collaboration with self-driving car startup Aurora"
+    publishedDateTime: 2021-01-20T15:32:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2021/01/20/pcar-moves-higher-on-self-driving-truck-deal"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 24
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/mergers/bigstock-isometric-arrow-formed-by-two--253666525.jpg?sfvrsn=15a1db06_4"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "Paccar’s push for a self-driving truck gets boost from Silicon Valley partnership"
     excerpt: "A new partnership between Bellevue-based Paccar and autonomous-driving startup Aurora Innovation represents a major bet that the future of self-driving vehicles will start with long-haul trucks, not cars."
     publishedDateTime: 2021-01-20T02:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-b
 cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://i1.ytimg.com/vi/Gz--yqZ-NRA/hqdefault.jpg"
         width: 480
         height: 360
+        isCached: true
+  - title: "Kami now sells a $129 smart doorbell camera with baked-in facial recognition and human detection"
+    excerpt: "The device costs $129 and includes a suite of note-worthy features. The most significant feature is. This allows the camera to notify users when someone is at the door, and more specifically, who’s at the door."
+    publishedDateTime: 2021-01-20T17:07:00Z
+    webUrl: "https://knowtechie.com/kami-now-sells-a-129-smart-doorbell-camera-with-baked-in-facial-recognition-and-human-detection/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 26
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2021/01/kami-doorbell-camera-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "Sw5CBQLEsiobMB4QLZ7mQSbm79dWw1vm155cxTeeWRi9CXPuAYZ2ohClGLc5mjN32tJD6i0ZrrvDaiJYM7CxRtIiwu6XIUaRBpsHeZzYdDz8hJeKDIB9TmObaqml1kyoAh/6Q93hI5MxmiiplwOgZd/s5/sbNxFbHrMLeKps4HbhEtJvi01Kv93RMJ5cVRqWjY+WGZP702uIDtnY9cssMyap1tubL8g9Rgb9YrBnSsUW4BKbJvaGc/2LVTRYiCMNeAlw1Lt8MZKPKVl10CMwbZhb1mMXoZJ8GbFNINUUj75dZ6Y17IBXEDU6c0Hkvuk4t9DyJlAy7VjN4PQVfjI4WNui6QsWyoPS0AbNThlhJpGtpLXzUgFd+vL5s15p0C++w4v21Ip3n5AgZWbNqiZNBASL/C1T7NhATxVzACepO5QAZ3M5BnTpfjViC4M6FDfDxa8aDFEPqPqkTWiFxiOIzyxnl9PGRU4VAzBsP98Fgi/Oli2qnB+B1f+mX/aDtD1Vif5m1dBq2JiHsnpKp13OiA==;BUrssDzCgiN4+NamF7ndLQ=="

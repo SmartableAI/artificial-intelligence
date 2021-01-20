@@ -3,10 +3,10 @@ category: news
 title: "New AI software can turn regular security cameras into COVID-19 policy enforcement points"
 excerpt: "Now being trialed in Georgia smart city Peachtree Corners, the new tech can pick up on people standing too close together and detect whether someone is wearing a mask."
 publishedDateTime: 2021-01-19T15:37:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
+originalUrl: "https://www.techrepublic.com/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
+webUrl: "https://www.techrepublic.com/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
 type: article
 quality: 95
 heat: 115
@@ -62,6 +62,6 @@ related:
         height: 720
         isCached: true
 
-secured: "OWv4jQaoE0EJm/ilsv85O2Peu063QFvAc4YAlAHynqa3PtjMhiocbLfRJRT89qiw1s9xZh/oeyrwoqMplf+K/S+KpzSrOInnhuYsK9J0PGfbKZ0OSxjePqaMBzmqBIx8xnuuLyOhecH2IJ4Y5KhiaUPPYoFj3K+EYXuaxgU/yHc8eg5CwDSdMg0jR33e8135i7CvoS098p2dFuwTRbgNP1FokDfbGLBIzF3JLjG1v3xsTF+PVL4xVfnE+MIF5ZVuQu8j7OkiyIBUtosU1CT5Qwo/IN6k3Xp7/5SecFg49cYBUmBnIP5wTReDam03lRLQrpVvVteeo/yruPM/UOpftmQLlKlWgGN49WIyDUIi1EY=;Xzdjr8htsa/lSmWBj6i+xw=="
+secured: "JD82JSP+W8EyKcTteaEWEPP+cRoup4cCKFt7LqZh/b/9780z97+BzK29VOWZ0cUy0ljYw7/DyoXzwzVUUIMJ5BDNeiZ421/iy4L5BbvNdfg9w5Htq6xvfUBtUHHOXeEfAgxzGaCuVdMyMy9WT4JMXT0Apl//cNyvfUw07WSAVa9sH37GFnUfGVtHIsPRvNppVFCfjwFgmc4ds5az5tk8WgtSv3MPBsUEMlMgt9nSN7HyVOpdwdLfg+gqEuXGYZXhD/KesvFaAxea/gMyJ35Kt3s3yJdN2PmSDNR9aTy2MFAh/WMsn6ynzozuNDub55lSbHJu7UZpO7mlPiLoV2uGVyA3ePJxqPgCs8bX0xTP+AU=;8AZPh0IqrEFuugfNIp950g=="
 ---
 

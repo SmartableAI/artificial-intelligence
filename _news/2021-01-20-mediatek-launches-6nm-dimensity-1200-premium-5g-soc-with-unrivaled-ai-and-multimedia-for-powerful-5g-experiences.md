@@ -1,28 +1,28 @@
 ---
 category: news
 title: "MediaTek Launches 6nm Dimensity 1200 Premium 5G SoC with Unrivaled AI and Multimedia for Powerful 5G Experiences"
-excerpt: "MediaTek today unveiled its new Dimensity 1200 and Dimensity 1100 5G smartphone chipsets with unrivaled AI, camera and multimedia features for powerful 5G experiences. The addition of the 6nm Dimensity 1200 and 1100 chipsets to MediaTek's 5G portfolio gives device makers a growing suite of options to design highly capable 5G smartphones with top of the line camera features,"
-publishedDateTime: 2021-01-20T07:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-1029984804"
-webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-1029984804"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-1029984804"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-1029984804"
+excerpt: "MediaTek today unveiled its new Dimensity 1200 and Dimensity 1100 5G smartphone chipsets with unrivaled AI, camera and multimedia features"
+publishedDateTime: 2021-01-20T07:20:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-301210345.html"
+webUrl: "https://www.prnewswire.com/news-releases/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences-301210345.html"
 type: article
-quality: 48
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1421818/MediaTek_Dimensity_1200_ChipKV.jpg?p=facebook"
+    width: 600
+    height: 314
+    isCached: true
 
 related:
   - title: "MediaTek’s Dimensity 1200 crunches 5G, AI, and image data at the edge"
@@ -39,6 +39,20 @@ related:
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/dimensity1211.jpg?w=1200&strip=all"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "MediaTek announces new 5G chips"
+    excerpt: "MediaTek said its new Dimensity 1200 and Dimensity 1100 chips for 5G smartphones sport new AI, camera and multimedia features."
+    publishedDateTime: 2021-01-20T17:36:00Z
+    webUrl: "https://www.lightreading.com/5g/mediatek-announces-new-5g-chips/d/d-id/766778"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
         height: 600
         isCached: true
   - title: "MediaTek’s new Dimensity 1100 and 1200 chips are here to take on the premium flagship segment"
@@ -65,6 +79,6 @@ related:
       domain: talkandroid.com
     quality: 1
 
-secured: "Drh/4QW7/wVidFP58zCnQ/JccVBesEtdVwXeMCgsE+XHgAxheW+MIQsN3NVnUvZPtUXi7EDC1X72JXKU/Lj/xNIRlKpJAVUBP2ZbAxDXZTnoKOmmbHU1EyO3rPNOuECY9V66oAX87lkSl5N6Hq1q1RD/5rtuR4yJq8tEmJrj/rUQWEsAkh5Qsv5c+1Huhha6mUry0ePCERKAnxM4x2EbXlJVSJYcch0dp0X1TNpK/SHO973WJU9BlA2YwHCygBiHQ8f4WO1b5R6v1fzrbqaoa7Zat438MMThI/UcI91XO+/sMSgJ0UMlq6LabqWhYp/DjsmHOH1ldBbwi6oe9tuAGMNPIevlVLYE/yyiHtrucLQ=;fw+Xawc2aqZvHc1EEgJlbg=="
+secured: "N9typ87qOZH3NnZniKWm4VdKjUoKIWSDdyISGlXN14OwEWW/PnUsp7dxfF0cw5LfzlM0ICZ+fqjWxB5MFLFhuqbi891vTinC97RaJ45yB0O6G3k9Z6o7YCQXYikNu2rofkaoNqY/ITCpdWqKFkt2cCj+zmnb/om/ubt4IDCq5zoNHQ62yojs+tMAw0aS+dDtrG/lMXOu7MNlfhFOjJOf+fk1+/L7pRw/zoVX7qThRm/3SJKcD3uGxbu6Bjc8HDoiVVOPxJ/V2vbM86ersFRBivonR8GkvtxPnGziVtgc7KzY4E5JpefEfuuhcHR5Kh4AIG7IyF9T2+y0YHuZWPuLLjIMx1qJ3hcb7Sk6G7tGebk=;RVN6DfmMUdlkdN5Wgd0Fsg=="
 ---
 

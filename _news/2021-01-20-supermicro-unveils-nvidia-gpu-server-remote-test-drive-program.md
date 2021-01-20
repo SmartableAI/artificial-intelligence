@@ -40,20 +40,17 @@ related:
         height: 315
         isCached: true
   - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
-    publishedDateTime: 2021-01-20T14:33:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
+    excerpt: "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,"
+    publishedDateTime: 2021-01-20T14:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
-secured: "1cg+2SujPU4YeiXah8yf5kDrVrEpqSBZrQkJdEdxMfwvNO52g9bJAM3CghThCF5jxLS7IMwX98GNekfCb3hY+v4ghFJ13fo4q2vGCRMH0C2Ft6HKyG/jqDcQnGV5DZZzWXpQbLpE5nI98Ja8KD1pBNfKlJ4baVyT4+JETFU0IZBag2uCjzhOSFzs+PgDCr5fSynF/hXTBKhX6CjVcM24Lh+yFGfP4V2UBNtVvu7WruzQ+TDePKallmqt4M++4MlIMuABF6TM+xTZMli3DB0UMh1Ctub+3Iw6XTz6zaMElH7PtbDMjmWR+NLuKjzpE7fTl6sJoGdg/2FMEW+oc75nl5aekPEb/8ZamncH9EivIrs=;kAgTb21iG+yC1M8YdesHZw=="
+secured: "dDe4MLCsi3DbATSRneeKzNsLqKfFM6PyMrn8wjFa8DwLbOMrC0nEOGd35eGlDmlh4v5gKxdtshfTw5x6LfA0juqXmVGc3AzaviuEcgAxXkM8hosuOfoEbg7G7gsS4szeefohq3jTZtnmRFjky4CILHbf1TbBJQTT/OSnpkk7IA3Y0NmBIIAj37Sq8zQNR/qL2cdSmx7sjaHhgllao0RumwWRX1NO5FsBTpii7fZLs7wQb+BfZsKcqCP9AfcyqqYV+Q3NrrBemfaGZFUuCeTqllclwk2TGq4LzRsOnw36Oq4U8+NUKiRWJthCjgmv7whnnLZf14D35y9cqa5nMYoN7YmZ4jTk8x8Z5IBR1TA+sBBzO9MyLV7Hdn2cUMmVID8tnAHPyFKAv79kbFsw/EFNRkxxBiGa847NA/zKRmuNqlI0Uj3lrWAC+4lOKXREliLy1KqpuyZdi/BRm0yFg/wfVSSzPqedX3vmOxgpYsEIBsNSuHBlMcevmgz3lDfTsFpjj98V/AtpyC0k1VTC1d3HxA==;mDtgFBCZZhDz6kJDHuIYYA=="
 ---
 

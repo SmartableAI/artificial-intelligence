@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Pardons Former Google Self-Driving Car Engineer Levandowski"
+title: "Trump pardons former Google self-driving car engineer Levandowski"
 excerpt: "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit."
-publishedDateTime: 2021-01-20T15:26:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski?context=amp"
+publishedDateTime: 2021-01-20T13:50:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM"
+webUrl: "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0JM"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0JM"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 74
+heat: 124
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548414698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09X"
+    width: 830
+    height: 545
+    isCached: true
 
 related:
   - title: "Trump pardons former Google self-driving car engineer Anthony Levandowski"
@@ -82,7 +88,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Trump Pardons Levandowski, Who Stole Self-Driving Truck Trade Secrets"
+    excerpt: "The self-driving truck entrepreneur who committed what one judge called the 'biggest trade secret crime I have ever seen” will avoid his 18-month prison sentence thanks to a last-minute pardon from President Trump."
+    publishedDateTime: 2021-01-20T16:50:00Z
+    webUrl: "https://www.truckinginfo.com/10135034/trump-pardons-levandowski-for-stealing-self-driving-truck-trade-secrets"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 24
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2021-01/anthony-levandowski-pronto-web-__-1200x630-s.jpg"
+        width: 788
+        height: 630
+        isCached: true
 
-secured: "AfoaOvjWk4dgAV2Jpva7buH3Zlsz6m/Q92lIoy8M06HHPdmenDnWJnITGm0txopPmRV11EQTPJILoWPWMSmhUIwo4U53Op8cCjeixcvWRKoEwNnPNOVkadnlG5BP6wz9z+CjzjRB3L2vJEIm1ECZj82XbR/xW72cx6GSVi1/rWa/oJm4Kb3fAIukPIN5XnBHDbs4ngNWMzt1V1R7hVeVQC09JzxTf4Jsw3a6dMgiCGwH8qYfAhT8cIMBY+d+Wp+WabhmAY6UuDrIaA0cVW96zVhpuiPBqqDR2It80e6GTrS9MP54Q2BxL5WnG++pMHhvKJnsRGJ79RTe5CdOj7iX/kIENTrrwyGTCMC1OaR1qYmFe7IG7ASMXIr11oWhfvzYuVysDXrfT4CH2BLzVDIwFROYqclj2Y2Rz8Xw8CKhWyecqsVssEtTwu7lOgM/4LlqAdU1EB65Sjzdb4quRVtBbwhJZF7K2ZbQTO1sK+NmtARUPoHEE9rcxSlGfOQNBbVxcRvznVFy/mFnUpHqkgrvUQ==;dAkjOX59/RkrSLNXHgBePg=="
+secured: "QdTYdiCS4w2h45qgOLYpcmXbWApIH2pg1m7+02fnGyJmU+yB0Y26erKh/kuS/9uafWchYGVxoT4ggfqpNKURJev/BL+IpvFEEvxsIZ4vODGcHl32/o7bY1k7buho+ciXIoWtnz9TaNVMdRYPpREV0qnk29Q9u8zeDQU5NhxDTKsqR+ar8U3b2/6FxqRu5433U6sW6LULsyhWlrCRWsauSCBzQTZCj9ssyboCI5Zz/Xl7gz5NQ0oh/BTbl/hJzVh/Jw/Pxfa1KatlgihX/BNFrfLgc9JDUurAecuaAqxTQVu6cgLJLMBDuy+Nqn097Pi70xEtZ+nD9vcS5usJrBJsA6J25f30CDud/tKS72LD7lE=;tnHF641RzonxvnxWXbgT8A=="
 ---
 
