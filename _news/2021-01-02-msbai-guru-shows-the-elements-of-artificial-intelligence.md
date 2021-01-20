@@ -1,26 +1,20 @@
 ---
 category: news
 title: "MSBAI GURU Shows the Elements of Artificial Intelligence"
-excerpt: "GURU by MSBAI present-day restricted Artificial Intelligence might be ... in 2009 Google demonstrated its self-driving Toyota Prius could finish more than 10 excursions of 100 miles each, showing ..."
-publishedDateTime: 2021-01-02T05:48:00Z
-originalUrl: "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence"
-webUrl: "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence"
+excerpt: "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing ... showing society away towards driverless vehicles. To win the show, Watson utilized regular language preparing and examination on huge storehouses of ..."
+publishedDateTime: 2021-01-02T06:03:00Z
+originalUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
+webUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Inter Press Service
+  domain: ipsnews.net
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2021-01/01/i_ea46ada3-8_Image_In_Body.jpg"
-    width: 744
-    height: 389
-    isCached: true
-
-secured: "yg+dlcAXbPmfs9diyixEpdwjcMHBQDe8A2FSXbKxrs8CxEYGdD90Qlq6VjctWmLx5sMyJHrjLZCSPkIXSQwHt4sWTcJmSIJxMcNtGvZKbwgE3pP/VlQnPdoZ0dbWa/OpUv/4gE6RR1HeWAuwXQdrDLmeUGXviEdE8hBqyrg5CuFIRVtSzs6A2RkWZFE+851KZOxujxDsAtxwEzOdzjE3jux9mV9t49Q6t0weFbwKLdnHwuBdr56d7dD5dHwfA+6JNd39KbgtLOOaIBhfY8zcpwivzx3pDU7gV6Tdzb3O4C7YypWkVmDutm5ylYlnW5ZpuvDueSm4YB8txnEkzAjpNzrSv8rsmLGy3Jw5sWdAVcg=;eq6YZ7+OmYsbLmGA2qyhQw=="
+secured: "KIAyQ8Ia43bF1N1JskIG1I/RuYA3sm3nj50in36zf99PKceX6GQxc8Gwu8qQ/5qFEX5FCfUpRjAoHs7pDGlfhjFHsmdnDce3BowxZV2NoiZeJsyuAeXnXy6/7qdE9J8uES/zB9SkAvIj+ScQRUVjjtZ4Scrh5/qMDwsDha7SIN9zsdiRHy5Xu3+XwmJNhTbyVkQMW3YQ5WnFoQb6QZtN/creJwI1+wN53Ke7O6DrRARmOfn4VrrsnHSajC4Oxb2vDZewwG09McHHYMOJUnwoaN6AW7dY85ty1w85gmHUJXvR3SR/87Nm59ARnjdCM9z0JVs0WLLDGD5VWaPx9my3BH6i4q7iFZFiFj1BVnaBM20=;yGqphJ1ZzQf90WtAsaDUvQ=="
 ---
 

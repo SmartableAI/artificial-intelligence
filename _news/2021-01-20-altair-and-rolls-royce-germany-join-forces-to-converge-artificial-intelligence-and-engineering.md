@@ -1,35 +1,20 @@
 ---
 category: news
 title: "Altair and Rolls-Royce Germany Join Forces to Converge Artificial Intelligence and Engineering"
-excerpt: "First-of-its-kind collaboration will drive transformative business value by reducing development time and costs, improving product performance and quality TROY, Mich., Jan."
-publishedDateTime: 2021-01-19T22:55:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19226917/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19226917/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19226917"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19226917"
+excerpt: "PRNewswire/ -- Altair, (Nasdaq: ALTR) a global technology company providing solutions in data analytics, simulation, and high-performance computing (HPC), today announced that is has signed a memo of understanding (MoU) with Rolls-Royce Germany to collaboratively connect artificial intelligence (AI) and engineering to derive business value across Rolls-Royce’s engineering,"
+publishedDateTime: 2021-01-20T06:12:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-europe-corporate-news-b0fb5c5dfabcfa26c3dd93456ccf9720"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-europe-corporate-news-b0fb5c5dfabcfa26c3dd93456ccf9720"
 type: article
-quality: 40
-heat: -1
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI Ethics
   - AI
 
-related:
-  - title: "Altair and Rolls-Royce Germany Join Forces to Converge Artificial Intelligence and Engineering"
-    excerpt: "Altair, a global technology company providing solutions in data analytics, simulation, and high-performance computing, today announced that is has signed a memo of understanding with Rolls- Royce Germany to collaboratively connect artificial intelligence and engineering to derive business value across Rolls-Royce's engineering,"
-    publishedDateTime: 2021-01-19T12:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
-
-secured: "SAEtKRXFE7CJsiNy+v6VMHhuw2uizfdC0CFD2wvXv+AekM0cSLp1KwHsn/Y3W68M8wLhVeW79tJekeKg11UP2DUuPHwiJt2pa63Xlgn5a2fKkgxj89QSjpZlveVcn71/Ar1WN3XLcjKt6RXO6eCFAuerQqGJZLiX15hr+T/ZSIzFD8S6VIabgraz7JaGDIjhhDG2dp9NAKXHIYghZ8PyqGngXad89QBoGQDcSBdspHNKcm/vSuv2W5FdV06kvUoJ1JQ79pT3AG58f0ytCcKxBxUMSYlhzna6vo6bQfVrQBxDth+Gh0u9h4asAs350Z0q1dwVH/2k0Y/ApCBd6A1FRsqehkB93xK/PegUs0PPtaw=;7oLsFsSAUvgpM/nIbmXpVA=="
+secured: "WQwiYq0WRe97dobj3t5GFxDLE6egTGkDsn7msjVovh3tCBzFPe5ltfSWlx5ZwnAjvStcp/3/WOH4FY9hVMo3mbkJ2CtDg01jw9Jx4rzSIdiowt4WQ8Jrumk+vedaS4q3HuRkMEEtJ0wxMTlYG02kT3vJ9hRZ+qlF+NgaC8mPccHggJVLdTsXzESMXx3E1RuY6awTgThzOTGzo4OK5L6+LijVP3rg4pC7xF4Y60BHK93MIarlSfyBtQByYIP2Oo9LSs6Pc0pUKcjucZszdYl4mrAV7KkHuGSZYpOxGr5idA9g1YxvulRdwXEM1G4xCfNtCYUjsrV7iQ9hwmgz4Hk7BZXHofio/7o9UN3FwCroZXQ=;xl/YHKmSOUOyuZWxeSBbmg=="
 ---
 

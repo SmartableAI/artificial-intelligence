@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-
-secured: "9n1ZYiy2Oqt1jXTzlEcOxl1ii8YhYmAtkIvcJu55TZwWcwyJHwueE62iLegVqtY7weyKNs8NuFLqXa6qDWgIW+WNK4LnfCr/7TrE+KzIyglfCU0oM/IKfB/OOsLMSKbzxiohLFbZCJRLJJ2dL3iYuqF+TnYIy+3GMMgUN0qs+7pCWaW3nO4hyodBK8Cyk/UMywGnUnAMMXkZDeOWoNWjy5wRGS5B4dT3ynmmLMAl1/iGg8TjhufKDX4o7/WgJAd/WXO/pBLoGyZBKnyQ21daxMrljllcxRo9kYts8615PfBj1iPlW6Bu7jNSnOnM1RrRe0VYxo0h++A6WTmWcLv0Oi8o0B8YQHlu0hRAysgwHIw=;wWBVKTFSNrsagI+jYt/LFA=="
+secured: "gxo5HY1itsDjUh6cIIsfpaAiEHdTLlHz2hC39EIR96gDT3jmLZI5Y2jFTSz8bY2x3nuPAB77SjV5QawuzG/gvC1J10IW+N6T8T1ahcXBdqZAZ2HrQnK6J/vzMnevGJl8kuzUNbAyIfbXWDYmfNGxGmQpQmq8UGm91cgldywl3K+zDFlTKKyZ2U4HMHvFqqWdPkLvERgyUPhk4mec1NsE9RiOMAVxXeVX6m+va0rSZafyo06h5MGIWHdAPxbKMTPnjjJzdZY35nRGc6MrZzoFo/WELQfSR/n04UwBwVu4HGlEeXaJEVkvN2anxkTFdZLGMCw3oG2R1og0U/OxZ2oR+pstPznm5nlqmffAr+14JDY=;J+p7djrhAIqKqTDI3sx8zA=="
 ---
 
