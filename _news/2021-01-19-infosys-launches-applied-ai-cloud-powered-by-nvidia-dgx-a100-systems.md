@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Infosys launches applied AI cloud powered by NVIDIA DGX A100 systems"
-excerpt: "As a service delivery partner in the NVIDIA Partner Network, Infosys will also be able to build NVIDIA DGX A100-powered, on-prem AI clouds for enterprises, providing access to cognitive services, lice"
-publishedDateTime: 2021-01-19T12:46:00Z
-originalUrl: "https://www.business-standard.com/article/news-cm/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011901150_1.html"
-webUrl: "https://www.business-standard.com/article/news-cm/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011901150_1.html"
-ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011901150_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011901150_1.html"
+excerpt: "Infosys announced the launch of an Infosys Cobalt offering - its applied AI cloud, built on NVIDIA DGXTM A100 systems, the universal system for all AI workloads, offering unprecedented compute density,"
+publishedDateTime: 2021-01-19T14:57:00Z
+originalUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html"
+webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
+    isCached: true
 
 related:
   - title: "Infosys Launches Applied AI Cloud 'Cobalt Offering'"
@@ -56,6 +62,6 @@ related:
       domain: equitybulls.com
     quality: 19
 
-secured: "Bd5rhb1jtjFkrFK9wYXkmQo2lNI8RltWaOv9BX+/LEOp6+Oud2QiVYc9sZZDoXeLNrPhGzbmWqZM+aVhLUdC98WlSQ+fAGyZTy4awk2wftBCwHXgx0IAKk3gehjy3N3l2AqFPwZ1k0P67BJYUws2haRV/qR178ESVYyrehcObsdat7WqZuWsSG4ax5k1mYopazEUR+QOlarTkypHzCqQd6ChbnBzvXc2XK+hC4xur3ONjB7sGdGUa/gpMr1lIhwMZ/fmSzh9awmRlp+VilS7O34ZkTZABmLAupmdtlQl7I8OmDLH2pvlwQpUaE9tx2v0uXb2hjvG3ZO4jvlA5hoOUTdvapOpQdqPPcXdYfasPwk=;j90MzjFHGcI0IBo1vaNaMw=="
+secured: "DovWDsnJG+IX/BEusFbBVt2/LdNLIItuYhUSUkB8rMxHGYTQ+sQ+++7Mc3XILJDleZyVWkYBRqSjPkVMbROQxzZd2hwzsotBUIg9ha5P2pWvHbdlMwoHcRUloXTG9zv40pSDVSTbhniRltmcm6z46llwI/eN1qSV9HGmFyZwwO23Ch5jU/S/QBBlfwYBxGpeN6TniN2mnoaxEKJ1JnWEP2J8LP+RRyy673rgp7ySxLQICG6lBBvEWGhoitDlcWf8Inofw5mbTR/YpGIKvBlc+2zFyl6Fwwwijanq90OQgcl/JN9cxlxppSfzu3vZdQAUdtTpJ7qYnZfhOFkHzZW1WPcQxiUTkX0AY6tI1SjJzTo=;ARzEibq5MppPlV1WPyYWKA=="
 ---
 

@@ -38,20 +38,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
-  - title: "Five Predictions for the use of AI in Fintech"
-    excerpt: "Inevitably, AI and machine learning, and a focus on harnessing data, will be key to bolstering business  strategies and enabling new areas of growth. There are, however, immediate challenges that must be overcome following the disruption brought about by the coronavirus crisis,"
-    publishedDateTime: 2021-01-15T10:51:00Z
-    webUrl: "https://www.finextra.com/the-long-read/96/five-predictions-for-the-use-of-ai-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/96.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Fintech Apps that Made the Grade Amidst the Pandemic"
     excerpt: "As people stayed in the safety of their homes for weeks and months on end, we needed to alter our daily routines and use technology more than ever. From Zoom meetings and food deliveries to online sho"
     publishedDateTime: 2021-01-15T11:02:00Z

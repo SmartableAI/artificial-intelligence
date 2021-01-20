@@ -1,29 +1,27 @@
 ---
 category: news
 title: "How to train a robot (using AI and supercomputers)"
-excerpt: "Computer scientists from UT Arlington developed a deep learning method to create realistic objects for virtual environments that can be used to train robots. The researchers used TACC's Maverick2 supercomputer to train the generative adversarial network."
-publishedDateTime: 2021-01-19T21:40:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/uota-htt011921.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uota-htt011921.php"
+excerpt: "Computer scientists developed a deep learning method to create realistic objects for virtual environments that can be used to train robots. The researchers used TACC's Maverick2 supercomputer to train the generative adversarial network."
+publishedDateTime: 2021-01-20T01:36:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/01/210119194329.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/01/210119194329.htm"
 type: article
-quality: 54
-heat: 54
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/253955_web.jpg"
-    width: 720
-    height: 958
-    isCached: true
-
-secured: "syxOhDRF6FChKN3FHJdvU8KOAcC6uke9di9ATeVWi9mifUXK6gKJaCj2MxMOD1kcWRAFQCEYxJZgwYYAxBewQxLZev04XLkKRiLvIcNswI18s2HgjuL9YsyFuI1UaPCdFoszO0OO0Fodo5CtjC8d6moHRc5ms64junBckAil3qn/Xe/XhBp6PsleTe37CVzIAGHl0aRI5ltK9G4U0boJw8tzRFAokkQaEyB5FkZqT7No+H+OSPvOat8Z6kJLybe8qFJt/00/EALNvbzwcpf/NkaZKzoPYsX8sfwaIX0AkPnqwzF8Ppd6/as2m91y51Asbg+WeytUlYtOq8v9V9Nfch4Qz9l/Uo0UbYb9dIY1F3xceL70JoxEUD88LibsOW8NuVE1u4Hcp2vWm7fvRaFLzTB39w54Dw/RNt6mkhdi6t9swCMkireN/o1dwql1+q22LsK8SoauW8nDAxboSIlZhgL3VaGpc8SF0JXg8LpFP5OwVklDgIgI5lzquQUwgddngMJXkl5zglPQ785iYElrUQ==;mNMFNiLrhP0M7HntVNAYgw=="
+secured: "7i39w+uD2B9LtLmUNwR3EKluBKVS8PTwzwW5WurBGkgZ31ifDe9Q7Vib9+vLe0OEYmowbAVQoK5eVa5j/GViIqGAIi5B/xXzFhMHsgVL7muylr1kQX199zOkObsoBcjgGxEay3cwVzC5Zm5F6PEW6rNvvS65prN0zHorx7iQ28eTAxgpviDNdiERKt0HwggmRNOGd076CvYzEaITHFhy54z3M+sbj5A0ZUSuGJRiOcFgfZorIRftAQ7p0RG7N9QQezJyVBAFst0AB0rOzFsjIaaINS87EpdSM74n04hRdsVcbpAgQd01EZK4dbqBauGjFZNpNpmCHbfddLTSZXYy+QKWSu1xXWo0+07mjNAOCWo=;5m4jzAyip56QBEWGyVaVcg=="
 ---
 

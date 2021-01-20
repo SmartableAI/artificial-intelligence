@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft president begs tech industry to improve its ethics"
-    excerpt: "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past."
-    publishedDateTime: 2021-01-15T09:23:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 106
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "GM’s Cruise self-driving startup raises $2 billion led by Microsoft"
     excerpt: "GM announced that Cruise, its self-driving startup, has raised a new $2 billion financing round led by Microsoft. The software giant is putting some skin in the self-driving game. GM Cruise Unlike other automakers having their automated driving divisions,"
     publishedDateTime: 2021-01-19T14:39:00Z
@@ -184,6 +168,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fugue announces new capabilities for managed container services by Amazon Web Services and Microsoft Azure"
+    excerpt: "Fugue, the company putting engineers in command of cloud security and compliance, announces new capabilities for bringing public cloud container resources into compliance and ensuring the"
+    publishedDateTime: 2021-01-19T09:58:00Z
+    webUrl: "https://www.sourcesecurity.com/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 88
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/fugue-cloud-infrastructure-920x533.png"
+        width: 612
+        height: 355
+        isCached: true
   - title: "Microsoft wants to listen to your voice recordings - but will ask for permission first"
     excerpt: "Microsoft has confirmed some important changes to how it processes voice recordings. From now on, users of the company’s voice-enabled services like Cortana can decide whether their audio recordings are stored and analyzed by the company to improve speech recognition or not."
     publishedDateTime: 2021-01-19T16:01:00Z
@@ -248,10 +248,40 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Self-driving startup Aurora partners with heavy truck company Paccar"
+    excerpt: "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday."
+    publishedDateTime: 2021-01-20T00:38:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
+    publishedDateTime: 2021-01-19T14:19:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/dunnhumby-extends-machine-learning-automation-tool-built-on-microsoft-azure/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 71
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
-    publishedDateTime: 2021-01-19T19:11:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO?edition-redirect=in"
+    publishedDateTime: 2021-01-20T00:25:00Z
+    webUrl: "https://www.reuters.com/article/gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSL4N2JU2W4"
     type: article
     provider:
       name: Reuters
@@ -273,10 +303,24 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 71
+  - title: "Microsoft Teaming With GM to Bring Driverless Cars Into ‘Mainstream’"
+    excerpt: "Microsoft is throwing the dice and betting that General Motors’ driverless car and electric vehicles technology will soon be “mainstream.” In an announcement Tuesday, the software giant said it’s teaming up with GM and its self-driving car subsidiary Cruise to speed up the commercialization of autonomous cars,"
+    publishedDateTime: 2021-01-19T21:35:00Z
+    webUrl: "https://www.kabc.com/news/microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream/"
+    type: article
+    provider:
+      name: KABC
+      domain: kabc.com
+    quality: 71
+    images:
+      - url: "https://www.newsmax.com/Newsmax/files/d4/d482a16e-94a4-49ca-a7ed-6592d675f779.jpg"
+        width: 600
+        height: 500
+        isCached: true
   - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
     publishedDateTime: 2021-01-19T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO"
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO"
     type: article
     provider:
       name: Reuters
@@ -443,6 +487,36 @@ related:
         width: 651
         height: 366
         isCached: true
+  - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
+    excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
+    publishedDateTime: 2021-01-19T16:08:00Z
+    webUrl: "https://www.barrons.com/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
+    ampWebUrl: "https://www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-287033/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Those Hacked Source Code Breaches At Microsoft, Nissan, Mercedes Are Ominous Lessons For Self-Driving Cars"
+    excerpt: "A recent spate of source code breaches provides important cybersecurity lessons for those developing AI driving systems and self-driving cars."
+    publishedDateTime: 2021-01-17T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/17/those-hacked-source-code-breaches-at-microsoft-nissan-mercedes-are-ominous-lessons-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 53
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60021aa0b1ac699a3bd4deec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4708%26cropY1%3D239%26cropY2%3D2888"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft collaborates with Yellow Messenger to transform voice virtual assistants"
     excerpt: "Yellow Messenger has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services and NLP tools."
     publishedDateTime: 2021-01-19T13:41:00Z
@@ -459,6 +533,15 @@ related:
         width: 850
         height: 460
         isCached: true
+  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
+    publishedDateTime: 2021-01-19T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 49
   - title: "GM Teams Up Wtih Microsoft On Cruise Self-driving Vehicle"
     excerpt: "General Motors announced Tuesday it is joining forces with Microsoft on its Cruise autonomous driving venture, with the tech giant coming on board as an investor and technology partner as it pushes to commercialize self-driving technology."
     publishedDateTime: 2021-01-19T14:10:00Z
@@ -487,20 +570,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Give Users of Cortana Control Over Voice Recording Access"
-    excerpt: "Microsoft says users of Cortana and other voice-enabled service can now opt in or out of allowing the company to accessing audio recordings."
-    publishedDateTime: 2021-01-19T15:20:00Z
-    webUrl: "https://winbuzzer.com/2021/01/19/microsoft-give-users-of-cortana-control-over-voice-recording-access-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 41
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/09/hi-im-cortana-resized.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GM joins with Microsoft to speed up self-driving cars"
     excerpt: "General Motors and Microsoft are joining forces to accelerate the development of self-driving vehicles.America’s largest carmaker and one of the world’s leading technology companies will lead a $2"
     publishedDateTime: 2021-01-20T00:01:00Z
@@ -514,6 +583,20 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1e6c8afc-5a8d-11eb-86f4-4fa0aa4e7fd3.jpg?crop=5079%2C2857%2C0%2C265&resize=685"
         width: 685
         height: 385
+        isCached: true
+  - title: "Cruise, GM partner with Microsoft to commercialise self-driving vehicles"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize"
+    publishedDateTime: 2021-01-19T14:30:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/cruise-gm-partner-with-microsoft-to-commercialise-self-driving-13994822"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 40
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13994818/16x9/991/557/190d297206f03536d799cd76e571acde/GI/a-self-driving-gm-bolt-ev-is-seen-during-a-media-event-where-cruise--gm-s-autonomous-car-unit--showed-off-its-self-driving-cars-in-san-francisco-2.jpg"
+        width: 991
+        height: 557
         isCached: true
   - title: "GM, Cruise and Microsoft Partner for Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their software and hardware engineering excellence,"
@@ -540,20 +623,6 @@ related:
     quality: 39
     images:
       - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2021/01/cruise_av_ev_gm_in_san_francisco.60071884067b7.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
-    excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"
-    publishedDateTime: 2021-01-15T17:37:00Z
-    webUrl: "https://elmoudjaweb.com/microsofts-new-settings-let-users-contribute-recordings-to-improve-its-speech-recognition-systems-jaweb/"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 38
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Microsofts-new-settings-let-users-contribute-recordings-to-improve-its.jpg"
         width: 1200
         height: 600
         isCached: true

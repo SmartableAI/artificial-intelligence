@@ -35,20 +35,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Driverless Cars Demand Air-Tight Cybersecurity"
-    excerpt: "As autonomous vehicles develop, next-gen cybersecurity defenses are needed. Here’s how Kaspersky and AVL SFR are leading the way."
-    publishedDateTime: 2021-01-15T09:52:00Z
-    webUrl: "https://www.csoonline.com/article/3603580/driverless-cars-demand-air-tight-cybersecurity.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 54
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/01/istock-1079995912-100873810-large.jpg"
-        width: 1200
-        height: 739
-        isCached: true
   - title: "Artificial Intelligence likely to replace humans in cybersecurity space by 2030"
     excerpt: "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools."
     publishedDateTime: 2021-01-17T17:06:00Z
@@ -64,6 +50,20 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2021-01/3b2dd1c1-ba9f-430b-98c0-bd68bdfa8c0c/etc_lead_jan_17.jpg"
         width: 760
         height: 507
+        isCached: true
+  - title: "Using Artificial Intelligence to Counter Cybersecurity Threats for Drones"
+    excerpt: "Drones can now be equipped with cybersecurity powered by artificial intelligence (AI). SparkCognition and SkyGrid announced a new partnership to protect drones from zero-day attacks by installing an airspace management system that relies on AI instead of signatures of known threats to detect malicious actors,"
+    publishedDateTime: 2021-01-20T01:28:00Z
+    webUrl: "https://www.aviationtoday.com/2021/01/19/using-artificial-intelligence-counter-cybersecurity-threats-drones/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 36
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/01/deeparmor-image-3.png"
+        width: 1196
+        height: 673
         isCached: true
   - title: "SparkCognition and SkyGrid Deploy First AI-Powered Cybersecurity System on Drones"
     excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company, today announced a new collaboration to deploy AI-powered cybersecurity directly on drones,"

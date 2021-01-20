@@ -1,29 +1,40 @@
 ---
 category: news
-title: "AI set to replace humans in cybersecurity by 2030, says Trend Micro"
-excerpt: "Trend Micro predicts that cybercriminals will look to home networks as a critical launch pad to compromising corporate IT and IoT networks."
-publishedDateTime: 2021-01-15T11:27:00Z
-originalUrl: "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
-webUrl: "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
+title: "Using Artificial Intelligence to Counter Cybersecurity Threats for Drones"
+excerpt: "Drones can now be equipped with cybersecurity powered by artificial intelligence (AI). SparkCognition and SkyGrid announced a new partnership to protect drones from zero-day attacks by installing an airspace management system that relies on AI instead of signatures of known threats to detect malicious actors,"
+publishedDateTime: 2021-01-20T01:28:00Z
+originalUrl: "https://www.aviationtoday.com/2021/01/19/using-artificial-intelligence-counter-cybersecurity-threats-drones/"
+webUrl: "https://www.aviationtoday.com/2021/01/19/using-artificial-intelligence-counter-cybersecurity-threats-drones/"
 type: article
-quality: 67
-heat: 107
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Aviation Today
+  domain: aviationtoday.com
 
 topics:
   - AI
 
+images:
+  - url: "https://www.aviationtoday.com/wp-content/uploads/2021/01/deeparmor-image-3.png"
+    width: 1196
+    height: 673
+    isCached: true
+
 related:
+  - title: "AI set to replace humans in cybersecurity by 2030, says Trend Micro"
+    excerpt: "Trend Micro predicts that cybercriminals will look to home networks as a critical launch pad to compromising corporate IT and IoT networks."
+    publishedDateTime: 2021-01-15T11:27:00Z
+    webUrl: "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "Artificial Intelligence likely to replace humans in cybersecurity space by 2030"
     excerpt: "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools."
     publishedDateTime: 2021-01-17T17:06:00Z
@@ -54,20 +65,6 @@ related:
         width: 1280
         height: 686
         isCached: true
-  - title: "Using Artificial Intelligence to Counter Cybersecurity Threats for Drones"
-    excerpt: "Drones can now be equipped with cybersecurity powered by artificial intelligence (AI). SparkCognition and SkyGrid announced a new partnership to protect drones from zero-day attacks by installing an airspace management system that relies on AI instead of signatures of known threats to detect malicious actors,"
-    publishedDateTime: 2021-01-20T01:28:00Z
-    webUrl: "https://www.aviationtoday.com/2021/01/19/using-artificial-intelligence-counter-cybersecurity-threats-drones/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 36
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/01/deeparmor-image-3.png"
-        width: 1196
-        height: 673
-        isCached: true
   - title: "SparkCognition and SkyGrid Deploy First AI-Powered Cybersecurity System on Drones"
     excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company, today announced a new collaboration to deploy AI-powered cybersecurity directly on drones,"
     publishedDateTime: 2021-01-19T06:20:00Z
@@ -83,6 +80,6 @@ related:
         height: 480
         isCached: true
 
-secured: "UKCHmIMxF6mWC0IuQVHCcfiZR0SHobWwG+6SYzpm1IE07VM0woUiiYX/eKu9aMra4Hq79p7fvzUyQFsBmsmzotB6iA2GlsR51H3dTdZbmvi3pi09dN8jzEvBYDuOGucnAIVE/ufwWy0cwpZLlS9p2M/RFsoytqjKobbxL14rUvT/r7EjX6IxsDkQswQ6w5pZ83MeREz4hINIhq8ac8niFHf6Xux8kz7dalSM1pe6MmfQjZsqi23sgPPZHiSVGfdOJFQxjUgnJRLGIlwdDhRZ0IfPmV16QIKabhCUUswXcO/2N7PGepRkAqasxJVcMSJZcEfUq1LKlh+4OTbZVSPG+9m+Sg6aYGbpK4BGCdR5W/QypgZrQzeqNR8bDIToOY07V94I6ispBpYwx4G9Easl0LEDAjO9cLPnr5mZXxL1xEsedFqRyO4AzIg4wPvBS3S+Ys9RrYfYAdh2zN0/He0g0Q3qttspxP6XCiNBlBnq0QGsVXSJPECGIsRia1XjUOOsiyHnHvYgRutgORfIJ/RO/Q==;RbXsa+gG/1GLgJFUoSJnBA=="
+secured: "+ZfrYVc8dk8O7W9ZK5u8sCCvKMCGffL5pcKnpLp6n3gLXms8733+Yz7wQ6yfJOVGWQI7/owZdUrDyDVfBlNCLeJ35VZ8ycZjcvoki5EWHkqE7Ro/u8RS0EXth2nz6XA4QjA6r1seAZ04xhDfC5e1K6/b+z+7/XKgw6YJFHwChMlxv71qRQ/CvTxSpCSzkmoilDv0tN9X8f0miNl7UFfmGQVG9Wz82Qzgu7z7Nf1/bbSBPb50rmPN7o9rN4WGfdtQzSfg/A4uwDehJZ2cM0YyplpdQeWg3QbYPXc9m0NxjPHijHgkavpB5hmt2fI9vp05LXEfmpPlmS6NXz7OJ2dkb4arBuCzh9y0quO9FhsnJQo=;SkGjlQnFThNo7SLx4O8gMg=="
 ---
 

@@ -18,6 +18,17 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Nanotronics Unveils nTelligence, Its Fourth Generation of Artificial Intelligence Software"
+    excerpt: "Nanotronics, developer of the world’s most advanced robotic industrial microscope that combines AI, automation, and sophisticated imaging for industri"
+    publishedDateTime: 2021-01-20T01:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210119006066/en/Nanotronics-Unveils-nTelligence-Its-Fourth-Generation-of-Artificial-Intelligence-Software"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+
 secured: "q66+vMz4AZljJ67EaZ3j4jVVMJh+uR+ON7zbGetCt4tFaIN3J4LbRsHUWWThIp9wo0wOJ1s4F4FasDPcXjyx22kN54RZKvW2JxY93B8Qucbb2rf2jQ4rnQfhJkjIFZVBHCdrkqSSv7c46ggeTjTLLsFjiDfHLHkKxE6zQm0naSwVHt462+sLfa0IngLVpi2FJPYisKS6BcRpdMdpQSJa9Lp2vzMGRuKFrkpZ6N0lruXWBVWnTPxfNxvM9HJiSjRwUGzGXzStLwtjhG26GpgHW72AjamqhMpttSleNZ/wEd97RRaQliTKc7XjkeyiwD38KtaUSVK5qwuvlkhJQ6VDl82irPkMiT+j+C3aE3dnCgQ=;1yO4FyK9boQXo4Xj74xkdQ=="
 ---
 

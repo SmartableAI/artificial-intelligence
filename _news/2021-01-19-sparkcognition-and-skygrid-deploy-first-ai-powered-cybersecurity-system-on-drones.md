@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Driverless Cars Demand Air-Tight Cybersecurity"
-    excerpt: "As autonomous vehicles develop, next-gen cybersecurity defenses are needed. Here’s how Kaspersky and AVL SFR are leading the way."
-    publishedDateTime: 2021-01-15T09:52:00Z
-    webUrl: "https://www.csoonline.com/article/3603580/driverless-cars-demand-air-tight-cybersecurity.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 54
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/01/istock-1079995912-100873810-large.jpg"
-        width: 1200
-        height: 739
-        isCached: true
   - title: "Artificial Intelligence likely to replace humans in cybersecurity space by 2030"
     excerpt: "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools."
     publishedDateTime: 2021-01-17T17:06:00Z
@@ -79,6 +65,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/01/19074709/deeparmor-gui.jpg"
         width: 1280
         height: 686
+        isCached: true
+  - title: "Using Artificial Intelligence to Counter Cybersecurity Threats for Drones"
+    excerpt: "Drones can now be equipped with cybersecurity powered by artificial intelligence (AI). SparkCognition and SkyGrid announced a new partnership to protect drones from zero-day attacks by installing an airspace management system that relies on AI instead of signatures of known threats to detect malicious actors,"
+    publishedDateTime: 2021-01-20T01:28:00Z
+    webUrl: "https://www.aviationtoday.com/2021/01/19/using-artificial-intelligence-counter-cybersecurity-threats-drones/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 36
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/01/deeparmor-image-3.png"
+        width: 1196
+        height: 673
         isCached: true
 
 secured: "tPZoxpTWk4DCkFz+aEQFP/lAFO56Qj4i0nLPmSIFlVKFxkPd8jwER4zYhVMsTjcbdXtYCazP8XGvL4BVXW0O8FGtibbrxNLoDa29bVaVJEEmF2uVVfXmsjEc3RVw+bcl4FZ3TYyj3XhVXCzjDgGPpHt5J75hN8R/gH8smQ9ikenqb2E/kUa006IlyrwBU63yc/XL1TB3DffiJRsnl0Y9tXlGSuFTKyPD0yGufuSsExoZvCqOxFprmxVxukw915UTx2ZIfgNrhS3HhH4Op22k/Knckc9M8J2FyTShe9dosz6AZeoRfFyzROBNmI6V/WZdVm1AD88bJnhO/dA9G+YZyE5RFO9rhgx2mC4oG9RN33o=;qiQpx8h6dXKVzhgzgnQ5AQ=="

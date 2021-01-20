@@ -235,49 +235,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-space-robotics-market-predicted-to-grow-to-57-billion-by-2027.md",
-      "title": "Space robotics market predicted to grow to $5.7 billion by 2027",
-      "excerpt": "The global space robotics market size is expected to reach $5.71 billion by 2027, registering a compound annual growth rate of 5.2 percent from 2020 to 2027, according to a new report by Grand",
-      "sourceUrl": null,
-      "webUrl": "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/",
-      "originalUrl": "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/nasa-valkyrie-robot-4_0-2.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics & Automation News",
-        "domain": "roboticsandautomationnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-hyundai-robotics-advancing-predictive-maintenance-with-ai.md",
       "title": "Hyundai Robotics: advancing predictive maintenance with AI",
       "excerpt": "Discover how Hyundai Robotics is advancing predictive maintenance alongside MakinaRocks with AI-based anomaly detection In partnership with MakinaRocks, Hyundai Robotics - following the signing of a memorandum of understanding (MOU) - will work together to advance AI-based industrial robot anomaly detection for robot arms.",
@@ -1389,6 +1346,58 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023.md",
+      "title": "Artificial Intelligence Robots Market 2021 with Strategies to Boost Growth, Manufactures, Types, Applications, Status and Outlook to 2023",
+      "excerpt": "Comserve Inc. / -- While AI robots have been a technical masterstroke, different innovations have been attributed to disparate players, leading to a diverse set of standards The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023-2021-01-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023-2021-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

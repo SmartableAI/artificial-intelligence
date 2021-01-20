@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-driving startup Aurora partners with heavy truck company Paccar"
-    excerpt: "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday."
-    publishedDateTime: 2021-01-20T00:38:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "UoLcy/Z32hnTaOWJhRs1vyKblvHN2sWaa8z0wwGLBCWrTCe58T4IIfo+0frbY9soz8ZDH4Qt/36Qe65wixFM1PzGCuKiK8fdFk4XscG8hdsH2nyhlGWWEp+YfRihJXF6dKWQ8gs7KA2YkZBWtB4VdpFvvqhcae04RS0lnfPjUuyyr/wq65KSSkLfmhHTlnOemQF0+ZOUHEJAMyTvqx/5xQYe8u6EWU5CflcYdD6KsrNxertWppFUjbY/rvoM2oqSfC/zp3OJHqEyDRRXOhUEox2yrLGerLypFhWtw6YFSmuZ5M5h3btdqfMvXDSLa49QNuEt2QGwM1bs1AXARfW0xdzygWao1dZ/odEWHKWQcoKCTpj6Fs8LOl8WexBVjDpfyOGMjaLR5E2jnEMZ5qL8ESHgfLIKWeZGT2OaROithg4vVuPz7dg4W4hpzSYwMU2K8VzqSdPBL7QIDA2THYFGhU/KFp/Jc4PHlQu1UxvOjfTwWn5HY/5MuX343GDIcO10PGPtRoktJm9iCFK1QQ1kJQ==;FNRmqg+9aZLVKTVpPbgZKg=="
 ---

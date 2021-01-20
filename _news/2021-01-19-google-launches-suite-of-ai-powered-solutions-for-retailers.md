@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-power
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/"
 type: article
 quality: 89
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/online-2900303_1280.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Top Five Artificial Intelligence Predictions For 2021"
-    excerpt: "Here are five predictions on what we should expect to see in AI in 2021: Something’s going to give around AI governance. Though regulation hasn’t reached a boiling point yet, AI governance will continue to be a hot topic in 2021."
-    publishedDateTime: 2021-01-15T09:51:00Z
-    webUrl: "https://analyticsindiamag.com/top-five-artificial-intelligence-predictions-for-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Top-Five-Artificial-Intelligence-Predictions-For-2021.jpg"
-        width: 960
-        height: 640
         isCached: true
   - title: "Walser involved in launch of AI-driven solution designed for 30-minute vehicle delivery"
     excerpt: "Walser Automotive Group, in partnership with PICO Venture Partners, announced the launch of a cloud-based predictive finance management system fueled by artificial intelligence that’s designed to cut the delivery process down from an average of three hours to 30 minutes."

@@ -7,7 +7,7 @@ originalUrl: "https://www.allaboutcircuits.com/news/2021-national-defense-author
 webUrl: "https://www.allaboutcircuits.com/news/2021-national-defense-authorization-act-zeroes-ai-development/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "When AI has an overactive imagination"
-    excerpt: "An overactive imagination can sometimes make us see things that are not really there. Now it seems artificial intelligence can have one too. Google researcher Alex Mordvintsev decided to develop this idea and turn the concept into art."
-    publishedDateTime: 2021-01-15T10:55:00Z
-    webUrl: "https://www.bbc.com/reel/video/p093h7hr/what-happens-when-ai-has-an-overactive-imagination-"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/1376x774/p093xfx4.jpg"
-        width: 1376
-        height: 774
-        isCached: true
-
-secured: "nqxV+/3qxu4+lSNdramKkjlFbz5DVSqEkKUgjzoxvP338kDhLXUb1XmLQqm6bpiitVynouFwx40VxAQDp2lWb0IVVbVLu6i67sKpuHXtJh+qLbX/t9K43lTUKsuSx9uWSqjcA4LYGE3b6pdfYNNWOlR9uuWdtWERtPC0ibzEh1o0N7aqftKca/db7IvwDPR+AUuoeS4dA1YUuo+ps2xvTE6YERS5lhbcR/lBHj/UzyUywByyxxbP1YG5HcedXDGX/Nfh8CUYzru/pAYoWAEqWR6H8UstHQDN55iZnRNPDj4BzNAIo34gVcpccnXNBuO/oqXPw9wTXe7lQjImDdI5FW50VhoHxru1buQ2vrH9k0I=;VBwigMFzb9RR2Nj15BEiNg=="
+secured: "V5Oj2rV4juhfBLWFDIKRjxsPgj3aXnJ+FT0R9LK/YW7wwEzS1DQ7Nnx6BY0UYO0b1F4/8eM6eRppjUGp+GVdIB0k0Zkoe+tmpEeWaix1Dntglhj0q82dGCubXqs4HdtaSO1f81byiozw8wGp2jZJxC4xHUScSQ1iPhdyNIVuKRBrr75JELt4S8uVkmyEI75C8xOynVUfBXOingESttrXt1ZcQerrE2egb1ybJgkl2V+YpP2SOtNOiRcnB4cAPFYq1seWvHNBF4z0HYgP4txFZ9lmpYb5mcd4X7tDANBp6gtXzD7YcPqp9jvevkMy4HeplTs290cm27pm7xPV3Mmv7pQ8YiiGVHS1THIl5TEt5n9SoIUjbrQuyFDzFKAX7G/oDwymgZ1z27BRqeGlrc5WUtCwM6RQIlx2fQrDr0woV2DxJYsDP4GZudogJ7qARM2EYsz5I50EjoVidAKNxqx36Ocnc3m2WL7s8lBjCY3BysHYqrJXZd56eNaQ+a9ekgJAS4nqr0pmyyQkpKeUlLLsbw==;I2Zf7sqqd83XEIdI+0c5TQ=="
 ---
 

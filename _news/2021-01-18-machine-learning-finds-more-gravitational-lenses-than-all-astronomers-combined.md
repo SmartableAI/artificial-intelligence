@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-lear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 699
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Has Discovered 1,210 New Gravitational Lenses"
-    excerpt: "Massive objects distort space-time, and some can warp it to such a degree where the light of distant background galaxies is turned into large magnified arc"
-    publishedDateTime: 2021-01-15T10:43:00Z
-    webUrl: "https://www.iflscience.com/space/artificial-intelligence-has-discovered-1210-new-gravitational-lenses/"
-    ampWebUrl: "https://amp.iflscience.com/space/artificial-intelligence-has-discovered-1210-new-gravitational-lenses/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/space/artificial-intelligence-has-discovered-1210-new-gravitational-lenses/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 57
-    images:
-      - url: "https://cdn.iflscience.com/images/b2683a16-3f58-5cc2-9b4e-cb1b4580f576/default-1610645181-cover-image.jpg"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "WyydnyN27mO3SDhEhSuqmw+9s6h65xHOqvcOuptdOQypfQ2sYl1Ba+LUEPvoYQLySF85UVtaUoLhaq+Of336h1O6LwgaNdxnT3HeZKUyhrn+/sfN7sB4H+2JgSqybqJVhZ49gmp5QyLxKheyLk1Zm2hXL5Alc0EeYvRJurmwu5+xYG14fyX2xgpa8CFfm1SdOJGDg7SVtDPk5vbaYQ1vleL3nTx4AU3/qjVpX+nCzLAI3b1OQkJyNalRQIWuV0EfusOnTZSPG/feEiVspDjS4vtJD23DXiJL8RyTK+/OVRYhplygiCOu0EA58INO5ylw1cTICjPj1RxOy857Ql4T0g3ScgK6NEuBrGDDrHdkIRsgYBiGZDORRqzpXt+R87QIOhuzdIsh9oMujk39b99Azu10er1hk2ist5ZUMnJ8n3zIv7J6W8ctsW+hMS7tmdAdfdB5xu4g4IbLfR7uCAyYfwvB1yhdr0MROz+ufciDe53JoTonaAETujcmR+HaUcBAzDVKLFeqEzi8QFzLPd4Pqg==;Ktf2F3pwIPRKJgryv/+8YQ=="
 ---

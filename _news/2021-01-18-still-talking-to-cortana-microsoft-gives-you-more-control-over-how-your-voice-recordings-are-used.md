@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/still-talking-to-cortana-mi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: ZDNet
@@ -32,117 +32,33 @@ images:
     isCached: true
 
 related:
-  - title: "Fugue announces new capabilities for managed container services by Amazon Web Services and Microsoft Azure"
-    excerpt: "Fugue, the company putting engineers in command of cloud security and compliance, announces new capabilities for bringing public cloud container resources into compliance and ensuring the"
-    publishedDateTime: 2021-01-19T09:58:00Z
-    webUrl: "https://www.sourcesecurity.com/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
+  - title: "Microsoft Give Users of Cortana Control Over Voice Recording Access"
+    excerpt: "Microsoft says users of Cortana and other voice-enabled service can now opt in or out of allowing the company to accessing audio recordings."
+    publishedDateTime: 2021-01-19T15:20:00Z
+    webUrl: "https://winbuzzer.com/2021/01/19/microsoft-give-users-of-cortana-control-over-voice-recording-access-xcxwbn/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 88
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 41
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/fugue-cloud-infrastructure-920x533.png"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
-    excerpt: "Powered by Microsoft Azure, Indian Railway Catering and Tourism Corporation’s (IRCTC) AI-powered chatbot AskDISHA has helped improve satisfaction of customer interactions by 70%."
-    publishedDateTime: 2021-01-17T04:46:00Z
-    webUrl: "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/"
-    ampWebUrl: "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 72
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
-    publishedDateTime: 2021-01-19T23:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
-    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
-    publishedDateTime: 2021-01-19T15:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-  - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
-    excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
-    publishedDateTime: 2021-01-19T16:08:00Z
-    webUrl: "https://www.barrons.com/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
-    ampWebUrl: "https://www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-287033/social"
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/09/hi-im-cortana-resized.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Those Hacked Source Code Breaches At Microsoft, Nissan, Mercedes Are Ominous Lessons For Self-Driving Cars"
-    excerpt: "A recent spate of source code breaches provides important cybersecurity lessons for those developing AI driving systems and self-driving cars."
-    publishedDateTime: 2021-01-17T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/17/those-hacked-source-code-breaches-at-microsoft-nissan-mercedes-are-ominous-lessons-for-self-driving-cars/"
+  - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
+    excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"
+    publishedDateTime: 2021-01-15T17:37:00Z
+    webUrl: "https://elmoudjaweb.com/microsofts-new-settings-let-users-contribute-recordings-to-improve-its-speech-recognition-systems-jaweb/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 38
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60021aa0b1ac699a3bd4deec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4708%26cropY1%3D239%26cropY2%3D2888"
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Microsofts-new-settings-let-users-contribute-recordings-to-improve-its.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
-    publishedDateTime: 2021-01-19T13:03:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
-    excerpt: "Project will provide additional value and scale to Quorum’s popular Q Analytics Enterprise Reporting solutionCALGARY, Alberta, Jan. 19, 2021 (GLOBE NEWSWIRE) -- Quorum"
-    publishedDateTime: 2021-01-19T20:05:00Z
-    webUrl: "https://www.wboc.com/story/43195966/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 30
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
+        height: 600
         isCached: true
 
 secured: "AnClsxCkIRD2iKzAJxTkpybxLS4TuX7+fUrOtAUDI1CF7M+/MbwsmEOMMfiISwc6r1MAf29g5Z3M8yy2/eEWkBR+HMNeQGhV5ooox2RBIeliQj5OJFk4Bhyu6X+QqxMtVbjwzo2PEoZNLSGS+el7OJM1F8nUgTrAabbGx2A1/3cYFLU7Tw+TIeHC0RjKn2v+NwGpPERZ3hdytpLAXYZSyhDU+xNT0svMF7ehZzlaRJfZ1RvJhivBoNMDQPWO6rtOxcqehbZIqN73ec5WbkM2ErNJ1qEGEzIPBf988JcGOUeRQGEGM10Nr4GSGMK48GSfDTQOcSa/micAuUemzBC0+IVqLUlk/xmcuop0+4w9jrkKTdHPUU/BMUls9JEzSJx1+pQ38g5jBcSj/tCVJAKQ1uiQgQziANo1hTg/WJHalhZ38oOCyQdgcE842bKMhgosGAN6dBoAuHBmg7HjobaUJD9604XsWtnhHvNOZ+delzc4npmxI2YfSqm5z2ow8/wShCGjPK4HtWpMHW8oEfib2g==;twHcTNIiDstf7iSI/AY9sQ=="

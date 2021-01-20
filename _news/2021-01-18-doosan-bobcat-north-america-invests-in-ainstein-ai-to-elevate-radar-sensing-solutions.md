@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Doosan Bobcat North America announces investment in Ainstein AI to elevate radar-sensing solutions"
-    excerpt: "WEST FARGO, N.D., Jan. 14, 2021 /PRNewswire/ -- Doosan Bobcat North America announced today a strategic equity investment with Ainstein AI, Inc., a startup radar technologies company located in Lawrence, Kan., to continue the development of next-generation ..."
-    publishedDateTime: 2021-01-15T09:15:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-products-and-services-8ffd8284cd46e90c96c77040c2c3457e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Doosan Bobcat Invests in Artificial Intelligence to Advance Radar Sensor Tech for Compact Equipment"
     excerpt: "Investing in Ainstein AI is aimed at developing next-gen radar to enable Bobcat equipment to avoid obstacles and future innovations that support autonomous productivity enhancement on construction job"
     publishedDateTime: 2021-01-16T17:21:00Z
