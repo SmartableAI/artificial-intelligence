@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/363655"
 webUrl: "https://www.entrepreneur.com/article/363655"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -28,6 +28,54 @@ images:
     isCached: true
 
 related:
+  - title: "Language AI is really heating up"
+    excerpt: "Any procedure that still requires a human to understand language is now at the verge of being disrupted or automated."
+    publishedDateTime: 2021-01-17T18:29:00Z
+    webUrl: "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/"
+    ampWebUrl: "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Where AI Is Heading In 2021 For HR Departments"
+    excerpt: "Artificial intelligence is set to become one of the best ways to connect HR with an entire organization and understand each department’s needs."
+    publishedDateTime: 2021-01-19T13:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Mirroring the Architecture of the Human Brain Is Speeding Up AI Learning"
+    excerpt: "The brain’s ability to learn so quickly depends on its ability to use prior knowledge to understand new concepts based on little data."
+    publishedDateTime: 2021-01-18T15:00:00Z
+    webUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/"
+    ampWebUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 56
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/01/neurons-582050_1280-brain-AI-learning.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Companies are addressing issues related to language with AI"
     excerpt: "Companies like Speechmatics and Paperspace are building an any-context recognition engine powered by artificial intelligence where they could build accent-agnostic language models with ASR (speech recognition) technology."
     publishedDateTime: 2021-01-19T17:33:00Z

@@ -2,6 +2,101 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-12-16-ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions.md",
+      "title": "IBM Acquires Fintech Startup Expertus To Strengthen Banking Solutions",
+      "excerpt": "IBM Corporation (NYSE: IBM) on Tuesday announced it has acquired Expertus Technologies Inc, a Canadian fintech startup offering payments and cash management solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions",
+      "originalUrl": "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/sam-pak-nwlfmvepzhi-unsplash.jpg",
+          "width": 2832,
+          "height": 2832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18809433",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433",
+      "publishedDateTime": "2020-12-15T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-managers-that-use-ai-will-replace-those-that-do-not-ibm-executive-says.md",
+      "title": "Managers that use A.I. 'will replace those that do not,' IBM executive says",
+      "excerpt": "IBM said it would buy Instana, a firm that helps businesses manage data across a variety of cloud applications in different places.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/16/managers-that-use-ai-will-replace-those-that-do-not-ibm-executive.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/16/managers-that-use-ai-will-replace-those-that-do-not-ibm-executive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106810687-1607950920030-gettyimages-1229673185-rafaelhenrique_09112020-5238.jpeg?v=1607950974",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/16/managers-that-use-ai-will-replace-those-that-do-not-ibm-executive.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/16/managers-that-use-ai-will-replace-those-that-do-not-ibm-executive.html",
+      "publishedDateTime": "2020-12-15T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others.md",
       "title": "Chinese search-engine Baidu considers making electric cars: In talks with Geely, Hongqi, others",
       "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
@@ -1092,109 +1187,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-this-ai-from-faceit-may-finally-solve-toxicity-in-esports.md",
-      "title": "This AI From FACEIT May Finally Solve Toxicity In Esports",
-      "excerpt": "FACEIT is pushing toxcity into the past with AI. getty. The competitive gaming and esports world is growing at a rapid pace, with big teams being worth millions of dollars, but wh",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
-      "originalUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8d7971b3a08f6daf80742%2F0x0.jpg",
-          "width": 1200,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
-      "publishedDateTime": "2020-12-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-twitter-selects-aws-as-strategic-provider-to-serve-timelines.md",
-      "title": "Twitter Selects AWS as Strategic Provider to Serve Timelines",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Twitter (NYSE: TWTR) has selected AWS to provide",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/twitter-selects-aws-as-strategic-provider-to-serve-timelines-2020-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/twitter-selects-aws-as-strategic-provider-to-serve-timelines-2020-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

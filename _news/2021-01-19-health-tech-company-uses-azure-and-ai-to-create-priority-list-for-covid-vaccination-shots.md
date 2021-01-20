@@ -3,10 +3,10 @@ category: news
 title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
 excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
 publishedDateTime: 2021-01-19T14:14:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+originalUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
 type: article
 quality: 95
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
@@ -168,6 +168,6 @@ related:
         height: 420
         isCached: true
 
-secured: "NB1aCoHErFUC0gCZ1g9I74VHKzV7/KrLut7NHOjUxRy6vhzAJewTUV8ft453n4yEPTDTEyzvsGqtxKySfzGkrZv94eMTArLpe31oyEhwCoTNBBjRpn1pc+VdQJ5tSJ7j1pqkS9pwM9GkafIv30k9km+uGWWyoKUnVwZWbXaVe39Z1Ad8a5vTKdCIsyyGaqvchkSUnz3maw+0FSBgcB0Q4sHsss/+q52/K06uSQwyvQ/jvg7kLwgsOnd0qSj+I1Esd3eGGv/sx+0YAd9tUeu8p3NsPu3oObza4tBbT/DqQ6tu5KJ6zIjcZ5QpOAfLZGSJej2Caly8k2Gk5CVy7Ylpv/zHq8542E7J8xMPGKvu7Ys=;BjrJUCz+Iqc/7S7f8SZYyg=="
+secured: "zcg2YaRInRlcgnq0isOsGO31q71zprH3S03oQ24vD6p4bju8pEYOfNcpwwWH87nBj6fj1ZxFDZkQ2PbFREzYZ09hOyoygXG9RqVMLZfiFJrHRsFokkT13e+x/v3iqjbs/31rVCJ6uhSzSJ2qoFn1zlPSns/9D1eD01ZEATovohydA9eg09XUzK9KERz3BufvZBiQFdV3mYIb2yRYeAbyzhf41zOolLbEFpgKZhFa8LEXtvIA4A+dLWyipnrd+DWoK7ZEP8PU4l5TflzmKF9Oc4SZJJWqy9XZBHoHtofAW1G0y/IFSOnOpoMKIQGr2iENCYfVgjCuL/iTQ22dVqC0rPoM/G1nJkJybQnMAfybrjI=;aonrjWpVbLugU29eNJDiYA=="
 ---
 

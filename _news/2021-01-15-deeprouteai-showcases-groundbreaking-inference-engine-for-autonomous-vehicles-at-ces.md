@@ -14,6 +14,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

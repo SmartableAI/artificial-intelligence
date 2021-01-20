@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and deep learning is helping marketing"
-    excerpt: "There is a popular marketing quote — “half the money I spend on advertising is wasted; the trouble is I don’t know which half.” That quote, which is more than 100 years old, has certainly aged well and the sentiment stills resonates with many even today."
-    publishedDateTime: 2021-01-18T15:37:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 93
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33602216.ece/ALTERNATES/LANDSCAPE_615/PersonalisedMarketing"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Language AI is really heating up"
     excerpt: "Any procedure that still requires a human to understand language is now at the verge of being disrupted or automated."
     publishedDateTime: 2021-01-17T18:29:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence.jpg?w=1200&strip=all"
         width: 1200
         height: 900
-        isCached: true
-  - title: "How AI Is Being Used In The Legal Industry"
-    excerpt: "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery."
-    publishedDateTime: 2021-01-19T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg"
-        width: 1200
-        height: 831
         isCached: true
   - title: "Where AI Is Heading In 2021 For HR Departments"
     excerpt: "Artificial intelligence is set to become one of the best ways to connect HR with an entire organization and understand each department’s needs."
@@ -91,98 +59,34 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market"
-    excerpt: "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning"
-    publishedDateTime: 2021-01-19T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247"
+  - title: "Providing Voice AI Solutions & Addressing Language Barrier"
+    excerpt: "Vernacular.ai has recently raised $5.1 million in its Series A round from Kalaari Capital and Exfinity Ventures"
+    publishedDateTime: 2021-01-19T09:11:00Z
+    webUrl: "https://www.entrepreneur.com/article/363655"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-  - title: "DeepMind's New AI Can Destroy You In Games Without Knowing The Rules"
-    excerpt: "Following their massive success in uncovering predicting protein folding in 2020, Google’s DeepMind has now released another AI that is less about solving complex biological problems, and more about dominating it’s opponents in strategy games ..."
-    publishedDateTime: 2021-01-18T16:51:00Z
-    webUrl: "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
-    ampWebUrl: "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 74
-    images:
-      - url: "https://cdn.iflscience.com/images/2080a3f8-6b4f-54c6-b158-ffe681d97cbc/default-1610976793-ms-pac-man-in-an-arcade.jpg"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Upstart CEO on using artificial intelligence to modernizing lending"
-    excerpt: "Upstart CEO Dave Girouard joined Jim Cramer on \"Mad Money\" to explain how the online marketplace seeks to transform bank lending by matching borrowers with lenders."
-    publishedDateTime: 2021-01-15T22:08:00Z
-    webUrl: "https://www.cnbc.com/video/2021/01/15/upstart-ceo-on-using-artificial-intelligence-to-modernizing-lending.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 67
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106825631-16107556956ED3-MM-D-BLOCK-011521.jpg?v=1610755694"
-        width: 1920
-        height: 1080
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611047508-SourabhGupta-Co-founderandCEOVernacularai.JPG"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be"
-    excerpt: "Technavio Business Wire LONDON -- January"
-    publishedDateTime: 2021-01-19T13:51:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-01-19/global-optical-microscopes-market-to-grow-by-557-96-million-during-2020-2024-integration-of-ai-and-machine-learning-to-be"
+  - title: "Companies are addressing issues related to language with AI"
+    excerpt: "Companies like Speechmatics and Paperspace are building an any-context recognition engine powered by artificial intelligence where they could build accent-agnostic language models with ASR (speech recognition) technology."
+    publishedDateTime: 2021-01-19T17:33:00Z
+    webUrl: "https://www.analyticsinsight.net/companies-are-addressing-issues-related-to-language-with-ai/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 57
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/How-some-companies-are-solving-the-issues-with-language-and-AI.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Cylance brings AI and machine learning to anti-virus protection"
-    excerpt: "Read Boing Boing’s review of Cylance’s new anti-virus protection powered by artificial intelligence and machine learning: Malware is everywhere. 350,000 new pieces of malware are discovered every day,"
-    publishedDateTime: 2021-01-15T17:58:00Z
-    webUrl: "https://ctovision.com/cylance-brings-ai-and-machine-learning-to-anti-virus-protection/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 54
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
-  - title: "Startup Loop Wins Funding for Fairer Auto Insurance Rating Model Using AI"
-    excerpt: "Loop, a managing general agency focused on building an auto insurance model that does not utilize credit scores and ZIP codes, announced the close of a"
-    publishedDateTime: 2021-01-19T17:15:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597874.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 36
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2014/01/auto_insurance.jpg"
-        width: 1678
-        height: 1119
-        isCached: true
-  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
-    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
-    publishedDateTime: 2021-01-19T13:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005602/en/Global-Optical-Microscopes-Market-to-Grow-by-557.96-Million-During-2020-2024-Integration-of-AI-and-Machine-Learning-to-be-Key-Trend-Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "r7V0txNcnNw7X9zEye/oYHtLN7HlFtRFZXctc1R2AE+iMOSzpavCvl3ppsVGABni279wf0/b+Rm1IIchFvVTdJp765A0PWvXC4tAhB5P9k49ZLPE9smoUQtBfUVDQfH8rT/VFYalxeKgA5idOZxwb4acNDxi5t9mVkvXhClzc1zmz1iWSKEK94luyemrHXLBPPHxZCFwTojdABtkHGJVEMhBSIR3616FI8FGmInKRR5yJh2jr4WWD5cU3z5dNHErbInYiY5Q4JErBhMhT2RkuS3ABVzLJfpxBY0QijMuie2srU99btGx/WPJCyGvEbdzQ8O8ubuk2XoFA/NVcUVpoW5ofMECl7IV0JYhzD3oEIWqDpitRfH+o9+xMue3BjE6v0MBeWWxwLgjcLj5aZn+wziBbBK+DFB3DLYX5hUKT89MdFSQhrNyooUzUZl8I1SjJOyhZqeRLaVstXj748XX7Ec2llUOsupqGzPR73FfxAlA3WrpscyCiNR6uFguzgGPwNDlm2kh0WOopsTEYsm2dg==;TE5+Oko43DzBhA3fw0FRIQ=="
 ---

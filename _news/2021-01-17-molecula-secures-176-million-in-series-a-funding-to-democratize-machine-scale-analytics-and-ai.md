@@ -21,6 +21,17 @@ topics:
 
 related:
   - title: "Splice Machine Launches the Splice Machine Feature Store Platform to Simplify Feature Engineering and Democratize Machine Learning"
+    excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced it"
+    publishedDateTime: 2021-01-19T23:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/splice-machine-launches-the-splice-machine-feature-store-platform-to-simplify-feature-engineering-and-democratize-machine-learning-1029981231"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/splice-machine-launches-the-splice-machine-feature-store-platform-to-simplify-feature-engineering-and-democratize-machine-learning-1029981231"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/splice-machine-launches-the-splice-machine-feature-store-platform-to-simplify-feature-engineering-and-democratize-machine-learning-1029981231"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+  - title: "Splice Machine Launches the Splice Machine Feature Store Platform to Simplify Feature Engineering and Democratize Machine Learning"
     excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced it has launched the Splice Machine"
     publishedDateTime: 2021-01-19T13:30:00Z
     webUrl: "https://www.prnewswire.com/news-releases/splice-machine-launches-the-splice-machine-feature-store-platform-to-simplify-feature-engineering-and-democratize-machine-learning-301209712.html"

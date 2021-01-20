@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oqton raises $40 million to apply AI to additive manufacturing"
-    excerpt: "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million."
-    publishedDateTime: 2021-01-15T08:04:00Z
-    webUrl: "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/"
-    ampWebUrl: "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/fb-homepage-pic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Oqton raises $40 million to apply AI to additive manufacturing"
     excerpt: "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million.Read"
     publishedDateTime: 2021-01-16T07:22:00Z

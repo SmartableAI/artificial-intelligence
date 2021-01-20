@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-19-k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service.md",
+      "title": "K Health raises $132 million to launch AI-powered telemedical pediatric service",
+      "excerpt": "K Health, a telemedical service using AI to diagnose and treat illnesses, has raised $132 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/",
+      "originalUrl": "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/amp/",
+      "publishedDateTime": "2021-01-19T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices.md",
+      "title": "Hybrid chip containing processors and memory runs AI on smart devices",
+      "excerpt": "A group of researchers from Stanford have developed a way to combine processors and memory on multiple hybrid chips to allow AI to run on battery-powered devices such as smartphones and tablets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/",
+      "originalUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/hybrid-chip.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/amp/",
+      "publishedDateTime": "2021-01-19T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market.md",
+      "title": "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market",
+      "excerpt": "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "publishedDateTime": "2021-01-19T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-youtuber-challenges-scientist-to-create-an-ai-version-of-him-for-100.md",
       "title": "YouTuber challenges scientist to create an AI version of him for $100",
       "excerpt": "That's the question YouTuber Tom Scott set out to find the answer to in his latest video, for which he challenged AI in neuroscience researcher Jordan Harrod to create a fake version of him for $100.",
@@ -190,7 +338,7 @@
       "originalUrl": "https://www.sourcesecurity.com/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html?ref=nav",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -226,57 +374,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-providing-voice-ai-solutions-addressing-language-barrier.md",
-      "title": "Providing Voice AI Solutions & Addressing Language Barrier",
-      "excerpt": "Vernacular.ai has recently raised $5.1 million in its Series A round from Kalaari Capital and Exfinity Ventures",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/363655",
-      "originalUrl": "https://www.entrepreneur.com/article/363655",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611047508-SourabhGupta-Co-founderandCEOVernacularai.JPG",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-19-prosus-bets-on-ai-to-help-reshape-indias-350-billion-farm-industry.md",
       "title": "Prosus Bets on AI to Help Reshape India’s $350 Billion Farm Industry",
       "excerpt": "Prosus NV is investing in agritech company DeHaat in a bet on India’s $350 billion farming industry. The Dutch e-commerce group with assets all round the globe led a Series C funding round of $30 million that DeHaat will use to hire more staff,",
@@ -285,7 +382,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -332,17 +429,17 @@
       "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
       "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L",
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L?via=indexdotco",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L?via=indexdotco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800",
-          "width": 800,
-          "height": 533,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548297838&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0H1DG",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -350,8 +447,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29N23L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29N23L",
       "publishedDateTime": "2021-01-18T20:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -534,7 +631,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -564,6 +661,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules.md",
+      "title": "DeepMind's New AI Can Destroy You In Games Without Knowing The Rules",
+      "excerpt": "Following their massive success in uncovering predicting protein folding in 2020, Google’s DeepMind has now released another AI that is less about solving complex biological problems, and more about dominating it’s opponents in strategy games ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
+      "originalUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/2080a3f8-6b4f-54c6-b158-ffe681d97cbc/default-1610976793-ms-pac-man-in-an-arcade.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
+      "publishedDateTime": "2021-01-18T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -616,51 +756,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-how-ai-and-deep-learning-is-helping-marketing.md",
-      "title": "How AI and deep learning is helping marketing",
-      "excerpt": "There is a popular marketing quote — “half the money I spend on advertising is wasted; the trouble is I don’t know which half.” That quote, which is more than 100 years old, has certainly aged well and the sentiment stills resonates with many even today.",
-      "sourceUrl": null,
-      "webUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece",
-      "originalUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33602216.ece/ALTERNATES/LANDSCAPE_615/PersonalisedMarketing",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/",
-      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/",
-      "publishedDateTime": "2021-01-18T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing",
-        "AI in Finance"
       ]
     },
     {
@@ -740,57 +835,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-how-the-eu-is-leading-the-way-in-ai-powered-social-innovation.md",
-      "title": "How The EU Is Leading The Way In AI Powered Social Innovation",
-      "excerpt": "will be cemented into the history books as the digital inflection point that finally revealed to the world the significance of social innovation and the human-centric approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60047a4b441ba3192b29fb3b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/amp/",
-      "publishedDateTime": "2021-01-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1142,57 +1186,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-how-data-and-ai-can-help-create-a-mobility-renaissance.md",
-      "title": "How Data And AI Can Help Create A Mobility Renaissance",
-      "excerpt": "Evangelos Simoudis’ latest book Transportation Transformation: How Autonomous Mobility Will Fuel New Value Chains, meticulously presents the case for redefining mobility value chains globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60045ed8592ed21731f31ce5%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
-      "publishedDateTime": "2021-01-17T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

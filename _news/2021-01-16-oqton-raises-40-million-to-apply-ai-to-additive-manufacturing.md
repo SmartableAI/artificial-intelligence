@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Oqton raises $40 million to apply AI to additive manufacturing"
-    excerpt: "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million."
-    publishedDateTime: 2021-01-15T08:04:00Z
-    webUrl: "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/"
-    ampWebUrl: "https://venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/oqton-raises-40-million-to-apply-ai-to-additive-manufacturing/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/fb-homepage-pic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "tSeSb3OPbnnOGf9HoePi1whDhcwWJ1wJhCiS6PuBQnEmuzKCU5SBN0JUgKyaEojjWyUneBwZrcBWMZfUbmj0w4MnU3rbO3COfmGzdrwxIov0nUwhgTa17bFWYPpglz7bkg/2hLTUM0/RfbOyKp+TNM6/ftiRUH2Ktbw2NVEKwekyjGd6yHyg9xYd0ktc542nVaHeQWQokIjCGJSlF26u409WEIcatnWZz69LPKbiy/y6zrnGpffxjA41QQXXrYWm858DX5fYjEq4ISWSDlCc8L30UJrpQ5f1v6gEal5YdTlIWtkmi5dsKkf6QwcxbQbTyEVz//MFxMqSn7Y64mP80GGJ7tpC4o/Um0gtoE17xeY=;zQCmUu/pUh8IHIWywjaQIg=="
 ---

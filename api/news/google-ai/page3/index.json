@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-why-enterprises-are-turning-from-tensorflow-to-pytorch.md",
+      "title": "Why enterprises are turning from TensorFlow to PyTorch",
+      "excerpt": "The deep learning framework PyTorch has infiltrated the enterprise thanks to its relative ease of use. Three companies tell us why they chose PyTorch over Google’s renowned TensorFlow framework.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html",
+      "originalUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html",
+      "publishedDateTime": "2020-12-02T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-will-google-make-money-from-deepminds-once-in-a-generation-ai-breakthrough.md",
       "title": "Will Google make money from DeepMind's 'once in a generation' AI breakthrough?",
       "excerpt": "On Monday, British machine learning startup DeepMind announced that it had solved the 50-year \"protein folding\" problem. Scientists rejoiced at the promise of improved drugs for incurable diseases.",

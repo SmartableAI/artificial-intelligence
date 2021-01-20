@@ -21,50 +21,57 @@ topics:
   - AI
 
 related:
-  - title: "Space robotics market predicted to grow to $5.7 billion by 2027"
-    excerpt: "The global space robotics market size is expected to reach $5.71 billion by 2027, registering a compound annual growth rate of 5.2 percent from 2020 to 2027, according to a new report by Grand"
-    publishedDateTime: 2021-01-15T13:35:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/"
+  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be"
+    excerpt: "Technavio Business Wire LONDON -- January"
+    publishedDateTime: 2021-01-19T13:51:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-19/global-optical-microscopes-market-to-grow-by-557-96-million-during-2020-2024-integration-of-ai-and-machine-learning-to-be"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/nasa-valkyrie-robot-4_0-2.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Commerce Artificial Intelligence Market Is Expected To Reach USD 1,977.77 Million By 2027"
-    excerpt: "The research and analysis conducted in Commerce Artificial Intelligence Report helps clients to predict investment in an emerging market expansion of market share or success of a new product with the help of global market research analysis This report has"
-    publishedDateTime: 2021-01-15T17:08:00Z
-    webUrl: "https://www.openpr.com/news/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
-    ampWebUrl: "https://www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-    images:
-      - url: "https://cdn.openpr.com/U/1/U115421416_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Business Intelligence and Analytics Market Size to Reach Value of USD 60.49 Billion by 2027 Growing at a CAGR of 11.2% | Emergen Research"
-    excerpt: "Vancouver, British Columbia, (GLOBE NEWSWIRE) -- The global business intelligence and analytics market is expected to reach a value of USD 60.49 Billion by 2027, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-01-15T10:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/business-intelligence-and-analytics-market-size-to-reach-value-of-usd-6049-billion-by-2027-growing-at-a-cagr-of-112-emergen-research-2021-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
+    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-01-19T19:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Insights on the Artificial Intelligence in Next Generation Networking Global Market to 2026 - Leading Companies, Strategies and Solutions"
+    excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer,"
+    publishedDateTime: 2021-01-19T19:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026---leading-companies-strategies-and-solutions-301210796.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
+    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
+    publishedDateTime: 2021-01-19T13:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210119005602/en/Global-Optical-Microscopes-Market-to-Grow-by-557.96-Million-During-2020-2024-Integration-of-AI-and-Machine-Learning-to-be-Key-Trend-Technavio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Xx0YGZNwhiEL9xolvg7kzVyv/Pp0hMwn7IiG750yhgKsJdZ/Gpd01ID8clN3XuTqkUTSG5+MWlagmgR823OXuTeWyF5GPNAB647uummfWCQtsV/tVNroAZnYOBKEy52luFFycDl0OvA9le4+RfYuC9A9++1OQQqOaVjJbI9ENuAzlSEtcHT7Nd8RtVZvfzWBNcLSB4FDxAhkK+7R0sOtDzrR9btmzmLnHJpap7JqPtTXsYQUB9mLGfjmf9VF1z6xxsy06bD5cCgBfO4e0ex5e6ZlCiPMqD5QNoFtFTO52a3l3qFetNYKGViqZIi+re2F8EfxMwL0l0YmU1JSOqVdAoOk6F4uWuUBA88q+76n2W4=;wsYcXFf/EQDN5m7Dhfe5fg=="
 ---

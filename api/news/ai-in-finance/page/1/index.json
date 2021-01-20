@@ -55,7 +55,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -96,51 +96,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-how-ai-and-deep-learning-is-helping-marketing.md",
-      "title": "How AI and deep learning is helping marketing",
-      "excerpt": "There is a popular marketing quote — “half the money I spend on advertising is wasted; the trouble is I don’t know which half.” That quote, which is more than 100 years old, has certainly aged well and the sentiment stills resonates with many even today.",
-      "sourceUrl": null,
-      "webUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece",
-      "originalUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33602216.ece/ALTERNATES/LANDSCAPE_615/PersonalisedMarketing",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/",
-      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/",
-      "publishedDateTime": "2021-01-18T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing",
-        "AI in Finance"
       ]
     },
     {
@@ -1355,6 +1310,50 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
+      "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
+      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

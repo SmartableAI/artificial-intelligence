@@ -32,9 +32,9 @@ related:
   - title: "New AI software can turn regular security cameras into COVID-19 policy enforcement points"
     excerpt: "Now being trialed in Georgia smart city Peachtree Corners, the new tech can pick up on people standing too close together and detect whether someone is wearing a mask."
     publishedDateTime: 2021-01-19T15:37:00Z
-    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
+    webUrl: "https://www.techrepublic.com/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
     type: article
     provider:
       name: TechRepublic

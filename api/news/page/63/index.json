@@ -2,6 +2,109 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-11-27-2021-will-see-the-spread-of-ai-and-automation-in-the-workplace.md",
+      "title": "2021 will see the spread of AI and automation in the workplace",
+      "excerpt": "Andy Watson, senior vice president for Asia, Pacific, Japan, and Greater China at SAP Concur, says many organizations will turn to automation and AI in 2021 as a way to address key business pain points and simplify cumbersome processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "originalUrl": "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/11/06/540c3182-e4b1-44c2-af38-c8091a4facbf/resize/1200x/150cde9b43159f6cdf2dbe7fcd0158e1/istock-1205428317.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "publishedDateTime": "2020-11-27T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-another-city-is-using-crime-control-as-an-excuse-for-facial-recognition-surveillance.md",
+      "title": "Another City Is Using Crime Control as an Excuse for Facial Recognition Surveillance",
+      "excerpt": "Varanasi in India is installing 3,000 CCTV cameras with automated facial recognition tech at the city’s crossings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "originalUrl": "https://www.vice.com/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fc0e27700c96d009c4c6322/lede/1606476537293-an-indian-city-is-using-crime-control-to-amp-up-its-facial-recognition-surveillance.jpeg?crop=1xw:0.8428xh;0xw,0.1572xh",
+          "width": 6201,
+          "height": 3484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "publishedDateTime": "2020-11-27T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-us-states-can-succeed-in-ai-by-looking-at-singapore.md",
       "title": "U.S. States Can Succeed in AI by Looking at Singapore",
       "excerpt": "Singapore’s ambitious artificial intelligence strategy is a model that U.S. states can learn from as they create their own road maps.",
@@ -1123,110 +1226,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-security-startup-helia-raises-3m-from-silicon-valley-investors.md",
-      "title": "Security Startup Helia Raises $3M From Silicon Valley Investors",
-      "excerpt": "Helia is headquartered in San Francisco and founded by Indian origin entrepreneur Ashwin Sreenivas along with Russell Kaplan and Daniel Berrios",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360475",
-      "originalUrl": "https://www.entrepreneur.com/article/360475",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606401128-heliaeditfinal.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360475",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360475",
-      "publishedDateTime": "2020-11-26T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now.md",
-      "title": "Who will your algorithm harm next? Why businesses need to start thinking about evil AI now",
-      "excerpt": "Building AI systems that are ethical is no longer a box-ticking exercise, and could deliver a key competitive advantage to the businesses that embrace responsible technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
-      "originalUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/03/26/df8e2dc9-750c-48d0-96d1-e773830a900a/thumbnail/1200x675/f36a16e7b4dd0d52f29f0dded0d20a88/how-you-can-build-an-ethical-ai-project-5c99faee2f64e300dd74a9aa-1-mar-26-2019-12-32-00-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
-      "publishedDateTime": "2020-11-26T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

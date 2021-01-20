@@ -58,17 +58,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Global $50+ Billion Healthcare Artificial Intelligence Market to 2027: Focus on Medical Imaging, Precision Medicine, & Patient Management"
-    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-15T13:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19180648/global-50-billion-healthcare-artificial-intelligence-market-to-2027-focus-on-medical-imaging-preci"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19180648"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19180648"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
 
 secured: "8fWTpnTetYvN0NBowWmrh8XdKMdv126UcoduXOSbh8q2yJyUkCKcuYdOmyJNGxaonpyM/jirA3zLwDgkfU1sN0yciOuavKSJr74nTi3pSI4eywb93NC7iuczdIbtSJyyoIOhulmz3rUB2H0UHRUhR8cwmXpSVgHlgUrMqT6dRP7yqXHwyQAu0DPiOjXFb70gVy7xjyEkrg4j4lGt8a4LX8FSk9son0WzEeQuj/X+2kNG6IgAs1KwcRitD0PizY7zV86ehv1Pz+SSX7ksWI83MeQ//Yx8Me7qkosxdrYnShhcaAGFjLmphneRgafDESqfZH0VcLNXXTBQF+aKDoDdmrgfowePYO5CU0hOLCcfCyI=;nWwhtrB3s40raOVT4E0lrQ=="
 ---

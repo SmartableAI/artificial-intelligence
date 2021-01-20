@@ -65,20 +65,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "Name a better duo: Artificial intelligence and cybersecurity"
-    excerpt: "Artificial Intelligence (AI) has become increasingly popular over the last few years and has dramatically benefited industries, including healthcare, education, marketing, e-commerce, and cybersecurity."
-    publishedDateTime: 2021-01-15T08:30:00Z
-    webUrl: "https://www.cuinsight.com/name-a-better-duo-artificial-intelligence-and-cybersecurity.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 41
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2020/07/bigstock-D-Rendering-Of-Human-Brain-O-150112583-e1596111178657.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "SparkCognition and SkyGrid Deploy First AI-Powered Cybersecurity System on Drones"
     excerpt: "SparkCognition, the world's leading industrial artificial intelligence (AI) company, and SkyGrid, a Boeing, SparkCognition Company, today announced a new collaboration to deploy AI-powered cybersecurity directly on drones,"
     publishedDateTime: 2021-01-19T06:20:00Z

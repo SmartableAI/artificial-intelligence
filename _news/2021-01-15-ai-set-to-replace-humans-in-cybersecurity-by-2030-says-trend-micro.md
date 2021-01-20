@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2021-01/3b2dd1c1-ba9f-430b-98c0-bd68bdfa8c0c/etc_lead_jan_17.jpg"
         width: 760
         height: 507
-        isCached: true
-  - title: "Name a better duo: Artificial intelligence and cybersecurity"
-    excerpt: "Artificial Intelligence (AI) has become increasingly popular over the last few years and has dramatically benefited industries, including healthcare, education, marketing, e-commerce, and cybersecurity."
-    publishedDateTime: 2021-01-15T08:30:00Z
-    webUrl: "https://www.cuinsight.com/name-a-better-duo-artificial-intelligence-and-cybersecurity.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 41
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2020/07/bigstock-D-Rendering-Of-Human-Brain-O-150112583-e1596111178657.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Deploying AI-powered cybersecurity directly on drones"
     excerpt: "SparkCognition and SkyGrid deploy AI-powered cybersecurity directly on drones, protecting them from zero-day attacks during flight."

@@ -40,17 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "How AI Will Be Pushed to the Very Edge"
-    excerpt: "Driving AI out to edge computing platforms where data is being collected and processed in real time is a major challenge. The race to push deployment of artificial intelligence (AI) models beyond the network edge is officially on."
-    publishedDateTime: 2021-01-15T14:07:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
 
 secured: "6/eRJdzC1uKSloYD0Pp6bB/Y0cMy9BJx5UsjUpQcINGVtdLo8xGgPS8rfX5m7k0G9fPUua/SXPdMEWq5cBApdVbJmpmR2jvEamOxHvShm0dK3QqKYMDZIK1cjVmxBPLYWeR4TR3eFlcZEmkDfxqyBpSU+QHmIGiLMHh+Mx5qSCtkU5im0VUw7fDuLDcS2X4gXB0h6dmF26jAkDC3hjxP/z8exU4xZ8Zydr8bLbgztXTghRs7av3HdpimixRmxaQOjy+iCYCb/ls+i1er5PGRR8KIeCyndCrSs0eDeKREN7qcaffRUgUcO4C9ESjY7Q+dAEGwx9Rw7uCCQV/zVNGfD58iC5Wb8A2F+OILVruJgdI=;AalSLkb1Zp3hg+7TrsXBlg=="
 ---

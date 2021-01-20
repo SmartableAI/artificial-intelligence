@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Sports Market Next Big Thing | Biggest Opportunity Of 2021"
-    excerpt: "Global Artificial Intelligence in Sports Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market"
-    publishedDateTime: 2021-01-15T07:04:00Z
-    webUrl: "https://www.openpr.com/news/2225535/artificial-intelligence-in-sports-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2225535/artificial-intelligence-in-sports-market-next-big-thing"
+  - title: "Using AI to Identify Conversion Opportunities in Brick-and-Mortar Retail"
+    excerpt: "It could be said that in a world of limited traffic, conversion is king! As brick-and-mortar stores experience declining traffic, seizing every opportunity"
+    publishedDateTime: 2021-01-19T14:23:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/using-ai-to-identify-conversion-opportunities-in-brick-and-mortar-retail/article_3960a107-66a5-5833-beba-6db80e1c0fcf.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 36
     images:
-      - url: "https://cdn.openpr.com/U/1/U115981371_g.jpg"
-        width: 675
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/7b/47b671f6-d4dd-5ca6-ac58-9f254a90d77b/6006f164760d8.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
         isCached: true
   - title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
     excerpt: "The “Growth Opportunities in AI, Threat Intelligence and SCA Tools” report has been added to ResearchAndMarkets.com’s offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions powered by artificial intelligence,"

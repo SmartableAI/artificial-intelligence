@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-19T21:09:00Z
 originalUrl: "https://news.mit.edu/2021/intro-fast-paced-world-artificial-intelligence-0119"
 webUrl: "https://news.mit.edu/2021/intro-fast-paced-world-artificial-intelligence-0119"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202101/fall-2020-urops.png"

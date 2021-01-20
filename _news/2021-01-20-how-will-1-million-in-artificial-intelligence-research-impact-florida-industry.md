@@ -24,23 +24,50 @@ images:
     isCached: true
 
 related:
-  - title: "Prosus Bets on AI to Help Reshape India’s $350 Billion Farm Industry"
-    excerpt: "Prosus NV is investing in agritech company DeHaat in a bet on India’s $350 billion farming industry. The Dutch e-commerce group with assets all round the globe led a Series C funding round of $30 million that DeHaat will use to hire more staff,"
-    publishedDateTime: 2021-01-19T07:34:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector"
+  - title: "How AI Is Being Used In The Legal Industry"
+    excerpt: "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery."
+    publishedDateTime: 2021-01-19T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg"
+        width: 1200
+        height: 831
+        isCached: true
+  - title: "How The EU Is Leading The Way In AI Powered Social Innovation"
+    excerpt: "will be cemented into the history books as the digital inflection point that finally revealed to the world the significance of social innovation and the human-centric approach."
+    publishedDateTime: 2021-01-18T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRIiWt3lRAGI/v1/360x-1.jpg"
-        width: 360
-        height: 270
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60047a4b441ba3192b29fb3b%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "How AI Will Be Pushed to the Very Edge"
+    excerpt: "Driving AI out to edge computing platforms where data is being collected and processed in real time is a major challenge. The race to push deployment of artificial intelligence (AI) models beyond the network edge is officially on."
+    publishedDateTime: 2021-01-15T14:07:00Z
+    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
+    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
+    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 39
 
-secured: "wgTtt1O1JwJ1/B694gggulwfqPsnBaFrYwPKIVAmQ92VTu1RsX4W4uaqyxDqCymUqcRlmgfX81QvG1LFYcoHVAoOGIp/Y4b+Fz1ZCIYzYhr1lUIZwd0aFdrsd7CJNNZDWq+MuYTetlREJ2LuogUTnWaYsPStoFqg2RTM2KAxj2iwQFlpl4e5Pt8c5e/ocJyOl8yrE46monY/eJyPp/kLjN254aLvU+Bm0Lh0q5EGbjy6JFBmgRZhL5U0reqSzm3KJKOAzV2zsH+LG+skXTfC/qvl25NJ1jqirjD8gKUbxgpzcWFaX5VPqJKcSALlsSKJy6Gs1SwlQdN2th0394gtf/08IcgXku6ANogRTFe+B8A=;7/Vrp7c0O9xJ2ngtAkSBXQ=="
+secured: "UWbbLxk8jvaouZhhnWM/fffMsyNx0Su9XmKjDdqiJzMILqJYB5HI3TwPizEBuoTIDcuGOChImH5JZKC7zfFk4CxxlrJjk88NlXpWAIlMTTuksy3rDK8ZRBMLGt40QWgs6t+RJEHWb77xlRxaQwNqR5uNZ8Ok/IRRwvryVleSgVe2Y+D3rz9K7W01zoQhb504WBGmE8wvDxY1ANpKAx1ZlRbh06twJrUV+yRP8WXjEnoA2qEL3qu6Vfie88dqGtRGoVidqK7e9yxCyFGK+Wwh7KNBNP6lKggg195+fJYdCbcJuxQdeHmb6ZARvw6l3z4w6TDFEKIJz0cT5kBsKHXKw3FsXx/MMvujwXEsIRj3X1KIG4zLxyo1SMYkeAlZ9F/MphEx1ob6oBa9oBllxfP/UpSoAFh9lRC1o4SQ+JXjYEu9i4VdX2K1C31xQAX/uRuEtAtK/DGEG8p3YFF2v1Bw3Orpa5EKQ80w9ZAOW4YPMlx5WSP/9w5R98NQMwM7BZwJUK8zGSlCA9Nl6OI7OB4Clw==;d7lorPS1Xdp4mmXcxSvtQA=="
 ---
 

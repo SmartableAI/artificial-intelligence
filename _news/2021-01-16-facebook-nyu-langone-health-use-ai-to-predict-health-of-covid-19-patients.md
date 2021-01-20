@@ -46,9 +46,9 @@ related:
   - title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
     excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
     publishedDateTime: 2021-01-19T14:14:00Z
-    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
     type: article
     provider:
       name: TechRepublic

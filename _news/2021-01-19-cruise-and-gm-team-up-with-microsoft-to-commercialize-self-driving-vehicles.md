@@ -278,7 +278,7 @@ related:
   - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
     publishedDateTime: 2021-01-19T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO"
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO"
     type: article
     provider:
       name: Reuters
@@ -504,6 +504,34 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2018/09/hi-im-cortana-resized.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GM joins with Microsoft to speed up self-driving cars"
+    excerpt: "General Motors and Microsoft are joining forces to accelerate the development of self-driving vehicles.America’s largest carmaker and one of the world’s leading technology companies will lead a $2"
+    publishedDateTime: 2021-01-20T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/gm-joins-with-microsoft-to-speed-up-self-driving-cars-lc5zm8r5x"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 41
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1e6c8afc-5a8d-11eb-86f4-4fa0aa4e7fd3.jpg?crop=5079%2C2857%2C0%2C265&resize=685"
+        width: 685
+        height: 385
+        isCached: true
+  - title: "GM, Cruise and Microsoft Partner for Self-Driving Vehicles"
+    excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their software and hardware engineering excellence,"
+    publishedDateTime: 2021-01-20T00:44:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/01/gm-cruise-and-microsoft-partner-for-self-driving-vehicles/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 39
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2020/11/cruisewalmart.jpg"
+        width: 408
+        height: 256
         isCached: true
   - title: "GM Unites with Microsoft to Commercialize Autonomous Cruise"
     excerpt: "Microsoft announced January 19 a new partnership between it and General Motors’ self-driving Cruise business. The long-term strategic relationship will allow Cruise to utilize Microsoft’s cloud and edge computing platform,"

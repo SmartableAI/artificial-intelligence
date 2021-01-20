@@ -3,8 +3,8 @@ category: news
 title: "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)"
 excerpt: "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers."
 publishedDateTime: 2021-01-12T21:38:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700"
+originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
+webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx"
 type: article
 
 provider:
@@ -12,9 +12,8 @@ provider:
   domain: destinationcrm.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AWS AI
+  - AI
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg"
@@ -22,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "OuZ+6EsjljouTYxt40JAVBvtOxaR3LHr10zrnOzWgiLgkxiSZgPOht2sMRW3J8LrDJZ964cd55ay1F4GeaZLCNdE62cYdahPpR77Hzu9T1s4IfaWPvHkNn2dixukkPsipg2hNrH1/bA+6ubfnTSZsL2dCntCacJQeI6om1/8rRUiYeVFfK53yAyi4w8To+sY/lvKLVsrh1UaKsB674IDInd/riZBcyc4hZ3/06hlFLJnbsYc7CYK3fuypjQRwvx4ua+kM6rbirTkBEuwmnlCV0hf4zkeIbnOLzV+x/x237EXJ7jGfLlLGaePDZ3PrY/GTvYnRFm68N2XqpQl4ojRbbEuINcUVNDScUjyBFnR1JE=;whnRTDjqcVTbBcFbsyXwPw=="
+secured: "MOQ99x/6cz1Cyg/7iSU9Yu2A4JfBwXm2ZtS4bmlg/hTIa+EaIvZINgsv+hCnvsk+4+HM4L5/KxndFQO+4VYBSgiC9xqEgD102KHfq9foewbg/Tgkyz7WQbzsrCjeDazIIv+9f2EjJoUqWMSqac3Q097Nqzy4/OLWWP+aaRVyVFlYGxl/Je6QJVM0XFBRMuKehvl1m3kjwrGatt/pk0uMGX4/k/H/LF6/7q0YeORiNP+ODWCeUTOecRBiUh4IYjLIVmj7fKRYaIbs97KWDbCStGaTx/vFADZUuyXEA4qGrXzcbWTA2BuTQxxxpq0c8td00y9x0pti+C+Uwv0EcRxl0ryHszBwZynV75tu9fKA3sQ=;Q1VN0kfjtFnNMF9kociJpg=="
 ---
 

@@ -2,6 +2,93 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-12-01-deepmind-cracks-50-year-old-protein-folding-problem.md",
+      "title": "DeepMind cracks 50-year-old ‘protein folding problem’",
+      "excerpt": "Deepmind, the UK-based AI company and a subsidiary of Alphabet, has produced a solution to the grand challenge of protein structure prediction. The breakthrough could accelerate biological research, unlocking new possibilities in drug discovery and disease ...",
+      "sourceUrl": null,
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
+      "originalUrl": "https://eandt.theiet.org/content/articles/2020/12/deepmind-cracks-50-year-old-protein-folding-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/14550/protein-concept.jpg?crop=0,0.21556387848522682,0,0.292863087806908&cropmode=percentage&width=1200&height=450&rnd=132513011150000000",
+          "width": 1200,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-cyber-security-cloud-launches-wafcharm-on-microsoft-azure.md",
+      "title": "Cyber Security Cloud Launches WafCharm on Microsoft Azure",
+      "excerpt": "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls.md",
       "title": "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls",
       "excerpt": "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns.",
@@ -1083,91 +1170,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion.md",
-      "title": "Facebook Nears Purchase of Startup in Deal That Values It at $1 Billion",
-      "excerpt": "Facebook is nearing a deal to buy Kustomer, which specializes in customer-service platforms and chatbots, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "originalUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196?mod=hp_lead_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-265924/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "publishedDateTime": "2020-11-30T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum.md",
-      "title": "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum",
-      "excerpt": "DUBLIN, Nov. 30, 2020 /PRNewswire/ -- The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Diagnostic Tool; Application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18581940/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbr",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18581940/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18581940",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18581940",
-      "publishedDateTime": "2020-11-30T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

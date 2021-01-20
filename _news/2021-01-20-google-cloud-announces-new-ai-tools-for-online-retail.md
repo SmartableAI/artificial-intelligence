@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-19T17:34:00Z
 originalUrl: "https://siliconangle.com/2021/01/19/google-cloud-announces-new-ai-tools-online-retail/"
 webUrl: "https://siliconangle.com/2021/01/19/google-cloud-announces-new-ai-tools-online-retail/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/online-2900303_1280.jpg"

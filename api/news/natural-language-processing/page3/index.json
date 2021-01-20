@@ -2,59 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-17-speech-and-voice-recognition-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
-      "title": "Speech and Voice Recognition Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
-      "excerpt": "Dec 17, 2020 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report.md",
       "title": "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report",
       "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
@@ -1437,6 +1384,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-diving-into-deep-learning.md",
+      "title": "Diving into Deep Learning",
+      "excerpt": "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets).",
+      "sourceUrl": null,
+      "webUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece",
+      "originalUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/",
+      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/",
+      "publishedDateTime": "2020-12-08T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

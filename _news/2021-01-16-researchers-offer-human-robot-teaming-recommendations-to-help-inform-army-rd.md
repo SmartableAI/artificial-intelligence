@@ -7,7 +7,7 @@ originalUrl: "https://www.executivegov.com/2021/01/researchers-offer-human-robot
 webUrl: "https://www.executivegov.com/2021/01/researchers-offer-human-robot-teaming-recommendations-to-help-inform-army-randd/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 272
     height: 270
     isCached: true
-
-related:
-  - title: "Research Targets Sorting Robots And Separating Chemicals To Improve Plastic Recycling"
-    excerpt: "The four-year grant is from the foundation’s Emerging Frontiers in Research and Innovation program; esearchers are now building a robotic system that will “learn” to sort plastic."
-    publishedDateTime: 2021-01-15T17:40:00Z
-    webUrl: "https://www.forbes.com/sites/jeffkart/2021/01/15/research-targets-sorting-robots-and-separating-chemicals-to-improve-plastic-recycling/"
-    ampWebUrl: "https://www.forbes.com/sites/jeffkart/2021/01/15/research-targets-sorting-robots-and-separating-chemicals-to-improve-plastic-recycling/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/01/15/research-targets-sorting-robots-and-separating-chemicals-to-improve-plastic-recycling/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001c683b30a71361df424dd%2F0x0.jpg"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "2z8i0f3CVZn8oVLUKKrRnHuIPE57I9Pb2vx23KMcItpB/nU2bnwVpbfGBVyZFAdZc9gdAEJpTnFvHNCg2SH2ax66ObP+N0yPjzHUcJaamFa8IEDdzpU4yDSYZh7JFcOXNP2b7rRCa1EZn9tbe5q4snfBQ/yPMpyUpjVCpbP0EPAq886qlSdjQm/ttOMk5wfnSYnn89iYGU/Ouz/x4ZXPqNjN2Vuxul+amuurjmNJ0NhCgz7biWAVoksHl1BUkBoAOlHZuLeQ3F4pl2/G4H6l6E9pfa/e43cLjiGrHtiu8DWtbD25IX89ima3fXrTJwNpuYBiCcIuNv0noQceOzfheF7HdMpP/2Eubmn20jmgsbM=;vZN5JRTQh9nXthDuGLugcg=="
 ---

@@ -45,6 +45,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Google Cloud announces new AI tools for online retail"
+    excerpt: "The new services, announced today, have been branded as Google’s Product Discovery Solutions for Retail. They include a Recommendations AI engine that’s now generally available. According to Google, Recommendations AI helps retailers to deliver highly personalized product recommendations at scale and across all channels."
+    publishedDateTime: 2021-01-19T17:34:00Z
+    webUrl: "https://siliconangle.com/2021/01/19/google-cloud-announces-new-ai-tools-online-retail/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/online-2900303_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Top Five Artificial Intelligence Predictions For 2021"
     excerpt: "Here are five predictions on what we should expect to see in AI in 2021: Something’s going to give around AI governance. Though regulation hasn’t reached a boiling point yet, AI governance will continue to be a hot topic in 2021."
     publishedDateTime: 2021-01-15T09:51:00Z
@@ -58,20 +72,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/Top-Five-Artificial-Intelligence-Predictions-For-2021.jpg"
         width: 960
         height: 640
-        isCached: true
-  - title: "Google Cloud announces new AI tools for online retail"
-    excerpt: "The new services, announced today, have been branded as Google’s Product Discovery Solutions for Retail. They include a Recommendations AI engine that’s now generally available. According to Google, Recommendations AI helps retailers to deliver highly personalized product recommendations at scale and across all channels."
-    publishedDateTime: 2021-01-19T17:34:00Z
-    webUrl: "https://siliconangle.com/2021/01/19/google-cloud-announces-new-ai-tools-online-retail/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/online-2900303_1280.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Walser involved in launch of AI-driven solution designed for 30-minute vehicle delivery"
     excerpt: "Walser Automotive Group, in partnership with PICO Venture Partners, announced the launch of a cloud-based predictive finance management system fueled by artificial intelligence that’s designed to cut the delivery process down from an average of three hours to 30 minutes."

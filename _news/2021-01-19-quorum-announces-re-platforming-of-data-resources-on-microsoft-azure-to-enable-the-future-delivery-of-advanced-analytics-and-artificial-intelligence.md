@@ -73,6 +73,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
+    publishedDateTime: 2021-01-19T23:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
     excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
     publishedDateTime: 2021-01-19T16:08:00Z
