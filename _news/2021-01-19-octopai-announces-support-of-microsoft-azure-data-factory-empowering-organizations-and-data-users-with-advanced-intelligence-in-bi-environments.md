@@ -41,17 +41,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AI developer to discard data used in controversial 'female' chatbot"
-    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the"
-    publishedDateTime: 2021-01-16T07:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
 
 secured: "R7Z8UMoswSn/MCJGr4V4Iwoi0Kps/v3eKLV+bB/FYHNovLEZ7SnafWcSXIuicVH1vwc6EvGzGIfFkogb5lnVBun8Shz2n8yBZoxkvhv1NA3xP9H+tvrK/M36vs5xyGP5LXL+qS/vQJD+MZypvGLMFT4oL0798nD9R7X6npczxvrmbzY1qH9RSu1ktcA12vkt9/6CVkeYYsfhBmPv07O6F4unCcuTCCtQkWoP6Er4iwALhLwvSz2VnQhLTAqeofR+vOWLnoIHfAaS1wVcHRR30aoOctTWJK+FszW2pMcvGhAXaU+HiilSImHLo+6OLE5T/lwhtSafeRnxEde9nBcTM2BASxv19cAJQzY4FlkzlGk=;V0hpj2d6ZStSUZPax9P1+g=="
 ---

@@ -3,16 +3,18 @@ category: news
 title: "Guilford company gets FDA approval in effort to aid stroke victims"
 excerpt: "Time is of the essence in preventing brain injury following a stroke, and a Guilford-based company has received federal approval for a development that may be able to aid in that fight. Officials with U."
 publishedDateTime: 2021-01-17T13:00:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php?src=sthpbusiness"
-webUrl: "https://www.stamfordadvocate.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php?src=sthpbusiness"
+originalUrl: "https://www.nhregister.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+webUrl: "https://www.nhregister.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+ampWebUrl: "https://www.nhregister.com/business/amp/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/business/amp/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - AI in Healthcare
@@ -40,6 +42,6 @@ related:
         height: 2048
         isCached: true
 
-secured: "qMh4uhIk0gaiuPQToUEmFTGtM4bkexPDuh9WwgIG44ZppmAhQ5ASP9JpeZgy4YRHw+ndodrDc9OliM9IPo1NSOuzE10nHzNzRYNCW4h0QRn670o9sxjFUuUvv5tPK4Zv/EVfbwV+H+Y6p4RgDN+Gd0fQ9iStqoY8jKXIxt+BhioLu1FOYLcM0wLEOWOygfs/diLwcoF73xT4DiOSYD4uthzRAqm+YU41UCK13pzyhrb4y8a7esH/5GRI/f+v8iQy8Q/eeaBTTz9LbVJFlxpwijo2/f4aqILJT6x49ar26GVWy016hUCaVVGB0inMzt95ibfuteA9nc564+8YfzFBI3lM7DZjeQSdDdjtVZ6+TlU=;zzTgyNvlwpQu9llr9z0A0w=="
+secured: "Jtk8Kawax+kHBJz/iHGfbgV2SDYGu3QZdUsfbIy3MoDh9iVZ0+d8Vr6A+dtrJsz1FAx2OikrehpayCDCfE/BxH5spBsG0r8o2+tAryqGp+N35WkizChd9NrAZb3o1rhgOQvmKrqnKGNqSj55so9vvGqn9ip6ZIM9sBiVXn/dgJff+VBlo4WcLXmJYXQTiebB0V+Nc5ILFXpjHsYepgvy40CUM5iJ39Xq0YxCeMucAVqJwblBcZOjLUPuvpKCJikQyFAGIIKk8WPn6GvY3QcqH61xh//K/T9Q35rMt03lasp17nv2HKSF9swgMF2Yof9PTnxFxEnjd53vYzpWV5vRMOnbVfoAkotcjWZUXADxGvU=;2bzRtnbFCCxX8mxd/NNjzQ=="
 ---
 

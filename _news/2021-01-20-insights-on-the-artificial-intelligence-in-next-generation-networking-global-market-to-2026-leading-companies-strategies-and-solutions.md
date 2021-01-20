@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Insights on the Artificial Intelligence in Next Generation Networking Global Market to 2026 - Leading Companies, Strategies and Solutions"
-excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer, Enterprise, Industrial, and Government), and Industry Verticals 2021-2026\" report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-01-19T20:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026-leading-companies-strategies-and-solutions-1029983121"
-webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026-leading-companies-strategies-and-solutions-1029983121"
+excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer,"
+publishedDateTime: 2021-01-19T19:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026---leading-companies-strategies-and-solutions-301210796.html"
+webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026---leading-companies-strategies-and-solutions-301210796.html"
 type: article
-quality: 14
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+
+images:
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
 related:
   - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be"
@@ -69,6 +71,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "vAYYXSO6SStp7kcnFv+efT5hgKyUkW07/iTdGHmzv4HLH/6IsF2IAzQpQdw6PNhOLYOX9pHbPVGamPGh2xq98OF8dFl+ZMu6EwYaHtG+UxHG3EI2Td1oKAoqqTi1qnaCVeFfgc1ghiMJys6usMsaD01ntg4KkNTceABKx1qmBvhU9qNe/B23CW3N2T9aBejTEGhhef5PkdSsefN1qVEM6y0nJn2TKkw4i7jqX0il+TzBdbM0/HutsxJeyF8Myg2Qjwpc0WGOOaL9MJZ9yVTQs54ut2aPFZzOs3YubSELR8/gcNM//VvN5mjMGtYhiubKDgfl+xYbcBSNjHHH71RErwYaHjYIrhdiXuiwI6eix80=;W+pyaIYZxeX6ZS/p7DIVdg=="
+secured: "2oGyIa4T0QKNGBnl9nX3KLmFBvlkaw10987530cyAKQ4QKB4oSoBMScJrVNm+YFR30uatM/cy8C9SxodiF3DzDf3GvEWZ1sltMCTD/X5Xm3K/4FAIvbKErpObY24dfMbFNjcUMLx/g2MEYpCypw8eiLYw3oETQGH4eEt4COu17jY/14tTpJAExpKerPDgaMoJLspKSMJTvhj8K/h/1PoXkhUaBurkeKvy7wewvOC7k6sB+pvIt0/lYonHZRSdRGffoxjzMJpPoeJCvhXUhUy6y3AfOwY0O4E3O/Yr6OHEfJYbnx/fBDFcJJQjIJMz1ZXOVtop0zH3so5uTaf3vn82d/9WfpZlrFfr2NMJQvztpw=;EzO9U0fXSt4+9RfYo1u6vw=="
 ---
 

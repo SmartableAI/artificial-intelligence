@@ -107,6 +107,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
+    excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
+    publishedDateTime: 2021-01-20T12:49:00Z
+    webUrl: "https://uk.pcmag.com/social-media/131125/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 68
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_njkb.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
     excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."
     publishedDateTime: 2021-01-17T09:11:00Z

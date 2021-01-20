@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
-    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
-    publishedDateTime: 2021-01-18T10:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-2020-size-growth-analysis-top-key-players-latest-innovation-and-forecast-to-2025-2021-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Vision Market 2018 Growth, COVID Impact, Trends Analysis Report 2023"
     excerpt: "According to the OMR analysis the machine vision market is expected to grow at a significant rate during 2018 2023 The global machine vision market has witnessed a significant growth due to rise in automation in the industries The global"
     publishedDateTime: 2021-01-19T09:02:00Z

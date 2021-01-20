@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "AlphaICs raises $8 million for AI-at-the-edge processors"
+    excerpt: "AlphaICs has raised $8 million in funding for artificial intelligence processors for edge computing applications such as cars and wearables."
+    publishedDateTime: 2021-01-20T12:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/"
+    ampWebUrl: "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/alpha-2.jpg?w=1200&strip=all"
+        width: 1190
+        height: 686
+        isCached: true
+  - title: "OncoHost raises $8 million to develop AI that predicts cancer treatment responses"
+    excerpt: "OncoHost, a startup developing an AI platform to predict cancer treatment responses and identify drug targets, has raised $8 million."
+    publishedDateTime: 2021-01-19T13:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/19/oncohost-raises-8-million-to-develop-ai-that-predicts-cancer-treatment-responses/"
+    ampWebUrl: "https://venturebeat.com/2021/01/19/oncohost-raises-8-million-to-develop-ai-that-predicts-cancer-treatment-responses/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/oncohost-raises-8-million-to-develop-ai-that-predicts-cancer-treatment-responses/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Edge AI company AlphaICs raises $8 million in funding round"
     excerpt: "AlphaICs the artificial intelligence technology company from California-based Milpitas said on Wednesday it has secured funding worth eight million dollars a"
     publishedDateTime: 2021-01-20T08:31:00Z
@@ -40,6 +72,6 @@ related:
         height: 420
         isCached: true
 
-secured: "ZMxgXQJxbWR5wHvFAIqe1j8JCeVbPVy9LbmAgH/JsA3W/R2g1AXLkWykf6Xmf+aOgxTOxrdwn9XnfpDd1ao+OB1cmuKsPFp4jBGzQTI/T18X0EmklTtZDHTpnJ753LdNikT3+uTTeyMClMeRoogEfH3LUf89Nb53aCFSvK2zQZDKOV+/aCfDrrFsq/rXnHaGcio4t9dJsv/mVYY4r4gu1mveJw7Uiqj2lfDtsWvUKF1M7+bBs9XWkmUTx78b/S2U65UG2dB4pMqxk3UF78VmRT1axcc4J7XDIryjdz4FXYo3cVvTxgf0e9GMNLegblr2y7ifsb8tweinRYb5wXCzWSIWU+O+c58mWIrPwNnmoa0=;Y2VvxowfbMJYLkjOvWueBw=="
+secured: "qdZ9vQ6GJZHKhZjLcSEJUuhzjCCu0l58K2rHG6PQz3ZccpYN80uUrDXofk+KEHpVjBPBib4rAfaEJlc/9ly5UWuVeFdmYOfiG4hC4MglrnfFSbVlkPD1p9cqD+ZXigHUueg6BZwK3kToHeDS11Gsp6AVjgmB2b5TERgYg1nwpkUAdF/6BhvyPzJpoO08XPyUJQpHhpFX/aTlDkAErb8HtxUkL+8L+DvWsDJ8OOqDx+XgdjnZlcvpOCIPUPpzGlhrkz75qQ6GnbPtH8UUC1DlwRqc9TMZc1WB6UXCksR9pBVBVJVjjxyTpqdGr/O2U0Wb8OCdeWHuK4ZzVXwep3W4R0Gw+zG0zwrjPAovN1tECBj+6knw+NfK0GmYUNX02iRUr8FCGWwkAvDqEyQWq82n0OtkcAAJ66n/dXI+q60AkFzLdgohgK3tTTR58z2lVHua/hWPkc/yeuj+kDip32nqMEZUB/RV8hJBy1bBg3z6lUAzWgYOArayzEqEVfqKUddL8fvGnu4NWKoh56pv3vHD/g==;8VAosUqwAe/gNt/RSulLSQ=="
 ---
 

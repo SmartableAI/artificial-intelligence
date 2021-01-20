@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Researchers use natural language processing tech to identify new coronavirus variants"
-    excerpt: "The utility of natural language processing algorithms for understanding and predicting the changes of viruses lies in the adherence of viral structures to a kind of grammar and semantics, MIT Technology Review reported."
-    publishedDateTime: 2021-01-15T19:15:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/researchers-use-natural-language-processing-tech-to-identify-new-coronavirus-variants.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 32
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "0nsrvPfS76cOyOhlzulh46s1ABGWpbv3yTz78uJ1i1ODBKoMes0c1lTEHMpd8wK6YPobl8lqnqXNm0+g4wGkgQlFuUofIik0XHbtGvzeYhXnNzguW1uZC/q1l9S9pg868cWKWH0otEzOgD81et0m3VHSlas5DveF5NuF/PVanyWS5cALiOroBiBGXWoip/DXN6j8/4l5bhnWySFZ9LiXmY/pvHEMs9x07q9I108odl9PBEmwFkRb/1oBffc5YmJyx8s9eOtnMflh5cfAJ+jDHE8k0YN1MfmOE3ybimjmNOwkct/EBqylN57Ys0nvejDq2wUrr+aPOqStB8vumO15JmTKlRIsGegZXg4M7YuIfRs=;BhizavUuHSvowQhRBbYUqQ=="
 ---

@@ -49,14 +49,19 @@ related:
         height: 419
         isCached: true
   - title: "Insights on the Artificial Intelligence in Next Generation Networking Global Market to 2026 - Leading Companies, Strategies and Solutions"
-    excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer, Enterprise, Industrial, and Government), and Industry Verticals 2021-2026\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-19T20:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026-leading-companies-strategies-and-solutions-1029983121"
+    excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer,"
+    publishedDateTime: 2021-01-19T19:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026---leading-companies-strategies-and-solutions-301210796.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 14
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
     excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
     publishedDateTime: 2021-01-19T13:18:00Z

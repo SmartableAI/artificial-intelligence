@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data-2021-01-19"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Consulting Market Future Demands, Companies, Trends, Share and Size Forecast 2021-2027"
-    excerpt: "According to ReportsnReports study over the next 5 years the Artificial Intelligence AI Consulting Industry will register a xx CAGR in terms of revenue the global market size will reach xx Million USD by 2026 from xx Million USD in"
-    publishedDateTime: 2021-01-18T15:00:00Z
-    webUrl: "https://www.openpr.com/news/2226696/artificial-intelligence-ai-consulting-market-future"
-    ampWebUrl: "https://www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 50
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118912294_g.jpg"
-        width: 560
-        height: 315
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
     publishedDateTime: 2021-01-19T05:51:00Z

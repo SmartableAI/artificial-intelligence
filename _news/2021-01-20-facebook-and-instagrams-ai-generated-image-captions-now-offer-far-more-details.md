@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/01/19/facebook-and-instagrams-ai-generat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/19/facebook-and-instagrams-ai-generated-image-captions-now-offer-far-more-details/amp/"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,68 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook uses AI to improve photo descriptions for the visually impaired"
+    excerpt: "One of the most common types of content shared on Facebook, and other social media platforms are photographs. While most social media users can look at an image and see what it represents,"
+    publishedDateTime: 2021-01-20T12:28:00Z
+    webUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/"
+    ampWebUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 88
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-img-desc.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "FB Improves AI used to Describe Images for Visually Impaired Users"
+    excerpt: "Facebook has announced new modifications to its artificial intelligence (AI) technology for assisting visually impaired users."
+    publishedDateTime: 2021-01-20T09:20:00Z
+    webUrl: "https://www.phoneworld.com.pk/fb-improves-ai-used-to-describe-images-for-visually-impaired-users/"
+    ampWebUrl: "https://www.phoneworld.com.pk/fb-improves-ai-used-to-describe-images-for-visually-impaired-users/amp/"
+    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/fb-improves-ai-used-to-describe-images-for-visually-impaired-users/amp/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 59
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2021/01/fb-hero-image-001.jpeg"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Facebook fined $650 million for collecting facial recognition data inappropriately"
+    excerpt: "Facebook has been ordered to pay $540 million to Illinois residents for collecting facial recognition data without their consent | NewsBytes"
+    publishedDateTime: 2021-01-16T13:45:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 55
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l220_5631610796178.jpg"
+        width: 1440
+        height: 809
+        isCached: true
+  - title: "Facebook Releases Revamped Version Of Its AI-Powered Automatic Alternative Text Tool For Photos"
+    excerpt: "In a nutshell, Automatic Alternative Text uses artificial intelligence and machine learning to give blind and low vision Facebook users more detailed descriptions of photos."
+    publishedDateTime: 2021-01-19T18:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2021/01/19/facebook-announces-revamped-version-of-its-ai-powered-automatic-alternative-text-aat-tool/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 55
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005d74fd02fcf42886cda91%2F0x0.png"
+        width: 1200
+        height: 2115
+        isCached: true
   - title: "Facebook nabs facial recognition website"
     excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."
     publishedDateTime: 2021-01-18T06:12:00Z

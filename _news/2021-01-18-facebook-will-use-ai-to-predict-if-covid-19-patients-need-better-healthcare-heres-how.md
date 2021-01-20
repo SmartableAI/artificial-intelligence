@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-i
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
 type: article
 quality: 98
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
+    excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
+    publishedDateTime: 2021-01-20T12:49:00Z
+    webUrl: "https://uk.pcmag.com/social-media/131125/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 68
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_njkb.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
     excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Here’s Why Investors Should Pay Close Attention to Artificial Intelligence"
+title: "Here's Why Investors Should Pay Close Attention to Artificial Intelligence"
 excerpt: "Artificial intelligence is ingrained into our lives. It’s influencing our shopping choices online, helping us book meetings, and even finding the best deals. The auto industry is using AI to create driverless cars."
-publishedDateTime: 2021-01-20T09:49:00Z
-originalUrl: "https://www.baystreet.ca/articles/stockstowatch/63563/Heres-Why-Investors-Should-Pay-Close-Attention-to-Artificial-Intelligence"
-webUrl: "https://www.baystreet.ca/articles/stockstowatch/63563/Heres-Why-Investors-Should-Pay-Close-Attention-to-Artificial-Intelligence"
+publishedDateTime: 2021-01-20T12:20:00Z
+originalUrl: "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544"
+webUrl: "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
-    width: 845
-    height: 396
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "uT0mVxA8C3uBdKIo42PxSY5utG6/d1BT7vPEBwyI17Z6FEvnPKNvfKmsXjj1mu/5i0CuwhiKMJPkAT+pWUIU1UsnBvv571Mdpk00psEfRfJ4AJXFQVgt0YJMhoDbnx96Pq/BLxEcEMpq6KND9VdojEcgxDAak62yPpVtvvYsSftevVibd6IcK7bk8C5i9mKTj04Benxc2ArX/KV+ufJHVyFhDWCNkFXaTadzmhkjoTwmhUXhcwBtxgoC44xiuWbiHckfUWxKsEB25mEjBRQDHnd4D07imuFQmqWqpN87pxc0fZkeD7nJ6MCPhz8v095BZ9mzQGPWN2CaD4ouyyCZAJxp2x91DCIbOEkyrGPuK9I=;Ksblz2NZPAeKp94l8bddqQ=="
+secured: "nsuyfngfbYqFjr7vvpzMw4qYY2LVREu5LwnUGlA30WIAqnwiDDG0pFd7J/+wUjPd8qU1FFFRsQ4eMEBandv/XA1QHp1gM6QcvTKvJgyMKwWCOE1wacrUPjdcBhGifhnnqkGpf8096Tm8HzX1bJteGTwtN+o/zpMvqu4EH1DSwy/nDgbPi/H594x/fEB2i91hux0wzC0q6uW2iOIvdaADQMJeAmS9R+g0lZxL7f9+U43DOFIvGIbtJt0oEsU65wleHcsBSvWvq5rxGX9AqjSQJwf6Jcl89omxG62hUk9x3wi9n9WztRXpQoMYwpNt7jGyCvqc1AOA5OM69URr+Jh3v/c3I+HjR+gTSfeyqgiv2fQ=;WecLv6nnmShU3s7HjCsqlg=="
 ---
 

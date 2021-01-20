@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "MediaTek’s new Dimensity 1100 and 1200 chips are here to take on the premium flagship segment"
+    excerpt: "Having promised to announce a new flagship processor during its virtual summit at the tail-end of 2020, MediaTek has gone one better by launching the"
+    publishedDateTime: 2021-01-19T19:19:00Z
+    webUrl: "https://www.talkandroid.com/362259-mediatek-dimensity-1100-1200-5g/"
+    type: article
+    provider:
+      name: talkandroid.com
+      domain: talkandroid.com
+    quality: 28
+    images:
+      - url: "https://i1.wp.com/img.talkandroid.com/uploads/2021/01/MediaTek-Dimensity-1200-3-TA-scaled-e1611080583742.jpg"
+        width: 1939
+        height: 1548
+        isCached: true
   - title: "MediaTek’s new Dimensity 1100 and 1200 chips will pave the way for affordable premium flagship smartphones"
     excerpt: "Having promised to announce a new flagship processor during its virtual summit at the tail-end of 2020, MediaTek has gone one better by launching the"
     publishedDateTime: 2021-01-19T19:19:00Z

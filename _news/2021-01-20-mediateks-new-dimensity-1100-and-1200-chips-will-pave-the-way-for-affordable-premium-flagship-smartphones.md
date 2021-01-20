@@ -46,6 +46,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "MediaTek’s new Dimensity 1100 and 1200 chips are here to take on the premium flagship segment"
+    excerpt: "Having promised to announce a new flagship processor during its virtual summit at the tail-end of 2020, MediaTek has gone one better by launching the"
+    publishedDateTime: 2021-01-19T19:19:00Z
+    webUrl: "https://www.talkandroid.com/362259-mediatek-dimensity-1100-1200-5g/"
+    type: article
+    provider:
+      name: talkandroid.com
+      domain: talkandroid.com
+    quality: 28
+    images:
+      - url: "https://i1.wp.com/img.talkandroid.com/uploads/2021/01/MediaTek-Dimensity-1200-3-TA-scaled-e1611080583742.jpg"
+        width: 1939
+        height: 1548
+        isCached: true
 
 secured: "JrARRC/5Mo7gNeFrZ6Uvu4E1HKEDkBWWSBJWvaEhOUGtYKQwpdIGQl9fwxUlzvT2YJJYje6914y66gHIuef64MaJe1d2L1SPm+KAFv1lz4ZWrQXCJQculKgWqsROXW6Cq2eJxuZCijcGKVY2sVUJofowJFuCRvPAAWUKBfRD37Fy4HciTIEZGNIz3JGaMxTCoIiQhwh1eowghLwF1ChNKjBUTJZAwT08/Glz86GGGu0cTR7UdOO+rP3K0pv9pCQquKZsgyhwihWzC/emJCbmKmB9vL2BvnAWlUwpv7hiSAO4v3nw1dCquSmFysfwjb2g4HlmLt1F7M3mex38kEX+g7wWrUXU95b4kL2VewuyChvELkLY7zLXlm/H7ZwqJpJByahlBp4LIa3rjAWft5OXkbMVBh8NRf1oLwDws/PtiFwXFOoYZK9aTFJ6lSK8bPSJR4QMp0YclT5NJuZLwkTjNZtQiNkBYtegwlny+mlQykjAnV2wRTjBL6ElElHhYO1QhMLB1S6wjZZwnbhWW77Aeg==;O45usTZ/m5h/CS/lyYtiEw=="
 ---

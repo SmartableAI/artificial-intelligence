@@ -56,20 +56,6 @@ related:
         width: 730
         height: 439
         isCached: true
-  - title: "How explainable artificial intelligence can help humans innovate"
-    excerpt: "Therefore, AI researchers like me are now turning our efforts toward developing AI algorithms that can explain themselves in a manner that humans can understand. If we can do this, I believe that AI will be able to uncover and teach people new facts about the world that have not yet been discovered,"
-    publishedDateTime: 2021-01-15T21:02:00Z
-    webUrl: "https://gcn.com/articles/2021/01/15/explainable-ai.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 52
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/rubiks_cube.jpg"
-        width: 760
-        height: 368
-        isCached: true
 
 secured: "0Z3EIoxsJCFx2AZpXCSVI5vRKU8Y/D7vEvjvTHcdbheJvlOee+4wHdIyghI3nXnaXJFnaiSs093aCSLS8Oor+6gMnoH6uG5RcUDyioe+MWP0+1PF30WrXOHxWXUe5jlsFUWM9ASw1vBFM0/ZuHAcEDOsWkMOgJa/vV5+U31lCt4QdQDtJrnhhr1FR4va7nofG2LCh8nAUUEsxKVOaGZZedRu5GzUVQJB7+K7yu/Xs0vKuuwk0QYJaftvOo59BzOEKH52d0sal/Lc297jouFG/Zef1xq79If/seSlM4uu4VWr781w3ABOuMjn5LN6qB5wyXGF2zKqcOMHNnIPpH0YaVKQi4kkmO83cZSg5XDdlRs=;vLlpdkEM2PoLMLGMRKHnvQ=="
 ---

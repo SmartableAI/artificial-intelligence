@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005ff901c6ca277f62e83f1%2F0x0.jpg"
         width: 730
         height: 439
-        isCached: true
-  - title: "How explainable artificial intelligence can help humans innovate"
-    excerpt: "Therefore, AI researchers like me are now turning our efforts toward developing AI algorithms that can explain themselves in a manner that humans can understand. If we can do this, I believe that AI will be able to uncover and teach people new facts about the world that have not yet been discovered,"
-    publishedDateTime: 2021-01-15T21:02:00Z
-    webUrl: "https://gcn.com/articles/2021/01/15/explainable-ai.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 52
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/rubiks_cube.jpg"
-        width: 760
-        height: 368
         isCached: true
   - title: "Cerence Introduces Cerence Mobility Platforms; Delivers Voice and AI Experiences to New Areas of Mobility"
     excerpt: "AI for a world in motion, today announced its Cerence Mobility Platforms for Automotive, 2-Wheelers and Building Mobility. A focused, strategic approach to the company’s growth, Cerence Mobility Platforms deliver industry-leading innovation to three core areas of mobility – automotive,"

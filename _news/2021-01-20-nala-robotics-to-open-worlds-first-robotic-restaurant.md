@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The chef in this Naperville restaurant is a robot"
-    excerpt: "Back in the kitchen, the robotic chef taps into its recipe database and gets to work. The robot’s human coworkers will have chopped herbs, vegetables or other ingredients and loaded them into a dispenser."
-    publishedDateTime: 2021-01-19T18:39:00Z
-    webUrl: "https://www.chicagobusiness.com/restaurants/chef-naperville-restaurant-robot"
+  - title: "Real-world Lab “Robotic Artificial Intelligence” to Be Established at KIT"
+    excerpt: "Experiencing AI through experiments - this is the goal of the real-world lab \"Robotic Artificial Intelligence\" of KIT. (Photo: KIT)"
+    publishedDateTime: 2021-01-20T12:00:00Z
+    webUrl: "https://www.miragenews.com/real-world-lab-robotic-artificial-intelligence-to-be-established-at-kit/"
     type: article
     provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 39
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 53
     images:
-      - url: "https://s3-prod.chicagobusiness.com/styles/800x600/s3/download_6.jpeg"
-        width: 800
-        height: 600
+      - url: "https://www.cardinia.vic.gov.au/images/Rix_Road_Sod_Turn_web_copy.JPG"
+        width: 1024
+        height: 712
         isCached: true
 
 secured: "lZoEM0gdSAO0EvCdb/QKUOlQo0JI/1zL5kAOnxCKxH6N8UAWT47U4xVCU/hYAU4IvNcmUGVm+PSmeMZ2vgCNWFAXjD4QwoOAEGaWucJVudSrAjZXohQw+gAvQ78a8Iw1WL4odZZt6DHmR+RuvCUdv938kkqJ3fACPEpe5MfSBf2wv+Zer0B9ra4wl+JSCL20+eT3+YaukjjbTvIGwDYVJ4SldKAU4TtYyuEeK2JVtUCfq/Wf3JJkHtTCBAhe7eLiirBu/XD7KPpjnME9cUZTTaSpmOj/ef2cSVoCvoyYUzgslafXScQn0IlEPqMT3aZjER1TJs6RhasuWlre06L2k/t1J0pKBADock2AD8ke5Ak=;6m+cybXpx4Pu0BtLgyN31g=="

@@ -2,6 +2,135 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-02-off-the-menu-robotics-gains-foothold-in-fast-food.md",
+      "title": "Off The Menu: Robotics gains foothold in fast food",
+      "excerpt": "Miso Robotics installed Flippy in a White Castle test location, where the robot automated several parts of White Castle’s burger and fries preparation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
+      "originalUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4SMERC4X5GKFJOQMUZ6RZWABU.jpg",
+          "width": 1600,
+          "height": 1078,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/dining/2021/01/off-the-menu-robotics-gains-foothold-in-fast-food.html?outputType=amp",
+      "publishedDateTime": "2021-01-02T02:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-msbai-guru-shows-the-elements-of-artificial-intelligence.md",
+      "title": "MSBAI GURU Shows the Elements of Artificial Intelligence",
+      "excerpt": "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing ... showing society away towards driverless vehicles. To win the show, Watson utilized regular language preparing and examination on huge storehouses of ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
+      "originalUrl": "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg",
+          "width": 744,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-01T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-11.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 1.1%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) shares were up 1.1% during mid-day trading on Wednesday . The stock traded as high as $50.43 and last traded at $50.28. Approximately 50,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-1-1.html/amp",
+      "publishedDateTime": "2021-01-01T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-3-top-artificial-intelligence-stocks-to-buy-in-january.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in January",
       "excerpt": "Artificial intelligence and related technology giving ... generating but promising upstarts like autonomous vehicle outfit Waymo and life sciences technologist Verily. Even if Google's core ...",
@@ -1019,154 +1148,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-how-artificial-intelligence-will-be-used-in-2021.md",
-      "title": "How artificial intelligence will be used in 2021",
-      "excerpt": "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
-      "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
-      "publishedDateTime": "2020-12-31T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-dumb-and-dumber-the-future-of-business-ai-depends-on-hi.md",
-      "title": "Dumb and dumber: The future of business AI depends on HI",
-      "excerpt": "When every organization has access to AI ... the difference will be in Human Intelligence (HI) By Tom Foremski for Tom Foremski: IMHO | December 31, 2020 -- 16:15 GMT (08:15 PST) | Topic: 2021: What's Next for Business Technology Foremski's Take: Technology is a competitive force for early adopters and fast followers but that competitive edge -- usually defined as innovation -- never lasts long.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "originalUrl": "https://www.zdnet.com/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/31/3bdfa232-87e5-4b2c-8d71-3a0ce0a6774d/ai-or-hi.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "publishedDateTime": "2020-12-31T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner.md",
-      "title": "For New Year’s Resolutions, Never Think You’re Too Old to Become a Beginner",
-      "excerpt": "Have we ever needed a fresher start than the one promised by 2021? As we head into a new year with all its hopes—new year, new you, newly recovered world—there is one thing from the outgoing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner-11609426707",
-      "originalUrl": "https://www.wsj.com/articles/for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner-11609426707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-31T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

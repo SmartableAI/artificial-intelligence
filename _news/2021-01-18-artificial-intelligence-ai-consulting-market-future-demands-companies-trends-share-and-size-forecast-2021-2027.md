@@ -26,52 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data"
-    excerpt: "CAGR of 43.6%, Market Trends -Drug development for COVID-19. The global artificial intelligence (AI) in healthcare market is forecast to reach a market size of USD 61.59 Billion by 2027 and register a significantly high CAGR,"
-    publishedDateTime: 2021-01-19T10:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data-2021-01-19"
+  - title: "Artificial Intelligence (AI) in Healthcare Market in India Growing Popularity and Emerging Trends"
+    excerpt: "A new research document is added in HTF MI database of 50 pages titled as Artificial Intelligence AI in Healthcare Market in India 2018 2023 with detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes"
+    publishedDateTime: 2021-01-20T12:38:00Z
+    webUrl: "https://www.openpr.com/news/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
+    ampWebUrl: "https://www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/U/1/U120136029_g.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
+    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
+    publishedDateTime: 2021-01-18T10:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-2020-size-growth-analysis-top-key-players-latest-innovation-and-forecast-to-2025-2021-01-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-19T05:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-    excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
-    publishedDateTime: 2021-01-18T14:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com | Morningstar"
-    excerpt: "ResearchAndMarkets.com The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-18T14:18:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210118005340/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
 
 secured: "9m0pVcrF2mR/PCT/H875OyzVhEdFlLCO3qDjn2ZWyvvPnTMZ1svU6DuoGnvI1ocy5AfIT9KQPRhxZcW98hKKfsDYmBp2zaN7tAM+wehrJx0gr8f38sS9fj85tmk2HXuBt/Tw/udm03lny6x23ojm+7JPEcSMTrxVdzzmriWwvC+tYVTscYuDDrQaxxL4E+cXXtMjBFJlFqDKoDOyoVENPUk5cQyrCpyUqg8uTHY9NDAGnwkov9196w8KGWtFLBT7Qgy77mmebKxeuvw2RC7hKZtg+v6j46xY3XzoDZ59xkPHibZKdQL996osPDLkmCd3zRgP4MT3eNEasTJtjfpWJby1F1K5PCKzCHezIvKr1Bs=;fClmtWAxrm9B0/3tHYdNyw=="
 ---

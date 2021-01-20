@@ -2,23 +2,17 @@
 category: news
 title: "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition and New Contract in Maryland"
 excerpt: "(GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT or OTC:RQHTF or WKN:A2AJTB) (“ Reliq ” or the “ Company ”), a rapidly growing global telemedicine company that develops innovative Virtual Care solutions for the multi-billion dollar Healthcare market,"
-publishedDateTime: 2021-01-20T08:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland-1029984922"
-webUrl: "https://markets.businessinsider.com/news/stocks/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland-1029984922"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Reliq-Health-Technologies-Inc-Announces-Launch-of-Multilingual-Interactive-Voice-Recognition-and-New-Contract-in-Maryland-1029984922"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Reliq-Health-Technologies-Inc-Announces-Launch-of-Multilingual-Interactive-Voice-Recognition-and-New-Contract-in-Maryland-1029984922"
+publishedDateTime: 2021-01-20T02:01:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8138419/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8138419/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland"
 type: article
-quality: 28
-heat: 28
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
@@ -40,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "JCSfx18kSqJtUl6Ix0ijLaxjTbDGtt5fgttCFbRLkeIIgJMWY4HA0vGHDySgzIgoMO4zWkFBoEXJ3eCFCrfOjw2YRAJF0autkp6jRW9VH0KVHD4Zn6UBGZ+Trej8gAB21TLqUn1+atysVl6+cf/rMhIFSVippFwpUydqFNxW54kRUuQcIza8vSE2t07sAt4KNFT3dI2kCdPvpzPmPdlZwqDC/4LapzvkveOa7fzLkHu+DCfVGG0ojbc/bciNUPF6VPuqAuXQPVGht+IDjRFfg0oiDWzAbC+WlDi8VNvhaJpcbh4Phn0uzCEU6ArfMlB4MGZQcv4C/J60i7GLh6innNFsl/I4BJX+iTeTcFAC7n4=;z2nyZixd4ILSauMMe/j9PA=="
+secured: "iiMp+LtvQCqGC4mvVRpW7Sz3N9AMjtNI75n891q0UeLSkzqLsx9K8nz5qBgIxi3Sps4z9DiALPBRWrt8stTSf6SeTi/T+/wyz/pGtfUUxsgRL97QOpUCfbHrNVhwI30LHdyhGknLuz2IhrPEiD5RS3mN1UGkbQiTEz4nFKIao2IGrEc3jSvwnYxpkKZNXUuZdungxf4Z72zwFh4YmVZ+ywoVdx7MNvGy12+9I/iJnVR/PF43D0/8ig3v3eOhyLGr4y9uX+0qrJd7W6JAoFmpdBP4QogHMXhwlhGsf14b6UD6KI/ZwduADHfrgsH/s7EjOMpUZO7rQB9aorasBoH6OZsyuhfN6OKS0PMLUi/NPew=;rXliNUOXl8cdLLrn1chd4A=="
 ---
 

@@ -28,12 +28,14 @@ related:
   - title: "Guilford company gets FDA approval in effort to aid stroke victims"
     excerpt: "Time is of the essence in preventing brain injury following a stroke, and a Guilford-based company has received federal approval for a development that may be able to aid in that fight. Officials with U."
     publishedDateTime: 2021-01-17T13:00:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php?src=sthpbusiness"
+    webUrl: "https://www.nhregister.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+    ampWebUrl: "https://www.nhregister.com/business/amp/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/business/amp/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 59
     images:
       - url: "https://s.hdnux.com/photos/01/16/14/66/20499877/3/rawImage.jpg"
         width: 1582

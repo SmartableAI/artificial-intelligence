@@ -7,7 +7,7 @@ originalUrl: "https://www.globalbankingandfinance.com/category/news/diagnos-anno
 webUrl: "https://www.globalbankingandfinance.com/category/news/diagnos-announces-a-3-year-partnership-agreement-with-the-university-of-montreal-hospital-centre-chum-on-the-use-of-artificial-intelligence/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "DIAGNOS announces a 3-year partnership agreement with the University of Montreal Hospital Centre (CHUM) on the use of Artificial Intelligence"
-    excerpt: "Diagnos Inc. (\"DIAGNOS\" or \"Company\") , a leader in early detection of critical health problems through the use of artificial intelligence (AI), announces a three (3) year framework partnership agreement with the CHUM (Center Hospitalier"
-    publishedDateTime: 2021-01-19T14:50:00Z
-    webUrl: "https://www.lelezard.com/en/news-19606453.html"
+    excerpt: "(GLOBE NEWSWIRE) -- Diagnos Inc. (\"DIAGNOS\" or \"Company\") (TSX Venture Exchange: ADK) (OTCQB: DGNOF), a leader in early detection of critical healt"
+    publishedDateTime: 2021-01-19T14:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/diagnos-announces-a-3-year-partnership-agreement-with-the-university-of-montreal-hospital-centre-chum-on-the-use-of-artificial-intelligence-1029981892"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/DIAGNOS-announces-a-3-year-partnership-agreement-with-the-University-of-Montreal-Hospital-Centre-CHUM-on-the-use-of-Artificial-Intelligence-1029981892"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/DIAGNOS-announces-a-3-year-partnership-agreement-with-the-University-of-Montreal-Hospital-Centre-CHUM-on-the-use-of-Artificial-Intelligence-1029981892"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
 
 secured: "Pw0OdiDD2eL7CKW2m3RSaLoHKHqqYu3XoEYvx2ILEI6zCQWvUP+OpMvS/cvpxJDchkMOuLXGAnI3McuJbpsx1JO/JXYtUPaylFvW7DDSv4V6k4Z5MNvO0Tnpv06oTWyAsKHvusrPijLZkrMGA9ls3et24f047p9kO8/1IDlGg1kTP8EZmBYOOrpbWAVZzs7tmvubeXGjy7S2eB+pqebuLYgaG4FEyOtHY1qckrDx+I6Cx98Z6vBCFyTNeNSbFPLMnFl9mctqG2dVba2Jw6ACSEdQAP1zRIhlqSu2CorgMd16+KAposD+oQ447nDxZdJjgGSfClL0IHaIGc045iFQ8+OA2lvcDFvwRTYc+5ayvxE=;EQIlNJmaDphqITVLSv9DKQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-develo
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI developer to discard data used in controversial 'female' chatbot"
-    excerpt: "The South Korean developer of a controversial chatbot said Friday it will discard all data and learning algorithms used in training the"
-    publishedDateTime: 2021-01-16T07:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-developer-to-discard-data-used-in-controversial-female-chatbot-9699023"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
     excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
     publishedDateTime: 2021-01-19T13:03:00Z

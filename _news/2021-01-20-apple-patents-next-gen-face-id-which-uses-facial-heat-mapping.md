@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-
 webUrl: "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1053
     height: 729
     isCached: true
+
+related:
+  - title: "Apple patents the next-generation Face ID technology"
+    excerpt: "Apple has received a new patent related to Face ID, which is a biometric user authentication system. The patent details next-generation face recognition technology that"
+    publishedDateTime: 2021-01-20T11:26:00Z
+    webUrl: "https://www.gizchina.com/2021/01/20/apple-patents-the-next-generation-face-id-technology/"
+    ampWebUrl: "https://www.gizchina.com/2021/01/20/apple-patents-the-next-generation-face-id-technology/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/01/20/apple-patents-the-next-generation-face-id-technology/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 44
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/6a0120a5580826970c0263e9898541200b.jpg"
+        width: 914
+        height: 495
+        isCached: true
 
 secured: "tjkdKgzs2YhIvqwSJBGv/3NyKAYRWgScHw3pSoecpNrD0JudFsF94E4JY7EdSyAXoGJ64i++t2Ezv1h/xuhLPl2SwwacLgnBobr2jeT8a1g5be8HZbvW/K2frK6ac0d98lv96l8eAr/MKHwJ5zg5h2rsmud1S2btpzJo+AhyVj5yEtkL5Day7yub5tkmogtbalGHLc7hsOsHqe/Dh+b1FvH2bMkyybXmlL9RfVQQpW9OpKeSsxjyI6vmi9B70sx6ms1D6rWOrZ6L5aH5keEHrzzYd3gm4lL39jhDSz1tmLM2i44pt3YJ4+AN7Y/FO/cGK9tgZ94UebcsqilM8iip+BjkhfmpiAE5udLxll25tTo=;JBOdCahdEBcipz6/KkrE4Q=="
 ---

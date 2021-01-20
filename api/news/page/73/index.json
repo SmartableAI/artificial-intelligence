@@ -2,750 +2,19 @@
   "page": 73,
   "value": [
     {
-      "path": "_news/2020-11-09-healthcare-artificial-intelligence-market.md",
-      "title": "Healthcare Artificial Intelligence Market",
-      "excerpt": "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ...",
+      "path": "_news/2020-11-20-ai-powered-learning-tools-are-on-track-to-transform-the-modern-workplace-for-good.md",
+      "title": "AI-powered learning tools are on track to transform the modern workplace for good",
+      "excerpt": "A new era of automation will help workers constantly acquire new skills on the job and at large scale through the use of AI-powered tools.",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "originalUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
+      "webUrl": "https://www.businessinsider.com/sc/how-ai-powered-learning-is-transforming-the-modern-workplace-2020-11",
+      "originalUrl": "https://www.businessinsider.com/sc/how-ai-powered-learning-is-transforming-the-modern-workplace-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.openpr.com/T/b/Tb09580094_g.jpg",
-          "width": 780,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "publishedDateTime": "2020-11-09T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-funding-alert-b2b-sales-startup-nektarai-raises-215-mn-seed-funding-led-by-nexus-venture-partners.md",
-      "title": "[Funding Alert] B2B Sales Startup Nektar.ai Raises $2.15 Mn Seed Funding Led By Nexus Venture Partners",
-      "excerpt": "Singapore-based business-to-business (B2B) sales startup, Nektar.ai on Monday announced it has raised $2.15 million in a seed funding round led by Nexus Venture Partners to build an artificial intelligence (AI)-powered go-to-market collaboration engine for modern revenue teams with participation from Insignia Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359261",
-      "originalUrl": "https://www.entrepreneur.com/article/359261",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604910806-L-RAbhijeetVijayvergiyaAravindRaviSulekha.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359261",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359261",
-      "publishedDateTime": "2020-11-09T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-an-ai-engineer-walks-into-a-data-shop.md",
-      "title": "An AI Engineer Walks Into A Data Shop...",
-      "excerpt": "If it’s not quite off-the-shelf AI, then its composable AI that brings together some of the core functions that smart systems use regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f996d1557bfc401bd9f3e03%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "publishedDateTime": "2020-11-09T00:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-robot-soldiers-could-soon-make-up-a-quarter-of-the-army.md",
-      "title": "Robot soldiers could soon make up a quarter of the army",
-      "excerpt": "In the age of artificial intelligence, robots will soon represent a large part of the armed forces, according to the UK's chief of the defence staff Nick Carter, who predicted that up to a quarter of the army could be made up of autonomous systems in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "publishedDateTime": "2020-11-09T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-buddhist-nuns-and-their-crusade-for-recognition-in-southeast-asia.md",
-      "title": "Buddhist Nuns and Their Crusade for Recognition in Southeast Asia",
-      "excerpt": "\"The Buddha is my first feminist … in a very traditional society, he opened the space for women by recognizing they can achieve a highest spiritual goal.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "originalUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fa8af370bb14e0095416283/lede/1604891135349-1-1.jpeg?crop=1xw:0.4428xh;0xw,0.0389xh",
-          "width": 1440,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "publishedDateTime": "2020-11-08T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ai-can-drive-ethical-investment-only-if-we-grasp-the-messy-reality.md",
-      "title": "AI can drive ethical investment only if we grasp the messy reality",
-      "excerpt": "We also need to look at the ethical “fingerprint” of organisations we are considering investing in, and not simply tag them as ESG or not ESG, or lump them together in groups based on an arbitrary cut-off point on a scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
-      "originalUrl": "https://www.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd6f4f721-b03f-46e8-842f-53d782ae5ad0.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
-      "publishedDateTime": "2020-11-08T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-chinese-autonomous-truck-startup-inceptio-raises-120-mln-from-catl-others.md",
-      "title": "Chinese autonomous truck startup Inceptio raises $120 mln from CATL, others",
-      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/inceptio-autonomous-idUSL1N2HU0DG",
-      "originalUrl": "https://www.reuters.com/article/inceptio-autonomous-idUSL1N2HU0DG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2HU0DG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HU0DG",
-      "publishedDateTime": "2020-11-08T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor.md",
-      "title": "The Best Machine Learning Startups To Work For In 2021 According To Glassdoor",
-      "excerpt": "AVORA, Codesmith, FairMarkIT, Protenus and Ravelin are the most likely to be recommended by their employees to friends looking for a machine learning startup to work for in 2021 based on each company's Glassdoor ratings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6970cb93c4bdf032c4b97d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
-      "publishedDateTime": "2020-11-08T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-autonomous-startup-ponyai-raises-267m-to-boost-rd.md",
-      "title": "Autonomous Startup Pony.ai Raises $267m To Boost R&D",
-      "excerpt": "California-based Pony.ai said it is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2020-11-09/autonomous-startup-pony-ai-raises-267m-to-boost-r-d-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2020-11-09/autonomous-startup-pony-ai-raises-267m-to-boost-r-d-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.YLzmNyBzI/v5/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-08T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-chinese-autonomous-truck-startup-inceptio-raises-120-million-from-catl-others.md",
-      "title": "Chinese autonomous truck startup Inceptio raises $120 million from CATL, others",
-      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL <300750.SZ>.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKBN27O0Y9",
-      "originalUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKBN27O0Y9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540459170&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70QK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27O0Y9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0Y9",
-      "publishedDateTime": "2020-11-08T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-how-artificial-intelligence-may-be-making-you-buy-things.md",
-      "title": "How artificial intelligence may be making you buy things",
-      "excerpt": "So the next time you dash into your local shop to buy certain snacks and a particular wine on a Friday night, perhaps you can blame AI, and a computer that has learned all about you, for the decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/technology-54522442",
-      "originalUrl": "https://www.bbc.com/news/amp/technology-54522442",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26A6/production/_115249890_gettyimages-1128467471.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54522442",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54522442",
-      "publishedDateTime": "2020-11-08T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste.md",
-      "title": "CSIRO to use artificial intelligence, machine learning, and sensors to end plastic waste",
-      "excerpt": "The Commonwealth Scientific and Industrial Research Organisation (CSIRO) has announced partnerships with Microsoft, Hobart City Council, and Chemistry Australia to address -- and attempt to end -- Australia's plastics waste issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "originalUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
-          "width": 728,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "publishedDateTime": "2020-11-08T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-sci-fi-master-ted-chiang-explores-the-rights-and-wrongs-of-artificial-intelligence.md",
-      "title": "Sci-fi master Ted Chiang explores the rights and wrongs of artificial intelligence",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives. The story of Ted Chiang’s life includes stints as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
-      "originalUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/Chiang-Publicity-630x444.jpg",
-          "width": 630,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-08T13:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry.md",
-      "title": "Walmart Ditches Major Robot Contract: So What Does This Mean For The Industry?",
-      "excerpt": "Walmart has been investing heavily in robots, such as for cleaning floors. But the company’s efforts have not been without their challenges. This week Walmart terminated its engagement with Bossa Nova Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa836f4ea89321072f85ba8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D416%26cropY2%3D2667",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
-      "publishedDateTime": "2020-11-08T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-review-cadillac-super-cruise-trumps-tesla-autopilot-as-the-best-self-driving-technology-you-can-buy-today.md",
-      "title": "REVIEW: Cadillac Super Cruise trumps Tesla Autopilot as the best self-driving technology you can buy today",
-      "excerpt": "I subjected the system to new challenges, including a congested highway and some genuinely awful, rainy weather.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
-      "originalUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa43726f7d1cb0019e3a02a?width=1200&format=jpeg",
+          "url": "https://i.insider.com/5faecfbe1c741f0019ac9b58?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -755,9 +24,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
-      "publishedDateTime": "2020-11-08T05:03:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T08:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -780,43 +49,42 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-11-08-this-ai-makes-movies-from-hundreds-of-phones-automatically.md",
-      "title": "This AI Makes Movies From Hundreds Of Phones Automatically",
-      "excerpt": "AI.” Video processing algorithms can find the region of interest in videos, IMINT says, and in the future, they’ll automatically zoom in and intelligently focus on what they’re seeing: a goal being scored at a soccer game,",
+      "path": "_news/2020-11-20-a-deep-learning-toolkit-gives-java-developers-a-jumpstart.md",
+      "title": "A Deep Learning Toolkit Gives Java Developers a Jumpstart",
+      "excerpt": "Deep Java Library (DJL), is an open-source library created by Amazon to develop machine learning (ML) and deep learning (DL) models natively in Java while simplifying the use of deep learning ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
+      "webUrl": "https://www.infoworld.com/article/3597908/a-deep-learning-toolkit-gives-java-developers-a-jumpstart.html",
+      "originalUrl": "https://www.infoworld.com/article/3597908/a-deep-learning-toolkit-gives-java-developers-a-jumpstart.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa78ea1652a1b5372c5aa4f%2F0x0.jpg",
-          "width": 1000,
-          "height": 750,
+          "url": "https://images.idgesg.net/images/article/2020/11/istock-1199145131-100867577-large.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
-      "publishedDateTime": "2020-11-07T23:04:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T08:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -824,272 +92,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-why-face-recognition-technologies-are-getting-thumbs-down.md",
-      "title": "Why face recognition technologies are getting thumbs down?",
-      "excerpt": "Just a few months back, IBM CEO announced that it was taking the focus off the facial recognition services. Arvind Krishnan in a letter to the US Congress wrote that 'IBM no longer offers general ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/analysis/why-face-recognition-technologies-are-getting-thumbs-down",
-      "originalUrl": "https://www.freepressjournal.in/analysis/why-face-recognition-technologies-are-getting-thumbs-down",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_19070983/thumb.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/analysis/why-face-recognition-technologies-are-getting-thumbs-down/013aad50-88ab-43eb-a4c9-ac33d558ae59",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/analysis/why-face-recognition-technologies-are-getting-thumbs-down/013aad50-88ab-43eb-a4c9-ac33d558ae59",
-      "publishedDateTime": "2020-11-07T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-hold-your-horsepower-for-mobility-industry-reality-is-sinking-in.md",
-      "title": "Hold Your Horsepower: For Mobility Industry, “Reality Is Sinking In”",
-      "excerpt": "It sounded like pretty big news, but to understand company announcements about the commercial viability of driverless cars ... But as the artificial intelligence technology underpinning them ...",
-      "sourceUrl": null,
-      "webUrl": "https://xconomy.com/detroit-ann-arbor/2018/11/08/hold-your-horsepower-for-mobility-industry-reality-is-sinking-in/",
-      "originalUrl": "https://xconomy.com/detroit-ann-arbor/2018/11/08/hold-your-horsepower-for-mobility-industry-reality-is-sinking-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.xconomy.com/wordpress/wp-content/images/2018/11/08104330/emil-jarfelt-131276-unsplash-e1541691976295.jpg",
-          "width": 1480,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Xconomy",
-        "domain": "xconomy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-microsofts-strategy-for-finding-whats-next-in-healthcare-ai.md",
-      "title": "Microsoft’s Strategy for Finding What’s Next in Healthcare A.I.",
-      "excerpt": "Chatbots: Microsoft’s Bot Framework, including its suite of machine learning models covering speech and language processing, entity extraction, and other cognitive services, is finding ...",
-      "sourceUrl": null,
-      "webUrl": "https://xconomy.com/seattle/2017/11/08/microsofts-strategy-for-finding-whats-next-in-healthcare-a-i/",
-      "originalUrl": "https://xconomy.com/seattle/2017/11/08/microsofts-strategy-for-finding-whats-next-in-healthcare-a-i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.xconomy.com/wordpress/wp-content/images/2017/11/06153240/peter_lee-2.jpg",
-          "width": 1241,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Xconomy",
-        "domain": "xconomy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech.md",
-      "title": "Nine Inch Nails at Rock Hall 2020: Watch Trent Reznor’s Induction Speech",
-      "excerpt": "Nine Inch Nails were honored tonight during the Rock & Roll Hall of Fame 2020 Induction Ceremony on HBO. After an induction speech from Iggy Pop and a video package that included words from St. Vincent,",
-      "sourceUrl": null,
-      "webUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
-      "originalUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.pitchfork.com/photos/5fa7288e043ba2867b8ec85a/2:1/w_648/trent-reznor.jpg",
-          "width": 648,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
-      "cdnAmpWebUrl": "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
-      "publishedDateTime": "2020-11-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pitchfork",
-        "domain": "pitchfork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-how-the-department-of-veterans-affairs-uses-ai-to-help-vets.md",
-      "title": "How The Department Of Veterans Affairs Uses AI To Help Vets",
-      "excerpt": "With the largest integrated health care system in the country and a strong mission, the VA had tremendous potential to use AI for its mission. Dr. Gil Alterovitz shares the AI experience at the VA and how it's impacting the agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa6da8d7d7e38d5bf5f0e92%2F0x0.jpg",
-          "width": 586,
-          "height": 584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
-      "publishedDateTime": "2020-11-07T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-estimating-the-carbon-footprint-of-deep-learning-algorithms.md",
-      "title": "Estimating the carbon footprint of deep learning algorithms",
-      "excerpt": "According to their estimates, hardware used to train a deep learning algorithm can use worrying amounts of energy from an environmental standpoint. Whether browsing movies suggested by Netflix ...",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/105438/estimating-the-carbon-footprint-of-deep-learning-algorithms",
-      "originalUrl": "https://technology.inquirer.net/105438/estimating-the-carbon-footprint-of-deep-learning-algorithms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technology.inquirer.net/files/2020/11/istock_507378942.23add102050.w768-470x313.jpg",
-          "width": 470,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://technology.inquirer.net/105438/estimating-the-carbon-footprint-of-deep-learning-algorithms/amp",
-      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/105438/estimating-the-carbon-footprint-of-deep-learning-algorithms/amp",
-      "publishedDateTime": "2020-11-07T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1103,21 +105,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-07-remote-testing-monitored-by-ai-is-failing-the-students-forced-to-undergo-it.md",
-      "title": "Remote testing monitored by AI is failing the students forced to undergo it",
-      "excerpt": "While automated proctoring might seem like a panacea in this age of virtual schooling, it’s a terrible solution for millions of students.",
+      "path": "_news/2020-11-20-artificial-intelligence-is-reshaping-finance.md",
+      "title": "Artificial intelligence is reshaping finance",
+      "excerpt": "Instead, the German tie-up’s real significance is as a tiny, but unusually visible, sign of a feverish race under way at banks and tech companies to find ways to use big data and artificial intelligence in finance.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
+      "webUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
+      "originalUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_45/3426603/201106-standardized-test-bubbles-jm-1744_c97a4fdf84e74f6c398cbb518f464821.jpg",
-          "width": 1483,
-          "height": 989,
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F136ee239-920a-4bb8-afc5-c91ad26d1f4d.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1125,13 +127,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1246769",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1246769",
-      "publishedDateTime": "2020-11-07T01:33:00-08:00",
+      "ampWebUrl": "https://amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
+      "publishedDateTime": "2020-11-19T08:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "The Financial Times",
+        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1141,61 +143,10 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-millennial-indian-parents-consider-adoption-of-robot-nanny-survey.md",
-      "title": "Millennial Indian Parents Consider Adoption Of Robot Nanny: Survey",
-      "excerpt": "More than three-quarters of parents in India agree that having a robot nanny to help their children do their homework would alleviate a significant amount of their COVID-19-related stress",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359227",
-      "originalUrl": "https://www.entrepreneur.com/article/359227",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604739640-pexels-alex-knight-2599244.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359227",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359227",
-      "publishedDateTime": "2020-11-07T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     }
   ],
-  "nextPage": 74
+  "nextPage": null
 }
