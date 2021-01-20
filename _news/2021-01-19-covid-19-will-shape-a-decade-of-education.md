@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Providence accelerates data center consolidation, plans to close six amid Covid troubles"
-    excerpt: "Washington-based healthcare provider aims to reduce data center portfolio in the wake of Covid-fueled financial challenges"
-    publishedDateTime: 2021-01-15T11:06:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/providence-accelerates-data-center-consolidation-plans-close-six-amid-covid-troubles/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 15
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/healthcare-investing-20161-450x37.2e16d0ba.fill-1200x630.jpg"
-        width: 470
-        height: 248
-        isCached: true
 
 secured: "62B2DZX13uHh4f0kQLeC6T5fV9ohA463uD0plkvm1s49s3rJxRp5bmlrJu+KT5VEO0tqWSiUtySQHXH779aR/uF+kETmfc8wEN5ZeU2vhDZNh6Bgj0VMM/hBB5Ws8KnJ9djLB406DANpye7wSl36FU1R1XCOkk2PHImcfDENS1JlagaGn2+g8BGbNWxb6a3dmhvnjE18gMVwQrritEAame/iMVVQii2ZylgXhwStBrLGLD5Q3Xu7yRZr5WnWGjkIt0ZcUSYDIEh/KTPcLgEEgVX1rfnMPYVN1Ew8a5RZZXZJnI5xY7wZpfRu74AwR8Hsquub2Mgt6y0ILLa9P4q/0ifmievQU1MH94U2X74eDa28Ccx/MEywzrR71AbFH7tz9ITNsn6eDTTIOe2onVVXrHg9AegGIb37pG/qq5lxx1NRaIzMZzvGQ7J7BdGszKTaN5t/rbKMYA333Sb5awlSyzntruxVB5oj4YFV/nWwuLajXDJPCzXR91VrowHh4ViNTwZwHi90uiS0/BCtYTgMwQ==;wkgVvSUU7hvLL1veTW0B7Q=="
 ---

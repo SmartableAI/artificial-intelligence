@@ -45,22 +45,6 @@ related:
         width: 770
         height: 338
         isCached: true
-  - title: "Image Recognition Market 2020-2027 | Latest Trending Report with Analysis and Future Growth Opportunities"
-    excerpt: "The global image recognition market was valued at 17 911 million in 2017 and is projected to reach 86 001 million by 2025 growing at a CAGR of 21 8 from 2018 to 2025 The report offers key drivers that"
-    publishedDateTime: 2021-01-18T14:12:00Z
-    webUrl: "https://www.openpr.com/news/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    ampWebUrl: "https://www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118376725_g.jpg"
-        width: 500
-        height: 331
-        isCached: true
   - title: "Facial Recognition Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
     excerpt: "Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security"
     publishedDateTime: 2021-01-16T02:58:00Z

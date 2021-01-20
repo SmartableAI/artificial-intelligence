@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2021/01/ai-powered-text-from-t
 webUrl: "https://arstechnica.com/tech-policy/2021/01/ai-powered-text-from-this-program-could-fool-the-government/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "AI-Powered Text From This Program Could Fool the Government"
-    excerpt: "A Harvard medical student submitted auto-generated comments to Medicaid; volunteers couldn’t distinguish them from those penned by humans."
-    publishedDateTime: 2021-01-15T12:03:00Z
-    webUrl: "https://www.wired.com/story/ai-powered-text-program-could-fool-government/"
-    ampWebUrl: "https://www.wired.com/story/ai-powered-text-program-could-fool-government/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-powered-text-program-could-fool-government/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5ffe4354d1b678550992ba2c/master/pass/gpt-comments-3240682.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
 
 secured: "CCYJVWoU5oN1zZbu28+BCmFObMx6bWumouIY96oWwMQac65tbI8h1g1JGPgP/rQQcT1+vwq10Ng+a401zZnLphqZKgik/X0WWfBuNxjCzRqcZX+Piktwb3vrC3qLgSWAzx4wElqYbC6UV81t+Qe7GLl9R9GdTW0inP4zWK3dscnvES/sEmOIkHCGe/W533WLSDG9Q76hqwGvpUe/8qUGXVmKLPI/nhZMgYlNxvx2ReAT1R6jfKt0L+AoADsafVJlM2XZ2B7jCidbcD5mGrGdjpkDHC5rhLpVey3jOGifMwedKOQoG9jlCnhaEq/iX7kTwGwFJX0Vyq+3ukpWW3arrKc1DivxLNiAjsWvWCPjFWpd+T91B2Pt7xwAVBa7AoL6QjjrDqzljnFa0H0hs6HAFxRADyDiMWUSULDU6zHLdMBvy9EfEGDStxjaQwlq+mRqdbTSrx2xaWQh2g+JPFRBSrUVGjkQlLMKk3w06UBr0/Lv4UDZpuEG4xgag9kgrXa5RMuN4Bdn8cl9FrtVi8XRmQ==;C+TnHok3WJVMM4E+4O4cdw=="
 ---

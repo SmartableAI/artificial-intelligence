@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI set to replace humans in cybersecurity by 2030, says Trend Micro"
-    excerpt: "Trend Micro predicts that cybercriminals will look to home networks as a critical launch pad to compromising corporate IT and IoT networks."
-    publishedDateTime: 2021-01-15T11:27:00Z
-    webUrl: "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Artificial Intelligence likely to replace humans in cybersecurity space by 2030"
     excerpt: "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools."
     publishedDateTime: 2021-01-17T17:06:00Z
@@ -65,20 +54,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/01/19074709/deeparmor-gui.jpg"
         width: 1280
         height: 686
-        isCached: true
-  - title: "Using Artificial Intelligence to Counter Cybersecurity Threats for Drones"
-    excerpt: "Drones can now be equipped with cybersecurity powered by artificial intelligence (AI). SparkCognition and SkyGrid announced a new partnership to protect drones from zero-day attacks by installing an airspace management system that relies on AI instead of signatures of known threats to detect malicious actors,"
-    publishedDateTime: 2021-01-20T01:28:00Z
-    webUrl: "https://www.aviationtoday.com/2021/01/19/using-artificial-intelligence-counter-cybersecurity-threats-drones/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 36
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/01/deeparmor-image-3.png"
-        width: 1196
-        height: 673
         isCached: true
 
 secured: "tPZoxpTWk4DCkFz+aEQFP/lAFO56Qj4i0nLPmSIFlVKFxkPd8jwER4zYhVMsTjcbdXtYCazP8XGvL4BVXW0O8FGtibbrxNLoDa29bVaVJEEmF2uVVfXmsjEc3RVw+bcl4FZ3TYyj3XhVXCzjDgGPpHt5J75hN8R/gH8smQ9ikenqb2E/kUa006IlyrwBU63yc/XL1TB3DffiJRsnl0Y9tXlGSuFTKyPD0yGufuSsExoZvCqOxFprmxVxukw915UTx2ZIfgNrhS3HhH4Op22k/Knckc9M8J2FyTShe9dosz6AZeoRfFyzROBNmI6V/WZdVm1AD88bJnhO/dA9G+YZyE5RFO9rhgx2mC4oG9RN33o=;qiQpx8h6dXKVzhgzgnQ5AQ=="

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Infosys Launches Applied AI Cloud 'Cobalt Offering'"
-excerpt: "(RTTNews) - Infosys (INFY) announced the launch of an Infosys Cobalt offering - its applied AI cloud. Powered by NVIDIA DGX A100 systems, the"
-publishedDateTime: 2021-01-19T12:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/infosys-launches-applied-ai-cloud-cobalt-offering-1029980480"
-webUrl: "https://markets.businessinsider.com/news/stocks/infosys-launches-applied-ai-cloud-cobalt-offering-1029980480"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Infosys-Launches-Applied-AI-Cloud-Cobalt-Offering-1029980480"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Infosys-Launches-Applied-AI-Cloud-Cobalt-Offering-1029980480"
+excerpt: "(RTTNews) - Infosys (INFY) announced the launch of an Infosys Cobalt offering - its applied AI cloud. Powered by NVIDIA DGX A100 systems, the applied AI cloud will provide Infosys employees simple and fast access to AI infrastructure,"
+publishedDateTime: 2021-01-19T12:08:00Z
+originalUrl: "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19"
+webUrl: "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19"
+ampWebUrl: "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19?amp"
 type: article
 quality: 69
 heat: 99
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
@@ -65,6 +61,6 @@ related:
       domain: equitybulls.com
     quality: 19
 
-secured: "YZWU+p655M2Nxpm1Ad5liYI394U6FU1+8ZtV3EwMhrysKQNqstGxEicmA27GzkZ3ywO+Ln7VFi7yuGCQTDQAm6JhdT9Nu/Ixfq0qwH9ienDAS9j7sxCN9DdUx/tZsDHur3+TwC5qmc0r40Dq1zpo+S4DIb/d0RgOY8ZZk4TjKjeJ5rHeGHLPE/SeDKkv1SGb4hlTxEj4mtgYiSNJC38L4pnNuyQYeh2fGsYKV8ISo06BderJAZv0f3GAHcJgCXJov2fYUyblohCvKH+IZOyo3J+00mfMoGRFJZnyjjBmpSDnTUbhM6gh2o/SmuZzArUBfpWNqR7Whvbf2y7b3ia00VC9jnVXgDFPAoxmy1Xy8ng=;CD1C0FlUq3Fe2kAE9Ac1Tw=="
+secured: "OxreATk6t84TCegIUA1WILelkqmehybVUfeD7vU3cGAxkOsUZx416wJPh20zQ92kxY77KKb/ijayDhxjsxBPOEjB/h/bvIKiTizBHfmnc8FOeKvzcGJXCjBkH0YuL0LEe8pqmNdU7BAeOKe3Ypdhwud5MzZhwAxR5erqVgllOZD8i6PYr675xEeGpnJI9NiLjW2U7/zQ+EVd1xMSVUEpw9rbVZktoAl8wMQtQ9vxU3KmwtF1L4htOFGGbTVt1mfu6mVHV/mv3XlZ3D8nWBP8M8W+ogWRSiQPRmfev8jk1wRB66QoD6FVXpEqahfzo8FtnYQc/RhPLnT9ZMA0a9/j1dzOSfZVdv4B4nLzE2r3dSk=;w3PmS2eJBTt2MEw9CR2KpA=="
 ---
 

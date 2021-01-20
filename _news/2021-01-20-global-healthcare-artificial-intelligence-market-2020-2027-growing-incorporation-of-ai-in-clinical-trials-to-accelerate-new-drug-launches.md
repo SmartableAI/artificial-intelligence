@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
-excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2021-01-19T19:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
+excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+publishedDateTime: 2021-01-19T19:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 64
+heat: 114
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
+  - AI
 
 related:
   - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be"
@@ -39,6 +39,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market 2020-2027 | Latest Trending Report with Analysis and Future Growth Opportunities"
+    excerpt: "The global image recognition market was valued at 17 911 million in 2017 and is projected to reach 86 001 million by 2025 growing at a CAGR of 21 8 from 2018 to 2025 The report offers key drivers that"
+    publishedDateTime: 2021-01-18T14:12:00Z
+    webUrl: "https://www.openpr.com/news/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    ampWebUrl: "https://www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+    images:
+      - url: "https://cdn.openpr.com/U/1/U118376725_g.jpg"
+        width: 500
+        height: 331
+        isCached: true
+  - title: "Global Collaborative Robots Markets Report 2020: Innovation That Fuels New Deal Flow and Growth Pipelines"
+    excerpt: "The \"Collaborative Robots, 2020\" report has been added to ResearchAndMarkets.com's offering. Conventional manufacturing setups have been exposed to traditional industrial robots over the years that have gained widespread adoption globally."
+    publishedDateTime: 2021-01-19T16:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19218929/global-collaborative-robots-markets-report-2020-innovation-that-fuels-new-deal-flow-and-growth-pip"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19218929"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19218929"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "Global $50+ Billion Healthcare Artificial Intelligence Market to 2027: Focus on Medical Imaging, Precision Medicine, & Patient Management"
     excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
     publishedDateTime: 2021-01-15T13:58:00Z
@@ -50,20 +77,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Insights on the Artificial Intelligence in Next Generation Networking Global Market to 2026 - Leading Companies, Strategies and Solutions"
-    excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer,"
-    publishedDateTime: 2021-01-19T19:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026---leading-companies-strategies-and-solutions-301210796.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
     excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
     publishedDateTime: 2021-01-19T13:18:00Z
@@ -74,6 +87,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "55dybRbSX3s0CP1vUVojnm51XMF5y8p6S8uNCKCUD/x96KH/2ZGb+GnLzg3wsKwY93k3ozXhw61amrtyrIzYn8qxeZKhS6ysVDkj3p3luHp2gus5T7NBCBXYsbu0Zh6TOxEr3bdKgMmxfYKBtW7ZwsoSPXjWLrqlsEdejjgh8wv4gLKx2zlfI+aQv4vh9uiluPX4TCg9xm4/9cptENyGLTVD6jDGmszt7LW6OVS+K8lm1wL4CT/JoZ/e9Tl9thZxVK4qEGXXws0Jcl9X68vsK3UrIHbZEnnrQ5fzhdrb7g+yqRNUjjnoDKeN75eaGx2bvhjzr18Rrt+Pbo0qJ4nj0q1oHHB5Vrez1eQ3yTD8y28=;K0qF4hd+VrWg3P+GkDhy1g=="
+secured: "yjFzTiFL9ZgstxeaQpftWw3rqxRegDYVphVeAd7e/Kiwu4JKMlMSkZfycYQXHDPlrE9VnRPcBwgfX6UoTmMO/jSOJzNbfKpLkq79pIh6MyCsD4hCAArisBcqpKotdH3/MgDavjDTsLbRQNN1u8v8gVFyo6hKghJlWahX55sIBa7ONK2riz1dQjCVmlBKd5Qg3rBAVGv0+7pv+NbNaqtL4eW0l1GXQjXE2CexfujaYCEplP2vCyoowDuOCqzZd98iTkj5JGCmhUlDP0fQ5uCgzSjbWovLDL+xXXjW7vRqrFPA11MWOdaBnFKgMjhXFXoprGJXjGlZad++g+SoV30W4AHhAuJK9I1JnsSFHmLfp4Y=;e2dFXxeKDaCF9BtCRt5/YQ=="
 ---
 

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Altair and Rolls-Royce Germany Join Forces to Converge Artificial Intelligence and Engineering"
-excerpt: "First-of-its-kind collaboration will drive transformative business value by reducing development time and costs, improving product performance"
-publishedDateTime: 2021-01-19T16:33:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
-webUrl: "https://markets.businessinsider.com/news/stocks/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
+excerpt: "First-of-its-kind collaboration will drive transformative business value by reducing development time and costs, improving product performance and quality TROY, Mich., Jan."
+publishedDateTime: 2021-01-19T22:55:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19226917/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19226917/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19226917"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19226917"
 type: article
-quality: 70
-heat: 80
-published: true
+quality: 40
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -34,6 +30,6 @@ related:
       domain: nasdaq.com
     quality: 52
 
-secured: "UI4Zq6ld94MJoYeW1SW1HSsBM19XpJ7VCq6cSXwGh9EnRc4eezOAgElHGg16NSUcYfbRKXkLFXElaPZOaSmojsGN0wAcFj2yvgTTDajD5Dq2WuBaSDPLZYjItqCFdku9/siNEsuwHl2gkjJDuHtIV3hQZSSF1Zicw9lyB0jRtbgQ5guVc8M6GKicn2JV/rLtWj8eKaHigsdreOrB/GYTknQZ9DL+oOdC3IAjppfncOzdJl+3jFcqysFbFTgIVkc4ZsPzA+fJ6+nxcvsYwXrnWPWPl+e14qKe3cHlixWsHAazNgG+isTcka9EdRtM/2e++wyjIFh67L0VxfPtTGUsOCskNYU5otm8TpBPVrCMq4M=;yZv244twWazHBmgIa17ATA=="
+secured: "SAEtKRXFE7CJsiNy+v6VMHhuw2uizfdC0CFD2wvXv+AekM0cSLp1KwHsn/Y3W68M8wLhVeW79tJekeKg11UP2DUuPHwiJt2pa63Xlgn5a2fKkgxj89QSjpZlveVcn71/Ar1WN3XLcjKt6RXO6eCFAuerQqGJZLiX15hr+T/ZSIzFD8S6VIabgraz7JaGDIjhhDG2dp9NAKXHIYghZ8PyqGngXad89QBoGQDcSBdspHNKcm/vSuv2W5FdV06kvUoJ1JQ79pT3AG58f0ytCcKxBxUMSYlhzna6vo6bQfVrQBxDth+Gh0u9h4asAs350Z0q1dwVH/2k0Y/ApCBd6A1FRsqehkB93xK/PegUs0PPtaw=;7oLsFsSAUvgpM/nIbmXpVA=="
 ---
 

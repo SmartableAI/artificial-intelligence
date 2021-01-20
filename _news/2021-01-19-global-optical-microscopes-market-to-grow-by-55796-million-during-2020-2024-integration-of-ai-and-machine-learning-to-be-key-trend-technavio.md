@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
+    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-19T19:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be"
     excerpt: "Technavio Business Wire LONDON -- January"
     publishedDateTime: 2021-01-19T13:51:00Z
@@ -33,20 +44,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
-    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-01-19T19:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
+  - title: "Image Recognition Market 2020-2027 | Latest Trending Report with Analysis and Future Growth Opportunities"
+    excerpt: "The global image recognition market was valued at 17 911 million in 2017 and is projected to reach 86 001 million by 2025 growing at a CAGR of 21 8 from 2018 to 2025 The report offers key drivers that"
+    publishedDateTime: 2021-01-18T14:12:00Z
+    webUrl: "https://www.openpr.com/news/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    ampWebUrl: "https://www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
     images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://cdn.openpr.com/U/1/U118376725_g.jpg"
+        width: 500
+        height: 331
         isCached: true
+  - title: "Global Collaborative Robots Markets Report 2020: Innovation That Fuels New Deal Flow and Growth Pipelines"
+    excerpt: "The \"Collaborative Robots, 2020\" report has been added to ResearchAndMarkets.com's offering. Conventional manufacturing setups have been exposed to traditional industrial robots over the years that have gained widespread adoption globally."
+    publishedDateTime: 2021-01-19T16:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19218929/global-collaborative-robots-markets-report-2020-innovation-that-fuels-new-deal-flow-and-growth-pip"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19218929"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19218929"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "Global $50+ Billion Healthcare Artificial Intelligence Market to 2027: Focus on Medical Imaging, Precision Medicine, & Patient Management"
     excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
     publishedDateTime: 2021-01-15T13:58:00Z
@@ -58,20 +82,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Insights on the Artificial Intelligence in Next Generation Networking Global Market to 2026 - Leading Companies, Strategies and Solutions"
-    excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer,"
-    publishedDateTime: 2021-01-19T19:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026---leading-companies-strategies-and-solutions-301210796.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "HpgmXwoTqi8wPT62/FFCGBGcH7tBkSQMPojmBRtueXfESrDvK6Z+VZOj8DCk3MukoAzCc4BjT7WB/LOa0jj7aHMWkHkdi7wBtT1lf8DEFY4CWR0wiFAWo4u/Mwzle+MKv5kdduyclO6yHMbbGVg0ITQdNI0L8FFzvxQddlZD/GnmWfQiMAPBI0tk8syHVaZs3BigvMK79Ttj3cgzQ8r81aYmWEQ5UKEoYulrUXAvjjuTcBl24bIQlholIyL/3WVdv5hCQZxvnN+C83uiCmX5XXlMpQ55RuZ4ZyXSgi9KSEyeFRZz2NqF6BoVwpXv0nw3o2mwRc0v1hMaB+sB9OyUeiIJH1llQBAeWDY/V28iPIMo1iyVfTBzW2EmD7RGenv3WmSMlGLqki3iyGck6b68pZCFFg8m5IoUv2D2KPUsAL8McJke+jXs2NVsG6vvyP/nK1xi1BE1o5Ib1/Q8Y5/dG0yP8yThEFbBEwwsYh3WXIJIT9E+9Oh+znW4F6GySQB2Bwzuu8OHXaG2JjUQyzxuzg==;Q70F37QkMZu/Cws56vg4gQ=="
 ---

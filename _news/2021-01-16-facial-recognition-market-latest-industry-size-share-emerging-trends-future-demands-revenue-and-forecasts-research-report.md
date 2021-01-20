@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market 2020-2027 | Latest Trending Report with Analysis and Future Growth Opportunities"
-    excerpt: "The global image recognition market was valued at 17 911 million in 2017 and is projected to reach 86 001 million by 2025 growing at a CAGR of 21 8 from 2018 to 2025 The report offers key drivers that"
-    publishedDateTime: 2021-01-18T14:12:00Z
-    webUrl: "https://www.openpr.com/news/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    ampWebUrl: "https://www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118376725_g.jpg"
-        width: 500
-        height: 331
-        isCached: true
 
 secured: "MjnkWc61iaG26N8GOYLetBZtzYQsTenuQ1qZRHc9H8LxNbLb+hcIrq9+h6R5q7x70IGHHwtCyiAdfFD8M5XCyKshG/By/9ignZZvyspd+e3KAP9tE8J56H+SvLpXEPdcIR6e5nZTDQc5mdo9ye9SyE5qJPAEiZI9c2dYiyrOM32b7fYc1cnMJBQVK6tJSx28bwMU3zYXD1GLJ3gtJLHRKXaEdUihawCrhSB/HXAxgvQlUViJdRRQqnTs9TWiam6YDOQRQVWYhYV1EMZm8A/+tiD0r25dtoivF0P56eXxunq8Uazxp01hvzhny0DOckw3Fb/TGkSlALXVh4pmLxtDoinsxYhINsI0jXyNgI9QZsc1g2f7mXD4Xgli+MYbOXSiU7dz8Gv6I2MxsvjEWIK/Aw3COZUo4OkPQIQLGmmbE1fDRLI6dhS9TU1Pqjoo83Told7DOUdhsI2Lkowo810DARP8kFHp5x4wxkVeQnDR2XFMHPQhr27hrnllthNcZZC0eW0qvgVHxOyTwfnTIlHgDQ==;CDuPoXhb1QIvDWPIvLNy5A=="
 ---

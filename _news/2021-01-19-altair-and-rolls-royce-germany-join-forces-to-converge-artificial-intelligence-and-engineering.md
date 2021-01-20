@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/altair-and-rolls-royce-german
 webUrl: "https://www.nasdaq.com/press-release/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -20,16 +20,16 @@ topics:
 
 related:
   - title: "Altair and Rolls-Royce Germany Join Forces to Converge Artificial Intelligence and Engineering"
-    excerpt: "First-of-its-kind collaboration will drive transformative business value by reducing development time and costs, improving product performance"
-    publishedDateTime: 2021-01-19T16:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering-1029980419"
+    excerpt: "First-of-its-kind collaboration will drive transformative business value by reducing development time and costs, improving product performance and quality TROY, Mich., Jan."
+    publishedDateTime: 2021-01-19T22:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19226917/altair-and-rolls-royce-germany-join-forces-to-converge-artificial-intelligence-and-engineering"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19226917"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19226917"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
 
 secured: "m10WjKFpNSWTulZWsUX0Mxoqyaqfgk4gO2ZEubjNJMVyuIIOTptgz9PnIcUXqMkuusRe0SHEHpBxgQkS6Xye+0lbhSYIUPVew4ucvtJEYFDoyQzZR+qEtIMYgIUz3BDYa8V8UmoqVwBHVS0pFCP0bYSrM+8pJ8zfV51vZolGyLEuZ1vibJ3q/07N2lVyM42EIG96jpfQFcgPaYN+omjZnnAbsI/98543vIJ4KRzUHHqTAQnNVfg4/84CPdIwPqXAdHKOYtTKgLErfjpY7NsWs79/7rLc/jEzmRw1hShwcDy/KsuOTrnBsuasSeYQwJcn2jmVfl10hpF7RxhpT+aWHD05SKHoPTHIiCn8sk7uGGE=;YnemJuyYkOA4epBmOw10lQ=="
 ---

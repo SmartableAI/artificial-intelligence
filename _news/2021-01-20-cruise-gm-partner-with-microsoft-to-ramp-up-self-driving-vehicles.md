@@ -2,9 +2,9 @@
 category: news
 title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
 excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
-publishedDateTime: 2021-01-20T00:25:00Z
-originalUrl: "https://www.reuters.com/article/gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSL4N2JU2W4"
-webUrl: "https://www.reuters.com/article/gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSL4N2JU2W4"
+publishedDateTime: 2021-01-20T00:07:00Z
+originalUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO?edition-redirect=in"
+webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO?edition-redirect=in"
 type: article
 quality: 71
 heat: -1
@@ -411,6 +411,22 @@ related:
         width: 720
         height: 404
         isCached: true
+  - title: "General Motors Leaps on Microsoft Self-Driving-Vehicle Effort"
+    excerpt: "Microsoft is part of a group of companies investing $2 billion into General Motors Cruise, the carmaker's autonomous-vehicles effort."
+    publishedDateTime: 2021-01-19T19:59:00Z
+    webUrl: "https://www.thestreet.com/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 61
+    images:
+      - url: "https://content.jwplatform.com/thumbs/6EXRbWC8-720.jpg"
+        width: 720
+        height: 404
+        isCached: true
   - title: "Microsoft allows users more control over their voice clips"
     excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can"
     publishedDateTime: 2021-01-19T16:46:00Z
@@ -696,6 +712,6 @@ related:
       domain: microsoft.com
     quality: 10
 
-secured: "tp7joPIcrg7T0R9jHoPH9EviOZxnMgCV6+XXzXCxq6bza3thTNyeNrXUncrL0E9R3tfplNvErWJ+lYsjbpW1w9Q/FRPysJvtJNpwGUZUfUn6RwWKgpcr3V3HtnC5hl4vFgGuy8LgwjHEaPd6M0bMqxv4+q6hOOspTtRey8nDEJj+iP/RG3euwxvatIpoMA23ejSKIaZ+CpXJCg7MvhFOh2vYW+C06iv+snOFXIG57YQzlm5ctyXuuIkcaFGoLtRNDRzumtdHxitK1exOD0XRiRDvQJUmvSkuNXsFNe96PHraAYGJuXKVZ1kRFdzCVt8cLS3rxCn+/jpURnJXec2Mq9+pa+/8TpiBKP5vo7txAEk=;7TV7iRHLrwcSw/iYuLs/Rw=="
+secured: "13HNVxTP+VG4nuKxoCxFGlAY+4uRP7gyzi+YQgXMyVred0qey3rMBVM+jRFvA8PqJJvHm/TbFQq30uhtJqSIE3fOjIKppphCT5txE4VujOstU5iEiJd8Y5c55bLioZFHhB7LRvI0wXXFiwVwbGh+RU4qCUuD/PFFci7kDioLweC4f0JbbcEwGI1VkD1FLpEFul92jDzZXNp/m4b2PNzNFNkKR+LC+TZHcJeXZWJwWFnO8jXgRez8DGJq2DhttKfb350pG4KSHldClzE2zXZLh/TpaW3iMw4REMckzYlHpeQscJqKqyti8wsGDxnESOVImyjJSHdpCkS0oAciEWU2mvaNtp4Pi6WGPF5OxFpE8M8=;jyBHcXEt/octCuBDyFvaEw=="
 ---
 

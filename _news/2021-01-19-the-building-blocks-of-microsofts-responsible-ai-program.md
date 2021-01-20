@@ -267,8 +267,8 @@ related:
         isCached: true
   - title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
-    publishedDateTime: 2021-01-20T00:25:00Z
-    webUrl: "https://www.reuters.com/article/gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSL4N2JU2W4"
+    publishedDateTime: 2021-01-20T00:07:00Z
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO?edition-redirect=in"
     type: article
     provider:
       name: Reuters
@@ -397,6 +397,22 @@ related:
   - title: "General Motors Cruise, Microsoft Team on Self-Driving Vehicles"
     excerpt: "Microsoft is part of a group of companies investing $2 billion into General Motors Cruise, the carmaker's autonomous-vehicles effort."
     publishedDateTime: 2021-01-19T19:56:00Z
+    webUrl: "https://www.thestreet.com/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 61
+    images:
+      - url: "https://content.jwplatform.com/thumbs/6EXRbWC8-720.jpg"
+        width: 720
+        height: 404
+        isCached: true
+  - title: "General Motors Leaps on Microsoft Self-Driving-Vehicle Effort"
+    excerpt: "Microsoft is part of a group of companies investing $2 billion into General Motors Cruise, the carmaker's autonomous-vehicles effort."
+    publishedDateTime: 2021-01-19T19:59:00Z
     webUrl: "https://www.thestreet.com/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
     ampWebUrl: "https://www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
     cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"

@@ -7,7 +7,7 @@ originalUrl: "https://www.radio.com/connectingvets/news/pence-touts-defense-achi
 webUrl: "https://www.radio.com/connectingvets/news/pence-touts-defense-achievements-speech-service-members"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1261
     height: 709
     isCached: true
+
+related:
+  - title: "Trump delivers farewell speech touting achievements during presidency"
+    excerpt: "Outgoing US President Donald Trump on Tuesday delivered his farewell speech to the nation in which he touted what he had achi"
+    publishedDateTime: 2021-01-20T03:11:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267587824/trump-delivers-farewell-speech-touting-achievements-during-presidency"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "WIhNh1xdRulIF3+RviB5w/CNzsQWe55jp0VGTExPjn4rovT3PHjXutyRXqZJW0slXJAl68CdDelkAS2gJICa8jCo/WpMhJm5Qc3ke0mP0VXTgptfpnQQjAMg18KBn5p8VcUcP65p1+nM0xme7lNiA6XCfZqztfeDIM5271xUOvZzEwtKUZZB49hMtG+wW/JwZSYmsjHP6ZpXtYd79ZAUBQEf8fmDbYz3U9u0IPWzL8aU3TyZ1pp8/rJq3UhGAmFLw7dpyG+1PxOhNhhxJtpBAiu6JXYX0FsZgd4UUkvaCmA/1sUkqoQSMhhMQ9OkpmJOUe12VuqfZQwm0SuNAd2H2CK3TLEBaSNX5A1wOiNONOk=;nNH7AUlx16B6bOYpAOcL5g=="
 ---

@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "RSIP Vision Announces Versatile Medical Image Segmentation Tool, Delivering Efficient Anatomical Measurements and Better Treatment Options"
+    excerpt: "RSIP Vision Announces Versatile Medical Image Segmentation Tool, Delivering Efficient Anatomical Measurements and Better Treatment Options"
+    publishedDateTime: 2021-01-20T03:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210119005631/en/RSIP-Vision-Announces-Versatile-Medical-Image-Segmentation-Tool-Delivering-Efficient-Anatomical-Measurements-and-Better-Treatment-Options"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "m0K761VOJgL53qOco+MYK0p8Sy94w71Ux0kacPq8za4v0wvg+pX7oUC4BTBIZTgldSsWW5X7C47pnvZccPf0Us1MFTiceFIVhB6rtVidBWdN/v3qaZMr2PsN9opLMrGjTT9cZX7NoWF9ZIieXk3tODGXU7h+OP2XjtlttvanOWicK4b9sO9TpjhpavKWSXripyERbP8wS+7n+3/4Ve8ptqnTC4wx2eB5M173xo7bppl5BE3kBCR7M5hOHcIDz6ZfOfl/pczflBGPfZ5La/TYoF31lNMOSJeGmQ7l3GIOfVpkMM3J+tvh4Xxu+IEjDXOe+fLAUYdyqjl3ACyAexJOe+wrYbMn+3eSNvJ6pMEQFx4=;o9jNdHD/Q7z9bwoXYw+AdA=="
 ---
 

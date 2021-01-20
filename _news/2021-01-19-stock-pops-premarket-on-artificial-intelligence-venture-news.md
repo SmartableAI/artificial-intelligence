@@ -7,7 +7,7 @@ originalUrl: "https://www.baystreet.ca/articles/stockstowatch/63537/Stock-Pops-P
 webUrl: "https://www.baystreet.ca/articles/stockstowatch/63537/Stock-Pops-Premarket-On-Artificial-Intelligence-Venture-News"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1024
     height: 400
     isCached: true
+
+related:
+  - title: "Stock Pops Premarket On Artificial Intelligence Venture News"
+    excerpt: "Jan (Baystreet.ca via COMTEX) -- A small Texas-based tech firm caught a bid this morning after announcing that a wholly-owned subsidiary of"
+    publishedDateTime: 2021-01-20T04:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/stock-pops-premarket-on-artificial-intelligence-venture-news-2021-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IPCxr1HkHF32i2MCEj3fte8L7py6MPN+2K/qrpcLaWHAgMJCC4UyrquccGFSZVCdKOtsXscSdi/UqkSLDy2dtKaLrtIcGKsJ0FMUQ53CJ5741EZ4ISeu4Zikw9pUG1MYd1E/xDbXn2hbHxFAaSEI3W7UiOQ8FhoHPKPfpDxSKEBDwr9VCo9i+Ve1YP51iuoR8BrYmgg8qsp2QZ3mNqrT4dikeMl/rJMZZH1vv9vwOk46NPUthJZg8gxkUY9aJw/PzVrMcsA8ZCPQy7n+S8+0JTZwdWgv9lBqAsfjYyFu51vtlxDWoD97VOLzgZfdPApfz6dZ+r6244sHYsS71CXN51BIPpFbiS24LCwMdOz6Heo=;1BL3GJB5FTc5TB54PHJR5Q=="
 ---

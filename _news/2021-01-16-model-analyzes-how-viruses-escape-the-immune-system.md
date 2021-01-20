@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Model analyzes how viruses escape the immune system"
-    excerpt: "Using this computational system, researchers can identify viral protein sequences that could make better vaccine targets."
-    publishedDateTime: 2021-01-15T12:19:00Z
-    webUrl: "https://www.nanowerk.com/news2/biotech/newsid=57028.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 24
-    images:
-      - url: "https://www.nanowerk.com/news2/biotech/id57028_1.jpg"
-        width: 400
-        height: 267
-        isCached: true
-
 secured: "Rp7CugHsBXTZm01SmL+HDsO7mw6FdAQOctPuMCHRwtPX6NeKZCu5T20PLYV0naVKLBogvZv3ctNz3smV2yi7qKICjlmItnIWFC4pi6GVV891+IQXDFKRAMnhkfzIY1M9tIq0TbLuDp5rKIHuoFajLyTVvWTg2HDgFbFnb5r9PLimRGE8XBPTtUA/BTTNz7wBxlZ34lN2KyUf25Pp3JvZVQySjnSot/uFwy4id4itTjMfhMh+/gQHgBZmtp2Ye93WW3sFfjxWyCMIv3t4Ql849hkvI8tr+Bi95BUhdtIqKve23FlGqhvo/ry987oFdt/XtWmwg/WAdw+NySLS5mvd4Jck+ZMoQSxvE4B1MAqLOh8=;LoPAlzP+uLsyYfiwVLMgbQ=="
 ---
 

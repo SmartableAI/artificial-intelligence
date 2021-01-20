@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-c
 webUrl: "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://images.assettype.com/fortuneindia/2021-01/2d7993ad-a07a-4b12-a836-1e8c50163e93/2D82PXE.jpg?w=700"
         width: 700
         height: 467
-        isCached: true
-  - title: "Providence accelerates data center consolidation, plans to close six amid Covid troubles"
-    excerpt: "Washington-based healthcare provider aims to reduce data center portfolio in the wake of Covid-fueled financial challenges"
-    publishedDateTime: 2021-01-15T11:06:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/providence-accelerates-data-center-consolidation-plans-close-six-amid-covid-troubles/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 15
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/healthcare-investing-20161-450x37.2e16d0ba.fill-1200x630.jpg"
-        width: 470
-        height: 248
         isCached: true
 
 secured: "gooQFSHyDttRqGaPt9u/Dd/MMX9zbX1KimL7aYPbyU1fMOq1QTBzim+Gut/9JJVWUS4nFPQIddbzxL/skL3g21zbCvBlwqZpswcdvbUvzcLhw6KJkhNyHApkFnqZpzaTCIpnPZW6HvwT/7SYrWWPxK7/SdHJZ4XYZejUEgdQhYqiRrYCRc0wfCkGLjc3rtLclJPy8CKtLFENZFA9U8zgzKIe+jTLjEyEy1w+bDojKy2CVdwskStE9RrEexafGqzbG+zrh9BCfnhCSOCFQk7zy2adBsmoSNYCq+XLgsuSjpzxbJ+KsNa6LY5SuVGCSLb03mPPHOn/LSfbtLPIqcyD2JF5ckjgAjccmeUcGofQ8fpUBqu9LIfWX6fXkwgThkiQ8yRE426SnK3ZzILuPkbxbNh9T/FfqQaBE6oE72W+MxuufHkZd+QYHQoiVwc7sBOpMDrAzpVpOOF/Ad3L6nxAXydvn3oAWasPGl41o67NpFdv8nA6hFVDT0hJaEEt4MJjfZRPWBdA75Q9hibHRAl6Tw==;DFq6ku0UYw5GvGC/bao0aw=="

@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Insights on the Artificial Intelligence in Next Generation Networking Global Market to 2026 - Leading Companies, Strategies and Solutions"
+    excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer,"
+    publishedDateTime: 2021-01-19T19:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026---leading-companies-strategies-and-solutions-301210796.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+
 secured: "lDPViEaXtRl5tkkF/AMs9zvnNw4Z2xqEw8FkBYE1t/VrIL7y2ndt4OlLTSzoL+czBW9bAyi17medEGAp4PrxXZnnOYRFp1vG+T3WRBs/ltgWKFS/N3lijkPGypeNFguLJIAHjN+MhknnYO4B5DCHScZSx/EvXxMGylATED7qixF1r2nRiof87DZ6UcrRcA+IlmutveuNMqUVqhRlgZKBRcUKjeH4Pnx7QqL1hF1HNQL8xTswa/zhFHcPSj01xS/wRR2I4JduEwDaxaL7+ESzDAoU6ZHiuzwbgCIvYRaxS0Az84lBtcDRWZS6/Tw6GFRrUrMbBdENxhm127a1QBs6Wc+kRs7WlvDaY0OyyEiVK3A=;6kJaQbDTIv51cjxvaiFJ/g=="
 ---
 
