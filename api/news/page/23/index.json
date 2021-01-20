@@ -2,6 +2,142 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-30-humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai.md",
+      "title": "Humans Are Still Needed In An AI World: How Your Business Can Best Leverage AI",
+      "excerpt": "With all of these technological advancements attempting to make our daily lives easier, how do these advances specifically affect business leaders and how will this technology shape the way they do business?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb37cc8aac85841b727e82%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/30/humans-are-still-needed-in-an-ai-world-how-your-business-can-best-leverage-ai/amp/",
+      "publishedDateTime": "2020-12-30T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai.md",
+      "title": "The 2021 Enterprise Network: Retiring The Branch, Fueling Transformation And Getting More From AI",
+      "excerpt": "As we turn past events into predictions, the pandemic continues to dominate our thoughts. IT priorities will be about learning from 2020 and adapting to whatever the new year brings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
+      "publishedDateTime": "2020-12-30T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-covid-19-impact-on-voice-recognition-software-market-2020-global-technology-development-trends-and-forecasts-to-2026.md",
+      "title": "Covid-19 Impact on Voice Recognition Software Market 2020 Global Technology, Development, Trends and Forecasts to 2026",
+      "excerpt": "The latest research on the Global Voice Recognition Software Market has displayed an overview of the industry with an in-depth observation. The report defines the service and product along with its various applications in various end-user industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
+      "originalUrl": "https://www.openpr.com/news/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
+      "publishedDateTime": "2020-12-30T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-the-new-world-of-ai-based-adaptive-education.md",
       "title": "The New World Of AI-Based Adaptive Education",
       "excerpt": "AI technologies are now all around us, influencing every aspect of our lives and changing the world in the process",
@@ -1033,152 +1169,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce.md",
-      "title": "The Times, They Are A-Changin': How AI Can Create A Happier, More Productive Workforce",
-      "excerpt": "How To Implement Ethical AI At Your Organization Fifteen years from now, saying, \"I use AI at work,\" will seem as ridiculous as stating, \"I use a mobile phone at work\" would have in 2005. A recent Deloitte study shows that 56% of enterprises are investing in intelligent automation and chat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f189eb53aae764f6d078ef0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/29/the-times-they-are-a-changin-how-ai-can-create-a-happier-more-productive-workforce/amp/",
-      "publishedDateTime": "2020-12-29T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-the-marketplace-is-demanding-ethical-ai.md",
-      "title": "The Marketplace Is Demanding Ethical AI",
-      "excerpt": "Under the right conditions, AI can be highly beneficial and a force for good. Under the wrong conditions, however, AI can lead to widespread discrimination and reinforce existing socioeconomic disparities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "originalUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-277416/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "publishedDateTime": "2020-12-29T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-ai-chipmaker-graphcore-raises-222m.md",
-      "title": "AI Chipmaker Graphcore Raises $222m",
-      "excerpt": "Graphcore, the UK-based AI chipmaker, has raised $222 million, a Series E in new funding, as it braces itself for the tougher competition from US rival Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/",
-      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb2795aed6bf81fc2905a5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/12/29/ai-chipmaker-graphcore-raises-222m/amp/",
-      "publishedDateTime": "2020-12-29T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

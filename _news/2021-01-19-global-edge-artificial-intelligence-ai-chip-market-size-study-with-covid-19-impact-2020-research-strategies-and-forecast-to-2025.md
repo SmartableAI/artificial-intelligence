@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
 type: article
 quality: 69
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -115,6 +115,17 @@ related:
         width: 626
         height: 648
         isCached: true
+  - title: "Artificial intelligence (AI) chip market through Technology, Application and Geography – Analysis and Forecasting to 2027 – KSU"
+    excerpt: "News Highlights: Artificial intelligence (AI) chip market through Technology, Application and Geography - Analysis and Forecasting to 2027 - KSU A"
+    publishedDateTime: 2021-01-20T19:36:00Z
+    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 41
   - title: "Global Commerce Artificial Intelligence Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 17, 2021 (CDN Newswire via Comtex) -- Global Commerce Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides a ..."
     publishedDateTime: 2021-01-18T08:12:00Z

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Paravision AI ordered to delete face recognition software derived from user pictures without permission"
+    excerpt: "US face recognition developer has been found to have used pictures from the Ever storage app without permission, and now has to delete all its algorithms."
+    publishedDateTime: 2021-01-20T19:16:00Z
+    webUrl: "https://www.dpreview.com/news/0874174431/paravision-ai-ordered-delete-face-recognition-software-user-pictures-without-permission"
+    ampWebUrl: "https://m.dpreview.com/news/0874174431/paravision-ai-ordered-delete-face-recognition-software-user-pictures-without-permission.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/0874174431/paravision-ai-ordered-delete-face-recognition-software-user-pictures-without-permission.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 60
+    images:
+      - url: "https://3.img-dpreview.com/files/p/E~TC4x3S590x0~articles/0874174431/3F6F6E34-65DC-486A-BFC3-38A6BBCDE811.jpeg"
+        width: 590
+        height: 443
+        isCached: true
   - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
     excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
     publishedDateTime: 2021-01-19T15:16:00Z
@@ -40,34 +56,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Kami Launches Smart Video Doorbell with Facial Recognition"
-    excerpt: "PRNewswire/ -- Kami, the vision artificial intelligence (AI) company, today announced the availability of the Kami Doorbell Camera, a smart video"
-    publishedDateTime: 2021-01-19T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kami-launches-smart-video-doorbell-with-facial-recognition-301210552.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://i1.ytimg.com/vi/Gz--yqZ-NRA/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Kami now sells a $129 smart doorbell camera with baked-in facial recognition and human detection"
-    excerpt: "The device costs $129 and includes a suite of note-worthy features. The most significant feature is. This allows the camera to notify users when someone is at the door, and more specifically, who’s at the door."
-    publishedDateTime: 2021-01-20T17:07:00Z
-    webUrl: "https://knowtechie.com/kami-now-sells-a-129-smart-doorbell-camera-with-baked-in-facial-recognition-and-human-detection/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 26
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2021/01/kami-doorbell-camera-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "dkUdIGMGZUKspXPPJ7bRbgE/YStdAxYodOO9xoLxfyy492jx/XOLiG7mQYu8vnciQM0UMZ3MMChlqWzsseyoBR3QHe86++NypmUKnGnO0r3mU83G1Q3sL1vMbZtQO8C+AZ9aqRP6TtEHnSBs1BKUrdKFWzYKRXbHQEeEZjmeIZfmNxTemmZ0ZV5lelgBgrv7+uWm3rOk2FTSsjM73/Y3wCgtvxJLp5KVM7b2xW55eKn8PZ5OZaY76WuYUetZlgIeHEKSDH+JNoNpTnCIWD4uD4P2O/0EIHo7zNMxAzAD5LdtG5fTUhzdslIdF03CUBcD1aqME4YUg8z8/P/j3gnLqKA2csEcTGrfsFVPz3XXhGs=;qqjqfpyb8qhafVViS/8xtw=="

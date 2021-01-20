@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 2115
         isCached: true
+  - title: "Facebook Improves Its AI Audio Photo Descriptions for the Visually Impaired"
+    excerpt: "Facebook has been using AI to audibly describe the contents of photos for the visually impaired for some time, but it's improving those efforts this year."
+    publishedDateTime: 2021-01-20T20:08:00Z
+    webUrl: "https://petapixel.com/2021/01/20/facebook-improves-its-ai-audio-photo-descriptions-for-visually-impaired/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 37
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/01/Facebook-Improves-its-AI-Audio-Photo-Descriptions-for-Visually-Impaired.jpg"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "bP+DR1q3rGEBX63LccdCQ3fGB/PJdo8e3t2APaeglhVfQ/V5gUON3LO5whwTaB7rmC8QWQx91QC0bYbBJeUjQ69c4jG3D7EPBNEwERO+brcAoMHaEdytNm1/IV9d7nIGS0wQHE35bOBw6W4hbIPExnjpwtYS9KwJBGY8o8Yioaxk2egr9xONbAKjpZSQdlwTGGZ+veZtbIlNuP6dmg1/VH/4ytDW7b4FOvrO0D/W7Rp3HnZOnX4Z8hTRWLBFEDpqdGb7Fdz8JBvt/95+vOdnWjbnroXnw8y6ENJkP3z15iLghkvH7g8e2Eqo9QW45FFQglXSNH3hZx3lRPruwQ0/G6aHxsDHZa5hgMaAvrllNa0=;TVh+cOzSde4AjfKYYp8wNw=="
 ---

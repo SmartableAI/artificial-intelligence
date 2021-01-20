@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 824
     isCached: true
+
+related:
+  - title: "Episode 2: The Future of Recycling - Artificial Intelligence and Sorting"
+    excerpt: "In this episode of Stef Talks Trash, Editorial Director Stefanie Valentic discusses how artificial intelligence (AI) systems are advancing material recovery facilities (MRFs). AMP Robotics recently entered into an agreement with Waste Connections to implement AI systems on the company’s container,"
+    publishedDateTime: 2021-01-20T20:29:00Z
+    webUrl: "https://www.waste360.com/recycling/episode-2-future-recycling-artificial-intelligence-and-sorting"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 36
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/EPISODE2STTfeat.jpg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "NY2Lbuw7RVHgFOK+p8fWWNq05QOwzwwwrgwnWUeD929qoOYmdocEQTsCPpx6mbjTw28oQyDdFKvKcP1+4+90bZbmhaH21r9SRDPKq1ZPb4ZrYE2ANTKuZTaXjlwBQ2f51fXKPXtAcOfg76Nt2xStXI1LxKPg1l7lr7EuVKPb2Dc6b1SYuEXWvpCVdq40sDMpzi7LkqGnO0oC/14GX749XOrL11aFtHVVPHog9m+g7SpNNA9wTvnxTd7XFjoQD5MGEpEhEJGMxBbFr4wKJG2dehcA2FDuKwbO42Mcdtpg2hWCwH2ohQt1lolTx8NRiWz0TXKf4rn0MQru2xg22F12sWyhJe+KouOUE9pKBsKmfBHpaTRwkly9rBJ9Em46DtzC2KLjDL4t+Rhvgkwwz5udKHTD10fZ1kqh05Kegp79aAgvoLImxjM7pBqJIVNyUvR8gyf1UMVofVLQbaoCTtPmg4uQCMMYJM74VGPxKLySnm/r9bEhV7SWVM071JxHJnxmqvYf7WBPRJnbjS5lso12lg==;/kgkPzQ9t+7jk+aLlvyHWw=="
 ---

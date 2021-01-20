@@ -2,6 +2,153 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-01-01-study-data-from-university-of-central-florida-update-knowledge-of-risk-management.md",
+      "title": "Study Data from University of Central Florida Update Knowledge of Risk Management",
+      "excerpt": "New research on Risk Management is the subject of a report. Financial support for this research came from Advanced Transportation and Congestion Management Technologies Deployment grant from Federal Highway Administration.",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/study-data-from-university-of-central-florida-update-knowledge-of-risk-management",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/study-data-from-university-of-central-florida-update-knowledge-of-risk-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-31T18:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021.md",
+      "title": "Tirias Research Predicts A Healthy But Cautious Outlook For Tech In 2021",
+      "excerpt": "As a result, the technology outlook looks incredibly positive going into 2021 but there are caveats that warrant concern for the latter half of 2021 and beyond. The analysts at TIRIAS Research assembled the following review of key 2020 trends and an outlook for 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee5040c4c1d81a9c5a75d6%2F0x0.jpg",
+          "width": 1200,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/12/31/tirias-research-predicts-a-healthy-but-cautious-outlook-for-tech-in-2021/amp/",
+      "publishedDateTime": "2020-12-31T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-a-disembodied-robot-mouth-and-14-other-2020-stories-we-laughed-at.md",
+      "title": "A disembodied robot mouth and 14 other 2020 stories we laughed at",
+      "excerpt": "Forget the challenges of the last 12 months and instead have some fun reading our pick of the quirkiest tech stories from the past year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/",
+      "originalUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/a-0-6-1200x630-c-ar1.91-n.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/?amp",
+      "publishedDateTime": "2020-12-31T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-ai-in-sales-how-artificial-intelligence-will-transform-b2b-sales-in-2021.md",
       "title": "AI in Sales: How Artificial Intelligence will Transform B2B Sales in 2021",
       "excerpt": "Artificial intelligence (AI) is helping companies boost lead volume, close rate, and overall sales performance. As a result, you're free to focus on what matters: revenue.",
@@ -994,143 +1141,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout.md",
-      "title": "Israeli Computer Vision Startup Raises $60 Million To Expand ‘Frictionless’ Checkout",
-      "excerpt": "Gabay’s low-key manner stands in stark contrast to the buzz around the Tel Aviv startup he co-founded in 2017 with brother Daniel Gabay, Trigo CTO and 2020 Forbes 30Under30 honoree. Trigo’s latest Series B funding round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/",
-      "originalUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5febb4ffd51993390ce41521%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6919%26cropY1%3D966%26cropY2%3D4211",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/amp/",
-      "publishedDateTime": "2020-12-31T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-timnit-gebrus-exit-from-google-exposes-a-crisis-in-ai.md",
-      "title": "Timnit Gebru’s Exit From Google Exposes a Crisis in AI",
-      "excerpt": "The situation has made clear that the field needs to change. Here’s where to start, according to a current and a former Googler.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/",
-      "originalUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/amp",
-      "publishedDateTime": "2020-12-31T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-artificial-intelligence-in-accounting-market-2020-analysis-may-set-new-growth-story-forecast-to-2025.md",
-      "title": "Artificial Intelligence In Accounting Market 2020 Analysis May Set New Growth Story, Forecast to 2025",
-      "excerpt": "Artificial Intelligence In Accounting Market is expected to grow from USD 666 million in 2019 to USD 4 791 million by 2025 at a CAGR of 48 Technological advances such as artificial intelligence are poised to transform the finance and",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
-      "originalUrl": "https://www.openpr.com/news/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
-      "publishedDateTime": "2020-12-31T03:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

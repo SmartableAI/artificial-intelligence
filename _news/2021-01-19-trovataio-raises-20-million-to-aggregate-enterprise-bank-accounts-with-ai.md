@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Swapp raises $7 million to automate construction planning with AI"
+    excerpt: "Swapp, a company that leverages AI for construction planning, today announced that it raised $7 million in venture capital. The company plans to put the funds toward “continued market expansion” and growing its platform’s AI capabilities."
+    publishedDateTime: 2021-01-20T20:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/04/GettyImages-552721783.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Oqton raises $40 million to apply AI to additive manufacturing"
     excerpt: "Oqton, a startup developing an operating system that integrates engineering software with manufacturing hardware, has raised $40 million.Read"
     publishedDateTime: 2021-01-16T07:22:00Z

@@ -25,6 +25,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "HES FinTech Joins Canadian Lenders Association to Drive Digital Lending Transformation Across Canada"
+    excerpt: "HES FinTech, a leader in lending solutions for banks and fintechs, and the Canadian Lenders Association (CLA) are pleased to announce they have entered into a strategic partnership. The HES-CLA partnership brings together in-depth expertise in lending software development and deployment,"
+    publishedDateTime: 2021-01-20T19:53:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/hes-fintech-joins-canadian-lenders-association-to-drive-digital-lending-transformation-across-canada/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 9
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+
 secured: "5cRtt5dX/GDMMvPXUaB+SMjD/PiRacZcOgFhXp6ix1VcIwescLgv4eaxAivB5Fyyx8QZLP727AbPzBFLF2AnMR+0Vd+owA2oGSkWm+Rt/V9hUxSkYpT+m344Gtp0us8+Yj+z3zXuWa8A+R6qWGVsGUubDUBe1PJeEX3GJ1Mmr93dV2owm4TuPwgAYhNG4G2r/77XUXtvtuKdDYlm5lD2NSPA95iZiY/Z5BDruvfC60FTzot+RsQ3Ydkjqxsyrf48rzBXpekAjYZ75rkxafzYWKqIoSWQiEueUzSKKDbesNuqkrRUDjHn/V8f/0b0CdGjaw6jKIA+pCjpMBRMSl8eqfa68cgi9X2QvIlTZrreces=;g3qfu9zdONsdaGbvTb8yug=="
 ---
 

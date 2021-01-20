@@ -128,6 +128,17 @@ related:
         width: 626
         height: 648
         isCached: true
+  - title: "Artificial intelligence (AI) chip market through Technology, Application and Geography – Analysis and Forecasting to 2027 – KSU"
+    excerpt: "News Highlights: Artificial intelligence (AI) chip market through Technology, Application and Geography - Analysis and Forecasting to 2027 - KSU A"
+    publishedDateTime: 2021-01-20T19:36:00Z
+    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 41
   - title: "AI Infrastructure Market Analysis with Impact of COVID-19, Top Companies, Trends, Size, Growth, Share, Demand, Future Opportunity Outlook 2025"
     excerpt: "Jan (The Expresswire) -- Global \"AI Infrastructure Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"
     publishedDateTime: 2021-01-19T10:38:00Z

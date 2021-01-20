@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-21-understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs.md",
+      "title": "Understanding machine learning will go a long way toward higher adoption for SMBs",
+      "excerpt": "Expert says larger companies are more willing to spend money for top talent to achieve machine learning, whereas smaller companies aren't able to do so. Pre-configured solutions can help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "originalUrl": "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "publishedDateTime": "2021-01-20T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-machine-learning-market-global-industry-trends-share-size-and-forecast-report.md",
       "title": "Machine Learning Market Global Industry Trends, Share, Size and Forecast Report",
       "excerpt": "Machine Learning Market Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts \"The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026.",
@@ -783,17 +835,17 @@
       "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
       "excerpt": "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ...",
       "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
-      "originalUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
+      "webUrl": "https://www.thaipr.net/en/it_en/3018538",
+      "originalUrl": "https://www.thaipr.net/en/it_en/3018538",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1",
-          "width": 2560,
-          "height": 1340,
+          "url": "https://www.thaipr.net/wp-content/uploads/2021/01/image011-scaled-e1611138116511-768x576.jpg",
+          "width": 768,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -801,13 +853,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
-      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
-      "publishedDateTime": "2021-01-13T21:32:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T17:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
+        "name": "thaipr.net",
+        "domain": "thaipr.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1373,58 +1425,6 @@
         "AI",
         "Facebook AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
-      "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
-      "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
-      "originalUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Deep-learning-concept-whitening.jpg?w=1200&strip=all",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
-      "publishedDateTime": "2021-01-12T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

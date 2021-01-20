@@ -2,6 +2,136 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-19-amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market.md",
+      "title": "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market",
+      "excerpt": "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "publishedDateTime": "2021-01-19T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-youtuber-challenges-scientist-to-create-an-ai-version-of-him-for-100.md",
+      "title": "YouTuber challenges scientist to create an AI version of him for $100",
+      "excerpt": "That's the question YouTuber Tom Scott set out to find the answer to in his latest video, for which he challenged AI in neuroscience researcher Jordan Harrod to create a fake version of him for $100.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/tom-scott-ai-version/",
+      "originalUrl": "https://mashable.com/video/tom-scott-ai-version/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F01%252F19%252F7c%252Fa83dec8cc13c4aee9a190a98c71b0445.2df2f.jpg%252F1200x630.jpg?signature=WHlUQxZOgk3BSKB27uIxxqkHDck=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/tom-scott-ai-version.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tom-scott-ai-version.amp",
+      "publishedDateTime": "2021-01-19T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-technology-to-track-passengers-ceo.md",
+      "title": "Delhi Airport evaluating 'computer vision' technology to track passengers: CEO",
+      "excerpt": "Delhi Airport is evaluating computer vision technology to track passengers, reduce waiting time and ensure social distancing at terminals, a top official of the facility's operator informed | NewsByte",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story",
+      "originalUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cdn.newsbytesapp.com/images/l216_39071611046932.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp",
+      "cdnAmpWebUrl": "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp",
+      "publishedDateTime": "2021-01-19T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsbytesapp.com",
+        "domain": "newsbytesapp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-diagnosis-ai-data-centric-approach-creates-the-internet-of-healthcare.md",
       "title": "Diagnosis AI: Data-Centric Approach Creates the ‘Internet of Healthcare’",
       "excerpt": "AI-centric platform Olive claims it is building the first healthcare “AI workforce” that automates workflows and streamlines manual tasks. Here's a look.",
@@ -149,58 +279,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
-      "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
-      "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T20:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-19-cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture.md",
       "title": "CloudCommerce Goes Live with Artificial Intelligence (AI) Advertising Venture",
       "excerpt": "( CLWD ), a leading provider of digital advertising solutions, today announced that it has officially launched aiAdvertising, Inc., its wholly owned subsidiary focused on using artificial intelligence (AI) to enhance its successful SWARM solution with the goal of cutting advertising costs by as much as 50%.",
@@ -303,7 +381,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -344,6 +422,58 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
+      "title": "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers",
+      "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -677,59 +807,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used.md",
-      "title": "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used",
-      "excerpt": "Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "originalUrl": "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2018/01/15/37af3c7b-8de3-4016-b11a-f6c6ff0044eb/thumbnail/1200x675/0694bbed8403720a906252aaf7f4a583/5a578ebc69340d506caef07c-1280x7201jan152018133314poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "publishedDateTime": "2021-01-17T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1116,101 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-bidens-inaugural-speech-to-plead-for-comity-in-wake-of-riot.md",
-      "title": "Biden’s Inaugural Speech to Plead for Comity in Wake of Riot",
-      "excerpt": "“There’s a recognition that things aren’t great right now, but there’s definitely hope that they’re going to get better.” Teper said not to expect the speech to dwell on the past. There’s “no way” Biden would invoke “American carnage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPAY_sBCoYTY/v1/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
-      "publishedDateTime": "2021-01-17T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience.md",
-      "title": "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience",
-      "excerpt": "Powered by Microsoft Azure, Indian Railway Catering and Tourism Corporation’s (IRCTC) AI-powered chatbot AskDISHA has helped improve satisfaction of customer interactions by 70%.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/",
-      "originalUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp",
-      "publishedDateTime": "2021-01-16T20:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

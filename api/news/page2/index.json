@@ -2,6 +2,240 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-reply-signs-an-agreement-with-aws-to-develop-industry-solutions.md",
+      "title": "Reply Signs an Agreement with AWS to Develop Industry Solutions",
+      "excerpt": "Reply, specialized on new communications channels and digital media, announces today it has signed a Strategic Collaboration Agreement (SCA)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
+      "publishedDateTime": "2021-01-19T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles.md",
+      "title": "Cruise, GM partner with Microsoft to ramp up self-driving vehicles",
+      "excerpt": "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO",
+      "originalUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 809,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines.md",
+      "title": "Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines",
+      "excerpt": "We recently announced Amazon SageMaker Pipelines, the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). SageMaker Pipelines is a native workflow orchestration tool for building ML pipelines that take advantage of direct Amazon SageMaker",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/07/ML-1682-1.jpg",
+          "width": 800,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T15:51:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments.md",
+      "title": "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments",
+      "excerpt": "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830",
+      "publishedDateTime": "2021-01-19T15:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition.md",
+      "title": "Twenty20 Solutions introduces edge AI face biometrics and object recognition",
+      "excerpt": "Twenty20 Solutions is now able to provide cutting-edge face biometrics and object recognition solutions powered by advanced machine learning methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
+      "originalUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip.md",
       "title": "Snapdragon 870 5G gives OnePlus, Moto & more a cheaper flagship chip",
       "excerpt": "Qualcomm has revealed its newest mobile chipset, with the Snapdragon 870 5G slotting in just below the most potent Snapdragon 888 as the company expands its flagship series. Successor to the",
@@ -297,49 +531,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-kamis-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.md",
-      "title": "Kami’s new video doorbell boasts on-device person detection and facial recognition",
-      "excerpt": "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html",
-      "originalUrl": "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html",
-      "publishedDateTime": "2021-01-19T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHive",
-        "domain": "techhive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-19-can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future.md",
       "title": "Can AI Scouting Tech Identify The Premier League Talents Of The Future?",
       "excerpt": "Burnley FC will hold an open trial for anyone around the world, with video recognition algorithms determining whether they can make the grade",
@@ -348,7 +539,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -440,59 +631,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-gms-cruise-self-driving-startup-raises-2-billion-led-by-microsoft.md",
-      "title": "GM’s Cruise self-driving startup raises $2 billion led by Microsoft",
-      "excerpt": "GM announced that Cruise, its self-driving startup, has raised a new $2 billion financing round led by Microsoft. The software giant is putting some skin in the self-driving game. GM Cruise Unlike other automakers having their automated driving divisions,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/",
-      "originalUrl": "https://electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 726,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/cruise-bolt-2000.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/amp/",
-      "publishedDateTime": "2021-01-19T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -710,7 +848,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1094,136 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market.md",
-      "title": "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market",
-      "excerpt": "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "publishedDateTime": "2021-01-19T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-youtuber-challenges-scientist-to-create-an-ai-version-of-him-for-100.md",
-      "title": "YouTuber challenges scientist to create an AI version of him for $100",
-      "excerpt": "That's the question YouTuber Tom Scott set out to find the answer to in his latest video, for which he challenged AI in neuroscience researcher Jordan Harrod to create a fake version of him for $100.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/tom-scott-ai-version/",
-      "originalUrl": "https://mashable.com/video/tom-scott-ai-version/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F01%252F19%252F7c%252Fa83dec8cc13c4aee9a190a98c71b0445.2df2f.jpg%252F1200x630.jpg?signature=WHlUQxZOgk3BSKB27uIxxqkHDck=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/tom-scott-ai-version.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tom-scott-ai-version.amp",
-      "publishedDateTime": "2021-01-19T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-technology-to-track-passengers-ceo.md",
-      "title": "Delhi Airport evaluating 'computer vision' technology to track passengers: CEO",
-      "excerpt": "Delhi Airport is evaluating computer vision technology to track passengers, reduce waiting time and ensure social distancing at terminals, a top official of the facility's operator informed | NewsByte",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story",
-      "originalUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cdn.newsbytesapp.com/images/l216_39071611046932.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp",
-      "cdnAmpWebUrl": "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp",
-      "publishedDateTime": "2021-01-19T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsbytesapp.com",
-        "domain": "newsbytesapp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

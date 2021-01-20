@@ -23,6 +23,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "In a Bid to Capture New Growth, Telcos Turn to AI and Operations Automation in 5G Networks"
+    excerpt: "Telcos are actively expanding the utilization of AI/ML beyond merely digitizing internal and external interactions."
+    publishedDateTime: 2021-01-20T20:24:00Z
+    webUrl: "https://www.abiresearch.com/press/bid-capture-new-growth-telcos-turn-ai-and-operations-automation-5g-networks/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 27
+    images:
+      - url: "https://cdn.abiresearch.com/media/social_images/AN-4903-Media-Card.jpg"
+        width: 1650
+        height: 825
+        isCached: true
+
 secured: "kJYmsRynKpy32VB4F0V19efDeN6E+72rMXO7ToZb9x42AcFi74UlTeb9CtBnuPs4ZR3pEFeYMYqpXfy9JhcjN42KC8TPrm44JLZQO8p89QEBKZmf/fuC6hcDEfH4FEtT+XiLukr6BVuiEWwQhYV545vUNuH36Pe7eYfuBtIc3Mm9tbtS9ruNGFYsenvuYx28I/VxJvSwcNrbVbpXathzSNktQBwWmi33WfYUw7NVv6aSt12ITAeOWG/5xzgCbuVVjNQyBezUgj/9JDeT2LZsnJ5c0kGP19UghET91nVQWtfSVt+/12YBzFMxxifLzGEeFrwvaqIoeLFLeFdTJqdaXTr01U2Sf1LrZfFHRryTRdY=;cZMi5js9sXbxaFbzcWPLUQ=="
 ---
 

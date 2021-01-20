@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "MediaTek Launches 6nm Dimensity 1200 Premium 5G SoC with Unrivaled AI and Multimedia for Powerful 5G Experiences"
+    excerpt: "MediaTek also announces Dimensity 1100 5G chipset to give device m"
+    publishedDateTime: 2021-01-20T20:48:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-20/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 46
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MediaTek’s new Dimensity 1100 and 1200 chips are here to take on the premium flagship segment"
     excerpt: "Having promised to announce a new flagship processor during its virtual summit at the tail-end of 2020, MediaTek has gone one better by launching the"
     publishedDateTime: 2021-01-19T19:19:00Z

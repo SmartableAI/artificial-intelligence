@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-14-machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184.md",
+      "title": "Machine Learning and Artificial Intelligence Integration Drives the Growth of the Global Natural Language Processing Market at a CAGR of 18.4%",
+      "excerpt": "In 2019, the global natural language processing market reached USD 9.2 Billion and it is expected to grow at a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-machine-learning-tool-gives-early-warning-of-cardiac-issues-in-covid-19-patients.md",
+      "title": "Machine learning tool gives early warning of cardiac issues in COVID-19 patients",
+      "excerpt": "A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors several hours before hospitalized COVID-19 patients experience cardiac arrest or blood clots.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/cardiacdevice.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp",
+      "publishedDateTime": "2021-01-14T06:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-pilot-company-adopts-machine-learning-platform-to-streamline-supply-chain-management.md",
       "title": "Pilot Company Adopts Machine Learning Platform to Streamline Supply Chain Management",
       "excerpt": "Pilot Company has chosen the 4R Systems machine learning Forecasting and Replenishment Solution to power logistics at its 750 Pilot Flying J travel centers in the U.S. and Canada. The system is expected to provide a more consistent and efficient solution to help maximize inventory and sales.",
@@ -563,50 +659,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
-      "excerpt": "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
-      "originalUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1",
-          "width": 2560,
-          "height": 1340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
-      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
-      "publishedDateTime": "2021-01-13T21:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-amazon-ai-conclave-2021-everything-you-need-to-know.md",
       "title": "Amazon AI Conclave 2021: Everything You Need To Know",
       "excerpt": "Roche, the second-largest pharmaceutical company in the world, uses Amazon SageMaker to accelerate the delivery of treatments and tailor medical experiences. And the list goes on… Data scientists, researchers,",
@@ -787,6 +839,50 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
+      "excerpt": "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thaipr.net/en/it_en/3018538",
+      "originalUrl": "https://www.thaipr.net/en/it_en/3018538",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thaipr.net/wp-content/uploads/2021/01/image011-scaled-e1611138116511-768x576.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thaipr.net",
+        "domain": "thaipr.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1071,110 +1167,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-teslas-main-self-driving-rival-isnt-googleits-intels-mobileye.md",
-      "title": "Tesla’s main self-driving rival isn’t Google—it’s Intel’s Mobileye",
-      "excerpt": "Mobileye's self-driving strategy has a number of things in common with that of Tesla, the world's most valuable automaker. Like Tesla, Mobileye is aiming to gradually evolve its current driver-assistance technology into a fully self-driving system.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/",
-      "originalUrl": "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/Intel-Mobileye-lidar-SoC-1-1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-the-ai-arms-race-comes-to-enterprise-content-management.md",
-      "title": "The AI arms race comes to enterprise content management",
-      "excerpt": "Enterprise content management (ECM) platforms that have historically been employed to manage files are, thanks to the rise of AI, about to evolve into central repositories for keeping track of relationships between a much wider range of types of data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/",
-      "originalUrl": "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/M-Files-Intelligent-Information-Management-Summit-2018.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/the-ai-arms-race-comes-to-enterprise-content-management/amp/",
-      "publishedDateTime": "2021-01-13T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

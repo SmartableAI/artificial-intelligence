@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descript
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
 type: article
 quality: 88
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005d74fd02fcf42886cda91%2F0x0.png"
         width: 1200
         height: 2115
+        isCached: true
+  - title: "Facebook Improves Its AI Audio Photo Descriptions for the Visually Impaired"
+    excerpt: "Facebook has been using AI to audibly describe the contents of photos for the visually impaired for some time, but it's improving those efforts this year."
+    publishedDateTime: 2021-01-20T20:08:00Z
+    webUrl: "https://petapixel.com/2021/01/20/facebook-improves-its-ai-audio-photo-descriptions-for-visually-impaired/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 37
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/01/Facebook-Improves-its-AI-Audio-Photo-Descriptions-for-Visually-Impaired.jpg"
+        width: 1600
+        height: 840
         isCached: true
   - title: "Facebook nabs facial recognition website"
     excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."

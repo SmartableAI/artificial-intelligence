@@ -26,18 +26,18 @@ topics:
 
 related:
   - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program"
-    excerpt: "AMAX's HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their"
-    publishedDateTime: 2021-01-20T14:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program-301211533.html"
+    excerpt: "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference,"
+    publishedDateTime: 2021-01-20T14:33:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-d0c5c4e9b24d538fcdd7262d3e7e8839"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 50
     images:
-      - url: "https://mma.prnewswire.com/media/1423328/b3b2dea120256d4a4f3c89aa42b0_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Supermicro Unveils NVIDIA GPU Server Remote Test Drive Program"
     excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and"

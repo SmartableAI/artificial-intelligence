@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Swapp raises $7 million to automate construction planning with AI"
+    excerpt: "Swapp, a company that leverages AI for construction planning, today announced that it raised $7 million in venture capital. The company plans to put the funds toward “continued market expansion” and growing its platform’s AI capabilities."
+    publishedDateTime: 2021-01-20T20:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/04/GettyImages-552721783.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "tSeSb3OPbnnOGf9HoePi1whDhcwWJ1wJhCiS6PuBQnEmuzKCU5SBN0JUgKyaEojjWyUneBwZrcBWMZfUbmj0w4MnU3rbO3COfmGzdrwxIov0nUwhgTa17bFWYPpglz7bkg/2hLTUM0/RfbOyKp+TNM6/ftiRUH2Ktbw2NVEKwekyjGd6yHyg9xYd0ktc542nVaHeQWQokIjCGJSlF26u409WEIcatnWZz69LPKbiy/y6zrnGpffxjA41QQXXrYWm858DX5fYjEq4ISWSDlCc8L30UJrpQ5f1v6gEal5YdTlIWtkmi5dsKkf6QwcxbQbTyEVz//MFxMqSn7Y64mP80GGJ7tpC4o/Um0gtoE17xeY=;zQCmUu/pUh8IHIWywjaQIg=="
 ---

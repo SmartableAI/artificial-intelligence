@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-01-20-amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program.md",
       "title": "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program",
-      "excerpt": "AMAX's HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their",
+      "excerpt": "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program-301211533.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program-301211533.html",
+      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-d0c5c4e9b24d538fcdd7262d3e7e8839",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-d0c5c4e9b24d538fcdd7262d3e7e8839",
       "featuredContent": null,
       "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1423328/b3b2dea120256d4a4f3c89aa42b0_Logo.jpg?p=facebook",
-          "width": 600,
-          "height": 315,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:15:00-08:00",
+      "publishedDateTime": "2021-01-20T06:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -158,7 +158,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches-5g-ai-and-image-data-at-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -400,7 +400,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -504,7 +504,7 @@
       "originalUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {

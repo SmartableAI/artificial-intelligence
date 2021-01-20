@@ -9,8 +9,8 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/google-pr
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/google-probes-ethical-ai-team-member-over-handling-of-sensitive-data-ebeaaef2-720d-488a-8e03-8a341fce4ec6"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: IOL News
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Google investigates ethical AI team member over handling of sensitive data"
+  - title: "Google Investigates Ethical AI Team Member Over Handling of Sensitive Data"
     excerpt: "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
-    publishedDateTime: 2021-01-20T13:26:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idUSKBN29P0TW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0TW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0TW"
+    publishedDateTime: 2021-01-20T09:23:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-01-20/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548412512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J0F2"
-        width: 1056
-        height: 545
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
   - title: "Google \"Investigates\" AI Researcher Over Handling Of Sensitive Data"
     excerpt: "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
     publishedDateTime: 2021-01-20T09:23:00Z

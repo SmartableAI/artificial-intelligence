@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Google investigates ethical AI team member over handling of sensitive data"
+title: "Google Investigates Ethical AI Team Member Over Handling of Sensitive Data"
 excerpt: "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
-publishedDateTime: 2021-01-20T13:26:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-idUSKBN29P0TW"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research-idUSKBN29P0TW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0TW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0TW"
+publishedDateTime: 2021-01-20T09:23:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2021-01-20/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data"
+webUrl: "https://money.usnews.com/investing/news/articles/2021-01-20/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data"
 type: article
-quality: 102
-heat: 122
-published: true
+quality: 62
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548412512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J0F2"
-    width: 1056
-    height: 545
-    isCached: true
 
 related:
   - title: "Google probes ethical AI team member over handling of sensitive data"
@@ -64,6 +56,6 @@ related:
         height: 400
         isCached: true
 
-secured: "h5onQvwYZ3rzH1SGGVsnlS0iLzOHSXg2B9D/qXscC+b90s2a+E4CRaBXsMaB2Tolz3dyBaDuAcY7wjOxo3ACJXXg41gGX64DcspfxnMcG6Sn/pjZ8+3DjoGwRAw6tn5uOna2XIzvpASsKii5y4lWMplSkD5lbGmR0pjFfmuVLBYAv6z4/fcQ2QmlNMej9XZ0WYWZWiVm7gAEZDeElEx/B4wd8HLmKYjm2wF8j/w6drI0hN3R5v8Bf/cV/y3OBhXWA4AnftNJLuLlMPzjxDGtq/rz7+iQuBYg+DEhwb6jQyL2cK80Yh83D+GelIdBAWUg2yiH0HBQ5hI3xMWPX4uowC89bUPlxd8U9YHCJRoojbI=;4t+Fuk3U1xT1w3uK4DgK6w=="
+secured: "jc2Ta8i4eyNxcxFQ3edqS8zSCj2dUh9Xiin5TUiLi8V8BQd0lwSl07YMTOeT/jsrXE02zt0P0VmtnhnxfPaeQLDKDcLPr9VvkUZY2wrRZqP+N37+gL8BenFpCeehZc+j42vaL8ObRvFAf9RtHm5zSqdENGhJDeFURT9bB1Hu97uzX7wrloio99Pnk7ZsJyO7p4dsmKg6zU9Qj7y4vIbXxbTtkfZul/FooeP0O1JDfB6dRR45E2kHuNUDpsnZMmw7Ar72V0HdYgffnALnwoFeSu8Oa2A8WTLY8TsMC/LnqT5h8Gv+9xp81aqK2Ekt1btoNluPxcDuB+tcZeXrbcEJOWrr3wssy6DoPbvTd9RiVGczv7QaXdDwcWdINw1seZkHCqaaHnMUNpNP9zee8vslJyfAsdjC4bBRx+/UmivTSvfK7pSTzB7PNBqkbIPgGsz1O4aQme+z3TilC5MFJYJ7XPW6O1oxq1HPpg2ByggnEFebOSql4Y+4K/9T/I1ixxGq4NEFrEWm+ndMfyr9HVZVYQ==;L4aZDw/oyFkOpDw8N8SFTg=="
 ---
 

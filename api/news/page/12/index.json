@@ -2,6 +2,103 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-11-photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically.md",
+      "title": "Photonic Chips Seem To Boost Speed of AI Processes Dramatically",
+      "excerpt": "A team of researchers has recently applied photonic processors to artificial intelligence applications, demonstrating that photonic processors can greatly surpass the information processing capability of regular electronic chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically/",
+      "originalUrl": "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1200/h:900/q:auto/https://www.unite.ai/wp-content/uploads/2021/01/spectrum-113364_1920.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-10T23:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-the-most-valuable-software-developer-skills-to-get-hired-now.md",
+      "title": "The most valuable software developer skills to get hired now",
+      "excerpt": "We identify some of the hot areas where software developers can focus their attention to better stand out from the crowd in a challenging job market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.html",
+      "originalUrl": "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/red-balloon_leader_unique_one-of-a-kind-100746953-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.amp.html",
+      "publishedDateTime": "2021-01-10T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-samsungs-digital-cockpit-is-a-futuristic-concept-for-self-driving-car-interiors.md",
       "title": "Samsung’s Digital Cockpit is a futuristic concept for self-driving car interiors",
       "excerpt": "Samsung has announced a concept tech that imagines turning cars of the future into mobile offices and entertainment centers.",
@@ -1077,93 +1174,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-hyundai-to-partner-with-apple-on-self-driving-car-but-maybe-not.md",
-      "title": "Hyundai to Partner With Apple on Self-Driving Car ... but Maybe Not",
-      "excerpt": "Hyundai says it will partner with Apple on a self-driving car, but then quickly shifts gears to say it has received requests from a number of technology suitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "originalUrl": "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/nJGNyKYO-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821",
-      "publishedDateTime": "2021-01-08T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-five-ways-to-make-ai-a-greater-force-for-good-in-2021.md",
-      "title": "Five ways to make AI a greater force for good in 2021",
-      "excerpt": "A year ago, none the wiser about what 2020 would bring, I reflected on the pivotal moment that the AI community was in. 2018 had seen a series of high-profile automated failures, like self-driving car crashes and discriminatory recruiting tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA-GettyImages-1193127525.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
-      "publishedDateTime": "2021-01-08T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

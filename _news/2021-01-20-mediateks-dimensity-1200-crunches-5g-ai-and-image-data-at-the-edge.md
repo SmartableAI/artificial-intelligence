@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches-5g-ai-and-image-data-at-the-edge/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek Launches 6nm Dimensity 1200 Premium 5G SoC with Unrivaled AI and Multimedia for Powerful 5G Experiences"
+    excerpt: "MediaTek also announces Dimensity 1100 5G chipset to give device m"
+    publishedDateTime: 2021-01-20T20:48:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-20/mediatek-launches-6nm-dimensity-1200-premium-5g-soc-with-unrivaled-ai-and-multimedia-for-powerful-5g-experiences"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 46
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MediaTek announces new 5G chips"
     excerpt: "MediaTek said its new Dimensity 1200 and Dimensity 1100 chips for 5G smartphones sport new AI, camera and multimedia features."
     publishedDateTime: 2021-01-20T17:36:00Z
