@@ -25,22 +25,91 @@ images:
     isCached: true
 
 related:
-  - title: "China expands use of facial recognition ATMs to combat gambling crime"
-    excerpt: "Facial recognition will allegedly help authorities reduce crime, as well as prevent individuals from allowing non-cardholders to use their cards to transfer potentially illicit funds. This isn’t the first time that the area has seen ATM s with facial recognition capabilities,"
-    publishedDateTime: 2021-01-20T09:31:00Z
-    webUrl: "https://calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/"
-    ampWebUrl: "https://calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/amp/"
-    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/amp/"
+  - title: "Technologists Use Facial Recognition on Parler Videos"
+    excerpt: "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,"
+    publishedDateTime: 2021-01-20T21:34:00Z
+    webUrl: "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos"
+    ampWebUrl: "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
     type: article
     provider:
-      name: CalvinAyre
-      domain: calvinayre.com
-    quality: 59
+      name: VICE
+      domain: vice.com
+    quality: 89
     images:
-      - url: "https://calvinayre.com/wp-content/uploads/2021/01/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime-1-e1611134859445.jpg"
-        width: 500
-        height: 281
+      - url: "https://video-images.vice.com/articles/6008765a4384dd009c120dbd/lede/1611167325556-capitol.jpeg?crop=1xw:0.842xh;0xw,0.077xh"
+        width: 1500
+        height: 842
         isCached: true
+  - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
+    excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
+    publishedDateTime: 2021-01-16T16:19:00Z
+    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
+    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 54
+    images:
+      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
+        width: 1200
+        height: 495
+        isCached: true
+  - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
+    excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
+    publishedDateTime: 2021-01-19T15:16:00Z
+    webUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html"
+    ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
+    type: article
+    provider:
+      name: TechHive
+      domain: techhive.com
+    quality: 53
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "KLIA to roll out facial recognition technology in 1H 2021"
+    excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
+    publishedDateTime: 2021-01-18T06:43:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=1923008"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 39
+    images:
+      - url: "https://www.bernama.com/storage/photos/4d11767660ecb3d1edf7fac350faa2aa5e8d5d9f630d5-medium"
+        width: 350
+        height: 219
+        isCached: true
+  - title: "Facial recognition system plans for Parliament shelved"
+    excerpt: "Given the ongoing Covid-19 situation and safe distancing measures introduced during Parliament sittings, plans for a facial recognition system to track MPs' attendance in Parliament have been shelved."
+    publishedDateTime: 2021-01-20T22:06:00Z
+    webUrl: "https://www.straitstimes.com/singapore/politics/facial-recognition-system-plans-for-parliament-shelved"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/20/dw-parl-facialrecognition-210120.jpg?itok=RXHCCkT0"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Spoof detection for facial recognition in casinos"
+    excerpt: "A non-intrusive spoof detection feature for facial recognition technology has been released by Innovative Technology of the UK."
+    publishedDateTime: 2021-01-20T07:34:00Z
+    webUrl: "https://www.intergameonline.com/casino/news/spoof-detection-for-facial-recognition-in-casinos"
+    type: article
+    provider:
+      name: InterGame
+      domain: intergameonline.com
+    quality: 19
 
 secured: "b/V6zAJBHxaAfGSlDiJn042Vf3Pkb+r3m8/dfBErQVfY5W9HOwYmJ+ne7O+k7XQ+DK2eS6FjnogM1wOMOUDm4tgIpJZKTl6EQM/CGVEa+rzvTG1HJhi6DwpBMcssurqfSnQwTQ414/ifIycizyQTYLG/8mMbDsyRie2Uq0ljwUxuHQ70szMS/ye3l1cdUrSJSdSpyk2M4AoWQTx1Heyd1PF95DEjPHxc8wZLfz1PJ6oqZHrFlU6Bl6wM/3EhVctXccjDrsgnb8QyX5j5eJuq79iqpjoQu4/jgmPaETsnzgKYyu+lnglO8ttpslC6gD12dPepmI2T7oImsov2mpA/NO1/Z9MfsY6UAm+8Jd3giyU=;Qt54g2aEqyy0rDOLHDk5ig=="
 ---

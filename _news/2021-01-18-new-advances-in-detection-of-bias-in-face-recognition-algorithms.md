@@ -41,22 +41,6 @@ related:
         width: 590
         height: 443
         isCached: true
-  - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
-    excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
-    publishedDateTime: 2021-01-19T15:16:00Z
-    webUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html"
-    ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: TechHive
-      domain: techhive.com
-    quality: 53
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "dkUdIGMGZUKspXPPJ7bRbgE/YStdAxYodOO9xoLxfyy492jx/XOLiG7mQYu8vnciQM0UMZ3MMChlqWzsseyoBR3QHe86++NypmUKnGnO0r3mU83G1Q3sL1vMbZtQO8C+AZ9aqRP6TtEHnSBs1BKUrdKFWzYKRXbHQEeEZjmeIZfmNxTemmZ0ZV5lelgBgrv7+uWm3rOk2FTSsjM73/Y3wCgtvxJLp5KVM7b2xW55eKn8PZ5OZaY76WuYUetZlgIeHEKSDH+JNoNpTnCIWD4uD4P2O/0EIHo7zNMxAzAD5LdtG5fTUhzdslIdF03CUBcD1aqME4YUg8z8/P/j3gnLqKA2csEcTGrfsFVPz3XXhGs=;qqjqfpyb8qhafVViS/8xtw=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers"
+title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
 excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-publishedDateTime: 2021-01-19T00:20:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers"
-webUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
+publishedDateTime: 2021-01-19T04:55:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L"
+webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L"
 type: article
-quality: 174
-heat: 254
+quality: 74
+heat: 144
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
@@ -60,22 +60,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/01/19/550x309/2021-01-18T234159Z_901953953_RC2NAL9HTPYY_RTRMADP_3_USA-TRUMP-PROTESTS-FACIALRECOGNITION_1611014981714_1611015003203.JPG"
         width: 549
         height: 309
-        isCached: true
-  - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
-    excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
-    publishedDateTime: 2021-01-16T16:19:00Z
-    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 54
-    images:
-      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
-        width: 1200
-        height: 495
         isCached: true
   - title: "Following the U.S. Capitol attack, tough ethical decisions ahead on face recognition technology"
     excerpt: "Today’s columnist, Rustom Kanga of iOmniscient, says Americans will have to make some tough ethical choices about face recognition technology as political tensions and divisions mount across the country. (Credit: iOmniscient) The attack on the U.S ..."
@@ -143,6 +127,6 @@ related:
       domain: insurancejournal.com
     quality: 2
 
-secured: "LGk7qk+hKkC3Evk7KrBwPtHXsJ5P9BvJl4SoZns+fGeJ3GxS5JXGk0IexhdpvaLeaRGGLgTc72h7eT/eRGMW7KdaOeSjPIsZ6C+0Pb/vCx/PskP/78f5V2duG55Ne7rsNS1TfNvsOEH3eA9iqDU54C9HYz8VEeEe5omgSClA4co4HI8LceKpDtyuWxTzc84beFARfqIBCV6iEBw5c82ZfjeVLZRG/Vktaz0Q7DryKhIZohCqlOv9HfbhiIx9Z2Y5XI517CLb6DKscS0cO/2DVlB3xik/YdbP8UmybQhLqlLEK4Uv8Bq+1Ah6fkAu+5cjUT0evjaHAw2YK9+FZokYgvihRYUmvwMJACtSTxkWESk=;MSqM/YDkNWhDEluykClefQ=="
+secured: "600SXOjadcxMDE7l+OxToUvqsvXuM7EXbr/j9abchg5nk1CxtGxMTzFnC48+zUzWgsioeb20WFIFOS3ZPDFiaLCEILYz7Fm7OkFrlM1EVpvtg8rBuyiiaNsW6rKMSll+IkoRNGxNX26EXB7fUDiIE4VGjL/vQP1MeFvyOlibDoupto5TVuSag4Ut1H4unwQZcKhTHhuEjPkMjX7PfxA/8mBZDgX9K/g0NVTyxAocfmP54vidLhWOgrHsno3VtxVc8IA+VZlEgzEnRi480nueV/7TSQrW9D2w4BpdvlDgmfFHQCQUMrciXlWdMJRCd0K++FfHIbR5E+K6pezyXaF/19WIyf6HLg65j0Jk8A9pcLM=;kSwtNN09HbLDyeWlTsXYHQ=="
 ---
 

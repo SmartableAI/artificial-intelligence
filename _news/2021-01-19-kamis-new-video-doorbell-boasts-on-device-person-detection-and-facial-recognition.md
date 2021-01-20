@@ -27,36 +27,89 @@ images:
     isCached: true
 
 related:
-  - title: "Paravision AI ordered to delete face recognition software derived from user pictures without permission"
-    excerpt: "US face recognition developer has been found to have used pictures from the Ever storage app without permission, and now has to delete all its algorithms."
-    publishedDateTime: 2021-01-20T19:16:00Z
-    webUrl: "https://www.dpreview.com/news/0874174431/paravision-ai-ordered-delete-face-recognition-software-user-pictures-without-permission"
-    ampWebUrl: "https://m.dpreview.com/news/0874174431/paravision-ai-ordered-delete-face-recognition-software-user-pictures-without-permission.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/0874174431/paravision-ai-ordered-delete-face-recognition-software-user-pictures-without-permission.amp"
+  - title: "Technologists Use Facial Recognition on Parler Videos"
+    excerpt: "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,"
+    publishedDateTime: 2021-01-20T21:34:00Z
+    webUrl: "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos"
+    ampWebUrl: "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
     type: article
     provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 60
+      name: VICE
+      domain: vice.com
+    quality: 89
     images:
-      - url: "https://3.img-dpreview.com/files/p/E~TC4x3S590x0~articles/0874174431/3F6F6E34-65DC-486A-BFC3-38A6BBCDE811.jpeg"
-        width: 590
-        height: 443
+      - url: "https://video-images.vice.com/articles/6008765a4384dd009c120dbd/lede/1611167325556-capitol.jpeg?crop=1xw:0.842xh;0xw,0.077xh"
+        width: 1500
+        height: 842
         isCached: true
-  - title: "New advances in detection of bias in face recognition algorithms"
-    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
-    publishedDateTime: 2021-01-18T13:32:00Z
-    webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
+  - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
+    excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
+    publishedDateTime: 2021-01-16T16:19:00Z
+    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
+    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 54
+    images:
+      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
+        width: 1200
+        height: 495
+        isCached: true
+  - title: "KLIA to roll out facial recognition technology in 1H 2021"
+    excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
+    publishedDateTime: 2021-01-18T06:43:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=1923008"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
     quality: 39
     images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/01/MG_5999_2021-01-18_21-25-39-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://www.bernama.com/storage/photos/4d11767660ecb3d1edf7fac350faa2aa5e8d5d9f630d5-medium"
+        width: 350
+        height: 219
         isCached: true
+  - title: "KLIA to use facial recognition in place of boarding pass"
+    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
+    publishedDateTime: 2021-01-18T23:50:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Facial recognition system plans for Parliament shelved"
+    excerpt: "Given the ongoing Covid-19 situation and safe distancing measures introduced during Parliament sittings, plans for a facial recognition system to track MPs' attendance in Parliament have been shelved."
+    publishedDateTime: 2021-01-20T22:06:00Z
+    webUrl: "https://www.straitstimes.com/singapore/politics/facial-recognition-system-plans-for-parliament-shelved"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/20/dw-parl-facialrecognition-210120.jpg?itok=RXHCCkT0"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Spoof detection for facial recognition in casinos"
+    excerpt: "A non-intrusive spoof detection feature for facial recognition technology has been released by Innovative Technology of the UK."
+    publishedDateTime: 2021-01-20T07:34:00Z
+    webUrl: "https://www.intergameonline.com/casino/news/spoof-detection-for-facial-recognition-in-casinos"
+    type: article
+    provider:
+      name: InterGame
+      domain: intergameonline.com
+    quality: 19
 
 secured: "Sw5CBQLEsiobMB4QLZ7mQSbm79dWw1vm155cxTeeWRi9CXPuAYZ2ohClGLc5mjN32tJD6i0ZrrvDaiJYM7CxRtIiwu6XIUaRBpsHeZzYdDz8hJeKDIB9TmObaqml1kyoAh/6Q93hI5MxmiiplwOgZd/s5/sbNxFbHrMLeKps4HbhEtJvi01Kv93RMJ5cVRqWjY+WGZP702uIDtnY9cssMyap1tubL8g9Rgb9YrBnSsUW4BKbJvaGc/2LVTRYiCMNeAlw1Lt8MZKPKVl10CMwbZhb1mMXoZJ8GbFNINUUj75dZ6Y17IBXEDU6c0Hkvuk4t9DyJlAy7VjN4PQVfjI4WNui6QsWyoPS0AbNThlhJpGtpLXzUgFd+vL5s15p0C++w4v21Ip3n5AgZWbNqiZNBASL/C1T7NhATxVzACepO5QAZ3M5BnTpfjViC4M6FDfDxa8aDFEPqPqkTWiFxiOIzyxnl9PGRU4VAzBsP98Fgi/Oli2qnB+B1f+mX/aDtD1Vif5m1dBq2JiHsnpKp13OiA==;BUrssDzCgiN4+NamF7ndLQ=="
 ---

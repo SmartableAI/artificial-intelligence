@@ -38,7 +38,7 @@ related:
     provider:
       name: Waste360
       domain: waste360.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://www.waste360.com/sites/waste360.com/files/EPISODE2STTfeat.jpg"
         width: 1540

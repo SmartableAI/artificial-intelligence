@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-20T17:37:00Z
 originalUrl: "https://www.chronicle.com/article/artificial-intelligence-is-a-house-divided"
 webUrl: "https://www.chronicle.com/article/artificial-intelligence-is-a-house-divided"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Robotics
   - Google AI
+  - AI in Autos
 
 images:
   - url: "https://chronicle.brightspotcdn.com/dims4/default/5af6ba4/2147483647/strip/true/crop/1352x710+0+80/resize/1200x630!/brightness/-12x0/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F60%2F73%2F75dcf8d147399fb381be5a2544c0%2Fwooldridge-morgenstern.jpg"

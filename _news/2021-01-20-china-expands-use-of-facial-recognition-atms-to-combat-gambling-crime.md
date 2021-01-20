@@ -9,7 +9,7 @@ ampWebUrl: "https://calvinayre.com/2021/01/20/business/china-expands-use-of-faci
 cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 500
     height: 281
     isCached: true
-
-related:
-  - title: "KLIA to use facial recognition in place of boarding pass"
-    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
-    publishedDateTime: 2021-01-18T23:50:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
-        width: 620
-        height: 413
-        isCached: true
 
 secured: "h38r12Nrs73iHT9GT5eQpTnClqu+Ia30GLgrYp4gwWJxWgcrNuUlmus7kP99Xjq4XOtVZPqxVr7EPa8sHo3zs4IYWER1b1NlBmeLN4oHHkNNpqVTr9jDsVlGQelio5LgtKAXZSwSlOnp7wEle/jHfpXmOTQXAOz0oN+ojSO2NaU4BrpOPnNL0P38aiVFAsm3hZXKXksu2GnyrNQhDt5CLMlWqr2vedomX7m3Fz2HyhYrrPFTCPG2WUktiqPEabgoiDb/NdyikBp00rMMUn+9LMCgeNkcj8mFw75i5icmNuyKBfyN8QAqTgJxCjWLoifBraGrRUKqE9Cn9tfp1gC0WEh1RjlLfGCHw9ftI3+1iKtvCtuGN/PHSo3zeCkckNCyPOJGznjepm7y3m+6TNxXsy34j+kng6vQnM4qtx87QyK1Q0Dp3kWFMRViNTd1kw8LkcrNgN4kB3BeUiaUowViZfjQH3a84tz4yrnYym6GLlEEDBV5gLJ/de40w74qVdAdzaCG7hkpfJ1yWfj7cFNcmg==;EriF43BZaEyV4l5dDksXPA=="
 ---

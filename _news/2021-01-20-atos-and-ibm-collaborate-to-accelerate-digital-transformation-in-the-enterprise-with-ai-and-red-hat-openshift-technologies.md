@@ -48,6 +48,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 23
+  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
+    excerpt: "Atos and IBM (NYSE: IBM) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos' vertical decarbonized solution and service delivery assets,"
+    publishedDateTime: 2021-01-20T21:44:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2021/atos-ibm-accelerate-digital-transformation-ai-red"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 13
+    images:
+      - url: "https://www.automation.com/getmedia/935322a3-830a-4623-a198-723ad042f3f9/IBM-Atos-news-Jan-20-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Atos, IBM and Red Hat team up on new industrial automation services"
     excerpt: "ICT company Atos is expanding its strategic alliance with IBM to develop joint offerings focused on automation in manufacturing, logistics and supply chain. One of the new cloud-based applications will help manufacturers and waste management companies control their energy consumption,"
     publishedDateTime: 2021-01-20T16:00:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-21-university-of-pisa-leans-into-the-io-challenge-ai-applications-create.md",
+      "title": "University of Pisa leans into the I/O challenge AI applications create",
+      "excerpt": "University of Pisa adopts NVMesh software from Excelero to enable AI researchers to access Nvidia GPU servers more efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/",
+      "originalUrl": "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/artificial_intelligence.GettyImages-1067543600.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/",
+      "publishedDateTime": "2021-01-20T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program.md",
       "title": "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program",
       "excerpt": "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference,",
@@ -605,33 +657,24 @@
     {
       "path": "_news/2021-01-15-deeprouteai-showcases-groundbreaking-inference-engine-for-autonomous-vehicles-at-ces.md",
       "title": "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES",
-      "excerpt": "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,",
+      "excerpt": "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b",
+      "webUrl": "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES",
+      "originalUrl": "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T17:30:00-08:00",
+      "publishedDateTime": "2021-01-14T22:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1391,50 +1434,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-nio-will-use-nvidia-drive-orin-chips-for-ai-driving.md",
-      "title": "NIO Will Use NVIDIA Drive Orin Chips for AI Driving",
-      "excerpt": "NIO will use NVIDIA DRIVE for advanced automated driving technology in its future fleets, marking the genesis of truly intelligent and personalized NIO vehicles. The NIO ET7 sedan will ship in China s",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/01/nvidia-orin-press.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp",
-      "publishedDateTime": "2021-01-09T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

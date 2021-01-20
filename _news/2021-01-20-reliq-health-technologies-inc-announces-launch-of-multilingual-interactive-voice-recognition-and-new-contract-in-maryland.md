@@ -2,17 +2,23 @@
 category: news
 title: "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition and New Contract in Maryland"
 excerpt: "(GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT or OTC:RQHTF or WKN:A2AJTB) (“ Reliq ” or the “ Company ”), a rapidly growing global telemedicine company that develops innovative Virtual Care solutions for the multi-billion dollar Healthcare market,"
-publishedDateTime: 2021-01-20T02:01:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8138419/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8138419/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland"
+publishedDateTime: 2021-01-20T08:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland-1029984922"
+webUrl: "https://markets.businessinsider.com/news/stocks/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland-1029984922"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Reliq-Health-Technologies-Inc-Announces-Launch-of-Multilingual-Interactive-Voice-Recognition-and-New-Contract-in-Maryland-1029984922"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Reliq-Health-Technologies-Inc-Announces-Launch-of-Multilingual-Interactive-Voice-Recognition-and-New-Contract-in-Maryland-1029984922"
 type: article
-quality: 0
-heat: -1
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -34,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "iiMp+LtvQCqGC4mvVRpW7Sz3N9AMjtNI75n891q0UeLSkzqLsx9K8nz5qBgIxi3Sps4z9DiALPBRWrt8stTSf6SeTi/T+/wyz/pGtfUUxsgRL97QOpUCfbHrNVhwI30LHdyhGknLuz2IhrPEiD5RS3mN1UGkbQiTEz4nFKIao2IGrEc3jSvwnYxpkKZNXUuZdungxf4Z72zwFh4YmVZ+ywoVdx7MNvGy12+9I/iJnVR/PF43D0/8ig3v3eOhyLGr4y9uX+0qrJd7W6JAoFmpdBP4QogHMXhwlhGsf14b6UD6KI/ZwduADHfrgsH/s7EjOMpUZO7rQB9aorasBoH6OZsyuhfN6OKS0PMLUi/NPew=;rXliNUOXl8cdLLrn1chd4A=="
+secured: "2Ry8k+c3TthQwqlaagPVRohEV0OjAFfNGAryele4KsCiCYGQNSPrlzAIs9bgWAuVNtnr0kw8dnP/1KlHl1i6O5BFKxIBP10iwKqCf64MIlaxBim7hDimrULp11bXEy7xyV1nJoTOsXy3lKIH7vUCxxKXl92Z8GsvYlUD3Vs2ZI3x/FVVWsR8DacA+g4llV8zYzDN8FyA/SjmZ127Cv4RlUrmErMaKmdp5v/pjGwZw2FwEWOkYhW7pH1jNT12zwv4eTWtFDA0VFYi+M33Fb25EqqQB8son3sl2ADXUbnfPWCED6LETR4Y+KDOQG36tS4/s7JJtnSghva1K3UCAfm77GGdQBhsaVq+O3Acly1leQM=;MNTzMENjq6CV2kUfSqRrIA=="
 ---
 

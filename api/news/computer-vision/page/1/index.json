@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-21-technologists-use-facial-recognition-on-parler-videos.md",
+      "title": "Technologists Use Facial Recognition on Parler Videos",
+      "excerpt": "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
+      "originalUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/6008765a4384dd009c120dbd/lede/1611167325556-capitol.jpeg?crop=1xw:0.842xh;0xw,0.077xh",
+          "width": 1500,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos",
+      "publishedDateTime": "2021-01-20T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-paravision-ai-ordered-to-delete-face-recognition-software-derived-from-user-pictures-without-permission.md",
       "title": "Paravision AI ordered to delete face recognition software derived from user pictures without permission",
       "excerpt": "US face recognition developer has been found to have used pictures from the Ever storage app without permission, and now has to delete all its algorithms.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.dpreview.com/news/0874174431/paravision-ai-ordered-delete-face-recognition-software-user-pictures-without-permission",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -149,7 +201,7 @@
       "originalUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -332,14 +384,14 @@
     },
     {
       "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
-      "title": "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers",
+      "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
       "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-01-18/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -355,14 +407,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T16:20:00-08:00",
+      "publishedDateTime": "2021-01-18T20:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -378,8 +430,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -631,8 +683,8 @@
       "title": "The Promise and Peril of Facial Recognition",
       "excerpt": "Agencies are using the technology to identify the Capitol rioters.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445",
-      "originalUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445",
+      "webUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -651,7 +703,7 @@
       "type": "article",
       "ampWebUrl": "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445",
-      "publishedDateTime": "2021-01-13T14:10:00-08:00",
+      "publishedDateTime": "2021-01-13T20:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -1389,58 +1441,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ces-liveblog-smart-home-workout-tech-and-so-many-tvs.md",
-      "title": "CES Liveblog: Smart Home, Workout Tech, and So Many TVs",
-      "excerpt": "The consumer tech show is virtual this year, and the WIRED Gear crew is watching all the Zooms to bring you up-to-the-minute highlights of news from CES.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ces-2021-liveblog-day-1/",
-      "originalUrl": "https://www.wired.com/story/ces-2021-liveblog-day-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ff90ef1ad074b4b14f892aa/master/pass/Gear-CES-Liveblog-Day1-Feature-Art.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ces-2021-liveblog-day-1/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2021-liveblog-day-1/amp",
-      "publishedDateTime": "2021-01-11T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

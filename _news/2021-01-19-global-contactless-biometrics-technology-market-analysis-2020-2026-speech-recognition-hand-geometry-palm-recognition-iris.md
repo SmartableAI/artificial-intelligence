@@ -35,6 +35,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Face recognition Tech and biometrics under the microscope at FTC | Wiley Rein LLP"
+    excerpt: "Face recognition Tech and biometrics under the microscope at FTC | Wiley Rein LLP On January 11, 2021, the Federal Trade Commission (FTC)"
+    publishedDateTime: 2021-01-20T22:32:00Z
+    webUrl: "https://www.compsmag.com/news/technology/face-recognition-tech-and-biometrics-under-the-microscope-at-ftc-wiley-rein-llp/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/face-recognition-tech-and-biometrics-under-the-microscope-at-ftc-wiley-rein-llp/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/face-recognition-tech-and-biometrics-under-the-microscope-at-ftc-wiley-rein-llp/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 34
   - title: "Face biometrics deployments increase as regulator and public push back"
     excerpt: "The regulatory heat around facial recognition continues to rise, even as implementations increase, from airports to digital health credentials around the world."
     publishedDateTime: 2021-01-16T18:35:00Z
@@ -48,6 +59,34 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
+        isCached: true
+  - title: "Herta launches face biometrics-based emotion recognition solution"
+    excerpt: "Herta Security video analysis solution BioObserver provides a platform for automatic micro-expression detection based on face biometrics."
+    publishedDateTime: 2021-01-20T22:56:00Z
+    webUrl: "https://www.biometricupdate.com/202101/herta-launches-face-biometrics-based-emotion-recognition-solution"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
+        isCached: true
+  - title: "Rank One unveils real-time face biometrics video analytics solution"
+    excerpt: "Rank One Computing facial recognition plugin for Milestone’s XProtect Video Management System provides instant analysis of video streams."
+    publishedDateTime: 2021-01-20T22:41:00Z
+    webUrl: "https://www.biometricupdate.com/202101/rank-one-unveils-real-time-face-biometrics-video-analytics-solution"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Sensory natural language recognition, voice biometrics design platform launches"
     excerpt: "Sensory has officially introduced a new voice user interface creation platform that can help developers implement voice biometrics to its portfolio."

@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-20T20:29:00Z
 originalUrl: "https://www.waste360.com/recycling/episode-2-future-recycling-artificial-intelligence-and-sorting"
 webUrl: "https://www.waste360.com/recycling/episode-2-future-recycling-artificial-intelligence-and-sorting"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.waste360.com/sites/waste360.com/files/EPISODE2STTfeat.jpg"

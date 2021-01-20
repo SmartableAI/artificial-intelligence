@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-08-apples-tesla-killer-self-driving-car-is-at-least-5-years-away-according-to-a-new-report.md",
+      "title": "Apple's 'Tesla killer' self-driving car is at least 5 years away, according to a new report",
+      "excerpt": "For years, rumors of Apple's self-driving car have swirled — but the latest report says it's still at least five years from its big debut.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1",
+      "originalUrl": "https://www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff862fad184b30018aadb8a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-self-driving-car-at-least-5-years-away-2021-1?amp",
+      "publishedDateTime": "2021-01-07T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-chinas-baidu-teams-with-geely-on-electric-cars.md",
       "title": "China’s Baidu Teams With Geely on Electric Cars",
       "excerpt": "though it’s unclear if the partners intend to eventually also produce self-driving cars. Representatives for the two companies declined to comment. Read more: China’s Baidu Said to Pick CLSA ...",
@@ -1402,49 +1454,6 @@
       "provider": {
         "name": "Motor Trend",
         "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
-      "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
-      "excerpt": "The roadways of metro Phoenix may not look much different 10 years from now, but how we travel them might. We may have more vehicles without drivers behind the wheel, said Andrew Maynard, an associate dean at Arizona State University’s College of Global Futures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future",
-      "originalUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/00261d5/2147483647/strip/true/crop/1200x675+0+38/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Faf%2F39%2F353dc3544745b95be3d878b0a881%2Fwaymo-minivan.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true",
-      "cdnAmpWebUrl": "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true",
-      "publishedDateTime": "2020-12-31T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC15 Arizona",
-        "domain": "abc15.com",
         "images": null,
         "publishers": null,
         "authors": null

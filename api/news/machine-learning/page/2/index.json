@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-12-programming-tweak-helps-ai-software-imitate-human-visual-learning.md",
+      "title": "Programming tweak helps AI software imitate human visual learning",
+      "excerpt": "Using a novel programming tweak, a pair of neuroscientists have managed to replicate human visual learning in computer-based artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "originalUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/7781610457664/2021/1/69303160586a78ce2dec53bee2c8f1d7/v1.5/Programming-tweak-helps-AI-software-imitate-human-visual-learning.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "publishedDateTime": "2021-01-12T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
       "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
       "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
@@ -1353,49 +1398,6 @@
         "AI",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-want-to-dive-into-the-lucrative-world-of-deep-learning-take-this-online-class.md",
-      "title": "Want to dive into the lucrative world of deep learning? Take this online class.",
-      "excerpt": "TL;DR: The Ultimate Deep Learning and NLP Certification Bundle is on sale for £21.43 as of Jan. 3, saving you 97% on list price. Artificial intelligence and deep learning might bring to mind ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes/",
-      "originalUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F01%252F03%252F25%252F3bc5fc78a1c14aa5bd3540bfd1fbef73.cd6b9.jpg%252F1200x630.jpg?signature=H46_q9w0l8DXHM_wrYE-4pOIE9E=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes.amp",
-      "publishedDateTime": "2021-01-03T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

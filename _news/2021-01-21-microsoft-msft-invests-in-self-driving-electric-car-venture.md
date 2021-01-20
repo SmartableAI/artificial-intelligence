@@ -740,6 +740,20 @@ related:
       name: Motor Trend
       domain: motortrend.com
     quality: 41
+  - title: "GM, Microsoft team up on self-driving vehicles"
+    excerpt: "General Motors Co (GM) is teaming up with Microsoft Corp to accelerate its rollout of electric, self-driving vehicles. In the partnership announced on Tuesday, the companies said that Microsoft’s Azure cloud and edge computing platform would be used to “commercialize its unique autonomous vehicle solutions at scale."
+    publishedDateTime: 2021-01-20T22:38:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/01/21/2003750933"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 41
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Microsoft teams up with General Motors for self-driving cars"
     excerpt: "Self-driving cars are all the rage nowadays, and big tech companies are more than happy to clamber aboard the bandwagon. In the most recent such development, Microsoft has teamed up with automotive titan General Motors (GM) to work on producing electric,"
     publishedDateTime: 2021-01-20T18:47:00Z
@@ -767,6 +781,20 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13994818/16x9/991/557/190d297206f03536d799cd76e571acde/GI/a-self-driving-gm-bolt-ev-is-seen-during-a-media-event-where-cruise--gm-s-autonomous-car-unit--showed-off-its-self-driving-cars-in-san-francisco-2.jpg"
         width: 991
         height: 557
+        isCached: true
+  - title: "Cruise, GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
+    excerpt: "Microsoft will join General Motors, Honda and institutional investors in a combined new equity investment of more than $2 billion in Cruise."
+    publishedDateTime: 2021-01-20T16:00:00Z
+    webUrl: "https://www.aftermarketnews.com/cruise-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/"
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 40
+    images:
+      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Cruise and GM Team Up with Microsoft to Commercialize Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their software and hardware engineering excellence,"
@@ -940,6 +968,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "9kxi9B2u4qajCC9Tvkoy08iltOxLQPepbWsE19vecuZPYbWnv2A9vGrBVSJzjIZ0/BjulFvBlq7h+a72eYuLV07LrsNbHRrSKWr3wjklvStBxyFckROGBaFjwd7VhgpXgrBUAae48wMGxXWyDgxgjReyTQb+TKRx8IzsZx+Edbk6QX5tYHB8TvBjz3MML9t2+FEr6e/7nlc2nxyWs6cWgxq6ySwp2QCPjaz5M61KnDj37SV61mut5DEMTc4oaLEDNnFdWx1rXZRh8+WalPTvpndmii6XzbJY0XggBltTwbJeyHsHfjc9PT2Soz1DFKtClgsnXqxoO/eWwodnMVHZBPnlhcAe+WSKtAazLbwoFW0=;+HIoLuQkiIlswXwBBWeGIw=="
+secured: "kf3F+e9TNnWNWXXkE3KjRyWz36YzsWfPxyUeFaWypRyGnFKCAjl7mteTcC6nOWo/IfKaZFd1gxfO1+GfrBrK5CxOEH8vxtmMiJx2e03vAc+49wMs1M8YAXR6VcskRbt6UHjtUwEuxSyznkF680mjMuFNiCsmwWdfrW01rOos5iaOnXhf1baTTJCu+v3ilsOKdnbWhRkKmHzjtiSo27p3ptfcfpbvWTtl+69ygmPf1nNeRNyctRMvrxW8LMiljsIlb+3TSzxRRc4N/kRIoz9oErV0z9WAYD+gQvI2NPW9ZNeoqDmfnkxbqAJ07SWHcofxWHlz+LkWBrlGDywyLi2gWMTsTYnQEs4epDFQc5SU481s/n10uUCsohOJjTA/0HKc0s//0QaSxtcFu1k2KYdcWJVzlm0DA3hh5dZze0fXsl6sSp2HfyW0C8R1aH7DXtqNBAGISM/MZVr4pIHeTT1ibz5+oaC07Ogce873F2wlG+r1rhf6CK21rcCA7fgJE5EptiDLixkgXYI85Ly7gm0Cpg==;TAzLYLF3yJql9Ql5QeTyNw=="
 ---
 

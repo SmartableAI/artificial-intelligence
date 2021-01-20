@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-31-facial-recognition-market-future-adoption-overview-2028-airborne-biometrics.md",
+      "title": "Facial Recognition Market Future Adoption Overview 2028 | Airborne Biometrics",
+      "excerpt": "Global Facial Recognition Market Snapshot A few international vendors such as Cognitec Systems 3M Cogent Safran Gemalto and NEC have stronghold over the global facial recognition market dominating with their technological and financial might feeding their biometric technology customers However",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "originalUrl": "https://www.openpr.com/news/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc31301324_g.jpg",
+          "width": 800,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219449/facial-recognition-market-future-adoption-overview-2028",
+      "publishedDateTime": "2020-12-30T23:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-facial-recognition-technology-law-yet-to-catch-up.md",
       "title": "Facial recognition technology: law yet to catch up",
       "excerpt": "There are currently 16 different facial recognition tracking (FRT ... threat to the fundamental rights to privacy and freedom of speech and expression because it does not satisfy the threshold ...",
@@ -1306,58 +1349,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-the-trouble-with-facial-recognition-doesnt-justify-a-ban.md",
-      "title": "The Trouble With Facial Recognition Doesn’t Justify a Ban",
-      "excerpt": "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354",
-      "originalUrl": "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-272359/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354",
-      "publishedDateTime": "2020-12-15T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

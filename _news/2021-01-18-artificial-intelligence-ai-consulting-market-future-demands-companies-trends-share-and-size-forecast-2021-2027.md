@@ -53,6 +53,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 55
+  - title: "Artificial Intelligence (AI) in Retail and E-commerce Market Inclinations & Development Status Highlighted During Forecast Period"
+    excerpt: "Artificial Intelligence (AI) in Retail and E-commerce Market -, By Size, Supplier, Demand Analysis, Type, Statistics, Regions and Industry Key Manufacture \"The report on the global AI in retail and E-commerce market provides qualitative and quantitative analysis for the period from 2018 to 2026."
+    publishedDateTime: 2021-01-20T21:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-and-e-commerce-market-inclinations-development-status-highlighted-during-forecast-period-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
     excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
     publishedDateTime: 2021-01-18T10:40:00Z

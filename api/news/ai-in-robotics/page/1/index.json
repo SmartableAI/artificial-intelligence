@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-20-how-to-train-a-robot-using-ai-and-supercomputers.md",
+      "title": "How to train a robot (using AI and supercomputers)",
+      "excerpt": "Computer scientists developed a deep learning method to create realistic objects for virtual environments that can be used to train robots. The researchers used TACC's Maverick2 supercomputer to train the generative adversarial network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T17:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-how-ai-is-being-used-in-the-legal-industry.md",
       "title": "How AI Is Being Used In The Legal Industry",
       "excerpt": "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery.",
@@ -447,6 +490,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-hope-turns-into-reality-with-robotic-prosthetics-exoskeletons.md",
+      "title": "Hope Turns into Reality with Robotic Prosthetics, Exoskeletons",
+      "excerpt": "starting with a LEGO-inspired robotic hand, and that’s led him to design mind-controlled prosthetics that are affordable for all. Momo is patient zero for Unlimited Tomorrow. She is the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons",
+      "originalUrl": "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2019/04/machinedesign_14399_sw_med_promo.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1303,93 +1389,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai.md",
-      "title": "Young and fearless: Startups enter global race for space, robotics and AI",
-      "excerpt": "While overseas global corporations such as Elon Musk‘s Space X, are leading to charge to turn the stuff of science fiction into reality, in South Korea, the brave companies eyeing the",
-      "sourceUrl": null,
-      "webUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai",
-      "originalUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://business.inquirer.net/files/2021/01/20210107000667_0-620x465.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai/amp",
-      "cdnAmpWebUrl": "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai/amp",
-      "publishedDateTime": "2021-01-09T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-nio-will-use-nvidia-drive-orin-chips-for-ai-driving.md",
-      "title": "NIO Will Use NVIDIA Drive Orin Chips for AI Driving",
-      "excerpt": "NIO will use NVIDIA DRIVE for advanced automated driving technology in its future fleets, marking the genesis of truly intelligent and personalized NIO vehicles. The NIO ET7 sedan will ship in China s",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/01/nvidia-orin-press.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp",
-      "publishedDateTime": "2021-01-09T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

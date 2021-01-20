@@ -26,15 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers"
+  - title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
     excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T00:20:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
+    publishedDateTime: 2021-01-19T04:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 174
+      name: Reuters
+      domain: reuters.com
+    quality: 74
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
         width: 800
@@ -71,22 +71,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/01/19/550x309/2021-01-18T234159Z_901953953_RC2NAL9HTPYY_RTRMADP_3_USA-TRUMP-PROTESTS-FACIALRECOGNITION_1611014981714_1611015003203.JPG"
         width: 549
         height: 309
-        isCached: true
-  - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
-    excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
-    publishedDateTime: 2021-01-16T16:19:00Z
-    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 54
-    images:
-      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
-        width: 1200
-        height: 495
         isCached: true
   - title: "US lawmakers aim to curtail face recognition even as the technology identifies Capitol attackers"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of"

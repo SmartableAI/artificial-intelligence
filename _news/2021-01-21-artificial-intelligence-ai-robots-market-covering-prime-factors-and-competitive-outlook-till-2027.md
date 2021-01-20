@@ -37,6 +37,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail and E-commerce Market Inclinations & Development Status Highlighted During Forecast Period"
+    excerpt: "Artificial Intelligence (AI) in Retail and E-commerce Market -, By Size, Supplier, Demand Analysis, Type, Statistics, Regions and Industry Key Manufacture \"The report on the global AI in retail and E-commerce market provides qualitative and quantitative analysis for the period from 2018 to 2026."
+    publishedDateTime: 2021-01-20T21:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-and-e-commerce-market-inclinations-development-status-highlighted-during-forecast-period-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Consulting Market Future Demands, Companies, Trends, Share and Size Forecast 2021-2027"
     excerpt: "According to ReportsnReports study over the next 5 years the Artificial Intelligence AI Consulting Industry will register a xx CAGR in terms of revenue the global market size will reach xx Million USD by 2026 from xx Million USD in"
     publishedDateTime: 2021-01-18T15:00:00Z

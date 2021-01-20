@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-21-skyrim-modders-have-a-new-machine-learning-tool-that-turns-text-to-realistic-npc-speech.md",
+      "title": "Skyrim modders have a new machine learning tool that turns text to realistic NPC speech",
+      "excerpt": "VASynth creator Dan Ruta used NPC voices from various Bethesda video games to train the tool's machine learning AI models. He published multiple flavors of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "originalUrl": "https://www.techspot.com/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/03/2019-03-21-ts3_thumbs-ba1.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "publishedDateTime": "2021-01-20T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs.md",
       "title": "Understanding machine learning will go a long way toward higher adoption for SMBs",
       "excerpt": "Expert says larger companies are more willing to spend money for top talent to achieve machine learning, whereas smaller companies aren't able to do so. Pre-configured solutions can help.",
@@ -1379,51 +1431,6 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-programming-tweak-helps-ai-software-imitate-human-visual-learning.md",
-      "title": "Programming tweak helps AI software imitate human visual learning",
-      "excerpt": "Using a novel programming tweak, a pair of neuroscientists have managed to replicate human visual learning in computer-based artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
-      "originalUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/7781610457664/2021/1/69303160586a78ce2dec53bee2c8f1d7/v1.5/Programming-tweak-helps-AI-software-imitate-human-visual-learning.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
-      "publishedDateTime": "2021-01-12T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI",
         "Machine Learning"
       ]
     }

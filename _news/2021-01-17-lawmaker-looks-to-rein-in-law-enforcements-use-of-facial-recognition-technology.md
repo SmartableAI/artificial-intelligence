@@ -27,117 +27,89 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Lawmakers Aim to Curtail Face Recognition Even as the Technology IDs Capitol Attackers"
-    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T00:20:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
+  - title: "Technologists Use Facial Recognition on Parler Videos"
+    excerpt: "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,"
+    publishedDateTime: 2021-01-20T21:34:00Z
+    webUrl: "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos"
+    ampWebUrl: "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 174
+      name: VICE
+      domain: vice.com
+    quality: 89
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
-        width: 800
-        height: 533
+      - url: "https://video-images.vice.com/articles/6008765a4384dd009c120dbd/lede/1611167325556-capitol.jpeg?crop=1xw:0.842xh;0xw,0.077xh"
+        width: 1500
+        height: 842
         isCached: true
-  - title: "US lawmakers aims to curtail face recognition"
-    excerpt: "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities."
-    publishedDateTime: 2021-01-19T08:19:00Z
-    webUrl: "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers"
-    ampWebUrl: "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1"
+  - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
+    excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
+    publishedDateTime: 2021-01-19T15:16:00Z
+    webUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html"
+    ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 74
+      name: TechHive
+      domain: techhive.com
+    quality: 53
     images:
-      - url: " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  "
-        width: 800
-        height: 533
+      - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "US lawmakers aim to curtail face recognition even as technology IDs Capitol attackers"
-    excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T00:03:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332-amp.html"
+  - title: "KLIA to roll out facial recognition technology in 1H 2021"
+    excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
+    publishedDateTime: 2021-01-18T06:43:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=1923008"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 67
+      name: bernama.com
+      domain: bernama.com
+    quality: 39
     images:
-      - url: "https://images.hindustantimes.com/img/2021/01/19/550x309/2021-01-18T234159Z_901953953_RC2NAL9HTPYY_RTRMADP_3_USA-TRUMP-PROTESTS-FACIALRECOGNITION_1611014981714_1611015003203.JPG"
-        width: 549
-        height: 309
+      - url: "https://www.bernama.com/storage/photos/4d11767660ecb3d1edf7fac350faa2aa5e8d5d9f630d5-medium"
+        width: 350
+        height: 219
         isCached: true
-  - title: "Following the U.S. Capitol attack, tough ethical decisions ahead on face recognition technology"
-    excerpt: "Today’s columnist, Rustom Kanga of iOmniscient, says Americans will have to make some tough ethical choices about face recognition technology as political tensions and divisions mount across the country. (Credit: iOmniscient) The attack on the U.S ..."
-    publishedDateTime: 2021-01-18T11:00:00Z
-    webUrl: "https://www.scmagazine.com/perspectives/following-the-u-s-capitol-attack-tough-ethical-decisions-ahead-on-face-recognition-technology/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 44
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
-        width: 1125
-        height: 941
-        isCached: true
-  - title: "US lawmakers aim to curtail face recognition even as the technology identifies Capitol attackers"
-    excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of"
-    publishedDateTime: 2021-01-19T00:48:00Z
-    webUrl: "https://www.channelnewsasia.com/news/world/face-recognition-capitol-identity-law-13990796"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 41
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13990792/16x9/991/557/203191f8df567c1150d93ead6f0a5f5a/sT/file-photo--supporters-of-u-s--president-donald-trump-storm-the-u-s--capitol-1.jpg"
-        width: 991
-        height: 557
-        isCached: true
-  - title: "Face recognition targeted by US lawmakers even as the tech IDs Capitol rioters"
-    excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T04:40:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/19/face-recognition-targeted-by-us-lawmakers-even-as-the-tech-ids-capitol-rioters"
+  - title: "KLIA to use facial recognition in place of boarding pass"
+    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
+    publishedDateTime: 2021-01-18T23:50:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
     type: article
     provider:
       name: The Star
       domain: thestar.com.my
-    quality: 35
+    quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1013160.jpg"
-        width: 1240
-        height: 826
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
+        width: 620
+        height: 413
         isCached: true
-  - title: "Lawmakers Sought to Ban Facial Recognition Software Being Used to Find Capitol Attackers"
-    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump"
-    publishedDateTime: 2021-01-19T06:07:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597789.htm"
+  - title: "Facial recognition system plans for Parliament shelved"
+    excerpt: "Given the ongoing Covid-19 situation and safe distancing measures introduced during Parliament sittings, plans for a facial recognition system to track MPs' attendance in Parliament have been shelved."
+    publishedDateTime: 2021-01-20T22:06:00Z
+    webUrl: "https://www.straitstimes.com/singapore/politics/facial-recognition-system-plans-for-parliament-shelved"
     type: article
     provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 30
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
     images:
-      - url: "https://www.insurancejournal.com/app/uploads/2019/02/microsoft-facial-recognition-privacy-bill.jpg"
-        width: 1740
-        height: 978
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/20/dw-parl-facialrecognition-210120.jpg?itok=RXHCCkT0"
+        width: 763
+        height: 509
         isCached: true
-  - title: "Lawmakers Sought to Ban Facial Software Being Used to ID Capitol Attackers"
-    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump"
-    publishedDateTime: 2021-01-20T05:16:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597789.htm"
+  - title: "Spoof detection for facial recognition in casinos"
+    excerpt: "A non-intrusive spoof detection feature for facial recognition technology has been released by Innovative Technology of the UK."
+    publishedDateTime: 2021-01-20T07:34:00Z
+    webUrl: "https://www.intergameonline.com/casino/news/spoof-detection-for-facial-recognition-in-casinos"
     type: article
     provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 2
+      name: InterGame
+      domain: intergameonline.com
+    quality: 19
 
 secured: "4oO/4GGLiiBEFb/1YzV/KGERYZBW6Z35uW6rRcbeMAvNv2r4M61TIbGNQEOsi+BQjgPv5NDIBC0zI3VlqcEwcIBduwSJKZRn4Vkg/g2t5YWIXOXHPm+g+nydQQgB18bElnDqXr1PHD1itzpMHan1yCxvmHlDc0+XuZrkQl88GvH66UFt/ItH3VD9bGx4YNLSvx08xDdObUNi0SCaUBNU4/nHPuqHtAZgp31LGU9LyRYXBKuBaSno9C5r5MWCQroHdi/VYY0PgRiTnUAn6crF1i9cFTMIV4zLFFIHDRw6Buf2bPbRmdoNHPUFRIAdUkXfiTUxhawlRSADizAe8QbubyyQhGRP3lSHMv5SOHnFfOs2cxFmHqQTsM0JjeQu0dUaqOoZWhTy6KQfB7Tmbw0DddBZBkEWP1d4OvTYgWpA00hMkT1xJhkucscLhSZGIrhaWnZPZr2eqDZdEgoLm2melVnBabnty5fUmv+hF8qiX98cPeDwTxOihAB/4k6vm2klNb3QtEqD7+3afTsysWAA7w==;LMPD9njJVTIOo5IKIwGXFQ=="
 ---

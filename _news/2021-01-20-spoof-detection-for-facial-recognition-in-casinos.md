@@ -19,53 +19,95 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: Facial Recognition Vital to Nab Capitol Assailants"
-    excerpt: "While cities ranging from San Francisco to Boston have worked to ban facial recognition outright, without that technology, the FBI and Capitol Police would have had a harder job arresting the Capitol insurrectionists."
-    publishedDateTime: 2021-01-19T16:31:00Z
-    webUrl: "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html"
-    ampWebUrl: "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP"
+  - title: "Technologists Use Facial Recognition on Parler Videos"
+    excerpt: "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,"
+    publishedDateTime: 2021-01-20T21:34:00Z
+    webUrl: "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos"
+    ampWebUrl: "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
+      name: VICE
+      domain: vice.com
+    quality: 89
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
+      - url: "https://video-images.vice.com/articles/6008765a4384dd009c120dbd/lede/1611167325556-capitol.jpeg?crop=1xw:0.842xh;0xw,0.077xh"
+        width: 1500
+        height: 842
         isCached: true
-  - title: "As U.S. Capitol investigators use facial recognition, it begs the question: Who owns our faces?"
-    excerpt: "We have unwittingly volunteered our faces in social media posts and photos stored in the cloud. But we've yet to determine who owns the data associated with the contours of our faces."
-    publishedDateTime: 2021-01-19T15:29:00Z
-    webUrl: "https://theconversation.com/as-u-s-capitol-investigators-use-facial-recognition-it-begs-the-question-who-owns-our-faces-153253"
-    ampWebUrl: "https://theconversation.com/amp/as-u-s-capitol-investigators-use-facial-recognition-it-begs-the-question-who-owns-our-faces-153253"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/as-u-s-capitol-investigators-use-facial-recognition-it-begs-the-question-who-owns-our-faces-153253"
+  - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
+    excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
+    publishedDateTime: 2021-01-16T16:19:00Z
+    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html"
+    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-facial-recognition-bill-20210116-qokfgxlcivf3rccvoufdsi2c3e-story.html?outputType=amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 54
     images:
-      - url: "https://images.theconversation.com/files/379320/original/file-20210118-17-zx4vx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=231&fit=crop"
-        width: 320
-        height: 231
+      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
+        width: 1200
+        height: 495
         isCached: true
-  - title: "Face it: Face recognition is a vital tool for those who want to catch and punish the Capitol’s insurrectionists"
-    excerpt: "Ban face recognition outright, goes the progressive cry — one that Oakland, San Francisco and Boston have all heeded, on the theory that government becomes Big Brother when it uses technology to identify suspected criminal perpetrators in bystander snapshots or security camera images."
-    publishedDateTime: 2021-01-19T09:05:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html?outputType=amp"
+  - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
+    excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
+    publishedDateTime: 2021-01-19T15:16:00Z
+    webUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html"
+    ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 39
+      name: TechHive
+      domain: techhive.com
+    quality: 53
     images:
-      - url: "https://www.nydailynews.com/resizer/VgbWXkXtMc1-ccgIjW-fqrAg6-w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DGNAZDU7Q5BX3EBPCOVTTPZYEQ.jpg"
+      - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "KLIA to roll out facial recognition technology in 1H 2021"
+    excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
+    publishedDateTime: 2021-01-18T06:43:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=1923008"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 39
+    images:
+      - url: "https://www.bernama.com/storage/photos/4d11767660ecb3d1edf7fac350faa2aa5e8d5d9f630d5-medium"
+        width: 350
+        height: 219
+        isCached: true
+  - title: "KLIA to use facial recognition in place of boarding pass"
+    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
+    publishedDateTime: 2021-01-18T23:50:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Facial recognition system plans for Parliament shelved"
+    excerpt: "Given the ongoing Covid-19 situation and safe distancing measures introduced during Parliament sittings, plans for a facial recognition system to track MPs' attendance in Parliament have been shelved."
+    publishedDateTime: 2021-01-20T22:06:00Z
+    webUrl: "https://www.straitstimes.com/singapore/politics/facial-recognition-system-plans-for-parliament-shelved"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/20/dw-parl-facialrecognition-210120.jpg?itok=RXHCCkT0"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "dwsCFkFcApYOOouLfRlOoR8bwOsU8oIQAc0z6cs1c5wOVcv1+4ThhAGuOIljfdq2umLOyZERAl7u/att6IAziJftsezXSnmu710cfKM/zYJcP7BVm5KmfctqqlgEyCKvrP4q5YeAz8ejReobo0fdIVBEDJ8GParhWItc3IA0DZiIHDvq++cPay1tabqUS5xzZzLDGk9vgUcwXLubinowqZU/075PotoS8WC6btILxOZbO2QisnmLyCRjQUHbnRvexjemnki9oMugKrjPCPyDEg0km3anVqh5L3jl96zR1UjmJu6nG5/wAzGN7uUTGWtn+xT4nXXaN4xUnCF3d2vnFE/1CwLwmWZw/qWsgWnmVNR/mzzgFVJD/fT67JM8YxxnISC42MGBNFi9KmAGezbIdZA3T/bCn514orQWLwsSPzNrY3jLu+cBNcht1F0dnnQ9TInGIxCfjHzAzbrW55LfyOhDRlOv72p22rVsia+701GKNLh/dzGtoGcsDwjgMmEvMjbitD0+9SePqkY4pjGIBg==;KE3GeCb5hIwSSAQjEEepfA=="

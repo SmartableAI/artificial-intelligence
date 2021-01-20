@@ -9,7 +9,7 @@ ampWebUrl: "https://m.dpreview.com/news/0874174431/paravision-ai-ordered-delete-
 cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/0874174431/paravision-ai-ordered-delete-face-recognition-software-user-pictures-without-permission.amp"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
-    excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
-    publishedDateTime: 2021-01-19T15:16:00Z
-    webUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html"
-    ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: TechHive
-      domain: techhive.com
-    quality: 53
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "New advances in detection of bias in face recognition algorithms"
     excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
     publishedDateTime: 2021-01-18T13:32:00Z
@@ -59,6 +43,6 @@ related:
         height: 512
         isCached: true
 
-secured: "5aXYmfXgG35F1QJIhLIiyAMX663gi50h6m8FFcprMibikOLENZNHtiV2Z8y6O7uzrnXCkgSwwt+WSELMEiola6BiWlXdPHdW1YjjtcZKaGpSfez5PpAs3MFArXLvxb5XFxb4kORnUBy/sfGAWdo4I38kyRveOuRKnZF65YMByXx0hQVgbLwlcJTTa5X5JIaN3W1/n+u4tI/F9uAMjtqE41But2WXB0dbg5wozTwztSm0YbcHGcrE3Ro9iPoFZh/BKizQMnrlYH0CucA9oN5CMIGWPUgOEGuzuo0gjn1E0XrTEJ6B8LEXXVOAGyaWsRA9MVtDez69MNR9/TKPCvn+JYVbvBki0ise7ADYRiPBaio=;JiYZYU3T6Xh6aDm5wXxIJw=="
+secured: "qDTBk2Cb6R1+Ri1EVaY9MeLO76UYC8yrFVA+K+EXzKqGxJNJG53OoKuCQgLwI23pHEqF+0flgYTsF3zHa/y60sR1IgVPY9ZS26ZpaVhvPARrVeqbOzROX5gFMyLmC7WLYwpDUEAdPxl4gzrx4g6uCI37FKpv9DGE7AynLhYuuQEKySAfOeBzImYRv0pI27SbYL3W9aiJaGZC3lZtoAgp5+p/Qh6Z5ziSY0AGtdA/8CZqiOjTbwCkvLkjXKSuCKYWen1IrtFCW2uhQDJKQW/fB68Jwk+1zvc2+gW7FSTuUekxsBspEW6HnBfmdBL+xO7h/chr0qVqvwjRZK2kao4vhIQ8FdG1Ia3WzcjWffs3m3akkqCfdb0Cv71QCfY2NnuMwuydX0x1fvAQUguVeAVY0tPv+EED03siauuG1OgBst6tndEBKz12bjLkuvD8PkmXY+LMBbo4YuWDwmI0orY5HS/VW7GrLV9rXLyL+M4QVmYDIWUKD/iMZxY480Nyfnl/KNAxoQTyNjfuhp2igKN9LQ==;VlupmJk0oaNKZuYPuEpe4Q=="
 ---
 

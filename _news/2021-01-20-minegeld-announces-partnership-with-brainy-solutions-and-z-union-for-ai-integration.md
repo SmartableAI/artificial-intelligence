@@ -24,22 +24,6 @@ images:
     height: 270
     isCached: true
 
-related:
-  - title: "Aviso expands AI Virtual Guided Selling across global customers with new industry solutions and partner integrations"
-    excerpt: "Aviso, the only AI Revenue Intelligence platform for virtual selling that closes the loop from predictive forecasting to deal guidance, has launched new purpose-built AI solutions for Financial Services,"
-    publishedDateTime: 2021-01-16T05:55:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-83f0b08231344a6001f7393bbeb6d439"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "8AzM4tims04DVqwYD/5ImHdhfFrTYJZZbmd85d3HxYfg3ZwxfFk/7VMGemMrBH5+8vtYz/d0AzSwweKBwWXYpvVwXEavKnRtFBlbHLmOiAiAd5KS4MQIuz8Q1Tj2bjRwDInVyJd8LJCr3W87jzqyujlZphfsrSyuJCYeg2njUSEEoT5qoT2Bsggo9HaYEcdSkiCtz2+uNIHm8TSE4xh970LO9yXNshryn/j6r5UyL07kBT5fMXL16nG3IYcjKQ7jpswb3RyoO5Vq+ugpJpfYQt3mD5MSko/pxip5XRnzjYtzodRdigS4fM1GRV/3nQF6L4c/b4OXyKFcSVz8jk/KfWDug+U0Ts7PZ0rBMlhymoI=;GddxuNqlf8QD7tz8mEymiQ=="
 ---
 
