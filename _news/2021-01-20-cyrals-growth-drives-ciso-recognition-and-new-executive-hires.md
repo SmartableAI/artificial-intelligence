@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-20T06:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-stock-indices-and-averages-computer-and-data-security-financial-markets-5366bda9090e4081a815b8e84c7293cb"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-stock-indices-and-averages-computer-and-data-security-financial-markets-5366bda9090e4081a815b8e84c7293cb"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Associated Press

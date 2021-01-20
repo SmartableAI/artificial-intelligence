@@ -38,6 +38,22 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
+  - title: "Regulating the Fast-Changing Fintech Landscape"
+    excerpt: "The fast-developing fintech marketplace rests on security and fraud protection systems that need to continuously evolve and strengthen."
+    publishedDateTime: 2021-01-19T17:30:00Z
+    webUrl: "https://www.fairobserver.com/business/technology/sonia-katyal-fintech-regulation-digital-currency-finance-innovation-poverty-reduction-news-15261/"
+    ampWebUrl: "https://www.fairobserver.com/business/technology/sonia-katyal-fintech-regulation-digital-currency-finance-innovation-poverty-reduction-news-15261/amp/"
+    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/business/technology/sonia-katyal-fintech-regulation-digital-currency-finance-innovation-poverty-reduction-news-15261/amp/"
+    type: article
+    provider:
+      name: Fair Observer
+      domain: fairobserver.com
+    quality: 44
+    images:
+      - url: "https://www.fairobserver.com/wp-content/uploads/2021/01/Fintech-2.jpg"
+        width: 938
+        height: 450
+        isCached: true
   - title: "Fintech apps that blew our minds (and helped our wallets) in 2020"
     excerpt: "As people stayed in the safety of their homes for weeks and months on end, we needed to alter our daily routines and use technology more than ever. From Zoom meetings and food deliveries to online shopping"
     publishedDateTime: 2021-01-18T04:14:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-20T05:16:00Z
 originalUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597789.htm"
 webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597789.htm"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Insurance Journal

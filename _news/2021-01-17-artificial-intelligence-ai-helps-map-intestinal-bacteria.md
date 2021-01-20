@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-m
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-map-intestinal-bacteria-199408-1.htm"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence to map human Intestinal Bacteria"
-    excerpt: "The intestines and their bacteria are sometimes called our 'second brain', but studying these bacteria in their natural environment is difficult. Now researchers have developed a method that uses artificial intelligence to map intestinal bacteria using feces."
-    publishedDateTime: 2021-01-15T15:57:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210115/3691678.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
   - title: "Artificial Intelligence to map human Intestinal Bacteria"
     excerpt: "The faculty of health and medical sciences from the University of Copenhagen have developed a ground-breaking technique that can assist to disentangle the secrets of the human intestinal microbes."
     publishedDateTime: 2021-01-16T06:24:00Z

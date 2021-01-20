@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloudcommerce-goes-live-
 webUrl: "https://www.marketwatch.com/press-release/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture-2021-01-19"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "CloudCommerce Goes Live with Artificial Intelligence (AI) Advertising Venture"
+    excerpt: "( CLWD ), a leading provider of digital advertising solutions, today announced that it has officially launched aiAdvertising, Inc., its wholly owned subsidiary focused on using artificial intelligence (AI) to enhance its successful SWARM solution with the goal of cutting advertising costs by as much as 50%."
+    publishedDateTime: 2021-01-20T06:07:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-30f60bcb240f3015147bb4a4feead1f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
 
 secured: "nBjHvB2vdLliYWSb3CmKg0bUqonBzKUsRLOW/8QdEQ97uSI4Hsgs3ug5R7svVyaUm8+5HOdh2E9Aymqg/d1OIKIaw2hKLaa5z9IiYrwmWudlR6o+iMA1oRjM67Mj6gLHCTlhJyD+Mwpv1ftDIN4+E1YeMKlOp92SwZPhZqA+ZpOSj1WeavfkAnpvG+GL61+G+GtqW7ExGT0gHdPmx+o4wCOwr0yXYC5ksSZYzp+Y2ZNWlkMK3NCyXX7mHVdBimgIAc4t5vij3APP/zLV6pdkWx2gusmSbWqq5akUzz9jimEioerHqVaox4yr44PyciC36R0x75oKAB61FMrQ6Cun2Jntl3bpgcU2d9Vdaga1xFI=;QyLnsGOAbest+D0Bop++1w=="
 ---

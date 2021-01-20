@@ -39,6 +39,26 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "This is why this payment technology company is partnering AI with Analytics, IT News, ET CIO"
+    excerpt: "This is why this payment technology company is partnering AI with Analytics, IT News, ET CIO To stay relevant, BFSI players from"
+    publishedDateTime: 2021-01-19T10:08:00Z
+    webUrl: "https://www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 28
+  - title: "Voice Soars as Primary Interaction Modality of Choice In-Vehicle, Finds Strategy Analytics"
+    excerpt: "Voice Control. 1.19.21 A new report from the Strategy Analytics’ In-Vehicle UX (IVX) service, “ Voice-First at Long Last? Consumer Usage of In-Car Voice Controls ”, surveyed car owners in China, the US,"
+    publishedDateTime: 2021-01-20T06:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-greater-china-automobile-manufacturing-asia-802a90b945c84afea681204634cf7a0e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "jKVYCdP+pIoTJIK1jDcCCrV9iqwimt6yQoyVZ8T5Ge5BwY1ToV4r9ZnBS8Xg1oN4zDjTSCHfRZTMvHoxNTyXRt3upttuiWKbEuysWxUcqP2AQw9YauK9C2CPibbo/zO5y94XgFcyiUZeAUl+2fC0TwSTE+nGth8Tvtz0WikOiVCJjc9T1i1234Gj5cKrhX7r6HaMEjXLUCiWFV+vKwGqo4ele83g92r99uBg0jjRrsMdv558oBipsa4L0mEtntDUyHCS5qrfdraozQMpUV2AmOFiqaD/tncL20e242y0YPj20TzooVEtweLgk/lml3Ou+ybv1wI37BUExHmIDXZwXtC0cEL0nIYyzI/YPcmYZ8U=;YY5QaWIgI6unkn+oUAtnbg=="
 ---

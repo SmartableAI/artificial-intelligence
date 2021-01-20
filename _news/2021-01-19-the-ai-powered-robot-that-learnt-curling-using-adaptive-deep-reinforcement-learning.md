@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-usi
 webUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1080
     height: 720
     isCached: true
-
-related:
-  - title: "The AI Incident Database wants to improve the safety of machine learning"
-    excerpt: "The AI Incident Database documents failures of AI systems in the real world, revealing past failures to avoid repeating them."
-    publishedDateTime: 2021-01-15T15:09:00Z
-    webUrl: "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/"
-    ampWebUrl: "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 105
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/AI-incident-database.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "La3kj3d/q8WZSvcAUWGgQGj0QP6ZwG7AVMinGzWGWTphmjwq/+iYdZtNIOc3jjRn+W8UspglY8aRlqbY9FKOK1+jISpHoOHLaMJfDwJnYhgiKMLqGw9HdnbLHnyZnk3zL0cX2BsqRtNZM78Uu+CaY9TI2YsvXPHcfvo8iAbjYqRfItLmD3CuFLmWh5TWdlidLsa9LZENn/LFr6soOEAwryLLigHhtOZtQo91CsMpqhdEb+asJ+42prndm++L2eRap8etwt8vwVNCMRqkFn1K4gN/kyqq7hIwpvDgEJH55HrDdtHd1wt0X/830HycXW/PEjLelX+6edu01mecu3Bx2MV6ZAqBE3YcMOOLQsNUufk=;EOUL9ob0V/BjAlcejpI4uw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-power
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 880
         height: 495
         isCached: true
+  - title: "Google Cloud Launches Product Discovery Solutions for Retail, Bolstering Personalized Online Shopping"
+    excerpt: "Google Cloud today announced the launch of Product Discovery Solutions for Retail, a suite of solutions built to help retailers around the globe enhance their ecommerce capabilities and deliver highly personalized consumer experiences in the first phase of their shopping journeys."
+    publishedDateTime: 2021-01-20T06:07:00Z
+    webUrl: "https://apnews.com/article/business-technology-lifestyle-products-and-services-consumer-products-and-services-65f072d07cc6b9be6765382901511584"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
 
 secured: "kz95cc9KQ17hkOn3uNlmCd7P4doTZj30a7hftAtUb91FXG6XuNhstCNxIdIneyeY2ltqKDAgoBGg+0v6sIx9vUo/LN1GcQ6gTLxoa7aroVNf1GpNsmdpkOX0ZFxJHhFnAdxc3T8NT0M/s4C6hYDQ1gHUv+Dd8AeUmTGarl9uM7jtRBpGx68eOKoq9U8j7eiEs8BVbVsPk5cJ+Lr9+H78pWdt1YhNU8OHHG9vB8VtysMuLiyaB17WLAOuZaWR5Uf3SuVVZaZQ+2/SZKBXjlrxQHTaeWspcpNzGzpGyx95loKw89YmZ8RitMe+g8/DNOOHG2Y44SX1shXvWaxIYdwAwrCuc6ZNJPI+L6pX5fODDpDk+quJpOM4gBhvv4FQyKNZRBQCymYjBWSBY9cEei/oAFvW88O/4nh7v6AEZxezOfC1uTV88wSF5onrCM5KVKT1wTYTsprmjxKLncFDO9I3JsKXj5R/9WXakJCs8AImS+LQ+tp1vB3cgGqAzXxMmJ4pA+darRm15aumlX0azoBSaA==;y6/ZpEIXbK4Qc9Go2jtA3A=="
 ---

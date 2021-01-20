@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Spoof detection for facial recognition in casinos"
+    excerpt: "A non-intrusive spoof detection feature for facial recognition technology has been released by Innovative Technology of the UK."
+    publishedDateTime: 2021-01-20T07:34:00Z
+    webUrl: "https://www.intergameonline.com/casino/news/spoof-detection-for-facial-recognition-in-casinos"
+    type: article
+    provider:
+      name: InterGame
+      domain: intergameonline.com
+    quality: 19
 
 secured: "ZRuyi1YMZhMU8WSGvMW5p6rlfAxmY7oOXidsOgu14qZgOTKil/quEr1ySaaCftr5m168QLCu8PPSr+/JG6S42fzjQhGHvSBZFIk+QKG0fca9JEsaBrf5LEmgn2thiI621LEPowgNMNL/KFrhsFQIh7dXkQXf/KxZ/c3OOndx01DFc/yjVrmdjkA+GtZA+tH+TlyKxfVnO6qjbChexq9/zn111piik3vgXQEmXz2ux9IimGU52zplJA142ThggxUl4+og9yswawpD0EbBXdiYV/Ecognm8B8OTisVuDO9pJz/myfTQusBLI59mN1wUKYB+6Oshf8arkauMxzRWPDHGblKiuqw3pbQyZZ8v2tk8T3KEPhegmu9IOV8U97Xe3tofJLd0MA8e95odZN3+fal0TQq53noT2OQWZG+gjgWso+jhnHsposQtZB9bupe/5NboMOUwRz+HelUOByfZkMEh71Xhcvs0KthGWYj1ZlcQpm4F4oVzIhmR3kyjl4aveWZ40BUHKJKvwnysdWtelQ2jw==;GYQYkLzM85ltjWpTKW/Usg=="
 ---

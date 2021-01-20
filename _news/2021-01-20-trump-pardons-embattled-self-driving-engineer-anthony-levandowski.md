@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-20T06:35:00Z
 originalUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/20/trump-pardons-embattled-self-driving-engineer-anthony-levandowski/"
 webUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/20/trump-pardons-embattled-self-driving-engineer-anthony-levandowski/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

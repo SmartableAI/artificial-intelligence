@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Will Be Pushed to the Very Edge"
-    excerpt: "Driving AI out to edge computing platforms where data is being collected and processed in real time is a major challenge. The race to push deployment of artificial intelligence (AI) models beyond the network edge is officially on."
-    publishedDateTime: 2021-01-15T14:07:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
 
 secured: "UWbbLxk8jvaouZhhnWM/fffMsyNx0Su9XmKjDdqiJzMILqJYB5HI3TwPizEBuoTIDcuGOChImH5JZKC7zfFk4CxxlrJjk88NlXpWAIlMTTuksy3rDK8ZRBMLGt40QWgs6t+RJEHWb77xlRxaQwNqR5uNZ8Ok/IRRwvryVleSgVe2Y+D3rz9K7W01zoQhb504WBGmE8wvDxY1ANpKAx1ZlRbh06twJrUV+yRP8WXjEnoA2qEL3qu6Vfie88dqGtRGoVidqK7e9yxCyFGK+Wwh7KNBNP6lKggg195+fJYdCbcJuxQdeHmb6ZARvw6l3z4w6TDFEKIJz0cT5kBsKHXKw3FsXx/MMvujwXEsIRj3X1KIG4zLxyo1SMYkeAlZ9F/MphEx1ob6oBa9oBllxfP/UpSoAFh9lRC1o4SQ+JXjYEu9i4VdX2K1C31xQAX/uRuEtAtK/DGEG8p3YFF2v1Bw3Orpa5EKQ80w9ZAOW4YPMlx5WSP/9w5R98NQMwM7BZwJUK8zGSlCA9Nl6OI7OB4Clw==;d7lorPS1Xdp4mmXcxSvtQA=="
 ---

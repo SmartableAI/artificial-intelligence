@@ -71,20 +71,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Artificial Intelligence Can Predict Prostate Cancer Recurrence"
-    excerpt: "An artificial intelligence tool is able to examine data from MRI scans and predict the likelihood that prostate cancer will recur after surgical treatment."
-    publishedDateTime: 2021-01-15T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-can-predict-prostate-cancer-recurrence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "YVsZEZOEigSB/AvjF7arQqF83XDAfYeIQCa4+mFNo0b4fWxD7Nkwq0JX7awYtH4a6gbB4crX9DLF0TzcHzF6E8PRGVbKA2n7g6OvH5iCLKde7+Vv+/jvQR+vljIYiH8cwoYxXX91/nNsaxrpRw/e+IZ08qM9jS+1DaZindllbzWZY2uswnHuDqhZfoF4NvufNsc2s1hkbzhk9k5fj9QVArwjT7VpPwpCQTgMRYHmyqGCfwQoX+WXBXrsA5OneGu4zBc+l3L2y1ANE131MmSN6KqgW/fm9Baf35HeSqS3oi40vkJzHAH+4kPYXjVrvLyszbPUVUEWdFrqCcihYmkAPa5D+f0UxpMMTfZJTHl0TO9gtUfRXdhDQHcrHPct8vZzCTCfPrhn412r/1jpo02abadFCYREiDIUPz7/Jyis7BsWz4AcN7pwKF2GdUegppzghx+yGtCRax+1aZ6nwWRRbaD3LDbWvUEVbDkVxKhOX0eJ/N/3Lp9CSZEHa5c5GRK7hXjv0ojucS2nD+gH5998rA==;BFps1uAInWgIGPs0y0t0og=="
 ---

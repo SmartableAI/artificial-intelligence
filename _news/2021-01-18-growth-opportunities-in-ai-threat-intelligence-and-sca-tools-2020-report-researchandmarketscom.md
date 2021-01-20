@@ -25,57 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Change Healthcare Research: AI to Become Widespread in Hospital Revenue Cycle by 2023"
-    excerpt: "AI use accelerating as early adopters reap benefits, but not everyone is on board Business Wi"
-    publishedDateTime: 2021-01-20T04:11:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-01-19/change-healthcare-research-ai-to-become-widespread-in-hospital-revenue-cycle-by-2023"
+  - title: "Using AI to Identify Conversion Opportunities in Brick-and-Mortar Retail"
+    excerpt: "It could be said that in a world of limited traffic, conversion is king! As brick-and-mortar stores experience declining traffic, seizing every opportunity"
+    publishedDateTime: 2021-01-19T14:23:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/using-ai-to-identify-conversion-opportunities-in-brick-and-mortar-retail/article_3960a107-66a5-5833-beba-6db80e1c0fcf.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 77
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 36
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/7b/47b671f6-d4dd-5ca6-ac58-9f254a90d77b/6006f164760d8.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Research: Higher robot densities linked to increased productivity"
-    excerpt: "Research has found a link between higher densities of robots in a population and increased levels of productivity."
-    publishedDateTime: 2021-01-20T03:58:00Z
-    webUrl: "https://iottechnews.com/news/2021/jan/19/research-higher-robot-densities-linked-increased-productivity/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 39
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/01/higher-robot-densities-productivity-research-gdp-uk-iot-internet-of-things-iiot-manufacturing-study.jpg"
-        width: 2394
-        height: 1588
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-19T05:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Change Healthcare Research: AI to Become Widespread in Hospital Revenue Cycle by 2023"
-    excerpt: "NASHVILLE, Tenn.--(BUSINESS WIRE)--Artificial Intelligence (AI) will transform the way doctors, hospitals, and healthcare systems identify, collect, and manage their revenue cycle over the next three years as healthcare organizations evolve from day-to-day use to strategic integration within their systems,"
-    publishedDateTime: 2021-01-19T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005151/en/Change-Healthcare-Research-AI-to-Become-Widespread-in-Hospital-Revenue-Cycle-by-2023"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
   - title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
     excerpt: "The “Growth Opportunities in AI, Threat Intelligence and SCA Tools” report has been added to ResearchAndMarkets.com’s offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions powered by artificial intelligence,"
     publishedDateTime: 2021-01-19T05:51:00Z
@@ -90,15 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-    excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
-    publishedDateTime: 2021-01-18T14:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
 
 secured: "Bv6uIqU2345CU0vzEF7hF3XqSysszLmr8vPxVf5t+pLKLls3bXrJBLrKygG3tfDSQfGV5PnBKlOA3W68xt4OYdpegSwaqZzuWsI5kIi28cxbZ9/80U2hBex36xzAXiFwsYq/mHhpPDwoHgBU8zU46BoeLYkxJKUbe/mTgahGgaIZaJ/yhHk/usFq4p48rBeLn0TpjttpdurkX+pCWllPNg7nviAk4bN8a8Yv75K4D6MzpY3sLAN/ffftkbrQ2t+xqnvZMVSsPuLa+d55s5sgNfiJezApCDcnaZCZB4XHDyJX8YIPpRhE84I+bbJvZGS5zGuYfv6cTKBhKCcMCVVSidT2V81Ixsd0L7nfpfKwEkw=;QGEFLNQB5yJ6gbAI9oC+3A=="
 ---

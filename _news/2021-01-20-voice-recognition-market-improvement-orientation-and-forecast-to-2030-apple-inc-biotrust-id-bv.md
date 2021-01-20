@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-20T05:21:00Z
 originalUrl: "https://eturbonews.com/2639129/voice-recognition-market-improvement-orientation-and-forecast-to-2030-apple-inc-biotrust-id-b-v/"
 webUrl: "https://eturbonews.com/2639129/voice-recognition-market-improvement-orientation-and-forecast-to-2030-apple-inc-biotrust-id-b-v/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: eTurboNews

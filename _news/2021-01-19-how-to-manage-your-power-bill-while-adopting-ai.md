@@ -40,6 +40,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "Hidden Costs In Faster, Low-Power AI Systems"
+    excerpt: "Tradeoffs in AI/ML designs can affect everything from aging to reliability, but not always in predictable ways."
+    publishedDateTime: 2021-01-20T08:19:00Z
+    webUrl: "https://semiengineering.com/hidden-costs-in-faster-low-power-ai-systems/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/domain-specific.png?fit=1820%2C926&#038;ssl=1"
+        width: 1820
+        height: 926
+        isCached: true
 
 secured: "6/eRJdzC1uKSloYD0Pp6bB/Y0cMy9BJx5UsjUpQcINGVtdLo8xGgPS8rfX5m7k0G9fPUua/SXPdMEWq5cBApdVbJmpmR2jvEamOxHvShm0dK3QqKYMDZIK1cjVmxBPLYWeR4TR3eFlcZEmkDfxqyBpSU+QHmIGiLMHh+Mx5qSCtkU5im0VUw7fDuLDcS2X4gXB0h6dmF26jAkDC3hjxP/z8exU4xZ8Zydr8bLbgztXTghRs7av3HdpimixRmxaQOjy+iCYCb/ls+i1er5PGRR8KIeCyndCrSs0eDeKREN7qcaffRUgUcO4C9ESjY7Q+dAEGwx9Rw7uCCQV/zVNGfD58iC5Wb8A2F+OILVruJgdI=;AalSLkb1Zp3hg+7TrsXBlg=="
 ---

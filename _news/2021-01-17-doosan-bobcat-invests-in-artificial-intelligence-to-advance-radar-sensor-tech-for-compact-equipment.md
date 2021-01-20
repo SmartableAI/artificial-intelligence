@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Doosan Bobcat NA to Invest in Ainstein AI"
-    excerpt: "Doosan Bobcat North America announced a strategic equity investment with Ainstein AI, Inc., a startup radar technologies company, to continue the development of next-generation radar sensor systems. “Radar will enhance equipment performance and provide our customers with optimal productivity and the ultimate operator experience through sensor technology,"
-    publishedDateTime: 2021-01-15T16:32:00Z
-    webUrl: "https://www.constructionequipment.com/doosan-bobcat-na-invest-ainstein-ai"
-    type: article
-    provider:
-      name: Construction Equipment
-      domain: constructionequipment.com
-    quality: 37
-    images:
-      - url: "https://www.constructionequipment.com/sites/ce/files/Bobcat_equipment_1.jpg"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Doosan Bobcat North America Invests in Ainstein AI to Elevate Radar-Sensing Solutions"
     excerpt: "Doosan Bobcat North America announced a strategic equity investment with Ainstein AI Inc. , a startup radar technologies company located in Lawrence, Kan., to continue the development of next-generation radar sensor systems for Bobcat equipment solutions."
     publishedDateTime: 2021-01-18T14:36:00Z

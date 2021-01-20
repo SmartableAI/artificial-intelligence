@@ -1,0 +1,33 @@
+---
+category: news
+title: "Apple patents next gen Face ID, which uses facial heat mapping"
+excerpt: "Apple has just been granted a new patent that is related to its Face ID biometric security system. The patent details a next gen advancement in facial recognition technology, which apparently uses facial heat mapping for authentication."
+publishedDateTime: 2021-01-20T07:24:00Z
+originalUrl: "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/"
+webUrl: "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/"
+type: article
+quality: 54
+heat: 54
+published: false
+
+provider:
+  name: Gizmochina
+  domain: gizmochina.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://www.gizmochina.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-9.34.42-PM.png"
+    width: 1053
+    height: 729
+    isCached: true
+
+secured: "tjkdKgzs2YhIvqwSJBGv/3NyKAYRWgScHw3pSoecpNrD0JudFsF94E4JY7EdSyAXoGJ64i++t2Ezv1h/xuhLPl2SwwacLgnBobr2jeT8a1g5be8HZbvW/K2frK6ac0d98lv96l8eAr/MKHwJ5zg5h2rsmud1S2btpzJo+AhyVj5yEtkL5Day7yub5tkmogtbalGHLc7hsOsHqe/Dh+b1FvH2bMkyybXmlL9RfVQQpW9OpKeSsxjyI6vmi9B70sx6ms1D6rWOrZ6L5aH5keEHrzzYd3gm4lL39jhDSz1tmLM2i44pt3YJ4+AN7Y/FO/cGK9tgZ94UebcsqilM8iip+BjkhfmpiAE5udLxll25tTo=;JBOdCahdEBcipz6/KkrE4Q=="
+---
+

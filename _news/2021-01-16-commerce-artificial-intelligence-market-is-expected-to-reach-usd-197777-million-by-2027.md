@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2226016/commerce-artificial-intelligence-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226016/commerce-artificial-intelligence-market-is-expected-to-reach"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Space robotics market predicted to grow to $5.7 billion by 2027"
-    excerpt: "The global space robotics market size is expected to reach $5.71 billion by 2027, registering a compound annual growth rate of 5.2 percent from 2020 to 2027, according to a new report by Grand"
-    publishedDateTime: 2021-01-15T13:35:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/15/space-robotics-market-predicted-to-grow-to-5-7-billion-by-2027/39610/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/nasa-valkyrie-robot-4_0-2.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "AJQDjEnVX75lEf8Io9ha5BvE5CoXSrIBbwEm/uR6aXq+1blvLUZmFNyReHbJx7XWLQTerW5yCl3n2ZqYMoK+fq9mWGf5Z5cGcW1rPMMaI7WTcFJHiCiQ6Yi4rvMN8MTooZrx6tgUMbWDUeZaj4py2157KzgYuFESqTDb8XvHJWgbnQ5X+ULzeerp+yj7fzqVx0cKZBoqabVtMWMipVISGkhM8sAi4yXcvZ7zrpRTOWdEWezvE6V03KATmifGtaXvS/P3G+7JANvQdTBh2Y+fWbDwsIFLn1CNaYuxzIjCH27w6tYds5mlCTH0BWGua7/8OBCqidhlESWiiJQvG977RkOKkLMfO2V/xzy9Jpg6iRi/grNjQrqG1rI79ho7WdI6FQuXOwiAYRp/qRBR6+aRW47rqbhcZP0ZqVhUKXRwFXOzET1oQcsBUcoYtuqXxdwkgtXGXdSg9O1kl1Pdpop3q6U3BZWyW5xcqEBtRTAknbQEoLDxiY7w3RRlwC78QBioZwKSe7KfUXJgKLLqMmDWFQ==;FmbbOOb53dVt9lWwDjfgXQ=="
 ---

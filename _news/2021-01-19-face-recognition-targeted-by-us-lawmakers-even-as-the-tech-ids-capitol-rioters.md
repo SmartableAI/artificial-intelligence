@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
-    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T04:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "US lawmakers aims to curtail face recognition"
     excerpt: "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities."
     publishedDateTime: 2021-01-19T08:19:00Z
@@ -87,20 +73,15 @@ related:
         width: 1200
         height: 495
         isCached: true
-  - title: "Following the U.S. Capitol attack, tough ethical decisions ahead on face recognition technology"
-    excerpt: "Today’s columnist, Rustom Kanga of iOmniscient, says Americans will have to make some tough ethical choices about face recognition technology as political tensions and divisions mount across the country. (Credit: iOmniscient) The attack on the U.S ..."
-    publishedDateTime: 2021-01-18T11:00:00Z
-    webUrl: "https://www.scmagazine.com/perspectives/following-the-u-s-capitol-attack-tough-ethical-decisions-ahead-on-face-recognition-technology/"
+  - title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
+    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
+    publishedDateTime: 2021-01-19T04:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 44
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
-        width: 1125
-        height: 941
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 54
   - title: "US lawmakers aim to curtail face recognition even as the technology identifies Capitol attackers"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of"
     publishedDateTime: 2021-01-19T00:48:00Z
@@ -114,6 +95,20 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13990792/16x9/991/557/203191f8df567c1150d93ead6f0a5f5a/sT/file-photo--supporters-of-u-s--president-donald-trump-storm-the-u-s--capitol-1.jpg"
         width: 991
         height: 557
+        isCached: true
+  - title: "New advances in detection of bias in face recognition algorithms"
+    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-18T13:32:00Z
+    webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/01/MG_5999_2021-01-18_21-25-39-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Lawmakers Sought to Ban Facial Recognition Software Being Used to Find Capitol Attackers"
     excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump"

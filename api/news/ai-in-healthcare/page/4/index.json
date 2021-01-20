@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-11-26-digital-health-smart-inhalers.md",
-      "title": "Digital Health: Smart Inhalers",
-      "excerpt": "The extensive scope of digital health encompasses technologies such as mobile health (mHealth) apps, artificial intelligence (AI)-enabled medical ... Traditional inhalers have long been the mainstay of therapy for patients with chronic respiratory diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmacytimes.com/news/digital-health-smart-inhalers",
-      "originalUrl": "https://www.pharmacytimes.com/news/digital-health-smart-inhalers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pharmacytimes.s3.amazonaws.com/uploadedmedia/images/2020-11-20_AdobeStock_126613568-644px.jpg",
-          "width": 644,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T13:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pharmacy Times",
-        "domain": "pharmacytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-new-artificial-intelligence-platform-detects-covid-19.md",
       "title": "New Artificial Intelligence Platform Detects COVID-19",
       "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Coronaviruses infect animals, humans, and birds.",

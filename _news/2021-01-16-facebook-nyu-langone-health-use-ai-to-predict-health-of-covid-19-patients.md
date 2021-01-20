@@ -137,22 +137,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook AI Now Better Describe Photos For Visually Impaired"
-    excerpt: "Facebook has announced new improvements in its artificial intelligence (AI) technology to generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users."
-    publishedDateTime: 2021-01-20T04:44:00Z
-    webUrl: "https://odishatv.in/science/facebook-ai-now-better-describe-photos-for-visually-impaired-510892"
-    ampWebUrl: "https://odishatv.in/science/facebook-ai-now-better-describe-photos-for-visually-impaired-510892/amp"
-    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/science/facebook-ai-now-better-describe-photos-for-visually-impaired-510892/amp"
-    type: article
-    provider:
-      name: Odisha TV
-      domain: odishatv.in
-    quality: 59
-    images:
-      - url: "https://img.odishatv.in/wp-content/uploads/2021/01/Facebook-News.jpg"
-        width: 750
-        height: 430
-        isCached: true
   - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
     excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."
     publishedDateTime: 2021-01-17T09:11:00Z
@@ -195,6 +179,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Facebook AI now better describe photos for visually impaired"
+    excerpt: "Facebook has announced new improvements in its artificial intelligence (AI) technology to generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users. Way back in 2016,"
+    publishedDateTime: 2021-01-20T05:29:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/facebook-ai-now-better-describe-photos-for-visually-impaired.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 19
 
 secured: "hVCK5gkOZjJbr5nSj+bRzRExq2NSL30lqdUcyLvLeZsy7/ypBodFfn/+Z42jh6xsPLVM3RUebKdfYjUI/Prix40AcLSGg9QJJaU0hAcPAF0uuBDsLisRCUIQOO8SsLf+lXd1urftcWOv8WQZuwkYIUjsS6FSwnhQIUeX5ohRRdTU6/ZuvS/I4OlHkohzwfwLQH3J5fz/d51X7DntWRQ5oOCsiB2vLDbNLfnwSCuWykV3cTRFxrHq/sYDCLitzGrGtuv85qXPs+22uEmq/ihrbwh/Mb9Rf4Ex3lnFWFSWnROkki48zpl5g8lj/LYx6GWMfuT7FdJj48nZDXV0/mEE/S7bETOUTL7lK/az6uUZkcc5ZmmjblOtO0yKClZ8ha0PUa+YBkKWr/V3rvrbjY+VpJNLArCmlc02UW7PFT0qwkuAFr8b/FeUFp59YcQpuwBU5YMZlAFmK4E5QTA8EjfyZ9VqOJkrjfF55K2lAXPxoQPlCSORKDPVvWq+brQvw++2mHcdnc70rDwG7GePECdtsw==;DsP2MxccsS1tfc7oa+joBg=="
 ---

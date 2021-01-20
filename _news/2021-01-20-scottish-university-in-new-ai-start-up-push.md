@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-20T06:46:00Z
 originalUrl: "https://www.heraldscotland.com/business_hq/19022696.scottish-university-new-ai-start-up-push/"
 webUrl: "https://www.heraldscotland.com/business_hq/19022696.scottish-university-new-ai-start-up-push/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: heraldscotland.com

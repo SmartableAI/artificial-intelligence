@@ -26,47 +26,14 @@ images:
 
 related:
   - title: "P&R Dental Strategies and Denti.AI Join Forces in a Strategic Artificial Intelligence Partnership"
-    excerpt: "P&R Dental Strategies, LLC (P&R), the leading business intelligence solutions provider to dental payers, today announced an exclusive strategic partnership with Denti.AI Technology Inc. (Denti.AI), a leader in the emerging field of dental"
-    publishedDateTime: 2021-01-19T19:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-19607248.html"
+    excerpt: "PRNewswire/ -- P&R Dental Strategies, LLC (P&R), the leading business intelligence solutions provider to dental"
+    publishedDateTime: 2021-01-19T19:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/p-r-dental-strategies-and-denti-ai-join-forces-in-a-strategic-artificial-intelligence-partnership-1029983086"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 41
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation with AI and Red Hat OpenShift"
-    excerpt: "Atos and IBM today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos’ vertical decarbonized solution and service delivery assets,"
-    publishedDateTime: 2021-01-19T19:50:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/atos-and-ibm-collaborate-to-accelerate-digital-transformation-with-ai-and-red-hat-openshift/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 29
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/Eric-Lander-The-Broad-Institute-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
-  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
-    excerpt: "Atos and IBM (NYSE: IBM ) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos’ vertical decarbonized solution and service delivery assets,"
-    publishedDateTime: 2021-01-19T16:31:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-industrial-products-and-services-transportation-and-shipping-e9c2331e90a30f936998b549e9d0b035"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "gz80I0+SIE5pcbLRHU1Vr1WaA5OPRj9aW1FJXIS1RNSjADGgUPOTzOaySgyH0I6PIfyVhEm8NIUHXpwOY54EcbIf4ITh4yo5O7bLX7JbmgKLFAWbej6gbFqxK9W++3xAOGffm08P1WVTA5own3eo6XlilSaX5J9zaA96NiDRWyK/J/noUCsQOsx2V6PEOrUuoog6YLyY07lHhNix2s/uzdq2CS8LSl66NwvbIXHIRUmtQ/iA4iFxphzHdkbW/JyO+ucVA2YGVJ08IDArpxLAn3Y9b/82v1vmHX1be10sr2CWC0yjKdMDtXjZjv+ryLhSXH+/wCyoNRsXZ0RWt4gqCEek1uBtOO419xVptPQFRoh4AsCKv1FwccyOlC6XLtXIqhIN7mI0phmVUctWh+hxTYri2BWi5IiUyGEE9DcuNj9Eh268VHe2Phyh1HnhDK0nrH3xk7cvp3oqC2zJsQQZCInlmJZUIiDQwMya8r/JAcqDmeUDTg0mEUspJQhQ9vzYtJcn1rGZB3HO6HZRjUXJJA==;RTy310WaUUyuLMWfGRbTVw=="
 ---

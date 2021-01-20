@@ -23,6 +23,17 @@ images:
     height: 471
     isCached: true
 
+related:
+  - title: "Caris Life Sciences Accurately Identifies 21 Cancer Types Using Artificial Intelligence Derived Molecular Signatures"
+    excerpt: "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, today announced positive results from a study using MI GPSai™ (Genomic Prevalence Score) an artificial intelligence driven product using DNA sequencing and whole transcriptome data to aid in the diagnosis of cancer."
+    publishedDateTime: 2021-01-20T06:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-medication-products-and-services-f7b76ad378d31458b9ac1986952b9baa"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+
 secured: "BMfKvmINscu1R3YuN40o07VlzpzQoKOJ7/fKA1ElWIT6P0iGNLyQ+NdoAFiMhwESCxCtBIOpGYWz8Sr2TSIFT+lzp8+rTjSqwkTGTLkBfjtfkXWJ5LJgbsncmuPuxybUkqywfa/zgOx77kEGT1GAssSntbXvwh+7z8IArY/SpsK1raqSvZyV+B93vEkdcZh0R5SfL5Nq4n9cUl72sOQQLHpvUr/lbPnzu+sxQiLajr1J179ApwilSPPWGb6EgV9pC4CQrvAy6Tz1QNrC7C84I2uLhkHZVjD7KwP9KoHUfYfyJseW6N5BTES3DURAhVFEBgIg+oEy9S++bGKgMVkfxdWeQD50E01phXlpOat8/AE=;0kq2DqlJDlkcx2gk7V47Ow=="
 ---
 

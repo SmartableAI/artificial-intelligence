@@ -69,6 +69,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Google Cloud Launches Product Discovery Solutions for Retail, Bolstering Personalized Online Shopping"
+    excerpt: "Google Cloud today announced the launch of Product Discovery Solutions for Retail, a suite of solutions built to help retailers around the globe enhance their ecommerce capabilities and deliver highly personalized consumer experiences in the first phase of their shopping journeys."
+    publishedDateTime: 2021-01-20T06:07:00Z
+    webUrl: "https://apnews.com/article/business-technology-lifestyle-products-and-services-consumer-products-and-services-65f072d07cc6b9be6765382901511584"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
 
 secured: "gI+O2oaCjtz+TzLTFemgEmt0+ZJWzxzlaFmydprVvOwR0D6sSiC2b3oMTIfN/QcMdwc6qOpdV8Bq5+ZNycTn/4t7U84bBpyKXoTmG9VKngS0idurEipyyHoZT9BwGko4E9eoDvY/mP10J2HkBeKPnyQ1FeYV7eyN8mYX+u+IlbrAujpUd9+SWZTYNW20AAavom97DGwRWx1GElmVSLGgNwqmnzDZRXd/gmOeWTQpaTEY32T45NbTbbZE79NUCGklWzdf4VfwGlQ9Bi80k89eftzHMKDFlD0/0uoy9M4U/8E4OpZeAfMBtO/vGWy2MwhR4j7U7pDADSldpPICieeQuovezLRXC+tO5OQU55UXNxqb7chK/0gvdLe1cAWLxjeb8BXVCoqZNfYo/48F8wA0QfQ9cQqrrxJPqGf3S1RZmMvVeH38QxcJ2SKdIX1pOnEerTsNptrDN0t6vj6w1jMOgEG2BFJeZtPbz6xqySYY+uEnKNUkhrgCDt8Lokhn7EITOLolzDetq8B+0BN7SfphDw==;MyEjPS1JTQI69aPdwv2kYA=="
 ---

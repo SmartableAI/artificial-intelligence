@@ -71,17 +71,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
-  - title: "Global $50+ Billion Healthcare Artificial Intelligence Market to 2027: Focus on Medical Imaging, Precision Medicine, & Patient Management"
-    excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-15T13:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19180648/global-50-billion-healthcare-artificial-intelligence-market-to-2027-focus-on-medical-imaging-preci"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19180648"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19180648"
+  - title: "Insights on the Artificial Intelligence in Next Generation Networking Global Market to 2026 - Leading Companies, Strategies and Solutions"
+    excerpt: "The \"Artificial Intelligence in Next Generation Networking by Infrastructure, Network Type, IoT Solution, Segment (Consumer, Enterprise, Industrial, and Government), and Industry Verticals 2021-2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-01-19T20:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-artificial-intelligence-in-next-generation-networking-global-market-to-2026-leading-companies-strategies-and-solutions-1029983121"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
 
 secured: "HpgmXwoTqi8wPT62/FFCGBGcH7tBkSQMPojmBRtueXfESrDvK6Z+VZOj8DCk3MukoAzCc4BjT7WB/LOa0jj7aHMWkHkdi7wBtT1lf8DEFY4CWR0wiFAWo4u/Mwzle+MKv5kdduyclO6yHMbbGVg0ITQdNI0L8FFzvxQddlZD/GnmWfQiMAPBI0tk8syHVaZs3BigvMK79Ttj3cgzQ8r81aYmWEQ5UKEoYulrUXAvjjuTcBl24bIQlholIyL/3WVdv5hCQZxvnN+C83uiCmX5XXlMpQ55RuZ4ZyXSgi9KSEyeFRZz2NqF6BoVwpXv0nw3o2mwRc0v1hMaB+sB9OyUeiIJH1llQBAeWDY/V28iPIMo1iyVfTBzW2EmD7RGenv3WmSMlGLqki3iyGck6b68pZCFFg8m5IoUv2D2KPUsAL8McJke+jXs2NVsG6vvyP/nK1xi1BE1o5Ib1/Q8Y5/dG0yP8yThEFbBEwwsYh3WXIJIT9E+9Oh+znW4F6GySQB2Bwzuu8OHXaG2JjUQyzxuzg==;Q70F37QkMZu/Cws56vg4gQ=="
 ---

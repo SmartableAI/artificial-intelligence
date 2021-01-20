@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
 type: article
 quality: 69
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Facial Recognition Market Report\" provides data, information, brief analysis, company profiles, statistics for past years and forecasts for next few years."
+    publishedDateTime: 2021-01-20T07:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Facial Recognition Market Report\" provides data, information, brief analysis, company profiles, statistics for past years and forecasts for next few years."
+    publishedDateTime: 2021-01-20T07:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
     excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
     publishedDateTime: 2021-01-18T10:40:00Z

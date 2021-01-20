@@ -7,7 +7,7 @@ originalUrl: "https://www.wboc.com/story/43194685/social-assistance-market-emplo
 webUrl: "https://www.wboc.com/story/43194685/social-assistance-market-employs-big-data-analytics-to-gather-insights-for-social-services"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -25,42 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Is AWS Panorama a Game-Changer for Video Analytics?"
-    excerpt: "What makes Amazon different is AWS’ deep roots in artificial intelligence; however, it is conceivable that the two are now competitors. Much like S&ST, Panorama technology enables integrators and end-users to deploy CV applications from multiple sources ..."
-    publishedDateTime: 2021-01-15T16:47:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21203570/is-aws-panorama-a-gamechanger-for-video-analytics"
+  - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
+    excerpt: "Molecula, an enterprise feature store built for machine-scale analytics and AI, announced it closed a $17.6 million Series A round of funding, bringing its total funding to $23.6 million. The round is led by Drive Capital,"
+    publishedDateTime: 2021-01-17T14:40:00Z
+    webUrl: "https://insidebigdata.com/2021/01/17/molecula-secures-17-6-million-in-series-a-funding-to-democratize-machine-scale-analytics-and-ai/"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/01/GettyImages_1199478432.5ffcc2cedffd1.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "This is why this payment technology company is partnering AI with Analytics, IT News, ET CIO"
-    excerpt: "This is why this payment technology company is partnering AI with Analytics, IT News, ET CIO To stay relevant, BFSI players from"
-    publishedDateTime: 2021-01-19T10:08:00Z
-    webUrl: "https://www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/amp/"
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 8
+  - title: "Xdroid Applauded by Frost & Sullivan for Its Innovative Voice and Facial Analytics Solution Portfolio"
+    excerpt: "and a speech-to-text and keyword recognition model that provides highly accurate transcriptions. The company's automated record innovation allows the language engine to capture and analyze ..."
+    publishedDateTime: 2021-01-18T01:09:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1178955&cat=PR News Wire"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 28
-  - title: "Voice Soars as Primary Interaction Modality of Choice In-Vehicle, Finds Strategy Analytics"
-    excerpt: "Based to Offer Best UX Strategy Analytics - Automakers of all types have largely aligned on touchscreen and voice control as the"
-    publishedDateTime: 2021-01-19T18:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19221518/voice-soars-as-primary-interaction-modality-of-choice-in-vehicle-finds-strategy-analytics"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19221518"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19221518"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "xylYk4oEx1DGxhDWj3lutVxx0YgQLEmJHMcZJbk7uEyryEpcSGjo6IQwXGi1y1uo9VOqu/nTokzILBLAoqOkgJjXdMG5AlkAgw39V3oO6xGKukcXRNnyPp5LRf18xvCwgp1uwfghHyTvrmPWdwQXvo1DhzxNRj544doWBT7kgTC7DufSutXCXlLY1nqQhrj8I+jibUvrUdRELubfgldCbjbhh3BhmyXTke7J2W2MP2zD/3kWb+0Yd5FaFqFuSPZGA1hR59WKt/GcEIeoFALZqpMqQGji1ICFERrfHA5XOGuvw8GB19LqfgV5rAE0QQ1qBlS/nBGbqTQYtACdaIGxwjqrxZeH9pqHs8ZnT7jSJzc=;riLtWni2915t4rh6xAF5tA=="
 ---

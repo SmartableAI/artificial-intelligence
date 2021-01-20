@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Artificial Intelligence Can Predict Prostate Cancer Recurrence"
-    excerpt: "An artificial intelligence tool is able to examine data from MRI scans and predict the likelihood that prostate cancer will recur after surgical treatment."
-    publishedDateTime: 2021-01-15T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-can-predict-prostate-cancer-recurrence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "DJDwWy7E+6rWjwsszNrxlurrwNFnxiAR9Y8JXFsS8Gms6A1t4Q/KhVP4we1y4BABn4TH7Y3Fqga+Ap8jxZ5GQ6BtlSJo/eRDs5QBL/1lBPVZ/nxBHPQ9XjqUF3I5+yRBPIiMutfUW5LHS1vpgRya90tYy2CTAJOkCI9+Ah7JMDA5gBHyH/svmimqH6b3saE7fHl6uHRLanUNGGejT2xqrXOM5ubDjqzWMvvgKJw+0RtX6MDhoAEo6tgSup4DxqIl+U0NJasYVZBfj31MMF71jexSpLI9hMBUaz7BXd8OHhD9V1DYgG7Zs20jiNhCIJL0WUx+iN43quFjDmIFwC2G63K059PMaTWmtrhiDcSdfAnV/HV6FBYln8i5oElb6VDkIOp1vPw/E4zdjSrD1RscwMQshi7DbiMJAXXBwaSxAwLQ4LCwBCZwxF1XvnpbT+VWfRsol+pdLZcVzNYoZ5Plc+yMQD6SSsdBlHNpOCREptNOi6ERaADJvQF9IyfTK7Trr+D3rQSu9YSrGM+idFh+SQ==;6m+EliyW/w9DYG8WrM9IAg=="
 ---

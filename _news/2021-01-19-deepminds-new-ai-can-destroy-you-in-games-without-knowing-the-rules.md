@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-y
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s new AI can win a game without knowing the rules"
+    excerpt: "Google's new AI can win a game without knowing the rules In addition to offering the Internet via hot air balloons, Google's parent"
+    publishedDateTime: 2021-01-16T15:25:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 39
   - title: "The 21 smartest AI scientists working at Google DeepMind"
     excerpt: "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ..."
     publishedDateTime: 2021-01-16T09:44:00Z

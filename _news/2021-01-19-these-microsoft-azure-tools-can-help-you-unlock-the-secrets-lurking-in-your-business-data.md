@@ -125,20 +125,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "Microsoft gives users control over their voice clips"
-    excerpt: "Microsoft is rolling out updates to its user consent experience for voice data to give customers more meaningful control over whether their voice data is used to improve products, the company announced Friday. These updates let customers decide if people can listen to recordings of what they said while"
-    publishedDateTime: 2021-01-15T17:00:17Z
-    webUrl: "https://blogs.microsoft.com/ai/microsoft-gives-users-control-over-their-voice-clips/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero-1024x585.jpg"
-        width: 1024
-        height: 585
-        isCached: true
   - title: "Microsoft backs General Motors' Cruise Automation self-driving car venture"
     excerpt: "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,"
     publishedDateTime: 2021-01-19T16:15:00Z
@@ -267,8 +253,8 @@ related:
         isCached: true
   - title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
-    publishedDateTime: 2021-01-20T00:07:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO?edition-redirect=in"
+    publishedDateTime: 2021-01-20T00:25:00Z
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO"
     type: article
     provider:
       name: Reuters
@@ -307,7 +293,7 @@ related:
   - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
     publishedDateTime: 2021-01-19T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO"
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
@@ -506,6 +492,20 @@ related:
         width: 651
         height: 366
         isCached: true
+  - title: "Microsoft Invests R29 Billion In GM’s Driverless Vehicle Company Cruise"
+    excerpt: "Microsoft has invested in Cruise, General Motors (GM) driverless car unit, pushing the company's valuation to $30 billion (R447 billion)."
+    publishedDateTime: 2021-01-20T04:51:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/01/20/microsoft-invests-r29-billion-in-gms-driverless-vehicle-company-cruise/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 56
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/01/Cruise.jpg"
+        width: 680
+        height: 453
+        isCached: true
   - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
     excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
     publishedDateTime: 2021-01-19T16:08:00Z
@@ -553,14 +553,23 @@ related:
         height: 460
         isCached: true
   - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
-    publishedDateTime: 2021-01-19T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
+    publishedDateTime: 2021-01-20T06:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 49
+  - title: "Cruise, GM Partner With Microsoft For Use Of Cloud Computing In Self-driving Vehicles"
+    excerpt: "(RTTNews) - Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of"
+    publishedDateTime: 2021-01-20T05:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cruise-gm-partner-with-microsoft-for-use-of-cloud-computing-in-self-driving-vehicles-1029984576"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "GM Teams Up Wtih Microsoft On Cruise Self-driving Vehicle"
     excerpt: "General Motors announced Tuesday it is joining forces with Microsoft on its Cruise autonomous driving venture, with the tech giant coming on board as an investor and technology partner as it pushes to commercialize self-driving technology."
     publishedDateTime: 2021-01-19T14:10:00Z
@@ -617,6 +626,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Cruise and GM Team Up with Microsoft to Commercialize Self-Driving Vehicles"
+    excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their software and hardware engineering excellence,"
+    publishedDateTime: 2021-01-20T06:09:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-government-business-and-finance-driverless-cars-products-and-services-e03d35b54491631c08c07f2e49fde999"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "GM, Cruise and Microsoft Partner for Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their software and hardware engineering excellence,"
     publishedDateTime: 2021-01-20T00:44:00Z
@@ -659,6 +682,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft backs GM's $30bn driverless car project"
+    excerpt: "Tesla is \"trying to make full-size cars in the same way toy cars are made\", boss Elon Musk has said, as the electric car company provided a glimpse into how its tabless batteries are being made."
+    publishedDateTime: 2021-01-19T18:12:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/01/19/tesla-provides-glimpse-battery-production-line-makes-cars-like/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 36
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland's deep knowledge,"
     publishedDateTime: 2021-01-18T10:11:00Z
@@ -701,6 +733,24 @@ related:
         width: 690
         height: 480
         isCached: true
+  - title: "Microsoft joins GM to build self-driving cars, invests in $2bn fund"
+    excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM)"
+    publishedDateTime: 2021-01-20T06:42:00Z
+    webUrl: "https://www.thestatesman.com/technology/microsoft-joins-gm-build-self-driving-cars-invests-2bn-fund-1502947538.html"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 21
+  - title: "Microsoft joins self-driving space with investment in GM's Cruise"
+    excerpt: "Cruise and General Motors entered a long-term strategic relationship with Microsoft to accelerate the commercialisation of self-driving vehicles. As part of the partnership, Microsoft will join General Motors,"
+    publishedDateTime: 2021-01-20T08:38:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-joins-self-driving-space-with-investment-in-gms-cruise--1369231"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 21
   - title: "Yellow Messenger and Microsoft strengthen collaboration to transform voice virtual assistants"
     excerpt: "Yellow Messenger transforms its voice automation solution using Azure AI Speech Services and Natural Language Processing (NLP) tools."
     publishedDateTime: 2021-01-19T10:31:00Z
@@ -710,6 +760,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 10
+  - title: "Yellow Messenger and Microsoft strengthen collaboration to transform voice virtual assistants"
+    excerpt: "Yellow Messenger, the world’s leading conversational AI platform, has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services"
+    publishedDateTime: 2021-01-19T23:29:00Z
+    webUrl: "https://indiaeducationdiary.in/yellow-messenger-and-microsoft-strengthen-collaboration-to-transform-voice-virtual-assistants/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 8
 
 secured: "UXGLUGHf3CUiuv1Cff6MUR9meyb0Jf3a1ANYoAqTyY6sh0nsK6t/X5GJ0TrNDSlyhni+qyLdOhL+X6PBiaQlJ2KpVBmClcBbDqzu0WyVM+RZoie61f5Z41kXNf0kAMvOLSKEbqznfspT3cByYQZ9DAaW//s0qUhsPwLaNchdIn03OhANlm4KQerdZHoSl4IN23JJhXiNN+3xtu3VBp/HXonxky96/0m3VEX7vBUHxGhAWnFQrTsXmup4S6QPFh1mOYO0DdxnIb6xQdoV4JBfFvdAJjEDaJcTnq+vYd+/Bn/5/uKYgUqtKAN7Wef/QvOR5+SZuzaXWrYSKbF5uCjh4K2b5WRa9CmraA/c9ZExdKXsW2w1oWZafSp4nMOs9L61egrtj3izlPEZX9/1PRcX8NtaXvYPSECS3RMMKPkZRPmynuBqEDuQYlyi0MS1lI4fsR0kzLkcXmhn5IJv0eeCcb5YgePuOR42LqJz0Q8ePlgonrUWk0Vzp3ZVQapZiqbIRtmrK1N7Oxi680ymwomnZA==;YIWZI11iW1FRuiaunaFuMg=="
 ---

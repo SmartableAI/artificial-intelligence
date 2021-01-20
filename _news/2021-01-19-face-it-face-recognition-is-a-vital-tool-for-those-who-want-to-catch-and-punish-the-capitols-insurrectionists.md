@@ -59,6 +59,15 @@ related:
         width: 320
         height: 231
         isCached: true
+  - title: "Spoof detection for facial recognition in casinos"
+    excerpt: "A non-intrusive spoof detection feature for facial recognition technology has been released by Innovative Technology of the UK."
+    publishedDateTime: 2021-01-20T07:34:00Z
+    webUrl: "https://www.intergameonline.com/casino/news/spoof-detection-for-facial-recognition-in-casinos"
+    type: article
+    provider:
+      name: InterGame
+      domain: intergameonline.com
+    quality: 19
 
 secured: "mm3CEtdQdiwNkSmOIpEVoH6W076e5cxH5Ft7lN8WjT55COJf8G/N/tFacixvWpLiEeaEE7SeYwhRaq1gSOYxDxMU1T19kP+XsM4NtT993sZPQwdcnCtYytZxVMaeg+ssGZLHQG69TbxKKFx3jNEKWx96ePzVi1e+6t3V/yIqS97Qp0Rmsr0W/XzZyiwdgP/BTcjLk5m4Jlh2xhdl16wD6TmI5D81Ra9gnEKT9Sp9rrczzqEReMqfpn5G1RoclUQRwZFzrsbJJLHViAYqktf1vT1geDURw0P6dBeFjYHO7aPSyF7gakABwOkDGLrZBS9icrS2F3wFk7JDKEXTgf8lskVG+7xnS0tO9/VlAcd2C1bcQO81ab833wl+kPTghtePaZ5GrBlWMjxPUZIGwkSKSvnx2tol+9TSk9gC2n/O+PWw2Q2elpe1l4hkP8Al7lxhnwjJQW28uJNa/Zbf/S1JvbzTyZoka0rZgnFHm0ip4sVyQcEWQLZKsompMU3L8XfBzBsZtofLEewuUnH6oGtzgw==;kgR4dI9zhlXrnkAkwo6qDg=="
 ---

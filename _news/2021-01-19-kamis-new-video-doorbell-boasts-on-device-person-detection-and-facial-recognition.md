@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-b
 cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: TechHive
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New advances in detection of bias in face recognition algorithms"
-    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
-    publishedDateTime: 2021-01-18T13:32:00Z
-    webUrl: "https://www.miragenews.com/new-advances-in-detection-of-bias-in-face-recognition-algorithms/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/01/MG_5999_2021-01-18_21-25-39-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Kami Launches Smart Video Doorbell with Facial Recognition"
     excerpt: "PRNewswire/ -- Kami, the vision artificial intelligence (AI) company, today announced the availability of the Kami Doorbell Camera, a smart video"
     publishedDateTime: 2021-01-19T13:00:00Z

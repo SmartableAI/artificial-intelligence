@@ -1,20 +1,26 @@
 ---
 category: news
 title: "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES"
-excerpt: "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions"
-publishedDateTime: 2021-01-15T06:13:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
-webUrl: "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES"
+excerpt: "DeepRoute.ai, a global level 4 self-driving solution provider, today announced it will be showcasing innovative technologies at the 2021 Consumer Electronics Show (CES), including an inference engine,"
+publishedDateTime: 2021-01-15T01:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-greater-china-7a6e3dd709564ec79a30c380aa7c245b"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "27b0T6NU9CTCNtP6DZW5Dd8waR1uJbDLPLxzEpcrNkhjvx0epoDHUtIfD1AQ9+E1gRxgIrrL2H0DzIoh9rR2Erd8yuxJLBbOfMrzKT8YZl01ORwj63/MQF+XMG8rHDX954wlaqbLS2GpIHS82MM1q2EDwO4cv2OOyHh0Qg0b59kEWEq7cSzWFoydJH+ECoCptzgU98hXDrXaa6/e4hW9qKg4zqD4UNVIirQVpgFpByFdsIWqWZqgwbInyXCJWfm6yaVKKqIbdmZ5i5OB52lxMMhFkGm8DmZrwszT7b3nk+OFjDECdR+tigj5vummaEJMPXxf29UEIugyPPDnARp9HCSphS/hAWquouieNCirpaXo9r/IaJ1HS6gXTxdpHYgVZD8vrS/WebRVFc5HlAhYt67GKNMvpf0nNmkTZLIZe6c2mcfzXdwxn5q0V6Dmm++kWH0dakaGguN6C1w+fzvLvh+fqkcw7Ov/EmRGSQRm322NrgtSIeq6FueAZiicRNEgQozhZAQlHmhivM1OTDFzTA==;AEWaINqwfqJI/tZ2JrFagw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "uDc35dC4n+rA9LZktqzv1ekSqxI8cMflaNRC3/qu9XW242xtmM6hbWCYmlO9zxJcSJL4eMR99QzjkRcq7k2wUn2Uc2KcjPlHliGXgtbTop5/1Yjm6WxYqJQ/2wpXfYp5ITE2kLAajjF5ZcGTfYLjAwXQtSeBZLstcGIFfq22RxYFJJKLm6uHYF4Jsrw2KYLvLwgmIZC6UJ8ZBE6pLUCOyjawyZ/4XWsqKMlSpon7S0y87dG1ylDZ2Trm1mnzfdRIu61Ur1EZoTwR7jSLq1S7pPWCxnChO8br32M3aup1wQszt4ARQ/CvIIuE5otzET6wMJabNS+a7HnM6zX93ZhATu3lsjt1qv3lV2KRWB5iTEg=;nR3t/kTH854+5OKdmoITjg=="
 ---
 

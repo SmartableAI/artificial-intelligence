@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/15/feature-store-repositories-emerge
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Arize AI Joins the AI Infrastructure Alliance to Build the MLOps Stack of the Future"
-    excerpt: "Arize AI joins the AI Infrastructure Alliance. The AI Infrastructure Alliance is a global organization of software, hardware, and services for the fast developing Artificial Intelligence and Machine Learning (AI/ML) community."
-    publishedDateTime: 2021-01-15T16:37:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-software-computing-and-information-technology-artificial-intelligence-10b5d03416c28ea572aca700ad27e9b2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "yvS0fyZJzlVKOX3hCNf61DsS4LzsIrxlmHTy32A/61L1e9oLLBa/3/P3hgMBgjruTe19VvBnKS/kj2CBYC04S+vtH/Pqtj52GtQTQgjzT0Yklj82ArAy6s6wdwar9RjmcWIS36S6kaMqpRhtVtMhjikxBD1ldceh66WLxFMdhZZq1CKFHn2+i/1mBbqd8WGnt2qTs40nJmuVE2EMSG6CFmVecVuFNi2y8cEmIUboh26Ee0A5y/esEqC5AOoolzR2b/Q6sNcijB/vaOdIUiBds3EbHtAW6zCr6mpD+vdGVnXxR4n6KTLBypeZqZu6rsop7J8Q8UFNmYg/h4GeeIWp4uFarBhky265Nt5+2kk48GRqa9zkbIpLvna2gp/humxbOhfNC2XvmNhNlZBtT37GYSlqQzeDhLZ3Noe3i7Ih+7FbZFI9VRPbTYRaPr09WTuYVBXT0eFtq9pIDX0i9FIm37AtRJpX5Yx0iRPn8akdAFgfDZrVKqBJW3H4wAv8JHeu2X2GyxdF/B173M61ZzMI/g==;ly5/c6GaJGkUl/j938Ylgg=="
 ---

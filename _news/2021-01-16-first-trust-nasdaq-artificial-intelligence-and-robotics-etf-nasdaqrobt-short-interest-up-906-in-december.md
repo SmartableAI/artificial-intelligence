@@ -9,8 +9,8 @@ ampWebUrl: "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artifi
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html/amp"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: theenterpriseleader.com
@@ -25,24 +25,6 @@ images:
     width: 450
     height: 323
     isCached: true
-
-related:
-  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 60.4% in December"
-    excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) saw a significant drop in short interest during the month of December. As of December 31st, there was short interest totalling 197,600 shares,"
-    publishedDateTime: 2021-01-15T16:48:00Z
-    webUrl: "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html"
-    ampWebUrl: "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html/amp"
-    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html/amp"
-    type: article
-    provider:
-      name: theenterpriseleader.com
-      domain: theenterpriseleader.com
-    quality: 75
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
-        width: 450
-        height: 323
-        isCached: true
 
 secured: "qbMESfLw1RYHRlsN3EhvisHpiNqq6V3TO8GUlLkYKyriIJI3UEF/EF/al4SMVRZ5fZFYgTVOfVKg0kXFVMa5Pa+QXr1qdn0rDHagP4Hj3bRb/cMejQRnw9Us0mQweMAmfT1ePAPmFiyHhMmzGQHKrIssrnOo9GJ216y/fEXnBUMcLYZ27jHlRZgzOrGTkrY4FwldHRG9RI449OIqRAM79DuSPtAwyu4dWpTXeX+5sOkUgNEurA9ENmcsWl95n8uIYq40+rZHFnlZwyZfWL1GCmD80+qCrpWSnbt2h+57U48u6GDNNZKzQR5mQrZ8SCGQT43wpiRFR3tESGoVy6C18hh2JhoK+L3d/xe5SmVYuQk=;UJLTrvnHRemkHuWBpNX44A=="
 ---

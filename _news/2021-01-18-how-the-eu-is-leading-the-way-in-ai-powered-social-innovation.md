@@ -46,17 +46,6 @@ related:
         width: 1200
         height: 831
         isCached: true
-  - title: "How AI Will Be Pushed to the Very Edge"
-    excerpt: "Driving AI out to edge computing platforms where data is being collected and processed in real time is a major challenge. The race to push deployment of artificial intelligence (AI) models beyond the network edge is officially on."
-    publishedDateTime: 2021-01-15T14:07:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/it-unmasked/how-ai-will-be-pushed-to-the-very-edge.html"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
   - title: "How will $1 million in artificial intelligence research impact Florida industry?"
     excerpt: "The University of Florida announced a $1 million investment into artificial intelligence. Twenty faculty teams will study wide-ranging uses on data analysis in a range of fields from agriculture to education."
     publishedDateTime: 2021-01-19T19:00:00Z

@@ -125,22 +125,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook AI Now Better Describe Photos For Visually Impaired"
-    excerpt: "Facebook has announced new improvements in its artificial intelligence (AI) technology to generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users."
-    publishedDateTime: 2021-01-20T04:44:00Z
-    webUrl: "https://odishatv.in/science/facebook-ai-now-better-describe-photos-for-visually-impaired-510892"
-    ampWebUrl: "https://odishatv.in/science/facebook-ai-now-better-describe-photos-for-visually-impaired-510892/amp"
-    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/science/facebook-ai-now-better-describe-photos-for-visually-impaired-510892/amp"
-    type: article
-    provider:
-      name: Odisha TV
-      domain: odishatv.in
-    quality: 59
-    images:
-      - url: "https://img.odishatv.in/wp-content/uploads/2021/01/Facebook-News.jpg"
-        width: 750
-        height: 430
-        isCached: true
   - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
     excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."
     publishedDateTime: 2021-01-15T21:27:00Z
@@ -199,6 +183,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Facebook AI now better describe photos for visually impaired"
+    excerpt: "Facebook has announced new improvements in its artificial intelligence (AI) technology to generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users. Way back in 2016,"
+    publishedDateTime: 2021-01-20T05:29:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/facebook-ai-now-better-describe-photos-for-visually-impaired.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 19
 
 secured: "85MkySyJGKPvv0n0NFVmDRSuIDTk5a002OZ43uSaxY+nyGtoMkgBhLZq3BERRr7oswkcuqx9uzKE6PHhfnq77QiV4B0MjxE3U+Q5wouhn5kdGfGEUPmvWuhW9Gjs7c2uQ7bif83eb2oS2T9K6sMhWVlN1f173OPYx7WS9S8YwqpdoumQvmS+z+RDxhxwzv5lGJx8NuSMCZ78jWd+CkU7eYD1urNhN7zMB/eFk+iH2rRIv0JohAHSPqR3vV24aprhl5qh7JT6YC6LrsyEXKpS2EhcBMPIOaV/1G3+O/815kjWWJkP5r93sOw4uSQISP4DmwwdRGjp7fmeMVes4Ru3AFG9Rt3LxbJ1huD8B4OqR1eV+gIsItJ235vjV/kdRSLlJ3EbbYKylRxuMhU+LoQ05DXEe/C5lfqV9TxsQMx4nHhFE4S+XlMj8FXzCk7XUuP29wSalHlf1Fx2PrtHI4YiDyBDzYLJ6zrUJx2PFXMHJfTJ1B2SQFtN9DUXz4j2uk8oynIgq0s12XEi57tFi//hkg==;MHkpU5rx3xM7Oltn6zRsJQ=="
 ---

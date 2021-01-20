@@ -25,6 +25,17 @@ images:
     height: 380
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Healthcare Market Is Booming Worldwide (2021-2030) With COVID-19 Updates | IBM Corporation, Intel Corporation"
+    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News Online |"
+    publishedDateTime: 2021-01-20T05:23:00Z
+    webUrl: "https://eturbonews.com/2638085/artificial-intelligence-in-healthcare-market-is-booming-worldwide-2021-2030-with-covid-19-updates-ibm-corporation-intel-corporation/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 1
+
 secured: "VOETOLiLmtTs6+qBw2RV9LylZPrK05qRLU/+kjAp48ImWlG3f/31W8ASBh5VFDPNAdhsPtkDlXqFIlYmbWkEKdeDl25arLZtgZkcADd8Al9LfxyglDZOYgk1tOZ1XpUmjcPMzTCx475e9KingeDBl0YVq0SbB0Ub3KO9AQOq77wEHPfCFZpuzf72L34X3UO/gIEi+CmCTHdEtBdBZEJrhitITSvTYoSqMv+dJipQ3HAmWMC+oHBNbPizT5Oi9TRM8dzOal0zDpBp+GU0PV655SynDjt0XNUVVThe2QUypo81MelUquQwPe8LB4l1lQckbnnivbUXOgFpaJjTwraVlkEypj+x56g/Nrv6+3Ppo0eTglREnbI8ijqbI/j3Pirm84KPwpZClh5UcdlTJVt0HedtBNlqJddcMFHgMLYclcwx9akg4qyxIjPHURMNzHERqJHsvhTe3so9JY3taFsBAk4H0XdY0XAgG162CNE2iNGaaxVMeErRnN6DHrLTm1o7rIEx6jCXJPgbQoQCgr/KhQ==;C/mCS8zUDdTr3iL9iHu1zg=="
 ---
 

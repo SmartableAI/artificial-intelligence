@@ -3,8 +3,8 @@ category: news
 title: "CES 2021 Rethinking Virtual Learning with Taiwanese Startup FlyingCrazyer's AI Evaluation System"
 excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall"
 publishedDateTime: 2021-01-18T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 300
     isCached: true
 
-secured: "lkTZAuIrIyv9nW+eoJmn7xOkAhTcaUVDit5F99T8JO4Igch94Cek6SUhXCS6FmAf5myK7NyfLbZn0Hp3cdvNRs86ZWxX0G3iEib6TQVIfcLgL5nOMySztyopKvhxBGk55dBSoLo8W0lFikydzdg0NV64GnsPrxjSpXRJup38HEFDfA09bnAD6xmJTi1u2xIpQQ8IeT83OqhAk0PY+PHf2YNWplmIjPAAQ143k9qbK6R3Af2cidPAyzZKP7OWUAPVIL2MKo15PCAacpVfN0qDMnLlsZeJgZvcwhEKXoT7loxJTxp2UapDPckuls2Gie4nfnFL4IJnDkYiGUouFTXfiIRAHQMg7iFa4qMbXDOxl4wKQaBpsa5vzJ4Z2aNDvLIY3sJmR3u6CCR1nB/V6Y/Vnvjw8bTQ3LC8ihhZMPEpLiO4JTY3rJRuAtC55ZwayGRl8A//tlpTF3Lsi44FAHibeajUUT83QMO8zhhsEX+qciiFz65p4MDI9Fr3rLFFZwjFHjb/jxvcX/h0lWgPV+VAOQ==;MGxwkzXiLyIFYMRcEr/Uvg=="
+secured: "PACd56TRSl6f89wFdrsIhA90JKWxHh5aOlyPeFd6MQ2/fSKiaDqH2e5/DUZjTwgI9umO+Elisv6mw+Y8GnFi+peFbDjlx+5Aypl6OH3KCXbX9I6A1E6FbpQau9s6+asQgtsqLt92chZK9oJC/BFJ8CHRwo2OWLVjnu1IwADEfRX66NodvGTo+4WdBb+yysuXFP+mGHz1UUOM+0ORAN5iEJvIlzrlanBrZ1Q+q3/xhhI5tlm+Zk+K8dmFeXtN60+iECSfdmksI9NOKqAgo6lk5h7AqYfOHqZFPTApzO91bjtUKls3lMcmRXTTpqRyzhBaRZ2aWQe07u7UIyOxH5cBjV0KRDvB5YT0SVP6d77G9Hk=;UzPzzXPFQOBOJP9dzEsmRQ=="
 ---
 

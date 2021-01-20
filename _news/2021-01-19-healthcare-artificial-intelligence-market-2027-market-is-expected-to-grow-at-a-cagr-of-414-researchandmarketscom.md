@@ -25,70 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Change Healthcare Research: AI to Become Widespread in Hospital Revenue Cycle by 2023"
-    excerpt: "AI use accelerating as early adopters reap benefits, but not everyone is on board Business Wi"
-    publishedDateTime: 2021-01-20T04:11:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-01-19/change-healthcare-research-ai-to-become-widespread-in-hospital-revenue-cycle-by-2023"
+  - title: "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data"
+    excerpt: "CAGR of 43.6%, Market Trends -Drug development for COVID-19. The global artificial intelligence (AI) in healthcare market is forecast to reach a market size of USD 61.59 Billion by 2027 and register a significantly high CAGR,"
+    publishedDateTime: 2021-01-19T10:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data-2021-01-19"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 77
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Research: Higher robot densities linked to increased productivity"
-    excerpt: "Research has found a link between higher densities of robots in a population and increased levels of productivity."
-    publishedDateTime: 2021-01-20T03:58:00Z
-    webUrl: "https://iottechnews.com/news/2021/jan/19/research-higher-robot-densities-linked-increased-productivity/"
+  - title: "Artificial Intelligence (AI) Consulting Market Future Demands, Companies, Trends, Share and Size Forecast 2021-2027"
+    excerpt: "According to ReportsnReports study over the next 5 years the Artificial Intelligence AI Consulting Industry will register a xx CAGR in terms of revenue the global market size will reach xx Million USD by 2026 from xx Million USD in"
+    publishedDateTime: 2021-01-18T15:00:00Z
+    webUrl: "https://www.openpr.com/news/2226696/artificial-intelligence-ai-consulting-market-future"
+    ampWebUrl: "https://www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
     type: article
     provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 39
+      name: openpr.com
+      domain: openpr.com
+    quality: 50
     images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/01/higher-robot-densities-productivity-research-gdp-uk-iot-internet-of-things-iiot-manufacturing-study.jpg"
-        width: 2394
-        height: 1588
-        isCached: true
-  - title: "Change Healthcare Research: AI to Become Widespread in Hospital Revenue Cycle by 2023"
-    excerpt: "NASHVILLE, Tenn.--(BUSINESS WIRE)--Artificial Intelligence (AI) will transform the way doctors, hospitals, and healthcare systems identify, collect, and manage their revenue cycle over the next three years as healthcare organizations evolve from day-to-day use to strategic integration within their systems,"
-    publishedDateTime: 2021-01-19T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005151/en/Change-Healthcare-Research-AI-to-Become-Widespread-in-Hospital-Revenue-Cycle-by-2023"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-  - title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
-    excerpt: "The \"Growth Opportunities in AI, Threat Intelligence and SCA Tools\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions"
-    publishedDateTime: 2021-01-18T11:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19603929.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 25
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
-    excerpt: "The “Growth Opportunities in AI, Threat Intelligence and SCA Tools” report has been added to ResearchAndMarkets.com’s offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions powered by artificial intelligence,"
-    publishedDateTime: 2021-01-19T05:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-computer-and-data-security-e695bd4f294b415892e3ade53bd1a345"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.openpr.com/U/1/U118912294_g.jpg"
+        width: 560
+        height: 315
         isCached: true
   - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
     excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
@@ -99,6 +64,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 9
+  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com | Morningstar"
+    excerpt: "ResearchAndMarkets.com The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+    publishedDateTime: 2021-01-18T14:18:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210118005340/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
 
 secured: "0dC0xQ94fxXsU/qbd5VjMK77KRneXTOjTkR0mi24TnbLcskNXdX0eS+pNloBVjVYm+QpFvFiFIi3lbzSGNXBhlBc5cMzXDB1mmf9gkuahbbXtNHxeqD7RqVsJKyr5MwGHofqd2m5M++sObzJMWRW2f8nMKkQ9pfIWrqmGjwlDtsipmu+MgpcSj3lLFUgqJTrcrCdnQ9q3mYpdfowXxqVfAqogp62/zW85Q61JdxEwQTBMbA7tlyvMfNOQ/xVKqpRKQ9OJCQ0nqnDl+MjFtHQClbtCjsbbCmjpBx9WLZmRcJrlfkJ/zprAPjLerENkWWoAvI9YE/6N6m9Vx7XbJCDl8zXe+8DvUGv/Ro8AxzjEHY=;SrQnzcuR/Pm4Z/D3C8/bmA=="
 ---

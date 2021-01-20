@@ -21,22 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Three Ways Brands Can Win The Buy Box Using Search And AI"
-    excerpt: "AI makes it possible for these marketplaces to do predictive analysis of massive datasets to understand consumer/shopper behavior. Algorithms power almost every aspect of e-commerce for brands and the consumers they serve: discovery (search),"
-    publishedDateTime: 2021-01-15T14:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/"
+  - title: "DeepMind's New AI Can Destroy You In Games Without Knowing The Rules"
+    excerpt: "Following their massive success in uncovering predicting protein folding in 2020, Google’s DeepMind has now released another AI that is less about solving complex biological problems, and more about dominating it’s opponents in strategy games ..."
+    publishedDateTime: 2021-01-18T16:51:00Z
+    webUrl: "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
+    ampWebUrl: "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: IFLScience
+      domain: iflscience.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F107429982%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.iflscience.com/images/2080a3f8-6b4f-54c6-b158-ffe681d97cbc/default-1610976793-ms-pac-man-in-an-arcade.jpg"
+        width: 720
+        height: 405
         isCached: true
+  - title: "The 21 smartest AI scientists working at Google DeepMind"
+    excerpt: "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ..."
+    publishedDateTime: 2021-01-16T09:44:00Z
+    webUrl: "https://businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 34
 
 secured: "CQ6Hyp7qCNEgr76FSi1aCF4WimrQSEfLXkawjjHho+fGlIahy8gbFicI2fBZRTkkL1430jAn1fmZof5ru3Tbw8SKThNLNWbg+KCC2sNdeGcBfDLpt1q0hC7e/6AaMauf3X23eJUocCK5wANuIW8cLu+KMNedrsuuWBT0buqhhkfCt4uIPNxvGVpe2itYPAogSCTfJ+qlZPVOc2JyXqnSYE02vGQ2trXOGGG1KnH7QuSpEtfX6MXfFi4BHJQs0dI/QdB/hOPHN3mJZQncNSFlMHp7KpuKI/XKHAHbQ1I8Jxt0QOMljpDBjKMP0FH8uBDwO/IHthgGdcqqD4WgJRMba8Z+X9NFnnAKsa6dGRIaENsItR9+gCtbzwHqb08vGr9urWgouWk3F8vdecQI8YRWPzALOS51RiD0X8/jMSk07D1sW7gM/XRHOGs+EhzMc8CQGER7iBH/Z1b4jnB9j8bzzvvOqGd1/hw2cRNlhpgjw7wtiPGwGbwROEz1YSopkNgPlC2dfFovRw5S5Y+bY+VuzQ==;cj9UBs4onDSLJ/W3mnZM9Q=="
 ---

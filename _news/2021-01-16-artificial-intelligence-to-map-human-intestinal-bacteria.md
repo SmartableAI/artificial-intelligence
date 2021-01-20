@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Artificial Intelligence to map human Intestinal Bacteria"
-    excerpt: "The intestines and their bacteria are sometimes called our 'second brain', but studying these bacteria in their natural environment is difficult. Now researchers have developed a method that uses artificial intelligence to map intestinal bacteria using feces."
-    publishedDateTime: 2021-01-15T15:57:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210115/3691678.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "CCExTgvLwdoYe8jOLp0RuraZtdHJBUB1uBJIl2cSO23/NgfTT3gQHEWhyKLwx1h45ZWyRfVlsVjG7GZsat8kDMHmamMpf7zlKNrdtcK0KO967uHf3b+huU50qauMly7w25rjkK+vlos8rxpAAlxrzC21WBuZSfk339HJFw8bjuj2hmno0TPz/jmxdB2PcL5hfySD8dAuyQezp+C23nSxEhAeYiv2ZMFGh7At8GK4DOPtSlWs2cRwkcB7saY5YKvtvEf8E+bGlZq7wAk/aOIDBpT8/vs72l7AZeLRwVAglXRPBxbqTYG58Tj4cKZpRsYykBaKEorKEp+HOXm+lK5P90/oD0EJ+KrbrN9ZqtM3QbQdb9gz8gks9xRoPLJvA5tm9FqKycXcWNtcMFDfrVk5Xjl1yOt2w8Dyc0z2qg1F4nMwDWHtalptql+1tHIJkMsu6r9FHXRRFUTMkXMUEQiKv4TY/GuKitVKZzo2J8yW4SbmraViMiqtdxX+K95AP52QcmLuxF/pYqslijdpedv7iw==;VvvY/trQqTzFyViI8YaK0g=="
 ---
