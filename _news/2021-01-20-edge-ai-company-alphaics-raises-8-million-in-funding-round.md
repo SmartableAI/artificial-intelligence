@@ -24,6 +24,22 @@ images:
     height: 420
     isCached: true
 
-secured: "xpLIl8CFjoZLYrldTwvj8Ltf7Zyukhd1KgzJaY4RZmKKCpKgNTRhSKskbu5DmYTml84tORvIZ/Hozk90ow6VA+V/c7DkMaSa21ExqOD59fY5/uO8w+x13SQ4ENwkHI2w3yRRIXelrftqub+2SKkaSdm32iSX2hs5Osf3oJluW/i2tItkzl5VUhbbrblFtgai0NS9JYaZbCHTAvhrSL3HmpjFm2IIR0sLSoyjw6GXXBB7v2P4fD5fynpE6LBFvAn+ApQHUizQBVmpIGgTtA3G/n2RX8f3KlgpXH6EGLJks8ScDVGBvRxCnrYZOnTgDxJi01IvXDqQ2D/SQGfw4RsFegaixLVe4OziW3b+HM3QqBk=;D8/XeqjLTdHVVXXqzwFyRQ=="
+related:
+  - title: "Edge AI Company AlphaICs Raises $8 Million In Series B"
+    excerpt: "Edge AI technology company from Bangalore, AlphaICs announced today that it has secured $8 million funding in a Series B round."
+    publishedDateTime: 2021-01-20T10:58:00Z
+    webUrl: "https://analyticsindiamag.com/edge-ai-company-alphaics-raises-8-million-in-series-b/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/Prashant-Trivedi-VP-Business-Development-Co-founder-AlphaICs.jpg"
+        width: 1220
+        height: 915
+        isCached: true
+
+secured: "fEmFdv/YUBe0Klq9VybIfpSgswt93yOCgNOht6wK2o/vlcdhi0ByJYb6XH5c6iouJ/mbqE0rZGC6lLjdwjtAIHn/k0uPhlFB9ewN2y5SNd6JSZpU44cRNxk5A7mNrIP/5biHK0NXjdPXj80/fgVi5c7DGt3u/K93jQxntkCTpVy+cV5N/qVW0xris4i0t26qz6UQiappUUXMqaB8ZibqFRbYC+smRn1H0soyvmwtfaoNzS++PCEkeNAIOd7GYY06ylHu94AWbnJJl4NJFy2D6sA4jSjiTCbHfo4T3qCHnzpUU8BH2JENnHUZ6gF9lZpmSpEIvc2wm4bJ5ni/Fh3vSbXrGzf/UU+mh+F5fzdEOxwNrm5XKRioA1xhv7NWosOS1zzGjirzZC7KcqDxXEV5VskP918O/zA6QswjszOUw9lVOXXwov8Q+0lA8WfjGVeeOiXcy62k4YabN4+L6J4sCHx9H1l+BBq3vUh6Q6iOHEEYgw96Ijyn/1htUM3QSJGLHiF/YJXBskwDGJba6l1xmw==;gs6xrzg4nfg3rs0MZEuGOQ=="
 ---
 

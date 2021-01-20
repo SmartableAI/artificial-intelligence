@@ -1,26 +1,26 @@
 ---
 category: news
 title: "MSBAI GURU Shows the Elements of Artificial Intelligence"
-excerpt: "GURU by MSBAI present-day restricted Artificial Intelligence might be ... in 2009 Google demonstrated its self-driving Toyota Prius could finish more than 10 excursions of 100 miles each, showing ..."
-publishedDateTime: 2021-01-02T05:48:00Z
-originalUrl: "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence"
-webUrl: "https://menafn.com/1101372033/MSBAI-GURU-Shows-the-Elements-of-Artificial-Intelligence"
+excerpt: "GURU by MSBAI present-day restricted Artificial Intelligence might be restricted to performing ... showing society away towards driverless vehicles. To win the show, Watson utilized regular language preparing and examination on huge storehouses of ..."
+publishedDateTime: 2021-01-02T06:03:00Z
+originalUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
+webUrl: "https://ipsnews.net/business/2021/01/02/msbai-guru-shows-the-elements-of-artificial-intelligence/"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Inter Press Service
+  domain: ipsnews.net
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-01/01/i_ea46ada3-8_Image_In_Body.jpg"
+  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/01/2.jpg"
     width: 744
     height: 389
     isCached: true
 
-secured: "SmoUq6QMgTMlEx6ZsBQ0AsnwYbFh+eUv9yZ20vkwRF+Std+lK3OQrczb16rcwzurnBINghjX00SZqDlP4RnpIeIS70iFyHUapYSGIAcTnAjHo9+ny4VegLwB+rkuFRGlVD0GxxUL6LzyDMkUpJ7M/bQk9EVR7d5G3YUxmRf38uWzVq5iaZrn9dvTVGUsFSxBmQw7/ArjWxhf2UxtaGNqwCfBzY1cI1FMvDyOzhL83h2P5iemr38zERTz4/ep24Yjm5OVVhojEtiw26VUBo9++zxHw1uteZ3GspAJFZPmWdz9VHz6y7cFM4ptj8kHFWArEncY8kbmn2ybmWmoS3KptprjiE+c6WPPnyTA371UTho=;kWKewAcWfklWU9iEPztwLQ=="
+secured: "1Dp+KaEzuRTlB0j53LjGFzvFGtSShXhB6EAzW+sEkgGnETmqaRJwItOgsMFzviaIKBZ2u2rp9NzlKI9ry9wTtL0oY7z1NbLw6/GRfPmSXwLbLrIjpKACdyHb4t8e1VtMl2NWnD0bLzBsXy/0va6b8gLVlXE3RG5PJcBGnanKF9JykA3IaOSdDHkHJn6EGIyNJGqSn/RUCaCfhIgH3ajbAyi2tIZn6VJlhVqIpbsygkgI7CcFSvEc8gD8cgkpAHKRgmq97tWeujAeAmuS4j6R61v1tP8gjjpHlIVh0f3k0ew+DBFfVOq+FkxgACz1Sn1Z6l13mU3FiBuSEE3Ie1Xc99/NWdt5mCthANvzNChsDxk=;x2U0OXbI/7UIcTq8huq85A=="
 ---
 

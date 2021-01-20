@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition and New Contract in Maryland"
-excerpt: "Reliq Health Technologies Inc. (\"Reliq\" or the \"Company\"), a rapidly growing global telemedicine company that develops innovative Virtual Care solutions for the multi-billion dollar Healthcare market,"
-publishedDateTime: 2021-01-20T08:59:00Z
-originalUrl: "https://www.lelezard.com/en/news-19607825.html"
-webUrl: "https://www.lelezard.com/en/news-19607825.html"
+excerpt: "(GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT or OTC:RQHTF or WKN:A2AJTB) (“ Reliq ” or the “ Company ”), a rapidly growing global telemedicine company that develops innovative Virtual Care solutions for the multi-billion dollar Healthcare market,"
+publishedDateTime: 2021-01-20T08:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland-1029984922"
+webUrl: "https://markets.businessinsider.com/news/stocks/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland-1029984922"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Reliq-Health-Technologies-Inc-Announces-Launch-of-Multilingual-Interactive-Voice-Recognition-and-New-Contract-in-Maryland-1029984922"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Reliq-Health-Technologies-Inc-Announces-Launch-of-Multilingual-Interactive-Voice-Recognition-and-New-Contract-in-Maryland-1029984922"
 type: article
-quality: 0
-heat: -1
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition ..."
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "y88bNBTeVkxPzmXWaY1+ruZt5jUKfEGVHYNUXr8eaF0RJrRJeQwWjQYrD2TZ3kCM1dV1J2bnnz/AI0iGNmHIHOzKmXwmOuQL3JAWBZ7Yq2zQGV1OWsyRcRrgjmz+EInuURHhLomDiqKbBvV12IsGRZuSvKOlhU8CfVFYTUx2h6Czp/HEQeilYX3T2Hxyp/Ky/Let9DfAJN3qkKnNeFXqZOLcwU24QXr/CigBA0YE26JJ3i3A+eNAYqayOOlHHqzTMcHnfsg7vKOHLAypouHWNQQQXXffRnUoU5di+WNSYcnHeJQ/RujvNXB4v7IpE4CItKscSi9ZxUm9GIYqZzfF653IgFX1ANX3INpQq6X+Rjg=;uZmfuMEgfBoMRo0mgloUng=="
+secured: "JCSfx18kSqJtUl6Ix0ijLaxjTbDGtt5fgttCFbRLkeIIgJMWY4HA0vGHDySgzIgoMO4zWkFBoEXJ3eCFCrfOjw2YRAJF0autkp6jRW9VH0KVHD4Zn6UBGZ+Trej8gAB21TLqUn1+atysVl6+cf/rMhIFSVippFwpUydqFNxW54kRUuQcIza8vSE2t07sAt4KNFT3dI2kCdPvpzPmPdlZwqDC/4LapzvkveOa7fzLkHu+DCfVGG0ojbc/bciNUPF6VPuqAuXQPVGht+IDjRFfg0oiDWzAbC+WlDi8VNvhaJpcbh4Phn0uzCEU6ArfMlB4MGZQcv4C/J60i7GLh6innNFsl/I4BJX+iTeTcFAC7n4=;z2nyZixd4ILSauMMe/j9PA=="
 ---
 

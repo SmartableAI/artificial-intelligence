@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems – Jaweb"
-    excerpt: "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide if reviewers,"
-    publishedDateTime: 2021-01-15T17:37:00Z
-    webUrl: "https://elmoudjaweb.com/microsofts-new-settings-let-users-contribute-recordings-to-improve-its-speech-recognition-systems-jaweb/"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 38
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Microsofts-new-settings-let-users-contribute-recordings-to-improve-its.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "2sha7nsLDW8nIoN29lpfi/QDajn0FstMxE2nyw7iNKQphPUb9+ppGyc3JG3VXvMc3kQzQrljS/KaPdMGtM0yoXrzqEjopDZq9XnTrhk1ZcKKPKCIWfozwFDAOFRF9SYjQnvdliLDSE86eZuzyc9hAY1UZA62bQPyFcIC9iqgO9ZzvvOyrQQMC0erBOwX9jfaqgfPZ3IzY+CwDouJpnqPSxKvXUQhY3DUtXYAHiHPcwEi7Taa269jjnr4Nf621fiPjvZl8UdzWE7R3ZNjd6xcZ6CUOVtP8RhdfvFgzt3bF71vVbvy/gWmmbXqrjbnuHoI8Y6CAS2lt3oljppPIkbXinO/sJzI6d6RED2RSb7CVZFyYZBVd+ERXbaPGUZfO3tZO7sCpwQmXUjBXEaREmGu2F0ZUTStzAQKH07eRNH1qujOBybjVtz4P5Z3qUZzko+68B/XY22vglyQzHfQrECWhrEwsHAKxgXuq2gvxhivimrdumT8fm9wHsWYTLwiBQd3IXc2zhZ96suCo9F8YOkzgw==;hx+UtBNgKgI29KdSf3BHJA=="
 ---

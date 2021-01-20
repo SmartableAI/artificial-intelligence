@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Entrepreneur wants to change how we shop using facial recognition"
-    excerpt: "Grand Rapids-based Iris Technology wants to use its technology to replace bar codes The system would use facial recognition software and computer vision technology to replace scanning, checkout Co-founder James Meeks intends to demonstrate the technology to large grocery retailers Some startups have modest goals: they just want to carve out a niche for themselves and make a profit on the margins."
-    publishedDateTime: 2021-01-17T05:04:00Z
-    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/entrepreneur-wants-change-how-we-shop-using-facial-recognition"
+  - title: "China expands use of facial recognition ATMs to combat gambling crime"
+    excerpt: "Facial recognition will allegedly help authorities reduce crime, as well as prevent individuals from allowing non-cardholders to use their cards to transfer potentially illicit funds. This isn’t the first time that the area has seen ATM s with facial recognition capabilities,"
+    publishedDateTime: 2021-01-20T09:31:00Z
+    webUrl: "https://calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/"
+    ampWebUrl: "https://calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/amp/"
+    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2021/01/20/business/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime/amp/"
     type: article
     provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 39
+      name: CalvinAyre
+      domain: calvinayre.com
+    quality: 59
     images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/James%20and%20David%20IRIS-main_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://calvinayre.com/wp-content/uploads/2021/01/china-expands-use-of-facial-recognition-atms-to-combat-gambling-crime-1-e1611134859445.jpg"
+        width: 500
+        height: 281
         isCached: true
-  - title: "MAHB to roll out facial recognition for passenger authentication, replacing boarding passes"
-    excerpt: "Malaysia Airports Holdings Bhd (MAHB) said today the group is rolling out the first phase of the \"Single Token Journey\" under its Airports 4.0 initiatives, where facial recognition will replace physical travel documents such as airline tickets and boarding passes for faster and safer passenger authentication at the Kuala Lumpur International Airport (KLIA)."
-    publishedDateTime: 2021-01-18T08:28:00Z
-    webUrl: "https://www.theedgemarkets.com/article/mahb-roll-out-facial-recognition-passenger-authentication-replacing-boarding-passes"
+  - title: "Rise of the Machines: Facial Recognition Technology Heralds Upswing in Litigation"
+    excerpt: "As the facial recognition industry faces hostile regulations, claims of racial bias and growing public mistrust, more suits over the fledgling technology are expected."
+    publishedDateTime: 2021-01-15T21:11:00Z
+    webUrl: "https://www.law.com/njlawjournal/2021/01/15/rise-of-the-machines-facial-recognition-technology-heralds-upswing-in-litigation/"
     type: article
     provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 29
+      name: Law
+      domain: law.com
+    quality: 34
     images:
-      - url: "https://assets.theedgemarkets.com/MAHB-2_20200928161859_malaysiaairports.com_.my__3.jpg?As6YzEYd0NIf3.vPreRPh5_ENOOkT8QK"
-        width: 1200
-        height: 800
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2021/01/Facial-Recognition-Software-Article-202101151327.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "b/V6zAJBHxaAfGSlDiJn042Vf3Pkb+r3m8/dfBErQVfY5W9HOwYmJ+ne7O+k7XQ+DK2eS6FjnogM1wOMOUDm4tgIpJZKTl6EQM/CGVEa+rzvTG1HJhi6DwpBMcssurqfSnQwTQ414/ifIycizyQTYLG/8mMbDsyRie2Uq0ljwUxuHQ70szMS/ye3l1cdUrSJSdSpyk2M4AoWQTx1Heyd1PF95DEjPHxc8wZLfz1PJ6oqZHrFlU6Bl6wM/3EhVctXccjDrsgnb8QyX5j5eJuq79iqpjoQu4/jgmPaETsnzgKYyu+lnglO8ttpslC6gD12dPepmI2T7oImsov2mpA/NO1/Z9MfsY6UAm+8Jd3giyU=;Qt54g2aEqyy0rDOLHDk5ig=="

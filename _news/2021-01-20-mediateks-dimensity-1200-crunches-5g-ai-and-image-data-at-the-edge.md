@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches-5g
 ampWebUrl: "https://venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches-5g-ai-and-image-data-at-the-edge/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/mediateks-dimensity-1200-crunches-5g-ai-and-image-data-at-the-edge/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/dimensity1211.jpg?w=1200&strip=all"
@@ -51,6 +52,6 @@ related:
       domain: talkandroid.com
     quality: 1
 
-secured: "NJD812lKoAitk+PCTjHlTGpJ5fRUB3+wGvuslmbTuiHvQj18OiboYWuE3WvIbclAGUIbg57/oFpZbQpKW1fwJ+JlfYyYw+Cl/gCJEIu4F9KgtWzvaBlpHzPcS5lEI3GGuVzB2ZGxsuwf27GmkR3FGKs2WqL8IIBsVMgK3QIwOrgm2Xy7g2ATYkrkAqTGNOKQfbvSs2px4EEbXEkQIgBPsGwtj7uWb75ObyN+TBjkux6Eknm4pe3F9UhSXF2leFYJgVslXqFXvyVhPejBu4T9s4jOEXb+pfCYH/p1GIFHj8Ufi94Y729sTvoeqpYc4JdDcxecjJSmjPKX1aQdTDoyCEEgcRabALlmcWPw6pBYKmI=;+Ebtjv7rpc4lVbsAUpEhQA=="
+secured: "8k5ivgXClqpNTexPMQWLfy1U96RMJN/22omEPKMBq3m1J+9nazs9kKsY3hkgWU2g2oLD8UitGwSl8DzaO/NwwksvQPtK7xnfAPR1s4zedGR5KqjuCiWwGs1S12O1Ah8HVB+4DJzY99k5r5p1A1YLQGByDlQKZHlt7vLH0RvYwo3yl9eym8Co0AvEAHFWFX+tva7RNkR0TNuJZWGtObj0+FzzXW39ntFBDWR8IZo1SZv+YPmeRXrO8Bl9OpABjtsjcl+VvMJoXu9ycxwPSX4VBAE82x5kpqUScuOkGBRq2cd5SZVCEl3ker0pyc8iFrCAC5ajC4GoIrXcQo6m33NNP+dTr11miojADCiYXcCNusnvB3RwMZZpjh6Ye9jdTkdIw6QAIzD+c/znz0Bff6yeoyLRV8oSGK7kJolAiRntbJNwSqz2rLJFq8BpmLxROD5Lw8OZCUs230bskkvxhtSVu9VUpNgNJ0KaaXW/mmBgahnad7Jpf3fS98B4GOl8fhzv7e0ulyMsWUEzAzRg9fJt5A==;b/T7bTPDT7yd4gI175Kmew=="
 ---
 

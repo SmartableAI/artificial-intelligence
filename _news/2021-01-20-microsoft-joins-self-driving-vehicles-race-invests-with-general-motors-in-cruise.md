@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 704
         isCached: true
-  - title: "Microsoft’s new settings let users contribute voice clips to improve its speech recognition systems"
-    excerpt: "Microsoft's new settings allow users to contribute voice clips that'll be used to improve the company's AI speech technologies."
-    publishedDateTime: 2021-01-15T17:21:00Z
-    webUrl: "https://venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/"
-    ampWebUrl: "https://venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 92
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft invests in General Motors' self-driving subsidiary Cruise"
     excerpt: "Microsoft is touting GM and its autonomous vehicle subsidiary Cruise as adopting Azure as their 'preferred' cloud provider."
     publishedDateTime: 2021-01-19T06:40:00Z
@@ -134,6 +118,22 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero.jpg"
         width: 1280
         height: 800
+        isCached: true
+  - title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
+    publishedDateTime: 2021-01-20T00:25:00Z
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idCAKBN29O1MO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29O1MO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29O1MO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 91
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548348568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I0YQ"
+        width: 817
+        height: 545
         isCached: true
   - title: "Microsoft backs General Motors' Cruise Automation self-driving car venture"
     excerpt: "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,"
@@ -261,20 +261,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
-    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
-    publishedDateTime: 2021-01-20T00:25:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "GM Jumps as Microsoft Joins $2 Billion Self-Driving Venture"
     excerpt: "General Motors Co. and Microsoft Corp. are leading a $2 billion investment round in self-driving car startup Cruise LLC in a deal that will bring the software giant’s cloud and edge-computing capabilities to the venture."
     publishedDateTime: 2021-01-19T16:27:00Z
@@ -341,22 +327,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft finally gives you control over your voice clips"
-    excerpt: "Microsoft will give people an informed choice with what happens to voice clips when using Microsoft services. Microsoft came under fire in 2019 when it reported that contractors and employees listened to voice clips."
-    publishedDateTime: 2021-01-15T18:59:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-finally-gives-you-control-over-your-voice-clips?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 61
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/cortana-logo-microsoft.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "GM, Cruise to partner with Microsoft for self-driving vehicles"
     excerpt: "General Motors Co. and its autonomous partner Cruise LLC have entered a long-term strategic relationship with Microsoft Corp."
@@ -689,6 +659,20 @@ related:
     quality: 37
     images:
       - url: "https://s3-prod.crainsdetroit.com/styles/800x600/s3/Cruise%20car%20in%20San%20Francisco%20streets.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "GM, Microsoft lead $2 billion in funding for Cruise, team up on technology"
+    excerpt: "General Motors and Microsoft are leading a $2 billion investment round in self-driving car startup Cruise in a deal that will bring the software giant’s cloud and edge-computing capabilities to the venture."
+    publishedDateTime: 2021-01-20T09:04:00Z
+    webUrl: "https://europe.autonews.com/automakers/gm-microsoft-lead-2-billion-funding-cruise-team-technology"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/RTX3KCD1.jpg"
         width: 800
         height: 600
         isCached: true

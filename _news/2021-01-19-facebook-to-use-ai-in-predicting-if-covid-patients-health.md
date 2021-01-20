@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "Facebook claims its AI can anticipate COVID-19 outcomes using X-rays"
-    excerpt: "Researchers at Facebook and NYU trained a machine learning model to predict when COVID-19 patients' condition might deteriorate."
-    publishedDateTime: 2021-01-15T17:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/"
-    ampWebUrl: "https://venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/facebook-claims-its-ai-can-anticipate-covid-19-outcomes-using-x-rays/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook enhances AI used to describe photos for visually impaired users"
     excerpt: "Facebook has announced new improvements to its artificial intelligence (AI) technology that is used to generate descriptions of photos posted on the social network for visually impaired users. The technology,"
     publishedDateTime: 2021-01-20T03:09:00Z
@@ -120,20 +104,6 @@ related:
       - url: "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "New self-supervised AI models scan X-rays to predict prognosis of COVID-19 patients"
-    excerpt: "Researchers from Facebook and NYU Langone Health say their system forecasts COVID-19 mortality more accurately than radiologists."
-    publishedDateTime: 2021-01-15T17:27:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/15/new-self-supervised-ai-models-scan-x-rays-to-predict-prognosis-of-covid-19-patients/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 61
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F01%2FUntitled-design-2021-01-15T134250.373.png&signature=16c0e1c446789121fa9cc14628059186"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Facebook, NYU Langone Health Use AI to Predict Health of Covid-19 Patients"
     excerpt: "Facebook’s use of machine learning to predict the types of content users are most interested in seeing in their News Feeds has been chronicled often through the years, but the social network is also working on potential ways to predict the treatment and resource needs of Covid-19 patients as part of its ongoing collaboration with NYU Langone Health’s Predictive Analytics Unit and Department of Radiology."

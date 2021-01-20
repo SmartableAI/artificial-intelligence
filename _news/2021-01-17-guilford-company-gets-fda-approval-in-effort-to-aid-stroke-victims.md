@@ -3,18 +3,16 @@ category: news
 title: "Guilford company gets FDA approval in effort to aid stroke victims"
 excerpt: "Time is of the essence in preventing brain injury following a stroke, and a Guilford-based company has received federal approval for a development that may be able to aid in that fight. Officials with U."
 publishedDateTime: 2021-01-17T13:00:00Z
-originalUrl: "https://www.nhregister.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
-webUrl: "https://www.nhregister.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
-ampWebUrl: "https://www.nhregister.com/business/amp/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
-cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/business/amp/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php"
+originalUrl: "https://www.stamfordadvocate.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php?src=sthpbusiness"
+webUrl: "https://www.stamfordadvocate.com/business/article/Guilford-company-gets-FDA-approval-in-effort-to-15875202.php?src=sthpbusiness"
 type: article
-quality: 59
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: New Haven Register
-  domain: nhregister.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI in Healthcare
@@ -42,6 +40,6 @@ related:
         height: 2048
         isCached: true
 
-secured: "PY+wKNCN4XXUnwc5OgRmmbOSBLDErO688O84p+hEfge7iPwWzNTBSLvDE2PRhy0Dmob/hvC6+XQNmPYFy2nqM/yehZi7rXmODMAx9ccYd6EtVA4lIbRV2R5XsnwI1f2sHprDbWVnEjs/GOKSpI60YycHLSE4ivsicYwEWa7Ecw+D79bhCL8qil4vLEHACvTNn9DMFOiUTxwnl1J0VBJPTy5JLDM9r8NkBwriTJRdcpP6fT74PWmOinHV/koVQwJxuRydwkq75w4yu0/SYYM323BxdkOoaZ4JuHtzmvlL4FG59E8VDbgCnun/0VVrwl8Jo8Dg90xFurmLafzmxK5PyvGenIT/kImqOvLIRNmOXNhj8dKHtwZW+F//kEMHdi+s9SxCRWrMvqymFebqwQuAE/wXkIz8DubzWmYF8a3vl9GsFDoKWC13OHC2giLS/nKiLeXt/L+o9m4GmzHSDCycPlgwtmq8PEM7BIBYzt0+13/xwVWwmhVd2M4IavHeRb4ACVwMveGv9A3c0+0pPlPkOg==;NA70p3DEqYUOtdE/ir3ZWw=="
+secured: "qMh4uhIk0gaiuPQToUEmFTGtM4bkexPDuh9WwgIG44ZppmAhQ5ASP9JpeZgy4YRHw+ndodrDc9OliM9IPo1NSOuzE10nHzNzRYNCW4h0QRn670o9sxjFUuUvv5tPK4Zv/EVfbwV+H+Y6p4RgDN+Gd0fQ9iStqoY8jKXIxt+BhioLu1FOYLcM0wLEOWOygfs/diLwcoF73xT4DiOSYD4uthzRAqm+YU41UCK13pzyhrb4y8a7esH/5GRI/f+v8iQy8Q/eeaBTTz9LbVJFlxpwijo2/f4aqILJT6x49ar26GVWy016hUCaVVGB0inMzt95ibfuteA9nc564+8YfzFBI3lM7DZjeQSdDdjtVZ6+TlU=;zzTgyNvlwpQu9llr9z0A0w=="
 ---
 

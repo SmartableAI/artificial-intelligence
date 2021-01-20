@@ -3,8 +3,8 @@ category: news
 title: "Faron Pharmaceuticals says research suggests immune-stimulating effects of its drug may be broader than first thought"
 excerpt: "Faron has been working with Kaiku Health, a data science company that uses an artificial intelligence platform to analyse patient results"
 publishedDateTime: 2021-01-20T08:55:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/938969/faron-pharmaceuticals-says-research-suggests-immune-stimulating-effects-of-its-drug-may-be-broader-than-first-thought-938969.html"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/938969/faron-pharmaceuticals-says-research-suggests-immune-stimulating-effects-of-its-drug-may-be-broader-than-first-thought-938969.html"
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/938969/"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/938969/"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/938969"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/938969"
 type: article
@@ -20,6 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "qHE5w/Mz9bwWoIRhozOFwk496FzZKo+6ZSGNJ1KB+4aySttGCVUYWH2rucpMCLSftbi8UcGkeO1TV4dhOH+ezCI52LsSGgIdDlHiDdgkQGg9YRyqtetIuK55z/6o6WpjfeEMf1iqea2BOiSMXhw4Fk5XBTLjKSoSbYSeKQZWGOX+JPiAjkIWJ8TgPiuK2n1OpTuzZje7lOGQHxYtMZAA1+iuJEwYApdL1TGgd4SRn7sqobxC0xAR85n7TRr4vmpeK+KWIFups2/F6QentShPZIZ3P+h3peaq+mUkQ08YuF+k4B5dda5znIH5l35E1GQI8lNhq3cB/4q77hL0Z2CIHgqK8xzmrgvhELsLi06jRtj51QOjJHodIOAj4tPIW5QLlkBDppi/E4eIXI91f3PCg3/4fh6qPPX8rUDFcj8clzh2bXeiA1Zkl1JjktXmSpqZrc9rR/2uxh5uPCHY1lAlJp8zf6+Y5r1GKEhwU9bSLEid2aNCz/QzmBLo/A5dbfKk217mOkS0/VpY66Fg191baw==;e/qxLDwAgx3b43d7URsngA=="
+secured: "tgRhiv1brLf0ABwCJEXIVO4dVmyIBm1QJiZBB7nNCo/h5YisWSY/rQrVsqi38mZnQMgMLtGE3MjBlM+y/v+PpZCfHvqSVoSM/wHeCaPan/HNvr10qzxybTT3utciDYF0Se824o5XSGUE/eFjI1OOSZ1dK8aSWBadZXFkpCp9T2jXdLWnxo1rhP9ityvBP3h4PfjJvGGQE9/depb/Cu18METym0bYcS8XT1wlc7qiYD9HR0DMcAdZ3aBtGx45ZkfGwxxy4Na1viX2AiDNzmb9hpdexJRkx8+Om/ig4jlSTVi5hSV10+iBnt2yzlIUekOCbFA7PI0T2M8fhm669tr09vq/An4mf7vhuwS+ngudTzC2lcMfpOZdhYC8ZGMZnUmMYxG9JUCtZ4VvO8c7ED0bwdXGNDrdWcQpcbvUVZBSbXigWaIPb8+CYRVF/geZ45g9kYY6qOKh5nllh08hdPaexBmyFondyYlrsmjCVZNLa1FWusAkB/DQjhylKlZ3Kge31/d+hmUmoFvelxKKjuj2gg==;qtyFUzB+LSlm0Au9k3E5/Q=="
 ---
 

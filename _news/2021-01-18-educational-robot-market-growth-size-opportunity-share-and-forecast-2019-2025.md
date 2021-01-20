@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market By Growth,Research Methodology, Emerging Trends and Forecast By 2025"
-    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The global natural language processing (NLP) market was valued at USD 10."
-    publishedDateTime: 2021-01-15T17:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2021-01-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
     excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
     publishedDateTime: 2021-01-20T08:13:00Z
@@ -54,6 +40,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Image Recognition Market 2020-2027 | Latest Trending Report with Analysis and Future Growth Opportunities"
+    excerpt: "The global image recognition market was valued at 17 911 million in 2017 and is projected to reach 86 001 million by 2025 growing at a CAGR of 21 8 from 2018 to 2025 The report offers key drivers that"
+    publishedDateTime: 2021-01-18T14:12:00Z
+    webUrl: "https://www.openpr.com/news/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    ampWebUrl: "https://www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+    images:
+      - url: "https://cdn.openpr.com/U/1/U118376725_g.jpg"
+        width: 500
+        height: 331
         isCached: true
   - title: "Facial Recognition Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
     excerpt: "Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security"

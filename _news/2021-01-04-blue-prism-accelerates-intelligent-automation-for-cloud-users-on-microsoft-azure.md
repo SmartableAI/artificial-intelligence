@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "EecnaxtuYt3DLND33QWYNLPeNvz2amTwNzhqQPtrL5BYvJbQDWhlLOKxmAB8hjUQf1MpWFC8vVuaXqpYpA8XWtcfpbTvTCMvTFR4HXdbdVu0HGDyEykVe/d6r3yJ1P3UoFS/wdcDjOwO4vDrUnamBBXlDSCB74kj6Nq4yX/qNX7LHj6fd9l9EQAyMwBn+WwfRRdsPHn05SVReB6v+qLIEpdwAwsBNEwKjjMT4mZ4gVMo4Ts27/sJP0etwfqGCg3ajqYSt29CejaRRH23SQ0Q3vOmLJ2Ld8TSDKy1s+26KNWLQZkhLgWCebHHvWspEkDTProetdgqKFCjIN4NjC4lk/JNkpCscMTLD3jbyv10m0k=;UU0muKgHKiD453P7MX7wow=="
+images:
+  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "U0GPAkac5CNCkF3QJKQXJQnP5yMLmrJcrSP2xsBGYNH5CYk70Ty03O4VuEmW5nMdQ78ZQxUH+kZdFvnI4fC5jtK1kvaiHVF4uZI8UnXDUGdPapyHY5hkSdxoP3IKHTbzzr7+QiV/dr6Rrujxm4+7ASkrucMybBUFMtVbpcrWT/wTKYUiXUNQ6nRDgeIhR8PV3jh84wOVNUutNpujdwseeutpa3hPSiLkBV0ju+OYz9CDR69SW04pwT6QKT4TNvNvs3c/3nuwNVUjiccyPfSk9d1gXm09714U1FGrq4rlMAggfJNoggzjOtXj2KqPCDga/dNqyUElClXx8AC6YXft9QmSLfMTGP/rvQnYgk+cALQ=;VTvOPCgy/ZYSxLd6QVn+eQ=="
 ---
 

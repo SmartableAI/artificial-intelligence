@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "In Brain Imaging, Deep Learning Beats Standard Machine Learning"
-    excerpt: "Deep learning models were able to detect patterns and discriminative features in brain imaging better than standard machine learning tools."
-    publishedDateTime: 2021-01-15T18:05:00Z
-    webUrl: "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning"
+  - title: "The AI-Powered Robot That Learnt Curling Using Adaptive Deep Reinforcement Learning"
+    excerpt: "In curling, a sport that’s been referred to as “chess on ice” because of the strategy and precision involved, a robot named Curly beat Korean national teams in three out of four official matches. Robots have certainly come a long way,"
+    publishedDateTime: 2021-01-19T06:31:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 69
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 50
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-513688464.jpg"
-        width: 690
-        height: 402
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGGfrIOdCLlJw/article-cover_image-shrink_720_1280/0/1611036814546?e=1616630400&v=beta&t=jPuqxOelBmEmh0yTKtbuZQ2jxnn7Z_nVM_kc3VuON4E"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "HNJO9Q10UzEs2+ZKktUSaiBvwXprhKUoegPNvFuvoqsjpPN9wySD8zLzch6MA/we60KR0vOpPwj2XLZlvVmnXwetdamYF87wcKz1pAwMnw/u+K4i2lw1TA/dLLC0qZED4coursqcbydFguhzk9BTZDthm60zaJNzqewuAT2Vms/89OQmlV4E9yvIiPYGY0N+tAH3uDuJJxzy8DJM7XBe/meDPnuLA6WVEwyG9ltghDmNJ8vmXpxhufun4LmPY7ynGXMvqbGDQuNnLWo6/DmE+RFSME9cGNHRmCKnclEhe6LG6KIZJMlGl1DF/VPR0t0vDZa2biLlz+9UQTvUsED+3lGoezSO0x06Imp0jP/7FoQ=;E9sJ8heFbXXdR9gKWl+70g=="
