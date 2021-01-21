@@ -150,6 +150,20 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "Explained: Tech Behind Facebook’s ML Models For COVID Prognosis"
+    excerpt: "To address this, Facebook AI has recently introduced pre-trained machine learning (ML) models to help doctors project the prognosis of COVID patients to make effective clinical decisions and allocate resources. The research is a part of an ongoing ..."
+    publishedDateTime: 2021-01-21T09:40:00Z
+    webUrl: "https://analyticsindiamag.com/explained-tech-behind-facebooks-ml-models-for-covid-prognosis/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/2021-01-20.jpg"
+        width: 512
+        height: 350
+        isCached: true
   - title: "Facebook to use AI in predicting if COVID patients health"
     excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence AI unit in an effort to help healthcare providers predi"
     publishedDateTime: 2021-01-18T20:26:00Z

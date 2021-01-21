@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mob
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's self-driving tech division Mobileye is picking up speed, set to become a true threat to Tesla"
-    excerpt: "The world of self-driving vehicles is roughly hewn into two factions: companies that believe fully autonomous vehicles will naturally evolve from advanced driver-assistance systems (ADAS), and"
-    publishedDateTime: 2021-01-16T18:19:00Z
-    webUrl: "https://www.techspot.com/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88312-intel-self-driving-tech-division-mobileye-picking-up.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 74
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-16-image-12.jpg"
-        width: 1906
-        height: 1271
-        isCached: true
   - title: "Tesla bull asks Elon Musk for Full Self-Driving value to added with vehicle trade-in"
     excerpt: "Tesla will consider adding monetary value to its Full Self-Driving suite when an owner is attempting to trade-in their vehicle. The company is looking into the possibility following a request to Elon Musk from notable Wall Street analysts and Tesla bull ..."
     publishedDateTime: 2021-01-18T15:07:00Z

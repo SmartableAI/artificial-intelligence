@@ -149,6 +149,20 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "Explained: Tech Behind Facebook’s ML Models For COVID Prognosis"
+    excerpt: "To address this, Facebook AI has recently introduced pre-trained machine learning (ML) models to help doctors project the prognosis of COVID patients to make effective clinical decisions and allocate resources. The research is a part of an ongoing ..."
+    publishedDateTime: 2021-01-21T09:40:00Z
+    webUrl: "https://analyticsindiamag.com/explained-tech-behind-facebooks-ml-models-for-covid-prognosis/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/2021-01-20.jpg"
+        width: 512
+        height: 350
+        isCached: true
   - title: "Mission Healthcare of San Diego Adopts Muse Healthcare’s Machine Learning Tool"
     excerpt: "PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care providers in California, will adopt Muse Healthcare’s machine learning and predictive modeling tool to help deliver a more personalized level of care to their patients."
     publishedDateTime: 2021-01-19T13:57:00Z
@@ -187,6 +201,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "3B0oTn+uH+awOU1cOv4Sr/ChVtIbSGZkfeGbyfgqVhQ56Coc5pih7Hk6yLTCER7NEumFuczYtQI4F4jhT/9KMiCcbfwVQSugYhInH+ZB8WAnD2ULusdOH3a/NSzi5awiGbcNjlYDVQtiZHKUjt76Lpjlw/M1a3hNlcL13oZznc4OXAGaiw0CMT7IjqOsveY9yXhs8c2s62hdt3MHJ2pcxLdFrlH7sHDOJmPdpSbWlqYJUlHQkycL3G7tqc9nV1vEaA++Ky1c4ifRRhXQeuAKOT0eW8g9L64zY9ebiN+F//onc5A1p/9fDeewYauNIoFUginIcIZnlYXyZCiETIwC40pf/cXbQX2Vte8iwsL41cw=;ArKdO+2EUIKXAvJvRYYgmQ=="
+secured: "zrgkvTMUHcujKdYn/kQ0QHsHUahBgQQEHQsJ3ZGIl3r1cT2HM5LIFIgrFiUjF23r71AGLCGPms0NYmEn9HGVMY+530ip/Fy/kZt4ldCGE4DxErpq2B6ftAgtvJ89RRq0GhvOwsfuJMQFz2+oa4dcwEMaSIouRNs3QF9ZMf2Y/LOdY7Mevd66chapq+ZX6iC/YCtKDEm/x8n6Opiw5qbuXBfObwxOi79niTQqxgXgckRh4S3rBmRP2k/plX/sI5T3wEp3VJs2AXpkcfpkC8UwuWSyzMHj8dEE/fz6TrRraBbrcwgB7Fn7bkXMK20USBalpEhQ8dX1Wfl45twA+oVxRXOoJZ9s5wqarYpe1F8jRfZhm74GqmVBoAe/Fvt5MMIiV+gH/OmxfeRZEA+igPAqPTRIIZ1tIfe2SpWhvleDYLcr8/FooNNwg+fZbH0qFJEzLlddPzIX4+Ua2r+i13/1BNa9pPDGvR8jWUirDnnBlMWIrPiRnavEuFFakbg870j1FKuwe3TEjq/dQS859jSuhw==;qj5V+0HoCxJnxjDcY5QGhg=="
 ---
 

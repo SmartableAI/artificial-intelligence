@@ -1,23 +1,29 @@
 ---
 category: news
 title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
-publishedDateTime: 2021-01-19T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
+excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
+publishedDateTime: 2021-01-20T06:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "GM’s Cruise self-driving startup raises $2 billion led by Microsoft"
@@ -162,6 +168,17 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "General Motors (GM), Microsoft Ally on Driverless Technology"
+    excerpt: "General Motors GM recently inked a long-term strategic relationship with Microsoft MSFT for its Cruise autonomous driving venture. The automaker will join forces with the tech giant to merge software and hardware engineering superiority,"
+    publishedDateTime: 2021-01-20T13:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/general-motors-gm-microsoft-ally-on-driverless-technology-2021-01-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/general-motors-gm-microsoft-ally-on-driverless-technology-2021-01-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/general-motors-gm-microsoft-ally-on-driverless-technology-2021-01-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
     excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
     publishedDateTime: 2021-01-21T05:29:00Z
@@ -735,6 +752,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Microsoft invests in GM's self-driving car company"
+    excerpt: "GM-owned self-driving firm Cruise pushed its total value to $30 billion with Microsofts participation in a $2 billion equity investment. It was not divulged how much Microsoft infused in the equity investment and"
+    publishedDateTime: 2021-01-21T10:25:00Z
+    webUrl: "https://www.econotimes.com/Microsoft-invests-in-GMs-self-driving-car-company-1600604"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 41
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210121c5e791e25593208ea_th_1024x0.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft teams up with General Motors for self-driving cars"
     excerpt: "Self-driving cars are all the rage nowadays, and big tech companies are more than happy to clamber aboard the bandwagon. In the most recent such development, Microsoft has teamed up with automotive titan General Motors (GM) to work on producing electric,"
     publishedDateTime: 2021-01-20T18:47:00Z
@@ -963,6 +994,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "OWMGLz8qB2d2zK8rsQwfEZ7VHRU6k4TJfyga+52qFxwRUO0hjrZgq9UILK8pC1SwAxxj53al32pzyUnkYiazVkqu1hvBg/UEtFjBfiJf/aj44EkYMWXtvfL45yEJtWiVkdBY9tuhIAIgDRqsNQdNhQVQ4O+mFwxUUJVjBvjXLXuXZcS1MPZymOfMfyA2oU9zpVbvGeuPcXyOyNc2KzsnmbA6zCFJWzi8uTP/gUCl4wcK5ZKqi2EmAykyoTRYKCaTxTCNeh/UBqfNQUfWfNS8T5LCUbKVp/nODWWHNqZ/YlN+XNcsu1AH5U0nfCxIocA/WXJfUTud2LSHlExedzJQ18C/N+vH/J74H9df4y0IJS0=;TefIGQBcQhfuKqicr3HgpQ=="
+secured: "XqAeUyKnve5PNphduh9nkQMdP332nqIhXaqCf7/lS+S4wJ1hwcJzKR7u5UTQhC72v6CCRufJ+pcExxUXF/RBuu3bmOx60mCyZ+s/HHhbN/Qbyjr66XkOysgAIlSiM2HBU6oIkIlhSkzFZBlM+f5LvTu2FSlYVilvUenWcOUXR+5o8KNpj8YcSrTenTH569kOJJPsXLbSgg2MCQ+4MurYqTkiQiBa0eXyNLuuBlD/wJnXzWE3VRuwLQ6F1CTfTUqt/776ZJx17qWdjUDr9CvuxwMNjrc3M8r/l5oXr9CyAgRjoYAU2dMXCT+WANXvADiy5HuXyt1OWgHjdbREJneJihKi1Y/VLHPmsxehkG5VHXo=;t1QT/eR6XFB+1HCF20+B8g=="
 ---
 

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics"
-excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx)"
-publishedDateTime: 2021-01-14T00:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics"
-webUrl: "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics"
+excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy targeting patients with Loss of Heterozygosity (LOH)."
+publishedDateTime: 2021-01-13T19:20:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9"
+webUrl: "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "2Lxbi+8NUzdYb87TbdxnlrsxUaJZ8BH4di/0CZjsveB8LLd8ajh9rD1pB+6WHyK5yPRr+WAiUeR1AuRgtbMBaN+HkrDqgsMFE7wToQ/3arvtI1RHSwVu06v8qljtrc7liwmGtLW/96hbInYK1gdcqgRz1zUp3nspdzT3hOWSiiloBuZmXVfH1tzpUfMbdpTOXiK83jd2hEHrl0Xc67lYlNgLdi/CrNztAJZws7xtTqPBky5TJjLzHyuY55gkmx/rpEypnyGh6H5W82H5OM+A+6sTm2Wu6/2MtgEX/5IHE5k8WttmVMTKWddEQuqKH1Fj2/JXxIFHBvej+x3saOmKmmqq7vIo800xsxZlKOvhH+IFF0hA7DTkMdbeBmX+6lceL5enjYalEtRzmtBNkCdOWcDdsEeTRhbHMnYB4HgRsP2HZ8ii+rHSql7E4/a2WrqZXwSaQ1yWOs8UZ8Y0dC/yUhcaMnIB32Qz4iKw2QcUb63lGefCd0YH78arEsy2tSMGxhIxAT9kqD3b+I+MROq6bg==;fnUMv9rMTjAxP1iva6iaKA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "kp6a0sRFgT833CtCXNK9wgd8IYoX2NkVPCL/fDFqXkBQT7htdQf7UobkwOONJ0IXc0KOt3lFwhwujFNAdFOit6X6Dp96fyFOU9k+TJD0E3R5pwZmRFw8raLoh4p86fLEagDBGLgaUALHLlm1A+EdLd6iJk0AB4w4Cmq6epVALs2C7eOxoEba2TrsE9NvVvu7WDWP2QmBRBMv7DwcRRkoZYwaMwNjfIZ8il1Rh3uwKnxV4NkQ2qfBJb1PmDOkyy8GbG/72juADzM6FbHCRrjm48Q+revATF2cpdxXSjgWCi4Kf4nLxWJsYBCREd/lDzL1J6VmN+qn1T3U95BM2GHxxnvafcDqobQ6stgYwmehutg=;E/YkNWFxQZvTl2uRHiegGg=="
 ---
 

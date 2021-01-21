@@ -55,24 +55,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cleaning Robot Market Covid-19 Impact Challenges, Key Vendors, Drivers, Trends and Forecast"
-    excerpt: "Top Boosters and Key Deterrents . Since the COVID-19 outbreak and the rapid spread of the pandemic, cleanliness has become a major focus worldwide. The adoption of cleaning robots"
-    publishedDateTime: 2021-01-20T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-covid-19-impact-challenges-key-vendors-drivers-trends-and-forecast-2021-01-19"
+  - title: "Artificial Intelligence (AI) in Fintech Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Fintech Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) in fintech market is projected to accrue massive returns,"
+    publishedDateTime: 2021-01-21T08:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-01-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Fintech Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) in fintech market is projected to accrue massive returns,"
-    publishedDateTime: 2021-01-21T08:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-01-21"
+  - title: "Cleaning Robot Market Covid-19 Impact Challenges, Key Vendors, Drivers, Trends and Forecast"
+    excerpt: "Top Boosters and Key Deterrents . Since the COVID-19 outbreak and the rapid spread of the pandemic, cleanliness has become a major focus worldwide. The adoption of cleaning robots"
+    publishedDateTime: 2021-01-20T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-covid-19-impact-challenges-key-vendors-drivers-trends-and-forecast-2021-01-19"
     type: article
     provider:
       name: MarketWatch

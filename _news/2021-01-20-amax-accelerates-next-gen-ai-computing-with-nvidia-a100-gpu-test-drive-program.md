@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/newswire/technology-business-corp
 webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-d0c5c4e9b24d538fcdd7262d3e7e8839"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program"
+    excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
+    publishedDateTime: 2021-01-21T09:28:00Z
+    webUrl: "https://tass.com/press-releases/1247347"
+    ampWebUrl: "https://tass.com/press-releases/1247347/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1247347/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 39
   - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
     excerpt: "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,"
     publishedDateTime: 2021-01-20T14:28:00Z

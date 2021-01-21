@@ -50,20 +50,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 34
-  - title: "Face biometrics deployments increase as regulator and public push back"
-    excerpt: "The regulatory heat around facial recognition continues to rise, even as implementations increase, from airports to digital health credentials around the world."
-    publishedDateTime: 2021-01-16T18:35:00Z
-    webUrl: "https://www.biometricupdate.com/202101/face-biometrics-deployments-increase-as-regulator-and-public-push-back"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Herta launches face biometrics-based emotion recognition solution"
     excerpt: "Herta Security video analysis solution BioObserver provides a platform for automatic micro-expression detection based on face biometrics."
     publishedDateTime: 2021-01-20T22:56:00Z

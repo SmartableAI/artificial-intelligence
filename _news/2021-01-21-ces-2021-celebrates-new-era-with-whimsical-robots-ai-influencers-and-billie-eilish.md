@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/"
 type: article
 quality: 98
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "CES 2021 Celebrates Biden Era With Whimsical Robots, AI Influencers And Billie Eilish"
+    excerpt: "Meet the robots of CES 2021, ones that will pour you a glass of wine, soar you across the sky and land firmly on the moon. A look at the latest AI innovations showcased at CES 2021 by Samsung, LG, Softbank,"
+    publishedDateTime: 2021-01-20T23:20:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005fdd972d4e4bb491e4d76%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D840%26cropY1%3D24%26cropY2%3D496"
+        width: 840
+        height: 472
+        isCached: true
   - title: "Cerence Introduces Cerence Mobility Platforms; Delivers Voice and AI Experiences to New Areas of Mobility"
     excerpt: "AI for a world in motion, today announced its Cerence Mobility Platforms for Automotive, 2-Wheelers and Building Mobility. A focused, strategic approach to the company’s growth, Cerence Mobility Platforms deliver industry-leading innovation to three core areas of mobility – automotive,"
     publishedDateTime: 2021-01-19T14:50:00Z

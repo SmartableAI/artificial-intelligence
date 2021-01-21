@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-investigates-ethical-ai-team-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1?amp"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://c.ndtvimg.com/2021-01/4cthbllg_google_625x300_20_January_21.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Google locks out another top AI ethicist"
+    excerpt: "Google has locked the corporate employee account of ethical AI team leader Margaret Mitchell, and is investigating her activity, according to Bloomberg. The move comes about a month after another prominent AI researcher,"
+    publishedDateTime: 2021-01-21T09:32:00Z
+    webUrl: "https://www.computing.co.uk/news/4026087/google-locks-ai-ethicist"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/a48db76/d391d217-af07-4a3f-abbc-1edc0d560229/5/Google-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "v+fv5QA+kG62skTI8Lnxhjgun3uCfEPb7MFUT9m9gBXLDQX/4B+W3SoxJxz9g9/HmJrYDXr4fXUga+F3Z2nTcOHdJiPqUQZt+k/Cc2ko75rEFwrI0R8ZMWkt/lkLnTw3eUkJn+ZD8XwwaaQ1+4NHA06hlOKT1CGIExzTgSzMulAOJ/Df9U9yxlGkkchdfI24ndycdF7vS2co/OzBkR3AldkjvkKmFXZ2i65Mu8A5XImnjWvsQudMJmYt/8iGyvK8LlWz/JNCNxFKQs7oQr6vMajCvJMIJNuoBJFYiKRKvIBxsuljBh9PZsbho1MSPkJW/aAtAHDLi2HSel+7iRdpnmiuaNU68Ugln8A1RNQuwR8=;rqqWAy+pxeGYqr7+P63J9w=="

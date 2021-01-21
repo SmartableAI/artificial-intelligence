@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-21T08:21:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-01-21"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-01-21"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

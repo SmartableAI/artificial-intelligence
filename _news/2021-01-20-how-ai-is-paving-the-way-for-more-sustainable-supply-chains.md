@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI Is Modernizing The Collections Process"
+    excerpt: "The traditional model's inability to predict which debts will go into collections puts lenders behind the curve. Even worse, when accounts fall behind, this approach applies one-size-fits-all responses that let too many borrowers slip into default."
+    publishedDateTime: 2021-01-20T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b24deb13c5b56bae01eff%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How will $1 million in artificial intelligence research impact Florida industry?"
     excerpt: "The University of Florida announced a $1 million investment into artificial intelligence. Twenty faculty teams will study wide-ranging uses on data analysis in a range of fields from agriculture to education."
     publishedDateTime: 2021-01-19T19:00:00Z

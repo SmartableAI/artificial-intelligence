@@ -136,6 +136,20 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "Explained: Tech Behind Facebook’s ML Models For COVID Prognosis"
+    excerpt: "To address this, Facebook AI has recently introduced pre-trained machine learning (ML) models to help doctors project the prognosis of COVID patients to make effective clinical decisions and allocate resources. The research is a part of an ongoing ..."
+    publishedDateTime: 2021-01-21T09:40:00Z
+    webUrl: "https://analyticsindiamag.com/explained-tech-behind-facebooks-ml-models-for-covid-prognosis/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/2021-01-20.jpg"
+        width: 512
+        height: 350
+        isCached: true
   - title: "Mission Healthcare of San Diego Adopts Muse Healthcare’s Machine Learning Tool"
     excerpt: "PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care providers in California, will adopt Muse Healthcare’s machine learning and predictive modeling tool to help deliver a more personalized level of care to their patients."
     publishedDateTime: 2021-01-19T13:57:00Z

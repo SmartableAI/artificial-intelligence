@@ -7,8 +7,8 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-ml-inn
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-ml-innovations-inc-introduces-health-gauge/article_794e5829-1f29-560d-bacf-ed883c304a37.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: WFMZ-TV
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI/ML Innovations Inc. Announces Initial Closing of Over-Subscribed Strategic Financing"
+    excerpt: "TORONTO, ON / ACCESSWIRE / January 21, 2021 / AI/ML Innovations Inc. (CSE:AIML) announces that it has completed a non-brokered private placement offering (the “Offering”) to identified strategic health technology investors of 2,"
+    publishedDateTime: 2021-01-21T09:38:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-products-and-services-new-products-and-services-150f5ee08510a32a4d5eca20c6551e59"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI/ML Innovations Inc. Completes Initial Closing of Over-Subscribed Strategic Financing"
     excerpt: "TORONTO, ON / ACCESSWIRE / January 20, 2021 / AI/ML Innovations Inc. (CSE:AIML) announces that it has completed a non-brokered private placement offering (the “Offering”) to identified strategic health technology investors of 2,"
     publishedDateTime: 2021-01-21T00:47:00Z

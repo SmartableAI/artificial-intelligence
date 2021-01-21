@@ -488,8 +488,8 @@
       "title": "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)",
       "excerpt": "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers.",
       "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
+      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx",
+      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -522,9 +522,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -560,6 +559,40 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence.md",
+      "title": "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence",
+      "excerpt": "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its artific",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210112005233/en/Avaya-Expanding-AI-powered-Contact-Center-Capabilities-to-Improve-Customer-Experience-Participating-with-AWS-Contact-Center-Intelligence",
+      "originalUrl": "https://www.businesswire.com/news/home/20210112005233/en/Avaya-Expanding-AI-powered-Contact-Center-Capabilities-to-Improve-Customer-Experience-Participating-with-AWS-Contact-Center-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1358,58 +1391,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-12-30T14:32:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs.md",
-      "title": "How an important change in web standards impacts your image annotation jobs",
-      "excerpt": "Earlier in 2020, widely used browsers like Chrome and Firefox changed their default behavior for rotating images based on image metadata, referred to as EXIF data. Previously, images always displayed in browsers exactly how they’re stored on disk, which is typically unrotated. After the change, images",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-an-important-change-in-web-standards-impacts-your-image-annotation-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/29/Bird-Corrected-Orientation.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-29T09:56:37-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launc
 ampWebUrl: "https://venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/k-health-raises-132-million-to-launch-ai-powered-telemedical-pediatric-service/amp/"
 type: article
-quality: 83
-heat: 93
+quality: 85
+heat: 95
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"

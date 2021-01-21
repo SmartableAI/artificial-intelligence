@@ -244,7 +244,7 @@
       "originalUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -476,24 +476,33 @@
     {
       "path": "_news/2021-01-14-tempus-announces-companion-diagnostic-collaboration-with-a2-biotherapeutics.md",
       "title": "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics",
-      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx)",
+      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy targeting patients with Loss of Heterozygosity (LOH).",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics",
-      "originalUrl": "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T16:05:00-08:00",
+      "publishedDateTime": "2021-01-13T11:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

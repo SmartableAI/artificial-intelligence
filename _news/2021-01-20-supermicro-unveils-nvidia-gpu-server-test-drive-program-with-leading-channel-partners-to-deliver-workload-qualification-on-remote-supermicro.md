@@ -53,6 +53,17 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program"
+    excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
+    publishedDateTime: 2021-01-21T09:28:00Z
+    webUrl: "https://tass.com/press-releases/1247347"
+    ampWebUrl: "https://tass.com/press-releases/1247347/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1247347/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 39
 
 secured: "TXQGPHyqqRqNW8cxpDEKoBf/ivWL5MlG2b27sBXZVz1KE0Aze1Qg5ybCAymR8zRlpJsfRuAjOxKbauMT/TvhgDE0kIO1Ps/kHcU+jxtb/R8U67FUobryvD4CmBO8slViJrAeRKslBq3DUL1frPSXqxqHVxuxSlavgKja7KW0h5fxL9HQ1jwYhiPH2+tIImyv16CoSVjSJeNoQ8/p7Q6n1XSo2hWof96tJe3L1Qh23g5kJBU4yfT19DnCpLBSwUN9X3wmxk5D0Ot/QX1A4qX0AheurssqTIixaf3z6oOhBbpjnDw9JEBMk6nfJoZNC63+3RRKgBHFp/Y/OsscIBaseo+u0Is/h/8iZec2x+iR3as=;okxyqEEr5stti+ZwubV9Uw=="
 ---

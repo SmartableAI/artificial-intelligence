@@ -168,6 +168,17 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "General Motors (GM), Microsoft Ally on Driverless Technology"
+    excerpt: "General Motors GM recently inked a long-term strategic relationship with Microsoft MSFT for its Cruise autonomous driving venture. The automaker will join forces with the tech giant to merge software and hardware engineering superiority,"
+    publishedDateTime: 2021-01-20T13:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/general-motors-gm-microsoft-ally-on-driverless-technology-2021-01-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/general-motors-gm-microsoft-ally-on-driverless-technology-2021-01-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/general-motors-gm-microsoft-ally-on-driverless-technology-2021-01-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "Microsoft wants to listen to your voice recordings - but will ask for permission first"
     excerpt: "Microsoft has confirmed some important changes to how it processes voice recordings. From now on, users of the company’s voice-enabled services like Cortana can decide whether their audio recordings are stored and analyzed by the company to improve speech recognition or not."
     publishedDateTime: 2021-01-19T16:01:00Z
@@ -356,6 +367,20 @@ related:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
+        isCached: true
+  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
+    publishedDateTime: 2021-01-20T06:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "GM, Cruise to partner with Microsoft for self-driving vehicles"
     excerpt: "General Motors Co. and its autonomous partner Cruise LLC have entered a long-term strategic relationship with Microsoft Corp."
@@ -637,15 +662,6 @@ related:
         width: 358
         height: 238
         isCached: true
-  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
-    publishedDateTime: 2021-01-19T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 49
   - title: "Cruise, GM Partner With Microsoft For Use Of Cloud Computing In Self-driving Vehicles"
     excerpt: "(RTTNews) - Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of"
     publishedDateTime: 2021-01-20T05:54:00Z
@@ -735,6 +751,20 @@ related:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "Microsoft invests in GM's self-driving car company"
+    excerpt: "GM-owned self-driving firm Cruise pushed its total value to $30 billion with Microsofts participation in a $2 billion equity investment. It was not divulged how much Microsoft infused in the equity investment and"
+    publishedDateTime: 2021-01-21T10:25:00Z
+    webUrl: "https://www.econotimes.com/Microsoft-invests-in-GMs-self-driving-car-company-1600604"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 41
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210121c5e791e25593208ea_th_1024x0.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft teams up with General Motors for self-driving cars"
     excerpt: "Self-driving cars are all the rage nowadays, and big tech companies are more than happy to clamber aboard the bandwagon. In the most recent such development, Microsoft has teamed up with automotive titan General Motors (GM) to work on producing electric,"

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Ninety Percent of Large Pharma Companies Initiated Artificial Intelligence/Machine Learning Projects In 2020"
-excerpt: "Ninety percent of large pharma companies initiated artificial intelligence/machine learning projects in 2020, according to a new report from Trinity."
-publishedDateTime: 2021-01-19T14:51:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210119005100/en/Ninety-Percent-of-Large-Pharma-Companies-Initiated-Artificial-IntelligenceMachine-Learning-Projects-In-2020"
-webUrl: "https://www.businesswire.com/news/home/20210119005100/en/Ninety-Percent-of-Large-Pharma-Companies-Initiated-Artificial-IntelligenceMachine-Learning-Projects-In-2020"
+excerpt: "Trinity Life Sciences, a leader in global life sciences solutions, is sharing findings from its latest TGaS Landscape report entitled, “Perspectives on Use of Artificial Intelligence/Machine Learning (AIML) for Driving Commercial Performance."
+publishedDateTime: 2021-01-19T13:58:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-north-america-pharmaceutical-manufacturing-health-care-industry-massachusetts-0e1766f2c00a44dcb2d68cdb2a3ce973"
+webUrl: "https://apnews.com/press-release/business-wire/business-north-america-pharmaceutical-manufacturing-health-care-industry-massachusetts-0e1766f2c00a44dcb2d68cdb2a3ce973"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Ninety Percent of Large Pharma Companies Initiated Artificial Intelligence/Machine Learning Projects In 2020"
@@ -30,6 +36,6 @@ related:
       domain: financialbuzz.com
     quality: 17
 
-secured: "q8KjThLuvcplm865wwtqTKMnldpc9iT1UiXF7+9teVWnBQUh6124aSFP+HHdUyJTSVBX/tIwjRIcJfFFCbkYUTK1/GT/oH0y1qOQWmJf4/nZHurWAQPUbXy9oNMZXZHrgAC0cFWdv5VHkwA320ANy7e31JxzRicTkSnOd98EWeqQZXzZ6OyK3LQCr+av2jlJbERWvfMHCHY+F2TRm4SUoZOu4ZsEU793yI6DkYWloYxQ086Mhym6r+o4a9YEqLWe0YM4CBY5bUVoEhWudQpft+MNe2h7Mzvxv2Aa6jIRsPfTbplinsGLzPp3b/4EMozqpwNbs6uJTGsX/4Mon9BLb/uTbRPrjHizBNtufOKZVCfxu6vxiS20Ic/71D1euYJc5GJ50y8FadQMJGkBqKPkBbePM+EOsRnqDhwR6dTNlLoQIslobEulRHd8by+fszoZhUzhtSVr0MNPW9OyneLP4IFCWiMzXtEIJ1h9ckE/oyQbZDJMHPkg6htgaAOdLmSdYvQcpITKE0/97mZ33s7Fjw==;TpsIPtu2yKaV8mtJ4iQU3Q=="
+secured: "ExY/609dd8kqHyR9HQ6LmIwgVT3kGvGA6RJfwZ+SHSyJzFSu3CIpE70mCMzUZJ6ZM2By3f2lfKXueDp9M9XXrKbHirCOwRXO7cjsD5/EVkXjxPU6mg4xuYs6jLKM2XJgw1aASDGm0ZL0YGwFb2uACpn21yTF0Sgtjpi9Jwio9f82MVuce5SfGl/a3c3McSiy98pVjlyDuQdG2GT2aZZC6WNmIBmopvt9um+gfB2cgfH3B8TqUab2tP4bPTn2ODGvZZeCNtHIcvXlLvuRzsyIw1sIUEjVcXAhDlMgMggjzyyJSgyGvLp2PUf/2nUqrAZzrvBQiJQltsZgg9JMziuXt0cznadV+1axfJcxUdg8xsc=;OwWcCSM7FYcE1Qnrt4BkOg=="
 ---
 

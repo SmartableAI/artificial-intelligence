@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-21-facial-recognition-tech-deployed-in-up-to-help-women-in-distress.md",
+      "title": "Facial recognition tech deployed in UP to help women in distress",
+      "excerpt": "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women.",
+      "sourceUrl": null,
+      "webUrl": "https://newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/",
+      "originalUrl": "https://newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg",
+          "width": 1080,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/amp/",
+      "publishedDateTime": "2021-01-21T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsd",
+        "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-technologists-use-facial-recognition-on-parler-videos.md",
       "title": "Technologists Use Facial Recognition on Parler Videos",
       "excerpt": "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,",
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1389,58 +1432,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog.md",
-      "title": "Samsung reveals smarter Family Hub fridge and a robo-vac that thinks it’s a guard dog",
-      "excerpt": "Samsung’s big Galaxy S21 launch may be coming later this week, but it’s home appliances which are getting their moment in the spotlight today. Fresh for CES 2021 are updates in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/",
-      "originalUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/samsung-ces-2021-home-appliances-1.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/",
-      "publishedDateTime": "2021-01-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

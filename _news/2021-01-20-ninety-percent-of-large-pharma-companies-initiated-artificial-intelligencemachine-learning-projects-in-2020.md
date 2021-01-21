@@ -21,14 +21,19 @@ topics:
 
 related:
   - title: "Ninety Percent of Large Pharma Companies Initiated Artificial Intelligence/Machine Learning Projects In 2020"
-    excerpt: "Ninety percent of large pharma companies initiated artificial intelligence/machine learning projects in 2020, according to a new report from Trinity."
-    publishedDateTime: 2021-01-19T14:51:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005100/en/Ninety-Percent-of-Large-Pharma-Companies-Initiated-Artificial-IntelligenceMachine-Learning-Projects-In-2020"
+    excerpt: "Trinity Life Sciences, a leader in global life sciences solutions, is sharing findings from its latest TGaS Landscape report entitled, “Perspectives on Use of Artificial Intelligence/Machine Learning (AIML) for Driving Commercial Performance."
+    publishedDateTime: 2021-01-19T13:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-north-america-pharmaceutical-manufacturing-health-care-industry-massachusetts-0e1766f2c00a44dcb2d68cdb2a3ce973"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "pijfSfhEJjfbH5r6I1J8zQIr/5uJNtecxUrslRxz8XfdJhaB56TJ+aUUcjIQoFRUTj2FPyAwyCtZ2VZTkCF7NlZj/U3j3OrmOVHxXI/Hu44wzr5NwxgVEdDQlr5V4orERokEFfH40unqg2PxFg/L29DgK8K8zmw7Z8HFjfKlcQT5wLr6wtIroprRNTHSzBHysM4W/lSjNqLFo9x3MVTYc5TyN9FhZ27eQTZDEtcNvu1A9rlvrtX7nOaqiHggEnjX2p/fxTeRbM2RhhUgisFUNYS2YPgl2JgHWOIvaEK/LjFJkUA+Rm7aBYv7wMKZ8kXRgae07sFNQDicLIEWPIdworps218s1xo44YOHj/4ijoGsZfZEaPzk5fJo9DF/Tom4W9m5wJ6bkBwqzHk/IS+/O8R4QdtpunbZw3WkzQx/v4BIAM6eU/Y2GKYsyeOrBB3dhZg2Y5+9hdjF8XVbTfSJxwcEG36b/kMPFo6fpoGnvr5L1O4BsYB1hscgLlljJLva5++9MxAwIUaEus6/38N3Qg==;PN9cTEBqAWdSxnV+usxssg=="
 ---
