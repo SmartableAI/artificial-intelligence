@@ -33,17 +33,17 @@ images:
 related:
   - title: "Trump pardons former Google self-driving car engineer Levandowski"
     excerpt: "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit."
-    publishedDateTime: 2021-01-20T13:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0JM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0JM"
+    publishedDateTime: 2021-01-20T15:47:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-pardons-google/trump-pardons-former-google-self-driving-car-engineer-levandowski-idUKKBN29P0J8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29P0J8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29P0J8"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 74
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548414698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09X"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548405767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09P"
         width: 830
         height: 545
         isCached: true

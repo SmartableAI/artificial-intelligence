@@ -3,10 +3,10 @@ category: news
 title: "Microsoft invests in General Motors' self-driving subsidiary Cruise"
 excerpt: "Microsoft is touting GM and its autonomous vehicle subsidiary Cruise as adopting Azure as their 'preferred' cloud provider."
 publishedDateTime: 2021-01-19T06:40:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+originalUrl: "https://www.zdnet.com/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+webUrl: "https://www.zdnet.com/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
 type: article
 quality: 91
 heat: -1
@@ -940,6 +940,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "VqVeF2vvWtBdJstG0idPIu4ZvXSc6e2whZFt7JMKRK36m9IyYmv/Eez/tfIil5V31AV3VuNpculluUbTiMk6/A8ggc0VXHQK/6KVZsh4emJ3mds04nrcQpUXMcn3wDUkFIHdpwqQ82y9Ctazp988MjD40pJ0SCfTvQ7+gg85037uzGRDkyMkxtATpsq0J+gCp7ct5zSwyGahtoTVpnoofs9pxrLoz1Wvdxdc0TD87i2t+RZAjMS8o5mxzMhULiW+8ktDVURIeeej/i9hY6HLZqwIPNsQEGeF1t6IT1ei/f7hYhrVDpPBsw7XHkFz+wrQ295hJgOpto4lRG4m5BgEBD5RjDRaMD9Rmdi9hVAkzVqtjSTdmQTEGE42lFEnhSAgINPIVy/T56pN4GKcVfRQ4VNFInUXvTXn3fvHsXHXpYDBeQrYy+KeGk3mhFPSxCdnfuYSDQinWFoXJTzYD/XQw3BHj+zHt9yUIie2P3mgAsjmloOGlfHLvFB5q6ULb2JAjaff5WQh/Kk1j3HVbkvE4g==;Cr/yTEtVHsJR49KHUnLvZA=="
+secured: "pJLEw+wtwk141iKqhdFjcbU4OScyo+fd6XVNMbnGVP0b+2YIUqoCnO50jFdhnwOpNia4HDpfzBB3iGx9siLNFBB7CQ/I60VTFRL+tES6g9DGj4eoSeLn+qXfs9RafbBcwkVOP8q3U1JIqQIbEHY7O4vljkRAr1yP4EIIcBj3zIwLr+cZBPoWLw+jrCjR0UlydcLYPZaxgoJH+lRUyOg6npf9JrcKL1udIULtGCwNQMPm6EhWe2Xki3m/C7NCRnPyWGvbOysUBiGC6m/MU3OcE+IMECTV1u4XPlG1yRljFQCDivMo1HAL4ULItJeJ/u0zbzcuhnECtU6dXsPSVOOuffSqG+KO3ijxvmkTYrcQ/CY=;J/s06pJYoaKiCEjkJ/RMeg=="
 ---
 

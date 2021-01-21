@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
-publishedDateTime: 2021-01-06T23:02:00Z
-originalUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
-webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
+excerpt: "New offering extends Blue Prism’s intelligent automation leadership in the cloud and brings increased benefits to Microsoft Azure users"
+publishedDateTime: 2021-01-06T20:31:00Z
+originalUrl: "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/"
+webUrl: "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: BiztechAfrica
+  domain: biztechafrica.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?323013"
-    width: 450
-    height: 250
+  - url: "https://www.biztechafrica.com/media/images/stories/Screen_Shot_2021-01-06_at_6.42.51_PM.png"
+    width: 509
+    height: 249
     isCached: true
 
-secured: "47vt963wwPs9ZeEeFMsdfltmrHCY85CQWqHMYE5xAgh0g5FBBw3ZHM6G9Rk2H9LtWd2M+YVxwpAmZd+S4FKMGj2FCB6bDnDQ69P5M6PY1qX7CTPa/GQULNcesdn4Sy+fYYfCTfwAshkCPXiTT0cfdmOor/HqZdJWDnlpGxU/C9SQ0Zy7edhgjmH09a8XsDJDtUNi79HnzILKCoZsbmD/SuIVy/PCgxTZ2zFoZV/WKg027lXwnJ1p1vC+go4kWJmHElwMAxcN/PiE95/cdoth32Exl6d34bw1+sn8+9UlY8foB9xwsmKWKK8BvZmHSrfnFadtbQCdFzXY0hLifGrU+AxL1YbjpVHB+M+vWv147oM=;GFAbbSdAj0cLnaFdoEqM+w=="
+secured: "FR66vXxmE7yu7UHyZNf3NqSnjMjv5ARlGutoJ8yzIFGYJe/TYaU+xz4sSBovKu2PTgX+yrFIqSZ8hshTK+6c2ioAtDLDX/sst5izjMAGPAQLujgY64xr7TWc6pTp8iRd0iuCsxTOHeu2BIieNYYMnjnxRvsJsOr76biR+Gc27n3Kwvu4vhxxrXXmTGDfwNOcPjfBkCxyFya1hLhDAdPSTRjZ+B17tZlGp2Ab0XhHzEwYInlfJe08bBEnyleyXTDDbrWl71txwomVIOnXWZJSJWz2Cy1i4JTJOE7cySiGxAAZe68+5cSl1WsVWgdaWQoUXfRVleXOunfrrm1/wfMpUI6HCLi3n1StQ9MvI4YmL5A=;rVeIza5FaUYUKzYjvgJrOg=="
 ---
 

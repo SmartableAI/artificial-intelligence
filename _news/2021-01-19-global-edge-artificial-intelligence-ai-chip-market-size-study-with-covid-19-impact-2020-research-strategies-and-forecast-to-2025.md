@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
 type: article
 quality: 69
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -149,6 +149,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Data Center Accelerator Market Size 2021 Research Findings, Market Growth Factors Analysis and Forecasts – 2026"
+    excerpt: "In 2021 , Data Center Accelerator Market :- Modern data centers are being transformed to increase networking bandwidth"
+    publishedDateTime: 2021-01-21T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-center-accelerator-market-size-2021-research-findings-market-growth-factors-analysis-and-forecasts-2026-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

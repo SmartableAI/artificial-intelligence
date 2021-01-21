@@ -1,27 +1,27 @@
 ---
 category: news
 title: "NexImmune Appoints Healthcare Innovator Grant Verstandig as New Board Member"
-excerpt: "Verstandig currently serves as Chief Digital Officer of UnitedHealth Group, where he is responsible for UnitedHealth Group’s digital platform and capabilities Founder of digital"
-publishedDateTime: 2021-01-19T20:18:00Z
-originalUrl: "https://www.wboc.com/story/43195833/neximmune-appoints-healthcare-innovator-grant-verstandig-as-new-board-member"
-webUrl: "https://www.wboc.com/story/43195833/neximmune-appoints-healthcare-innovator-grant-verstandig-as-new-board-member"
+excerpt: "Verstandig currently serves as Chief Digital Officer of UnitedHealth Group, where he is responsible for UnitedHealth Group’s digital platform and capabilities; Founder of digita"
+publishedDateTime: 2021-01-20T06:05:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-corporate-news-biology-14e1ecd40a1e02e6518435242fa73811"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-corporate-news-biology-14e1ecd40a1e02e6518435242fa73811"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-    width: 400
-    height: 225
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 36
 
-secured: "9Z0yuX3UaowChJ3OLD88ys4TYwxhWdyHmt07NCUfaP3Iw7UjK8u1yUm3j0BTeclACNd+pAUx5LCP3bPYR4MzdqohaUWyWUObE1KsEssoUasL1dJ83HW1iXEWDWx1LasxGiP43qCL/p0KWMhWVqb0iyPmqAI4qzHblb96vfdT1UkJvZnCugF7w4tZgFFICOcGzEjTyMWjNOvxPHEik62iABMnyv5U+xxgsa0aQfTd8KkROoA+j3jKWYuCPrvRJ4h8MsCXC+8T8LJCUSCkChcfRnk2yleTKOV6g4vt7+tT9NFIAnE2YpL7D7/aVKcvDhJNAbCQhsdIcp8VwM+N8G7o+/WYMIFDMHsCSDSNLrTCRvY=;/IlSVBhZR5+cKgLasXvbSg=="
+secured: "ZdUN62gaFY16D9Wwp6cS1aCh+iMVhlFJiEhrM/uocf4/eSgvNXWAB4RIrXAD79bAupPRZaZ+zOtXYohTAJVATDTb+rN/O6bGYpL1pXMAJRQxNuwkQznxM4JOEAle2ibHKOP/dVXHuLQrGuNFqQ/GHYqzD0pT+z9RDmPUPuxgj8vHCL6Op0nEqbYFQU8jVGYfVkxHLe/lbYThnOpw3obPC4ZjU/xleYiPs5mdtk1DjbqTl+P02WXgss9L16036byE94q82UOU2nZTch1UNYa+baAuTpo4qNGVclgcQ9bZoH+46uATOUfQ4/xqUNYOByM8qNGfFVwuKo1ctk7RqzfPhjZy5DxjRxr6fO51keB1Cmg=;/aIU+FY0rWZR2IWH42URQw=="
 ---
 

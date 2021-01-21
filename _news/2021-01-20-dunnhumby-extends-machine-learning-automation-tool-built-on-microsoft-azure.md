@@ -85,9 +85,9 @@ related:
   - title: "Microsoft invests in General Motors' self-driving subsidiary Cruise"
     excerpt: "Microsoft is touting GM and its autonomous vehicle subsidiary Cruise as adopting Azure as their 'preferred' cloud provider."
     publishedDateTime: 2021-01-19T06:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    webUrl: "https://www.zdnet.com/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
     type: article
     provider:
       name: ZDNet

@@ -95,9 +95,9 @@ related:
   - title: "Microsoft invests in General Motors' self-driving subsidiary Cruise"
     excerpt: "Microsoft is touting GM and its autonomous vehicle subsidiary Cruise as adopting Azure as their 'preferred' cloud provider."
     publishedDateTime: 2021-01-19T06:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    webUrl: "https://www.zdnet.com/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
     type: article
     provider:
       name: ZDNet
@@ -940,6 +940,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "U1udY2Ee2kPhk/FZlinFiedSUBt+TNYt+RbAUAiE16Glu0HVQJV6VU8vRZE6dGCkHnX8n8aqVXHd3wGnhterdqWB590W8RVnySn2kHPJmNo9VVNGMuEc+bCgV3aEfRKj5KVpJzMvpQBpvcFgBZK3ITPge1YBRiieHp/bHIsEI3ILq1jdW5I7fSXzt5kg3OQlpxNVDXWumcluhfn6WKzAbbl4t3RJQeCFRq7YfdDaTeHoQUDXdz2tPV+zY+vC6ndl77sG+rm222oloyCMWEHBOzzAIg3wbCc0aXns2NpJCeeApRN9tTztH/ak/Uq13n4nxOQFzriCnCHkqyx5IaZ87tmaGdcNv87ySciqrKv45x4=;l2zqHqjFd7E0f9K9BlW4Lw=="
+secured: "qilbUhE/fLj6kLmxuPhF+xbLBqeGIbWFMRjYNFgeDSdfBWgf8aqWTQTCbnbHwMAOZ6D2J9XE3kCRzPi3bFzySkedaD/zN5z0ZiVIQqaTudOAE7CeCncwDHkexGJN4M8u84inEQDTJE8phOQ9xGtkrKThebuOCfdBBAhe+CktbkDUhT3tj7YPKtwf3Fh5I6DXvZbInHv+r1hIVft0lNX1cQeFGU9UaaAyFZVPBuANuBdOXGstp+mhIj2kGrquIaAXVNRm4Y0fnq+4yiBAClHhI26XcV11bGiqXwnoU8ZouMlU0EGzBLKx59evmqwYXxLeK8a3s4mKmdYAw+y+B/HSddVpjCS3Ks1HmKROWUFbOjzcMehBh2h1+VEeOfcLOtTOdhPNS23UU9BISZtl8IlxF8XAoZAwCBx/4hjXQ+aFpB6S0Xmqvtf/8WaMVjsxk9ygUQfYusYiyMUEnys2KKH2ETgPqLYCVOhM3gOylP/qFPANSdK1u8ONkhl+hNMiwfMnrKq7cV9nW4whj+y5hliY8g==;bczpxET39AQq9e8sM6P63A=="
 ---
 

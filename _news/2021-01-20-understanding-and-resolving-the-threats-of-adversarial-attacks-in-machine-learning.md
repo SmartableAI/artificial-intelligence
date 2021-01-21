@@ -53,15 +53,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Artificial Intelligence: Learning to Learn from Less"
-    excerpt: "But alternatives to massive machine learning algorithms are beginning to be explored. Two promising AI techniques are ‘few-shot’ and ‘one-shot’ AI. These algorithms are able to train on a particular task and then use the information they’ve learned from that task and then apply it to other similar tasks or new examples."
-    publishedDateTime: 2021-01-19T15:00:00Z
-    webUrl: "https://formtek.com/blog/artificial-intelligence-learning-to-learn-from-less/"
-    type: article
-    provider:
-      name: formtek.com
-      domain: formtek.com
-    quality: 19
 
 secured: "Dk8baTc9TEThWcRcW42P8cM6Ep+ZR7Q5tfeMQrpdEksehKwV5HMJNn+ebTi/RdTtKa9dX5r/yoYylYARpGNReepMWK/5ierRCALFawRvqZl2rCnxL1xzkOvwgs+TypQs+sx1reJnMnuF4/4pFc4cbctm6oe1D/TyqPT3QzDgUsSaFxf5bT+ym4/QWe6XPf5cyVrFroN/5tUT6XdjRx+ry1ew4IThs/zOxZ0Y7uLA4JpN/pKXEQRH+55vrGpnXSpsy8qeFvgKSnDf0M39MV6oWUeUo4i66juKh6z1J96k6KKBsg5LnIOaVfFFEXEzHlxR1D+US0Z0cM0f3W0Ep/+Lm7UBFjPSLEhuVY8sp+eLzvQaEW3FZwsMYwPmw6MZ7wlmbUYopxHFhJYZ9qWeZ4ysiQj0jHrs3kehB+HE4jQ7a+/dXxRBkPZGJsirkPEo4u/+Wa63cCzCW/InoWJPE4wmrA/TEiwConxdxVElF/L6QM7SKpudgEboeq0gWx6x/i3clvn5MmUnWnxsLtxbvn/19Q==;jnSAN2BWzlYLBuj2huN+dQ=="
 ---

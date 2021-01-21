@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/2021-technology-trend-review-part-two-art
 ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
 type: article
-quality: 82
-heat: 92
+quality: 84
+heat: 94
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2018/05/04/c838f755-7efa-4ab2-ad10-b322acbf5234/istock-692654376.jpg"
@@ -48,6 +49,6 @@ related:
         height: 627
         isCached: true
 
-secured: "otigPdSlkEQ4+Nx0+KL6AkSnpXWtvzURa+En3K9ieUVousu++5hwdLp/2CJMyDSGQG4ecF6QmTGJ5JOe2nON0q3tCRRTNuTR4sX52sW2x8qTUDZzJ8/TZQts+/mR2uMeL5uOziuM5Cy/ukvHFx7jsH1Tj9/PTsU5EFoEbdksn9itFeNk7NVYy/wWbb3+UbFPhF1I6peavs2VFMVQHejjfUghyuTD2769sVqg42acbhZ1SiwfWz1dhZcRWaAMCVC3nmXGjEWbUe1Ac0kbPTr5dOyRrkV94ZJN47vrFzS54KzyZ6s01Qmj/OWHu6kamEXgWzsPS0SHvrvmBOq3vQieBQnnkuHpdGWP8L+Aw+OlCR4=;61Jlq4zgH6SXsFCb7i8WYA=="
+secured: "/SVNuwHVjVGRj0GRF1Dyi4e9+rc6qsfJiqUx2hKy2gc4bULg3IPdycL58uqV0A0aReE3S5Ovj4zo0yJ9umJ0xTaIn8ZIspaP1jDTVahBQQtEtBVfaKJC8DxPqn/CHNuahg6QOnDBiQ54XcxeCg6/g0mAjTGb/t0H3UYV38kkMKmaBbEe2zMpNKi8/Z+YOXnTHs9mb7x16cVybuznd+wwdMBceUKO5ArslNfHhysK+mJTGdPmsUGjz7E0zbCO3GeB5cAMVz3heQ+cVClF9kHWiCH8a2xUjTkhEYD01TDrnMob0RT1j7BbDc41S26sG2D9HwEnkUfW3jZ/TYXK+TBi7yqIaU4jhvHcJaKxhtFoc7UCrhERnZd1hBlnflJQ7sRMKI8MRhULyY96Cm2pKZSh2O4/ZtWQlgbbPYna3/mo7CqM6Wqvs1aSbSQTaiNMf0qFlrwh/+ldsl0/D2x4i2kmhAyc91cASRTxdr1dUmSiAySz+VMf0H9tmSSIBnqnDYti/OyrZVuyLK+KlK4POj4RGw==;baNapiBI/M2wOULZ8/E3+w=="
 ---
 

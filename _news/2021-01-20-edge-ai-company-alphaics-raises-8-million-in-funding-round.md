@@ -73,6 +73,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AlphaICs raises $8M funding round for its edge AI chips"
+    excerpt: "AlphaICs Corp., a startup developing artificial intelligence chips for edge computing use cases, today announced that it has raised a $8 million round of funding led by Emerald Technology Ventures and Endiya Partners."
+    publishedDateTime: 2021-01-20T20:27:00Z
+    webUrl: "https://siliconangle.com/2021/01/20/alphaics-raises-8m-funding-round-edge-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/unsplash-1.png"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Edge AI Company AlphaICs Raises $8 Million In Series B"
     excerpt: "Edge AI technology company from Bangalore, AlphaICs announced today that it has secured $8 million funding in a Series B round."
     publishedDateTime: 2021-01-20T10:58:00Z

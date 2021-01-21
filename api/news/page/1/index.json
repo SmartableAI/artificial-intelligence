@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/01/20/synaptics-unsheathes-new-katana-low-power-edge-ai-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Google AI",
+        "AI Hardware"
       ]
     },
     {
@@ -754,6 +756,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-trump-pardons-former-google-self-driving-car-engineer-levandowski.md",
+      "title": "Trump pardons former Google self-driving car engineer Levandowski",
+      "excerpt": "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-trump-pardons-google/trump-pardons-former-google-self-driving-car-engineer-levandowski-idUKKBN29P0J8",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-trump-pardons-google/trump-pardons-former-google-self-driving-car-engineer-levandowski-idUKKBN29P0J8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548405767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09P",
+          "width": 830,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29P0J8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29P0J8",
+      "publishedDateTime": "2021-01-20T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-google-targets-ai-ethics-lead-margaret-mitchell-after-firing-timnit-gebru.md",
       "title": "Google targets AI ethics lead Margaret Mitchell after firing Timnit Gebru",
       "excerpt": "Margaret Mitchell leads the Google AI ethics team following the firing of Timnit Gebru. Now Google said Mitchell is under inverstigation.",
@@ -1005,58 +1059,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-trump-pardons-former-google-self-driving-car-engineer-levandowski.md",
-      "title": "Trump pardons former Google self-driving car engineer Levandowski",
-      "excerpt": "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548414698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09X",
-          "width": 830,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29P0JM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0JM",
-      "publishedDateTime": "2021-01-20T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-why-chicago-is-emerging-an-ai-life-sciences-leader.md",
       "title": "Why Chicago Is Emerging An AI-Life Sciences Leader",
       "excerpt": "Chicago is becoming a world leader in a new frontier of precision medicine. And with continued momentum from Chicago-based academic research, venture funded startups and established enterprises—we can expect this sector to continue to expand in the years to come.",
@@ -1117,7 +1119,7 @@
       "originalUrl": "https://www.openpr.com/news/2228125/artificial-intelligence-ai-in-healthcare-market-in-india",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {

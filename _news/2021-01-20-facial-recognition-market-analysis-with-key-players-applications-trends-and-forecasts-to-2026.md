@@ -154,6 +154,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Data Center Accelerator Market Size 2021 Research Findings, Market Growth Factors Analysis and Forecasts – 2026"
+    excerpt: "In 2021 , Data Center Accelerator Market :- Modern data centers are being transformed to increase networking bandwidth"
+    publishedDateTime: 2021-01-21T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-center-accelerator-market-size-2021-research-findings-market-growth-factors-analysis-and-forecasts-2026-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market - Global Forecast to 2025 - ResearchAndMarkets.com"
     excerpt: "The Global Image Recognition Market Size Is Expected To Grow from an Estimated Value of USD 26.2 Billion in 2020 to USD 53.0 Billion by 2025, at a CAGR of 15.1% The image recognition industry is driven by various factors,"
     publishedDateTime: 2021-01-19T13:58:00Z

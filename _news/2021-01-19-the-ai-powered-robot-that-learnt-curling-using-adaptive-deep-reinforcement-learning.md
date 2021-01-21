@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-usi
 webUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Artificial Intelligence: Learning to Learn from Less"
-    excerpt: "But alternatives to massive machine learning algorithms are beginning to be explored. Two promising AI techniques are ‘few-shot’ and ‘one-shot’ AI. These algorithms are able to train on a particular task and then use the information they’ve learned from that task and then apply it to other similar tasks or new examples."
-    publishedDateTime: 2021-01-19T15:00:00Z
-    webUrl: "https://formtek.com/blog/artificial-intelligence-learning-to-learn-from-less/"
-    type: article
-    provider:
-      name: formtek.com
-      domain: formtek.com
-    quality: 19
 
 secured: "La3kj3d/q8WZSvcAUWGgQGj0QP6ZwG7AVMinGzWGWTphmjwq/+iYdZtNIOc3jjRn+W8UspglY8aRlqbY9FKOK1+jISpHoOHLaMJfDwJnYhgiKMLqGw9HdnbLHnyZnk3zL0cX2BsqRtNZM78Uu+CaY9TI2YsvXPHcfvo8iAbjYqRfItLmD3CuFLmWh5TWdlidLsa9LZENn/LFr6soOEAwryLLigHhtOZtQo91CsMpqhdEb+asJ+42prndm++L2eRap8etwt8vwVNCMRqkFn1K4gN/kyqq7hIwpvDgEJH55HrDdtHd1wt0X/830HycXW/PEjLelX+6edu01mecu3Bx2MV6ZAqBE3YcMOOLQsNUufk=;EOUL9ob0V/BjAlcejpI4uw=="
 ---
