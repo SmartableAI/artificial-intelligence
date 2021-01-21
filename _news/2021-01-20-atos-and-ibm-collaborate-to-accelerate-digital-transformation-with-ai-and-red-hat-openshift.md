@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/atos-and-ibm-collaborate-to-a
 webUrl: "https://www.hpcwire.com/off-the-wire/atos-and-ibm-collaborate-to-accelerate-digital-transformation-with-ai-and-red-hat-openshift/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Atos links arms with IBM in AI and IoT partnership"
+    excerpt: "French IT consulting and services giant Atos has launched a new strategic partnership with IBM, which it says will help enterprise companies across verticals optimise their business processes using AI."
+    publishedDateTime: 2021-01-21T15:52:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4026132/atos-links-arms-ibm-ai-iot-partnership"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 39
+    images:
+      - url: "https://www.channelweb.co.uk/api/v1/wps/0a28f61/3e2b0a4a-6213-40b6-876c-80cb420744ae/5/iStock-000003529053Small-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "IBM, Red Hat team with French tech giant Atos for cloud efforts"
+    excerpt: "IBM and Red Hat continue to drive for morre business in the growing cloud ecosystem, this time in partnership with France-based tech giant Atos. In a deal announced Tuesday, A"
+    publishedDateTime: 2021-01-19T20:31:00Z
+    webUrl: "https://www.wraltechwire.com/2021/01/19/ibm-red-hat-team-with-french-tech-giant-atos-for-cloud-efforts/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 24
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
+        width: 577
+        height: 324
+        isCached: true
   - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
     excerpt: "The expanded alliance includes an intended focus on the development of joint offerings built on Atos' vertical decarbonized solution and service delivery assets, powered by IBM. Atos and IBM will work together to address business challenges to serve the Manufacturing,"
     publishedDateTime: 2021-01-19T14:30:00Z
@@ -71,15 +99,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 4
-  - title: "Atos International: Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
-    excerpt: "Companies Intend to Use Artificial Intelligence and IoT to Develop Joint Solutions to Optimize Operations for Clients in Manufacturing, Logistics and Supply Chain PARIS and ARMONK, N.Y., January 19"
-    publishedDateTime: 2021-01-19T14:43:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51769940-atos-international-atos-and-ibm-collaborate-to-accelerate-digital-transformation-in-the-enterprise-with-ai-and-red-hat-openshift-technologies-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "0/7N9OrUYZ80o+Ln07Y380TeSeLWoMlP+DG0dOf6zCSuqY0VYfUsAM3G9QXzNyoD/s0Y1JeKwGQJAv4A8TgQzWPIuAQbkYuIwfG8b4sbjVgtkz7+KU7XXQovrBH+tgNf3sbGHvHN9prKI9STxh78MsgWpHR6poTXqRgqY41+6ddg+vecSSdoAlQgMI6rEWfKBL48y25D8sW3wXuCKXQ7Z/diHLVTI4vrZkrUgRcPaSPuzhg06Z/iz+ZDVKsXGtB5hEAlKBRAaLimfa4bjoWcyZTC+xJAJKnE2Z1OoD+QcgsU9HlebPkWIaMv6zfiRqYmqBsmJsnJNpNhNCFhgdAdwY31n355o496dyLhwYZuD3ulEFx+pKw2MnVn2SwKD75QgSoa4EiGQhlmzboz0ZT0kpodfl3QcaIdHTUekX7Wbl87OQ9RHz2SRz20cc8U5JfTqTWT636xZ3b9Q5XdtpbRf+GB6+9ic3sbpvIE3d8jj5que1TVvuTPVGC9AV3yuiI+Yv6281tx7eLb5upgFuM9nw==;ZuLfwYcPqIR0DqdMSV0Zxw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endang
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Satellite Images to Aid Elephant Conservation From Space"
+    excerpt: "Conservationists have started using satellite imagery to count elephants from space, a technique that British experts hope will help protect threatened populations in Africa."
+    publishedDateTime: 2021-01-21T15:48:00Z
+    webUrl: "https://www.courthousenews.com/satellite-images-to-aid-elephant-conservation-from-space/"
+    ampWebUrl: "https://www.courthousenews.com/satellite-images-to-aid-elephant-conservation-from-space/?amp"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/satellite-images-to-aid-elephant-conservation-from-space/?amp"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/09/zimbabwe-elephants-scaled.jpg?fit=1200%2C807&ssl=1"
+        width: 1200
+        height: 807
+        isCached: true
   - title: "Elephant populations surveyed from space using artificial intelligence"
     excerpt: "The world-first study opens the door to more effective methods of monitoring the movements of endangered species."
     publishedDateTime: 2021-01-21T08:51:00Z

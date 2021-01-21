@@ -1,28 +1,44 @@
 ---
 category: news
-title: "Hormone Tracking Startup Eli Raises $1.5 Million USD To Reshape Women's Health"
-excerpt: "Eli, a company enabling women to own their fertility and health decisions with a novel hormone tracking technology, today announced its"
-publishedDateTime: 2021-01-21T14:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/hormone-tracking-startup-eli-raises-1-5-million-usd-to-reshape-womens-health-301212584.html"
-webUrl: "https://www.prnewswire.com/news-releases/hormone-tracking-startup-eli-raises-1-5-million-usd-to-reshape-womens-health-301212584.html"
+title: "Hormone Tracking Startup Eli Raises $1.5 Million USD To Reshape Women’s Health"
+excerpt: "Eli, a company enabling women to own their fertility and health decisions with a novel hormone tracking technology, today announced its $1.5 million USD seed round led by Vectr Ventures. The round closed in December 2020 with the participation of 2048 Ventures,"
+publishedDateTime: 2021-01-21T15:21:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-sexual-and-reproductive-health-products-and-services-health-d023028906a5dce4e81a7d4c084b19da"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-sexual-and-reproductive-health-products-and-services-health-d023028906a5dce4e81a7d4c084b19da"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "1fvPlieqKHxqy9WEmCnu7RljWG8zCu7/J9K0WV39QNTV3SjBDxmGj6pN6jMD7myJ6RD3TtMxla5iuk190NPlqncZ9B6rUn20EcD336ZLQ2GGeEI2WmDlvVheTg0/ROj+8AMpaBU/g+QuGUiK69dgMWgRCGLvLEG1BEDBwa+4rzyK+3dgbfs8esnYWWB0NNziUKWIxHEWoO7GXF3RvV3WjjVDJHHgMl1WUAgkkguT+sia+lM5hnaTdakb6HhpTtYNWJM0k8NT0YUebAs+8AsmUhnm1MuiqHXaNX+FucvZq+rTqt/oUF3JWpYvKHMxM7P/IBDSHdbKxnQBYebaFblX/NUtKkowz/s+0J2UOFg3uK0=;8Hwq8V/MjNNLC/iWa1wxuw=="
+related:
+  - title: "Remote Care Startup K Health Valued at Over $1.4 Billion"
+    excerpt: "K Health raised $132 million in a funding round led by GGV Capital and Valor Equity Partners after the Covid-19 pandemic led to a surge in use for remote health-care apps."
+    publishedDateTime: 2021-01-19T12:21:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3bIuOotwAsw/v0/1200x660.jpg"
+        width: 1200
+        height: 660
+        isCached: true
+
+secured: "sSdNSIGjXyp/yIeJ+vSWKKXI9K8WcZINwy4Y9m98gcX7Z/Z2YGgA5iNrAvgRR5MpDVhBdlMLUF818ztyWubOqu+CfoZsFXewdNSxZFbfwb92TmLcu+2nmdjwd4WasxDSkr3LiEltRnUSVv2xM+b2qvx2KME+BO6bC+zyzXntyItPlU39lMbf3u7oyrFgYaP+uj20EabhX2g22/s63GyeNqzElfkj3odcm43TUq6WW6qq6HXwHEzObG+p3Kkr1dhwZgj9B5vzIMh/7okbfeAnBepD4nIMeJ1CLcKEMu5TcfEleTqgHkk9HHSSXzK7VXchYrhhmk7BXRvgLDfv1rs0xOzp4mxw3Zy5KtuT4zcPe24=;SUHlmT09B/AWWDur+si1wg=="
 ---
 

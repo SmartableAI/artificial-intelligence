@@ -25,64 +25,58 @@ images:
     isCached: true
 
 related:
-  - title: "Google investigates ethical AI team member over handling of sensitive data"
-    excerpt: "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
-    publishedDateTime: 2021-01-20T09:48:00Z
-    webUrl: "https://www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1?amp"
+  - title: "Google union slams company’s treatment of AI ethics researchers"
+    excerpt: "The Alphabet Workers Union said the actions against Margaret Mitchell and Timnit Gebru \"call into question Google’s commitment to ethics.\""
+    publishedDateTime: 2021-01-21T15:02:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-  - title: "Google probes ethical AI team member over handling of sensitive data"
-    excerpt: "Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
-    publishedDateTime: 2021-01-20T10:23:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/google-probes-ethical-ai-team-member-over-handling-of-sensitive-data-ebeaaef2-720d-488a-8e03-8a341fce4ec6"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/google-probes-ethical-ai-team-member-over-handling-of-sensitive-data-ebeaaef2-720d-488a-8e03-8a341fce4ec6"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/google-probes-ethical-ai-team-member-over-handling-of-sensitive-data-ebeaaef2-720d-488a-8e03-8a341fce4ec6"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 104
     images:
-      - url: "https://image-prod.iol.co.za/resize/4911x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0fb05c48-c410-50e1-a666-fd77caf65700&operation=CROP&offset=196x0&resize=4494x2528"
-        width: 651
-        height: 366
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-21T145619.798-796x417.png"
+        width: 796
+        height: 417
         isCached: true
-  - title: "Google investigates ethical AI team member over handling of sensitive data"
-    excerpt: "Alphabet Inc’s Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
-    publishedDateTime: 2021-01-21T01:35:00Z
-    webUrl: "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data"
-    ampWebUrl: "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp"
+  - title: "Google Sidelines Second Artificial Intelligence Researcher"
+    excerpt: "Google artificial intelligence researcher Margaret Mitchell has been locked out of corporate systems, making her the second outspoken critic at the company to be sidelined after colleague Timnit Gebru departed in acrimonious circumstances last month."
+    publishedDateTime: 2021-01-20T06:53:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-20/google-sidelines-second-artificial-intelligence-researcher"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 72
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
+  - title: "Google sidelines second AI researcher"
+    excerpt: "A union called the move an \"attack on the people who are trying to make Google's technology more ethical.\". Read more at straitstimes.com."
+    publishedDateTime: 2021-01-21T03:26:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/google-sidelines-second-ai-researcher"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c24beea8-2f80-4be7-8a30-bc57baf899d4/a74a6776-b80e-42d9-b9a7-74f73bb7a609/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/21/nz_google_210167.jpg?itok=rj24MpuV"
+        width: 763
+        height: 509
         isCached: true
-  - title: "Google \"Investigates\" AI Researcher Over Handling Of Sensitive Data"
-    excerpt: "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
-    publishedDateTime: 2021-01-20T09:23:00Z
-    webUrl: "https://www.ndtv.com/world-news/google-investigates-artificiai-intelligence-researcher-over-handling-of-sensitive-data-2355322"
-    ampWebUrl: "https://www.ndtv.com/world-news/google-investigates-artificiai-intelligence-researcher-over-handling-of-sensitive-data-2355322?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/google-investigates-artificiai-intelligence-researcher-over-handling-of-sensitive-data-2355322?amp=1&akamai-rum=off"
+  - title: "Google sidelines second artificial intelligence researcher"
+    excerpt: "Google locked out artificial intelligence researcher Margaret Mitchell from its corporate systems, making her the second outspoken critic at the company to be sidelined."
+    publishedDateTime: 2021-01-21T04:44:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/21/google-sidelines-second-artificial-intelligence-researcher"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://c.ndtvimg.com/2021-01/4cthbllg_google_625x300_20_January_21.jpg"
-        width: 650
-        height: 400
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/21/1015964.jpg"
+        width: 1240
+        height: 827
         isCached: true
 
 secured: "ISEVx8HxJy/vGO6IWE1xobo1kgtCDQW6/R1ooNMoEEQKcfWK+xPNmePWaCb3952fVKYpUURQTY7bZp9rQogTYwkysn+otlDSeeYrgQ7C6b/64WcNHzVxTJvJVP53MkdUCaPk2hx8DFfbyz1c55rhbTLv7SQR4yb4t6anM8eV/HTVGp3yMNZbMu6XzAN1IVfW2mhn0/VSq84MMrj3TO3HwakxY2vDs4hRR6DUZD4vDg0VYhYEslJNkByl0WkFYQnPYzeAGGrtrFAvfDLO191ISBcG7yL0S+8yzkF7DFUcLtsWC9jat8n7DQhI4hQ6WSWmZUZiquYiSYVdLUOPsZdtNTUOGW9h/hYYbvRLzA1HkPs=;rIdjEXM6tS5kz7ZGbumzYQ=="

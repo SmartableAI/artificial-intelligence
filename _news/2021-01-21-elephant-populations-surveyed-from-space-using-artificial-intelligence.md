@@ -42,6 +42,22 @@ related:
         width: 796
         height: 449
         isCached: true
+  - title: "Satellite Images to Aid Elephant Conservation From Space"
+    excerpt: "Conservationists have started using satellite imagery to count elephants from space, a technique that British experts hope will help protect threatened populations in Africa."
+    publishedDateTime: 2021-01-21T15:48:00Z
+    webUrl: "https://www.courthousenews.com/satellite-images-to-aid-elephant-conservation-from-space/"
+    ampWebUrl: "https://www.courthousenews.com/satellite-images-to-aid-elephant-conservation-from-space/?amp"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/satellite-images-to-aid-elephant-conservation-from-space/?amp"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/09/zimbabwe-elephants-scaled.jpg?fit=1200%2C807&ssl=1"
+        width: 1200
+        height: 807
+        isCached: true
 
 secured: "JfD8i8NWnspFV1zNa3RKQIikUmPUh9V9MdrFgvK/Gl6b6TtCXodwRdNBKU93vN8RdtI9b2vyxuACp2cmFJm/eK4oMLYQAS3zIARCk6e96iIoRFftJ6k5Kpi61K32ytMWSUCUjmWklKko7dA3m+6PSF4w8pzvE88MHfoxhXmQcrpeXCDIMTnU/xb7BEwlaOJ6XfWCvkAvQpOKEuVBSGBx4f3ZpMMTpJvVU/QTpHQWCh0I2qiQCst/B2CWZoIgEpY1DriG7Sdb85H+cPrxyqcZQ6ObUcDY7vO3pUr/+lP8wLm6j9+T4lvRP4tpbvAV/poFvMYKvEqmQM05/YjvJEkmpH/UPacATMjJgvphVjwNc3pmwi1qfTeWAlyVpSNHCA9/9hYPjRI8E07MnOhRIGtDitUFUeIvZyf6Y4idi2n6JuBoskxqHgpG+ugyomsMx/8BBM4d+QWHszLgZzXwAKGEYEGJVZUQGyJk6AiXHR+wDo52h87IP3Lx8tHm6QVYHH9MsCbebnhjUc+wKJhQP9LlqA==;6UB0G9w7UOipvA5Jka62+Q=="
 ---

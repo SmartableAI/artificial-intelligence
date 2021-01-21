@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google union slams company’s treatment of AI ethics researchers"
+    excerpt: "The Alphabet Workers Union said the actions against Margaret Mitchell and Timnit Gebru \"call into question Google’s commitment to ethics.\""
+    publishedDateTime: 2021-01-21T15:02:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 104
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-21T145619.798-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Google Sidelines Second Artificial Intelligence Researcher"
     excerpt: "Google artificial intelligence researcher Margaret Mitchell has been locked out of corporate systems, making her the second outspoken critic at the company to be sidelined after colleague Timnit Gebru departed in acrimonious circumstances last month."
     publishedDateTime: 2021-01-20T06:53:00Z
@@ -34,6 +50,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 49
+  - title: "Google locks out another top AI ethicist"
+    excerpt: "Google has locked the corporate employee account of ethical AI team leader Margaret Mitchell, and is investigating her activity, according to Bloomberg. The move comes about a month after another prominent AI researcher,"
+    publishedDateTime: 2021-01-21T09:32:00Z
+    webUrl: "https://www.computing.co.uk/news/4026087/google-locks-ai-ethicist"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/a48db76/d391d217-af07-4a3f-abbc-1edc0d560229/5/Google-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Google sidelines second artificial intelligence researcher"
     excerpt: "Google locked out artificial intelligence researcher Margaret Mitchell from its corporate systems, making her the second outspoken critic at the company to be sidelined."
     publishedDateTime: 2021-01-21T04:44:00Z
@@ -48,24 +78,6 @@ related:
         width: 1240
         height: 827
         isCached: true
-  - title: "Change Healthcare Research: AI to Become Widespread in Hospital Revenue Cycle by 2023"
-    excerpt: "NASHVILLE, Tenn.--(BUSINESS WIRE)--Artificial Intelligence (AI) will transform the way doctors, hospitals, and healthcare systems identify, collect, and manage their revenue cycle over the next three years as healthcare organizations evolve from day-to-day use to strategic integration within their systems,"
-    publishedDateTime: 2021-01-19T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005151/en/Change-Healthcare-Research-AI-to-Become-Widespread-in-Hospital-Revenue-Cycle-by-2023"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-  - title: "Change Healthcare Research: AI to Become Widespread in Hospital Revenue Cycle by 2023"
-    excerpt: "Artificial Intelligence (AI) will transform the way doctors, hospitals, and healthcare systems identify, collect, and manage their revenue cycle over the next three years as healthcare organizations evolve from day-to-day use to strategic integration within their systems,"
-    publishedDateTime: 2021-01-20T06:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-health-care-industry-health-care-it-services-c23a756e604b4bdeabb5cb17c5344d10"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
 
 secured: "22mEsoRx12zP+k8rQTLsXPFZ7qPHN3nhlrXaI7eCMCzsmYKFbYqRi8B1+mqbk2RljcK8VaXJnmtmqFASfXTFauflryJfHiBHsv1PwSGXK5PAOkynyJh7+8Uznwat1kqmEoPygb3a8MeLSCBKrp7IjhEhLu/BaLzIgiBa0hYCzcPU0DoTtlLzZdy5CqXK62YJCcZAEAH6X74CS7kG2YrHh0nyK1W/o/0pmDhu7lddqW3yy2U/G97ZczX2Sb2dDZNxqI0I/7xULla8RBxPrCQqf3BfyOXPDPFURXkZ9lk8/9maikmpbVEmrNfNApgFbV0BWB/1Wva8d3Pyq8kCmmzPHYG6tUpU5j8Nep8Tq9a973s=;XZz4/B1E2jmngtd+h2a2xA=="
 ---

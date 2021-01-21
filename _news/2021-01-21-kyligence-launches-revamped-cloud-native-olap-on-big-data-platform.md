@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/kyligence-launches-cloud-na
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kyligence Launches Intelligent Data Cloud for Interactive Analytics"
+    excerpt: "Kyligence, originator of Apache Kylin and developer of the AI-augmented analytics platform Kyligence Cloud, has announced the availability of Kyligence Cloud 4, its new cloud-native distributed big data analytics platform."
+    publishedDateTime: 2021-01-21T16:38:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Kyligence-Launches-Intelligent-Data-Cloud-for-Interactive-Analytics-144837.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kyligence’s Apache Kylin-based distributed data warehouse gets cloud-native features"
     excerpt: "Kyligence Inc., developer of an analytics platform based upon the Apache Kylin open-source distributed data warehouse, today released the fourth generation of the cloud version of its analytics platform."
     publishedDateTime: 2021-01-21T13:56:00Z

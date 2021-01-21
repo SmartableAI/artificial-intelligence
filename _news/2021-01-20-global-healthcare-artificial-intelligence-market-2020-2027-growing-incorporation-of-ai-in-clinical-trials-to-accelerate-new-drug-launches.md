@@ -53,6 +53,17 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Global Military Robots Market Report 2020: Market is Expected to Reach $29.87 Billion by 2026, Growing at a CAGR of 12.8% During 2019 to 2026"
+    excerpt: "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The"
+    publishedDateTime: 2021-01-21T16:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19258249/global-military-robots-market-report-2020-market-is-expected-to-reach-29-87-billion-by-2026-growin"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19258249"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19258249"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
   - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
     excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
     publishedDateTime: 2021-01-19T13:18:00Z

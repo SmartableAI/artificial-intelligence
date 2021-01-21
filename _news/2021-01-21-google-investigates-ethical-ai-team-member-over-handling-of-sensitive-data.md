@@ -70,20 +70,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Google locks out another top AI ethicist"
-    excerpt: "Google has locked the corporate employee account of ethical AI team leader Margaret Mitchell, and is investigating her activity, according to Bloomberg. The move comes about a month after another prominent AI researcher,"
-    publishedDateTime: 2021-01-21T09:32:00Z
-    webUrl: "https://www.computing.co.uk/news/4026087/google-locks-ai-ethicist"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/a48db76/d391d217-af07-4a3f-abbc-1edc0d560229/5/Google-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "7Pj6vxlEDLTYaom5gX9AJAZ1351iggNdj0Z70wmm4eACce3jMu8BcW/w7XqQuEyRKW3EzeRG3d7QTP/2aaaQ0qtUJsltvKE2NthLzVcEhxuIPvyFG8w5HDo7TI1Fi7HBu7jgvHSEjGTopMd3Xd5b74/MtitsI1UbWSUG72GE7WuJ00DdZb3O3AlPd1NsF7AU4g5bv6CUrWPis8cYTLVwRJnOrjAeEqBkYvbJFWiI2Xqn069EUg4nBPoRIlRukRkwyq18S45fHTjItnNhOzP74c4OhFPvGoiGdgyduD3/HBukE6w+G26iiz5OIU70Vf0tJbNJU7bRwSEDN8kPINkBaXeSHzdtNdrGAFtZHfR3H1dhgjvBiSwLJQvNXTHWt2jjhuXvYbBLcrh7RQRlCGMJLEeCkLVc2tgd5Iis9+U4ReCkWlUjwdH9nBkguHPQDj8p+8PmEr9zI6CHfLW19AN30lNWTkOYc3HvSPjTJMkdUgQ70+/p/eFq8aav50mR+wadpAeI2Weq0p7F4IsnZSiWNQ==;rsWFOlMBmL41jlDjZfiRIw=="
 ---

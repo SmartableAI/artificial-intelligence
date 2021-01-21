@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-
 ampWebUrl: "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/06/artificial_intelligence.GettyImages-1067543600.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 819
     isCached: true
 
-secured: "Nr/gEa0HvJnE1suTvhTdoLYzsoTz+gYXJJD1i7uVw7Mz7Yscl0pPrOujVlvzZ4Ulm4jMYY3jGXxitVQ/8PLJrwq7asMu4KBAztpdSj0dsuUKWL7PpQ4anbcwh23VMQgII/9+pXq2phtknOEbGCYIZvSGBzNUoXN6jYEdNwalcq7xFn3a8RzVWdyrSggQlb2tUeWdeWQzaaRdhk9bM0vVygri7cxE3Q8EAfrVJYIdokT+Za1JvnvhEGcj30Wmp3itF14QvMK+/Z3dOJAPU3UB0wBYOpnrVJeyWNpJHOYWUpp6LXxPEMr+sEAdEvGL/VKK+mmjtXEhAvwsRfS/I43YTItDTCkP+lmpA3LvhlAwDSQ=;aTu27RinQoIFvH3IV4IQQg=="
+secured: "qDLDI1FK7YY8gwHmoePe6poCbylcU6qMdUTmgD/LUekuo5brYsq+XvLuKDfwDfotys41rs82OTTorVcxsaj/I5HlCmwtkE1IBGtpW4Zd/uOCsAgqBapfSwydfKPeV/K2szISs4Pw0aRTQ/jHHBDEUHi+bSvFMpW9GxzCIJdsqwmExEmmUajqDAQaQp0To/nuN6H41+3ei5z3q7IKk3i07oUdLjcZ9tmnkY008w2P+cjc7yIJL+sYJzEY3yWrfMril+VXBm2AdlkAJr/3MyM1tzK/fqLv22uXy70YQrt9F+sPvIt9sisBamy8Xxn5BORp68meY32RveKf5eGnosyWf/KZflOrpCcwLeWlzER+R3j3C7HvkEpm7USXTZ6Jp04OPxO5ychZEGmDCLKp9dsE6lG1h1U6Uqf2bLzKXGytSs8WgYqi2Hch15PmfUs8MtMMbTipJjhYo3K+WMNDy9Nhc9HxpKGs1S2899hREjeut/yudX8707iL7NMi4alhkexRiXacZx1UUqJz6akdfPrNQA==;sec4qHErOC0YAkh64a6ymg=="
 ---
 

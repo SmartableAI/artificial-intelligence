@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-refe
 ampWebUrl: "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence-e1611234784519.jpg?w=1200&strip=all"
@@ -44,7 +45,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AMAX Accelerates Next-gen AI Computing with NVIDIA A100 GPU Test Drive Program"
+    excerpt: "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to"
+    publishedDateTime: 2021-01-21T15:39:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 50
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/decaying-homogeneous-turbulence-405x228.png"
+        width: 405
+        height: 228
+        isCached: true
 
-secured: "YczW2j5jSr0t1GckjF8hX0bsg+yWzerGRgJPRjfRVPHsWHy+lWiYoP+nSBUJK7AwW+P2Idl2D/R/CUdw3386+E1EauuErayYrtJzLIbm1YlWRLOyzKMKt2NHGeTKsuXe4rzmUYRoJQVzGIVRy+08uaIIPeAZZl78N7r/XfuIVTi9rcpLTeUob2XzaYxpCNzVkJtRQhkm405bAScGnFLaRENY5vXMZ4D00TuiFcNVFbPmDqZ/7aRp04xFBPS6z25ENkRLcjjAgqhR9GXz8GUrfL/QeqD/2BoLuHRSodcD1ZCMINdcSNbxX6XMhyZ2TLkSPlFxJLafMODHJBntTwoK+kwA39unqbVU1H9D/Rs29A4=;sAyrBXYXWsyRbiZR1kgMDg=="
+secured: "pWBghIAQZ8b7r4yjmPcEez1WWlBP7ga6E9IzSfPcmAAg2/DGOEikgdYuGQ07nYzfKKPMA4JelHQVXdKpnheU8MqloaBFU+7aK7KI7RpRrwvnR9qbqcxX5IRyxhG20KOYxYjydnMxVor1NN/LuS/VOT3h34UXYmgoyV05rDh7GpyPXqLnxu50Za+2sz3bu9VNklFvo0xiDLYFUc2zdp5GgRvV5pWUvRPzicRfueEy6vGgOBY7+NvoJwmYcwXsTeFi4Lu1T0x9YRR8O54LF6cqjANgWTHZFThMTq3ULx4huggfKtEW72TtUnBjPf0ITcNS069kdQhJhoGOFCgcc7SO4qt1JZVK7/1sFnx0dWqI0lptqfxhskg8FmHkITJFJVzbSjwBgUiXsTkOK9cGgBOlKA2NK+Wjo2WCm+locO4l84YY9RBuvs2l0CQY5SQ7h/WKSo2OiI1arg9zbUcGAzZH8ibQXUbl22llgEORxSLpxiE+nvrEX069dRnIVIBiz2whVECwe10i/Mnq1keegM0hng==;6JYGLjbFBFof22v1o74MTQ=="
 ---
 

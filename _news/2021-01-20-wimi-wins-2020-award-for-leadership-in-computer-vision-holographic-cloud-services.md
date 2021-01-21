@@ -1,29 +1,23 @@
 ---
 category: news
 title: "WiMi Wins 2020 Award for Leadership in Computer Vision Holographic Cloud Services"
-excerpt: "PRNewswire/ -- WiMi Hologram Cloud Inc. (Nasdaq: WIMI) (“WiMi” or the “Company”), a leading Hologram Augmented Reality (“AR”) Technology provider in China, today announced that it has won the award from CCIDnet for leading company of 2020 in computer vision holographic cloud services as a result of its outstanding performance in technological innovation and widespread public approval."
-publishedDateTime: 2021-01-20T12:17:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-a6fe5637cfc05037d4908a6711a2567b"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-a6fe5637cfc05037d4908a6711a2567b"
+excerpt: "WiMi Hologram Cloud Inc., a leading Hologram Augmented Reality Technology provider in China, today announced that it has won the award from CCIDnet for leading company of 2020 in computer vision holographic cloud services as a result of its outstanding performance in technological innovation and widespread public approval."
+publishedDateTime: 2021-01-20T12:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/wimi-wins-2020-award-for-leadership-in-computer-vision-holographic-cloud-services"
+webUrl: "https://www.nasdaq.com/press-release/wimi-wins-2020-award-for-leadership-in-computer-vision-holographic-cloud-services"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Vuw4WGcRCl+ZAnPvBKPUTTXKH2bzMJII5pgP4KJsHRrmRRkuoZ4AmLNAIuHK41VMR4pQEOysSXyX++gP43LULtEO15mQqyk4nIVU1QAOJvGWL/qMov6dMFYlCp6ikmfr/90ejqdcQ8dULssYFZf/MxVbHlfVAfqc8h0hlM1FrjZ0A1010mKVeyXpZMrk2Yw9PKK3wcqi9nWHL4MpHmPbn3e2lLdcPo8gMiKzhYDusnpKJ+uAC5ReXYN89cg9qvBzy6dyeVZ4BNAyCYHwHsKk9oKY4wCjZy0aKGozEJNVY9YolOziR6JsPjnzCYzM46GHPL81+nMPfp79Wba8e54273zPDnz8pxWmzOaunFOR5K8=;m510g+VY3y5LSTaLv3QyKQ=="
+secured: "gJuPSnFM5LMyHZ3x4yIHr6hESti9pc7PgX7euC+XTTinad+nRHhgaG4WOHre4+hzlSpXLkGDcNayPqbStw0XzLBHBh/x/8X7Kg99DFsoUJPuMXs9hUuuwTGVQMNa90iZwY93f0i5ol1ZMKeFRdiFA1MVHXut9RPcOo+mJPfaI+/R/7MTmTVA492yVZ4L+48SkU/MzRhCb029nDqRSkpbMPvk6kQy8OrAxWE1Px/eNBmDq2ovlqOHClJsHaC55AmwRoREITyJ8qNngpNJX3jzztJSUukQStwsaV4vVU6y6mRyZNRhgkEOJ403aq0Qpcqo8q6IDLr/VziHgOR0j5Wg5lbYq5CfqaxHhv4YqVugLMY=;0WiEUpV5VJyZyOGC29QKsQ=="
 ---
 

@@ -35,11 +35,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence-e1611234784519.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AMAX Accelerates Next-gen AI Computing with NVIDIA A100 GPU Test Drive Program"
+    excerpt: "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to"
+    publishedDateTime: 2021-01-21T15:39:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 50
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/decaying-homogeneous-turbulence-405x228.png"
+        width: 405
+        height: 228
         isCached: true
 
 secured: "6qRbrvLLzymuf8KmJJQADdsY5aXrJ6ZFGioUyqnfceJIjT8qVXIRFnNq6nJUouIYf4MfKvXTDFLvD7v5vR+Z49fdwCMq3pBxTdE/0iYLufozNQfcnYEdoaO5maO9PwGxt3Jx8GLBKAYBZ7tCMrSnHNCEHaUIGryqAkYkNRz0sZrnV0T9mAAHygiLP7GTmVEE+XlttHFGNaniJeOXqC9hEHc9ndvn4Y2K1XN968Y/uZeEe0qzRW8k6jUvmNePJ27OT2f7WYk0Fvq7mCebA7DclOM3OKNUd60MKM1wYUtOMYj/bsxw3Wc7vXNupqcxkYPYVN7rdHgMbHO1VjXven/AbRa6CaZNsBonjWjdIKv8xcw=;sFmF53nBDQdB4KDhm+X23w=="

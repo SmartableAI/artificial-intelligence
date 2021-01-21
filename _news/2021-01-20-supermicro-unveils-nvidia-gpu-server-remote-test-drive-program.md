@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia confirms changes to Max-Q laptop GPU branding"
+    excerpt: "For previous generations of Nvidia laptop GPUs, the company has differentiated between SKUs with a Max-Q or Max-P moniker, indicating that the GPU has a lower power target. With the upcoming generation of RTX 30 series GPUs for laptops,"
+    publishedDateTime: 2021-01-21T15:34:00Z
+    webUrl: "https://www.kitguru.net/components/graphic-cards/matthew-wilson/nvidia-confirms-changes-to-max-q-laptop-gpu-branding/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2021/01/RTX-laptop-700x330.jpg"
+        width: 700
+        height: 330
+        isCached: true
   - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program"
     excerpt: "Supermicro’s collaboration with NVIDIA in the GPU test drive program delivers through channel partners the opportunity to test workloads on remote Supermicro servers using NVIDIA’s HGX A100 platforms,"
     publishedDateTime: 2021-01-21T11:59:00Z
