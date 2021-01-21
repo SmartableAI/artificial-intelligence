@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-usi
 webUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: LinkedIn
@@ -30,33 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding and Resolving the Threats of Adversarial Attacks in Machine Learning"
-    excerpt: "The Adversarial Machine Learning Threat Matrix report follows the ATT&CK framework that addresses the growing concerns related to the cyberthreats and adversarial Attacks in machine learning"
-    publishedDateTime: 2021-01-20T13:44:00Z
-    webUrl: "https://www.analyticsinsight.net/how-to-address-adversarial-attacks-in-machine-learning/"
+  - title: "Threat Detection And Security Are Aided By Integrated Machine Learning / Artificial Intelligence"
+    excerpt: "Government buildings, airports, and other buildings at risk from terror attacks, whether from individuals or organizations, need more security that visual tracking of potential threats. In addressing these complex needs,"
+    publishedDateTime: 2021-01-21T18:41:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 33
+      name: Forbes
+      domain: forbes.com
+    quality: 123
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Machine-learning-3.jpg"
-        width: 900
-        height: 500
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514"
+        width: 876
+        height: 494
         isCached: true
-  - title: "CEA-Leti Reports Machine-Learning Breakthrough That Opens Way to Edge Learning"
-    excerpt: "CEA-Leti scientists have demonstrated a machine-learning technique exploiting what have been previously considered as “non-ideal” traits of resistive-RAM (RRAM)"
-    publishedDateTime: 2021-01-19T18:10:00Z
-    webUrl: "https://www.eejournal.com/industry_news/cea-leti-reports-machine-learning-breakthrough-that-opens-way-to-edge-learning/"
+  - title: "How AI and deep learning is helping marketing"
+    excerpt: "There is a popular marketing quote — “half the money I spend on advertising is wasted; the trouble is I don’t know which half.” That quote, which is more than 100 years old, has certainly aged well and the sentiment stills resonates with many even today."
+    publishedDateTime: 2021-01-18T15:37:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
     type: article
     provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 20
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 93
     images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-        width: 512
-        height: 512
+      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33602216.ece/ALTERNATES/LANDSCAPE_615/PersonalisedMarketing"
+        width: 615
+        height: 384
         isCached: true
 
 secured: "La3kj3d/q8WZSvcAUWGgQGj0QP6ZwG7AVMinGzWGWTphmjwq/+iYdZtNIOc3jjRn+W8UspglY8aRlqbY9FKOK1+jISpHoOHLaMJfDwJnYhgiKMLqGw9HdnbLHnyZnk3zL0cX2BsqRtNZM78Uu+CaY9TI2YsvXPHcfvo8iAbjYqRfItLmD3CuFLmWh5TWdlidLsa9LZENn/LFr6soOEAwryLLigHhtOZtQo91CsMpqhdEb+asJ+42prndm++L2eRap8etwt8vwVNCMRqkFn1K4gN/kyqq7hIwpvDgEJH55HrDdtHd1wt0X/830HycXW/PEjLelX+6edu01mecu3Bx2MV6ZAqBE3YcMOOLQsNUufk=;EOUL9ob0V/BjAlcejpI4uw=="

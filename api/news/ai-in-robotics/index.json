@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-22-ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.md",
+      "title": "Ellis Investment Partners LLC Buys 2,526 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)",
+      "excerpt": "Ellis Investment Partners LLC grew its stake in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) by 5.1% in the fourth quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/21/ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/21/ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/21/ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/21/ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html/amp",
+      "publishedDateTime": "2021-01-21T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-gbt-researching-ai-based-robotics-technology-for-the-medical-field.md",
       "title": "GBT Researching AI based, Robotics Technology for the Medical Field",
       "excerpt": "GBT is commencing new research that is targeting medical application robotics, empowered by its AI system. In this research, the Company will focus on the innovation and technological advancements that is offered by AI to enable medical robots achieving higher standards.",
@@ -53,7 +96,7 @@
       "originalUrl": "https://news.mit.edu/2021/robot-customized-hardware-0121",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -157,7 +200,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -241,59 +284,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-the-ai-powered-robot-that-learnt-curling-using-adaptive-deep-reinforcement-learning.md",
-      "title": "The AI-Powered Robot That Learnt Curling Using Adaptive Deep Reinforcement Learning",
-      "excerpt": "In curling, a sport that’s been referred to as “chess on ice” because of the strategy and precision involved, a robot named Curly beat Korean national teams in three out of four official matches. Robots have certainly come a long way,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGGfrIOdCLlJw/article-cover_image-shrink_720_1280/0/1611036814546?e=1616630400&v=beta&t=jPuqxOelBmEmh0yTKtbuZQ2jxnn7Z_nVM_kc3VuON4E",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     },
     {

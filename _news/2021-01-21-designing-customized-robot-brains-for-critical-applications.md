@@ -39,6 +39,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Designing customized \"brains\" for robots"
+    excerpt: "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture."
+    publishedDateTime: 2021-01-21T18:57:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "n4cH6A1dN5s7LOCOUwslV7+9IZHjjB+TO9brlTxme8tTZ9LgGV4nFueekXTzeXELpl7u7kI2A8lp8AE3xKJrjeEW3PvVn9ivTkOlJemrJ+XSjSap/9VVtQyK+5omVA/tg1neQDaqFe+iIH/zbgDi78JOlONBO/5Oexzll8RR5EeJolBrFwCobym03KbY+ewnQ/zDoQ7QXJEjNZb3zjOPAkWCj/Bxy7J5agKvAZKkbkSiWKEnCD4NqOZSIICjksBcAt1RQR2evtCP05/7P+uD8ik75E2mH1B8M9/dkcvKK3PKhfADHOmkiwm19XxmulmlwNtUDHsTN4p8TbBBizlJ/lvIg8gnWBPZs/W6YrIYcRA=;+em1tUmWMS5lw0e3wPXNRg=="
 ---

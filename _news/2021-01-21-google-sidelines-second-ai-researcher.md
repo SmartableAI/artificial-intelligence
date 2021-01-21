@@ -41,6 +41,50 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "New Google union condemns investigation of AI ethics researcher"
+    excerpt: "A union of workers at Google and its parent company Alphabet is condemning Google's investigation of an AI ethics researcher."
+    publishedDateTime: 2021-01-21T18:32:00Z
+    webUrl: "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher"
+    ampWebUrl: "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 74
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202012/226/854081161001_6218250239001_6218243109001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Google Suspends Second AI Ethics Researcher: Union"
+    excerpt: "Google has suspended an artificial intelligence ethics researcher weeks after dismissing another member of the team, a recently formed union said. The Alphabet Workers Union, which was created by employees of Google's parent firm,"
+    publishedDateTime: 2021-01-21T16:59:00Z
+    webUrl: "https://www.ibtimes.com/google-suspends-second-ai-ethics-researcher-union-3127677"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/a-second-member-of-googles-ai-ethics-research.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Second AI ethics researcher suspended at Google"
+    excerpt: "Google has suspended an artificial intelligence ethics researcher weeks after dismissing another member of the team, a recently formed union says. The Alphabet Workers Union, which was created by employees of Google’s parent firm,"
+    publishedDateTime: 2021-01-21T18:21:00Z
+    webUrl: "https://www.timesofisrael.com/liveblog_entry/second-ai-ethics-researcher-suspended-at-google/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 54
+    images:
+      - url: "https://static.timesofisrael.com/www/images/toi-ln-1200.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Sidelines Second Artificial Intelligence Researcher"
     excerpt: "Google artificial intelligence researcher Margaret Mitchell has been locked out of corporate systems, making her the second outspoken critic at the company to be sidelined after colleague Timnit Gebru departed in acrimonious circumstances last month."
     publishedDateTime: 2021-01-20T06:53:00Z

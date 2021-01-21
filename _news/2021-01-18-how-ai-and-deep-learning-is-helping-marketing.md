@@ -29,70 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines"
-    excerpt: "We recently announced Amazon SageMaker Pipelines, the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). SageMaker Pipelines is a native workflow orchestration tool for building ML pipelines that take advantage of direct Amazon SageMaker"
-    publishedDateTime: 2021-01-19T23:51:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/"
+  - title: "Threat Detection And Security Are Aided By Integrated Machine Learning / Artificial Intelligence"
+    excerpt: "Government buildings, airports, and other buildings at risk from terror attacks, whether from individuals or organizations, need more security that visual tracking of potential threats. In addressing these complex needs,"
+    publishedDateTime: 2021-01-21T18:41:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
+      name: Forbes
+      domain: forbes.com
+    quality: 123
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/07/ML-1682-1.jpg"
-        width: 800
-        height: 284
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514"
+        width: 876
+        height: 494
         isCached: true
-  - title: "Labeling mixed-source, industrial datasets with Amazon SageMaker Ground Truth"
-    excerpt: "Prior to using any kind of supervised machine learning (ML) algorithm, data has to be labeled. Amazon SageMaker Ground Truth simplifies and accelerates this task. Ground Truth uses pre-defined templates to assign labels that classify the content of images or videos or verify existing labels. Ground Truth"
-    publishedDateTime: 2021-01-19T23:34:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/labeling-mixed-source-industrial-datasets-with-amazon-sagemaker-ground-truth/"
+  - title: "The AI-Powered Robot That Learnt Curling Using Adaptive Deep Reinforcement Learning"
+    excerpt: "In curling, a sport that’s been referred to as “chess on ice” because of the strategy and precision involved, a robot named Curly beat Korean national teams in three out of four official matches. Robots have certainly come a long way,"
+    publishedDateTime: 2021-01-19T06:31:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-powered-robot-learnt-curling-using-adaptive-deep-learning-marr"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 50
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/19/Amazon-SageMaker-Ground-Truth-7.jpg"
-        width: 785
-        height: 378
-        isCached: true
-  - title: "Building predictive disease models using Amazon SageMaker with Amazon HealthLake normalized data"
-    excerpt: "In this post, we walk you through the steps to build machine learning (ML) models in Amazon SageMaker with data stored in Amazon HealthLake using two example predictive disease models we trained on sample data using the MIMIC-III dataset. This dataset was developed by the MIT lab for Computational Physiology"
-    publishedDateTime: 2021-01-19T22:13:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-predictive-disease-models-using-amazon-sagemaker-with-amazon-healthlake-normalized-data/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/14/ML-1832-1.jpg"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker,"
-    publishedDateTime: 2021-01-18T01:09:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179539&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 43
-  - title: "Startup Loop Wins Funding for Fairer Auto Insurance Rating Model Using AI"
-    excerpt: "Loop, a managing general agency focused on building an auto insurance model that does not utilize credit scores and ZIP codes, announced the close of a"
-    publishedDateTime: 2021-01-19T17:15:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597874.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 36
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2014/01/auto_insurance.jpg"
-        width: 1678
-        height: 1119
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGGfrIOdCLlJw/article-cover_image-shrink_720_1280/0/1611036814546?e=1616630400&v=beta&t=jPuqxOelBmEmh0yTKtbuZQ2jxnn7Z_nVM_kc3VuON4E"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "ZniMozu9Ac2lSDVv3P6lhSQj6gaZYlV7MEzzZC6yWlzd6PvaLXo4NVGyUlNDQ3PSySPlxkMgec4P/utAbB5gbRwDu0VXPvzy/gMEtEQ7fm3bGNPaHrnoCxNDpphPEplGmYPeL8pMnN9KL+mL0SYWQiQNUNjjlGbMJraOGvEYmbTO/rxx0F8gHeZ8LbonDGIInGMqFNmJnwui4U3d23ke4EVtNzYsyNhzJ7Az6QzlT0HoVtyvyvozrjhl+AimvLcDdcNaRnX7Hr7XxP6z39BdbVkFJAqkab37DHWrue5ntjFTTaGFmprh6V0eb/CBazbBu4ZEMluFIjY4EUErskGujcnvTppoqnWflt+Tm3GCLrY=;omyiTRiHGaeUMKkE7Ogl7A=="

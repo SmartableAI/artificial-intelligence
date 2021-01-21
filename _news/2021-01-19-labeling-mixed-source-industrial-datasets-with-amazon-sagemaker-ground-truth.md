@@ -43,22 +43,6 @@ related:
         width: 800
         height: 284
         isCached: true
-  - title: "How AI and deep learning is helping marketing"
-    excerpt: "There is a popular marketing quote — “half the money I spend on advertising is wasted; the trouble is I don’t know which half.” That quote, which is more than 100 years old, has certainly aged well and the sentiment stills resonates with many even today."
-    publishedDateTime: 2021-01-18T15:37:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 93
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33602216.ece/ALTERNATES/LANDSCAPE_615/PersonalisedMarketing"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Building predictive disease models using Amazon SageMaker with Amazon HealthLake normalized data"
     excerpt: "In this post, we walk you through the steps to build machine learning (ML) models in Amazon SageMaker with data stored in Amazon HealthLake using two example predictive disease models we trained on sample data using the MIMIC-III dataset. This dataset was developed by the MIT lab for Computational Physiology"
     publishedDateTime: 2021-01-19T22:13:13Z
@@ -77,6 +61,15 @@ related:
     excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker,"
     publishedDateTime: 2021-01-18T01:09:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179539&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 43
+  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
+    excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
+    publishedDateTime: 2021-01-19T19:07:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179343&cat=PR News Wire"
     type: article
     provider:
       name: Webindia 123

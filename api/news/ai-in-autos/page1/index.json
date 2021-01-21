@@ -262,6 +262,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-tencent-teams-up-with-chinese-automaker-geely-on-driverless-and-smart-car-tech.md",
+      "title": "Tencent teams up with Chinese automaker Geely on driverless and smart car tech",
+      "excerpt": "China's Tencent has teamed up with automaker Geely on various car technologies as traditional vehicle manufacturers continue to partner with technology giants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/19/tencent-and-chinese-automaker-geely-team-up-on-smart-car-tech.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/19/tencent-and-chinese-automaker-geely-team-up-on-smart-car-tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105411546-1534993800897gettyimages-952622436.jpg?v=1599005950",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/19/tencent-and-chinese-automaker-geely-team-up-on-smart-car-tech.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/19/tencent-and-chinese-automaker-geely-team-up-on-smart-car-tech.html",
+      "publishedDateTime": "2021-01-19T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-paccar-aurora-to-develop-self-driving-big-rigs.md",
       "title": "Paccar, Aurora to Develop Self-Driving Big Rigs",
       "excerpt": "Truck-maker Paccar will work with autonomous vehicle startup Aurora Innovation to develop self-driving heavy-duty trucks, the latest in a growing series of deals aimed at bringing automation to the business that moves most of the freight in the U.",
@@ -1432,49 +1484,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-baidu-teams-up-with-geely-to-create-new-self-driving-car-company.md",
-      "title": "Baidu teams up with Geely to create new self-driving car company",
-      "excerpt": "The Chinese search giant will focus on the intelligent driving side of things while Geely will bring its manufacturing capabilities to the table.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-teams-up-with-geely-to-create-new-self-driving-car-company/",
-      "publishedDateTime": "2021-01-10T19:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

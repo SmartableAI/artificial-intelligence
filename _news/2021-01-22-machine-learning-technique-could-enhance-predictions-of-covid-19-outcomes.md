@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enh
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
 type: article
 quality: 58
-heat: 98
+heat: 99
 published: true
 
 provider:

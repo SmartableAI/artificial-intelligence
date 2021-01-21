@@ -64,6 +64,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
+    excerpt: "With Colfax's expertise in the HPC and AI space, we'll be able to help users select the best GPU solution for their organization.\" \"Exxact Corporation is excited to be collaborating with ..."
+    publishedDateTime: 2021-01-21T18:44:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179845&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "hkhPLRzSs5TTFqpr3CxH1fxb20GCa8/BwF/uYQEWcPM9/MHkSvaJ2AI2oa+AX44ZoqtVjlu2KtiCGA94+OxxqPmBwYWhluE+0LVz2vLW4qcs63p7VP0+8F4fuZ1n3p4o8CFlbVW62S4tEr0jGkB4ruIdOJ1JBlOwSh2uwExtAKQU/a9p/yff4kOlbtQOtLfwr1NVbV6U753lzaIcj3tok/fJtFaB+zesM6vL+YvteJo1+C3P7BHvz9djsIGhluZ845rIDbWDJtOJ5SFcznWN3u/xmN2j4yCQSXZRqfhcn/wNuQMX7rHt6Wi+iV9YzB52qJqiYv0PksCO7t6xXGh9LdwN0LdSAvUB7hb1//y75hw=;LtVt0KywU9IRu2GgiK0vGw=="
 ---

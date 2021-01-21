@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/01/210119194329.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/01/210119194329.htm"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Researchers Train Fluid Dynamics Neural Networks on Supercomputers"
+    excerpt: "Fluid dynamics simulations are critical for applications ranging from wind turbine design to aircraft optimization. Running these simulations through"
+    publishedDateTime: 2021-01-21T17:18:00Z
+    webUrl: "https://www.hpcwire.com/2021/01/21/researchers-train-fluid-dynamics-neural-networks-on-supercomputers/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/decaying-homogeneous-turbulence.png"
+        width: 500
+        height: 511
+        isCached: true
   - title: "Graphcore IPU Put Through the Supercomputing Paces"
     excerpt: "With performance comparable to the Nvidia V100 GPU, a common accelerator in HPC but better energy consumption numbers and memory bandwidth potential,"
     publishedDateTime: 2021-01-20T21:40:00Z

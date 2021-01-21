@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
 type: article
 quality: 72
-heat: 103
+heat: 102
 published: true
 
 provider:
