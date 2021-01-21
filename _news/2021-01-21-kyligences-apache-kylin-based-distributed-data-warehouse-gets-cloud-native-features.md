@@ -1,0 +1,47 @@
+---
+category: news
+title: "Kyligence’s Apache Kylin-based distributed data warehouse gets cloud-native features"
+excerpt: "Kyligence Inc., developer of an analytics platform based upon the Apache Kylin open-source distributed data warehouse, today released the fourth generation of the cloud version of its analytics platform."
+publishedDateTime: 2021-01-21T13:56:00Z
+originalUrl: "https://siliconangle.com/2021/01/21/kyligences-apache-kylin-based-distributed-data-warehouse-gets-cloud-native-features/"
+webUrl: "https://siliconangle.com/2021/01/21/kyligences-apache-kylin-based-distributed-data-warehouse-gets-cloud-native-features/"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: SiliconANGLE
+  domain: siliconangle.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/14636834344_86a572cccd_k.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Kyligence launches revamped cloud-native OLAP-on-big-data platform"
+    excerpt: "New version 4 of the BI + big data platform is based on Spark and Parquet, leverages machine learning and is optimized for cloud storage. It's available on the Azure Marketplace now and coming to the AWS Marketplace soon."
+    publishedDateTime: 2021-01-21T05:00:00Z
+    webUrl: "https://www.zdnet.com/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/20/6e47e0c7-f199-4a04-853c-50d9a7d4d9cb/kyligence-architecture-diagram.jpg"
+        width: 872
+        height: 360
+        isCached: true
+
+secured: "6KERs8699gZxYvaFl2n1aliT4naxkPQ1Y+3HTEkT3RFmrpEKvOWDSA9F2XToYjka6slHR0kQds973EYunEefaBUA0JDB6BXdCncxp5lXhMPG1+PkMbWFybDI0ew4mJjjjAhgCTbXXShZgBbdG73qC9hEeJpHOWxmXmyYxOw8Zz+O2wQKD16qhPoRY2mISG4yyiCfMIoh8XnSBOFWuX4o64EoaQYygmtYcjA+Jqp/pd0CCNbLnddePWwdGaYrNo3NI2+si1zSaWALlRxg3gANjXajIf00GDzkaXw0tT8s9rTsx0NDiHoPzydws+sQrFJ8aifXOKJWhOjwMDmYOHvsMixQ2Drpxile0Hq1CNwTAcU=;wUA5MBpkY99prNFI1XH6dQ=="
+---
+

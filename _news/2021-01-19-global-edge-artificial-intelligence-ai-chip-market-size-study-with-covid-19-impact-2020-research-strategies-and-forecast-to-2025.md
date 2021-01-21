@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
 type: article
 quality: 69
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -149,6 +149,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Products Market Report 2021 Growth Factors, Research Methodology With Impact of COIVD-19 and Global Forecast 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Artificial Intelligence Products"
+    publishedDateTime: 2021-01-21T14:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-report-2021-growth-factors-research-methodology-with-impact-of-coivd-19-and-global-forecast-2025-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

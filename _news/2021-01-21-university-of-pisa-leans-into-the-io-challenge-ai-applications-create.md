@@ -2,14 +2,14 @@
 category: news
 title: "University of Pisa leans into the I/O challenge AI applications create"
 excerpt: "University of Pisa adopts NVMesh software from Excelero to enable AI researchers to access Nvidia GPU servers more efficiently."
-publishedDateTime: 2021-01-20T22:27:00Z
+publishedDateTime: 2021-01-21T06:14:00Z
 originalUrl: "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/"
 webUrl: "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/"
 ampWebUrl: "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 819
     isCached: true
 
-secured: "wWLbWmU5b49ObXJQIMANfps1kze1vzp/QP0rERokG7P3dikOfzUPDPt/ZkWdRZMRiG+7EZ14kBTs87mOjOtdoWE3tvH8w87QTlTsiCnUTTgLZnCq4/hMmSEs9/cBtfisMKzVTJlmcAhTlRuLyln9uu30KnFMEtC8sN6gcnFqpFENTrUyYeEJWJvZC3RegXhUdtpXLYlpi9swvlbs/oNlCc7/JCL82holnuVbVNekqNsPd2LgpPxR4ixiQdsHZTuBicr4h+UgBs2YO76KD6Q+3CrjEyPoTomIK9CwAVprpi9Kt7YGfLhUm46VWWDwPbZ1E6/1kOy7sE2T1+Stfyc/jakhWQSvRqzH6aaXgIdHF+1gTL6ASpajIyS5zW+BgQZGm6N6Ld0zJbym2CjX4IBg7n825nskovWTL+dOyH2ebkEtgT6lwb1uCLNIDUVv6ftwwFlmUnhky5OZrO2YKRHWD5nWi61KDdk2TC/KXC27jvrW5mu/KNZverKA1p3eMN61HmyDruUzettGOl2HLsoaEQ==;IBvPwT3++YmY1umMRgiX3Q=="
+secured: "Nr/gEa0HvJnE1suTvhTdoLYzsoTz+gYXJJD1i7uVw7Mz7Yscl0pPrOujVlvzZ4Ulm4jMYY3jGXxitVQ/8PLJrwq7asMu4KBAztpdSj0dsuUKWL7PpQ4anbcwh23VMQgII/9+pXq2phtknOEbGCYIZvSGBzNUoXN6jYEdNwalcq7xFn3a8RzVWdyrSggQlb2tUeWdeWQzaaRdhk9bM0vVygri7cxE3Q8EAfrVJYIdokT+Za1JvnvhEGcj30Wmp3itF14QvMK+/Z3dOJAPU3UB0wBYOpnrVJeyWNpJHOYWUpp6LXxPEMr+sEAdEvGL/VKK+mmjtXEhAvwsRfS/I43YTItDTCkP+lmpA3LvhlAwDSQ=;aTu27RinQoIFvH3IV4IQQg=="
 ---
 

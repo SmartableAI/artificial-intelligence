@@ -88,6 +88,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Transforming the energy industry with AI"
+    excerpt: "In the oil and gas industry, digitalization is improving project economics and streamlining operations, with AI as the key for sustainable growth and security against cyberthreats."
+    publishedDateTime: 2021-01-21T13:14:00Z
+    webUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/MITTR-Seimens-webart-Cover.png"
+        width: 1500
+        height: 1129
+        isCached: true
 
 secured: "UWbbLxk8jvaouZhhnWM/fffMsyNx0Su9XmKjDdqiJzMILqJYB5HI3TwPizEBuoTIDcuGOChImH5JZKC7zfFk4CxxlrJjk88NlXpWAIlMTTuksy3rDK8ZRBMLGt40QWgs6t+RJEHWb77xlRxaQwNqR5uNZ8Ok/IRRwvryVleSgVe2Y+D3rz9K7W01zoQhb504WBGmE8wvDxY1ANpKAx1ZlRbh06twJrUV+yRP8WXjEnoA2qEL3qu6Vfie88dqGtRGoVidqK7e9yxCyFGK+Wwh7KNBNP6lKggg195+fJYdCbcJuxQdeHmb6ZARvw6l3z4w6TDFEKIJz0cT5kBsKHXKw3FsXx/MMvujwXEsIRj3X1KIG4zLxyo1SMYkeAlZ9F/MphEx1ob6oBa9oBllxfP/UpSoAFh9lRC1o4SQ+JXjYEu9i4VdX2K1C31xQAX/uRuEtAtK/DGEG8p3YFF2v1Bw3Orpa5EKQ80w9ZAOW4YPMlx5WSP/9w5R98NQMwM7BZwJUK8zGSlCA9Nl6OI7OB4Clw==;d7lorPS1Xdp4mmXcxSvtQA=="
 ---

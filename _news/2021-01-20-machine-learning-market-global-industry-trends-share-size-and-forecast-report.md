@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot Assisted Surgical Systems Market to Reach USD 17.80 Billion | Size, Share, Industry Analysis and Global Forecast to 2027"
+    excerpt: "Growing demand for robot assisted minimally invasive surgeries is predicted to acquire the highest accuracy and success rate and boost market growth."
+    publishedDateTime: 2021-01-21T13:52:00Z
+    webUrl: "https://www.medgadget.com/2021/01/robot-assisted-surgical-systems-market-to-reach-usd-17-80-billion-size-share-industry-analysis-and-global-forecast-to-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "u3D0eaw2ivzuH9X12l4/sYFmmz6HJTj0YP9OKMldVS+JyCUlvDRIB/sepmgxZndr6USZQP4IbZSHcCQih4usvDDARYhUVHKLvu0yJ7lXtMJTQc3v3Q2vpnQi7M/O4jzts0EL9x7FG4vOtAaW7puO0C/E0n4jnRPjO6GbwjMeXUBdHXCUIO7cdlbIhhXEruk8g1iwwT5ci0aUXzxKWN03KGbNPP2Nf7wuv5fhHLENnZL/AFU2laHkZJBjlsazKB/r0DH7qWes4xlLZESCBhwwWeLXXGnwWMf8tzFSMAFVhtfwSqtF9L8+HMJYXEqGql1OF+oZcN1l2x/j0gBPMAHBGWMh7U/ZXoEnlHRD9+7+5k0=;T4gmLKHfBs3XdqKhbXycsg=="
 ---

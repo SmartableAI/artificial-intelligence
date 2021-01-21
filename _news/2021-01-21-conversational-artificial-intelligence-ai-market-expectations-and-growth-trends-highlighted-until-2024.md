@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/conversational-artificia
 webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.openpr.com/U/1/U118883099_g.jpg"
         width: 770
         height: 338
+        isCached: true
+  - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 – 2024"
+    excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
+    publishedDateTime: 2021-01-21T14:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-growth-opportunities-and-top-key-players-analysis-report-2021-2024-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "nw9SqzSk0AyGvJt4lfERyq9DbZQJWNADpiViUnXJt5GhlCorJ4A8HwBw3If83EThoL7uM3H0VID6aq2JdRlWRu6B/JotsnPDzzLqDdNM9PCQC8horGcwLpd0I6rS/rm5dymJKlYOVlUd2GwwyH4f6Hmk7ighyIZMoQfE4DTL0zMpj+eddC1ZTmxkf2MaNpjGagEWHKUe3jDvmEfowzKAkTzaPewdNJjxqFbR0Y1BVwUOz+Ye3Bk7+iQ/oculohLBtmtYDpNt1BuX/axdVPEtaWf+dzFxvQOgHq212r2xA5Ai2FcpopQ7Dp64wovfTVrq0CwueA3RjPADu7D3vtrqmLrzRFqxM62i9NfwsT6prfE=;fCkm7JaUXWABX1wIRqZJ+g=="

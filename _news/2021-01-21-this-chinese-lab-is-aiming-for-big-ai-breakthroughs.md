@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/"
 ampWebUrl: "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp"
 type: article
-quality: 93
-heat: 93
+quality: 95
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Facebook AI
   - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://media.wired.com/photos/60089079a9a24f451b08fc1e/master/pass/Business-BAAI-Building.jpg"
@@ -32,6 +33,6 @@ images:
     height: 1352
     isCached: true
 
-secured: "ioRyA889iC/uGsqhoZHKDamMSva1GLxF9LTPtVX58vBuEMc5XXyRjcJJcFO4ydF/N98itrkpRuPmb/N9x52TM1ZbxBSBxO/jF1qsBIckJYEr+e67CZt5CzqGDmBQkdn1MuGuUcPq1lwHyeKgfG0LCQE8sMukV7/eZEV1JYDKmPmAJimgsIkxyn5fDFk1SGeVvwqlINz0HYokVBAhrfcXb1wFP74HX/lb1iWUKaMtyFX+MifkmXJ6+kw32ZAfLsaj9iSHMwT3ldus4qjEi0mYSXdBcIO+bvLw6BgRVPgMcmSmYniYM49JZM/MpR4EM6lv1q0oG5YyjnAFXe11cuuMOYeN1DQGlBjYwzPWZpJFPvk=;TIABy3Ydtk4Uro3XoHjF7A=="
+secured: "vx/N7FT8lAHaCBwzr7M9TEsgR3NuP8gC5bb6nMt+lDS6u3wS8lTo39FHurb0o9VHhS7xToH29l/YdYXbAzxYNGPfOB8nmJYT07f/TtgLyeHFxt8gRDXUvt7bDXRWAf63Jkc0JW3UArM6NNZNddo0MNMYPGduZVJlr9dGnOFVERzvNfivrV8+7jSwHoM2Alw1O1NsragV1rNsEKk17WmPilBivVSMP+JE4nucr7AVDTtmVvMYSXxIPOYXS2Uu5nfJD9I0P7DPTt01WRpJ5XRdcgt1wHtmDlb8fnix7Q1VdmljwQ4FTms3/FxB7Ud1BqNeX3JP80emdQGtrf6sLKNbRlhsEdC826zuR6KaBPvQfJce+LhK+c7eoClsuEPEvwPPee4Bwz9w4GWbsU6fajcnZQM8wezmdKrxPEy/FKt87FLTBbxc447H4asjdAOBY51WUqdYrx3s22LNxpoCcv2VMlMGXU2CyCjdyz9eWrvqldxLOAoJruP5QUzSZhIN9MQSy4XJtOCzpsvAXxVWt4kN7g==;aC45LEnHw2lNO4DrZOjUaA=="
 ---
 

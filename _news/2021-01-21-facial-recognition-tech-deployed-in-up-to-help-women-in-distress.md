@@ -9,7 +9,7 @@ ampWebUrl: "https://newsd.in/facial-recognition-tech-deployed-in-up-to-help-wome
 cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

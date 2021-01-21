@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Transforming the energy industry with AI"
+    excerpt: "In the oil and gas industry, digitalization is improving project economics and streamlining operations, with AI as the key for sustainable growth and security against cyberthreats."
+    publishedDateTime: 2021-01-21T13:14:00Z
+    webUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/MITTR-Seimens-webart-Cover.png"
+        width: 1500
+        height: 1129
+        isCached: true
   - title: "How will $1 million in artificial intelligence research impact Florida industry?"
     excerpt: "The University of Florida announced a $1 million investment into artificial intelligence. Twenty faculty teams will study wide-ranging uses on data analysis in a range of fields from agriculture to education."
     publishedDateTime: 2021-01-19T19:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/tech/artificial-intelligence-m
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory/242b9a6a-6093-45ac-a09b-968757a53489"
 type: article
 quality: 72
-heat: 82
+heat: 83
 published: true
 
 provider:

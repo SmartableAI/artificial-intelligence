@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/01/20/google-targets-ai-ethics-lead-mar
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/google-targets-ai-ethics-lead-margaret-mitchell-after-firing-timnit-gebru/amp/"
 type: article
 quality: 103
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google targets AI ethics lead Margaret Mitchell after firing Timnit Gebru"
+    excerpt: "Margaret Mitchell leads the Google AI ethics team following the firing of Timnit Gebru. Now Google said Mitchell is under investigation."
+    publishedDateTime: 2021-01-20T23:36:00Z
+    webUrl: "https://www.m-mitchell.com/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 163
   - title: "Google investigates SECOND leader of its ethical AI unit"
     excerpt: "AI researcher Margaret Mitchell (right) had been using automated scripts to look through her messages to find examples showing discriminatory treatment of Timnit Gebru (left)."
     publishedDateTime: 2021-01-20T16:34:00Z

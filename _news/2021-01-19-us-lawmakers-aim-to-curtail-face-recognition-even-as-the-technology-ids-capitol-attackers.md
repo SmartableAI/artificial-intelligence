@@ -3,11 +3,13 @@ category: news
 title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
 excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
 publishedDateTime: 2021-01-19T04:55:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L"
-webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L?via=indexdotco"
+webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L?via=indexdotco"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29N23L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29N23L"
 type: article
-quality: 74
-heat: 144
+quality: 94
+heat: 164
 published: true
 
 provider:
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
-    width: 800
-    height: 533
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548297838&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0H1DG"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -127,6 +129,6 @@ related:
       domain: insurancejournal.com
     quality: 2
 
-secured: "uPMmHRA7IV8eLqmExH4nmPvYFs9yxBnipZCo8ECHAQm8rd3bZol2P9LRT4WsvYwro0s3336kaE/retlVDFCv7a6Y6QoGSeBfrG3+DMiSC4njDNeoti4aEmb4EP1sBpmV2FTpXdEswkh4E2LfNwqtYCwOTv6V4W6eN8Lt4FyFSz39JSXZlB3OouW9dgg1pPeEMWRW1i1x8Bzmi9HKFK0sKh0ovuNR/C3kglLt15qIl6UAB2bbIOTMlOkyHuzM5oA2bY+XBE5osZhkINHcffOoIOuOOtNBjtuiYGNSzq5z3LLiKkw0oN2inD1y+IDmosIrEwcESpI79azbCjB+uz4HVrCTCSzWFKzBozahk1xM1eSt1zPxyqDD5iYfcGu4M9PPj0tJA6pXSx6Ysnti6GMHAJOqBsEDpuAJPow47d+2w+Bws+dzPXYaTyV91GAZ9gnjXNLz4d8QnSdbCg9vVKzrrn/GQybsoqxYS69mK0FWF9x+JeBiiGRqMBr9BABKB8pl5Q6Eoo28WA+xAACOW8rhFg==;bkOWokBlcgZbdNCyPkA6hA=="
+secured: "jJLRCoFA9ELulWabm0bR/IaR/Ra3OCuK1djsc3zVHuyb/tqhT51LIIXayMKK4t+ley+S12Q/ELS+2f5C54ILbcA60SSuB0LqV8bos0Revf4mji1Dvk7aNPYow6Ytc/JAtHCzRcvnad8DSBqO6lXOk3juLkW/gxTWZkNbq6BKufLcox5dQFn5tP2E8dd3fjUZwv/JfMpF5wKtDJaD/xBWvhuR0wZzLbMKIfUS4tEj0Asm1cfUSKDYP+Ddro8tUskM3lgc6wCnBwOQcvhCjpu/GKG6BRnh1jH6jvVrlwTCh6ZytmIfz7ILdHhAfXmBLaQtBUIESxwA8KZm893XOYUmRs4Ea5XBPp3smeFd0ILvX/Y=;LrgMPHbwgK4/0g+4ExvhtQ=="
 ---
 

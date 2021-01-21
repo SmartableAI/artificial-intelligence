@@ -59,20 +59,6 @@ related:
         width: 1000
         height: 506
         isCached: true
-  - title: "In light of COVID-19 high-tech tools firms are turning to artificial intelligence (AI)"
-    excerpt: "According to CNA News, in light of COVID-19, with more firms looking to better manage manpower with high-tech tools firms are turning to artificial intelligence (AI) and machine learning in Singapore."
-    publishedDateTime: 2021-01-16T21:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/light-covid-19-high-tech-tools-firms-turning-ai-amanda-goh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 46
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZbZpPwfThQ/article-cover_image-shrink_720_1280/0/1610770097853?e=1616025600&v=beta&t=OMQiXwLPLw14Q0ZJJOiKTWbfD2QPRM2KijhOam8urrQ"
-        width: 1240
-        height: 720
-        isCached: true
 
 secured: "ccqW0ntBWKTLv4eltLS122N7YXWXJ3vA7TmQmX0RD4qn2zKSFHjNnxL17088ChWMVxkgpaxTbitqgBEfkgXJR2BuMOdeKuQW3kpW6ykzTTPYHujwMGFAtQgHlug/4AG+BZ8X+U8fwuEPpnwcE/3j20uG20fdlH07Q3PZPWtl/J/9FM2n0U2/jZyQwh9WakJvXxebEbRscJ05xBlbsrbM2WE9PkOdpDpX3OYaCTMOqD30XAZ/ERsuZNL0E77rGq/pHnP9uD7fwXEI9CfeogHmtkVgkniULcfHPBU79p99u5OZzL2mn9fm2mtKGQwA0SLzur0VYJLu89fFz0lzUsorPARgX1mcah7wSRihVRxULiSCuB4RVoaZgoWU8+2NFoSv8Tiqck6p+m8vqEROTDE45XChWGOmPcw3KdLFpARUT2GtKBORLwP1atqNRAL9J+kGL60Ay1SSM97d6tlY6v0bFk8DCp8N3In3aIgDQbNEKUV64hveeeEbPtJSZaqE7n+UNWX3KRx1V2mXaXpXm/5FTA==;A5BBl08YpRspdSwrBeb6iA=="
 ---

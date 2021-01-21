@@ -164,6 +164,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Products Market Report 2021 Growth Factors, Research Methodology With Impact of COIVD-19 and Global Forecast 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Artificial Intelligence Products"
+    publishedDateTime: 2021-01-21T14:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-report-2021-growth-factors-research-methodology-with-impact-of-coivd-19-and-global-forecast-2025-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Infrastructure Market Analysis with Impact of COVID-19, Top Companies, Trends, Size, Growth, Share, Demand, Future Opportunity Outlook 2025"
     excerpt: "Jan (The Expresswire) -- Global \"AI Infrastructure Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"
     publishedDateTime: 2021-01-19T10:38:00Z
