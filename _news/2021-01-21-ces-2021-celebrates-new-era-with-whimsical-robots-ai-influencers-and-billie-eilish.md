@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/"
 type: article
 quality: 98
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "Taiwan's largest and one of the world's leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site ( A MiR500 Robot Lowers Transport Costs at Schneider Electric Talking to Machines - New Operating Concepts With Artificial Intelligence Incremental Steps to Creating Value With Industrial Data Analytics Warehouses Turn to Automation to Meet Permanent Peak Demand ITRI's featured technologies include the Dual Arm Robot System (DARS),"
+    publishedDateTime: 2021-01-21T20:19:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/01/21/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021/16132/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 49
 
 secured: "tweaegcTtq9GrJcq43uEMF4jmYBkSuVtjY8a4GZIN9xtNBg1fCOl5tj5W4L8Dx3pyjn4VWf6TP4K2yMuR8DfZ0qlbuZJndbnFGTenQ4ykKE8oCtpCSt3XtDcdgXdtXd0wXFJsCgMr0frI5Ug8d8aqafeDRNUTxiHoMEqK7J4VKoBy+TjKzpWtvQ8kabwS+gCu1RYQCLLHiEaxRHFhqfkgYy45DhVSjId+FV+i1oU0DVoInM9WNvxHSob8QITumabyjIWgyYyIFllFzzAP9d5mwtScB5O2yD6UHgAhVyUmPpCmg7z5nAVDjhASUHt408P/YdwwyzEQlnHP8CaHxiAYgTpuvBAbFqAjqk0PeA4glt31HeBf1Z+sb9jAYtWLGJ8eYINp07eNXyl0ZGfwWsHZ1Y2FTLxPxRlw0Zt+LPYlK0CwgYKd1GHI+rRN9eOS2pddGon79EWmLKy7j/OKU0bYeJ9wADAKUEu3PqloWkWnOJAL4smKTyfJ5yjtA0b5OyicKbv1PV0e1agOMxgUc+sbg==;vU6VHxLhh9kpZrdvvVT+Tw=="
 ---

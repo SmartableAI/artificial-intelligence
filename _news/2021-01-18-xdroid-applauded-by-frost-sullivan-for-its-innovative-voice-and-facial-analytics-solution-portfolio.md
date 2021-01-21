@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=11789
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1178955&cat=PR News Wire"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,19 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Voice Soars as Primary Interaction Modality of Choice In-Vehicle, Finds Strategy Analytics"
+    excerpt: "Based to Offer Best UX Strategy Analytics - Automakers of all types have largely aligned on touchscreen and voice control as the"
+    publishedDateTime: 2021-01-19T18:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19221518/voice-soars-as-primary-interaction-modality-of-choice-in-vehicle-finds-strategy-analytics"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19221518"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19221518"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "VJ8fyeHQLxBIuRuTdy4xKbaMqwowu/XjBZpLwdllvohHpgmg5Vx8b1MaxOklCEbibKcDsHzCVyouqweOvcp2pdkWm1dMTxF6WX0TKwZ0yWpydoCkRPkagkNrLPzRHO+9bdXQX0Ds8nqSG/KsZ4NIjxPtNGDjBiMuKDLj1xelKRLfrkAhVsA8OVNjPc0uXEviGFXVuVUFGFiWkoq86hSzgj7KHxUgbadjb7ntI7dM2QXMK55e/ilIwDQa4toyrdZQ5tDaNxRK0K9uY97NnYjMS0C75v77XeeeNACawxNpwY0VbAtEFlCFT+6BB3JDTm3V9UH0KYNEk7LoGZ/yPBM7pKVg95yTrACNO6VUY0Oxk44=;OFmCYFUB8f9ZbaJqz5sEww=="
 ---

@@ -2,6 +2,93 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-12-01-apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026.md",
+      "title": "APAC Artificial Intelligence Chipsets Market to hit US$40 billion by 2026",
+      "excerpt": "According to the given report, APAC Artificial Intelligence chipsets market registered a remuneration of USD 4 billion in 2019 and is expected to surpass a mammoth of USD 40 billion by the end of 2026,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026-2020-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-quicklogic-and-sensiml-launch-hacksterio-climate-change-challenge-contest.md",
+      "title": "QuickLogic and SensiML Launch Hackster.io Climate Change Challenge Contest",
+      "excerpt": "QuickLogic Corporation, a developer of ultra-low power multi-core voice-enabled SoCs, embedded FPGA IP, and Endpoint AI solutions, today announced that it has joined forces with SensiML™ to spearhead an initiative to aid in the creation of new and innovative technological solutions to the global climate change crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/quicklogic-and-sensiml-launch-hackster.io-climate-change-challenge-contest-2020-12-01",
+      "originalUrl": "https://www.nasdaq.com/press-release/quicklogic-and-sensiml-launch-hackster.io-climate-change-challenge-contest-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-three-ways-ai-is-transforming-business-finance-management.md",
       "title": "Three Ways AI Is Transforming Business Finance Management",
       "excerpt": "By Swapnil Shinde, 3x Entrepreneur, Angel Investor, and CEO & Co-founder of Zeni, the all-in-one finance automation platform for startups. Three of the four largest accounting firms pledged to invest $9 billion in artificial intelligence (AI) and data analytics products and training over the next few years.",
@@ -1079,99 +1166,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-are-ai-professionals-actually-unwilling-to-work-for-the-pentagon.md",
-      "title": "Are AI Professionals Actually Unwilling to Work for the Pentagon?",
-      "excerpt": "A tense, adversarial relationship makes headlines — but how many AI professionals are actually unwilling to work with the U.S. military? Recent research by the Center for Security and Emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseone.com/ideas/2020/11/are-ai-professionals-actually-unwilling-work-pentagon/170359/",
-      "originalUrl": "https://www.defenseone.com/ideas/2020/11/are-ai-professionals-actually-unwilling-work-pentagon/170359/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.defenseone.com/media/img/upload/2020/11/30/max1200-2/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense One",
-        "domain": "defenseone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-ai-reveals-vast-racial-inequities-in-nyc-homeownership.md",
-      "title": "AI reveals vast racial inequities in NYC homeownership",
-      "excerpt": "SAS and the Center for NYC Neighborhoods analyzed housing data to uncover insights that could help design programs that increase Black homeownership.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/30/ai-reveals-vast-racial-inequities-in-nyc-homeownership/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/30/ai-reveals-vast-racial-inequities-in-nyc-homeownership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-30T173709.270-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/30/ai-reveals-vast-racial-inequities-in-nyc-homeownership/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/30/ai-reveals-vast-racial-inequities-in-nyc-homeownership/amp/",
-      "publishedDateTime": "2020-11-30T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -58,6 +58,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "Taiwan's largest and one of the world's leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site ( A MiR500 Robot Lowers Transport Costs at Schneider Electric Talking to Machines - New Operating Concepts With Artificial Intelligence Incremental Steps to Creating Value With Industrial Data Analytics Warehouses Turn to Automation to Meet Permanent Peak Demand ITRI's featured technologies include the Dual Arm Robot System (DARS),"
+    publishedDateTime: 2021-01-21T20:19:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/01/21/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021/16132/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 49
 
 secured: "cgpYrA2Odi/6mE3jO/sXkBKOqjFAG54iJxDiVCUlNR3IXb+YvVRSsCq/0M4nab3F6o0RY4/YuhOvjzxVw0B4uMJGdifgYt9BLPdg6XA9/fUkbzHVCjUrz1Z14NFoA74FrMhPNcOThZfU/e+Dl/NgqdmO6X3C8i9/+RqhETtU6SgGDO5HAFUnrQsI3zZ5HiidokS+grjuKmBUR9/As3t2HxrM36UMEGwWTQVWlvpcw2iWvmCPEWjCjco05rDmtQizvEYrk1/JFLg1gZpRXPze181hlNO3cmLLDCUCqME2ieXlH5xrtIAQpy71mxQ6xv6prjoCBboOTc/zY+JMzUdbfiCELPvsJrN5PKj50+xb39F2WWPdRCpW1QqLnuYKC9I4QXGeRHK6efDOMcPX2uq1Lk0F2+hNzzsjsVZ+EylrBaY9UaDP5ahwGZgzs847rMyH3CGq7ovXj5ARb0fLoTZ9IZtdem2rRHwyeQlzgwD1cnuqGlKwf30u6bc6uYXPlh5Y/ne8ItGi4ebihmm0tcM5kg==;dc2ikdKjevoHwVe0lJwz2Q=="
 ---

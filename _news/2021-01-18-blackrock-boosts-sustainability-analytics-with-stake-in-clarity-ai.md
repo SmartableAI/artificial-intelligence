@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/37291/blackrock-boosts-sustai
 webUrl: "https://www.finextra.com/newsarticle/37291/blackrock-boosts-sustainability-analytics-with-stake-in-clarity-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "BlackRock Invests in Clarity AI"
+    excerpt: "Separately, fintech platform iCapital Network agrees to buy the assets of AI Insight, an alternative investment education and compliance platform."
+    publishedDateTime: 2021-01-21T20:24:00Z
+    webUrl: "https://www.thinkadvisor.com/2021/01/21/blackrock-invests-in-clarity-ai/"
+    ampWebUrl: "https://www.thinkadvisor.com/2021/01/21/blackrock-invests-in-clarity-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2021/01/21/blackrock-invests-in-clarity-ai/?amp=1"
+    type: article
+    provider:
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 59
+    images:
+      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2020/03/02_Blackrock_Headquarters_NY_MI.jpg"
+        width: 616
+        height: 372
+        isCached: true
   - title: "BlackRock buys stake in sustainability platform Clarity AI"
     excerpt: "BlackRock has taken a minority stake in Clarity AI in a bid to boost the ESG performance of Aladdin, the fund manager’s flagship portfolio management platform."
     publishedDateTime: 2021-01-18T12:33:00Z
@@ -39,28 +55,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "This is why this payment technology company is partnering AI with Analytics, IT News, ET CIO"
-    excerpt: "This is why this payment technology company is partnering AI with Analytics, IT News, ET CIO To stay relevant, BFSI players from"
-    publishedDateTime: 2021-01-19T10:08:00Z
-    webUrl: "https://www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/this-is-why-this-payment-technology-company-is-partnering-ai-with-analytics-it-news-et-cio/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 28
-  - title: "Voice Soars as Primary Interaction Modality of Choice In-Vehicle, Finds Strategy Analytics"
-    excerpt: "Based to Offer Best UX Strategy Analytics - Automakers of all types have largely aligned on touchscreen and voice control as the"
-    publishedDateTime: 2021-01-19T18:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19221518/voice-soars-as-primary-interaction-modality-of-choice-in-vehicle-finds-strategy-analytics"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19221518"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19221518"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
 
 secured: "jKVYCdP+pIoTJIK1jDcCCrV9iqwimt6yQoyVZ8T5Ge5BwY1ToV4r9ZnBS8Xg1oN4zDjTSCHfRZTMvHoxNTyXRt3upttuiWKbEuysWxUcqP2AQw9YauK9C2CPibbo/zO5y94XgFcyiUZeAUl+2fC0TwSTE+nGth8Tvtz0WikOiVCJjc9T1i1234Gj5cKrhX7r6HaMEjXLUCiWFV+vKwGqo4ele83g92r99uBg0jjRrsMdv558oBipsa4L0mEtntDUyHCS5qrfdraozQMpUV2AmOFiqaD/tncL20e242y0YPj20TzooVEtweLgk/lml3Ou+ybv1wI37BUExHmIDXZwXtC0cEL0nIYyzI/YPcmYZ8U=;YY5QaWIgI6unkn+oUAtnbg=="
 ---
