@@ -2,7 +2,7 @@
 name: "Babylon Health"
 overview: "babylon is the U.K’s leading digital healthcare service. Our purpose is to democratise healthcare by putting an accessible and affordable health service into the hands of every person on earth. In order to achieve this babylon has brought together one of the largest teams of scientists, clinicians, mathematicians and engineers to focus on combining the ever growing computing power of machines with the best medical expertise of humans to create a comprehensive, immediate and personalised health service and make it universally available."
 type: "profile"
-heat: 41
+heat: 64
 
 website: https://www.babylonhealth.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "babylonhealth"
   url: "https://twitter.com/babylonhealth"
-  followers: 12463
+  followers: 12461
 
 size: 1,001-5,000 employees
 yearFounded: 2013
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Babylon Health"
 
-secured: "PrYu7FklP9tLJjUxmCDYX/XaV3ctUjl00CLepQ+R0HSPLPFuemRATasWLKdDv2dns6ePL2J/A3imbRJj2on5/kkcpwNTWK3Xo7KYFz2+rMmdeqWeETnMjCW0GQ2wUqX1u4NYQBrleCAkVE/XueXkcCrdTX1RH5W4C+vgKz2CUkIWlQCY40HmkZ8abGmjsOXsiIOA7nEW+FfRh7wSlhqWpnF/YV4gpuCW0GpqEw8jQ1meYtl516pdK1AFwz6nbYwEH4LzHkNWPvrmjOQhUlp1b9ThQyxBtR/Cply70VBNoPaZzid+1xZRg3ren5ywJQRmdkk17bReymusuxVYkPJ1yqmPRG4/1koM0dAgrO55OibICPT58I1x4S6kI/L7SWbmNDhEU2ekuiGP/D3QB2iVBnav6S2YUHNrQf7PnR08Bow=;9jrNn/Pt/DlzUi+0cS/AEQ=="
+secured: "7GitxcsuGzsxmqKNu7l1/V0vAp7JVs/+lySQtYGrOxNwm58IGG22ymbypPdVQfF5SibEpbYPnJ9UbxoyvPvfKzH9nNPTWGPtfbXx1zdDE2D3kwxxzxegVPxlcScCaVPim/LXVJeatMcCHOcvndxm1wqUugooQsg4NkrSNJyJo/a0Ei+DELq4jPcrcgqEmoozfeSGm0xVYIg9H0YF4f99ddmGOfHHNHA5JKnmg3FO5KAga5MArqbwBzjmest3wH86GoyIsirsYNurr3uJwBfQzMA7CHnInzvIOK6kiRJYymAmUvh4NrQynqP4RV0xUT8ct83tdbhJsvOHQOdLgWCdrwfDgZMNCPEdpYn9YDSGGM4eUXAVXtbWVNsTKsjWHZLdcX1EZwERGWuf2GKrWgb+jJphA1J0SphnJN3Oa+8NfAw=;6SZ91kRqFlGt8zSr/GznSA=="
 ---
 
