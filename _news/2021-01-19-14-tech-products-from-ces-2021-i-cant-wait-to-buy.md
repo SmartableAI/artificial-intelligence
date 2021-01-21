@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

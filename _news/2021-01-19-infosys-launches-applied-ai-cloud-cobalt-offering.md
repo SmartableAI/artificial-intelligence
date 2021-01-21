@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-co
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19?amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/Infosys-Introduces-Applied-AI-Cloud-Powered-By-NVIDIA-DGX-A100-Systems.jpg"
         width: 965
         height: 543
+        isCached: true
+  - title: "Infosys Builds Applied AI Cloud, Part of Infosys Cobalt, to Democratize AI"
+    excerpt: "Infosys has launched the Infosys Cobalt offering, an applied AI cloud, built on NVIDIA DGX A100 systems. The new Infosys applied AI cloud will be an AI center of excellence for the company, enabling developers and project teams at Infosys to access AI hardware and software stacks,"
+    publishedDateTime: 2021-01-20T23:23:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Infosys-Builds-Applied-AI-Cloud-Part-of-Infosys-Cobalt-to-Democratize-AI-144826.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Infosys Builds applied AI Cloud, part of Infosys Cobalt"
     excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, today announced the launch of an Infosys Cobalt offering - its applied AI cloud, built on NVIDIA DGXTM A100 systems,"

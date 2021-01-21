@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005ff901c6ca277f62e83f1%2F0x0.jpg"
         width: 730
         height: 439
+        isCached: true
+  - title: "Talks on data science and AI at IIT-M"
+    excerpt: "The Centre has awarded its mentoring fellowship to three world-renowned researchers for their valuable contributions to the domains."
+    publishedDateTime: 2021-01-21T00:10:00Z
+    webUrl: "https://www.newindianexpress.com/cities/chennai/2021/jan/21/talks-on-data-science-and-ai-at-iit-m-2252962.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2021/jan/21/talks-on-data-science-and-ai-at-iit-m-2252962.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2021/jan/21/talks-on-data-science-and-ai-at-iit-m-2252962.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/10/26/w600X390/IIT_Madras_EPS.jpg"
+        width: 600
+        height: 390
         isCached: true
   - title: "Cerence Introduces Cerence Mobility Platforms; Delivers Voice and AI Experiences to New Areas of Mobility"
     excerpt: "AI for a world in motion, today announced its Cerence Mobility Platforms for Automotive, 2-Wheelers and Building Mobility. A focused, strategic approach to the company’s growth, Cerence Mobility Platforms deliver industry-leading innovation to three core areas of mobility – automotive,"

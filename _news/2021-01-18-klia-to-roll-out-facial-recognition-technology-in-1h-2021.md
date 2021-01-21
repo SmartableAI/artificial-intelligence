@@ -41,6 +41,22 @@ related:
         width: 1500
         height: 842
         isCached: true
+  - title: "This Site Published Every Face From Parler's Capitol Riot Videos"
+    excerpt: "Faces of the Riot used open source software to detect, extract, and deduplicate every face from the 827 videos taken from the insurrection on January 6."
+    publishedDateTime: 2021-01-21T00:33:00Z
+    webUrl: "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/"
+    ampWebUrl: "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/6008823e103a85a519187c3a/master/pass/parler-face-recognition-illustration.jpg"
+        width: 2095
+        height: 1178
+        isCached: true
   - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
     excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
     publishedDateTime: 2021-01-16T16:19:00Z

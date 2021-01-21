@@ -61,6 +61,22 @@ related:
         width: 1000
         height: 506
         isCached: true
+  - title: "Fintech Advancement in the Time of COVID-19"
+    excerpt: "As with most years, I started 2020 with a sense of optimism, looking forward to another productive year at work and doing the Appetite for Disruption podcast with my co-host Troy Paredes. In fact, he"
+    publishedDateTime: 2021-01-20T23:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Novel-Coronavirus-SARS-CoV-2-COVID-19-600x511.jpg"
+        width: 600
+        height: 511
+        isCached: true
 
 secured: "9ZUfnh3JMpK7j6jCtBdaXFekqsuvA+OOiEZqb2JgMPLdEvtrbNzU3dpF+1G+3plGWfxugYWACBqdpdN+QgCfoSuGSUR7qF/nnyRsx9krjSALiiXqRhBeqRTspLmYZ+fsje2EIYcVFAvz7UZ0TN0S6k9c/fNm/eHYyG+DS5h4J6ckgv0Ucqpp5yhIk1EbXsIqrujrvx+kTaLoXZjIMxqZl/p8MFMO7Q302M502LYc3BD1N1kumimh0UhPgx+aqBed3a9a5iCHnKUPpWjoV18vUxtoddwZSdLPnwcpU0E+HnWnfdDs34OvVugMp/ohswqsJSfvJsLnNo0K1hjPculdz2ghYza84GvdjYZYrfJ2Ut6PWkXu5U6mwa2oiANg4yxH3yPZu24hgKx/zgTLqPxhw1FmGTapgqXV3a5x8Vrxmi7l73L7VZAPeWrPYrX0hx2d052AF6H7nxPtKrxH+jfyFOfi6YrMlXBuOHNyQbvL88S8uCQi2isL3bhvb+75N9eWAxffN3GEHr8UV8RVe5sb9A==;gkU4KN5xS80Or4RwzGLt+g=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -244,7 +244,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -296,7 +296,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -683,8 +683,8 @@
       "title": "The Promise and Peril of Facial Recognition",
       "excerpt": "Agencies are using the technology to identify the Capitol rioters.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines",
+      "webUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445",
+      "originalUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -703,7 +703,7 @@
       "type": "article",
       "ampWebUrl": "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445",
-      "publishedDateTime": "2021-01-13T20:10:00-08:00",
+      "publishedDateTime": "2021-01-13T14:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",

@@ -60,6 +60,20 @@ related:
         width: 965
         height: 543
         isCached: true
+  - title: "Infosys Builds Applied AI Cloud, Part of Infosys Cobalt, to Democratize AI"
+    excerpt: "Infosys has launched the Infosys Cobalt offering, an applied AI cloud, built on NVIDIA DGX A100 systems. The new Infosys applied AI cloud will be an AI center of excellence for the company, enabling developers and project teams at Infosys to access AI hardware and software stacks,"
+    publishedDateTime: 2021-01-20T23:23:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Infosys-Builds-Applied-AI-Cloud-Part-of-Infosys-Cobalt-to-Democratize-AI-144826.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "w1Qs8OUIB3VMllLajPyWpD7683q1n41kHkuelnYCI+gwqCf2pIyZBzCBqhIzyaS9JLY/lka9vJXNr6kGRYWhbrL6xkT8ZNd/x1ULnbtf+LXS+dS2a02FNOhMLKmg0g8z1n9l75t4/e4AXtqcsVZ6Rlvjqw1UGEoowOisIS6mctbb/J7KOEVz+8MqjEhcstMB82UeVGXgVX0JwpdPxhVdkkP5b1BknHU09E64EXXTavYj9OIZWlv/o15a8UiQxYuyzqgUiBXU5cGcSRzuJNB5QiQ6j2J3PlW6DFRc9YBHwsNeynpHFruPQIfSOwRUOLHSPXAmGg9hlYXRJs3DehC83SaQKPlWR5mCVHsGdoRKa5k=;nv/IyEtv4ht5qQtVLgee9w=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "Facebook enhances AI used to describe photos for visually impaired users"
 excerpt: "Facebook has announced new improvements to its artificial intelligence (AI) technology that is used to generate descriptions of photos posted on the social network for visually impaired users. The technology,"
-publishedDateTime: 2021-01-20T03:09:00Z
-originalUrl: "https://www.zdnet.com/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
-webUrl: "https://www.zdnet.com/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
+publishedDateTime: 2021-01-20T08:57:00Z
+originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
+webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
+ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
 type: article
 quality: 88
 heat: -1
@@ -177,6 +177,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "/g8PDoPFo+7jyVeWJDIr8RLfN1M+sncUGqBTRENkR8N1Xwczrhq9ZZ38tt7JJfdlFOB2MBY/IK5AJZAhu6DBLkUGam0ENdaJ8ErxMp1MaM1kW9lVaEa+Jv5rMsf1NE/+HF5CQ0MF5oJpjA+sOtB6yYnJtxRuJU+F/kQta3E85jAMNY7B1swPgasBq2PJQ3763/SL+B8OOKmXo1iONfzuiMc42dU9vuwAKrIHVh+1X6e6wQJbU07gsbwghkHTsyNYgnN0/z2dmKx4E98Tw2YV2IGn8aXd6SwTlQMiR0IdH4EI736W5tbxgmxq2fCzLX7IEHxdXt6dnFH6d4Os6jjoo/5jXdh8wnTBwcD0NgBeDTM=;C2DJVh0SJgbTwC2t2zGYlw=="
+secured: "86e6VUZYgNm7fjO1Y+OL2ZleBRfNVH8ngARxvF0k898zH4m+m4Kgoc497EqFguLmVKbclQWVw3WmLvbcKw0S4ZMh7xInP/AzpYMDKdg88iMt+AXxlei9qZkuPWUDHM+zZBpD3oF6oCHRsTy2wvMrfiQ0ktC0PlRUnCronUqiGIjkyNWbKwxkYMKi6um7/NkVBjh6nm6I2XWLEotH6st8ctNiobdOvWSUmilCwQZk+qDq3UbXrHhH8cSj/z936NoUIXgjX0mdJE0k/DhT+xuM0ugxmTex/tlWps7UKJzAlvuzyu6jDPvu77fMDNdpNC3XrcAd0aCZJmbzOorNiDUVvOxuACi6GQ3m/XcL/yibsT4=;g/ciIkG78j7l+X2GZ+rqzg=="
 ---
 

@@ -121,9 +121,9 @@ related:
   - title: "Microsoft invests in General Motors' self-driving subsidiary Cruise"
     excerpt: "Microsoft is touting GM and its autonomous vehicle subsidiary Cruise as adopting Azure as their 'preferred' cloud provider."
     publishedDateTime: 2021-01-19T06:40:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
     type: article
     provider:
       name: ZDNet
@@ -215,11 +215,11 @@ related:
         height: 675
         isCached: true
   - title: "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used"
-    excerpt: "Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms."
+    excerpt: "Microsoft still wants to re-use your voice clips, but will now ask for permission first. Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms."
     publishedDateTime: 2021-01-18T07:35:00Z
-    webUrl: "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
     type: article
     provider:
       name: ZDNet
@@ -968,6 +968,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "KGNlRjCctFrzfKGdUPP5Q9tiykCM/jreA1nApBe06MLhXGl4GwopuifAGhtAWd7l1HtD8Y36lvS1H+N1Ln3Q368bV/wdVpqxQggaHb1XrJqR4EEIidKKIDp5TJd6jgxX4R2m6k6de8RionguPaFcH6lK7y88sgPIgfLJI4pej1FudAUWHsNP/rSFd5v/3TK3H9nzwDdQIZaxyVzxbYNB7p7//krykzdR0Jkv1zgyz9mK8JnbF9OjcRTipBPKg7fO1mu0ujAm7LJ5qgl8ELBLA/vtr3XS3V4koLpYyiZRJ9cXpvRfx+W0FljlGrwq1YRmf5acW9TwWdb9m/WzT6KKDLUldgVbxebAuVt0euxFSpA=;0zM8O582oZB72U8uYLA7nA=="
+secured: "XPuKcbsGV/3wrzyws2Xyb3qvwQm3i4TcNR++yYqC/9FVqEXkFrxDh8d58qYmCiDsFEs0njiiSgZ2uT2LCWBxfyyTLcjT6Dbwo+4pZQUE2bk5snRAyR5APOUo+fZkH4kRWkR1dT8lYz4pgJ9qHzUss/e0rJT3JtE3Zd2s+tjxWMNC1/3OU4WOF0tpUq5ANaW6Y89ghXaY/m+CTvLDudHMCpvVsBSz4IxWYEeN8K7Ne0KTEkuQ9gejf2IXoCgBKjjSTT4ajMzAYLUMbJfC/GCRtmCBkw/ETOinB4X67/cwZsBwNJAKvBOv3nDfbqQM22gXqbNi9TyP75BJud0UiuRfebocmtiAw4WZQrr2POVr5yJfMr3tN2oH1nO1HTKPAO9iPb0IXSTW8vLwV03adtvwJzA/mStV0en457kC7pQNICNqd5eJxXInyBw+TyeO4D/G9A27Kxiipzzi0nlVjC4TvOzAaIkgx2l6B2pVFKYL/gc5mi4AccEPkXgvu4KnCXO/He80D9FzN3ju0l021WP4Bw==;9yy8UhQIbfLcbm3vBU/4rw=="
 ---
 

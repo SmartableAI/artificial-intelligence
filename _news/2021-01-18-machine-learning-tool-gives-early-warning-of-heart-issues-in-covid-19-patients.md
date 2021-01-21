@@ -41,6 +41,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Mount Sinai researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
+    excerpt: "Mount Sinai researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."
+    publishedDateTime: 2021-01-18T05:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/tmsh-msr011521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
     excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called 'federated learning' to examine electronic health records to better predict how COVID-19 ..."
     publishedDateTime: 2021-01-18T16:57:00Z

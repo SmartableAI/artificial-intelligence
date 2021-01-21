@@ -56,6 +56,22 @@ related:
         width: 730
         height: 439
         isCached: true
+  - title: "Talks on data science and AI at IIT-M"
+    excerpt: "The Centre has awarded its mentoring fellowship to three world-renowned researchers for their valuable contributions to the domains."
+    publishedDateTime: 2021-01-21T00:10:00Z
+    webUrl: "https://www.newindianexpress.com/cities/chennai/2021/jan/21/talks-on-data-science-and-ai-at-iit-m-2252962.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2021/jan/21/talks-on-data-science-and-ai-at-iit-m-2252962.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2021/jan/21/talks-on-data-science-and-ai-at-iit-m-2252962.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/10/26/w600X390/IIT_Madras_EPS.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "0Z3EIoxsJCFx2AZpXCSVI5vRKU8Y/D7vEvjvTHcdbheJvlOee+4wHdIyghI3nXnaXJFnaiSs093aCSLS8Oor+6gMnoH6uG5RcUDyioe+MWP0+1PF30WrXOHxWXUe5jlsFUWM9ASw1vBFM0/ZuHAcEDOsWkMOgJa/vV5+U31lCt4QdQDtJrnhhr1FR4va7nofG2LCh8nAUUEsxKVOaGZZedRu5GzUVQJB7+K7yu/Xs0vKuuwk0QYJaftvOo59BzOEKH52d0sal/Lc297jouFG/Zef1xq79If/seSlM4uu4VWr781w3ABOuMjn5LN6qB5wyXGF2zKqcOMHNnIPpH0YaVKQi4kkmO83cZSg5XDdlRs=;vLlpdkEM2PoLMLGMRKHnvQ=="
 ---

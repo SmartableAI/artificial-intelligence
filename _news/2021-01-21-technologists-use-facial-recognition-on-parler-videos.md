@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Site Published Every Face From Parler's Capitol Riot Videos"
+    excerpt: "Faces of the Riot used open source software to detect, extract, and deduplicate every face from the 827 videos taken from the insurrection on January 6."
+    publishedDateTime: 2021-01-21T00:33:00Z
+    webUrl: "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/"
+    ampWebUrl: "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/6008823e103a85a519187c3a/master/pass/parler-face-recognition-illustration.jpg"
+        width: 2095
+        height: 1178
+        isCached: true
   - title: "Lawmaker looks to rein in law enforcement’s use of facial recognition technology"
     excerpt: "The legislation is the result of the Norfolk Police Department's use of a controversial facial recognition program without notifying City Council."
     publishedDateTime: 2021-01-16T16:19:00Z
@@ -115,6 +131,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "kOjvQ0fDm4xkgCwIkJ2sxrvWhR1w7Z3pj6WPg/b5E25yChwe1Nu2On4ZXA0uzmESsmIwGHpm/uQojrdynDDj/t1qVZHM8C1mBe+3KXsqFllYBKRgQTY3ZBqBbV5uiNF2qZGN8sO0QUEo7DuoqAZTJ6+4XtFEbHtFXyy+TYMzJEtciWIrONlzN7iaYljgp3hYGJNcqIsStbND7OFLLi2K09wXJD6BKfEbhB8Dwp/Aq7jueYV98liU39iBiilvgdHvadZasBcuzeRkzU3Tl6TtIXuNM43L4n3ohGFC+SOI5gBSKjROyAONDGBxUZ3uz5BGMNczStVBo65UYNxrEnEG4qb1i8TGEZr09PhOtYa1Zws=;Flb2l1L1e60tmL7QX50nMg=="
+secured: "gkRFNGp8bupyncd5vyLFaiRoqlldnbhYJPsAQ2WIvGtPU8hluQ77TxVVVNE2vBiYS1X3KbTTXK3DM0WfYWn+DN3MrZqLFny7YAcUe5anCeHWx1SK9RDGQ1CRb33IoQUNL5j/HD0FZEqRyJQdpo7jMeR/dHNPeWe6MCYAOzr2eDpS79ON56DuVEu2oevJ5Rxvm8Dy0M1BJgEb2YteBeFQ/3WxoOH5fDrM3n2jVzrHCtRdbUkBqvIAx3s+xHAlO6XouIDMv1YqHVtbjNe7euHG/txJQUMpepCFsJ1NMUxBTi6URjKxcNa8XE+NhQGZ+ALV9ZEtPVAc0SDwlrRL+JTgxrnSiVmza3lWFYpkUVmoF8HXEdenpB0X348oXGt02P2bTYNR9TgoDrRTx9qMZVWXxep4fWpc4F1LHKaybEtkAhhcxQ5lGd2gelTenUxL9xoiJ31VWYQJe0BdfoBKzZNSFqczteJklD5HA7Ibzkkr1PpdWZJhj4WNGe8tZxZ9I73Ig6PZPOJ3kDC2qsthUn0Sng==;rAJMuLvK3cJQBrHKXJedVw=="
 ---
 

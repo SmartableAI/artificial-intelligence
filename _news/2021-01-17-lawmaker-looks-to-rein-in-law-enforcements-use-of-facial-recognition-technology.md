@@ -43,6 +43,22 @@ related:
         width: 1500
         height: 842
         isCached: true
+  - title: "This Site Published Every Face From Parler's Capitol Riot Videos"
+    excerpt: "Faces of the Riot used open source software to detect, extract, and deduplicate every face from the 827 videos taken from the insurrection on January 6."
+    publishedDateTime: 2021-01-21T00:33:00Z
+    webUrl: "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/"
+    ampWebUrl: "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/6008823e103a85a519187c3a/master/pass/parler-face-recognition-illustration.jpg"
+        width: 2095
+        height: 1178
+        isCached: true
   - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
     excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
     publishedDateTime: 2021-01-19T15:16:00Z

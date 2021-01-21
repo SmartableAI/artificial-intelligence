@@ -2,28 +2,24 @@
 category: news
 title: "Acerta Analytics & Global Alliance Automotive (GAA) AG Collaborate to Expand AI & Machine Learning in the Auto Industry"
 excerpt: "Acerta Analytics and GAA will extend their partnership providing in-country resources to support and deploy Acerta's advanced AI and machine learning solutions to automotive customers across Europe, North America and Asia."
-publishedDateTime: 2021-01-20T20:23:00Z
-originalUrl: "https://www.lelezard.com/en/news-19609149.html"
-webUrl: "https://www.lelezard.com/en/news-19609149.html"
+publishedDateTime: 2021-01-20T20:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19242262/acerta-analytics-global-alliance-automotive-gaa-ag-collaborate-to-expand-ai-machine-learning-in-th"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19242262/acerta-analytics-global-alliance-automotive-gaa-ag-collaborate-to-expand-ai-machine-learning-in-th"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19242262"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19242262"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Molecula Secures $17.6 Million in Series A Funding to Democratize Machine-Scale Analytics and AI"
@@ -36,6 +32,6 @@ related:
       domain: insidebigdata.com
     quality: 8
 
-secured: "T/GyeTJh8VB2VdV43UFcPtk8zdxHxQF0/z6tPo0GpdAKdqgSI9eNHmXjBNUVRnYX+QdBWa/iwneXmJU2RVlQL4ta8u2kxNXWAlMWXgmsEwyDVG+Fbsd+58j2NlU4bz1EbiDzL+gFkeY6mGrpPagmnWeLBJpFaOeveV75kIAz4F6AIJatLat+Rdm4P2OiX/zvdeNHeNiAanCAcZ1B8/rDPpJbNarNff7XIbhanqidfFQvqIuw+kzV4ZictkR2kAuRgGhD8eP5N8R2sPWnryp27pLU6rWcg8ppkBGWG/odp7ZPDNEbq0dOAbRyvyzRMJ1yrU/Gyrn0M0A1CXMAEqbZ6HftzkT7dSE+IzdvQhKYgmg=;u/nVSbOz7od4sQp4O37+ZA=="
+secured: "DVQhER35L0x9yG1b4237ztrdDMW2avbjP1rfRLRe+oS6PTiX59Yv6nuXkoXARgFJCaUGzu1ETE7TPkLK/9QS+UIpOBtCcDtB1f8w5n9f02svTKtweNAvdHfPRME4c3rjOvHRk5BSj2KdG44vDI0krp1zw6euCOz5Pn18gIkd4dxvc9FaNgZNhOL0EawXnaRYNQbIwx4/PyDlYu6jxvYMu8pDhkychOnwwyYvPCo+uroCsJKJfjiARQ2ig2RSdAkjb/gy7u/sFTkRG94YJqWsB9/5THeQ3EHxg5OxixfXXrnCHg3p/7RsZRvsN80kl6xYmylNeZe4ftK1qhfFuZiQeJW3MC78ZA1UbVhW30uqpyM=;ickTaseWGSqpJbnxr4Og0Q=="
 ---
 

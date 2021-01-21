@@ -3,13 +3,13 @@ category: news
 title: "2021 technology trend review, part two: AI, knowledge graphs, and the COVID-19 effect"
 excerpt: "AI chips, MLOps, and ethics. Knowledge, and Graphs. COVID-19 as a mixed bag for technological progress and adoption"
 publishedDateTime: 2021-01-20T08:16:00Z
-originalUrl: "https://www.zdnet.com/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
-webUrl: "https://www.zdnet.com/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
 type: article
-quality: 84
-heat: 94
+quality: 80
+heat: 90
 published: true
 
 provider:
@@ -21,9 +21,7 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
-  - AI Ethics
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2018/05/04/c838f755-7efa-4ab2-ad10-b322acbf5234/istock-692654376.jpg"
@@ -49,6 +47,6 @@ related:
         height: 627
         isCached: true
 
-secured: "+816RVpJ8+NYOXhhpEESKaNFsPSjX2SM6iW0orGBIMOl8/MbYKMNHhb4NR+thSODDJUMkntqZDAh/KZKLufyxNlHDc3faUcup5UxyTSQ5AdN/6VOHQlqQwR++L1mJchbWcHV1OQSaZxiYfQxW9IYbWhFw3ENw1T1sC+D62QDq/gw7o71h2WVkYzYHqhKf5Uy1WrPpRKu8t68mF+aqXRGcWwLDvOxLfkiDy6zh3rrQMwOxnUnjm8ST9Tu2FYq2iYwVaiOSGKCRZA9zFbcokZ+IfqEcZF5XegBahUDdEhBg6JjmPrhyxje7LyFrk52D6+ZW+jp2QdTkCTgvfMRW9yYE3KKTQFJzrW5lceoZF/HgQVvMXzG1ovNoV22T4ZUOSm9yjWy5VV3XeRq3GX78/d3P/4hzzEoKVmh3gVIWYRW58Pcf6NzpgCoIsNVhBUnJJcZD2vAuyjORksQLkeA64JD7jS43Bwwkx5lMX1KnF05lSMnkY0Y86Bty4WHHOnjQNsMc3qJXO6QIw5wUrKUeIDLGQ==;06WtWzyyArY9dixcdCsdsQ=="
+secured: "CLxhCjUuprygEa6qF2Z2cWRcd2SsrWGfq1e4UDZirYyL8RTmByHISWJu6xsBJfXZtNPdr/w8Mx6Z4Yb7YpGv1JLjAY/hvdvrruZN7RNXfuJBcxgd//tTWNz9F4b0IgbQqP+FKXz6rcc9VkMGLnJAwLA+tM34DKNv58cT6YBc+2jClkP8vTTlxBRY9yGuOkOjoKU7bM1rWYO9qtfNww00IL3SYnSjkaszNg12H5DCxpVkVmJclhJQsLZRcGQ5S7IoKwjEXFqWF+lg8RLMJBtmpO7wvr1na61VZFwM9fRIbflllfVn658M6PclfNGv43mBWp49fc1dG67UxfOWvQQNZiqu1Rt/1CHFlzWaphKzE2I=;S8MOCghf/PBB23C1ZuNfMA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-ai-software-can-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
 type: article
 quality: 95
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZbZpPwfThQ/article-cover_image-shrink_720_1280/0/1610770097853?e=1616025600&v=beta&t=OMQiXwLPLw14Q0ZJJOiKTWbfD2QPRM2KijhOam8urrQ"
         width: 1240
         height: 720
+        isCached: true
+  - title: "Fintech Advancement in the Time of COVID-19"
+    excerpt: "As with most years, I started 2020 with a sense of optimism, looking forward to another productive year at work and doing the Appetite for Disruption podcast with my co-host Troy Paredes. In fact, he"
+    publishedDateTime: 2021-01-20T23:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Novel-Coronavirus-SARS-CoV-2-COVID-19-600x511.jpg"
+        width: 600
+        height: 511
         isCached: true
 
 secured: "aiJGmRT7tCq+396tWIis4/rz9tf8BGQWRVkanpI3SQ8u5U4Zi9Q4jtdTNU2J0cphvZFz7IxCVv4LUSeQgm8YwT9JRNAzO+DPE80Vw5IcWygIfDUnAgxX27lCuCbOLiAz/hgFdinbxHunlVyemvEwL8pUee7STxBYjXw5kIBzaJ+OrfCSedz2ScSmZLx3fcj3OuySOj/6uzS+JeoRoht3+EG+W9OQf0ad9737PHJDSo+/CC3lK4eaTbgoxi+LL2i1IomipDW0JFhOQNn4aN3Ptw7pWsV+fEbj3PocoI6oHYiPlLg4gzZWfIgyJrz3eHHne05MX/nfhLO3MzSwLxTMB2mFcYaqE41EJP6eZlxq1C8MIxSM41q6tZowFdttdU4belWjFjUTsoY+RAHhe4Z7CCa3h/+49zlDii0VsV3rD+q44s/NroxwVRuN0pGmR4ujmvd1jS0xXbgwmPfe01cFLQFArwbqV026g1NnNZGE3em5VH4Kmve9iIiRUaDMTxhxKDodIdP+qdwFw1vyoX1Xpg==;btB6QVLy2roybDTcnCROSg=="

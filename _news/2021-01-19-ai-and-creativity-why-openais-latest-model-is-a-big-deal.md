@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Talks on data science and AI at IIT-M"
+    excerpt: "The Centre has awarded its mentoring fellowship to three world-renowned researchers for their valuable contributions to the domains."
+    publishedDateTime: 2021-01-21T00:10:00Z
+    webUrl: "https://www.newindianexpress.com/cities/chennai/2021/jan/21/talks-on-data-science-and-ai-at-iit-m-2252962.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2021/jan/21/talks-on-data-science-and-ai-at-iit-m-2252962.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2021/jan/21/talks-on-data-science-and-ai-at-iit-m-2252962.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/10/26/w600X390/IIT_Madras_EPS.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Cerence Introduces Cerence Mobility Platforms; Delivers Voice and AI Experiences to New Areas of Mobility"
     excerpt: "AI for a world in motion, today announced its Cerence Mobility Platforms for Automotive, 2-Wheelers and Building Mobility. A focused, strategic approach to the company’s growth, Cerence Mobility Platforms deliver industry-leading innovation to three core areas of mobility – automotive,"
     publishedDateTime: 2021-01-19T14:50:00Z

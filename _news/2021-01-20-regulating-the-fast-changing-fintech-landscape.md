@@ -43,6 +43,17 @@ related:
         width: 600
         height: 447
         isCached: true
+  - title: "Is Recent Fintech IPO Upstart a Buy?"
+    excerpt: "One interesting recent IPO that has been flying somewhat under the radar is fintech lender Upstart ( NASDAQ:UPST). In this Jan. 11 Fool Live clip, Matt Frankel, CFP, and Industry Focus: Financials host Jason Moser take a closer look at Upstart and what investors need to know about it."
+    publishedDateTime: 2021-01-19T16:43:00Z
+    webUrl: "https://www.fool.com/investing/2021/01/19/is-recent-fintech-ipo-upstart-a-buy/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/19/is-recent-fintech-ipo-upstart-a-buy/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/19/is-recent-fintech-ipo-upstart-a-buy/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
   - title: "How FinTech IT Leaders are Driving Modern IT Operations"
     excerpt: "Over the past century, businesses of all stripes have either increased efficiency, become more competitive, or reduced their cost"
     publishedDateTime: 2021-01-19T18:56:00Z

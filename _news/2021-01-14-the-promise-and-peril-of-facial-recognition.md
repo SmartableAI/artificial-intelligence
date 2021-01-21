@@ -2,9 +2,9 @@
 category: news
 title: "The Promise and Peril of Facial Recognition"
 excerpt: "Agencies are using the technology to identify the Capitol rioters."
-publishedDateTime: 2021-01-14T04:10:00Z
-originalUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445?mod=latest_headlines"
+publishedDateTime: 2021-01-13T22:10:00Z
+originalUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
+webUrl: "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "b/1NLlO3dFVfqfmG7Ua9mmQF4KQkGBnIho1N7ESKDy51x/kmBhwX4rLuYif0+gT7BL3jwRkObTDmCJAY+FY35vlI87e2PIlETUT0yMvEYJGeKABYvLyMM4ZdbkF61xnDivgl0xeZX7pmXHMTrxQBhl1hIidb2s9VXOw3EE1EfVcQHGO/uny70OC6vXib0AhO1ASMLUoR2sw3uclHaiE/knx27/VodwGflAYncocgIuJT2f2CzpwLIxdzSg68Q8G3K3ZG+b1fsGpaERNyzlegRP2vQT6ur7mumj6cXOqENCkRH3T3YuywaQQl1AwHtKGD1XUKLWkhBTunG6VaT+nHNFHJNVpbx9B34/D9NXNl4MQ=;GmWuLQs6WTj1401pzhooIA=="
+secured: "2701fmDs8GJWePdJGa2EfnfBezkHbknmRqbHmnLJr3GKt7U2SQaf9zsMnqiEa7Adu9cCcX4Snl9MAlL+4bGMM2hYtlE6tJRaONYl3si1lRldvCWrD29jetncPT7mPB+4wxHO4zaeYlr+A6js8dgtLJ/6q6hTdhy1g8+4DveY0xIh5szN69D54NzmXkMPjMrGQ1zuwcMJzLpJfIuKvKQAOcZ6yHB9bZu5cPkUtA1+Hj+7TC3C+GXr+48ZcO0VWawtnA0g2sYoOmSbD+leDL5fUz2UgxD7Tpyf0srCw2r1oCeFUVD3tKn+6J05gDqzgV1CPrUC7f4R4/Tl+7E79JDRaEPwou1r0VI5G9wrm5Or8+c=;GkUemklzU6qWLLicWwtPVg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-power
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/"
 type: article
 quality: 89
-heat: 150
+heat: 149
 published: true
 
 provider:
