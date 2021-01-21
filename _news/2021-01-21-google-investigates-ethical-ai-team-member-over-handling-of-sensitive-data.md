@@ -1,32 +1,43 @@
 ---
 category: news
 title: "Google investigates ethical AI team member over handling of sensitive data"
-excerpt: "Axios, which first reported the latest investigation said Margaret Mitchell had been using automated scripts to look through her messages to find examples showing discriminatory treatment of Timnit Gebru,"
-publishedDateTime: 2021-01-21T06:28:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data/article33623867.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data/article33623867.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data/article33623867.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data/article33623867.ece/amp/"
+excerpt: "Alphabet Inc’s Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
+publishedDateTime: 2021-01-21T01:35:00Z
+originalUrl: "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data"
+webUrl: "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data"
+ampWebUrl: "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.thehindu.com/sci-tech/technology/mwqj62/article33623898.ece/ALTERNATES/LANDSCAPE_615/google-ai-researcherjpg"
-    width: 615
-    height: 384
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c24beea8-2f80-4be7-8a30-bc57baf899d4/a74a6776-b80e-42d9-b9a7-74f73bb7a609/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
+  - title: "Google investigates ethical AI team member over handling of sensitive data"
+    excerpt: "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
+    publishedDateTime: 2021-01-20T09:48:00Z
+    webUrl: "https://www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
   - title: "Google probes ethical AI team member over handling of sensitive data"
     excerpt: "Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
     publishedDateTime: 2021-01-20T10:23:00Z
@@ -43,15 +54,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Google Investigates Ethical AI Team Member Over Handling of Sensitive Data"
-    excerpt: "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
-    publishedDateTime: 2021-01-20T09:23:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-01-20/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 62
   - title: "Google \"Investigates\" AI Researcher Over Handling Of Sensitive Data"
     excerpt: "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
     publishedDateTime: 2021-01-20T09:23:00Z
@@ -69,6 +71,6 @@ related:
         height: 400
         isCached: true
 
-secured: "IYPgf2A/OeQm/VwrUYcmjiRua+CXz6U8GW5jPRg8Zscva96L27Xy/JGsV8az5PcVU/W1HeohespmyDej7JQnBAx3bUDKVYTV2zuadt/Hf7q8GjTtbMoAkdR2J4SrHSP01gzgJ5NEp4ZCeNv0oWegJwJO1NB12Ekn2OmTkX9jGzQSpWvidcazflVvfvMzrPrH7I+5t02mMfTPF3701U1HBxfvWu8EgRVDjumElcSx/P4X3EEdwgiG6jGGle/vmMNKt5SfMfCvNp82jaQAJ5KRD0Q/nrqYXgg+swMCyRttHUt0dbngj/hU62yNg32g0OXomj+/9u4jg0/qsCFYmw7v9YLV3fVtZQmLmWM6WdWHilg=;A+yhZEoeI5UX9cAXUq8UeQ=="
+secured: "Ydxi9W8GI7mpJBOV9QzvJOgCd6gDlocR9bliN7B9LUxNWPimpuMBGvPUjUtSQoMukMqYv+/r97ziNm0Eumyq5gN4QntdeQtASQ2fks4dAomRXAXT3NZFE0Z+rFGcpGAjhWS3hoqCE2SHXTzw4I42pYzOY6wcH1Nhcq5FWtuRMIfbE4MyCYY5UdMFy+4zJBNwJlK9/oGuhzF3jfDc1p99sGQdF7QDOE2YP6eDaib7ZEi6f120c5W1Qde35QdeASD3VtdjBgFSFDF13VlJV37u9j/0+nL12r3b1XGth3+7t+epA0I383uodwCOHnipFap3w2wobKUnpn1gdBmvcycZ1bNBq2NY+yJtXjDnDIIc+Rw=;K6MwoqKyHpYNXicISZKgKg=="
 ---
 

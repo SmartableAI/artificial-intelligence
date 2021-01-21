@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-y
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Google’s new AI can win a game without knowing the rules"
-    excerpt: "Google's new AI can win a game without knowing the rules In addition to offering the Internet via hot air balloons, Google's parent"
-    publishedDateTime: 2021-01-16T15:25:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/googles-new-ai-can-win-a-game-without-knowing-the-rules/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 39
 
 secured: "nMZt1kKwwhpg2KajbWVgalPjvXCyUH6G7VAl5jTKSTMUugbWuQ6Gtz1oaWDyzDEelkvjgJXryz2km7giVJIo6iqFAMN8uHPhfnamQjMKwBvfVRszciHY9NEttXk+ezWD2CiQogc8q2q/eMgAbzV6gvudOo8F/+45SHetheePtSHFnjf5dEQKXkAGzLcPU1KIa9h4aPD3B9FpKA/l+5eQi7X1pTCwzwNmeZWm2QqRYeg6p9VdjQ+trg4V4xHFzo+oVm5uv7lGWCgnf5vKUZenEHy3xnCd0uMJCCynB7jAhrTDcqmZsYPadpeAv1JMDcVjSGmi1YX8BlZG7t3X0Zc5quTy4hHetC142O+FWxu2HXK6DkhyeZZ+ESe6ZaWWvLlEUwEV3vroJmmve7HZrzkZyTWGGjF4Y8dP+HZ8FJ6Dr1Q/WdR/EQMLDdMvPefPtZSL6giszZQs5hK4VK+Pcgv3hY8KVfPJva6g0mN63HIrOCJ4IIaYIEd2+fjoRrn3m+RIttru6BfF7fV/WWP5FhkIJg==;Xj6CsP2azrXklc0kKwVRlA=="
 ---

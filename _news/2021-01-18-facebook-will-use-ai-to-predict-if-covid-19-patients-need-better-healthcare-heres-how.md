@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-i
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
 type: article
 quality: 98
-heat: 198
+heat: 208
 published: true
 
 provider:
@@ -163,6 +163,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1611000254.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Facebook is getting better at providing more details to visually impaired users"
+    excerpt: "Facebook is improving its Automatic Alternative Text (AAT) technology to better utilize object recognition to generate descriptions of photos"
+    publishedDateTime: 2021-01-21T07:05:00Z
+    webUrl: "https://pocketnow.com/facebook-is-getting-better-at-providing-more-details-to-visually-impaired-users"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 35
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/01/Facebook-AI-for-blind.jpg"
+        width: 1536
+        height: 864
         isCached: true
   - title: "Facebook AI now better describe photos for visually impaired"
     excerpt: "Facebook has announced new improvements in its artificial intelligence (AI) technology to generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users. Way back in 2016,"

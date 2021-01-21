@@ -7,8 +7,8 @@ originalUrl: "https://www.embedded.com/etsi-report-paves-way-for-standardizing-a
 webUrl: "https://www.embedded.com/etsi-report-paves-way-for-standardizing-ai-security/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Embedded
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "First global standards for securing AI on the way"
+    excerpt: "ETSI SAI is the first standardisation initiative dedicated to securing AI. In the report, the problem of securing AI-based systems and solutions is unpacked, with a focus on machine learning (ML), and challenges in terms of confidentiality,"
+    publishedDateTime: 2021-01-21T07:05:00Z
+    webUrl: "https://www.itweb.co.za/content/GxwQD71Z4eVMlPVo"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
+    images:
+      - url: "https://lh3.googleusercontent.com/1YtEKuSUxY1qBWaY9BcRMo0kAZsEstuV54ChHg8orspy0dBbN7B7eSFrgvBWoeFiV1wxPXJPcX7SyEW80CBMFErnuDspmB6JJ6FqTQ=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Using Artificial Intelligence to Counter Cybersecurity Threats for Drones"
     excerpt: "Drones can now be equipped with cybersecurity powered by artificial intelligence (AI). SparkCognition and SkyGrid announced a new partnership to protect drones from zero-day attacks by installing an airspace management system that relies on AI instead of signatures of known threats to detect malicious actors,"
     publishedDateTime: 2021-01-20T01:28:00Z

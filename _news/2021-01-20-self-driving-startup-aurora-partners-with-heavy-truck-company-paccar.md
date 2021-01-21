@@ -823,6 +823,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cruise and GM partner with Microsoft to commercialize self-driving vehicles"
+    excerpt: "Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their"
+    publishedDateTime: 2021-01-21T08:45:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/21/cruise-and-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles/39819/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 39
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/cruise-gm.png"
+        width: 763
+        height: 765
+        isCached: true
   - title: "GM, Microsoft lead $2 billion in funding for Cruise, team up on technology"
     excerpt: "General Motors Cp. and Microsoft Corp. are leading a $2 billion investment round in self-driving car startup Cruise in a deal that will bring the software giant’s cloud and edge-computing capabilities to the venture."
     publishedDateTime: 2021-01-19T14:54:00Z

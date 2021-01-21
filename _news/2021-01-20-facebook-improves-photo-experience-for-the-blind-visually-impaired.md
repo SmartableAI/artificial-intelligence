@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Good News for Visually Impaired: Facebook can Describe Photos Better for You"
+    excerpt: "Facebook announced new improvements in its artificial intelligence (AI) technology. Facebook can now generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users."
+    publishedDateTime: 2021-01-21T08:08:00Z
+    webUrl: "https://www.medindia.net/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 56
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/facebook.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Facebook Releases Revamped Version Of Its AI-Powered Automatic Alternative Text Tool For Photos"
     excerpt: "In a nutshell, Automatic Alternative Text uses artificial intelligence and machine learning to give blind and low vision Facebook users more detailed descriptions of photos."
     publishedDateTime: 2021-01-19T18:00:00Z

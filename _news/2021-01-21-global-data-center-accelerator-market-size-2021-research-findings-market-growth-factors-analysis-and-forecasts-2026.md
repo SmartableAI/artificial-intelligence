@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Fintech Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) in fintech market is projected to accrue massive returns,"
+    publishedDateTime: 2021-01-21T08:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
     excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Facial Recognition Market Report\" provides data, information, brief analysis, company profiles, statistics for past years and forecasts for next few years."
     publishedDateTime: 2021-01-20T07:05:00Z
@@ -167,6 +181,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cleaning Robot Market Sales, Challenges, Business Revenue, Statistics, Size, Share, Key Players, Demand and COVID-19 Impact"
+    excerpt: "Cleaning Robot Market Sales, Challenges, Business Revenue, Statistics, Size, Share, Key Players, Demand and COVID-19 Impact <br />  Jan 20, 2021 3:50 PM ET <p>The <a href=' target='_blank'>clea"
+    publishedDateTime: 2021-01-21T08:59:00Z
+    webUrl: "https://menafn.com/1101465527/Cleaning-Robot-Market-Sales-Challenges-Business-Revenue-Statistics-Size-Share-Key-Players-Demand-and-COVID-19-Impact"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?205618"
+        width: 393
+        height: 250
         isCached: true
   - title: "Image Recognition Market - Global Forecast to 2025 - ResearchAndMarkets.com"
     excerpt: "The Global Image Recognition Market Size Is Expected To Grow from an Estimated Value of USD 26.2 Billion in 2020 to USD 53.0 Billion by 2025, at a CAGR of 15.1% The image recognition industry is driven by various factors,"

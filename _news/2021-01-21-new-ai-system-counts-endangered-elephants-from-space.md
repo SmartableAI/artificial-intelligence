@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endang
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 796
     height: 449
     isCached: true
+
+related:
+  - title: "Elephant populations surveyed from space using artificial intelligence"
+    excerpt: "The world-first study opens the door to more effective methods of monitoring the movements of endangered species."
+    publishedDateTime: 2021-01-21T08:51:00Z
+    webUrl: "https://www.sciencefocus.com/news/elephant-populations-surveyed-from-space-using-artificial-intelligence/"
+    ampWebUrl: "https://www.sciencefocus.com/news/elephant-populations-surveyed-from-space-using-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/elephant-populations-surveyed-from-space-using-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 57
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/01/GettyImages-1292611562-3163682.jpg?quality=90&crop=5px,34px,929px,400px&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
 
 secured: "/OPVCJGun+rqznBcjYSrG+HqAwPEas+mJgqXlqAIFoT4qQ+unR/Bb5qPvPrevvzWDswE+mvNYc366S9eo5rXAEJlHTF1ayFDc4FfmOMTvk5lfqSs6ZkDFw1OrJgPGS1Ubo3AcpHiw+2ONNjqeskveFasJKPghPr57i2vdbWo4IoY5qxpCU8tFvq+zhZ5Fz7Z6TQ9jsiE/gOzVveT1TJa1ZYm7JCEJdXbP9FR2I3IYrwZH5hAMPxpUly7xw6Q0nYcrM43TaXu0I7V3zbOpM56oEBcPprmwv4rMl/av3YeX82HtaYnOEWXKnmXc7l7BmdhwwXt/lCT8zQEOlCaQxSG/jko4tfo9hmJ68Dh5dnCjWjAk1JVsV4/mq0X393AHeESPJNATRq6DbQEFob+JgD7VvK3KBIWTrCtdqPVvwhrdh4drN/8peOrfeg4RKPF2DIOBBU/QXK48wRRiRjQUs4/Osp7hB2AaGYVp3e0l0Gdg3GV2EXNVvNbz/z9Is+LE8jjdSaSLb4b9HBheCmvcM/UZg==;92OqQXJAv3A2LpJxLQCNSw=="
 ---

@@ -171,6 +171,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Facebook is getting better at providing more details to visually impaired users"
+    excerpt: "Facebook is improving its Automatic Alternative Text (AAT) technology to better utilize object recognition to generate descriptions of photos"
+    publishedDateTime: 2021-01-21T07:05:00Z
+    webUrl: "https://pocketnow.com/facebook-is-getting-better-at-providing-more-details-to-visually-impaired-users"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 35
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/01/Facebook-AI-for-blind.jpg"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "ogNLe+R02S31OUgPLJ1Q+unVgEWgi/u2jQJV0ZdMPY3BMTXC4q/K7t6WRsEXaarC8tv3Jiku7S8hOBmA7DumpjuzR5mcQOWRXRJ7NJ5lBvN2jQzqR9FkW0zNHwT3p1ngzbhflYqkE9nXQauitIYh072nSU6yfuZWRkoHepvVMAfON7B6lyd7Hf0JAMxpYPsyHguQKw297LHUudmcAYx1wcE29M4VLcHXUR8zse7PCdpkqYjr1O6T6VkiM1hFlzApzA4oM2qUYU0H6f5IHpgpfyhmorbV2XSAyY2gFOypve3iS+1Jkk7uwCQrNdA80AOFqN3LaLITdFRQMB93Aex4ap2ID0eWgx5Lshs8WWuvn9lzU2K6nJNxul69vuC8qJ3J4u1jjA6jIQSGBqHCeAIAupCRMo8QVQ7eJlGIDZPsuZDn4HlpV1KFikvkuWCQaOdaZZFlh7oHSKatUD/5KC/LGrzvkbwaxtn1V4fJL5Cv2yEstFUWpkesp99HBSoenRMX3lswqzENTKHCLstX+c6d7g==;YY/Q6vp9dCvJKidzshVC/w=="
 ---

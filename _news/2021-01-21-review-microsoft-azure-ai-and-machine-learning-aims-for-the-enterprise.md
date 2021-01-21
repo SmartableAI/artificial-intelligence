@@ -820,6 +820,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cruise and GM partner with Microsoft to commercialize self-driving vehicles"
+    excerpt: "Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their"
+    publishedDateTime: 2021-01-21T08:45:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/21/cruise-and-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles/39819/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 39
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/cruise-gm.png"
+        width: 763
+        height: 765
+        isCached: true
   - title: "GM, Microsoft lead $2 billion in funding for Cruise, team up on technology"
     excerpt: "General Motors Cp. and Microsoft Corp. are leading a $2 billion investment round in self-driving car startup Cruise in a deal that will bring the software giant’s cloud and edge-computing capabilities to the venture."
     publishedDateTime: 2021-01-19T14:54:00Z
@@ -950,6 +964,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "5mq+mR2ONPmolxTbInnsl0yb28XegKM7kkki2HKG48fRQFA5zspVAg+q6Y91GneDSgo01gF/V9svwlvmAmYZBAM9csAPDqxdzUNZ8fpDREySVZLen5JEzhZlIpvBt4ChmtRJUlk74SUdaz3m/0DBFdcpzgl40dhsyQvf8fmCeLNnUbuiXM0IZpBcjyaqxIMl9T5BzSxhVCHHhZVzLFNgrwT8+M85PH12PG2Q9/x+i8JEh3k7zXgnPqrXISfCbW3xNX7azgxTYgK0ye06M06OB3LURDY0G4IK0OG17unoSgru5G6PacRBiymJj1GgaKtk+0hcsxENVO6ymMKQfTa3U61IzgNopQYq8PLdfcXkQ0M=;Pj7ae51ZU8S1Nvtq6FE9og=="
+secured: "sSeB23jtM0EzfI+ZfhUpjgH9t3pWGSTudsDtmQTJo6O4mmz4pmKcnPIzOH82G8y6+XiUIt66kN0JFw4QAprmQLDCaNiBdGubqXNFjaEEA+XFZC5PU4tBxK9CYWv8b7+0j9KpXAOzTaDuzXKiyzJvReusRbj/JyiLwv6paWT9XP+UpGND0wohy1hQI3svprSABW7kDuV2PPrhXYrI3YVz75MdP2zNMplt8BnaMV+IMitUuqddIvmHOWaRiQNwjURraFQTFqXwPPiOaP3fjgG2s3JrTseUHzia6CI1vNSNG7Fq1ztqOhWS3bAqcJ7gHFUGpTD2kL7H99Fy1IR0OHODJxyPBCY9xPK3CjrFZAIO/98cvWHiJH0YOC1MV3l4mbeQPPAehOXl5F996kPgH/IlSdLMIQ6R6OfZa+vsO4KiaXQMRDPCOkv86zK354DaZNyY0K09I9w3bb815WJz4ZZEjtfewCBidPZwc9AvuqN/yuRmWysQVoNTq7RjXBnUBXU5Q8l4i0D8BtrlhbRdxRSkJA==;ZjokFe4d7TmgyoV6oE5tOQ=="
 ---
 

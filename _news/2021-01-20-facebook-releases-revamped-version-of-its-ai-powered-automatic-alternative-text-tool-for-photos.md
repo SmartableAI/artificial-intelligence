@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Good News for Visually Impaired: Facebook can Describe Photos Better for You"
+    excerpt: "Facebook announced new improvements in its artificial intelligence (AI) technology. Facebook can now generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users."
+    publishedDateTime: 2021-01-21T08:08:00Z
+    webUrl: "https://www.medindia.net/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 56
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/facebook.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Facebook Improves Its AI Audio Photo Descriptions for the Visually Impaired"
     excerpt: "Facebook has been using AI to audibly describe the contents of photos for the visually impaired for some time, but it's improving those efforts this year."
     publishedDateTime: 2021-01-20T20:08:00Z

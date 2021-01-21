@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 894
         isCached: true
+  - title: "First global standards for securing AI on the way"
+    excerpt: "ETSI SAI is the first standardisation initiative dedicated to securing AI. In the report, the problem of securing AI-based systems and solutions is unpacked, with a focus on machine learning (ML), and challenges in terms of confidentiality,"
+    publishedDateTime: 2021-01-21T07:05:00Z
+    webUrl: "https://www.itweb.co.za/content/GxwQD71Z4eVMlPVo"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
+    images:
+      - url: "https://lh3.googleusercontent.com/1YtEKuSUxY1qBWaY9BcRMo0kAZsEstuV54ChHg8orspy0dBbN7B7eSFrgvBWoeFiV1wxPXJPcX7SyEW80CBMFErnuDspmB6JJ6FqTQ=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
 
 secured: "lkHdN296SYrsplJIefDZ1tivcEnbiqG7pmxSmqOmb2JW4GK7iDCSmpDQraKuerKPMDpxBI+LlCH5bQGGtOSGp6kQM0NCJ5SQ6CyXVLl/8q/zETd/acAwFAXTLpeHNpIwahWGyGVfIpsnXB4dTRuIZXCE9lwdMMqVWlXsBwLNPIhwlUsQs1t7Ts3pxC65MGdKEFa7HvN0pURfztc6DfAh6qMX9jFDTMH7Vrw8Jzle98pSG4Ubq3Mwhznk6tqvTd3hBpAUSZbOuCxLY55gVNsemWDAykvIBaxFch8UlPQTJDxjVVQeEh9n7hOBx4WrhsCscYPZ6pOJLsUDJR7lBD5AjD3oZ3PgxZgUJdF843abAx6Dt2Aj6uyNnbmxPNyVSggK1QkF12XR99qMPf0kYJEERQNuzhCpRj3Im+byboGfOtYPdC8zFEFQ+viLyhWoitj74EuCA7eW8m+E7hp8fXQkAZ0zdtIi9UiDyQ5bd63ddOcSfUH1VNgg6uqyepVxrHHE8dIBMwtLQBKnHTDDhompWg==;USux698s+OXYoUIeNRPliQ=="
 ---
