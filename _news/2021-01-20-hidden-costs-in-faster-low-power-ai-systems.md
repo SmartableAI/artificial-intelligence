@@ -62,7 +62,7 @@ related:
     provider:
       name: Brookings Institution
       domain: brookings.edu
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.brookings.edu/wp-content/uploads/2017/04/rtx32l58-e1611244906453.jpg"
         width: 4092

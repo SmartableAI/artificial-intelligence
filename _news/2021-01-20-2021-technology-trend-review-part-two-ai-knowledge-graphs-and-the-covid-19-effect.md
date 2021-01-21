@@ -3,13 +3,13 @@ category: news
 title: "2021 technology trend review, part two: AI, knowledge graphs, and the COVID-19 effect"
 excerpt: "AI chips, MLOps, and ethics. Knowledge, and Graphs. COVID-19 as a mixed bag for technological progress and adoption"
 publishedDateTime: 2021-01-20T08:16:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
-webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+originalUrl: "https://www.zdnet.com/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+webUrl: "https://www.zdnet.com/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
 type: article
-quality: 80
-heat: 80
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -21,7 +21,9 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
+  - AI Ethics
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2018/05/04/c838f755-7efa-4ab2-ad10-b322acbf5234/istock-692654376.jpg"
@@ -29,6 +31,6 @@ images:
     height: 577
     isCached: true
 
-secured: "Vsqbjfac6L7nw6AYDFXGZAdMW0DMrW4WI6JV7hnPestAHgigfb8w5wRB8odGKk1f0v/0aL+YPu1Tgrl8jPJQ3td73Mtc4StxfNXf4j6lJy11q4a7zABA537pKphA0UHaXsH60KYi+aR1jf/1LpvhAZP/Yg9qZucblw+mxM9ZwKHs9R6NpgfQduk0GX74u8kdwmyCsok2lL7blSUWCEnkfRbCYavjmKDvLh9a63Ar2b0+vHB6V2FmTtvCrLrivjgW+TRC76woXYnoj/1Pk3U+u3nH07XRn12OgpJ11Kd54DrumwLTpAJoF7Q5nIewfGLtEmsY2/KCl6PaTYWuIdG+cJBX/qDesx2VHx9NGZ144ys=;4t7wFp7dcvCDTKDvhGJUeQ=="
+secured: "CXhOGNE0404WGD2nkTY5O1Nkl79zPRIoZFT9lXDPz0NTfkAFCpJ+GTsfO5t9eT76EBN6MoL7Wf9PJvu3T1voMdSe8PgSLNi4wP0ioYCF2jdJ19t+JBHGIvCkuz1aP56GaoIVIBP//VUKqQIzjaJgNJTfL/n7Yo0yXS8lh4gioZZwcQ9ywzcY8BciCiy8x2iGXbvynhY688ehbLo7pyJnKkQpfo3dsavjBWoXoqGYbdGevQBrwM6Aoh3x+ejECMg7KW1e8FcomaqZBi8+PeUzT00ytZWczTmrp//YGAmAT96qrhpnXqzicTUv9Grh4QT1WBOsC+Xo3YcHzMGnU4Y2bQ8Hf4YeI3Dh0txqL/mrC6I=;1IG9jl/iOyvH2qOUxI7UdA=="
 ---
 

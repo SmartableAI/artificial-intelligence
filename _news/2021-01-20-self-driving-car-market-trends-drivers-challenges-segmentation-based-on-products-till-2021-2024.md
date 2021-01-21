@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Toyota and Stanford Just Built a Self-Driving Supra That Can Drift on Its Own"
+    excerpt: "As far-fetched as that may sound, researchers at Toyota Research Institute (TRI) and Stanford University’s Dynamic Design Lab have built a self-driving Supra that can do just that. Of course, the vehicle isn’t just an experiment in doing cool things—even though that’s just what this is—it’s part of a broader attempt to make the roads safer going forward."
+    publishedDateTime: 2021-01-21T21:10:00Z
+    webUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/"
+    ampWebUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 41
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2021/01/supra01.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "The real self-driving revolution remains years away"
     excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving --"
     publishedDateTime: 2021-01-21T16:33:00Z

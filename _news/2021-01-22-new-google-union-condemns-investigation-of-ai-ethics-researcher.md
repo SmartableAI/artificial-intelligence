@@ -43,6 +43,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "New Google union ‘concerned’ after a senior A.I. ethics researcher is reportedly locked out of her account"
+    excerpt: "The Alphabet Workers Union has said it is concerned over Google's decision to lock Margaret Mitchell, a senior AI ethics researcher, out of her account."
+    publishedDateTime: 2021-01-21T22:01:00Z
+    webUrl: "https://www.cnbc.com/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 71
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/103724796-GettyImages-461180134.jpg?v=1532564092"
+        width: 3000
+        height: 1978
+        isCached: true
   - title: "Google Suspends Second AI Ethics Researcher: Union"
     excerpt: "Google has suspended an artificial intelligence ethics researcher weeks after dismissing another member of the team, a recently formed union said. The Alphabet Workers Union, which was created by employees of Google's parent firm,"
     publishedDateTime: 2021-01-21T16:59:00Z

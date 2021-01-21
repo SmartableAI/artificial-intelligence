@@ -8,7 +8,7 @@ webUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-g
 ampWebUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.brookings.edu/wp-content/uploads/2017/04/rtx32l58-e1611244906453.jpg"

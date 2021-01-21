@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Designing customized \"brains\" for robots"
-excerpt: "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture."
-publishedDateTime: 2021-01-21T18:57:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php"
+title: "Designing customized 'brains' for robots"
+excerpt: "Researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture."
+publishedDateTime: 2021-01-21T21:17:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/01/210121150958.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/01/210121150958.htm"
 type: article
-quality: 54
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Designing customized “brains” for robots"
@@ -54,6 +52,6 @@ related:
         height: 350
         isCached: true
 
-secured: "wkS8vgDDkKODphY3uaS/IISv+lsdBuXBqRu0caru9sf6cKNGxLOr0D3AoXFCJt5VfvAvclpyXlBofj1aWMz//FBmZn/ARrE5KXUyyBJl/qjIRfIuc7LlvQOAWCLhRkZC2e8WmhsET4J0WgBidYdpP4SDBhJo3cb6NeVJyrqO5+FCjTCWA7PcRUGEWZ1Tt0IoyISF/pVh8AeCikJKAsDoOI4Hya+TzkZ/fg98e2HmZ2H/i/nwIe07NozkxvEM39sk2AQqUzhDYZFb1TcUs33ymHnpET3sqkHFceijSZXn6bZfmXtUbOCQYYmLpN9dK5s27cmEkNHbMRkeLf0XtexX1aUfnWfU4NJiyNceAvBDZ34=;B3Sxv0c8K1PEbjjrCOZJuw=="
+secured: "4Msi8zGEXSxLZD3DLzr73hHQ3FJofMm/ORHibEAeY6Apgueo4iuSlBuXHFppuxcRTDP0vUhUeTs4sV0ieFgz/w6w1VxGJcI3LaWcxAqOjgzNv4f1lHtmrQR7NgdO4WHQzGudA/m2/VqKqLJOJmAfclDIITflm55g/zF6NTa7+4iF6TDqpwvdvW2NPkBFBDABrlxa2GJ1YxfqLP4pqoDv3GieAICfVLw0Rr4OyuYiHl25eFUAbpqdgCHBWrocNK8Ehcz7ehJYfDmcBZzampLkyItto1wsJDj/gg+9IH95d3MhoLvd4Ka8KUPnuEHIMkPAq/vZQri6+TmRuQmKuqdego6rsQY4ueCQ0Si1ROBhNvw=;XKn6V1h8FDb5zpHtLgGCMA=="
 ---
 

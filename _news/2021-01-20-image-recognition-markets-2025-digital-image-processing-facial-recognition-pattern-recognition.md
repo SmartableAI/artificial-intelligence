@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/image-recognition-markets
 webUrl: "https://www.prnewswire.com/news-releases/image-recognition-markets-2025---digital-image-processing-facial-recognition-pattern-recognition-301211658.html"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Entrepreneur wants to change how we shop using facial recognition"
-    excerpt: "Grand Rapids-based Iris Technology wants to use its technology to replace bar codes The system would use facial recognition software and computer vision technology to replace scanning, checkout Co-founder James Meeks intends to demonstrate the technology to large grocery retailers Some startups have modest goals: they just want to carve out a niche for themselves and make a profit on the margins."
-    publishedDateTime: 2021-01-17T05:04:00Z
-    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/entrepreneur-wants-change-how-we-shop-using-facial-recognition"
+  - title: "Capital Markets: The Last Frontier for Digital Transformation in Financial Services"
+    excerpt: "By Dr. Avtar Singh Sehra, CEO, Nivaura The last decade has seen financial services undergo vast digital transformation. New technologies and a greater ability to digitise and automate processes have brought greater efficiency and effectiveness to the sector,"
+    publishedDateTime: 2021-01-19T07:20:00Z
+    webUrl: "https://www.globalbankingandfinance.com/capital-markets-the-last-frontier-for-digital-transformation-in-financial-services/"
     type: article
     provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 39
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 18
     images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/James%20and%20David%20IRIS-main_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/01/graphicstock-businessman-touch-graph-improve-suggest-more_H_IrIjvlol.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "MAHB to roll out facial recognition for passenger authentication, replacing boarding passes"
-    excerpt: "Malaysia Airports Holdings Bhd (MAHB) said today the group is rolling out the first phase of the \"Single Token Journey\" under its Airports 4.0 initiatives, where facial recognition will replace physical travel documents such as airline tickets and boarding passes for faster and safer passenger authentication at the Kuala Lumpur International Airport (KLIA)."
-    publishedDateTime: 2021-01-18T08:28:00Z
-    webUrl: "https://www.theedgemarkets.com/article/mahb-roll-out-facial-recognition-passenger-authentication-replacing-boarding-passes"
+  - title: "Speech Zadarma is offering free access to their widely recommended speech recognition analytics tool until March 2021"
+    excerpt: "Speech analytics is transforming many aspects of business, and is especially beneficial to any sales driven organisation. Zadarma, most well known as a leading global VoIP provider, also offers an industry leading smart speech recognition and analytics feature as part of their incredibly easy to use and highly affordable telecommunications offering."
+    publishedDateTime: 2021-01-20T13:22:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-voice-recognition-computing-and-information-technology-933e88f3ccee3d1896bd7108774e370d"
     type: article
     provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 29
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
     images:
-      - url: "https://assets.theedgemarkets.com/MAHB-2_20200928161859_malaysiaairports.com_.my__3.jpg?As6YzEYd0NIf3.vPreRPh5_ENOOkT8QK"
-        width: 1200
-        height: 800
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Y102RL++CfoHy5NW6srEhChFRnUUZ6jWFD0V6UURp8kkFADGUTGeSGamhdHnlgAwNutiTUYxtJDV3eCDwR3ltg3HPcU4pyfgb9TFS++HnavWn+C/jI/b8fYA/EH1g357EdZrpRjy8RxQvH9/3EK2uX437RieNK5A4BEs95XVc+xc2ir5t+37JJtsVZBj8kN9x75Ih3n6OsSFg/zHrjYJ5UVqqccVGk+bBdmOpVi6oRD/Tun+siN0YpK2BX8PRwa/E5fPZqdA8Km7HcHsldAJk+JbOd7i3JG560wT0q7RjgbocsgTzec3UTq3FwqFz1hswRS1viiutCXVTXqDSZVT+EDTyGYsQ+b/gLfudc16u+I=;TxAC4WOrEEv4A+dP1sIykA=="

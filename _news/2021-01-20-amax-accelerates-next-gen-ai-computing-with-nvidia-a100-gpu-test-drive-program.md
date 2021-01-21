@@ -55,6 +55,20 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "It’s time for a data architecture do-over"
+    excerpt: "With the amount of data that people are moving to the cloud, you’re going to see the use of analytics, AI for business outcomes explode.” Chirapurath spoke with Dave Vellante, host of theCUBE, SiliconANGLE Media’s livestreaming studio,"
+    publishedDateTime: 2021-01-21T22:58:00Z
+    webUrl: "https://siliconangle.com/2021/01/21/its-time-for-a-data-architecture-do-over-cubeoncloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/John-JG-Chirapurath-theCUBE-on-Cloud-2021.jpg"
+        width: 1565
+        height: 880
+        isCached: true
 
 secured: "6qRbrvLLzymuf8KmJJQADdsY5aXrJ6ZFGioUyqnfceJIjT8qVXIRFnNq6nJUouIYf4MfKvXTDFLvD7v5vR+Z49fdwCMq3pBxTdE/0iYLufozNQfcnYEdoaO5maO9PwGxt3Jx8GLBKAYBZ7tCMrSnHNCEHaUIGryqAkYkNRz0sZrnV0T9mAAHygiLP7GTmVEE+XlttHFGNaniJeOXqC9hEHc9ndvn4Y2K1XN968Y/uZeEe0qzRW8k6jUvmNePJ27OT2f7WYk0Fvq7mCebA7DclOM3OKNUd60MKM1wYUtOMYj/bsxw3Wc7vXNupqcxkYPYVN7rdHgMbHO1VjXven/AbRa6CaZNsBonjWjdIKv8xcw=;sFmF53nBDQdB4KDhm+X23w=="
 ---

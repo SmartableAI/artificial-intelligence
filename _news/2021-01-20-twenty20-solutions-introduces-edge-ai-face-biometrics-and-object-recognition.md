@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/twenty20-solutions-introduc
 webUrl: "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition"
 type: article
 quality: 51
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "German Police face biometrics use increasing rapidly, report shows"
+    excerpt: "A total of 76,535 queries were made in the facial recognition system of the Federal Criminal Police Office, up from the about 54,000 in the previous year."
+    publishedDateTime: 2021-01-21T21:21:00Z
+    webUrl: "https://www.biometricupdate.com/202101/german-police-face-biometrics-use-increasing-rapidly-report-shows"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
   - title: "Sensory natural language recognition, voice biometrics design platform launches"
     excerpt: "Sensory has officially introduced a new voice user interface creation platform that can help developers implement voice biometrics to its portfolio."

@@ -78,6 +78,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "German Police face biometrics use increasing rapidly, report shows"
+    excerpt: "A total of 76,535 queries were made in the facial recognition system of the Federal Criminal Police Office, up from the about 54,000 in the previous year."
+    publishedDateTime: 2021-01-21T21:21:00Z
+    webUrl: "https://www.biometricupdate.com/202101/german-police-face-biometrics-use-increasing-rapidly-report-shows"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Apple hints at ultrasonic voice biometrics, in-display fingerprints and foldable screens"
     excerpt: "Apple is reportedly working on an iPhone with a foldable screen, according to a company insider who spoke to media last week, along with new biometric sensors."
     publishedDateTime: 2021-01-18T23:32:00Z

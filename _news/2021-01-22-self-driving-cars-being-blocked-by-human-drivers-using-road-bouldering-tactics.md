@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F04%2Fwing-mirror-nuro-driverless-autonomousm-car-delivery-bird-regulations.jpeg&signature=1f56ea53a4de370f2a5b584b66038b0f"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Toyota and Stanford Just Built a Self-Driving Supra That Can Drift on Its Own"
+    excerpt: "As far-fetched as that may sound, researchers at Toyota Research Institute (TRI) and Stanford University’s Dynamic Design Lab have built a self-driving Supra that can do just that. Of course, the vehicle isn’t just an experiment in doing cool things—even though that’s just what this is—it’s part of a broader attempt to make the roads safer going forward."
+    publishedDateTime: 2021-01-21T21:10:00Z
+    webUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/"
+    ampWebUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 41
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2021/01/supra01.jpg?w=1000"
+        width: 1000
+        height: 562
         isCached: true
   - title: "Self-Driving Car Market Trends, Drivers, Challenges, Segmentation based on Products till 2021 – 2024"
     excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."

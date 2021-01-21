@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0JM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0JM"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1176871826.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump pardons Anthony Levandowski, the engineer who stole self-driving car secrets from Google"
+    excerpt: "Tech billionaire Peter Thiel — previously one of Trump's top allies in Silicon Valley — was among those the White House listed as supporters of Levandowski's pardon."
+    publishedDateTime: 2021-01-21T02:17:00Z
+    webUrl: "https://www.cnbc.com/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 62
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106648265-1596584130509-UBER-LEVANDOWSKI.JPG?v=1596584247"
+        width: 4393
+        height: 2928
         isCached: true
   - title: "Trump Pardons The Guy Who Stole Self-Driving Car Secrets From Google’s Waymo"
     excerpt: "Anthony Levandowski was sentenced to 18 months in prison, though he didn't actually serve time due to COVID-19."

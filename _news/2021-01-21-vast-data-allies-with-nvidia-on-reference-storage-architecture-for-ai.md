@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/decaying-homogeneous-turbulence-405x228.png"
         width: 405
         height: 228
+        isCached: true
+  - title: "It’s time for a data architecture do-over"
+    excerpt: "With the amount of data that people are moving to the cloud, you’re going to see the use of analytics, AI for business outcomes explode.” Chirapurath spoke with Dave Vellante, host of theCUBE, SiliconANGLE Media’s livestreaming studio,"
+    publishedDateTime: 2021-01-21T22:58:00Z
+    webUrl: "https://siliconangle.com/2021/01/21/its-time-for-a-data-architecture-do-over-cubeoncloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/John-JG-Chirapurath-theCUBE-on-Cloud-2021.jpg"
+        width: 1565
+        height: 880
         isCached: true
 
 secured: "pWBghIAQZ8b7r4yjmPcEez1WWlBP7ga6E9IzSfPcmAAg2/DGOEikgdYuGQ07nYzfKKPMA4JelHQVXdKpnheU8MqloaBFU+7aK7KI7RpRrwvnR9qbqcxX5IRyxhG20KOYxYjydnMxVor1NN/LuS/VOT3h34UXYmgoyV05rDh7GpyPXqLnxu50Za+2sz3bu9VNklFvo0xiDLYFUc2zdp5GgRvV5pWUvRPzicRfueEy6vGgOBY7+NvoJwmYcwXsTeFi4Lu1T0x9YRR8O54LF6cqjANgWTHZFThMTq3ULx4huggfKtEW72TtUnBjPf0ITcNS069kdQhJhoGOFCgcc7SO4qt1JZVK7/1sFnx0dWqI0lptqfxhskg8FmHkITJFJVzbSjwBgUiXsTkOK9cGgBOlKA2NK+Wjo2WCm+locO4l84YY9RBuvs2l0CQY5SQ7h/WKSo2OiI1arg9zbUcGAzZH8ibQXUbl22llgEORxSLpxiE+nvrEX069dRnIVIBiz2whVECwe10i/Mnq1keegM0hng==;6JYGLjbFBFof22v1o74MTQ=="
