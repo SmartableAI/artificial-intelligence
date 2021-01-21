@@ -2,11 +2,11 @@
 category: news
 title: "Trump pardons former Google self-driving car engineer Levandowski"
 excerpt: "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit."
-publishedDateTime: 2021-01-20T15:47:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-pardons-google/trump-pardons-former-google-self-driving-car-engineer-levandowski-idUKKBN29P0J8"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-pardons-google/trump-pardons-former-google-self-driving-car-engineer-levandowski-idUKKBN29P0J8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29P0J8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29P0J8"
+publishedDateTime: 2021-01-20T13:50:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM"
+webUrl: "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0JM"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0JM"
 type: article
 quality: 74
 heat: 124
@@ -25,7 +25,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548405767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09P"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548414698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09X"
     width: 830
     height: 545
     isCached: true
@@ -103,6 +103,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9OEdK67zBeUca6LZNVplfW1zqsuQWiEMypJETc2hazg9UvwsYjErKkv8dzX1H0Elbe0XC8WObvXuSY/AyeMh03bwkpW0CmEAQcRMD9OcihDh1nomMbXWtQWuyu3o9eiwpvvzEgat70nhElMxctp+Wu45ccnva/0/2WwfwpXzTu8MpZxlUeZsuDzh28UJ79tJ0NqGP5pG/+d8En3hddmCzztqDIQANcHoGx0Hc7oHmHVCJp112g9TiOvsdLpU5lW6Jlxcb44hZcEAQSuapovZlzRtjzS4hV6/Ta+nsGFS4VI00qtCPCcFjsoPQzrfbEsQc5H86vpVsgUdCODHVSdIaI4lKUF1DCGlAnM8G2L73Zc=;fWxjNyCPdTtRC47jkJr/cg=="
+secured: "D6QjgEnSbMJGHC9OZODu8DMeLp/GgT8ueCThUd7l59k/Sg/sYnXiwq9JpIa0ZYgTikbnGzMdgnCin7uC/DCyKiR0LawQ7Gn7mQb4RcJnl6cYqmghjkEiDuIHONh0S1ePQnNcafbAXqacBDW3ugInB7BnILRDBv/3kUY7fGYNmL8fWd4J9veAhQ+URLl8j/Cp4eglGQ7QDmR5RAEIC391wqUcNdKMmHMMLYpqVwyi5QNDR3MXX5zrUZ28XHC2yAWCQtz+mXQm9IT+O4cWDIshY/wK6kRX+6e4Hb1qEInesAiXVAoCiXE2oyTgvbXTXm1Z3+EkxIxvJiHraosxuMdQRVNxy4Y7N6Q4RhP+98jhihE=;WUXL7TPAEp+ybR9HF1PTqg=="
 ---
 

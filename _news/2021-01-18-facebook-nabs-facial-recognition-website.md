@@ -78,22 +78,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Facebook fined $650 million for collecting facial recognition data inappropriately"
-    excerpt: "Facebook has been ordered to pay $540 million to Illinois residents for collecting facial recognition data without their consent | NewsBytes"
-    publishedDateTime: 2021-01-16T13:45:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/facebook-fined-650-million-for-collecting-facial-recognition-data/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 55
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l220_5631610796178.jpg"
-        width: 1440
-        height: 809
-        isCached: true
   - title: "Facebook Releases Revamped Version Of Its AI-Powered Automatic Alternative Text Tool For Photos"
     excerpt: "In a nutshell, Automatic Alternative Text uses artificial intelligence and machine learning to give blind and low vision Facebook users more detailed descriptions of photos."
     publishedDateTime: 2021-01-19T18:00:00Z

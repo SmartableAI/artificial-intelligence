@@ -3,8 +3,8 @@ category: news
 title: "AI Startup Sees Opportunity Forecasting Pandemic-Era Consumer Demand"
 excerpt: "New York-based Centricity is helping companies track consumer demand by analyzing some 2.5 billion data points’ worth of internet traffic a day."
 publishedDateTime: 2021-01-13T00:13:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=hp_lista_pos5"
+webUrl: "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808?mod=hp_lista_pos5"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 640
     isCached: true
 
-secured: "QRcr1ai4y2yZjeMJICB4I6YUs4123ss4fb+y1objikIUOLOo6679yNniJNiisVHvYyrBsClarM3TDH2PeP/j4d/j68h6wM/At4h+legLtqLav3h6+uNk0+thu6TbOVaQ7wDo8cf6ls3t9w8DwNup7F+3szB6xOq/krUQV7qkLiyAsbsPwubvPdsuN1FjL/kNR6yP4F0OgGWKpjSapfVMWjtWjcGcsnXYSvEHywek7yLKPPVvRh/8cwKwAJjnvvUBVkOdJPlbJOBXW6/Kv2ujGWgmK9Ax6dUkZNaBoA9nWwcbnlb9eobQAPYCvR3V4skuR1410g0pBU5n5cvgH1q/RbyRSodupnpCFgeXdjUqfOk=;1CT5bbqQp5tzWE3EqSWSLw=="
+secured: "9AS5mw6Mb2BpV6yZkJnRIsC40pZ9x1beArRRq5tXf0T5ygEBdQicYj9Xs35tiQY3/eMTWppHrCpN0uWj7Q4/j/jDoEDj95VpZRGCget01adurPA27u3M0C7Xb6DUrKE3G3oto4MxesAMLVTxpaKfzXbNEq0PwHz3HQk4p891ZH76JOE+4kBP05Nkfrk8ky9Symlh864A95DoGZulkOoNvGR5ePw8YMYiHfAbwX9NsG8Wm4CXb7d/d2QlxNNDLv2P2kM8cujYZ9OGAm3PeROIh/9Noa0g/aRt+UzadiHE6HPlr+/ef3d7sh9P1md1NciOifgxpHbJF3jNocQg8mW064tXGETNwieglJZua99YH54=;MiRR/PZLKcVXIqiW7D20sg=="
 ---
 

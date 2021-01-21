@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-07-nec-says-new-facial-recognition-system-isnt-stopped-by-masks.md",
+      "title": "NEC says new facial recognition system isn't stopped by masks",
+      "excerpt": "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "originalUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/nec-face-recognition-mask.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp",
+      "publishedDateTime": "2021-01-07T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-waymo-ditches-self-driving-term-in-apparent-dig-at-tesla.md",
       "title": "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla",
       "excerpt": "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,",
@@ -1105,58 +1148,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-openais-dall-e-turns-weird-text-into-weird-images.md",
-      "title": "OpenAI's DALL-E turns weird text into weird images",
-      "excerpt": "OpenAI is known for developing impressive AI models like GPT-2 and GPT-3, which are capable of writing believable fake news but can also become essential tools",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "originalUrl": "https://www.techspot.com/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-06-image-6.jpg",
-          "width": 1460,
-          "height": 1172,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "publishedDateTime": "2021-01-06T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

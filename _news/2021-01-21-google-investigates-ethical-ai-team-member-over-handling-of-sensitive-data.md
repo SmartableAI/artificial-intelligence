@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google investigates ethical AI team member over handling of sensitive data"
-excerpt: "Alphabet Inc’s Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,"
-publishedDateTime: 2021-01-21T01:35:00Z
-originalUrl: "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data"
-webUrl: "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data"
-ampWebUrl: "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp"
+excerpt: "Axios, which first reported the latest investigation said Margaret Mitchell had been using automated scripts to look through her messages to find examples showing discriminatory treatment of Timnit Gebru,"
+publishedDateTime: 2021-01-21T06:28:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data/article33623867.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data/article33623867.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data/article33623867.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data/article33623867.ece/amp/"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c24beea8-2f80-4be7-8a30-bc57baf899d4/a74a6776-b80e-42d9-b9a7-74f73bb7a609/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.thehindu.com/sci-tech/technology/mwqj62/article33623898.ece/ALTERNATES/LANDSCAPE_615/google-ai-researcherjpg"
+    width: 615
+    height: 384
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
         height: 400
         isCached: true
 
-secured: "BcFsGyEq/mOfykqKOpPHAmYkRkrUIUlqwI8Vprq9974l7Q9BWfTzeLmt0GJePmhdLZ5EDkLg1du6kIf0iVwZJ40DrIy5pXppSsJU3oHOGvHDLVOAJBARrVeTCbYIORUAvR2U9bn2iVWZNccWmAUNxQzxEVKKLVJQDJp3+FC7vN474wrZbXt7US4zYfuOamCLVNSGtMGC4a71pHDuiIrn8Z0yY67LG2/6tl3uaP37qB9SME4e02wm97vEFvdzsoxltc3Hpj+YtMuY3phs+znbXEqp5UNnx8mAbZWnSq1wXSdjKVCJSOmR7Y/CeysGbQt745CPsaiGYtCbVdbf+Ew0wlBU30lUuO3MODg8m9/SUaqyJFKvWYs2YLK0ZETYdQ6nJhZi7bXN1Gzsn4NhPrEoO+YcFg1KQf2hbIkuLzZNCLA1ZGViQiA/csszamzqkhT7VPKCQLPb5iLcqdHgrzy9WLsyOD5UzXdg4X34w4Vz4XeVJhS1AO1S80loaB4MYzNUDL+o52KcheZO/vYSEuOzNA==;Ce6mkWwyeinzJIMdxkpM9Q=="
+secured: "IYPgf2A/OeQm/VwrUYcmjiRua+CXz6U8GW5jPRg8Zscva96L27Xy/JGsV8az5PcVU/W1HeohespmyDej7JQnBAx3bUDKVYTV2zuadt/Hf7q8GjTtbMoAkdR2J4SrHSP01gzgJ5NEp4ZCeNv0oWegJwJO1NB12Ekn2OmTkX9jGzQSpWvidcazflVvfvMzrPrH7I+5t02mMfTPF3701U1HBxfvWu8EgRVDjumElcSx/P4X3EEdwgiG6jGGle/vmMNKt5SfMfCvNp82jaQAJ5KRD0Q/nrqYXgg+swMCyRttHUt0dbngj/hU62yNg32g0OXomj+/9u4jg0/qsCFYmw7v9YLV3fVtZQmLmWM6WdWHilg=;A+yhZEoeI5UX9cAXUq8UeQ=="
 ---
 

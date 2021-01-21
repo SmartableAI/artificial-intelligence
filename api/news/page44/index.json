@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-12-11-the-new-laws-of-robotics-building-on-asimovs-science-fiction-legacy-in-the-age-of-ai.md",
+      "title": "The new laws of robotics — building on Asimov's science fiction legacy in the age of AI",
+      "excerpt": "Way back in 1942, science fiction writer Isaac Asimov created the Three Laws of Robotics. Now, an AI expert has expanded that list in a bid to ensure the robotics revolution works for humans, not against them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
+      "originalUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/da758a2d6f4454e05854a74f2abb1c4b?impolicy=wcms_crop_resize&cropH=420&cropW=745&xPos=0&yPos=229&width=862&height=485",
+          "width": 745,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/12947424",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12947424",
+      "publishedDateTime": "2020-12-10T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-how-ai-and-machine-learning-moved-forward-in-2020.md",
       "title": "How AI and machine learning moved forward in 2020",
       "excerpt": "AI and machine learning saw several steps forward in 2020, from the first beta of GPT-3, stricter regulation of AI technologies and conversations around bias.",
@@ -1157,57 +1200,6 @@
         "IBM AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-45m-to-scale.md",
-      "title": "Ava expands its AI captioning to desktop and web apps, and raises $4.5M to scale",
-      "excerpt": "The worldwide shift to virtual workplaces has been a blessing and a curse to people with hearing impairments. Having office chatter occur in text rather than speech is more accessible, but virtual meetings are no easier to follow than in-person ones — which is why real-time captioning startup Ava",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/",
-      "originalUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/AvaApp_Meeting0.png?w=1024",
-          "width": 1024,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/amp/",
-      "publishedDateTime": "2020-12-10T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

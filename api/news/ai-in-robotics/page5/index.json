@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-09-datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption.md",
+      "title": "DataRobot raises $50 million more to accelerate enterprise AI adoption",
+      "excerpt": "DataRobot has extended its series F round to $320 million through partnerships with Snowflake, Salesforce, and Hewlett Packard Enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
+      "publishedDateTime": "2020-12-09T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence.md",
       "title": "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence",
       "excerpt": "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive ch",
@@ -1316,49 +1368,6 @@
         "AI",
         "AI in Education",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix-that.md",
-      "title": "Soldiers Don’t Trust Robot Battle Buddies. Can Virtual Training Fix That?",
-      "excerpt": "Allowing soldiers to train their robot wingmen in game environments could be the key to human-machine teaming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govexec.com/defense/2020/12/soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix/170384/",
-      "originalUrl": "https://www.govexec.com/defense/2020/12/soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix/170384/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.govexec.com/media/img/upload/2020/12/01/120120d1/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Executive",
-        "domain": "govexec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

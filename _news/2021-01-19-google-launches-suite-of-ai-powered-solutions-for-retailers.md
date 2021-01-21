@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-power
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/online-2900303_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Cognira Makes Its AI-Powered Promotion Suite Available to All Retailers"
+    excerpt: "Cognira, a retail AI software provider, today announced the public availability of its AI Promotion Solution. The highly configurable, end-to-end promotion management tool infuses AI to simplify one of the most complex processes retailers face — knowing what,"
+    publishedDateTime: 2021-01-21T05:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-19c834ff416546a0a84f9291c7589a72"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Walser involved in launch of AI-driven solution designed for 30-minute vehicle delivery"
     excerpt: "Walser Automotive Group, in partnership with PICO Venture Partners, announced the launch of a cloud-based predictive finance management system fueled by artificial intelligence that’s designed to cut the delivery process down from an average of three hours to 30 minutes."

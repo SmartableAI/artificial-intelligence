@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition ..."
-excerpt: "(GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT or OTC:RQHTF or WKN:A2AJTB) (“Reliq” or the “Company”), a rapidly growing global telemedicine company that develops innovative Virtual Care solutions for the multi-billion dollar Healthcare market,"
+excerpt: "“We have incorporated Interactive Voice Recognition (IVR) in the iUGO Care platform to support patients who are using their own, non-connected monitoring devices, have cellular or internet connectivity challenges or simply prefer an automated daily phone ..."
 publishedDateTime: 2021-01-20T08:49:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-medical-technology-017980b1d88bb27426f86eeb8cbdc4a2"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-medical-technology-017980b1d88bb27426f86eeb8cbdc4a2"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-medical-technology-017980b1d88bb27426f86eeb8cbdc4a2"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-medical-technology-017980b1d88bb27426f86eeb8cbdc4a2"
 type: article
 quality: 10
 heat: -1
@@ -37,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "QzNeWaPAF9rXaLv8bvcgzRbt6algsb8W6G977ApZ8kBc/BR9Jyiq9DDBsdhZwPU5qlJ1RRrXlzRVXA7np/U5V72O7RyyRwQMUMCPR49pLis5I51l5PWOzXSX07Hflf4xy8kXJ1ej8CCPD89RrCowGzIihGl54Y8uX5uDyGHZ7lbq/7xzD7HbzcM9IN2rkjmHykSUjkE0RTQDkj6HZvLgAHCWfyQlUFv1TUmGvRU3d9bo0sOssC95A8YIBOKL8rg6pkQ0Ui9dwWSiG0u+s3NG3hitgOkkoatgpiBZM9jDObxdN97yov/n1vtsNeswSkfVoEeBdTGdbNhf/vb0jaVWxSZvMfpRWzeS2QD4Lvzfvxo=;YdGcf5lW3nkDwtn5t0qmPw=="
+secured: "FcNeCg55O6x665gyfoquYf8g9p5BgABLnC7fsUhA24c0K/ieRLHLbpxSfFTbBzqHxHo7EY0ZSloFik2hhAxIe5OovMPpbbsk0WR2lLqu1mKS985Aa2WQYVDf+3awsQsk9RjJ3Bh9vv2fNlWmpW4zfyGAMRrmjhKpqtGSynjIqVmpUnps/QHI30B9dMZBE6oOn0Hhwk+LqRTstN2cfkl64+sBEqF1aWVZmZg86rIJJBhkBwHH6+NTza4zIuo7ZgZw7noY3JQh8txPxW6nQrNV/62/O5ChQVpsKQCemWo1lYaO27oxjzWjPXKdJBQB69Nv+kUnZqbLDuYB6YKaIvRsa3z6Hyl08UV6wFNLqrA2bB8=;oUIr8tCwe3m7rj71MXW3GA=="
 ---
 

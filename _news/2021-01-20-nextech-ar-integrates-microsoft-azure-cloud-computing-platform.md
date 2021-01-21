@@ -3,8 +3,8 @@ category: news
 title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
 excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
 publishedDateTime: 2021-01-20T13:11:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
 type: article
 quality: 54
 heat: -1
@@ -166,6 +166,20 @@ related:
       - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/fugue-cloud-infrastructure-920x533.png"
         width: 612
         height: 355
+        isCached: true
+  - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
+    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+    publishedDateTime: 2021-01-21T05:29:00Z
+    webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 86
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+        width: 740
+        height: 493
         isCached: true
   - title: "Microsoft wants to listen to your voice recordings - but will ask for permission first"
     excerpt: "Microsoft has confirmed some important changes to how it processes voice recordings. From now on, users of the company’s voice-enabled services like Cortana can decide whether their audio recordings are stored and analyzed by the company to improve speech recognition or not."
@@ -623,13 +637,13 @@ related:
         height: 238
         isCached: true
   - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
-    publishedDateTime: 2021-01-20T06:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
+    publishedDateTime: 2021-01-19T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 49
   - title: "Cruise, GM Partner With Microsoft For Use Of Cloud Computing In Self-driving Vehicles"
     excerpt: "(RTTNews) - Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of"
@@ -935,6 +949,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "4oHDVc+26kXRDrnpLOuWrqIus3b7KnGQcR3CvwGYorQCUaXFVMdD+xGZzgnBuDsD9OihvZi7E/K7UouZnbHlwNx5gmUCUNZ22OyO/z0Ez7yO6s1EwUjXnmtQuhptQYn9szFHGX2L6CiV9yojePTFMt28mfUVITZfsHsOOEIK58l7QdpiB67XnQuJisG4o1MtdVSZN4L69ip04IfBtnMzyT7T+OYr8SZEB1QXfBb2qFzu+re1a7YVbgbnFE1ZmZylVz7YviOW/Vjnwi9QtjtWartQ7pwDIlLKcDC4EnOe2M0oFw0khZpdY7KT0UNxHcbFhlSwM9pqA1vS7cKXmiMhFygmyVVMgimimM449FdDW5Q=;KbU6vabjFYnnj1wReWJOCw=="
+secured: "mUqsok1nf8hqeTXI9gSqQurKkG10ehtb1A/bJPNHAH8STXtavJCTeCPmmGgQL/GVCgKEIUAEct+bQXAdmrtMrPmT4POkn76PACIGdeu4thWBAFluEGghQX+zTCgeP8ygt8WvvbVYFqRbske3viaXbSO/VmqDKtCJGirvfk877qdqycrwNz926yEtkf3xL31MK34tljqI1H/750mn9haGNVIcoBTIYUGEAbWyLuf/o+QdQOU7GDh7MBbeH/WuKEKc6k0uol9o0IdOKxBrG7FzhJmmlf2sEE8cAwAh4D4cPIrza+0XmeeGM7XWTnUcsk61UVIqZCYSnieKBc6ntm22WwUo/FXLB53qaFcZV5PLgok=;P5WhDMH2PKDsxhuzkt/Grg=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
 excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
-publishedDateTime: 2021-01-19T13:03:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+publishedDateTime: 2021-01-19T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+webUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
 type: article
 quality: 32
 heat: -1
@@ -92,6 +92,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "R7Z8UMoswSn/MCJGr4V4Iwoi0Kps/v3eKLV+bB/FYHNovLEZ7SnafWcSXIuicVH1vwc6EvGzGIfFkogb5lnVBun8Shz2n8yBZoxkvhv1NA3xP9H+tvrK/M36vs5xyGP5LXL+qS/vQJD+MZypvGLMFT4oL0798nD9R7X6npczxvrmbzY1qH9RSu1ktcA12vkt9/6CVkeYYsfhBmPv07O6F4unCcuTCCtQkWoP6Er4iwALhLwvSz2VnQhLTAqeofR+vOWLnoIHfAaS1wVcHRR30aoOctTWJK+FszW2pMcvGhAXaU+HiilSImHLo+6OLE5T/lwhtSafeRnxEde9nBcTM2BASxv19cAJQzY4FlkzlGk=;V0hpj2d6ZStSUZPax9P1+g=="
+secured: "5eEUqZs7DyGhsGtmDFMQk4lr6sOKEpRMoK//n0LENKswIW+Hd58Ch5mbAtuvf12ZaL6LSHvpkVpZpJwHWoTf8WBCuLilRfJ1Sf0RxrsDQ/B6bpEiOOnPgpl9Bo1GowmJYNOOjmXP+iHH4iCg7SbJvjwKdi7Ur+SB0W66xBSiW3GPKKGilxqyWFbQFEQgrp3FJq4Lj6vLczDxPRRf7MrWfg+x7/xB+JhGI+lwZbHuyzIU8WRWo/yyWpKPfJL6zYFLmOI0okHl5oj91nPePHBignwLa0eXRt1/3tUCaANjMDIRBJduOmNLaywHqH7gRGJObuUFVAwEOZDMewMAJKnU1uB0ObYIDUOfFxEA8+GZxw8=;gvOvqYqIbgy67AKGF0wpGA=="
 ---
 

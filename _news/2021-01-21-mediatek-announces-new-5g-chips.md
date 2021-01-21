@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MediaTek launches 6nm 5G SoC chips"
+    excerpt: "MediaTek has unveiled its new Dimensity 1200 and 1100 5G smartphone SoC series built using 6nm process technology."
+    publishedDateTime: 2021-01-21T00:54:00Z
+    webUrl: "https://www.digitimes.com/news/a20210120PR204.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://www.digitimes.com/newsshow/20210120PR204_files/1_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
   - title: "MediaTek’s new Dimensity 1100 and 1200 chips are here to take on the premium flagship segment"
     excerpt: "Having promised to announce a new flagship processor during its virtual summit at the tail-end of 2020, MediaTek has gone one better by launching the"
     publishedDateTime: 2021-01-19T19:19:00Z

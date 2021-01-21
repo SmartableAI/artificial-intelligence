@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-16-in-brain-imaging-deep-learning-beats-standard-machine-learning.md",
+      "title": "In Brain Imaging, Deep Learning Beats Standard Machine Learning",
+      "excerpt": "Deep learning models were able to detect patterns and discriminative features in brain imaging better than standard machine learning tools.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
+      "originalUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-513688464.jpg",
+          "width": 690,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-604-in-december.md",
       "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 60.4% in December",
       "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) saw a significant drop in short interest during the month of December. As of December 31st, there was short interest totalling 197,600 shares,",
@@ -1145,58 +1188,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021.md",
-      "title": "AI and Big Data Analytics in Telecom Market Size, Status and Global Outlook 2021",
-      "excerpt": "Global AI and Big Data Analytics in Telecom Market research report published by market insight reports explores",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

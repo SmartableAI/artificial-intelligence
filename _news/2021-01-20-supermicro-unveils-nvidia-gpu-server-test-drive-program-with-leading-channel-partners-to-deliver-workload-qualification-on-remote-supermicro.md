@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-excerpt: "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,"
-publishedDateTime: 2021-01-20T14:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
+excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
+publishedDateTime: 2021-01-20T14:33:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
 type: article
-quality: 30
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program"
@@ -54,6 +54,6 @@ related:
         height: 228
         isCached: true
 
-secured: "H8PuwgAEnjWcXm+3+FIxE1tKBDDc1FGqWbTyqapmm3mS5r7T2vgNcL/JDScDwj+L/w/JQNfN8cGE5yR7tFzEmUwmbIgWHP7sA0zo96SJVTrA0QvHxaJMtKhgkWkOiGtcUMtRjetWTKSRq1exI4MGuo9nJSVihD0cL9Kj8x9xwGX8CC3GG4I79p9/LvpsVncjdjnxwQM3iAP2vEq72vwRo2IhLk/CPRcug2zwRG34frOZCGIX7XJxJPoUcNKI3h6TCy22S1kHgtqQfkqYkMz65blm+7XplG9qjBPLllq0HiTt1HzsAH8o9+aOud2hqNDccR6FUPgcJ9+D/kJ6QTaB64fNsuG1OKO5IHxGGfzrUN4=;3Vl9gPFSxn9T0JKYPfF3PA=="
+secured: "ObeDCvQ30ectmizXQWfhAkCm7Zx3dvk51AVvzscEuRczaEhuEGEknXJBm23jTstuboY5KQiCvOtTHJX+Mtfj9e7aH03psHhuuy94pbko42udqbVKBWP/o/lULYCZbl89M163uEo/ifiM/GuQ1ftp6i6gzhGJIiW/rsTVtk6FNoAaBZby7hcrIWoho6cv6iZTaiEyWkFvLeKMQvTH0gELd1gGKYgSU0rV6lafcVN/QzQCRmDtgrB436mmQ09YvD7sIfHG+DD/4WjfsP5l9pUELL0VVCdowRr1tbm2Y+NYz7/en+8EoWOJMhQCotkhQv91k2oSE2yahEpmIMbFDffN8M2vvhSp+BZnjT3+RLcqixc=;HbDig/KQ2ZC/CQheYfolDA=="
 ---
 

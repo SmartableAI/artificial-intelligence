@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
+      "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
+      "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
+      "originalUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Deep-learning-concept-whitening.jpg?w=1200&strip=all",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "publishedDateTime": "2021-01-12T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-compeer-financial-delivers-superior-user-experience-with-citrix.md",
       "title": "Compeer Financial Delivers Superior User Experience with Citrix®",
       "excerpt": "Our lives are driven by technology and we expect it to be always on and perform flawlessly– especially at work. It’ s a tall order, but one that just got easier to deliver at Compeer Financial, thanks to Citrix Systems,",
@@ -1136,58 +1188,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-baidu-confirms-plans-to-join-the-smoking-hot-ev-market.md",
-      "title": "Baidu Confirms Plans to Join the Smoking Hot EV Market",
-      "excerpt": "In a press release on Monday, Baidu (NASDAQ:BIDU) confirmed that it was entering the red-hot electric-vehicle (EV) market. The company plans to set up an independent subsidiary co",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/",
-      "originalUrl": "https://www.fool.com/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F607988%2Fbaidu-apollo-car.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/11/baidu-confirms-plans-to-join-the-smoking-hot-ev-ma/",
-      "publishedDateTime": "2021-01-11T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-05-watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though.md",
+      "title": "Watch this amazing AI-enhanced montage of Lumière films — historians will hate it though",
+      "excerpt": "YouTuber Denis Shiryaev used a controversial technique of AI video restoration to colorize, upscale, and enhance films by the French pioneers.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-05T122756.834-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/amp/",
+      "publishedDateTime": "2021-01-05T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-zytronic-gets-designed-into-large-interactive-displays.md",
       "title": "Zytronic gets designed into large interactive displays",
       "excerpt": "The table is set to register 80 touch points, and the capacitive sensor and controller also support Ideum’s proprietary ‘Tangible Engine’ object recognition software – which enables users of the display to place a (specially designed) physical ...",
@@ -1158,49 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-google-workers-form-new-labor-union-a-tech-industry-rarity.md",
-      "title": "Google workers form new labor union, a tech industry rarity",
-      "excerpt": "A group of Google engineers and other workers announced Monday they have formed a union, creating a rare foothold for the labor movement in the tech industry. About 225 employees at",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/cc67e2f901fa5b59d73b9dac1892d0b3",
-      "originalUrl": "https://apnews.com/cc67e2f901fa5b59d73b9dac1892d0b3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/17e81f3b80454ce3a18704ca68f5133d/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

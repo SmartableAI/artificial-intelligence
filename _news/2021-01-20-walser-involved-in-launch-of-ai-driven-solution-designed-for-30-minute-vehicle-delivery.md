@@ -83,6 +83,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Cognira Makes Its AI-Powered Promotion Suite Available to All Retailers"
+    excerpt: "Cognira, a retail AI software provider, today announced the public availability of its AI Promotion Solution. The highly configurable, end-to-end promotion management tool infuses AI to simplify one of the most complex processes retailers face — knowing what,"
+    publishedDateTime: 2021-01-21T05:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-19c834ff416546a0a84f9291c7589a72"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Google Cloud boosts personalised online searches with an enhanced product discovery AI suite"
     excerpt: "Google Cloud has launched a product discovery solutions for retail, a suite of solutions built to help retailers enhance their ecommerce offerings and deliver highly personalised consumer experiences in the first phase of their shopping journeys."
     publishedDateTime: 2021-01-20T12:33:00Z

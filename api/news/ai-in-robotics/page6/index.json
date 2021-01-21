@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-01-soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix-that.md",
+      "title": "Soldiers Don’t Trust Robot Battle Buddies. Can Virtual Training Fix That?",
+      "excerpt": "Allowing soldiers to train their robot wingmen in game environments could be the key to human-machine teaming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govexec.com/defense/2020/12/soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix/170384/",
+      "originalUrl": "https://www.govexec.com/defense/2020/12/soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix/170384/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.govexec.com/media/img/upload/2020/12/01/120120d1/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Executive",
+        "domain": "govexec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026.md",
       "title": "APAC Artificial Intelligence Chipsets Market to hit US$40 billion by 2026",
       "excerpt": "According to the given report, APAC Artificial Intelligence chipsets market registered a remuneration of USD 4 billion in 2019 and is expected to surpass a mammoth of USD 40 billion by the end of 2026,",
@@ -1337,58 +1380,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-this-robot-makes-you-boba-tea-at-a-fully-automated-bar-because-of-course-thats-a-thing.md",
-      "title": "This Robot Makes You Boba Tea at a Fully Automated Bar Because Of Course That's a Thing",
-      "excerpt": "I’ll admit that I wasn’t the biggest fan of boba tea even before the pandemic brought my social life to a grinding halt. Tapioca pearls just taste gross to me, as does bacon, avocado, and a slew of other oft-hyped food that the internet goes crazy over,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
-      "originalUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/obl0feili4mg3ytimcml.jpg",
-          "width": 800,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
-      "publishedDateTime": "2020-11-19T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
