@@ -37,15 +37,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "The 21 smartest AI scientists working at Google DeepMind"
-    excerpt: "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ..."
-    publishedDateTime: 2021-01-16T09:44:00Z
-    webUrl: "https://businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 34
 
 secured: "CQ6Hyp7qCNEgr76FSi1aCF4WimrQSEfLXkawjjHho+fGlIahy8gbFicI2fBZRTkkL1430jAn1fmZof5ru3Tbw8SKThNLNWbg+KCC2sNdeGcBfDLpt1q0hC7e/6AaMauf3X23eJUocCK5wANuIW8cLu+KMNedrsuuWBT0buqhhkfCt4uIPNxvGVpe2itYPAogSCTfJ+qlZPVOc2JyXqnSYE02vGQ2trXOGGG1KnH7QuSpEtfX6MXfFi4BHJQs0dI/QdB/hOPHN3mJZQncNSFlMHp7KpuKI/XKHAHbQ1I8Jxt0QOMljpDBjKMP0FH8uBDwO/IHthgGdcqqD4WgJRMba8Z+X9NFnnAKsa6dGRIaENsItR9+gCtbzwHqb08vGr9urWgouWk3F8vdecQI8YRWPzALOS51RiD0X8/jMSk07D1sW7gM/XRHOGs+EhzMc8CQGER7iBH/Z1b4jnB9j8bzzvvOqGd1/hw2cRNlhpgjw7wtiPGwGbwROEz1YSopkNgPlC2dfFovRw5S5Y+bY+VuzQ==;cj9UBs4onDSLJ/W3mnZM9Q=="
 ---

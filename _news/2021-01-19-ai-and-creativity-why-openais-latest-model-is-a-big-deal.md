@@ -62,17 +62,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Cerence Introduces Cerence Mobility Platforms; Delivers Voice and AI Experiences to New Areas of Mobility"
-    excerpt: "AI for a world in motion, today announced its Cerence Mobility Platforms for Automotive, 2-Wheelers and Building Mobility. A focused, strategic approach to the company’s growth, Cerence Mobility Platforms deliver industry-leading innovation to three core areas of mobility – automotive,"
-    publishedDateTime: 2021-01-19T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cerence-introduces-cerence-mobility-platforms-delivers-voice-and-ai-experiences-to-new-areas-of-mobility-1029981884"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Cerence-Introduces-Cerence-Mobility-Platforms-Delivers-Voice-and-AI-Experiences-to-New-Areas-of-Mobility-1029981884"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Cerence-Introduces-Cerence-Mobility-Platforms-Delivers-Voice-and-AI-Experiences-to-New-Areas-of-Mobility-1029981884"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
 
 secured: "YVsZEZOEigSB/AvjF7arQqF83XDAfYeIQCa4+mFNo0b4fWxD7Nkwq0JX7awYtH4a6gbB4crX9DLF0TzcHzF6E8PRGVbKA2n7g6OvH5iCLKde7+Vv+/jvQR+vljIYiH8cwoYxXX91/nNsaxrpRw/e+IZ08qM9jS+1DaZindllbzWZY2uswnHuDqhZfoF4NvufNsc2s1hkbzhk9k5fj9QVArwjT7VpPwpCQTgMRYHmyqGCfwQoX+WXBXrsA5OneGu4zBc+l3L2y1ANE131MmSN6KqgW/fm9Baf35HeSqS3oi40vkJzHAH+4kPYXjVrvLyszbPUVUEWdFrqCcihYmkAPa5D+f0UxpMMTfZJTHl0TO9gtUfRXdhDQHcrHPct8vZzCTCfPrhn412r/1jpo02abadFCYREiDIUPz7/Jyis7BsWz4AcN7pwKF2GdUegppzghx+yGtCRax+1aZ6nwWRRbaD3LDbWvUEVbDkVxKhOX0eJ/N/3Lp9CSZEHa5c5GRK7hXjv0ojucS2nD+gH5998rA==;BFps1uAInWgIGPs0y0t0og=="
 ---

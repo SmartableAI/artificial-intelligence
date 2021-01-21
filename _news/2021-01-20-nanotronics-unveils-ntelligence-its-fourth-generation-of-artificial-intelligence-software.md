@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Nanotronics Unveils nTelligence, Its Fourth Generation of Artificial Intelligence Software"
-excerpt: "Nanotronics, developer of the world’s most advanced robotic industrial microscope that combines AI, automation, and sophisticated imaging for industri"
-publishedDateTime: 2021-01-20T01:54:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210119006066/en/Nanotronics-Unveils-nTelligence-Its-Fourth-Generation-of-Artificial-Intelligence-Software"
-webUrl: "https://www.businesswire.com/news/home/20210119006066/en/Nanotronics-Unveils-nTelligence-Its-Fourth-Generation-of-Artificial-Intelligence-Software"
+excerpt: "Nanotronics, developer of the world’s most advanced robotic industrial microscope that combines AI, automation, and sophisticated imaging for industrial inspection, is announcing the release of its fourth generation of artificial intelligence software,"
+publishedDateTime: 2021-01-20T06:02:00Z
+originalUrl: "https://apnews.com/article/technology-business-new-york-north-america-environment-and-nature-b1948176a4644cfa9860e998fe2165ef"
+webUrl: "https://apnews.com/article/technology-business-new-york-north-america-environment-and-nature-b1948176a4644cfa9860e998fe2165ef"
 type: article
-quality: 9
-heat: -1
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Nanotronics Unveils nTelligence, Its Fourth Generation of Artificial Intelligence Software"
@@ -29,6 +35,6 @@ related:
       domain: morningstar.com
     quality: 9
 
-secured: "pDLIwx/sNMZq2ctmPGu0UTtSVK/EyjW38vCGDIh/5Zv7EvcRYYL+pyIT3wwvEqsj+PupOi+7GRIbitpCcs/O8P3UjyItPHKUm8ZkObioS35AkY/iotuh7tgw2L/OHziS3PBuEvpkg3KxTEkwRyZzrnbkqy0AelJ2lIUk/CBY2tg1MW0X+r+kimsio1zN2RxBoBd8156omnURYBye4oU8nXs/uO1JxksuQcg1erDItPDvztmODEjr8wn2IPwjs/x49+BO8rxwMYSfPGTkwRwWM9bN9OEdoL2dzJM9npsn64mKs0LtGb+jokdQgzWWnqWAxIhwQFuaelvzN6no/LT/ZwkjsgniSVP5z/i10Ee+KJznFpS45qMNeAGhyLj6Wi7H29iBJ+VlBG2djHWZ0Cd78dohlRe/mMNlHGUH4/WJOnvZdVZ7u9/RRhZjyPmkZCmgqdw20bcD46Fqhbu+4dMRvZ4Jrv/S8miWfjv6pIf94ChMoQVoOmLeMxZ7RYoAxiDQ5eUvDIkwpvVZjL6v3V4JCw==;7UYlK17401ZvLcbpJe3PMQ=="
+secured: "X3Hp5h+K5ka8HVvAHRAjWAEznu5KAOHi1cnrxTR7LdXmRa+vh3stbK/O6C44QkVDn9dtSz1a9JPevfu/+uAGBewZf6R8RdSKSU4aXboUCF/BSE+oZ81LTDsfzOKDUSDarDuerl7dHhK11fuZp7Zl+nVqfkPaKPncP1Z5pUXAf9Fwscn8xQfRT4h8lth95mk1TwvYCUfmuc9vWquoo8M7PQunJa+CH3VvSet12R7Utanz99yoiGSaOawTxwW5UhljyH6QPbgTmKYkxXn1BovouR/ZuCVPPsiTw/Im3rEax5INICFb5DDrn6O4VxM5/Ie/C9kjEJZfKctCvrACpaQCgtKGPK72/bOMTEqydZWZ9y0=;X5vuAnP3GZygTR7Gc3BHyw=="
 ---
 

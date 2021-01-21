@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-y
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 39
-  - title: "The 21 smartest AI scientists working at Google DeepMind"
-    excerpt: "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ..."
-    publishedDateTime: 2021-01-16T09:44:00Z
-    webUrl: "https://businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 34
 
 secured: "nMZt1kKwwhpg2KajbWVgalPjvXCyUH6G7VAl5jTKSTMUugbWuQ6Gtz1oaWDyzDEelkvjgJXryz2km7giVJIo6iqFAMN8uHPhfnamQjMKwBvfVRszciHY9NEttXk+ezWD2CiQogc8q2q/eMgAbzV6gvudOo8F/+45SHetheePtSHFnjf5dEQKXkAGzLcPU1KIa9h4aPD3B9FpKA/l+5eQi7X1pTCwzwNmeZWm2QqRYeg6p9VdjQ+trg4V4xHFzo+oVm5uv7lGWCgnf5vKUZenEHy3xnCd0uMJCCynB7jAhrTDcqmZsYPadpeAv1JMDcVjSGmi1YX8BlZG7t3X0Zc5quTy4hHetC142O+FWxu2HXK6DkhyeZZ+ESe6ZaWWvLlEUwEV3vroJmmve7HZrzkZyTWGGjF4Y8dP+HZ8FJ6Dr1Q/WdR/EQMLDdMvPefPtZSL6giszZQs5hK4VK+Pcgv3hY8KVfPJva6g0mN63HIrOCJ4IIaYIEd2+fjoRrn3m+RIttru6BfF7fV/WWP5FhkIJg==;Xj6CsP2azrXklc0kKwVRlA=="
 ---

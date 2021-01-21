@@ -3,22 +3,23 @@ category: news
 title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
 excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
 publishedDateTime: 2021-01-20T00:25:00Z
-originalUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO"
-webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO"
+originalUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO"
+webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO"
 type: article
-quality: 169
-heat: 829
-published: true
+quality: 71
+heat: -1
+published: false
 
 provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Autos
   - AI
   - Microsoft AI
 
@@ -58,22 +59,6 @@ related:
       - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/5/2021/01/CELA-MOI-Blog-image_-1.15.20-1024x694.jpg"
         width: 1024
         height: 694
-        isCached: true
-  - title: "Microsoft researchers tap AI for anonymous data sharing for health care providers"
-    excerpt: "Microsoft and University of British Columbia researchers propose FELICA, a system that leverages AI to let health providers share data."
-    publishedDateTime: 2021-01-20T15:54:00Z
-    webUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/"
-    ampWebUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
@@ -203,21 +188,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used"
-    excerpt: "Microsoft still wants to re-use your voice clips, but will now ask for permission first. Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms."
-    publishedDateTime: 2021-01-18T07:35:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+  - title: "The Earth’s atmosphere has been modelled in Microsoft Azure as part of a project to tackle climate change caused by aviation"
+    excerpt: "SATAVIA, which is based in Cambridge, uses artificial intelligence and data analytics to study and tackle aircraft contrail formation."
+    publishedDateTime: 2021-01-20T12:10:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2021/01/20/the-earths-atmosphere-has-been-modelled-in-microsoft-azure-as-part-of-a-project-to-tackle-climate-change-caused-by-aviation/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Microsoft
+      domain: microsoft.com
     quality: 77
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2018/01/15/37af3c7b-8de3-4016-b11a-f6c6ff0044eb/thumbnail/1200x675/0694bbed8403720a906252aaf7f4a583/5a578ebc69340d506caef07c-1280x7201jan152018133314poster.jpg"
-        width: 1200
-        height: 675
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2021/01/190913165136-a7-bbg-qatarairways-777-2dz-lr-akl-doh-20190613-epx27085-cnn-web-768x432.jpg"
+        width: 768
+        height: 432
         isCached: true
   - title: "GM, Cruise Team Up With Microsoft For Driverless Car Tech"
     excerpt: "Microsoft is joining GM, Honda and other institutional investors for a combined new equity investment of more than $2 billion in Cruise, the San Francisco-based autonomous start-up. Their common goal,"
@@ -325,7 +308,7 @@ related:
   - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
     publishedDateTime: 2021-01-19T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles-idUSKBN29O1MO?edition-redirect=ca"
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org"
     type: article
     provider:
       name: Reuters
@@ -690,20 +673,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Give Users of Cortana Control Over Voice Recording Access"
-    excerpt: "Microsoft says users of Cortana and other voice-enabled service can now opt in or out of allowing the company to accessing audio recordings."
-    publishedDateTime: 2021-01-19T15:20:00Z
-    webUrl: "https://winbuzzer.com/2021/01/19/microsoft-give-users-of-cortana-control-over-voice-recording-access-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 41
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/09/hi-im-cortana-resized.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GM joins with Microsoft to speed up self-driving cars"
     excerpt: "General Motors and Microsoft are joining forces to accelerate the development of self-driving vehicles.America’s largest carmaker and one of the world’s leading technology companies will lead a $2"
     publishedDateTime: 2021-01-20T00:01:00Z
@@ -906,6 +875,20 @@ related:
         width: 690
         height: 480
         isCached: true
+  - title: "Microsoft Lets Users Decide Whether Their Voice Clips Can Be Accessed By Human Reviewers"
+    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide"
+    publishedDateTime: 2021-01-19T19:51:00Z
+    webUrl: "https://www.techshout.com/security/2021/19/microsoft-lets-users-decide-whether-their-voice-clips-can-be-accessed-by-human-reviewers/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 32
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/01/stock-image.jpg"
+        width: 690
+        height: 480
+        isCached: true
   - title: "Microsoft looks to bolster the self-driving car market with new Cruise and GM partnership"
     excerpt: "Microsoft appears to be re-entering the automotive market in a significantly greater capacity than it has been previously. A few years back, Microsoft seemingly slunk away from the automotive"
     publishedDateTime: 2021-01-20T15:19:00Z
@@ -919,20 +902,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Cruise-Microsoft-cropped.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Microsoft Research Asia partners with universities in Asia to build OpenNetLab, empowering AI-assisted networking research"
-    excerpt: "Microsoft Research Asia announced the establishment of OpenNetLab, an open networking community and platform in collaboration with multiple universities in Asia, including academia from China, Korea and Singapore."
-    publishedDateTime: 2021-01-19T12:42:00Z
-    webUrl: "https://news.microsoft.com/apac/2021/01/19/microsoft-research-asia-partners-with-universities-in-asia-to-build-opennetlab-empowering-ai-assisted-networking-research/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 28
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/ONL-Hero-Image-1600x1067.jpg"
-        width: 1600
-        height: 1067
         isCached: true
   - title: "Microsoft joins GM to build self-driving cars, invests in $2bn fund"
     excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM)"
@@ -971,6 +940,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "FvELSjMncstk2hVDfKocqDqodHePIPbcZ+mACJvFQixpL66/e/Y3LjPZOcrA2JKuxd6ReFf6m/XcJ9bVbDb+bguZ4AaxefXrCfAQROiK9f1TMOjOCk7mhUnbvWZIcoPo2sIycwxoBJppp4vwHBOya1zEjCJKx+dQmJab5vaoMpglO8/cdUQu02ZykRCULeVlwNTHPtlZtVRhgRhrhCbgRrBY3OHSDSFzh7lml/Gbg9yalKUvl5D7ARbF+nOS6k4uTvxS0zpKiHlFeTPuxbEbPI0KKiuELjNultRZ0h+f1BvxsdD3adva5zF5ZyrQ4ZTOVmyS4BlgcPqXyhE6u5tRZd56zIJmNcS3AnwWBmQw/bk=;nfBxoA60oes4LFlRnqrzHg=="
+secured: "hDo75yE4lEFLrHEDgPNv+XAZ4FA4aUC236eXbHpY+BDgcT8b+ydLrdgZR+GQqOhu342g9RuEypj0hKEskBXpexu/wt/Ca2PIwJ/n/o1qExNOFdTCGJ13m8DuIADMiu6oyWyCtMADEM3sdzpTxMDimH1Dgud1JXQcmmlgfjyoSqz1VWnvZreFdvOMEJ3M6OxKO2tDR1fZc+nhV2QNNB+oCaqgCmZaqTcCNcgQ/hIxu5g7lkHlBqyL713xnFkSRoPQn3fZqL+oDuUJg+s+Gu0yLqGHb2IDt7Oin/a84nyIdUcVLiyRPQgXls7xyEYbZdHWMEdanUq2UGU11ZwU6fcQRoVK34AjBqWx9XNkR3srVIA=;bBnzTjB10SMb5tU9DTXBEg=="
 ---
 

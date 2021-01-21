@@ -3,13 +3,13 @@ category: news
 title: "2021 technology trend review, part two: AI, knowledge graphs, and the COVID-19 effect"
 excerpt: "AI chips, MLOps, and ethics. Knowledge, and Graphs. COVID-19 as a mixed bag for technological progress and adoption"
 publishedDateTime: 2021-01-20T08:16:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+originalUrl: "https://www.zdnet.com/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+webUrl: "https://www.zdnet.com/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/"
 type: article
-quality: 80
-heat: 90
+quality: 82
+heat: 92
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -47,6 +48,6 @@ related:
         height: 627
         isCached: true
 
-secured: "CLxhCjUuprygEa6qF2Z2cWRcd2SsrWGfq1e4UDZirYyL8RTmByHISWJu6xsBJfXZtNPdr/w8Mx6Z4Yb7YpGv1JLjAY/hvdvrruZN7RNXfuJBcxgd//tTWNz9F4b0IgbQqP+FKXz6rcc9VkMGLnJAwLA+tM34DKNv58cT6YBc+2jClkP8vTTlxBRY9yGuOkOjoKU7bM1rWYO9qtfNww00IL3SYnSjkaszNg12H5DCxpVkVmJclhJQsLZRcGQ5S7IoKwjEXFqWF+lg8RLMJBtmpO7wvr1na61VZFwM9fRIbflllfVn658M6PclfNGv43mBWp49fc1dG67UxfOWvQQNZiqu1Rt/1CHFlzWaphKzE2I=;S8MOCghf/PBB23C1ZuNfMA=="
+secured: "otigPdSlkEQ4+Nx0+KL6AkSnpXWtvzURa+En3K9ieUVousu++5hwdLp/2CJMyDSGQG4ecF6QmTGJ5JOe2nON0q3tCRRTNuTR4sX52sW2x8qTUDZzJ8/TZQts+/mR2uMeL5uOziuM5Cy/ukvHFx7jsH1Tj9/PTsU5EFoEbdksn9itFeNk7NVYy/wWbb3+UbFPhF1I6peavs2VFMVQHejjfUghyuTD2769sVqg42acbhZ1SiwfWz1dhZcRWaAMCVC3nmXGjEWbUe1Ac0kbPTr5dOyRrkV94ZJN47vrFzS54KzyZ6s01Qmj/OWHu6kamEXgWzsPS0SHvrvmBOq3vQieBQnnkuHpdGWP8L+Aw+OlCR4=;61Jlq4zgH6SXsFCb7i8WYA=="
 ---
 

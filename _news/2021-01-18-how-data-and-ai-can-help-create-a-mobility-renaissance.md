@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -62,17 +62,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Cerence Introduces Cerence Mobility Platforms; Delivers Voice and AI Experiences to New Areas of Mobility"
-    excerpt: "AI for a world in motion, today announced its Cerence Mobility Platforms for Automotive, 2-Wheelers and Building Mobility. A focused, strategic approach to the company’s growth, Cerence Mobility Platforms deliver industry-leading innovation to three core areas of mobility – automotive,"
-    publishedDateTime: 2021-01-19T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cerence-introduces-cerence-mobility-platforms-delivers-voice-and-ai-experiences-to-new-areas-of-mobility-1029981884"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Cerence-Introduces-Cerence-Mobility-Platforms-Delivers-Voice-and-AI-Experiences-to-New-Areas-of-Mobility-1029981884"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Cerence-Introduces-Cerence-Mobility-Platforms-Delivers-Voice-and-AI-Experiences-to-New-Areas-of-Mobility-1029981884"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
 
 secured: "DJDwWy7E+6rWjwsszNrxlurrwNFnxiAR9Y8JXFsS8Gms6A1t4Q/KhVP4we1y4BABn4TH7Y3Fqga+Ap8jxZ5GQ6BtlSJo/eRDs5QBL/1lBPVZ/nxBHPQ9XjqUF3I5+yRBPIiMutfUW5LHS1vpgRya90tYy2CTAJOkCI9+Ah7JMDA5gBHyH/svmimqH6b3saE7fHl6uHRLanUNGGejT2xqrXOM5ubDjqzWMvvgKJw+0RtX6MDhoAEo6tgSup4DxqIl+U0NJasYVZBfj31MMF71jexSpLI9hMBUaz7BXd8OHhD9V1DYgG7Zs20jiNhCIJL0WUx+iN43quFjDmIFwC2G63K059PMaTWmtrhiDcSdfAnV/HV6FBYln8i5oElb6VDkIOp1vPw/E4zdjSrD1RscwMQshi7DbiMJAXXBwaSxAwLQ4LCwBCZwxF1XvnpbT+VWfRsol+pdLZcVzNYoZ5Plc+yMQD6SSsdBlHNpOCREptNOi6ERaADJvQF9IyfTK7Trr+D3rQSu9YSrGM+idFh+SQ==;6m+EliyW/w9DYG8WrM9IAg=="
 ---

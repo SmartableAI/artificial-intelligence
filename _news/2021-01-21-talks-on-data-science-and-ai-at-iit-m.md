@@ -59,18 +59,7 @@ related:
         width: 730
         height: 439
         isCached: true
-  - title: "Cerence Introduces Cerence Mobility Platforms; Delivers Voice and AI Experiences to New Areas of Mobility"
-    excerpt: "AI for a world in motion, today announced its Cerence Mobility Platforms for Automotive, 2-Wheelers and Building Mobility. A focused, strategic approach to the company’s growth, Cerence Mobility Platforms deliver industry-leading innovation to three core areas of mobility – automotive,"
-    publishedDateTime: 2021-01-19T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cerence-introduces-cerence-mobility-platforms-delivers-voice-and-ai-experiences-to-new-areas-of-mobility-1029981884"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Cerence-Introduces-Cerence-Mobility-Platforms-Delivers-Voice-and-AI-Experiences-to-New-Areas-of-Mobility-1029981884"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Cerence-Introduces-Cerence-Mobility-Platforms-Delivers-Voice-and-AI-Experiences-to-New-Areas-of-Mobility-1029981884"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
 
-secured: "BZWw11puT1fzPA5jn/F6JzPkNmX7fMcYrPP7BDY/VTVltvj7VrhaCxU66tn15lw03B4RjhfWJVipAk+eqU+lwGFi4o5KROLC5NvaiBOdKajgVZw3K7n4Ej1KOzUQuk+rzTEdeef4o1cyTLJh4v4jmnJCUcDXqDB5cguJZpa0aqmxjGemG8pJ4hdDx6A6qU6U+JyrQ4kuBCkog4G8Befm+/YNWY9YdG0YT6tnOhEXbOVIhCNcHOTjBt4X2A0hmaR57Jp/d3uRkW60E6OUPV3NH6Bwc+OSycTLyn3EnB24yNjVWWqzLL2+X08QpaWeSGgerBPQ7vgiZ6PeoQws+IHEdjCe016e7mOVAAJmhycsbKk=;Hvs8s3UMPpRYKru3vMS1dQ=="
+secured: "SbN0ykxgNfTFc8bOKWGJTN9lDvDZ7ZqOjf4zpPwzFQ9lhdTVB7lIdhUlgdMg+smDMTbtqkfQlMPJoOSrwY1ZRHRNTgzgFrfYPmgUnbFqQeTBdQXOcjUwcsiRGQdvjGyt6E807omQXEH6G9R4goyCGwi9z4P8RE9bRfjiUHVD2n353GkAkag4ZUsaq/rum9/kL9Yo7mSb+eiaxCdJ4kyb6SWKgRwdGZ+FLeS9Syuue+5idwf0Ts4AXpOk1m11AM0nYt/HWVMzmPuJ4Dugw07nzrbtTZfhq+biA98NEQqNx0mlkkabY5oT0f1mDBvI4XH7+exxMdWKqsLJfOBy2BGsHe9azD5abNB8KYaHM/NYPlTN8SKKjnIFe2TuqhRvsZtM7zC4v40gavdEzpeL5v/NwI381dgX0Zg41UqKtySGw8lNvE/+RrDyAx6NiaEzeOFIhZ0/Mdt2P1sjO6H2/3C7rBy1hnahMQjgIHTpaAzzimNSm2O7WR3Qf5kmSpyp4xCpVhWUj0KKLfablDQ97nV8Zw==;T1PcsspaYKBFCHm8/ZG1Rg=="
 ---
 
