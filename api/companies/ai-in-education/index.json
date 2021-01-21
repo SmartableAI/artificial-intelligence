@@ -63,6 +63,36 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/yuanfudao.md",
+      "title": "Yuanfudao",
+      "excerpt": "Yuanfudao provides live courses and tutoring through an online platform.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yuanfudao/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/yuanfudao/",
+      "type": "profile",
+      "name": "Yuanfudao",
+      "overview": "Yuanfudao provides live courses and tutoring through an online platform.",
+      "website": "https://www.yuanfudao.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/yuanfudao"
+      },
+      "yearFounded": 0,
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/xoxhum1birnuyzqlrovp",
+          "width": 400,
+          "height": 400,
+          "title": "Yuanfudao",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/korbit.ai.md",
       "title": "Korbit.ai",
       "excerpt": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
@@ -88,7 +118,7 @@
         "AI",
         "AI in Education"
       ],
-      "heat": 50,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1312115717517516801/bg0_nWql_400x400.jpg",
@@ -126,7 +156,7 @@
         "AI",
         "AI in Education"
       ],
-      "heat": 50,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
@@ -134,36 +164,6 @@
           "height": 400,
           "title": "Squirrel AI Learning",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/yuanfudao.md",
-      "title": "Yuanfudao",
-      "excerpt": "Yuanfudao provides live courses and tutoring through an online platform.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yuanfudao/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/yuanfudao/",
-      "type": "profile",
-      "name": "Yuanfudao",
-      "overview": "Yuanfudao provides live courses and tutoring through an online platform.",
-      "website": "https://www.yuanfudao.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/yuanfudao"
-      },
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/xoxhum1birnuyzqlrovp",
-          "width": 400,
-          "height": 400,
-          "title": "Yuanfudao",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -184,7 +184,7 @@
       "twitter": {
         "username": "Knewton",
         "url": "https://twitter.com/Knewton",
-        "followers": 14643
+        "followers": 14644
       },
       "yearFounded": 0,
       "locations": [
@@ -194,7 +194,7 @@
         "AI",
         "AI in Education"
       ],
-      "heat": 0,
+      "heat": 31,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1224388356089491457/7ucoRe_G_400x400.jpg",

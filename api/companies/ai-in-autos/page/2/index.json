@@ -73,7 +73,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5339
+        "followers": 5340
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -279,38 +279,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
       "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
+        "url": "https://www.crunchbase.com/organization/uber"
       },
       "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 17032
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1048710
       },
       "yearFounded": 0,
       "locations": [
-        "Dublin, Ireland"
+        "Global"
       ],
       "topics": [
         "AI",
         "AI in Autos"
       ],
-      "heat": 31,
+      "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Aptiv",
+          "title": "Uber",
           "isCached": true
         }
       ],
