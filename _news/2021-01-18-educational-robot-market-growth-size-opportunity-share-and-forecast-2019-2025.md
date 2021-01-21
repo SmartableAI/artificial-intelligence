@@ -27,29 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market Global Industry Trends, Share, Size and Forecast Report"
-    excerpt: "Machine Learning Market Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts \"The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-20T14:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20"
+  - title: "Conversational Artificial Intelligence (AI) Market Expectations and Growth Trends Highlighted Until 2024"
+    excerpt: "Available Exclusive Sample Copy of this Report @  The global market for conversational artificial intelligence (AI) is estimated to grow at a significant rate during the forecast period from 2019 to 2024."
+    publishedDateTime: 2021-01-21T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
-    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2021-01-20T08:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

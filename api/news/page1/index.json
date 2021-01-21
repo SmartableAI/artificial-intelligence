@@ -2,6 +2,354 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-21-gbt-researching-ai-based-robotics-technology-for-the-medical-field.md",
+      "title": "GBT Researching AI based, Robotics Technology for the Medical Field",
+      "excerpt": "GBT is commencing new research that is targeting medical application robotics, empowered by its AI system. In this research, the Company will focus on the innovation and technological advancements that is offered by AI to enable medical robots achieving higher standards.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-waymos-self-driving-future-looks-real-now-that-the-hype-is-fading.md",
+      "title": "Waymo’s Self-Driving Future Looks Real Now That the Hype Is Fading",
+      "excerpt": "Blown deadlines led the public to look away, but the company’s technology is making progress—and more pilot projects are coming soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-21/waymo-self-driving-taxis-are-coming-to-more-u-s-cities",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-21/waymo-self-driving-taxis-are-coming-to-more-u-s-cities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGHbYrVyOoNU/v2/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-metaethics-meta-intelligence-and-the-rise-of-ai.md",
+      "title": "Metaethics, Meta-Intelligence And The Rise Of AI",
+      "excerpt": "With every new major transformation at a societal level driven by technology, there will be new concerns and challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008510b4bf953e545c92756%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/amp/",
+      "publishedDateTime": "2021-01-21T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-this-chinese-lab-is-aiming-for-big-ai-breakthroughs.md",
+      "title": "This Chinese Lab Is Aiming for Big AI Breakthroughs",
+      "excerpt": "China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
+      "originalUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60089079a9a24f451b08fc1e/master/pass/Business-BAAI-Building.jpg",
+          "width": 2400,
+          "height": 1352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
+      "publishedDateTime": "2021-01-21T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-google-and-its-ethics-ai-team-row-what-we-know-so-far.md",
+      "title": "Google and its ethics AI team row: What we know so far",
+      "excerpt": "Google has drawn major criticism on the move of sudden investigation of Mitchell and suspension of her system access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
+      "originalUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/01/21/550x309/AFP_8Z94GT_1611227607102_1611227625827.jpg",
+          "width": 549,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
+      "publishedDateTime": "2021-01-21T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024.md",
+      "title": "Conversational Artificial Intelligence (AI) Market Expectations and Growth Trends Highlighted Until 2024",
+      "excerpt": "Available Exclusive Sample Copy of this Report @  The global market for conversational artificial intelligence (AI) is estimated to grow at a significant rate during the forecast period from 2019 to 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023.md",
+      "title": "Artificial Intelligence in Retail Market to Witness a Healthy Growth by 2023",
+      "excerpt": "Artificial Intelligence is expected to disrupt every business and enterprises across the world. One of the major factors",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-facial-recognition-tech-deployed-in-up-to-help-women-in-distress.md",
       "title": "Facial recognition tech deployed in UP to help women in distress",
       "excerpt": "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women.",
@@ -900,352 +1248,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-will-2021-be-the-year-that-ai-finally-scales.md",
-      "title": "Will 2021 Be The Year That AI Finally Scales?",
-      "excerpt": "Growing businesses need to unlock the enormous potential of becoming AI-enabled - will 2021 be the year AI finally scales?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/",
-      "originalUrl": "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008425e5c7cd8d2b54d06ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D942%26cropY1%3D12%26cropY2%3D543",
-          "width": 942,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/amp/",
-      "publishedDateTime": "2021-01-20T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program.md",
-      "title": "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program",
-      "excerpt": "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-d0c5c4e9b24d538fcdd7262d3e7e8839",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-d0c5c4e9b24d538fcdd7262d3e7e8839",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-machine-learning-market-global-industry-trends-share-size-and-forecast-report.md",
-      "title": "Machine Learning Market Global Industry Trends, Share, Size and Forecast Report",
-      "excerpt": "Machine Learning Market Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts \"The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Worth $51.3 Billion by 2027 at a CAGR of 41.4%",
-      "excerpt": "According to this latest publication from Meticulous Research(R), the healthcare artificial intelligence market is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-trump-pardons-former-google-self-driving-car-engineer-levandowski.md",
-      "title": "Trump pardons former Google self-driving car engineer Levandowski",
-      "excerpt": "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548414698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09X",
-          "width": 830,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29P0JM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0JM",
-      "publishedDateTime": "2021-01-20T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-why-chicago-is-emerging-an-ai-life-sciences-leader.md",
-      "title": "Why Chicago Is Emerging An AI-Life Sciences Leader",
-      "excerpt": "Chicago is becoming a world leader in a new frontier of precision medicine. And with continued momentum from Chicago-based academic research, venture funded startups and established enterprises—we can expect this sector to continue to expand in the years to come.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/",
-      "originalUrl": "https://www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60082c5cedfffcad1b332bb6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D46%26cropY2%3D2390",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/amp/",
-      "publishedDateTime": "2021-01-20T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-artificial-intelligence-ai-in-healthcare-market-in-india-growing-popularity-and-emerging-trends.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market in India Growing Popularity and Emerging Trends",
-      "excerpt": "A new research document is added in HTF MI database of 50 pages titled as Artificial Intelligence AI in Healthcare Market in India 2018 2023 with detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2228125/artificial-intelligence-ai-in-healthcare-market-in-india",
-      "originalUrl": "https://www.openpr.com/news/2228125/artificial-intelligence-ai-in-healthcare-market-in-india",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U120136029_g.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india",
-      "publishedDateTime": "2021-01-20T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

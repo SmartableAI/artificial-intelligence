@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "ETSI report paves way for standardizing AI security"
-    excerpt: "A new report from ETSI, the European standards organization for telecoms, broadcasting and electronic communications networks and services, aims to pave"
-    publishedDateTime: 2021-01-19T13:29:00Z
-    webUrl: "https://www.embedded.com/etsi-report-paves-way-for-standardizing-ai-security/"
+  - title: "GBT Researching AI based, Robotics Technology for the Medical Field"
+    excerpt: "GBT is commencing new research that is targeting medical application robotics, empowered by its AI system. In this research, the Company will focus on the innovation and technological advancements that is offered by AI to enable medical robots achieving higher standards."
+    publishedDateTime: 2021-01-21T12:42:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
     type: article
     provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 56
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
     images:
-      - url: "https://www.embedded.com/wp-content/uploads/2021/01/AI-security_ss.jpg"
-        width: 1920
-        height: 894
-        isCached: true
-  - title: "Using Artificial Intelligence to Counter Cybersecurity Threats for Drones"
-    excerpt: "Drones can now be equipped with cybersecurity powered by artificial intelligence (AI). SparkCognition and SkyGrid announced a new partnership to protect drones from zero-day attacks by installing an airspace management system that relies on AI instead of signatures of known threats to detect malicious actors,"
-    publishedDateTime: 2021-01-20T01:28:00Z
-    webUrl: "https://www.aviationtoday.com/2021/01/19/using-artificial-intelligence-counter-cybersecurity-threats-drones/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 36
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/01/deeparmor-image-3.png"
-        width: 1196
-        height: 673
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "BB4pAV5J0Fg+eV6q+bgJANXqyRkzdyVYOEqR3fHIBThSDBUUQoZ+Xyup1x9lTIKggfLSw9TFLNCT3/xRzI/HGAdiqNynQZmM2O1L2kCAKkaw8YzzMt5bqRTuCqyRTUGVDi3Dj3UiASM+X7nZXe5gOp78NLvpIwSRtvRCFm0vrr2j70UfBrDDXoD0fsxCOXS+nhtvrNYYX59y4ZgO7K2SpMMsPcy5Kprj/Ngxw4hOxaM3qHhqF4A2G0M8+KY82Fl+9G68L32kGxdYe+fjOchmr+REwGCWW+0TI/BAPVATdTDs7QFPqFoF5SGVctRC0qepizd7cbusJndgM7iHgoD+kM1hX6lkkIDgqwk8ykHO/rY=;WkD/PpzvZGu0q76YvJq8UQ=="

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program"
-excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
-publishedDateTime: 2021-01-21T09:28:00Z
-originalUrl: "https://tass.com/press-releases/1247347"
-webUrl: "https://tass.com/press-releases/1247347"
-ampWebUrl: "https://tass.com/press-releases/1247347/amp"
-cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1247347/amp"
+excerpt: "Supermicro’s collaboration with NVIDIA in the GPU test drive program delivers through channel partners the opportunity to test workloads on remote Supermicro servers using NVIDIA’s HGX A100 platforms,"
+publishedDateTime: 2021-01-21T11:59:00Z
+originalUrl: "https://www.pcr-online.biz/2021/01/21/supermicro-unveils-nvidia-gpu-server-test-drive-program/"
+webUrl: "https://www.pcr-online.biz/2021/01/21/supermicro-unveils-nvidia-gpu-server-test-drive-program/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TASS
-  domain: tass.com
+  name: PCR
+  domain: pcr-online.biz
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.pcr-online.biz/wp-content/uploads/Supermicro-2.jpg"
+    width: 693
+    height: 231
+    isCached: true
 
 related:
   - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program"
@@ -61,6 +65,6 @@ related:
       domain: businessinsider.com
     quality: 30
 
-secured: "FpXr/fK5GUH0mA7RFCAm3Pgn0FdsrWReGVHdnmb/YWXtwGoPjkxn96rkfpB9vMHjiqnYyWhWnPY+nGPneCOv4ll8Z7LYlW3I/brgwcR2ilwDnC48aApQ2FpwhnqK2m9BTovXlWA4A6f5RJs3S5b1lW8qo3OUJaNqVTx1CJW6vvKts2otDLo9kr+Y6hWFJtC/gQOId50gC17b3xsJmkwfxUNxdaMmony0ICf502XrYKKCufqkwyyPj9CRjpMmnXjPEot1E4iI5JneN8YivzE6dqN15qleNKL0aAzb3oBPszpJC+s7QDjY7IwIY4M2k3sNLYZA1XvKPAVXVTQ3nAvqpLjl7fn+iezd1+vvsATGwus=;VzJa+H3lM1qCJwh3deLw0Q=="
+secured: "hkhPLRzSs5TTFqpr3CxH1fxb20GCa8/BwF/uYQEWcPM9/MHkSvaJ2AI2oa+AX44ZoqtVjlu2KtiCGA94+OxxqPmBwYWhluE+0LVz2vLW4qcs63p7VP0+8F4fuZ1n3p4o8CFlbVW62S4tEr0jGkB4ruIdOJ1JBlOwSh2uwExtAKQU/a9p/yff4kOlbtQOtLfwr1NVbV6U753lzaIcj3tok/fJtFaB+zesM6vL+YvteJo1+C3P7BHvz9djsIGhluZ845rIDbWDJtOJ5SFcznWN3u/xmN2j4yCQSXZRqfhcn/wNuQMX7rHt6Wi+iV9YzB52qJqiYv0PksCO7t6xXGh9LdwN0LdSAvUB7hb1//y75hw=;LtVt0KywU9IRu2GgiK0vGw=="
 ---
 

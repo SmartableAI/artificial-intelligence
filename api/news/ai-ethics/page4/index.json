@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-11-03-an-enlightened-future-with-ai.md",
-      "title": "An Enlightened Future with AI",
-      "excerpt": "The year of 2020 has proved to be a challenging year defined mostly across the world by a global pandemic and as a result an increasing shift towards digital. The decisions that we make now and in the",
+      "path": "_news/2020-11-20-education-about-ai-to-begin-in-high-schools-next-year.md",
+      "title": "Education about AI to begin in high schools next year",
+      "excerpt": "Artificial intelligence (AI) will be introduced as a new subject in local high schools next year before being expanded to the curriculums of kindergartens and elementary and middle schools by 2025, the education ministry said Friday,",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/",
-      "originalUrl": "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/",
+      "webUrl": "https://www.koreatimes.co.kr/www/nation/2020/11/181_299636.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2020/11/181_299636.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFh5BNx5U2Vlg/article-cover_image-shrink_720_1280/0?e=1610582400&v=beta&t=OsBJtpSsJgt5DYuwT6CdxOUm1n3vDe0mLlkapOwnM5Y",
-          "width": 1152,
-          "height": 720,
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202011/9091269d05644e31af78ec36c18c7fe0.jpg",
+          "width": 980,
+          "height": 712,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T13:50:00-08:00",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299636",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299636",
+      "publishedDateTime": "2020-11-19T23:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -50,7 +41,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Education"
       ]
     }
   ],

@@ -2,6 +2,284 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-12-10-fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai.md",
+      "title": "FPGA chips are coming on fast in the race to accelerate AI",
+      "excerpt": "Technology innovations Innovations like high-speed tensor logic blocks and lightning-fast transceivers speed AI performance and development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-216391.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
+      "publishedDateTime": "2020-12-10T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-unbiased-ai-becomes-mission-critical-in-2021.md",
+      "title": "Unbiased AI becomes mission-critical in 2021",
+      "excerpt": "While data management becomes critical, recognizing how data annotators influence model bias will be paramount to success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1203529758.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/amp/",
+      "publishedDateTime": "2020-12-10T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-ironclad-assembles-ai-and-legal-experts-to-discuss-inflection-point-for-ai-and-contracting-announces-partnership-with-google-cloud-ai.md",
+      "title": "Ironclad Assembles AI and Legal Experts to Discuss Inflection Point for AI and Contracting, Announces Partnership with Google Cloud AI",
+      "excerpt": "Ironclad, the leading digital contracting platform, today assembled pioneering experts in AI and law at its Winter 2020 State of Digital Contracting summit. Vinod Valloppillil, Head of Product at Google Cloud Language & Vision AI,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-b45104f86dcb4c06e94a21d3730c1fa4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-b45104f86dcb4c06e94a21d3730c1fa4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-computer-vision-market-competitive-scenario.md",
+      "title": "Computer Vision market Competitive Scenario",
+      "excerpt": "The Computer Vision market research report contains exhaustive recognitions dependent on market contention, portions, significant market contenders, and an aggressive scene that prompts potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2206833/computer-vision-market-competitive-scenario-and-growth",
+      "originalUrl": "https://www.openpr.com/news/2206833/computer-vision-market-competitive-scenario-and-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc10735637_g.jpg",
+          "width": 800,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2206833/computer-vision-market-competitive-scenario-and-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2206833/computer-vision-market-competitive-scenario-and-growth",
+      "publishedDateTime": "2020-12-10T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders.md",
+      "title": "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders",
+      "excerpt": "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg?p=facebook",
+          "width": 1440,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai-technologies.md",
+      "title": "Former Seattle Police Chief to Join Axon's AI Ethics Board, Promoting Responsible Development of AI Technologies",
+      "excerpt": "PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the appointment of Carmen Best, former",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai-technologies-301190202.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai-technologies-301190202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1372650/Carmen_Best.jpg?p=facebook",
+          "width": 640,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-td-sees-big-role-for-ai-in-fraud-detection-lending-decisions.md",
       "title": "TD Sees Big Role for AI in Fraud Detection, Lending Decisions",
       "excerpt": "The biggest contributions artificial intelligence can make to financial institutions are ones customers may never see, said Toronto-Dominion Bank’s Tomi Poutanen.",
@@ -902,291 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-c3ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade.md",
-      "title": "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade",
-      "excerpt": "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655",
-          "width": 6271,
-          "height": 4181,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "publishedDateTime": "2020-12-09T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-google-ceo-says-company-will-review-ai-scholars-abrupt-exit.md",
-      "title": "Google CEO says company will review AI scholar's abrupt exit",
-      "excerpt": "FILE- In this Oct. 3, 2019 file photo, Google CEO Sundar Pichai speaks during a visit to El Centro College in Dallas. Pichai has apologized for how a prominent artificial intelligence researcher's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/business/article/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php",
-      "originalUrl": "https://www.sfchronicle.com/business/article/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/15/54/24/20366610/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/business/amp/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php",
-      "publishedDateTime": "2020-12-09T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-making-sense-of-your-health-data-with-amazon-healthlake.md",
-      "title": "Making sense of your health data with Amazon HealthLake",
-      "excerpt": "We’re excited to announce Amazon HealthLake, a new HIPAA-eligible service for healthcare providers, health insurance companies, and pharmaceutical companies to securely store, transform, query, analyze, and share health data in the cloud, at petabyte scale. HealthLake uses machine learning (ML) models",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T16:00:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-its-just-research-isnt-good-enough-in-ai-ethics-p.md",
-      "title": "\"It's just research\" isn't good enough in AI Ethics -p",
-      "excerpt": "There was a little bit of noise around some papers being rejected on ethical grounds at the NeurIPS 2020 Conference. The responses fell into two camps: It's just research and AI has implications, ethics matter I'd firmly put myself in the latter camp,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/its-just-research-isnt-good-enough-ai-ethics-p-steve-jones",
-      "originalUrl": "https://www.linkedin.com/pulse/its-just-research-isnt-good-enough-ai-ethics-p-steve-jones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEMg6-uH8PJ6w/article-cover_image-shrink_600_2000/0/1607613295550?e=1613606400&v=beta&t=zJK3zRQWmF-nVosNIOpnx5jcyEFwhyGXkx8ljay0BGE",
-          "width": 754,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-after-the-fact-data-governance-is-too-much-trouble-too-late.md",
-      "title": "After-the-fact data governance is too much trouble too late",
-      "excerpt": "Latest dispatch from big data: Randomly stuffing things in a receptacle, digging them out to label them, and then putting them back: Not good. Labeling them first and then putting them in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/02/after-the-fact-data-governance-is-too-much-trouble-too-late-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/02/after-the-fact-data-governance-is-too-much-trouble-too-late-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Rik-Tamm-Daniels-and-Rick-Turnock-AWS-re-Invent-2020.jpg",
-          "width": 1881,
-          "height": 1058,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-capital-one-closes-all-data-centers-relies-on-aws-on-demand-infrastructure.md",
-      "title": "Capital One closes all data centers, relies on AWS on-demand infrastructure",
-      "excerpt": "The highly regulated financial industry has been notoriously cautious about moving to the cloud. To benefit from the flexibility and economy of cloud computing but also to be able to address ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/01/capital-one-closes-all-data-centers-to-rely-on-aws-on-demand-infrastructure-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Melanie-Frank-AWS-re-Invent-2020.jpg",
-          "width": 666,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

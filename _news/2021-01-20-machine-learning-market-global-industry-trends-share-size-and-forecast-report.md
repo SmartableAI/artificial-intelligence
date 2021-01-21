@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Educational Robot Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
-    excerpt: "The educational robot market is expected to grow at a CAGR of 16 4 from 2019 to 2025 The role of educational robots is not to replace teachers but to make the entire learning process much easier and more convenient"
-    publishedDateTime: 2021-01-18T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share"
-    ampWebUrl: "https://www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118883099_g.jpg"
-        width: 770
-        height: 338
-        isCached: true
   - title: "Artificial Intelligence Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
     excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
     publishedDateTime: 2021-01-20T08:13:00Z
