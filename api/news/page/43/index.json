@@ -2,6 +2,50 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-12-14-nationwide-selects-aws-as-its-preferred-cloud-provider.md",
+      "title": "Nationwide selects AWS as its preferred cloud provider",
+      "excerpt": "Nationwide, a Fortune 100 insurance and financial services provider, is expanding its relationship with AWS and has selected AWS as its preferred cloud provider. Nationwide is leveraging AWS’ services, including analytics, database, machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144325",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/134650-1200-by-630-suburban-home-shutterstock-745809697--ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing.md",
       "title": "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing",
       "excerpt": "Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers Cambridge Quantum Computing (CQC) today announced that it has built on earlier advances in \"",
@@ -1189,49 +1233,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-tiny-four-bit-computers-are-now-all-you-need-to-train-ai.md",
-      "title": "Tiny four-bit computers are now all you need to train AI",
-      "excerpt": "Some researchers have rushed to find new directions, like algorithms that can train on less data, or hardware that can run those algorithms faster. Now IBM researchers are proposing a different one: to reduce the number of bits,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
-      "originalUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/zQLYOIjEH08BXrs2j4Ii8uG8JzjDPjzeKSI7PAIWs553o4-qOXf2dWp9s2RRO4bAV0xu9qiJA_wMRBohAUYAC1VWtCmLVAZBYvrz7GMKmrp34ycLbND7_bHyKT-ru3ZG1UTjbAOx",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
-      "publishedDateTime": "2020-12-11T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

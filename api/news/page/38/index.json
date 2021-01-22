@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-12-16-oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation.md",
+      "title": "Oscar-nominated studio Laika leans on AI to accelerate stop-motion animation",
+      "excerpt": "Using Xeon CPUs and software built with the OneAPI model, animation studio Laika is leveraging AI to accelerate repetitive production tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/",
+      "originalUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/B037EB54-C6AF-456B-8C8C-66AC56FFCD06_1_201_a.jpeg?w=1200&strip=all",
+          "width": 859,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/oscar-nominated-studio-laika-leans-on-ai-to-accelerate-stop-motion-animation/amp/",
+      "publishedDateTime": "2020-12-16T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan.md",
       "title": "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan",
       "excerpt": "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,",
@@ -1155,58 +1206,6 @@
         "AI",
         "AI in Sales",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026.md",
-      "title": "Neural Network Software Market Research By Key Players, Type And Application, Future Growth To 2026",
-      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T23:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

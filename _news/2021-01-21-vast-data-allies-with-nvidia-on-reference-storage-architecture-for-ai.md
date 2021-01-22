@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     quality: 50
     images:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/decaying-homogeneous-turbulence-405x228.png"
+        width: 405
+        height: 228
+        isCached: true
+  - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA for Large-scale AI Workloads"
+    excerpt: "VAST Data, a storage company, today announced a new reference architecture based on NVIDIA DGX A100 systems and VAST Data’s"
+    publishedDateTime: 2021-01-22T04:30:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/vast-data-unveils-joint-reference-architecture-with-nvidia-for-large-scale-ai-workloads/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 31
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/IBM-In-Memory-Computing-405x228.jpg"
         width: 405
         height: 228
         isCached: true

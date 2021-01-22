@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-07-researchers-use-ai-to-separate-conspiracy-from-fact.md",
+      "title": "Researchers Use AI to Separate Conspiracy From Fact",
+      "excerpt": "Researchers at UCLA have created a model to distinguish conspiracy theories from actual conspiracies which will possibly allow robots to differentiate between things like Pizzagate and Bridgegate in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666",
+      "originalUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/avj8nrd1rb7hwzuyh9km.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/researchers-use-ai-to-separate-conspiracy-from-fact-1845995666/amp",
+      "publishedDateTime": "2021-01-06T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-ai-math-solver-app-qanda-emerges-as-no1-education-app-in-indonesia.md",
       "title": "AI Math-Solver App QANDA Emerges as No.1 Education App in Indonesia",
       "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SEOUL, South Korea, Jan. 7, 2021 /PRNewswire/ -- Seoul-based edtech startup Mathpresso announced that its AI-based math ...",
@@ -1177,58 +1228,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-the-us-armys-robot-tanks-make-great-bait.md",
-      "title": "The U.S. Army’s Robot Tanks Make Great Bait",
-      "excerpt": "The U.S. Army is developing remote-controlled robotic vehicles that, the service hopes, will be able to fight alongside conventional tanks, fighting vehicles and infantry as soon as the 2030s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/",
-      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4d1e90814527e7d1bc513%2F0x0.jpg%3FcropX1%3D36%26cropX2%3D1162%26cropY1%3D0%26cropY2%3D633",
-          "width": 1126,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/amp/",
-      "publishedDateTime": "2021-01-06T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

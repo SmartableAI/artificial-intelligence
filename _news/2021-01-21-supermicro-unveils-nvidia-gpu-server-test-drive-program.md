@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program"
-excerpt: "Supermicro’s collaboration with NVIDIA in the GPU test drive program delivers through channel partners the opportunity to test workloads on remote Supermicro servers using NVIDIA’s HGX A100 platforms,"
-publishedDateTime: 2021-01-21T11:59:00Z
-originalUrl: "https://www.pcr-online.biz/2021/01/21/supermicro-unveils-nvidia-gpu-server-test-drive-program/"
-webUrl: "https://www.pcr-online.biz/2021/01/21/supermicro-unveils-nvidia-gpu-server-test-drive-program/"
+excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
+publishedDateTime: 2021-01-21T09:28:00Z
+originalUrl: "https://tass.com/press-releases/1247347"
+webUrl: "https://tass.com/press-releases/1247347"
+ampWebUrl: "https://tass.com/press-releases/1247347/amp"
+cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1247347/amp"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PCR
-  domain: pcr-online.biz
+  name: TASS
+  domain: tass.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.pcr-online.biz/wp-content/uploads/Supermicro-2.jpg"
-    width: 693
-    height: 231
-    isCached: true
 
 related:
   - title: "Supermicro Unveils NVIDIA GPU Server Remote Test Drive Program"
@@ -74,6 +70,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "hkhPLRzSs5TTFqpr3CxH1fxb20GCa8/BwF/uYQEWcPM9/MHkSvaJ2AI2oa+AX44ZoqtVjlu2KtiCGA94+OxxqPmBwYWhluE+0LVz2vLW4qcs63p7VP0+8F4fuZ1n3p4o8CFlbVW62S4tEr0jGkB4ruIdOJ1JBlOwSh2uwExtAKQU/a9p/yff4kOlbtQOtLfwr1NVbV6U753lzaIcj3tok/fJtFaB+zesM6vL+YvteJo1+C3P7BHvz9djsIGhluZ845rIDbWDJtOJ5SFcznWN3u/xmN2j4yCQSXZRqfhcn/wNuQMX7rHt6Wi+iV9YzB52qJqiYv0PksCO7t6xXGh9LdwN0LdSAvUB7hb1//y75hw=;LtVt0KywU9IRu2GgiK0vGw=="
+secured: "Raq7LVISO0asUMtKggTUur6ja5CMtfX0WIqxd1FXHe9hqYegbptTWQUOwZSArAaNe5zc+1NoIUxjUgDvPmqFDo4ccmJNH6EyN9AeT8B6+qel+ejJ0MObdczj520+4p/hNpmZlMLhGeXgwGyGwk/PHpiZlKKXLSWiRWSS6bm8iS0KJ5UB35VN3YfNVipt8qajIKvNk6P72bt5XPegv4fdh8pH3HKCbfzArBLQQDMc29oD8PpFQc7czHMBhCbqjtGFjCLJFNOI2ffWcD7PjcnKrzyIUisJ3H/fdP0h3F5OM8h1MeC0usHjG1OuS9l+LQxak1sBf5jv/L2kb4qZ+6NAgXSAHXnJUSmmXcUnY0K3KEY=;giQtgLN8VJ6I+VDmOFwK1g=="
 ---
 

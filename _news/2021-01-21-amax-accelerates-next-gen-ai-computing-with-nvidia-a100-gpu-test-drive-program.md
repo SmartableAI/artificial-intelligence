@@ -55,6 +55,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA for Large-scale AI Workloads"
+    excerpt: "VAST Data, a storage company, today announced a new reference architecture based on NVIDIA DGX A100 systems and VAST Data’s"
+    publishedDateTime: 2021-01-22T04:30:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/vast-data-unveils-joint-reference-architecture-with-nvidia-for-large-scale-ai-workloads/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 31
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/IBM-In-Memory-Computing-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "It’s time for a data architecture do-over"
     excerpt: "With the amount of data that people are moving to the cloud, you’re going to see the use of analytics, AI for business outcomes explode.” Chirapurath spoke with Dave Vellante, host of theCUBE, SiliconANGLE Media’s livestreaming studio,"
     publishedDateTime: 2021-01-21T22:58:00Z

@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-14-this-app-is-helping-reunite-dogs-with-their-owners-using-ai.md",
+      "title": "This app is helping reunite dogs with their owners using AI",
+      "excerpt": "It’s hard to imagine the stress that pet owners go through when their furry friends go missing. A US government survey suggests that 7% of lost dogs are never recovered. That’s why a startup named Shadow is trying to reunite dogs with their owners using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/",
+      "originalUrl": "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Shadow-app-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/01/14/this-app-is-helping-reunite-dogs-with-their-owners-using-ai/amp/",
+      "publishedDateTime": "2021-01-13T23:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection.md",
       "title": "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'",
       "excerpt": "Enterprise AI solution provider, MakinaRocks ( announced the signing of a memorandum of understanding (MOU) with Hyundai Robotics on January 14, regarding the cooperation of the two companies in developing AI-based anomaly detection for industrial robot arms.",
@@ -1130,59 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ces-2021s-chip-announcements-mobile-takes-center-stage.md",
-      "title": "CES 2021's Chip Announcements: Mobile Takes Center Stage",
-      "excerpt": "Virtual or not, CES has plenty of chip news from the big name companies, many with renewed or new focus on the world of laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/processors/130961/ces-2021s-chip-announcements-mobile-takes-center-stage",
-      "originalUrl": "https://uk.pcmag.com/processors/130961/ces-2021s-chip-announcements-mobile-takes-center-stage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/c/ces-2021s-/ces-2021s-chip-announcements-mobile-takes-center-stage_yqa2.1200.jpg",
-          "width": 1077,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-19-curefit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos.md",
+      "title": "Cure.fit acquires AI body tracker Onyx to enable two-way workout videos",
+      "excerpt": "Now India’s most funded health startup is making a move to bridge that gap, using a California company’s AI system to replace human fitness coaches at users’ homes. Currently offered as an ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
+      "originalUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/onyxcurefit.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
+      "publishedDateTime": "2021-01-18T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how.md",
       "title": "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How",
       "excerpt": "Facebook's artificial intelligence researchers developed models that use x-rays to anticipate the progression of the disease in a patient and help hospitals prepare.",
@@ -1172,58 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-want-to-work-with-robots-all-day-heres-what-you-need-to-do.md",
-      "title": "Want to work with robots all day? Here's what you need to do.",
-      "excerpt": "Today, robots are doing much more than assembling cars. Robots work in the retail, security, hospitality, and logistic industries. These robots and robotic services include drones, chatbots, security patrols,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/want-to-work-with-robots-all-day-heres-what-you-need-to-do/",
-      "publishedDateTime": "2021-01-15T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

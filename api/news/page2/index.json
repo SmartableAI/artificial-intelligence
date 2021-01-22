@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-21-university-of-pisa-leans-into-the-io-challenge-ai-applications-create.md",
+      "title": "University of Pisa leans into the I/O challenge AI applications create",
+      "excerpt": "University of Pisa adopts NVMesh software from Excelero to enable AI researchers to access Nvidia GPU servers more efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/",
+      "originalUrl": "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/artificial_intelligence.GettyImages-1067543600.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/",
+      "publishedDateTime": "2021-01-20T22:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-designing-customized-brains-for-robots.md",
       "title": "Designing customized “brains” for robots",
       "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot’s operation. The system, called robomorphic computing, accounts for the robot’s physical layout in suggesting an optimized hardware architecture.",
@@ -1202,58 +1254,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-heres-why-investors-should-pay-close-attention-to-artificial-intelligence.md",
-      "title": "Here's Why Investors Should Pay Close Attention to Artificial Intelligence",
-      "excerpt": "Artificial intelligence is ingrained into our lives. It’s influencing our shopping choices online, helping us book meetings, and even finding the best deals. The auto industry is using AI to create driverless cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
-      "originalUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -150,6 +150,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market to Witness Astonishing Growth with Key Players, Analysis with Impact of COVID-19, Analysis, Demand, Forecast 2025"
+    excerpt: "Jan (The Expresswire) -- Global \"Machine Learning Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"
+    publishedDateTime: 2021-01-22T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-to-witness-astonishing-growth-with-key-players-analysis-with-impact-of-covid-19-analysis-demand-forecast-2025-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Products Market Report 2021 Growth Factors, Research Methodology With Impact of COIVD-19 and Global Forecast 2025"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Artificial Intelligence Products"
     publishedDateTime: 2021-01-21T14:58:00Z
@@ -201,6 +215,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market Share 2021 Top Key Players, Analysis, Revenue, Price, Size, Growth Rate, Forecast by 2026"
+    excerpt: "Global “ Voice Recognition Software Market ” research report contains in depth information of industry by size, major manufacturers, growth rate, drivers and challenges, industry trends, and their impact on the market till the forecast year 2026."
+    publishedDateTime: 2021-01-21T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2021-top-key-players-analysis-revenue-price-size-growth-rate-forecast-by-2026-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

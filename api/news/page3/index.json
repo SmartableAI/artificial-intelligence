@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-20-heres-why-investors-should-pay-close-attention-to-artificial-intelligence.md",
+      "title": "Here's Why Investors Should Pay Close Attention to Artificial Intelligence",
+      "excerpt": "Artificial intelligence is ingrained into our lives. It’s influencing our shopping choices online, helping us book meetings, and even finding the best deals. The auto industry is using AI to create driverless cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
+      "originalUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-beware-the-ai-death-spiral.md",
       "title": "Beware The AI Death Spiral",
       "excerpt": "Companies caught in the death spiral have an AI that’s very accurate, but that's also accurately wrong -- and downright dangerous -- for their business.",
@@ -1181,57 +1233,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-eth-spin-off-latticeflow-raises-28m-to-help-build-trustworthy-ai-systems.md",
-      "title": "ETH spin-off LatticeFlow raises $2.8M to help build trustworthy AI systems",
-      "excerpt": "LatticeFlow, an AI startup that was spun out of ETH Zurich in 2020, today announced that it has raised a $2.8 million seed funding round led by Swiss deep-tech fund btov and Global Founders Capital, which previously backed the likes of Revolut,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/",
-      "originalUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1196045105.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/19/eth-spin-off-latticeflow-raises-2-8m-to-help-build-trustworthy-ai-systems/amp/",
-      "publishedDateTime": "2021-01-19T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

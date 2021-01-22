@@ -60,6 +60,20 @@ related:
         width: 770
         height: 338
         isCached: true
+  - title: "Facial Recognition Market Trends, Share, Growth Rate, Opportunities and Market Forecast to 2021 – 2024"
+    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
+    publishedDateTime: 2021-01-22T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-trends-share-growth-rate-opportunities-and-market-forecast-to-2021-2024-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KVpkEUio49iIBRtSVQMfgcVod16pRAM9dS1ypoh1ZqOvkFfbOCLzgDNFyrhisZ4JOl6AjI6s1SkqWAvfSa5YV7won1Z5c3R4qQYWLnSlNoB65k7pmqXEEWCMThZQD3Tg7xWh7VRDbmIpOKF200Vk2Lp8w7M/XZ3VpZHhVjg8gAGGVBQfY6ld0Z/NzPdyX0Tod5fZZrpBVgXqwlUokcSm8nrUnG8uSZLhxfRy/mRQQI5yKh95NkurpbwEj0ua7prWr3Mt83i3xLClJHuAnPDBr7Ouo+cbYmYY4Ao2uRTXf7oHGB6GrECwotByQaBGyOjzKNw+nu1wxrP6fTw6sRrqCRMHi3jhuMEzjCkWNk+ZCSY=;kwOFqf3fQ1wRuv00lnipqA=="
 ---

@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-12-15-after-737-max-debacle-former-boeing-ceo-makes-a-comeback-at-monarch-self-driving-tractor-venture.md",
+      "title": "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture",
+      "excerpt": "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
+      "originalUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
+      "publishedDateTime": "2020-12-14T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion.md",
       "title": "Is the AI software market headed for $150 billion or closer to $37 billion?",
       "excerpt": "At that point, the apps category will start to lose steam and the platform category will take the edge. In the apps category, vendors will lose the ability over time to charge a premium for AI-infused apps as this functionality will become a standard feature.",
@@ -1154,50 +1206,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-nationwide-selects-aws-as-its-preferred-cloud-provider.md",
-      "title": "Nationwide selects AWS as its preferred cloud provider",
-      "excerpt": "Nationwide, a Fortune 100 insurance and financial services provider, is expanding its relationship with AWS and has selected AWS as its preferred cloud provider. Nationwide is leveraging AWS’ services, including analytics, database, machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144325",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144325",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/134650-1200-by-630-suburban-home-shutterstock-745809697--ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

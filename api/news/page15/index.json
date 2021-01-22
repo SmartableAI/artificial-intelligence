@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-08-nope-facial-recognition-didnt-spot-antifa-members-at-us-riots.md",
+      "title": "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots",
+      "excerpt": "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/08/dont-believe-congressman-gaetzs-claim-facial-recognition-spotted-antifa-members-at-us-riots/amp/",
+      "publishedDateTime": "2021-01-08T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-robotics-etf-botz-beckons-as-pertinent-post-covid-idea.md",
       "title": "Robotics ETF BOTZ Beckons as Pertinent Post-Covid Idea",
       "excerpt": "Put robotics in the conversation among disruptive technologies that are navigating the pandemic with aplomb. The investment concept is gaining traction as a post-pandemic idea, but with vaccination rates still – hopefully a temporary phenomenon – and case counts rising,",
@@ -1086,49 +1138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
-      "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
-      "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
-      "originalUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX",
-      "publishedDateTime": "2021-01-07T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

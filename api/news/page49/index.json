@@ -2,6 +2,40 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
+      "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
+      "excerpt": "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T21:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning.md",
       "title": "AWS expands on SageMaker capabilities with end-to-end features for machine learning",
       "excerpt": "Nearly three years after it was first launched, Amazon Web Services’ SageMaker platform has gotten a significant upgrade in the form of new features, making it easier for developers to automate and scale each step of the process to build new automation and machine learning capabilities,",
@@ -1173,59 +1207,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief.md",
-      "title": "Apple Shifts Leadership of Self-Driving Car Division to AI Chief",
-      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "publishedDateTime": "2020-12-08T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
       ]
     }
   ],

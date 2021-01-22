@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/conversational-artificia
 webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
     excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
     publishedDateTime: 2021-01-21T14:58:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-growth-opportunities-and-top-key-players-analysis-report-2021-2024-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Trends, Share, Growth Rate, Opportunities and Market Forecast to 2021 – 2024"
+    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
+    publishedDateTime: 2021-01-22T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-trends-share-growth-rate-opportunities-and-market-forecast-to-2021-2024-2021-01-21"
     type: article
     provider:
       name: MarketWatch

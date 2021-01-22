@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-12-21-the-morning-after-teslas-self-driving-subscription-slides-to-2021.md",
+      "title": "The Morning After: Tesla's self-driving subscription slides to 2021",
+      "excerpt": "If, say, a friend of yours is still in need of last-minute shopping information, or you just want to double check what’s out there, the Engadget Holiday Gift Guides for 2020 are here to help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-fd-subscription-tma-122520244.html",
+      "originalUrl": "https://www.engadget.com/tesla-fd-subscription-tma-122520244.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F36fb7560-4386-11eb-9bff-cde63905018f&client=amp-blogside-v2&signature=0374e1be309989630418c16e17c4b07f74e6dc19",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-fd-subscription-tma-122520244.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-fd-subscription-tma-122520244.html",
+      "publishedDateTime": "2020-12-21T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
       "title": "Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
       "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
@@ -1090,49 +1142,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-5-companies-owned-by-ibm.md",
-      "title": "5 Companies Owned by IBM",
-      "excerpt": "which will enable IBM to expand the capabilities of its Watson artificial intelligence (AI) system. AI machine learning systems such as Watson require large amounts of data from which they are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
-      "originalUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/BwRRso7Oa0D_Z0tRTwIibhYH8tY=/1783x1265/filters:fill(auto,1)/ibm-logo-3-56a81a2c3df78cf7729c1f61.jpg",
-          "width": 1783,
-          "height": 1265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.investopedia.com/amp/companies-owned-by-ibm-5092453",
-      "cdnAmpWebUrl": "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/companies-owned-by-ibm-5092453",
-      "publishedDateTime": "2020-12-19T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/when-a-story-is-breaking-ai-can-help-id
 webUrl: "https://www.miragenews.com/when-a-story-is-breaking-ai-can-help-identify-fake-news/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "When a story is breaking, AI can help consumers identify fake news"
+    excerpt: "Warnings about misinformation are now regularly posted on Twitter, Facebook, and other social media platforms, but not all of these cautions are created equal. New research from Rensselaer Polytechnic Institute shows that artificial intelligence can help form accurate news assessments -- but only when a news story is first emerging."
+    publishedDateTime: 2021-01-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210121150940.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "When a story is breaking, AI can help consumers identify fake news"
     excerpt: "Warnings about misinformation are now regularly posted on Twitter, Facebook, and other social media platforms, but not all of these cautions are created equal. New research from Rensselaer Polytechnic Institute shows that artificial intelligence can help form accurate news assessments -- but only when a news story is first emerging."
     publishedDateTime: 2021-01-21T18:28:00Z
