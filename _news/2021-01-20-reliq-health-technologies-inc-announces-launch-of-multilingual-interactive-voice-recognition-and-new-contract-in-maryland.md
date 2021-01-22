@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition and New Contract in Maryland"
-excerpt: "(GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT or OTC:RQHTF or WKN:A2AJTB) (“ Reliq ” or the “ Company ”), a rapidly growing global telemedicine company that develops innovative Virtual Care solutions for the multi-billion dollar Healthcare market,"
-publishedDateTime: 2021-01-20T08:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland-1029984922"
-webUrl: "https://markets.businessinsider.com/news/stocks/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland-1029984922"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Reliq-Health-Technologies-Inc-Announces-Launch-of-Multilingual-Interactive-Voice-Recognition-and-New-Contract-in-Maryland-1029984922"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Reliq-Health-Technologies-Inc-Announces-Launch-of-Multilingual-Interactive-Voice-Recognition-and-New-Contract-in-Maryland-1029984922"
+excerpt: "(GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT, OTC:RQHTF) (\"Reliq\" or the \"Company\"), a rapidly growing global telemedicine company that develops innovative Virtual Care solutions for the multi-billion dollar Healthcare market,"
+publishedDateTime: 2021-01-20T08:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/g19229634/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-n"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/g19229634/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-n"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19229634"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19229634"
 type: article
-quality: 28
-heat: 28
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
@@ -40,6 +36,6 @@ related:
         height: 450
         isCached: true
 
-secured: "fpQYa9HvhdlqFf/m3Kxe2b/bEayPFj/i+BAdnQanuBXTIMJikspse37Vh8f9CaDG9onrni3+3RcXmVgZMjlYt+cmw15Ute0g4S7sKzSTRMYWsYs6IaLbvXPlPoltAGS35DLH+RUrEl3r5uIM3FicXWf4xZd8FrQqQq13UINUmmk56cweDZ9YojRWbLqLOWBjO640hTDkwSUsr2m2JSyWc7pNxAoyTgaZY0/ZKt0OgwyAo5OwMaBBuOEVKxVoqgiakLuXdgIrnRrsNZD0j3d66kGdBax4G51OsSbkA4x0PZ9JrVH0fHs6uVcDpVdEjOVijffOOMXjz7JuKpVoDD8yEsibSZTtl69wjc3LJPVfTxQ=;wpNvODPbjhVFCNgoV2EW7A=="
+secured: "HDQgZBSNwOrAy9kl6PbppUMixw4uwK2Aq6hYM5SPx8jX7ZL3ggb/0PeyKv2p0nRPiW4FBo+SclAO3ODTneqqaqvV40APpw2z9PkRVrStXRPAo7w4bqn+JvorOx/sjFl1rO9Ml4FeEscERN6zZoSkvqJ62VlNM8i33PGsRzlV1nXU0/S0DoASMrfl316cITy4I3BTaWU6GYWBkTm69AZiSxlVhGDnDX7ZuoWmc4da6BcjpnHy9yP0N9gj2yK4ncHrhhgRFd6djdCABr3lFkhBcvjtrgtfY33JsGZLldjce29WzATXfZWxgWZgV/bUp/z9cAMYPEcD9qcz9BrvhBYez82qiPEc5erex7t65aLlKXQ=;g7L/T4AOBEhVZ+1jF2Wd9w=="
 ---
 

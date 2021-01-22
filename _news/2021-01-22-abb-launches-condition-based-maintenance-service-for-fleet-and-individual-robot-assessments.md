@@ -3,8 +3,8 @@ category: news
 title: "ABB launches condition-based maintenance service for fleet and individual robot assessments"
 excerpt: "ABB's new Condition-Based Maintainance (CBM) service enables robot users to create a preventive maintenance schedule for individual or robot fleets based on real-time operational data, to optimize productivity and minimize downtime."
 publishedDateTime: 2021-01-21T20:23:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2021/01/21/abb-launches-condition-based-maintenance-service-for-fleet-and-individual-robot-assessments/16133/"
-webUrl: "https://www.roboticstomorrow.com/news/2021/01/21/abb-launches-condition-based-maintenance-service-for-fleet-and-individual-robot-assessments/16133/"
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=16133"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=16133"
 type: article
 quality: 24
 heat: 24
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "iO+LGG21XJ8KgVvi0A228+N18zhI+7MOFDrKZSlpPqbRaUjtYpYwm0kYxYYQxkcFYfRdgcNvsrrEugr6mVkFc8eNDS2Oyx2jYyR2b3e+INv8y2ASXvDnJEvmw6UeHKXO6BqC5IpGu1Kn+HIyj9rTOOpxqfP4TVdgQuuA6W5JHQAcoyrixLPQJMWm4rzCJ56sd8S4GEfqiWXqudVpOuH04rb6SDFc9TqBN+7e5WuCyDqx1V5vlCVEoCUsYjNAGenDtVvII4gt7eVTYFCuBhimywtZG538EQnDpJ3Gv3jEz3EbO/6NAznZszqS61HMIjrcAt9R/hK/TG7ccd9p/NZvqNfLt5iL6wwoGRktLsznEVQ=;cm/XqsJIolU/07ENq0+Crg=="
+secured: "VcRnbzESUdr24Ken/GqVro23wtD81nxrXvzRAzBixK/ROFi32yDEgX+/1GpOlMSBXVeAT3hKYBDADuDCy4dKGSUqX5qMb/6g9xNx+8B6oTGsxgEFDUum8fwMSTbFA0cweoy2NoZAj65A1SO7WG0kK+Gqi2NrZTvGvEMo6kn57nacZvmRtQEiDvfBZ8J8COWf+sKrcWe0ylPfiOplxHQk4Pc9C+DbaXszQ3B3jcGyAMcN9OHzehS/HoXyheubA2mficKDEpQf69agPck48/zURaPsu2JPi8XsGje8vhM/FO6ZwN1r1J1IDgQ+9GsxbG/42is3GS85MnIxibH7F6dAN4Qrpv+h/4cBTqMxUmK2co0=;KxT00Ywh+LvRxmf2Ihxnhg=="
 ---
 

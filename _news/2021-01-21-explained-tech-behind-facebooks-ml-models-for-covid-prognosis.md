@@ -136,20 +136,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
-    excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."
-    publishedDateTime: 2021-01-17T09:11:00Z
-    webUrl: "https://www.analyticsinsight.net/how-has-artificial-intelligence-risen-in-the-healthcare-sector/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-e1610856351543.jpg"
-        width: 900
-        height: 499
-        isCached: true
   - title: "Mission Healthcare of San Diego Adopts Muse Healthcare’s Machine Learning Tool"
     excerpt: "PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care providers in California, will adopt Muse Healthcare’s machine learning and predictive modeling tool to help deliver a more personalized level of care to their patients."
     publishedDateTime: 2021-01-19T13:57:00Z

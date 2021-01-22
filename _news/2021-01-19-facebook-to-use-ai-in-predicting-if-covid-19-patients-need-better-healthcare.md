@@ -122,20 +122,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
-    excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."
-    publishedDateTime: 2021-01-17T09:11:00Z
-    webUrl: "https://www.analyticsinsight.net/how-has-artificial-intelligence-risen-in-the-healthcare-sector/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-e1610856351543.jpg"
-        width: 900
-        height: 499
-        isCached: true
   - title: "Explained: Tech Behind Facebook’s ML Models For COVID Prognosis"
     excerpt: "To address this, Facebook AI has recently introduced pre-trained machine learning (ML) models to help doctors project the prognosis of COVID patients to make effective clinical decisions and allocate resources. The research is a part of an ongoing ..."
     publishedDateTime: 2021-01-21T09:40:00Z
@@ -202,6 +188,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "0frSQd1vtsdda4WVlCtcajyPvtBmtVsw3fp+Yr4K21JKdAetyZh9Afb81lUVRaZ+OlOT/JcFjh17KSaSkmiXRSU6NPbDJzVfEGlMsWAmuwDussdXnobjf+cEMUKvLxoUoCpWyvleYhvF4h8m0A2qMoYEywRSaOIvaX8RZDyyInPfzg5/BymCIpUT4gJwv9qMGA/G0sPPboK1WUQNGUEyxZP6pOhSyCx98LYW3h9WynwBF0KpHbhMtiU6qsEpUC1xME/8/W/KkvL77a8n6u4c7zkf2FdTNBLWoZN+RPbniXIpVN+Ga5DNwKFGNkT6UHskoOIbe4xuDArTH6x5i2XIulMh6R/1HC2PEbHNWIEz31k=;+lW5SbdXqcHo2nr4NBmMSg=="
+secured: "Ilu4GA9KNK/Ua28j2/LLNqZM7O+R4OfSYgOiMc5SD/jkP0f+nu5vl9gn3F7xnq3V34WZjldYLd6pCC0ORbLijTkd2PrZHdjKNKXB0um+lk0gy0nBf5ndpaZB/vauIgmsWy8xuQz7oURqL6oAFrfR9I/5i0ro1fVBRKYrkN8kdrjlKBb5kdxxuSg3UNdLqeMIURPagHv8IchzJjmcZSDo2gA9NzsFQ65KQY3INLq7gWy0kGR4hDLEl6tNKKiOAREN5opaZQtfhydn5zXDLopw6RR46KLNmF53u4l7k12eFZ/oRb+dWra+vNhL36uCCvNzmRNdJlpRcGsyA+9XfRvFhZ+5C2w2hBMmZztbq8/8Bin551PzLIy4WZx/qs1rGqy4v6yLJ/MQlmmCtkKl6uxMgkqkEQx71OejX7fEpXJENzEcD4Ck6MN/zNHxarmi0ffVt+gUV0izMv3r2D3XgTQWrxOL1HWDj333ea2jbZSrijWnGThEzOQte0JP3hINkoyDcTtUe5h+aN4WrQNSibBZTg==;BDWkNbIsNKONGc/Q4gtsfQ=="
 ---
 

@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "This is how facial recognition tech can help women in distress"
+    excerpt: "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women."
+    publishedDateTime: 2021-01-22T02:15:00Z
+    webUrl: "https://www.orissapost.com/this-is-how-facial-recognition-tech-can-help-women-in-distress/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 39
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/01/facial-recognition-IANS-pic.jpg"
+        width: 1024
+        height: 698
+        isCached: true
 
 secured: "P61P5TfappSgDYay0Bek68V3NogD1cUphk9VDAoEy4jjO/Ra979XLVsV++wzmxpz7xm4CIw7QDWlolPENXK2WtGuCVn7wRylYtOA4E8aCBSOxwrDVgNAnmUjUpVo3ghj2wkQrW9h0KMzlUmT6+dvK8MbrvPo2C6ViZ+I4FV2fiaFDV5GpRmCIuUuwPjlzOaIvi+BqKavI6Ysc16OfE5Aup8S3RGI5nLeDURKhbySCsfPT9Ku0y8XI/rqf0YHwm1jhcdMZ7LQHPLQ5q3d4MuTiDK1gJX1hXZHWtJFTksPMtsjk19aZxDA90GEYAeXR2JSRuln0TW18rQEXj2gKj6u/g2OHZ+V+3e+vpjYxZJk2YisTNzp5pc/VgM4nao6wnZfP4g8rt29Hco02GL1qHSFBCTcV5B2LV7ryGKei/T6OeuMZ3TrOddG2At0mPTh8MtY39quEBpZjBW/JR9m5nnIULMIMZRBCMiwYXYQ/PVOVopeKr0UK8HJVy/ImMRKxz97LWcA9d7nRAEGzmwum3QXKQ==;gbnukEObFcyz9VQfmoSkMA=="
 ---

@@ -2,6 +2,101 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-12-22-apple-reportedly-aiming-to-launch-self-driving-cars-by-2024.md",
+      "title": "Apple Reportedly Aiming to Launch Self-Driving Cars By 2024",
+      "excerpt": "The iPhone maker is reportedly targeting 2024 as a potential goal date to enter the fray with a self-driving passenger vehicle, one which will potentially be powered by Apple’s proprietary battery technology.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
+      "originalUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hqqi6njbxxweyncc7jwi.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
+      "publishedDateTime": "2020-12-21T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-how-face-masks-can-disrupt-facial-recognition-and-daily-life.md",
+      "title": "How face masks can disrupt facial recognition — and daily life",
+      "excerpt": "Thanks to preventative measures to reduce COVID-19 transmission — including social distancing and wearing face masks — the possibility of meaningful public interaction is all but gone. “For those of you who don’t always recognize a friend or acquaintance wearing a mask,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/",
+      "originalUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/face-masks-43.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/",
+      "publishedDateTime": "2020-12-21T15:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-deepmind-researchers-claim-neural-networks-can-outperform-neurosymbolic-models.md",
       "title": "DeepMind researchers claim neural networks can outperform neurosymbolic models",
       "excerpt": "But researchers at DeepMind claim neural networks can outperform neurosymbolic models under the right testing conditions. In a preprint paper, coauthors describe an architecture for spatio ...",
@@ -1075,111 +1170,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
-      "title": "Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
-      "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-12-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-unleashing-new-frontiers-from-chips-to-industries.md",
-      "title": "Unleashing new frontiers: From chips to industries",
-      "excerpt": "Following its $40B acquisition by NVIDIA, Arm’s CEO Simon Segars opens up about bold plans for the company’s future and its growth plans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/",
-      "originalUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Simon-Segars_Interview-Still-15_selected-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/unleashing-new-frontiers-from-chips-to-industries/amp/",
-      "publishedDateTime": "2020-12-21T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

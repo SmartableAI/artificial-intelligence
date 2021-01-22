@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-i
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
 type: article
 quality: 98
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -121,20 +121,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_njkb.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Has Artificial Intelligence Risen in the Healthcare Sector"
-    excerpt: "Artificial intelligence has catered to needs of the society in every possible way. With the implementation of AI, many sectors have benefitted out of it – applications of AI in Healthcare has been significant than other sectors."
-    publishedDateTime: 2021-01-17T09:11:00Z
-    webUrl: "https://www.analyticsinsight.net/how-has-artificial-intelligence-risen-in-the-healthcare-sector/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-e1610856351543.jpg"
-        width: 900
-        height: 499
         isCached: true
   - title: "Explained: Tech Behind Facebook’s ML Models For COVID Prognosis"
     excerpt: "To address this, Facebook AI has recently introduced pre-trained machine learning (ML) models to help doctors project the prognosis of COVID patients to make effective clinical decisions and allocate resources. The research is a part of an ongoing ..."

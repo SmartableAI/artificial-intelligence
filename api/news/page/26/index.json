@@ -2,6 +2,111 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-12-29-why-ai-is-so-power-hungry.md",
+      "title": "Why AI is so power-hungry",
+      "excerpt": "I am a researcher who studies and develops AI models, and I am all too familiar with the skyrocketing energy and financial costs of AI research. Why have AI models become so power hungry, and how are they different from traditional data center computation?",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
+      "originalUrl": "https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/machine-learning-brain-800x450.jpg",
+          "width": 760,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-resolution-scaling-the-secret-to-playable-4k-gaming.md",
+      "title": "Resolution Scaling: The Secret to Playable \"4K Gaming\"",
+      "excerpt": "Resolution scaling is a great option if you're looking to eke out an additional 10-15% performance, after tweaking settings. If you're playing at a high resolution",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
+      "originalUrl": "https://www.techspot.com/article/2161-resolution-scaling-gaming-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2161/images/2020-12-29-image-2.jpg",
+          "width": 3352,
+          "height": 1936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2161-resolution-scaling-gaming-performance/",
+      "publishedDateTime": "2020-12-29T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-a-black-man-spent-10-days-in-jail-after-he-was-misidentified-by-facial-recognition-a-new-lawsuit-claims.md",
       "title": "A Black man spent 10 days in jail after he was misidentified by facial recognition, a new lawsuit claims",
       "excerpt": "The man's attorney claims police used excessive force, false imprisonment, and cruel and unusual punishment.",
@@ -1119,93 +1224,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting.md",
-      "title": "Zoho’s 2021 finance trends predicts surge in cloud-based and AI-driven accounting",
-      "excerpt": "Zoho Corporation, a global technology company offering the most extensive suite of business software applications in the industry, today delivers its predictions for finance and accounting in 2021. Zoho suggests that artificial intelligence will become well-entrenched in accounting and finance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
-      "originalUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/graphicstock-business-people-reading-graphs-and-charts_SCehK9CcWb.jpg",
-          "width": 750,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/zohos-2021-finance-trends-predicts-surge-in-cloud-based-and-ai-driven-accounting/",
-      "publishedDateTime": "2020-12-28T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use.md",
-      "title": "Release of Deep Learning Framework \"SmallTrain 0.2.0\" For Professional/Commercial Use",
-      "excerpt": "Open-Source Software (OSS) project, \"SmallTrain,\" which generates user-friendly deep learning models for high accuracy and high functionality as a standalone deep learning library and as a wrapper for TensorFlow and PyTorch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201228ph33860/release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201228ph33860/release-of-deep-learning-framework-smalltrain-020-for-professionalcommercial-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1392386/hand_and_robot.jpg",
-          "width": 400,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

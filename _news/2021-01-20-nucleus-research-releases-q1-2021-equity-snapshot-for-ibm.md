@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM"
-excerpt: "Nucleus Research, a global provider of ROI-focused technology research and advisory services, today released its Q1 2021 Equity Snapshot for IBM. The snapshot provides an analysis of IBM’s market growth and performance over the last quarter and a competitive outlook for the months ahead."
-publishedDateTime: 2021-01-20T14:18:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90"
+excerpt: "IBM will be able to center its focus around RedHat, cloud services and capabilities, and Watson AI—its largest growth drivers and the areas with the most customer interest.\" Nucleus Research is ..."
+publishedDateTime: 2021-01-20T14:21:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19234174/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/b19234174/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19234174"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19234174"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "JAGq1T6LB4aWCnLNx+KsFQwlv24EraPgKyfOsfw1+DxJwWX2/A+VSCkF1GRe5G/Y66i4lDyxN3HSB0J0l3wvrkbyyZb2CAH3+cGXFII7zMkqfMiC+MF9SKayHTqt7iKBl6VIqIcpEz72GDho3oAuVfSLQJD7GiwpSebb486LlJ40I351jqkjAStBB6Nm+CBVqY3FB+Y0GDSoRKO/4vBA0RY3N8yKpPmgkZA1gwcOS2Q7JqTFMNDVlNbZolD17XrGTvCecUMSGvVInuMal63fDwGGyLJDCg0S2oYIuUwxAU1kXscSZxlutfzDgxuQnbKCKkzFqx39nX7/2SOu4XqXaU4uJ4K9e3Ujis21tCwVVNg=;BocWbHRAaNXiSY/3KEttOw=="
+secured: "Zr9fRmyd6S1woO2zXpOXdsnknU5gQkaQYkjIWBqOhViCSBzibS36nhl9ou0eKGoZ9QH0lyX4AJm/De/6XsDkiY91t42kitQpNYw0J+f8yxplV50SkPv4n0BI4agEqsZi9mNpSsSx2bLel50TL87V5zBXeFWuGfFCiPnRdoJOdRVPDHqQ4vQRZIwWYm+UsUhLbebMU9dOlhNyU6zGghSz85e8xTnhTEEZeyE+pObyRb9KsVwfRh3+iiQAJTZQYlV/89sZ3iy3K4gZfYd6PSSTuFNoVcZuhJT0Z8wG2WEZH+RFSDGxVEA3v5sqZDZjOtyZGY6a2VRpe9qXwm0kUisps/XtBHP23mZEpTgT3g0em1c=;Z6WZYonA3q4Bx4zcUiKdZw=="
 ---
 

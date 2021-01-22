@@ -9,7 +9,7 @@ ampWebUrl: "https://newsd.in/facial-recognition-tech-deployed-in-up-to-help-wome
 cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/01/18/1012170.jpg"
         width: 1240
         height: 817
+        isCached: true
+  - title: "This is how facial recognition tech can help women in distress"
+    excerpt: "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women."
+    publishedDateTime: 2021-01-22T02:15:00Z
+    webUrl: "https://www.orissapost.com/this-is-how-facial-recognition-tech-can-help-women-in-distress/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 39
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/01/facial-recognition-IANS-pic.jpg"
+        width: 1024
+        height: 698
         isCached: true
 
 secured: "nbZcpJrfY/0XPSjZotttHT3Y1iL6AbeDDg9ngmk8DQLarX8wvBv6FsE6sNbfBwkAlN31/fIr5DjTadZvQyDtNHEGBfEhHhkrLJxFrk6FkINRKSgfMgwMGDVJDNHVGAmkO7BEuZ4PYrVQPAGswku2DREqwYNiBUYnbVE3KhlMl8d4Za6SzP0DHVnewqMbckVDM6bCEbT6EFpJs3mUr+hmxAtE0wVRLopsMeIcupMlNssm8vFvReeM/S+nrFv/DgyvMgnpaiEATB8ey/e+de55pGLxvYJVY/37HFkGtiDeYBUd85d/PnMGOaOcB91Nlv/hKl9Ysa9N+kkLuuk3g6YFNFZt0VjOKl/iyPcPYwIqcbg=;07oP4sC4Qiy6idDjS1BMxw=="

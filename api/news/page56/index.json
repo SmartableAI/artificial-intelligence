@@ -2,6 +2,102 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-12-04-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
+      "title": "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
+      "excerpt": "In today technology news, we covered about the Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
+      "originalUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png",
+          "width": 960,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/",
+      "publishedDateTime": "2020-12-03T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-a-prominent-ai-ethics-researcher-says-google-fired-her.md",
+      "title": "A Prominent AI Ethics Researcher Says Google Fired Her",
+      "excerpt": "Timnit Gebru is a leader among those examining the societal impacts of the technology. She had also criticized the company's diversity efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/",
+      "originalUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 454,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fc950d9319157d9f1bd0ceb/master/pass/Business-Timnit%20Gebru-1028811892.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp",
+      "publishedDateTime": "2020-12-03T18:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-trump-signing-order-on-principles-for-us-government-ai-use.md",
       "title": "Trump signing order on principles for U.S. government AI use",
       "excerpt": "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making.",
@@ -1096,100 +1192,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-vsco-acquires-mobile-app-trash-to-expand-into-ai-powered-video-editing.md",
-      "title": "VSCO acquires mobile app Trash to expand into AI-powered video editing",
-      "excerpt": "VSCO, the popular photo and video editing app, today announced it has acquired AI-powered video editing app Trash, as the company pushes further into the video market. The deal will see Trash’s technology integrated into the VSCO app in the months ahead,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/",
-      "originalUrl": "https://techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Product-01-1.png?w=369",
-          "width": 369,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/amp/",
-      "publishedDateTime": "2020-12-03T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-neuroscientists-find-a-way-to-make-object-recognition-models-perform-better.md",
-      "title": "Neuroscientists find a way to make object-recognition models perform better",
-      "excerpt": "Many of these convolutional networks perform very well, but in most cases, researchers don’t know exactly how the network is solving the object-recognition task. In 2013, researchers from DiCarlo’s lab showed that some of these neural networks could ...",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/",
-      "originalUrl": "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/12/Neuroscientists-find-a-way-to-make-object-recognition-models-perform-better-.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/amp/",
-      "publishedDateTime": "2020-12-03T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

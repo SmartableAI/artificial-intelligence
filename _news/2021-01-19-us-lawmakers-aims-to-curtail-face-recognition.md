@@ -30,18 +30,16 @@ related:
   - title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
     excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
     publishedDateTime: 2021-01-19T04:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L?via=indexdotco"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29N23L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29N23L"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 94
+    quality: 74
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548297838&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0H1DG"
-        width: 817
-        height: 545
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "US lawmakers aim to curtail face recognition even as technology IDs Capitol attackers"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."

@@ -244,7 +244,7 @@
       "originalUrl": "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -1041,6 +1041,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-06-denver-start-up-uses-artificial-intelligence-for-at-home-workouts.md",
+      "title": "Denver start-up uses artificial intelligence for at-home workouts",
+      "excerpt": "By using artificial intelligence — without any human in ... Eventually, they hope to use the technology for physical therapy and sports training, among other applications. To learn more about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
+      "originalUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f22f802/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F33%2F74%2F9e7b522242f28df9e9355a769681%2Fposter-fa7bd816d68347ad8a2a07017ec59b54.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-artificial-intelligence-ai-in-marketing-market-will-generate-new-growth-opportunities-in-upcoming-year-2023.md",
       "title": "Artificial Intelligence (AI) in Marketing Market Will Generate New Growth Opportunities in Upcoming Year 2023",
       "excerpt": "According to Market Research Future, the Artificial Intelligence (AI) in marketing market has been segmented into",
@@ -1390,49 +1433,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-the-reality-of-ai-in-healthcare-promises-roles-evolution-and-more.md",
-      "title": "The reality of AI in healthcare: promises, roles, evolution, and more",
-      "excerpt": "Artificial Intelligence (AI) has had a profound impact on numerous sectors. In healthcare, too, AI seems to have made a considerable mark. But exactly how much of that is hype and what is real?",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
-      "originalUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-healthcare-1608783575156.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/reality-ai-healthcare-promises-roles-evolution/amp",
-      "publishedDateTime": "2021-01-04T02:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
