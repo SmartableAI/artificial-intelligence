@@ -8,7 +8,7 @@ webUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-drivi
 ampWebUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
 cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2021/01/CarCityHighway.jpg"
@@ -374,16 +375,19 @@ related:
         height: 500
         isCached: true
   - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
-    excerpt: "(Reuters) - Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
-    publishedDateTime: 2021-01-19T18:17:00Z
-    webUrl: "https://www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1?amp"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
+    publishedDateTime: 2021-01-19T19:04:00Z
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 70
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Cruise and GM Team Up with Microsoft to Commercialize Self-Driving Vehicles"
     excerpt: "\"Our mission to bring safer, better and more affordable transportation to everyone isn't just a tech race – it's also a trust race,\" said Cruise CEO Dan Ammann. \"Microsoft, as the gold standard in the trustworthy democratization of technology,"
     publishedDateTime: 2021-01-19T15:18:00Z
@@ -1001,6 +1005,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Speech & Voice Recognition Market is Booming Worldwide with Nuance Communications, Microsoft, Alphabet"
+    excerpt: "Latest released the research study on Global Speech Voice Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Voice Recognition Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-01-22T18:34:00Z
+    webUrl: "https://www.openpr.com/news/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
   - title: "Cruise self-driving cars headed to Japan"
     excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
     publishedDateTime: 2021-01-22T14:45:00Z
@@ -1052,6 +1067,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "lKudqnOSjhrsY3PEbL8PWUp/Rnn2GftTXzptGI/V8S/ftZfqeZTin+4JADn8RMRBP8/tHv8JovVpOIsrUlzIH43EbwdtRIfUkDnZlhnGeJQIdyzjpwmG4QI1zl0m/r5tzUf1q+0BkkEo212OQrxBooEWA6OAitw4mHfPHity4ShC1Nth9dWHjjeVb8Lzghn5NjJouRo3mR/7euC+74uVgUd5FPzKiIb6jYYFBP6lUTyv45MUO6/HARlrtCIn1bCdPz74cPGYqGFLh/Oc3JAjeC//Y7WQUntRXxK1G3qaRzm9lghxV6IGku7h0oYcsYwsZMQGBWsQ8k74tOMiXqcl82LaK+7YMI+ebO14b4Bu7FM=;qb+vQtmWewLUmfE7LzxIWw=="
+secured: "gvrorDH4lbfRKel4w1wJ4L6OgGBX49W0mJyfyHatdZ8/j6BtnzqcQDYoQrKildNhJ6r0tKwMd/zQ+QbHo2DpEKFBMccyHUovoqcdppIytnc0Z4alrNMIv8xf0frx37Vw0VGnMXSmlz4CzTHjQXcUxF+OPXPUiHMeZqqx88E2X6iCXHLPKFmmlz499BNoPpn/6wyClF4FfW3CZuM0+XPRwSH1Sxeg+1u8PKgRPrAh1AVYilzasZcNfsmMzwFUoV5xvQHQnUwMumCEZkaD4+frylkNcdWlgHV6V/yQycrP9Aqf8BTUTfP3FtbeZ+sLOcKjTgaRAXIXJtStz2oqZ+bG4nkEfoyh+ETXxCGeBcDWHZlxASnJ5BHIfNvQqLCij1mkL+WSPn2KYeO8mnig7JlIL8Bk/FObkd7m7nD4KbQEgG/sHIgYbVZ8hRe6A66yIqC3umw6pecxxc5J/HEYKlALAuAcuN4j+cMBhHFxNkj/+wrvdlOlha3sPDQT8BbZFz/T6YaNjWQrBqGonT7orjuv2A==;0Z2M6C2QcZzN+1qinLp/LQ=="
 ---
 

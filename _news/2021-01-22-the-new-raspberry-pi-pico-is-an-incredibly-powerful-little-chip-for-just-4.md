@@ -3,10 +3,10 @@ category: news
 title: "The new Raspberry Pi Pico is an incredibly powerful little chip for just $4"
 excerpt: "The Pico is the first microcontroller board from Raspberry Pi and has been built around the new, custom RP2040 chip."
 publishedDateTime: 2021-01-22T00:07:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/"
-webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/"
+originalUrl: "https://www.techrepublic.com/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/"
+webUrl: "https://www.techrepublic.com/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/"
 type: article
 quality: 89
 heat: 99
@@ -47,6 +47,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fuM3wguNf2iu8QOtp3oYv1ifqQJ5q1CoemaMjeZPCiyOPimg6dx+Wj8JJP0yIcxZnDtuneIQRLQ7PI0FRVqBuAdPZg/aMJfxEMU81HI61bxJYQo0B4oyccYYG7L/vcfkflvb8gdtMJVVbdN6IRrZiJf4Tvtn9NM9dTtyteYCAytYS/53rovof7SWgd72cLhyK9ZnxqLgyddu9w1ME4bHfbcWAaPF6R10JeiAqRp6+gvQOr6zYGT7yJNTHqJdvsCcM/fzZ69+2RVb7wrqkIBEKZKjq01aLb8lexxAFWUvMURKt7r7rnJBHRMHuWsFGRH/jv5I3ca++cNJcCMyKlCfWR7q3q1MVj7t1yLWZSRFBLk=;D1DI7HQicRs1HTuqcsK76w=="
+secured: "q2EGOOZnL2BINT6+LKYEVeyun9xVTniouhvo3DHamFTWkx9bAWQZuA2SxIbrX1RF2RgUwg24tItod2p9Su6AmDLq5yENICqcbuYN9mJG04QAPRjatG004awg3q6E+HYwHevvvFzyGjBWRszY2kG459uRopCfaHD7l2X+5cVaKNujKUMjbBBKAN83g4xTX1lcz17xIWMRQ0ZkvkKQHgruBVRj106FimA4Qu8oLqtjovyinFkwYAXcFwOXBTXVBmkIU4M4a4M9nzqY9/45SNkiY6Xr39BLiPZcHbYWxchr57nbpaQ0SOkPyGB7AY2dqNUNrpQaAuTO8wDLFiq2/iWemn8u2yO2ZAQ/xr9fgUhawUs=;PvsM4d+vc9pt0FleS8dNqQ=="
 ---
 

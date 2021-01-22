@@ -367,16 +367,19 @@ related:
         height: 500
         isCached: true
   - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
-    excerpt: "(Reuters) - Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
-    publishedDateTime: 2021-01-19T18:17:00Z
-    webUrl: "https://www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1?amp"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
+    publishedDateTime: 2021-01-19T19:04:00Z
+    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 70
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Cruise and GM Team Up with Microsoft to Commercialize Self-Driving Vehicles"
     excerpt: "\"Our mission to bring safer, better and more affordable transportation to everyone isn't just a tech race – it's also a trust race,\" said Cruise CEO Dan Ammann. \"Microsoft, as the gold standard in the trustworthy democratization of technology,"
     publishedDateTime: 2021-01-19T15:18:00Z
@@ -563,6 +566,22 @@ related:
         width: 680
         height: 453
         isCached: true
+  - title: "Microsoft’s latest HUGE investment: Self-driving car technologies"
+    excerpt: "(TECH NEWS) Microsoft invests in self-driving car technology by joining other investors in a combined equity investment of $2 billion."
+    publishedDateTime: 2021-01-22T16:42:00Z
+    webUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/"
+    ampWebUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
+    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
+    type: article
+    provider:
+      name: The American Genius
+      domain: theamericangenius.com
+    quality: 61
+    images:
+      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2021/01/CarCityHighway.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Microsoft partners with GM, invests $2bn in self-driving start-up Cruise"
     excerpt: "Microsoft has jumped headlong into the driverless car space by investing $2 billion in Cruise. Microsoft's stake in General Motors' autonomous vehicle subsidiary takes its total valuation to an impressive $30 billion."
     publishedDateTime: 2021-01-20T18:54:00Z
@@ -610,22 +629,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/4863x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4ce67df8-4bad-5179-b3c6-3dc1a4b1394f&operation=CROP&offset=267x1283&resize=3470x1952"
         width: 651
         height: 366
-        isCached: true
-  - title: "Microsoft’s latest HUGE investment: Self-driving car technologies"
-    excerpt: "(TECH NEWS) Microsoft invests in self-driving car technology by joining other investors in a combined equity investment of $2 billion."
-    publishedDateTime: 2021-01-22T16:42:00Z
-    webUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/"
-    ampWebUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
-    type: article
-    provider:
-      name: The American Genius
-      domain: theamericangenius.com
-    quality: 59
-    images:
-      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2021/01/CarCityHighway.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Microsoft Invests R29 Billion In GM’s Driverless Vehicle Company Cruise"
     excerpt: "Microsoft has invested in Cruise, General Motors (GM) driverless car unit, pushing the company's valuation to $30 billion (R447 billion)."
@@ -1001,6 +1004,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Speech & Voice Recognition Market is Booming Worldwide with Nuance Communications, Microsoft, Alphabet"
+    excerpt: "Latest released the research study on Global Speech Voice Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Voice Recognition Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-01-22T18:34:00Z
+    webUrl: "https://www.openpr.com/news/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
   - title: "Cruise self-driving cars headed to Japan"
     excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
     publishedDateTime: 2021-01-22T14:45:00Z

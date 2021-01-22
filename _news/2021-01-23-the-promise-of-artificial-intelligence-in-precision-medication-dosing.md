@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-22T16:11:00Z
 originalUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
 webUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Precision-Dosing.jpg"
@@ -41,6 +42,6 @@ related:
         height: 405
         isCached: true
 
-secured: "L+Giz0EWkIO9A0xekpR16Udd1W1pCXIx54W5xt6mCG4l2vOCkGOwQSDSzw+BmaiaWcagN7ZstNslNyRNUZfeB6pUbOM0wnTGRlxHJ4LMhtl5mBWCU0OAkstw35cZqZz2rxQvbBBw+7bMUHmsG91FwYRNG2ivzMY8AMbY+vGIL/QaZa55Q7U8nMJbh6pHmQDb/dCs2XPLcvrbq9rH7pjrAjpslOOoOkW3U0I22gq57IMqSOzkjUACLcr/rHkCC9OiwJ8Cg5o0u+baIqGp54nGcZWcHM5wY0F6UOiRtWffN19oEWs2/d2faXBuYieJW80dHri+wTYlNSsIyu8y/bdJygDk+OdFWkYrkEM9PRSVGN4=;gWXjdCe0nhXP/DSIJjA/ow=="
+secured: "vajuRW18DuH9TsZyh5WMfdm647bd+8oHaxGVn757yTz+R/uUkKa6a/IvhMi7nbDP/eeIsGDSuAlI+152jAAuSST15TidJ2b30sbHspNpuvYNc1/zWzOCcCpX96dldDnh1aVs1yW/+E3BiWvB7ObXWyW/TTbYVSyT8cPjoJI2G6077YUF/1OCvRDnLMqLaXkqyXz1sM+WHgX398a1hGfZFvPV0td6zb1vUZG3jmSXnfypsX8iq1Sdj/g5QUt5MtPiUa8dIRil/vopGee8Iq+hRsRRqfAM9+zuNMdJcPdDGvANjtGP5cCkCeXV12yInc1ZxJxaQxxc3JlaLQE9ij4nFAF2MLWt3FZRL1i5C847X4HBT5noGcT+Wfdd7/d6vTaS8iNXlt59M2RG2twR1a00i7rfUYNp0eRdVa0lXtuxbOyjIj0QMeQYE87j/ejvH241/YCH//kWI9fiI/zuvejdKlZZaXgv58MNRIjq++bJZsvvSClcGXn8kGhv5X1z2/uT1GhgfKFepgPpyqy+4zHFgw==;yXJtfaVUnTqdzl8DWwOaAg=="
 ---
 

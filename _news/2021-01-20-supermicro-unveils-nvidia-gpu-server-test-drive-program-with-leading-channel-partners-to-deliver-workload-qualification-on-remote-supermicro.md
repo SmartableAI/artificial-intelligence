@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-excerpt: "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,"
-publishedDateTime: 2021-01-20T14:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
+excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
+publishedDateTime: 2021-01-20T09:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
+webUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Supermicro Unveils NVIDIA GPU Server Remote Test Drive Program"
@@ -97,6 +101,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "gj4ZH2+a+klVh/elX6RDv/yD73HC5fGctzI0C6QViTJZZZEPVnKDL08Ql1OCKxZtBHxaqXi4hW4P4HlCK2wo/KjKhb3HH1Gcbd2tmiwipcGpW7v5jdPbyWsYrccArRBRQCVtghkzO8vkLzqE2Y503Em8+ug4UU2qb4hnKUAxw0u33dPka68ZcFt/dw2FQOpdfh8MZZFJkW7H4VBR2OYLj4TpOvh8Vo0jirhA8JbgQt7e4U7la4EMLZIh7EWUWIHmJYV8LrQrwbnAeXajFC/NqhqRGNXqCN7GtRJdy6dJZT0Bc/PNY9OBjbe7lDeg8rL+bk+5MDLP3jB0+dG3m7afmEaze8FqlNYPFgoBVMqR/gw=;cU9DkIZPhFR2WW+gzqdu4w=="
+secured: "eXZBjlurVyEyU2rsTPkB7ld/7mnZniSFsoRnox/RaDgsK3beBCyifacH57hZ8KKziID4Ts2ZxjbyJn045HexZ+n389n143vLRGc9ENxKhBdB+LqgVZxaR8COy5hKW2hGE0Fcpv9Dhl1n661QHM/VneHXUG2jA/nVWS86bp5Dlepj3HpO6aqiPa3RU4csnXMX+COd7jXMuxylia4iiRDEn6EjwTCb7Q1iscVi/0Lqid/hvABYbrqF5t0eEneaxqIspV//d+CbbbSjd9nlyLwSMgdKuKC0vuTe/pON+AmjHOqdHBG/uB3kSDf7CRCztkDF11GAbdkxwxAqPZNl/HAA0BREjWii2jzma3aLRWGix8k=;cC8hYVfp2DqZiCqUu9wLEw=="
 ---
 

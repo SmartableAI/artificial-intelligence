@@ -2,11 +2,11 @@
 category: news
 title: "Facebook claims it's AI can help predict the need for better Covid-19 care"
 excerpt: "In an elaborate blog post, Facebook says that it could use artificial intelligence (AI) to predict the need for better or more focussed care of Covid-19 patients. This, it said, is part of the outcomes of researches conducted by an in-house AI unit wherein the healthcare professionals could be warned of the need for intensive care for patients."
-publishedDateTime: 2021-01-19T06:13:00Z
-originalUrl: "https://www.techradar.com/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
-webUrl: "https://www.techradar.com/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
-ampWebUrl: "https://www.techradar.com/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+publishedDateTime: 2021-01-19T06:56:00Z
+originalUrl: "https://www.techradar.com/in/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+webUrl: "https://www.techradar.com/in/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+ampWebUrl: "https://www.techradar.com/in/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
 type: article
 quality: 87
 heat: -1
@@ -184,6 +184,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "uSjXrQ0O4B5CYdFyC7WofVgwEFNj5hVXBe9HqL90lNjqA72JsuYLfk/Gu+PnSPQxUqSwFhBiZDxScTHtcWyKvH98qgvXZfWUhtAXuO7JeGeUgtCK1JkukCvG2p6rU1zWStM2rBQkSsgzrBd6NF5ctrOtsgW68GVky72mDYp+U9EVYSBINl1v/JsCjNt30yoTAVelUiJPXoYvcsvMTuVbrjAqe+RPPwlhphsESsPZh38Pv4T0v61CbhzSsoqgiABbTBAug/+tOe6qEA+yupinYH5dyxeC0ZUz/3FvGcedUZlncWBEeivFIi3DRAz8G1tyVg3eHTtIKGtN0uo4CsVzGbrAtQgfT8LTwDfhIUPrpBc4ksFVO3f/c9ns0gTgWf8wEa1dBuNJyxFYXz3MKIfQ6g/V/3Sr/lv1p+RSPfa7voARu0SpEGW/z2Iu6dkYFyqDQdXM/tc1ZdEkJ4SMWn19BJhCGbZzgKaB/1qCfc7DbEt8dw4vCtbtxZoQPyZZx6zb9INkG/iUOS7UtpMFgR8LyQ==;ZWoINlg3d4whRqkfQateOg=="
+secured: "q7kQPF8Ddp+8JI9tl4/B0TxqV7ti5w0p5eYrJLutawu5SEHBRA21nxsFiU4PSRn+AmQGf6mwa30MhzMcD4hgfMKwIGnR5kYo6GwN0r/ULBj9K2EsBganREqUhcG0PU5fErmZ0wNsZLzs6aOFYN+mHfjFmpQmJ9kGHYP0oc79i7K1C8mNpCuZXGg4nGZWP0ESUuCY/CNBrWCeqsXFTj/IDemvqbSLwkUU9Ern16r2SlpB1rQvETBn62BJ3dmQ4Aj6PsXrYK2XNf2gc7sRUk6TzTeMas9Qngbr1Z/0jAL13dnhDHDTzY2dPDJPBVmLnDkrotq9NvZtSk+uazc3vNO9YrOMWgUKa4TUN9zu2+aKlWo=;9VDgd8RF66N78N9GaDQKwg=="
 ---
 

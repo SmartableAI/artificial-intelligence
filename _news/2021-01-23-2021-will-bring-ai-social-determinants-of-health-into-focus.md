@@ -56,7 +56,16 @@ related:
         width: 4092
         height: 2680
         isCached: true
+  - title: "Leading-Edge Use Cases For AI In 2021, With IBM’s Bob Lord"
+    excerpt: "This podcast is sponsored by IBM Watson Advertising. Brands have long been sold the vision that artificial intelligence will one day supercharge their marketing plans, but results have been mixed. In this episode, Bob Lord, IBM’s SVP of cognitive appli ..."
+    publishedDateTime: 2021-01-20T20:27:00Z
+    webUrl: "https://www.adexchanger.com/podcast/leading-edge-use-cases-for-ai-in-2021-with-ibms-bob-lord/"
+    type: article
+    provider:
+      name: AdExchanger
+      domain: adexchanger.com
+    quality: 19
 
-secured: "psMoi1W5ZRfg6013o68afxz95GT3MBo0q9moZol1+1iPW8WsrmMJFN+PYMwjHNljOC7rhcFea3/2NVvnEG/hg+exF+0+XvwD5bgYBr52iDJRuhA81cGUjohfMQM6NlOTMxMI2C/t9ANXVO8YP+Q7r0hRXGXXWGPkIAuf5vS7pg+lZKZXgRk4OQQSPjVacbW3Hd5lEr1LdNoPmGMjJvHtLvXgQqHxSvA/a6loH5qyLoBSFufBwJ/vxFQwDX5tdowGUq1kVlZq0grJuZKEN4AmrK7miKRE74uoSdNTCec2j66qJ4ciaKfwFnqhx4TSWZqUHMTkFBVb/XM5elSXYn3j23YVidAaMC3h+E+z5PIUZyI=;9kOYEGdc5dfO0q226nmsEQ=="
+secured: "xZQkYbvnXHjhLfeO7Lo2zZf4sHOU4kZi0GNCCKAVsGZGYeSTlME0dTNmGjij2k3nuOlAkpn5kjI/srIa0okpqFuP4vER6K3vGKl9X6itayti15rk5buZ7FVnTigiTf1tw/Bj6nzLoTCdSLLZKzEIq+sFHDz97eAAndWxZl3Kzotl2DC5ym5tB2Vr/satzcsZ4MKJcxnsPA6LqPfOWDQeZXPx6YAqB11Ur+Tvz58MdaFeineEb0bm9j1ZP7ooPh9KwUI+YIkhqIR7Ge7RYkLmnWQYe+ALuYaO9Wirui1ps5RHMA1Nh8mLOz83Ge93pbYTLW9k/I9pPVFopPYTOKc7JpTOva56Z25TEs55O0XWPxCvgqt7faqc/Rjd5PkAg3hvaKw+3lsRPkp4BQFbhujqdSP8ggYL81B4OGv2It0q6t5XaPhQEF9NCVISet/DnIshFngxlBRK63Vh3Dd4rFVqDHnau8ZeemivcWmzVP93uc8f0zikhnWkQfD2ePUtPl+xhZI4kobobT+yGO192hxCyQ==;BrvvT/zA/p1n0vyeRQcU4Q=="
 ---
 

@@ -62,15 +62,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker,"
-    publishedDateTime: 2021-01-18T01:09:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179539&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 43
   - title: "Startup Loop Wins Funding for Fairer Auto Insurance Rating Model Using AI"
     excerpt: "Loop, a managing general agency focused on building an auto insurance model that does not utilize credit scores and ZIP codes, announced the close of a"
     publishedDateTime: 2021-01-19T17:15:00Z

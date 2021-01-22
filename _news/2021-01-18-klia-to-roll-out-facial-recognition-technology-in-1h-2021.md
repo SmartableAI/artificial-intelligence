@@ -110,6 +110,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Ban on facial recognition technology advances in Minneapolis"
+    excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
+    publishedDateTime: 2021-01-22T15:37:00Z
+    webUrl: "https://apnews.com/5345d1193e4435aa9ce621aaf6d9c783"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Proposed ban on use of facial recognition technology by police advances in Minneapolis"
     excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
     publishedDateTime: 2021-01-22T02:14:00Z

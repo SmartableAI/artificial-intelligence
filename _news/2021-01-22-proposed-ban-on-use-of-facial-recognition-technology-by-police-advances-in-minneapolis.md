@@ -124,6 +124,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Ban on facial recognition technology advances in Minneapolis"
+    excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
+    publishedDateTime: 2021-01-22T15:37:00Z
+    webUrl: "https://apnews.com/5345d1193e4435aa9ce621aaf6d9c783"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Spoof detection for facial recognition in casinos"
     excerpt: "A non-intrusive spoof detection feature for facial recognition technology has been released by Innovative Technology of the UK."
     publishedDateTime: 2021-01-20T07:34:00Z

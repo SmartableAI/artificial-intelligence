@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence of Things (AIoT) Market 2020 Segmentation, Future Business Strategy, Manufacturers Analysis and Forecast by 2025"
-    excerpt: "The recently distributed report entitled Global Artificial Intelligence of Things (AIoT) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
-    publishedDateTime: 2021-01-18T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-2020-segmentation-future-business-strategy-manufacturers-analysis-and-forecast-by-2025-2021-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Vision Market 2018 Growth, COVID Impact, Trends Analysis Report 2023"
     excerpt: "According to the OMR analysis the machine vision market is expected to grow at a significant rate during 2018 2023 The global machine vision market has witnessed a significant growth due to rise in automation in the industries The global"
     publishedDateTime: 2021-01-19T09:02:00Z

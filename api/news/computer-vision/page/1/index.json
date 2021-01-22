@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-22-minneapolis-city-council-committee-advances-ordinance-that-would-ban-facial-recognition.md",
-      "title": "Minneapolis City Council committee advances ordinance that would ban facial recognition",
-      "excerpt": "Thursday, a Minneapolis City Council committee advanced an ordinance that would ban the use of facial recognition by the city. The council’s Public Health and Safety Committee voted unanimously to advance the legislation.",
+      "path": "_news/2021-01-23-ban-on-facial-recognition-technology-by-minneapolis-police-advances.md",
+      "title": "Ban on facial recognition technology by Minneapolis police advances",
+      "excerpt": "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. A council committee advanced the measure Thursday which will go to the full council Feb.",
       "sourceUrl": null,
-      "webUrl": "https://kstp.com/minnesota-news/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition/5986469/",
-      "originalUrl": "https://kstp.com/minnesota-news/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition/5986469/",
+      "webUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
+      "originalUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://kstp.com/kstpImages/repository/2021-01/800minneapolisskyline.jpg",
+          "url": "https://www.wdio.com/wdioimages/repository/2021-01/minneapolis-police.png",
           "width": 800,
           "height": 450,
           "title": null,
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.kstp.com/articles/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition-5986469.html",
-      "cdnAmpWebUrl": "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition-5986469.html",
-      "publishedDateTime": "2021-01-22T07:34:00-08:00",
+      "ampWebUrl": "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
+      "cdnAmpWebUrl": "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
+      "publishedDateTime": "2021-01-22T08:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KSTP",
-        "domain": "kstp.com",
+        "name": "WDIO",
+        "domain": "wdio.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -97,7 +97,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -201,7 +201,7 @@
       "originalUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {

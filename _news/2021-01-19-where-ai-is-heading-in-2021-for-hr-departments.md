@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Leading-Edge Use Cases For AI In 2021, With IBM’s Bob Lord"
+    excerpt: "This podcast is sponsored by IBM Watson Advertising. Brands have long been sold the vision that artificial intelligence will one day supercharge their marketing plans, but results have been mixed. In this episode, Bob Lord, IBM’s SVP of cognitive appli ..."
+    publishedDateTime: 2021-01-20T20:27:00Z
+    webUrl: "https://www.adexchanger.com/podcast/leading-edge-use-cases-for-ai-in-2021-with-ibms-bob-lord/"
+    type: article
+    provider:
+      name: AdExchanger
+      domain: adexchanger.com
+    quality: 19
 
 secured: "tuq3312ZIAxMAapodrBrH9mE3aNmyap7iqTjOsKrBS+r19Jqv+HumAzq3x+o0/Cy+1TL8kvl2IRp0lUzBVVXas5u3f8sL+uoSjMsdiPzP9+PGif9gRa79EZj9KUfebSWWJytbK9+MRd8h4WfrIvN1UAYQ6JpDbHcQeuM+Y+kzSH2REnIkbAC0P5qS8OiRzbVRbV5oz9FSzuResnm4tQK+YImLm5cRTHpuiJwnSgExZVd58uPJQjndGmzrfAM9GqGVoFpNX0Z2cEOxieSAfZni74ye4W3WPUtXwkXTkHumiDgW4lX8MJ7B/TP68mvDB+yO689B0zQ6sivUfL3XrEJGHHjcAO15F5zphHX9+FMPF8tLqGqlvKh6CQAffcFpFOMgOeH5lINhSHy9I6jwSKxOLAAqSPGbsJTUkGghA0BzZku4TgwJ+kERBXMS9K697cK4rYmPwXDptvGUZggwZxMQInLJKbd1mmStTmrZ+/5PHNkj2YVdlvkFIsptf+2s48+U7ec3Blqi2TKzt7SMropWQ==;v2dQFSmeRCcN6smX4fNtAA=="
 ---

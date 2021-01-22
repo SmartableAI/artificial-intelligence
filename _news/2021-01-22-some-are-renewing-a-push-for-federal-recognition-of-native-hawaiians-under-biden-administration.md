@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Biden administration’s AI plans: what we might expect"
+    excerpt: "The president hasn't yet announced anything explicit, but there may be something to glean from his early appointments."
+    publishedDateTime: 2021-01-22T17:35:00Z
+    webUrl: "https://www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/"
+    ampWebUrl: "https://www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/AP_21016697634049-e1611336193653.jpg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Some are renewing a push for federal recognition of Native Hawaiians under Biden administration"
     excerpt: "The new administration is opening the door for federal recognition for Native Hawaiians, allowing greater self-determination and control similar to other Native American tribes."
     publishedDateTime: 2021-01-21T06:37:00Z
