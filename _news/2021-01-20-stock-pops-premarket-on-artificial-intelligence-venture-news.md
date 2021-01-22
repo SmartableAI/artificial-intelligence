@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/stock-pops-premarket-on-
 webUrl: "https://www.marketwatch.com/press-release/stock-pops-premarket-on-artificial-intelligence-venture-news-2021-01-19"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

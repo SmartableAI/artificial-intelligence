@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook to use AI in predicting if Covid-19 patients need better healthcare"
+    excerpt: "The research, which can help produce predictions based on chest X-rays, has been done in collaboration with NYU Langone Health's Predictive Analytics Unit and Department of Radiology"
+    publishedDateTime: 2021-01-19T01:57:00Z
+    webUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 73
+    images:
+      - url: "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
     excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
     publishedDateTime: 2021-01-20T12:49:00Z
@@ -183,15 +199,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
-    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a COVID-19 patient may need more intensive care solutions and adjust resources accordingly."
-    publishedDateTime: 2021-01-18T20:03:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 33
 
 secured: "ogNLe+R02S31OUgPLJ1Q+unVgEWgi/u2jQJV0ZdMPY3BMTXC4q/K7t6WRsEXaarC8tv3Jiku7S8hOBmA7DumpjuzR5mcQOWRXRJ7NJ5lBvN2jQzqR9FkW0zNHwT3p1ngzbhflYqkE9nXQauitIYh072nSU6yfuZWRkoHepvVMAfON7B6lyd7Hf0JAMxpYPsyHguQKw297LHUudmcAYx1wcE29M4VLcHXUR8zse7PCdpkqYjr1O6T6VkiM1hFlzApzA4oM2qUYU0H6f5IHpgpfyhmorbV2XSAyY2gFOypve3iS+1Jkk7uwCQrNdA80AOFqN3LaLITdFRQMB93Aex4ap2ID0eWgx5Lshs8WWuvn9lzU2K6nJNxul69vuC8qJ3J4u1jjA6jIQSGBqHCeAIAupCRMo8QVQ7eJlGIDZPsuZDn4HlpV1KFikvkuWCQaOdaZZFlh7oHSKatUD/5KC/LGrzvkbwaxtn1V4fJL5Cv2yEstFUWpkesp99HBSoenRMX3lswqzENTKHCLstX+c6d7g==;YY/Q6vp9dCvJKidzshVC/w=="
 ---

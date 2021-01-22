@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/"
 type: article
 quality: 89
-heat: 130
+heat: 129
 published: true
 
 provider:

@@ -1,30 +1,29 @@
 ---
 category: news
-title: "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
-excerpt: "IDC, a premier global provider of market intelligence, has recently published China AI Software and Application (2020 H1) Report (hereinafter referred to as \"Report\"), where 4Paradigm as an AI innovator recognized for its software standardization level,"
-publishedDateTime: 2021-01-21T04:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
-webUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+title: "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
+excerpt: "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A"
+publishedDateTime: 2021-01-21T05:53:00Z
+originalUrl: "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
+webUrl: "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
 type: article
-quality: 46
-heat: 46
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "Hjegg3I637xJMMr7yUAjBU/BGjNPVU0G/PK3gwgQz3VO68LQ1LB2f1zJw+0CFVisme4yWFNnduk+9SSABRnHvUb1knRFuyAT/JsQNC0FLjl3w665805hQIIDjlM9D9rcuYPfjF3FdMIO7xoKZjSBRaUkajuQRkkpEEOH6pS317KzaAg1vDusGZIIt5BVmNuVIf6xH22e71BShe+FzeF/o8M6MbtMwkzFB9w8UTJNLd5dJ8R2rLa7l1k6ETMIc6TYZdnu4fIMNUpjwgLTYWuvxDCE+6euE3FHLr9xXF+cZ2so6IvaFI6qmkVCvgnlbERr2u9kpvG+RcBlvrDT6bL/2nQSWN6Ci3mpTbv/vgFXRGM=;bU1vCQQ8K/AzLT0OYIhkbA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "gR4Olvg9q2mnkgKKDtETOS2p7XKSBb7xqN4zXdSfPXWRNRpyFHP8Jo6QIVwQ1p0R6cp8Wh3UfGYleYYdsf4XNYbSkQeDSmfqZ4hYoW8V4BuSBnvGyuLKbhUsb1fXU98j8M6BQFZ7YdXB2XhYxBFHhzwT+P3tyIZtsOGaPEO27jbaXgP1ik3gG3U+YPIfOldlDY4LXyC6pn3/89yJslLjsdYe0gKjFMREFjrvvmGFqYC49aCcmP0XUqIJxMxKP/K48YYyubJRd4kg4O/h4i23J+ButM/KKkkJax70uWBVSDuxJNwuYEsKn84ZbeFUFExLzUcZTXGl7D4BnF1LTCy3pBl3oJYDRK78SRQXYcz/YoE=;R903VhQtMSUEx0MKfTTJxQ=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kami releases smart video doorbell with facial recognition capabilities"
+    excerpt: "Vision artificial intelligence (AI) company Kami has released a new smart video doorbell with face biometric capabilities. The Kami Doorbell Camera utilizes edge computing technology and advanced AI to enable human detection and facial recognition features."
+    publishedDateTime: 2021-01-21T23:01:00Z
+    webUrl: "https://www.biometricupdate.com/202101/kami-releases-smart-video-doorbell-with-facial-recognition-capabilities"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/21175048/kami-edge-ai-doorbell-camera-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kami now sells a $129 smart doorbell camera with baked-in facial recognition and human detection"
     excerpt: "The device costs $129 and includes a suite of note-worthy features. The most significant feature is. This allows the camera to notify users when someone is at the door, and more specifically, who’s at the door."
     publishedDateTime: 2021-01-20T17:07:00Z
