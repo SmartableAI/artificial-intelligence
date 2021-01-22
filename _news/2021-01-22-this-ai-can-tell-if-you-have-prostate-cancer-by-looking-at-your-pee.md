@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-hav
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cancer can be precisely diagnosed using a urine test with artificial intelligence"
+    excerpt: "Prostate cancer is one of the most common cancers among men. Patients are determined to have prostate cancer primarily based on PSA, a cancer factor in blood. H"
+    publishedDateTime: 2021-01-22T21:03:00Z
+    webUrl: "https://sciencebulletin.org/cancer-can-be-precisely-diagnosed-using-a-urine-test-with-artificial-intelligence/"
+    ampWebUrl: "https://sciencebulletin.org/cancer-can-be-precisely-diagnosed-using-a-urine-test-with-artificial-intelligence/?amp"
+    cdnAmpWebUrl: "https://sciencebulletin-org.cdn.ampproject.org/c/s/sciencebulletin.org/cancer-can-be-precisely-diagnosed-using-a-urine-test-with-artificial-intelligence/?amp"
+    type: article
+    provider:
+      name: Science Bulletin
+      domain: sciencebulletin.org
+    quality: 52
+    images:
+      - url: "https://sciencebulletin.org/wp-content/plugins/instagram-feed/img/placeholder.png"
+        width: 1000
+        height: 560
+        isCached: true
   - title: "AI can grade your skill at piano by watching you play"
     excerpt: "An artificial intelligence that can grade the skill of a pianist with near-human accuracy could be used in online music tutoring"
     publishedDateTime: 2021-01-22T10:42:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-
 webUrl: "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.theapplepost.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
+        isCached: true
+  - title: "Apple granted patent for face biometrics occlusion assessment"
+    excerpt: "The patent reveals a method for using heat maps to biometrically identify and authenticate a Face ID user whose face is blocked by objects like a mask or hair"
+    publishedDateTime: 2021-01-22T22:02:00Z
+    webUrl: "https://www.biometricupdate.com/202101/apple-granted-patent-for-face-biometrics-occlusion-assessment"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06145144/apple-logo-building.png"
+        width: 721
+        height: 420
         isCached: true
 
 secured: "tjkdKgzs2YhIvqwSJBGv/3NyKAYRWgScHw3pSoecpNrD0JudFsF94E4JY7EdSyAXoGJ64i++t2Ezv1h/xuhLPl2SwwacLgnBobr2jeT8a1g5be8HZbvW/K2frK6ac0d98lv96l8eAr/MKHwJ5zg5h2rsmud1S2btpzJo+AhyVj5yEtkL5Day7yub5tkmogtbalGHLc7hsOsHqe/Dh+b1FvH2bMkyybXmlL9RfVQQpW9OpKeSsxjyI6vmi9B70sx6ms1D6rWOrZ6L5aH5keEHrzzYd3gm4lL39jhDSz1tmLM2i44pt3YJ4+AN7Y/FO/cGK9tgZ94UebcsqilM8iip+BjkhfmpiAE5udLxll25tTo=;JBOdCahdEBcipz6/KkrE4Q=="

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-automating-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/"
 type: article
 quality: 97
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Multi-account model deployment with Amazon SageMaker Pipelines"
+    excerpt: "Amazon SageMaker Pipelines is the first purpose-built CI/CD service for machine learning (ML). It helps you build, automate, manage, and scale end-to-end ML workflows and apply DevOps best practices of CI/CD to ML (also known as MLOps). Creating multiple accounts to organize all the resources of your"
+    publishedDateTime: 2021-01-22T22:32:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/multi-account-model-deployment-with-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/21/ML-1682-2-12.jpg"
+        width: 471
+        height: 611
+        isCached: true
   - title: "Labeling mixed-source, industrial datasets with Amazon SageMaker Ground Truth"
     excerpt: "Prior to using any kind of supervised machine learning (ML) algorithm, data has to be labeled. Amazon SageMaker Ground Truth simplifies and accelerates this task. Ground Truth uses pre-defined templates to assign labels that classify the content of images or videos or verify existing labels. Ground Truth"
     publishedDateTime: 2021-01-19T23:34:44Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-22T20:26:00Z
 originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2480288/artificial-intelligence-is-a-work-in-progress-official-says/"
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2480288/artificial-intelligence-is-a-work-in-progress-official-says/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.defense.gov/2021/Jan/22/2002569468/1280/1280/0/150605-N-HW977-541.JPG"
@@ -24,6 +25,6 @@ images:
     height: 853
     isCached: true
 
-secured: "zmJqpTTxZpYrjn1fKzfIg5tojgN+ARRbRqkuv8Y1ArPABCzyAjo7sT+1KNA/6dC4opI2DYEd24rX2zKkrV+/A4VLM6furG/wDRREWk68GWx2rEk/lQINNxtQfE83gQv3LJsEhOXUjfYOzbl6+1bJq9la9zUUIHg7akFY3suF64yEEf6Gm4Pq2usc5Z6v+ojshkEGsjiiN/kCqw7SFu5MhkgHvAs34Ke+/N7Xv3TTs7cEdppIPLyx6wyYmdET7eoxqn6a716BzSbtBTsoyI3Ia+wK3xSeysl4bkkkxLEOyTg7G5m0F9Y0rjXGFcsL59hGYE17gBjVqxQqdGBx4aLJKal36qXpDNib2lHYtVoptnI=;2mNQ0Au8q6arGV7oOqcw4w=="
+secured: "vuSwPyK6UbKJp5+IeNQWJGFyo7IXZeg9kO2ifYsAn/xNsNUvE9VpOrcfIj8CtKd95SiBbSsCY47kiwZ2Org1rfnM0W4jGYKLNZtJbrDdp2XX9GkK8516k4XYJR/b25xg+h99Na86hllWMUZ8FJOHPK8lz6YSb7UQokYbYau2hbJa4pvXRPBnadZmfcdyXszrD8zwrgHpG2weV3ULIz4thcFL3mM1UyHH7Tolzan08utGEICgCLuxdyKjBZAwOkXZBUbC7gVEdxxvwoZN5zvnl9/pL5MqVrYHofSMudwRegzVbPxD3SXUYRMvabHXZ+8Bi897yESqCisoJ0zI3aAInha2pgU/TJobk9WjC5JtFG3NsMje6NxG8j/IbpaXOKhzXepkUW1E2SzaYfZaUug3iDMOiRIr/UfcZ4m2JHawwvZ5dpUsWel3RDhR9Dgfabe5I8EqOmrRvZmzmSxgfAU+9EbFzKLOHL9vBgAmFN9RJEUBFyOAKJ5+GfVLfiQlYXOZE4BeN+g40/lZB5hA9F3w2Q==;U4Nzx3/UKP/PnWTOBYzWVQ=="
 ---
 

@@ -53,6 +53,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "DOD’s Alka Patel: AI Ethics Must Apply to All Military AI Systems"
+    excerpt: "Alka Patel, who leads artificial intelligence ethics policy at the Joint AI Center (JAIC), said Department of Defense (DOD) officials believe ethical concerns must be applied to the technology's design and use,"
+    publishedDateTime: 2021-01-22T21:51:00Z
+    webUrl: "https://www.executivegov.com/2021/01/dods-alka-patel-ai-ethics-must-apply-to-all-military-ai-systems/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 54
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/22/03/0f/27/f2/f8/50/52/64/patel_alka_20210122.png"
+        width: 272
+        height: 270
+        isCached: true
 
 secured: "mLvEFJctYyCh+xgKUeVunRl/1usJlbFE8lN+zhMxTJaS8CEY74Zeqv32TpnTXd7G4XTLm+zbk1MOBDDz75omCINpzA4DZUx4BRtfQtKMkeLNBESyhLWqBf4wkfIbij+0v5NwxTfvNE3/qrnsB62qR/SR/sOWnPCS3tNhD7o3i8L4nZl67hGye/rXaze/ObDoD/0E+v1AOxIbMijcFtZIKEr3IE+I5mTLtYZ+3+T83TyfNgL47Y9Y03BjxDqnHgCw7TBsqjSbEl6YuEGXtTlNepPL7Rkb60J4puRh8eOJvOilYHb2YxaJINNcbbf2Eut2pSRNjvWeFAUQg5jboT/7yoMC4SG/wXYDnHU3M/YisTU=;KQ5N5zq2SF0sl4PLAcjLFA=="
 ---

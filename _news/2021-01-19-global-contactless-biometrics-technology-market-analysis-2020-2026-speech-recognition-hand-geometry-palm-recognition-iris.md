@@ -116,6 +116,20 @@ related:
         width: 721
         height: 420
         isCached: true
+  - title: "Blanket bans on face biometrics use by private sector unhelpful, digital privacy group argues"
+    excerpt: "Robust regulation can ensure private sector use of facial recognition that balances people’s freedom to use biometric technology with its risks, argues the EFF."
+    publishedDateTime: 2021-01-22T22:21:00Z
+    webUrl: "https://www.biometricupdate.com/202101/blanket-bans-on-face-biometrics-use-by-private-sector-unhelpful-digital-privacy-group-argues"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "N1vJSvBxryhq17T4olaNx4UEsLMjfj3VYldFORaJQjnZgcbPwg0r/SbXT4XQyStArYFCHyjXn3VesDK5sVqT146VQ/7WnStwQ84fS0kN4MVHXf8DTHAe5/n02PWU9jnRfh9XeHllNhPOk7AaK/vlJPxBDlGFDMlelePYICF7Lt9NowoBSvOFSYSpqFNndbYcAUffeLlMfmNGZSHnPGsV9rHpfJu6d5/qoasFs9XQ+OidTEOU8edzdf0D0lF4JCbdI0VwKMWGsTBIq4XHkMPIKYg6oCCDS8RIj+j+OrMzv3Ip0KW/eTB3dlHu/SqcubvqKa5Yc0+PxnpFy7oCQxLwfqjtCBUKXHHdDI/AuLSdK7xX0C+gNeM5Tp2cJ81f8gFaBwY7YAELUpqV2E3KlUdthNeLRzr6niRc6OCv2mnc9/ZacRIJpKo2of5lkop68HKJodebMRnx/wcRIxJLXhVwZVDOtUv9I+7s+7N8fpOGz7ccZBDNDPJ3lKHXX4nuQngBGlujH4LNiPpG3RUbpPgQCw==;MYDS3uGE1vvDvD9qYAactg=="
 ---

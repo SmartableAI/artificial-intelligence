@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descript
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
 type: article
 quality: 88
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Facebook nabs facial recognition website"
-    excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."
-    publishedDateTime: 2021-01-18T06:12:00Z
-    webUrl: "https://www.itp.net/commsmea/12296"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
 
 secured: "uPSCovfK9WESNKKO+M8YzV/Mm7lbMrzvOWO3/mFHmS7sWDXIvEL2zSVdfkR07ZeXjdCHPICVwWJgpsbzg1/59MjPQplyeU4yEiT8SsRlkHZqqMlarGjMcg/g6h9BkfMVBo6yDREhQicYr0Jvbbe3eqw3PuTLN4XYF1S2f6uBKFam+R4owI9NNhG5r3OKzBBpgfpMSrnYWbfzzzktzN6UpkjD51Zs285a8qBBs+RQ8dEJtFV7zQ6xlRIkcLj3v0PLvuEHEdhuEacjFpLwdh/ZOLSZH4K8VTD+DNEnEVdnM35vWfS3E+kZSb6qYp3fpADOwQTPnCpmYk0f+iym85Rn83E0AIFbGEjOrYobjrNbJ4e9/b1t5B8Oh9uC4aU8UeDMYTdjq55aNKHr/X65DR+jFCpcHyLOBF9uktsFeJ4ZlNugRepa0f/ksvXHN2QhgYZYAFQ5tk8mFx1oN95mp3igojS1v7pZzrv4Ye7jl6nSv3TuCW5FioeePFdPRh0kUg16VS25HFrwLzT+7dWDHu7pwg==;kUzlmAqF7duYdshSwMgTgA=="
 ---

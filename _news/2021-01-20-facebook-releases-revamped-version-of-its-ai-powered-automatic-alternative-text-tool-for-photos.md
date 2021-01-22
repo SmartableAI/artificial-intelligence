@@ -117,15 +117,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Facebook nabs facial recognition website"
-    excerpt: "Middle East technology & IT news portal including latest information technology news,Business technology & Tech news,Multimedia news,Product reviews & information,Software,Hardware,Computer tech & internet news."
-    publishedDateTime: 2021-01-18T06:12:00Z
-    webUrl: "https://www.itp.net/commsmea/12296"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
 
 secured: "foAaPg1JBHGIjm8dlF/lVbFZyA1qX8v60qBTrXVMQKaOVrMkej9QqA7KkOkurqnyIvXXNhv5rYP+kvoGQKkfEw1xK4yhu5Aotfd2WSZpyxQaS8Kf82MhcZKsIT6fmBEiXbPOP3TAWRrmSam8L5pojA+1FptxPblTgIdmMhCEN9RuH2mX7UFdEpfSGVUw/8EP8IaXPgwJ3l85QrYdWuRsUyZtzJUeqWX3UFhI0IdCXNH9h4Gm43xtHMyVdahVPVSScCDaB2TTGjGmvy8Md69Ry0wxqHgjjDiT7o5EOzNxW4zcAKFf1JiIcJM+BH0qEgd3zhzPRg+s6A/2qaOOrDZTCg5GRNkgMeARfykIaqhYs3E=;Egzb7PSKPnsN2oK1UuS9Iw=="
 ---

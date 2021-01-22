@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "2 Tech Giants Jumping into the Electric Vehicle Industry: Apple and Baidu"
+    excerpt: "The electric vehicle (EV) industry has performed remarkably well amid pandemic-induced economic disruptions. The accelerating shift globally towards digitization, connectivity, and automation have tempted several tech giants,"
+    publishedDateTime: 2021-01-22T22:40:00Z
+    webUrl: "https://stocknews.com/news/aapl-bidu-2-tech-giants-jumping-into-the-electric-vehicle-industry-apple/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 38
   - title: "Baidu collaborates with Geely to build smart electric vehicles"
     excerpt: "Baidu Inc, a leading Internet platform and AI company announced its plan to produce intelligent electric vehicles (EV), and that it has entered into a strategic partnership with multinational auto manufacturer Zhejiang Geely Holding Group (Geely)."
     publishedDateTime: 2021-01-22T00:00:00Z

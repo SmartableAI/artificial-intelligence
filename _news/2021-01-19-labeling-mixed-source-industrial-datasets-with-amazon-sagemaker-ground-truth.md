@@ -43,6 +43,20 @@ related:
         width: 800
         height: 284
         isCached: true
+  - title: "Multi-account model deployment with Amazon SageMaker Pipelines"
+    excerpt: "Amazon SageMaker Pipelines is the first purpose-built CI/CD service for machine learning (ML). It helps you build, automate, manage, and scale end-to-end ML workflows and apply DevOps best practices of CI/CD to ML (also known as MLOps). Creating multiple accounts to organize all the resources of your"
+    publishedDateTime: 2021-01-22T22:32:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/multi-account-model-deployment-with-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/21/ML-1682-2-12.jpg"
+        width: 471
+        height: 611
+        isCached: true
   - title: "Building predictive disease models using Amazon SageMaker with Amazon HealthLake normalized data"
     excerpt: "In this post, we walk you through the steps to build machine learning (ML) models in Amazon SageMaker with data stored in Amazon HealthLake using two example predictive disease models we trained on sample data using the MIMIC-III dataset. This dataset was developed by the MIT lab for Computational Physiology"
     publishedDateTime: 2021-01-19T22:13:13Z

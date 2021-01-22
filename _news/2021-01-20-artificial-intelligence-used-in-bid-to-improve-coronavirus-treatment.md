@@ -9,7 +9,7 @@ ampWebUrl: "https://www.breakingnews.ie/amp/world/artificial-intelligence-used-i
 cdnAmpWebUrl: "https://www-breakingnews-ie.cdn.ampproject.org/c/s/www.breakingnews.ie/amp/world/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-1066033.html"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Artificial intelligence used in bid to improve coronavirus treatment"
-    excerpt: "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'"
-    publishedDateTime: 2021-01-18T06:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
 
 secured: "L4IWynDvpMdRGc6WyMpZju0g0/fMgUl7+6btlAXiP09Q0Vun+oAC+rNGeKLZcJ/DcAw1GyaCE4XSntXuB8bZlppNbsAR+pCRzqa+i/KtzZAEYQXHcMcBGITc3ShO2OAGgWu9GV+ksL9Xfb9TNGHl8TRvhbZ71ySJMtXyGcTk3GyBVxZKgGSjKKcXDb4NdhE+mWqdbHwetZfo/BsAv1FUwo26G792SxeXBkpEnAySuLjzSPB6yF3oCJrmQhgV3NeGE19RDS1fPj3JawxycNVtIiNkmn5n14Qka4ELw2bg39sOGF9xF35rlhuJ8jy8CnyvbDVN082g0gVMyRTWEw/tgRAYL/YXoOVqGS9UZPMZfKg=;FpTIgmrUwONu1oXDEUv02w=="
 ---

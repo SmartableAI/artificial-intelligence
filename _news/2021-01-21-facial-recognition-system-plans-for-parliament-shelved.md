@@ -82,20 +82,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "KLIA to roll out facial recognition technology in 1H 2021"
-    excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
-    publishedDateTime: 2021-01-18T06:43:00Z
-    webUrl: "https://www.bernama.com/en/general/news.php?id=1923008"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 39
-    images:
-      - url: "https://www.bernama.com/storage/photos/4d11767660ecb3d1edf7fac350faa2aa5e8d5d9f630d5-medium"
-        width: 350
-        height: 219
-        isCached: true
   - title: "KLIA to use facial recognition in place of boarding pass"
     excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
     publishedDateTime: 2021-01-18T23:50:00Z

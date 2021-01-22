@@ -41,6 +41,22 @@ related:
         height: 448
         isCached: true
   - title: "Cancer can be precisely diagnosed using a urine test with artificial intelligence"
+    excerpt: "Prostate cancer is one of the most common cancers among men. Patients are determined to have prostate cancer primarily based on PSA, a cancer factor in blood. H"
+    publishedDateTime: 2021-01-22T21:03:00Z
+    webUrl: "https://sciencebulletin.org/cancer-can-be-precisely-diagnosed-using-a-urine-test-with-artificial-intelligence/"
+    ampWebUrl: "https://sciencebulletin.org/cancer-can-be-precisely-diagnosed-using-a-urine-test-with-artificial-intelligence/?amp"
+    cdnAmpWebUrl: "https://sciencebulletin-org.cdn.ampproject.org/c/s/sciencebulletin.org/cancer-can-be-precisely-diagnosed-using-a-urine-test-with-artificial-intelligence/?amp"
+    type: article
+    provider:
+      name: Science Bulletin
+      domain: sciencebulletin.org
+    quality: 52
+    images:
+      - url: "https://sciencebulletin.org/wp-content/plugins/instagram-feed/img/placeholder.png"
+        width: 1000
+        height: 560
+        isCached: true
+  - title: "Cancer can be precisely diagnosed using a urine test with artificial intelligence"
     excerpt: "The Korea Institute of Science and Technology(KIST) announced that the collaborative research team led by Dr. Kwan Hyi Lee from the Biomaterials Research Center and Professor In Gab Jeong from Asan Medical Center developed a technique for diagnosing prostate cancer from urine within only twenty minutes with almost 100% accuracy."
     publishedDateTime: 2021-01-21T05:03:00Z
     webUrl: "https://www.eurekalert.org/pub_releases/2021-01/nrco-ccb011821.php"

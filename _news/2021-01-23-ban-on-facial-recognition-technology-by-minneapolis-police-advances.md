@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--59
 cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -70,6 +70,17 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Proposed ban on facial recognition technology moves forward in Minneapolis"
+    excerpt: "Minneapolis is one step closer to banning police and other city departments from using facial recognition technology."
+    publishedDateTime: 2021-01-22T22:20:00Z
+    webUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis"
+    ampWebUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
+    type: article
+    provider:
+      name: Fox 9
+      domain: fox9.com
+    quality: 37
   - title: "Minneapolis City Council to consider banning use of facial recognition technology by police"
     excerpt: "Plus: judge rejects bid to delay Chauvin trial; Minnesota dodges major post-holiday spike in COVID-19 cases; uneven mask compliance among high school athletes; and more."
     publishedDateTime: 2021-01-22T12:04:00Z

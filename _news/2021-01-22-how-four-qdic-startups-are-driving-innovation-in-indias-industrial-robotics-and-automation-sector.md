@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hashtag Trending – Bizarre facial recognition proposal in India; White House calls for coders; Ajit Pai’s final report"
+    excerpt: "A proposal to install facial recognition cameras in an Indian city draws backlash, a stealthy call for coders has been found on"
+    publishedDateTime: 2021-01-22T10:18:00Z
+    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008"
+    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 50
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Atos, IBM and Red Hat team up on new industrial automation services"
     excerpt: "ICT company Atos is expanding its strategic alliance with IBM to develop joint offerings focused on automation in manufacturing, logistics and supply chain. One of the new cloud-based applications will help manufacturers and waste management companies control their energy consumption,"
     publishedDateTime: 2021-01-20T16:00:00Z

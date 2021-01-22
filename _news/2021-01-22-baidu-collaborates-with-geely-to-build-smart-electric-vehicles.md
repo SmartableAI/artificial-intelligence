@@ -33,6 +33,17 @@ related:
         width: 695
         height: 463
         isCached: true
+  - title: "2 Tech Giants Jumping into the Electric Vehicle Industry: Apple and Baidu"
+    excerpt: "The electric vehicle (EV) industry has performed remarkably well amid pandemic-induced economic disruptions. The accelerating shift globally towards digitization, connectivity, and automation have tempted several tech giants,"
+    publishedDateTime: 2021-01-22T22:40:00Z
+    webUrl: "https://stocknews.com/news/aapl-bidu-2-tech-giants-jumping-into-the-electric-vehicle-industry-apple/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 38
 
 secured: "XQ4CjPYUAoBN43dSJ+9mUKZpb84b3AHMqIxEwZKup6AnJGFl5p3LCmoj4oPaXoouGjKi5rFXGkvLs/2UVodfmVvq8fbVTbnhr6QO/qmxlKCuwfzF3hDDs3Z4QTrByjLYNlXHifzumatD+CX6wiBNHj16w8jqPsd2vLFazuDtBaJfrF3i3HWLQR6WA7xBrDBfbzUvab9JqeeqZrReLg1uRKLJ7cP9d4D2XZAE+XQOFkrf4onz1KP4AqgDzyf/l9EUbMQ24Ro52NRLh94qZ1x42HsM9MO2fJGPcL6NRLxZumHxHmSSOpLIriCslptFsdhGPIOIEfvPMqqVmSZbX7WAHa2D2Qs4orZYqsC68fJEq3M=;FIWZ39m2vzJTn8Unt4ipgw=="
 ---

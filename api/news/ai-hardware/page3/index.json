@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-27-these-3-tech-stocks-gained-over-50-in-2020-heres-why-theyre-still-buys-in-2021.md",
-      "title": "These 3 Tech Stocks Gained Over 50% in 2020: Here's Why They're Still Buys in 2021",
-      "excerpt": "The S&P 500 has gained about 14% in 2020, but many technology stocks easily outpaced the market this year as investors looked to this sector as a haven during the pandemic. NVIDIA ( NASDAQ:NVDA), Atlassian ( NASDAQ:TEAM),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/26/these-3-tech-stocks-gained-over-50-in-2020-heres-w/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/26/these-3-tech-stocks-gained-over-50-in-2020-heres-w/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F605841%2Fgettyimages-1170740969.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/26/these-3-tech-stocks-gained-over-50-in-2020-heres-w/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/26/these-3-tech-stocks-gained-over-50-in-2020-heres-w/",
-      "publishedDateTime": "2020-12-26T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-24-nvidia-opens-ai-storefront-in-aws-marketplace.md",
       "title": "NVIDIA Opens AI Storefront in AWS Marketplace",
       "excerpt": "The use of the AWS Marketplace democratizes AI capabilities. The year 2020 will be remembered for a lot of things, among them a global pandemic, social justice and a historic election. These grabbed center stage because they have huge societal implications.",
@@ -1413,6 +1361,58 @@
         "name": "The Next Platform",
         "domain": "nextplatform.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-smarter-cars-auto-makers-experiment-with-chips-that-think-like-humans.md",
+      "title": "Smarter Cars: Auto Makers Experiment With Chips That Think Like Humans",
+      "excerpt": "Experimental computer chips that try to mimic the way human brains work could accelerate the use of voice and gesture commands in cars, researchers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/smarter-cars-auto-makers-experiment-with-chips-that-think-like-humans-11607631902",
+      "originalUrl": "https://www.wsj.com/articles/smarter-cars-auto-makers-experiment-with-chips-that-think-like-humans-11607631902",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-271447/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/smarter-cars-auto-makers-experiment-with-chips-that-think-like-humans-11607631902",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-cars-auto-makers-experiment-with-chips-that-think-like-humans-11607631902",
+      "publishedDateTime": "2020-12-10T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

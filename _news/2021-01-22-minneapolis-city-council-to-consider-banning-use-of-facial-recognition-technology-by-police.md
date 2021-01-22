@@ -84,6 +84,17 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Proposed ban on facial recognition technology moves forward in Minneapolis"
+    excerpt: "Minneapolis is one step closer to banning police and other city departments from using facial recognition technology."
+    publishedDateTime: 2021-01-22T22:20:00Z
+    webUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis"
+    ampWebUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
+    type: article
+    provider:
+      name: Fox 9
+      domain: fox9.com
+    quality: 37
   - title: "Minneapolis City Council is considering banning the use of facial recognition technology by the police"
     excerpt: "Minneapolis City Council is considering banning the use of facial recognition technology by the police MinnPost file photo by Jessica Lee"
     publishedDateTime: 2021-01-22T16:18:00Z

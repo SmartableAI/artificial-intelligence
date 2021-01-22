@@ -35,6 +35,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Hashtag Trending – Bizarre facial recognition proposal in India; White House calls for coders; Ajit Pai’s final report"
+    excerpt: "A proposal to install facial recognition cameras in an Indian city draws backlash, a stealthy call for coders has been found on"
+    publishedDateTime: 2021-01-22T10:18:00Z
+    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008"
+    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 50
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
 
 secured: "2A9FDBNip5DCpWPY/jRItW1JN50tbwGqUPU8VAxPdTviGJPa2Z7D8Vf9j1dxryHP5pPe5HIasuWmQGVNKY3nIsvp/q9yKC+U+aBgSdas9mYbIYIrtGofh4IrPNgDiTK4PEOiPJJdFh57LncICAcCqFIu7r0A5QxwHGurFSqgX1cLpCtNiW6XWlLf+1GCjthx6cURIRrLgUZ8LhekXSMaK2gFth8lBTjpTC5rQYth80Wu4yH5GcQxvlG+pTlYtf+4LJiFD/FjFEJBXncTTK/geUmFAzrqu86C5079CA3mPcr7WLWD5s0bvqmntVdWjXW5ZT5nXCevCzLxu9Y/vuY/DiKRo4/7bE8IObxsD9DAEnM=;9tw/fJVaFS4NhQe9E8BjDA=="
 ---

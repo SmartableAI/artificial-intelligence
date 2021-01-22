@@ -105,6 +105,20 @@ related:
         width: 721
         height: 420
         isCached: true
+  - title: "Blanket bans on face biometrics use by private sector unhelpful, digital privacy group argues"
+    excerpt: "Robust regulation can ensure private sector use of facial recognition that balances people’s freedom to use biometric technology with its risks, argues the EFF."
+    publishedDateTime: 2021-01-22T22:21:00Z
+    webUrl: "https://www.biometricupdate.com/202101/blanket-bans-on-face-biometrics-use-by-private-sector-unhelpful-digital-privacy-group-argues"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Global contactless biometrics Technology Market analysis 2020-2026: speech recognition, hand geometry / palm recognition, iris"
     excerpt: "Global contactless biometrics Technology Market analysis 2020-2026: speech recognition, hand geometry / palm recognition, iris DUBLIN–"
     publishedDateTime: 2021-01-19T09:40:00Z

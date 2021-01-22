@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Privacy fears as Indian city Lucknow readies facial recognition to spot harassed women"
+    excerpt: "Concerns that technology will lead to intrusive policing and privacy violations, digital rights experts warned."
+    publishedDateTime: 2021-01-22T21:48:00Z
+    webUrl: "https://www.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
+    ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 81
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/23/0b83e278-5cef-11eb-a99a-beae699a1a1d_image_hires_052038.jpg?itok=YoSvb9Te&v=1611350446"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "An Indian city plans to use facial recognition to spot women in distress — what could go wrong?"
     excerpt: "It’s now fairly common for cities to install surveillance cameras with facial recognition capabilities to help catch criminals  — Beijing and Moscow use them extensively. However, a city in northern India is taking a different approach: it wants to detect distress on women’s faces,"
     publishedDateTime: 2021-01-22T07:49:00Z
@@ -61,22 +77,6 @@ related:
       - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
         width: 1080
         height: 582
-        isCached: true
-  - title: "Hashtag Trending – Bizarre facial recognition proposal in India; White House calls for coders; Ajit Pai’s final report"
-    excerpt: "A proposal to install facial recognition cameras in an Indian city draws backlash, a stealthy call for coders has been found on"
-    publishedDateTime: 2021-01-22T10:18:00Z
-    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008"
-    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 50
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
-        width: 620
-        height: 250
         isCached: true
   - title: "Facial recognition tech deployed in UP to help women in distress"
     excerpt: "Facial recognition tech deployed in UP to help women in distress - The Lucknow police are deploying facial recognition technology backed by security cameras that will"

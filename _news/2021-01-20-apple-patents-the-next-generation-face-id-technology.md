@@ -57,6 +57,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Apple granted patent for face biometrics occlusion assessment"
+    excerpt: "The patent reveals a method for using heat maps to biometrically identify and authenticate a Face ID user whose face is blocked by objects like a mask or hair"
+    publishedDateTime: 2021-01-22T22:02:00Z
+    webUrl: "https://www.biometricupdate.com/202101/apple-granted-patent-for-face-biometrics-occlusion-assessment"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06145144/apple-logo-building.png"
+        width: 721
+        height: 420
+        isCached: true
 
 secured: "i/cHaaKuqbqqzTdBA2emWGegsfSepw4t5ucxqzAMiFppGp4A9e7a6ryUFUEGNAJiz3M/5LyD3ADi/7aIz4DltovL+dshzwJ5GbxlDNx/AgViIPu51XSZnAz4Kk0H1QJS1pII5x82dF+VyJKW7khaqvopRIwENErGfFg8pigFJN10ckYHlg1eYgf6n/8K84zL/c7xdZw1/fhWMng3nOaeNnu9WRoY6VnqGBbqyFlUG/+NWsFL3Q4fz4Z+ZzeCA8bLxAmMdjFLNvUTEaLxyndvBC5q9n5hFqJzatJcsv99DbVULKsp8B1OF0VsdCb8qMT9rJvWY9DLksEJeXJD25hNXwP662p9CgcdcBpQD2GbXqs=;M4ufGtKdUUuMB8hF4Zrcsw=="
 ---
