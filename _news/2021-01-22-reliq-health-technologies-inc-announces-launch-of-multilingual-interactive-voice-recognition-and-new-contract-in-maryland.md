@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Reliq Health Technologies Announces Interactive Voice Recognition Platform"
+    excerpt: "The telemedicine specialist Reliq Health Technologies has announced its new Interactive Voice Recognition (IVR) platform"
+    publishedDateTime: 2021-01-22T20:15:00Z
+    webUrl: "https://mobileidworld.com/reliq-health-technologies-announces-interactive-voice-recognition-platform-71202101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 22
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
+        isCached: true
   - title: "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition ..."
     excerpt: "“We have incorporated Interactive Voice Recognition (IVR) in the iUGO Care platform to support patients who are using their own, non-connected monitoring devices, have cellular or internet connectivity challenges or simply prefer an automated daily phone ..."
     publishedDateTime: 2021-01-20T08:49:00Z

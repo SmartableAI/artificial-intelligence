@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-power
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://www.autoremarketing.com/sites/default/files/fuse%20autotech%20for%20web.png"
         width: 880
         height: 495
-        isCached: true
-  - title: "Otter.ai Launches Live Notes and Captions for 100 Million Daily Users of Google Meet"
-    excerpt: "Today Otter.ai announced the launch of Live Notes and Video Captions for Google Meet. The 100 million daily Google Meet meeting p"
-    publishedDateTime: 2021-01-21T14:18:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-search-technology-collaboration-software-communication-technology-virtual-meeting-technology-2f91aa9368414b769490301961d9e6f0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Google Cloud boosts personalised online searches with an enhanced product discovery AI suite"
     excerpt: "Google Cloud has launched a product discovery solutions for retail, a suite of solutions built to help retailers enhance their ecommerce offerings and deliver highly personalised consumer experiences in the first phase of their shopping journeys."

@@ -139,6 +139,17 @@ related:
         width: 450
         height: 900
         isCached: true
+  - title: "Trump Issues Pardon For Anthony Levandowski, Sentenced To Prison For Stealing Google Self-Driving Tech Secrets"
+    excerpt: "Among those give pardons by President Donald Trump as he departed the White House was Silicon Valley tech executive Anthony Levandowski, who had pleaded guilty to theft of trade secrets involving Google and Uber."
+    publishedDateTime: 2021-01-22T20:33:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/01/20/trump-issues-pardon-for-anthony-levandowski-who-admitted-to-silicon-valley-self-driving-tech-trade-secrets-theft/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/01/20/trump-issues-pardon-for-anthony-levandowski-who-admitted-to-silicon-valley-self-driving-tech-trade-secrets-theft/amp/"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/01/20/trump-issues-pardon-for-anthony-levandowski-who-admitted-to-silicon-valley-self-driving-tech-trade-secrets-theft/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 4
 
 secured: "/ibD474gDiPvpswa/RyzLTuc0bo1Hsk5YNAkw7ZN4ZvOqGUqbpCyf1Y1v8PvSJA8nJ+IKMG9tdYg3ELkqZ+DacL+s3shDp9BAXqWQvvfH4yx32MhaAnI4ivFBbwQfDD9PVRcCvYla+/GnzHq+cfIfr8ZmchVDghx4ltE0O4BFBrDLZQFoVeqjvRSt1uV9wVXp8j5CoNRhNkzllNGu/kBKe0TJJHmWyXBV7nYM+bx9GHN3RGEiBhWwCMPHN7T1XXqKpQZbnfXSOQSaVjuRtYQyPMrkxXqznb0E7hLnSgcqoYjgvEwP4iK6cwDn0KkpyyYd5TWJH2/tZl5x+r0nMFQSI8SNSfKHMkfE4p3MgWW0iU=;+FcyCKd+584wYCoE6LOuCg=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 915
     isCached: true
 
+related:
+  - title: "Machine learning could cut delays from traffic lights"
+    excerpt: "A new self-learning system uses machine learning to improve the coordination of vehicles passing through intersections."
+    publishedDateTime: 2021-01-22T20:39:00Z
+    webUrl: "https://gcn.com/articles/2021/01/22/ml-traffic-signals.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/June/trafficsignal.jpg"
+        width: 760
+        height: 368
+        isCached: true
+
 secured: "ZjFqkrOaUfwhH5AbMs+JBmZBCYBHqIa3MWqfA+ARjbaw0DZp9NF09fP14J4Hrol20InRQJtZMloYm9CnNmE59m7yBnjcPXP2WpkfOAFVsveFM2ZBiIA5/59E8F46ZT/jX2IeqlsmBHenXxJpw3Lhtv4std1sCKAOGCwbwivhQCPlNJIfqIgF8z8Pm5hdDaKmbme1uBPHYfhScEYCScHnwfQYM/MTn9w8Kcy4fM2pUr0mu8Y73X4yr0BHuZBiQU8H/ZfCZeyb3e6TcCvy/qrKWTu5zmud1q1DGHvp0N+amxA3c3wkWnCLsgoihsNi1u7QfYzj82Zp7lZKQn3r1+Ft3DDn7P962QqwgzjVVtSUINv9anTnRExYtOZFQPwow1HvBtw3ADbqZ/i+/VomMh2FcTmlAULuAhqS+P2bntqmEFkxO+nsYvEszfCyK0zkfpNUrgnF5VCGgOL9MLyO4SN23ZRABDGDLr24D3YfwiCUuL+/mORV8BiRj56m6ubr7UdgXYKQ0lS7X9hpTf4sGbLdfQ==;JqAMk+r4GHq0WRi+UPSAOw=="
 ---
 

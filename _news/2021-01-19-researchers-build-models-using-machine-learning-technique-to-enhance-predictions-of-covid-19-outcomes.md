@@ -50,20 +50,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
-  - title: "Mount Sinai researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
-    excerpt: "Mount Sinai researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."
-    publishedDateTime: 2021-01-18T05:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/tmsh-msr011521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "gbwAigOAz71W8ToZR3MvC8J6LBqFvKLG0PWGVJUcXBatQBDFEcHbmedAhH7I+DEyaLg7PC3iNuu8UJman4XTvLTdpd8rUOgArHfyWL6lvspq0MfRbm8hS9SCDJluvdq71JWVJMbLIDNGpP6G8i7bWuqPlI3hT9JVv5IKGUxPsl88H5mYZgZrUeyb5DYVUefhHh626bcdrWydAqU/2AxH9wE03dUwaxYG1Ov3UTAv2/wPhldbCwawmlYqaQBX7IUfcfkYhMmZTGXa99nPiGPnhR2rNmGJoS9EtSjoLTKsKWSLxqm8797UM/t0UC8fY4y85xKuqqpQjcuc5yLpCwmPwagF05YgpYjjRvMpPyNHY/By6wcKCp2QG6BcFyaUfNn5FNin/nto4orves4ZgAcIrqFosLS4qZ+UkfJHuxtKc/7JOHweAJHZEu3DQyMmyjstp3EoywQV6/cYHHgtgOIHOQE083xgOEevX7aVkYpDbeWUpQMASPB6y3LTADgc2VcBEFM0bIT//lqSJwldPcCpeA==;YEazQ3zrazm1oKafhwDZRA=="
 ---

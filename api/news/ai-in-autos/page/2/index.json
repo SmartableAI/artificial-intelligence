@@ -721,19 +721,19 @@
     {
       "path": "_news/2021-01-07-self-driving-pioneer-waymo-dumps-the-term-self-driving.md",
       "title": "Self-driving pioneer Waymo dumps the term 'self-driving'",
-      "excerpt": "Washington, DC (CNN Business)Waymo, the self-driving arm of Google's parent company Alphabet, and which pioneered the self-driving car business, says it's done with the term \"self-driving.\"",
+      "excerpt": "Waymo, the Google company that pioneered the self-driving car business, says it's done with the term, \"self-driving.\" Waymo says that some automakers are using the phrase \"self-driving ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/01/06/tech/waymo-self-driving/index.html",
-      "originalUrl": "https://www.cnn.com/2021/01/06/tech/waymo-self-driving/index.html",
+      "webUrl": "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html",
+      "originalUrl": "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200302173131-02-waymo-investment-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/6/0a/60adf668-318b-5b7a-9870-c270ef3b67fe/5ff6012a07900.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -741,23 +741,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html",
-      "publishedDateTime": "2021-01-06T14:53:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T11:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Gwinnett Daily Post",
+        "domain": "gwinnettdailypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

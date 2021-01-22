@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-01-19/health-care-sta
 webUrl: "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Bloomberg
@@ -42,6 +42,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Remote Care Startup K Health Valued at Over $1.4 Billion"
+    excerpt: "K Health’s app uses artificial intelligence to scour records from databases in Israel and the U.S. to help diagnose diseases."
+    publishedDateTime: 2021-01-22T19:26:00Z
+    webUrl: "https://www.themiddlemarket.com/news-analysis/remote-care-startup-k-health-valued-at-over-1-4-billion"
+    type: article
+    provider:
+      name: Mergers & Acquisitions
+      domain: themiddlemarket.com
+    quality: 24
+    images:
+      - url: "https://www.themiddlemarket.com/wp-content/uploads/2021/01/AdobeStock_140212296-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "DkN5LPObMWBnsdHmpEC53SdWIcOourp0PVXVPVEEv+kGsw7akj22PF23zCZIeAmwOJhq4othQUr2d47vJM/n+CikY30WnWVe8quxSC3ipILsUdI3v3/HD6WPWZGQbGIqj3tUBwA4p4AGMVaXjkUpvuzPEVjVwphO5QXL6Q2RdmsaCDdqsDRU/hvVJSvSKxfbF7EyDotq9AfrGPR0sNtE9hqVQeAw2RRTafbaml4LK/wN6FBbljanyVp6eCa5f3g2s1WEh8LPRygV8NU4muX/hAfiDIZNXd4OQ9BRn9t6v7U90rFmUy2qd6PSZIynRuHGamFnVjQ54njmLHM8+kO47EoVeI48AVvybvqydQYLs8EGgh0FBqe749XmXCt7M604O17DW1BHAs1gTxo4bZcOuktJmuBWAWFzG32CmHHXkclg51zU7EQUoseyObftiRv5E+95dgFHzcfBLsi+2pJNG651g3i/JTVn+m1ipwoDERfedknPJwKRi33+/Dekwgh8eIWpGOwH+zLQlgLMGD5ztA==;+giVbK1Rv1klZsg8UeNLxw=="

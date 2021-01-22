@@ -41,6 +41,20 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "AI Weekly: The Biden administration, algorithmic bias, and restoring the soul of America"
+    excerpt: "The Biden administration has to address multiple crises, and artificial intelligence is part of the agenda in several major ways."
+    publishedDateTime: 2021-01-22T20:29:00Z
+    webUrl: "https://venturebeat.com/2021/01/22/ai-weekly-the-biden-administration-algorithmic-bias-and-restoring-the-soul-of-america/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1230702944.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Some are renewing a push for federal recognition of Native Hawaiians under Biden administration"
     excerpt: "The new administration is opening the door for federal recognition for Native Hawaiians, allowing greater self-determination and control similar to other Native American tribes."
     publishedDateTime: 2021-01-21T06:37:00Z

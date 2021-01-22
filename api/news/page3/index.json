@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-21-understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs.md",
+      "title": "Understanding machine learning will go a long way toward higher adoption for SMBs",
+      "excerpt": "Expert says larger companies are more willing to spend money for top talent to achieve machine learning, whereas smaller companies aren't able to do so. Pre-configured solutions can help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "originalUrl": "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "publishedDateTime": "2021-01-20T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-paravision-ai-ordered-to-delete-face-recognition-software-derived-from-user-pictures-without-permission.md",
       "title": "Paravision AI ordered to delete face recognition software derived from user pictures without permission",
       "excerpt": "US face recognition developer has been found to have used pictures from the Ever storage app without permission, and now has to delete all its algorithms.",
@@ -252,7 +304,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -460,7 +512,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1198,58 +1250,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-tencent-teams-up-with-chinese-automaker-geely-on-driverless-and-smart-car-tech.md",
-      "title": "Tencent teams up with Chinese automaker Geely on driverless and smart car tech",
-      "excerpt": "China's Tencent has teamed up with automaker Geely on various car technologies as traditional vehicle manufacturers continue to partner with technology giants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/19/tencent-and-chinese-automaker-geely-team-up-on-smart-car-tech.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/19/tencent-and-chinese-automaker-geely-team-up-on-smart-car-tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105411546-1534993800897gettyimages-952622436.jpg?v=1599005950",
-          "width": 1024,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/19/tencent-and-chinese-automaker-geely-team-up-on-smart-car-tech.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/19/tencent-and-chinese-automaker-geely-team-up-on-smart-car-tech.html",
-      "publishedDateTime": "2021-01-19T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

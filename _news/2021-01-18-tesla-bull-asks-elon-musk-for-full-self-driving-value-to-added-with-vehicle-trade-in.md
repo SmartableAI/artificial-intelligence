@@ -43,6 +43,20 @@ related:
         width: 1199
         height: 796
         isCached: true
+  - title: "Why Tesla and Waymo Can't Keep Their Self-Driving Talent"
+    excerpt: "Since August, Tesla, Uber Technologies Inc. and Alphabet Inc.’s Waymo have each lost executives who led ... engineers with expertise in hardware, software or artificial intelligence have an abundance of options. Actual experience leading teams and ..."
+    publishedDateTime: 2021-01-20T00:00:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/22020545/why-tesla-and-waymo-cant-keep-their-selfdriving-talent"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 54
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2019/05/industryweek_28384_tesla_model_3_0.png?auto=format&fit=max&w=1200"
+        width: 595
+        height: 335
+        isCached: true
 
 secured: "iWUZtKqwLDBpFSRVGin6cRbPlmuZuQEQ84F4QInERw/rskcRIaL8fDWojC+HAzhkRXgrymx14TJCfpiajdNbs241ZvwU+SZoZffa8KFjNPc50bNcVNDMuzd9yNifmEU/KIPYg/OSyypFDAtytGbqi78o6h6GNhQKI+D2ri/4GhZwstvKgxiMSjAaxgv4byTtgrZxdZ0TZfzatWQIM3i3MbPkYphYlP8+U4Z5cDOHEvGnBROqbv+0P7nzi4KOCp5VZOFo1CDcWF4JIoafL/KV12ht1+41nZ4kg/siG9/VhOb/efVUgEKwE6d117whD+Nbx1MIMgmsBCqKoOgcp+WFhM4ye2wMgd2+HRUDDVdA7XkS93QBYLwA3C7CQHipE0NDNfL0tAa5mKk/zM0ie+q1+Feuz23d4WdwQV1PyTUVXSDbMAU+XfjrIQIerjNuDCREN3divy2wa6OjkslZNW0/RAG4tULDzUBSvYta+c733YsT7K3/qmsFuN5j43+WzvrDoY99bKsFSsp8De8YP4v3GA==;0WMd+2jQEgMmstC8phSZNg=="
 ---

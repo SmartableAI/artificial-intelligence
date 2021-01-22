@@ -3,8 +3,8 @@ category: news
 title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
 excerpt: "Taiwan's largest and one of the world's leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site ( A MiR500 Robot Lowers Transport Costs at Schneider Electric Talking to Machines - New Operating Concepts With Artificial Intelligence Incremental Steps to Creating Value With Industrial Data Analytics Warehouses Turn to Automation to Meet Permanent Peak Demand ITRI's featured technologies include the Dual Arm Robot System (DARS),"
 publishedDateTime: 2021-01-21T20:19:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=16132"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=16132"
+originalUrl: "https://www.roboticstomorrow.com/news/2021/01/21/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021/16132/"
+webUrl: "https://www.roboticstomorrow.com/news/2021/01/21/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021/16132/"
 type: article
 quality: 49
 heat: -1
@@ -63,6 +63,6 @@ related:
       domain: businessinsider.com
     quality: 50
 
-secured: "wIFG2q/JasOhAiDQsCy/hnmaFMZ9I5t9+AY54DcYBfOPkIZz/FHg3evTDHuQ26vv/YpcfdeYCJYU8QCh0v8eWDK3QU3rTm3+2iFqGhC9BDLLMYAxJ+R9sQ0VSLJk/Jmx1esvmnRbPnUxq88Pn9s6q2qtJk/THEae1ennU0ESJl/wecrvV3BPYIG6pzT+PJcg7nZyRGkrsud7jP7cwNW/DqAp637WOqRphDZWq9id2owliTnE8yHoQkm3oMhoc03dY3ti+/fUneUiYKFT8/MC9u2+XignIkd8SeMyTj2UASDra5QpfHAOUoFXSNkxJ9MchAejPGA05GyPBwxDQ0qjRV4wiH7zg1GL2FKmZqKPcR8=;98iATiJEc09DBFMqBBcfpQ=="
+secured: "dTnRHb8hmbWECC9i4m9kaKDDrZcBsVTIQMcwc9Ne1fHPPhJUU9SUAR/1g9rMXpNzFtYnp04WG8L4zBib/eDs98nDsGn+MFYagSeWR2ZQLgtM/Twua5ytqPTDDJkwe8wPYEEQppxhB6BN+9wHLxNUtfKoylN9mG9gB/wERkHCaUhTCrXZ6cf0n9Zy88k/5YQuXtGwwLjCIlk1GthSudPJi1zRA+gpiq8KRWQCCBPfq5XPhyVqOhiKkGo1FxPj+JxCoVzguRTQUwb+RtfNdDfpHAywx5VrzeIyH2JFPkwOkM13ZI1VY+ENGf38MZuB5bkMWxcqmBLfjD4mCAWNBHtN+dC7CMejWOYeNOx0wqvPkwM=;JlyM6BlKrKk0/GYdms10gQ=="
 ---
 

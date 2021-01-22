@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Self-driving pioneer Waymo dumps the term 'self-driving'"
-excerpt: "Washington, DC (CNN Business)Waymo, the self-driving arm of Google's parent company Alphabet, and which pioneered the self-driving car business, says it's done with the term \"self-driving.\""
-publishedDateTime: 2021-01-06T22:53:00Z
-originalUrl: "https://www.cnn.com/2021/01/06/tech/waymo-self-driving/index.html"
-webUrl: "https://www.cnn.com/2021/01/06/tech/waymo-self-driving/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html"
+excerpt: "Waymo, the Google company that pioneered the self-driving car business, says it's done with the term, \"self-driving.\" Waymo says that some automakers are using the phrase \"self-driving ..."
+publishedDateTime: 2021-01-06T19:53:00Z
+originalUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html"
+webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html"
 type: article
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gwinnett Daily Post
+  domain: gwinnettdailypost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200302173131-02-waymo-investment-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/6/0a/60adf668-318b-5b7a-9870-c270ef3b67fe/5ff6012a07900.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "H2vU1vhvKuEY2Lo/BwRsbZlGPDikUDS497GFSoBoKQpNVe9LwpU88u6W/yR8D3ujgCy2P+CrNfzzZv03jKOiX2lt+6U0yDgaStpoLNIiTt9vOaaI898VdnlGrMnYGNOMsRmKaOT3fH8jhzLqlyImEjtEtsER5Tz9JDrUrCafw+0iFgWjhm016c38gNFA0RmjMog6utoEQh2Fn5qxCHJ0prSLbKZrCpgXtdKGQniI8uvDbs2ywLGS8GiQofAxd9Y053stq4KjRhwmUPxFCiTxKmPIRqsL+LED4oWmFaShndgqK98yGu3oilqVxgdWL+oA6c6XEEs3pb969zoIQs4fjH44pUX2RW4QvBV432P15Gs=;X7x4I1Bd401y3oO2Qdrwwg=="
+secured: "8NSQb/J/SpvgwUGXKO7U8vusTZ2aLRFtgEgDLMqcp7LIS3AmxpIDzQivdWGc9jCOI1IyuDZbKjdvK1WCpQyIF67hZ2jqM0doBwHAydswcvQFaPvGNC3vYyQjIzEBOStgsHussUSUCskdT1Hcu/Vnr3gh6HoLNr8R31GvxKie4bSxb183BSNRyPYaTRD0V3LdyXG6pXRjMl+lO0zkAf/+KWj78FU1uxbtNZX9W5kUF3JkDn/KlKdS1h9IxB8SUsZ2c3sA7UA+mKL0mH+TClJtriFQIg/Lo3v1cAT38vdMkhik79qBIkd6hwsUogy6Tv8z9Ic+HLtBjF9k1hCC64tVYArnJVYPetERqpAQg7/Q+mU=;O3akMJgT9kK5lX7ozqpRZw=="
 ---
 

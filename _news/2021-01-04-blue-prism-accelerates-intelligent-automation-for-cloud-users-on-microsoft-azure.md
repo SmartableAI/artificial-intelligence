@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "\"This combination of Blue Prism and Azure Cognitive Services gives our customers a greater choice with AI-enabled, self-service experience that is provisioned via Microsoft Azure,\" says Chief ..."
-publishedDateTime: 2021-01-04T14:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
-webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
+publishedDateTime: 2021-01-04T15:04:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-    width: 1198
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
+    width: 400
+    height: 209
     isCached: true
 
-secured: "Y4D15pj6NkrFQ5tjJ/psRtd6tQspfhoiRQL0bEzBhLloJASVROn2pu+QBBqFttN4XkNmnXXCuqpYwOZngYnnhWtlPmn7HnQGDknNNEpn2t32TY+iwlhe4H0mpQ09t7yunCa01v+7Z4gB2wPmKUtsJnyy96ugCYt84AIenzyXIIyWH6ntVVMX4pe8ozdzd8DNpSriYmPjtM53wOJpRlvzTtuhJqzcEoAbrPjAijBOor4AbLbAMhV/Eago2Q97qRyVRgKxFPki1g6eRmzVrbUpnbCl3pSsWi+J3YLEHoHuCIL7zrM4OsM9mtbppWlXr19VpHhFru2+HMjzOz6xFwj1GXmLVCCn4P/oS7lLczE7mS4=;5LL5LDBihKvkpFo6pdViZA=="
+secured: "5BB3Qv/2AXj03uJYMxV7rq0TjjrqxBvrQ9ygSHBzSDCAELkziY1FIZR6HClkyhT8V8pLVGkvqpO0sibiEcdPxV2gPoya37eclHaJwtGteyYkX+DloGVdvvLDdGvTpfr1iwFKPoxl3QJwj0e4dyV1/AdbWR0rIyqGql+31lCTOMw1GfKVyMRJqzkcR1ymZqwDgwjUremh5csmyop+NnMsFmq/WmCc54gf3SP3tgQcHy8kdQhQ8qk48ZR/zHvnISxdgLbPRKGZe07Axgira5kq7/5kTg4LEHedesYAMUVWPVUNBcqM0+fJpUf/jmvtvggY8t9x/gZrnC1Y+W6fb5Ytl57h8My/HX+oeF0MLWYjG+8=;lBY3GMapLtO5MEWbE2Okwg=="
 ---
 

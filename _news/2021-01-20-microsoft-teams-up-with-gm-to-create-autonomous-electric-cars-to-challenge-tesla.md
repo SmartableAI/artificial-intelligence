@@ -64,6 +64,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Microsoft Previews Azure IoT Edge for Linux on Windows"
+    excerpt: "Microsoft announced a preview of Azure IoT Edge for Linux on Windows, which lets organizations tap Linux virtual machine processes that also work with Windows- and Azure-based processes and services."
+    publishedDateTime: 2021-01-22T20:27:00Z
+    webUrl: "https://redmondmag.com/articles/2021/01/22/azure-iot-edge-for-linux-on-windows.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueSquaresFloatingBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
     excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
     publishedDateTime: 2021-01-19T13:00:00Z

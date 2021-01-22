@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Manufacturers are Turning a Page on Automation and AI Due to the Pandemic"
+    excerpt: "At the height of the pandemic, the world was facing a state of emergency, the manufacturing industry was in crisis, and the global supply chain was on the brink of destruction. With factories in danger of being shut down worldwide and social distancing mandates in place,"
+    publishedDateTime: 2021-01-22T19:17:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2021/how-manufacturers-turning-page-automation-and-ai"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 36
+    images:
+      - url: "https://www.automation.com/getmedia/9c594912-ad1a-4529-a6fc-6196c8560085/Max-feature-Jan-22-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "In a Bid to Capture New Growth, Telcos Turn to AI and Operations Automation in 5G Networks"
     excerpt: "G is a composition of several network layers that leverage technology with varied maturity levels, such as Open RAN, network slicing,"
     publishedDateTime: 2021-01-20T09:00:00Z

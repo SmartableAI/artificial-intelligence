@@ -4,7 +4,7 @@ title: "Springbox AI Bolsters Your Trades With Its Affordable Financial Insights
 excerpt: "Springbox AI's beta application, launching today on iOS and Android, is a financial insights tool backed by its founders’ decades of experience within the financial and banking markets, paired with de"
 publishedDateTime: 2021-01-21T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/curtissilver/2021/01/21/springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app/"
-webUrl: "https://play.google.com/store/apps/details?id=com.springbox"
+webUrl: "https://apps.apple.com/us/app/springbox-ai/id1533228624"
 type: article
 quality: 164
 heat: 174
@@ -22,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://play-lh.googleusercontent.com/240Afv-qIN7aSDUQQn5IomZ96ljulnbr_sBz9j5hkCAsUWM8UQ2aQbb75ya7Mj6mikY"
-    width: 512
-    height: 250
+  - url: "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/b3/cc/0e/b3cc0e11-cc56-8a01-65b5-7fb0acbfcd39/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/1200x630wa.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 234
         isCached: true
 
-secured: "HEP6jGyJbWUEUstqAuKgolmxWgXjrRi4wHFn6GbcdnFNcvXI3q4v+JIl359v/tt+xvQZxepfgmFmVGOA8zzPQvhCTwlKLyAJJXAC6JiJur5Nf/5jZi+XO52zMABAMxBQh42IQsfqLRbOSddkXadFSy1c3Qu6hxdVRXpMunYuaslXkDyK/uBxKnSpLerM2Y0qPY/r/BhzAqnti1RrUOQleCHgB4VqFO9g+notrePFv6e2sp1lVeIBA5wSayfX7VLE6x+up5QfmXkkuGWqk2qhoRUTrGZdc4Ux4K5vcnOulJ69iM9McEjZ+IyLgljezOFAFvI09dgWEHzoDRzw5APZYL4TaMT59YAviCmKcgjtyyQ=;VquyRsU3zrwjusB6/MypKg=="
+secured: "lcjdqcz066rP7S2WsajPc5C3PltrZtYA+c9gq+RLtQLa1/fVmT/H5DvNWKD5UZ4QDAnMhfpENQdzSw83fBHpy7+DX5iTRIKUtAzXYJ+mEXLPSnfntyELhjmtmq6nN6cSEBvzJiW/6rhA4hDLfnZ/OhLRJkFgDsccAGh/ObtMZpsPUtxGEgIjZecpNsUSwhMH3WayAP24/CXYkjwqDeFT6h/Lfm4voCb4FwRPTjuDcmeZJPdW+VIGRlJtXizDJPPkZWho4DNHMpJl+HqOfggvkBX7wB2fFwsy8KLrFdxCIulOtleptJs2+AUHXLURxmSwndpjeBs9zrAkt2y+X32Z0uaq4OciQ7GLa2/zorCrPdQ=;1HlAeBAr0Fouz7HPBWhoAg=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Google Meet Gets One Of Zoom’s Best Features: Live Otter.ai Transcription"
-excerpt: "Fed up of taking meeting notes? Otter.ai's new Google Meet plugin provides a full transcript of online meetings, saving you the hassle"
-publishedDateTime: 2021-01-21T14:00:00Z
+excerpt: "Otter.ai has released a plugin for Google Meet which allows participants ... “This is where the AI is in play, in real time, because when it hears more words it actually re-evaluates the ..."
+publishedDateTime: 2021-01-21T14:02:00Z
 originalUrl: "https://www.forbes.com/sites/barrycollins/2021/01/21/google-meet-gets-one-of-zooms-best-features-live-otterai-transcription/"
-webUrl: "https://www.forbes.com/sites/barrycollins/2021/01/21/google-meet-gets-one-of-zooms-best-features-live-otterai-transcription/"
+webUrl: "https://play.google.com/store/apps/details?id=com.springbox"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 166
+heat: 176
+published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,11 +22,27 @@ topics:
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600956cce84d61291ab6d507%2F0x0.jpg"
-    width: 938
-    height: 603
+  - url: "https://play-lh.googleusercontent.com/240Afv-qIN7aSDUQQn5IomZ96ljulnbr_sBz9j5hkCAsUWM8UQ2aQbb75ya7Mj6mikY"
+    width: 512
+    height: 250
     isCached: true
 
-secured: "iYJr1/MIy5J/R6WpiA6Qx+iYJOqw2k6v9KHSdrsjcdetnkpcB5llOfKYm2V0bNqOcmxOLxoPcUr9WjIQ4qySzw7sQBRiOmPuBTdXl+/51jPZC8VlZ9b3fD2XMb6X85FwMio7SxQWs6e+v7DOq1g2dcQnKTs4IolSzj8gaxbbmPaT2DS01IXrsTR6XIWThVy6wxEcw3Y0Gxxl1HKqQDZ6XvkmB8mc/gsI4QxGbOm0b8xkMIMFcQZhZA4knjuKg2zs7kMQQoadjMHfghXv3/RmxYBp/zWgiigTmdQR8onqiYX39Hl4Jq/osq/r9LQHLS8IZbVttXdIvUd0KKUZ7+mcLexGYAB6bFK6wUmiUxfFOViwkqOszIyU244TiYKKuRmQ2FMUH8OVV9BDxB7wef+0cIxtknJ/I6QG+XCmd3iRtwnNTfC8JgTbrTLcSenunWKa7S/Y6UOyZzuGzsPoVbjH+NsfvhaNiQdHe/y7ZS7gTmntYvH1qkq/MXN+GamxfEWs7UCB6knHk5gy96YeUbXpQw==;DljNgKsAKGxwEUCWor/WTQ=="
+related:
+  - title: "Otter.ai Launches Live Notes and Captions for 100 Million Daily Users of Google Meet"
+    excerpt: "Today Otter.ai announced the launch of Live Notes and Video Captions for Google Meet. The 100 million daily Google Meet meeting p"
+    publishedDateTime: 2021-01-21T14:18:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-search-technology-collaboration-software-communication-technology-virtual-meeting-technology-2f91aa9368414b769490301961d9e6f0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "znM5HS8ByxJ5kf9MUVqAcDmHIcaIy8SxsxNj8qHm2d+tho56YKi8BHzCXCmTSmo9/UWcrNXSKonw9DbZ5mRM9HHjd2fmMmCDSHzn0fooWZo6ZK9mSRC2OmgLraq+pDbYJv7+yzyF/d6PlHFA4lOS/NdZgdhxheIMuPxwqCr/J5tMAYV58H46kl/nAfOr48o3h/5+GiVaoSuJGcyECGBW9+iOm37AyPTQeWwTu8TTtgoslnEECuesfSTrFqqcdfYbsP9cHSYCRtZrpTe4FxtU9HAWAtevLhqIzJyJqQlrL53jvsNFzryCuKlFNkToH/wAAU1bIcHFHMO8SZTbCNHDvV4IDFTkf5dxPlyNFyQ1swM=;hMlrBm4g6KUQZF3vVxazxg=="
 ---
 
