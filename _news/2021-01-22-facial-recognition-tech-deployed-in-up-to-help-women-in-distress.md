@@ -98,6 +98,31 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Indian city plans facial recognition to spot ‘women in need’ | Technology News"
+    excerpt: "Indian city plans facial recognition to spot 'women in need' | Technology News A plan to monitor women's facial expressions with facial"
+    publishedDateTime: 2021-01-22T13:36:00Z
+    webUrl: "https://www.compsmag.com/news/technology/indian-city-plans-facial-recognition-to-spot-women-in-need-technology-news/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/indian-city-plans-facial-recognition-to-spot-women-in-need-technology-news/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/indian-city-plans-facial-recognition-to-spot-women-in-need-technology-news/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 35
+  - title: "Privacy concerns as Indian city to roll out facial recognition to spot harassed women"
+    excerpt: "India remains one of the most dangerous places in the world for women to live. According to government data, a rape occurs every 15 minutes"
+    publishedDateTime: 2021-01-22T13:38:00Z
+    webUrl: "https://www.independent.co.uk/news/world/asia/india-lucknow-facial-recognition-women-harassment-b1791133.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 32
+    images:
+      - url: "https://static.independent.co.uk/2021/01/22/09/GettyImages-1208499308.jpg"
+        width: 3607
+        height: 2404
+        isCached: true
   - title: "Privacy fears as Indian city uses facial recognition to spot harassed women"
     excerpt: "A plan to monitor women’s expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
     publishedDateTime: 2021-01-22T10:39:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-
 webUrl: "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Gizmochina
@@ -44,6 +44,22 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/6a0120a5580826970c0263e9898541200b.jpg"
         width: 914
         height: 495
+        isCached: true
+  - title: "Apple delaying launch of Face ID on Mac, says Bloomberg"
+    excerpt: "Bloomberg today has claimed that Apple has developed the underlying technology to bring Face ID to the Mac however, it is unlikely that we will see the facial recognition authentication system, which"
+    publishedDateTime: 2021-01-22T13:10:00Z
+    webUrl: "https://www.theapplepost.com/2021/01/22/apple-delaying-launch-of-face-id-on-mac-says-bloomberg/"
+    ampWebUrl: "https://www.theapplepost.com/2021/01/22/apple-delaying-launch-of-face-id-on-mac-says-bloomberg/amp/"
+    cdnAmpWebUrl: "https://www-theapplepost-com.cdn.ampproject.org/c/s/www.theapplepost.com/2021/01/22/apple-delaying-launch-of-face-id-on-mac-says-bloomberg/amp/"
+    type: article
+    provider:
+      name: theapplepost.com
+      domain: theapplepost.com
+    quality: 44
+    images:
+      - url: "https://www.theapplepost.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
 
 secured: "tjkdKgzs2YhIvqwSJBGv/3NyKAYRWgScHw3pSoecpNrD0JudFsF94E4JY7EdSyAXoGJ64i++t2Ezv1h/xuhLPl2SwwacLgnBobr2jeT8a1g5be8HZbvW/K2frK6ac0d98lv96l8eAr/MKHwJ5zg5h2rsmud1S2btpzJo+AhyVj5yEtkL5Day7yub5tkmogtbalGHLc7hsOsHqe/Dh+b1FvH2bMkyybXmlL9RfVQQpW9OpKeSsxjyI6vmi9B70sx6ms1D6rWOrZ6L5aH5keEHrzzYd3gm4lL39jhDSz1tmLM2i44pt3YJ4+AN7Y/FO/cGK9tgZ94UebcsqilM8iip+BjkhfmpiAE5udLxll25tTo=;JBOdCahdEBcipz6/KkrE4Q=="

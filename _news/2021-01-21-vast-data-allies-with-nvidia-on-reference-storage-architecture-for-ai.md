@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/John-JG-Chirapurath-theCUBE-on-Cloud-2021.jpg"
         width: 1565
         height: 880
+        isCached: true
+  - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA Designed to Significantly Increase Storage Performance for Large-Scale AI Workloads"
+    excerpt: "VAST Data, the storage company breaking decades-old tradeoffs, today announced a new reference architecture based on NVIDIA DGX™ A100 systems and VAST Data’s Universal Storage platform. This reference architecture is designed to significantly increase storage performance for AI use cases such as large-scale training of conversational AI models and petabyte-scale"
+    publishedDateTime: 2021-01-22T13:27:43Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/vast-data-unveils-joint-reference-architecture-with-nvidia-designed-to-significantly-increase-storage-performance-for-large-scale-ai-workloads/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 3
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "x557BOvRlchhiuHItMbZ8JShqUaGnung6J/yy32VIXmKfTYEWO/i9Noeey/vCg0Z3CnJTV+sxhR9XIwxBVc63D5BXfq09sueL/oCeaWuAkwzmJCkh5SJvzMpbpG1u+FRYb36PUWCz1t0LwLoW0j/nBXdQ+sYuTr6vTmWmIByuKS3dkz7UeDotMp90kLhkJ5ocUDNUdp+bhuAXOvchbYcvEjdL6rK/+8kEcZhwl5iMXqOIbDWkkxC88qHcbZMdrORH6FVwY/Oef4YQ3BK4TOcEJbW0Ss+qXy3TLAHBDD9ZMFWziSaE/x5sT62b7P6+SxfKHrRPl4miGcBy3vNd2tsAGikIQ0jNzNkrNwgizNB1jpST5YP4M7gMiXoVKF0LcgksDrKH9JKGJIfZGWeXEDrCcF8SHcafqb5wq2ze+HOYlbFk4lOCfjWYIwCHfG3++8UGapsRQps7jtc7w/bn2K5PsfYc6OKi4MahC5JET6rDkMK8J7Vg3DsdVHO2LIu4n8SUsZDWSMWxKexwlraf5QWHg==;pVIX8XVOYcEt7ge3YE9bVQ=="

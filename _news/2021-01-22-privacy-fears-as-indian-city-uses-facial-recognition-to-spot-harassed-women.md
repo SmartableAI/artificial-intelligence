@@ -106,6 +106,31 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Indian city plans facial recognition to spot ‘women in need’ | Technology News"
+    excerpt: "Indian city plans facial recognition to spot 'women in need' | Technology News A plan to monitor women's facial expressions with facial"
+    publishedDateTime: 2021-01-22T13:36:00Z
+    webUrl: "https://www.compsmag.com/news/technology/indian-city-plans-facial-recognition-to-spot-women-in-need-technology-news/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/indian-city-plans-facial-recognition-to-spot-women-in-need-technology-news/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/indian-city-plans-facial-recognition-to-spot-women-in-need-technology-news/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 35
+  - title: "Privacy concerns as Indian city to roll out facial recognition to spot harassed women"
+    excerpt: "India remains one of the most dangerous places in the world for women to live. According to government data, a rape occurs every 15 minutes"
+    publishedDateTime: 2021-01-22T13:38:00Z
+    webUrl: "https://www.independent.co.uk/news/world/asia/india-lucknow-facial-recognition-women-harassment-b1791133.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 32
+    images:
+      - url: "https://static.independent.co.uk/2021/01/22/09/GettyImages-1208499308.jpg"
+        width: 3607
+        height: 2404
+        isCached: true
 
 secured: "bnEgKy+1qmvJlvHc8m2L0z/Plc54Xkss8ln1XPW1b/HP0+iuhLK/esrXKh05qVHWVBC7niuOONkdRM7naitQuHv8YScNxyX7AfyUdBWlDYmqsfTTXh5fLC3SCHIyOho1jbXZCiNWvvjdJVZ9jz+4juq9NfEZ6STSb02GKaPhpb8hJUBOEVXJuHb+4PekhBHsYfkTXsHT7Abv8y+aO+j7N1fEUFsKRslFOBTPKNzATkuFdfNrY6pYzqb6CLNPzP5S58xQtVFJqBoLlAGOOPt2lnieScRi/LEuowtbGPOom/OXw06TVgLiXMFBtwWSC8NbgWzDm+StEKMxd8IXOimg3c2WvsS9ENuilmt2E81HZP4ZS+/Q7jUKclIYoytSWavuBJtcjtM++80q0l5a7Z02odpwBJeCDOl73kHLYK8nLCkMFY9KSmcuSfSgPhq9YQw0GGNCl4cV+CZUgkqPXTArNCmdOZh4z15htwZyYKwOXR4OJT1bAwfJmjwuGRHfwpuQHlayRB0t9hdDydKJ/NKuqQ==;P+wK5tlbg6A/OORJYCgzNg=="
 ---

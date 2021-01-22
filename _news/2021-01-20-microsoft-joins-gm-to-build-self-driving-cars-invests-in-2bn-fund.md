@@ -951,6 +951,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Cruise self-driving cars headed to Japan"
+    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
+    publishedDateTime: 2021-01-22T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
+        width: 1920
+        height: 1189
+        isCached: true
   - title: "Microsoft joins self-driving space with investment in GM's Cruise"
     excerpt: "Cruise and General Motors entered a long-term strategic relationship with Microsoft to accelerate the commercialisation of self-driving vehicles. As part of the partnership, Microsoft will join General Motors,"
     publishedDateTime: 2021-01-20T08:38:00Z

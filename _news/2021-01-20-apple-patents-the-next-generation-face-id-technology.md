@@ -41,6 +41,22 @@ related:
         width: 1053
         height: 729
         isCached: true
+  - title: "Apple delaying launch of Face ID on Mac, says Bloomberg"
+    excerpt: "Bloomberg today has claimed that Apple has developed the underlying technology to bring Face ID to the Mac however, it is unlikely that we will see the facial recognition authentication system, which"
+    publishedDateTime: 2021-01-22T13:10:00Z
+    webUrl: "https://www.theapplepost.com/2021/01/22/apple-delaying-launch-of-face-id-on-mac-says-bloomberg/"
+    ampWebUrl: "https://www.theapplepost.com/2021/01/22/apple-delaying-launch-of-face-id-on-mac-says-bloomberg/amp/"
+    cdnAmpWebUrl: "https://www-theapplepost-com.cdn.ampproject.org/c/s/www.theapplepost.com/2021/01/22/apple-delaying-launch-of-face-id-on-mac-says-bloomberg/amp/"
+    type: article
+    provider:
+      name: theapplepost.com
+      domain: theapplepost.com
+    quality: 44
+    images:
+      - url: "https://www.theapplepost.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
 
 secured: "i/cHaaKuqbqqzTdBA2emWGegsfSepw4t5ucxqzAMiFppGp4A9e7a6ryUFUEGNAJiz3M/5LyD3ADi/7aIz4DltovL+dshzwJ5GbxlDNx/AgViIPu51XSZnAz4Kk0H1QJS1pII5x82dF+VyJKW7khaqvopRIwENErGfFg8pigFJN10ckYHlg1eYgf6n/8K84zL/c7xdZw1/fhWMng3nOaeNnu9WRoY6VnqGBbqyFlUG/+NWsFL3Q4fz4Z+ZzeCA8bLxAmMdjFLNvUTEaLxyndvBC5q9n5hFqJzatJcsv99DbVULKsp8B1OF0VsdCb8qMT9rJvWY9DLksEJeXJD25hNXwP662p9CgcdcBpQD2GbXqs=;M4ufGtKdUUuMB8hF4Zrcsw=="
 ---

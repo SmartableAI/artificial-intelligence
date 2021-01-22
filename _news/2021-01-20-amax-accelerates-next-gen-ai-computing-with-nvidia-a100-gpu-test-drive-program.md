@@ -83,6 +83,20 @@ related:
         width: 1565
         height: 880
         isCached: true
+  - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA Designed to Significantly Increase Storage Performance for Large-Scale AI Workloads"
+    excerpt: "VAST Data, the storage company breaking decades-old tradeoffs, today announced a new reference architecture based on NVIDIA DGX™ A100 systems and VAST Data’s Universal Storage platform. This reference architecture is designed to significantly increase storage performance for AI use cases such as large-scale training of conversational AI models and petabyte-scale"
+    publishedDateTime: 2021-01-22T13:27:43Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/vast-data-unveils-joint-reference-architecture-with-nvidia-designed-to-significantly-increase-storage-performance-for-large-scale-ai-workloads/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 3
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "6qRbrvLLzymuf8KmJJQADdsY5aXrJ6ZFGioUyqnfceJIjT8qVXIRFnNq6nJUouIYf4MfKvXTDFLvD7v5vR+Z49fdwCMq3pBxTdE/0iYLufozNQfcnYEdoaO5maO9PwGxt3Jx8GLBKAYBZ7tCMrSnHNCEHaUIGryqAkYkNRz0sZrnV0T9mAAHygiLP7GTmVEE+XlttHFGNaniJeOXqC9hEHc9ndvn4Y2K1XN968Y/uZeEe0qzRW8k6jUvmNePJ27OT2f7WYk0Fvq7mCebA7DclOM3OKNUd60MKM1wYUtOMYj/bsxw3Wc7vXNupqcxkYPYVN7rdHgMbHO1VjXven/AbRa6CaZNsBonjWjdIKv8xcw=;sFmF53nBDQdB4KDhm+X23w=="
 ---

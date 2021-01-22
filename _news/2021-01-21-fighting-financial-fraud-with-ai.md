@@ -28,18 +28,16 @@ related:
   - title: "Springbox AI Bolsters Your Trades With Its Affordable Financial Insights App"
     excerpt: "Springbox AI's beta application, launching today on iOS and Android, is a financial insights tool backed by its founders’ decades of experience within the financial and banking markets, paired with de"
     publishedDateTime: 2021-01-21T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/curtissilver/2021/01/21/springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app/"
-    ampWebUrl: "https://www.forbes.com/sites/curtissilver/2021/01/21/springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2021/01/21/springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app/amp/"
+    webUrl: "https://play.google.com/store/apps/details?id=com.springbox"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 164
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60097ca2c7ec1dcfc2762360%2F0x0.jpg"
-        width: 1200
-        height: 480
+      - url: "https://play-lh.googleusercontent.com/240Afv-qIN7aSDUQQn5IomZ96ljulnbr_sBz9j5hkCAsUWM8UQ2aQbb75ya7Mj6mikY"
+        width: 512
+        height: 250
         isCached: true
 
 secured: "HHOlgTBXXLz7NcZ5SgmYRMnR7SUyC5WQ8Scy3MnILBmQz6ojraheNX8qCA7ewMpr/3qkfCoQeloqvMvDlUEn2UrJe+wgb8qg9GN+pl3Rq+xeU3yyQOXDnMs28GxK5sYnWcmg3Opzk4ULoIOHYGGRV70ZgqWRKF4AUlbODbFkXzkLNjfqCNrL5OSKyBi3qmO6ZTC6KuZGXCmZNSfOt3gzR8k1zHjsnB4l1PZp1AnsIFFQrLJ9Nsy9quyGQwYmpqOMOSJsmVLRAaBunQVsWU1xCJMD2kPaQK505Re0AoVWdNRWjftpg6N6HJSZ3wXwyui+C37J//TCfooBREX6JGf6+HDk+tQxwkylgeLN01nJpKdSnWK6qydKpHC3yu2Dd3/UUJKMU6ksEp8axgrnjowZBnge8dfzalEpFcaSttERL6vq/F9UnCbnPRUq+7x6+A0/Gu5HRxEJ4x5l+rhEItaMIYh5UUPDBTPW/3yhUhIV112TQqKpSX1w1KVPdnA9ZgUly9tcJMYbTYe8CmJ+07+8Zg==;yiV87jeWp5DHehkAGe3Bsg=="

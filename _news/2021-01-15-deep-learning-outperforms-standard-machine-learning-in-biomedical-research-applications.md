@@ -2,23 +2,25 @@
 category: news
 title: "Deep learning outperforms standard machine learning in biomedical research applications"
 excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in their architecture."
-publishedDateTime: 2021-01-14T20:43:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/01/210114130125.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/01/210114130125.htm"
+publishedDateTime: 2021-01-14T17:40:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "qUQv16+rSN046cQv5bMQ5PW3zirpESxmHKxQbg5smTRSFoxppuFM1OXEz2DW0nPDQad3nHoICNHyy2ryQHNJxwKFPpStZW3AUXNPwoVbj5l1/Pl7YFrvkPX1eS43l04FsjHnk5rfQhH8NPiFZsLJoG9tSmCxcNazwkF1SWsWyGYQsRlV5GY5EVla7/fi/LmUF1bAFHGfYvTbcbLERZrbijURiULfOOJ7HX3QQDON0OOn3hamiORs5uIhcOgav0nDAeI+XFbqanL0ZIKX1WYEPQn+7BxwBXVw7WSXCmZiK6uGGnuZdMezRQ0NJqKU7IqLH+eExDKfTghU9r/YVFUtaxdm17WkEaq+Qv7/SPMsNjk=;yxEJbeCsJG9AQspGRrH7WA=="
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "Pey6QzDVnyHC+N+4ps6/84DICNOhuVB7EcKXM1K1frrCAH9xkrbK2vZlz+05Xq0W77HNV3hqzGMkBrYELALOmAiu9b3H6mtoJgS8kqb6XV7TvHK6H+CnkMrSFzGLg3csPq7oUGHTKTm5UjZmwTf3p8Ie/hGvvGf1tJ+huWPgdre7K8CWjdXSGhH+3flxCO8PrZ8+L1EiNHFd1x+LMNK23IVdLRAjfNy0UMWZQjpRKJJ8e7uvbLkHO8FsRwaPUV0AQQDbU9X4ck7kM+fmti7xVB1b56PDkoqKI1KbPXx3f1LSdI9jgFiWY2FCXC+hWf7sckUYtN91q0A3wUdleTVZYRETfprxxNhXMkrgTL75cas=;IGqICHO9R1afFQqavmE6nw=="
 ---
 

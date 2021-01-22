@@ -39,6 +39,20 @@ related:
         width: 898
         height: 813
         isCached: true
+  - title: "Real Estate Fintech Firm Qualtik Lands New Client and Advisor"
+    excerpt: "Qualtik, a start-up developing software that helps community banks and investment funds analyze their commercial real estate loans in real time, has landed Keystone Bank's business ? and its founder as an"
+    publishedDateTime: 2021-01-22T14:51:00Z
+    webUrl: "https://www.lelezard.com/en/news-19612339.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "mSZEK/otchMLl98MB8PydnPrn2IWuPBvMKSHhzFEniM5AVT4pHZrLG8FlN29o+6rDHMq9ee8G8bhD/ZOkDK37waMd0w4/0qUc0L3FE2AH1b+ANUbjFF+zDLh3cMTs3rIT/RL3uvHionyvUi4YwgcuqKSl59XwSASbBIW3IbZ8MVq19Pgiwko+32gWtxqS91g2vKXAEK05t9SBYm0jdSqYM41F1GVXqn2o0ii4ow6HLyxiyvNpgN1pJhSeEgs4YYAv7t98NaZhACCKIDbX2eOwp6GjzC4v5I3nAnGadXRj2c9L0Ma4d6woCmj/Qj1Edvct86fAw5jBKbdzuxKV55VcWEemQ3l9Y8sYLZze1DVE68cQDYA2k1poZyTUqlven/83FpYm78XMt9borjxpybPki65/4S364wIDDbczBCDxe5nrJUN8bLZQnCFIabppUfnhqLYdUervIGcJ3CDo/BgYWldqcuiU/AUxl+ea7IZL/iTW0IUtZ82omAhl5CZyGCjGVKW543p304CFGWymvfucQ==;5LsOe7xN9Ory0r+COTpcJw=="
 ---
