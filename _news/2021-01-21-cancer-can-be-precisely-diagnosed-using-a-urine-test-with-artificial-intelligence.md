@@ -40,6 +40,20 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "AI can grade your skill at piano by watching you play"
+    excerpt: "An artificial intelligence that can grade the skill of a pianist with near-human accuracy could be used in online music tutoring"
+    publishedDateTime: 2021-01-22T10:42:00Z
+    webUrl: "https://www.newscientist.com/article/2265585-ai-can-grade-your-skill-at-piano-by-watching-you-play/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/01/21152556/21-jan_grading-piano.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "FOsA3YP6Dkj8ENnvX744/gi7mIvHedO3VuA5lMBMe8hdbq7RiS7ataML+UEWaVsw/m38iP5r9pDJDk1HTP4ciLtiQpKMMJuOGNh/0xhn3mzBN9WFqC0uznSn+jzZJairv9Z57Ks9G+Ih7Z2WNM/pgEVOyYtftK0s1msZhR2ugc8CEgok+BHuiETlYwj/Xj9iwgb2RVwXzjENuj+iTq5gQpKJpgN6+TsEv9nUyIkUZPPgPdNgJ0ayRUuLox45gcn+jbtrQ+dqSmO3d1eL6yIWZcYVe18UoZBbwVjUgphJ738f5Wzbuxpu/FceXappBMIRo94R70pj7LZEcAO7vcuA1NL+7QwPXaPXz+WLmt95nd7L+LBpz//vOapMQx6h1LbknJQRvvAYdrhs/6gymiFrrITIewetmAurJ2BwAu/kJkhNk3Nrca0s9i3SDT8YBq7iZzeN7mBcdml/hr4NQ5uERZ167AfzX8HtiWzYsgiIFeuIGCmDsm3IFZfl/J3Wq0UObu8mueUHaX0LGavP0YGDkQ==;ic80kb5AT/B1N53VPt39+A=="
 ---

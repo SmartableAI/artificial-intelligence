@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-22-ai-could-make-healthcare-fairerby-helping-us-believe-what-patients-tell-us.md",
+      "title": "AI could make healthcare fairer—by helping us believe what patients tell us",
+      "excerpt": "A new study shows how training deep-learning models on patient outcomes could help reveal gaps in existing medical knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/pain-scale.png?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/amp/",
+      "publishedDateTime": "2021-01-22T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-how-four-qdic-startups-are-driving-innovation-in-indias-industrial-robotics-and-automation-sector.md",
       "title": "How four QDIC startups are driving innovation in India's industrial robotics and automation sector",
       "excerpt": "Today, businesses are well-aware of the potential and impact of emerging technologies in industrial robotics and automation in improving process efficiencies and transforming business operations. While the initial high cost of infrastructure and complex operations have been key deterrents,",
@@ -105,7 +148,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -145,6 +188,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
+      "title": "AI Systems to get an Ethics Code: DoD",
+      "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
+      "originalUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -355,7 +441,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -744,6 +830,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-21-how-this-company-leveraged-ai-to-become-the-netflix-of-finland.md",
+      "title": "How this company leveraged AI to become the Netflix of Finland",
+      "excerpt": "Finnish public broadcaster Yle made impressive inroads in online streaming with its Areena service, which is more popular than Netflix.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2021/01/21/how-this-company-leveraged-ai-to-become-the-netflix-of-finland/",
+      "originalUrl": "https://thenextweb.com/artificial-intelligence/2021/01/21/how-this-company-leveraged-ai-to-become-the-netflix-of-finland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Screenshot-2021-01-21-at-15.29.36-796x469.png",
+          "width": 796,
+          "height": 469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings.md",
       "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings",
       "excerpt": "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
@@ -1074,156 +1212,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-metaethics-meta-intelligence-and-the-rise-of-ai.md",
-      "title": "Metaethics, Meta-Intelligence And The Rise Of AI",
-      "excerpt": "With every new major transformation at a societal level driven by technology, there will be new concerns and challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008510b4bf953e545c92756%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/amp/",
-      "publishedDateTime": "2021-01-21T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-this-chinese-lab-is-aiming-for-big-ai-breakthroughs.md",
-      "title": "This Chinese Lab Is Aiming for Big AI Breakthroughs",
-      "excerpt": "China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
-      "originalUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60089079a9a24f451b08fc1e/master/pass/Business-BAAI-Building.jpg",
-          "width": 2400,
-          "height": 1352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
-      "publishedDateTime": "2021-01-21T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-and-its-ethics-ai-team-row-what-we-know-so-far.md",
-      "title": "Google and its ethics AI team row: What we know so far",
-      "excerpt": "Google has drawn major criticism on the move of sudden investigation of Mitchell and suspension of her system access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
-      "originalUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/01/21/550x309/AFP_8Z94GT_1611227607102_1611227625827.jpg",
-          "width": 549,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
-      "publishedDateTime": "2021-01-21T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

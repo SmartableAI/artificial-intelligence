@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Eden Health selects nVoq to increase productivity by enabling home health caregivers with speech to text technology."
-excerpt: "PRNewswire/ -- nVoq, a leading provider of HIPAA compliant speech recognition solutions for post-acute care, is pleased to announce Eden Health has selected nVoq's innovative"
-publishedDateTime: 2021-01-19T16:48:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html"
+excerpt: "PRNewswire/ -- nVoq, a leading provider of HIPAA compliant speech recognition solutions for post-acute care, is pleased to announce Eden Health has selected nVoq’s innovative speech recognition technology platform for its mobile clinicians."
+publishedDateTime: 2021-01-19T18:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-boulder-corporate-news-north-america-0f48894cccddaca71e8dffefd3cb020d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-boulder-corporate-news-north-america-0f48894cccddaca71e8dffefd3cb020d"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/29/c2976269-6db7-5b99-882a-d63d5cc8eeec/600714215fe49.image.jpg?resize=400%2C400"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 314
         isCached: true
 
-secured: "yfccBiEapVHBpL9aP0s5JxUQdDt/uOGCxN14uz9eE6H6CGWsKr9KqAO2IzeieIsZ4umXwpBTELURuDmnMHS2aGYMW5P/uX69k+4Gtux+R/wX6Xu62rgX9DHimSOwQMOSw+WeSq2ZBk1LtyO1IALXg1y3cbu5H4MPiVzkZq4Fo/69p31hKBOis88O5MsDsJAY6K8FpX69ElsGtM7pDoYQF0mUpeCZgBGob4UY5WBYpkY8JH1K0pyEEqXzCM2Rhy7EVF5rIgVB5jRde9FRsutGj4qUUUDqFCxR8Yu4HyK11hFnT3Z0+TEeC4BNxpgeSzhzZrlsRDXEYfhjssd+rsKUsLE5OOzgYomxw1Mjn8zyzdCntejc5/evY4YTZ/J1sdP1k52YVxSFQzQ/ja+mw1ED0gmDfc0snqBffin621C4anMHNLinD2qBf9MtMcz1htwwvyWZJuGLVVEpr1ovVdwoEs+MUvf7Io2j/oCZX0Wmn6XQZz5eFiKdPt7p588IFpF+R75fjagcIOzSHd7+ZumxfA==;r3AvaWnE2D8//FdxoZJ3Jg=="
+secured: "1n/AW+Osu8UyRGI4kRY+2Djzk30Htu8S55KuDQWOEPg/jxMtBdYQBJNriYTxJ18AZ2rqI+frzgSf5AIj/DItAJFAyqHaYx9RFIlkHH+IITPwpMAmt0ZxDPVTjo5+GeHxtFE7lo2TGuqYfuwQpwROM2dUev5tIQzdoel9PFUEeaOnDs8wX80MPtmcTEfsXc58kHjlq4IveBa65GpSgPJJ0SUEJcDjZjB45y5qpozrW3QMAZ2WSRhc2H3IwybiiAPMXAp7rwVWKtQyStQ+s0zrtdNBb8jxz+wB93cNbN0wPjkaV3RAifiOV/YNScNhVV3lT+gHc3/VWcDkxId2tipFq2Ypv4eu+Yn4/2gHbgj3dhA=;WOKEohIZXxJUZ/tyqDs9VA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
 type: article
 quality: 69
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market 2021 Share, Size, Production, Sales, Supply, Demand, Analysis and Forecast to 2026"
+    excerpt: "Jan (The Expresswire) -- Global “Artificial Intelligence Market” research report contains in depth information of industry by size,"
+    publishedDateTime: 2021-01-21T03:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-share-size-production-sales-supply-demand-analysis-and-forecast-to-2026-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-hav
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI can grade your skill at piano by watching you play"
+    excerpt: "An artificial intelligence that can grade the skill of a pianist with near-human accuracy could be used in online music tutoring"
+    publishedDateTime: 2021-01-22T10:42:00Z
+    webUrl: "https://www.newscientist.com/article/2265585-ai-can-grade-your-skill-at-piano-by-watching-you-play/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/01/21152556/21-jan_grading-piano.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cancer can be precisely diagnosed using a urine test with artificial intelligence"
     excerpt: "The Korea Institute of Science and Technology(KIST) announced that the collaborative research team led by Dr. Kwan Hyi Lee from the Biomaterials Research Center and Professor In Gab Jeong from Asan Medical Center developed a technique for diagnosing prostate cancer from urine within only twenty minutes with almost 100% accuracy."
     publishedDateTime: 2021-01-21T05:03:00Z

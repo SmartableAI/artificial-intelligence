@@ -2,6 +2,255 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
+      "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
+      "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
+      "originalUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture.md",
+      "title": "CloudCommerce Goes Live with Artificial Intelligence (AI) Advertising Venture",
+      "excerpt": "( CLWD ), a leading provider of digital advertising solutions, today announced that it has officially launched aiAdvertising, Inc., its wholly owned subsidiary focused on using artificial intelligence (AI) to enhance its successful SWARM solution with the goal of cutting advertising costs by as much as 50%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture-2021-01-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture-2021-01-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T19:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-ghd-to-expand-software-robotics-and-ai-practice.md",
+      "title": "GHD to expand software robotics and AI practice",
+      "excerpt": "Engineering firm GHD says it will hire at least 20 automation and artificial intelligence professionals across Australia over the next 12 months. Sukalp Sharma, digital experience practice director for the southern hemisphere at GHD Digital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867",
+      "originalUrl": "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fCRN_690_Architecture+and+construction.jpg&w=480&c=0&s=1",
+          "width": 480,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T17:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025.md",
+      "title": "Global Edge Artificial Intelligence (AI) Chip Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2025",
+      "excerpt": "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T17:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-ai-and-creativity-why-openais-latest-model-is-a-big-deal.md",
+      "title": "AI And Creativity: Why OpenAI’s Latest Model Is A Big Deal",
+      "excerpt": "OpenAI—the research organization behind last summer’s much-hyped language model GPT-3—released a new AI model named DALL-E. While it has generated less buzz than GPT-3 did, DALL-E has even more profound implications for the future of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005ff901c6ca277f62e83f1%2F0x0.jpg",
+          "width": 730,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/amp/",
+      "publishedDateTime": "2021-01-18T17:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-researchers-develop-ai-framework-that-predicts-object-motion-from-image-and-tactile-data.md",
       "title": "Researchers develop AI framework that predicts object motion from image and tactile data",
       "excerpt": "Recent AI research has pointed out the synergies between touch and vision. One enables the measurement of 3D surface and inertial properties while the other provides a holistic view of objects’ projected appearance.",
@@ -61,7 +310,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -962,258 +1211,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-startups-look-beyond-lidar-for-autonomous-vehicle-perception.md",
-      "title": "Startups look beyond lidar for autonomous vehicle perception",
-      "excerpt": "Last CES was a time of reckoning for lidar companies, many of which were cratering due to a lack of demand from a (still) non-existent autonomous vehicle industry. The few that excelled did so by specializing,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
-      "originalUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/foresight-place.gif",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
-      "publishedDateTime": "2021-01-16T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices.md",
-      "title": "Vdoo raises $25M more to develop its AI-based security for IoT and connected devices",
-      "excerpt": "Today, Israeli startup Vdoo — which has been developing AI-based services to detect and fix those kinds of vulnerabilities in IoT devices — is announcing $25 million in funding, money that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
-      "originalUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/02/getty-satellite-globe-data.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/vdoo-raises-25m-more-to-develop-its-ai-based-security-for-iot-and-connected-devices/amp/",
-      "publishedDateTime": "2021-01-16T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems.md",
-      "title": "Researchers propose using the game Overcooked to benchmark collaborative AI systems",
-      "excerpt": "Researchers propose using the video game Overcooked as a robustness test for collaborative AI and machine learning systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/",
-      "originalUrl": "https://venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Overcooked-2-05.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/researchers-propose-using-the-game-overcooked-to-benchmark-collaborative-ai-systems/amp/",
-      "publishedDateTime": "2021-01-15T17:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-906-in-december.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Up 90.6% in December",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant growth in short interest in the month of December. As of December 31st, there was short interest totalling 6,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html/amp",
-      "publishedDateTime": "2021-01-15T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-aws-goes-big-with-contact-center-intelligence.md",
-      "title": "AWS Goes Big with Contact Center Intelligence",
-      "excerpt": "Artificial intelligence is redefining contact centers and AWS is taking a leading position. We are two weeks into 2021, and Amazon Web Services has wasted no time in making a splash in the contact center industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
-      "originalUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T16:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

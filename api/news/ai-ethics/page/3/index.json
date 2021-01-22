@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-10-the-dark-side-of-big-techs-funding-for-ai-research.md",
+      "title": "The Dark Side of Big Tech’s Funding for AI Research",
+      "excerpt": "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/",
+      "originalUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp",
+      "publishedDateTime": "2020-12-10T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-its-just-research-isnt-good-enough-in-ai-ethics-p.md",
       "title": "\"It's just research\" isn't good enough in AI Ethics -p",
       "excerpt": "There was a little bit of noise around some papers being rejected on ethical grounds at the NeurIPS 2020 Conference. The responses fell into two camps: It's just research and AI has implications, ethics matter I'd firmly put myself in the latter camp,",
@@ -1434,58 +1486,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-the-7-most-promising-government-led-ai-solutions.md",
-      "title": "The 7 Most Promising Government Led AI Solutions",
-      "excerpt": "From the US to Canada, and Denmark to Estonia, massive governmental initiatives are being mobilized to boost AI solutions across sectors. The efforts that nations put forth now on the digital front will define our globe's leaders and laggards in digitalization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb925cd4ff701e40d46dd8f%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/amp/",
-      "publishedDateTime": "2020-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

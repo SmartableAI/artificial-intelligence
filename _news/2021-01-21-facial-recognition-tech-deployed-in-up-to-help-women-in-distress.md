@@ -46,7 +46,7 @@ related:
   - title: "Privacy fears as Indian city readies facial recognition to spot harassed women"
     excerpt: "A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
     publishedDateTime: 2021-01-22T08:54:00Z
-    webUrl: "https://www.reuters.com/article/india-tech-women-idUSL8N2JW5J3"
+    webUrl: "https://www.reuters.com/article/india-tech-women/privacy-fears-as-indian-city-readies-facial-recognition-to-spot-harassed-women-idUSL8N2JW5J3"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0X5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0X5"
     type: article
@@ -54,6 +54,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 65
+  - title: "Hashtag Trending – Bizarre facial recognition proposal in India; White House calls for coders; Ajit Pai’s final report"
+    excerpt: "A proposal to install facial recognition cameras in an Indian city draws backlash, a stealthy call for coders has been found on"
+    publishedDateTime: 2021-01-22T10:18:00Z
+    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008"
+    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 50
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Facial recognition tech deployed in UP to help women in distress"
     excerpt: "Facial recognition tech deployed in UP to help women in distress - The Lucknow police are deploying facial recognition technology backed by security cameras that will"
     publishedDateTime: 2021-01-22T04:12:00Z
@@ -82,6 +98,15 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Privacy fears as Indian city uses facial recognition to spot harassed women"
+    excerpt: "A plan to monitor women’s expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
+    publishedDateTime: 2021-01-22T10:39:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2021/01/22/privacy-fears-as-indian-city-uses-facial-recognition-to-spot-harassed-women/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 17
 
 secured: "nbZcpJrfY/0XPSjZotttHT3Y1iL6AbeDDg9ngmk8DQLarX8wvBv6FsE6sNbfBwkAlN31/fIr5DjTadZvQyDtNHEGBfEhHhkrLJxFrk6FkINRKSgfMgwMGDVJDNHVGAmkO7BEuZ4PYrVQPAGswku2DREqwYNiBUYnbVE3KhlMl8d4Za6SzP0DHVnewqMbckVDM6bCEbT6EFpJs3mUr+hmxAtE0wVRLopsMeIcupMlNssm8vFvReeM/S+nrFv/DgyvMgnpaiEATB8ey/e+de55pGLxvYJVY/37HFkGtiDeYBUd85d/PnMGOaOcB91Nlv/hKl9Ysa9N+kkLuuk3g6YFNFZt0VjOKl/iyPcPYwIqcbg=;07oP4sC4Qiy6idDjS1BMxw=="
 ---

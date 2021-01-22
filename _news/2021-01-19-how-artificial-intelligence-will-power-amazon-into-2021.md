@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/how-artificial-intellig
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -39,22 +39,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/08/server_virtualization_digital_data_center_cables_by_matejmo_gettyimages-879865932_1200x800-100768150-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "6 developments that will define AI governance in 2021"
-    excerpt: "This year is poised to be a highly impactful period for the governance of artificial intelligence (AI). The Trump administration successfully pushed for hundreds of millions of dollars in AI research funding,"
-    publishedDateTime: 2021-01-21T19:00:00Z
-    webUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/"
-    ampWebUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
-    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 59
-    images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2017/04/rtx32l58-e1611244906453.jpg"
-        width: 4092
-        height: 2680
         isCached: true
   - title: "Hidden Costs In Faster, Low-Power AI Systems"
     excerpt: "Tradeoffs in AI/ML designs can affect everything from aging to reliability, but not always in predictable ways."

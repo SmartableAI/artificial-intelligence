@@ -39,6 +39,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "AI Systems to get an Ethics Code: U.S. DoD"
+    excerpt: "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a U.S. DoD official said."
+    publishedDateTime: 2021-01-22T09:56:00Z
+    webUrl: "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__U_S__DoD"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 54
+    images:
+      - url: "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "mLvEFJctYyCh+xgKUeVunRl/1usJlbFE8lN+zhMxTJaS8CEY74Zeqv32TpnTXd7G4XTLm+zbk1MOBDDz75omCINpzA4DZUx4BRtfQtKMkeLNBESyhLWqBf4wkfIbij+0v5NwxTfvNE3/qrnsB62qR/SR/sOWnPCS3tNhD7o3i8L4nZl67hGye/rXaze/ObDoD/0E+v1AOxIbMijcFtZIKEr3IE+I5mTLtYZ+3+T83TyfNgL47Y9Y03BjxDqnHgCw7TBsqjSbEl6YuEGXtTlNepPL7Rkb60J4puRh8eOJvOilYHb2YxaJINNcbbf2Eut2pSRNjvWeFAUQg5jboT/7yoMC4SG/wXYDnHU3M/YisTU=;KQ5N5zq2SF0sl4PLAcjLFA=="
 ---

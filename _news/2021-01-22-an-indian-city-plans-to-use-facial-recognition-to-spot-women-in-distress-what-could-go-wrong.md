@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/amp/"
 type: article
 quality: 77
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -34,7 +34,7 @@ related:
   - title: "Privacy fears as Indian city readies facial recognition to spot harassed women"
     excerpt: "A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
     publishedDateTime: 2021-01-22T08:54:00Z
-    webUrl: "https://www.reuters.com/article/india-tech-women-idUSL8N2JW5J3"
+    webUrl: "https://www.reuters.com/article/india-tech-women/privacy-fears-as-indian-city-readies-facial-recognition-to-spot-harassed-women-idUSL8N2JW5J3"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0X5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0X5"
     type: article
@@ -57,6 +57,22 @@ related:
       - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
         width: 1080
         height: 582
+        isCached: true
+  - title: "Hashtag Trending – Bizarre facial recognition proposal in India; White House calls for coders; Ajit Pai’s final report"
+    excerpt: "A proposal to install facial recognition cameras in an Indian city draws backlash, a stealthy call for coders has been found on"
+    publishedDateTime: 2021-01-22T10:18:00Z
+    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008"
+    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 50
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
   - title: "Facial recognition tech deployed in UP to help women in distress"
     excerpt: "Facial recognition tech deployed in UP to help women in distress - The Lucknow police are deploying facial recognition technology backed by security cameras that will"
@@ -86,7 +102,16 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Privacy fears as Indian city uses facial recognition to spot harassed women"
+    excerpt: "A plan to monitor women’s expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
+    publishedDateTime: 2021-01-22T10:39:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2021/01/22/privacy-fears-as-indian-city-uses-facial-recognition-to-spot-harassed-women/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 17
 
-secured: "A2ZuppDyzx62oMWgwq/5DDFF6Ioouh26B6jtihZm+y9zb2GLrnT9lseh425aFCr5iJFmpNhrDhdijF6xoA/II/Y5t8Lt0PHFSARFc1SkAl1xgrAsmDZulG1PEMJgtp5qxMWwxApXfK5ZABeGoipJWpVuAHvWR3dYRuRoktlrK8ZnUOdufsTiOCyKiSI2bijpCo8zVIarK8O7ARUYaf6cfrd3+UQWYqVrreZcIOIF5GJuNYMwpBPRqZ3NULNDM5Q9mP8rWWiVJoTP7zms0g0Grgn8Mc2ixURKVmpEbW6HTVFahwCpPn8tji0dOJ9+4F/YotB52ZO30bmoXIz1JmH6jlVbsPj4MpjlBLE4Sc0tfHk=;b1jTjTt97pSXG7EiBZdmMQ=="
+secured: "OGFXsiNJFaZMMZQHHCAVt3udg29W1KjdKZTYli9Agq3iGuqJF4mc7bOD/RlwE30fYUCwhAUkx5+3kYfvKiHBiNy353baUVgDkjR2L77/uLUD0QxDfhPZL3S+jol3KoSj20I3JaqGdtI2881QC4troKZSV+HOGASVY1PsgxMW+omXNveX2UgkT6G8EYm1zhpU7m6tm1Wx+xOc+NxSDcLcRvIxx8hHczzX/Bom+rPbEGKgsjTqBo16ZiEw4tTA+LvPav8grVD1dYI1OaPm0/wPWrTHbxveY+w1yFlLtC/gUO9JMTMHwl/LWl9mZHD1h8mltyooUY9dmCBgEM/7xiFSJ9KiQr7DsG/hCZ5H7QhY62lc47DW90LhnAxuUpO3X2oAzwgwoWVZxXkGPkNwmyYhpJIES46scr4G3eGBNZXF+bL3UJ//NcG5V7LPdcUmo716TNqbhqioPt6ManpWN7g1+aYuAV5ZDgx5PBMwj/OiYRvMwc4yM0S0TgMzqm1p+SGLmEc0+H8Xs4QeaAYIyK7UiQ==;XEk+fknkoKJ9MPeILnIg3w=="
 ---
 

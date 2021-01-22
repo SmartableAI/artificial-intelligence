@@ -3,8 +3,8 @@ category: news
 title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
 excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
 publishedDateTime: 2021-01-20T13:11:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
 type: article
 quality: 54
 heat: -1
@@ -979,6 +979,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "/hwGqBCeBalMesAg1U9rCm0YzKsQ1VfTjJDKku8sP8V9bJI5NgcJa8kve92eyRya6Qz5ro3kFY0NwW2Kvte9/TD5Hae1MKIMNA7xl510IPbKeeaFqX6uUEIhPlwuVVSCCIZkswGgMR5U2CXq8fGHuuMmyddtK414KKhlv50o5/ootcw39Q/69az1RNcew17Gyb/oicDuZ1O72j9EKigShplRCpZLJNURwKCjCFGs0ngAcsLoJKRXTW1GiQ2beDs4V0e1uexfM0jcqu2zXNfRxkhcFbUgT/bLm9W744NKZ9WDgmdfYy7KAE/vFNMysoC8FTu98HZXhu3QXPUIREh7Co+cBh0u1CklttDcxb1VSEw=;uvNJu7t+81t1AiIQnDU4dQ=="
+secured: "i1rkZjPNidnpG8MgTkoe8XBZW45x+EOzaHZskYklQAUd/+sKAK0A9dfuUogoLvjaTTuAF0710G7d9KzWoGD3oHt8qXk+CtZCkyTws5nKYmS/BE2mYdRtI1Z0/ifNopK+bK2qvt0DG8bsRVBeSS/YXPvah+gj5dehZ+f2o5v7kG+BiLCxabxkPkROf/Js6L1dV6Gv8PdgPGUr/GzhRtNF4hxVihTc0js4C2PcbOgmDeYBYHb+MfUad/2y2m8B7wTz1asbNvOGwTXSSorb0KQWb2VyaLDU+6SKe1RcfCM4aErERfYnG44yqyLO2rKl16NOJjMWkZqs/0l/QKOCFu4b5RHzdi5RTS0LxH01aS64hTk=;F27wODHxGC+kibiHM4EgWg=="
 ---
 

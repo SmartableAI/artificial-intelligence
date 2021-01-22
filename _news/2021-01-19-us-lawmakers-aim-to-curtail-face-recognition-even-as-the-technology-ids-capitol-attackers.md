@@ -3,8 +3,8 @@ category: news
 title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
 excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
 publishedDateTime: 2021-01-19T04:55:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L"
-webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L"
+originalUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
+webUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
 type: article
 quality: 74
 heat: 144
@@ -127,6 +127,6 @@ related:
       domain: insurancejournal.com
     quality: 2
 
-secured: "aUcYjiqXBeLEx3Xv+iluGZaKlGdSBzPpOWmKHMYzLRWlznL7VHmhc7t9kP4sA2V0z4yGmLQUdVMuDUUgYFqCwTYdku1i1ulIMoBiLL0jx+FzLXX7PJRhcV/YbmkDN3DRN/V/5xnt+32vlSPMZa84EbRsXEunqvXV1BkLqzDSfQTYD9atcqk2GKqRlVN/G0qkkuBCCj9s0WHTlPQcD95z+hwX0oOZfzCDuhQL9VVkDpcTC2QHzv2Vp2DL9RCwy6cx6zqekBhBybm4rh6CTinPcqdTwNPtph5Nj11iXQZAhS1XXeTinwVwEAKVn/VfI6Kqz/SBMcqDhlWAjl91pnBlviSm3d0gDK0rclXugrn4jtvzCTlg70rUw5EyhZOajklfIYOXfN4N+fBXLa7lV+5TcX2QihM11XRdhk4/TLYFVAKOzuEQ2ye17wDDWpNU5PCmqQeVidu6ttUgTZA04+oO44ZA+SrSXUJ2+KPl/kXgvsW35W9OPnECuz9lpOc6N4SBbjr0aPJhZJuoe5NkjdKSBg==;ELM0/XVRxudFO8R7vEQwJw=="
+secured: "A/RrDVfIU1vcIdK4EctlSZtmk5X2XnoKwsYBZE8nbEkzCXGpzkn8Wa9sl+ieNsPCHFawOl+tIkTSTATd6JfTRWn4vDMTK7ndlmdgGtUl8wGfW0X9tQU3PhMP3qGp+O/tWGJTeIb+owxtERDQRHa+kLMHr0t5+lbDoJxvRg6b8c4k3A+wZpws1564Onm2tLc2TAk2JlaR9TNt1jij2Pzqly49sFpm1WDVmgmEG9rM3VTNZojlok21yZ0kd3Jrap3HW0mi+qJX/7fAmq1cutE9fy1AzR7ltLea558OQA4b1s/N8R63MR+GzzCZEk2JZPg7Xy9f9ZC+S23nEg/kdpkDpCxclQMi5uPAvP94OXxEDnk=;OeWgCDyXrQESAP6fuMHvZQ=="
 ---
 

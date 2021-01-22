@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2021 Share, Size, Production, Sales, Supply, Demand, Analysis and Forecast to 2026"
+    excerpt: "Jan (The Expresswire) -- Global “Artificial Intelligence Market” research report contains in depth information of industry by size,"
+    publishedDateTime: 2021-01-21T03:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-share-size-production-sales-supply-demand-analysis-and-forecast-to-2026-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cleaning Robot Market Covid-19 Impact Challenges, Key Vendors, Drivers, Trends and Forecast"
     excerpt: "Top Boosters and Key Deterrents . Since the COVID-19 outbreak and the rapid spread of the pandemic, cleanliness has become a major focus worldwide. The adoption of cleaning robots"
     publishedDateTime: 2021-01-20T13:29:00Z

@@ -621,7 +621,7 @@ related:
   - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
     excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
     publishedDateTime: 2021-01-20T13:11:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
     type: article
     provider:
       name: Associated Press

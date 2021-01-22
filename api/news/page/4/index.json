@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-19-14-tech-products-from-ces-2021-i-cant-wait-to-buy.md",
+      "title": "14 Tech Products From CES 2021 I Can’t Wait To Buy",
+      "excerpt": "Here is a roundup of our 14 favorite gadgets from CES. Most of these things are close to shipping to retail, though a few are a little less complete and might not hit store shelves this year. Either way,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006f9b57ef354a6bce2696a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D866%26cropY1%3D0%26cropY2%3D577",
+          "width": 866,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/amp/",
+      "publishedDateTime": "2021-01-19T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points.md",
+      "title": "New AI software can turn regular security cameras into COVID-19 policy enforcement points",
+      "excerpt": "Now being trialed in Georgia smart city Peachtree Corners, the new tech can pick up on people standing too close together and detect whether someone is wearing a mask.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
+      "originalUrl": "https://www.techrepublic.com/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2021/01/19/12766cad-5fe2-4717-866a-3d4f71c1188f/resize/1200x/307de8fa378f1f07ce153f8772dff636/covid-compliance-cameras.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/",
+      "publishedDateTime": "2021-01-19T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future.md",
+      "title": "Can AI Scouting Tech Identify The Premier League Talents Of The Future?",
+      "excerpt": "Burnley FC will hold an open trial for anyone around the world, with video recognition algorithms determining whether they can make the grade",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006f4f9649f35fb713681db%2F0x0.jpg",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/01/19/can-ai-scouting-tech-identify-the-premier-league-talents-of-the-future/amp/",
+      "publishedDateTime": "2021-01-19T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-how-ai-is-being-used-in-the-legal-industry.md",
       "title": "How AI Is Being Used In The Legal Industry",
       "excerpt": "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery.",
@@ -10,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -352,6 +507,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-where-ai-is-heading-in-2021-for-hr-departments.md",
+      "title": "Where AI Is Heading In 2021 For HR Departments",
+      "excerpt": "Artificial intelligence is set to become one of the best ways to connect HR with an entire organization and understand each department’s needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/",
+      "publishedDateTime": "2021-01-19T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -926,6 +1132,57 @@
       ]
     },
     {
+      "path": "_news/2021-01-19-providing-voice-ai-solutions-addressing-language-barrier.md",
+      "title": "Providing Voice AI Solutions & Addressing Language Barrier",
+      "excerpt": "Vernacular.ai has recently raised $5.1 million in its Series A round from Kalaari Capital and Exfinity Ventures",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/363655",
+      "originalUrl": "https://www.entrepreneur.com/article/363655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611047508-SourabhGupta-Co-founderandCEOVernacularai.JPG",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-prosus-bets-on-ai-to-help-reshape-indias-350-billion-farm-industry.md",
       "title": "Prosus Bets on AI to Help Reshape India’s $350 Billion Farm Industry",
       "excerpt": "Prosus NV is investing in agritech company DeHaat in a bet on India’s $350 billion farming industry. The Dutch e-commerce group with assets all round the globe led a Series C funding round of $30 million that DeHaat will use to hire more staff,",
@@ -958,255 +1215,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
-      "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
-      "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSKBN29N23L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T20:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture.md",
-      "title": "CloudCommerce Goes Live with Artificial Intelligence (AI) Advertising Venture",
-      "excerpt": "( CLWD ), a leading provider of digital advertising solutions, today announced that it has officially launched aiAdvertising, Inc., its wholly owned subsidiary focused on using artificial intelligence (AI) to enhance its successful SWARM solution with the goal of cutting advertising costs by as much as 50%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture-2021-01-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture-2021-01-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T19:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-ghd-to-expand-software-robotics-and-ai-practice.md",
-      "title": "GHD to expand software robotics and AI practice",
-      "excerpt": "Engineering firm GHD says it will hire at least 20 automation and artificial intelligence professionals across Australia over the next 12 months. Sukalp Sharma, digital experience practice director for the southern hemisphere at GHD Digital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867",
-      "originalUrl": "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fCRN_690_Architecture+and+construction.jpg&w=480&c=0&s=1",
-          "width": 480,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025.md",
-      "title": "Global Edge Artificial Intelligence (AI) Chip Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2025",
-      "excerpt": "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-ai-and-creativity-why-openais-latest-model-is-a-big-deal.md",
-      "title": "AI And Creativity: Why OpenAI’s Latest Model Is A Big Deal",
-      "excerpt": "OpenAI—the research organization behind last summer’s much-hyped language model GPT-3—released a new AI model named DALL-E. While it has generated less buzz than GPT-3 did, DALL-E has even more profound implications for the future of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005ff901c6ca277f62e83f1%2F0x0.jpg",
-          "width": 730,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/01/18/ai-and-creativity-why-openais-latest-model-is-a-big-deal/amp/",
-      "publishedDateTime": "2021-01-18T17:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
