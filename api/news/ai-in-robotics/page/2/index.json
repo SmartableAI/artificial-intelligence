@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-12-ubtech-showcases-new-uv-c-robots-at-ces-2021.md",
+      "title": "UBTECH Showcases New UV-C Robots at CES 2021",
+      "excerpt": "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210111005230/en/UBTECH-Showcases-New-UV-C-Robots-at-CES-2021",
+      "originalUrl": "https://www.businesswire.com/news/home/20210111005230/en/UBTECH-Showcases-New-UV-C-Robots-at-CES-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-samsung-unveils-trio-of-new-robots-to-help-out-around-the-house.md",
       "title": "Samsung unveils trio of new robots to help out around the house",
       "excerpt": "Samsung has unveiled a range of new robots designed to help out around the home – capable of filling the dishwasher and even pouring owners a glass of wine.",
@@ -1298,49 +1332,6 @@
       "provider": {
         "name": "Daily Camera",
         "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-of-animal-bondage-andre-nortons-iron-cage.md",
-      "title": "Of Animal Bondage: Andre Norton’s Iron Cage",
-      "excerpt": "She and her husband were colonists on a newly discovered world, and were captured and taken offworld to serve as mind-controlled slaves. But Rutee and Bron could not be controlled, and their young ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tor.com/2021/01/04/of-animal-bondage-andre-nortons-iron-cage/",
-      "originalUrl": "https://www.tor.com/2021/01/04/of-animal-bondage-andre-nortons-iron-cage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.tor.com/wp-content/uploads/2020/12/Iron-Cage-Norton.jpg?fit=300%2C+9999&crop=0%2C0%2C100%2C496px&quality=100&ssl=1",
-          "width": 300,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tor.com",
-        "domain": "tor.com",
         "images": null,
         "publishers": null,
         "authors": null

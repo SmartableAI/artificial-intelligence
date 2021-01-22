@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Social Assistance Market Employs Big Data Analytics To Gather Insights For Social Services"
+    excerpt: "The Business Research Company’s Social Assistance Global Market Report 2021: COVID-19 Impact and Recovery to 2030"
+    publishedDateTime: 2021-01-19T23:58:00Z
+    webUrl: "https://www.wboc.com/story/43194685/social-assistance-market-employs-big-data-analytics-to-gather-insights-for-social-services"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 14
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20266660_G.png?lastEditedDate=1611038615000"
+        width: 900
+        height: 455
+        isCached: true
   - title: "Voice Soars as Primary Interaction Modality of Choice In-Vehicle, Finds Strategy Analytics"
     excerpt: "Based to Offer Best UX Strategy Analytics - Automakers of all types have largely aligned on touchscreen and voice control as the"
     publishedDateTime: 2021-01-19T18:24:00Z

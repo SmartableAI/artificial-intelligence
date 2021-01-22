@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-excerpt: "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,"
-publishedDateTime: 2021-01-20T14:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
+excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
+publishedDateTime: 2021-01-20T14:33:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
 type: article
-quality: 30
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Supermicro Unveils NVIDIA GPU Server Remote Test Drive Program"
@@ -64,6 +64,20 @@ related:
       name: TASS
       domain: tass.com
     quality: 39
+  - title: "Altron partners GPU designer NVIDIA"
+    excerpt: "Altron Systems Integration, a subsidiary of JSE-listed Altron, has joined the NVIDIA Partner Network (NPN), becoming the first compute DGX partner and solutions provider in SA. NVIDIA DGX is a line of NVIDIA-produced servers and workstations which specialise in using general-purpose computing on graphics processing units (GPU) to accelerate deep learning applications."
+    publishedDateTime: 2021-01-22T08:50:00Z
+    webUrl: "https://www.itweb.co.za/content/G98YdMLYgKrqX2PD"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
+    images:
+      - url: "https://lh3.googleusercontent.com/thTnWvnhobgR11ST-FlgUfA4lKVXQevOL1btkxlfTmplnb7QAXfWzZ8NSlyJBxzjisR9pNBifWk1Ib-fz1uCFiE=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
     excerpt: "With Colfax's expertise in the HPC and AI space, we'll be able to help users select the best GPU solution for their organization.\" \"Exxact Corporation is excited to be collaborating with ..."
     publishedDateTime: 2021-01-21T18:44:00Z
@@ -74,6 +88,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "TXQGPHyqqRqNW8cxpDEKoBf/ivWL5MlG2b27sBXZVz1KE0Aze1Qg5ybCAymR8zRlpJsfRuAjOxKbauMT/TvhgDE0kIO1Ps/kHcU+jxtb/R8U67FUobryvD4CmBO8slViJrAeRKslBq3DUL1frPSXqxqHVxuxSlavgKja7KW0h5fxL9HQ1jwYhiPH2+tIImyv16CoSVjSJeNoQ8/p7Q6n1XSo2hWof96tJe3L1Qh23g5kJBU4yfT19DnCpLBSwUN9X3wmxk5D0Ot/QX1A4qX0AheurssqTIixaf3z6oOhBbpjnDw9JEBMk6nfJoZNC63+3RRKgBHFp/Y/OsscIBaseo+u0Is/h/8iZec2x+iR3as=;okxyqEEr5stti+ZwubV9Uw=="
+secured: "xcDO/wXWCJj7hzw7cghf6AowGrGBXpyqH6MYmS2ifmW3udjOb3sUJhjhOSGAuG8y0d6XdDmQLkSCMYiWYhiWg0d63pTCrVUa59IHocoUYJk+GRHG88oAoEgqAox/IpSI/p4uG9l+eEZro9HGHLHR1I4l5gPLnw+t9zVW/WB+mOUbM1CVZDq9Jyh1+0iZxjo1Uust1PBpc60qhb26o656QO5TdIPuLN30mlTpOn8+orFxV4YMqwXuDlejaZ8qUb6qpaH35QqoS2uHse8e3iP0qjMNogZ725RO9/g+v7+phLf9FQy15RE4KUCCAmI9B5tssYijktGq4F02S9E0pLBOaQVy4KqbsIofLPWLfamaESk=;uK9SvJjjUapu11DiSHCivA=="
 ---
 

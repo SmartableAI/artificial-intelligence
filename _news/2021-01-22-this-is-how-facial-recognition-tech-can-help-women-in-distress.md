@@ -25,6 +25,33 @@ images:
     isCached: true
 
 related:
+  - title: "An Indian city plans to use facial recognition to spot women in distress — what could go wrong?"
+    excerpt: "It’s now fairly common for cities to install surveillance cameras with facial recognition capabilities to help catch criminals  — Beijing and Moscow use them extensively. However, a city in northern India is taking a different approach: it wants to detect distress on women’s faces,"
+    publishedDateTime: 2021-01-22T07:49:00Z
+    webUrl: "https://thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 77
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-11T104457.003-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Privacy fears as Indian city readies facial recognition to spot harassed women"
+    excerpt: "A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
+    publishedDateTime: 2021-01-22T08:54:00Z
+    webUrl: "https://www.reuters.com/article/india-tech-women-idUSL8N2JW5J3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0X5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0X5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
   - title: "Facial recognition tech deployed in UP to help women in distress"
     excerpt: "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women."
     publishedDateTime: 2021-01-21T09:57:00Z
@@ -40,34 +67,6 @@ related:
       - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
         width: 1080
         height: 582
-        isCached: true
-  - title: "Progress towards unbiased facial recognition seen in EU computer vision challenge"
-    excerpt: "This challenge aimed to address the issue of discrimination in facial recognition algorithms relating to inaccuracy in identifying ethnic minorities."
-    publishedDateTime: 2021-01-18T23:15:00Z
-    webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 49
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
-        width: 1024
-        height: 662
-        isCached: true
-  - title: "Facial recognition tech to be rolled out at KLIA"
-    excerpt: "Malaysia Airports Holdings will soon be implementing facial recognition technology at Kuala Lumpur Internatonal Airport (KLIA) for passenger identification authentication."
-    publishedDateTime: 2021-01-18T08:29:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/18/facial-recognition-tech-to-be-rolled-out-at-klia"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/18/1012170.jpg"
-        width: 1240
-        height: 817
         isCached: true
   - title: "Facial recognition tech deployed in UP to help women in distress"
     excerpt: "Facial recognition tech deployed in UP to help women in distress - The Lucknow police are deploying facial recognition technology backed by security cameras that will"

@@ -32,9 +32,9 @@ related:
   - title: "Trump pardoned Church of AI founder, so I went there to worship"
     excerpt: "Former Google exec Anthony Levandowski got a surprise pardon from the outgoing president. But what of his Church of Artificial Intelligence? I decided to investigate."
     publishedDateTime: 2021-01-20T09:55:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
+    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
     type: article
     provider:
       name: ZDNet

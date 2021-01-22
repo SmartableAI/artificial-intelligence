@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-12-hybrid-chips-can-run-ai-on-battery-powered-devices.md",
+      "title": "Hybrid chips can run AI on battery-powered devices",
+      "excerpt": "Smartwatches and other battery-powered electronics would be even smarter if they could run AI algorithms. But efforts to build AI-capable chips for mobile",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/",
+      "originalUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2021/01/Illusion-art-960x640-1.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/",
+      "publishedDateTime": "2021-01-11T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-stanford-researchers-design-accelerator-chip-that-speeds-up-ai-inferencing.md",
       "title": "Stanford researchers design accelerator chip that speeds up AI inferencing",
       "excerpt": "Researchers at Stanford developed hardware that can run AI tasks quickly and energy-efficiently by melding eight cores into one AI engine.",
@@ -1413,60 +1456,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-nvidia-opens-ai-storefront-in-aws-marketplace.md",
-      "title": "NVIDIA Opens AI Storefront in AWS Marketplace",
-      "excerpt": "The use of the AWS Marketplace democratizes AI capabilities. The year 2020 will be remembered for a lot of things, among them a global pandemic, social justice and a historic election. These grabbed center stage because they have huge societal implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/nvidia-opens-ai-storefront-in-aws-marketplace",
-      "originalUrl": "https://www.eweek.com/networking/nvidia-opens-ai-storefront-in-aws-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/12/AWS.Marketplace.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T18:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI",
-        "AI Hardware"
       ]
     }
   ],

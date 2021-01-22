@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/business/business-news/2021/01/18/facia
 webUrl: "https://www.thestar.com.my/business/business-news/2021/01/18/facial-recognition-tech-to-be-rolled-out-at-klia"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,63 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition tech deployed in UP to help women in distress"
-    excerpt: "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women."
-    publishedDateTime: 2021-01-21T09:57:00Z
-    webUrl: "https://newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/"
-    ampWebUrl: "https://newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/amp/"
+  - title: "MAHB to roll out facial recognition for passenger authentication, replacing boarding passes"
+    excerpt: "Malaysia Airports Holdings Bhd (MAHB) said today the group is rolling out the first phase of the \"Single Token Journey\" under its Airports 4.0 initiatives, where facial recognition will replace physical travel documents such as airline tickets and boarding passes for faster and safer passenger authentication at the Kuala Lumpur International Airport (KLIA)."
+    publishedDateTime: 2021-01-18T08:28:00Z
+    webUrl: "https://www.theedgemarkets.com/article/mahb-roll-out-facial-recognition-passenger-authentication-replacing-boarding-passes"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 29
     images:
-      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-        width: 1080
-        height: 582
-        isCached: true
-  - title: "Progress towards unbiased facial recognition seen in EU computer vision challenge"
-    excerpt: "This challenge aimed to address the issue of discrimination in facial recognition algorithms relating to inaccuracy in identifying ethnic minorities."
-    publishedDateTime: 2021-01-18T23:15:00Z
-    webUrl: "https://www.biometricupdate.com/202101/progress-towards-unbiased-facial-recognition-seen-in-eu-computer-vision-challenge"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 49
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
-        width: 1024
-        height: 662
-        isCached: true
-  - title: "Facial recognition tech deployed in UP to help women in distress"
-    excerpt: "Facial recognition tech deployed in UP to help women in distress - The Lucknow police are deploying facial recognition technology backed by security cameras that will"
-    publishedDateTime: 2021-01-22T04:12:00Z
-    webUrl: "https://www.siliconindia.com/news/general/facial-recognition-tech-deployed-in-up-to-help-women-in-distress-nid-215091-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/pqE9y3e2.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "This is how facial recognition tech can help women in distress"
-    excerpt: "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women."
-    publishedDateTime: 2021-01-22T02:15:00Z
-    webUrl: "https://www.orissapost.com/this-is-how-facial-recognition-tech-can-help-women-in-distress/"
-    type: article
-    provider:
-      name: orissapost.com
-      domain: orissapost.com
-    quality: 39
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2021/01/facial-recognition-IANS-pic.jpg"
-        width: 1024
-        height: 698
+      - url: "https://assets.theedgemarkets.com/MAHB-2_20200928161859_malaysiaairports.com_.my__3.jpg?As6YzEYd0NIf3.vPreRPh5_ENOOkT8QK"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "P61P5TfappSgDYay0Bek68V3NogD1cUphk9VDAoEy4jjO/Ra979XLVsV++wzmxpz7xm4CIw7QDWlolPENXK2WtGuCVn7wRylYtOA4E8aCBSOxwrDVgNAnmUjUpVo3ghj2wkQrW9h0KMzlUmT6+dvK8MbrvPo2C6ViZ+I4FV2fiaFDV5GpRmCIuUuwPjlzOaIvi+BqKavI6Ysc16OfE5Aup8S3RGI5nLeDURKhbySCsfPT9Ku0y8XI/rqf0YHwm1jhcdMZ7LQHPLQ5q3d4MuTiDK1gJX1hXZHWtJFTksPMtsjk19aZxDA90GEYAeXR2JSRuln0TW18rQEXj2gKj6u/g2OHZ+V+3e+vpjYxZJk2YisTNzp5pc/VgM4nao6wnZfP4g8rt29Hco02GL1qHSFBCTcV5B2LV7ryGKei/T6OeuMZ3TrOddG2At0mPTh8MtY39quEBpZjBW/JR9m5nnIULMIMZRBCMiwYXYQ/PVOVopeKr0UK8HJVy/ImMRKxz97LWcA9d7nRAEGzmwum3QXKQ==;gbnukEObFcyz9VQfmoSkMA=="

@@ -37,20 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Artificial intelligence used in bid to improve coronavirus treatment"
-    excerpt: "NHSX has brought together 40,000-plus CT scans, MRIs and X-rays from more than 10,000 patients across the UK during the course of the pandemic."
-    publishedDateTime: 2021-01-17T15:58:00Z
-    webUrl: "https://www.shropshirestar.com/news/uk-news/2021/01/17/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 37
-    images:
-      - url: "https://www.shropshirestar.com/resizer/FxzVh85c6nF9MMb6jXbZuoweOLM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/DC4PTJ65VBDMVOGGRCD4O743TY.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "L4IWynDvpMdRGc6WyMpZju0g0/fMgUl7+6btlAXiP09Q0Vun+oAC+rNGeKLZcJ/DcAw1GyaCE4XSntXuB8bZlppNbsAR+pCRzqa+i/KtzZAEYQXHcMcBGITc3ShO2OAGgWu9GV+ksL9Xfb9TNGHl8TRvhbZ71ySJMtXyGcTk3GyBVxZKgGSjKKcXDb4NdhE+mWqdbHwetZfo/BsAv1FUwo26G792SxeXBkpEnAySuLjzSPB6yF3oCJrmQhgV3NeGE19RDS1fPj3JawxycNVtIiNkmn5n14Qka4ELw2bg39sOGF9xF35rlhuJ8jy8CnyvbDVN082g0gVMyRTWEw/tgRAYL/YXoOVqGS9UZPMZfKg=;FpTIgmrUwONu1oXDEUv02w=="
 ---

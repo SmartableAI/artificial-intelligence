@@ -89,15 +89,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Atos, IBM and Red Hat team up on new industrial automation services"
-    excerpt: "ICT company Atos is expanding its strategic alliance with IBM to develop joint offerings focused on automation in manufacturing, logistics and supply chain. One of the new cloud-based applications will help manufacturers and waste management companies control their energy consumption,"
-    publishedDateTime: 2021-01-20T16:00:00Z
-    webUrl: "https://www.telecompaper.com/news/atos-ibm-and-red-hat-team-up-on-new-industrial-automation-services--1369371"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "sXZdWaUMXBojMkDweUjipArrOCTKMCJTkdxCytUHyWQY8OI6osTpNWRp/q19/KrzIywczpdPS8a+EUOwm/0uQiPcdjvteXlMS04fzIfrvO7zoxA2d86SdpbGqWSeWLBcL5C8QrZAPslKQpv6Bi6CHvzK3VIqgO34Gik/NxmL+hpMqz3juEPN8vKoVaa1QjL++Iq/isWFsyNnuQDDDz/JI6V3x24h0tT7ebj89mBExSaBAPUNUscTRLRNuQaphTQSIwccRbows2vUQ47IjKS3FCw8qGOOQTKhhliwQuEc287rdTwyvnzeZA1KvFr6d5zRzXBG2dYm+ciogVzCWtpYNpU5ymvJq4uRAoRICkWJysU=;9VVN8L2UHX6hg9DOhseplg=="
 ---

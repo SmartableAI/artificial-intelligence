@@ -2,42 +2,25 @@
 category: news
 title: "Deep learning outperforms standard machine learning in biomedical research applications"
 excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in their architecture."
-publishedDateTime: 2021-01-14T20:43:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/01/210114130125.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/01/210114130125.htm"
+publishedDateTime: 2021-01-14T17:40:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
 type: article
-quality: 56
-heat: -1
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "In Brain Imaging, Deep Learning Beats Standard Machine Learning"
-    excerpt: "Deep learning models were able to detect patterns and discriminative features in brain imaging better than standard machine learning tools."
-    publishedDateTime: 2021-01-15T18:05:00Z
-    webUrl: "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 69
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-513688464.jpg"
-        width: 690
-        height: 402
-        isCached: true
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
-secured: "j5cdhprNFt8nxlYXE29WczcF8PPOl3zeBPmcpxwdeK7Nxpf8HeQP+1lMNFhgnjoaixHzVMj42VcHTx80MI9IyZivXH7atFXyWK4VyhtcTJW76pfdweqzxdvCoW4NRpqHY4hiLdiUC12q80WmS9e67L9IUWL8r8qc0ruTiXQnKHxuHEdFqU2vmOxtXWMC6IHtJvN4mMPgN0aXMFl3PbyjlovCWwbxPoJbQ2vxxng5QJo3W5cTUNR+lPdAN/S991mvmJl9g0fLOt44VfccVF9wCklz/0WiP06KFJIh8mN2DgR6RDWTLybHOaUAqaZw8vr2iaPj8oMNeLGSsGZGOGe8aL0zKNShFOR42pmDmtqbpJ0=;5XBUWbkLEUkL5Ha9RQNhrA=="
+secured: "q5TpzB41CnMctwbEIAZeK/qi14Dma2tZTXK1gY014SA1k60LacuNiak7OJwk+8xtOOmNwyJ5J5QqvOlMvtZWfdfHYaZvA+apW1jOkf5sAZiYm8jux2Hzudfr/L1hG6Vr/Vx2CDFqkKX2Q7Rp2zNwE1UQ7MOn8ZKrnccB5/ztF3gB9xtF4AI+Qe4gx813zRYmuVLMfjKlNyFjS4tLBuwJIVxPxxZq5WDscLebh1q1hbBPYULgDw0LxOcfZYhr8AKm49hhyVd1R1e1R2L6wpzM5zn1yqMTyP4x2QDZFTsQYWEOR8LoZ4wJaVDyd3uv7hfZY0ra0iEqpdY5sZMXV875Cr1nKGWcztW0c+kYaT9ARJw=;gm3GLL5MVTZP/ljr+mAYgQ=="
 ---
 

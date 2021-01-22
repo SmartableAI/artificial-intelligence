@@ -633,20 +633,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Those Hacked Source Code Breaches At Microsoft, Nissan, Mercedes Are Ominous Lessons For Self-Driving Cars"
-    excerpt: "A recent spate of source code breaches provides important cybersecurity lessons for those developing AI driving systems and self-driving cars."
-    publishedDateTime: 2021-01-17T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/17/those-hacked-source-code-breaches-at-microsoft-nissan-mercedes-are-ominous-lessons-for-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60021aa0b1ac699a3bd4deec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4708%26cropY1%3D239%26cropY2%3D2888"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cruise to use Azure as Microsoft invests $2bn in autonomous vehicle company"
     excerpt: "Microsoft will invest $2bn in self-driving car company Cruise, entering into a partnership that will see it offer cloud and Edge support. Cruise was acquired by GM back in 2016, but is operated as a somewhat independent company."
     publishedDateTime: 2021-01-20T12:28:00Z
