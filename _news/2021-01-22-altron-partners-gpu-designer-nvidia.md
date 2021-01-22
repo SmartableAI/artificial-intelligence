@@ -75,6 +75,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "Supermicro Unveils Nvidia GPU Server Test Drive Program with Channel Partners"
+    excerpt: "Supermicro, an enterprise computing, storage, networking and green computing technology company, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
+    publishedDateTime: 2021-01-22T15:10:00Z
+    webUrl: "https://insidehpc.com/2021/01/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-channel-partners/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
   - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
     excerpt: "With Colfax's expertise in the HPC and AI space, we'll be able to help users select the best GPU solution for their organization.\" \"Exxact Corporation is excited to be collaborating with ..."
     publishedDateTime: 2021-01-21T18:44:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-22-minneapolis-city-council-committee-advances-ordinance-that-would-ban-facial-recognition.md",
+      "title": "Minneapolis City Council committee advances ordinance that would ban facial recognition",
+      "excerpt": "Thursday, a Minneapolis City Council committee advanced an ordinance that would ban the use of facial recognition by the city. The council’s Public Health and Safety Committee voted unanimously to advance the legislation.",
+      "sourceUrl": null,
+      "webUrl": "https://kstp.com/minnesota-news/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition/5986469/",
+      "originalUrl": "https://kstp.com/minnesota-news/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition/5986469/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kstp.com/kstpImages/repository/2021-01/800minneapolisskyline.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kstp.com/articles/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition-5986469.html",
+      "cdnAmpWebUrl": "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition-5986469.html",
+      "publishedDateTime": "2021-01-22T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSTP",
+        "domain": "kstp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-democrats-ask-ethics-panel-to-investigate-sens-ted-cruz-josh-hawley.md",
       "title": "Democrats ask ethics panel to investigate Sens. Ted Cruz, Josh Hawley",
       "excerpt": "WASHINGTON (AP) — Seven Democratic senators on Thursday asked Ethics Committee to investigate the actions of Republican Sens. Ted Cruz and Josh Hawley “to fully understand their role” in the Jan. 6 insurrection at the Capitol by supporters of former President Donald Trump.",
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1415,50 +1458,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-software-promises-to-improve-ai-object-recognition.md",
-      "title": "Software promises to improve AI object recognition.",
-      "excerpt": "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
-      "originalUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg",
-          "width": 940,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T01:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Engineer",
-        "domain": "theengineer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

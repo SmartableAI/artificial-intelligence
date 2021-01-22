@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-20-redacting-pii-from-application-log-output-with-amazon-comprehend.md",
+      "title": "Redacting PII from application log output with Amazon Comprehend",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships in text. The service can extract people, places, sentiments, and topics in unstructured data. You can now use Amazon Comprehend ML capabilities to detect and redact personally",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T10:04:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-new-ai-system-counts-endangered-elephants-from-space.md",
+      "title": "New AI system counts endangered elephants from space",
+      "excerpt": "Scientists have combined satellite cameras with a convolutional neural network (CNN) to detect African elephants moving through forests and grasslands.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Screenshot-2021-01-20-at-15.12.33-796x449.png",
+          "width": 796,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/",
+      "publishedDateTime": "2021-01-20T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-innovate-finance-the-uk-retains-european-fintech-investment-crown-in-2020.md",
       "title": "Innovate Finance: The UK Retains European Fintech Investment Crown in 2020",
       "excerpt": "Innovate Finance has published a note regarding Fintech investment in the UK. According to their numbers, the UK retains its title as the top investment destination in Europe for Fintech firms at with $4.",
@@ -157,7 +261,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -261,7 +365,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1144,92 +1248,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-reply-signs-an-agreement-with-aws-to-develop-industry-solutions.md",
-      "title": "Reply Signs an Agreement with AWS to Develop Industry Solutions",
-      "excerpt": "Reply, specialized on new communications channels and digital media, announces today it has signed a Strategic Collaboration Agreement (SCA)",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
-      "publishedDateTime": "2021-01-19T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-how-to-train-a-robot-using-ai-and-supercomputers.md",
-      "title": "How to train a robot (using AI and supercomputers)",
-      "excerpt": "Computer scientists developed a deep learning method to create realistic objects for virtual environments that can be used to train robots. The researchers used TACC's Maverick2 supercomputer to train the generative adversarial network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T17:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

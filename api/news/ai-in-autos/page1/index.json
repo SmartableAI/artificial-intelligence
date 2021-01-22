@@ -114,7 +114,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -322,7 +322,7 @@
       "originalUrl": "https://electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 786,
+      "heat": 826,
       "tags": null,
       "images": [
         {
@@ -1158,6 +1158,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-chinese-search-giant-baidu-teams-up-with-geely-to-build-electric-cars.md",
+      "title": "Chinese search giant Baidu teams up with Geely to build electric cars",
+      "excerpt": "Hong Kong (CNN Business)Chinese search giant Baidu is teaming up with carmaker Geely to build electric vehicles, the latest move by a tech company to shape the future of the autos industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210111020126-01-baidu-geely-auto-self-driving-electric-cars-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "publishedDateTime": "2021-01-11T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-baidu-geely-join-hands-to-establish-intelligent-ev-company.md",
       "title": "Baidu, Geely join hands to establish intelligent EV company",
       "excerpt": "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Robin Li, Co-founder and CEO of Baidu, said in a statement. According to ...",
@@ -1233,58 +1285,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-chinese-search-giant-baidu-teams-up-with-geely-to-build-electric-cars.md",
-      "title": "Chinese search giant Baidu teams up with Geely to build electric cars",
-      "excerpt": "Hong Kong (CNN Business)Chinese search giant Baidu is teaming up with carmaker Geely to build electric vehicles, the latest move by a tech company to shape the future of the autos industry.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210111020126-01-baidu-geely-auto-self-driving-electric-cars-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "publishedDateTime": "2021-01-11T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

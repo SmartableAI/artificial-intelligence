@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-13-molecula-raises-176-million-for-its-ai-feature-store-technology.md",
+      "title": "Molecula raises $17.6 million for its AI feature store technology",
+      "excerpt": "Molecula, a company developing feature stores for AI and big data analytics workloads, has raised $17.6 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
+      "publishedDateTime": "2021-01-13T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-back-to-work-say-hi-to-the-new-office-robot.md",
       "title": "Back to work? Say hi to the new office robot",
       "excerpt": "For robotics developers, promoting employee and customer confidence in the workplace through new health and safety tools is a prominent business priority for 2021. The clearest example is the surge in disinfecting robots,",
@@ -907,8 +958,8 @@
       "title": "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)",
       "excerpt": "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers.",
       "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
+      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx",
+      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -941,9 +992,43 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence.md",
+      "title": "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence",
+      "excerpt": "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence",
+      "originalUrl": "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -1081,101 +1166,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu.md",
-      "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
-      "excerpt": "The new 13-inch gaming PC converts between a laptop and tablet via a 360-degree hinge and gets a performance boost from an external GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "originalUrl": "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/b217b9e2-8472-4358-9fd7-36b134d84990/resize/1200x/97ea6a08734939b0c166dc9b21c9cf79/flow-x13-and-xg-mobile.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "publishedDateTime": "2021-01-12T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-how-far-can-facial-recognition-go-in-finding-rioters-in-dc.md",
-      "title": "How far can facial recognition go in finding rioters in D.C.?",
-      "excerpt": "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtsp.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "originalUrl": "https://www.wtsp.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wtsp.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "cdnAmpWebUrl": "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "publishedDateTime": "2021-01-12T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTSP",
-        "domain": "wtsp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

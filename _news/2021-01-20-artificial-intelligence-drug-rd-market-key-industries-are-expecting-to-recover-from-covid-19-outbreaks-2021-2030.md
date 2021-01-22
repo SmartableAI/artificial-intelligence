@@ -304,6 +304,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI-Enabled Medical Imaging Solutions Market (2020 to 2030) - Analysis and Forecast - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The “Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The global AI-enabled medical imaging solutions market was valued at $636."
+    publishedDateTime: 2021-01-22T16:44:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-medical-technology-b305428c19ef4b668fc008a4282463df"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "pz5BwFhC7xBjxTyrPQFdKTTN0uiA+tDEvYG1ELseU0aFeKQbbrSZYbuT0/AUlmv2DZc93veXzkS4AiGdfecGsAHrCanz4G7ZADoxtSGHjAhvYCI2UvgUzLBZ8Q2Xo8OS+jCoSFN7sTgAavIdoSiKLspcJP4oZe4Mx5g9Jqqo4E0yPx+JkGD5wIDseuTOemmB043p2xFuXTxmzda05q8Odx1vCh2mXuJPwHVLc+KCvuZpQpg+BoJDk2cPVejadHEKWgGmEw91dJcdahGOjfHn+DiLEe60V8/lHnLzePiDPR54ETfchwvrZa9wcpgomPkbmZtoQiWzXg8Tfm+WhC7UCMUgO7XZ72ZhG9UgLFRDgFA=;8LHe/jS/y6ZwxNLISOCOgQ=="
 ---

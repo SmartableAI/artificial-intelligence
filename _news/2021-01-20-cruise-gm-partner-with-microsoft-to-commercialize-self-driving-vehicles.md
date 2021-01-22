@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
-excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
-publishedDateTime: 2021-01-19T19:04:00Z
-originalUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org"
-webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org"
+excerpt: "(Reuters) - Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
+publishedDateTime: 2021-01-19T18:17:00Z
+originalUrl: "https://www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1"
+webUrl: "https://www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1"
+ampWebUrl: "https://www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1?amp"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,12 +24,6 @@ topics:
   - AI in Autos
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "GM’s Cruise self-driving startup raises $2 billion led by Microsoft"
@@ -139,6 +135,22 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/1a141c2/2147483647/strip/true/crop/733x489+104+151/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2Faf%2F9214c1d142a489deaae29125220c%2Fcruise-av-san-francisco-960x640.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Why Microsoft’s self-driving car strategy will work"
+    excerpt: "Self-driving car startup Cruise has just gotten a $2 billion infusion from Microsoft, which actually stands to gain more from the deal."
+    publishedDateTime: 2021-01-22T15:06:00Z
+    webUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/"
+    ampWebUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
+        width: 1200
+        height: 601
         isCached: true
   - title: "Microsoft backs General Motors' Cruise Automation self-driving car venture"
     excerpt: "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,"
@@ -290,6 +302,22 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft To Do's task suggestion feature uses AI to improve productivity"
+    excerpt: "Microsoft To Do for the web has a new Tasks that seem important feature that uses AI to suggests tasks you should take care of."
+    publishedDateTime: 2021-01-22T15:22:00Z
+    webUrl: "https://www.windowscentral.com/ai-suggestions-come-microsoft-do-web"
+    ampWebUrl: "https://www.windowscentral.com/ai-suggestions-come-microsoft-do-web?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/ai-suggestions-come-microsoft-do-web?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 73
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/09/microsoft-to-do-lede-surfacego.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
     excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
@@ -577,6 +605,22 @@ related:
       - url: "https://image-prod.iol.co.za/resize/4863x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4ce67df8-4bad-5179-b3c6-3dc1a4b1394f&operation=CROP&offset=267x1283&resize=3470x1952"
         width: 651
         height: 366
+        isCached: true
+  - title: "Microsoft’s latest HUGE investment: Self-driving car technologies"
+    excerpt: "(TECH NEWS) Microsoft invests in self-driving car technology by joining other investors in a combined equity investment of $2 billion."
+    publishedDateTime: 2021-01-22T16:42:00Z
+    webUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/"
+    ampWebUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
+    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
+    type: article
+    provider:
+      name: The American Genius
+      domain: theamericangenius.com
+    quality: 59
+    images:
+      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2021/01/CarCityHighway.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Microsoft Invests R29 Billion In GM’s Driverless Vehicle Company Cruise"
     excerpt: "Microsoft has invested in Cruise, General Motors (GM) driverless car unit, pushing the company's valuation to $30 billion (R447 billion)."
@@ -919,6 +963,20 @@ related:
         width: 690
         height: 480
         isCached: true
+  - title: "SAP and Microsoft expand partnership and integrate Microsoft Teams across solutions"
+    excerpt: "SAP SE (NYSE: SAP) and Corp. announced plans to integrate Teams with SAP’s intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Azure."
+    publishedDateTime: 2021-01-22T14:09:00Z
+    webUrl: "https://news.microsoft.com/2021/01/22/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/01/SAP_Microsoft-Logos-768x345.jpg"
+        width: 768
+        height: 345
+        isCached: true
   - title: "Microsoft Lets Users Decide Whether Their Voice Clips Can Be Accessed By Human Reviewers"
     excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide"
     publishedDateTime: 2021-01-19T19:51:00Z
@@ -998,6 +1056,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "qilbUhE/fLj6kLmxuPhF+xbLBqeGIbWFMRjYNFgeDSdfBWgf8aqWTQTCbnbHwMAOZ6D2J9XE3kCRzPi3bFzySkedaD/zN5z0ZiVIQqaTudOAE7CeCncwDHkexGJN4M8u84inEQDTJE8phOQ9xGtkrKThebuOCfdBBAhe+CktbkDUhT3tj7YPKtwf3Fh5I6DXvZbInHv+r1hIVft0lNX1cQeFGU9UaaAyFZVPBuANuBdOXGstp+mhIj2kGrquIaAXVNRm4Y0fnq+4yiBAClHhI26XcV11bGiqXwnoU8ZouMlU0EGzBLKx59evmqwYXxLeK8a3s4mKmdYAw+y+B/HSddVpjCS3Ks1HmKROWUFbOjzcMehBh2h1+VEeOfcLOtTOdhPNS23UU9BISZtl8IlxF8XAoZAwCBx/4hjXQ+aFpB6S0Xmqvtf/8WaMVjsxk9ygUQfYusYiyMUEnys2KKH2ETgPqLYCVOhM3gOylP/qFPANSdK1u8ONkhl+hNMiwfMnrKq7cV9nW4whj+y5hliY8g==;bczpxET39AQq9e8sM6P63A=="
+secured: "PFbpEYJZD1A4zB5AiF3CpbZ5icCyg9dwVTwDy0RzXQAdfqZrx9AQzQHmWoZiAoTNxbvatNCD8rOKqioo9iqUZZ3p8ns4pZGsrLeYSnIdLCZOhdk/gr1HdwDV0/bRC38cyPFIwo84nb3Y6AY3rSLTz9DUw4PV4CWQ5VerjJ4c0OC6pW6V47zPgmoRr7HmlcfpDX167Kx3ogdPvjpmiaafVPTk/4GDMU5k0VMu1b9fsjDuoHdqkX9PKSiCsWSYLkvitgFCf7aduntWjVhkGtS/nYn5ftaCFKx3AvUi2Bb/jEl0eInCl+idMmaE7R6tu1FhuXdznxyFzCmGIeOX/7KDhzJySla3RzLlaUdDL7Sthno=;6MzNS3zo8Te1KWdl3xlumQ=="
 ---
 

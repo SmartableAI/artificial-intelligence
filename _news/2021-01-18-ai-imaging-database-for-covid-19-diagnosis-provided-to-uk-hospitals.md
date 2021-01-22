@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-c
 webUrl: "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Next Web
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Covid-19 will shape a decade of education"
-    excerpt: "History has shown that every crisis comes with a hidden opportunity. Covid-19 is no exception. And its in education where we are witnessing some radical changes which will define this decade."
-    publishedDateTime: 2021-01-19T10:18:00Z
-    webUrl: "https://www.fortuneindia.com/opinion/covid-19-will-shape-a-decade-of-education/105059"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 41
-    images:
-      - url: "https://images.assettype.com/fortuneindia/2021-01/2d7993ad-a07a-4b12-a836-1e8c50163e93/2D82PXE.jpg?w=700"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "gooQFSHyDttRqGaPt9u/Dd/MMX9zbX1KimL7aYPbyU1fMOq1QTBzim+Gut/9JJVWUS4nFPQIddbzxL/skL3g21zbCvBlwqZpswcdvbUvzcLhw6KJkhNyHApkFnqZpzaTCIpnPZW6HvwT/7SYrWWPxK7/SdHJZ4XYZejUEgdQhYqiRrYCRc0wfCkGLjc3rtLclJPy8CKtLFENZFA9U8zgzKIe+jTLjEyEy1w+bDojKy2CVdwskStE9RrEexafGqzbG+zrh9BCfnhCSOCFQk7zy2adBsmoSNYCq+XLgsuSjpzxbJ+KsNa6LY5SuVGCSLb03mPPHOn/LSfbtLPIqcyD2JF5ckjgAjccmeUcGofQ8fpUBqu9LIfWX6fXkwgThkiQ8yRE426SnK3ZzILuPkbxbNh9T/FfqQaBE6oE72W+MxuufHkZd+QYHQoiVwc7sBOpMDrAzpVpOOF/Ad3L6nxAXydvn3oAWasPGl41o67NpFdv8nA6hFVDT0hJaEEt4MJjfZRPWBdA75Q9hibHRAl6Tw==;DFq6ku0UYw5GvGC/bao0aw=="
 ---

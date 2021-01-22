@@ -125,6 +125,20 @@ related:
         width: 788
         height: 630
         isCached: true
+  - title: "Pardon for Ex-Google Exec Who Took Self-Driving Car Secrets to Uber"
+    excerpt: "A long-running Silicon Valley soap opera took an unexpected twist on Wednesday after outgoing President Donald Trump pardoned a former Google engineer for"
+    publishedDateTime: 2021-01-22T15:47:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2021/01/22/598348.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 24
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2015/09/ubercar.png"
+        width: 450
+        height: 900
+        isCached: true
 
 secured: "/ibD474gDiPvpswa/RyzLTuc0bo1Hsk5YNAkw7ZN4ZvOqGUqbpCyf1Y1v8PvSJA8nJ+IKMG9tdYg3ELkqZ+DacL+s3shDp9BAXqWQvvfH4yx32MhaAnI4ivFBbwQfDD9PVRcCvYla+/GnzHq+cfIfr8ZmchVDghx4ltE0O4BFBrDLZQFoVeqjvRSt1uV9wVXp8j5CoNRhNkzllNGu/kBKe0TJJHmWyXBV7nYM+bx9GHN3RGEiBhWwCMPHN7T1XXqKpQZbnfXSOQSaVjuRtYQyPMrkxXqznb0E7hLnSgcqoYjgvEwP4iK6cwDn0KkpyyYd5TWJH2/tZl5x+r0nMFQSI8SNSfKHMkfE4p3MgWW0iU=;+FcyCKd+584wYCoE6LOuCg=="
 ---

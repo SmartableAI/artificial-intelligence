@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Technique Could Enhance Predictions of COVID-19 Outcomes"
-    excerpt: "Emerging technique holds promise to create more robust machine learning models that extend beyond a single health system without compromising patient privacy"
-    publishedDateTime: 2021-01-21T16:24:00Z
-    webUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912"
-    ampWebUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
-    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 58
-    images:
-      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24912/aImg/46165/predicting-outcomes-for-covid-19-patients-m.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Using 'federated learning' to enhance predictions of COVID-19 outcomes"
     excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine electronic health records to better predict how COVID-19 patients will progress."
     publishedDateTime: 2021-01-18T22:43:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Genetics-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Machine learning tool gives early warning of heart issues in COVID-19 patients"
-    excerpt: "Julie K. Shade, lead author and a doctoral student in the Department of Biomedical Engineering, built the machine-learning algorithm with more than 100 clinical data points, demographic ..."
-    publishedDateTime: 2021-01-17T23:48:00Z
-    webUrl: "https://knowridge.com/2021/01/machine-learning-tool-gives-early-warning-of-heart-issues-in-covid-19-patients/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 35
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/01/Machine-learning-tool-gives-early-warning-of-cardiac-issues-in-COVID-19-patients.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
     excerpt: "Researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."

@@ -59,6 +59,15 @@ related:
         width: 2095
         height: 1178
         isCached: true
+  - title: "Ban on Facial Recognition Technology Advances in Minneapolis"
+    excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing."
+    publishedDateTime: 2021-01-22T16:02:00Z
+    webUrl: "https://www.usnews.com/news/best-states/minnesota/articles/2021-01-22/ban-on-facial-recognition-technology-advances-in-minneapolis"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "KLIA to roll out facial recognition technology in 1H 2021"
     excerpt: "Malaysia Airports Holdings Bhd’s (MAHB) group chief executive officer Datuk Mohd Shukrie Mohd Salleh said the initiative utilises facial recognition technology to provide passengers with one single-token biometric identification authentication."
     publishedDateTime: 2021-01-18T06:43:00Z

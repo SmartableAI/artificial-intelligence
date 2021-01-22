@@ -2,6 +2,58 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-11-29-geek-of-the-week-vulcans-w-andre-perkins-uses-machine-learning-to-help-predict-climate-change.md",
+      "title": "Geek of the Week: Vulcan’s W. Andre Perkins uses machine learning to help predict climate change",
+      "excerpt": "Perkins, GeekWire’s latest Geek of the Week, is now among the well versed, as a machine learning scientist for Vulcan Inc.’s Climate Modeling team. He started the job with the late Paul Allen’s company just over a year ago, after receiving his PhD in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/w-andre-perkins/",
+      "originalUrl": "https://www.geekwire.com/2020/w-andre-perkins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/wandreperkins-630x515.jpg",
+          "width": 630,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/w-andre-perkins/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/w-andre-perkins/amp/",
+      "publishedDateTime": "2020-11-28T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-29-aides-ties-to-firms-present-biden-with-early-ethics-test.md",
       "title": "Aides’ Ties to Firms Present Biden With Early Ethics Test",
       "excerpt": "Some of the president-elect’s choices for top posts have done work for undisclosed corporate clients and aided a fund that invests in government contractors.",
@@ -1182,49 +1234,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-deep-learning-helps-determine-a-womans-risk-of-breast-cancer.md",
-      "title": "Deep learning helps determine a woman’s risk of breast cancer",
-      "excerpt": "Using deep learning to recognize imaging biomarkers in mammograms presents an opportunity to detect the early warning signs of breast cancer in women who may not be considered at-risk, allowing intervention strategies to begin early, potentially improving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1494638654.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
-      "publishedDateTime": "2020-11-26T19:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

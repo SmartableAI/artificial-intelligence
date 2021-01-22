@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-21-vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai.md",
+      "title": "VAST Data allies with Nvidia on reference storage architecture for AI",
+      "excerpt": "VAST Data collaborates with Nvidia to create reference architecture for attaching its storage systems to GPU servers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence-e1611234784519.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/",
+      "publishedDateTime": "2021-01-21T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app.md",
+      "title": "Springbox AI Bolsters Your Trades With Its Affordable Financial Insights App",
+      "excerpt": "Springbox AI's beta application, launching today on iOS and Android, is a financial insights tool backed by its founders’ decades of experience within the financial and banking markets, paired with de",
+      "sourceUrl": null,
+      "webUrl": "https://play.google.com/store/apps/details?id=com.springbox",
+      "originalUrl": "https://www.forbes.com/sites/curtissilver/2021/01/21/springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://play-lh.googleusercontent.com/240Afv-qIN7aSDUQQn5IomZ96ljulnbr_sBz9j5hkCAsUWM8UQ2aQbb75ya7Mj6mikY",
+          "width": 512,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-the-real-self-driving-revolution-remains-years-away.md",
       "title": "The real self-driving revolution remains years away",
       "excerpt": "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future.",
@@ -912,7 +1015,7 @@
       "originalUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1136,110 +1239,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-redacting-pii-from-application-log-output-with-amazon-comprehend.md",
-      "title": "Redacting PII from application log output with Amazon Comprehend",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships in text. The service can extract people, places, sentiments, and topics in unstructured data. You can now use Amazon Comprehend ML capabilities to detect and redact personally",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T10:04:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-new-ai-system-counts-endangered-elephants-from-space.md",
-      "title": "New AI system counts endangered elephants from space",
-      "excerpt": "Scientists have combined satellite cameras with a convolutional neural network (CNN) to detect African elephants moving through forests and grasslands.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Screenshot-2021-01-20-at-15.12.33-796x449.png",
-          "width": 796,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/",
-      "publishedDateTime": "2021-01-20T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

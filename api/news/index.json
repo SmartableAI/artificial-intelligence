@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-23-center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy.md",
+      "title": "Center for Applied Data Ethics suggests treating AI like a bureaucracy",
+      "excerpt": "A new research paper suggests AI practitioners adopt anthropology terms to assess large machine learning models that harm people.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/",
+      "originalUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ian-hutchinson-U8WfiRpsQ7Y-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/",
+      "publishedDateTime": "2021-01-22T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic.md",
+      "title": "40% of supply chains in multinational corporations could not cope with COVID-19 pandemic",
+      "excerpt": "Organizations need real-time data insights, agility, and digitalization to mitigate risk and be successful, a new report finds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/",
+      "originalUrl": "https://www.techrepublic.com/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/05/15/c7b2f24c-5bd6-4c2e-8da4-e5a71849d9c0/resize/1200x/b7ddd4e0c59a0375d3225b6af03e58de/istock-1213521693.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/",
+      "publishedDateTime": "2021-01-22T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-minneapolis-city-council-committee-advances-ordinance-that-would-ban-facial-recognition.md",
+      "title": "Minneapolis City Council committee advances ordinance that would ban facial recognition",
+      "excerpt": "Thursday, a Minneapolis City Council committee advanced an ordinance that would ban the use of facial recognition by the city. The council’s Public Health and Safety Committee voted unanimously to advance the legislation.",
+      "sourceUrl": null,
+      "webUrl": "https://kstp.com/minnesota-news/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition/5986469/",
+      "originalUrl": "https://kstp.com/minnesota-news/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition/5986469/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kstp.com/kstpImages/repository/2021-01/800minneapolisskyline.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kstp.com/articles/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition-5986469.html",
+      "cdnAmpWebUrl": "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition-5986469.html",
+      "publishedDateTime": "2021-01-22T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSTP",
+        "domain": "kstp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-ai-robots-and-play-2021-predictions-for-a-virtual-workplace.md",
       "title": "AI, Robots And Play: 2021 Predictions For A Virtual Workplace",
       "excerpt": "Founder and President of Virbela, building immersive virtual worlds for remote work, learning and events. While no one may have predicted just what 2020 would throw our way, my crystal ball is indicating that we have many more changes in store for 2021 — and some of them are promising,",
@@ -822,55 +968,12 @@
       ]
     },
     {
-      "path": "_news/2021-01-22-machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes.md",
-      "title": "Machine Learning Technique Could Enhance Predictions of COVID-19 Outcomes",
-      "excerpt": "Emerging technique holds promise to create more robust machine learning models that extend beyond a single health system without compromising patient privacy",
-      "sourceUrl": null,
-      "webUrl": "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912",
-      "originalUrl": "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24912/aImg/46165/predicting-outcomes-for-covid-19-patients-m.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp",
-      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp",
-      "publishedDateTime": "2021-01-21T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lab Manager",
-        "domain": "labmanager.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-21-ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration.md",
       "title": "AI spacefarers and cosmic testbeds: Robust robotic systems forge path for human space exploration",
       "excerpt": "With global dust storms, extreme temperature fluctuations, and cosmic radiation, life beyond the Earth's comparatively cozy confines is no picnic.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -887,8 +990,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
       "publishedDateTime": "2021-01-21T07:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1102,109 +1205,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai.md",
-      "title": "VAST Data allies with Nvidia on reference storage architecture for AI",
-      "excerpt": "VAST Data collaborates with Nvidia to create reference architecture for attaching its storage systems to GPU servers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence-e1611234784519.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/",
-      "publishedDateTime": "2021-01-21T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app.md",
-      "title": "Springbox AI Bolsters Your Trades With Its Affordable Financial Insights App",
-      "excerpt": "Springbox AI's beta application, launching today on iOS and Android, is a financial insights tool backed by its founders’ decades of experience within the financial and banking markets, paired with de",
-      "sourceUrl": null,
-      "webUrl": "https://play.google.com/store/apps/details?id=com.springbox",
-      "originalUrl": "https://www.forbes.com/sites/curtissilver/2021/01/21/springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://play-lh.googleusercontent.com/240Afv-qIN7aSDUQQn5IomZ96ljulnbr_sBz9j5hkCAsUWM8UQ2aQbb75ya7Mj6mikY",
-          "width": 512,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

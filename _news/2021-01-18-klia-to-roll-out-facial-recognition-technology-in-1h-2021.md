@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ban on Facial Recognition Technology Advances in Minneapolis"
+    excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing."
+    publishedDateTime: 2021-01-22T16:02:00Z
+    webUrl: "https://www.usnews.com/news/best-states/minnesota/articles/2021-01-22/ban-on-facial-recognition-technology-advances-in-minneapolis"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "KLIA to use facial recognition in place of boarding pass"
     excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
     publishedDateTime: 2021-01-18T23:50:00Z

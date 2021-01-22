@@ -738,50 +738,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-aws-expands-its-ai-powered-contact-center-intelligence-cci.md",
-      "title": "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)",
-      "excerpt": "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-google-trained-a-trillion-parameter-ai-language-model.md",
       "title": "Google trained a trillion-parameter AI language model",
       "excerpt": "They’re the part of the model that’s learned from historical training data. Generally speaking, in the language domain, the correlation between the number of parameters and sophistication has held up remarkably well.",
@@ -1443,6 +1399,59 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language.md",
+      "title": "Consumer-Like Employee Self-Help Requires A Bridge Between AI And The Semantics Of Human Language",
+      "excerpt": "Whether completely remote, in the office with an abundance of safety precautions or a hybrid of the two, employees require immediate, personalized help 24/7.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f184032107158000722cf84%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
+      "publishedDateTime": "2021-01-05T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

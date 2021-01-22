@@ -2,6 +2,59 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-12-23-how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live.md",
+      "title": "How AI and ML innovations are driving the need for hardware transformation (VB Live)",
+      "excerpt": "Access free on demand here. Innovations in AI and machine learning demand more compute power than ever, but today’s chips can’t keep up with the demand. Moore’s law — the idea that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
+      "publishedDateTime": "2020-12-23T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-ai-startups-raised-99b-in-second-half-of-2020-a-15-jump.md",
       "title": "AI Startups Raised $9.9B in second half of 2020, a 15% Jump",
       "excerpt": "resulting in a significant increase in AI startup funding, says Jastra Kranjec of BuyShares. Several Triangle startups are prominent players in the AI field. The surge of the entire market ...",
@@ -1106,57 +1159,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts.md",
-      "title": "AI Is More Than A Buzzword And Being Deployed Now On Ships And Golf Carts",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as more than ever, organizations are adopting artificial intelligence (AI) to bring efficiency, productivity gains, and a return on investment and how the cloud has become integral in advancing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2607be8d7635dd433bbb2%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/22/ai-is-more-than-a-buzzword-and-being-deployed-now-on-ships-and-golf-carts/amp/",
-      "publishedDateTime": "2020-12-22T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0JM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0JM"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -128,6 +128,20 @@ related:
       - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2021-01/anthony-levandowski-pronto-web-__-1200x630-s.jpg"
         width: 788
         height: 630
+        isCached: true
+  - title: "Pardon for Ex-Google Exec Who Took Self-Driving Car Secrets to Uber"
+    excerpt: "A long-running Silicon Valley soap opera took an unexpected twist on Wednesday after outgoing President Donald Trump pardoned a former Google engineer for"
+    publishedDateTime: 2021-01-22T15:47:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2021/01/22/598348.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 24
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2015/09/ubercar.png"
+        width: 450
+        height: 900
         isCached: true
 
 secured: "bKmqgln98fkHdttXNBtQj1SEvcr/bpfYcEtf8JImhsPXsy9PR4ndGorn9NlKlJKj5YPDxVFhKV8T5l8lFiY3e5qp9o5efYMDfi8JuAVl/8JyMyjgqexJmwUWSukMLiyDhJWGj3Cy5G0u0UpvkuVTPK6IkalsaZ7nVMdjBBS21A2hIkwDaTrIXBV3YCyQuXGMbkzlVTwMlfGx9jhnw4C6a6a3ivdY/p0ksAFOq7xNf+wt36indHWDlruz1brGfBIRt//w9hr7nPOIKKMPthfmsms9Zsf7UIFRbuaLVQY1vZV5MmfOOs108vxI5vu/UJcKIKYzabf+lOg3f4LEq/t0pn5XAgpW7FzJUGUACSoiKzPhTcclYIyqjemiy0ZX5zsq86bvafFlkD1y1lTG5YG0pk3H/44XvTlrKxYzOaZTpToo+QePjfAShhACJd8XUkvyxYDYQ4kz45nWi/t00xH2AiUMKsyvMNRHXIU5Z9eN5cp3bJGietQTyETol5FTCwP8zSrP7x6OWNp8T9AndQ72yg==;4o+PD28tX0Htuqd1m2KVGA=="

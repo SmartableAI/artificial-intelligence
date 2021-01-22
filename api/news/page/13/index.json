@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-12-why-ethics-should-guide-artificial-intelligence-use.md",
+      "title": "Why ethics should guide artificial intelligence use",
+      "excerpt": "Artificial Intelligence (AI) refers to the theory and development of computer systems able to perform tasks that normally require human intelligence. AI makes it possible for machines to learn from experience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "originalUrl": "https://www.standardmedia.co.ke/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/monday/why_ethics_should_gu5ffc6b52c6f4f.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/opinion/article/2001399774/why-ethics-should-guide-artificial-intelligence-use",
+      "publishedDateTime": "2021-01-11T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-pegasystems-acquires-quriousio-to-apply-speech-analytics-to-customer-service.md",
       "title": "Pegasystems acquires Qurious.io to apply speech analytics to customer service",
       "excerpt": "Pegasystems has acquired Qurious.io to bring speech analytics to customer service interactions augmented by AI",
@@ -959,6 +1004,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-chinese-search-giant-baidu-teams-up-with-geely-to-build-electric-cars.md",
+      "title": "Chinese search giant Baidu teams up with Geely to build electric cars",
+      "excerpt": "Hong Kong (CNN Business)Chinese search giant Baidu is teaming up with carmaker Geely to build electric vehicles, the latest move by a tech company to shape the future of the autos industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210111020126-01-baidu-geely-auto-self-driving-electric-cars-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
+      "publishedDateTime": "2021-01-11T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-ai-drug-discovery-startup-valo-raises-190-million-and-unveils-cancer-therapy-programs.md",
       "title": "AI Drug Discovery Startup Valo Raises $190 Million And Unveils Cancer Therapy Programs",
       "excerpt": "The Boston-based company aims to accelerate the drug discovery process for cancer therapies that are both more effective and less toxic.",
@@ -1102,110 +1199,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development.md",
-      "title": "NIO teams up with Nvidia, Qualcomm in self-driving car development",
-      "excerpt": "NIO has partnered with Nvidia and Qualcomm in the development of the next generation of automated vehicles. The Chinese vendor, which holds a strong position in its domestic electric vehicle (EV) market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development/",
-      "originalUrl": "https://www.zdnet.com/article/nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/01/11/b918fd41-b28a-4732-be81-bc1129e5790f/screenshot-2021-01-11-at-10-10-51.png",
-          "width": 1870,
-          "height": 1184,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development/",
-      "publishedDateTime": "2021-01-11T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-chinese-search-giant-baidu-teams-up-with-geely-to-build-electric-cars.md",
-      "title": "Chinese search giant Baidu teams up with Geely to build electric cars",
-      "excerpt": "Hong Kong (CNN Business)Chinese search giant Baidu is teaming up with carmaker Geely to build electric vehicles, the latest move by a tech company to shape the future of the autos industry.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210111020126-01-baidu-geely-auto-self-driving-electric-cars-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "publishedDateTime": "2021-01-11T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

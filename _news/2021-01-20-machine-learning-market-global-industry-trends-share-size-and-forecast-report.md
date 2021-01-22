@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Solutions Market Future Demands, Companies, Trends, Share and Size Forecast"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence Solutions Industry from its research database Artificial Intelligence Solutions Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence Solutions Market currently and will have"
+    publishedDateTime: 2021-01-22T15:13:00Z
+    webUrl: "https://www.openpr.com/news/2229950/artificial-intelligence-solutions-market-future-demands"
+    ampWebUrl: "https://www.openpr.com/amp/2229950/artificial-intelligence-solutions-market-future-demands"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2229950/artificial-intelligence-solutions-market-future-demands"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/U/1/U122861664_g.jpg"
+        width: 800
+        height: 468
+        isCached: true
   - title: "Artificial Intelligence Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
     excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
     publishedDateTime: 2021-01-20T08:13:00Z

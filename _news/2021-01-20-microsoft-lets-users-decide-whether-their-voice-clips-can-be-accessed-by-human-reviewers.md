@@ -136,6 +136,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Microsoft’s self-driving car strategy will work"
+    excerpt: "Self-driving car startup Cruise has just gotten a $2 billion infusion from Microsoft, which actually stands to gain more from the deal."
+    publishedDateTime: 2021-01-22T15:06:00Z
+    webUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/"
+    ampWebUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "Microsoft backs General Motors' Cruise Automation self-driving car venture"
     excerpt: "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,"
     publishedDateTime: 2021-01-19T16:15:00Z
@@ -287,6 +303,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft To Do's task suggestion feature uses AI to improve productivity"
+    excerpt: "Microsoft To Do for the web has a new Tasks that seem important feature that uses AI to suggests tasks you should take care of."
+    publishedDateTime: 2021-01-22T15:22:00Z
+    webUrl: "https://www.windowscentral.com/ai-suggestions-come-microsoft-do-web"
+    ampWebUrl: "https://www.windowscentral.com/ai-suggestions-come-microsoft-do-web?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/ai-suggestions-come-microsoft-do-web?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 73
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/09/microsoft-to-do-lede-surfacego.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
     excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
     publishedDateTime: 2021-01-19T14:19:00Z
@@ -341,19 +373,16 @@ related:
         height: 500
         isCached: true
   - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
-    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
-    publishedDateTime: 2021-01-19T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org"
+    excerpt: "(Reuters) - Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
+    publishedDateTime: 2021-01-19T18:17:00Z
+    webUrl: "https://www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-1?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 70
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Cruise and GM Team Up with Microsoft to Commercialize Self-Driving Vehicles"
     excerpt: "\"Our mission to bring safer, better and more affordable transportation to everyone isn't just a tech race – it's also a trust race,\" said Cruise CEO Dan Ammann. \"Microsoft, as the gold standard in the trustworthy democratization of technology,"
     publishedDateTime: 2021-01-19T15:18:00Z
@@ -587,6 +616,22 @@ related:
       - url: "https://image-prod.iol.co.za/resize/4863x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4ce67df8-4bad-5179-b3c6-3dc1a4b1394f&operation=CROP&offset=267x1283&resize=3470x1952"
         width: 651
         height: 366
+        isCached: true
+  - title: "Microsoft’s latest HUGE investment: Self-driving car technologies"
+    excerpt: "(TECH NEWS) Microsoft invests in self-driving car technology by joining other investors in a combined equity investment of $2 billion."
+    publishedDateTime: 2021-01-22T16:42:00Z
+    webUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/"
+    ampWebUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
+    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
+    type: article
+    provider:
+      name: The American Genius
+      domain: theamericangenius.com
+    quality: 59
+    images:
+      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2021/01/CarCityHighway.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Microsoft Invests R29 Billion In GM’s Driverless Vehicle Company Cruise"
     excerpt: "Microsoft has invested in Cruise, General Motors (GM) driverless car unit, pushing the company's valuation to $30 billion (R447 billion)."
@@ -928,6 +973,20 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2021/01/cruise-self-driving-car.jpg"
         width: 690
         height: 480
+        isCached: true
+  - title: "SAP and Microsoft expand partnership and integrate Microsoft Teams across solutions"
+    excerpt: "SAP SE (NYSE: SAP) and Corp. announced plans to integrate Teams with SAP’s intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Azure."
+    publishedDateTime: 2021-01-22T14:09:00Z
+    webUrl: "https://news.microsoft.com/2021/01/22/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/01/SAP_Microsoft-Logos-768x345.jpg"
+        width: 768
+        height: 345
         isCached: true
   - title: "Microsoft looks to bolster the self-driving car market with new Cruise and GM partnership"
     excerpt: "Microsoft appears to be re-entering the automotive market in a significantly greater capacity than it has been previously. A few years back, Microsoft seemingly slunk away from the automotive"

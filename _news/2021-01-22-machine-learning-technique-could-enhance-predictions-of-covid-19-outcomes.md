@@ -9,8 +9,8 @@ ampWebUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enh
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
 type: article
 quality: 58
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Lab Manager
@@ -27,73 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Using 'federated learning' to enhance predictions of COVID-19 outcomes"
-    excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine electronic health records to better predict how COVID-19 patients will progress."
-    publishedDateTime: 2021-01-18T22:43:00Z
-    webUrl: "https://www.news-medical.net/news/20210118/Using-federated-learning-to-enhance-predictions-of-COVID-19-outcomes.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210118/Using-federated-learning-to-enhance-predictions-of-COVID-19-outcomes.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210118/Using-federated-learning-to-enhance-predictions-of-COVID-19-outcomes.aspx"
+  - title: "40% of supply chains in multinational corporations could not cope with COVID-19 pandemic"
+    excerpt: "Organizations need real-time data insights, agility, and digitalization to mitigate risk and be successful, a new report finds."
+    publishedDateTime: 2021-01-22T16:42:00Z
+    webUrl: "https://www.techrepublic.com/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Genetics-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Machine learning tool gives early warning of heart issues in COVID-19 patients"
-    excerpt: "Julie K. Shade, lead author and a doctoral student in the Department of Biomedical Engineering, built the machine-learning algorithm with more than 100 clinical data points, demographic ..."
-    publishedDateTime: 2021-01-17T23:48:00Z
-    webUrl: "https://knowridge.com/2021/01/machine-learning-tool-gives-early-warning-of-heart-issues-in-covid-19-patients/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 35
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/01/Machine-learning-tool-gives-early-warning-of-cardiac-issues-in-COVID-19-patients.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
-    excerpt: "Researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."
-    publishedDateTime: 2021-01-21T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210118113109.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
-  - title: "Mount Sinai researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
-    excerpt: "Mount Sinai researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."
-    publishedDateTime: 2021-01-18T05:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/tmsh-msr011521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/15/c7b2f24c-5bd6-4c2e-8da4-e5a71849d9c0/resize/1200x/b7ddd4e0c59a0375d3225b6af03e58de/istock-1213521693.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
-    excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called 'federated learning' to examine electronic health records to better predict how COVID-19 ..."
-    publishedDateTime: 2021-01-18T16:57:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-machine-technique-covid-outcomes.html"
+  - title: "Covid-19 will shape a decade of education"
+    excerpt: "History has shown that every crisis comes with a hidden opportunity. Covid-19 is no exception. And its in education where we are witnessing some radical changes which will define this decade."
+    publishedDateTime: 2021-01-19T10:18:00Z
+    webUrl: "https://www.fortuneindia.com/opinion/covid-19-will-shape-a-decade-of-education/105059"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 24
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 41
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2019/1-medicalrecor.jpg"
-        width: 1280
-        height: 1920
+      - url: "https://images.assettype.com/fortuneindia/2021-01/2d7993ad-a07a-4b12-a836-1e8c50163e93/2D82PXE.jpg?w=700"
+        width: 700
+        height: 467
         isCached: true
+  - title: "CHINA AND THE US SET TO DRIVE POST-COVID SURGE IN COLLABORATIVE ROBOT SALES"
+    excerpt: "After an arid 2020, when cobot revenues saw negative growth for the first time, growth is predicted to be of the order of 15-20% year on year up to 2028 • Over half of collaborative robots were shipped to Asia in 2020 • Electronics manufacturing is the largest consumer of cobots,"
+    publishedDateTime: 2021-01-19T16:04:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=16119"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 34
 
 secured: "gCxlfasuKL13H4Ozmg30m6icxDGHZ/YOoyjbS/YZ7WH8kVv4yfwmXbHxTX9HeDuN2dNHxT2zaCNPN9Dk6UIhMk8yojQu4O35whpe5/ShJHvHwtBXIftEcbmKv8LhiqhIgGQDxGGhckChIjcwQaRcd9ZCtaMJA8RHDaGBnpesMxOq10qxxTrFe7sXMA+BWP+IwL1W2GhoboDxBlS3hgrhbtL5Zwkk7GDlBE6lsc/VrwKQx20tOp8lMo1nKUl4gkhItQiiMvOp68IFAqGbEXCN33MUBZDo/ZEOeUk1TYzAF64B08/+ve0gZDm+xXfglZx8Bvlf5uaMwW/xFL6aqXk3Cu1AZUYR6N0z9tSUisuVxo4=;mdkFqKUbiz0NmDfAbNlJ2A=="
 ---

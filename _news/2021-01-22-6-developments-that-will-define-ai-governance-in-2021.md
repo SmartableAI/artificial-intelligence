@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "2021 Will Bring AI, Social Determinants of Health into Focus"
+    excerpt: "In the new year, the healthcare industry will leverage artificial intelligence and social determinants of health data to improve clinical decision-making."
+    publishedDateTime: 2021-01-22T16:13:00Z
+    webUrl: "https://healthitanalytics.com/news/2021-will-bring-ai-social-determinants-of-health-into-focus"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-942954932.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "LvU06J9EwwQJrMj6HXKTOaNxnw056975hueBx2YLCxXk8GTwfUFDo1qUzFFRN5cM7x7VZtVtXaZyHp+RlAmQjnWeYJjY9rU9WxUNTqLEIsiBtqoVpAUJoPxCsz/lMaJUP3esB4mhAYd6DUJHL/Yh4ZMXHoo814ClxROcCJ0dfA9gOxEkipixjxsM1IULkHz/VwWRuT8S9Z5vMB0HjHJ1/X+GT58Bmf3bhW1Kp0hBk7Ts9Qv5pTh3pf0kXJjerdDh1tcvt2V3jj3XSTE/Vt9lncutJsMC77JoiJWkdRPCDr5nWzHQ3PASWnzM3/isL2t3yHyL22xeqRrIjfgKMsmg8ezQPjYhJl6kCMx1j0Rqde8=;KHEwCxiP0C9yoRfPNRBnMw=="
 ---

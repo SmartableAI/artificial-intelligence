@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-19-infosys-launches-applied-ai-cloud-cobalt-offering.md",
+      "title": "Infosys Launches Applied AI Cloud 'Cobalt Offering'",
+      "excerpt": "(RTTNews) - Infosys (INFY) announced the launch of an Infosys Cobalt offering - its applied AI cloud. Powered by NVIDIA DGX A100 systems, the applied AI cloud will provide Infosys employees simple and fast access to AI infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19",
+      "originalUrl": "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19?amp",
+      "publishedDateTime": "2021-01-19T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices.md",
+      "title": "Hybrid chip containing processors and memory runs AI on smart devices",
+      "excerpt": "A group of researchers from Stanford have developed a way to combine processors and memory on multiple hybrid chips to allow AI to run on battery-powered devices such as smartphones and tablets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/",
+      "originalUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/hybrid-chip.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/amp/",
+      "publishedDateTime": "2021-01-19T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market.md",
       "title": "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market",
       "excerpt": "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning",
@@ -431,7 +517,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -627,7 +713,7 @@
       "originalUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -754,57 +840,6 @@
         "Facebook AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals.md",
-      "title": "AI imaging database for COVID-19 diagnosis provided to UK hospitals",
-      "excerpt": "The National COVID-19 Chest Imaging Database (NCCID) includes more than 40,000 CT scans, MRIs, and X-rays that can be used in AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/18/ai-imaging-database-for-covid-19-diagnosis-provided-to-uk-hospitals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F01%2FUntitled-design-2021-01-18T124627.424.png&signature=901901e69fbe2d6c41f0074e58cf92cf",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1151,58 +1186,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-language-ai-is-really-heating-up.md",
-      "title": "Language AI is really heating up",
-      "excerpt": "Any procedure that still requires a human to understand language is now at the verge of being disrupted or automated.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/",
-      "originalUrl": "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/",
-      "publishedDateTime": "2021-01-17T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

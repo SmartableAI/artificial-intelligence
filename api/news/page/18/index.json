@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-07-self-driving-pioneer-waymo-dumps-the-term-self-driving.md",
+      "title": "Self-driving pioneer Waymo dumps the term 'self-driving'",
+      "excerpt": "Washington, DC (CNN Business)Waymo, the self-driving arm of Google's parent company Alphabet, and which pioneered the self-driving car business, says it's done with the term \"self-driving.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/01/06/tech/waymo-self-driving/index.html",
+      "originalUrl": "https://www.cnn.com/2021/01/06/tech/waymo-self-driving/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200302173131-02-waymo-investment-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html",
+      "publishedDateTime": "2021-01-06T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports.md",
       "title": "Veo raises $25M for AI-based cameras that record and analyze football and other team sports",
       "excerpt": "Sports have been among some of the most popular and lucrative media plays in the world, luring broadcasters, advertisers and consumers to fork out huge sums to secure the chance to watch (and sponsor) their favorite teams and athletes.",
@@ -1173,57 +1225,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-new-ai-tools-aim-to-automate-aspects-of-covid-19-response.md",
-      "title": "New AI Tools Aim to Automate Aspects of Covid-19 Response",
-      "excerpt": "Hyro Inc., a company that makes plug-and-play conversational artificial-intelligence software, has developed an AI-powered virtual assistant designed to lessen the load of incoming calls for vaccination information and scheduling queries handled by call ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415",
-      "originalUrl": "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-281112/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T21:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

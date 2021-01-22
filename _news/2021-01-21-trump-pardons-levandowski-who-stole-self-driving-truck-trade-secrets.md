@@ -125,6 +125,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Pardon for Ex-Google Exec Who Took Self-Driving Car Secrets to Uber"
+    excerpt: "A long-running Silicon Valley soap opera took an unexpected twist on Wednesday after outgoing President Donald Trump pardoned a former Google engineer for"
+    publishedDateTime: 2021-01-22T15:47:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2021/01/22/598348.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 24
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2015/09/ubercar.png"
+        width: 450
+        height: 900
+        isCached: true
 
 secured: "Q05Afaln6P7JLSKNKs4jMosBqatcCFglNbHhXOss/t6cybFvVgc25QgM6Q0TzIj3VolO9A4cVswb0MjP0nRL75X1YvMAvcDfC2th9mm4ACuZdzJ3vIAHuG5HsBgGy4hraeemIfi4WEqGqOTzUNueMF5j2QwWChZi8JUJ2UzY/Z2Fd8B0HS9wAnaPRQe64JBMksLL1NVDLJluXnaNGfU2H7dZpd5JvbXckb6KXDOwuOfuheyBsggGMFC5CmU5uvrqco9KfxDVfkJZ527fgBTN7MK7Fznx1aqI0t0Gin0W6GlXzRhvBHfheff+nqVhLYDj9Cby9y0fuez9+dX6lqtzv5LQ3J6P6AcYiR8F9i838WUgcUh9xyPiyTd5d8dS15HM1Ln2QcELr14Yl8HkzlbTN7QZPCsei8Vp0A3iu1yOOExQi/Pi6l63btWRp3ieSqlevFOcsYqxtEUO3eQy8Jw7xtgH+HdAEH6ECFE8WDwhVDKfjAiQ8Q7+vjDhyR6t1LgciPkIyuMPl+IUbbQvY0/L8w==;+7JhdEYluKcdeegwJcuT3g=="
 ---

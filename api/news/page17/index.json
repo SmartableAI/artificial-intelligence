@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-07-waymo-ditches-self-driving-term-in-apparent-dig-at-tesla.md",
+      "title": "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla",
+      "excerpt": "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362902",
+      "originalUrl": "https://www.entrepreneur.com/article/362902",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-4-stocks-to-gain-traction-from-fintech-evolution-in-2021.md",
       "title": "4 Stocks to Gain Traction From Fintech Evolution in 2021",
       "excerpt": "Certain behavioral changes induced by the pandemic like online shopping, cashless payments and no-contact deliveries are here to stay and will continue to boost the Fintech space in 2021 and the years to come.",
@@ -1097,58 +1149,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-self-driving-pioneer-waymo-dumps-the-term-self-driving.md",
-      "title": "Self-driving pioneer Waymo dumps the term 'self-driving'",
-      "excerpt": "Washington, DC (CNN Business)Waymo, the self-driving arm of Google's parent company Alphabet, and which pioneered the self-driving car business, says it's done with the term \"self-driving.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/01/06/tech/waymo-self-driving/index.html",
-      "originalUrl": "https://www.cnn.com/2021/01/06/tech/waymo-self-driving/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200302173131-02-waymo-investment-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/tech/waymo-self-driving/index.html",
-      "publishedDateTime": "2021-01-06T14:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
