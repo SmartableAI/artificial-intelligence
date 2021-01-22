@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/kyligence-launches-cloud-na
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/14636834344_86a572cccd_k.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Kyligence Launches Intelligent Data Cloud for Interactive Analytics at Massive Concurrency and Scale"
+    excerpt: "Kyligence, originator of Apache Kylin and developer of the AI-augmented analytics platform Kyligence Cloud, today announced the immediate availability of Kyligence Cloud 4, its new cloud-native distributed big data analytics platform."
+    publishedDateTime: 2021-01-22T06:14:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-north-america-environment-and-nature-software-industry-dae5db10cbc14e0f658111c0366875b7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "1bRRTqHWoTtuIBbdFOStUL8XAaR+MkFDvVChP9ph9Xpn2LpdcK39mDEnQFJIbO8ApuDtzbPuPbBvkzSN/ZF59Qw4/Bznrvr2Fp4QIe5mEHzMB85Ev+7fgD+K95vtSjBQobl4xb2UJn0w9qDlcaswSPKVddJGlK8eHxsjd8Du0nq01kOUAfenrmclBt2GTZ9bWo6k2+BIMEHU6Lwd2w8ogNG9nA7FkpqZ6FTC4s4I0cqtrZBSPcJbIn0iLiCV6UfzHEgkbJR30wXK1iL01A6PS5aLHWHnN1w5CA0RbPS0ogVvovCLI3shXFGiftEF0DROS5Q+kgWleeWD9ty0Jm1DS739a9N4McrboSrZeEeIBnc=;cB14KQMjttpKuxgKDZ60fg=="

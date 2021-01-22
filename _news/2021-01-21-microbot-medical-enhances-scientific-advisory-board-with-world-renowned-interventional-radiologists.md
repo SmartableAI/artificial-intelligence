@@ -3,8 +3,8 @@ category: news
 title: "Microbot Medical Enhances Scientific Advisory Board with World Renowned Interventional Radiologists"
 excerpt: "As we continue to develop and perfect our novel technologies, it remains critical that we also attract extraordinary capabilities throughout the organization - management, Board of Directors and Scientific Advisory Board - to leverage their combined expertise to achieve Microbot Medical’s objectives,"
 publishedDateTime: 2021-01-21T12:43:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-new-york-government-regulations-9f58e2d6e33742c4a802d5ec0e43be53"
-webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-new-york-government-regulations-9f58e2d6e33742c4a802d5ec0e43be53"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/science-business-technology-new-york-government-regulations-9f58e2d6e33742c4a802d5ec0e43be53"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/science-business-technology-new-york-government-regulations-9f58e2d6e33742c4a802d5ec0e43be53"
 type: article
 quality: 10
 heat: 10
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "LzUogDI1iCoUvqdTyTadQZUAvtxBYbiDkQLL+Hx2yBjIkk4+1aFO3oTGM30Wxi2TFy3j5svpBMofCE2PDi4l7TAn3IM5M0uUCz5ipIfEvmocbdqXt3YjDCnjUARLiRZB/mKeC3p6sAZJFlnK/3b5Qvbb6VAgIL+wU1DzJuI5spWJnqsB8k6+M6d1rycetOGoVubS4X8AFMgEVSyFcDkN6va+hrw3slblaAsAbXxQ50yiaEBrH5ixIwDKa5BXgXpUAyVXeIt1xvtTednSBGfflQ9+7O6X/0wDjXonAOqk1vWBSOcCjWo1wcP84kCYQJbJaty2Gvb5VRaR5EqhX0OHPmZa2jjtBuj+4lWtzG3hDGs=;FHnLoiw+HfZYDOY/pV3ryw=="
+secured: "LPJ5xSptKVa524reeogMPadDVTWecFEmwDOpCtFknooOx4LEAPULwwOwzAJfsFk5Q9ZbSHT0okLJ6Kqf4W2B6bG4EtfTSRHRunZQIMtkmK7d3iVHSMpFLZgIG5eZjAMtUI8NOz/s+tQ5kiN5eTgYSWvs/RXT8xM2KUCpNRRJpKG7pfwGDUiq4DlI0zN5Qd7pC/PA9WtnHC7VId2CIMPfQ+/6NEKDkpATYyURv+8dnkGkgSyDihrKXvHhjuPyCmO4FaWfxIlKv5fGgotErZqVMN/Z/wkXG52zbERP5SE3Dnpq8lLXuLRmoNsjUvhvKOdEruJPHqBAm+CV7WEWalrhc8BdnK8S5PGijdrOamcITrs=;e80yfkKFtl8rKV1AJuruuQ=="
 ---
 

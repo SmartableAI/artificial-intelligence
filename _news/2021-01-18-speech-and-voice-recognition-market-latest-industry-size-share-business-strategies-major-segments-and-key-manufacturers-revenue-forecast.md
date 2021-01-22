@@ -169,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Market 2021 Analysis by Industry Trends, Size, Share, Company Overview, Growth, Development and Forecast by 2026"
+    excerpt: "Market Size, Share, Price, Trend and Forecast is an expert and inside and out examination on the present status of the worldwide Machine Learning industry. This report studiesthe worldwide market competition landscape,"
+    publishedDateTime: 2021-01-22T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-analysis-by-industry-trends-size-share-company-overview-growth-development-and-forecast-by-2026-2021-01-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market to Witness Astonishing Growth with Key Players, Analysis with Impact of COVID-19, Analysis, Demand, Forecast 2025"
     excerpt: "Jan (The Expresswire) -- Global \"Machine Learning Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"
     publishedDateTime: 2021-01-22T04:28:00Z

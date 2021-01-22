@@ -3,8 +3,8 @@ category: news
 title: "GBT Researching AI based, Robotics Technology for the Medical Field"
 excerpt: "GBT is commencing new research that is targeting medical application robotics, empowered by its AI system. In this research, the Company will focus on the innovation and technological advancements that is offered by AI to enable medical robots achieving higher standards."
 publishedDateTime: 2021-01-21T12:42:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
 type: article
 quality: 69
 heat: 79
@@ -40,6 +40,6 @@ related:
         height: 428
         isCached: true
 
-secured: "mNtA4/LNnhDdu4qjX7ZQI3GYBGb5asG9wADDRM/DnuxUde+hm6zs18a3oLBgso9lyhvM/IJt0dr2C6zrd2FU/NdEtl/Q23AfZ6fjuyEFREqCj9+Bbq0G2KKGp40ksiswYRDj10GX+fEBYVYpA/+J0FOfamNgbAHm8A44rBpbif2jdnTpgvfHJ7I8zYc6UKQf2JSpuCdxtnaVupq8pxsdiDWIRtBrzOD2idPF99fr0GV0YcpllQ41eF87xEmuSUndkVUPlXmfanSP7ndZARk6Z9Keya5sHQxQMZzaE96uFnogjW9S5gFM00g6qr+Nnn0A7RyNh20z7dsUPRKmkFQOj9A/ZfclWgldrWBY9tJhLmE=;KT8Gc0vBTRz8J0G+tHxCIg=="
+secured: "135eQVVbJ33lMsHTBcl8str7kI6SteoOqOi/APVy/rlx6rPTOyLkrYBXd8XzzgP+8d4zYtMMnDLbZnwrhjYFZO2Gk67ooRk8nBWg6cSxBkh/vP9FoobZe9wLkXDdLvjxQltIu5wnDQ6dfe+8I5Fgwn5Mg/5zHWi/r00TsHWDuGDb5U/fQ5jsrjGWJKikMkDqGoskIxHshfrGbEmLbnTmQWLQkn7XVbBqo+jXq+SCxX2ahXs3QBfYJtmUsN0dFe4MCIl24MvNv/zeu0mXZ9XBH4RPWvT5y0QEsy1n0y35hEBnF2wdekoELYOLw3J7kGgdVsA33xokH/aUM0fYzmcHjXdtebSHpBSX75ylR/LDq3o=;bBEC73qmaLHqFbetvhYt3g=="
 ---
 

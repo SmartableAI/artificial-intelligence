@@ -70,6 +70,15 @@ related:
         width: 938
         height: 450
         isCached: true
+  - title: "Things Are Just Beginning At Peak Fintech"
+    excerpt: "Get started today » We bought shares of Canadian fintech company Peak Fintech (OTCQX:PKKFF) for our SHU Growth Portfolio at $1.15 and $1.12 on December 11 and 21, respectively. We think that its B2B lending platform fills a real need and is only just starting to scale."
+    publishedDateTime: 2021-01-20T18:20:00Z
+    webUrl: "https://seekingalpha.com/article/4399939-things-are-just-beginning-peak-fintech"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "qN+kk78dhfioCJtfis/x2FvlRuypAjn2hno0WZqjY9nPgqFt2xVPlci2TMJ4UAcZw4YvBshABTHr7p2QjQC4lySMq/EEPZ0gMznwqqr1dxZX12wKoLfg0/huzY3zG6Wq7GCH4WnUoXiJF7PyCYueEEOjpbuTuHGZq5d9jyrXWmNlDyz0WIDJoV4d73lFfbUn+9VO1nI6v5o+qLiCMb5L9ddlAQdN0XQbFeoPJzRLupTmJ18oc/rmWwQbLQ/6IqFPXvmjIP7nhcFuK+MjbUjChPtQttUYXR0ciF/E6PFucSOF5XwwehrNHnbUAdtomGAyTSuicyJ3K52SbaAK1jIGFD9P5xWNI91Jlqe4VpBddXmBNDlZIutYFC9VtgBmOL/STc46WTokuuITv+XrFl+DHeH97LMJ32ge1ZePg7O8PQB7e7mXGNumh9Agx8U2poWE9VXylUXXG4cSSpGF+00KcLURlRuYZDFbGgf5i2y4Ygumi8Z9y6t4opfOKOLGC1ldn3esypWXe2cgOOWZbh3kAA==;PALIUFGuNr9i5DaAske22Q=="
 ---

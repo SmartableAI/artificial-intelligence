@@ -28,7 +28,7 @@ related:
   - title: "GBT Researching AI based, Robotics Technology for the Medical Field"
     excerpt: "GBT is commencing new research that is targeting medical application robotics, empowered by its AI system. In this research, the Company will focus on the innovation and technological advancements that is offered by AI to enable medical robots achieving higher standards."
     publishedDateTime: 2021-01-21T12:42:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
     type: article
     provider:
       name: Associated Press

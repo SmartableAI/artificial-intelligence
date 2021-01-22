@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
         width: 938
         height: 450
         isCached: true
+  - title: "Things Are Just Beginning At Peak Fintech"
+    excerpt: "Get started today » We bought shares of Canadian fintech company Peak Fintech (OTCQX:PKKFF) for our SHU Growth Portfolio at $1.15 and $1.12 on December 11 and 21, respectively. We think that its B2B lending platform fills a real need and is only just starting to scale."
+    publishedDateTime: 2021-01-20T18:20:00Z
+    webUrl: "https://seekingalpha.com/article/4399939-things-are-just-beginning-peak-fintech"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "EqSGtqFEkybOTp1QUnjd26DN9uDlhJ2Jwz3XDKPrSTG4fyWmCRJOH7IA7qa/we+Jn4RgZhpdL687lv+QRvPKj97oXZ9Y9QR2DTu9HOZK73FUAs78Of6FUXGdCTpaq1WD+ZicxsQC+TtdIZxM+kf3nKWvsy9lICTa5owNFtY0iYaGpQFDa+TNX5cfoxwJVyxfHxbCdMGtt3eIB8QK8/rdfGfnZ65ppnTsgEms7qbZHc3CcWHtyHRjgz0C5CUAjQUUUe0XIy7PHrTx051/dH/z4KcB2yOZ1AVlEjXGc3Qyb2w2Bp8blx+Dky3PkxkPtHTs5U1mrw7Reno/R0zPuaLK3JgVyVy2vHqONDaAHYqG3YxkTbPz/E61kZIqurItCPIQNHwBUYcnmRGK6ygv5WeUVVz2d45BQBG0nR4ND7Iu1Ppj81/BCfufYH+Ug47SK5+xNWE3NobE7QfGitz5nuLYLWgMP4h0g3H6pvLGA8rkYemGtScwSMZoa8qT01qdWW0Eh9IZmV+B5/HHG/VA12UOBw==;847ASev+cMRJlWpGb9JW5g=="
 ---

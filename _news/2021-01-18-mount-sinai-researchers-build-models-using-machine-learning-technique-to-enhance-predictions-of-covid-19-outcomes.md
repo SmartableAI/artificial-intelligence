@@ -72,6 +72,15 @@ related:
         height: 533
         isCached: true
   - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
+    excerpt: "Researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."
+    publishedDateTime: 2021-01-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210118113109.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
     excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called 'federated learning' to examine electronic health records to better predict how COVID-19 ..."
     publishedDateTime: 2021-01-18T16:57:00Z
     webUrl: "https://medicalxpress.com/news/2021-01-machine-technique-covid-outcomes.html"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enh
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
 type: article
 quality: 58
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
+    excerpt: "Researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."
+    publishedDateTime: 2021-01-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/01/210118113109.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Mount Sinai researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
     excerpt: "Mount Sinai researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."
     publishedDateTime: 2021-01-18T05:00:00Z
