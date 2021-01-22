@@ -39,20 +39,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Speech Zadarma is offering free access to their widely recommended speech recognition analytics tool until March 2021"
-    excerpt: "Speech analytics is transforming many aspects of business, and is especially beneficial to any sales driven organisation. Zadarma, most well known as a leading global VoIP provider, also offers an industry leading smart speech recognition and analytics feature as part of their incredibly easy to use and highly affordable telecommunications offering."
-    publishedDateTime: 2021-01-20T13:22:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-voice-recognition-computing-and-information-technology-933e88f3ccee3d1896bd7108774e370d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Y102RL++CfoHy5NW6srEhChFRnUUZ6jWFD0V6UURp8kkFADGUTGeSGamhdHnlgAwNutiTUYxtJDV3eCDwR3ltg3HPcU4pyfgb9TFS++HnavWn+C/jI/b8fYA/EH1g357EdZrpRjy8RxQvH9/3EK2uX437RieNK5A4BEs95XVc+xc2ir5t+37JJtsVZBj8kN9x75Ih3n6OsSFg/zHrjYJ5UVqqccVGk+bBdmOpVi6oRD/Tun+siN0YpK2BX8PRwa/E5fPZqdA8Km7HcHsldAJk+JbOd7i3JG560wT0q7RjgbocsgTzec3UTq3FwqFz1hswRS1viiutCXVTXqDSZVT+EDTyGYsQ+b/gLfudc16u+I=;TxAC4WOrEEv4A+dP1sIykA=="
 ---

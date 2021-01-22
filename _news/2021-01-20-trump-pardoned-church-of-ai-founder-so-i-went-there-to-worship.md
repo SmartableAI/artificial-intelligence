@@ -3,10 +3,10 @@ category: news
 title: "Trump pardoned Church of AI founder, so I went there to worship"
 excerpt: "Former Google exec Anthony Levandowski got a surprise pardon from the outgoing president. But what of his Church of Artificial Intelligence? I decided to investigate."
 publishedDateTime: 2021-01-20T09:55:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
+originalUrl: "https://www.zdnet.com/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
+webUrl: "https://www.zdnet.com/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
 type: article
 quality: 87
 heat: 97
@@ -45,6 +45,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "UzDqpHr0sp0V9qJThQBnM43VVWnktjOat9/Op4xnjlH9ppPsVLnaffZQFi5wocfRTXw/vZzy0GroAGOL6SaPfB1cyulriji/O2Eoe9y2KCxlEItrE8dRFinZ4PzN1YOSkWTTB/tNP99ZzNyKwck6ObisDDXNkVlnwqUSqX4OgUO+0Yo+u2ycXvDtMiHamydCP3cEO3HIg+OGpiLq3IwIf/VYq3tiZ5ssbO5VmcVl4rUktb6F4csa+7Zoatu+qmjyAH+dEU0bNuZN42pCee47w5JEwJO16KymKUAB3AvuynbBxFaoNstTwn8HLG9wmtdSpG+u3xdbWHdc5pifxuZLFrRZtlepkuR03aNluXvjsSS1EDxOcFuY92iSv3eXgBmN2EBsHIQUEP6BXT4vb7VZUk8QMXSvfOw6/VKWjgO3pwJZ9baIr74aP5iwJ1BRkQ9nlEi0wFeY/QHtVZTwsFoeHyEWxmwPqQL3/bfAs6PEVHRO+i889ougxsUI5tPtG1KuqD1KhAnzaVXhnIsEhypuRA==;i6eq78yruQljaTKnLn1PXg=="
+secured: "rJ/dVFVPtvMH3dzvZPnwwnIji3hxlJcqwO8dhLliDJBSgL/o859CotmzXnX4LbxIfX43MT1mL8MqaX3CVHNSrMlJH7kWyyxEZIm65zEvV08VOJPyAm/hDwhXcenEifV9Y3xq/hA15ljmsVtdKYw+0jlA10OgLDbVwi6hNmlGm4FcszIzRNxF3Zc3WD5BOwPpJ00VofyVguhb6SyXq1kbSaTn/foTj2BHTqEITckfCy9cgzx8CYo2F3uQ/t9mIJEH/QFoh6qNmleaXNCo8bdjlyE4/MTaU14xJDE/nDhbUtxpn3hRfJS5P4WYYyWGgcPbWZfUnFePfxHSmyqNtOJQMD4xOkHstcIPSD4YbJaS6WU=;O3f+UmDITv+QLUe4CATgDQ=="
 ---
 

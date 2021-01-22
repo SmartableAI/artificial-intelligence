@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
 type: article
 quality: 72
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "5G, fintech and mega-projects: What 2021 will mean for tech in the Middle East"
+    excerpt: "The MENA region is in the middle of a digital transformation, which 2020 and COVID-19 has only accelerated. I asked five experts to share the tech trends they see influencing the Middle East and North Africa (MENA) this year,"
+    publishedDateTime: 2021-01-22T03:08:00Z
+    webUrl: "https://www.zdnet.com/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 70
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/14/fe0581d7-3dc7-4fa7-a1c5-25388306266b/thumbnail/1200x675/990265b0101deff5bded0bc31bc9276b/us-troops-deploying-to-the-middle-east-t-5e1db2285413ee0001a552fc-1-jan-14-2020-13-17-19-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is Recent Fintech IPO Upstart a Buy?"
     excerpt: "One interesting recent IPO that has been flying somewhat under the radar is fintech lender Upstart ( NASDAQ:UPST). In this Jan. 11 Fool Live clip, Matt Frankel, CFP, and Industry Focus: Financials host Jason Moser take a closer look at Upstart and what investors need to know about it."
     publishedDateTime: 2021-01-19T16:43:00Z

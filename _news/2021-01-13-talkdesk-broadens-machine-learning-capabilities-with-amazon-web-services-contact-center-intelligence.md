@@ -2,21 +2,26 @@
 category: news
 title: "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence"
 excerpt: "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required."
-publishedDateTime: 2021-01-12T16:12:00Z
-originalUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
-webUrl: "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/"
+publishedDateTime: 2021-01-12T16:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-web-services-artificial-intelligence-computing-and-information-technology-internet-technology-9e0905b9010e466984dd8da4fa57cea5"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
-secured: "bpE+FoKrStFmDDHakCm7OzL8X4cIwuq+nMox4yIC1Jm9jAWD8dI+TL7n6X+1O2wBuEZR/JHT/q32H0kwtbKqnULqn5KIlZLpaVn6xnegdRE3l7aoIgwuAUTdEgwVQj1Z8j/EM8CUW0pdtcLK75wi7v4mHOIEjIgHkQ8UZyXA22fIv/mtqMz732hbu8KDkHcJ3T0uhUc7Aa7/edleaUN1VBwMRCn6164McD8sUdSVCr7F1yxEoy6tvB6DLWzONo9Ge/8yQr5Hj4vFHlqMGEW71905e2bXyicD8tK0QXCA+Y9LYDnWgSHtXu5NV9z0PQ/sVGoq6tYR4dGSaOObXgX2fUQchZkCTt3wTv5xUfWzwJQ=;cAzuj8r3BHbksbtXrbO3hQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "9ztX7wV1+/qZbEqFloQ7e5LFqzY/KgTnFgHjYksMulgOZ21ZHKXLGmv5jMtk1MwN/7Qf2672wDYh7MRJFHECMWvSqse0TOl3WRSYlw2E33sGI7g8Z5og8QPy9Hmg9uJrT/NmD3z7slQDQwTpomTenKBm/jjF7rm3SBGZvI+bkltVkyDn+b/9iHRJvM8S2xCWYG3NSM59TkDECdmR5ouWegCNjZ3MyK/8JqYrLnq3v6Kf/OTsaCqGBPSKslSYl9ehToqMUCh5g9zmitW+QU9JXrVioTBLUWipqj8DzhM10btN0oAXQu8sK+GfSYcA8b0G5BSQkdPNuLo0uJ1HvxnQF+Yyqk6d3r0+Q9ayYmKRLs4=;ydGgrGFiSNiHTU9xqPokWA=="
 ---
 

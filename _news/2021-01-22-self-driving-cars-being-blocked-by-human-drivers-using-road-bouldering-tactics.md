@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/"
 type: article
 quality: 70
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,49 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "You won’t need wing mirrors in the US any more — if you’re a self-driving car"
-    excerpt: "The NHTSA is working on new rules that better acknowledge not all vehicles in our future will have passengers or drivers, and don't need the same features."
-    publishedDateTime: 2021-01-18T08:53:00Z
-    webUrl: "https://thenextweb.com/shift/2021/01/18/nhtsa-wont-need-wing-mirrors-regulations-trump-administraion-nuro/"
+  - title: "The real self-driving revolution remains years away"
+    excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future."
+    publishedDateTime: 2021-01-21T12:54:00Z
+    webUrl: "https://www.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 51
+      name: CNN
+      domain: cnn.com
+    quality: 89
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F04%2Fwing-mirror-nuro-driverless-autonomousm-car-delivery-bird-regulations.jpeg&signature=1f56ea53a4de370f2a5b584b66038b0f"
-        width: 1280
-        height: 640
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204152457-02-cadillac-escalade-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Toyota and Stanford Just Built a Self-Driving Supra That Can Drift on Its Own"
-    excerpt: "As far-fetched as that may sound, researchers at Toyota Research Institute (TRI) and Stanford University’s Dynamic Design Lab have built a self-driving Supra that can do just that. Of course, the vehicle isn’t just an experiment in doing cool things—even though that’s just what this is—it’s part of a broader attempt to make the roads safer going forward."
-    publishedDateTime: 2021-01-21T21:10:00Z
-    webUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/"
-    ampWebUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
+  - title: "Waymo’s Self-Driving Future Looks Real Now That the Hype Is Fading"
+    excerpt: "Blown deadlines led the public to look away, but the company’s technology is making progress—and more pilot projects are coming soon."
+    publishedDateTime: 2021-01-21T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-21/waymo-self-driving-taxis-are-coming-to-more-u-s-cities"
     type: article
     provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 41
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://robbreport.com/wp-content/uploads/2021/01/supra01.jpg?w=1000"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "Self-Driving Car Market Trends, Drivers, Challenges, Segmentation based on Products till 2021 – 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2021-01-20T10:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trends-drivers-challenges-segmentation-based-on-products-till-2021-2024-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGHbYrVyOoNU/v2/1200x800.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "The real self-driving revolution remains years away"
     excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving --"
@@ -88,6 +74,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
         width: 820
         height: 462
+        isCached: true
+  - title: "Why We’re Still Decades Away From Self-Driving Cars"
+    excerpt: "While self-driving cars are becoming a much-discussed piece of technology, experts say that we’re still decades away from seeing cars drive themselves autonomously. While there are a good number"
+    publishedDateTime: 2021-01-21T11:25:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/21/why-were-still-decades-away-from-self-driving-cars/39827/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 24
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/car-dashboard-1.png"
+        width: 800
+        height: 532
         isCached: true
 
 secured: "zOn4n//wkeN1UN3C5P6ouaAX+x2kOGX/5X5xWk93cl8p9FrJqHJL1jeKLqK/mTl/ynI1y3szFlfbWQ+W/Dvy/JoEXGnsJlrvL8+efB71m7PkyIvsLJa978TtZab3kIxicn8skuZ4IWYb1Xbv8FmvXZCDqtEifqLSbrPK8teNkHs/q02cIeEJfuj4q3isUZfFQR8UoIW6vt01p8+7wHNNsb0gsE2FD7wvzdGf1F1I0iiSZaAyXMyOK1gg3JyO385yyjz0LufXe+J8QeoHlM+qiJES5Z3ZO6ZYvE887eo0WAI0b3gqXlSZqpYUZ0nHvoF8oafE/znCOTh+S4VQcb3ARYZJY62xAb7vOyQ8cXznsrO9PgfDg0tELbTQR+lFo2FICrTfXysj2Xdo4DCGQqMMn94So+CKbCn6WKjIZYWAjVi9dczOSHQq68+4BkNVp3Pj4NOOpW1H3fVhafahsbY0Ca//gowNoeQbSBdrz1ehFm/bs5x77axqKueSYI1Zr8NUoLHceAVUZESGSVBotA3cOw==;069biddtmaiAKptdDLHj5g=="

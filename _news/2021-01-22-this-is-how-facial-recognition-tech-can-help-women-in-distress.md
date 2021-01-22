@@ -44,7 +44,7 @@ related:
   - title: "Privacy fears as Indian city readies facial recognition to spot harassed women"
     excerpt: "A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
     publishedDateTime: 2021-01-22T08:54:00Z
-    webUrl: "https://www.reuters.com/article/india-tech-women/privacy-fears-as-indian-city-readies-facial-recognition-to-spot-harassed-women-idUSL8N2JW5J3"
+    webUrl: "https://www.reuters.com/article/us-india-tech-women-trfn-idUSKBN29R0X5"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0X5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0X5"
     type: article

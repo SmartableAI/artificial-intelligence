@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Microbot Medical Enhances Scientific Advisory Board with World Renowned Interventional Radiologists"
-excerpt: "As we continue to develop and perfect our novel technologies, it remains critical that we also attract extraordinary capabilities throughout the organization - management, Board of Directors and Scientific Advisory Board - to leverage their combined expertise to achieve Microbot Medical’s objectives,"
-publishedDateTime: 2021-01-21T12:43:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/science-business-technology-new-york-government-regulations-9f58e2d6e33742c4a802d5ec0e43be53"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/science-business-technology-new-york-government-regulations-9f58e2d6e33742c4a802d5ec0e43be53"
+excerpt: "Microbot Medical Inc. continues to enhance its thought leadership capabilities with the addition of several new Scientific Advisory Board members: Stephen B. Solomon, MD, a board-certified radiologist with clinical expertise in Interventional Radiology with a focus in Tumor Ablation;"
+publishedDateTime: 2021-01-21T12:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/microbot-medical-enhances-scientific-advisory-board-with-world-renowned"
+webUrl: "https://www.nasdaq.com/press-release/microbot-medical-enhances-scientific-advisory-board-with-world-renowned"
 type: article
-quality: 10
-heat: 10
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "LPJ5xSptKVa524reeogMPadDVTWecFEmwDOpCtFknooOx4LEAPULwwOwzAJfsFk5Q9ZbSHT0okLJ6Kqf4W2B6bG4EtfTSRHRunZQIMtkmK7d3iVHSMpFLZgIG5eZjAMtUI8NOz/s+tQ5kiN5eTgYSWvs/RXT8xM2KUCpNRRJpKG7pfwGDUiq4DlI0zN5Qd7pC/PA9WtnHC7VId2CIMPfQ+/6NEKDkpATYyURv+8dnkGkgSyDihrKXvHhjuPyCmO4FaWfxIlKv5fGgotErZqVMN/Z/wkXG52zbERP5SE3Dnpq8lLXuLRmoNsjUvhvKOdEruJPHqBAm+CV7WEWalrhc8BdnK8S5PGijdrOamcITrs=;e80yfkKFtl8rKV1AJuruuQ=="
+secured: "rPhLddNIxDQLKlnW7ZDm6sFn2UG7pNAS21Ct376O3wwfHr9ltwH34T80Q2xIP+RLmCr9y6MaT/KF/qAYIDmuiEfeWFuGnwzrL+4lx1Q5WtbPMc33zl5PwaYgx3RIvwptuHqsysmfo3+y2MLT72OizqI5TcU1i52yhGZGotzEnNALxvrDYSxDBp+qKMVXwJQ7ar1vHw1lMq1pacI5okNHUMbaSKqgOjUj25OgugfAm536c09cmHYSgEva/sggZSuv6Ee24uwetD59y2G8eiRJ8LWSVr5rlS4ndhFP/C430q/DucFG9k2Je0F9NoJejfYhdRRGvMWYMiGTlbusvn7e9BAcIXdEyHzMfO6dMMi4ZZI=;hwO4WFUxkIdgvgZ24kKbSQ=="
 ---
 

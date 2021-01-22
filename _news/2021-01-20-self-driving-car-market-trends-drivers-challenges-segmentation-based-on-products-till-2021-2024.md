@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trends-drivers-challenges-segmentation-based-on-products-till-2021-2024-2021-01-20"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,68 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Self-Driving Cars Being Blocked By Human Drivers Using Road Bouldering Tactics"
-    excerpt: "Human drivers use road bouldering to block other cars, and the question arises as to how self-driving cars will handle such machinations."
-    publishedDateTime: 2021-01-21T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008b4ae194950933a679a95%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5200%26cropY1%3D264%26cropY2%3D3189"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "You won’t need wing mirrors in the US any more — if you’re a self-driving car"
-    excerpt: "The NHTSA is working on new rules that better acknowledge not all vehicles in our future will have passengers or drivers, and don't need the same features."
-    publishedDateTime: 2021-01-18T08:53:00Z
-    webUrl: "https://thenextweb.com/shift/2021/01/18/nhtsa-wont-need-wing-mirrors-regulations-trump-administraion-nuro/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 51
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F04%2Fwing-mirror-nuro-driverless-autonomousm-car-delivery-bird-regulations.jpeg&signature=1f56ea53a4de370f2a5b584b66038b0f"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Toyota and Stanford Just Built a Self-Driving Supra That Can Drift on Its Own"
-    excerpt: "As far-fetched as that may sound, researchers at Toyota Research Institute (TRI) and Stanford University’s Dynamic Design Lab have built a self-driving Supra that can do just that. Of course, the vehicle isn’t just an experiment in doing cool things—even though that’s just what this is—it’s part of a broader attempt to make the roads safer going forward."
-    publishedDateTime: 2021-01-21T21:10:00Z
-    webUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/"
-    ampWebUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 41
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2021/01/supra01.jpg?w=1000"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "The real self-driving revolution remains years away"
-    excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving --"
-    publishedDateTime: 2021-01-21T16:33:00Z
-    webUrl: "https://www.kctv5.com/the-real-self-driving-revolution-remains-years-away/article_55d3729a-48eb-5c1e-9a5f-30fbde3d7b48.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
-        width: 820
-        height: 462
-        isCached: true
 
 secured: "v+Utc4oVUMgB9TlwLhr8YAY4wIz1kz3hincn2CfwaxRP5yaVlSp8vbKGUgAJHhTN+3UYCHB+iwXOwJ5fGoIHcy8H6D1UDebMMY2DpLZHq3GVnOlTLUavAGq6aS0nJ/oE7zfglApxhkhRqJ5aBIjkWYWhs8fVnxBUNNBUzzn7oSWDUTzBkj5fwYNfHh0TkDuvQ9YQ7SYY9IFiWTAOD0ZbWpoqO1nJLwsOB0ordnWyGM0D0kh3Jjz2te8uJ+yWqNPOYleRlgp9epEWDKEOa9EmEhk1hQ5qjKvPT+1TT8DGI+kiqxTyiv9CzilvjDs2OpB8Yk5fYuH6Ppy27NUIEn+plP3X0Um+ql2m/3CRi/ux/AU=;WLs+pLyFj47O1vVHLi8goA=="
 ---

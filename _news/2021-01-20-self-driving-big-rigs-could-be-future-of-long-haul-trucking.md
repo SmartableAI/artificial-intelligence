@@ -67,20 +67,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Why We’re Still Decades Away From Self-Driving Cars"
-    excerpt: "While self-driving cars are becoming a much-discussed piece of technology, experts say that we’re still decades away from seeing cars drive themselves autonomously. While there are a good number"
-    publishedDateTime: 2021-01-21T11:25:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/21/why-were-still-decades-away-from-self-driving-cars/39827/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 24
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/car-dashboard-1.png"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Paccar’s push for a self-driving truck gets boost from Silicon Valley partnership"
     excerpt: "A new partnership between Bellevue-based Paccar and autonomous-driving startup Aurora Innovation represents a major bet that the future of self-driving vehicles will start with long-haul trucks, not cars."
     publishedDateTime: 2021-01-20T02:58:00Z

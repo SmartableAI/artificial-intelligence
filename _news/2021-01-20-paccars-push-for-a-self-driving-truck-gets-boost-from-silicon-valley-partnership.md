@@ -76,20 +76,6 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 24
-  - title: "Why We’re Still Decades Away From Self-Driving Cars"
-    excerpt: "While self-driving cars are becoming a much-discussed piece of technology, experts say that we’re still decades away from seeing cars drive themselves autonomously. While there are a good number"
-    publishedDateTime: 2021-01-21T11:25:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/21/why-were-still-decades-away-from-self-driving-cars/39827/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 24
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/car-dashboard-1.png"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "RSNKGliFyEA768ElAmKLXt/DsvcZ7KYKnvr2uoXiXuN+k0/ukr9M8N6al/MklgzoC0ejG020XP0EfpQMD2z8eJLIUW3xci45eFWqe1ULHb+T8JBWqWqoAMIsTUjPJUojcbpdSbr0BNgEUo+se1x1alBrG4/DmUdzxfmTfpS755Hs3FYm15bQeMwt4nDPkoG9ChbKRP2vWgDJ+hntu2VvEtCIGbJnAn9WYa7skGIlnomOlFAALXL96ujengvidKln48Mo9Hi2eqDASRttqr6JYcji7OTBxPQ2ai3ubJRA2EXFLn/7AOq1ER/E1p2+PLdHpowVpiQ4OxqF1uFlQoyVJuE89KyHj8+SwvfiIDXbbcxS77k2adEWmkYYg3AwBSwmzfBLXw2UPOAD+dRcGax53ol6R3KMdpllUNXh29te/7Szw3/Z2X3dG2CVkmuHxmXAgtT9sKTtb4EH5Hs+XKRKAzYs7Z4+Hg0gvQJuUvwvkldL4u4MuniITUe8PA5nEicktc3pRELjMf92kem8rRgP8Q==;zpemnh+J2BiCtLm77BpQuQ=="
 ---

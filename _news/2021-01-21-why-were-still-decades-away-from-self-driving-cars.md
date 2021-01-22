@@ -25,72 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Paccar, Aurora to Develop Self-Driving Big Rigs"
-    excerpt: "Truck-maker Paccar will work with autonomous vehicle startup Aurora Innovation to develop self-driving heavy-duty trucks, the latest in a growing series of deals aimed at bringing automation to the business that moves most of the freight in the U."
-    publishedDateTime: 2021-01-19T20:00:00Z
-    webUrl: "https://www.wsj.com/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
+  - title: "The real self-driving revolution remains years away"
+    excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future."
+    publishedDateTime: 2021-01-21T12:54:00Z
+    webUrl: "https://www.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
+      name: CNN
+      domain: cnn.com
+    quality: 89
     images:
-      - url: "https://images.wsj.net/im-287222/social"
-        width: 1280
-        height: 640
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204152457-02-cadillac-escalade-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "English Village To Trade Driveways For Green Space With Self-Driving And -Parking Cars"
-    excerpt: "Chelmsford Garden Village, a housing development near London, is preparing itself for a future with autonomous cars by removing the driveways from its homes. Or, at least, that’s what they’re planning to do eventually."
-    publishedDateTime: 2021-01-18T19:31:00Z
-    webUrl: "https://www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/"
-    ampWebUrl: "https://www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/english-village-to-trade-driveways-for-green-space-with-self-driving-and-parking-cars/amp/"
+  - title: "Self-Driving Cars Being Blocked By Human Drivers Using Road Bouldering Tactics"
+    excerpt: "Human drivers use road bouldering to block other cars, and the question arises as to how self-driving cars will handle such machinations."
+    publishedDateTime: 2021-01-21T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 36
+      name: Forbes
+      domain: forbes.com
+    quality: 70
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/01/vb537238_215839-056-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008b4ae194950933a679a95%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5200%26cropY1%3D264%26cropY2%3D3189"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "PCAR Moves Higher on Self-Driving Truck Deal"
-    excerpt: "PACCAR (PCAR) stock is eyeing fresh highs this morning, following a collaboration with self-driving car startup Aurora"
-    publishedDateTime: 2021-01-20T15:32:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2021/01/20/pcar-moves-higher-on-self-driving-truck-deal"
+  - title: "Waymo’s Self-Driving Future Looks Real Now That the Hype Is Fading"
+    excerpt: "Blown deadlines led the public to look away, but the company’s technology is making progress—and more pilot projects are coming soon."
+    publishedDateTime: 2021-01-21T12:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-21/waymo-self-driving-taxis-are-coming-to-more-u-s-cities"
     type: article
     provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 24
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/mergers/bigstock-isometric-arrow-formed-by-two--253666525.jpg?sfvrsn=15a1db06_4"
-        width: 1600
-        height: 1200
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGHbYrVyOoNU/v2/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Self-driving big rigs could be future of long-haul trucking"
-    excerpt: "Now there are companies thinking much bigger in the ever-growing world of artificial intelligence: self-driving tractor-trailers. San Diego-based in TuSimple is getting ready to launch a fleet of self-driving big rigs."
-    publishedDateTime: 2021-01-20T04:19:00Z
-    webUrl: "https://www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking"
-    ampWebUrl: "https://www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking.amp"
+  - title: "The real self-driving revolution remains years away"
+    excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving --"
+    publishedDateTime: 2021-01-21T16:33:00Z
+    webUrl: "https://www.kctv5.com/the-real-self-driving-revolution-remains-years-away/article_55d3729a-48eb-5c1e-9a5f-30fbde3d7b48.html"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 24
-  - title: "Paccar’s push for a self-driving truck gets boost from Silicon Valley partnership"
-    excerpt: "A new partnership between Bellevue-based Paccar and autonomous-driving startup Aurora Innovation represents a major bet that the future of self-driving vehicles will start with long-haul trucks, not cars."
-    publishedDateTime: 2021-01-20T02:58:00Z
-    webUrl: "https://www.seattletimes.com/business/local-business/paccars-push-for-a-self-driving-truck-gets-boost-from-silicon-valley-partnership/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 0
+      name: KCTV News
+      domain: kctv5.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
+        width: 820
+        height: 462
+        isCached: true
 
 secured: "3ENcJxQJg/6bWZno0f7bbYaV83+IvQ3f4KIYqX4iI1rJKP+BbzIWdR4MRA+kYRt5VSIPqU1W88cMX8MtxhRaa8aHsKda+vYsDhXIfSHXJ0bFpJExZ5EIo9rddrF5VPkcT06vqdkbG15GLtiuDfzZVoL9MelebMESnIPtPdXAsmdM6ZW7TBN6N96QZb5uvs6e59Diz28rti6epvCgj4fgrb/mjWZRCcIgiBe2KLFYcl/VV+5GohUw/H+XUSq9fJD9VKhm99q5qH7NHh/RX9sFhHBXHU3cXvosboahqQGploJNG627JI8KyzMwJWmp2vt44zHE2Etp5AFDDRDPW8Y6k7OI70stYDS9NrtZSnVIdOI=;U5UK7AOzDrlKiPh6+kioKw=="
 ---

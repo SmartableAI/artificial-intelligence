@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Markets, 2025 - Digital Image Processing, Facial Recognition, Pattern Recognition"
-    excerpt: "The image recognition industry is driven by various factors, such as an increased in the need for efficient and profitable retail execution processes with adherence to compliance standards and technological advancements to boost the adoption of image recognition market across the globe during the forecast period."
-    publishedDateTime: 2021-01-20T14:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/image-recognition-markets-2025---digital-image-processing-facial-recognition-pattern-recognition-301211658.html"
+  - title: "Three ways data analytics and machine learning will enhance ecommerce parcel shipping in 2021 and beyond"
+    excerpt: "How weather, traffic and social media data can be integrated with supply chain BI data to help retailers make informed parcel shipping decisions."
+    publishedDateTime: 2021-01-22T11:00:00Z
+    webUrl: "https://www.itproportal.com/features/three-ways-data-analytics-and-machine-learning-will-enhance-ecommerce-parcel-shipping-in-2021-and-beyond/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/three-ways-data-analytics-and-machine-learning-will-enhance-ecommerce-parcel-shipping-in-2021-and-beyond/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/three-ways-data-analytics-and-machine-learning-will-enhance-ecommerce-parcel-shipping-in-2021-and-beyond/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 42
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "Capital Markets: The Last Frontier for Digital Transformation in Financial Services"
-    excerpt: "By Dr. Avtar Singh Sehra, CEO, Nivaura The last decade has seen financial services undergo vast digital transformation. New technologies and a greater ability to digitise and automate processes have brought greater efficiency and effectiveness to the sector,"
-    publishedDateTime: 2021-01-19T07:20:00Z
-    webUrl: "https://www.globalbankingandfinance.com/capital-markets-the-last-frontier-for-digital-transformation-in-financial-services/"
+  - title: "Social Assistance Market Employs Big Data Analytics To Gather Insights For Social Services"
+    excerpt: "The Business Research Company’s Social Assistance Global Market Report 2021: COVID-19 Impact and Recovery to 2030"
+    publishedDateTime: 2021-01-19T23:58:00Z
+    webUrl: "https://www.wboc.com/story/43194685/social-assistance-market-employs-big-data-analytics-to-gather-insights-for-social-services"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 18
+      name: WBOC
+      domain: wboc.com
+    quality: 14
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/01/graphicstock-businessman-touch-graph-improve-suggest-more_H_IrIjvlol.jpg"
-        width: 750
-        height: 500
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20266660_G.png?lastEditedDate=1611038615000"
+        width: 900
+        height: 455
         isCached: true
 
 secured: "qCLDOKJr3e157PhhW1lviTZ4PxtJVYSIl6T1cD4wrtcKUBGacK5HpYilDwE27R/Hn5bHwPtGkmziKEsR558QNpqNYuROYfOb6QN1eM9APTPccP0L0T/yWhCkrT1dryh2tWlshFi/ThES6CZIo0ywHPdPpuyjoUWysDo7nK4V4ZbHWqbtfHrirdZ+IA20/2pbcLgVlBvjCWeHMQxSsXeNyyXxpViZkrjVRzFSkgIlIFtinLElYBlc4xN7Ota56iTrhC43tTuNgR8oXkSARft9k0ZEFkgn/FQzQnekAL/y8oKEOqDYj4r4HuptpHO+bzTnJIT/ptPptvUTLzG/RDEdqxX5SvBzT6JctaBMBNN6s6E=;vXGzLP73uKX6187WSaI76Q=="

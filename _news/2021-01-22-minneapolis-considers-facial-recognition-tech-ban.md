@@ -20,6 +20,22 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Minneapolis City Council to consider banning use of facial recognition technology by police"
+    excerpt: "Plus: judge rejects bid to delay Chauvin trial; Minnesota dodges major post-holiday spike in COVID-19 cases; uneven mask compliance among high school athletes; and more."
+    publishedDateTime: 2021-01-22T12:04:00Z
+    webUrl: "https://www.minnpost.com/glean/2021/01/minneapolis-city-council-to-consider-banning-use-of-facial-recognition-technology-by-police/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 29
+    images:
+      - url: "https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/minnpost-app-icon.png"
+        width: 512
+        height: 512
+        isCached: true
+
 secured: "NfJN6alzhhHLoxrKINdDu91DcrSGrZKA4S/kPCnkoBELYt5NtahzhJNbTWiyiDx3geX54FjPc/x24vRb4gDaZQ3WU17kPpBSl0BU+PtGUDcQa/okeuP7KNC3wF4QS/7JBGVlfZJWe0rGBVD3ZqVdboMZ792XQfuYGFXbJaBLrZ6scCS4eak6qYfH0ZSjfqwjLMTe9rrhTn/KAwda+DLan/e7UHkcvl9rVdC8ihGbxcdow+y6yw2F7rzOrRTkUfP6y4lQI7Hl4qMyCD9u+Of6CEHlYkKwK/R7aKW7DyVetCAiMFBldyud7mdsUtcxArXPLP8cT0vQdj5IaLQ6miTMFnZQPQIW1m5TQvcJ8GLLSnXkymALeqUL9svQoZKpp4HGSzhlVXcq59UJ16Lh2LMvvRdPhtXf/iTkyS2qDmV6ovcFHc86jHbhSvDoDMnOnV7L/gVqe/Vx/Q4Qgrk+WHDT9czybU1+IPaDOBmqR4vTN7lA1/scxWoTI1cT7Q6xXyI/b0xT9AAE1KBV6iD+NoLCtA==;ZYxI4da5Pc70a8FcQphpyA=="
 ---
 
