@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: DBonacorsi
   url: https://twitter.com/DBonacorsi
-  followers: 678
+  followers: 677
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7_xEzmUAAAAJ
-  citations: 147092
+  citations: 143528
 
 topics:
   - AI
