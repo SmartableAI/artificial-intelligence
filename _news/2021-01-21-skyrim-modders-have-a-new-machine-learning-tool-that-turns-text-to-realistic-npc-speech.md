@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/88353-skyrim-modders-have-new-mach
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html"
 type: article
 quality: 81
-heat: 92
+heat: 91
 published: true
 
 provider:

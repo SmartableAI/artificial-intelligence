@@ -3,8 +3,8 @@ category: news
 title: "Ban on facial recognition technology advances in Minneapolis"
 excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
 publishedDateTime: 2021-01-22T15:37:00Z
-originalUrl: "https://apnews.com/5345d1193e4435aa9ce621aaf6d9c783"
-webUrl: "https://apnews.com/5345d1193e4435aa9ce621aaf6d9c783"
+originalUrl: "https://apnews.com/article/technology-media-social-media-minneapolis-5345d1193e4435aa9ce621aaf6d9c783"
+webUrl: "https://apnews.com/article/technology-media-social-media-minneapolis-5345d1193e4435aa9ce621aaf6d9c783"
 type: article
 quality: 39
 heat: -1
@@ -134,6 +134,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "tnpOe6dwqWBBKbz2vvOOkNCZ+hzCdxD34tRGXNLBu4TdKheF6ksdNBfMe64AdtQ9RKSmuDLH5ugzBf1oJd9wPHGijXlTCHcdMjvjkz2owF9IfsIJAXkgK1t/PxFTW80b5Dn2oCvsKyIRNyeLBdxj/DZg9GRKbqN54119zwGTLRGTQbmWZJ2vSVvdSHPdzbzXnbyOEmuLoDx8GfQJhNyF8M3nMn1ClTXhog+DB1sQ7chn0z7ug8oN4LMzQGR+p11b3G2TD55tafz2v6gpaWf6goX46SwH33WPbI1O0OxrhluB9SocfgNXMwinWOla6kMEMaqqciAFLwR2FdsK3jVKcIh98IATET1sS8l/goZpvQ4=;B4cvH8W/WRToz0/dgHbAbw=="
+secured: "pZhZtRvop/VKwRAa10t7q6Qjxylw8/4asYuM2nDqfDf9hdZQiyzzPj0TiCVPJksGWZRPdAghOgrGogdSnYfsxi9PTXwCMyHbmmC8jr7etUHLaf0iO9SMAmdpnNuqimK+K8iXq3rGzGxqS8bhE2Lfk5EOHDUzoXL7mY4dvfEJojP7LFUJVeXeiODzDkMni7KAIYnHizBjOkW7YlAqJ2drSdBX47vzpiHwShw6Qp4ard8uMiTtVHVwAq2j2WDi4ZiGk6DXMXQ06wyGRrulybv2/YirOV0LvZ+lXElM1GmUY1Ye8Nm0HouUiEVmVrbiTXMVzDmEAxQdhNtR1vwOKN42Cuo61x2JA28EFUae3UUdzKQ=;9aAUeiPDabcf7cSdV3ivNw=="
 ---
 

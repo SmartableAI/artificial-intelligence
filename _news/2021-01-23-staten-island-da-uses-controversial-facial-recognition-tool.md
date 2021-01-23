@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Staten Island DA Draws Criticism for Facial Recognition Use"
+    excerpt: "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent."
+    publishedDateTime: 2021-01-22T23:06:00Z
+    webUrl: "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
   - title: "Staten Island DA Quietly Purchased Controversial Facial Recognition Software"
     excerpt: "\"Facial recognition technology, especially Clearview AI, poses a direct threat to New Yorkers’ basic privacy and civil rights,” public defender Diane Akerman said."
     publishedDateTime: 2021-01-21T12:00:00Z

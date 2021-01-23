@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-23-staten-island-da-draws-criticism-for-facial-recognition-use.md",
+      "title": "Staten Island DA Draws Criticism for Facial Recognition Use",
+      "excerpt": "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
+      "publishedDateTime": "2021-01-22T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-restaurant-with-robot-chef-to-open-at-mall-of-india-in-naperville.md",
       "title": "Restaurant with robot chef to open at Mall of India in Naperville",
       "excerpt": "The spring opening of Nala restaurant -- complete with a robotic chef/arm -- highlights some of the businesses that have opened or are slated to open at the Mall of India along Route 59 in Naperville this year.",
@@ -399,6 +442,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-22-sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley.md",
+      "title": "Sen. Sherrod Brown files ethics complaint against Ted Cruz, Josh Hawley",
+      "excerpt": "Sen. Sherrod Brown of Ohio has joined several Democrats in filing a Senate Ethics Committee complaint against Republican Senators Ted Cruz and Josh Hawley.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlwt.com/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144",
+      "originalUrl": "https://www.wlwt.com/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap19253558406066.jpg?crop=1.00xw:0.846xh;0.00163xw,0.154xh&resize=1200:*",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144",
+      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144",
+      "publishedDateTime": "2021-01-22T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLWT",
+        "domain": "wlwt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-ai-robots-and-play-2021-predictions-for-a-virtual-workplace.md",
       "title": "AI, Robots And Play: 2021 Predictions For A Virtual Workplace",
       "excerpt": "Founder and President of Virbela, building immersive virtual worlds for remote work, learning and events. While no one may have predicted just what 2020 would throw our way, my crystal ball is indicating that we have many more changes in store for 2021 — and some of them are promising,",
@@ -500,50 +587,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-democrats-ask-ethics-panel-to-investigate-sens-ted-cruz-josh-hawley.md",
-      "title": "Democrats ask ethics panel to investigate Sens. Ted Cruz, Josh Hawley",
-      "excerpt": "WASHINGTON (AP) — Seven Democratic senators on Thursday asked Ethics Committee to investigate the actions of Republican Sens. Ted Cruz and Josh Hawley “to fully understand their role” in the Jan. 6 insurrection at the Capitol by supporters of former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.syracuse.com/us-news/2021/01/democrats-ask-ethics-panel-to-investigate-sens-ted-cruz-josh-hawley.html",
-      "originalUrl": "https://www.syracuse.com/us-news/2021/01/democrats-ask-ethics-panel-to-investigate-sens-ted-cruz-josh-hawley.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LWRYP5EWI5H6PAYVF77P3UF46Y.jpg",
-          "width": 5493,
-          "height": 3662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.syracuse.com/us-news/2021/01/democrats-ask-ethics-panel-to-investigate-sens-ted-cruz-josh-hawley.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2021/01/democrats-ask-ethics-panel-to-investigate-sens-ted-cruz-josh-hawley.html?outputType=amp",
-      "publishedDateTime": "2021-01-22T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syracuse.com",
-        "domain": "syracuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -778,7 +821,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1164,57 +1207,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration.md",
-      "title": "AI spacefarers and cosmic testbeds: Robust robotic systems forge path for human space exploration",
-      "excerpt": "With global dust storms, extreme temperature fluctuations, and cosmic radiation, life beyond the Earth's comparatively cozy confines is no picnic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/16/c951a0d1-cc8b-46da-988f-c58fe571e60b/resize/1200x/c86c0af5787ca81d7c75643556e811bc/mars-2020.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "publishedDateTime": "2021-01-21T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

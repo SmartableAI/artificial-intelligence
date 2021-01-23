@@ -1,22 +1,28 @@
 ---
 category: news
 title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising recent approach to train deep neural networks, to directly learn what EEG looks like,"
-publishedDateTime: 2021-01-21T21:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210121005681/en/New-Deep-Learning-Discovery-Paves-Way-for-AI-Interpretation-of-Brainwave-Data"
-webUrl: "https://www.businesswire.com/news/home/20210121005681/en/New-Deep-Learning-Discovery-Paves-Way-for-AI-Interpretation-of-Brainwave-Data"
+excerpt: "EEGs identifying sleep stages and brain activity are scarce, there is ample unlabeled data that exists. In his new paper, Uncovering the Structure of Clinical EEG Signals with Self-supervised Learning,"
+publishedDateTime: 2021-01-22T06:10:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-toronto-ontario-north-america-dab379f4323d4ad4bb1d1318590e1c18"
+webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-toronto-ontario-north-america-dab379f4323d4ad4bb1d1318590e1c18"
 type: article
-quality: 31
-heat: -1
+quality: 51
+heat: 61
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
@@ -29,6 +35,6 @@ related:
       domain: morningstar.com
     quality: 31
 
-secured: "3XG80O2bO8aLmD8A2I2xnSkWFDLaNt6oEhkGUHR3PV279wDeXFqzYURzIDb+Mouls+RrfdnPpRlXhbPMghqPfKMiEqbIBqK8JPIKRTbLWOarKutAN4L9jSnVzfcxPVi5cO3fqpP0bEGDI/mAV4BZK4vBBcS3VV58O/ok17VoDDuW1/3ghDzYQ26Rh5bxbT2MsDvr0PzxIXMUuqL8iHj59ekyZLDJfmW6QyuHyyTiglO9W7UF5cvsoq28L8QmyewipDcCOOxrXSkggSF5n5rt7F9BR453mqjFG2SkkwhpkdT2EWQPvio89b++Gkt4djZX95E6sEJmDh1b0OlhgaDXaFfQ+07nAgBYg0n/HGirk9U=;i8LAHM/YNbkpequ2lu2jrA=="
+secured: "82XbiCnk2WtAe0HRhgaEi16ZnaMM0ZiXWvgE39Vod83qrGpOCcOFEFC4CtB+saYKPTsRy3oFlqlJK9o6SCf4c0qWm2hDJlljL270hxEp9ZdwBIncenJiE1qNaFUiaYwjmSi9Gue6cxSUl9bwDIkK3TcIQAZcfPK4wVDuC6nWdeqyF7TtqSCrwGzxXvqyzRSTep/AMOUrOBoUljwMxIa+Zn8zt4Ij8dS621UVAHMNgNqJ493IqIZd/zAc18RNYaKZDppCHldfYjF0VOGy6MwPokrO/v7yJ45RFwYR88g3n0gv8ZnKAU4qBJffnTX9xyABy8sPj/GWmntTTcvoU5fT8K3Z/+4+PMteabyrhjGeatc=;annx7sPxXBLiyxZhJqMu4w=="
 ---
 
