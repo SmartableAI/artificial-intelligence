@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI chatbot controversy in S. Korea raises heat about ethics, data collection"
+    excerpt: "Meet Luda Lee, a self-professed 20-year-old female college student from South Korea who loves eating fried chicken, playing with cats and scrolling through Instagram.. Read more at straitstimes.com."
+    publishedDateTime: 2021-01-23T21:36:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/ai-chatbot-controversy-in-s-korea-raises-heat-about-ethics-data-collection"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 51
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/24/ST_20210124_CHAT24_6283167.jpg?itok=ofxQSrwm"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "8tyQBATmXGnljEk0nAx34L4r7jdqlKG+Art5XwmEAseNOoClXq8ZLG7cEe5QLD8VHzQzz3smzmBr4gr5NETEvKpx6fs5uaV5ZPqzRAQ2VXZpqjsuadNL42ZGEg1Wd0Twf8iksiWcIhShR4ehmpj+pP8nklFYrZ4ArrnaCBURj40pTf0RFhenwmtyLFr0k+E95Vc4BUcp6PkRcphkjHSpnuVl9MQ4cvnWs75siaRMYTsdV0T27b/4B2Crx1VKKT39yByxWp638w/kQlVfabJard4XtzrH8K8Uf3+G4bAAeQWP0L9bfxg2efx6o3HGSpS4tr7AFwUKa0FidYl52XUQPWfccqXed7qBLjcs/C8fF88=;DBPKb6b0XTTETKQNHEDaqg=="
 ---

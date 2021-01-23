@@ -1,51 +1,47 @@
 ---
 category: news
-title: "Microsoft researchers tap AI for anonymous data sharing for health care providers"
-excerpt: "Microsoft and University of British Columbia researchers propose FELICA, a system that leverages AI to let health providers share data."
-publishedDateTime: 2021-01-20T15:54:00Z
-originalUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/"
-webUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/"
-ampWebUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/"
+title: "Talking to the dead? Microsoft's AI chatbot idea feels straight out of Black Mirror"
+excerpt: "The Rise of Skywalker probably didn’t have this in mind when its opening scroll proclaimed “The dead speak!” In a move that feels more Black Mirror than Star Wars, Microsoft is reportedly working on a"
+publishedDateTime: 2021-01-23T19:44:00Z
+originalUrl: "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people"
+webUrl: "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people"
+ampWebUrl: "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp"
+cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp"
 type: article
-quality: 99
-heat: 139
-published: true
+quality: 68
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Syfy
+  domain: syfy.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
+  - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/apple-macbook-laptop-via-getty-images.jpg?offset-x=0"
     width: 1200
-    height: 600
+    height: 680
     isCached: true
 
 related:
-  - title: "Talking to the dead? Microsoft's AI chatbot idea feels straight out of Black Mirror"
-    excerpt: "The Rise of Skywalker probably didn’t have this in mind when its opening scroll proclaimed “The dead speak!” In a move that feels more Black Mirror than Star Wars, Microsoft is reportedly working on a"
-    publishedDateTime: 2021-01-23T19:44:00Z
-    webUrl: "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people"
-    ampWebUrl: "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp"
-    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp"
+  - title: "Microsoft researchers tap AI for anonymous data sharing for health care providers"
+    excerpt: "Microsoft and University of British Columbia researchers propose FELICA, a system that leverages AI to let health providers share data."
+    publishedDateTime: 2021-01-20T15:54:00Z
+    webUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/"
+    ampWebUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/"
     type: article
     provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 68
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
     images:
-      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/apple-macbook-laptop-via-getty-images.jpg?offset-x=0"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
         width: 1200
-        height: 680
+        height: 600
         isCached: true
   - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
     excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
@@ -92,6 +88,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "Am3aapmGThh4jrkQ7QazoD72Ydfq7GOR5PVT48T5cadQmoNr49zq2WRp1Kqli7Fze/vs7pKGJRmH41nengmHHI3CDgdWHprE+3ju15ikpOavuO9yM/WvNTanOFh1oEXBZg9OLb4LdEKYlOegBMmCyOiKz5DE6IN/gtSXLvvGx5M9hwdBzbyumrxpkAzghRkn/bZGuZ+YOGjjtQ6Ioep0CdTUvUJZc1/Ps9F0j5FeOnDixWWsAbBAhBo6vGEJ5ae/hYZEfJJgQMbcjbaakd0vhiJfkrIAMPHlll2aAESCoNwW1t73Yocy205t8X6GBvTB/mQfh+iEieh6FPLU0ZiBkRT0iGbF57TtgrRbKvtwf4Zu4WeAnHEYgVWzIo6ux0ZtCcXKeDJfk6vO3bDANqtU52WsLJIai9+YE63JN43HckR/wFnL2GGqbHCpubwgmComyocPVpO+4/2dN28ah3bMvvhszowiJ9w7RXLpT3UlseNSQkn6FZZ0GeI4vO3nn7hxvRHyJz1DhnhaLSQuhBpqJg==;FynxZ6o1W9Uhwy4xQpAFAA=="
+secured: "BQ3wfHBpT3Zbn64eJzHF88WWOXIjslR/TCIDaEfHQeQzP9pGayHeuukxQLtn0+EmAHNeFbe5UE4eIcxOePjk7azr0ia6zOE85rfKjDcpcvVWU9r/dQ64YnGfHjNdx73PVxzeJm8KwFLSKm1fbI9mFFkiqOuAtnUsq3XJWbknDCXGv27hOaaEeVijlttclfDoZNHgnBID/CGtGQ6neUhMmzlWS2SN21vqSp+5LLX/kHiEAsY9rGkmdd7nhgWvt3azLrHDX/sUmXimESzW8A1AEeXOpSh8Mgo96wevgUeGaIN+Xvj8I/6BG8TrwCuLmJm0suX9JQO9LXDjIoUxWFGvmgP4FjqiWVtB79I5CYC4t4c=;6hrJE0s/w/b89Zg1dG2Qqw=="
 ---
 

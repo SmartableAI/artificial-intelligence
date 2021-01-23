@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Talking to the dead? Microsoft's AI chatbot idea feels straight out of Black Mirror"
+    excerpt: "The Rise of Skywalker probably didn’t have this in mind when its opening scroll proclaimed “The dead speak!” In a move that feels more Black Mirror than Star Wars, Microsoft is reportedly working on a"
+    publishedDateTime: 2021-01-23T19:44:00Z
+    webUrl: "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people"
+    ampWebUrl: "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 68
+    images:
+      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/apple-macbook-laptop-via-getty-images.jpg?offset-x=0"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
     excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
     publishedDateTime: 2021-01-19T16:08:00Z

@@ -435,6 +435,41 @@
       ]
     },
     {
+      "path": "_news/2021-01-13-talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence.md",
+      "title": "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence",
+      "excerpt": "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence",
+      "originalUrl": "https://www.businesswire.com/news/home/20210112005802/en/Talkdesk-Broadens-Machine-Learning-Capabilities-With-Amazon-Web-Services-Contact-Center-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-all-hail-your-new-robot-vac-overlord-irobot-roomba-i3-is-here.md",
       "title": "All hail your new robot vac overlord: iRobot Roomba i3+ is here",
       "excerpt": "They’ve dusted down the iRobot robot vac range and added the Roomba i3+ which looks and performs a treat iRobot has taken the dust covers off its brand new model, the Roomba i3+. This manufacturer is known for producing some of the best robot vacuum cleaners money can buy and the latest addition to the Roomba robot vacuum lineup comes packed with new features.",
@@ -1126,57 +1161,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management.md",
-      "title": "Business Contracts Remain Complex, And Artificial Intelligence Can Improve Contract Management",
-      "excerpt": "Contracts are one of the most complex things to understand and analyze in the business world. Artificial intelligence can help in contract analysis and management, and is starting to be applied in the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/amp/",
-      "publishedDateTime": "2021-01-12T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

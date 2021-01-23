@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Talking to the dead? Microsoft's AI chatbot idea feels straight out of Black Mirror"
+    excerpt: "The Rise of Skywalker probably didn’t have this in mind when its opening scroll proclaimed “The dead speak!” In a move that feels more Black Mirror than Star Wars, Microsoft is reportedly working on a"
+    publishedDateTime: 2021-01-23T19:44:00Z
+    webUrl: "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people"
+    ampWebUrl: "https://www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/microsoft-AI-chatbot-patent-talk-to-dead-people?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 68
+    images:
+      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/apple-macbook-laptop-via-getty-images.jpg?offset-x=0"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "Microsoft looks to bolster the self-driving car market with new Cruise and GM partnership"
     excerpt: "Microsoft appears to be re-entering the automotive market in a significantly greater capacity than it has been previously. A few years back, Microsoft seemingly slunk away from the automotive"
     publishedDateTime: 2021-01-20T15:19:00Z

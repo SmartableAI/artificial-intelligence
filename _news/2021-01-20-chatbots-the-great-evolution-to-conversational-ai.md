@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI chatbot controversy in S. Korea raises heat about ethics, data collection"
+    excerpt: "Meet Luda Lee, a self-professed 20-year-old female college student from South Korea who loves eating fried chicken, playing with cats and scrolling through Instagram.. Read more at straitstimes.com."
+    publishedDateTime: 2021-01-23T21:36:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/ai-chatbot-controversy-in-s-korea-raises-heat-about-ethics-data-collection"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 51
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/24/ST_20210124_CHAT24_6283167.jpg?itok=ofxQSrwm"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Controversy over AI chatbot in South Korea raises questions about ethics, data collection"
     excerpt: "Offensive comments and data leaks spark calls for stricter rules and user guidelines.. Read more at straitstimes.com."
     publishedDateTime: 2021-01-23T16:02:00Z

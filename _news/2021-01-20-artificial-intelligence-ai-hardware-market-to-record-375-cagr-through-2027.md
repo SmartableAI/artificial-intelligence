@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-19T05:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "hLqlJy1w3kuUKzwgGsmD2GxiJmKMyNrnOGbRdS7Ig6tbFvq5ljIbrWXN1imrezm12sbirEoq+4TcDVAZKsMoJoQjOiev4QAcBGVgbeT2SqzFCu91kv+xmnxu7o/7gMTw2hG0KYkmquOg6CtCswxsdou4Is8sWnDKbd1LD+7AHqqUtA5Z3tcW8OWg3gbr3CxBa9nr18L3opUwJHtG3dMozUQOsX2WU5QQ9DrnOkehnBTYguMKZc9BIrzRUXSWFnM2sO6p17iptZSjWZjD3L7hfF6uEf6KmHKAabeiQd3cBxguIguYBVD/LZmlpsklwzLLdlElaio42FTdQuoO1I8pgMnpegqvfDNEEAgUcPpJfC0=;14ItzOYVg/ZU++4bNzvwqQ=="
 ---

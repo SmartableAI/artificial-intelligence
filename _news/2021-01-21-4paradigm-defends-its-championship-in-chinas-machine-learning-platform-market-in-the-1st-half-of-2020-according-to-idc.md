@@ -1,15 +1,15 @@
 ---
 category: news
 title: "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
-excerpt: "IDC, a premier global provider of market intelligence, has recently published China AI Software and Application (2020 H1) Report (hereinafter referred to as \"Report\"), where 4Paradigm as an AI innovator recognized for its software standardization level,"
-publishedDateTime: 2021-01-21T04:43:00Z
+excerpt: "The IDC report recognizes the advantages of 4Paradigm machine learning platform and AutoML products in technological accumulation, enterprise-level product layout, commercial implementation ..."
+publishedDateTime: 2021-01-21T04:28:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
 webUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
 ampWebUrl: "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
 type: article
-quality: 46
-heat: 46
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -21,10 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "V9oBFQF8iEGop3cPD6HzK/e1VnFzo10I2ISLCWvbhGck6hqCdMJAKI5SOEJFazG282TVdlBwBvMx84d9l9Ts9FOzZtqJkpPt+IuzCGTZ3m6+bpX49pfhvP0XrQGFHhgGTRJFznrvvJ2mvHfEIWoWuQI2MnSKSyL0HKiQl7FaCB00vzWKZ9sAPEll+2DQIoePFEPZXJrbUelP2Uvsl750BPaBIQN6qQATEiRlwAh5/YRorHfpiBCkxnVRUEA5d2e+smP+vT0RxhVcYRfO51KVsNtPmz45UAxZwogvJj0F+rkvvBCu899zgQCvOvZVljFWVWA0ajo9dHQO3BdltsMSPT+Yf054tDKRCAgJGBARSuY=;a4q9K9F4TD5RnJEMsS13ZQ=="
+secured: "5EZZXXZV6Kwa3zuT+w76bnL446t8jwACmyFfXr0XU6ynJIR41LtmTii5WY9hr8w1GhKNS1PpevLFrvIeeb/drnwUJfpYbXfnsOdXQtvvZno5/8TwQ6eHaPKqJ7X7m1R1wvqcf10knsuxn2SUWIHSenOhmbCA0tcXdUP4v7cYLyhCT7iXoFJ53zbrHrhBdwVUmUgB6BR2xlKY9qhAeGHX5dgx5Rrm7bvYpo41484/Te3hFvSWgsdkdFIqd81pfqreVyFNw/xatz9rTdANk9Xa6O4Nw/aR5sBxKwJ6MOVc0Ji3YJ5aOe8jNf1Hb7IOplBs5LaRtZEBm8hYi/eZZuWR6gNndparRd5Y0Ru2XVgQK8I=;0jvu04CtigMba00JOw45/w=="
 ---
 

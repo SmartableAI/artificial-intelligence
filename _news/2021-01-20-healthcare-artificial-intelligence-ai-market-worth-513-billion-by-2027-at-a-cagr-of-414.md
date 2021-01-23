@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 30
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-19T05:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ROr3fdhloyvmXk4wdVMorHDwPlO9HQ61EPyf+SFsZcyhSnfNewFD7TWF0TLzz+0l4o1xyPIc3TBz2x2ZY6cbYsI7VZVxCRd0zIASJ6+opTYR6Sv281J2F4mM6cnGGDSF0XGhgtgX/eSVxxEuoYFLrXHbtptUjgmaV9Aq2pn6/0s09O3BTvp8/WTiX0nwyQ9t8k+UWanwT8l5i9aNGod7M4qpTjZlBqVA1iNdgNakOxTaPrsWTux9P2i/E3vB8RXoTtBkzNC2pqbrtza3inIc7mJ3W/tHp/izNQRTPlSR3/YjWk+O9ivAfnSrGuSUFVCaDcaT63+bADhWhJ33stNeui0gBVz3WpSu04T7wsQsE44=;swNRihqOzSCgRuvjvE7SeA=="
 ---

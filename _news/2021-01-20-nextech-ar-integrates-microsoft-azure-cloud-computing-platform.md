@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-excerpt: "Cloud-based data will enable Nextech AR to host hyper-scalable, secure events and support immersive 3D and AR experiences across all its technologies."
-publishedDateTime: 2021-01-20T07:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-2021-01-20"
-webUrl: "https://www.marketwatch.com/press-release/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-2021-01-20"
+excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
+publishedDateTime: 2021-01-20T13:11:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -86,22 +82,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
-  - title: "Microsoft invests in General Motors' self-driving subsidiary Cruise"
-    excerpt: "Microsoft is touting GM and its autonomous vehicle subsidiary Cruise as adopting Azure as their 'preferred' cloud provider."
-    publishedDateTime: 2021-01-19T06:40:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-invests-in-general-motors-self-driving-subsidiary-cruise/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/19/e4a779b7-17be-4799-9ec0-e3e23e443286/microsoftcruisegm.jpg"
-        width: 1193
-        height: 679
-        isCached: true
   - title: "Microsoft teams up with Cruise on development of self-driving cars"
     excerpt: "Microsoft is looking to leverage its prowess in cloud computing to help usher in the era of autonomous vehicles, with the company announcing a partnership with Cruise, the self-driving arm of General Motors."
     publishedDateTime: 2021-01-20T06:28:00Z
@@ -1042,6 +1022,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "7ci2XHtBy7/mkq6hZXA3G/XL1h0pyGSDn3Tg2aYtWIhgAuD0uYEL8ZuY4HPAUdG8/W6GxfXPvDa0huFKeP9798R+ZptJpaqr2Ln0DZiZ/67jS80n90SoLaR3KmgavMin7LodyuHNF0q6p1lKu4XewdwO94UlRKzzekQkBLWBSB0AmxD/H4VgVg1bWw8BZNJvJcbCzGJ82OPlEsZRORcK/ySJVmE52l4NTBC477AIaqe9dRofURScHlMO8mTzoEvtUSD0OKQJtd6juqcmy+TaUgxNBk16fCJikNpk+76PazK1Zon43RBYulJ6IGoHk+4pJH4fO0Xh1dwhCm+9J9J4SNwHoL0uw8oHEZPYWZmUy2c=;q1+gqqdzmox2KI3ETSSrxw=="
+secured: "s3sgC/oW08kaaONIoQY0bRcf24uNkIcX80mYhQhxpTXAxjvS27+hwyDo5ZHVTZNjqkn2fa5T2UAIWmvJg6mzrVOqm8uCAFuBT1yr777UkCd5omgF6j48OBytEsLmnwCwacUuw1Bb9tV2eZ5ceFWD4wUaFEecyhgu3pIm22jQG/W33JleYYlH9IURonzRpbjHlQAzcmPYReAJMDAt5Ur0LJneEvIO7fuyrLGG0HjlpyD659D/jEhb2kxpe3Sj9EEF2l3w8yg2rUEKG8nszoO1xFoGF7bh+DiFD1l4BNpknGFdAi8SK81kucu3cKKPIapTpiOG2CFvOkQkjZ7ab5CZ4t1AKMyg7SeoULntdT+sbRU=;BkJxCxcZJrvW1UxuKGwDqQ=="
 ---
 

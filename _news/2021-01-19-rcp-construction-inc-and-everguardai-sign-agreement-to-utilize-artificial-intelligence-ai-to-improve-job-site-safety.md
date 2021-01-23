@@ -35,20 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Reply Signs an Agreement with AWS to Develop Industry Solutions"
-    excerpt: "Reply, specialized on new communications channels and digital media, announces today it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to develop industry solutions for Financial Services,"
-    publishedDateTime: 2021-01-19T05:53:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-products-and-services-082a2c27820d4bf682582ea639dd97a4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Atos, IBM Collaborate to Develop Industry-specific Automation Solutions using AI and Hybrid Cloud"
     excerpt: "Atos and IBM on Tuesday announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize"
     publishedDateTime: 2021-01-20T03:32:00Z
