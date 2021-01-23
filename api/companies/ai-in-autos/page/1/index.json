@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 7105944
+        "followers": 7107684
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 19046
+        "followers": 19052
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -146,7 +146,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 62392
+        "followers": 62401
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -199,7 +199,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 8431
+        "followers": 8433
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -419,7 +419,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 16652
+        "followers": 16657
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -499,6 +499,44 @@
           "width": 400,
           "height": 400,
           "title": "Argo AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
+      "type": "profile",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uber"
+      },
+      "twitter": {
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1048732
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Global"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uber",
           "isCached": true
         }
       ],
@@ -707,7 +745,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 2668
+        "followers": 2669
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -751,7 +789,7 @@
       "twitter": {
         "username": "nurobots",
         "url": "https://www.twitter.com/nurobots",
-        "followers": 3442
+        "followers": 3444
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -812,7 +850,7 @@
       "twitter": {
         "username": "driveai_",
         "url": "https://twitter.com/driveai_",
-        "followers": 9083
+        "followers": 9084
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -965,7 +1003,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 17033
+        "followers": 17034
       },
       "yearFounded": 0,
       "locations": [
@@ -975,7 +1013,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 78,
+      "heat": 71,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
@@ -1121,7 +1159,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5338
+        "followers": 5339
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1228,7 +1266,7 @@
       "twitter": {
         "username": "neurala",
         "url": "https://twitter.com/neurala",
-        "followers": 2022
+        "followers": 2023
       },
       "size": "11-50 employees",
       "yearFounded": 2006,
@@ -1626,55 +1664,6 @@
           "width": 400,
           "height": 400,
           "title": "Cortica",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/ekar.ae.md",
-      "title": "Ekar",
-      "excerpt": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ekar.ae/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/ekar.ae/",
-      "type": "profile",
-      "name": "Ekar",
-      "overview": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
-      "website": "https://ekar.ae/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/ekar/",
-        "followers": 6324
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ekar"
-      },
-      "twitter": {
-        "username": "MyEKar",
-        "url": "https://twitter.com/MyEKar",
-        "followers": 753
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Dubai, Dubai"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1147039057060515840/rYnzOJXT_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Ekar",
           "isCached": true
         }
       ],
