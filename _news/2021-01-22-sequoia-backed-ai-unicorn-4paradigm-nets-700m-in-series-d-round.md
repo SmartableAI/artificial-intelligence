@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Sequoia-backed Chinese edtech startup bags $100m in Tencent-led round"
+    excerpt: "Chinese edtech startup Jiliguala announced it has raised nearly US$100 million in a series C round led by Tencent and Trustbridge Partners. Founded in 2014, Jiliguala provides online English classes for children up to 12 years old."
+    publishedDateTime: 2021-01-19T07:24:00Z
+    webUrl: "https://www.techinasia.com/sequoiabacked-chinese-edtech-startup-bags-100m-tencentled"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 32
+
 secured: "jyAdOfEdoMl82kuyruHyml6iZB/kPFuBemyDlxG7szImWI8Ou1U+rbfsJuZtWDAnSVt6PQ8aH+uANdq6JYr7ilCU5ofgwJ3aDEXMAWVO/vPmO1ZeUw8YAuw84Ms+huHxRHMU5GJQnuylD98yi8QQtf98KJqMbmz3SUpNRkDyouzmAizHKT982p75dcZCIBMdxuJmUekYiVNaopdw9dPaUxjVXc3gV4KOYjztZBUW3uugvv5hILwFOhiwmDm438b+d3g9FSPfpLLsFJDpxnxPfjrYYUQ0SAX3L4xXZNE5iKBJEW7NiMHlJnTO8Oy1L67+tP/YzPFvljSsqEuB3ncOhz+dKb9gkDadOsJvcRBJ/o03ZHRXXV2E1Sc9TP1PTGpAeQQEf86/1iN/EOPngiYIvereNrPftW5dGCe2RoC6GaIZ78uUOVwZAgwhXZFXr0Spqc09InQSbhVyl3sUuI1GfWokbUTSjbg2RSpV9XKteFo8fnnS07vf29kLB3kvilEi6jUL41RrWtfph3vikAR0XA==;lwfvJoqqNRw1wuss2eao5g=="
 ---
 

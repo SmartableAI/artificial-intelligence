@@ -47,6 +47,20 @@ related:
         width: 1500
         height: 842
         isCached: true
+  - title: "This site posted every face from Parler’s Capitol Hill insurrection videos"
+    excerpt: "The site's creator tells WIRED that he used simple open source machine learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
+    publishedDateTime: 2021-01-23T11:40:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/insurrection-faces-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
     excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
     publishedDateTime: 2021-01-19T15:16:00Z
@@ -62,20 +76,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "This site posted every face from Parler’s Capitol Hill insurrection videos"
-    excerpt: "The site's creator tells WIRED that he used simple open source machine learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
-    publishedDateTime: 2021-01-23T11:40:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 52
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/insurrection-faces-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "Ban on Facial Recognition Technology Advances in Minneapolis"
     excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing."

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2021/01/22/ai-weekly-the-biden-administrat
 webUrl: "https://venturebeat.com/2021/01/22/ai-weekly-the-biden-administration-algorithmic-bias-and-restoring-the-soul-of-america/"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -39,11 +39,50 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 59
+    quality: 159
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/AP_21016697634049-e1611336193653.jpg?w=3000"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "The Biden government’s AI plans: what we might expect"
+    excerpt: "The Biden government's AI plans: what we might expect I suspect we will see OSTP emphasize technical accountability under her leadership,"
+    publishedDateTime: 2021-01-22T23:45:00Z
+    webUrl: "https://www.compsmag.com/news/technology/the-biden-governments-ai-plans-what-we-might-expect/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/the-biden-governments-ai-plans-what-we-might-expect/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/the-biden-governments-ai-plans-what-we-might-expect/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 39
+  - title: "Some are renewing a push for federal recognition of Native Hawaiians under Biden administration"
+    excerpt: "The new administration is opening the door for federal recognition for Native Hawaiians, allowing greater self-determination and control similar to other Native American tribes."
+    publishedDateTime: 2021-01-21T06:37:00Z
+    webUrl: "https://www.kitv.com/story/43207592/some-are-renewing-a-push-for-federal-recognition-of-native-hawaiians-under-biden-administration"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 27
+    images:
+      - url: "https://KITV.images.worldnow.com/images/20275420_G.jpeg?lastEditedDate=1611187699000"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Some are renewing a push for federal recognition of Native Hawaiians under Biden administration"
+    excerpt: "As President Biden took the oath of office at the U.S. Capitol back in Hawaii the State Capitol was surrounded by a sea of Hawaiian flags. For Kumu Hina Wong it’s a reminder that a changing of the guard does not change history."
+    publishedDateTime: 2021-01-21T16:58:00Z
+    webUrl: "https://kvia.com/regional-news/2021/01/21/some-are-renewing-a-push-for-federal-recognition-of-native-hawaiians-under-biden-administration/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 27
+    images:
+      - url: "https://kvia.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9003_partly%20cloudy_day.png"
+        width: 280
+        height: 360
         isCached: true
 
 secured: "IuX4AgN0NxXUInFLuHebfTHVZmCLe2NDj5XOpThFCYdj7hQ2lf5uLvEFyF16dzIz3EBs3MAGlGmNYTWW1yhcUV/t/sNoSF94NvHe3j8E0SPrUM6ug40zOdr1U7tieKukXFe8IIJ6CCQuhFP644kwmwva5ajQq0RMgXwY/CesY7OCphec03tjpQ76PU3bUvujBkv9YjVHtbBkc/mTfX6ZqPQnU0+GtvNh9KAXF0PyBnIxpZx5b4rEaTv+X1trA+SjUZsyrivPslrebsk58I4t8TQjXLcdhwFuNm9lZ+1Fwm4onjvdMoUsj8A4T6jIBfymqNXuqETfCnXFbQZDF56NcuBQPyH6yVMOke0TURe206RKv5v7zU2Z1vNSB2daP+2Deg/LPgen2wenK4UXCz3+gIngCuH78IrG6+jV7fFlEabsaTpTd81+sAjgJBGdg9wgWzpcVaw0sMVxoB3a5inHuePMbh2KdeH8BadYGoi+awBym5qc8A0+aqiknMjP7NBC7jvTPqacctvXr6GB4o5KiA==;8hig/HXt7EyQ8LUNsFtfGg=="

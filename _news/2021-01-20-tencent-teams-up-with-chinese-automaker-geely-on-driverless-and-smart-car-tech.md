@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/19/tencent-and-chinese-automaker-ge
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/19/tencent-and-chinese-automaker-geely-team-up-on-smart-car-tech.html"
 type: article
 quality: 85
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -31,15 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Sequoia-backed Chinese edtech startup bags $100m in Tencent-led round"
-    excerpt: "Chinese edtech startup Jiliguala announced it has raised nearly US$100 million in a series C round led by Tencent and Trustbridge Partners. Founded in 2014, Jiliguala provides online English classes for children up to 12 years old."
-    publishedDateTime: 2021-01-19T07:24:00Z
-    webUrl: "https://www.techinasia.com/sequoiabacked-chinese-edtech-startup-bags-100m-tencentled"
+  - title: "Tencent is the latest tech giant to team up with carmaker Geely"
+    excerpt: "Hong Kong ()Chinese automaker Geely has just announced another big tie-up in its quest to build the cars of the future. The country's largest privately owned carmaker announced late Tuesday that it is partnering with Chinese social media and gaming giant Tencent (TCEHY) to develop features for smart cars,"
+    publishedDateTime: 2021-01-20T08:31:13Z
+    webUrl: "https://www.cnn.com/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
+      name: com/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html
+      domain: com/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119223025-02-tencent-geely-auto-partnership-intl-hnk-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Geely, Tencent Deepen Alliance to Include Smart Cockpits, Self-Driving"
     excerpt: "Chinese carmaker Geely Holding Group will work with partner and internet giant Tencent Holdings on smart cockpits, autonomous driving and digital marketing. The two companies will make next-generation smart cockpits and build connections between smartphones and automobiles relying on Tencent’s mobile internet strengths to provide better services,"
     publishedDateTime: 2021-01-19T13:58:00Z

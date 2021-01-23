@@ -67,7 +67,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/insurrection-faces-760x380.jpg"
         width: 760

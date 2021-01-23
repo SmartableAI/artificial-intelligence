@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent is the latest tech giant to team up with carmaker Geely"
+    excerpt: "Hong Kong ()Chinese automaker Geely has just announced another big tie-up in its quest to build the cars of the future. The country's largest privately owned carmaker announced late Tuesday that it is partnering with Chinese social media and gaming giant Tencent (TCEHY) to develop features for smart cars,"
+    publishedDateTime: 2021-01-20T08:31:13Z
+    webUrl: "https://www.cnn.com/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html"
+    type: article
+    provider:
+      name: com/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html
+      domain: com/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119223025-02-tencent-geely-auto-partnership-intl-hnk-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tencent teams up with Chinese automaker Geely on driverless and smart car tech"
     excerpt: "China's Tencent has teamed up with automaker Geely on various car technologies as traditional vehicle manufacturers continue to partner with technology giants."
     publishedDateTime: 2021-01-20T07:13:00Z
@@ -41,15 +57,6 @@ related:
         width: 1024
         height: 685
         isCached: true
-  - title: "Sequoia-backed Chinese edtech startup bags $100m in Tencent-led round"
-    excerpt: "Chinese edtech startup Jiliguala announced it has raised nearly US$100 million in a series C round led by Tencent and Trustbridge Partners. Founded in 2014, Jiliguala provides online English classes for children up to 12 years old."
-    publishedDateTime: 2021-01-19T07:24:00Z
-    webUrl: "https://www.techinasia.com/sequoiabacked-chinese-edtech-startup-bags-100m-tencentled"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
 
 secured: "qy3OCHSSdGuXetFM59L7lDiR7o7BPlpHARaRjYdmodSc8VA5pL91+n5vXk55MZqmINrmrSNRWVtiCfg3sa+fmGIrBJ/rveWhiMIxVLVLPChmmsU+tT5Pn8XzkV28Ms+t2BZ7t+D9REBZ3ANDux109tgGcMseH8+lr1LW24hfSQ1Mf5jbkBh0aiP+MvY7F+RlTmINLB31CINrbwACJ5RStTtF5fkHUYXLfE0Ri9GF6RRLzBHNBs0GizzNIDL38NCBpaIpU422Z5Q1nbV9cEQPEKOq5SICfCZ7wJUy5WPUFof2/OJXD9g2m6d5TfRLIvmQkGT61m9yQes1ZZWVDs3x1z7iNHjNoFr06ESXmxuSp30=;834ag5PcXbSLKiRiwofa6Q=="
 ---

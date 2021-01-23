@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Yellow Messenger integrates Microsoft Azure cognitive services on its platform"
+    excerpt: "Microsoft is working with Yellow Messenger to use AI services to make automated voice customer services with virtual assistants feel more natural and human to human during interactions"
+    publishedDateTime: 2021-01-23T08:16:00Z
+    webUrl: "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform"
+    ampWebUrl: "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 115
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/01/1611405390_yellow_messenger__story.jpg"
+        width: 760
+        height: 429
+        isCached: true
   - title: "GM’s Cruise self-driving startup raises $2 billion led by Microsoft"
     excerpt: "GM announced that Cruise, its self-driving startup, has raised a new $2 billion financing round led by Microsoft. The software giant is putting some skin in the self-driving game. GM Cruise Unlike other automakers having their automated driving divisions,"
     publishedDateTime: 2021-01-19T14:39:00Z
@@ -58,6 +74,17 @@ related:
         width: 1024
         height: 694
         isCached: true
+  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
+    excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
+    publishedDateTime: 2021-01-21T15:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 99
   - title: "Microsoft invests in General Motors' self-driving subsidiary Cruise"
     excerpt: "Microsoft is touting GM and its autonomous vehicle subsidiary Cruise as adopting Azure as their 'preferred' cloud provider."
     publishedDateTime: 2021-01-19T06:40:00Z
@@ -121,22 +148,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
         width: 1200
         height: 601
-        isCached: true
-  - title: "Microsoft backs General Motors' Cruise Automation self-driving car venture"
-    excerpt: "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,"
-    publishedDateTime: 2021-01-19T16:15:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/microsoft-general-motors-cruise-automation-self-driving-car/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-general-motors-cruise-automation-self-driving-car/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-general-motors-cruise-automation-self-driving-car/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/LZpr8HjlX48MqL6KBPa68NERksc=/2021/01/19/892566c0-08fd-4bf3-b65e-93ca003faf97/ogi-cruise.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Fugue announces new capabilities for managed container services by Amazon Web Services and Microsoft Azure"
     excerpt: "Fugue, the company putting engineers in command of cloud security and compliance, announces new capabilities for bringing public cloud container resources into compliance and ensuring the"
@@ -257,22 +268,6 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "Self-driving startup Aurora partners with heavy truck company Paccar"
-    excerpt: "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday."
-    publishedDateTime: 2021-01-20T00:38:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft To Do's task suggestion feature uses AI to improve productivity"
     excerpt: "Microsoft To Do for the web has a new Tasks that seem important feature that uses AI to suggests tasks you should take care of."
     publishedDateTime: 2021-01-22T15:22:00Z
@@ -328,20 +323,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 71
-  - title: "Microsoft Teaming With GM to Bring Driverless Cars Into ‘Mainstream’"
-    excerpt: "Microsoft is throwing the dice and betting that General Motors’ driverless car and electric vehicles technology will soon be “mainstream.” In an announcement Tuesday, the software giant said it’s teaming up with GM and its self-driving car subsidiary Cruise to speed up the commercialization of autonomous cars,"
-    publishedDateTime: 2021-01-19T21:35:00Z
-    webUrl: "https://www.kabc.com/news/microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream/"
-    type: article
-    provider:
-      name: KABC
-      domain: kabc.com
-    quality: 71
-    images:
-      - url: "https://www.newsmax.com/Newsmax/files/d4/d482a16e-94a4-49ca-a7ed-6592d675f779.jpg"
-        width: 600
-        height: 500
-        isCached: true
   - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
     publishedDateTime: 2021-01-19T19:04:00Z
@@ -412,6 +393,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
+    publishedDateTime: 2021-01-19T23:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "GM, Cruise to partner with Microsoft for self-driving vehicles"
     excerpt: "General Motors Co. and its autonomous partner Cruise LLC have entered a long-term strategic relationship with Microsoft Corp."
     publishedDateTime: 2021-01-19T14:14:00Z
@@ -572,6 +564,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
+    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
+    publishedDateTime: 2021-01-19T15:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Microsoft Research VinVL Makes Vision-Language Breakthrough"
     excerpt: "VinVL is a Microsoft Research project that brings leading image encoding in the VL space and will be a part of Azure Cognitive Services."
     publishedDateTime: 2021-01-19T15:05:00Z
@@ -618,26 +621,10 @@ related:
         width: 680
         height: 453
         isCached: true
-  - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
-    excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
-    publishedDateTime: 2021-01-19T16:08:00Z
-    webUrl: "https://www.barrons.com/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
-    ampWebUrl: "https://www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-287033/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
     excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
     publishedDateTime: 2021-01-20T13:11:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
     type: article
     provider:
       name: Associated Press
@@ -647,6 +634,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Microsoft Previews Azure IoT Edge for Linux on Windows"
+    excerpt: "Microsoft announced a preview of Azure IoT Edge for Linux on Windows, which lets organizations tap Linux virtual machine processes that also work with Windows- and Azure-based processes and services."
+    publishedDateTime: 2021-01-22T20:27:00Z
+    webUrl: "https://redmondmag.com/articles/2021/01/22/azure-iot-edge-for-linux-on-windows.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueSquaresFloatingBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
   - title: "Microsoft collaborates with Yellow Messenger to transform voice virtual assistants"
     excerpt: "Yellow Messenger has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services and NLP tools."
@@ -678,6 +679,20 @@ related:
         width: 358
         height: 238
         isCached: true
+  - title: "Microsoft teams up with GM to create autonomous electric cars to challenge Tesla"
+    excerpt: "\"This is a major shot across the bow from Microsoft to Tesla and Waymo and other EV autonomous ... vehicles with Azure computing and artificial intelligence capabilities promises a boon for ..."
+    publishedDateTime: 2021-01-20T09:01:00Z
+    webUrl: "https://www.iol.co.za/motoring/industry-news/microsoft-teams-up-with-gm-to-create-autonomous-electric-cars-to-challenge-tesla-4dee8d62-1779-4f0d-b6a8-9001db1351c2"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 51
+    images:
+      - url: "https://image-prod.iol.co.za/resize/2280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/ca8c9b0f-d547-5b79-bcfb-57ba54143f04&operation=CROP&offset=0x237&resize=2280x1283"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Cruise, GM Partner With Microsoft For Use Of Cloud Computing In Self-driving Vehicles"
     excerpt: "(RTTNews) - Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of"
     publishedDateTime: 2021-01-20T05:54:00Z
@@ -700,6 +715,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/19/general-motors-which-unveiled-a-new-corporate-logo.jpg"
         width: 768
         height: 768
+        isCached: true
+  - title: "Microsoft Give Users of Cortana Control Over Voice Recording Access"
+    excerpt: "Microsoft says users of Cortana and other voice-enabled service can now opt in or out of allowing the company to accessing audio recordings."
+    publishedDateTime: 2021-01-19T15:20:00Z
+    webUrl: "https://winbuzzer.com/2021/01/19/microsoft-give-users-of-cortana-control-over-voice-recording-access-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 41
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/09/hi-im-cortana-resized.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "GM joins with Microsoft to speed up self-driving cars"
     excerpt: "General Motors and Microsoft are joining forces to accelerate the development of self-driving vehicles.America’s largest carmaker and one of the world’s leading technology companies will lead a $2"
@@ -894,15 +923,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft backs GM's $30bn driverless car project"
-    excerpt: "Tesla is \"trying to make full-size cars in the same way toy cars are made\", boss Elon Musk has said, as the electric car company provided a glimpse into how its tabless batteries are being made."
-    publishedDateTime: 2021-01-19T18:12:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/19/tesla-provides-glimpse-battery-production-line-makes-cars-like/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 36
   - title: "Microsoft Joins Self-Driving Vehicles Race, Invests With General Motors In Cruise"
     excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM), to"
     publishedDateTime: 2021-01-19T19:17:00Z
@@ -931,6 +951,20 @@ related:
         width: 768
         height: 345
         isCached: true
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
+    publishedDateTime: 2021-01-19T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft Lets Users Decide Whether Their Voice Clips Can Be Accessed By Human Reviewers"
     excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide"
     publishedDateTime: 2021-01-19T19:51:00Z
@@ -945,19 +979,19 @@ related:
         width: 690
         height: 480
         isCached: true
-  - title: "Microsoft looks to bolster the self-driving car market with new Cruise and GM partnership"
-    excerpt: "Microsoft appears to be re-entering the automotive market in a significantly greater capacity than it has been previously. A few years back, Microsoft seemingly slunk away from the automotive"
-    publishedDateTime: 2021-01-20T15:19:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-looks-to-bolster-the-self-driving-car-market-with-new-cruise-and-gm-partnership"
+  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
+    excerpt: "Project will provide additional value and scale to Quorum’s popular Q Analytics Enterprise Reporting solutionCALGARY, Alberta, Jan. 19, 2021 (GLOBE NEWSWIRE) -- Quorum"
+    publishedDateTime: 2021-01-19T20:05:00Z
+    webUrl: "https://www.wboc.com/story/43195966/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 32
+      name: WBOC
+      domain: wboc.com
+    quality: 30
     images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Cruise-Microsoft-cropped.jpg"
-        width: 1024
-        height: 768
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Speech & Voice Recognition Market is Booming Worldwide with Nuance Communications, Microsoft, Alphabet"
     excerpt: "Latest released the research study on Global Speech Voice Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Voice Recognition Market research report shows the latest market insights current situation analysis with upcoming trends"
@@ -970,20 +1004,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
-  - title: "Cruise self-driving cars headed to Japan"
-    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
-    publishedDateTime: 2021-01-22T14:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
-        width: 1920
-        height: 1189
-        isCached: true
   - title: "Microsoft joins GM to build self-driving cars, invests in $2bn fund"
     excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM)"
     publishedDateTime: 2021-01-20T06:42:00Z

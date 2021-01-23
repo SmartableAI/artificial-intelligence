@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-23T11:40:00Z
 originalUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
 webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/insurrection-faces-760x380.jpg"
@@ -152,6 +153,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "084DjMo6GEF6u7fVBmYOdZhqA3/Rjfz1GpM0FaonN3CuiK9tQNaxfhl6iOrADHhBgHXvB2qGnKufDYxNeGzzucxdYI6SmDsrd3oY1YlNcLaCENRjz5TLu5x3mkwfHgnH0oKxyQ4kCzmz3umwhRz4hTnTPHri9jFjmUAo2jPBaXaFc45aM7HDoqybpMvfSBz3PFBc4CjjKZt2af3P8WpAQNHVsINrCh+RrwNIkkaWnqB+iqwBiz+tvwxpRW50vBK8EuFGLAwjxJU7EKJQGMF8UoSSt5premOLP3QexPrgzVxC8qCWVvspv9k7qgJcSKi2LyZQgEVSf4g8myICIwlIagQ7pgUBdPaqIk3vcqp3pV8=;ZrETLlrNEihcvHb+u/Lfeg=="
+secured: "IAYPggmqKtz176pwAsCeK+yLO9eEASL69VAMxsdREXOQTRItwQ8Xb6A6db4QMpWiA1J8acZU75sMhwAi70d/wsJN9h0SdiECZUoeofAjT5BfHBSxjEwT4pNClS2SNhi51uCQlr3s4WgvH0FP0f4cGNh+Kr30PjH/qPCYiZa3vTe3Vgn8leK4fD3yCVrJwX8mxJy6jpacN2o792ZTA3I80xpy8/DjomBNRu8t6HoB18p7r5trcpsrN8IUTE88WTW6a6LZ2WAq7a+y0G+8a18B6cTVyuX5TSkSnx1o38dWfZZc0X2xEXeCQuUGjgo4gU3I3KBHf8voLoN+7QlN0uDCElFsywM9gq+tvtT7KB7mrM0Zb3AxjsI2KaVPArsOtR9FLQqNB86jZc6ILs+Zg260tdiRzVnQnJKzGUdytnaRRVSibYZWVA0HoJ970IV/M7e4wObclOiLBZeL1numvjjlnqiAzfJAxbAknu7lRRFMh84euucLq9XnQs9IC5uhaU8NaWccvAdTi91r629MIN7TbA==;k5mgCM4g0qrv9zUfvj956w=="
 ---
 

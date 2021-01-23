@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-20-ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say.md",
-      "title": "IBM is moving to cut thousands of jobs, reports and workers say",
-      "excerpt": "RESEARCH TRIANGLE PARK – IBM is planning to ... clients on their journey to adopting an open hybrid cloud platform and AI capability, and we are reinvesting in our business,” a spokesperson ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wraltechwire.com/2020/11/20/ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say/",
-      "originalUrl": "https://www.wraltechwire.com/2020/11/20/ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wraltechwire.com/wp-content/uploads/2020/11/keyboard-417090_1280-e1605871366735-1024x577.jpg",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-20-facebook-says-its-getting-better-at-using-ai-to-take-down-hate-speech.md",
       "title": "Facebook says it's getting better at using AI to take down hate speech",
       "excerpt": "(CNN)Facebook has spent years building and deploying artificial intelligence to stamp out hate speech on its massive social network. The company says it's now using the technology to proactively ...",

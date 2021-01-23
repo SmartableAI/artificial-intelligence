@@ -59,20 +59,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025"
-    excerpt: "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
-    publishedDateTime: 2021-01-18T21:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2021-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market 2021 Share, Size, Production, Sales, Supply, Demand, Analysis and Forecast to 2026"
     excerpt: "Jan (The Expresswire) -- Global “Artificial Intelligence Market” research report contains in depth information of industry by size,"
     publishedDateTime: 2021-01-21T03:46:00Z

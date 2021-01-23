@@ -45,83 +45,35 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
-    publishedDateTime: 2021-01-19T23:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+  - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
+    excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
+    publishedDateTime: 2021-01-19T16:08:00Z
+    webUrl: "https://www.barrons.com/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
+    ampWebUrl: "https://www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
-    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
-    publishedDateTime: 2021-01-19T15:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-  - title: "Microsoft Previews Azure IoT Edge for Linux on Windows"
-    excerpt: "Microsoft announced a preview of Azure IoT Edge for Linux on Windows, which lets organizations tap Linux virtual machine processes that also work with Windows- and Azure-based processes and services."
-    publishedDateTime: 2021-01-22T20:27:00Z
-    webUrl: "https://redmondmag.com/articles/2021/01/22/azure-iot-edge-for-linux-on-windows.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
+      name: Barron's
+      domain: barrons.com
     quality: 54
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueSquaresFloatingBig.jpg"
-        width: 1665
-        height: 1158
+      - url: "https://images.barrons.com/im-287033/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Microsoft teams up with GM to create autonomous electric cars to challenge Tesla"
-    excerpt: "\"This is a major shot across the bow from Microsoft to Tesla and Waymo and other EV autonomous ... vehicles with Azure computing and artificial intelligence capabilities promises a boon for ..."
-    publishedDateTime: 2021-01-20T09:01:00Z
-    webUrl: "https://www.iol.co.za/motoring/industry-news/microsoft-teams-up-with-gm-to-create-autonomous-electric-cars-to-challenge-tesla-4dee8d62-1779-4f0d-b6a8-9001db1351c2"
+  - title: "Microsoft looks to bolster the self-driving car market with new Cruise and GM partnership"
+    excerpt: "Microsoft appears to be re-entering the automotive market in a significantly greater capacity than it has been previously. A few years back, Microsoft seemingly slunk away from the automotive"
+    publishedDateTime: 2021-01-20T15:19:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-looks-to-bolster-the-self-driving-car-market-with-new-cruise-and-gm-partnership"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 51
-    images:
-      - url: "https://image-prod.iol.co.za/resize/2280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/ca8c9b0f-d547-5b79-bcfb-57ba54143f04&operation=CROP&offset=0x237&resize=2280x1283"
-        width: 650
-        height: 366
-        isCached: true
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
-    publishedDateTime: 2021-01-19T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: On MSFT
+      domain: onmsft.com
     quality: 32
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
-    excerpt: "Project will provide additional value and scale to Quorum’s popular Q Analytics Enterprise Reporting solutionCALGARY, Alberta, Jan. 19, 2021 (GLOBE NEWSWIRE) -- Quorum"
-    publishedDateTime: 2021-01-19T20:05:00Z
-    webUrl: "https://www.wboc.com/story/43195966/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 30
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Cruise-Microsoft-cropped.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "pzD1IAVnlEF9xdRHpcX9Fhh+choUAkvAzHeF0NZUHttVrGy6r4zNca17gy7lWx/AtX8cflvWRWD2e9UWFGIO8WbupAbVG5zDBdmpznhs2JW9lWRfVDCk2FX2uWOovaKGIr3P05klICLEQ7q8QeDkCGwjPYfq4l2lWuYjkDYOr52LbPW0ZKmu4Fu8sr3uMispa60xB/nW3MFmLMS87twbju4AYn6IlDliS9AFtEH67n6scnlX0Akli3+XJ0SHWG6EftmLZp5yfE76kRfWJmJx3nPOwVqBUuP1IqJCozunT19iL7krgAonswABpA++21586bXHCjJ/07H8keSKL0oNPc7FtM0io3fGn7vMBP1w5P41qgqD0aZz0VfpeXBi2KLH3gA4DBvAy8tCq+HcheFDabYarzX8XoOl1B2bTKiO6vMmRYULmLU95KHI20iqhKQBLU9BtAEYMKU5z/DELXdsdq+nBTlUFcJuxN2YfR7GneAIjPOlPrKSfBS4Qb0ZCp1Hk+3RxqHAW55AY1/v4OlTSQ==;eHA95WVPd/KQWZdW4sjEmA=="

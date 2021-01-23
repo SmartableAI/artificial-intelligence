@@ -42,22 +42,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Using 'federated learning' to enhance predictions of COVID-19 outcomes"
-    excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine electronic health records to better predict how COVID-19 patients will progress."
-    publishedDateTime: 2021-01-18T22:43:00Z
-    webUrl: "https://www.news-medical.net/news/20210118/Using-federated-learning-to-enhance-predictions-of-COVID-19-outcomes.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210118/Using-federated-learning-to-enhance-predictions-of-COVID-19-outcomes.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210118/Using-federated-learning-to-enhance-predictions-of-COVID-19-outcomes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Genetics-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
     excerpt: "Researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."
     publishedDateTime: 2021-01-21T00:00:00Z
