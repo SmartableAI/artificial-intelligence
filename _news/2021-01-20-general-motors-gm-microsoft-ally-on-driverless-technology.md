@@ -413,6 +413,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
+    excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."
+    publishedDateTime: 2021-01-23T02:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions-2021-01-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM, Cruise to partner with Microsoft for self-driving vehicles"
     excerpt: "General Motors Co. and its autonomous partner Cruise LLC have entered a long-term strategic relationship with Microsoft Corp."
     publishedDateTime: 2021-01-19T14:14:00Z
@@ -654,7 +668,7 @@ related:
   - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
     excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
     publishedDateTime: 2021-01-20T13:11:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
     type: article
     provider:
       name: Associated Press
@@ -934,20 +948,6 @@ related:
       name: The Daily Telegraph
       domain: telegraph.co.uk
     quality: 36
-  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland's deep knowledge,"
-    publishedDateTime: 2021-01-18T10:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-19603866.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 34
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Microsoft Joins Self-Driving Vehicles Race, Invests With General Motors In Cruise"
     excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM), to"
     publishedDateTime: 2021-01-19T19:17:00Z

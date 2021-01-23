@@ -67,20 +67,6 @@ related:
         width: 560
         height: 315
         isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
-    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
-    publishedDateTime: 2021-01-18T10:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-2020-size-growth-analysis-top-key-players-latest-innovation-and-forecast-to-2025-2021-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5e1sQtRbHzmRHcp+d1DCFumcy2MtfXfytNVjQx4JDnTfoea1E0iuppXwpoPE2426cNXc/mhzoqbE0RnLTKXV3rwUx81EBplMrnCTIgKWAOiWGz/KNb3FGQPDz4+OL9ccpMHjTGvTLp7/CpIurrVTtQXvUK6OdAVB4TbXYE11Vwno73qEy9Su2JJHt2e2wbaOmBPbQ6J48PwNKMep0XL362TxpJ4fy4ZG6DbMfhjt/IYin0OiwNldd+vqB3XlTYIXN0qL5vTeXhK41maHwzvvkbS/DZ8QbsHnbbzvtDsnQvBR4TsQ3BbYoupxHxvdyLIqyEzVV3JmMIztK1buD+6YE2bTSvk9Io239W1rtmnntFw=;idt3N64lgVl0B0T1IXAjmA=="
 ---

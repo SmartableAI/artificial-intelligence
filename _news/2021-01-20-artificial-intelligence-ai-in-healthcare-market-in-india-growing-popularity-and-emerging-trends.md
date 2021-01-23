@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2228125/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://cdn.openpr.com/U/1/U118912294_g.jpg"
         width: 560
         height: 315
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Share 2020 Size, Growth Analysis, Top Key Players, Latest Innovation and Forecast to 2025"
-    excerpt: "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
-    publishedDateTime: 2021-01-18T10:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-share-2020-size-growth-analysis-top-key-players-latest-innovation-and-forecast-to-2025-2021-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "cHpNdNsoHd7Qi9tHCMBc+eTMvi+A4kCjAOW1NgxbZJPD2dbDZPkzf672zpE2In2huduG0IQtEWqdT4rm5TxgnuKCARAQXFME9aCZ/2LGqnbXlml2SBPWvHkMk8yYb7+pEPJCIpMe+uJS1J5BLSbXBKXv7IxmwAebldh1B2VX6fvL8qm8XEYtPVVC/tCNLAokmrxatZ36uLiBZWTHxD21EOBXEo2QPmnuo4uMeguNQmbii+HQ8b+VUogh0v4jvxg54bc1mgKArquk7U9XqQ9bSD6T5swFv+o9e9aL+2O4tXgRyFTg9e5BAuu0V6QE6Fz80xa4s7ti0m8t+qviAI/tq9yDdB0iDwsnmr8e8KM5RiY=;zf5h/4FJypfqKTASzqhz/w=="

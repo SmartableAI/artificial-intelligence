@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
 type: article
 quality: 69
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -237,20 +237,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Speech and Voice Recognition Market Latest Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2021-01-18T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast-2021-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence Drug R&D Market: Key Industries Are Expecting To Recover From COVID-19 Outbreaks 2021-2030"
     excerpt: "Market.Biz :The Artificial Intelligence Drug RD Market research study explains and justifies all tools and techniques by a market competitor that may proceed with your further research. It involves the learning of various techniques to conduct Artificial Intelligence Drug RD industry research and acquiring knowledge to perform different test cases,"

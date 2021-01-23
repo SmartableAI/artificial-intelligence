@@ -3,10 +3,10 @@ category: news
 title: "AI spacefarers and cosmic testbeds: Robust robotic systems forge path for human space exploration"
 excerpt: "With global dust storms, extreme temperature fluctuations, and cosmic radiation, life beyond the Earth's comparatively cozy confines is no picnic."
 publishedDateTime: 2021-01-21T15:54:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
+originalUrl: "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
+webUrl: "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
 type: article
 quality: 74
 heat: 74
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "RUmshkLUFvkUEp5eSOsWrLMVBOPDirrl62dvIoLnC3LuE2jBQg9KLDd2rUiG8MOwqqsA8O7txuKyG6HfM+eLmgddIXtrGT3Hxd977C1fR1q7kLClratIFFc5YCSxtDSfzSD9u/Fbk8AB4EC/KvzIT6MjwjDK5xUZo/a6fKh6X500o0Mhw6OryYPgI9GccoKDuYllCI6XkU3InS1L0wbrZV6NZP7WRRAaMx9ZyEneKCXzPR4Ffb+IhjpqFGEC44bg+LbDbBDQDWJ/T26pBbRj8hdh+rvLN5pPXgSFPqyMly+nN5/qfvQDTGGqmR47B3S1K2d4GpNqSk6Gb2WxQpKr+c7jzuVcRAV55aoHnvM9DGOqN+T/eTMDj0/WaXR/RH0RKqkwPTJpTaVudoxRApwnafv1egMghS5uwMat0+ec9TkCNT93Dt5uap90YfipopQIk/IYeW6eD59d7ZxlNrNJ5C0PBzq8hrwWMUL9p1CDCxyqRYRzSr+jIxZJ3n5PNAA4bbYIt7Fp9muTfuDSHvBCBA==;DM5bui+pv1SRREGlPqAhhA=="
+secured: "9wLjx48MYYYlmjdTd2h9sKftabYX7QUf74Zvw5wqSZx1clhm/zYyRNmZed9eBj6yPu55YbZVKmTmXvU8zCpH+e9eXaYq+5PGyhpodh79cQXibOBfWh7lPInfuTIXESQEo8rSa1nY+VaMtvjAh4Bd41A6dQE9HM8y2qOjAqD4mOm1K+drrAX4ymGtvB7qvanqm3134Cp9GA08OO/ESpkoGD9ZVvw7BwNoBMlXSWAXX4hf73zY5RCfc8PAMLt5znHvXR60REjZJvexSKnUXpsCrRxBsMWWZAszyTNUNMT00qEee1aEotyeSA21lBdB6HKyq+t+Yt9xMqoy2f+um4ZpUri2pbtqFC5pv6WGuEKQqGM=;x5y+9WbdxC6DyLKVE6g3Xw=="
 ---
 

@@ -92,15 +92,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Reply Signs an Agreement with AWS to Develop Industry Solutions"
-    excerpt: "Reply, specialized on new communications channels and digital media, announces today it has signed a Strategic Collaboration Agreement (SCA) with Amaz"
-    publishedDateTime: 2021-01-18T09:47:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210118005019/en/Reply-Signs-an-Agreement-with-AWS-to-Develop-Industry-Solutions"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "Mq6Bi8KfI0N7F4TfEPyOMQs3KVGk7aGVSvm+radMiHmRaPikJ0JN6gRwtu8dgx+1lWmHJlmwF4Ib52u/jy50dfv4sCvx2B0ywJWEpRWfhZIaXJDkcH6mgcMWo1gxMvTCbdmVQsNsnLYaNv7e0RA7XKhxhL9VMEyfSPehYFx9MPKcPKF8ykzqc0A7LLO0Gzdc1rQW0rzu5vVFGHPBVZ76GKjy6ljlFagtpdTwRHJ2bXA7jfTMnq01m5F7qD6brFGZah2n6v0hbYchyiwA+gBYyUFYp6uVrhoyPTaYZbtuR/jhx+T3QexQLmGAjaTC7hVzDyXV6a0Pgk2mhBWu0yx6McbW5Ib3Df4TuzbKobDjxO4=;2NG6C9HFMbWHfEXkRQbORg=="
 ---

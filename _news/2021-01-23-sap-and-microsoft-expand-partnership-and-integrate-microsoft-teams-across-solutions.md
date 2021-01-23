@@ -1,34 +1,31 @@
 ---
 category: news
-title: "Microsoft voice data collection will be optional with one catch"
-excerpt: "After becoming a mostly touch-based society thanks to smartphones and tablets, tech giants are trying to turn us back towards using our literal voices to drive our interactions with technology. AI"
-publishedDateTime: 2021-01-19T04:07:00Z
-originalUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/"
-webUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/"
-ampWebUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
-cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
+title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
+excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."
+publishedDateTime: 2021-01-23T02:51:00Z
+originalUrl: "https://www.marketwatch.com/press-release/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions-2021-01-22"
+webUrl: "https://www.marketwatch.com/press-release/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions-2021-01-22"
 type: article
-quality: 91
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: SlashGear
-  domain: slashgear.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero.jpg"
-    width: 1280
-    height: 800
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -109,6 +106,22 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/19/e4a779b7-17be-4799-9ec0-e3e23e443286/microsoftcruisegm.jpg"
         width: 1193
         height: 679
+        isCached: true
+  - title: "Microsoft voice data collection will be optional with one catch"
+    excerpt: "After becoming a mostly touch-based society thanks to smartphones and tablets, tech giants are trying to turn us back towards using our literal voices to drive our interactions with technology. AI"
+    publishedDateTime: 2021-01-19T04:07:00Z
+    webUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/"
+    ampWebUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 91
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero.jpg"
+        width: 1280
+        height: 800
         isCached: true
   - title: "Microsoft teams up with Cruise on development of self-driving cars"
     excerpt: "Microsoft is looking to leverage its prowess in cloud computing to help usher in the era of autonomous vehicles, with the company announcing a partnership with Cruise, the self-driving arm of General Motors."
@@ -417,20 +430,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
-    excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."
-    publishedDateTime: 2021-01-23T02:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions-2021-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "GM, Cruise to partner with Microsoft for self-driving vehicles"
     excerpt: "General Motors Co. and its autonomous partner Cruise LLC have entered a long-term strategic relationship with Microsoft Corp."
@@ -1071,6 +1070,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "VZlS8udomZWm/rhNB0yWBh/sBCPTqOvflmIUGgYAf9AYkpxE0jbvnAbP9e6ScvPb1C4thC4NjLPRGn2wl8+/X+laJq212Jqg6WrPotSBMAvSN0v/fGoLM8NoOZlBE1ObuUAhercNhdrnF39diFXqoyHbAq4IQRfTfB67iIcwBPMB1ukc3vyLSKDgcQ3siFHbE7aZIxeefaW3OlHgP16YRG2Q0k2RdLV5MGbP3Hyc1eJwthNoAh6bMN72MXHr16uGPkyACWqrcBau5nBqdmCCtl0xsbxCapd/A8MCxAk9gyyAq7Evp+QCuT+HdUX5/qaP+OAP/Y+YaLlSbjOPuvPEiQ3ry1P6u68fE3eDr8kTaefOGVif1GUfu3YenDDZPWa3PF5RwReXG2uogfe2mNNbj/p0hEKskkhhazrecDH4iJQlyHEwOU+XYj/0oRV02DBrimdN59C+aAqC0ve1BmafjVC0+bzXRMsdShBeNK0LX8ryObx4wCgL5VXvkiwLuLHMgYU5zbc2/43VE0O4VIkfcQ==;IxT7MPkvJk0/rnKLGnEgkA=="
+secured: "/Wk51A/On3oNNg5gi9mFss90Lip6nNh7QHmTNp5RsmNJc25YYNWIjyjWNv0xBswt8wITqNAgzUc7t+1sZCI/jv4AxOGpUx5ntybrDpGEhF6rTrgoRze8nGzw9C1qNQM0saiZikiBa+W3wUWw7S1+NRJMHj/IMtPAzXFfvHQCz0JI04eDrEhdl7gyZtLGjYj4XhJOhQFiJWF3yf99tEZLjUkvOeDFLxEDrWH3M6NURgC/VuPVvN5VpAo3/GPdd4bIz/aQ0KzcemMsNgoTufnKA0eUX83GRLsd5ZiQz673Ku04HPSHL614d/JHpjuLC4XEJjx96M4ugVWofhDM0NBV8BeORB0Z2Fq7UyRMpR1xixk=;Nb/kqjcRbsDTIQVx4iPjjA=="
 ---
 

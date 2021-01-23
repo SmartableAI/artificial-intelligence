@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Ban on facial recognition technology advances in Minneapolis"
-excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
-publishedDateTime: 2021-01-22T15:37:00Z
-originalUrl: "https://apnews.com/article/technology-media-social-media-minneapolis-5345d1193e4435aa9ce621aaf6d9c783"
-webUrl: "https://apnews.com/article/technology-media-social-media-minneapolis-5345d1193e4435aa9ce621aaf6d9c783"
+excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing."
+publishedDateTime: 2021-01-22T00:00:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/jan/22/ban-on-facial-recognition-technology-advances-in-m/"
+webUrl: "https://www.washingtontimes.com/news/2021/jan/22/ban-on-facial-recognition-technology-advances-in-m/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/22/ban-on-facial-recognition-technology-advances-in-m/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/22/ban-on-facial-recognition-technology-advances-in-m/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
-    isCached: true
+  - Computer Vision
 
 related:
   - title: "Technologists Use Facial Recognition on Parler Videos"
@@ -134,6 +131,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "pZhZtRvop/VKwRAa10t7q6Qjxylw8/4asYuM2nDqfDf9hdZQiyzzPj0TiCVPJksGWZRPdAghOgrGogdSnYfsxi9PTXwCMyHbmmC8jr7etUHLaf0iO9SMAmdpnNuqimK+K8iXq3rGzGxqS8bhE2Lfk5EOHDUzoXL7mY4dvfEJojP7LFUJVeXeiODzDkMni7KAIYnHizBjOkW7YlAqJ2drSdBX47vzpiHwShw6Qp4ard8uMiTtVHVwAq2j2WDi4ZiGk6DXMXQ06wyGRrulybv2/YirOV0LvZ+lXElM1GmUY1Ye8Nm0HouUiEVmVrbiTXMVzDmEAxQdhNtR1vwOKN42Cuo61x2JA28EFUae3UUdzKQ=;9aAUeiPDabcf7cSdV3ivNw=="
+secured: "dhPuvwVM+OBCk62hIU+7GUyNPC4pCbSLVNGT8CPoIdPDeB5vq4N+ErSY+3EPGhFqs2PNcQnxBmzYiWVhTwOV81zJZ9TXAyhg56YAfE2tJuvCB4v7Lxe1CMslnXj/YenD/4mDEQR7hNHxPJA9AuCPgt5xdEhYV9pCTqRVL/MMHnzQ6EG4a3ftfP9RW3PzD/rZPUWJnKoPRuc+zL19+jDYGjXNIP9MrRFgFMqILTgMKe6usASVdkH2945Pq0c36Z891n9r9/UqDflysg91Q8ISaRar/I6hQHP8Ulz13zNh75BBIuYAjcVD2vavAabFwBQqD6J/VS3erbSdGV1FHjZcXCF8CTq/vebBDOjFJ0P3vEI=;qVDZjFwp9Svc9ypszG8OEg=="
 ---
 

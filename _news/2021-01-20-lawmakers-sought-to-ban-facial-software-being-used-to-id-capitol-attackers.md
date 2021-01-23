@@ -65,20 +65,6 @@ related:
         width: 549
         height: 309
         isCached: true
-  - title: "Following the U.S. Capitol attack, tough ethical decisions ahead on face recognition technology"
-    excerpt: "Today’s columnist, Rustom Kanga of iOmniscient, says Americans will have to make some tough ethical choices about face recognition technology as political tensions and divisions mount across the country. (Credit: iOmniscient) The attack on the U.S ..."
-    publishedDateTime: 2021-01-18T11:00:00Z
-    webUrl: "https://www.scmagazine.com/perspectives/following-the-u-s-capitol-attack-tough-ethical-decisions-ahead-on-face-recognition-technology/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 44
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
-        width: 1125
-        height: 941
-        isCached: true
   - title: "US lawmakers aim to curtail face recognition even as the technology identifies Capitol attackers"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of"
     publishedDateTime: 2021-01-19T00:48:00Z

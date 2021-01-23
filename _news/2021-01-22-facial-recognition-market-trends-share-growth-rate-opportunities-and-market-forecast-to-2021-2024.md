@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Educational Robot Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
-    excerpt: "The educational robot market is expected to grow at a CAGR of 16 4 from 2019 to 2025 The role of educational robots is not to replace teachers but to make the entire learning process much easier and more convenient"
-    publishedDateTime: 2021-01-18T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2226366/educational-robot-market-growth-size-opportunity-share"
-    ampWebUrl: "https://www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226366/educational-robot-market-growth-size-opportunity-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118883099_g.jpg"
-        width: 770
-        height: 338
-        isCached: true
   - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 – 2024"
     excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
     publishedDateTime: 2021-01-21T14:58:00Z
