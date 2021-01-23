@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-i
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-artificial-intelligence-james-golden-5390f4093347c786a3999a2206b5dce2"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Recruitment Platform PredictiveHire shares its ethical framework for AI"
-    excerpt: "PredictiveHire (  an Australian technology company that has pioneered transparent AI-assisted hiring solutions, today announced the global release of its Fair AI for Recruitment (FAIR™) framework to educate HR executives in assessing AI technology for use in their organisations,"
-    publishedDateTime: 2021-01-19T02:36:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-australia-products-and-services-d15b0570109a5c907ac86a967471daed"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "n3yISK9QgoH8SDNt7WpLkW7WiFT6OOZ37tRu1iE6IRAUap4QYqNog1ipN0k7k1g80SrLjDHubF5zLSpKAg3MFZX55oTs/lYyR24YOFOZwIhSEx2hKX23CxzOtetL3eve576s0DZBg/GhnyCjgjF+05Y/CqRBZXnbw/7k5XnSGOYlzmhNRhwwVBhf/scuXH+xoCgQxgqbIBt6BYdCzXRPpqO5mTjPzdh3gvDbp33Zopbgh7I+P/o989n2eyU+6SmlyuHmjXsmnDZ2Q1X7nhyPgMEDnZ03J2m8rtb2UtsJkQt+UTm/CKeUtzDSpUY2F826cW5+HMPZpZFJb0RvsMKJHul7+QOtT2XQTyTXZ/0OeBw=;tIquQNOTqZkqPK0HUksAQA=="
 ---

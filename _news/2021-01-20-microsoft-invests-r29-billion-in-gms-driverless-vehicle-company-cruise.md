@@ -188,6 +188,20 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
+    excerpt: "Cloud-based data will enable Nextech AR to host hyper-scalable, secure events and support immersive 3D and AR experiences across all its technologies."
+    publishedDateTime: 2021-01-20T07:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft wants to listen to your voice recordings - but will ask for permission first"
     excerpt: "Microsoft has confirmed some important changes to how it processes voice recordings. From now on, users of the company’s voice-enabled services like Cortana can decide whether their audio recordings are stored and analyzed by the company to improve speech recognition or not."
     publishedDateTime: 2021-01-19T16:01:00Z
@@ -620,20 +634,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/4863x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4ce67df8-4bad-5179-b3c6-3dc1a4b1394f&operation=CROP&offset=267x1283&resize=3470x1952"
         width: 651
         height: 366
-        isCached: true
-  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-    excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
-    publishedDateTime: 2021-01-20T13:11:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Microsoft Previews Azure IoT Edge for Linux on Windows"
     excerpt: "Microsoft announced a preview of Azure IoT Edge for Linux on Windows, which lets organizations tap Linux virtual machine processes that also work with Windows- and Azure-based processes and services."

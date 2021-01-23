@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2025"
-    excerpt: "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
-    publishedDateTime: 2021-01-19T01:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Infrastructure Market Analysis with Impact of COVID-19, Top Companies, Trends, Size, Growth, Share, Demand, Future Opportunity Outlook 2025"
     excerpt: "Jan (The Expresswire) -- Global \"AI Infrastructure Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"
     publishedDateTime: 2021-01-19T10:38:00Z

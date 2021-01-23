@@ -2,6 +2,51 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-12-02-7-tremendous-changes-artificial-intelligence-brings-to-the-education-sector.md",
+      "title": "7 Tremendous Changes Artificial Intelligence Brings to the Education Sector",
+      "excerpt": "Have you considered the role of AI in education as more academic institutes discover its virtues in the coming years?",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
+      "originalUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/AI-in-education.jpg",
+          "width": 1000,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
+      "publishedDateTime": "2020-12-01T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-andy-jassys-aws-keynote-revealed-little-about-multicloud-plans.md",
       "title": "Andy Jassy’s AWS keynote revealed little about multicloud plans",
       "excerpt": "In a market moving increasingly toward multi and hybrid cloud models, people are eager to see how AWS’s attitude will evolve.",
@@ -1185,49 +1230,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-snapdragon-888-unveiled-with-massive-upgrades-to-gpu-ai-hardware-and-5g-modem.md",
-      "title": "Snapdragon 888 unveiled with massive upgrades to GPU, AI hardware and 5G modem",
-      "excerpt": "Qualcomm teases \"most significant upgrade\" to the Adreno GPU, holds back details for now. The CPU is kept under wraps too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-news-46535.php",
-      "originalUrl": "https://www.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-news-46535.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/20/12/snapdragon-888-announced/-1220x526/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-amp-46535.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-amp-46535.php",
-      "publishedDateTime": "2020-12-01T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

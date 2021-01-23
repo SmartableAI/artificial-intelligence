@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
 type: article
 quality: 95
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/15/c7b2f24c-5bd6-4c2e-8da4-e5a71849d9c0/resize/1200x/b7ddd4e0c59a0375d3225b6af03e58de/istock-1213521693.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2025"
-    excerpt: "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
-    publishedDateTime: 2021-01-19T01:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI Infrastructure Market Analysis with Impact of COVID-19, Top Companies, Trends, Size, Growth, Share, Demand, Future Opportunity Outlook 2025"
     excerpt: "Jan (The Expresswire) -- Global \"AI Infrastructure Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"

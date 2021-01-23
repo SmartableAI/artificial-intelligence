@@ -2,6 +2,58 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-12-14-speech-recognition-software-market-technology-advancement-and-future-scope-till-2025.md",
+      "title": "Speech Recognition Software Market Technology Advancement and Future Scope Till 2025",
+      "excerpt": "The Speech Recognition Software market was valued at 48500 Milion US$ in 2019 and is projected to reach 69700 Million US$ by 2025, at a CAGR of 3.9% during the forecast period. A speech recognition software identifies words spoken by an individual or speaker into a microphone,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-eu-watchdog-urges-ai-policymakers-to-protect-fundamental-rights.md",
       "title": "EU watchdog urges AI policymakers to protect fundamental rights",
       "excerpt": "The European Union's rights watchdog has warned of the risks possessed by predictive artificial intelligence (AI) used in policing, medical diagnoses and targeted adverts. The warning came in a report produced by the Agency for Fundamental Rights (FRA),",
@@ -1165,57 +1217,6 @@
         "AI Hardware",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-to-boost-birth-rate-japans-government-considers-ai-to-match-spouses.md",
-      "title": "To boost birth rate, Japan's government considers AI to match spouses",
-      "excerpt": "Japan's Cabinet Office is asking for budget approval for a new dating service driven by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
-      "originalUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/a9uT034rFZiUTJXGoj0DnW0pSGI=/2020/12/11/d68d417c-dd0d-4b94-84d7-ee47ba7fcd29/pikachuweddingreception-1.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
-      "publishedDateTime": "2020-12-11T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

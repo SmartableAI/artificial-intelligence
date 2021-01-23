@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-22-how-ai-has-completely-transformed-medtech.md",
+      "title": "How AI Has Completely Transformed Medtech",
+      "excerpt": "There are countless ways in which AI is transforming medtech, which explains why the global software revenue from its top cases in healthcare will grow from $3.7 billion in 2019 to nearly $67 billion by 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://entrepreneur.com/article/362355",
+      "originalUrl": "https://entrepreneur.com/article/362355",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610729074-GettyImages-1125116173.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362355",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362355",
+      "publishedDateTime": "2021-01-21T12:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee.md",
       "title": "This AI can tell if you have prostate cancer by looking at your pee",
       "excerpt": "Researchers at the Korean Institute of Science and Technology (KIST) recently developed a machine for detecting prostate cancer that only needs 20 minutes of your time and a few ounces of your pee to achieve near 100-percent accuracy.",
@@ -1209,59 +1260,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-synaptics-unsheathes-new-katana-low-power-edge-ai-platform.md",
-      "title": "Synaptics Unsheathes New Katana Low Power Edge AI Platform",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead attended CES this week, today, he wanted to talk about a tech announcement that may have flown under the radar. Today, Patrick Moorhead dives deeper into the introduction of a new offering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/01/20/synaptics-unsheathes-new-katana-low-power-edge-ai-platform/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/01/20/synaptics-unsheathes-new-katana-low-power-edge-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008e0a131bf3a2e8415b5fc%2F0x0.jpg",
-          "width": 1200,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/01/20/synaptics-unsheathes-new-katana-low-power-edge-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/01/20/synaptics-unsheathes-new-katana-low-power-edge-ai-platform/amp/",
-      "publishedDateTime": "2021-01-20T18:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Reply and AWS develop industry solutions for different businesses"
-    excerpt: "Reply has signed a strategic collaboration agreement with AWS to develop industry solutions for financial services, manufacturing, and other."
-    publishedDateTime: 2021-01-19T01:32:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/01/19/reply-aws/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "RCP Construction, Inc., and Everguard.ai Sign Agreement to Utilize Artificial Intelligence (AI) to Improve Job Site Safety"
     excerpt: "RCP Construction, Inc. and Everguard.ai today announced a collaboration to bring artificial intelligence (AI) and sensor fusion to"
     publishedDateTime: 2021-01-19T15:24:00Z
