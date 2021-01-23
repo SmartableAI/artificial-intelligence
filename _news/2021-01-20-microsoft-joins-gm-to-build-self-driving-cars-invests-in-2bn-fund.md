@@ -51,22 +51,6 @@ related:
         height: 694
         isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
-    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
-    publishedDateTime: 2021-01-18T11:47:00Z
-    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 95
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
-        width: 1200
-        height: 704
-        isCached: true
-  - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "Azure Data Lake Storage is designed to work with gigabits ... and at the same time providing a platform that supports machine-learning techniques to add support for predictive analytics. At its heart, Synapse removes the usual barriers between standard ..."
     publishedDateTime: 2021-01-18T17:37:00Z
     webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"

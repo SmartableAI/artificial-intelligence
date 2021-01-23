@@ -3,10 +3,10 @@ category: news
 title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
 excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
 publishedDateTime: 2021-01-19T14:14:00Z
-originalUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+originalUrl: "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+webUrl: "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
 type: article
 quality: 95
 heat: -1
@@ -184,6 +184,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "tnIIxdqpDdPSUMiBUlAB0LQy1Qtol8i6pFyMD1UqbuU1xk/5O3zaqZB2USGVsUed7Eho9wSguhnh6jaglh0WAVVLGNR/cFjdDY0Wtt9HK1ASBKT4PgtYTbDrTmNxwMbDVCOAxCwvQ24Mvmn4pBpJu0EwU9CfnbTSJCl/BPyAvwELfkJqXgABlBuQHBytaSO3pcjpVDhsq9fNiXp8bNG0IZGNKGtxWyBGX4dBdab8q390tJ1hceFQUXVFzfX1WdnFXYVZqeSuXGLcAVYzGAD9X+7KZ3r2SVghgbvbVKvXZypCIQoHHzSmCsEWSHe/L9rax/hPXu4fjXkThG3XzKhZCbF4nQBip2DpK1ej5wW/Nd/eJ6L+RpJDWvoFvbHmbwe4wxHR2KWTIvVkCPk2Hw7mprbBFUTACGKchKTsPLDn/hncHq2GgWMEZP1XCrqGWGkzGehHaAKambcvdGms65XpusZ1XQXGhaoyVc6E5udy65hSEjL4RiuIpTvBy9UhDGImvDrCXF6jfoUzoYcm91mDog==;GTou6W+YoMPAM3rPz58rpQ=="
+secured: "G/A2Wvxdsc3xyAB+v6FI38OeKDjBov4jCxJSRXYCdiXJYEp8Q+vO5WieL5y3Frkz6bbItHz7Sh8D4yeckwcr1NexKf2Q+G16kgAX9Z3pmG0lsgpk+emXOq348JQw4L+9gLv7QCMJW58uBMLxuHPLOxLjEyu7E3NXxdmTJlgKMLJ/d8nwCi+RI7sTzsmb4/+4SQ9BpWilPWWtabhHr+Xf5g0bpkWF+Pl9EosDToKioTP1B+ZHYwfE77rp4I49Pl7cHF5vvVHIM/AR5xmWwO8BiOwHv+xE6Z33niBacaukmhUuhe/iSbMqtAdyNpm5RhL2loAN4RgAVL65x1nEl7SjQNgnyGse6E0meubJrcdClRM=;HuUEbN8sPPU6/l+k/k9Q9g=="
 ---
 

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "CES 2021 Rethinking Virtual Learning with Taiwanese Startup FlyingCrazyer's AI Evaluation System"
-excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall"
-publishedDateTime: 2021-01-18T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
+excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall effectiveness issues result in low rates of interactive practice and provided feedback,"
+publishedDateTime: 2021-01-18T14:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
+webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/2b/d2bb0e74-1e0e-5fc0-b8c4-f4c756efcd70/60059c42bb38e.image.jpg?resize=400%2C300"
-    width: 400
-    height: 300
-    isCached: true
-
-secured: "r5WluF4DDVzA4B2ijNUbS7eIedGyIp1xebFQfPWa2Iu6hjGsFlaCiX1LV/SPmn+kMHmROJX8/VBD3k71S3o5nQPVrTu5375isHEzuXRKcJ2qH5PT4lOM4coJoig5fAGeIIKdAv9AIQoftM1QTnkBqv9cDTNoFhUto5iWwLds5nA3lGzYcxM+iCc7SWbRD0peJTTYt4aa6WhWLiBCHAy1ryexDXR7NQXDjkC0+CwdkXm9oQ9xebtEGcrHBf9lAtAEeNWVrkJewsQLIxPVl5693YvwmF1sU4MMdvt6qmmeY7H63pvI5r0a1M70pzX5I2ojzJ5V30UcKTHCp7NcjFkgflzWEUtToCjCaQRHjVm03UkqhOJBBQb0DCbY6pAZ9u62750Fo7N+kSMvryKrw03+Rfo92b2WeKn6WmOgXtCYFRY+svrTLRDpiARHtbTObUK3R1fl047o7GRsj3YUuwXmBtNzPUYsYR2qMuimE8/EnEZoNYWh8/GIk/PugFUb6nY8hsMU1DnzfOGxBetv2KpXHA==;OzYeywO3IGdJspb/u+iMGw=="
+secured: "SoB34EBTqjSTd4GcNPSYkSHKVrRRu94V0FS6SxWMSO7m5G2Nq88b64ecHC3AUNe0HA1WMeqVN0OXK7rXjKbaF3wzo/ztviFit3jVHjOmkZVPojP4GUUl9taFB2b+X9D1XZjbp8L/PcP526ifkgmJB8F6TjTJfWpFFQF10XcY/12QTE4mAePdm4eUPUgFcx/Ziccvr0KcgZcN/Lf8TOKH6hHaEf5xqIxbbcpE/MAjQrJX1BvUkmQSI0rDmDbwqv6mw0nqS3cucAap2NUjfIIfctmom2QmRfRCV3JuT+hSOG/nmu3woAv7A32XjNL1ZM2/nbNLUicoHVUlZjOLo/SjbNNip2UL4y+ibh7nSukcwF8=;Xv/Chypbo1blW3QyPMtPow=="
 ---
 

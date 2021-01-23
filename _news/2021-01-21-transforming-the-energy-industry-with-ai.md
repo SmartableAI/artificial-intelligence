@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 831
         isCached: true
-  - title: "How The EU Is Leading The Way In AI Powered Social Innovation"
-    excerpt: "will be cemented into the history books as the digital inflection point that finally revealed to the world the significance of social innovation and the human-centric approach."
-    publishedDateTime: 2021-01-18T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/01/18/how-the-eu-is-leading-the-way-in-ai-powered-social-innovation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60047a4b441ba3192b29fb3b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI Is Modernizing The Collections Process"
     excerpt: "The traditional model's inability to predict which debts will go into collections puts lenders behind the curve. Even worse, when accounts fall behind, this approach applies one-size-fits-all responses that let too many borrowers slip into default."
     publishedDateTime: 2021-01-20T13:20:00Z

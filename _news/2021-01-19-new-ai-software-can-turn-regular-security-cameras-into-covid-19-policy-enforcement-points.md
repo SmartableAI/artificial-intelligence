@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-ai-software-can-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NHS adopts AI imaging algorithm to improve COVID-19 treatment"
-    excerpt: "Hospitals around the country will soon be able to use artificial intelligence (AI) to help diagnose COVID-19 patients and reduce the time needed to create treatment plans.  The 'COVID-19 Chest Imaging Database' (NCCID) has been pulled together by NHSX,"
-    publishedDateTime: 2021-01-18T12:42:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 87
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1610965572/itpro/MicroscopingVirus_shutterstock.jpg"
-        width: 1000
-        height: 506
-        isCached: true
   - title: "Fintech Advancement in the Time of COVID-19"
     excerpt: "As with most years, I started 2020 with a sense of optimism, looking forward to another productive year at work and doing the Appetite for Disruption podcast with my co-host Troy Paredes. In fact, he"
     publishedDateTime: 2021-01-20T23:02:00Z

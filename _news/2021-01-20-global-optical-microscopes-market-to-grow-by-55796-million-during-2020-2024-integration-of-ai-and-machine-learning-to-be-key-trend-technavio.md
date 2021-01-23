@@ -49,20 +49,6 @@ related:
         height: 630
         isCached: true
   - title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
-    excerpt: "The \"Growth Opportunities in AI, Threat Intelligence and SCA Tools\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions"
-    publishedDateTime: 2021-01-18T11:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19603929.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 25
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
     excerpt: "The “Growth Opportunities in AI, Threat Intelligence and SCA Tools” report has been added to ResearchAndMarkets.com’s offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions powered by artificial intelligence,"
     publishedDateTime: 2021-01-19T05:51:00Z
     webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-computer-and-data-security-e695bd4f294b415892e3ade53bd1a345"

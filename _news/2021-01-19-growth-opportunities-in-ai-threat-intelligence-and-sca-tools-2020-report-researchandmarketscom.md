@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Growth Opportunities in AI, Threat Intelligence and SCA Tools, 2020 Report - ResearchAndMarkets.com"
-    excerpt: "The \"Growth Opportunities in AI, Threat Intelligence and SCA Tools\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot of emerging cyber security solutions"
-    publishedDateTime: 2021-01-18T11:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19603929.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 25
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
     excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
     publishedDateTime: 2021-01-19T13:18:00Z

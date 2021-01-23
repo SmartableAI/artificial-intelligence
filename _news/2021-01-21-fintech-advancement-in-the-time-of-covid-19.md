@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "NHS adopts AI imaging algorithm to improve COVID-19 treatment"
-    excerpt: "Hospitals around the country will soon be able to use artificial intelligence (AI) to help diagnose COVID-19 patients and reduce the time needed to create treatment plans.  The 'COVID-19 Chest Imaging Database' (NCCID) has been pulled together by NHSX,"
-    publishedDateTime: 2021-01-18T12:42:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358351/nhsx-propose-the-use-of-ai-for-covid-19-diagnoses?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 87
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1610965572/itpro/MicroscopingVirus_shutterstock.jpg"
-        width: 1000
-        height: 506
-        isCached: true
 
 secured: "ccqW0ntBWKTLv4eltLS122N7YXWXJ3vA7TmQmX0RD4qn2zKSFHjNnxL17088ChWMVxkgpaxTbitqgBEfkgXJR2BuMOdeKuQW3kpW6ykzTTPYHujwMGFAtQgHlug/4AG+BZ8X+U8fwuEPpnwcE/3j20uG20fdlH07Q3PZPWtl/J/9FM2n0U2/jZyQwh9WakJvXxebEbRscJ05xBlbsrbM2WE9PkOdpDpX3OYaCTMOqD30XAZ/ERsuZNL0E77rGq/pHnP9uD7fwXEI9CfeogHmtkVgkniULcfHPBU79p99u5OZzL2mn9fm2mtKGQwA0SLzur0VYJLu89fFz0lzUsorPARgX1mcah7wSRihVRxULiSCuB4RVoaZgoWU8+2NFoSv8Tiqck6p+m8vqEROTDE45XChWGOmPcw3KdLFpARUT2GtKBORLwP1atqNRAL9J+kGL60Ay1SSM97d6tlY6v0bFk8DCp8N3In3aIgDQbNEKUV64hveeeEbPtJSZaqE7n+UNWX3KRx1V2mXaXpXm/5FTA==;A5BBl08YpRspdSwrBeb6iA=="
 ---

@@ -33,7 +33,7 @@ related:
     provider:
       name: Asu News
       domain: asu.edu
-    quality: 38
+    quality: 40
     images:
       - url: "https://asunow.asu.edu/sites/default/files/20180517raytheonrobotfix_07.jpg"
         width: 2400
