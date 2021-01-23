@@ -182,6 +182,20 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "How Facebook’s Latest Image Description Tool For The Visually Impaired Really Works"
+    excerpt: "The first version of AAT was developed using human-labelled data. The data was then used to train a deep convolutional neural network."
+    publishedDateTime: 2021-01-23T10:34:00Z
+    webUrl: "https://analyticsindiamag.com/how-facebooks-latest-image-description-tool-for-the-visually-impaired-really-works/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/2021-01-22.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "ogNLe+R02S31OUgPLJ1Q+unVgEWgi/u2jQJV0ZdMPY3BMTXC4q/K7t6WRsEXaarC8tv3Jiku7S8hOBmA7DumpjuzR5mcQOWRXRJ7NJ5lBvN2jQzqR9FkW0zNHwT3p1ngzbhflYqkE9nXQauitIYh072nSU6yfuZWRkoHepvVMAfON7B6lyd7Hf0JAMxpYPsyHguQKw297LHUudmcAYx1wcE29M4VLcHXUR8zse7PCdpkqYjr1O6T6VkiM1hFlzApzA4oM2qUYU0H6f5IHpgpfyhmorbV2XSAyY2gFOypve3iS+1Jkk7uwCQrNdA80AOFqN3LaLITdFRQMB93Aex4ap2ID0eWgx5Lshs8WWuvn9lzU2K6nJNxul69vuC8qJ3J4u1jjA6jIQSGBqHCeAIAupCRMo8QVQ7eJlGIDZPsuZDn4HlpV1KFikvkuWCQaOdaZZFlh7oHSKatUD/5KC/LGrzvkbwaxtn1V4fJL5Cv2yEstFUWpkesp99HBSoenRMX3lswqzENTKHCLstX+c6d7g==;YY/Q6vp9dCvJKidzshVC/w=="
 ---

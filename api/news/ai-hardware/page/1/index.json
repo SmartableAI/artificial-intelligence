@@ -614,6 +614,51 @@
       ]
     },
     {
+      "path": "_news/2021-01-19-how-to-manage-your-power-bill-while-adopting-ai.md",
+      "title": "How to manage your power bill while adopting AI",
+      "excerpt": "Because AI and ML tend to run intense calculations at very high utilization rates, power and cooling costs can consume a higher proportion of the budget than an IT group might expect. It's not a new problem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.html",
+      "originalUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/server_virtualization_digital_data_center_cables_by_matejmo_gettyimages-879865932_1200x800-100768150-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html",
+      "publishedDateTime": "2021-01-19T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip.md",
       "title": "Your next drone or action cam will shoot 8K video, 4K at 240fps with Ambarella's new chip",
       "excerpt": "The 5nm CV5 artificial intelligence vision processor can be used for everything from automotive camera systems to security cameras and drones.",
@@ -1088,8 +1133,8 @@
       "title": "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU",
       "excerpt": "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515",
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1398,49 +1443,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-hybrid-chips-can-run-ai-on-battery-powered-devices.md",
-      "title": "Hybrid chips can run AI on battery-powered devices",
-      "excerpt": "Smartwatches and other battery-powered electronics would be even smarter if they could run AI algorithms. But efforts to build AI-capable chips for mobile",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/",
-      "originalUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2021/01/Illusion-art-960x640-1.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/",
-      "publishedDateTime": "2021-01-11T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
         "images": null,
         "publishers": null,
         "authors": null

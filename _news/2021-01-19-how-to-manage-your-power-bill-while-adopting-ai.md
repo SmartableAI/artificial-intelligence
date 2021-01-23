@@ -9,8 +9,8 @@ ampWebUrl: "https://www.networkworld.com/article/3603392/how-to-manage-your-powe
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: Network World
@@ -29,30 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Will Power Amazon into 2021"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon"
-    publishedDateTime: 2021-01-18T17:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+  - title: "Using artificial intelligence to manage extreme weather events"
+    excerpt: "Can combining deep learning (DL)—a subfield of artificial intelligence—with social network analysis (SNA), make social media contributions about extreme weather events a useful tool for crisis managers,"
+    publishedDateTime: 2021-01-19T15:02:00Z
+    webUrl: "https://phys.org/news/2021-01-artificial-intelligence-extreme-weather-events.html"
+    ampWebUrl: "https://phys.org/news/2021-01-artificial-intelligence-extreme-weather-events.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-extreme-weather-events.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "Hidden Costs In Faster, Low-Power AI Systems"
-    excerpt: "Tradeoffs in AI/ML designs can affect everything from aging to reliability, but not always in predictable ways."
-    publishedDateTime: 2021-01-20T08:19:00Z
-    webUrl: "https://semiengineering.com/hidden-costs-in-faster-low-power-ai-systems/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/domain-specific.png?fit=1820%2C926&#038;ssl=1"
-        width: 1820
-        height: 926
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/badweather.jpg"
+        width: 1920
+        height: 1279
         isCached: true
 
 secured: "6/eRJdzC1uKSloYD0Pp6bB/Y0cMy9BJx5UsjUpQcINGVtdLo8xGgPS8rfX5m7k0G9fPUua/SXPdMEWq5cBApdVbJmpmR2jvEamOxHvShm0dK3QqKYMDZIK1cjVmxBPLYWeR4TR3eFlcZEmkDfxqyBpSU+QHmIGiLMHh+Mx5qSCtkU5im0VUw7fDuLDcS2X4gXB0h6dmF26jAkDC3hjxP/z8exU4xZ8Zydr8bLbgztXTghRs7av3HdpimixRmxaQOjy+iCYCb/ls+i1er5PGRR8KIeCyndCrSs0eDeKREN7qcaffRUgUcO4C9ESjY7Q+dAEGwx9Rw7uCCQV/zVNGfD58iC5Wb8A2F+OILVruJgdI=;AalSLkb1Zp3hg+7TrsXBlg=="

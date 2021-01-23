@@ -2,6 +2,145 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-12-south-korea-mulls-investing-114-billion-in-ai-chips.md",
+      "title": "South Korea Mulls Investing $114 Billion in AI Chips",
+      "excerpt": "South Korea's ICT ministry said Tuesday it will invest 125.3 billion won ($114.1 million) this year to support the development of neural processors, up",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
+      "originalUrl": "https://www.albawaba.com/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/d08_standard/public/im_new/areej/AI_CHIP_shutterstock_12Jan21.jpg?h=707772c7&itok=lVi3b_3K&mrf-size=m",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
+      "publishedDateTime": "2021-01-12T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-programming-tweak-helps-ai-software-imitate-human-visual-learning.md",
+      "title": "Programming tweak helps AI software imitate human visual learning",
+      "excerpt": "Using a novel programming tweak, a pair of neuroscientists have managed to replicate human visual learning in computer-based artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "originalUrl": "https://www.upi.com/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/7781610457664/2021/1/69303160586a78ce2dec53bee2c8f1d7/v1.5/Programming-tweak-helps-AI-software-imitate-human-visual-learning.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/01/12/Programming-tweak-helps-AI-software-imitate-human-visual-learning/7781610457664/",
+      "publishedDateTime": "2021-01-12T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery.md",
+      "title": "Who Is Mr. Blue Eyes In ‘Cyberpunk 2077,’ Part Of Its Sprawling Rogue AI Unsolved Mystery?",
+      "excerpt": "This past week, the senior quest designer of Cyberpunk 2077 said that even after millions of hours of gameplay in the past month, not all of the game’s secrets have been uncovered yet. Mr. Blue Eyes may be one of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2021/01/12/who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/01/12/who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffda841cccba87cb23b5016%2F0x0.jpg",
+          "width": 1024,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/01/12/who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/01/12/who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery/amp/",
+      "publishedDateTime": "2021-01-12T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
       "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
       "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
@@ -1042,152 +1181,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine.md",
-      "title": "Watch Samsung’s clever home robot lay the table and pour wine",
-      "excerpt": "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
-      "originalUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
-      "publishedDateTime": "2021-01-11T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style.md",
-      "title": "Philips Sonicare 9900 Prestige toothbrush uses AI to adjust to your style",
-      "excerpt": "Machine learning and AI are the buzzwords in tech these days and almost all new products add these to their bullet points as a selling feature. Although they have long been using such marketing",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
-      "originalUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/philips-9900-prestige-in-use.download.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
-      "publishedDateTime": "2021-01-11T18:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-gpu-database-market-overview-by-top-players-regions-segments-demand-and-forecast-till-2023.md",
-      "title": "GPU Database Market Overview by Top Players, Regions, Segments, Demand and Forecast till 2023",
-      "excerpt": "Jan (Heraldkeepers) -- Market Research Future (MRFR) reveals different parameters that can contribute to the rise of the Global GPU database",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-database-market-overview-by-top-players-regions-segments-demand-and-forecast-till-2023-2021-01-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-database-market-overview-by-top-players-regions-segments-demand-and-forecast-till-2023-2021-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

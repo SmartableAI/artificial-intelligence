@@ -25,32 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Will Power Amazon into 2021"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon"
-    publishedDateTime: 2021-01-18T17:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223"
+  - title: "Storage Can’t Be An Afterthought With AI Systems"
+    excerpt: "It is a given that high performance computing systems of any kind are going to need high performance storage to keep them fed. But every workload and"
+    publishedDateTime: 2021-01-21T20:17:00Z
+    webUrl: "https://www.nextplatform.com/2021/01/21/storage-cant-be-an-afterthought-with-ai-systems/"
+    ampWebUrl: "https://www.nextplatform.com/2021/01/21/storage-cant-be-an-afterthought-with-ai-systems/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/21/storage-cant-be-an-afterthought-with-ai-systems/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "How to manage your power bill while adopting AI"
-    excerpt: "Because AI and ML tend to run intense calculations at very high utilization rates, power and cooling costs can consume a higher proportion of the budget than an IT group might expect. It's not a new problem,"
-    publishedDateTime: 2021-01-19T11:06:00Z
-    webUrl: "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.html"
-    ampWebUrl: "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 63
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://images.idgesg.net/images/article/2018/08/server_virtualization_digital_data_center_cables_by_matejmo_gettyimages-879865932_1200x800-100768150-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ab_six-lane-highway-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "2ODVXKmZOjPxmPZm3FyA3t+jmUUbe9s1Y1kBFm2OpYvnSdOy0XrTQrNKIZviT3gp9TkpMmdAPXfzxS1j/ACx7UZbID/AxkxoNE3aGuj6OHV0qVg2qlfcSevizW8kLf063rClcW3DCnWY1hmGcdXrMIeb9HPIzckzyjrzTdXJIQLf8WA7lOrlS0ouyFHK0O69of3wmZCHh1l7gYYEXp/n5ORnQVGboQqCYC5RCgdrUqdEPYAdrSZNVWV3iRoh0ZZuj9ujpUAWrk2zdsOUSB/rkWqw7T3x2ByaoJcVbNNjefSqyiTIOUg9zL/P5kdI64QyQnFSnTkjTZUEJZpUJqYRcm3BYEwUIdBIcXQXYnKE5z9m3ZMTAPvdbHoUQ1l+yjyMSQ9FXP22CyG5mepoTbxFOtvfr5aGyiu87MCb86dl9OEg5FCxSvBhfLt0TQCs2GxCIYcf9KOJvOD7tPNDmy465/XyfysMYI+3cIa93pbCB1GO2OqNwvcNrJg/a25liznSVF5mUmWq1ltqtNtl4hYZQg==;Rv5Sbcbc9VQafGE84gSoWQ=="

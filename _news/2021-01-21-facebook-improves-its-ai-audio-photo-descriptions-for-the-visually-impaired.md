@@ -174,6 +174,20 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "How Facebook’s Latest Image Description Tool For The Visually Impaired Really Works"
+    excerpt: "The first version of AAT was developed using human-labelled data. The data was then used to train a deep convolutional neural network."
+    publishedDateTime: 2021-01-23T10:34:00Z
+    webUrl: "https://analyticsindiamag.com/how-facebooks-latest-image-description-tool-for-the-visually-impaired-really-works/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/2021-01-22.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook AI now better describe photos for visually impaired"
     excerpt: "Facebook has announced new improvements in its artificial intelligence (AI) technology to generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users. Way back in 2016,"
     publishedDateTime: 2021-01-20T05:29:00Z
