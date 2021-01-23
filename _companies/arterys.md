@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 71
+heat: 31
 
 website: https://arterys.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "yOaqRSXmKgd0IHkGkJcedgNZc08M/4WEVwzuAWcv/3HwYiKJqRTlJa81jpg4KcpADBkh3P50YKmmkB/SZmjIfbeh9z9BuZPZPKFgp/YU+aJ746qxPRYOrMsO9NwmJNYVwY0GfYNuCjr3ejwaqMGnn+L0Ig/d8hFzpk+BqbNWF/OAP1BJQJ6OqpS1nAp54KKPIMok9JekVXUExpobC5ZU7GTWE2DtI+wOVBEso4cRETzi9Db92Ms6d4UfaI/XN/r8rRnctFcsXq55QE3rZJiv6pZ5p+b/LhP64JMXweLvMPnEe54SblkvSsCX6yOvLG1aQmdud/L7Lp9xVm3CueHHsj5epi2oEfwW/8gnHGGQJbtggl0XRVPKwcFGnz3pWtKYBL7G1Sr5U47Smch3Uq5KBEykq6Fn2mFdLmXxy77wS4c=;ipFql9/OpDCUTARfx/e4Bg=="
+secured: "Ux36A4SprGGA8qr7wk5cAVlnUpM/KR+kzdo7pRGXZIVhBrS0CPljpCmBSqZUb8/I0jHgXa+284o0lBP2MtuJsJsvoI8fei+9jMYPqfNqS72rRQKEBzjkp5Uwxl2IEXxHGKW/zpAeAJSg+Qd+RlvDnQgUGGcxOw1ACk5POvc4HLaQ+3vY+xtUZ8THGwA368UWl6ChFALw6x94kpuagM9QWtOkkPzDoKrQn9Q0wP8RcQ2atI51I15hw+mmSUbwh5VD+jo21zdcI7hj70DBQnrqp2SGCDyA4/lw5J96mu3XUbFWDJXLtL1HWbP/A9DJoG3k+CHctFQIvgM2t8xWrR9cNniwPY4EEpixOpUQ4EsGlphmUDW22gBC0cdZeFYDQZbt5oI7dus6qpTxSk2sdQJyLS5REiQFlC0qp3kfK2vgh1Y=;GcPoeSyfmdbbG45Xh5H+UA=="
 ---
 

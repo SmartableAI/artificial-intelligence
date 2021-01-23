@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 35306
+        "followers": 35308
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -42,7 +42,7 @@
           "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
         }
       ],
-      "heat": 248,
+      "heat": 258,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 190955
+        "followers": 190969
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -91,7 +91,7 @@
           "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
         }
       ],
-      "heat": 233,
+      "heat": 225,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1145736912193196033/ytFWK30j_400x400.png",
@@ -119,7 +119,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 8949
+        "followers": 8950
       },
       "yearFounded": 0,
       "locations": [
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
         }
       ],
-      "heat": 157,
+      "heat": 114,
       "tags": [
         "Natural Language Generation"
       ],
@@ -147,6 +147,107 @@
           "width": 400,
           "height": 400,
           "title": "DeepL",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/just-ai.md",
+      "title": "Just AI",
+      "excerpt": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/just-ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/just-ai/",
+      "type": "profile",
+      "name": "Just AI",
+      "overview": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
+      "website": "http://just-ai.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/just-ai-uk",
+        "followers": 106
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/just-ai"
+      },
+      "twitter": {
+        "username": "JustAIglobal",
+        "url": "https://twitter.com/JustAIglobal",
+        "followers": 762
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "London, UK",
+        "London, England"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=u9qpsrqV5wo"
+        }
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1300462173521616896/Tr7qJwSp_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Just AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/algolia.md",
+      "title": "Algolia",
+      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/algolia/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/algolia/",
+      "type": "profile",
+      "name": "Algolia",
+      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "website": "https://www.algolia.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/algolia",
+        "followers": 12683
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/algolia"
+      },
+      "twitter": {
+        "username": "algolia",
+        "url": "https://twitter.com/algolia",
+        "followers": 16596
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
+        }
+      ],
+      "heat": 106,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Algolia",
           "isCached": true
         }
       ],
@@ -193,7 +294,7 @@
           "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
         }
       ],
-      "heat": 108,
+      "heat": 98,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1278341256020545541/Ynk-PJtL_400x400.jpg",
@@ -206,35 +307,35 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/algolia.md",
-      "title": "Algolia",
-      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/algolia/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/algolia/",
+      "path": "_companies/rossintelligence.md",
+      "title": "ROSS Intelligence",
+      "excerpt": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rossintelligence/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/rossintelligence/",
       "type": "profile",
-      "name": "Algolia",
-      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-      "website": "https://www.algolia.com",
+      "name": "ROSS Intelligence",
+      "overview": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
+      "website": "https://rossintelligence.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/algolia",
-        "followers": 12683
+        "url": "https://www.linkedin.com/company/5385357/",
+        "followers": 3215
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/algolia"
+        "url": "https://www.crunchbase.com/organization/ross-intelligence"
       },
       "twitter": {
-        "username": "algolia",
-        "url": "https://twitter.com/algolia",
-        "followers": 16597
+        "username": "ROSSIntel",
+        "url": "https://twitter.com/ROSSIntel",
+        "followers": 5343
       },
-      "size": "201-500 employees",
-      "yearFounded": 2012,
+      "size": "11-50 employees",
+      "yearFounded": 2014,
       "locations": [
         "San Francisco, CA",
         "San Francisco, California"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
@@ -242,16 +343,424 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
+          "url": "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
         }
       ],
-      "heat": 92,
+      "heat": 83,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1174312638328840192/ErbzJaM6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Algolia",
+          "title": "ROSS Intelligence",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/dialogflow.md",
+      "title": "Dialogflow",
+      "excerpt": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/dialogflow/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/dialogflow/",
+      "type": "profile",
+      "name": "Dialogflow",
+      "otherNames": [
+        "Speaktoit",
+        "Api.ai"
+      ],
+      "overview": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "website": "https://dialogflow.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/1443713/",
+        "followers": 3083
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/api-ai"
+      },
+      "twitter": {
+        "username": "Dialogflow",
+        "url": "https://twitter.com/Dialogflow",
+        "followers": 12027
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ADD-rvsS5z4"
+        }
+      ],
+      "heat": 78,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Dialogflow",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/winterlightlabs.md",
+      "title": "Winterlight Labs",
+      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/winterlightlabs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/winterlightlabs/",
+      "type": "profile",
+      "name": "Winterlight Labs",
+      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "website": "https://winterlightlabs.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/winterlight-labs/",
+        "followers": 553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/winterlight"
+      },
+      "twitter": {
+        "username": "winterlightlabs",
+        "url": "https://twitter.com/winterlightlabs",
+        "followers": 799
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "heat": 72,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Winterlight Labs",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/definedcrowd.md",
+      "title": "DefinedCrowd",
+      "excerpt": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/definedcrowd/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/definedcrowd/",
+      "type": "profile",
+      "name": "DefinedCrowd",
+      "overview": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
+      "website": "https://www.definedcrowd.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/definedcrowd/",
+        "followers": 5560
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/definedcrowd"
+      },
+      "twitter": {
+        "username": "definedcrowd",
+        "url": "https://www.twitter.com/definedcrowd",
+        "followers": 1680
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1308151676537274373/5z4CP4P4_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "DefinedCrowd",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQFJWfl9KtlUTA/company-logo_200_200/0?e=1594857600&v=beta&t=ctokgOnNLdzzaX66yPSL2x3sQUVh5Wz-B7daU1pk_-Y",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/iris.ai.md",
+      "title": "Iris.ai",
+      "excerpt": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/iris.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/iris.ai/",
+      "type": "profile",
+      "name": "Iris.ai",
+      "overview": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
+      "website": "https://iris.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/iris-ai"
+      },
+      "twitter": {
+        "username": "theirisai",
+        "url": "https://twitter.com/theirisai",
+        "followers": 2892
+      },
+      "yearFounded": 0,
+      "locations": [
+        "London, England"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=rgmchbwHKHE"
+        }
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/695689454300872704/Kc3D5Y6I_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Iris.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/agolo.md",
+      "title": "Agolo",
+      "excerpt": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/agolo/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/agolo/",
+      "type": "profile",
+      "name": "Agolo",
+      "overview": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
+      "website": "http://www.agolo.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/agolo",
+        "followers": 953
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/agolo"
+      },
+      "twitter": {
+        "username": "agolo",
+        "url": "https://twitter.com/agolo",
+        "followers": 751
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "New York, NY",
+        "New York, NY"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=rijPqvv1xSc"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/588095780126208000/n336QMMR_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Agolo",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/bloomsbury.ai.md",
+      "title": "Bloomsbury AI",
+      "excerpt": "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bloomsbury.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/bloomsbury.ai/",
+      "type": "profile",
+      "name": "Bloomsbury AI",
+      "overview": "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise.",
+      "website": "http://bloomsbury.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/bloomsbury-ai",
+        "followers": 273
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/bloomsbury-ai"
+      },
+      "twitter": {
+        "username": "bloomsburyai",
+        "url": "https://twitter.com/bloomsburyai",
+        "followers": 523
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "London, England"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=N0mRn1bQyzU"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/904720291846389761/ah7CdA1L_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bloomsbury AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/observe.ai.md",
+      "title": "Observe.AI",
+      "excerpt": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/observe.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/observe.ai/",
+      "type": "profile",
+      "name": "Observe.AI",
+      "overview": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
+      "website": "https://observe.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/observe-ai"
+      },
+      "twitter": {
+        "username": "observeai",
+        "url": "https://twitter.com/observeai",
+        "followers": 564
+      },
+      "yearFounded": 0,
+      "locations": [
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=sQwbipcFPYg"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1117913972412305413/-MiJoy8U_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Observe.AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/soundhound.md",
+      "title": "SoundHound",
+      "excerpt": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/soundhound/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/soundhound/",
+      "type": "profile",
+      "name": "SoundHound",
+      "overview": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
+      "website": "https://soundhound.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/soundhound",
+        "followers": 0
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/soundhound"
+      },
+      "twitter": {
+        "username": "SoundHoundInc",
+        "url": "https://twitter.com/SoundHoundInc",
+        "followers": 523
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VBfhwS3Dr3M"
+        }
+      ],
+      "heat": 58,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1039627434176311296/pQmtywpV_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "SoundHound",
           "isCached": true
         }
       ],
@@ -298,7 +807,7 @@
           "url": "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
         }
       ],
-      "heat": 92,
+      "heat": 58,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1145709250657824769/_mUNJSbF_400x400.png",
@@ -311,35 +820,35 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/signal-ai.md",
-      "title": "Signal AI",
-      "excerpt": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/signal-ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/signal-ai/",
+      "path": "_companies/trint.md",
+      "title": "Trint",
+      "excerpt": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/trint/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/trint/",
       "type": "profile",
-      "name": "Signal AI",
-      "overview": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "website": "http://www.signal-ai.com/",
+      "name": "Trint",
+      "overview": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
+      "website": "https://www.trint.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/signal-artificial-intelligence/",
-        "followers": 6492
+        "url": "https://www.linkedin.com/company/trint/",
+        "followers": 3523
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/signal-media-ltd"
+        "url": "https://www.crunchbase.com/organization/trint"
       },
       "twitter": {
-        "username": "SignalHQ",
-        "url": "https://twitter.com/SignalHQ",
-        "followers": 2506
+        "username": "trinthq",
+        "url": "https://twitter.com/trinthq",
+        "followers": 1849
       },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
+      "size": "11-50 employees",
+      "yearFounded": 2014,
       "locations": [
-        "London, UK",
-        "London, England"
+        "London",
+        "London, Greater London"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
@@ -347,512 +856,19 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=QWC7T-G_reQ"
+          "url": "https://www.youtube.com/watch?v=CP-0vxaBKbo"
         }
       ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1323194996439289858/MwYjkvP-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Signal AI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/narrativescience.md",
-      "title": "Narrative Science",
-      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrativescience/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/narrativescience/",
-      "type": "profile",
-      "name": "Narrative Science",
-      "overview": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
-      "website": "https://narrativescience.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/narrative-science/",
-        "followers": 6514
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative-science"
-      },
-      "twitter": {
-        "username": "narrativesci",
-        "url": "https://twitter.com/narrativesci",
-        "followers": 7214
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Chicago, IL",
-        "Chicago, Illinois"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ],
-      "heat": 82,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Narrative Science",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/notable.md",
-      "title": "Notable",
-      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/notable/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/notable/",
-      "type": "profile",
-      "name": "Notable",
-      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "website": "http://notablehealth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/notablehealth/",
-        "followers": 760
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/notable"
-      },
-      "twitter": {
-        "username": "notablehealth",
-        "url": "https://twitter.com/notablehealth",
-        "followers": 258
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
-      ],
-      "heat": 82,
+      "heat": 58,
       "tags": [
         "Speech Recognition"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1037421685069242369/f9VitPKO_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1262996074635177987/ROGSdua4_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Notable",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/suki.ai.md",
-      "title": "Suki",
-      "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/suki.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/suki.ai/",
-      "type": "profile",
-      "name": "Suki",
-      "overview": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "website": "https://www.suki.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/SukiHQ",
-        "followers": 14481
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sukihq"
-      },
-      "twitter": {
-        "username": "SukiHQ",
-        "url": "https://www.twitter.com/SukiHQ",
-        "followers": 1573
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Redwood City, CA",
-        "Redwood City, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Suki",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/taskus.md",
-      "title": "TaskUs",
-      "excerpt": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/taskus/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/taskus/",
-      "type": "profile",
-      "name": "TaskUs",
-      "overview": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
-      "website": "https://www.taskus.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/taskus",
-        "followers": 42675
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/taskus"
-      },
-      "twitter": {
-        "username": "taskus",
-        "url": "https://twitter.com/taskus",
-        "followers": 4030
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 2008,
-      "locations": [
-        "Los Angeles, CA",
-        "Santa Monica, CA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=W1V6Id1VrqU"
-        }
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1339767351122612224/frWCbdlU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "TaskUs",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/definedcrowd.md",
-      "title": "DefinedCrowd",
-      "excerpt": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/definedcrowd/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/definedcrowd/",
-      "type": "profile",
-      "name": "DefinedCrowd",
-      "overview": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
-      "website": "https://www.definedcrowd.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/definedcrowd/",
-        "followers": 5560
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/definedcrowd"
-      },
-      "twitter": {
-        "username": "definedcrowd",
-        "url": "https://www.twitter.com/definedcrowd",
-        "followers": 1680
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Seattle, WA",
-        "Seattle, Washington"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1308151676537274373/5z4CP4P4_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "DefinedCrowd",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQFJWfl9KtlUTA/company-logo_200_200/0?e=1594857600&v=beta&t=ctokgOnNLdzzaX66yPSL2x3sQUVh5Wz-B7daU1pk_-Y",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/lexmachina.md",
-      "title": "Lex Machina",
-      "excerpt": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lexmachina/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/lexmachina/",
-      "type": "profile",
-      "name": "Lex Machina",
-      "overview": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
-      "website": "https://lexmachina.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/732353",
-        "followers": 2484
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lex-machina"
-      },
-      "twitter": {
-        "username": "lexmachina",
-        "url": "https://twitter.com/lexmachina",
-        "followers": 5352
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=6Hg_SXrumV4"
-        }
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1286777045360377857/aqKDO9by_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Lex Machina",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVs0DaphlwZQ/company-logo_200_200/0?e=1594857600&v=beta&t=DOQKNW1nIiylXeJvYR6Z6Y5rxBF2tzD7JIQ2Yg47g7c",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/narrativa.md",
-      "title": "Narrativa",
-      "excerpt": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrativa/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/narrativa/",
-      "type": "profile",
-      "name": "Narrativa",
-      "overview": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
-      "website": "http://www.narrativa.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/9329868",
-        "followers": 341
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative-visualization"
-      },
-      "twitter": {
-        "username": "NarrativaAI",
-        "url": "https://twitter.com/NarrativaAI",
-        "followers": 664
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Shipping worldwide",
-        "Madrid, Boadilla del Monte"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
-        }
-      ],
-      "heat": 64,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1347122063409106948/I5YSeFYF_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Narrativa",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/persado.md",
-      "title": "Persado",
-      "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/persado/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/persado/",
-      "type": "profile",
-      "name": "Persado",
-      "overview": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
-      "website": "https://www.persado.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/persado",
-        "followers": 13074
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/persado"
-      },
-      "twitter": {
-        "username": "persado",
-        "url": "https://www.twitter.com/persado",
-        "followers": 5458
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Fremont, CA",
-        "New York, NY",
-        "New York, New York"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Ig4B5roBgao"
-        }
-      ],
-      "heat": 64,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1268932502363594753/rpTjICXr_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Persado",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tact.ai.md",
-      "title": "Tact.ai",
-      "excerpt": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tact.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tact.ai/",
-      "type": "profile",
-      "name": "Tact.ai",
-      "overview": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
-      "website": "https://tact.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/tact.ai",
-        "followers": 3096
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tactile"
-      },
-      "twitter": {
-        "username": "tact_ai",
-        "url": "https://twitter.com/tact_ai",
-        "followers": 1285
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Redwood City, CA",
-        "Redwood City, CA",
-        "Sunnyvale, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=HntmBF0px3A"
-        }
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1334765466464575488/Xsezxtmb_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Tact.ai",
+          "title": "Trint",
           "isCached": true
         }
       ],
@@ -899,7 +915,7 @@
           "url": "https://www.youtube.com/watch?v=C8AG8eTC8D0"
         }
       ],
-      "heat": 64,
+      "heat": 58,
       "tags": [
         "Speech Recognition"
       ],
@@ -915,32 +931,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/automatedinsights.md",
-      "title": "Automated Insights",
-      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/automatedinsights/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/automatedinsights/",
+      "path": "_companies/voicebox.md",
+      "title": "VoiceBox Technologies",
+      "excerpt": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/voicebox/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/voicebox/",
       "type": "profile",
-      "name": "Automated Insights",
-      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "website": "https://automatedinsights.com/",
+      "name": "VoiceBox Technologies",
+      "overview": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
+      "website": "http://www.voicebox.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/2708220",
-        "followers": 3336
+        "url": "https://www.linkedin.com/company/voicebox-technologies",
+        "followers": 1385
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/automated-insights"
+        "url": "https://www.crunchbase.com/organization/voicebox-technologies"
       },
       "twitter": {
-        "username": "AInsights",
-        "url": "https://twitter.com/AInsights",
-        "followers": 4668
+        "username": "VoiceBox_Tech",
+        "url": "https://twitter.com/VoiceBox_Tech",
+        "followers": 759
       },
-      "size": "51-200 employees",
-      "yearFounded": 2007,
+      "size": "201-500 employees",
+      "yearFounded": 2001,
       "locations": [
-        "San Francisco, CA",
-        "Durham, NC"
+        "Bellevue, WA"
       ],
       "topics": [
         "AI",
@@ -948,231 +963,16 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=ziizj6u1f6M"
+          "url": "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
         }
       ],
-      "heat": 57,
-      "tags": [
-        "Natural Language Generation"
-      ],
+      "heat": 58,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1158846406498668545/zDApgLbP_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/845362901527379968/9U43aLaV_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Automated Insights",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/just-ai.md",
-      "title": "Just AI",
-      "excerpt": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/just-ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/just-ai/",
-      "type": "profile",
-      "name": "Just AI",
-      "overview": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
-      "website": "http://just-ai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/just-ai-uk",
-        "followers": 106
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/just-ai"
-      },
-      "twitter": {
-        "username": "JustAIglobal",
-        "url": "https://twitter.com/JustAIglobal",
-        "followers": 763
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "London, UK",
-        "London, England"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=u9qpsrqV5wo"
-        }
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1300462173521616896/Tr7qJwSp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Just AI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/liulishuo.md",
-      "title": "Liulishuo",
-      "excerpt": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/liulishuo/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/liulishuo/",
-      "type": "profile",
-      "name": "Liulishuo",
-      "overview": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
-      "website": "https://www.liulishuo.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/liulishuo/",
-        "followers": 3501
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/liulishuo"
-      },
-      "twitter": {
-        "username": "lingochamp",
-        "url": "https://twitter.com/lingochamp",
-        "followers": 348
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Shanghai, Shanghai"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=GF8KvuIJUvg"
-        }
-      ],
-      "heat": 57,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1326830321157898240/14TzFVZF_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Liulishuo",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG5rLftUNFeCA/company-logo_200_200/0?e=1594857600&v=beta&t=1f3B0p4jXCfxQiBgnrTzY2DtsjjW_ilKP5msAKeTB2A",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/trint.md",
-      "title": "Trint",
-      "excerpt": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/trint/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/trint/",
-      "type": "profile",
-      "name": "Trint",
-      "overview": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
-      "website": "https://www.trint.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/trint/",
-        "followers": 3523
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/trint"
-      },
-      "twitter": {
-        "username": "trinthq",
-        "url": "https://twitter.com/trinthq",
-        "followers": 1849
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "London",
-        "London, Greater London"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=CP-0vxaBKbo"
-        }
-      ],
-      "heat": 57,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1262996074635177987/ROGSdua4_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Trint",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/agolo.md",
-      "title": "Agolo",
-      "excerpt": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/agolo/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/agolo/",
-      "type": "profile",
-      "name": "Agolo",
-      "overview": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
-      "website": "http://www.agolo.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/agolo",
-        "followers": 953
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/agolo"
-      },
-      "twitter": {
-        "username": "agolo",
-        "url": "https://twitter.com/agolo",
-        "followers": 751
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "New York, NY",
-        "New York, NY"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=rijPqvv1xSc"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/588095780126208000/n336QMMR_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Agolo",
+          "title": "VoiceBox Technologies",
           "isCached": true
         }
       ],
@@ -1458,6 +1258,62 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/conversica.md",
+      "title": "Conversica",
+      "excerpt": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/conversica/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/conversica/",
+      "type": "profile",
+      "name": "Conversica",
+      "overview": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
+      "website": "https://www.conversica.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/conversica",
+        "followers": 15771
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/conversica"
+      },
+      "twitter": {
+        "username": "myconversica",
+        "url": "https://twitter.com/myconversica",
+        "followers": 12953
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2007,
+      "locations": [
+        "San Francisco, CA",
+        "Foster City, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/887468833916600320/8nOhBX6V_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Conversica",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/deepzen.io.md",
       "title": "Deepzen",
       "excerpt": "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals.",
@@ -1533,6 +1389,99 @@
         }
       ],
       "heat": 50,
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/hibrainy.md",
+      "title": "HiBrainy",
+      "excerpt": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/hibrainy/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/hibrainy/",
+      "type": "profile",
+      "name": "HiBrainy",
+      "overview": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
+      "website": "https://hibrainy.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/hibrainy/",
+        "followers": 164
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/hibrainy"
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Paris, France",
+        "Paris, Île-de-France"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=El38XJxRoRo"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/716759222969434112/NeRM_ewU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "HiBrainy",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/insightengines.md",
+      "title": "Insight Engines",
+      "excerpt": "Research discovery with artificial intelligence - for academia and chemical research.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/insightengines/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/insightengines/",
+      "type": "profile",
+      "name": "Insight Engines",
+      "overview": "Research discovery with artificial intelligence - for academia and chemical research.",
+      "website": "https://insightengines.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/insight-engines-inc"
+      },
+      "twitter": {
+        "username": "insightengines",
+        "url": "https://twitter.com/insightengines",
+        "followers": 236
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Norway"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=iD4tlJ-ECZo"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/778092205093322752/BNor8pkI_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Insight Engines",
+          "isCached": true
+        }
+      ],
       "content": "\r\n"
     }
   ],
