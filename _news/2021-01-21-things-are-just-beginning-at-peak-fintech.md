@@ -78,6 +78,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
+  - title: "With AI, Big Data and Blockchain, Brazilian Fintech Grows in Business Finance Market"
+    excerpt: "Weel's platform uses its own algorithm and electronic tax receipt system to assess credit risk; the company has already processed R$1 billion (US$185) in loans."
+    publishedDateTime: 2021-01-23T12:19:00Z
+    webUrl: "https://riotimesonline.com/brazil-news/brazil/with-ai-big-data-and-blockchain-brazilian-fintech-grows-in-credit-market/"
+    type: article
+    provider:
+      name: The Rio Times
+      domain: riotimesonline.com
+    quality: 47
+    images:
+      - url: "https://riotimes-11af1.kxcdn.com/wp-content/uploads/2021/01/Weel-Solutions.jpeg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "How FinTech IT Leaders are Driving Modern IT Operations"
     excerpt: "Over the past century, businesses of all stripes have either increased efficiency, become more competitive, or reduced their cost"
     publishedDateTime: 2021-01-19T18:56:00Z

@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google vs Australia, Rockets On Oil Rigs, India’s Quantum Labs And More In This Week’s Top News"
+    excerpt: "Developing radical new technology is inherently risky, but that doesn’t make breaking this news any easier. Today, I’m sad to share that Loon will be winding down,” wrote Alastair Westgarth, CEO, Loon."
+    publishedDateTime: 2021-01-23T12:31:00Z
+    webUrl: "https://analyticsindiamag.com/google-australia-india-aws-quantum-top-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 12
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/jan-23-tech-news.jpg"
+        width: 1601
+        height: 901
+        isCached: true
 
 secured: "2A9FDBNip5DCpWPY/jRItW1JN50tbwGqUPU8VAxPdTviGJPa2Z7D8Vf9j1dxryHP5pPe5HIasuWmQGVNKY3nIsvp/q9yKC+U+aBgSdas9mYbIYIrtGofh4IrPNgDiTK4PEOiPJJdFh57LncICAcCqFIu7r0A5QxwHGurFSqgX1cLpCtNiW6XWlLf+1GCjthx6cURIRrLgUZ8LhekXSMaK2gFth8lBTjpTC5rQYth80Wu4yH5GcQxvlG+pTlYtf+4LJiFD/FjFEJBXncTTK/geUmFAzrqu86C5079CA3mPcr7WLWD5s0bvqmntVdWjXW5ZT5nXCevCzLxu9Y/vuY/DiKRo4/7bE8IObxsD9DAEnM=;9tw/fJVaFS4NhQe9E8BjDA=="
 ---

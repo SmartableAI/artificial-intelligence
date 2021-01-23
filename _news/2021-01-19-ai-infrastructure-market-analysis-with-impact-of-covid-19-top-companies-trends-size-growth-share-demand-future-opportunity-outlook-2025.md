@@ -74,29 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook to use AI in predicting if COVID patients health"
-    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence AI unit in an effort to help healthcare providers predi"
-    publishedDateTime: 2021-01-18T20:26:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267575276/facebook-to-use-ai-in-predicting-if-covid-patients-health"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1611000254.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
-    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a COVID-19 patient may need more intensive care solutions and adjust resources accordingly."
-    publishedDateTime: 2021-01-18T20:03:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 33
   - title: "Fintech TrueAccord, Creator of Debt Payments Negotiation Software for Financial Institutions, Reveals Consumer Behavior Changes due to COVID"
     excerpt: "Fintech TrueAccord, creator of debt payments negotiation software for financial institutions, reveals consumer behavior changes due to COVID."
     publishedDateTime: 2021-01-22T01:14:00Z

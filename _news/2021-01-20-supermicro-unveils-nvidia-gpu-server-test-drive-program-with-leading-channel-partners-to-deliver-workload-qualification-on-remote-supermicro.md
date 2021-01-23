@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
-publishedDateTime: 2021-01-20T09:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
-webUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
+excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
+publishedDateTime: 2021-01-20T14:33:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
 type: article
-quality: 30
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -101,6 +97,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "eXZBjlurVyEyU2rsTPkB7ld/7mnZniSFsoRnox/RaDgsK3beBCyifacH57hZ8KKziID4Ts2ZxjbyJn045HexZ+n389n143vLRGc9ENxKhBdB+LqgVZxaR8COy5hKW2hGE0Fcpv9Dhl1n661QHM/VneHXUG2jA/nVWS86bp5Dlepj3HpO6aqiPa3RU4csnXMX+COd7jXMuxylia4iiRDEn6EjwTCb7Q1iscVi/0Lqid/hvABYbrqF5t0eEneaxqIspV//d+CbbbSjd9nlyLwSMgdKuKC0vuTe/pON+AmjHOqdHBG/uB3kSDf7CRCztkDF11GAbdkxwxAqPZNl/HAA0BREjWii2jzma3aLRWGix8k=;cC8hYVfp2DqZiCqUu9wLEw=="
+secured: "NDwZq/+/uNVNN6W8kdzT3kBli9AgtVA5kJg1KVmviuuP6jU5GkgVpdTJnxbTUwuMtOU67PI0WyQEEn2upArx7w9bW4o6cwQoai/uDrK+qezKnDVcHHScmXsoxVTGli3fANVvWN3MxBlTqZKqEf88tn4s4hiuRd2RgBuLk7nBn2U01ftaf0i+08o81n7UQ97yygBvPEX+6QKXIRXH4JGDZd9NrFVh/j6OXoGCrsGy1G/bpRKaFd07F5owFfEcrzeUnOnJk3CDzv7ZCkC37qF8jybm+PCTPQVSTeLwyuRB+tpzBMxT9bS/oCjDJ2PhzDYiSmx5Dm24jI4g8nJNJZO7JpwKwXJpOR4jTotokJ8ZxpU=;t9bNTu9jDePipyqqPHMPfw=="
 ---
 

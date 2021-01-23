@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
 type: article
 quality: 60
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://i.insider.com/5f9325c64743a3001216b5e9?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google vs Australia, Rockets On Oil Rigs, India’s Quantum Labs And More In This Week’s Top News"
+    excerpt: "Developing radical new technology is inherently risky, but that doesn’t make breaking this news any easier. Today, I’m sad to share that Loon will be winding down,” wrote Alastair Westgarth, CEO, Loon."
+    publishedDateTime: 2021-01-23T12:31:00Z
+    webUrl: "https://analyticsindiamag.com/google-australia-india-aws-quantum-top-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 12
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/jan-23-tech-news.jpg"
+        width: 1601
+        height: 901
         isCached: true
   - title: "Atos, IBM and Red Hat team up on new industrial automation services"
     excerpt: "ICT company Atos is expanding its strategic alliance with IBM to develop joint offerings focused on automation in manufacturing, logistics and supply chain. One of the new cloud-based applications will help manufacturers and waste management companies control their energy consumption,"

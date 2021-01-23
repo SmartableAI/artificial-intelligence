@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-23-ai-machine-learning-made-accessible-on-resource-constrained-wireless-iot-chips.md",
+      "title": "AI, machine learning made accessible on resource-constrained wireless IoT chips",
+      "excerpt": "Nordic Semiconductor, Oslo Norway, has enter into a partnership with Edge Impulse, a leading provider of what’s termed ‘tiny machine learning’ or ‘TinyML’ tools designed to run on resource constrained semiconductor devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ept.ca/2021/01/ai-machine-learning-made-accessible-on-resource-constrained-wireless-iot-chips/",
+      "originalUrl": "https://www.ept.ca/2021/01/ai-machine-learning-made-accessible-on-resource-constrained-wireless-iot-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ept.ca/wp-content/uploads/2021/01/Nordic-Semi-1024x474.jpg",
+          "width": 1024,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EPT",
+        "domain": "www.ept.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-100-years-later-the-dystopian-origin-of-the-word-robot-still-rings-true.md",
       "title": "100 years later, the dystopian origin of the word ‘robot’ still rings true",
       "excerpt": "In that same interview, Čapek reflected on the origin of one of the play’s characters: The old inventor, Mr. Rossum (whose name translated into English signifies “Mr. Intellectual” or “Mr. Brain”), is a typical representative of the scientific materialism of the last [nineteenth] century.",
@@ -106,6 +150,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-23-voicehub-provides-voice-assistants-with-no-programming-needed.md",
+      "title": "VoiceHub provides voice assistants with no programming needed",
+      "excerpt": "It is quite a complex process to create voice user interfaces that are capable of natural language understanding and require no programming experience. Now a vision and voice technologies platform has released what could be the solution to the problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/voicehub-provides-voice-assistants-with-no-programming-needed/",
+      "originalUrl": "https://www.zdnet.com/article/voicehub-provides-voice-assistants-with-no-programming-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/voicehub-provides-voice-assistants-with-no-programming-needed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/voicehub-provides-voice-assistants-with-no-programming-needed/",
+      "publishedDateTime": "2021-01-22T19:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-staten-island-da-draws-criticism-for-facial-recognition-use.md",
       "title": "Staten Island DA Draws Criticism for Facial Recognition Use",
       "excerpt": "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent.",
@@ -200,7 +287,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -736,7 +823,7 @@
       "originalUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1122,101 +1209,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-cisco-uses-ai-to-add-hand-gestures-to-webex.md",
-      "title": "Cisco uses AI to add hand gestures to Webex",
-      "excerpt": "Cisco is bringing hand gestures to its Webex video conferencing software to make it easier for participants to express themselves even while on mute. Gestures and non-verbal cues have long been an important part of face-to-face meetings as they allow a speaker to emphasize or support their ideas and give the audience a chance to provide real-time feedback.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "originalUrl": "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4WKi6coauTPjCXCiWYscdW-1200-80.jpg",
-          "width": 721,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "publishedDateTime": "2021-01-21T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.md",
-      "title": "Ellis Investment Partners LLC Buys 2,526 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)",
-      "excerpt": "Ellis Investment Partners LLC grew its stake in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) by 5.1% in the fourth quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2021/01/21/ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
-      "originalUrl": "https://www.modernreaders.com/news/2021/01/21/ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/21/ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/21/ellis-investment-partners-llc-buys-2526-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html/amp",
-      "publishedDateTime": "2021-01-21T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -57,6 +57,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "A scary proposal to use facial recognition and AI by an Indian state has experts fuming"
+    excerpt: "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police."
+    publishedDateTime: 2021-01-23T11:25:00Z
+    webUrl: "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms"
+    ampWebUrl: "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 66
+    images:
+      - url: "https://www.businessinsider.in/photo/80422279/Master.jpg"
+        width: 500
+        height: 339
+        isCached: true
   - title: "Facial recognition tech deployed in UP to help women in distress"
     excerpt: "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women."
     publishedDateTime: 2021-01-21T09:57:00Z

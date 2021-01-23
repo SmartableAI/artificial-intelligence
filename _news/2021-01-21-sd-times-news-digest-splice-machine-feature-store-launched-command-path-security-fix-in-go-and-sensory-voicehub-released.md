@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-splice-machin
 webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-splice-machine-feature-store-launched-command-path-security-fix-in-go-and-sensory-voicehub-released/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "VoiceHub provides voice assistants with no programming needed"
+    excerpt: "It is quite a complex process to create voice user interfaces that are capable of natural language understanding and require no programming experience. Now a vision and voice technologies platform has released what could be the solution to the problem."
+    publishedDateTime: 2021-01-23T03:16:00Z
+    webUrl: "https://www.zdnet.com/article/voicehub-provides-voice-assistants-with-no-programming-needed/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/voicehub-provides-voice-assistants-with-no-programming-needed/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/voicehub-provides-voice-assistants-with-no-programming-needed/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "Sensory’s VoiceHub Will Boost Accessibility For Voice Assistants"
     excerpt: "Sensory released VoiceHub, and the portal will allow users to add a natural language voice user interface (UI) to anything, with the help of vocabulary additions."
     publishedDateTime: 2021-01-20T03:21:00Z
@@ -46,43 +57,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Splice Machine Creates Feature Store Platform"
-    excerpt: "Splice Machine, provider of a scale-out SQL database with built-in machine learning, is launching the Splice Machine Feature Store, helping more companies operationalize machine learning by reducing the complexity of feature engineering."
-    publishedDateTime: 2021-01-20T15:54:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Splice-Machine-Creates-Feature-Store-Platform-144816.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 24
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Splice Machine Launches the Splice Machine Feature Store Platform to Simplify Feature Engineering and Democratize Machine Learning"
-    excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced it has launched the Splice Machine"
-    publishedDateTime: 2021-01-19T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/splice-machine-launches-the-splice-machine-feature-store-platform-to-simplify-feature-engineering-and-democratize-machine-learning-301209712.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Splice Machine Launches the Splice Machine Feature Store Platform to Simplify Feature Engineering and Democratize Machine Learning"
-    excerpt: "Splice Machine, the only scale-out SQL database with built-in machine learning, today announced it has launched the Splice Machine Feature Store Platform. The Platform will help more companies operationalize machine learning by reducing the complexity of feature engineering and allow data scientists to make the right decisions based on real-time data."
-    publishedDateTime: 2021-01-20T06:08:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-data-management-artificial-intelligence-computing-and-information-technology-b5f48b9304ecfa01e5edabc23762c64c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "9RO52UEp3vZWxRPCyBb4990wYw1uWNQPnFJ+15e/PjN3eOZ+MIVBpza/cwUtF7HuOT3TXw4/+wXYVRwZYqTqxGg4Vg3+aEK5yPNhSf5mR7qcZB9k4E0lRNDH0lSwDFYOnFzvDgKm7h97EsOJbe2tr+WWGcB2sTdhHvlpiS6vxIrwy9xfULhAQN9BsjhMPstXVm2j1kH/Uu/Ke5xlPaQ+VJm5ARdXajBj5oL5c0iv05YF+aPijjPkka92PaVh868kRgUS+4iH9bnw9USuziw1K7yVKVn771GbrT8gsiDG3UNS9Ffl/pxpqSkNpwz96T0hJ4f2LjvZyvjudVAD02IROe+pb+kDn+S/fZuuETN6+deUtS3EDO+McD5u0WlmDUUqyyPjsCFiO+CoMn9i6aUW4V95pkVO08da/ldVMw9lGan7ELWzZ0G3vTaVZHF0hT70gbW29xChQhY4BjQo3AMeduEYHp2SxBFOi8cSF09CSy7tdboIseDRVQVwAaPbJHtI14zHjDAn1CJ7mc6fakmfGw==;9ek8bwVc1dO3fVov6IHYoQ=="
 ---
