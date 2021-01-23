@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026-2021-01-22"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cleaning Robot Market Covid-19 Impact Challenges, Key Vendors, Drivers, Trends and Forecast"
+    excerpt: "Top Boosters and Key Deterrents . Since the COVID-19 outbreak and the rapid spread of the pandemic, cleanliness has become a major focus worldwide. The adoption of cleaning robots"
+    publishedDateTime: 2021-01-20T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-covid-19-impact-challenges-key-vendors-drivers-trends-and-forecast-2021-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Car Market Trends, Drivers, Challenges, Segmentation based on Products till 2021 – 2024"
     excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
     publishedDateTime: 2021-01-20T10:10:00Z
@@ -43,21 +57,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market 2020-2027 | Latest Trending Report with Analysis and Future Growth Opportunities"
-    excerpt: "The global image recognition market was valued at 17 911 million in 2017 and is projected to reach 86 001 million by 2025 growing at a CAGR of 21 8 from 2018 to 2025 The report offers key drivers that"
-    publishedDateTime: 2021-01-18T14:12:00Z
-    webUrl: "https://www.openpr.com/news/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    ampWebUrl: "https://www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226652/image-recognition-market-2020-2027-latest-trending-report"
+  - title: "Artificial Intelligence Drug R&D Market: Key Industries Are Expecting To Recover From COVID-19 Outbreaks 2021-2030"
+    excerpt: "Market.Biz :The Artificial Intelligence Drug RD Market research study explains and justifies all tools and techniques by a market competitor that may proceed with your further research. It involves the learning of various techniques to conduct Artificial Intelligence Drug RD industry research and acquiring knowledge to perform different test cases,"
+    publishedDateTime: 2021-01-19T22:19:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-new-products-and-services-f0f818e5217ff4fd637ceddddeb877ae"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
     images:
-      - url: "https://cdn.openpr.com/U/1/U118376725_g.jpg"
-        width: 500
-        height: 331
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Voice Recognition Market Improvement, Orientation and Forecast To 2030 | Apple Inc, BioTrust ID B.V."
     excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Voice Recognition | eTurboNews | Trends | Travel News Online |"

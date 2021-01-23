@@ -55,22 +55,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 55
-  - title: "Artificial Intelligence (AI) Consulting Market Future Demands, Companies, Trends, Share and Size Forecast 2021-2027"
-    excerpt: "According to ReportsnReports study over the next 5 years the Artificial Intelligence AI Consulting Industry will register a xx CAGR in terms of revenue the global market size will reach xx Million USD by 2026 from xx Million USD in"
-    publishedDateTime: 2021-01-18T15:00:00Z
-    webUrl: "https://www.openpr.com/news/2226696/artificial-intelligence-ai-consulting-market-future"
-    ampWebUrl: "https://www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 50
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118912294_g.jpg"
-        width: 560
-        height: 315
-        isCached: true
 
 secured: "ykcKoo4RJFpsoDfghmYl1EUSKc+/rO2FKnetrg0CHYL8srEi4XGtUot3Ez+lInMMriS98y5XQkMjR7e0Yjsg8RWyv72Kp7PF1+0a0TFHAj8g6CQyrqpLnfy9WRoOWZqP5niybQbvoODhfiM5ObMOqLt4BVQqp7zBesEBPA5JzMiuHHqYFnCr33YexO/9EVQHunqZNVCmMLr/XuwyeXQO9sxn4TJDPO+bfKVE5fkVWhoe/EHHGCZ/pbJqSmXfsN1GVutEZzOm7OoJXNx9CfKrBi9kJQ89DUhqEVDTQAuBPo5L5lCEuUGX7LMt9UOia+1Afq9mj/+xe2L8OVVB42bUUa5JdAp2XUjRoE/YNlpbCsc=;YVWE/NiKnWL4ib5ZxOcv8g=="
 ---

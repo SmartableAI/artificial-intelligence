@@ -38,6 +38,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI-based Learning Market Surges to $34.9 Billion by 2026"
+    excerpt: "Worldwide AI-based Learning Market\" is now available for sale. According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32.8% and revenues will more than quadruple to $34."
+    publishedDateTime: 2021-01-20T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19240095/global-ai-based-learning-market-surges-to-34-9-billion-by-2026"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19240095"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19240095"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
     excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2021-01-19T19:00:00Z
@@ -51,6 +62,20 @@ related:
       - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
         height: 419
+        isCached: true
+  - title: "Global AI-Enabled Medical Imaging Solutions Market (2020 to 2030) - Analysis and Forecast - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The “Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The global AI-enabled medical imaging solutions market was valued at $636."
+    publishedDateTime: 2021-01-22T16:44:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-medical-technology-b305428c19ef4b668fc008a4282463df"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Global Military Robots Market Report 2020: Market is Expected to Reach $29.87 Billion by 2026, Growing at a CAGR of 12.8% During 2019 to 2026"
     excerpt: "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The"

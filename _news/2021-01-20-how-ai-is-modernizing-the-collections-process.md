@@ -94,22 +94,6 @@ related:
         width: 1500
         height: 1129
         isCached: true
-  - title: "How Mirroring the Architecture of the Human Brain Is Speeding Up AI Learning"
-    excerpt: "The brain’s ability to learn so quickly depends on its ability to use prior knowledge to understand new concepts based on little data."
-    publishedDateTime: 2021-01-18T15:00:00Z
-    webUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/"
-    ampWebUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 56
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/01/neurons-582050_1280-brain-AI-learning.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "How will $1 million in artificial intelligence research impact Florida industry?"
     excerpt: "The University of Florida announced a $1 million investment into artificial intelligence. Twenty faculty teams will study wide-ranging uses on data analysis in a range of fields from agriculture to education."
     publishedDateTime: 2021-01-19T19:00:00Z

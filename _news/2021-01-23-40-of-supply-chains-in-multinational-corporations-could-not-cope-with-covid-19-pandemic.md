@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
 type: article
 quality: 78
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -30,45 +30,89 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Technique Could Enhance Predictions of COVID-19 Outcomes"
-    excerpt: "Emerging technique holds promise to create more robust machine learning models that extend beyond a single health system without compromising patient privacy"
-    publishedDateTime: 2021-01-21T16:24:00Z
-    webUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912"
-    ampWebUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
-    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
+  - title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
+    excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
+    publishedDateTime: 2021-01-19T14:14:00Z
+    webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
     type: article
     provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 58
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 95
     images:
-      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24912/aImg/46165/predicting-outcomes-for-covid-19-patients-m.png"
-        width: 800
-        height: 400
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
+        width: 1200
+        height: 797
         isCached: true
-  - title: "Covid-19 will shape a decade of education"
-    excerpt: "History has shown that every crisis comes with a hidden opportunity. Covid-19 is no exception. And its in education where we are witnessing some radical changes which will define this decade."
-    publishedDateTime: 2021-01-19T10:18:00Z
-    webUrl: "https://www.fortuneindia.com/opinion/covid-19-will-shape-a-decade-of-education/105059"
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2025"
+    excerpt: "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
+    publishedDateTime: 2021-01-19T01:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2025-2021-01-18"
     type: article
     provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://images.assettype.com/fortuneindia/2021-01/2d7993ad-a07a-4b12-a836-1e8c50163e93/2D82PXE.jpg?w=700"
-        width: 700
-        height: 467
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "CHINA AND THE US SET TO DRIVE POST-COVID SURGE IN COLLABORATIVE ROBOT SALES"
-    excerpt: "After an arid 2020, when cobot revenues saw negative growth for the first time, growth is predicted to be of the order of 15-20% year on year up to 2028 • Over half of collaborative robots were shipped to Asia in 2020 • Electronics manufacturing is the largest consumer of cobots,"
-    publishedDateTime: 2021-01-19T16:04:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=16119"
+  - title: "Facebook to use AI in predicting if COVID patients health"
+    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence AI unit in an effort to help healthcare providers predi"
+    publishedDateTime: 2021-01-18T20:26:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267575276/facebook-to-use-ai-in-predicting-if-covid-patients-health"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1611000254.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
+    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a COVID-19 patient may need more intensive care solutions and adjust resources accordingly."
+    publishedDateTime: 2021-01-18T20:03:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 33
+  - title: "AI Infrastructure Market Analysis with Impact of COVID-19, Top Companies, Trends, Size, Growth, Share, Demand, Future Opportunity Outlook 2025"
+    excerpt: "Jan (The Expresswire) -- Global \"AI Infrastructure Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"
+    publishedDateTime: 2021-01-19T10:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-analysis-with-impact-of-covid-19-top-companies-trends-size-growth-share-demand-future-opportunity-outlook-2025-2021-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fintech TrueAccord, Creator of Debt Payments Negotiation Software for Financial Institutions, Reveals Consumer Behavior Changes due to COVID"
+    excerpt: "Fintech TrueAccord, creator of debt payments negotiation software for financial institutions, reveals consumer behavior changes due to COVID."
+    publishedDateTime: 2021-01-22T01:14:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/01/171435-fintech-trueaccord-creator-of-debt-payments-negotiation-software-for-financial-institutions-reveals-consumer-behavior-changes-due-to-covid/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171435-fintech-trueaccord-creator-of-debt-payments-negotiation-software-for-financial-institutions-reveals-consumer-behavior-changes-due-to-covid/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171435-fintech-trueaccord-creator-of-debt-payments-negotiation-software-for-financial-institutions-reveals-consumer-behavior-changes-due-to-covid/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 9
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Computer-Code-Develop-Work-Software-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "GsUjdvDduszJ4JkypDbtwZ4KUsvYvfk57HwYpjALfMVe/tKLbOV6qrOWwL1+zLRNu0O+WP4enJVf28oJbykjiU9qnCvVFiOVe+t6QQhhqZIUKObOovTbPyI2FWwQC9mH51paz90AZWRL6r0qzlk0a1f6izrvFUVeEDh6VEL6PcCq5puE3TaIM1OzXNqxHuglm8MmLQgr0nHT4IuwLxEKA+NHsE6ggtaPNiEpd1u1nky+uPqy3MvDGLrkNg9tqlIPnZGHvGDeTRqU85g0fYqzisLLBjc1M2r9csT/im0TKsrpCpOxSvw9fpZwQ6M/HXLZWIiVz7Oj2B+vKsmmwE7MDOdTxe7w1xH9yvAe5hWTudo=;7r1oEmG4qgWRn5WeRhd4LQ=="
 ---

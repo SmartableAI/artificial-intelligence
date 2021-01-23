@@ -62,24 +62,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 30
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-    excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
-    publishedDateTime: 2021-01-18T14:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
-  - title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com | Morningstar"
-    excerpt: "ResearchAndMarkets.com The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-    publishedDateTime: 2021-01-18T14:18:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210118005340/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
 
 secured: "0dC0xQ94fxXsU/qbd5VjMK77KRneXTOjTkR0mi24TnbLcskNXdX0eS+pNloBVjVYm+QpFvFiFIi3lbzSGNXBhlBc5cMzXDB1mmf9gkuahbbXtNHxeqD7RqVsJKyr5MwGHofqd2m5M++sObzJMWRW2f8nMKkQ9pfIWrqmGjwlDtsipmu+MgpcSj3lLFUgqJTrcrCdnQ9q3mYpdfowXxqVfAqogp62/zW85Q61JdxEwQTBMbA7tlyvMfNOQ/xVKqpRKQ9OJCQ0nqnDl+MjFtHQClbtCjsbbCmjpBx9WLZmRcJrlfkJ/zprAPjLerENkWWoAvI9YE/6N6m9Vx7XbJCDl8zXe+8DvUGv/Ro8AxzjEHY=;SrQnzcuR/Pm4Z/D3C8/bmA=="
 ---

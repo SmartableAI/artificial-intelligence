@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facebook Will Use AI To Predict If COVID-19 Patients Need Better Healthcare: Here’s How"
-    excerpt: "Facebook's artificial intelligence researchers developed models that use x-rays to anticipate the progression of the disease in a patient and help hospitals prepare."
-    publishedDateTime: 2021-01-18T14:05:00Z
-    webUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how"
-    ampWebUrl: "https://in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19640/facebook-will-use-ai-to-predict-if-covid-19-patients-need-better-healthcare-heres-how?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 98
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/news/f/facebook-t/facebook-to-send-notifications-to-users-who-like-or-share-co_wj6r.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
-    excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
-    publishedDateTime: 2021-01-19T14:14:00Z
-    webUrl: "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 95
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "Facebook enhances AI used to describe photos for visually impaired users"
     excerpt: "Facebook has announced new improvements to its artificial intelligence (AI) technology that is used to generate descriptions of photos posted on the social network for visually impaired users. The technology,"
     publishedDateTime: 2021-01-20T08:57:00Z
@@ -66,6 +34,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/20/320b9ac2-461d-41c8-a63f-477d00d43a01/nrp-cross-post-using-ai-to-improve-photo-descriptions-for-the-blind-banner-2.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facebook uses AI to improve photo descriptions for the visually impaired"
+    excerpt: "One of the most common types of content shared on Facebook, and other social media platforms are photographs. While most social media users can look at an image and see what it represents,"
+    publishedDateTime: 2021-01-20T12:28:00Z
+    webUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/"
+    ampWebUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 88
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-img-desc.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
     excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
@@ -83,22 +67,33 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Facebook claims it's AI can help predict the need for better Covid-19 care"
-    excerpt: "In an elaborate blog post, Facebook says that it could use artificial intelligence (AI) to predict the need for better or more focussed care of Covid-19 patients. This, it said, is part of the outcomes of researches conducted by an in-house AI unit wherein the healthcare professionals could be warned of the need for intensive care for patients."
-    publishedDateTime: 2021-01-19T06:56:00Z
-    webUrl: "https://www.techradar.com/in/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+  - title: "Facebook and Instagram’s AI-generated image captions now offer far more details"
+    excerpt: "Every picture posted to Facebook and Instagram gets a caption generated by an image analysis AI, and that AI just got a lot smarter. The improved system should be a treat for visually impaired users,"
+    publishedDateTime: 2021-01-19T22:33:00Z
+    webUrl: "https://techcrunch.com/2021/01/19/facebook-and-instagrams-ai-generated-image-captions-now-offer-far-more-details/"
+    ampWebUrl: "https://techcrunch.com/2021/01/19/facebook-and-instagrams-ai-generated-image-captions-now-offer-far-more-details/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/19/facebook-and-instagrams-ai-generated-image-captions-now-offer-far-more-details/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VuJmFShWnVmmRbq6GZnbSR-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/fb-insta-captions.jpg?w=1024"
+        width: 1024
+        height: 453
         isCached: true
+  - title: "Facebook Improves Photo Experience For The Blind, Visually Impaired"
+    excerpt: "Facebook said it has launched an improved version of its automatic alternative text or AAT feature to improve photo descriptions for its users who are blind or visually impaired. AAT utilizes object recognition to generate descriptions of photos on demand so that blind or visually impaired,"
+    publishedDateTime: 2021-01-20T14:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
     excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
     publishedDateTime: 2021-01-20T12:49:00Z
@@ -113,47 +108,65 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Explained: Tech Behind Facebook’s ML Models For COVID Prognosis"
-    excerpt: "To address this, Facebook AI has recently introduced pre-trained machine learning (ML) models to help doctors project the prognosis of COVID patients to make effective clinical decisions and allocate resources. The research is a part of an ongoing ..."
-    publishedDateTime: 2021-01-21T09:40:00Z
-    webUrl: "https://analyticsindiamag.com/explained-tech-behind-facebooks-ml-models-for-covid-prognosis/"
+  - title: "FB Improves AI used to Describe Images for Visually Impaired Users"
+    excerpt: "Facebook has announced new modifications to its artificial intelligence (AI) technology for assisting visually impaired users."
+    publishedDateTime: 2021-01-20T09:20:00Z
+    webUrl: "https://www.phoneworld.com.pk/fb-improves-ai-used-to-describe-images-for-visually-impaired-users/"
+    ampWebUrl: "https://www.phoneworld.com.pk/fb-improves-ai-used-to-describe-images-for-visually-impaired-users/amp/"
+    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/fb-improves-ai-used-to-describe-images-for-visually-impaired-users/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 59
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2021/01/fb-hero-image-001.jpeg"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Good News for Visually Impaired: Facebook can Describe Photos Better for You"
+    excerpt: "Facebook announced new improvements in its artificial intelligence (AI) technology. Facebook can now generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users."
+    publishedDateTime: 2021-01-21T08:08:00Z
+    webUrl: "https://www.medindia.net/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
     quality: 56
     images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/2021-01-20.jpg"
-        width: 512
-        height: 350
+      - url: "https://images.medindia.net/amp-images/health-images/facebook.jpg"
+        width: 1200
+        height: 1000
         isCached: true
-  - title: "Mission Healthcare of San Diego Adopts Muse Healthcare’s Machine Learning Tool"
-    excerpt: "PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care providers in California, will adopt Muse Healthcare’s machine learning and predictive modeling tool to help deliver a more personalized level of care to their patients."
-    publishedDateTime: 2021-01-19T13:57:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-health-care-industry-hospice-care-9982f9e5f1129000898b32acac2c0e2f"
+  - title: "Facebook Releases Revamped Version Of Its AI-Powered Automatic Alternative Text Tool For Photos"
+    excerpt: "In a nutshell, Automatic Alternative Text uses artificial intelligence and machine learning to give blind and low vision Facebook users more detailed descriptions of photos."
+    publishedDateTime: 2021-01-19T18:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2021/01/19/facebook-announces-revamped-version-of-its-ai-powered-automatic-alternative-text-aat-tool/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 55
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005d74fd02fcf42886cda91%2F0x0.png"
+        width: 1200
+        height: 2115
         isCached: true
-  - title: "Facebook to use AI in predicting if COVID patients health"
-    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence AI unit in an effort to help healthcare providers predi"
-    publishedDateTime: 2021-01-18T20:26:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267575276/facebook-to-use-ai-in-predicting-if-covid-patients-health"
+  - title: "Facebook Improves Its AI Audio Photo Descriptions for the Visually Impaired"
+    excerpt: "Facebook has been using AI to audibly describe the contents of photos for the visually impaired for some time, but it's improving those efforts this year."
+    publishedDateTime: 2021-01-20T20:08:00Z
+    webUrl: "https://petapixel.com/2021/01/20/facebook-improves-its-ai-audio-photo-descriptions-for-visually-impaired/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 37
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1611000254.jpg"
-        width: 630
-        height: 420
+      - url: "https://petapixel.com/assets/uploads/2021/01/Facebook-Improves-its-AI-Audio-Photo-Descriptions-for-Visually-Impaired.jpg"
+        width: 1600
+        height: 840
         isCached: true
   - title: "Facebook is getting better at providing more details to visually impaired users"
     excerpt: "Facebook is improving its Automatic Alternative Text (AAT) technology to better utilize object recognition to generate descriptions of photos"
@@ -169,15 +182,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
-    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a COVID-19 patient may need more intensive care solutions and adjust resources accordingly."
-    publishedDateTime: 2021-01-18T20:03:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 33
 
 secured: "ogNLe+R02S31OUgPLJ1Q+unVgEWgi/u2jQJV0ZdMPY3BMTXC4q/K7t6WRsEXaarC8tv3Jiku7S8hOBmA7DumpjuzR5mcQOWRXRJ7NJ5lBvN2jQzqR9FkW0zNHwT3p1ngzbhflYqkE9nXQauitIYh072nSU6yfuZWRkoHepvVMAfON7B6lyd7Hf0JAMxpYPsyHguQKw297LHUudmcAYx1wcE29M4VLcHXUR8zse7PCdpkqYjr1O6T6VkiM1hFlzApzA4oM2qUYU0H6f5IHpgpfyhmorbV2XSAyY2gFOypve3iS+1Jkk7uwCQrNdA80AOFqN3LaLITdFRQMB93Aex4ap2ID0eWgx5Lshs8WWuvn9lzU2K6nJNxul69vuC8qJ3J4u1jjA6jIQSGBqHCeAIAupCRMo8QVQ7eJlGIDZPsuZDn4HlpV1KFikvkuWCQaOdaZZFlh7oHSKatUD/5KC/LGrzvkbwaxtn1V4fJL5Cv2yEstFUWpkesp99HBSoenRMX3lswqzENTKHCLstX+c6d7g==;YY/Q6vp9dCvJKidzshVC/w=="
 ---

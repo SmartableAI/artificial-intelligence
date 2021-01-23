@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
         width: 620
         height: 250
+        isCached: true
+  - title: "AI in Insurance: How 3 Forward-Looking Insurers Are Infusing AI Into Their Front, Middle, and Back Offices"
+    excerpt: "Insider Intelligence assesses the business impact of forward-looking insurers implementing AI in their front, middle, and back offices."
+    publishedDateTime: 2021-01-21T20:09:00Z
+    webUrl: "https://www.businessinsider.com/ai-in-insurance-report"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5f9325c64743a3001216b5e9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Atos, IBM and Red Hat team up on new industrial automation services"
     excerpt: "ICT company Atos is expanding its strategic alliance with IBM to develop joint offerings focused on automation in manufacturing, logistics and supply chain. One of the new cloud-based applications will help manufacturers and waste management companies control their energy consumption,"

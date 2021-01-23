@@ -28,6 +28,38 @@ images:
     isCached: true
 
 related:
+  - title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
+    excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
+    publishedDateTime: 2021-01-19T14:14:00Z
+    webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 95
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
+        width: 1200
+        height: 797
+        isCached: true
+  - title: "40% of supply chains in multinational corporations could not cope with COVID-19 pandemic"
+    excerpt: "Organizations need real-time data insights, agility, and digitalization to mitigate risk and be successful, a new report finds."
+    publishedDateTime: 2021-01-22T16:42:00Z
+    webUrl: "https://www.techrepublic.com/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/15/c7b2f24c-5bd6-4c2e-8da4-e5a71849d9c0/resize/1200x/b7ddd4e0c59a0375d3225b6af03e58de/istock-1213521693.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2025"
     excerpt: "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
     publishedDateTime: 2021-01-19T01:26:00Z
@@ -42,228 +74,44 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025"
-    excerpt: "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
-    publishedDateTime: 2021-01-18T21:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2021-01-18"
+  - title: "Facebook to use AI in predicting if COVID patients health"
+    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence AI unit in an effort to help healthcare providers predi"
+    publishedDateTime: 2021-01-18T20:26:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267575276/facebook-to-use-ai-in-predicting-if-covid-patients-health"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/ani1611000254.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Artificial Intelligence Market 2021 Share, Size, Production, Sales, Supply, Demand, Analysis and Forecast to 2026"
-    excerpt: "Jan (The Expresswire) -- Global “Artificial Intelligence Market” research report contains in depth information of industry by size,"
-    publishedDateTime: 2021-01-21T03:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-share-size-production-sales-supply-demand-analysis-and-forecast-to-2026-2021-01-21"
+  - title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
+    excerpt: "American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a COVID-19 patient may need more intensive care solutions and adjust resources accordingly."
+    publishedDateTime: 2021-01-18T20:03:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20210119/3693321.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 33
+  - title: "Fintech TrueAccord, Creator of Debt Payments Negotiation Software for Financial Institutions, Reveals Consumer Behavior Changes due to COVID"
+    excerpt: "Fintech TrueAccord, creator of debt payments negotiation software for financial institutions, reveals consumer behavior changes due to COVID."
+    publishedDateTime: 2021-01-22T01:14:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/01/171435-fintech-trueaccord-creator-of-debt-payments-negotiation-software-for-financial-institutions-reveals-consumer-behavior-changes-due-to-covid/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171435-fintech-trueaccord-creator-of-debt-payments-negotiation-software-for-financial-institutions-reveals-consumer-behavior-changes-due-to-covid/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171435-fintech-trueaccord-creator-of-debt-payments-negotiation-software-for-financial-institutions-reveals-consumer-behavior-changes-due-to-covid/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 9
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Fintech Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) in fintech market is projected to accrue massive returns,"
-    publishedDateTime: 2021-01-21T08:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cleaning Robot Market Covid-19 Impact Challenges, Key Vendors, Drivers, Trends and Forecast"
-    excerpt: "Top Boosters and Key Deterrents . Since the COVID-19 outbreak and the rapid spread of the pandemic, cleanliness has become a major focus worldwide. The adoption of cleaning robots"
-    publishedDateTime: 2021-01-20T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-covid-19-impact-challenges-key-vendors-drivers-trends-and-forecast-2021-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
-    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Facial Recognition Market Report\" provides data, information, brief analysis, company profiles, statistics for past years and forecasts for next few years."
-    publishedDateTime: 2021-01-20T07:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Vision Market 2018 Growth, COVID Impact, Trends Analysis Report 2023"
-    excerpt: "According to the OMR analysis the machine vision market is expected to grow at a significant rate during 2018 2023 The global machine vision market has witnessed a significant growth due to rise in automation in the industries The global"
-    publishedDateTime: 2021-01-19T09:02:00Z
-    webUrl: "https://www.openpr.com/news/2227046/machine-vision-market-2018-growth-covid-impact-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2227046/machine-vision-market-2018-growth-covid-impact-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2227046/machine-vision-market-2018-growth-covid-impact-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
-    images:
-      - url: "https://cdn.openpr.com/U/1/U119695357_g.jpg"
-        width: 626
-        height: 648
-        isCached: true
-  - title: "Artificial intelligence (AI) chip market through Technology, Application and Geography – Analysis and Forecasting to 2027 – KSU"
-    excerpt: "News Highlights: Artificial intelligence (AI) chip market through Technology, Application and Geography - Analysis and Forecasting to 2027 - KSU A"
-    publishedDateTime: 2021-01-20T19:36:00Z
-    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 41
-  - title: "Global Machine Learning Market 2021 Analysis by Industry Trends, Size, Share, Company Overview, Growth, Development and Forecast by 2026"
-    excerpt: "Market Size, Share, Price, Trend and Forecast is an expert and inside and out examination on the present status of the worldwide Machine Learning industry. This report studiesthe worldwide market competition landscape,"
-    publishedDateTime: 2021-01-22T06:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-analysis-by-industry-trends-size-share-company-overview-growth-development-and-forecast-by-2026-2021-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market to Witness Astonishing Growth with Key Players, Analysis with Impact of COVID-19, Analysis, Demand, Forecast 2025"
-    excerpt: "Jan (The Expresswire) -- Global \"Machine Learning Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"
-    publishedDateTime: 2021-01-22T04:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-to-witness-astonishing-growth-with-key-players-analysis-with-impact-of-covid-19-analysis-demand-forecast-2025-2021-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Products Market Report 2021 Growth Factors, Research Methodology With Impact of COIVD-19 and Global Forecast 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Artificial Intelligence Products"
-    publishedDateTime: 2021-01-21T14:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-report-2021-growth-factors-research-methodology-with-impact-of-coivd-19-and-global-forecast-2025-2021-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cleaning Robot Market Sales, Challenges, Business Revenue, Statistics, Size, Share, Key Players, Demand and COVID-19 Impact"
-    excerpt: "Cleaning Robot Market Sales, Challenges, Business Revenue, Statistics, Size, Share, Key Players, Demand and COVID-19 Impact <br />  Jan 20, 2021 3:50 PM ET <p>The <a href=' target='_blank'>clea"
-    publishedDateTime: 2021-01-21T08:59:00Z
-    webUrl: "https://menafn.com/1101465527/Cleaning-Robot-Market-Sales-Challenges-Business-Revenue-Statistics-Size-Share-Key-Players-Demand-and-COVID-19-Impact"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?205618"
-        width: 393
-        height: 250
-        isCached: true
-  - title: "Global Data Center Accelerator Market Size 2021 Research Findings, Market Growth Factors Analysis and Forecasts – 2026"
-    excerpt: "In 2021 , Data Center Accelerator Market :- Modern data centers are being transformed to increase networking bandwidth"
-    publishedDateTime: 2021-01-21T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-center-accelerator-market-size-2021-research-findings-market-growth-factors-analysis-and-forecasts-2026-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Software Market Share 2021 Top Key Players, Analysis, Revenue, Price, Size, Growth Rate, Forecast by 2026"
-    excerpt: "Global “ Voice Recognition Software Market ” research report contains in depth information of industry by size, major manufacturers, growth rate, drivers and challenges, industry trends, and their impact on the market till the forecast year 2026."
-    publishedDateTime: 2021-01-21T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2021-top-key-players-analysis-revenue-price-size-growth-rate-forecast-by-2026-2021-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market - Global Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "The Global Image Recognition Market Size Is Expected To Grow from an Estimated Value of USD 26.2 Billion in 2020 to USD 53.0 Billion by 2025, at a CAGR of 15.1% The image recognition industry is driven by various factors,"
-    publishedDateTime: 2021-01-19T13:58:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-6e4e0177dd3b452f9e307d2135d69062"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence Drug R&D Market: Key Industries Are Expecting To Recover From COVID-19 Outbreaks 2021-2030"
-    excerpt: "Market.Biz :The Artificial Intelligence Drug RD Market research study explains and justifies all tools and techniques by a market competitor that may proceed with your further research. It involves the learning of various techniques to conduct Artificial Intelligence Drug RD industry research and acquiring knowledge to perform different test cases,"
-    publishedDateTime: 2021-01-19T22:19:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-new-products-and-services-f0f818e5217ff4fd637ceddddeb877ae"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global AI-Enabled Medical Imaging Solutions Market (2020 to 2030) - Analysis and Forecast - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The global AI-enabled medical imaging solutions market was valued at $636."
-    publishedDateTime: 2021-01-22T16:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-medical-technology-b305428c19ef4b668fc008a4282463df"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Computer-Code-Develop-Work-Software-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "TMYfk512lh6eV140Ex7yyAstYRamEFc09kdt4MWMZLL4gHJayLAYQLZXFmFJTATM5cnzoXsNzidE7eisbJPWuhQYkputtCSRXMZ2jJtALMQv9F2v7eP1DjUFw2DXgbrewWCB6+eyekuGTpkEwTwgHrQLBK7gYekOP98bn5TqevMC6tSYYrgeYlEMEOfm/UAXkUCG0IaXCWqt4nzvb98GMf5TrVhYybh/5sIB4HzQiA7p8Jr9Q/MGHFvTmVO0kQTWKfV2DuWn68Jfmjz3atwByNkwG40ZHcdLS8GlLDjVYlzLzxMiprKhwNnHjQo/gCGk6qUeGgTDG6rFEswYhHPVhOK0qz6dl/DAX5AF6vsaX+Q=;3q6YsOgDBIQN3IjMUXNQIw=="

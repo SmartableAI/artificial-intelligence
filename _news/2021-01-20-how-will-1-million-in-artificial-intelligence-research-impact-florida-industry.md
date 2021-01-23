@@ -104,22 +104,6 @@ related:
         width: 1500
         height: 1129
         isCached: true
-  - title: "How Mirroring the Architecture of the Human Brain Is Speeding Up AI Learning"
-    excerpt: "The brain’s ability to learn so quickly depends on its ability to use prior knowledge to understand new concepts based on little data."
-    publishedDateTime: 2021-01-18T15:00:00Z
-    webUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/"
-    ampWebUrl: "https://singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/18/how-mirroring-the-architecture-of-the-human-brain-is-speeding-up-ai-learning/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 56
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/01/neurons-582050_1280-brain-AI-learning.jpg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "UWbbLxk8jvaouZhhnWM/fffMsyNx0Su9XmKjDdqiJzMILqJYB5HI3TwPizEBuoTIDcuGOChImH5JZKC7zfFk4CxxlrJjk88NlXpWAIlMTTuksy3rDK8ZRBMLGt40QWgs6t+RJEHWb77xlRxaQwNqR5uNZ8Ok/IRRwvryVleSgVe2Y+D3rz9K7W01zoQhb504WBGmE8wvDxY1ANpKAx1ZlRbh06twJrUV+yRP8WXjEnoA2qEL3qu6Vfie88dqGtRGoVidqK7e9yxCyFGK+Wwh7KNBNP6lKggg195+fJYdCbcJuxQdeHmb6ZARvw6l3z4w6TDFEKIJz0cT5kBsKHXKw3FsXx/MMvujwXEsIRj3X1KIG4zLxyo1SMYkeAlZ9F/MphEx1ob6oBa9oBllxfP/UpSoAFh9lRC1o4SQ+JXjYEu9i4VdX2K1C31xQAX/uRuEtAtK/DGEG8p3YFF2v1Bw3Orpa5EKQ80w9ZAOW4YPMlx5WSP/9w5R98NQMwM7BZwJUK8zGSlCA9Nl6OI7OB4Clw==;d7lorPS1Xdp4mmXcxSvtQA=="
 ---

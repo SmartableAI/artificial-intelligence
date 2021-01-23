@@ -7,8 +7,8 @@ originalUrl: "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and
 webUrl: "https://www.itnews.com.au/news/ghd-to-expand-software-robotics-and-ai-practice-559867"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: IT News For Australia Business
@@ -23,22 +23,6 @@ images:
     width: 480
     height: 298
     isCached: true
-
-related:
-  - title: "Eta Compute Pivots to AI Software"
-    excerpt: "When you’re in the processor business, you’re also in the compiler business. Like it or not, inventing a new CPU or MCU with its own instruction set means you’re also on the hook for its entire"
-    publishedDateTime: 2021-01-18T14:51:00Z
-    webUrl: "https://www.eejournal.com/article/eta-compute-pivots-to-ai-software/"
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 39
-    images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2021/01/JT-210118.jpg"
-        width: 1000
-        height: 1000
-        isCached: true
 
 secured: "3g0GjUKGvrWC+Synb/G4nKCoJ+ms3dNady1JlmW5RaDKjsIAIF3FH0bWFDubgaVeqltm5Kdc9FABa7bJi2mYG6wfJ+Ck24NYnoY1BFbZnUrvsoW8TguR5leSJhRaAIoyGeEyL0n+JduzvoQR+F6H1GZzf752ABJHIAticbQnQe+KDAmVGwHmofKUnbM5bfYdNwc08uV1UzC37vpQX0HOvXY6KfAgsj6B4luvQbvQO4hC5rkqIT05vIeTAqc2jp3GEUigjPhNVMcsaeqj2aOa6kRGJUT7oSNq3BO3c+Qsre/nzO4/k6PIwEnDxtnfRMTOjMcTuYTg44ldZ4vvahrR8sdQFr02yHJwAmPFDjLSxJI=;gAIs1S0uwqf1rmAVbKLCuQ=="
 ---

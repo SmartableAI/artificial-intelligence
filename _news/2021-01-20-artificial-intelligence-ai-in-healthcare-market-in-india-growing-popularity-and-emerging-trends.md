@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2228125/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -51,22 +51,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market Future Demands, Companies, Trends, Share and Size Forecast 2021-2027"
-    excerpt: "According to ReportsnReports study over the next 5 years the Artificial Intelligence AI Consulting Industry will register a xx CAGR in terms of revenue the global market size will reach xx Million USD by 2026 from xx Million USD in"
-    publishedDateTime: 2021-01-18T15:00:00Z
-    webUrl: "https://www.openpr.com/news/2226696/artificial-intelligence-ai-consulting-market-future"
-    ampWebUrl: "https://www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2226696/artificial-intelligence-ai-consulting-market-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 50
-    images:
-      - url: "https://cdn.openpr.com/U/1/U118912294_g.jpg"
-        width: 560
-        height: 315
         isCached: true
 
 secured: "cHpNdNsoHd7Qi9tHCMBc+eTMvi+A4kCjAOW1NgxbZJPD2dbDZPkzf672zpE2In2huduG0IQtEWqdT4rm5TxgnuKCARAQXFME9aCZ/2LGqnbXlml2SBPWvHkMk8yYb7+pEPJCIpMe+uJS1J5BLSbXBKXv7IxmwAebldh1B2VX6fvL8qm8XEYtPVVC/tCNLAokmrxatZ36uLiBZWTHxD21EOBXEo2QPmnuo4uMeguNQmbii+HQ8b+VUogh0v4jvxg54bc1mgKArquk7U9XqQ9bSD6T5swFv+o9e9aL+2O4tXgRyFTg9e5BAuu0V6QE6Fz80xa4s7ti0m8t+qviAI/tq9yDdB0iDwsnmr8e8KM5RiY=;zf5h/4FJypfqKTASzqhz/w=="

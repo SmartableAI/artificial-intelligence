@@ -1,29 +1,23 @@
 ---
 category: news
 title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
-publishedDateTime: 2021-01-20T06:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
-webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
+excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
+publishedDateTime: 2021-01-19T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "GM’s Cruise self-driving startup raises $2 billion led by Microsoft"
@@ -1051,6 +1045,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "XqAeUyKnve5PNphduh9nkQMdP332nqIhXaqCf7/lS+S4wJ1hwcJzKR7u5UTQhC72v6CCRufJ+pcExxUXF/RBuu3bmOx60mCyZ+s/HHhbN/Qbyjr66XkOysgAIlSiM2HBU6oIkIlhSkzFZBlM+f5LvTu2FSlYVilvUenWcOUXR+5o8KNpj8YcSrTenTH569kOJJPsXLbSgg2MCQ+4MurYqTkiQiBa0eXyNLuuBlD/wJnXzWE3VRuwLQ6F1CTfTUqt/776ZJx17qWdjUDr9CvuxwMNjrc3M8r/l5oXr9CyAgRjoYAU2dMXCT+WANXvADiy5HuXyt1OWgHjdbREJneJihKi1Y/VLHPmsxehkG5VHXo=;t1QT/eR6XFB+1HCF20+B8g=="
+secured: "4YGpipmtIbfz4OUtK4mOaTpTpnYQ6HsnyA6LFwopFgKlLqLHz3a5rhTzhFrx7mWe0ll/6x83pNePwFONN2vhfrPDNEpleYydZlpcxw8sAVm3N2muHR3ql6v1ACgHDXxBy35G5YiwICpIsVY7Zz4hrYR7Iyo7tIemFkoEqvgrAFARgVz0EYDK5L6fbWrUVt7YCktOwpN754WiMbuKIJd6lu9EK9XfjTDI4KNx//bhHqsWg0vVBeHPguIQjlum/0H5QQ6H+xOmbiH8onrJvls84ZHtw87h1gaUuj8mAN8BOKt58OYhZb2aKAuifu90bEuRw/uQmwyjNpR8z3cTNvdhBtvO+75ueQD3WIg/mG+nNVc=;hvWcgoXSQkmK0/XZT4SF0Q=="
 ---
 

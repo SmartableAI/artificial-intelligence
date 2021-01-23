@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-ai-software-can-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ai-software-can-turn-regular-security-cameras-into-covid-19-policy-enforcement-points/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook claims it's AI can help predict the need for better Covid-19 care"
+    excerpt: "In an elaborate blog post, Facebook says that it could use artificial intelligence (AI) to predict the need for better or more focussed care of Covid-19 patients. This, it said, is part of the outcomes of researches conducted by an in-house AI unit wherein the healthcare professionals could be warned of the need for intensive care for patients."
+    publishedDateTime: 2021-01-19T06:56:00Z
+    webUrl: "https://www.techradar.com/in/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebook-claims-its-ai-can-help-predict-the-need-for-better-covid-19-care"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VuJmFShWnVmmRbq6GZnbSR-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fintech Advancement in the Time of COVID-19"
     excerpt: "As with most years, I started 2020 with a sense of optimism, looking forward to another productive year at work and doing the Appetite for Disruption podcast with my co-host Troy Paredes. In fact, he"
     publishedDateTime: 2021-01-20T23:02:00Z

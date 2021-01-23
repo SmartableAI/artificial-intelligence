@@ -24,22 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Neurotechnology Releases New SentiVeillance 8.0 SDK for Identification and Analytics Using Live and Video Streams"
-    excerpt: "New SentiVeillance 8.0 SDK from Neurotechnology provides identification and analytics using live video streams from digital surveillance cameras or video files, and it includes algorithms for face recognition,"
-    publishedDateTime: 2021-01-18T14:45:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-d895c5e344b25e95b16491272b90d6ff"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "u2B4LZSViDRZyZqfw4a9bw1LQcz5veoaL3e2EFQqdSSBLm7x9vCuLSYFr9j+BnL3zN7XUAE3jYLLshqTOicuLqP+ZjVBxi7sQj6UzsvUapN78REFEkd5TTUWh31Rw/XsipL+EiHDfwujtmoKcM9Q5oWHPLJRIimrpL4reQKPlWxoOsNAj6HPx5qe1BOKRXFK5vk2GlJLHleAL9tbdx5wr2uX8Uwmy8iV7s5JVmPzi17CJz1G2xwrrYR0rU/dUTBG0JlBNTSLjrPFQZCDvBMbsDNJF23kVB1Tcb4ideUoIr1A4S5fplwS/1P1oq6hi0O1dthEQYiPDyvJnPt2Ptub0jOxDStlzXeg0ECLGI5180s=;JD7ztuZCVZX8ANk9CLNr/Q=="
 ---
 
