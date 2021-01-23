@@ -3,8 +3,8 @@ category: news
 title: "How Manufacturers are Turning a Page on Automation and AI Due to the Pandemic"
 excerpt: "At the height of the pandemic, the world was facing a state of emergency, the manufacturing industry was in crisis, and the global supply chain was on the brink of destruction. With factories in danger of being shut down worldwide and social distancing mandates in place,"
 publishedDateTime: 2021-01-22T19:17:00Z
-originalUrl: "https://www.automation.com/en-us/articles/january-2021/how-manufacturers-turning-page-automation-and-ai"
-webUrl: "https://www.automation.com/en-us/articles/january-2021/how-manufacturers-turning-page-automation-and-ai"
+originalUrl: "https://www.automation.com/en-us/articles/january-2021/how-manufacturers-turning-page-automation-and-ai?listname=Automation & Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/january-2021/how-manufacturers-turning-page-automation-and-ai?listname=Automation & Control News & Articles"
 type: article
 quality: 36
 heat: 36
@@ -54,6 +54,6 @@ related:
         height: 825
         isCached: true
 
-secured: "w+8xgUYwvW+mQiVDogLOWZeEszrG3reNeMlEsPR6GSU20sA4+Sx+8O9rPDgOf14iKFJFOb0DVj+cksn/h2oXW2OmKKdUqr94A4rWeYMr6+9JI9RVau9RAubcL9hp8mAGFZ0zcn0EimJhX226bB+PtevmogRsczbiOk1yq4Z+2TMvmf2rLUPef/HRf948InddpkkQ5uRHf1SlTye2mBXKTrzZMiX+vsHTGBfN/GWPWDqgav6tKV/nPGaDfdk1z4wBoT7rMyOTn8tz196jQhKDwAgX8L7R0ncukJ7nUyGdcnFZ0aN1hM1fSc0YPeEzBFGjhgjbMOVMhiUXHFqyc8Q33P38LfSekIPI9XmxQe6cAaVNaMjGPW/+4epHUS7kEvqfxTgUKkgRj5Nz7k4rP4MAcHZwk2HsLOZ+byquL/7Ut6/OXxNAef2e2raCHpXsm6+Qt0a6C0jwAMqKPcRPwz138jhp577QJDHMfnyI2QNr1+ik7KNB81IMse6WzgsM+MhYclLBn58xlO4VQo2qQRJLBA==;H5wtbXrD7rm81/tvEJDaRA=="
+secured: "1vaPfP3fIJrRI8bXPTajfwF/j7eIC4StDNxuPh63Cthl+Ievvk8qY2aw5Mw913cOdXX33SSe2PKALtazR2JhAP2Y0Ec6rVZtpUTvANN4BMPev3oVLm92xjuln/cst+05FffwRW4TTKnqCErngTdvDbmT0T8NtQZ6ePP60HlUdJUji0C1a6MP0/tBDTmuGEXn8FcddZzXc9OA4lQuG2HLRbDD19LD4n3lYh+V+ePsH7qQK3fYz5I0xXGv8MEfd/Osu4765lfc+lT1t7gTRRR5K444KBM4nMDmy5/RN9BLqSOTcXdfiXGgTow+ZmEEx4dDu1iN9zfGIGcxt6Ba77YrAA/ueozbjciilYGpqB4OWT8=;f1klBRvCSvcDzwcW9bx+mg=="
 ---
 

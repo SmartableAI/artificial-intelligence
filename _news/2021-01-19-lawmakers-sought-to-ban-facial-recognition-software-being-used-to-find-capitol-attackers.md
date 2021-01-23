@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
-    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T04:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "US lawmakers aims to curtail face recognition"
     excerpt: "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities."
     publishedDateTime: 2021-01-19T08:19:00Z
@@ -55,29 +41,20 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Face recognition targeted by US lawmakers even as the tech IDs Capitol rioters"
-    excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T04:40:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/19/face-recognition-targeted-by-us-lawmakers-even-as-the-tech-ids-capitol-rioters"
+  - title: "Facial Recognition: A pathway or threat to our future"
+    excerpt: "Millions use facial recognition technology daily to unlock smartphones and tag friends in photos. But the same technology is viewed by many as a threat to human rights and civil liberties. IBM has gotten out of the facial recognition business altogether,"
+    publishedDateTime: 2021-01-21T15:38:00Z
+    webUrl: "https://nowtoronto.com/events/seminar-talk-or-panel-facial-recognition-a-pathway-or-threat-to-our-future"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
+      name: Now
+      domain: nowtoronto.com
+    quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1013160.jpg"
-        width: 1240
-        height: 826
+      - url: "https://nowtoronto.com/wp-content/uploads/event-manager-uploads/event_banner/2021/01/CFE-VF-FALL-2020-Feb_3_web_COMPRESSED.png"
+        width: 500
+        height: 281
         isCached: true
-  - title: "Lawmakers Sought to Ban Facial Software Being Used to ID Capitol Attackers"
-    excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump"
-    publishedDateTime: 2021-01-20T05:16:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597789.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 2
 
 secured: "x7V2HUF5mNJNz/LxAMKuynkCtWxk337oe3Pd4apDKBE0xIMq1jzgUovhbhEgtR2zC37DAjUzW2rNijT0SLoFrRVddaO+E3RL7O22WOWEzzJ4Vdmqxc9NcNkDmASuWDHRcLghG4yjIrEQgDX+smzBfi7UK20Z3MmWKrAytp/lXgdx4+Hncw8dQHP2hYwwODoFh8JeB4Ho1BTfpvr++KbB4GHWGuMkeRjYgebZKTU/ffOEj4LA8Q8XdXRm23k5yno5PfJWLuGeZCqXDJrLebgvC69MoS6DjhukkaQNJAtSQFTwCEgv5BhWVoHkV2KNkor4eRWuhwBhPBRbphdnFHmkn5T19SxpNUTUS43Klofgjvf+IciL8Vz8elh62B+21yVVxIPyDs1I5SGzJoHD6Y01U81TaqwmRySmYef/loqfUmhsyQmry9cJ447VrxQeQ2wccbD+812Oxb2CLUe7VMQZ0PjZPlNP5irJY7p38BDlezepZsRrcDe8Us5lCuoZWJ07mlz+tZP9IeJyLKSp9Pc+OA==;t+gHTUNbICm5J2ozWjWlmQ=="
 ---

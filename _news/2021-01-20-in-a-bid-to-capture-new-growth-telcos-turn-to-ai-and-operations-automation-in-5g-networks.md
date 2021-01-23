@@ -27,7 +27,7 @@ related:
   - title: "How Manufacturers are Turning a Page on Automation and AI Due to the Pandemic"
     excerpt: "At the height of the pandemic, the world was facing a state of emergency, the manufacturing industry was in crisis, and the global supply chain was on the brink of destruction. With factories in danger of being shut down worldwide and social distancing mandates in place,"
     publishedDateTime: 2021-01-22T19:17:00Z
-    webUrl: "https://www.automation.com/en-us/articles/january-2021/how-manufacturers-turning-page-automation-and-ai"
+    webUrl: "https://www.automation.com/en-us/articles/january-2021/how-manufacturers-turning-page-automation-and-ai?listname=Automation & Control News & Articles"
     type: article
     provider:
       name: Automation

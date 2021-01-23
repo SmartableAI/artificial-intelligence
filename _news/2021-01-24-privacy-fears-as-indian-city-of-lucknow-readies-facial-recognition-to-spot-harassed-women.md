@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Facial recognition tech deployed in UP to help women in distress"
-excerpt: "Facial recognition tech deployed in UP to help women in distress - The Lucknow police are deploying facial recognition technology backed by security cameras that will"
-publishedDateTime: 2021-01-22T04:12:00Z
-originalUrl: "https://www.siliconindia.com/news/general/facial-recognition-tech-deployed-in-up-to-help-women-in-distress-nid-215091-cid-1.html"
-webUrl: "https://www.siliconindia.com/news/general/facial-recognition-tech-deployed-in-up-to-help-women-in-distress-nid-215091-cid-1.html"
+title: "Privacy fears as Indian city of Lucknow readies facial recognition to spot harassed women"
+excerpt: "Artificial Intelligence is not a silver bullet, and no amount of 'fancy' tech can fix societal problems,\" Vidushi Marda, a researcher at human rights group, said,"
+publishedDateTime: 2021-01-23T19:28:00Z
+originalUrl: "https://www.gulftoday.ae/lifestyle/2021/01/23/privacy-fears-as-indian-city-of-lucknow-readies-facial-recognition-to-spot-harassed-women"
+webUrl: "https://www.gulftoday.ae/lifestyle/2021/01/23/privacy-fears-as-indian-city-of-lucknow-readies-facial-recognition-to-spot-harassed-women"
 type: article
-quality: 39
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: The Gulf Today
+  domain: gulftoday.ae
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/pqE9y3e2.jpg"
-    width: 570
-    height: 367
+  - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2019/8/3/rape-750x450.ashx?h=450&w=750&hash=AA50B258BD74FA4EBF8A3D794C68A1FC"
+    width: 750
+    height: 450
     isCached: true
 
 related:
@@ -100,6 +100,20 @@ related:
         width: 1080
         height: 582
         isCached: true
+  - title: "Facial recognition tech deployed in UP to help women in distress"
+    excerpt: "Facial recognition tech deployed in UP to help women in distress - The Lucknow police are deploying facial recognition technology backed by security cameras that will"
+    publishedDateTime: 2021-01-22T04:12:00Z
+    webUrl: "https://www.siliconindia.com/news/general/facial-recognition-tech-deployed-in-up-to-help-women-in-distress-nid-215091-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/pqE9y3e2.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "This is how facial recognition tech can help women in distress"
     excerpt: "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women."
     publishedDateTime: 2021-01-22T02:15:00Z
@@ -139,20 +153,6 @@ related:
         width: 3607
         height: 2404
         isCached: true
-  - title: "Privacy fears as Indian city of Lucknow readies facial recognition to spot harassed women"
-    excerpt: "Artificial Intelligence is not a silver bullet, and no amount of 'fancy' tech can fix societal problems,\" Vidushi Marda, a researcher at human rights group, said,"
-    publishedDateTime: 2021-01-23T19:28:00Z
-    webUrl: "https://www.gulftoday.ae/lifestyle/2021/01/23/privacy-fears-as-indian-city-of-lucknow-readies-facial-recognition-to-spot-harassed-women"
-    type: article
-    provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 30
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2019/8/3/rape-750x450.ashx?h=450&w=750&hash=AA50B258BD74FA4EBF8A3D794C68A1FC"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Privacy fears as Indian city uses facial recognition to spot harassed women"
     excerpt: "A plan to monitor women’s expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
     publishedDateTime: 2021-01-22T10:39:00Z
@@ -163,6 +163,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 17
 
-secured: "MaFJRUJajGtbd39Ir9lmzYCdA0ftE2s1S85/bKKh2V2++s3uNNRNWufQF9RAPdUSASYud86dwHVtuDdavTL8pssoBa/Fi9jgG1xGxsw16lsvJoEW59r5rPgMpdcnEs8FhG2JoGqQS08YGiZxHCZPmk7x+2wbWXtlxLKOjI25EoyXuuPWYLEk7gJw26160uB8JN5afXN+JlRiiHdm6e7WR64jVIa9MiHJOTa9COeGWVr403UHx4i6rDGlE13062mFYqC33+a7aRkNh9aQJTF8/OdRPIPh3jvjWZ4ftVqnwNVAGxzye2cGqqBxB3b/MHdI5+lP0eVP2wjiCqzvEe3YAle/YEjYo95OVWKUMmUxcbc=;O+mJizYO/3SAyyNKJg44Vw=="
+secured: "D7LNRmZEQ9Yle1ZDMo2/oi0j/n2aMGxcScpP+FZdAmurClOD+6i8gvUD4IryWiO2jsT0oGwlUiC9jEN5CFq0Uf86D7qjWi8YN5lmjimWJ60VK1/SwFl3iiLrrQeQQ02D5mHtlzU91D1+i7dDFW+Y7xuF7TyA4O1rc3XfJwLOgbkFL0vZSpv3GG7WJVjB85/IRgphdT9atpVkzebgM28oInIORDbwClF67OtXOvVeDlBi+ZsS1KPLsDn/PXK6Imf0i1sWe2k4z11HTSPVNHQjMnv7zp4GLH5VmmVA9YIltg6kXPWYRNlZ9IMHXf1/wCnZFPd/3+4k7p0dLN/8O5XUeWoi/NNklmeKIvKJJf4lMIo=;RSH27PD8LHZ9Otn0wssuTA=="
 ---
 

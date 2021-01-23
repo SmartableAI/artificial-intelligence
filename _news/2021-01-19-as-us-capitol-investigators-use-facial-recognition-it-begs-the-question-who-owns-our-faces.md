@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial Recognition: A pathway or threat to our future"
-    excerpt: "Millions use facial recognition technology daily to unlock smartphones and tag friends in photos. But the same technology is viewed by many as a threat to human rights and civil liberties. IBM has gotten out of the facial recognition business altogether,"
-    publishedDateTime: 2021-01-21T15:38:00Z
-    webUrl: "https://nowtoronto.com/events/seminar-talk-or-panel-facial-recognition-a-pathway-or-threat-to-our-future"
-    type: article
-    provider:
-      name: Now
-      domain: nowtoronto.com
-    quality: 39
-    images:
-      - url: "https://nowtoronto.com/wp-content/uploads/event-manager-uploads/event_banner/2021/01/CFE-VF-FALL-2020-Feb_3_web_COMPRESSED.png"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "d7JwgYvqdLXqx9fIakV/7lPSQLfUkyRjxAQFLTmc62gNDelrJ0dZi7EVcpRiEXZHGPAd26xjfEMEaiGW3PJwYKW3Hv4cBlRX2QWfq4D7rgfftLZHYRRabdrPuQ8hfH3wZS6hSWvugrfY+xMRkdsBIyU774ae/9ZySzKDWmmZAhBnc66kzdaJT7DJv8Vca1rQfbwgV2UlArRPsKdIGTqUN9ZUvOxv8+34rQGR7zMgtip8fj4G60P4Op1CH+FnBwKhUMzgzOwUmObcFWSsnaS6IcElUJvFnTlQXT0hHGGPRlTQWGSPgCPwT8CAmew/g3NHuIgO0duNzRNh1tyApksguZp34MkABkzkUyXsxq455BosGrInde5egAM4J/ReuhRWP4h/xgPw5+ENJadlfOBPaqPbUZwt1H+1aNVRHlkJF9rqJpj5r4GkJ4XWCNbGgQgp3DBDZaSldzxqbOSX6CNFpSH4hMnUIj+Itfy2nV1rU6UJNKsqjAS0wnEdMoe4/xb91BjGyvaI4TkDh64rFYvklw==;bwS9JjLIT+g2bq0QGPHvjw=="
 ---

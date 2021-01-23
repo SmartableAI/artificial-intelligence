@@ -147,6 +147,20 @@ related:
         width: 3607
         height: 2404
         isCached: true
+  - title: "Privacy fears as Indian city of Lucknow readies facial recognition to spot harassed women"
+    excerpt: "Artificial Intelligence is not a silver bullet, and no amount of 'fancy' tech can fix societal problems,\" Vidushi Marda, a researcher at human rights group, said,"
+    publishedDateTime: 2021-01-23T19:28:00Z
+    webUrl: "https://www.gulftoday.ae/lifestyle/2021/01/23/privacy-fears-as-indian-city-of-lucknow-readies-facial-recognition-to-spot-harassed-women"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 30
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2019/8/3/rape-750x450.ashx?h=450&w=750&hash=AA50B258BD74FA4EBF8A3D794C68A1FC"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "bnEgKy+1qmvJlvHc8m2L0z/Plc54Xkss8ln1XPW1b/HP0+iuhLK/esrXKh05qVHWVBC7niuOONkdRM7naitQuHv8YScNxyX7AfyUdBWlDYmqsfTTXh5fLC3SCHIyOho1jbXZCiNWvvjdJVZ9jz+4juq9NfEZ6STSb02GKaPhpb8hJUBOEVXJuHb+4PekhBHsYfkTXsHT7Abv8y+aO+j7N1fEUFsKRslFOBTPKNzATkuFdfNrY6pYzqb6CLNPzP5S58xQtVFJqBoLlAGOOPt2lnieScRi/LEuowtbGPOom/OXw06TVgLiXMFBtwWSC8NbgWzDm+StEKMxd8IXOimg3c2WvsS9ENuilmt2E81HZP4ZS+/Q7jUKclIYoytSWavuBJtcjtM++80q0l5a7Z02odpwBJeCDOl73kHLYK8nLCkMFY9KSmcuSfSgPhq9YQw0GGNCl4cV+CZUgkqPXTArNCmdOZh4z15htwZyYKwOXR4OJT1bAwfJmjwuGRHfwpuQHlayRB0t9hdDydKJ/NKuqQ==;P+wK5tlbg6A/OORJYCgzNg=="
 ---

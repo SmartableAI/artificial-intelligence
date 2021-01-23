@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.nydailynews.com/resizer/VgbWXkXtMc1-ccgIjW-fqrAg6-w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DGNAZDU7Q5BX3EBPCOVTTPZYEQ.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facial Recognition: A pathway or threat to our future"
-    excerpt: "Millions use facial recognition technology daily to unlock smartphones and tag friends in photos. But the same technology is viewed by many as a threat to human rights and civil liberties. IBM has gotten out of the facial recognition business altogether,"
-    publishedDateTime: 2021-01-21T15:38:00Z
-    webUrl: "https://nowtoronto.com/events/seminar-talk-or-panel-facial-recognition-a-pathway-or-threat-to-our-future"
-    type: article
-    provider:
-      name: Now
-      domain: nowtoronto.com
-    quality: 39
-    images:
-      - url: "https://nowtoronto.com/wp-content/uploads/event-manager-uploads/event_banner/2021/01/CFE-VF-FALL-2020-Feb_3_web_COMPRESSED.png"
-        width: 500
-        height: 281
         isCached: true
 
 secured: "ZRuyi1YMZhMU8WSGvMW5p6rlfAxmY7oOXidsOgu14qZgOTKil/quEr1ySaaCftr5m168QLCu8PPSr+/JG6S42fzjQhGHvSBZFIk+QKG0fca9JEsaBrf5LEmgn2thiI621LEPowgNMNL/KFrhsFQIh7dXkQXf/KxZ/c3OOndx01DFc/yjVrmdjkA+GtZA+tH+TlyKxfVnO6qjbChexq9/zn111piik3vgXQEmXz2ux9IimGU52zplJA142ThggxUl4+og9yswawpD0EbBXdiYV/Ecognm8B8OTisVuDO9pJz/myfTQusBLI59mN1wUKYB+6Oshf8arkauMxzRWPDHGblKiuqw3pbQyZZ8v2tk8T3KEPhegmu9IOV8U97Xe3tofJLd0MA8e95odZN3+fal0TQq53noT2OQWZG+gjgWso+jhnHsposQtZB9bupe/5NboMOUwRz+HelUOByfZkMEh71Xhcvs0KthGWYj1ZlcQpm4F4oVzIhmR3kyjl4aveWZ40BUHKJKvwnysdWtelQ2jw==;GYQYkLzM85ltjWpTKW/Usg=="

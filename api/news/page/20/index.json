@@ -2,6 +2,48 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-06-ai-algorithms-detect-diabetic-eye-disease-inconsistently.md",
+      "title": "AI algorithms detect diabetic eye disease inconsistently",
+      "excerpt": "Diabetes continues to be the leading cause of new cases of blindness among adults in the United States. But the current shortage of eye-care providers would make it impossible to keep up with demand to provide the requisite annual screenings for this population.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/4-eye.jpg",
+          "width": 1920,
+          "height": 1487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
+      "publishedDateTime": "2021-01-05T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-apple-patents-point-to-using-your-macbook-to-wirelessly-charge-your-iphone-and-apple-watch.md",
       "title": "Apple patents point to using your MacBook to wirelessly charge your iPhone and Apple Watch",
       "excerpt": "According to the patent images, a MacBook’s lid, palm rest, or trackpad could be used to charge a wireless charging-compatible iOS device. The problem the patents claim to solve is the one where you may find yourself without enough outlets,",
@@ -1129,49 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group.md",
-      "title": "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group",
-      "excerpt": "New Delhi: Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been recognized as a Leader in the Everest",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
-      "originalUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/TCS.jpg?fit=400%2C400&ssl=1",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
-      "publishedDateTime": "2021-01-05T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

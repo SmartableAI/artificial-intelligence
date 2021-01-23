@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azu
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/"
 type: article
 quality: 115
-heat: 845
+heat: 835
 published: true
 
 provider:
@@ -87,22 +87,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/19/e4a779b7-17be-4799-9ec0-e3e23e443286/microsoftcruisegm.jpg"
         width: 1193
         height: 679
-        isCached: true
-  - title: "Microsoft voice data collection will be optional with one catch"
-    excerpt: "After becoming a mostly touch-based society thanks to smartphones and tablets, tech giants are trying to turn us back towards using our literal voices to drive our interactions with technology. AI"
-    publishedDateTime: 2021-01-19T04:07:00Z
-    webUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/"
-    ampWebUrl: "https://www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-voice-data-collection-will-be-optional-with-one-catch-18655735/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 91
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/Microsoft-gives-users-control-over-their-voice-clips-hero.jpg"
-        width: 1280
-        height: 800
         isCached: true
   - title: "Microsoft teams up with Cruise on development of self-driving cars"
     excerpt: "Microsoft is looking to leverage its prowess in cloud computing to help usher in the era of autonomous vehicles, with the company announcing a partnership with Cruise, the self-driving arm of General Motors."
