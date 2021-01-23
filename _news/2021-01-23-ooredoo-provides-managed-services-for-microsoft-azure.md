@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Cruise, GM partner with Microsoft to commercialise self-driving vehicles"
-excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize"
-publishedDateTime: 2021-01-19T14:30:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/cruise-gm-partner-with-microsoft-to-commercialise-self-driving-13994822"
-webUrl: "https://www.channelnewsasia.com/news/business/cruise-gm-partner-with-microsoft-to-commercialise-self-driving-13994822"
+title: "Ooredoo provides managed services for Microsoft Azure"
+excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
+publishedDateTime: 2021-01-23T15:22:00Z
+originalUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
+webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
 type: article
-quality: 40
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
-  - AI in Autos
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13994818/16x9/991/557/190d297206f03536d799cd76e571acde/GI/a-self-driving-gm-bolt-ev-is-seen-during-a-media-event-where-cruise--gm-s-autonomous-car-unit--showed-off-its-self-driving-cars-in-san-francisco-2.jpg"
-    width: 991
-    height: 557
+  - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
+    width: 620
+    height: 355
     isCached: true
 
 related:
@@ -663,20 +662,6 @@ related:
         width: 1665
         height: 1158
         isCached: true
-  - title: "Ooredoo provides managed services for Microsoft Azure"
-    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
-    publishedDateTime: 2021-01-23T15:22:00Z
-    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 54
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Microsoft collaborates with Yellow Messenger to transform voice virtual assistants"
     excerpt: "Yellow Messenger has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services and NLP tools."
     publishedDateTime: 2021-01-19T13:41:00Z
@@ -838,6 +823,20 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/01/ms-cars.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Cruise, GM partner with Microsoft to commercialise self-driving vehicles"
+    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize"
+    publishedDateTime: 2021-01-19T14:30:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/cruise-gm-partner-with-microsoft-to-commercialise-self-driving-13994822"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 40
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13994818/16x9/991/557/190d297206f03536d799cd76e571acde/GI/a-self-driving-gm-bolt-ev-is-seen-during-a-media-event-where-cruise--gm-s-autonomous-car-unit--showed-off-its-self-driving-cars-in-san-francisco-2.jpg"
+        width: 991
+        height: 557
         isCached: true
   - title: "Cruise, GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
     excerpt: "Microsoft will join General Motors, Honda and institutional investors in a combined new equity investment of more than $2 billion in Cruise."
@@ -1055,6 +1054,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "WkWb6+N3Ml26ZNIv9JYPFNHgrDKtAfimqB6XJT9NgpCXcwGAweTMaUrrV1+Sg1rlx3+MDulGOhqdAY+6FkKrxXO+J0LvMG/MH+Ry6BvJ+vcOQzNOPrxbY0gD0kO6YMGBtP5nGobh+UDCv25m/4rbluqJO3yFWjKQcv3/0+4+DJYDGrF1josjJUF0QsldQlqwSoCeDXfl25LUWCoocgQgNQOvqLIW7akEJPWCnKoV0rhJqJZR5gsAtshUQj8/FDkaMKBETW7MwA7arw05xcSo8ZL6Z7MxJModzyomGFl0aq9qZHPq0Jqld1Ktv5p/oBc7Z3wPq9T20/9PYFK1couVkuChKxCPoOpUhiwWnfF869U=;Ym/a4nweGjPPb9FSHTnlSw=="
+secured: "HTbjLcdAPmONK57/p0kx6ZpJvE6ddRr3qLxbDKZszqM0uux84xXxNEcH8Bj6duR0kb/u6GPJtD3NVfSCjjsSlSqHOVyLdHfzmQOg2m70wXBEwGmIJP/UHjvRINc6Ul3iZrlVTYKJOG1V18Nx2pM3Y/dkHnAnt8M4nMpWyYVkKPpcMVWNyNCKayubxaknpqYHS5rtoF3V1C1v1rIYz+l4e3UyuRjbBDKwKDqzb6e4EPi5DirP0CRxgcagWyqQcHWE9dqt8A+LXCkFW63OeoKhLUMXwY2B+QjnwRFp4TXSgALwCjiCcHPio4u1JtmHJuoulF1mzrdjglNaGRZL2F+DqhAvho6l9V6p5qoK6r01Nqc=;h3vbT9HZhnAn0bvfspz7Gg=="
 ---
 

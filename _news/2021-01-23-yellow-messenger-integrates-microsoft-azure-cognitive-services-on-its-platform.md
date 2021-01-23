@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azu
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/"
 type: article
 quality: 115
-heat: 835
+heat: 845
 published: true
 
 provider:
@@ -652,6 +652,20 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "Ooredoo provides managed services for Microsoft Azure"
+    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
+    publishedDateTime: 2021-01-23T15:22:00Z
+    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 54
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Microsoft collaborates with Yellow Messenger to transform voice virtual assistants"
     excerpt: "Yellow Messenger has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services and NLP tools."
     publishedDateTime: 2021-01-19T13:41:00Z
@@ -1044,6 +1058,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "BtVxyW/44ids7bsTqBzz6V1GeHloYimUbF5rvBO/SiwPVblAVvj3GBAnuMsML83jmMr2kALwbxzZtTKg5XvEKnNYDsNZzmZqzIAzIaiZ24U7ThCBjOYbmgYqw2/Nmd/L0e2PLCHFwdxy2rCPwQbG07lq+mu7UORDXRamsAlcbcm8WN3Qt5Ra9Gk1U2VDR2yZCohHLnTiHSL0cx429VE/24Y2HhrxeAfXgiOano9roDFzIYShqRCZNs7cVoZQtvmwcbT+D6kmiLUPEOEm5qSjBbLEdvmjDLm5PeX6HnrJxQjVBG9t2AABv84aT06I2nqcy8udQCMQ5mrRXF9Gk9dyKo7iP9iQADEEJf/zkgRueKM=;O0hKMJimukmvVn/VUxBOhQ=="
+secured: "4uJmTBqPhDZk1YFaHeTmWLYJr5xEPLvjnz8SyXLgTwTu+70Iyaa1X5JwtlIDRq9aG0YtY/Tt9SPevDc3dJEBexxoXPfi8NiLbxeb8YRXREkvZk1BN+EPqbU0+rDHIbnV20rJdCTiAALmG5Ji8TO8R7FoAhFc3o/BthlKe+cWRNaDQJrDX/ZwXlWQ8nkV/ob+5uGjAjox2xYE2HEUzrx9tz5uorSZRYErql6JGA+/VVHG2F3ff10UaGdhA/GjyfacPDE2JmeIH/K6+3Sp5Koai+T7LptnY7uCQ7rXsToLt9xckzGHv6bCMSs6xExRrJdvopvcqvWWC74yoHn3RGnmDGUoElYfG5vgWB9XBxhFLQPj3/KwrV4hOpp7EATswrBfSf+GnkL8AvbH7eo9YY67fetHcJp2e2PJfl1M2gSCuDdoc9W9x+xfJdiKBAcI3p/b5pVKHpGV8V58HIdVG0c7lEQX4xsDb4rRa6stI9ekdIedgM39r6eboaQDRAxm/KOL+dDDT8reyZMhpm6xRuAmuQ==;X8l05964/dqZwMolSmQXwg=="
 ---
 

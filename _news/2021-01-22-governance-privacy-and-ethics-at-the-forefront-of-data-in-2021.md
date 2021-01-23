@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/01/21/governance-privacy-and-ethics-
 webUrl: "https://www.datanami.com/2021/01/21/governance-privacy-and-ethics-at-the-forefront-of-data-in-2021/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Ethical Governance Is the Foundation for Ethical AI"
-    excerpt: "For ethics to take root, sustainable governance practices must be infused into the fabric of an organization's AI ecosystem."
-    publishedDateTime: 2021-01-18T23:16:00Z
-    webUrl: "https://www.dbta.com/BigDataQuarterly/Articles/Ethical-Governance-Is-the-Foundation-for-Ethical-AI-144777.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 54
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+xTOdQL7mJ7gfXVwFEnspwth/3SQsjl/8m4328FSnbUShyC+BqiYRuv8zazve/mI4ulMNiDD4Zd7YVwT27H6OL/hHNmE8NBrBS2I/iGJRV+53JsSmwScEZqYO1dRcjl1ojQt5/spUkQbWvSTYvhdel2GGxyIJOz/Jo4nRQZjoIRXYLFuYQRZb0RQHJzX5ri6TiYRbjiWStIznbKpPlB8X7jdy1a9MjEXqk/jx1U3sXqJ3x0jd9DkhplNTNVM/tnQAcf5g0XBd+0ZlIYwET96DoEGdcV/jNOz3Xr8zTMac5c08RK51vsBKmQY+9iQKMYlJQJkmOSImocrxNJT0popDkeuelMh/ohI4OmwM/9oH0M=;F2T0wuLt0qb8sfIMXFrEhA=="
 ---

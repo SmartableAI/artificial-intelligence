@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "KLIA to use facial recognition in place of boarding pass"
-    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
-    publishedDateTime: 2021-01-18T23:50:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Facial recognition system plans for Parliament shelved"
     excerpt: "Given the ongoing Covid-19 situation and safe distancing measures introduced during Parliament sittings, plans for a facial recognition system to track MPs' attendance in Parliament have been shelved."
     publishedDateTime: 2021-01-20T22:06:00Z

@@ -91,20 +91,6 @@ related:
         width: 900
         height: 499
         isCached: true
-  - title: "Apple hints at ultrasonic voice biometrics, in-display fingerprints and foldable screens"
-    excerpt: "Apple is reportedly working on an iPhone with a foldable screen, according to a company insider who spoke to media last week, along with new biometric sensors."
-    publishedDateTime: 2021-01-18T23:32:00Z
-    webUrl: "https://www.biometricupdate.com/202101/apple-hints-at-ultrasonic-voice-biometrics-in-display-fingerprints-and-foldable-screens"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06145144/apple-logo-building.png"
-        width: 721
-        height: 420
-        isCached: true
   - title: "Blanket bans on face biometrics use by private sector unhelpful, digital privacy group argues"
     excerpt: "Robust regulation can ensure private sector use of facial recognition that balances people’s freedom to use biometric technology with its risks, argues the EFF."
     publishedDateTime: 2021-01-22T22:21:00Z

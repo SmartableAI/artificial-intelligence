@@ -1,25 +1,25 @@
 ---
 category: news
 title: "CES 2021 Rethinking Virtual Learning with Taiwanese Startup FlyingCrazyer's AI Evaluation System"
-excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall effectiveness issues result in low rates of interactive practice and provided feedback,"
-publishedDateTime: 2021-01-18T14:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
-webUrl: "https://markets.businessinsider.com/news/stocks/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyer-s-ai-evaluation-system-1029977764"
+excerpt: "FlyingCrazyer's research into the challenges of traditional online learning revealed an average course completion rate of 5% for online courses. Course design and overall"
+publishedDateTime: 2021-01-18T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ces-2021-rethinking-virtual-learning-with-taiwanese-startup-flyingcrazyers-ai-evaluation-system/article_ae179ac3-7cb7-5aa7-a4d6-77cf449a2d68.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-secured: "NE/u8+2pRxMQ8KbNhSb1w3cgcOXeHRCtR/n0ExW5z0KgVjP/0Pi5VGU/gCOvy//vm3l1XiVrJZTVpr97+LNzjpwmjZeRV72JxPo8xS/wogbOp9vCwm0EROHsgOEJlcGCdsU7z9rhh5/0IUCZYAv95aP39kTbtqisVqhcNYPI493859resZiia5TPF4Zx7imMz4EBztI2hLWqMznQUlYva+IXE3sFMRoLpW4ozXXqoc4k+UK1kzDkBtAMAvPQv+4qr4xxnghxb7nK/u+fy+IFfK5qweeM8bLN/nG3Qysy8hW5F3FrnREGfJCeHcRoWCL/cnkmGfHQl0BIUsO/gOoRrTxxxzbh81F+cJU0rpn/kbw=;3DZlb8y9iVP7Bch9XLCxiw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/2b/d2bb0e74-1e0e-5fc0-b8c4-f4c756efcd70/60059c42bb38e.image.jpg?resize=400%2C300"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "pEsbhbmnDXoyVZXTycIaQizXOIg1fto4V5lOd35ofq3Q7aiK5nWdDCnyey5l97hwgiNGCkJ5Z1yK/oU5W/D9HF7QWW59MB+vxV8sSBf9sb/80u7A0p6COBfQUAwYqNIXSsdCfT+R+94rx/bxQfjmqWmLbu53OuKfnYU3kOkUVs3DtUZJChrSCC+lUH6AD4k2CImmWBz/QjIyROsQRePBJGFLXAhiu4dOMhfzUXKn2NWbQeUwGdDSmgs5PXrI50B9A3AA16hw88Oj/190d9ptYhr9pg3EXN/8nhr49bvFj/p/fiBReEMrBq2xPiF/gN/3QZMK5m6qQ6DPEfXpkMPdSRr5xXzTbiCJx3AS6HSQjGk=;NAmOOoLyxUvnSKns0Sh+0g=="
 ---
 

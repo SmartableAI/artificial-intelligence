@@ -7,7 +7,7 @@ originalUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021
 webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/01/22/baidu-collaborates-with-geely-to-build-smart-electric-vehicles/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,33 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Baidu unlikely to sell vehicles to individuals"
-    excerpt: "Baidu's decision to produce cars have caused a stir in the capital and automotive markets, but the Chinese tech company is more likely to build robotaxi fleets than sell vehicles to individual customers,"
-    publishedDateTime: 2021-01-18T23:50:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202101/18/WS6004ef2ea31024ad0baa33fd.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202101/18/6004ef2ea31024adbdaf160a.jpeg"
-        width: 695
-        height: 463
-        isCached: true
-  - title: "2 Tech Giants Jumping into the Electric Vehicle Industry: Apple and Baidu"
-    excerpt: "The electric vehicle (EV) industry has performed remarkably well amid pandemic-induced economic disruptions. The accelerating shift globally towards digitization, connectivity, and automation have tempted several tech giants,"
-    publishedDateTime: 2021-01-22T22:40:00Z
-    webUrl: "https://stocknews.com/news/aapl-bidu-2-tech-giants-jumping-into-the-electric-vehicle-industry-apple/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 38
 
 secured: "XQ4CjPYUAoBN43dSJ+9mUKZpb84b3AHMqIxEwZKup6AnJGFl5p3LCmoj4oPaXoouGjKi5rFXGkvLs/2UVodfmVvq8fbVTbnhr6QO/qmxlKCuwfzF3hDDs3Z4QTrByjLYNlXHifzumatD+CX6wiBNHj16w8jqPsd2vLFazuDtBaJfrF3i3HWLQR6WA7xBrDBfbzUvab9JqeeqZrReLg1uRKLJ7cP9d4D2XZAE+XQOFkrf4onz1KP4AqgDzyf/l9EUbMQ24Ro52NRLh94qZ1x42HsM9MO2fJGPcL6NRLxZumHxHmSSOpLIriCslptFsdhGPIOIEfvPMqqVmSZbX7WAHa2D2Qs4orZYqsC68fJEq3M=;FIWZ39m2vzJTn8Unt4ipgw=="
 ---

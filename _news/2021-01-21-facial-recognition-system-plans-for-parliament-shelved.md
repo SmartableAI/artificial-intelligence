@@ -96,20 +96,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "KLIA to use facial recognition in place of boarding pass"
-    excerpt: "Passengers travelling through Kuala Lumpur International Airport (KLIA) will soon be able to use facial recognition technology in place of a boarding pass."
-    publishedDateTime: 2021-01-18T23:50:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/01/19/klia-to-use-facial-recognition-in-place-of-boarding-pass"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/19/1012941.JPG"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Ban on facial recognition technology advances in Minneapolis"
     excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
     publishedDateTime: 2021-01-22T15:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Controversy over AI chatbot in South Korea raises questions about ethics, data collection"
+    excerpt: "Offensive comments and data leaks spark calls for stricter rules and user guidelines.. Read more at straitstimes.com."
+    publishedDateTime: 2021-01-23T16:02:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/controversy-over-ai-chatbot-in-south-korea-raises-questions-about-ethics-data"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 45
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/23/ak_ll_2301.jpg?itok=8j6blQ_X"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "bONI9b4ITU0cjHJ9lbHGO54AEcNpI/TpyeFnNyCsHy9C53rjJLObre8Tf7+YJ5F+b8hb7OauCgNrJj51cbX/s+1yx3x4WUdoMOgVQYb9e/2aIg32fBR0f7CDcsUETKHLm9yizo/5JkD1z4Rlqtt0f7poxzbgpCkmEz3Ps0Jb0usE5XAhLsDER838lVXVs8Y44Ta/wjx/8xkcWXwD8Sbchm4dQlYA6wp04bT78teOOn84Mu+VqDviwg0Jx/vEnoozVlHLsjN3fUuJ2zCS6PsbXuIvIOQvyOZ9AS7V39pwB+G3JVqzjMiYjEzRVPi4VaJOoazCv7XxKGhWqT+uN19QdvnNYhWFpNlh+fEGqVa2hfQ=;S6rHa7Eib78f2BtCaK/O7Q=="
 ---

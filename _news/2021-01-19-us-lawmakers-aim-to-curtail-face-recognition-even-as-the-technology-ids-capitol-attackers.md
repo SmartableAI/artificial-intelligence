@@ -3,10 +3,12 @@ category: news
 title: "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers"
 excerpt: "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
 publishedDateTime: 2021-01-19T04:55:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
-webUrl: "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L?via=indexdotco"
+webUrl: "https://www.reuters.com/article/us-usa-trump-protests-facialrecognition-idUSKBN29N23L?via=indexdotco"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29N23L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29N23L"
 type: article
-quality: 74
+quality: 94
 heat: 134
 published: true
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800"
-    width: 800
-    height: 533
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548297838&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0H1DG"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -44,36 +46,6 @@ related:
       - url: " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  "
         width: 800
         height: 533
-        isCached: true
-  - title: "US lawmakers aim to curtail face recognition even as technology IDs Capitol attackers"
-    excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
-    publishedDateTime: 2021-01-19T00:03:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/us-lawmakers-aim-to-curtail-face-recognition-even-as-technology-ids-capitol-attackers-101611014713332-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 67
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/01/19/550x309/2021-01-18T234159Z_901953953_RC2NAL9HTPYY_RTRMADP_3_USA-TRUMP-PROTESTS-FACIALRECOGNITION_1611014981714_1611015003203.JPG"
-        width: 549
-        height: 309
-        isCached: true
-  - title: "US lawmakers aim to curtail face recognition even as the technology identifies Capitol attackers"
-    excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of"
-    publishedDateTime: 2021-01-19T00:48:00Z
-    webUrl: "https://www.channelnewsasia.com/news/world/face-recognition-capitol-identity-law-13990796"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 41
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13990792/16x9/991/557/203191f8df567c1150d93ead6f0a5f5a/sT/file-photo--supporters-of-u-s--president-donald-trump-storm-the-u-s--capitol-1.jpg"
-        width: 991
-        height: 557
         isCached: true
   - title: "Face recognition targeted by US lawmakers even as the tech IDs Capitol rioters"
     excerpt: "US lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month."
@@ -113,6 +85,6 @@ related:
       domain: insurancejournal.com
     quality: 2
 
-secured: "kTHPEJu3jsVlYlyj+ZgUVahyfAN61jRLilLrubcEV2uSXejW/IKw3uHJFfOG3C4MskUE2wD951Y1TFE4ayqjj2SWTntNE2Vo45y+hGLvffaalRYprSuJMt656rPEAlflAuxcpyO+c3XUy3zNTbWcX1IQt3gVor6NtGqTrpvjXZnqFzRlnUFhL9LvEvaNxKGsiP0iGq1YeYekATeUuQaBYycE+mfqI8FhBRgpxX6L5h8ESrUhxkGt3ZgaYlnaduHWYmj4DZWzsAEfJhk+IM5m862+GTTUC1EhHTiAS+Xcr1WKjPCgZVS7Wk5ymDIMzWimh4ghuUJD7hcTQAWhG3XF4+0X6anET1Jb+eehNpNr3TtJMmtNgRWY+F3p038rqrnmrt6HG0MwX5gT0tDuu1UrUS+9iUnY7FL019E04K0p0kQ0eNN6E4rlJopKnOZcOK61EIbouyS7tzbaOs/NL+nTK7MB5GCXdF4vXhnXz4X2w8OSYSdeknCVo5dWcx+zFUpK4mPX62aUL9Qcu63OAxhRoQ==;EJ6Ha8NTOo8iiuVXqyZadg=="
+secured: "iy01JhIKY7Je7GrDo+cIuLIfVI075r5NpUl+WxjsP+oFKWZghb2HA3y7LDUhdZF4w17+27+0/9tYHgoFmmMZC3BcJk9iRM5mpX0rNq8SImYc2T5f2kD28jVSZ4MzEfyCwc8NxU1VpuY5hlNvlhIRcGiB8E/qHX7QbcxxTkdftRh9TvJaqQ4uB+sq8yfG8WAoMNB/fQE4CQY9VoeTHo2rhGxDhbhAjyZkIfRxq2HyWb7IZN89hfwoz93uAQk8V6MsQB0R8aCrDvNhKqxoT80jJe59+Z5UzUEViDC/3hBGWhqgm/TFrri/EGTeBHhuEiN4d5gmjKJyxW8XiBy5ULhwAY7z1k6WV/vsMqmumrSRwtY=;dzRlsaUwjbWjcLgqlUGbwA=="
 ---
 
