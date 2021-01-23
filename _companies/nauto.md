@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NautoInc"
   url: "https://twitter.com/NautoInc"
-  followers: 3480
+  followers: 3482
 
 size: 51-200 employees
 yearFounded: 2015
