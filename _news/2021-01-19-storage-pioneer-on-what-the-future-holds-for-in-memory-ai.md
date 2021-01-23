@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/01/18/storage-pioneer-on-what-the-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/18/storage-pioneer-on-what-the-future-holds-for-in-memory-ai/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1300
     height: 500
     isCached: true
-
-related:
-  - title: "Artificial intelligence is the future for pathology at Duke through new program"
-    excerpt: "Duke's Pratt School of Engineering and School of Medicine have launched a new Division of Artificial Intelligence and Computational Pathology. Here's what's happening."
-    publishedDateTime: 2021-01-18T15:12:00Z
-    webUrl: "https://www.wraltechwire.com/2021/01/18/artificial-intelligence-is-the-future-for-pathology-at-duke-through-new-program/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 35
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
 
 secured: "VR5UucWwMYBKcMAK787nDGlMJtPAS292yYGoxD4NMihGc7TkFh8MrO9sJU02T/XbHClMEeFysMncsqoJl4D5PzAv5KZaS3jvj9R/j0VgQ0rq02NIdR9Qb1Fh+BzcYAmXoY0iaCS6UVGJVZJ72y6nImooDqleVXrEykiwsHSNC/iE3lZ30TRx/Dknv5FYSJq9BFVouLEZGjzitJeHq9xn7/yhoaoddXTSsZkPd2CRnpAArIyWo+mEnSrCuzKloTGF7ZWoF1Mz9yZ3IUfwujZOHslTC75dOJX+ggE/YF8WY1A7WQX5oR3O1NP265jyFbVfvJWY/v13r6IBW59iWc6n3fMsgWYHNC0HT/B/pi2QYej+60l0id1POBNGVCc6VD2A16R7W4zJLj43u6/ltWDZDihH4syocOpnNqYDVT3caQrzN1JhhJ/Qx7Y2x64Mtlfo4K6PvzRBgKDQFsyHoxbHPWQK2SBMWxxnlEiAQfNvcaVNsypGrssOBKTFe+t6e0aD2iwauItHkCE0dXDM4fef/w==;zPGi4GDZ+Y5gVR8OkiAuPQ=="
 ---

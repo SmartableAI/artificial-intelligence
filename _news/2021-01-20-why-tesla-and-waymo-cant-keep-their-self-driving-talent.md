@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 796
         isCached: true
-  - title: "Tesla bull asks Elon Musk for Full Self-Driving value to added with vehicle trade-in"
-    excerpt: "Tesla will consider adding monetary value to its Full Self-Driving suite when an owner is attempting to trade-in their vehicle. The company is looking into the possibility following a request to Elon Musk from notable Wall Street analysts and Tesla bull ..."
-    publishedDateTime: 2021-01-18T15:07:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-trade-in-value-elon-musk/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-trade-in-value-elon-musk/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-trade-in-value-elon-musk/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 52
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2018/08/panasonic-tesla-battery-e1533126068426-300x202.jpg"
-        width: 300
-        height: 202
-        isCached: true
 
 secured: "qfiKUtCdAg8Igc0RSWHxUmdIFV4So38ZBXpeOUOjM0aCYdkBB/wFIX5LfpIzizgLNyQyUpx6kGsa0FIwizQxqYMuoj/KS/BBEcoZquKHO9vR9dEd5LtJt7MPj98B2f3RLFlBJ3qXwpPtmZRtMlAttDuiL0WUgou7NbOhr/tPy2nHXs/0CnjYxIO8/1CJT3ZBRHXaAQNogWYnZCIeHD07PhoHZr0kUC5j+Ng4Eiu4y4RPjK9Ofkj3loTivbpnQJ3qXcq0DIBWmNgQk3Vjjau2e8OWpUEWkbnHijweLGI411yVaiKAreSVUZiF+Cm4XwcMvRSAd6off82N/tTshxCeVaE6FVxkv7n8UrEreb5ZNbc=;eW/8JnqpD0VjFStOhuhRdQ=="
 ---

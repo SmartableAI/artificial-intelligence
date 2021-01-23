@@ -46,22 +46,6 @@ related:
         width: 876
         height: 494
         isCached: true
-  - title: "How AI and deep learning is helping marketing"
-    excerpt: "There is a popular marketing quote — “half the money I spend on advertising is wasted; the trouble is I don’t know which half.” That quote, which is more than 100 years old, has certainly aged well and the sentiment stills resonates with many even today."
-    publishedDateTime: 2021-01-18T15:37:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 93
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33602216.ece/ALTERNATES/LANDSCAPE_615/PersonalisedMarketing"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "La3kj3d/q8WZSvcAUWGgQGj0QP6ZwG7AVMinGzWGWTphmjwq/+iYdZtNIOc3jjRn+W8UspglY8aRlqbY9FKOK1+jISpHoOHLaMJfDwJnYhgiKMLqGw9HdnbLHnyZnk3zL0cX2BsqRtNZM78Uu+CaY9TI2YsvXPHcfvo8iAbjYqRfItLmD3CuFLmWh5TWdlidLsa9LZENn/LFr6soOEAwryLLigHhtOZtQo91CsMpqhdEb+asJ+42prndm++L2eRap8etwt8vwVNCMRqkFn1K4gN/kyqq7hIwpvDgEJH55HrDdtHd1wt0X/830HycXW/PEjLelX+6edu01mecu3Bx2MV6ZAqBE3YcMOOLQsNUufk=;EOUL9ob0V/BjAlcejpI4uw=="
 ---

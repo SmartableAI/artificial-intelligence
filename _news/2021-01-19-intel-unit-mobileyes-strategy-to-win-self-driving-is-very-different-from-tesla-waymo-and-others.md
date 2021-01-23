@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mob
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2019/05/industryweek_28384_tesla_model_3_0.png?auto=format&fit=max&w=1200"
         width: 595
         height: 335
-        isCached: true
-  - title: "Tesla bull asks Elon Musk for Full Self-Driving value to added with vehicle trade-in"
-    excerpt: "Tesla will consider adding monetary value to its Full Self-Driving suite when an owner is attempting to trade-in their vehicle. The company is looking into the possibility following a request to Elon Musk from notable Wall Street analysts and Tesla bull ..."
-    publishedDateTime: 2021-01-18T15:07:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-trade-in-value-elon-musk/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-trade-in-value-elon-musk/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-trade-in-value-elon-musk/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 52
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2018/08/panasonic-tesla-battery-e1533126068426-300x202.jpg"
-        width: 300
-        height: 202
         isCached: true
 
 secured: "lXFKVL8GGEUYguIS63XpfP7TDFn3C/KsE/KW8MZ8O3UDPpYK8RJ5y78l95GFOad7eD6Nxq5Hf+VBBusKXIlnNSG0k4ozugKvHUtvqw4TpdTXl32y+bhLEJN8cjZAp0Cj9YUTcrPYS6C5+5p+9MbtjpQFrs+S+djBvQx2la2JRE5o0aMmDeOGccxCWOct6zCHg/xvQE6kkoMiJd1CDaxfNI1QPX7TLijdsJy+C0MRtWk5sPlOUL1YoL0AFb61MIh7cDCpHm7dBQs+Kmnmp0nPZmaYjRNnW7pUoiyFrp/+snbiN0CmYamrzPVmjDh0XrYAjk4ra/CeTJa51eUEojAkFXJx8n18Hr5VIiL4EpAdY2nk/c3iZXL6BuJYUPVysCylQ9GPAyoEzyokdFZLmqlQ7/uhGjMXoAlHwKPMzE2u7nDiZ5LO9OYW2Ka34rWPvWbyAYgNK2V+g3Cxqxyeb77EqM9+pwSoGj49oYDVpO1tbVFw1ZCSFlENpg23yWTMzY/pYDY/UHRvQZRTe7Daon5q3g==;M0xDOBio4TWrdV/pBTW+WA=="

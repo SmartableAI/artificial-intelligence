@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2228408/artificial-intelligence-ai-robots
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228408/artificial-intelligence-ai-robots-market-covering-prime"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -19,38 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market in India Growing Popularity and Emerging Trends"
-    excerpt: "A new research document is added in HTF MI database of 50 pages titled as Artificial Intelligence AI in Healthcare Market in India 2018 2023 with detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes"
-    publishedDateTime: 2021-01-20T12:38:00Z
-    webUrl: "https://www.openpr.com/news/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
-    ampWebUrl: "https://www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
-    images:
-      - url: "https://cdn.openpr.com/U/1/U120136029_g.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Retail and E-commerce Market Inclinations & Development Status Highlighted During Forecast Period"
-    excerpt: "Artificial Intelligence (AI) in Retail and E-commerce Market -, By Size, Supplier, Demand Analysis, Type, Statistics, Regions and Industry Key Manufacture \"The report on the global AI in retail and E-commerce market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-20T21:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-and-e-commerce-market-inclinations-development-status-highlighted-during-forecast-period-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5e1sQtRbHzmRHcp+d1DCFumcy2MtfXfytNVjQx4JDnTfoea1E0iuppXwpoPE2426cNXc/mhzoqbE0RnLTKXV3rwUx81EBplMrnCTIgKWAOiWGz/KNb3FGQPDz4+OL9ccpMHjTGvTLp7/CpIurrVTtQXvUK6OdAVB4TbXYE11Vwno73qEy9Su2JJHt2e2wbaOmBPbQ6J48PwNKMep0XL362TxpJ4fy4ZG6DbMfhjt/IYin0OiwNldd+vqB3XlTYIXN0qL5vTeXhK41maHwzvvkbS/DZ8QbsHnbbzvtDsnQvBR4TsQ3BbYoupxHxvdyLIqyEzVV3JmMIztK1buD+6YE2bTSvk9Io239W1rtmnntFw=;idt3N64lgVl0B0T1IXAjmA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/amp/"
 type: article
 quality: 106
-heat: 826
+heat: 816
 published: true
 
 provider:
@@ -714,20 +714,6 @@ related:
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/19/general-motors-which-unveiled-a-new-corporate-logo.jpg"
         width: 768
-        height: 768
-        isCached: true
-  - title: "Microsoft clarifies its practices for voice data collection"
-    excerpt: "... rolling out some important updates to give users more control over how their voice data is used to improve its speech recognition technology. The new setting will allow users to choose if the company can use their voice recordings to enhance the ..."
-    publishedDateTime: 2021-01-18T16:36:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-clarifies-its-practices-for-voice-data-collection"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 41
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/microsoft-settings-control-over-voice-data.jpg"
-        width: 1024
         height: 768
         isCached: true
   - title: "GM joins with Microsoft to speed up self-driving cars"

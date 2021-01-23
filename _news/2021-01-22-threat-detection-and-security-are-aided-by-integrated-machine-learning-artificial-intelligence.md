@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/"
 type: article
 quality: 123
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and deep learning is helping marketing"
-    excerpt: "There is a popular marketing quote — “half the money I spend on advertising is wasted; the trouble is I don’t know which half.” That quote, which is more than 100 years old, has certainly aged well and the sentiment stills resonates with many even today."
-    publishedDateTime: 2021-01-18T15:37:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/how-ai-and-deep-learning-is-helping-marketing/article33602217.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 93
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33602216.ece/ALTERNATES/LANDSCAPE_615/PersonalisedMarketing"
-        width: 615
-        height: 384
-        isCached: true
   - title: "The AI-Powered Robot That Learnt Curling Using Adaptive Deep Reinforcement Learning"
     excerpt: "In curling, a sport that’s been referred to as “chess on ice” because of the strategy and precision involved, a robot named Curly beat Korean national teams in three out of four official matches. Robots have certainly come a long way,"
     publishedDateTime: 2021-01-19T06:31:00Z

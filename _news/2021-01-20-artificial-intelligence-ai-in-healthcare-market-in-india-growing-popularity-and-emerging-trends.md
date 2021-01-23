@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2228125/artificial-intelligence-ai-in-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
 type: article
 quality: 76
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: openpr.com
@@ -27,17 +27,76 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Robots Market Covering Prime Factors and Competitive Outlook till 2027"
-    excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI Robots Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market factors"
-    publishedDateTime: 2021-01-20T17:08:00Z
-    webUrl: "https://www.openpr.com/news/2228408/artificial-intelligence-ai-robots-market-covering-prime"
-    ampWebUrl: "https://www.openpr.com/amp/2228408/artificial-intelligence-ai-robots-market-covering-prime"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228408/artificial-intelligence-ai-robots-market-covering-prime"
+  - title: "Artificial Intelligence (AI) in Marketing Market, Size, Share, Analysis Report & Forecast to 2025"
+    excerpt: "Jan (Heraldkeepers) -- Artificial Intelligence (AI) in marketing market is growing rapidly owing to high demand for lead generation,"
+    publishedDateTime: 2021-01-23T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025"
+    excerpt: "Global Edge Artificial Intelligence (AI) Chip Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 offers end to end industry from the definition, product specifications, and demand till forecast prospects."
+    publishedDateTime: 2021-01-18T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2021-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market Global Industry Trends, Share, Size and Forecast Report"
+    excerpt: "Machine Learning Market Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts \"The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
+    publishedDateTime: 2021-01-20T14:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market 2021 Share, Size, Production, Sales, Supply, Demand, Analysis and Forecast to 2026"
+    excerpt: "Jan (The Expresswire) -- Global “Artificial Intelligence Market” research report contains in depth information of industry by size,"
+    publishedDateTime: 2021-01-21T03:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-share-size-production-sales-supply-demand-analysis-and-forecast-to-2026-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Fintech Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) in fintech market is projected to accrue massive returns,"
+    publishedDateTime: 2021-01-21T08:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Retail and E-commerce Market Inclinations & Development Status Highlighted During Forecast Period"
     excerpt: "Artificial Intelligence (AI) in Retail and E-commerce Market -, By Size, Supplier, Demand Analysis, Type, Statistics, Regions and Industry Key Manufacture \"The report on the global AI in retail and E-commerce market provides qualitative and quantitative analysis for the period from 2018 to 2026."
     publishedDateTime: 2021-01-20T21:37:00Z
@@ -52,6 +111,154 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Trends, Share, Growth Rate, Opportunities and Market Forecast to 2021 – 2024"
+    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
+    publishedDateTime: 2021-01-22T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-trends-share-growth-rate-opportunities-and-market-forecast-to-2021-2024-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Solutions Market Future Demands, Companies, Trends, Share and Size Forecast"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence Solutions Industry from its research database Artificial Intelligence Solutions Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence Solutions Market currently and will have"
+    publishedDateTime: 2021-01-22T15:13:00Z
+    webUrl: "https://www.openpr.com/news/2229950/artificial-intelligence-solutions-market-future-demands"
+    ampWebUrl: "https://www.openpr.com/amp/2229950/artificial-intelligence-solutions-market-future-demands"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2229950/artificial-intelligence-solutions-market-future-demands"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/U/1/U122861664_g.jpg"
+        width: 800
+        height: 468
+        isCached: true
+  - title: "Artificial intelligence (AI) chip market through Technology, Application and Geography – Analysis and Forecasting to 2027 – KSU"
+    excerpt: "News Highlights: Artificial intelligence (AI) chip market through Technology, Application and Geography - Analysis and Forecasting to 2027 - KSU A"
+    publishedDateTime: 2021-01-20T19:36:00Z
+    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 41
+  - title: "Artificial Intelligence Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2021-01-20T08:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning Market 2021 Analysis by Industry Trends, Size, Share, Company Overview, Growth, Development and Forecast by 2026"
+    excerpt: "Market Size, Share, Price, Trend and Forecast is an expert and inside and out examination on the present status of the worldwide Machine Learning industry. This report studiesthe worldwide market competition landscape,"
+    publishedDateTime: 2021-01-22T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2021-analysis-by-industry-trends-size-share-company-overview-growth-development-and-forecast-by-2026-2021-01-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market to Witness Astonishing Growth with Key Players, Analysis with Impact of COVID-19, Analysis, Demand, Forecast 2025"
+    excerpt: "Jan (The Expresswire) -- Global \"Machine Learning Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"
+    publishedDateTime: 2021-01-22T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-to-witness-astonishing-growth-with-key-players-analysis-with-impact-of-covid-19-analysis-demand-forecast-2025-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Data Center Accelerator Market Size 2021 Research Findings, Market Growth Factors Analysis and Forecasts – 2026"
+    excerpt: "In 2021 , Data Center Accelerator Market :- Modern data centers are being transformed to increase networking bandwidth"
+    publishedDateTime: 2021-01-21T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-center-accelerator-market-size-2021-research-findings-market-growth-factors-analysis-and-forecasts-2026-2021-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market Share 2021 Top Key Players, Analysis, Revenue, Price, Size, Growth Rate, Forecast by 2026"
+    excerpt: "Global “ Voice Recognition Software Market ” research report contains in depth information of industry by size, major manufacturers, growth rate, drivers and challenges, industry trends, and their impact on the market till the forecast year 2026."
+    publishedDateTime: 2021-01-21T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2021-top-key-players-analysis-revenue-price-size-growth-rate-forecast-by-2026-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market - Global Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "The Global Image Recognition Market Size Is Expected To Grow from an Estimated Value of USD 26.2 Billion in 2020 to USD 53.0 Billion by 2025, at a CAGR of 15.1% The image recognition industry is driven by various factors,"
+    publishedDateTime: 2021-01-19T13:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-6e4e0177dd3b452f9e307d2135d69062"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global AI-Enabled Medical Imaging Solutions Market (2020 to 2030) - Analysis and Forecast - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The “Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The global AI-enabled medical imaging solutions market was valued at $636."
+    publishedDateTime: 2021-01-22T16:44:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-medical-technology-b305428c19ef4b668fc008a4282463df"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Robot Assisted Surgical Systems Market to Reach USD 17.80 Billion | Size, Share, Industry Analysis and Global Forecast to 2027"
+    excerpt: "Growing demand for robot assisted minimally invasive surgeries is predicted to acquire the highest accuracy and success rate and boost market growth."
+    publishedDateTime: 2021-01-21T13:52:00Z
+    webUrl: "https://www.medgadget.com/2021/01/robot-assisted-surgical-systems-market-to-reach-usd-17-80-billion-size-share-industry-analysis-and-global-forecast-to-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "cHpNdNsoHd7Qi9tHCMBc+eTMvi+A4kCjAOW1NgxbZJPD2dbDZPkzf672zpE2In2huduG0IQtEWqdT4rm5TxgnuKCARAQXFME9aCZ/2LGqnbXlml2SBPWvHkMk8yYb7+pEPJCIpMe+uJS1J5BLSbXBKXv7IxmwAebldh1B2VX6fvL8qm8XEYtPVVC/tCNLAokmrxatZ36uLiBZWTHxD21EOBXEo2QPmnuo4uMeguNQmbii+HQ8b+VUogh0v4jvxg54bc1mgKArquk7U9XqQ9bSD6T5swFv+o9e9aL+2O4tXgRyFTg9e5BAuu0V6QE6Fz80xa4s7ti0m8t+qviAI/tq9yDdB0iDwsnmr8e8KM5RiY=;zf5h/4FJypfqKTASzqhz/w=="
 ---

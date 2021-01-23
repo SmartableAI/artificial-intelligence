@@ -66,20 +66,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
-  - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
-    excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called 'federated learning' to examine electronic health records to better predict how COVID-19 ..."
-    publishedDateTime: 2021-01-18T16:57:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-machine-technique-covid-outcomes.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 24
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2019/1-medicalrecor.jpg"
-        width: 1280
-        height: 1920
-        isCached: true
 
 secured: "/NTJozcaVH5tUGSknwRd1y1jWX55jZ5MGhctN1Kh/BMsBk9Gn6YaN6zEhkyuwHRYX7dsv/1T4znmoEjYDeEpXN8KkiMvHFGwDud5OYaMMfqfnj6P04Ew3WTS7TRWlxJ+dv1ZbpfRcNpWY0tF6juLbgPhwLNIAMfw578WjY46AL7WpxVISemgJ1cQO6mO9l+fuCjDeTdc87l/CcnXfb9AiancUN/QOs6m1wbpLEcybSf4/JOxjG+MMoe9+65KgGu0DSgWy2Z7EcknvCSS17uenLHO2GSE3mjmdi7VmskPnLP/Lenmb7fz1hk2tz+cb48CLZOLNJR/vSMhBlgVLkhmcz27Z/QvVdPGDu6YVmlQxy7OEOMA34QJ3/7175z6cwaUF3lW+jZvfSF//dPq94sf9p/pNJctb9it3JZyhEryDN2g+F31SMfieA8WLY7h+ej1HGNocHAOVWTJAOqHmikm732eVSGho/qNFL1+W0lxP+eg5yiiAVk5jO6Bpr8W8c3R/tolc/dNnQmOSCiJey9V4w==;+p602H3O+1vZkyzDzvfKRg=="
 ---

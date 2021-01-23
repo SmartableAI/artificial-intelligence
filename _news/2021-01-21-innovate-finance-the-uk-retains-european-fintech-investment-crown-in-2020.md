@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/14/fe0581d7-3dc7-4fa7-a1c5-25388306266b/thumbnail/1200x675/990265b0101deff5bded0bc31bc9276b/us-troops-deploying-to-the-middle-east-t-5e1db2285413ee0001a552fc-1-jan-14-2020-13-17-19-poster.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How fintech and serial founders drove African pre-seed investing to new heights in 2020"
+    excerpt: "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity."
+    publishedDateTime: 2021-01-23T07:02:00Z
+    webUrl: "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/"
+    ampWebUrl: "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Is Recent Fintech IPO Upstart a Buy?"
     excerpt: "One interesting recent IPO that has been flying somewhat under the radar is fintech lender Upstart ( NASDAQ:UPST). In this Jan. 11 Fool Live clip, Matt Frankel, CFP, and Industry Focus: Financials host Jason Moser take a closer look at Upstart and what investors need to know about it."

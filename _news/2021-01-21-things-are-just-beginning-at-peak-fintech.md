@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How fintech and serial founders drove African pre-seed investing to new heights in 2020"
+    excerpt: "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity."
+    publishedDateTime: 2021-01-23T07:02:00Z
+    webUrl: "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/"
+    ampWebUrl: "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Is Recent Fintech IPO Upstart a Buy?"
     excerpt: "One interesting recent IPO that has been flying somewhat under the radar is fintech lender Upstart ( NASDAQ:UPST). In this Jan. 11 Fool Live clip, Matt Frankel, CFP, and Industry Focus: Financials host Jason Moser take a closer look at Upstart and what investors need to know about it."
     publishedDateTime: 2021-01-19T16:43:00Z
