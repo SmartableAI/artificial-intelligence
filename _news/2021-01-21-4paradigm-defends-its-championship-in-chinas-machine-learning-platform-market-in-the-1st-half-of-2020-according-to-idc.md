@@ -5,12 +5,7 @@ excerpt: "IDC, a premier global provider of market intelligence, has recently pu
 publishedDateTime: 2021-01-21T04:43:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
 webUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
 type: article
-quality: 46
-heat: 46
-published: false
 
 provider:
   name: Business Insider
@@ -25,6 +20,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "UAFviSGDnB3eI0h5VdTU2EIGlF3YjGJ4DYhRjEbqURe7dGhoIK0s3J6SZQKYi2VnHs2C/QtyXhvC2k7kbhhbagasqltOXNJ6v+LgpO8QqIhHBEo2FBFNsYnti2Qy0hFGup0HMAC9EwAne1YnXDwrdEEiabPPnz2yBkfi3sjMS+/VcxnYTIzkSIyPy+2sKb8j7z42rHHGlfyN0URJ84NWXndPHxDm9DoVzxonNK5ICreGBcLc8uSbEsvOCzQiZHUO8gTRNZV9wRf7/gE/raPSA6IHHu2A9jW3krNnmPkYukAMzXxLTTllWCNLFMJKQ7NQbuxloi1ETsFdYi4VUn1aozWljq3ELBlDMIC0eCgV+Qs=;rrfCGdsKLcxBEwk/nJ9YnQ=="
+secured: "ke4O9x+RWZE8XlIWDXIMqgj+7NjZfpTWN2XTRJW5QRQMC8ulMz1h32tJlb7mfqJf+HLbqiqqf0njWgH0FA73y54PsV+eypsMxa1U0cUG+dSeDaNPAh8C54i0nj4z7Am8ZCw6m99f+nHTbVdWIFFZ1rMclRJ2O5f18yNH0etguKLyhei6Ki9DrFt4NBJ3AqeTWC/yaamhWSm8u+sT4G87I5TI5S8jFPWVs2SfacC/ZGuFoOxCVIhd7aygliPfbKvVWth3goSygn+O/X2MunJZjZpv35SRKZkpCdVlpvX5Z7u8dKrx6PAJNgeGr+saBObOXUOnY+I/4fRgehnrjX80LO/+xQloy38rzKzDQf5gCuI=;oVfUD7t9ilyH7eIRSAKmkA=="
 ---
 

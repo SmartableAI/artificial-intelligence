@@ -1,61 +1,20 @@
 ---
 category: news
 title: "Okschain Reveals Ambitious Strategy To Transform Finance, AI & Alternative Energy"
-excerpt: "Tallinn, Estonia, Jan. 23, 2021 (GLOBE NEWSWIRE) -- Uzbek technology company to release wallet, lending, investing and learning hubs built on the Stellar blockchain Uzbekistan-based blockchain project <a href=' target='_blank'>Okschain has announced an ambitious plan for 2021,"
-publishedDateTime: 2021-01-24T08:06:00Z
-originalUrl: "https://menafn.com/1101480870/Okschain-Reveals-Ambitious-Strategy-To-Transform-Finance-AI-Alternative-Energy"
-webUrl: "https://menafn.com/1101480870/Okschain-Reveals-Ambitious-Strategy-To-Transform-Finance-AI-Alternative-Energy"
+excerpt: "Tallinn, Estonia, Jan. (GLOBE NEWSWIRE) -- Uzbek technology company to release wallet, lending, investing and learning hubs built on the Stellar blockchain"
+publishedDateTime: 2021-01-23T18:32:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/g19286217/okschain-reveals-ambitious-strategy-to-transform-finance-ai-alternative-energy"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/g19286217/okschain-reveals-ambitious-strategy-to-transform-finance-ai-alternative-energy"
 type: article
-quality: 49
-heat: -1
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-    width: 300
-    height: 250
-    isCached: true
-
-related:
-  - title: "Transforming the energy industry with AI"
-    excerpt: "In the oil and gas industry, digitalization is improving project economics and streamlining operations, with AI as the key for sustainable growth and security against cyberthreats."
-    publishedDateTime: 2021-01-21T13:14:00Z
-    webUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/MITTR-Seimens-webart-Cover.png"
-        width: 1500
-        height: 1129
-        isCached: true
-  - title: "Understanding the reasons behind the Huge Energy And Power Demands of Artificial Intelligence"
-    excerpt: "The high energy consumption of artificial intelligence models, especially in neural network training (e.g. BERT) leads to huge carbon footprint. Spiking Neural network (SNN) has been proposed to start age of Green AI."
-    publishedDateTime: 2021-01-24T11:47:00Z
-    webUrl: "https://www.analyticsinsight.net/why-is-artificial-intelligence-so-energy-hungry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 28
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-1-scaled.jpg"
-        width: 2560
-        height: 1711
-        isCached: true
-
-secured: "IYcXXQAiqaNB+8z3xJZ/mbuYg2P8FEb5AwLjjD+cqgZd4rZPxqR0c9lZW4Jl9N9V2MKMy9o5BnFCcXCKFO6HoLmS+LlCsNPVd7Zm6ySSQuDXzWauFwkxgzlunoUGhfEg9uG5pz4LUR5OVYiQVzVTyY+61kSHyqr/EUN9sNBL0T8MYCra/X5mHoqA3csAlrErTOSOItWepEEXdanrnD2x5wt+bTK/XHurAsXivn3MjRf0DMbHUbOLQMQUfJQO1WJD0AG758U2n1EiWhsVCF0Mt/txcIkp9j2tRENjPn0r5/c/v6pqr+Ri791U2OIAsXHdZmdffZQYXmITfvymSSmXykCZkm5n6Fq4M0qsbxyB+9s=;UwNHyHhYF9Ya6nXMjnvE7g=="
+secured: "amJp3XkwXMjAXLpKx+QnUT/M63kGrDvlJriNny8gx14zBCQ2hzNxntP6b1pQjvPwPvCW7QjVgcvY3e922bwFEB0DQnTaPZ3rAjo4N4HSV3CIHvcHwIre08pSx08ievpe9nd7AxWQH0xbLy51P+E3ledtiqKl8qFca7kaMLcFfJgMg3NzX6tSijPlrQE8rbIrV8oa6kgXZfX6KXlIt/uViqGneTtw8NnqYKzmQHXXffTA24sIFIIqn/M73JS/5l4GxCp+NZGiQBXA3hn2PIidfnPnNAHWgQj8uYJ/rOG6tf7BNFUo3fsAHYC64hhuZ3iXyB7fvWFdqDb5FBKAZpbFCKGxli0lkvQBC3J4WDau+Ok=;yvSEKQR/IMkCM5KYPjHeMA=="
 ---
 
