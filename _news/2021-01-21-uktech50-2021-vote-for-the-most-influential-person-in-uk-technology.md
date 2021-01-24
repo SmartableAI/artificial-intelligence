@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252495154/UKtech50-2021-Vote-for
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495154/UKtech50-2021-Vote-for-the-most-influential-person-in-UK-technology?amp=1"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - Google AI
   - AI
-
-related:
-  - title: "Top three technology trends for 2021"
-    excerpt: "Technology continues to be a fast paced area and COVID-19 has only intensified that. The top technology trends to watch and take advantage of in 2021 are said to include Cryptocurrencies such as Bitcoin,"
-    publishedDateTime: 2021-01-19T17:40:00Z
-    webUrl: "https://www.newshub.co.nz/home/technology/2021/01/what-can-you-expect-from-tech-in-2021.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/technology/2021/01/what-can-you-expect-from-tech-in-2021.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2021/01/what-can-you-expect-from-tech-in-2021.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 44
-    images:
-      - url: "https://www.newshub.co.nz/home/technology/2021/01/ces-2021-the-most-exciting-new-smartphones-to-watch-out-for-this-year/_jcr_content/par/image.dynimg.768.q75.jpg/v1610700421884/tcl-motorola-ces-2021-150121-1120.jpg"
-        width: 768
-        height: 438
-        isCached: true
 
 secured: "umq8MKLC6uirifBndIMdVJSlPnjDTSPOPtCiDA04qJ+Hm3mHylHttw0BQphN0WYOpkdU3yWag+s08A9Os3Rk5RfHkUCGoj673IL5OIrDpCfukqc8iuwrsNeorVPtz2pQSerreaGV2OI1C1reHI0VkPzTfT403KLxe2S3ryvZxvpQ0RYH/XGNIk3tJ4jyzRChGVFJ5O5ENxW8AdPKohK9HRR4uVDYyEQqs8vhXVcuqvhN3vpkuDziwdgVT1zVrL7QZXnGfnWUQDEw/vEWVpKx3vMgyvlCsboTHopRzBhCVVxN8ZXUHAn0vfydjCRaWS80rYzECDeTEcs6FQKXzBgQLVsGNdH5ojV+PTmfQdxUCYUwoHtegLUo7w91sMAZqOFcKJT741f5gw1cT9ZG3lOJt0KKgJ6Pe3Dn/5gceUDIDTIB8GwhhGjSVEBT6THXfk8y5Ma0fM+HFn2AwBTyTgT3aJJx5xeuPVMkCMtpf2usXcB+8tPByO51kk4gFjvU7KdYVuGkc9tOaHVcHHO8pieU2Q==;nIvQkKWEzrd31e3iXP9U9Q=="
 ---

@@ -158,22 +158,6 @@ related:
         width: 1024
         height: 554
         isCached: true
-  - title: "Microsoft, GM’s Cruise team up on driverless cars technology"
-    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors said Tuesday they would partner with Microsoft to commercialize driverless autonomous vehicles. Microsoft will join General"
-    publishedDateTime: 2021-01-19T18:46:00Z
-    webUrl: "https://nypost.com/2021/01/19/microsoft-invests-in-gms-driverless-car-maker-cruise/"
-    ampWebUrl: "https://nypost.com/2021/01/19/microsoft-invests-in-gms-driverless-car-maker-cruise/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/19/microsoft-invests-in-gms-driverless-car-maker-cruise/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 76
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/gm-cruise-microsoft.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft To Do's task suggestion feature uses AI to improve productivity"
     excerpt: "Microsoft To Do for the web has a new Tasks that seem important feature that uses AI to suggests tasks you should take care of."
     publishedDateTime: 2021-01-22T15:22:00Z
@@ -570,20 +554,6 @@ related:
       - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2020/11/cruisewalmart.jpg"
         width: 408
         height: 256
-        isCached: true
-  - title: "GM Unites with Microsoft to Commercialize Autonomous Cruise"
-    excerpt: "Microsoft announced January 19 a new partnership between it and General Motors’ self-driving Cruise business. The long-term strategic relationship will allow Cruise to utilize Microsoft’s cloud and edge computing platform,"
-    publishedDateTime: 2021-01-19T17:32:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/information-technology/article/21152674/gm-unites-with-microsoft-to-commercialize-autonomous-cruise"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2021/01/cruise_av_ev_gm_in_san_francisco.60071884067b7.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Cruise and GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their"

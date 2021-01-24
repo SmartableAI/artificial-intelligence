@@ -80,20 +80,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 43
-  - title: "Startup Loop Wins Funding for Fairer Auto Insurance Rating Model Using AI"
-    excerpt: "Loop, a managing general agency focused on building an auto insurance model that does not utilize credit scores and ZIP codes, announced the close of a"
-    publishedDateTime: 2021-01-19T17:15:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597874.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 36
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2014/01/auto_insurance.jpg"
-        width: 1678
-        height: 1119
-        isCached: true
 
 secured: "NR9aUmKRLQ64P1F+F3xo5V4Ff0Y5cGK6rFgjWGcdIsbmkF9SBrp/g9wvLp1nEQ5Ay13dj0FNQP7NIsnMKD8Q9L/NJJCmPos/+c8HkKocYyr1eY+D0dU5XZv++Ofx0sfQyi1pN2CcrMn3HWnvO4X3mMdgUa1uMhRBRrz/er/jBvNxZ/oYdPho9dr21TPV0vlbnYmOAmfS8PKWhp5UQFkm5vbeCET5xBtsJh1cdM35qMKBfaK1l46geATeTHUgXfqXBfNz5n5weNrqxwi86yeXzEMiM7cXOtemvDX/ZHeNuLXq3W9tk95ybx4jBT/41kAPuEGYO9vXPtK9GqDiZE12jO+jjv+k8zvrLTPxXmkVffQ=;TzmZ7s/oRMxhe8g+wG109w=="
 ---

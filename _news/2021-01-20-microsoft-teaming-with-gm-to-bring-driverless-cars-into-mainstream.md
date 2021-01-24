@@ -7,7 +7,7 @@ originalUrl: "https://www.kabc.com/news/microsoft-teaming-with-gm-to-bring-drive
 webUrl: "https://www.kabc.com/news/microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 600
     height: 500
     isCached: true
-
-related:
-  - title: "Microsoft backs GM's $30bn driverless car project"
-    excerpt: "Tesla is \"trying to make full-size cars in the same way toy cars are made\", boss Elon Musk has said, as the electric car company provided a glimpse into how its tabless batteries are being made."
-    publishedDateTime: 2021-01-19T18:12:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/19/tesla-provides-glimpse-battery-production-line-makes-cars-like/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 36
 
 secured: "iaqwzIbR3v1V59DobmdhfbnH2kb73uhhxWx8uJD5SnvakEealqFvLeAgD9mtcA9Z0GNm7++ltfgCJlOrKDM9IluH4ig+TMMmcrkmV6cY5zo2BYKh6PsT/vhjXM0A/TuvuBGtse1rFfUdqNitODCgmTj0hmVoHYngwGsVaOZwb9Z6kGyXGlVYqf+4jN7vE1eY5NhG48UuoiLOIHS6vBECvaNSzWrQmuImp8ziz5dE33JQcZyzyjoRpOBgn67DJ8P0fXhnmy5BTct8rP3SM6h+klV8ePDercb2GJ1oZ64f4CSRhuhN0N76jiPKIb2cfXy2JUYqmoC8KkQf9TJh4eUEGLylSfJZ0lWMoITG2j9rcLI/D6FRVFraJCvgfzqkAINSJS4istpNlKkudNrR5HK+RwFWZwKckPARlvrkyyFaMiddwTBplo0ySVzHtmFwb1VXxvlrxxtBghuAUjhXdF4AEMJJ7ltR1LitdBvh2ohdPiEZoHXN1rNwWE5MRBv6/Bldne75pWs6rmo/g4L6fV2MvQ==;nIyEp+gfez45JuJ27lhgrQ=="
 ---

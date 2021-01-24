@@ -304,7 +304,7 @@
       "originalUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 615,
+      "heat": 595,
       "tags": null,
       "images": [
         {
@@ -430,49 +430,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-restaurant-with-robot-chef-to-open-at-mall-of-india-in-naperville.md",
-      "title": "Restaurant with robot chef to open at Mall of India in Naperville",
-      "excerpt": "The spring opening of Nala restaurant -- complete with a robotic chef/arm -- highlights some of the businesses that have opened or are slated to open at the Mall of India along Route 59 in Naperville this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/suburbs/naperville-sun/ct-nvs-naperville-robotic-restaurant-st-0124-20210122-2qhxz5uymzdt3ky6sxjdjtvibm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/suburbs/naperville-sun/ct-nvs-naperville-robotic-restaurant-st-0124-20210122-2qhxz5uymzdt3ky6sxjdjtvibm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/Djq38aqT-7v1EsyyWR3qUtpp7zY=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SRXWE4YKWRCWXHXOLVGIGLQ6E4.jpg",
-          "width": 1200,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/suburbs/naperville-sun/ct-nvs-naperville-robotic-restaurant-st-0124-20210122-2qhxz5uymzdt3ky6sxjdjtvibm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/naperville-sun/ct-nvs-naperville-robotic-restaurant-st-0124-20210122-2qhxz5uymzdt3ky6sxjdjtvibm-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-22T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1106,7 +1063,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1189,6 +1146,57 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon.md",
+      "title": "This Start-Up Founder Sees A Data Privacy Reckoning On The Horizon",
+      "excerpt": "Patricia Thaine is a young start-up founder of Private AI, creating a suite of privacy tools. She discusses the state of privacy, how we got here, whether privacy as a default becomes the norm and how Private AI will enable this new normal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a3e8f7f4f95414914aafb%2F0x0.jpg",
+          "width": 1200,
+          "height": 908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
+      "publishedDateTime": "2021-01-21T19:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

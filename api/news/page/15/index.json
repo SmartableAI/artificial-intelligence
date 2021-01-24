@@ -2,58 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-01-11-gm-self-driving-company-hires-former-delta-executive-as-coo.md",
-      "title": "GM Self-Driving Company Hires Former Delta Executive as COO",
-      "excerpt": "Cruise LLC, the self-driving car startup majority owned by General Motors Co., has hired former Delta Air Lines Inc. Chief Operating Officer Gil West for the same position as it prepares to start offering paid robotaxi rides in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii4e.7a3qcDM/v0/360x-1.jpg",
-          "width": 360,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
-      "publishedDateTime": "2021-01-11T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-ambarella-unveils-8k-ai-vision-processor-for-car-drone-and-robot-cameras.md",
       "title": "Ambarella unveils 8K AI vision processor for car, drone, and robot cameras",
       "excerpt": "Ambarella has unveiled the CV5 AI Vision Processor to handle 8K image processing for car, consumer, crone, and robot cameras.",
@@ -1163,6 +1111,57 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-leveraging-ai-in-remote-talent-acquisition.md",
+      "title": "Leveraging AI In Remote Talent Acquisition",
+      "excerpt": "AI has made headlines for the last few years, but after the new normal of remote work was accelerated in 2020, it has been more of an impact on remote talent acquisitions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/",
+      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff96ae11bdf9fa884b96829%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5647%26cropY1%3D182%26cropY2%3D3358",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/",
+      "publishedDateTime": "2021-01-09T00:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

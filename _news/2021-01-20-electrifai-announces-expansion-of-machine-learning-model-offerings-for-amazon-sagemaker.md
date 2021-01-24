@@ -76,20 +76,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Startup Loop Wins Funding for Fairer Auto Insurance Rating Model Using AI"
-    excerpt: "Loop, a managing general agency focused on building an auto insurance model that does not utilize credit scores and ZIP codes, announced the close of a"
-    publishedDateTime: 2021-01-19T17:15:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2021/01/19/597874.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 36
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2014/01/auto_insurance.jpg"
-        width: 1678
-        height: 1119
-        isCached: true
 
 secured: "Awf37LhiHFaxWf/7cklVfh1CcOQpn/+11iZ5lThcIpGeVYukUeFobTzNiGf9wBrkjibgluTcGBPL9e5/D4Mf1uD+4LwFaEJidmd8Wcoq4hmHtAkYjRbl3Wk7p3DnikV3HsLo2G8RlUCP69qCa/+m+RVeksa09rLPrnhyieAxGQ9mB3ZsTLk4gx3HmwCf7d/GQYJU41PiBknwsZbF0C0P0DstfgiexBk751uIo0tZhSEFmNnsdY84rfdzETeu7ShpFZM6cM2ra8VirNQJYmIXpCJ+iG57L8gTzwS3G7GYMDSr3A+gzD4Yoenkd7Ak7+NOil9Wtg89cSNk6+XP6fz6YTq/scC94BRgloLAqpE3qxM=;lCaJlKPgpA/xWsaPw41qWQ=="
 ---

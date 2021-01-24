@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-21-designing-customized-brains-for-robots.md",
-      "title": "Designing customized “brains” for robots",
-      "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot’s operation. The system, called robomorphic computing, accounts for the robot’s physical layout in suggesting an optimized hardware architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/robot-customized-hardware-0121",
-      "originalUrl": "https://news.mit.edu/2021/robot-customized-hardware-0121",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202101/Robomorphic-01-press.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T21:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-21-kyligence-launches-revamped-cloud-native-olap-on-big-data-platform.md",
       "title": "Kyligence launches revamped cloud-native OLAP-on-big-data platform",
       "excerpt": "New version 4 of the BI + big data platform is based on Spark and Parquet, leverages machine learning and is optimized for cloud storage. It's available on the Azure Marketplace now and coming to the AWS Marketplace soon.",
@@ -813,7 +761,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -949,40 +897,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-delhi-airport-evaluating-computer-vision-to-ensure-social-distancing.md",
-      "title": "Delhi Airport evaluating computer vision to ensure social distancing",
-      "excerpt": "In today technology news, we covered about the Delhi Airport evaluating computer vision to ensure social distancing",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/",
-      "originalUrl": "https://www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/amp/",
-      "publishedDateTime": "2021-01-20T06:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1218,6 +1132,109 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
       "publishedDateTime": "2021-01-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-alphaics-raises-8-million-for-ai-at-the-edge-processors.md",
+      "title": "AlphaICs raises $8 million for AI-at-the-edge processors",
+      "excerpt": "AlphaICs has raised $8 million in funding for artificial intelligence processors for edge computing applications such as cars and wearables.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/",
+      "originalUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alpha-2.jpg?w=1200&strip=all",
+          "width": 1190,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/",
+      "publishedDateTime": "2021-01-20T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-chatbots-the-great-evolution-to-conversational-ai.md",
+      "title": "Chatbots: The Great Evolution To Conversational AI",
+      "excerpt": "The outcome of the chatbot evolution is to dramatically diminish or even eliminate the need for historical data, experts and data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F696529578%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/amp/",
+      "publishedDateTime": "2021-01-20T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

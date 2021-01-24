@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
 type: article
 quality: 88
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -135,20 +135,6 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/facebook.jpg"
         width: 1200
         height: 1000
-        isCached: true
-  - title: "Facebook Releases Revamped Version Of Its AI-Powered Automatic Alternative Text Tool For Photos"
-    excerpt: "In a nutshell, Automatic Alternative Text uses artificial intelligence and machine learning to give blind and low vision Facebook users more detailed descriptions of photos."
-    publishedDateTime: 2021-01-19T18:00:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2021/01/19/facebook-announces-revamped-version-of-its-ai-powered-automatic-alternative-text-aat-tool/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 55
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005d74fd02fcf42886cda91%2F0x0.png"
-        width: 1200
-        height: 2115
         isCached: true
   - title: "Facebook Improves Its AI Audio Photo Descriptions for the Visually Impaired"
     excerpt: "Facebook has been using AI to audibly describe the contents of photos for the visually impaired for some time, but it's improving those efforts this year."

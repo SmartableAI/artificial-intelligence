@@ -89,38 +89,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "How FinTech IT Leaders are Driving Modern IT Operations"
-    excerpt: "Over the past century, businesses of all stripes have either increased efficiency, become more competitive, or reduced their cost"
-    publishedDateTime: 2021-01-19T18:56:00Z
-    webUrl: "https://www.business2community.com/business-innovation/how-fintech-it-leaders-are-driving-modern-it-operations-02378696"
-    ampWebUrl: "https://www.business2community.com/business-innovation/how-fintech-it-leaders-are-driving-modern-it-operations-02378696/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-fintech-it-leaders-are-driving-modern-it-operations-02378696/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 44
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/01/Image-1.png"
-        width: 337
-        height: 364
-        isCached: true
-  - title: "Regulating the Fast-Changing Fintech Landscape"
-    excerpt: "The fast-developing fintech marketplace rests on security and fraud protection systems that need to continuously evolve and strengthen."
-    publishedDateTime: 2021-01-19T17:30:00Z
-    webUrl: "https://www.fairobserver.com/business/technology/sonia-katyal-fintech-regulation-digital-currency-finance-innovation-poverty-reduction-news-15261/"
-    ampWebUrl: "https://www.fairobserver.com/business/technology/sonia-katyal-fintech-regulation-digital-currency-finance-innovation-poverty-reduction-news-15261/amp/"
-    cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/business/technology/sonia-katyal-fintech-regulation-digital-currency-finance-innovation-poverty-reduction-news-15261/amp/"
-    type: article
-    provider:
-      name: Fair Observer
-      domain: fairobserver.com
-    quality: 44
-    images:
-      - url: "https://www.fairobserver.com/wp-content/uploads/2021/01/Fintech-2.jpg"
-        width: 938
-        height: 450
-        isCached: true
   - title: "Things Are Just Beginning At Peak Fintech"
     excerpt: "Get started today » We bought shares of Canadian fintech company Peak Fintech (OTCQX:PKKFF) for our SHU Growth Portfolio at $1.15 and $1.12 on December 11 and 21, respectively. We think that its B2B lending platform fills a real need and is only just starting to scale."
     publishedDateTime: 2021-01-20T18:20:00Z

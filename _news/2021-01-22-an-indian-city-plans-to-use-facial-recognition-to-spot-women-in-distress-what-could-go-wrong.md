@@ -63,17 +63,6 @@ related:
         width: 500
         height: 339
         isCached: true
-  - title: "Privacy fears as Indian city readies facial recognition to spot harassed women"
-    excerpt: "A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
-    publishedDateTime: 2021-01-22T08:54:00Z
-    webUrl: "https://www.reuters.com/article/us-india-tech-women-trfn-idUSKBN29R0X5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0X5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0X5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
   - title: "Facial recognition tech deployed in UP to help women in distress"
     excerpt: "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women."
     publishedDateTime: 2021-01-21T09:57:00Z
@@ -129,6 +118,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 35
+  - title: "Privacy fears as Indian city readies facial recognition to spot harassed women"
+    excerpt: "Jan 22 (Thomson Reuters Foundation) - A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations,"
+    publishedDateTime: 2021-01-22T07:11:00Z
+    webUrl: "https://news.trust.org/item/20210122071135-tf64t"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 35
+    images:
+      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/7c0ab8e2-eb42-4e81-aa45-210429b4bcf7/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 697
+        isCached: true
   - title: "Privacy concerns as Indian city to roll out facial recognition to spot harassed women"
     excerpt: "India remains one of the most dangerous places in the world for women to live. According to government data, a rape occurs every 15 minutes"
     publishedDateTime: 2021-01-22T13:38:00Z
