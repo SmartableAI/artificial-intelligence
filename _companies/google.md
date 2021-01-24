@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "GoogleAI"
   url: "https://twitter.com/GoogleAI"
-  followers: 1564966
+  followers: 1565019
 
 size: 10,001+ employees
 yearFounded: 1998
