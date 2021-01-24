@@ -57,22 +57,6 @@ related:
         width: 320
         height: 231
         isCached: true
-  - title: "Face it: Face recognition is a vital tool for those who want to catch and punish the Capitol’s insurrectionists"
-    excerpt: "Ban face recognition outright, goes the progressive cry — one that Oakland, San Francisco and Boston have all heeded, on the theory that government becomes Big Brother when it uses technology to identify suspected criminal perpetrators in bystander snapshots or security camera images."
-    publishedDateTime: 2021-01-19T09:05:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 39
-    images:
-      - url: "https://www.nydailynews.com/resizer/VgbWXkXtMc1-ccgIjW-fqrAg6-w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DGNAZDU7Q5BX3EBPCOVTTPZYEQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "6H9G/iKkFIQ6ovWHlEINbZC9zmXuSESCO7ieq6kBVfFKfibe5QeHIsCAW0jMTL123UTDr5phl8mUVeli7ln5zg7/woqfwHfVXxOfin8ObHs/IXe+6dAyyjsAhwsCaqIoKOWeUchEmG68D77y5xh4+sCABbWASO3h2aAECgCBTN8YfbCiURQAuuTapm+vg5PQiV5QkQM7nDPEOqw2GqritO2Ko2A165Mvelnbs96hD9St6FXW8Yu61ke5bNwU+PF8sD6/Zlh+JF+gpP0Phelp9Y2ZL5sQub/0vrvTIZVLZVwm833vF3RyXshcQxLCvdbUyz0qDpFflB/G/FiPYjixK8FMu06EZWPjsD9JS7J0/to=;AUvfv4kszRd2KzbyWEyYTQ=="
 ---

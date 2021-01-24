@@ -2,92 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-05-deep-learning-harnessed-to-suggest-new-purposes-for-drugs.md",
-      "title": "Deep learning harnessed to suggest new purposes for drugs",
-      "excerpt": "These factors, which include age, sex, race, disease severity, and comorbidities, function as parameters in the deep-learning algorithm on which the method is based. The algorithm is capable of accounting for the passage of time in each patient’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2021/01/deep-learning-harnessed-to-suggest-new-purposes-for-drugs/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2021/01/deep-learning-harnessed-to-suggest-new-purposes-for-drugs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/7028/hospital-corridor.jpg?crop=0,0.4400584795321637,0,0.064875730994152128&cropmode=percentage&width=1200&height=450&rnd=131836400890000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-apple-work-podcast-deep-learning-with-osmo.md",
-      "title": "Apple @ Work Podcast: Deep learning with Osmo",
-      "excerpt": "In this episode of the Apple @ Work podcast, Bradley is joined by Pramod Sharma who is CEO of Osmo to talk about the founding of the company, how Osmo promotes deep learning with children, and more. Sponsor: If you’re a business of school looking to find a trusted repair partner for your Apple devices,",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2021/01/05/deep-learning-with-osmo/",
-      "originalUrl": "https://9to5mac.com/2021/01/05/deep-learning-with-osmo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2019/07/AppleAtWork.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2021/01/05/deep-learning-with-osmo/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/01/05/deep-learning-with-osmo/amp/",
-      "publishedDateTime": "2021-01-05T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-05-how-artificial-intelligence-ai-chipsets-market-booming-worldwide-fortune-business-insights.md",
       "title": "How Artificial Intelligence (AI) Chipsets Market Booming Worldwide? Fortune Business Insights",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1405,6 +1319,103 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-amazon-aws-says-very-very-sophisticated-practitioners-of-machine-learning-are-moving-to-sagemaker.md",
+      "title": "Amazon AWS says ‘Very, very sophisticated practitioners of machine learning’ are moving to SageMaker",
+      "excerpt": "The infrastructure software is catching on with some of the most demanding machine learning scientists at big firms such as Lyft and Intuit, and also taking over Amazon dot com's internal ML development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reddit.com/r/MachineLearning/",
+      "originalUrl": "https://www.zdnet.com/article/aws-says-very-very-sophisticated-practitioners-of-machine-learning-are-moving-to-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://styles.redditmedia.com/t5_2rfzn/styles/communityIcon_m7hfe9ybk8g41.jpg?format=pjpg&s=cad4fbbb503c781d262b12dc27efb9e4093a0073",
+          "width": 277,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-diving-into-japans-top-aiml-startups.md",
+      "title": "Diving into Japan’s top AI/ML startups",
+      "excerpt": "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
       ]
     }
   ],

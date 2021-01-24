@@ -106,17 +106,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Global contactless biometrics Technology Market analysis 2020-2026: speech recognition, hand geometry / palm recognition, iris"
-    excerpt: "Global contactless biometrics Technology Market analysis 2020-2026: speech recognition, hand geometry / palm recognition, iris DUBLIN–"
-    publishedDateTime: 2021-01-19T09:40:00Z
-    webUrl: "https://www.compsmag.com/news/technology/global-contactless-biometrics-technology-market-analysis-2020-2026-speech-recognition-hand-geometry-palm-recognition-iris/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/global-contactless-biometrics-technology-market-analysis-2020-2026-speech-recognition-hand-geometry-palm-recognition-iris/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/global-contactless-biometrics-technology-market-analysis-2020-2026-speech-recognition-hand-geometry-palm-recognition-iris/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 11
 
 secured: "vNP7vE9kFL8jR/S9Oh83m3Tn8fXxeAR1lO6N2OzSqlRuYpS7d3dQyXl7Q5SVEjH+EonsQk09aNLSvMCkhftFDCnLOTKkTG/CYP5oDWFgM69tiCfRpSpiZVQo5w3TCwTzbI6io8oo2XtEaAgooWl9dHxeIpaKOE7m+sENoeR4Lr5L6XjIr37EIwvf88J36pXvUblNi8ILERvufydNW/8Mp4TT1iAXrUUgDvve/g9ORXxUQz6z5+MxwB23iLN0N7wcjhKoZUdB6HJkznODN8X/JS4fNXWHtlkjuR6cRKniS99gZUMKDCciQXJYFU0uUpkGPoYvZiJqH8wGXkh1qPZ6mlTVjn7N923R4DUArQ0bPKM=;rPIDWxmXPJEGk4vs80RInQ=="
 ---

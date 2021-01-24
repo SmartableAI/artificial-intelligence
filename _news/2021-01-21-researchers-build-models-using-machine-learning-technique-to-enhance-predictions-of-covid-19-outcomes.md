@@ -39,20 +39,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Covid-19 will shape a decade of education"
-    excerpt: "History has shown that every crisis comes with a hidden opportunity. Covid-19 is no exception. And its in education where we are witnessing some radical changes which will define this decade."
-    publishedDateTime: 2021-01-19T10:18:00Z
-    webUrl: "https://www.fortuneindia.com/opinion/covid-19-will-shape-a-decade-of-education/105059"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 41
-    images:
-      - url: "https://images.assettype.com/fortuneindia/2021-01/2d7993ad-a07a-4b12-a836-1e8c50163e93/2D82PXE.jpg?w=700"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "UUmDVgyQ58vldrFrmDZ8+lcNiBkGwh+9jNOScMcD5jUapLaThzWE4alV4EYCqsJeQwJhvp0P/+nNQ2b1nXvNvo9EfkL824l0XBZi/5AKyvwsl7AS1VTEGGHacYjENAAsAdpKDjXMVEazhRYJwWPuHG5kPxRmXlpbDdU7T4VafyViRkRdOre8URvQfLzMvuCsvtWorDoCU0DPjwF0oDbjTAzcpmJziq9vZ37CkMLXVF1wp5s/em0t2YR+4DjvN1KFitp59+ABx+iBQ6/tcJgZMG/9mt7K5YveqXcymldUYFbcFWN9pas+4HyY4P9rpfWY3q8jW5kz68GStG1nH7qaxhW++tduew1HYnRA2aA9KyI=;Rxzzc8lqHTB+jdLpSAy2uA=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist.md",
+      "title": "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist",
+      "excerpt": "Coecke who has previously served as Senior Scientific Advisor to CQC with a focus on developing and building a leading Quantum Natural Language Processing (QNLP) capability, joins from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T00:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch.md",
       "title": "Scientists Broke This AI Robot's Leg Then Let It Teach Itself To Walk From Scratch",
       "excerpt": "In a ground-breaking feat that shows Hebbian learning could be applied to artificial intelligence (AI), scientists have showcased a newly developed mathema",
@@ -1363,49 +1406,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans.md",
-      "title": "'Carter Rubin Day' On LI As 'Voice' Winner Greets Hometown Fans",
-      "excerpt": "SHOREHAM-WADING RIVER, NY — Carter Rubin, 15, garnered millions of supporters as this year's winner of \"The Voice,\" but arguably ... he is a sophomore, with a recognition ceremony and a car ...",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
-      "originalUrl": "https://patch.com/new-york/riverhead/carter-rubin-day-li-voice-winner-greets-hometown-fans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/1296254/20201222/080245/styles/patch_image/public/carternewtoday___22195027135.jpg?width=984",
-          "width": 495,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/riverhead/amp/29157307/carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans",
-      "publishedDateTime": "2020-12-22T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
         "images": null,
         "publishers": null,
         "authors": null

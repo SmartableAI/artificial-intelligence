@@ -43,22 +43,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "Face it: Face recognition is a vital tool for those who want to catch and punish the Capitol’s insurrectionists"
-    excerpt: "Ban face recognition outright, goes the progressive cry — one that Oakland, San Francisco and Boston have all heeded, on the theory that government becomes Big Brother when it uses technology to identify suspected criminal perpetrators in bystander snapshots or security camera images."
-    publishedDateTime: 2021-01-19T09:05:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-face-it-20210119-d3kj53e4tvapxb7zztqab5gowm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 39
-    images:
-      - url: "https://www.nydailynews.com/resizer/VgbWXkXtMc1-ccgIjW-fqrAg6-w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DGNAZDU7Q5BX3EBPCOVTTPZYEQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facial Recognition: A pathway or threat to our future"
     excerpt: "Millions use facial recognition technology daily to unlock smartphones and tag friends in photos. But the same technology is viewed by many as a threat to human rights and civil liberties. IBM has gotten out of the facial recognition business altogether,"
     publishedDateTime: 2021-01-21T15:38:00Z

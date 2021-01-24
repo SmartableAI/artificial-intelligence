@@ -9,8 +9,8 @@ ampWebUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enh
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Lab Manager
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Covid-19 will shape a decade of education"
-    excerpt: "History has shown that every crisis comes with a hidden opportunity. Covid-19 is no exception. And its in education where we are witnessing some radical changes which will define this decade."
-    publishedDateTime: 2021-01-19T10:18:00Z
-    webUrl: "https://www.fortuneindia.com/opinion/covid-19-will-shape-a-decade-of-education/105059"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 41
-    images:
-      - url: "https://images.assettype.com/fortuneindia/2021-01/2d7993ad-a07a-4b12-a836-1e8c50163e93/2D82PXE.jpg?w=700"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Researchers build models using machine learning technique to enhance predictions of COVID-19 outcomes"
     excerpt: "Researchers have published one of the first studies using federated learning to examine electronic health records to better predict how COVID-19 patients will progress."
     publishedDateTime: 2021-01-21T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22"
 type: article
 quality: 61
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -57,24 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
-    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
-    publishedDateTime: 2021-01-19T13:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005602/en/Global-Optical-Microscopes-Market-to-Grow-by-557.96-Million-During-2020-2024-Integration-of-AI-and-Machine-Learning-to-be-Key-Trend-Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
-    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
-    publishedDateTime: 2021-01-20T09:14:00Z
-    webUrl: "https://www.financialbuzz.com/global-optical-microscopes-market-to-grow-by-557-96-million-during-2020-2024-integration-of-ai-and-machine-learning-to-be-key-trend-technavio/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "L4+KMFBlzLQzBGd2hSnOH4oSbg6rYXZiN4OCS1mIrfuJNq8Zf9OhOzeb2R8w4gx7du/1Ux5/FQWSjLRucAWNoqqtYl+O1dGdxxehmV1Pzs5rGepE8y0ULwD/6xpLWED7BnJxFdGltfrnR72xEyGog/rEsl6JyLyHEJ0Nf2KhrXfBD332kiPKwfsOg2LMKszJUWKYoSj0CDFKqxqkDYA8TNGYxt12WMksNDIzoaBMp6eQ+7iRgkOmGwcVyzJJsCFHYLR5PAye5FLipiIgKa9Jk4r3get9nmufaP71G4jfkxC1rG/VUAKgoD7AgfAZ5mejtLE5FL0BLK/9hJKBHwDSlZgdREaUlJwEcGgH/3GnXV4=;FRjvsxvcMHhJr38sTIJxZw=="
 ---

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Delhi Airport evaluating 'computer vision' technology to track passengers: CEO"
-    excerpt: "Delhi Airport is evaluating computer vision technology to track passengers, reduce waiting time and ensure social distancing at terminals, a top official of the facility's operator informed | NewsByte"
-    publishedDateTime: 2021-01-19T10:26:00Z
-    webUrl: "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/delhi/delhi-airport-evaluating-computer-vision-technology/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 70
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l216_39071611046932.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official"
     excerpt: "Delhi airport is evaluating a 'computer vision' technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a t"
     publishedDateTime: 2021-01-19T11:57:00Z
@@ -67,17 +51,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Delhi airport evaluating ‘computer vision’ tech to track passengers, ensure social distancing: CEO"
-    excerpt: "Delhi airport evaluating ‘computer vision’ tech to track passengers, ensure social distancing: CEO. Delhi Airport is evaluating \"computer"
-    publishedDateTime: 2021-01-19T10:08:00Z
-    webUrl: "https://www.compsmag.com/news/pc/delhi-airport-evaluating-computer-vision-tech-to-track-passengers-ensure-social-distancing-ceo/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/delhi-airport-evaluating-computer-vision-tech-to-track-passengers-ensure-social-distancing-ceo/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/delhi-airport-evaluating-computer-vision-tech-to-track-passengers-ensure-social-distancing-ceo/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 40
   - title: "Delhi airport evaluating ‘computer vision’ tech to track passengers, ensure social distancing: CEO"
     excerpt: "Delhi airport is evaluating \"computer vision\" technology to track passengers, reduce waiting time and ensure social distancing at its"
     publishedDateTime: 2021-01-19T18:50:00Z

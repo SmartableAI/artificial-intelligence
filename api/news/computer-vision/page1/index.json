@@ -192,7 +192,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -348,7 +348,7 @@
       "originalUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -391,7 +391,7 @@
       "originalUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -527,6 +527,49 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
+      "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
+      "excerpt": "Delhi airport is evaluating a 'computer vision' technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a t",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-80144619,width-242,height-136/80144619.jpg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
+      "publishedDateTime": "2021-01-19T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1395,49 +1438,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-how-far-can-facial-recognition-go-in-finding-rioters-in-dc.md",
-      "title": "How far can facial recognition go in finding rioters in D.C.?",
-      "excerpt": "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "originalUrl": "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wfaa.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "cdnAmpWebUrl": "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "publishedDateTime": "2021-01-12T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFAA8",
-        "domain": "wfaa.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

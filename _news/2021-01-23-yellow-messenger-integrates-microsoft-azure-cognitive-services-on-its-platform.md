@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azu
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/"
 type: article
 quality: 115
-heat: 825
+heat: 805
 published: true
 
 provider:
@@ -103,22 +103,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
         width: 1200
         height: 601
-        isCached: true
-  - title: "Fugue announces new capabilities for managed container services by Amazon Web Services and Microsoft Azure"
-    excerpt: "Fugue, the company putting engineers in command of cloud security and compliance, announces new capabilities for bringing public cloud container resources into compliance and ensuring the"
-    publishedDateTime: 2021-01-19T09:58:00Z
-    webUrl: "https://www.sourcesecurity.com/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/fugue-announces-capabilities-managed-container-services-co-11899-ga-co-1537871022-ga-co-1570707747-ga.1611041500.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 88
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/fugue-cloud-infrastructure-920x533.png"
-        width: 612
-        height: 355
         isCached: true
   - title: "General Motors (GM), Microsoft Ally on Driverless Technology"
     excerpt: "General Motors GM recently inked a long-term strategic relationship with Microsoft MSFT for its Cruise autonomous driving venture. The automaker will join forces with the tech giant to merge software and hardware engineering superiority,"
@@ -1007,15 +991,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 21
-  - title: "Yellow Messenger and Microsoft strengthen collaboration to transform voice virtual assistants"
-    excerpt: "Yellow Messenger transforms its voice automation solution using Azure AI Speech Services and Natural Language Processing (NLP) tools."
-    publishedDateTime: 2021-01-19T10:31:00Z
-    webUrl: "https://news.microsoft.com/en-in/yellow-messenger-and-microsoft-strengthen-collaboration-to-transform-voice-virtual-assistants/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
   - title: "Yellow Messenger and Microsoft strengthen collaboration to transform voice virtual assistants"
     excerpt: "Yellow Messenger, the world’s leading conversational AI platform, has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services"
     publishedDateTime: 2021-01-19T23:29:00Z

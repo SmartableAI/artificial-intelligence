@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/twenty20-solutions-introduc
 webUrl: "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition"
 type: article
 quality: 51
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -106,17 +106,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Global contactless biometrics Technology Market analysis 2020-2026: speech recognition, hand geometry / palm recognition, iris"
-    excerpt: "Global contactless biometrics Technology Market analysis 2020-2026: speech recognition, hand geometry / palm recognition, iris DUBLIN–"
-    publishedDateTime: 2021-01-19T09:40:00Z
-    webUrl: "https://www.compsmag.com/news/technology/global-contactless-biometrics-technology-market-analysis-2020-2026-speech-recognition-hand-geometry-palm-recognition-iris/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/global-contactless-biometrics-technology-market-analysis-2020-2026-speech-recognition-hand-geometry-palm-recognition-iris/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/global-contactless-biometrics-technology-market-analysis-2020-2026-speech-recognition-hand-geometry-palm-recognition-iris/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 11
 
 secured: "aSyUMukJhKwd4gPx3fvt7e835NGEzoK4D1pUfa5XSCv2GqWLFTrs4g5iv+RAVGuafrLWfRnIxXiI+BLHuvYVHMduC/xzBpFksi1seitWJIYn89nXa24VPdugi+S4nFlFJARmgq0ooSRAkpI/S1c2k16WpsLLFKOriVOU78ZasNxZFsPTUffpwTvqp5uarITkjAHhH8ZgowEjk/kIBrCpTtZmOvUl4vGHx687oXrXYDF4n0+lyecGnuE1wE6YsXU/qQI5SreZJdqqjzu6sqsKg5sL0/+gyA1X3nIDZv8HQnH509gIcmpAPsozRTBpi/+STRseW7R16Cy2jkrgSrNFypq+e7LvSP4ymbvlFTDPVSusjyGzt7Tz9ijdEqz6qv/FIW97dS4Dp0B4SfskyDwFthbkVabAOWBNFqxkfivcCameIhYAtxpjxE34VMzfiik6xWTVdMwCl3JeIs3W7y+a+NxaP+Dq+uiJRCByudSQDWZ8XVs1O0CX6TRZI6q0lqbbp9SvOg1mdRBruOWK1ZZYrw==;IJ9pEwweSKYx+Sv0mMzzFw=="
 ---
