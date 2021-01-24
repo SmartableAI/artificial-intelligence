@@ -24,22 +24,6 @@ images:
     height: 419
     isCached: true
 
-related:
-  - title: "Capital Markets: The Last Frontier for Digital Transformation in Financial Services"
-    excerpt: "By Dr. Avtar Singh Sehra, CEO, Nivaura The last decade has seen financial services undergo vast digital transformation. New technologies and a greater ability to digitise and automate processes have brought greater efficiency and effectiveness to the sector,"
-    publishedDateTime: 2021-01-19T07:20:00Z
-    webUrl: "https://www.globalbankingandfinance.com/capital-markets-the-last-frontier-for-digital-transformation-in-financial-services/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 18
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/01/graphicstock-businessman-touch-graph-improve-suggest-more_H_IrIjvlol.jpg"
-        width: 750
-        height: 500
-        isCached: true
-
 secured: "Y102RL++CfoHy5NW6srEhChFRnUUZ6jWFD0V6UURp8kkFADGUTGeSGamhdHnlgAwNutiTUYxtJDV3eCDwR3ltg3HPcU4pyfgb9TFS++HnavWn+C/jI/b8fYA/EH1g357EdZrpRjy8RxQvH9/3EK2uX437RieNK5A4BEs95XVc+xc2ir5t+37JJtsVZBj8kN9x75Ih3n6OsSFg/zHrjYJ5UVqqccVGk+bBdmOpVi6oRD/Tun+siN0YpK2BX8PRwa/E5fPZqdA8Km7HcHsldAJk+JbOd7i3JG560wT0q7RjgbocsgTzec3UTq3FwqFz1hswRS1viiutCXVTXqDSZVT+EDTyGYsQ+b/gLfudc16u+I=;TxAC4WOrEEv4A+dP1sIykA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/22/1016652/biden-administra
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/amp/"
 type: article
 quality: 159
-heat: 200
+heat: 201
 published: true
 
 provider:

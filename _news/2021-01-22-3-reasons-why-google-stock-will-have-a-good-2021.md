@@ -1,29 +1,25 @@
 ---
 category: news
 title: "3 Reasons Why Google Stock Will Have A Good 2021"
-excerpt: "Stock Market News, Stock Advice & Trading Tips Early last year, Alphabet’s (NASDAQ:GOOG, NASDAQ:GOOGL) advertising"
-publishedDateTime: 2021-01-22T11:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/3-reasons-why-google-stock-will-have-a-good-2021-1029993599"
-webUrl: "https://markets.businessinsider.com/news/stocks/3-reasons-why-google-stock-will-have-a-good-2021-1029993599"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/3-reasons-why-google-stock-will-have-a-good-2021-1029993599"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/3-reasons-why-google-stock-will-have-a-good-2021-1029993599"
+excerpt: "Oh, and Google now has a union! Although, for now, it is quite small. So in light of all this, what can we expect then for Google stock? Will the bullishness continue? Well, for the new year, I think the prospects still look bright."
+publishedDateTime: 2021-01-22T11:06:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-reasons-why-google-stock-will-have-a-good-2021-2021-01-22"
+webUrl: "https://www.nasdaq.com/articles/3-reasons-why-google-stock-will-have-a-good-2021-2021-01-22"
+ampWebUrl: "https://www.nasdaq.com/articles/3-reasons-why-google-stock-will-have-a-good-2021-2021-01-22?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-reasons-why-google-stock-will-have-a-good-2021-2021-01-22?amp"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Google AI
   - AI
 
-secured: "MgeyiQucK+tI45YkBn+oAqTVPYaR8OMaQTQfRnLBxyzuUJVKJ56n1F/4kKda+aIbN46kh8MspPNRZfMuPenSRf2aYZIwVLQRJ85RnVuJ0GzJZJXnr4LjjO4mKzVqnaQCj4cWAzx68jFKrHAOBeJ0oC5maXBMIJJqZbHrGaYy9mw6/Y8xBRs1YkGWyaJfWcCNge1pyRHhFPlpb2KKSJlWa3OQYQGCFl1dJtYU08oQs2ur3FeGkWJgnVkylw8bTY7OUmAYHytmSQKpOVBqZCjJ08J/oZyeyOw2xu4n9Tha699Dc66E/tNXrSVfDxo+0756eeVbQPoH9bS07j3oXI3AdhFiItqqj1LBzwjb2v9LLKY=;NFkkxoeofOIx8lRS+iivng=="
+secured: "Z22iBYr43JAPuh4VxMk3kiJWdoWWYnQTwvIONVrgkeZgBotaHQ4nMNt2ikPJ6Fx7z7YSlmQD3EgwXGLST5AT3jqE2UcFG/QoWRbKiseYSN3nBDAaKTYAavzt8u6Lu5k82dcbg4u+7SJJ3UaTdS/uZmKwdJAL87jaozyRKaJNkuYulCCNGX7pPCr7iOIj9bII2S3VBqu1uq89SJ0b5ibJoYzilXMTCJGePM470ZJ2o1n58yt2EaMa2xwq810FKNZqZQa0RbUoUyXCUzh/Fx6kzeXNYXX30trt4LV6hcw0uRD+auXmDHdqKNJgbq43mBNWiVrk5svfVsrmQaz1OhTAy7OkOi0Szw/8zhUrNIp8N4w=;/im5w8Ii9JNqpj2Yy84BaA=="
 ---
 

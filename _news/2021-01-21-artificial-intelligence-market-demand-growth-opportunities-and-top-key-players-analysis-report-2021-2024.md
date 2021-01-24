@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Vision Market 2018 Growth, COVID Impact, Trends Analysis Report 2023"
-    excerpt: "According to the OMR analysis the machine vision market is expected to grow at a significant rate during 2018 2023 The global machine vision market has witnessed a significant growth due to rise in automation in the industries The global"
-    publishedDateTime: 2021-01-19T09:02:00Z
-    webUrl: "https://www.openpr.com/news/2227046/machine-vision-market-2018-growth-covid-impact-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2227046/machine-vision-market-2018-growth-covid-impact-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2227046/machine-vision-market-2018-growth-covid-impact-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
-    images:
-      - url: "https://cdn.openpr.com/U/1/U119695357_g.jpg"
-        width: 626
-        height: 648
-        isCached: true
 
 secured: "KVpkEUio49iIBRtSVQMfgcVod16pRAM9dS1ypoh1ZqOvkFfbOCLzgDNFyrhisZ4JOl6AjI6s1SkqWAvfSa5YV7won1Z5c3R4qQYWLnSlNoB65k7pmqXEEWCMThZQD3Tg7xWh7VRDbmIpOKF200Vk2Lp8w7M/XZ3VpZHhVjg8gAGGVBQfY6ld0Z/NzPdyX0Tod5fZZrpBVgXqwlUokcSm8nrUnG8uSZLhxfRy/mRQQI5yKh95NkurpbwEj0ua7prWr3Mt83i3xLClJHuAnPDBr7Ouo+cbYmYY4Ao2uRTXf7oHGB6GrECwotByQaBGyOjzKNw+nu1wxrP6fTw6sRrqCRMHi3jhuMEzjCkWNk+ZCSY=;kwOFqf3fQ1wRuv00lnipqA=="
 ---

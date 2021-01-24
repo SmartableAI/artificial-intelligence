@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/are-you-being-overcharged-b
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-you-being-overcharged-by-clever-ai-watchdog-looks-at-whether-algorithms-hurt-competition/"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:
