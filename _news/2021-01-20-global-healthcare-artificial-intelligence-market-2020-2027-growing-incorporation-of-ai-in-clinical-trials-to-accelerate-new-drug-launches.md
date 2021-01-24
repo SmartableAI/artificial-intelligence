@@ -1,51 +1,26 @@
 ---
 category: news
 title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
-excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-publishedDateTime: 2021-01-19T19:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
+publishedDateTime: 2021-01-19T19:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
 type: article
-quality: 64
-heat: 84
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
-related:
-  - title: "Global Military Robots Market Report 2020: Market is Expected to Reach $29.87 Billion by 2026, Growing at a CAGR of 12.8% During 2019 to 2026"
-    excerpt: "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The"
-    publishedDateTime: 2021-01-21T16:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19258249/global-military-robots-market-report-2020-market-is-expected-to-reach-29-87-billion-by-2026-growin"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19258249"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19258249"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
-  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
-    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
-    publishedDateTime: 2021-01-20T09:14:00Z
-    webUrl: "https://www.financialbuzz.com/global-optical-microscopes-market-to-grow-by-557-96-million-during-2020-2024-integration-of-ai-and-machine-learning-to-be-key-trend-technavio/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
+images:
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
-secured: "hcjz2a2VfPKqZnJUDjkarf72KeeyO6oNtQdeml6IBenDZROuqfpZdLj3kADnCDghln0MJSnIfOJOemwr6mvEiW3NMwerbeyqpvWdV0lyvAm7vGYAAclf4OBQgnCawKI1kLPDQf77X4cNNyC80Z7KDcgBYt7cSc/cRwuTyAdYr/LM9SfpcqgN9sRjg4NXOeQyDTrtYX/hDlLswUcuro//kYoiLa5UFnixhTgox7DD+xo8NkJtMhAni1g7aEu8rUvd3VXkVlere2qEP4VvM5PIjGhF2Yl5Ytd+b4tqnVYfZoWyCO6cWVJxQzU+oiv86s2bZErZGz+QXMzuM+QhO37zqvSt+9SrWVd8/mNhbJowaFk=;/0OG3Gr7ZfI/RV4ZE7sOyw=="
+secured: "Sdta5exj8tbv80rgvo+QNMaOfzPk8VPC8X8/BXAMNmWII3Zzoe2DMzyWc/QEP+y/Y22rqpOOT3SdKwEOa+stsIumJq92akYYitaGowcb+4gNyqiQdey7gxl5ovEhKMlm3Z7a1GgUcTcpD1km7ogB+sqUHQQ7gqTKeJaoQoi8NWFCCzsB+alZVKmVMt+s8VVIL+/VUDYUwKjV1SBid97jtLz4KU4012Pi9QscbE4f4iVzzf7XvXypl1qQUNfTSVbxUiKXHgApjnYa9yKDIC3COapybAH3uMIqzishAU5MoAfLagu1CLC4vARkRTDS4WqNobTqhuXPPmdmvDzlxmm71TeBJB3C58AV+tiiQGCciMg=;f+y3arnNNErNb7JTr1hHxA=="
 ---
 

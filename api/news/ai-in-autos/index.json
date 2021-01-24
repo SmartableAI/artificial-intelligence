@@ -115,7 +115,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/honda-gm-cruise-self-driving-car-test-japan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -243,6 +243,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-self-driving-startup-aurora-partners-with-heavy-truck-company-paccar.md",
+      "title": "Self-driving startup Aurora partners with heavy truck company Paccar",
+      "excerpt": "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
+      "publishedDateTime": "2021-01-19T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1432,58 +1484,6 @@
         "name": "Mobile World Live",
         "domain": "mobileworldlive.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-samsungs-digital-cockpit-is-a-futuristic-concept-for-self-driving-car-interiors.md",
-      "title": "Samsung’s Digital Cockpit is a futuristic concept for self-driving car interiors",
-      "excerpt": "Samsung has announced a concept tech that imagines turning cars of the future into mobile offices and entertainment centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/",
-      "originalUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/samsung-digital-cockpit-cars-1200x630-c-ar1.91.jpg",
-          "width": 846,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/?amp",
-      "publishedDateTime": "2021-01-10T21:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

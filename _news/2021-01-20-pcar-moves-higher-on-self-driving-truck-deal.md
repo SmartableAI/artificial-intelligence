@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Paccar, Aurora to Develop Self-Driving Big Rigs"
-    excerpt: "Truck-maker Paccar will work with autonomous vehicle startup Aurora Innovation to develop self-driving heavy-duty trucks, the latest in a growing series of deals aimed at bringing automation to the business that moves most of the freight in the U."
-    publishedDateTime: 2021-01-19T20:00:00Z
-    webUrl: "https://www.wsj.com/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-287222/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Self-driving startup Aurora partners with heavy truck company Paccar"
     excerpt: "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday."
     publishedDateTime: 2021-01-20T00:38:00Z
@@ -68,20 +52,6 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 24
-  - title: "Cruise self-driving cars headed to Japan"
-    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
-    publishedDateTime: 2021-01-22T14:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
-        width: 1920
-        height: 1189
-        isCached: true
   - title: "Paccar’s push for a self-driving truck gets boost from Silicon Valley partnership"
     excerpt: "A new partnership between Bellevue-based Paccar and autonomous-driving startup Aurora Innovation represents a major bet that the future of self-driving vehicles will start with long-haul trucks, not cars."
     publishedDateTime: 2021-01-20T02:58:00Z

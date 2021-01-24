@@ -183,19 +183,19 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Cruise, GM partner with Microsoft to commercialize self-driving vehicles"
-    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles."
-    publishedDateTime: 2021-01-19T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org"
+  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
+    publishedDateTime: 2021-01-20T06:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 70
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
-        width: 800
-        height: 533
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
     excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."
@@ -210,54 +210,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "General Motors Cruise, Microsoft Team on Self-Driving Vehicles"
-    excerpt: "Microsoft is part of a group of companies investing $2 billion into General Motors Cruise, the carmaker's autonomous-vehicles effort."
-    publishedDateTime: 2021-01-19T19:56:00Z
-    webUrl: "https://www.thestreet.com/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 61
-    images:
-      - url: "https://content.jwplatform.com/thumbs/6EXRbWC8-720.jpg"
-        width: 720
-        height: 404
-        isCached: true
-  - title: "General Motors Leaps on Microsoft Self-Driving-Vehicle Effort"
-    excerpt: "Microsoft is part of a group of companies investing $2 billion into General Motors Cruise, the carmaker's autonomous-vehicles effort."
-    publishedDateTime: 2021-01-19T19:59:00Z
-    webUrl: "https://www.thestreet.com/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/gm-cruise-partners-with-microsoft-on-self-driving-vehicles"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 61
-    images:
-      - url: "https://content.jwplatform.com/thumbs/6EXRbWC8-720.jpg"
-        width: 720
-        height: 404
-        isCached: true
-  - title: "Microsoft joins $2B investment in GM's Cruise self-driving vehicles"
-    excerpt: "Microsoft said Tuesday it partnering with General Motors and Cruise to ramp up commercialization of self-driving vehicles."
-    publishedDateTime: 2021-01-19T19:12:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/01/19/Microsoft-joins-2B-investment-in-GMs-Cruise-self-driving-vehicles/2791611076721/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/19/Microsoft-joins-2B-investment-in-GMs-Cruise-self-driving-vehicles/2791611076721/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/19/Microsoft-joins-2B-investment-in-GMs-Cruise-self-driving-vehicles/2791611076721/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 61
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/2791611076721/2021/1/16110798015665/v1.5/Microsoft-joins-2B-investment-in-GMs-Cruise-self-driving-vehicles.jpg"
-        width: 800
-        height: 532
         isCached: true
   - title: "Microsoft joins self-driving race in new deal with Cruise, GM"
     excerpt: "Microsoftis making a bold bet on self-driving with Cruise and General Motors. GM and Cruise said on Tuesday that they have entered into a \"long-term strategic relationship\" with t"
@@ -595,20 +547,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft Joins Self-Driving Vehicles Race, Invests With General Motors In Cruise"
-    excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM), to"
-    publishedDateTime: 2021-01-19T19:17:00Z
-    webUrl: "https://www.techshout.com/business/2021/19/microsoft-joins-self-driving-vehicles-race-invests-with-general-motors-in-cruise/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 34
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/01/cruise-self-driving-car.jpg"
-        width: 690
-        height: 480
-        isCached: true
   - title: "SAP and Microsoft expand partnership and integrate Microsoft Teams across solutions"
     excerpt: "SAP SE (NYSE: SAP) and Corp. announced plans to integrate Teams with SAP’s intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Azure."
     publishedDateTime: 2021-01-22T14:09:00Z
@@ -622,34 +560,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/01/SAP_Microsoft-Logos-768x345.jpg"
         width: 768
         height: 345
-        isCached: true
-  - title: "Microsoft Lets Users Decide Whether Their Voice Clips Can Be Accessed By Human Reviewers"
-    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide"
-    publishedDateTime: 2021-01-19T19:51:00Z
-    webUrl: "https://www.techshout.com/security/2021/19/microsoft-lets-users-decide-whether-their-voice-clips-can-be-accessed-by-human-reviewers/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 32
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/01/stock-image.jpg"
-        width: 690
-        height: 480
-        isCached: true
-  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
-    excerpt: "Project will provide additional value and scale to Quorum’s popular Q Analytics Enterprise Reporting solutionCALGARY, Alberta, Jan. 19, 2021 (GLOBE NEWSWIRE) -- Quorum"
-    publishedDateTime: 2021-01-19T20:05:00Z
-    webUrl: "https://www.wboc.com/story/43195966/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 30
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Speech & Voice Recognition Market is Booming Worldwide with Nuance Communications, Microsoft, Alphabet"
     excerpt: "Latest released the research study on Global Speech Voice Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Voice Recognition Market research report shows the latest market insights current situation analysis with upcoming trends"

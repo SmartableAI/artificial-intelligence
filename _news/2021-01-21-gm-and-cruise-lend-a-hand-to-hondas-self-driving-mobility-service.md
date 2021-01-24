@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/honda-gm-cruise-self-driving-ca
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-gm-cruise-self-driving-car-test-japan/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Cruise self-driving cars headed to Japan"
+    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
+    publishedDateTime: 2021-01-22T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
+        width: 1920
+        height: 1189
+        isCached: true
 
 secured: "pwENNvxzyvbxqTG23xZRhvsDaMxL5knTClZC9GUazvT8aFCYp6uSXUdMUxNtrXinQwZEcsGP4mVEn6z1MFHBT65OthbWc/+ZvpzWs1gOQDtjhgHEgGRLZMBdTjhmzztYUz7C6Q80RTF9mdM5FK+xkL/zeQWJ1Mb5gq9sxVZAVSXyikiGX86MBxgGWjRdzMT1a7QFqFg7S7whTHRDiv/P28jyiNM/BffA1EmSMm2ZJU3UN4cjdL6EuaeU8T2qMMb3SC3XRr6i4q855V5/1wN2kgwoMFqAaNxCfdzBwYv9LYf8SvZufcgxcvrwD0bha34+HS/8c9eNmG+SrZbKWOjIyOaXED03AS9bcvmxBQNhQUY0Vafbj1s2KG6Q3zPDhE5rf/H4FX+vWX+ftriW8esYqpqOFwLfkkWbUGRZ3TPizlKdGum6pFeLQzcIVLVf9TOLMgmAVQzFdirl8jABG3Sz8wSURdxPVeMgzhX0sugTRQJ14+9bKCeQ5MZI5TsrNcBksBMZ/9nGKkAz0o65zBGNUw==;W8esQlsgZgz5vB6aYM0WBQ=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1500
         height: 1129
         isCached: true
+  - title: "Understanding the reasons behind the Huge Energy And Power Demands of Artificial Intelligence"
+    excerpt: "The high energy consumption of artificial intelligence models, especially in neural network training (e.g. BERT) leads to huge carbon footprint. Spiking Neural network (SNN) has been proposed to start age of Green AI."
+    publishedDateTime: 2021-01-24T11:47:00Z
+    webUrl: "https://www.analyticsinsight.net/why-is-artificial-intelligence-so-energy-hungry/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 28
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-1-scaled.jpg"
+        width: 2560
+        height: 1711
+        isCached: true
 
 secured: "IYcXXQAiqaNB+8z3xJZ/mbuYg2P8FEb5AwLjjD+cqgZd4rZPxqR0c9lZW4Jl9N9V2MKMy9o5BnFCcXCKFO6HoLmS+LlCsNPVd7Zm6ySSQuDXzWauFwkxgzlunoUGhfEg9uG5pz4LUR5OVYiQVzVTyY+61kSHyqr/EUN9sNBL0T8MYCra/X5mHoqA3csAlrErTOSOItWepEEXdanrnD2x5wt+bTK/XHurAsXivn3MjRf0DMbHUbOLQMQUfJQO1WJD0AG758U2n1EiWhsVCF0Mt/txcIkp9j2tRENjPn0r5/c/v6pqr+Ri791U2OIAsXHdZmdffZQYXmITfvymSSmXykCZkm5n6Fq4M0qsbxyB+9s=;UwNHyHhYF9Ya6nXMjnvE7g=="
 ---

@@ -72,20 +72,6 @@ related:
         width: 336
         height: 224
         isCached: true
-  - title: "MediaTek’s new Dimensity 1100 and 1200 chips are here to take on the premium flagship segment"
-    excerpt: "Having promised to announce a new flagship processor during its virtual summit at the tail-end of 2020, MediaTek has gone one better by launching the"
-    publishedDateTime: 2021-01-19T19:19:00Z
-    webUrl: "https://www.talkandroid.com/362259-mediatek-dimensity-1100-1200-5g/"
-    type: article
-    provider:
-      name: talkandroid.com
-      domain: talkandroid.com
-    quality: 28
-    images:
-      - url: "https://i1.wp.com/img.talkandroid.com/uploads/2021/01/MediaTek-Dimensity-1200-3-TA-scaled-e1611080583742.jpg"
-        width: 1939
-        height: 1548
-        isCached: true
   - title: "MediaTek Launches 6nm Dimensity 1200 Premium 5G SoC with Unrivaled AI and Multimedia for Powerful 5G Experiences"
     excerpt: "MediaTek today unveiled its new Dimensity 1200 and Dimensity 1100 5G smartphone chipsets with unrivaled AI, camera and multimedia features"
     publishedDateTime: 2021-01-20T07:20:00Z
@@ -100,15 +86,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "MediaTek’s new Dimensity 1100 and 1200 chips will pave the way for affordable premium flagship smartphones"
-    excerpt: "Having promised to announce a new flagship processor during its virtual summit at the tail-end of 2020, MediaTek has gone one better by launching the"
-    publishedDateTime: 2021-01-19T19:19:00Z
-    webUrl: "https://www.talkandroid.com/362259-mediatek-dimensity-1100-1200-5g/"
-    type: article
-    provider:
-      name: talkandroid.com
-      domain: talkandroid.com
-    quality: 1
 
 secured: "IlbNeyGg57Ugkv5lA6ubBPh7XEz9ZUHOcl6fpvuqngPA3Dg3eAqutR75q+nFvqGeQJifXj74ZCsorw/xhdvJiI4kTxszFy/ovfGw6/mjETXueliRn6NXwpkwoCKTCqZnsuZ0KTKN2Wd6MoZAeVJxuu0lUxWVtD/7ZdaYvxda63j6LENX7ZeZ2Cn7nAqTMvSi1RvgV8Sq38gsoqbdDdIYqk/GFKt1w2pRf+eAbOx18xmjF0VdvTHvDUmRO1Xg5dAcFPYJPzYMAcgE1w+mPS/c6vzviW7ttrwuFfE/wv12Q2Lc1MvthPd3nx9fR7KzQotDORDbQJcQMMl1jS7zM5UlvlYfZEJFcYYkK85cn5Mt90I=;lpqRsvGomfpbhacE35dcXA=="
 ---

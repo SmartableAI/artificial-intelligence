@@ -33,34 +33,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation with AI and Red Hat OpenShift"
-    excerpt: "Atos and IBM today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos’ vertical decarbonized solution and service delivery assets,"
-    publishedDateTime: 2021-01-19T19:50:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/atos-and-ibm-collaborate-to-accelerate-digital-transformation-with-ai-and-red-hat-openshift/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 29
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/Eric-Lander-The-Broad-Institute-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
-  - title: "IBM, Red Hat team with French tech giant Atos for cloud efforts"
-    excerpt: "IBM and Red Hat continue to drive for morre business in the growing cloud ecosystem, this time in partnership with France-based tech giant Atos. In a deal announced Tuesday, A"
-    publishedDateTime: 2021-01-19T20:31:00Z
-    webUrl: "https://www.wraltechwire.com/2021/01/19/ibm-red-hat-team-with-french-tech-giant-atos-for-cloud-efforts/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 24
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
-        width: 577
-        height: 324
-        isCached: true
   - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
     excerpt: "Atos and IBM (NYSE: IBM) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos' vertical decarbonized solution and service delivery assets,"
     publishedDateTime: 2021-01-20T21:44:00Z

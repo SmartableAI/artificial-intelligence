@@ -71,15 +71,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
-    publishedDateTime: 2021-01-19T19:07:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179343&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 43
 
 secured: "pmQ23H9v5wEwWMcvzEtOtgZgrHfo9oRCCJZzmT/p8BOgT/H/+YElyoWdYBl1V083rZ9rAkxdbwX30qHJar0CvFAfX8rFSp1Bxm2uEA1g0NmHjokdbW8gvfXjZQ3KLluD0dfOoDdwX432nxIol/5tYb+cQAH9e4k56nm3EhywGh15gYpiB8qmpzkPcAx/6IkLyrgFUmwsKm9VZ1e/pTsQhRhJsqXmQfWEKIV6PH8kAF6ItxMIEsrIGAh5T68M7e4W/hGYzmHeURi1l4AWjfXb1wBXaYXlo8YMi/QmsXdfg0JP71KadvAPjb5je/T4p9TdZUeM9l6K5kYJk+8LKvdQzP1s0VmYY4m5KSKcFXLtAzI=;/bqEFJa29xGSjMebo7FFzw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-automating-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/"
 type: article
 quality: 97
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
-    excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
-    publishedDateTime: 2021-01-19T19:07:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179343&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 43
 
 secured: "mzqH3wwG0VHbC6OWm8RN3ErPFRUEf/0aRt0PGpOvD4GE2BuRcIcLNsa7LanUcjnbc/YqpEGdy7+ELrX+BZNgdVjFdG1wH+ek0eaEuIITAkAX2uiCyVyewBGASXsuvGD8rL4Evz0GzCCnDtxJlKscU3hAGNhjwBH/bc3QI/sUkGXM0R3s7mIXiGNf9rWjQW+xRR5oI+a8rLpI2YkOESUf7RlUivk66wCppfWVP2FADwr2V45xr0OWh6aGysyQR7qirMqYfwgd2qVyAxEHsOfjZM2OV54WIeZ75nkelSMuCEg7gogxViv54C3lCOf323nVVsQDYnHOKuql1pwzZOk1lMAPxNKI9G4+K1fbQF861C4=;4BL3Ylpl34yJEux9g39x+A=="
 ---
