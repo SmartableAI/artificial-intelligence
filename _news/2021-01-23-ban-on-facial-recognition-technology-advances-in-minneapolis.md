@@ -55,26 +55,10 @@ related:
         width: 2095
         height: 1178
         isCached: true
-  - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
-    excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
-    publishedDateTime: 2021-01-19T15:16:00Z
-    webUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html"
-    ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: TechHive
-      domain: techhive.com
-    quality: 53
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "This site posted every face from Parler’s Capitol Hill insurrection videos"
-    excerpt: "The site's creator tells WIRED that he used simple, open source machine-learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
+    excerpt: "The site's creator tells WIRED that he used simple open source machine learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
     publishedDateTime: 2021-01-23T11:40:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/?fbclid=IwAR0Nj6yYeqWS-blJWq1RXxURUm7pyl8D3ckfKUanrvc8bxz6Em03WzFtEOQ"
+    webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
     type: article
     provider:
       name: Ars Technica

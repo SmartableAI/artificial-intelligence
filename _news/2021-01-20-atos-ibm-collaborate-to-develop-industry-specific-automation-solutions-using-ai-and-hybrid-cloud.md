@@ -37,20 +37,6 @@ related:
       domain: businessinsider.com
     quality: 69
   - title: "RCP Construction, Inc., and Everguard.ai Sign Agreement to Utilize Artificial Intelligence (AI) to Improve Job Site Safety"
-    excerpt: "RCP Construction, Inc. and Everguard.ai today announced a collaboration to bring artificial intelligence (AI) and sensor fusion to"
-    publishedDateTime: 2021-01-19T15:24:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/rcp-construction-inc-and-everguardai-sign-agreement-to-utilize-artificial-intelligence-ai-to-improve-job-site-safety-301210950.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1317320/Everguard_ai_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
-  - title: "RCP Construction, Inc., and Everguard.ai Sign Agreement to Utilize Artificial Intelligence (AI) to Improve Job Site Safety"
     excerpt: "RCP Construction, Inc. and Everguard.ai today announced a collaboration to bring artificial intelligence (AI) and sensor fusion to commercial construction job sites in an effort to improve safety measures."
     publishedDateTime: 2021-01-19T17:16:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-occupational-accidents-lung-disease-workplace-safety-d00eb64779ded6911e08623858073a86"

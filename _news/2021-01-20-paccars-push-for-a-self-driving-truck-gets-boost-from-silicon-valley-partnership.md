@@ -76,6 +76,20 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 24
+  - title: "Cruise self-driving cars headed to Japan"
+    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
+    publishedDateTime: 2021-01-22T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
+        width: 1920
+        height: 1189
+        isCached: true
 
 secured: "RSNKGliFyEA768ElAmKLXt/DsvcZ7KYKnvr2uoXiXuN+k0/ukr9M8N6al/MklgzoC0ejG020XP0EfpQMD2z8eJLIUW3xci45eFWqe1ULHb+T8JBWqWqoAMIsTUjPJUojcbpdSbr0BNgEUo+se1x1alBrG4/DmUdzxfmTfpS755Hs3FYm15bQeMwt4nDPkoG9ChbKRP2vWgDJ+hntu2VvEtCIGbJnAn9WYa7skGIlnomOlFAALXL96ujengvidKln48Mo9Hi2eqDASRttqr6JYcji7OTBxPQ2ai3ubJRA2EXFLn/7AOq1ER/E1p2+PLdHpowVpiQ4OxqF1uFlQoyVJuE89KyHj8+SwvfiIDXbbcxS77k2adEWmkYYg3AwBSwmzfBLXw2UPOAD+dRcGax53ol6R3KMdpllUNXh29te/7Szw3/Z2X3dG2CVkmuHxmXAgtT9sKTtb4EH5Hs+XKRKAzYs7Z4+Hg0gvQJuUvwvkldL4u4MuniITUe8PA5nEicktc3pRELjMf92kem8rRgP8Q==;zpemnh+J2BiCtLm77BpQuQ=="
 ---

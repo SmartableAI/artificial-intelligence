@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CHINA AND THE US SET TO DRIVE POST-COVID SURGE IN COLLABORATIVE ROBOT SALES"
-    excerpt: "After an arid 2020, when cobot revenues saw negative growth for the first time, growth is predicted to be of the order of 15-20% year on year up to 2028 • Over half of collaborative robots were shipped to Asia in 2020 • Electronics manufacturing is the largest consumer of cobots,"
-    publishedDateTime: 2021-01-19T16:04:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=16119"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
 
 secured: "gCxlfasuKL13H4Ozmg30m6icxDGHZ/YOoyjbS/YZ7WH8kVv4yfwmXbHxTX9HeDuN2dNHxT2zaCNPN9Dk6UIhMk8yojQu4O35whpe5/ShJHvHwtBXIftEcbmKv8LhiqhIgGQDxGGhckChIjcwQaRcd9ZCtaMJA8RHDaGBnpesMxOq10qxxTrFe7sXMA+BWP+IwL1W2GhoboDxBlS3hgrhbtL5Zwkk7GDlBE6lsc/VrwKQx20tOp8lMo1nKUl4gkhItQiiMvOp68IFAqGbEXCN33MUBZDo/ZEOeUk1TYzAF64B08/+ve0gZDm+xXfglZx8Bvlf5uaMwW/xFL6aqXk3Cu1AZUYR6N0z9tSUisuVxo4=;mdkFqKUbiz0NmDfAbNlJ2A=="
 ---

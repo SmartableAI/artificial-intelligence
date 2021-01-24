@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Dimon Frets Over Weak Recovery and Fintech Rivals"
-    excerpt: "For someone who turned in his best quarter ever, JPMorgan Chase chief Jamie Dimon is worried. About the pandemic in the near-term. And fintech upstarts in the longer term. The market doesn’t seem to be too concerned,"
-    publishedDateTime: 2021-01-19T16:52:00Z
-    webUrl: "https://www.ai-cio.com/news/dimon-frets-weak-recovery-fintech-rivals/"
+  - title: "Fintech Expands Data Services Through Acquisition of Aperity"
+    excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (\"Fintech\" or \"the Company\"), the leading business solutions provider for the beverage"
+    publishedDateTime: 2021-01-20T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintech-expands-data-services-through-acquisition-of-aperity-301211182.html"
     type: article
     provider:
-      name: Ai-cio.com
-      domain: ai-cio.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 24
     images:
-      - url: "https://si-interactive.s3.amazonaws.com/prod/ai-cio-com/wp-content/uploads/2019/04/08065350/bio_jamesdimon.jpg"
-        width: 270
-        height: 330
-        isCached: true
-  - title: "Real Estate Fintech Firm Qualtik Lands New Client and Advisor"
-    excerpt: "Qualtik, a start-up developing software that helps community banks and investment funds analyze their commercial real estate loans in real time, has landed Keystone Bank's business ? and its founder as an"
-    publishedDateTime: 2021-01-22T14:51:00Z
-    webUrl: "https://www.lelezard.com/en/news-19612339.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://mma.prnewswire.com/media/562037/Fintech_logo_with_tm_dk_bl.jpg?p=facebook"
+        width: 1367
+        height: 716
         isCached: true
 
 secured: "ScxS6vwYQD9v6hPgpTBokszeHbrg50FhN+0hEKgCDFHDwmWSIiLrxI4SZKXym/4TmifyaD8LM9NoyhBk1V9yihph36pGyZqyJh7I+daYjULvsPpNrKpa52OyC3aib7gZLfjhqhS3ak4MRqqF329VfQgrHdijPbE24OjWrVGMrvH8JxvXF8ds2HFqtiVEWUf22Ukt172Z179oH29MvOzBR9T0HL7BaA5E4fJPHsEhzWGf/JL4aHGWT4RivSCyPBIORIs3TZGbZ2j/lWuqooPP0lni0+BGOYaBYMNHDM44JMIm8RFGVk/zPfXZHfHg+hiQmchjVbLK7GffEj7sr+kfqRHTvybiZkFNmLsL0lBMAGLX/XMP+bUeH4NK0U6Qtydgqv9J+LFU7en2kRt08QdQbNJpnStdAvq3pAoRaSx4JUftL+XwGa/xCmzqAgUEDd86aeICwuMQz9HMG5Kp5jZB1zFGdc+xToqPWuAobtuLJq0c0MMm1Iu33h3rccB+RQoB4T0GGEu6aATcTcqjzPuTag==;TRTanLkAAkcwwVuyzuQTJg=="

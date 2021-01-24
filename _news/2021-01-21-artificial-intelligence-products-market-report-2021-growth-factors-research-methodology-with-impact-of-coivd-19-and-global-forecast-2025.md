@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Optical Microscopes Market to Grow by $ 557.96 Million During 2020-2024 | Integration of AI and Machine Learning to be Key Trend | Technavio"
+    excerpt: "The optical microscopes market is poised to grow by USD 557.96 million during 2020-2024, progressing at a CAGR of almost 5% during the forecast period. Worried about the impact of COVID-19 on your Business?"
+    publishedDateTime: 2021-01-20T09:14:00Z
+    webUrl: "https://www.financialbuzz.com/global-optical-microscopes-market-to-grow-by-557-96-million-during-2020-2024-integration-of-ai-and-machine-learning-to-be-key-trend-technavio/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "uXVEtNHInCvJBvUbssU6vxKeEK/HPdgb6aJSCGpbOof2WAOCJd54HRmR62y5AEix5emT3mI7UcHEyZOnFghUFpGuJGBPsntMYBO5K5hevM6rk+QzrRrg0i+fbKOMdQMO71+8VjX08zUswi1cTOCsnY46aCuNGVGEE2YlRzbpCPl+udDp/4tyjwE7DucOMkLkoKbfwtmFTMp/w7EaR6jO6VgNSstZsjHMcURjMy4Md3Qlc2guYwl5hFKhnxRigzWFoFvtn++ZtMZeb/R2Bp/moJQjNHWLO1uMpJzAF8YtbblyfDkRw1DKc/jBc3Bhs7r56mr+zDHVi3g+e4bKwlMMNAKkRf5v3car5yTT7i0EAWo=;ueBvo1HKJa+oZ+/1KjzR0A=="
 ---

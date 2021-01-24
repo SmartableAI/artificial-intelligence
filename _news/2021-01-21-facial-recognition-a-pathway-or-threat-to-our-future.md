@@ -7,7 +7,7 @@ originalUrl: "https://nowtoronto.com/events/seminar-talk-or-panel-facial-recogni
 webUrl: "https://nowtoronto.com/events/seminar-talk-or-panel-facial-recognition-a-pathway-or-threat-to-our-future"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Facial Recognition Vital to Nab Capitol Assailants"
-    excerpt: "While cities ranging from San Francisco to Boston have worked to ban facial recognition outright, without that technology, the FBI and Capitol Police would have had a harder job arresting the Capitol insurrectionists."
-    publishedDateTime: 2021-01-19T16:31:00Z
-    webUrl: "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html"
-    ampWebUrl: "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP"
+  - title: "Image Recognition Markets, 2025 - Digital Image Processing, Facial Recognition, Pattern Recognition"
+    excerpt: "The image recognition industry is driven by various factors, such as an increased in the need for efficient and profitable retail execution processes with adherence to compliance standards and technological advancements to boost the adoption of image recognition market across the globe during the forecast period."
+    publishedDateTime: 2021-01-20T14:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/image-recognition-markets-2025---digital-image-processing-facial-recognition-pattern-recognition-301211658.html"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
-  - title: "As U.S. Capitol investigators use facial recognition, it begs the question: Who owns our faces?"
-    excerpt: "We have unwittingly volunteered our faces in social media posts and photos stored in the cloud. But we've yet to determine who owns the data associated with the contours of our faces."
-    publishedDateTime: 2021-01-19T15:29:00Z
-    webUrl: "https://theconversation.com/as-u-s-capitol-investigators-use-facial-recognition-it-begs-the-question-who-owns-our-faces-153253"
-    ampWebUrl: "https://theconversation.com/amp/as-u-s-capitol-investigators-use-facial-recognition-it-begs-the-question-who-owns-our-faces-153253"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/as-u-s-capitol-investigators-use-facial-recognition-it-begs-the-question-who-owns-our-faces-153253"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
-    images:
-      - url: "https://images.theconversation.com/files/379320/original/file-20210118-17-zx4vx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=231&fit=crop"
-        width: 320
-        height: 231
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "6H9G/iKkFIQ6ovWHlEINbZC9zmXuSESCO7ieq6kBVfFKfibe5QeHIsCAW0jMTL123UTDr5phl8mUVeli7ln5zg7/woqfwHfVXxOfin8ObHs/IXe+6dAyyjsAhwsCaqIoKOWeUchEmG68D77y5xh4+sCABbWASO3h2aAECgCBTN8YfbCiURQAuuTapm+vg5PQiV5QkQM7nDPEOqw2GqritO2Ko2A165Mvelnbs96hD9St6FXW8Yu61ke5bNwU+PF8sD6/Zlh+JF+gpP0Phelp9Y2ZL5sQub/0vrvTIZVLZVwm833vF3RyXshcQxLCvdbUyz0qDpFflB/G/FiPYjixK8FMu06EZWPjsD9JS7J0/to=;AUvfv4kszRd2KzbyWEyYTQ=="

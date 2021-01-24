@@ -76,20 +76,6 @@ related:
       name: AdExchanger
       domain: adexchanger.com
     quality: 19
-  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
-    excerpt: "Atos and IBM (NYSE: IBM ) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos’ vertical decarbonized solution and service delivery assets,"
-    publishedDateTime: 2021-01-19T16:31:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-industrial-products-and-services-transportation-and-shipping-e9c2331e90a30f936998b549e9d0b035"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "9dGsLWdMu4OopD0oCYm3NjiU/5ziBqc/eIisdX5qPSdcN5+TlWQJz0R3ztf2IPtcAa4z3gM5gtXIdwEKh49D04EVbbVMFP12ARLd+Px5MsLlAMcouvOJwHsLDdgbL6ojUq3TL5ZzgsIaSrF3gtWCTqmkmKqou3HiB5/4nCG+kCCKOk94zCRdwGjBbrhkzauJwUK8tcv1h0XcF/fieXR2y9dK/KxSRbIReaW5OiBeZxLK/J24uKyb3bJzF8cRXgOmtQ6f71Dm6xJ+Xf7O5O71pvL/o2WTTa2jEKur62hcMIjz/so6dceXlPgItzIzNnFInFg4sNLXYaSvbg16Bd/ZzNQPjnrqRjE/YJSJxK3Quq7Jv6kd3bvW1bSi6Wnit3zrLlWwf2bmsbjJQPpSHUBM2PvIOPeaZSqztOqq64/Nn9F3VMHVmMOrMygwlgQpKqg4E1wl48tgJRrFxpoQrE+MLAl0t5zUniTRX0BJT9zNh+biQU+g3ojkBB+8V91ucP/DWMZfqraQN3nNFGwCYhn1Iw==;+KUNpS3nBtQY4f8CFWDl2Q=="
 ---

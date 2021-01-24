@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "GM-Microsoft Deal Is a Blockbuster for Self-Driving Cars—and Good News for GM’s Stock"
-    excerpt: "General Motors stock is on the move because investors are finally treating it like a next-generation car company, able to generate value with electric and self-driving cars. It took a while. And no less than software giant Microsoft (ticker: MSFT) was needed to help build positive momentum."
-    publishedDateTime: 2021-01-19T16:08:00Z
-    webUrl: "https://www.barrons.com/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
-    ampWebUrl: "https://www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-microsoft-deal-is-a-blockbuster-for-self-driving-carsand-gms-stock-51611072349"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-287033/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Microsoft looks to bolster the self-driving car market with new Cruise and GM partnership"
     excerpt: "Microsoft appears to be re-entering the automotive market in a significantly greater capacity than it has been previously. A few years back, Microsoft seemingly slunk away from the automotive"
     publishedDateTime: 2021-01-20T15:19:00Z

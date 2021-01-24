@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "CHINA AND THE US SET TO DRIVE POST-COVID SURGE IN COLLABORATIVE ROBOT SALES"
-    excerpt: "After an arid 2020, when cobot revenues saw negative growth for the first time, growth is predicted to be of the order of 15-20% year on year up to 2028 • Over half of collaborative robots were shipped to Asia in 2020 • Electronics manufacturing is the largest consumer of cobots,"
-    publishedDateTime: 2021-01-19T16:04:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=16119"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
 
 secured: "GsUjdvDduszJ4JkypDbtwZ4KUsvYvfk57HwYpjALfMVe/tKLbOV6qrOWwL1+zLRNu0O+WP4enJVf28oJbykjiU9qnCvVFiOVe+t6QQhhqZIUKObOovTbPyI2FWwQC9mH51paz90AZWRL6r0qzlk0a1f6izrvFUVeEDh6VEL6PcCq5puE3TaIM1OzXNqxHuglm8MmLQgr0nHT4IuwLxEKA+NHsE6ggtaPNiEpd1u1nky+uPqy3MvDGLrkNg9tqlIPnZGHvGDeTRqU85g0fYqzisLLBjc1M2r9csT/im0TKsrpCpOxSvw9fpZwQ6M/HXLZWIiVz7Oj2B+vKsmmwE7MDOdTxe7w1xH9yvAe5hWTudo=;7r1oEmG4qgWRn5WeRhd4LQ=="
 ---

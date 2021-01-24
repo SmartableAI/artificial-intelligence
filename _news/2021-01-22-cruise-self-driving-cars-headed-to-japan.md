@@ -25,45 +25,72 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft backs General Motors' Cruise Automation self-driving car venture"
-    excerpt: "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,"
-    publishedDateTime: 2021-01-19T16:15:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/microsoft-general-motors-cruise-automation-self-driving-car/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-general-motors-cruise-automation-self-driving-car/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-general-motors-cruise-automation-self-driving-car/"
+  - title: "Paccar, Aurora to Develop Self-Driving Big Rigs"
+    excerpt: "Truck-maker Paccar will work with autonomous vehicle startup Aurora Innovation to develop self-driving heavy-duty trucks, the latest in a growing series of deals aimed at bringing automation to the business that moves most of the freight in the U."
+    publishedDateTime: 2021-01-19T20:00:00Z
+    webUrl: "https://www.wsj.com/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-287222/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Self-driving startup Aurora partners with heavy truck company Paccar"
+    excerpt: "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday."
+    publishedDateTime: 2021-01-20T00:38:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 89
+    quality: 74
     images:
-      - url: "https://cnet3.cbsistatic.com/img/LZpr8HjlX48MqL6KBPa68NERksc=/2021/01/19/892566c0-08fd-4bf3-b65e-93ca003faf97/ogi-cruise.jpg"
+      - url: "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Teaming With GM to Bring Driverless Cars Into ‘Mainstream’"
-    excerpt: "Microsoft is throwing the dice and betting that General Motors’ driverless car and electric vehicles technology will soon be “mainstream.” In an announcement Tuesday, the software giant said it’s teaming up with GM and its self-driving car subsidiary Cruise to speed up the commercialization of autonomous cars,"
-    publishedDateTime: 2021-01-19T21:35:00Z
-    webUrl: "https://www.kabc.com/news/microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream/"
+  - title: "PCAR Moves Higher on Self-Driving Truck Deal"
+    excerpt: "PACCAR (PCAR) stock is eyeing fresh highs this morning, following a collaboration with self-driving car startup Aurora"
+    publishedDateTime: 2021-01-20T15:32:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2021/01/20/pcar-moves-higher-on-self-driving-truck-deal"
     type: article
     provider:
-      name: KABC
-      domain: kabc.com
-    quality: 71
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 24
     images:
-      - url: "https://www.newsmax.com/Newsmax/files/d4/d482a16e-94a4-49ca-a7ed-6592d675f779.jpg"
-        width: 600
-        height: 500
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/mergers/bigstock-isometric-arrow-formed-by-two--253666525.jpg?sfvrsn=15a1db06_4"
+        width: 1600
+        height: 1200
         isCached: true
-  - title: "Microsoft backs GM's $30bn driverless car project"
-    excerpt: "Tesla is \"trying to make full-size cars in the same way toy cars are made\", boss Elon Musk has said, as the electric car company provided a glimpse into how its tabless batteries are being made."
-    publishedDateTime: 2021-01-19T18:12:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/19/tesla-provides-glimpse-battery-production-line-makes-cars-like/"
+  - title: "Self-driving big rigs could be future of long-haul trucking"
+    excerpt: "Now there are companies thinking much bigger in the ever-growing world of artificial intelligence: self-driving tractor-trailers. San Diego-based in TuSimple is getting ready to launch a fleet of self-driving big rigs."
+    publishedDateTime: 2021-01-20T04:19:00Z
+    webUrl: "https://www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking"
+    ampWebUrl: "https://www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking.amp"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 36
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 24
+  - title: "Paccar’s push for a self-driving truck gets boost from Silicon Valley partnership"
+    excerpt: "A new partnership between Bellevue-based Paccar and autonomous-driving startup Aurora Innovation represents a major bet that the future of self-driving vehicles will start with long-haul trucks, not cars."
+    publishedDateTime: 2021-01-20T02:58:00Z
+    webUrl: "https://www.seattletimes.com/business/local-business/paccars-push-for-a-self-driving-truck-gets-boost-from-silicon-valley-partnership/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 0
 
 secured: "FIiJ2l+fAOw2SMZM6XpmZYE2MXy8Bgst3A9Ru6XyrUHu3/bA4aM+X0GjtOTwV1Y6XkAOywkrbAuVc8MX9FlvMgVP0rzSbqb0qm7LKO1anBifxJ23L7iLhRhEFTytzCNILppSa4qe6oAZHAZPqGHNmnAFpc9bohtDmMdiGbl0zWc4ptvCHeeu7U/nv1P6I65ddRE+ylAw3AmCoFpWWYQHiRyrxCoeTYIfDwVOOaT9AYEowzKOsqeflksxI797qJWNRAIgRd3JEBU0Kb7ctSZ+fZDWVxnaZF9+biiBup1BgEK4mybvhDql5l2qQNdpAS3oNVHjssVKjC9Yju5Y+y3ehF0Dmjr0pWDGIqh4kkhneFu/giJudmNn9Y3GrPRV/lJ6nGQmHrGS6Hl0TUvaHNxsDYgQJvVT4DoDWej4W36rfOVhl2O7ETWbFO++HnhxWE7vM2844IQnAoi27yOsS+qR7KZJARFkI8HpKdQ11pSyng3mkR4VrcC2bHiLZ/g1p9Nvmbx8GK4UN10+evwIf7vWYg==;IadiJU2MIGcVSGUpR2Q43w=="
 ---

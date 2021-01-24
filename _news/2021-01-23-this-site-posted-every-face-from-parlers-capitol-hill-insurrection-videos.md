@@ -1,10 +1,10 @@
 ---
 category: news
 title: "This site posted every face from Parler’s Capitol Hill insurrection videos"
-excerpt: "The site's creator tells WIRED that he used simple, open source machine-learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
+excerpt: "The site's creator tells WIRED that he used simple open source machine learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
 publishedDateTime: 2021-01-23T11:40:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/?fbclid=IwAR0Nj6yYeqWS-blJWq1RXxURUm7pyl8D3ckfKUanrvc8bxz6Em03WzFtEOQ"
-webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/?fbclid=IwAR0Nj6yYeqWS-blJWq1RXxURUm7pyl8D3ckfKUanrvc8bxz6Em03WzFtEOQ"
+originalUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
+webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
 type: article
 quality: 52
 heat: -1
@@ -60,22 +60,6 @@ related:
       - url: "https://media.wired.com/photos/6008823e103a85a519187c3a/master/pass/parler-face-recognition-illustration.jpg"
         width: 2095
         height: 1178
-        isCached: true
-  - title: "Kami’s new video doorbell boasts on-device person detection and facial recognition"
-    excerpt: "The Kami Doorbell Camera doesn’t need the cloud to detect people or recognize friends and family, although it does rely on cloud-based video storage."
-    publishedDateTime: 2021-01-19T15:16:00Z
-    webUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.html"
-    ampWebUrl: "https://www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-techhive-com.cdn.ampproject.org/c/s/www.techhive.com/article/3603912/kami-s-new-video-doorbell-boasts-on-device-person-detection-and-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: TechHive
-      domain: techhive.com
-    quality: 53
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/01/kami-doorbell-camera-100873997-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Ban on Facial Recognition Technology Advances in Minneapolis"
     excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing."
@@ -138,6 +122,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "kjQC4TpbRpg5OBfEJ1S+fH4b3Gej2syJ1iImSLlkgSUjKL/q9xMLPTDcY62H2bS2MvEAJAq0bBhhDmUKFSmjB4SgSq0ti2L9VjzmJehyivWNLLoioTg/ceRUYTYojlu9lXj6+KrwflZ3cYcbHL9ELBRIBnYrcj/Sxc637SpGs56DGjNmCBGMJ1kEoSqIB5WxgaUN586pOLd2ahMFsX6C+oO4RBFix+sO/xXCUK+NN9ulTunXVFVmj//LVGTgQgagC4d3NP9HVikcbpQS2UM0nGdaS0d+Pf2NVA0F+WBkqdsl3nDyt0ZZO9cahuQK/J+UTzOLCsEQnSFhoYy7yhZqCnO292qPDUZfoMk7nAVPZe0=;oDCHETJIFFW90nlit0U9lg=="
+secured: "remIqONs+yPXzWAoqmPze0NiuRlSI3+M6MIO52js0iTP/KBkX1WNfbi1FLy1LazWqs/M0fNDuWMGpTlTOM2/61wyqhPPartopogNAjyF7WIhwZUZuohX3xQyctUENCa97dkXOz+xCyunIWlBbJKN43o9k24OyUqcVuSQQbBTBtO03+dX/9bCYWfr3TQd/A1x3giucaJjlJh9k+8Kf1+EOFvRqpN1JD+nZe+eISExJNL7+MET8StnxT0hSVhdeF3CWvMxsWije3LGETld0taxTRunJ+kOcPgy/2nyxb+Nk3uDrcRnoVCt6IlDAhoXXr3LTh039stMLNR3EW8SDeRac8KgBNF4f5Kh4Njy+LNRNRI=;eHglkrhEtClhzRLLqHVU3w=="
 ---
 

@@ -67,6 +67,20 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Cruise self-driving cars headed to Japan"
+    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
+    publishedDateTime: 2021-01-22T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
+        width: 1920
+        height: 1189
+        isCached: true
   - title: "Paccar’s push for a self-driving truck gets boost from Silicon Valley partnership"
     excerpt: "A new partnership between Bellevue-based Paccar and autonomous-driving startup Aurora Innovation represents a major bet that the future of self-driving vehicles will start with long-haul trucks, not cars."
     publishedDateTime: 2021-01-20T02:58:00Z

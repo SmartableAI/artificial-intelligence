@@ -63,17 +63,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Is Recent Fintech IPO Upstart a Buy?"
-    excerpt: "One interesting recent IPO that has been flying somewhat under the radar is fintech lender Upstart ( NASDAQ:UPST). In this Jan. 11 Fool Live clip, Matt Frankel, CFP, and Industry Focus: Financials host Jason Moser take a closer look at Upstart and what investors need to know about it."
-    publishedDateTime: 2021-01-19T16:43:00Z
-    webUrl: "https://www.fool.com/investing/2021/01/19/is-recent-fintech-ipo-upstart-a-buy/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/19/is-recent-fintech-ipo-upstart-a-buy/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/19/is-recent-fintech-ipo-upstart-a-buy/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
   - title: "With AI, Big Data and Blockchain, Brazilian Fintech Grows in Business Finance Market"
     excerpt: "Weel's platform uses its own algorithm and electronic tax receipt system to assess credit risk; the company has already processed R$1 billion (US$185) in loans."
     publishedDateTime: 2021-01-23T12:19:00Z
@@ -119,6 +108,22 @@ related:
       - url: "https://www.fairobserver.com/wp-content/uploads/2021/01/Fintech-2.jpg"
         width: 938
         height: 450
+        isCached: true
+  - title: "Fintech Advancement in the Time of COVID-19"
+    excerpt: "As with most years, I started 2020 with a sense of optimism, looking forward to another productive year at work and doing the Appetite for Disruption podcast with my co-host Troy Paredes. In fact, he"
+    publishedDateTime: 2021-01-20T23:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Novel-Coronavirus-SARS-CoV-2-COVID-19-600x511.jpg"
+        width: 600
+        height: 511
         isCached: true
   - title: "Things Are Just Beginning At Peak Fintech"
     excerpt: "Get started today » We bought shares of Canadian fintech company Peak Fintech (OTCQX:PKKFF) for our SHU Growth Portfolio at $1.15 and $1.12 on December 11 and 21, respectively. We think that its B2B lending platform fills a real need and is only just starting to scale."

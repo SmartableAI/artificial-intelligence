@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/reply-signs-an-agreemen
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "RCP Construction, Inc., and Everguard.ai Sign Agreement to Utilize Artificial Intelligence (AI) to Improve Job Site Safety"
-    excerpt: "RCP Construction, Inc. and Everguard.ai today announced a collaboration to bring artificial intelligence (AI) and sensor fusion to"
-    publishedDateTime: 2021-01-19T15:24:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/rcp-construction-inc-and-everguardai-sign-agreement-to-utilize-artificial-intelligence-ai-to-improve-job-site-safety-301210950.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1317320/Everguard_ai_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
   - title: "Atos, IBM Collaborate to Develop Industry-specific Automation Solutions using AI and Hybrid Cloud"
     excerpt: "Atos and IBM on Tuesday announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize"
     publishedDateTime: 2021-01-20T03:32:00Z
