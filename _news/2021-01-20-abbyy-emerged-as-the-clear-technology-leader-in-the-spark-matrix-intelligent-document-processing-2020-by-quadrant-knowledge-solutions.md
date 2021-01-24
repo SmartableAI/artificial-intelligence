@@ -24,22 +24,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "ABBYY Emerged as the Clear Technology Leader in the SPARK Matrix: Intelligent Document Processing, 2020 by Quadrant Knowledge Solutions"
-    excerpt: "ABBYY, a leading digital intelligence company, has been ranked by global advisory and consulting firm Quadrant Knowledge Solutions as"
-    publishedDateTime: 2021-01-19T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions-301210807.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/746706/Quadrant_Knowledge_Solutions_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-
 secured: "umnrn5i/Wwhe0UbiDT5nP73KdzMx+WdmE+l3PPR7k3x+nc2n4cqU9VjMKTwlxghymC0+kNLiRsRZOEOVajgCMfSVKrN9YPXs59Uv5/Mf5vNn17E3Gj+EKwvxUx1h4JNzOF0ikYt63GAc4Y4NyTFa+8DD4aiPYCvP+RLIF3yTokhWZk2d4hRAqxW5OUcOn6GwKX9R2CF5K3lXhsUP2jReMgfswpfnfhcrdHg+MW1Qg9ti/wTiFjHtHFF3lZZ3VtGe8bOWw+WTETdBap5vAp0rGIrEBX7ryDgXkwtPfQr1UMjrFDLHnJTbL2985v/A12t0ngnZu1fN3mt7SHu/UD7rK/5WyG4vs3QWMS8+CKIzPpE=;r8KZvywEVGsicFdSdCOtxg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-ena
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/"
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Cruise-Microsoft-cropped.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Microsoft Research Asia partners with universities in Asia to build OpenNetLab, empowering AI-assisted networking research"
-    excerpt: "Microsoft Research Asia announced the establishment of OpenNetLab, an open networking community and platform in collaboration with multiple universities in Asia, including academia from China, Korea and Singapore."
-    publishedDateTime: 2021-01-19T12:42:00Z
-    webUrl: "https://news.microsoft.com/apac/2021/01/19/microsoft-research-asia-partners-with-universities-in-asia-to-build-opennetlab-empowering-ai-assisted-networking-research/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 28
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/ONL-Hero-Image-1600x1067.jpg"
-        width: 1600
-        height: 1067
         isCached: true
 
 secured: "Am3aapmGThh4jrkQ7QazoD72Ydfq7GOR5PVT48T5cadQmoNr49zq2WRp1Kqli7Fze/vs7pKGJRmH41nengmHHI3CDgdWHprE+3ju15ikpOavuO9yM/WvNTanOFh1oEXBZg9OLb4LdEKYlOegBMmCyOiKz5DE6IN/gtSXLvvGx5M9hwdBzbyumrxpkAzghRkn/bZGuZ+YOGjjtQ6Ioep0CdTUvUJZc1/Ps9F0j5FeOnDixWWsAbBAhBo6vGEJ5ae/hYZEfJJgQMbcjbaakd0vhiJfkrIAMPHlll2aAESCoNwW1t73Yocy205t8X6GBvTB/mQfh+iEieh6FPLU0ZiBkRT0iGbF57TtgrRbKvtwf4Zu4WeAnHEYgVWzIo6ux0ZtCcXKeDJfk6vO3bDANqtU52WsLJIai9+YE63JN43HckR/wFnL2GGqbHCpubwgmComyocPVpO+4/2dN28ah3bMvvhszowiJ9w7RXLpT3UlseNSQkn6FZZ0GeI4vO3nn7hxvRHyJz1DhnhaLSQuhBpqJg==;FynxZ6o1W9Uhwy4xQpAFAA=="

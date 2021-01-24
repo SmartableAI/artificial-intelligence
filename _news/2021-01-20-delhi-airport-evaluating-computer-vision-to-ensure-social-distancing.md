@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/technology/delhi-airport-evaluating-co
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/amp/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Windows
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official"
-    excerpt: "Delhi airport is evaluating a 'computer vision' technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a t"
-    publishedDateTime: 2021-01-19T11:57:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 60
-    images:
-      - url: "https://static.toiimg.com/photo/msid-80144619,width-242,height-136/80144619.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Delhi airport evaluating ‘computer vision’ tech to track flyers, ensure social distancing"
     excerpt: "Delhi airport is evaluating a \"computer vision\" technology to track passengers, reduce waiting time and ensure social distancing at its"
     publishedDateTime: 2021-01-19T21:40:00Z

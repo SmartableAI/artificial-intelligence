@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/kami-releases-smart-video-d
 webUrl: "https://www.biometricupdate.com/202101/kami-releases-smart-video-doorbell-with-facial-recognition-capabilities"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Kami Launches Smart Video Doorbell with Facial Recognition"
-    excerpt: "PRNewswire/ -- Kami, the vision artificial intelligence (AI) company, today announced the availability of the Kami Doorbell Camera, a smart video"
-    publishedDateTime: 2021-01-19T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kami-launches-smart-video-doorbell-with-facial-recognition-301210552.html"
+  - title: "How Cos. Can Comply With Portland Facial Recognition Ban"
+    excerpt: "Due to the breadth of Portland, Oregon's, recent ban on facial recognition technology, companies both within and outside the city should take several actionable steps to leverage the technology while satisfying their compliance obligations,"
+    publishedDateTime: 2021-01-22T22:58:00Z
+    webUrl: "https://www.law360.com/articles/1346906/how-cos-can-comply-with-portland-facial-recognition-ban"
+    ampWebUrl: "https://www.law360.com/amp/articles/1346906"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1346906"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Law360
+      domain: law360.com
     quality: 39
-    images:
-      - url: "https://i1.ytimg.com/vi/Gz--yqZ-NRA/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Kami now sells a $129 smart doorbell camera with baked-in facial recognition and human detection"
     excerpt: "The device costs $129 and includes a suite of note-worthy features. The most significant feature is. This allows the camera to notify users when someone is at the door, and more specifically, who’s at the door."
     publishedDateTime: 2021-01-20T17:07:00Z

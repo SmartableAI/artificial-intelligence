@@ -37,6 +37,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "When News is Breaking, AI Can Help News Consumers Identify Fake News"
+    excerpt: "Warnings about misinformation are now regularly posted on Twitter, Facebook, and other social media platforms, but not all of these cautions are created equal. New research from Rensselaer Polytechnic Institute shows that artificial intelligence can help form accurate news assessments — but only when a news story is first emerging."
+    publishedDateTime: 2021-01-21T15:43:00Z
+    webUrl: "https://news.rpi.edu/content/2021/01/21/when-news-breaking-ai-can-help-news-consumers-identify-fake-news"
+    type: article
+    provider:
+      name: RPI News
+      domain: rpi.edu
+    quality: 39
+    images:
+      - url: "https://www.rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
+        width: 667
+        height: 446
+        isCached: true
   - title: "When a story is breaking, AI can help consumers identify fake news"
     excerpt: "Warnings about misinformation are now regularly posted on Twitter, Facebook, and other social media platforms, but not all of these cautions are created equal. New research from Rensselaer Polytechnic Institute shows that artificial intelligence can help form accurate news assessments -- but only when a news story is first emerging."
     publishedDateTime: 2021-01-21T18:28:00Z

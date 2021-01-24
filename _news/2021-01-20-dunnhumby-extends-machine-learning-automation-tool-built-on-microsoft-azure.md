@@ -1,29 +1,23 @@
 ---
 category: news
 title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
-publishedDateTime: 2021-01-20T06:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
-webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
+excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
+publishedDateTime: 2021-01-19T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Yellow Messenger integrates Microsoft Azure cognitive services on its platform"
@@ -543,22 +537,6 @@ related:
         width: 943
         height: 326
         isCached: true
-  - title: "Microsoft will soon allow users to have more control over their voice clips"
-    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
-    publishedDateTime: 2021-01-19T11:41:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-will-soon-allow-users-to-have-more-control-over-their-voice-clips-ceddf190-8703-4554-bd4a-5272e4f135b6"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-will-soon-allow-users-to-have-more-control-over-their-voice-clips-ceddf190-8703-4554-bd4a-5272e4f135b6"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-will-soon-allow-users-to-have-more-control-over-their-voice-clips-ceddf190-8703-4554-bd4a-5272e4f135b6"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 59
-    images:
-      - url: "https://image-prod.iol.co.za/resize/4863x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4ce67df8-4bad-5179-b3c6-3dc1a4b1394f&operation=CROP&offset=267x1283&resize=3470x1952"
-        width: 651
-        height: 366
-        isCached: true
   - title: "Microsoft Invests R29 Billion In GM’s Driverless Vehicle Company Cruise"
     excerpt: "Microsoft has invested in Cruise, General Motors (GM) driverless car unit, pushing the company's valuation to $30 billion (R447 billion)."
     publishedDateTime: 2021-01-20T04:51:00Z
@@ -614,6 +592,20 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
         width: 620
         height: 355
+        isCached: true
+  - title: "Ooredoo, Wipro sign agreement to enhance Microsoft Azure services"
+    excerpt: "Ooredoo Qatar, a Microsoft Gold Certified Partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company,"
+    publishedDateTime: 2021-01-24T04:44:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/24/01/2021/Ooredoo,-Wipro-sign-agreement-to-enhance-Microsoft-Azure-services"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 54
+    images:
+      - url: "https://thepeninsulaqatar.com/images/front/whatsapp.png"
+        width: 400
+        height: 284
         isCached: true
   - title: "Microsoft collaborates with Yellow Messenger to transform voice virtual assistants"
     excerpt: "Yellow Messenger has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services and NLP tools."
@@ -917,20 +909,6 @@ related:
         width: 768
         height: 345
         isCached: true
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
-    publishedDateTime: 2021-01-19T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft Lets Users Decide Whether Their Voice Clips Can Be Accessed By Human Reviewers"
     excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide"
     publishedDateTime: 2021-01-19T19:51:00Z
@@ -998,6 +976,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "zXnxsPi3lzOiGnYtW7L1xV5cnSo+FNIweyWJ4Lu2iFCbgsmCsrrOWA4wVMRowdnkPpLykf9m2xexrlKm4s+FO563X9125cAEqYi1lsnArQk6WicTyu2KaAKNkUl6iX33Pu5PrmMDiK4X4nBRHyBoHkACdcJHu+fgWMpjUuFYEHVKSiPc/JPd1vpPjTDH/j89eWDN4qCuqwFTzFnhyDbkJ2XzPEbR3kq7YlUb2M1d13U14IR800QvOrHAmsLMVNu6cfHYhGn7jVftb9lwz8tteFIkBl2Xmgp98T4FMKk7OB7IpkOV2POlOpbPtCttKTWU+VTrFqWuXF6VPPRDhFlb+3Tq6CiCX/PqTyMIXJ4AaTU=;T3eWCPlQOXAk3DxDR9Vntw=="
+secured: "MpeNMGDMyMarsfaY+Svvd50Xz0AWnBtJ/EwrwTp1luyN9W2MuSa0fs8ZVK/CZwbfbvJBtvFe0Vd85EAAHzu6Qx2aA0lMkUjowLLVaaB4dZpCZtxYXxY+F77x7fZX/1s9n+OWk9HEm9Qv4CrlxS2Kr25x9Hj6pNPUphY4UfGsh/iAvUrqWIk16Ubk8REn+kpXb1QunroeV4NLhUQUDVEqlxrqM4g8yZw8G04XNcjUaBLz0kE9lKu1TQ8EG2nhhUcLPIaMl+OUDOED/SdwORdpHbZkjgVP8Q7rVL7r6HDOKOU5mK2JuDi/j/YDf6pt0qbkVnAfVVV+0PhDlomJ7k3RWUZJKjkdSS0Wgp3VZ2CzB0w=;nWE+iU3SD3QpRqwEc7xG8g=="
 ---
 

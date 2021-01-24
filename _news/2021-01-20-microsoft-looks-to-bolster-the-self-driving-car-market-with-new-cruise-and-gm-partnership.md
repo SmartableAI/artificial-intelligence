@@ -74,20 +74,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft Research Asia partners with universities in Asia to build OpenNetLab, empowering AI-assisted networking research"
-    excerpt: "Microsoft Research Asia announced the establishment of OpenNetLab, an open networking community and platform in collaboration with multiple universities in Asia, including academia from China, Korea and Singapore."
-    publishedDateTime: 2021-01-19T12:42:00Z
-    webUrl: "https://news.microsoft.com/apac/2021/01/19/microsoft-research-asia-partners-with-universities-in-asia-to-build-opennetlab-empowering-ai-assisted-networking-research/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 28
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/01/ONL-Hero-Image-1600x1067.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "mpkyGVw7g77RbbfPY1Rwxuv2/uVBVPLE6783A6CBZYYBqufIKjiE+s/fA/+Aph0hK43hEnYPxHohrNs3iqTyKnrfNvxWNskPhAJWLXwoIHsM8xpzndBTZlk1Z5HeodLl/Qhs0Kbv3/OQIQr/QkJ2zdcvreDt2EfbeQbbfSkVCuZcELeH5BSXoq0298zt3D7bx12EwjVpT2gt5MOebeHs7XkrBMxG61ukSKl+cvlcJwrEfMKubgb+u9Sg2x64Jsn/VdzR0/bUzRYDALfDsqek8iUzZHxXvOyg2u/M8XdOVwXP2Qi9SVx2utIMSeve6ZofRtap2bBbH8Ec8Y1dTPfAXQc7C1ij29l5c1+0cenvWO7Tyc0wgCSUFS2BLywYMU8eP9n7Bxj3nx+NwG5qWsQBxSdqk8CTF7BLKa7WJlCg0SdFeZZHb33jY1y96neMyozkPkh7AZgFhO8dvuoXGZ5ynRDP1Fjsi1yGUs1zxnILhjsy2PEKCXQidCyeeO+h6y96cEf2QXPgRAasrhDKppqVUA==;fdsIDT3WrO5xQKHU8s6s+A=="
 ---

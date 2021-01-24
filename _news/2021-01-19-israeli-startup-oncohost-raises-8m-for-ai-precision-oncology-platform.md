@@ -29,6 +29,17 @@ related:
       name: Geektime
       domain: geektime.com
     quality: 37
+  - title: "Israeli startup Swapp lands Seed funding to inject construction with a touch of AI"
+    excerpt: "Swapp leverages AI technologies to provide real estate developers and construction companies value in tome and"
+    publishedDateTime: 2021-01-24T04:45:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-swapp-lands-seed-funding-to-inject-construction-with-a-touch-of-ai/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-swapp-lands-seed-funding-to-inject-construction-with-a-touch-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-swapp-lands-seed-funding-to-inject-construction-with-a-touch-of-ai/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 31
 
 secured: "ccEUEOoAMYXOvA1jkRVMJLgAWre1tbzha3828Xzpan9KEprHRbS2ho9Q9/tNVmGxWekq1vwzSIM3GbgiRHPkvW2b+AUwGKEziJ//e1ldtGbSyofBS71SiB45A07WxY66bN9YU7vsdwT9B33J12JFUn8PxOBbBtKdZN84V2lF5uDQ9T+YPY3NCPRG7VSsIwyeW8FbtKnn9pqPb4kxs0YmI491jjVyKBDuykNJboDd9I3i8gDzRPnhXxPP98Cr4UdeDF9LyrW9zNXr/6rdEs4yISgcs8zGKmC106FIrCl6fCm7jPOeiKX4pG3HtTY8OnyCmf+/PrBj38k2+KsuzQ3/cPjl3XIiKN7oNPxq/8N8b+g=;caM8PuU01kBi/Gji9bIhYA=="
 ---

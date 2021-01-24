@@ -21,6 +21,17 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Israeli startup Swapp lands Seed funding to inject construction with a touch of AI"
+    excerpt: "Swapp leverages AI technologies to provide real estate developers and construction companies value in tome and"
+    publishedDateTime: 2021-01-24T04:45:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-swapp-lands-seed-funding-to-inject-construction-with-a-touch-of-ai/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-swapp-lands-seed-funding-to-inject-construction-with-a-touch-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-swapp-lands-seed-funding-to-inject-construction-with-a-touch-of-ai/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 31
   - title: "Israeli Startup OncoHost Raises $8M For AI Precision Oncology Platform"
     excerpt: "OncoHost developed a platform to identify key biological processes and proteins that drive response in patients undergoing cancer treatment."
     publishedDateTime: 2021-01-19T14:24:00Z

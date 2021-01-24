@@ -2,6 +2,83 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-12-24-ringcentral-acquires-event-intelligence-firm-deepaffects.md",
+      "title": "RingCentral Acquires Event Intelligence Firm DeepAffects",
+      "excerpt": "DeepAffects analyzes business conversations to extract meaningful insights, using a set of AI models that provide “high accuracy for diarization, emotion and speech recognition,” states ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/358968/ringcentral-acquires-event-intelligence-firm-deepa.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/358968/ringcentral-acquires-event-intelligence-firm-deepa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch.md",
+      "title": "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch ...",
+      "excerpt": "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling the company to launch the first commercial autonomous vehicle service in the state. This regulatory approval,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-driverless-cars-products-and-services-first-time-events-cc3f6d3a2cd682c7f0a7b85f21c0303e",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-driverless-cars-products-and-services-first-time-events-cc3f6d3a2cd682c7f0a7b85f21c0303e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-googles-muzero-ai-gets-all-queens-gambit-mastering-chess-and-atari-for-human-domination.md",
       "title": "Google’s MuZero AI Gets All Queen's Gambit, Mastering Chess And Atari For Human Domination",
       "excerpt": "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules. Back in April, DeepMind created an AI called Agent57, which was set out ...",
@@ -1043,100 +1120,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-the-how-bad-is-your-spotify-ai-is-here-to-judge-taste-in-music.md",
-      "title": "The 'How Bad Is Your Spotify' AI Is Here to Judge Taste in Music",
-      "excerpt": "Look no further than the \"How Bad Is Your Spotify\" app that will cruelly rag on your taste in music. The A.I., created by digital culture publication The Pudding, is akin to a meaner, less thorough yet still fun version of Spotify's popular Wrapped function,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878",
-      "originalUrl": "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1691346/spotify-getty.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1",
-      "publishedDateTime": "2020-12-23T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-stays-out-of-schools.md",
-      "title": "Why Biden nominee Miguel Cardona should make sure facial recognition stays out of schools",
-      "excerpt": "The man Biden intends to nominate to lead the Education Department cares deeply about racial and class inequality. This is one way to show it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-ncna1252139",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-ncna1252139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_52/3437707/201222-miguel-cardona-illo-2x1-jm-1057_5a1c83eb5d2179f470c9ab925385d35f.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1252139",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1252139",
-      "publishedDateTime": "2020-12-23T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

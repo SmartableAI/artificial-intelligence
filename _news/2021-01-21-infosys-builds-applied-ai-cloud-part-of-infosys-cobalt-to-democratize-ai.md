@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Infosys Launches Applied AI Cloud 'Cobalt Offering'"
-    excerpt: "(RTTNews) - Infosys (INFY) announced the launch of an Infosys Cobalt offering - its applied AI cloud. Powered by NVIDIA DGX A100 systems, the applied AI cloud will provide Infosys employees simple and fast access to AI infrastructure,"
-    publishedDateTime: 2021-01-19T12:08:00Z
-    webUrl: "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/infosys-launches-applied-ai-cloud-cobalt-offering-2021-01-19?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Infosys launches applied AI cloud powered by NVIDIA DGX A100 systems"
     excerpt: "Infosys announced the launch of an Infosys Cobalt offering - its applied AI cloud, built on NVIDIA DGXTM A100 systems, the universal system for all AI workloads, offering unprecedented compute density,"
     publishedDateTime: 2021-01-19T14:57:00Z
@@ -66,15 +55,6 @@ related:
         width: 965
         height: 543
         isCached: true
-  - title: "Infosys Builds applied AI Cloud, part of Infosys Cobalt"
-    excerpt: "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, today announced the launch of an Infosys Cobalt offering - its applied AI cloud, built on NVIDIA DGXTM A100 systems,"
-    publishedDateTime: 2021-01-19T12:13:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=281088"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 19
 
 secured: "XGEqJbQjkEOicCOW9/04yPf2G28WKrhkPFnS/+C6ZQ8sSKBKaspY5P/PdvJ56iuoSElEAEMv6vHjeMcO1xVwHCOGgGgPI0Y0vulpoRH5qu/j8wQqAU7ai3Zr7RRXM8tzB0cV1/HfaXj8lsLGPgx4sjYGSH4vhfqGFigaIUsgL9Rxyhtv2g18qQKHD0t0N5JYj/oBBVvRFqH7eBzJ9PW9OWWudDZ00/zyS5ye9IkZJsJ6mh9Y3gdPKzE+Fo4lN3QQyNhwh8Ucj0Y+rGEfEPFgmkLfb6DHVOrZ/9KsFSMxyKoC3FQoDNgYA+f+kzM0p4HbX762DPJc+vxFT7dVqo7hEJCNOHVPX3/umiGSmMTv0ik=;aEt3ETO5b2iESJ8SjPY/hQ=="
 ---

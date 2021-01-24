@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/amesite-expands-sales-ma
 webUrl: "https://www.marketwatch.com/press-release/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-2021-01-19"
 type: article
 quality: 64
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -23,19 +23,6 @@ topics:
   - AI
   - AI in Marketing
   - AI in Sales
-
-related:
-  - title: "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market"
-    excerpt: "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning"
-    publishedDateTime: 2021-01-19T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
 
 secured: "GUMjlhOs+mRpBShmtddZS2UdDcE0Y0ibMGuhYtRjDKmihBgqNZ/quhhLcukDMEX0AP9OitVh7Gq6D9N7MYMWOv490KBjMr4TATkH7lU8kBnYRG2H5sSAC7A4aneNWr+APvE/NiuUfXFQKas/8BhKcF7/OryQyvODryhzCps/pfV0eDXjEiAQJCj+N0n/oVssBQGn8PaCdE7sFCw/XFXQNUxu+SPnOCTOzLHsL/YGeaU8AlViyw+FPkAIX/MP0iHcQxKulFO0tLknGqqRAzXpvVXDD1bODcHOVu8nyscOw8PkO5GIGY9vRV86ohGu36/jBUUQTJB9llmvdV9ZEmkRIXutGSVA+KMHhYA4boH2W4A=;lg760jWuN6YZglhQkSDUuQ=="
 ---

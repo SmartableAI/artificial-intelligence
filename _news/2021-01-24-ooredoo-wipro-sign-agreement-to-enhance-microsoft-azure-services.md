@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Cruise, GM Partner With Microsoft For Use Of Cloud Computing In Self-driving Vehicles"
-excerpt: "(RTTNews) - Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of"
-publishedDateTime: 2021-01-20T05:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cruise-gm-partner-with-microsoft-for-use-of-cloud-computing-in-self-driving-vehicles-1029984576"
-webUrl: "https://markets.businessinsider.com/news/stocks/cruise-gm-partner-with-microsoft-for-use-of-cloud-computing-in-self-driving-vehicles-1029984576"
+title: "Ooredoo, Wipro sign agreement to enhance Microsoft Azure services"
+excerpt: "Ooredoo Qatar, a Microsoft Gold Certified Partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company,"
+publishedDateTime: 2021-01-24T04:44:00Z
+originalUrl: "https://thepeninsulaqatar.com/article/24/01/2021/Ooredoo,-Wipro-sign-agreement-to-enhance-Microsoft-Azure-services"
+webUrl: "https://thepeninsulaqatar.com/article/24/01/2021/Ooredoo,-Wipro-sign-agreement-to-enhance-Microsoft-Azure-services"
 type: article
-quality: 44
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Peninsula
+  domain: thepeninsulaqatar.com
 
 topics:
-  - AI in Autos
-  - AI
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://thepeninsulaqatar.com/images/front/whatsapp.png"
+    width: 400
+    height: 284
+    isCached: true
 
 related:
   - title: "Yellow Messenger integrates Microsoft Azure cognitive services on its platform"
@@ -597,20 +598,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Ooredoo, Wipro sign agreement to enhance Microsoft Azure services"
-    excerpt: "Ooredoo Qatar, a Microsoft Gold Certified Partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company,"
-    publishedDateTime: 2021-01-24T04:44:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/24/01/2021/Ooredoo,-Wipro-sign-agreement-to-enhance-Microsoft-Azure-services"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 54
-    images:
-      - url: "https://thepeninsulaqatar.com/images/front/whatsapp.png"
-        width: 400
-        height: 284
-        isCached: true
   - title: "Microsoft collaborates with Yellow Messenger to transform voice virtual assistants"
     excerpt: "Yellow Messenger has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services and NLP tools."
     publishedDateTime: 2021-01-19T13:41:00Z
@@ -664,6 +651,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 49
+  - title: "Cruise, GM Partner With Microsoft For Use Of Cloud Computing In Self-driving Vehicles"
+    excerpt: "(RTTNews) - Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of"
+    publishedDateTime: 2021-01-20T05:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cruise-gm-partner-with-microsoft-for-use-of-cloud-computing-in-self-driving-vehicles-1029984576"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "GM Teams Up Wtih Microsoft On Cruise Self-driving Vehicle"
     excerpt: "General Motors announced Tuesday it is joining forces with Microsoft on its Cruise autonomous driving venture, with the tech giant coming on board as an investor and technology partner as it pushes to commercialize self-driving technology."
     publishedDateTime: 2021-01-19T14:10:00Z
@@ -980,6 +976,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "G+nwJek74DkSJ41UDQNY/47st4WQgPCpyds7pi4/6azTsJFulb0otsxQXheAzMd650AQtgRkDIo6sDEL7fIl9Va8HN34HMHOY1Sy/9BBzKKwkBi8xtNszTADcpPV+gqEvT0LSdFkvt1jXhCTRULd9d0+cCYHKBSH88ED4lJ8eFyy+E7tao+ri/+352y62XQ1vinp4XH5LXkvGHs/bPHagfRxpyR5AXQZe/xwZsIA2Fq/zmxhhzeuyZym4XUKYEQ+uZQIhwZ4pGy7Nx79ftT5ppRh1KMasP/ss8n98PXsU9ADa5qTnlI1dwbamvoOXEBcFNKyZbl2wXm/sf9L728h+ioTo9JvS65f2xuKTHH3HHk=;LyjqqhtVXAhYMqwC6n62Rg=="
+secured: "50QS66q7NYZMM1kOI/3d8tyN3Hsv+olHKl2gT0ewluj9rxnfqvwjEdCBXKZ5V83ntL0/5b3IrPXhnrLMNoBovT0tXEDKk1M56dURUiKXh14QnPrt8KVD3qWgO86qyiV5u3oO6kRglGEisvzWvpyty+d8+W26rZg6gB1xfY8pHILYPenqzMIhI12M3c94QwC0jdvGCJi4LaxHjVIyZPss+VwRC9nUZ7MukqTquw35fZ4QZriCzEobBUDta14n7unq0oAJdf3lVy3mQYBQIDvzWAqN9RU3V0JOfO9vn58nge++gZOmWm8VLG473wMB5J2892ZvfArIhdoeDUO4KVqcTHK9ldhg0oG3B5LaNK2RjS0=;B0Fa1h0gNMF13tS268TugA=="
 ---
 
