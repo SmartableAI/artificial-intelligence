@@ -1,31 +1,30 @@
 ---
 category: news
 title: "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
-excerpt: "The IDC report recognizes the advantages of 4Paradigm machine learning platform and AutoML products in technological accumulation, enterprise-level product layout, commercial implementation ..."
-publishedDateTime: 2021-01-21T05:02:00Z
-originalUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020"
-webUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020"
-ampWebUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020?amp"
+excerpt: "IDC, a premier global provider of market intelligence, has recently published China AI Software and Application (2020 H1) Report (hereinafter referred to as \"Report\"), where 4Paradigm as an AI innovator recognized for its software standardization level,"
+publishedDateTime: 2021-01-21T04:43:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+webUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
 type: article
-quality: 34
-heat: 34
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
-    isCached: true
-
-secured: "94Wky4CJfp3oHKd2Chi8JSBD9sHAbwF9OMNrgEt7JVGt8rYnrGBAr9EpJC9o7ZK5ZxfKY4kb97hYhXcAmc6BmY3wMAHwN5eU02YjoXT/5NaB7z/cKT64hEaqjkcvoP7wP6IpMeSrwwnDjm5u6KD68RTsvGVPLfPaFUzSnlxwzmpVYc8J5vHLrnAVuWAAMz9hxlyDltTwOx4GiugphP0TeU11auLbl1785qYhzLB79CT1V0gkOZ7He9wUweOT+1KHKsSmFHzmPsZozgdA7Uk4NZ/IqNB28xUDrP9QypN15CVo45c1/Ru38xdGXGa4VaAjF4sO2gfCvlovhohMAfP14Rh+jMfW/0QpDEmFYhac3eE=;+9hw2eYKgKJc0BqhvuuDLg=="
+secured: "UAFviSGDnB3eI0h5VdTU2EIGlF3YjGJ4DYhRjEbqURe7dGhoIK0s3J6SZQKYi2VnHs2C/QtyXhvC2k7kbhhbagasqltOXNJ6v+LgpO8QqIhHBEo2FBFNsYnti2Qy0hFGup0HMAC9EwAne1YnXDwrdEEiabPPnz2yBkfi3sjMS+/VcxnYTIzkSIyPy+2sKb8j7z42rHHGlfyN0URJ84NWXndPHxDm9DoVzxonNK5ICreGBcLc8uSbEsvOCzQiZHUO8gTRNZV9wRf7/gE/raPSA6IHHu2A9jW3krNnmPkYukAMzXxLTTllWCNLFMJKQ7NQbuxloi1ETsFdYi4VUn1aozWljq3ELBlDMIC0eCgV+Qs=;rrfCGdsKLcxBEwk/nJ9YnQ=="
 ---
 

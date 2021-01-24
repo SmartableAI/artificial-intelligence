@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-19-how-to-manage-your-power-bill-while-adopting-ai.md",
+      "title": "How to manage your power bill while adopting AI",
+      "excerpt": "Because AI and ML tend to run intense calculations at very high utilization rates, power and cooling costs can consume a higher proportion of the budget than an IT group might expect. It's not a new problem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.html",
+      "originalUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/server_virtualization_digital_data_center_cables_by_matejmo_gettyimages-879865932_1200x800-100768150-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html",
+      "publishedDateTime": "2021-01-19T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-technology-to-track-passengers-ceo.md",
       "title": "Delhi Airport evaluating 'computer vision' technology to track passengers: CEO",
       "excerpt": "Delhi Airport is evaluating computer vision technology to track passengers, reduce waiting time and ensure social distancing at terminals, a top official of the facility's operator informed | NewsByte",
@@ -1140,57 +1185,6 @@
         "name": "The Free Press Journal",
         "domain": "freepressjournal.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-how-data-and-ai-can-help-create-a-mobility-renaissance.md",
-      "title": "How Data And AI Can Help Create A Mobility Renaissance",
-      "excerpt": "Evangelos Simoudis’ latest book Transportation Transformation: How Autonomous Mobility Will Fuel New Value Chains, meticulously presents the case for redefining mobility value chains globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60045ed8592ed21731f31ce5%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
-      "publishedDateTime": "2021-01-17T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

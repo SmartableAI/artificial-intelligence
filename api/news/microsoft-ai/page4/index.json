@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-03-halliburton-advancing-digital-supply-chain-in-another-collaboration-with-accenture.md",
+      "title": "Halliburton Advancing Digital Supply Chain in Another Collaboration with Accenture",
+      "excerpt": "Halliburton Co., the largest Lower 48 completions expert, is accelerating its digital supply chain and extending it into manufacturing in another",
+      "sourceUrl": null,
+      "webUrl": "https://www.naturalgasintel.com/halliburton-advancing-digital-supply-chain-in-another-collaboration-with-accenture/",
+      "originalUrl": "https://www.naturalgasintel.com/halliburton-advancing-digital-supply-chain-in-another-collaboration-with-accenture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.naturalgasintel.com/wp-content/uploads/2020/12/3-halliburton-site-20201202.png",
+          "width": 540,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Natural Gas Intel",
+        "domain": "naturalgasintel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-ipo-launch-c3ai-proposes-terms-for-504-million-ipo.md",
       "title": "IPO Launch: C3.ai Proposes Terms For $504 Million IPO",
       "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
@@ -1373,49 +1416,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-in-2021-it-leaders-will-contend-with-back-to-work-tech-ai-and-zero-trust.md",
-      "title": "In 2021, IT Leaders Will Contend With Back-to-Work Tech, AI and Zero-Trust",
-      "excerpt": "Back-to-work technology: No one knows when the COVID-19 pandemic will end, but more businesses were reopening their doors to employees and customers in the fall of 2020, and that’s set to accelerate next year.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust",
-      "originalUrl": "https://biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202011/BTQ420_Trends2021_hero1.jpg?itok=w04SEQqS",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust?amp",
-      "publishedDateTime": "2020-11-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,102 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-12-04-ready-to-enter-a-new-era-of-ai-ready-smartphones.md",
+      "title": "Ready to enter a new era of AI-ready smartphones?",
+      "excerpt": "The Qualcomm Snapdragon 888 chip will let handsets take high-resolution photos faster and perform AI-related tasks more efficiently",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
+      "originalUrl": "https://techwireasia.com/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_1562699506-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
+      "publishedDateTime": "2020-12-03T16:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-using-jax-to-accelerate-our-research.md",
+      "title": "Using JAX to accelerate our research",
+      "excerpt": "Here we share our experience of working with JAX, outline why we find it useful for our AI research, and give an overview of the ecosystem we are building to support researchers everywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/using-jax-to-accelerate-our-research",
+      "originalUrl": "https://deepmind.com/blog/article/using-jax-to-accelerate-our-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/ZaEyeo80XRS5DaGC-T2Ex2B1kdrfwK-93Md7sqf9ijfb4AU88Zu61yFOhTRnhRKCOR2OQ0z2QQmUdWxrT4XXe_QTP_X1HJSVfpqe",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-daily-crunch-google-fires-co-lead-of-its-ethical-ai-team.md",
       "title": "Daily Crunch: Google fires co-lead of its Ethical AI team",
       "excerpt": "Google fires a leading researcher, Stripe launches a new banking service and WarnerMedia shakes up the theatrical business model. This is your Daily Crunch for. The big story: Google fires co-lead of its Ethical AI team Timnit Gebru,",
@@ -1079,110 +1175,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-self-driving-cars-being-tailgated-by-obnoxious-human-drivers.md",
-      "title": "Self-Driving Cars Being Tailgated By Obnoxious Human Drivers",
-      "excerpt": "Human drivers tailgate self-driving cars, but this bodes for big trouble. getty. Let’s talk about those obnoxious people that insist on driving their car as though it is an exte",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc85171be22ff9f9a86dc61%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D5250%26cropY1%3D441%26cropY2%3D2859",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/",
-      "publishedDateTime": "2020-12-03T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-microsoft-unveils-azure-purview-a-new-data-governance-platform.md",
-      "title": "Microsoft unveils Azure Purview, a new data governance platform",
-      "excerpt": "Aside from the introduction of the new data governance platform termed Azure Purview, Microsoft has also announced that its Azure Synapse Analytics service has reached general availability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform",
-      "originalUrl": "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329614_azure-3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/",
-      "publishedDateTime": "2020-12-03T05:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

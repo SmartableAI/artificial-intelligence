@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-18-the-next-stock-market-crash-is-rooted-in-this-cognitive-misconception.md",
+      "title": "The Next Stock Market Crash Is Rooted In This Cognitive Misconception",
+      "excerpt": "In my view, the problem is a widespread and increasingly spreading cognitive distortion ... to sleep soundly despite the high valuations. Microsoft, in particular, has seen that such companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4395384-next-stock-market-crash-is-rooted-in-this-cognitive-misconception",
+      "originalUrl": "https://seekingalpha.com/article/4395384-next-stock-market-crash-is-rooted-in-this-cognitive-misconception",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise.md",
       "title": "Microsoft Teams: Switch on new AI-powered noise suppression to cut out unwanted background noise",
       "excerpt": "Microsoft has trained its algorithm to identify more than 150 annoying background noises and stop them from interrupting your calls.",
@@ -1345,49 +1379,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-halliburton-advancing-digital-supply-chain-in-another-collaboration-with-accenture.md",
-      "title": "Halliburton Advancing Digital Supply Chain in Another Collaboration with Accenture",
-      "excerpt": "Halliburton Co., the largest Lower 48 completions expert, is accelerating its digital supply chain and extending it into manufacturing in another",
-      "sourceUrl": null,
-      "webUrl": "https://www.naturalgasintel.com/halliburton-advancing-digital-supply-chain-in-another-collaboration-with-accenture/",
-      "originalUrl": "https://www.naturalgasintel.com/halliburton-advancing-digital-supply-chain-in-another-collaboration-with-accenture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.naturalgasintel.com/wp-content/uploads/2020/12/3-halliburton-site-20201202.png",
-          "width": 540,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Natural Gas Intel",
-        "domain": "naturalgasintel.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

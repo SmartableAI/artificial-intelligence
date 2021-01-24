@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
-excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2021-01-19T19:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
+excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
+publishedDateTime: 2021-01-19T19:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
-images:
-  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
-
-secured: "Sdta5exj8tbv80rgvo+QNMaOfzPk8VPC8X8/BXAMNmWII3Zzoe2DMzyWc/QEP+y/Y22rqpOOT3SdKwEOa+stsIumJq92akYYitaGowcb+4gNyqiQdey7gxl5ovEhKMlm3Z7a1GgUcTcpD1km7ogB+sqUHQQ7gqTKeJaoQoi8NWFCCzsB+alZVKmVMt+s8VVIL+/VUDYUwKjV1SBid97jtLz4KU4012Pi9QscbE4f4iVzzf7XvXypl1qQUNfTSVbxUiKXHgApjnYa9yKDIC3COapybAH3uMIqzishAU5MoAfLagu1CLC4vARkRTDS4WqNobTqhuXPPmdmvDzlxmm71TeBJB3C58AV+tiiQGCciMg=;f+y3arnNNErNb7JTr1hHxA=="
+secured: "KVrZfGb2LlJpqKyI4kGXUmhYHnIdOEs6EJX9I1mYDN+fPAqzpQP18TOiVcE2Nl7u2s32k9zQE7GHYLtwxKegMfmXhC1w6+PROnvflkW5Cop079Qu6iKMxNIolyk/VCcWmu87+RDbc9pD2sXmhtYEc96ud8a/zdMhYE7WaWzU2oROIRYbjrrsCOZur1fkik5WzOnsTdevCGJoa/a1Ddm4TfeWdYRxgcBDXGdVUBO8fXV7RXZrYApOw2XtpIpKo1OT0d0IT4go0S6eaLrDEGugGkZksoiqS7++u0N5alU5C0LvqZRLVuithsenaxMZzg1u9ACFREvUcN4LJxACY5bS23E27DxKKLk80wvKtDp9fN0=;WsjgZaEajc1SLJkm7y1J6A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/trump-pardoned-church-of-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "An intro to the fast-paced world of artificial intelligence"
-    excerpt: "In two years, the MIT Quest for Intelligence has allowed more than 300 undergraduate students to explore AI in its many applications through the Undergraduate Research Opportunities Program."
-    publishedDateTime: 2021-01-19T21:09:00Z
-    webUrl: "https://news.mit.edu/2021/intro-fast-paced-world-artificial-intelligence-0119"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202101/fall-2020-urops.png"
-        width: 1800
-        height: 1200
-        isCached: true
 
 secured: "/8kZmUCCR3c51uzhErF3tXM08yYLors5D99VfDEq/ngd4IyMHinW1F5zV+9gVMeGC7AcYb1a+1QVISYOLrBAOTsJMlKmPjKjHSBT1u2XfMBYi+9RsvI1X/kXj8Fgb06vlHF+Qh7ZZXh+S4ud8S1pbnUVD7QZZjyuDYFiX8HWgQin693ohYDT+LlPoB/tnXcxT7lmzE2AUqtOZV/v0ZqS4gezMD+h3PGmbcDr0b9M/Bj0zYFA0gfRq5WdmfSjRKzjSTBipkZnz4GVgq9Ras5BUGvMNlo14dMaax70sDUbW9olwjo+KCx8JJMY8JPLtG5JTOYUy77LAnp8BiKO2hsC9IozEuzA92yLAq0Lh2wNtmxpYC4GXzEV5kEMp7aWtZA9FfuIkoStStL88W5+leLniELWhppsRDJr2lWrd3XqaXCI9WWjYkg8r9awuMOEJyTNW/FON6sDXH8iC96DeS6ZM9oraC0S5CnHKVma3G51PbLP/fN6uIND6d22Z6ayuO8Yf8NOSWtXnI0f0y7hvAkyUw==;J2bZShRIp6dBjsrXIwyY8A=="
 ---

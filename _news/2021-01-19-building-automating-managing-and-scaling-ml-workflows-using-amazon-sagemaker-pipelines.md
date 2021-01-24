@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-automating-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/"
 type: article
 quality: 97
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/19/Amazon-SageMaker-Ground-Truth-7.jpg"
         width: 785
         height: 378
-        isCached: true
-  - title: "Building predictive disease models using Amazon SageMaker with Amazon HealthLake normalized data"
-    excerpt: "In this post, we walk you through the steps to build machine learning (ML) models in Amazon SageMaker with data stored in Amazon HealthLake using two example predictive disease models we trained on sample data using the MIMIC-III dataset. This dataset was developed by the MIT lab for Computational Physiology"
-    publishedDateTime: 2021-01-19T22:13:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-predictive-disease-models-using-amazon-sagemaker-with-amazon-healthlake-normalized-data/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/14/ML-1832-1.jpg"
-        width: 720
-        height: 405
         isCached: true
 
 secured: "mzqH3wwG0VHbC6OWm8RN3ErPFRUEf/0aRt0PGpOvD4GE2BuRcIcLNsa7LanUcjnbc/YqpEGdy7+ELrX+BZNgdVjFdG1wH+ek0eaEuIITAkAX2uiCyVyewBGASXsuvGD8rL4Evz0GzCCnDtxJlKscU3hAGNhjwBH/bc3QI/sUkGXM0R3s7mIXiGNf9rWjQW+xRR5oI+a8rLpI2YkOESUf7RlUivk66wCppfWVP2FADwr2V45xr0OWh6aGysyQR7qirMqYfwgd2qVyAxEHsOfjZM2OV54WIeZ75nkelSMuCEg7gogxViv54C3lCOf323nVVsQDYnHOKuql1pwzZOk1lMAPxNKI9G4+K1fbQF861C4=;4BL3Ylpl34yJEux9g39x+A=="

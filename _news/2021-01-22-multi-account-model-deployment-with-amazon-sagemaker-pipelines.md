@@ -57,20 +57,6 @@ related:
         width: 785
         height: 378
         isCached: true
-  - title: "Building predictive disease models using Amazon SageMaker with Amazon HealthLake normalized data"
-    excerpt: "In this post, we walk you through the steps to build machine learning (ML) models in Amazon SageMaker with data stored in Amazon HealthLake using two example predictive disease models we trained on sample data using the MIMIC-III dataset. This dataset was developed by the MIT lab for Computational Physiology"
-    publishedDateTime: 2021-01-19T22:13:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-predictive-disease-models-using-amazon-sagemaker-with-amazon-healthlake-normalized-data/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/14/ML-1832-1.jpg"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "pmQ23H9v5wEwWMcvzEtOtgZgrHfo9oRCCJZzmT/p8BOgT/H/+YElyoWdYBl1V083rZ9rAkxdbwX30qHJar0CvFAfX8rFSp1Bxm2uEA1g0NmHjokdbW8gvfXjZQ3KLluD0dfOoDdwX432nxIol/5tYb+cQAH9e4k56nm3EhywGh15gYpiB8qmpzkPcAx/6IkLyrgFUmwsKm9VZ1e/pTsQhRhJsqXmQfWEKIV6PH8kAF6ItxMIEsrIGAh5T68M7e4W/hGYzmHeURi1l4AWjfXb1wBXaYXlo8YMi/QmsXdfg0JP71KadvAPjb5je/T4p9TdZUeM9l6K5kYJk+8LKvdQzP1s0VmYY4m5KSKcFXLtAzI=;/bqEFJa29xGSjMebo7FFzw=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience.md",
+      "title": "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience",
+      "excerpt": "\"With Microsoft Teams driving better collaboration ... built on trending technologies such as computer vision, cognitive services, big data, and data science. Our continuous effort to align ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook",
+          "width": 1460,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70.md",
       "title": "Microsoft Azure helps Irctc chatbot boost user experience by 70%",
       "excerpt": "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent.",
@@ -1330,40 +1373,6 @@
       "provider": {
         "name": "Autocar Pro",
         "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-the-next-stock-market-crash-is-rooted-in-this-cognitive-misconception.md",
-      "title": "The Next Stock Market Crash Is Rooted In This Cognitive Misconception",
-      "excerpt": "In my view, the problem is a widespread and increasingly spreading cognitive distortion ... to sleep soundly despite the high valuations. Microsoft, in particular, has seen that such companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4395384-next-stock-market-crash-is-rooted-in-this-cognitive-misconception",
-      "originalUrl": "https://seekingalpha.com/article/4395384-next-stock-market-crash-is-rooted-in-this-cognitive-misconception",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

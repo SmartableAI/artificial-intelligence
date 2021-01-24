@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Twenty20 Solutions introduces edge AI face biometrics and object recognition"
-    excerpt: "Twenty20 Solutions is now able to provide cutting-edge face biometrics and object recognition solutions powered by advanced machine learning methods."
-    publishedDateTime: 2021-01-19T21:30:00Z
-    webUrl: "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Face recognition Tech and biometrics under the microscope at FTC | Wiley Rein LLP"
     excerpt: "Face recognition Tech and biometrics under the microscope at FTC | Wiley Rein LLP On January 11, 2021, the Federal Trade Commission (FTC)"
     publishedDateTime: 2021-01-20T22:32:00Z
@@ -73,34 +59,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
-  - title: "Sensory natural language recognition, voice biometrics design platform launches"
-    excerpt: "Sensory has officially introduced a new voice user interface creation platform that can help developers implement voice biometrics to its portfolio."
-    publishedDateTime: 2021-01-19T21:33:00Z
-    webUrl: "https://www.biometricupdate.com/202101/sensory-natural-language-recognition-voice-biometrics-design-platform-launches"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
-        isCached: true
-  - title: "Blanket bans on face biometrics use by private sector unhelpful, digital privacy group argues"
-    excerpt: "Robust regulation can ensure private sector use of facial recognition that balances people’s freedom to use biometric technology with its risks, argues the EFF."
-    publishedDateTime: 2021-01-22T22:21:00Z
-    webUrl: "https://www.biometricupdate.com/202101/blanket-bans-on-face-biometrics-use-by-private-sector-unhelpful-digital-privacy-group-argues"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 13
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640

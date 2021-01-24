@@ -43,20 +43,6 @@ related:
         width: 760
         height: 429
         isCached: true
-  - title: "The building blocks of Microsoft’s responsible AI program"
-    excerpt: "The post The building blocks of Microsoft’s responsible AI program appeared first on The AI Blog.\n"
-    publishedDateTime: 2021-01-19T22:49:11Z
-    webUrl: "https://blogs.microsoft.com/on-the-issues/2021/01/19/microsoft-responsible-ai-program/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/5/2021/01/CELA-MOI-Blog-image_-1.15.20-1024x694.jpg"
-        width: 1024
-        height: 694
-        isCached: true
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
     excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
     publishedDateTime: 2021-01-21T15:03:00Z
@@ -139,22 +125,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "GM, Cruise Team Up With Microsoft For Driverless Car Tech"
-    excerpt: "Microsoft is joining GM, Honda and other institutional investors for a combined new equity investment of more than $2 billion in Cruise, the San Francisco-based autonomous start-up. Their common goal,"
-    publishedDateTime: 2021-01-19T22:50:00Z
-    webUrl: "https://www.carscoops.com/2021/01/gm-cruise-team-up-with-microsoft-for-driverless-car-tech/"
-    ampWebUrl: "https://www.carscoops.com/2021/01/gm-cruise-team-up-with-microsoft-for-driverless-car-tech/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/gm-cruise-team-up-with-microsoft-for-driverless-car-tech/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 76
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/01/gm-cruise-and-microsoft-self-driving-tech-4-1024x554.jpg"
-        width: 1024
-        height: 554
-        isCached: true
   - title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
     publishedDateTime: 2021-01-20T00:25:00Z
@@ -168,20 +138,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
-    publishedDateTime: 2021-01-20T06:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
     excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."

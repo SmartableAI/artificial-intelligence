@@ -2,6 +2,94 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-09-xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket.md",
+      "title": "Xanadu's PennyLane brings Quantum Machine Learning to Customers with Amazon Braket",
+      "excerpt": "PRNewswire/ - PennyLane, Xanadu's open-source software for differentiable quantum computing is now integrated with Amazon Braket, a fully managed",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-aws-leverages-gaudi-ai-processor-to-reduce-cost-of-deep-learning-models.md",
+      "title": "AWS leverages Gaudi AI processor to reduce cost of deep learning models",
+      "excerpt": "As the use of machine learning grows and gains complexity, the cost and time of training models can be challenging for enterprises. Amazon Web Services Inc. announced that its EC2 will be powered by Gaudi accelerators from Habana Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Chetan-Kapoor-and-Eitan-Medina-AWS-re-Invent-2020.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-oceania-treats-climate-change-like-a-machine-learning-grand-challenge.md",
       "title": "OcéanIA treats climate change like a machine learning grand challenge",
       "excerpt": "Oceanographers and AI researchers are working together for OcéanIA, a four-year project to understand oceans and the impact of climate change.",
@@ -1362,112 +1450,6 @@
         "Machine Learning",
         "AI Hardware",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-translation-is-trickier-for-business-and-artificial-intelligence-can-help.md",
-      "title": "Translation Is Trickier For Business, And Artificial Intelligence Can Help",
-      "excerpt": "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
-      "publishedDateTime": "2020-12-01T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training.md",
-      "title": "Amazon debuts Trainium, a custom chip for machine learning training",
-      "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
-      "publishedDateTime": "2020-12-01T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

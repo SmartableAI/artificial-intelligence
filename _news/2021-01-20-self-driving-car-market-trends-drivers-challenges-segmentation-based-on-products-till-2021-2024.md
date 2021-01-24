@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Drug R&D Market: Key Industries Are Expecting To Recover From COVID-19 Outbreaks 2021-2030"
-    excerpt: "Market.Biz :The Artificial Intelligence Drug RD Market research study explains and justifies all tools and techniques by a market competitor that may proceed with your further research. It involves the learning of various techniques to conduct Artificial Intelligence Drug RD industry research and acquiring knowledge to perform different test cases,"
-    publishedDateTime: 2021-01-19T22:19:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-new-products-and-services-f0f818e5217ff4fd637ceddddeb877ae"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Voice Recognition Market Improvement, Orientation and Forecast To 2030 | Apple Inc, BioTrust ID B.V."
     excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Voice Recognition | eTurboNews | Trends | Travel News Online |"
     publishedDateTime: 2021-01-20T05:21:00Z
