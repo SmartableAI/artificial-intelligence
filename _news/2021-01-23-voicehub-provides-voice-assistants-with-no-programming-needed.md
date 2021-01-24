@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/voicehub-provides-voice-ass
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/voicehub-provides-voice-assistants-with-no-programming-needed/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: ZDNet
@@ -38,22 +38,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2021/01/Splice-Machine-Launches-the-Splice-Machine-Feature-Store-to-Simplify-Feature-Engineering-and-Democratize-Machine-Learning.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Sensory’s VoiceHub Will Boost Accessibility For Voice Assistants"
-    excerpt: "Sensory released VoiceHub, and the portal will allow users to add a natural language voice user interface (UI) to anything, with the help of vocabulary additions."
-    publishedDateTime: 2021-01-20T03:21:00Z
-    webUrl: "https://www.pymnts.com/voice-activation/2021/sensory-voicehub-will-boost-accessibility-voice-assistants/"
-    ampWebUrl: "https://www.pymnts.com/voice-activation/2021/sensory-voicehub-will-boost-accessibility-voice-assistants/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/voice-activation/2021/sensory-voicehub-will-boost-accessibility-voice-assistants/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/shutterstock_708158770-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
 
 secured: "tz45bhBZdHUL4KGDN4XcGTevFCofXPi0TDL7d+wycRS6ZGFHjRpUAyi4xDypu1kYJY8nxxUIAV/bfRnmP/mJbog4QWkh3TnOAvxwy7UwKm8svUaICzTyEwa3K3kLyzKC6LsQrTi9MTuhHwUWe/Ix32zWrCsBEHVVkiR2sitFB00r9RvjANw5jnpCTdQTeGTonWUjcfyPq+GcA0tOqt8F+NGlb7ss3BO7IscNCgwsmpC6E27uBHVQafYXXtEgOdQlIAFZxQTcyekyucIJQ06l69Ebmt+qrCBreOnQMiC/aeZk7UwduAtGvW7VXe9K+g13YiVfDdj2eVS0nneaWbBOkcwTjk9p2Dzlm8AE44kOZLGPYBqZ1fhRUro9Cnsf/gCeDd1bukofqSdsBOYm+gy0tSNKsRN2TNuagM9zO5K581sOK9w/kI0Iqyn0c5rQcq9Cc/WnDh0b15H5Niyq2OBvIxk0sSle9nQiBmw+MG9BGAaUDD3MgLw1Y4+HeHzgP0FDZQCF4STN63soYOxxcF+dvg==;2nsGZkhNpY4gN46OthMx9Q=="

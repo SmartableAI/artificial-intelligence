@@ -3,8 +3,8 @@ category: news
 title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
 excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
 publishedDateTime: 2021-01-20T00:25:00Z
-originalUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO"
-webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO"
+originalUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO"
+webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO"
 type: article
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "A83DrHRDkUtOkNm+AtbC0x9I4kotJjKAmekPLIZSzRydERyKpLFHJ+mbnnkCom9nM7Jd3SHZhRkkZLDLsZYFPsEyiyZebjMUsoKqmoRODOfCFvrIxKeVgFxQwglBiEptptkzjO9rzyrmDkkh0q1jOe4heck/WJqQb8LrdNySsi5qoLlYDd9fkNM8rGOdEfJlTZ1CjN3q1M67PfbvBJa38WSI7t1djwPixOChaD9K52bOyg94dF9Wj+Y8z2Ubhzeu0+YfOWYVurWR43LdT2RWEx47cqYCjD3+EY6poArX9yC+U7e1XOeU+46LGiSVJMQYL5UuP3Y7NVBA2WdFiNriaBIgKgx3jQTgSdeDD6KtJMagyTjnqyOZjJjuN5BqgJnxAu06EcDVmXcDrxyOYOMvBem61conTtl65KUBSOe7BKuyyKcAiqreH96i8ANJbJ+7DNdeWOZVt23SRKGjpo8ubyp16H1UWvtwieGicvPCXZWhD2nRTKFVoYRxylIZ4Rzw/V19TWeAvjYrBu0WZAFmJg==;F/l6jCGtNse0j0J6OrsbNg=="
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
+    width: 800
+    height: 533
+    isCached: true
+
+secured: "fNGsLW20HIVeGwnZ6wkOwcfjDBAojfKy70M+eUE6qbi/L+Rxxxzp7ro9JqREHekX4ZtrYpW9rjURjMfWgDWVX5Gd3s1y2dwuGHJYTqzULuJN8XQ89GYuRhrSBJi2gTbtU7bdW8+w36KdNROIQKPpT+r2M9fnnZn9AV8VEDTr8QP/SxjXbC9fLSWwrGnePg4F70wZEXozWKCmHr9wr7LzPlhyxWDRHa3Wb7ztdmRUxeOv3foyaKv4Di+AsySPOrH8HLdqciPCLbMfqE1wPF6CSZIqdOgEhL03KeUjWggXnQSGBX2YAr7MYxEeg2EiP1sblV1JTyKDkYwy4VldH3t9gJeEDWGdpqhRObfeSjqkxF4=;hH/1hsQZjXsiNbH7X3e8rQ=="
 ---
 

@@ -2,40 +2,6 @@
   "page": 76,
   "value": [
     {
-      "path": "_news/2020-11-20-reveries-prabandhak-scores-silver-in-the-iamai-design-summit-leadership-2020.md",
-      "title": "Reverie's Prabandhak Scores Silver in the IAMAI Design Summit Leadership 2020",
-      "excerpt": "In the category of Industry and Innovation Design, Reverie Language Technologies scored a Silver Trophy for its product Prabandhak, an AI-powered translation management hub for Indian languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/reveries-prabandhak-scores-silver-in-the-iamai-design-summit-leadership-2020-70475.html",
-      "originalUrl": "https://www.businesswireindia.com/reveries-prabandhak-scores-silver-in-the-iamai-design-summit-leadership-2020-70475.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T04:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-20-using-machine-learning-to-predict-and-detect-fraud.md",
       "title": "Using Machine Learning To Predict And Detect Fraud",
       "excerpt": "No matter the type of fraud, machine learning is a powerful tool to keep it from becoming a serious problem — regardless of how our circumstances may change.",
@@ -1181,6 +1147,58 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-arm-expands-access-to-endpoint-ai-for-iot-devices.md",
+      "title": "Arm expands access to endpoint AI for IoT devices",
+      "excerpt": "The rise of smartphones and the growing presence of IoT devices share one undeniable similarity, the fact that the Arm ecosystem is the driving force behind both. The chip designer is in a unique position to drive innovation and adoption of IoT due to the fact that Arm technology touches 70 percent of the world's population as 180bn Arm-based chips have been shipped since the company was founded 30 years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "originalUrl": "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg",
+          "width": 600,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "publishedDateTime": "2020-11-19T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

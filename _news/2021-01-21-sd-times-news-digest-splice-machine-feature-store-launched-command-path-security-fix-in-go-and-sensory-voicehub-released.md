@@ -41,22 +41,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
-  - title: "Sensory’s VoiceHub Will Boost Accessibility For Voice Assistants"
-    excerpt: "Sensory released VoiceHub, and the portal will allow users to add a natural language voice user interface (UI) to anything, with the help of vocabulary additions."
-    publishedDateTime: 2021-01-20T03:21:00Z
-    webUrl: "https://www.pymnts.com/voice-activation/2021/sensory-voicehub-will-boost-accessibility-voice-assistants/"
-    ampWebUrl: "https://www.pymnts.com/voice-activation/2021/sensory-voicehub-will-boost-accessibility-voice-assistants/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/voice-activation/2021/sensory-voicehub-will-boost-accessibility-voice-assistants/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/shutterstock_708158770-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "9RO52UEp3vZWxRPCyBb4990wYw1uWNQPnFJ+15e/PjN3eOZ+MIVBpza/cwUtF7HuOT3TXw4/+wXYVRwZYqTqxGg4Vg3+aEK5yPNhSf5mR7qcZB9k4E0lRNDH0lSwDFYOnFzvDgKm7h97EsOJbe2tr+WWGcB2sTdhHvlpiS6vxIrwy9xfULhAQN9BsjhMPstXVm2j1kH/Uu/Ke5xlPaQ+VJm5ARdXajBj5oL5c0iv05YF+aPijjPkka92PaVh868kRgUS+4iH9bnw9USuziw1K7yVKVn771GbrT8gsiDG3UNS9Ffl/pxpqSkNpwz96T0hJ4f2LjvZyvjudVAD02IROe+pb+kDn+S/fZuuETN6+deUtS3EDO+McD5u0WlmDUUqyyPjsCFiO+CoMn9i6aUW4V95pkVO08da/ldVMw9lGan7ELWzZ0G3vTaVZHF0hT70gbW29xChQhY4BjQo3AMeduEYHp2SxBFOi8cSF09CSy7tdboIseDRVQVwAaPbJHtI14zHjDAn1CJ7mc6fakmfGw==;9ek8bwVc1dO3fVov6IHYoQ=="
 ---

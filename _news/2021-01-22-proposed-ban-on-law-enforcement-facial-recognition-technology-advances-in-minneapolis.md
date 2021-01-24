@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Facial recognition system plans for Parliament shelved"
-excerpt: "Given the ongoing Covid-19 situation and safe distancing measures introduced during Parliament sittings, plans for a facial recognition system to track MPs' attendance in Parliament have been shelved."
-publishedDateTime: 2021-01-20T22:06:00Z
-originalUrl: "https://www.straitstimes.com/singapore/politics/facial-recognition-system-plans-for-parliament-shelved"
-webUrl: "https://www.straitstimes.com/singapore/politics/facial-recognition-system-plans-for-parliament-shelved"
+title: "Proposed ban on law enforcement facial recognition technology advances in Minneapolis"
+excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
+publishedDateTime: 2021-01-21T23:44:00Z
+originalUrl: "https://www.startribune.com/proposed-ban-on-law-enforcement-facial-recognition-technology-advances-in-minneapolis/600013504/"
+webUrl: "https://www.startribune.com/proposed-ban-on-law-enforcement-facial-recognition-technology-advances-in-minneapolis/600013504/"
 type: article
-quality: 39
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/20/dw-parl-facialrecognition-210120.jpg?itok=RXHCCkT0"
-    width: 763
-    height: 509
+  - url: "https://chorus.stimg.co/22251394/ows_89490f87_9bba_4404_b792_a88e9b90abaa.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -80,6 +80,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Facial recognition system plans for Parliament shelved"
+    excerpt: "Given the ongoing Covid-19 situation and safe distancing measures introduced during Parliament sittings, plans for a facial recognition system to track MPs' attendance in Parliament have been shelved."
+    publishedDateTime: 2021-01-20T22:06:00Z
+    webUrl: "https://www.straitstimes.com/singapore/politics/facial-recognition-system-plans-for-parliament-shelved"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/20/dw-parl-facialrecognition-210120.jpg?itok=RXHCCkT0"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Ban on facial recognition technology advances in Minneapolis"
     excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
     publishedDateTime: 2021-01-22T15:37:00Z
@@ -93,20 +107,6 @@ related:
       - url: "https://apnews.com/images/ShareLogo2.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Proposed ban on law enforcement facial recognition technology advances in Minneapolis"
-    excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
-    publishedDateTime: 2021-01-21T23:44:00Z
-    webUrl: "https://www.startribune.com/proposed-ban-on-law-enforcement-facial-recognition-technology-advances-in-minneapolis/600013504/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 32
-    images:
-      - url: "https://chorus.stimg.co/22251394/ows_89490f87_9bba_4404_b792_a88e9b90abaa.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Proposed ban on use of facial recognition technology by police advances in Minneapolis"
     excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
@@ -132,6 +132,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "GIvoH9+KBGO32sEkmsWFcYqRfEPcLDZ6Dg6ZkuuC6PRHn4yg7SqoezYonoA1QVc6yWMRKCVwHoLsvd5ruWmX2SOxo3rKIPDjfZ4NEmTn2GClsj2BIRevEmAhrlCvWasohztKcO3pNWU555eIKV+whQA8w1mMwGsG2kzzgARFEwGM/P67cZnuIFivm3DPskSE+Tz+lmvBrCzmxGfjuC/jLWy1ThtunT8mb4sS/09pG1svBxoSbWdLnmoGoKff8SjFHNtpSePgD/6A8YqOUCXfZnYAljyviODThU34vNcIzEawQsJNetj/qBSGlLD4m0do+jVpjkizhpBo9Pi7OlFQKTKz94IlSR4as1otqhJOnmw=;PBvra0KbL7oS2oeDPH951A=="
+secured: "SU2RT8nkBKey3QFhT4NVW+krGOXBRMdiReZnLNdHGGHGxOcLLnOrNJQEygSvllgfwXNmaVIR3SMeggJmGAc8QABi4hZ1ZStkVcsSKgFhtN2AykE6YhQsimCZjy1dAu1zPOFS+E4qjHJf1cyW5LDo4dAK/+V+vWNZwuqHNjTlV1Ge2JtQ0gunabW7k4bm40wyQitNvaPGuDTJSXSAJ3cNhbBopRvIlemKVJG/H4p83UeL3aeiiChENAiNPz3OKjfS+HHepqVW6nyfP5r6XisOqFdFWCbEl6xuNPttoBBvnfzLwPUnglVZmBa4u5mHLrgya44uGgYNc6I9Pn4hqXNtkFqm+cUbOuucxbqt9cpnToU=;vhE6U8o2moDuFjW9Qzww5g=="
 ---
 

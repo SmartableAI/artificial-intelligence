@@ -23,22 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "NTU Singapore start-up commercialises AI algorithm that can detect leaks instantly in gas pipeline networks"
-    excerpt: "A sensor network powered by an artificial intelligence (AI) algorithm developed by scientists from Nanyang Technological University, Singapore"
-    publishedDateTime: 2021-01-20T04:30:00Z
-    webUrl: "https://www.miragenews.com/ntu-singapore-start-up-commercialises-ai-algorithm-that-can-detect-leaks-instantly-in-gas-pipeline-networks/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 19
-    images:
-      - url: "https://news.ntu.edu.sg/News/PublishingImages/NR%20Banner%20Vigti.jpg"
-        width: 790
-        height: 492
-        isCached: true
-
 secured: "ErKw2oSd1Eee55YXR4CEW1vii0rVPy4HhQbNAJhlaZpD6LPKc4U9lEQB0+5UV5JAxnngwfxwpslyAcXNhqUIW+0fRmuo6FDdftDSg3T+zeYR1Pxwoi0RCZnbElbe9j5WlqHXsqmNN8P6IvP6fYNd1edjFzOoFEz6GdtDEpis4cP7s5ElaK490ix1DOCMbzONFq3frKBgGDgr7gJvnZMNE8Y9i/IQDWqxZx4Ha8qLaLRhe1pd6OA4C/pnPXEWpbxtWKqospZRuNsQ32GwzmFWWBvMF4UinE/Rqm9DHJQbcJAJ64Mm+xCFQ4UsMA5zi+ZZlRhFQr+WoQoyTilgo3d/YYB06w1jHLn7ovd/Yn3KJkM=;naiHJprxkyEHvxjfFXw1SA=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-24T17:17:00Z
 originalUrl: "https://menafn.com/1101482499/Seminar-on-Artificial-Intelligence-at-AAFT-University"
 webUrl: "https://menafn.com/1101482499/Seminar-on-Artificial-Intelligence-at-AAFT-University"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25706"

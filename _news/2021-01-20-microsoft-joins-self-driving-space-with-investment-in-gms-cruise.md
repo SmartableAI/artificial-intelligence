@@ -226,20 +226,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Microsoft Invests R29 Billion In GM’s Driverless Vehicle Company Cruise"
-    excerpt: "Microsoft has invested in Cruise, General Motors (GM) driverless car unit, pushing the company's valuation to $30 billion (R447 billion)."
-    publishedDateTime: 2021-01-20T04:51:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/01/20/microsoft-invests-r29-billion-in-gms-driverless-vehicle-company-cruise/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 56
-    images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/01/Cruise.jpg"
-        width: 680
-        height: 453
-        isCached: true
   - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
     excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
     publishedDateTime: 2021-01-20T13:11:00Z

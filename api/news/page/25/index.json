@@ -2,49 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2021-01-01-apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.md",
-      "title": "Apple's 'Back Tap' Patent also explores using new Voice Recognition Technology to control a Future TV by Apple & more",
-      "excerpt": "Today the US Patent & Trademark Office published a patent application from Apple that relates to devices that could be controlled via acoustic vibration. A device could be trained to understand that a user tapping their fingers on a desk in a certain rhythm translates to a command for \"answer call and activate speaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.patentlyapple.com/patently-apple/2021/01/apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.html",
-      "originalUrl": "https://www.patentlyapple.com/patently-apple/2021/01/apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.patentlyapple.com/.a/6a0120a5580826970c0263e98855eb200b-800wi",
-          "width": 793,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-31T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patently Apple",
-        "domain": "patentlyapple.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-01-invents-object-tracking-and-recognition-of-objects-including-in-air-hand-gestures-for-future-hmd-glasses.md",
       "title": "Invents Object Tracking and Recognition of Objects, Including In-Air hand Gestures, for Future HMD & Glasses",
       "excerpt": "Today the US Patent & Trademark Office published a patent application from Apple that relates to a future mixed reality headset device and more specifically to object tracking for an HMD. A future HMD or Glasses will use sensors that could recognize and track objects,",
@@ -1139,6 +1096,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-in-the-cultural-revolution-ai-weiweis-father-burned-the-familys-books.md",
+      "title": "In the Cultural Revolution, Ai Weiwei’s Father Burned the Family’s Books",
+      "excerpt": "What books are on your night stand? This is really a question that gets to me. I don’t have a bookshelf or books next to my bed. What’s the last great book you read? The last great book I read was “Permanent Record,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/03/books/review/03ByTheBook/03ByTheBook-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.amp.html",
+      "publishedDateTime": "2020-12-31T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }
