@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-t
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "6 developments that will define AI governance in 2021"
+    excerpt: "This year is poised to be a highly impactful period for the governance of artificial intelligence (AI). The Trump administration successfully pushed for hundreds of millions of dollars in AI research funding,"
+    publishedDateTime: 2021-01-21T19:00:00Z
+    webUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/"
+    ampWebUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 59
+    images:
+      - url: "https://www.brookings.edu/wp-content/uploads/2017/04/rtx32l58-e1611244906453.jpg"
+        width: 4092
+        height: 2680
+        isCached: true
   - title: "Trends that Will Define Workplace Learning in 2021"
     excerpt: "Udemy highlights some key trends on how workplace learning took shape around the globe and what it means for your organization in 2021."
     publishedDateTime: 2021-01-22T00:19:00Z

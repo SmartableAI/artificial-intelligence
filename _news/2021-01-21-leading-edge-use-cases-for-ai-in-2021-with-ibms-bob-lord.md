@@ -19,51 +19,75 @@ topics:
   - AI
 
 related:
-  - title: "Where AI Is Heading In 2021 For HR Departments"
-    excerpt: "Artificial intelligence is set to become one of the best ways to connect HR with an entire organization and understand each department’s needs."
-    publishedDateTime: 2021-01-19T13:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
+  - title: "Atos links arms with IBM in AI and IoT partnership"
+    excerpt: "French IT consulting and services giant Atos has launched a new strategic partnership with IBM, which it says will help enterprise companies across verticals optimise their business processes using AI."
+    publishedDateTime: 2021-01-21T15:52:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4026132/atos-links-arms-ibm-ai-iot-partnership"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.channelweb.co.uk/api/v1/wps/0a28f61/3e2b0a4a-6213-40b6-876c-80cb420744ae/5/iStock-000003529053Small-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
-  - title: "6 developments that will define AI governance in 2021"
-    excerpt: "This year is poised to be a highly impactful period for the governance of artificial intelligence (AI). The Trump administration successfully pushed for hundreds of millions of dollars in AI research funding,"
-    publishedDateTime: 2021-01-21T19:00:00Z
-    webUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/"
-    ampWebUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
-    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
+  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation with AI and Red Hat OpenShift"
+    excerpt: "Atos and IBM today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos’ vertical decarbonized solution and service delivery assets,"
+    publishedDateTime: 2021-01-19T19:50:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/atos-and-ibm-collaborate-to-accelerate-digital-transformation-with-ai-and-red-hat-openshift/"
     type: article
     provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 59
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 29
     images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2017/04/rtx32l58-e1611244906453.jpg"
-        width: 4092
-        height: 2680
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/Eric-Lander-The-Broad-Institute-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
-  - title: "2021 Will Bring AI, Social Determinants of Health into Focus"
-    excerpt: "In the new year, the healthcare industry will leverage artificial intelligence and social determinants of health data to improve clinical decision-making."
-    publishedDateTime: 2021-01-22T16:13:00Z
-    webUrl: "https://healthitanalytics.com/news/2021-will-bring-ai-social-determinants-of-health-into-focus"
+  - title: "IBM, Red Hat team with French tech giant Atos for cloud efforts"
+    excerpt: "IBM and Red Hat continue to drive for morre business in the growing cloud ecosystem, this time in partnership with France-based tech giant Atos. In a deal announced Tuesday, A"
+    publishedDateTime: 2021-01-19T20:31:00Z
+    webUrl: "https://www.wraltechwire.com/2021/01/19/ibm-red-hat-team-with-french-tech-giant-atos-for-cloud-efforts/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 24
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-942954932.jpg"
-        width: 690
-        height: 400
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
+        width: 577
+        height: 324
+        isCached: true
+  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
+    excerpt: "Atos and IBM (NYSE: IBM ) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos’ vertical decarbonized solution and service delivery assets,"
+    publishedDateTime: 2021-01-19T16:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-cloud-computing-industrial-products-and-services-transportation-and-shipping-e9c2331e90a30f936998b549e9d0b035"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
+    excerpt: "Atos and IBM (NYSE: IBM) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos' vertical decarbonized solution and service delivery assets,"
+    publishedDateTime: 2021-01-20T21:44:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2021/atos-ibm-accelerate-digital-transformation-ai-red"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 13
+    images:
+      - url: "https://www.automation.com/getmedia/935322a3-830a-4623-a198-723ad042f3f9/IBM-Atos-news-Jan-20-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
 
 secured: "B3+cIlh7XorRB8dVHEwVEUoqdl5oYXFNIP1ZczGznL9wDWnJR4ZaqsmYZC7w6qCbse4qcgaixK3ocIJ+mnU14Kk6Bd3RN86iG9mPACPYLQndeh1o1OZwobwB9L2n9cUdUlEixIGpZtxlCXVcVvR3i3gc6I2xLtNsOMG1g0ZIGCGq3iwyJqHYwRX4w7F/B2KKQZYTILl4tXjz6vvb/oBoXpk6jlJt9nJsUrOO8YyyXgb6YKRhJEaiXmcRjqkvFLIAj9O7l4wbaScK1eFFfjKjA8JxF5nsq4PRisHmSYFih88NEc4d1o/1Boh80sVH9F/Q+6JH3VIa+muffSCXhVtebj/CobMwnZoQjGeGy3aG5vs=;ChsdPfXmOXNx3bp3k8QkVw=="

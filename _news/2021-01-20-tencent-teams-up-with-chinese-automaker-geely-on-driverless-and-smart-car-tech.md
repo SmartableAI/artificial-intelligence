@@ -47,20 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Geely, Tencent Deepen Alliance to Include Smart Cockpits, Self-Driving"
-    excerpt: "Chinese carmaker Geely Holding Group will work with partner and internet giant Tencent Holdings on smart cockpits, autonomous driving and digital marketing. The two companies will make next-generation smart cockpits and build connections between smartphones and automobiles relying on Tencent’s mobile internet strengths to provide better services,"
-    publishedDateTime: 2021-01-19T13:58:00Z
-    webUrl: "https://www.yicaiglobal.com/news/geely-tencent-deepen-alliance-to-include-smart-cockpits-self-driving"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 24
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/geely-tencent-deepen-alliance-to-include-smart-cockpits-self-driving/10794160909975552.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "IROmEj+fh6EPcr/cOclM7nbsUsUsgzbe14XRSdXsHqKstAv26jFglzOv4O6Zu1H+rY4msq/qDcxkuoWtkHZW8IzL521rR8sUmbFCgrLnf1tqnPCVxM67AMUf2ZgvAry7g1SxGUqgZFHRf5Ydk1hTQHSVhc9ViuU/ycEx6fzwVh2n0BzrdF6OuUSxszgCa/pVJdb9tCzvNb9XKAURGvvOBGJOfZCCvL0Wv/YYNfw/1mD6f+1VbgnBvilhcN9wPX3JvZXc4Z60/Ax8Hca9FZiuIhHuqfF8IC894pML6hHvIf4guYebuW8c2/ackJpw9pnAkpNIH++NLSGxPlJinBIuRoExuiHt1TasIE5RH7oiGu8=;rvZ+EGtGn6EpPm1fL+lUkw=="
 ---

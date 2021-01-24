@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Being Used In The Legal Industry"
-    excerpt: "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery."
-    publishedDateTime: 2021-01-19T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg"
-        width: 1200
-        height: 831
-        isCached: true
   - title: "How AI Is Modernizing The Collections Process"
     excerpt: "The traditional model's inability to predict which debts will go into collections puts lenders behind the curve. Even worse, when accounts fall behind, this approach applies one-size-fits-all responses that let too many borrowers slip into default."
     publishedDateTime: 2021-01-20T13:20:00Z
@@ -62,51 +46,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How To Find Your Purpose In Life Using Emotional AI"
-    excerpt: "Aliya Grig, Founder of The Human Cosmos, recently released the brand's mental wellness app that uses emotional AI-powered technology to create personalized recommendations to help users find their purpose in life."
-    publishedDateTime: 2021-01-21T18:00:00Z
-    webUrl: "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/"
+  - title: "The Promise of Artificial Intelligence in Precision Medication Dosing"
+    excerpt: "The most compelling approach to solving this important problem to date is with the application of artificial intelligence to enable precision dosing. Precision dosing is an umbrella term that refers to the process of transforming a “one-size-fits-all ..."
+    publishedDateTime: 2021-01-22T16:11:00Z
+    webUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600617850dc6c7010ea3edb3%2F0x0.jpg%3FcropX1%3D47%26cropX2%3D1442%26cropY1%3D0%26cropY2%3D997"
-        width: 1200
-        height: 858
-        isCached: true
-  - title: "Transforming the energy industry with AI"
-    excerpt: "In the oil and gas industry, digitalization is improving project economics and streamlining operations, with AI as the key for sustainable growth and security against cyberthreats."
-    publishedDateTime: 2021-01-21T13:14:00Z
-    webUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/MITTR-Seimens-webart-Cover.png"
-        width: 1500
-        height: 1129
-        isCached: true
-  - title: "How will $1 million in artificial intelligence research impact Florida industry?"
-    excerpt: "The University of Florida announced a $1 million investment into artificial intelligence. Twenty faculty teams will study wide-ranging uses on data analysis in a range of fields from agriculture to education."
-    publishedDateTime: 2021-01-19T19:00:00Z
-    webUrl: "https://floridapolitics.com/archives/396401-how-will-1-million-in-artificial-intelligence-research-impact-florida-industry"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 32
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/melon_aphid01.jpg"
-        width: 500
-        height: 298
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Precision-Dosing.jpg"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "b3S9a3sMOWDXC9ACptogQS7CZio/gQ7QYL6WSLH5Wh9lGxn9RkxX7h26j6hhrIrKmSOwuXbbFcCQ1tZYhO2rLO9aL8sHrcC6Q9VPfOJWebAC2/7S2eS1FyoQGBzNaRf6RjuM7wtgupKuc22KkFslrINID01YeUKobWq0phvdUwZ2N6o6gbRpj5pyocDLtXuubc3R9nR3azpdXM8+NEq+bRw3NFctFepJwV69vauxmeJorzq3v/3oPsrZTRDwwtYQOWfW89U8csv3hwhM/3gVZgdT7dunlcURPmYV5z73CR/rGaVuAWcvZb/iPObHV6YnsbYvvXkIV43bI06gjYWQIbG3GmfDdoNU8tua2KfA5ekmgxPth4ujw6YPiqiZ1Brjj4zOg2k0zHTA22YJ5gkSR7Pa3nWGEUOszDS5k0FIjehf672igA9GoohbJJE5TOkfq97vI1/iMWiCJevjaJh+KkHuHMkxRt5zSkDnea+btDV7F+6epkKb1zR08ZRKrnccT3XlwSn85DWMmIJfNY6jOg==;zoisF7VBUJHRfLZk5Knm5Q=="

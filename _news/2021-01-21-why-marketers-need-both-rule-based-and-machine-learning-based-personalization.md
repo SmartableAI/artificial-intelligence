@@ -24,6 +24,22 @@ images:
     height: 272
     isCached: true
 
+related:
+  - title: "Google Cloud boosts personalised online searches with an enhanced product discovery AI suite"
+    excerpt: "Google Cloud has launched a product discovery solutions for retail, a suite of solutions built to help retailers enhance their ecommerce offerings and deliver highly personalised consumer experiences in the first phase of their shopping journeys."
+    publishedDateTime: 2021-01-20T12:33:00Z
+    webUrl: "https://internetretailing.net/themes/themes/google-cloud-boosts-personalised-online-searches-with-an-enhanced-product-discovery-ai-suite-22589"
+    type: article
+    provider:
+      name: InternetRetailing
+      domain: internetretailing.net
+    quality: 28
+    images:
+      - url: "https://content.internetretailing.net/AcuCustom/Sitename/DAM/048/Google_Thumb.jpg"
+        width: 600
+        height: 400
+        isCached: true
+
 secured: "QOd681Zx/5MdnD7XsG8IxKJVpIBuiGHv7aFc/0LSHpMw3otbwnpCvwVH2H27xrneisaQyOQVSmygnGz64GZUG4Diiv7QtW5fNadUIb26IVHNVlAIp6mJ/DgQ2GIYXwI+IodEWuKxDC4SSCjeYuj2SRI2Iewx1s2Y/jmXe+rTmK3Ky/+JPr/L4Busd8zrWiNPFbmuwQA0wKnf4LT+scsXe+FPyicq96/gkYfPNX1uOjcY3QX8Z2b5kN32GCoX6GO97bbJSHmGXtUQ/T85Kq6mpZdgVLs88XtCyWaBnSBmYRXa7ZKdHbtmcVNWBKGLACuc/06jaFKch7LZRC6OS0bM9bme3refwckIv2vHZblSKMw=;ZYVuSYM9zn6co3Q8HCnk6w=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: TechRepublic
@@ -30,38 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "Health tech company uses Azure and AI to create priority list for COVID vaccination shots"
-    excerpt: "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first."
-    publishedDateTime: 2021-01-19T14:14:00Z
-    webUrl: "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/"
+  - title: "Machine Learning Technique Could Enhance Predictions of COVID-19 Outcomes"
+    excerpt: "Emerging technique holds promise to create more robust machine learning models that extend beyond a single health system without compromising patient privacy"
+    publishedDateTime: 2021-01-21T16:24:00Z
+    webUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912"
+    ampWebUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
+    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 95
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 58
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg"
-        width: 1200
-        height: 797
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24912/aImg/46165/predicting-outcomes-for-covid-19-patients-m.png"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Fintech TrueAccord, Creator of Debt Payments Negotiation Software for Financial Institutions, Reveals Consumer Behavior Changes due to COVID"
-    excerpt: "Fintech TrueAccord, creator of debt payments negotiation software for financial institutions, reveals consumer behavior changes due to COVID."
-    publishedDateTime: 2021-01-22T01:14:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/01/171435-fintech-trueaccord-creator-of-debt-payments-negotiation-software-for-financial-institutions-reveals-consumer-behavior-changes-due-to-covid/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171435-fintech-trueaccord-creator-of-debt-payments-negotiation-software-for-financial-institutions-reveals-consumer-behavior-changes-due-to-covid/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171435-fintech-trueaccord-creator-of-debt-payments-negotiation-software-for-financial-institutions-reveals-consumer-behavior-changes-due-to-covid/amp/"
+  - title: "CHINA AND THE US SET TO DRIVE POST-COVID SURGE IN COLLABORATIVE ROBOT SALES"
+    excerpt: "After an arid 2020, when cobot revenues saw negative growth for the first time, growth is predicted to be of the order of 15-20% year on year up to 2028 • Over half of collaborative robots were shipped to Asia in 2020 • Electronics manufacturing is the largest consumer of cobots,"
+    publishedDateTime: 2021-01-19T16:04:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=16119"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 9
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Computer-Code-Develop-Work-Software-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 34
 
 secured: "GsUjdvDduszJ4JkypDbtwZ4KUsvYvfk57HwYpjALfMVe/tKLbOV6qrOWwL1+zLRNu0O+WP4enJVf28oJbykjiU9qnCvVFiOVe+t6QQhhqZIUKObOovTbPyI2FWwQC9mH51paz90AZWRL6r0qzlk0a1f6izrvFUVeEDh6VEL6PcCq5puE3TaIM1OzXNqxHuglm8MmLQgr0nHT4IuwLxEKA+NHsE6ggtaPNiEpd1u1nky+uPqy3MvDGLrkNg9tqlIPnZGHvGDeTRqU85g0fYqzisLLBjc1M2r9csT/im0TKsrpCpOxSvw9fpZwQ6M/HXLZWIiVz7Oj2B+vKsmmwE7MDOdTxe7w1xH9yvAe5hWTudo=;7r1oEmG4qgWRn5WeRhd4LQ=="
 ---

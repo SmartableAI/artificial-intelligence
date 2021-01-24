@@ -33,15 +33,6 @@ related:
         width: 2394
         height: 1588
         isCached: true
-  - title: "Change Healthcare Research: AI to Become Widespread in Hospital Revenue Cycle by 2023"
-    excerpt: "NASHVILLE, Tenn.--(BUSINESS WIRE)--Artificial Intelligence (AI) will transform the way doctors, hospitals, and healthcare systems identify, collect, and manage their revenue cycle over the next three years as healthcare organizations evolve from day-to-day use to strategic integration within their systems,"
-    publishedDateTime: 2021-01-19T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005151/en/Change-Healthcare-Research-AI-to-Become-Widespread-in-Hospital-Revenue-Cycle-by-2023"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
   - title: "Flipclutch Research: WIMI's Dr. Yang on Opportunities and challenges of Extended Reality (XR)"
     excerpt: "Flipclutch Research, a market research organization in Hong Kong, recently released a research report on 'Opportunities and challenges"
     publishedDateTime: 2021-01-21T15:00:00Z

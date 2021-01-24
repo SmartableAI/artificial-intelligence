@@ -1,12 +1,12 @@
 ---
 category: news
 title: "This site posted every face from Parler’s Capitol Hill insurrection videos"
-excerpt: "The site's creator tells WIRED that he used simple open source machine learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
+excerpt: "The site's creator tells WIRED that he used simple, open source machine-learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
 publishedDateTime: 2021-01-23T11:40:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
-webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
+originalUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/?fbclid=IwAR0Nj6yYeqWS-blJWq1RXxURUm7pyl8D3ckfKUanrvc8bxz6Em03WzFtEOQ"
+webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/?fbclid=IwAR0Nj6yYeqWS-blJWq1RXxURUm7pyl8D3ckfKUanrvc8bxz6Em03WzFtEOQ"
 type: article
-quality: 54
+quality: 52
 heat: -1
 published: false
 
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/insurrection-faces-760x380.jpg"
@@ -139,6 +138,6 @@ related:
       domain: intergameonline.com
     quality: 19
 
-secured: "IAYPggmqKtz176pwAsCeK+yLO9eEASL69VAMxsdREXOQTRItwQ8Xb6A6db4QMpWiA1J8acZU75sMhwAi70d/wsJN9h0SdiECZUoeofAjT5BfHBSxjEwT4pNClS2SNhi51uCQlr3s4WgvH0FP0f4cGNh+Kr30PjH/qPCYiZa3vTe3Vgn8leK4fD3yCVrJwX8mxJy6jpacN2o792ZTA3I80xpy8/DjomBNRu8t6HoB18p7r5trcpsrN8IUTE88WTW6a6LZ2WAq7a+y0G+8a18B6cTVyuX5TSkSnx1o38dWfZZc0X2xEXeCQuUGjgo4gU3I3KBHf8voLoN+7QlN0uDCElFsywM9gq+tvtT7KB7mrM0Zb3AxjsI2KaVPArsOtR9FLQqNB86jZc6ILs+Zg260tdiRzVnQnJKzGUdytnaRRVSibYZWVA0HoJ970IV/M7e4wObclOiLBZeL1numvjjlnqiAzfJAxbAknu7lRRFMh84euucLq9XnQs9IC5uhaU8NaWccvAdTi91r629MIN7TbA==;k5mgCM4g0qrv9zUfvj956w=="
+secured: "kjQC4TpbRpg5OBfEJ1S+fH4b3Gej2syJ1iImSLlkgSUjKL/q9xMLPTDcY62H2bS2MvEAJAq0bBhhDmUKFSmjB4SgSq0ti2L9VjzmJehyivWNLLoioTg/ceRUYTYojlu9lXj6+KrwflZ3cYcbHL9ELBRIBnYrcj/Sxc637SpGs56DGjNmCBGMJ1kEoSqIB5WxgaUN586pOLd2ahMFsX6C+oO4RBFix+sO/xXCUK+NN9ulTunXVFVmj//LVGTgQgagC4d3NP9HVikcbpQS2UM0nGdaS0d+Pf2NVA0F+WBkqdsl3nDyt0ZZO9cahuQK/J+UTzOLCsEQnSFhoYy7yhZqCnO292qPDUZfoMk7nAVPZe0=;oDCHETJIFFW90nlit0U9lg=="
 ---
 

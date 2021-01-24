@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-05-kiromic-announces-the-filing-of-key-european-patents-for-its-chimeric-pd-1-chpd1-target.md",
+      "title": "Kiromic Announces the Filing of Key European Patents for Its Chimeric PD-1 (chPD1) Target",
+      "excerpt": "Kiromic Biopharma, Inc. (Nasdaq: KRBP), a target discovery and gene-editing company utilizing artificial intelligence and proprietary neural network platform with a therapeutic focus on immuno-oncology,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/science-business-government-regulations-coronavirus-pandemic-ovarian-cancer-fd1147f580d54e34b67ae7eb6f2ebcb4",
+      "originalUrl": "https://apnews.com/press-release/business-wire/science-business-government-regulations-coronavirus-pandemic-ovarian-cancer-fd1147f580d54e34b67ae7eb6f2ebcb4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-global-artificial-intelligence-ai-in-cyber-security-market-2020-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2025.md",
       "title": "Global Artificial Intelligence (AI) in Cyber Security Market 2020 In-depth Assessment, Key Trend, Industry Drivers, Future Roadmap by 2025",
       "excerpt": "Global Artificial Intelligence (AI) in Cyber Security Market Growth (Status and Outlook) 2020-2025 announced by MarketandResearch.biz provides an expert and in-depth analysis of key business trends and future market development prospects,",
@@ -1343,58 +1386,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented.md",
-      "title": "Artificial Intelligence (AI) Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented",
-      "excerpt": "Moreover, the advent of image, face and voice recognition technologies are likely to catapult the market growth in the 21st generation. The Asia Pacific AI market is anticipated to be the fastest-growing market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

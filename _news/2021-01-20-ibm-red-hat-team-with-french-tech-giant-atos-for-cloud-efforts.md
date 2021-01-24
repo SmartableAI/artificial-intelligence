@@ -53,15 +53,15 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
-    excerpt: "The expanded alliance includes an intended focus on the development of joint offerings built on Atos' vertical decarbonized solution and service delivery assets, powered by IBM. Atos and IBM will work together to address business challenges to serve the Manufacturing,"
-    publishedDateTime: 2021-01-19T14:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/atos-and-ibm-collaborate-to-accelerate-digital-transformation-in-the-enterprise-with"
+  - title: "Leading-Edge Use Cases For AI In 2021, With IBM’s Bob Lord"
+    excerpt: "This podcast is sponsored by IBM Watson Advertising. Brands have long been sold the vision that artificial intelligence will one day supercharge their marketing plans, but results have been mixed. In this episode, Bob Lord, IBM’s SVP of cognitive appli ..."
+    publishedDateTime: 2021-01-20T20:27:00Z
+    webUrl: "https://www.adexchanger.com/podcast/leading-edge-use-cases-for-ai-in-2021-with-ibms-bob-lord/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 23
+      name: AdExchanger
+      domain: adexchanger.com
+    quality: 19
   - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
     excerpt: "Atos and IBM (NYSE: IBM ) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos’ vertical decarbonized solution and service delivery assets,"
     publishedDateTime: 2021-01-19T16:31:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,83 +26,30 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Being Used In The Legal Industry"
-    excerpt: "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery."
-    publishedDateTime: 2021-01-19T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
+  - title: "Okschain Reveals Ambitious Strategy To Transform Finance, AI & Alternative Energy"
+    excerpt: "Tallinn, Estonia, Jan. (GLOBE NEWSWIRE) -- Uzbek technology company to release wallet, lending, investing and learning hubs built on the Stellar blockchain"
+    publishedDateTime: 2021-01-23T18:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19286217/okschain-reveals-ambitious-strategy-to-transform-finance-ai-alternative-energy"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19286217"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19286217"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg"
-        width: 1200
-        height: 831
-        isCached: true
-  - title: "How AI Is Modernizing The Collections Process"
-    excerpt: "The traditional model's inability to predict which debts will go into collections puts lenders behind the curve. Even worse, when accounts fall behind, this approach applies one-size-fits-all responses that let too many borrowers slip into default."
-    publishedDateTime: 2021-01-20T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/amp/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+  - title: "TOOQ Solutions Partners With NetFoundry To Transform Retailing With AI Solutions Deployed At The Edge"
+    excerpt: "TOOQ Solutions has selected NetFoundry Inc.’s Edge and IoT Platform for secure and simple provisioning, management and networking of TOOQ’s innovative edge and IoT retail analytics solutions. By embedding NetFoundry’s programmable networking into its solutions as cloud orchestrated software,"
+    publishedDateTime: 2021-01-19T16:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-charlotte-north-america-communication-technology-fb3be5a3d655e70d0bc716a17482e42d"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b24deb13c5b56bae01eff%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI Is Paving The Way For More Sustainable Supply Chains"
-    excerpt: "Here are the capabilities that decision-makers should prioritize in a digital approach to supply chain sustainability."
-    publishedDateTime: 2021-01-20T14:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/how-ai-is-paving-the-way-for-more-sustainable-supply-chains/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/how-ai-is-paving-the-way-for-more-sustainable-supply-chains/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/how-ai-is-paving-the-way-for-more-sustainable-supply-chains/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007450f956c16614dbeed40%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How To Find Your Purpose In Life Using Emotional AI"
-    excerpt: "Aliya Grig, Founder of The Human Cosmos, recently released the brand's mental wellness app that uses emotional AI-powered technology to create personalized recommendations to help users find their purpose in life."
-    publishedDateTime: 2021-01-21T18:00:00Z
-    webUrl: "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600617850dc6c7010ea3edb3%2F0x0.jpg%3FcropX1%3D47%26cropX2%3D1442%26cropY1%3D0%26cropY2%3D997"
-        width: 1200
-        height: 858
-        isCached: true
-  - title: "How will $1 million in artificial intelligence research impact Florida industry?"
-    excerpt: "The University of Florida announced a $1 million investment into artificial intelligence. Twenty faculty teams will study wide-ranging uses on data analysis in a range of fields from agriculture to education."
-    publishedDateTime: 2021-01-19T19:00:00Z
-    webUrl: "https://floridapolitics.com/archives/396401-how-will-1-million-in-artificial-intelligence-research-impact-florida-industry"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 32
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/melon_aphid01.jpg"
-        width: 500
-        height: 298
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "L4jM2P3lpt1Czt64QCo0fUhEhzm81g8u1081WWuLV4Bhb0U4apAlCgWt+giqAMrBumQe1CtTUKCYW9NwYKlgUpNKouJ9WLHAn/l+v3ecVyD8Sx5EzVURVwExixA9WX666FsOMyiVIsoSRBq5TmeBzjVecbl4/S15LFzkDpxMDx7TBDkXurnh/AU1L8lkSaCCtfffOjdEG8HqOJKxLaj2n5hVO4Ff5XGkrF48VZ0ipycbxCHNBvkRPUDuDc/vMGK6EqcijcGtonqN0Uv24kFhKzyd3eagLFwLmpq+hDCwb1Sd0nEQqLomSvFSvx+Z1SOE99MPwTjwyDH1uiSKCUFceLpNxtCDGDXLl1+PRgs3d2i/lmtfKJVL1wjSaL/xxXHSfl6K4BBi065tmvPHR4hTcbMsUlyApPGAO7NNklQAoPgouupPGzHha5lC2eAMFffWxnXDXTxvb2/3pZeCLsDL3oNU/9xHHYLNnD4WcYpwMUnOOO8itzEpf/QJ50Ka/Gut9gaUxXtNZaGIrGmeHMHbdQ==;Cnr9gxDEA/6BYlqylvvv7A=="

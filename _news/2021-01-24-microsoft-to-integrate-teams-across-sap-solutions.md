@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Speech & Voice Recognition Market is Booming Worldwide with Nuance Communications, Microsoft, Alphabet"
-excerpt: "Latest released the research study on Global Speech Voice Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Voice Recognition Market research report shows the latest market insights current situation analysis with upcoming trends"
-publishedDateTime: 2021-01-22T18:34:00Z
-originalUrl: "https://www.openpr.com/news/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
-webUrl: "https://www.openpr.com/news/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
-ampWebUrl: "https://www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+title: "Microsoft to integrate Teams across SAP solutions"
+excerpt: "Enterprise application software provider SAP and Microsoft have announced to integrate video conference and collaboration platform Teams with SAPs intelligent suite of solutions. The companies also expanded an existing partnership to accelerate the adoption of SAP S/4HANA on Microsoft Azure."
+publishedDateTime: 2021-01-24T05:49:00Z
+originalUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-integrate-teams-across-sap-solutions.html"
+webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-integrate-teams-across-sap-solutions.html"
 type: article
-quality: 25
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-integrate-teams-across-sap-solutions-2021-01-24.jpg"
+    width: 1000
+    height: 800
+    isCached: true
 
 related:
   - title: "Yellow Messenger integrates Microsoft Azure cognitive services on its platform"
@@ -758,20 +761,6 @@ related:
         width: 763
         height: 765
         isCached: true
-  - title: "Microsoft to integrate Teams across SAP solutions"
-    excerpt: "Enterprise application software provider SAP and Microsoft have announced to integrate video conference and collaboration platform Teams with SAPs intelligent suite of solutions. The companies also expanded an existing partnership to accelerate the adoption of SAP S/4HANA on Microsoft Azure."
-    publishedDateTime: 2021-01-24T05:49:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-integrate-teams-across-sap-solutions.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-integrate-teams-across-sap-solutions-2021-01-24.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "GM, Microsoft lead $2 billion in funding for Cruise, team up on technology"
     excerpt: "General Motors and Microsoft are leading a $2 billion investment round in self-driving car startup Cruise in a deal that will bring the software giant’s cloud and edge-computing capabilities to the venture."
     publishedDateTime: 2021-01-20T09:04:00Z
@@ -842,6 +831,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Speech & Voice Recognition Market is Booming Worldwide with Nuance Communications, Microsoft, Alphabet"
+    excerpt: "Latest released the research study on Global Speech Voice Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Voice Recognition Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-01-22T18:34:00Z
+    webUrl: "https://www.openpr.com/news/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
   - title: "Microsoft joins GM to build self-driving cars, invests in $2bn fund"
     excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM)"
     publishedDateTime: 2021-01-20T06:42:00Z
@@ -870,6 +870,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 8
 
-secured: "UJvkrgYneZFanmVLy+l4XB+AZdMrGOnMC3F1VDvVbij7GyIjf9gXUUGwE80QqmdUL3K4Dma7FpyWXPkZ5bsn4PBVfSV8CALN4zCMgvPrY3i8dwD1ZONqOpq/2fmv1e0gwFeaE2rqgMD71RTRxjE/LwjE7V8T8Kw9pw89NWXE00aJuQF1OC9Edyh+HXkm58MZAXDIcYClSq+6sUNBJjIJQVUWS/A18+lsfpRbDCMePwKKgfgIzvlkLRuWJTpmmknjnlZ8sl9KGcqo+MLE7o0nRXa1dm6ebp3YEjBSQdfeZ+M2T6UHyTHkiT5/bJzgywpwMDvDwGgM8D9WaVbvRYjXIhrsgQFPYmiRjh51rnXzXGQ=;o9CGohtkvIPo1RwIRWbZtQ=="
+secured: "67MBxz9GgU1ting4WWdEzKbVjHmQ1qsf56fCxwG4ztBBmMvjG0ahym4a9HYPhNE3NmBkYaC1UDCBg5GzWNa78W5ZpeG3LYsUAWq7080M25EvADbA/dkAZnt0RyBq/viQXyJVTmkEeQbGGIQRNFWBfinIj6ecptD2ix0+Ool/oPiQBngqVW9aydzuDwGBPtWR691w9k3Glb2XO7QeJkkEDSUuZspania58lBfyTve/wIPBbDy3USWowR3JC4L0zfiZ3dnh9MrPdpPWwJ61xoPnZS9xZJS9YSkNio317lhZIF+b3VhwKVLyR+jTmQFfodVhXSijLFTVe9b2h+UuCNpFUzsxJNYXcU765cIFjjxjCA=;S890tAc71Q675WiVKQKyrA=="
 ---
 

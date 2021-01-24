@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/mission-healthcare-of-s
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -24,22 +24,6 @@ topics:
   - Machine Learning
   - AI
   - AI in Healthcare
-
-related:
-  - title: "Mission Healthcare of San Diego Adopts Muse Healthcare’s Machine Learning Tool"
-    excerpt: "PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care providers in California, will adopt Muse Healthcare’s machine learning and predictive modeling tool to help deliver a more personalized level of care to their patients."
-    publishedDateTime: 2021-01-19T13:57:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-health-care-industry-hospice-care-9982f9e5f1129000898b32acac2c0e2f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "iORE/nRRycrFif3hyTr7vLMe5VIiiP32kS8SDK1DSAT6jVw8i462Sbf3l3HpTJbA8CG0xrvwXFqFSPmu3o4ULu8aKHRtVhn1Rif0tgVaYgaTX1NtFkaJL0oXYyxZE0CCcgmeOp54ZnsTPSrp44GDEE6BlBxBGqZnMadZP/gi4FJm+IdNIsrxlxwMG5YhBh7NSnjzcwGg3uWsPTyj+kKiH6JmwN+qpX5xodh2zFh4PZwm4T5IAb+2uAoYIsVvNzQmhcyV6xJLzIKWg9W1j/DHNxwpDKWSwn+Oms8SFW6XE89m9Yt7SzVTgcZzPqwHDItypJAd5v0wua1Abd5PW3aqQTPLzVYKRrMpy0NmypZrPhA=;DHNWw3rQWnG3DbxzikZYcA=="
 ---

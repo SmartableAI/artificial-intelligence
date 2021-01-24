@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Being Used In The Legal Industry"
-    excerpt: "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery."
-    publishedDateTime: 2021-01-19T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/19/how-ai-is-being-used-in-the-legal-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg"
-        width: 1200
-        height: 831
-        isCached: true
   - title: "How AI Is Paving The Way For More Sustainable Supply Chains"
     excerpt: "Here are the capabilities that decision-makers should prioritize in a digital approach to supply chain sustainability."
     publishedDateTime: 2021-01-20T14:20:00Z
@@ -62,51 +46,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How To Find Your Purpose In Life Using Emotional AI"
-    excerpt: "Aliya Grig, Founder of The Human Cosmos, recently released the brand's mental wellness app that uses emotional AI-powered technology to create personalized recommendations to help users find their purpose in life."
-    publishedDateTime: 2021-01-21T18:00:00Z
-    webUrl: "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/"
+  - title: "The Promise of Artificial Intelligence in Precision Medication Dosing"
+    excerpt: "The most compelling approach to solving this important problem to date is with the application of artificial intelligence to enable precision dosing. Precision dosing is an umbrella term that refers to the process of transforming a “one-size-fits-all ..."
+    publishedDateTime: 2021-01-22T16:11:00Z
+    webUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600617850dc6c7010ea3edb3%2F0x0.jpg%3FcropX1%3D47%26cropX2%3D1442%26cropY1%3D0%26cropY2%3D997"
-        width: 1200
-        height: 858
-        isCached: true
-  - title: "Transforming the energy industry with AI"
-    excerpt: "In the oil and gas industry, digitalization is improving project economics and streamlining operations, with AI as the key for sustainable growth and security against cyberthreats."
-    publishedDateTime: 2021-01-21T13:14:00Z
-    webUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/MITTR-Seimens-webart-Cover.png"
-        width: 1500
-        height: 1129
-        isCached: true
-  - title: "How will $1 million in artificial intelligence research impact Florida industry?"
-    excerpt: "The University of Florida announced a $1 million investment into artificial intelligence. Twenty faculty teams will study wide-ranging uses on data analysis in a range of fields from agriculture to education."
-    publishedDateTime: 2021-01-19T19:00:00Z
-    webUrl: "https://floridapolitics.com/archives/396401-how-will-1-million-in-artificial-intelligence-research-impact-florida-industry"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 32
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/melon_aphid01.jpg"
-        width: 500
-        height: 298
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Precision-Dosing.jpg"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "3yhgW47XqKJSLbl9/JP0VGKoaqtEGtQDCSE4nhoDRrTl5FfC9nIKzsxmVQDnJm7U82zViJTRGXB4gaPKC9+mHf9wy+L/kIMHWTk0JbwKJLLVwcOZ7bY+hTyYC3BPPCNBQWJ+Wevivz52y73OuQPAY6X+IdXbruzpbbdM7PgYngXrpYPitwYttYq4h570H08qsL7qh6X3hz0WRFLUHlOsmcxJVC23dIpvSKXx8iCasTZov3UfSVd/FAffKTzgc/sGh2w/TNjqnSd1oU0cIKJnjDTLvUwE1qtXTji8O5UcI2SCZhoL8cViZwu6yY2ZFv4FEnXfqOTtbsCkFRezdPjfZBmKDLkiakdYEDzpOPyReLG3x3tnv2BUcnk448YFBd9DEn9YOFRe6M5BPNZkT0o+MNjy36hU6Dhow2MFYkKyiPQEIXRHYPnWeo5B2ZsoBfjSJPDTHBOQRRL2Lp0CEE1UL3f8LLQoR2Y/ZhGB0qB1ayvI4KMh2Sf8V1i6x2iRgxuYPQsvnytEKhV7gJ8izVfQmw==;oqbACy4sNsHir1vm+tuUAQ=="

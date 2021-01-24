@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,17 @@ images:
     isCached: true
 
 related:
-  - title: "Trovata.io raises $20 million to aggregate enterprise bank accounts with AI"
-    excerpt: "Trovata.io, a startup that aggregates enterprise bank accounts using AI, raised $20 million in a venture round."
-    publishedDateTime: 2021-01-19T13:48:00Z
-    webUrl: "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/"
+  - title: "Israeli startup Swapp lands Seed funding to inject construction with a touch of AI"
+    excerpt: "Swapp leverages AI technologies to provide real estate developers and construction companies value in tome and"
+    publishedDateTime: 2021-01-24T04:45:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-swapp-lands-seed-funding-to-inject-construction-with-a-touch-of-ai/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-swapp-lands-seed-funding-to-inject-construction-with-a-touch-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-swapp-lands-seed-funding-to-inject-construction-with-a-touch-of-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/11/control.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Geektime
+      domain: geektime.com
+    quality: 31
 
 secured: "CNoNvQRg7vZmue5Vvrk1kZe18eU5gSsZdaOFeviG9AHsSJ1gs3RC1y0oxrkQf2znAKlrP7KfJvHmk4NraO4ZeM7U3gPxMAJsYHmWs/kLJLQOe8fTVNj8imjAbGZ5jsCqURoHic7ZE/naN9CUKQUN9ejomJhiStHptfTA+Ns88F77p51rXNOXEJ2XW1NKwMUnyjSoSkEAKi52Te8DaY2Rd1l9xQzYc8MRnq/BdbPJZ1KshH/pOGldowM8b2TQhHCBeKOkUvYtMZ4bB7r9JyzOTjHOJBTC4OYRAzpV9G1KROSIV2xhn1TVQ1BG1KwgHI6IVkdhBkYeHiFaY/bH+O8dNCRusIDNWnlcoFi8M9hY4DNjQcFjqS2MHBbHqmoqJ0/qYZk7o7qwFGU/RImJZ3jpqxsLFSHaTBfYeda2tQQyXsEn1ESsBU8xCV5gJHYsLTD7m5zGLKzZvA+M5UWCwODUjklVS63j+nefUKIDD9/Ns0DlipgW5URENMf4xeEEOiTYENkmW9Sny+fxYWaPGSDj1A==;G7M+rz/U6GLAwJdRXKOIlg=="
 ---

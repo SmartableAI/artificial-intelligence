@@ -2,6 +2,292 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-12-ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu.md",
+      "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
+      "excerpt": "The Flow X13 is outfitted with a GeForce GTX 1650 GPU that can hit clock speeds up to 1255 MHz at ... And for times when you want to chat with friends or fellow gamers, a two-way AI noise cancellation mode removes unwanted sounds from both the input ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/b217b9e2-8472-4358-9fd7-36b134d84990/resize/1200x/97ea6a08734939b0c166dc9b21c9cf79/flow-x13-and-xg-mobile.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "publishedDateTime": "2021-01-12T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-software-promises-to-improve-ai-object-recognition.md",
+      "title": "Software promises to improve AI object recognition.",
+      "excerpt": "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
+      "originalUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg",
+          "width": 940,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T01:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-ubtech-showcases-new-uv-c-robots-at-ces-2021.md",
+      "title": "UBTECH Showcases New UV-C Robots at CES 2021",
+      "excerpt": "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today introduced the newest additions to its portfolio of humanoid robots at CES 2021: ADIBOT: UV-C Disinfecting Robots;",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1",
+      "originalUrl": "https://apnews.com/article/technology-lung-disease-educational-technology-social-affairs-robotics-837bfd5eb9a04226bc08d60a2a8f60e1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu.md",
+      "title": "Samsung introduces the 5nm Exynos 2100 with 10% faster CPU, 40% faster GPU",
+      "excerpt": "Samsung has formally introduced its latest flagship mobile processor, the Exynos 2100. It features an octa-core CPU with a top-tier Cortex-X1 core, and up to 40% more graphics performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu",
+      "originalUrl": "https://www.neowin.net/news/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/01/1610461044_exynos_2100_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/",
+      "publishedDateTime": "2021-01-12T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-heres-how-6-major-lsp-client-segments-use-data-for-ai.md",
+      "title": "Here’s How 6 Major LSP Client Segments Use Data for AI",
+      "excerpt": "AI services are integral to train and help AI performance. Here's how translation agency clients use text, image, and speech data.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/data-research/heres-how-6-major-lsp-client-segments-use-data-for-ai/",
+      "originalUrl": "https://slator.com/data-research/heres-how-6-major-lsp-client-segments-use-data-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/01/Translation-Agency-Data-Labelling-and-Annotation-Tasks-and-Client-Case-Studies.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-chinas-search-giant-baidu-to-set-up-an-ev-making-venture.md",
+      "title": "China’s search giant Baidu to set up an EV-making venture",
+      "excerpt": "China’s search giant Baidu is extending its car ambitions from mere software to production. The company said Monday that it will set up a company to produce electric vehicles with the help of Chinese automaker Geely.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/",
+      "originalUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/apollo-baidu-e1610341383915.jpeg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/10/baidu-electric-car-making/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/10/baidu-electric-car-making/amp/",
+      "publishedDateTime": "2021-01-12T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448.md",
       "title": "Artificial Intelligence (AI) In Healthcare Market is Expected to reach 46.2 billion USD by 2026, at a CAGR of 44.8%",
       "excerpt": "In Healthcare Market size is expected to grow from USD 4.8 billion in 2020 and reach USD 46.2 billion by 2026; it is projected to grow at a CAGR of 44.8% during the forecast period. The report presents the market competitive landscape and a corresponding detailed analysis of the major vendor/key players in the market.",
@@ -936,297 +1222,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-lgs-2021-oled-tvs-are-bigger-brighter-and-built-around-ai.md",
-      "title": "LG’s 2021 OLED TVs are bigger, brighter, and built around AI",
-      "excerpt": "LG has unveiled its 2021 OLED TV lineup. The range includes an extra-large C1, the brighter G1, and AI-driven features. LG isn’t just counting on its Mini LED TVs to lead its 2021 big-screen offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/",
-      "originalUrl": "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/01/lg-c1-2021-oled-tv-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/lg-2021-oled-tvs-g1-c1-1191709/amp/",
-      "publishedDateTime": "2021-01-11T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021.md",
-      "title": "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021",
-      "excerpt": "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210111005733/en/GrAI-Matter-Labs-introduces-GrAI-VIP-Vision-Inference-Processor-to-bring-Fastest-AI-to-the-Edge-at-CES-2021",
-      "originalUrl": "https://www.businesswire.com/news/home/20210111005733/en/GrAI-Matter-Labs-introduces-GrAI-VIP-Vision-Inference-Processor-to-bring-Fastest-AI-to-the-Edge-at-CES-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy.md",
-      "title": "AI devs claim they’ve created a robot that demonstrates a ‘primitive form of empathy’",
-      "excerpt": "Columbia University researchers have developed a robot that displays a \"glimmer of empathy\" by visually predicting how another machine will behave.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-11T181530.219-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
-      "publishedDateTime": "2021-01-11T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are.md",
-      "title": "Scientists use supercomputers and AI to determine how good (or deadly) your street drugs are",
-      "excerpt": "A team of researchers from the University of Victoria have developed an AI system capable of determining the expected chemical makeup of drugs. While it involves supercomputers and a robust cocktail of cloud-based machine learning technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/drugs-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/amp/",
-      "publishedDateTime": "2021-01-11T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-how-ai-will-guide-corporations-part-1-by-redefining-roles.md",
-      "title": "How AI Will Guide Corporations, Part 1: By Redefining Roles",
-      "excerpt": "For the first article in my three-part series, I’ll walk you through how, guided by AI, executive roles within companies will change in the 2020s. Companies have long assigned new responsibilities to some executive roles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5643b70f34f885c49aa56%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/amp/",
-      "publishedDateTime": "2021-01-11T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021.md",
-      "title": "Argus Research Analysts Highlight 5 Of Their Top Stock Picks For 2021",
-      "excerpt": "Several leading experts from Argus reveal their favorite investment ideas for the year ahead — included as part of our annual MoneyShow 2021 Top Picks report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
-      "originalUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc9778d3d641fe5ab07647%2F0x0.jpg",
-          "width": 1200,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
-      "publishedDateTime": "2021-01-11T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

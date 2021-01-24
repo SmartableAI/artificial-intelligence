@@ -26,15 +26,6 @@ images:
 
 related:
   - title: "Change Healthcare Research: AI to Become Widespread in Hospital Revenue Cycle by 2023"
-    excerpt: "NASHVILLE, Tenn.--(BUSINESS WIRE)--Artificial Intelligence (AI) will transform the way doctors, hospitals, and healthcare systems identify, collect, and manage their revenue cycle over the next three years as healthcare organizations evolve from day-to-day use to strategic integration within their systems,"
-    publishedDateTime: 2021-01-19T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005151/en/Change-Healthcare-Research-AI-to-Become-Widespread-in-Hospital-Revenue-Cycle-by-2023"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-  - title: "Change Healthcare Research: AI to Become Widespread in Hospital Revenue Cycle by 2023"
     excerpt: "Artificial Intelligence (AI) will transform the way doctors, hospitals, and healthcare systems identify, collect, and manage their revenue cycle over the next three years as healthcare organizations evolve from day-to-day use to strategic integration within their systems,"
     publishedDateTime: 2021-01-20T06:02:00Z
     webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-health-care-industry-health-care-it-services-c23a756e604b4bdeabb5cb17c5344d10"

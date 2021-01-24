@@ -7,7 +7,7 @@ originalUrl: "https://www.roboticstomorrow.com/content.php?post=16119"
 webUrl: "https://www.roboticstomorrow.com/content.php?post=16119"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -20,19 +20,37 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Cleaning Robot Market Sales, Challenges, Business Revenue, Statistics, Size, Share, Key Players, Demand and COVID-19 Impact"
-    excerpt: "Cleaning Robot Market Sales, Challenges, Business Revenue, Statistics, Size, Share, Key Players, Demand and COVID-19 Impact <br />  Jan 20, 2021 3:50 PM ET <p>The <a href=' target='_blank'>clea"
-    publishedDateTime: 2021-01-21T08:59:00Z
-    webUrl: "https://menafn.com/1101465527/Cleaning-Robot-Market-Sales-Challenges-Business-Revenue-Statistics-Size-Share-Key-Players-Demand-and-COVID-19-Impact"
+  - title: "40% of supply chains in multinational corporations could not cope with COVID-19 pandemic"
+    excerpt: "Organizations need real-time data insights, agility, and digitalization to mitigate risk and be successful, a new report finds."
+    publishedDateTime: 2021-01-22T16:42:00Z
+    webUrl: "https://www.techrepublic.com/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?205618"
-        width: 393
-        height: 250
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/15/c7b2f24c-5bd6-4c2e-8da4-e5a71849d9c0/resize/1200x/b7ddd4e0c59a0375d3225b6af03e58de/istock-1213521693.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Machine Learning Technique Could Enhance Predictions of COVID-19 Outcomes"
+    excerpt: "Emerging technique holds promise to create more robust machine learning models that extend beyond a single health system without compromising patient privacy"
+    publishedDateTime: 2021-01-21T16:24:00Z
+    webUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912"
+    ampWebUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
+    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 58
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24912/aImg/46165/predicting-outcomes-for-covid-19-patients-m.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "OuFVhtNsmAlflVM9hoXsW9wjdqK8hmrfSiOq1boR0UyF6X+6XdMydMeJlYBEXlSB/ZaEl11Ky3h0zH59dV+QzBwZ7RqCmRZSf76TEYm72zpsZPcnoXcfVBeyysEeP9O8XtvHVWDKJEPsPp09xYLfg10E22Yf/Z9fRqgB4Lr4XLv9tEAlIWjY9TlqMIcYZptCL7fOMQa1ylOyHzpNHGrIBRYWtAJV3EqQ5P5FhNyjBYXKhitnfGR3sUyWuBgR+eqkaBb0rTuoOYQHK7kepmPfTq6d+vd3+x9SrXMQx+Ak++ZphfZsPt/aMX6N5R+DO8BlSXbQs8BqvbwVmqYfkxNT7YsMC5Cecc1VlyRi/KI4/TE=;BRXxzXqSbp6+pHJ2+NPDJg=="

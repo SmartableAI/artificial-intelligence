@@ -2,6 +2,291 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-12-04-avaaz-facebook-continues-to-fail-at-flagging-false-and-misleading-posts-about-us-elections.md",
+      "title": "Avaaz: Facebook continues to fail at flagging false and misleading posts about U.S. elections",
+      "excerpt": "According to nonprofit group Avaaz, Facebook is failing to flag false information about the upcoming Georgia special elections.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/04/avaaz-facebook-continues-to-fail-at-flagging-false-and-misleading-posts-about-u-s-elections/",
+      "originalUrl": "https://venturebeat.com/2020/12/04/avaaz-facebook-continues-to-fail-at-flagging-false-and-misleading-posts-about-u-s-elections/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/04/avaaz-facebook-continues-to-fail-at-flagging-false-and-misleading-posts-about-u-s-elections/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/avaaz-facebook-continues-to-fail-at-flagging-false-and-misleading-posts-about-u-s-elections/amp/",
+      "publishedDateTime": "2020-12-04T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-startups-should-explore-ai-robotics-drones-and-other-tech-solutions-dti.md",
+      "title": "Startups should explore AI, robotics, drones, and other tech solutions — DTI",
+      "excerpt": "“There are additional opportunities with respect to tech solutions like artificial intelligence, robotics ... The government offers several funding facilities to support the startup ecosystem. Representatives from DTI, DOST, and the Department of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bworldonline.com/startups-should-explore-ai-robotics-drones-and-other-tech-solutions-dti/",
+      "originalUrl": "https://www.bworldonline.com/startups-should-explore-ai-robotics-drones-and-other-tech-solutions-dti/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bworldonline.com/wp-content/uploads/2020/12/drone-407393_1280.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessWorld",
+        "domain": "bworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-google-staff-hit-out-at-effort-to-silence-ai-ethics-leader.md",
+      "title": "Google staff hit out at effort to 'silence' AI ethics leader",
+      "excerpt": "More than 400 employees of the US firm signed a letter saying Timnit Gebru's departure was 'a moment of reckoning beyond Google'",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4BqCPWxJu6r_Co_Uapdy2dIiiutx_PFeIfnF6XtRkqB7Pc.jpeg",
+          "width": 2394,
+          "height": 1497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/",
+      "publishedDateTime": "2020-12-04T02:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-darktrace-says-its-ai-can-be-used-for-performance-monitoring.md",
+      "title": "Darktrace Says Its AI Can Be Used for Performance Monitoring",
+      "excerpt": "Darktrace Ltd.’s artificial intelligence could be used to better “understand the productivity and performance” of employees, the British company’s Chief Strategy Officer Nicole Eagan said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-04/darktrace-says-its-ai-can-be-used-for-performance-monitoring",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-04/darktrace-says-its-ai-can-be-used-for-performance-monitoring",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8RfuYcx4Lvc/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
+      "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
+      "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
+      "originalUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
+      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
+      "publishedDateTime": "2020-12-04T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Mining Review",
+        "domain": "globalminingreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-google-scientists-abrupt-exit-exposes-rift-in-prominent-ai-unit.md",
+      "title": "Google Scientist’s Abrupt Exit Exposes Rift in Prominent AI Unit",
+      "excerpt": "Google’s decision to part ways with a prominent researcher laid bare divisions within the company’s artificial intelligence unit and subjected its leader, the lauded software engineer Jeff Dean, to widespread scorn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNxHoRM2yY0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "publishedDateTime": "2020-12-04T00:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-black-ethical-ai-researcher-says-google-fired-her-over-a-critical-email.md",
       "title": "Black Ethical AI Researcher Says Google Fired Her Over A Critical Email",
       "excerpt": "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that was allegedly deemed “inconsistent with the expectations of a Google manager.",
@@ -908,308 +1193,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions.md",
-      "title": "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions",
-      "excerpt": "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
-      "originalUrl": "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
-      "publishedDateTime": "2020-12-03T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance.md",
-      "title": "Qualcomm’s Snapdragon 888 Builds On Leadership In 5G, AI And Gaming Performance",
-      "excerpt": "Qualcomm’s new Snapdragon 888 replaces last year’s Snapdragon 865 as the new flagship chip for the brand. The Snapdragon 888 brings many big improvements across the board to help elevate the mobile experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc94c118b96313babd53b26%2F0x0.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/amp/",
-      "publishedDateTime": "2020-12-03T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb.md",
-      "title": "Nvidia Offers The Ultimate AI Learning Tool With Jetson Nano 2GB",
-      "excerpt": "This Jetson platform is enabling not only a new generation of products, but also a new generation of AI engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc931ef64014f197dce3649%2F0x0.jpg",
-          "width": 623,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/amp/",
-      "publishedDateTime": "2020-12-03T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-intel-partners-make-new-strides-in-loihi-neuromorphic-computing-chip-development.md",
-      "title": "Intel, partners make new strides in Loihi neuromorphic computing chip development",
-      "excerpt": "Intel has released new performance benchmarks for the Loihi neuromorphic computing processor, revealing improvements in power consumption and efficiency. During Intel's virtual Lab Day, on Thursday, the tech giant revealed Loihi chip improvements in voice command recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
-      "originalUrl": "https://www.zdnet.com/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/14/edcf80c8-c990-4e81-ac5f-857081496c33/thumbnail/1200x675/9e64681166dfe8e68dcb155133391e78/new-life-for-obsolete-intel-macs-great-w-5f07072c5129505ee26e182d-1-jul-14-2020-13-38-39-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
-      "publishedDateTime": "2020-12-03T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-intels-controlflag-taps-ai-to-automatically-detect-errors-in-code.md",
-      "title": "Intel’s ControlFlag taps AI to automatically detect errors in code",
-      "excerpt": "Intel's new AI-powered ControlFlag tool can automatically detect code errors that humans miss, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/",
-      "originalUrl": "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/",
-      "publishedDateTime": "2020-12-03T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-how-bert-and-gpt-models-change-the-game-for-nlp.md",
-      "title": "How BERT and GPT models change the game for NLP",
-      "excerpt": "AI that can compose Shakespearean sonnets. AI that can design a webpage based on a simple user description. AI that can summarize a description of quantum computing for an eighth grader. Since the launch of the GPT-3 language model this year, natural language processing (NLP) and machine learning enthusiast",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WatsonBlog_BERT_NLP_2000x1006_WDDE_1361-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T11:35:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing"
       ]
     }
   ],

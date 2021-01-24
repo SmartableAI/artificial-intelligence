@@ -27,45 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Where AI Is Heading In 2021 For HR Departments"
-    excerpt: "Artificial intelligence is set to become one of the best ways to connect HR with an entire organization and understand each department’s needs."
-    publishedDateTime: 2021-01-19T13:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/"
+  - title: "AI will soon surpass humans in one of the last things that define us"
+    excerpt: "The idea AI might be able to pluck out the most effective word for a specific situation, based on an understanding of the audience, is also within the bounds of our imagination. It is harder, though,"
+    publishedDateTime: 2021-01-23T14:57:00Z
+    webUrl: "https://www.techradar.com/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
+    ampWebUrl: "https://www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechRadar
+      domain: techradar.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.mos.cms.futurecdn.net/RKr7aiHqZNYDEjq7CPKS9c-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "2021 Will Bring AI, Social Determinants of Health into Focus"
-    excerpt: "In the new year, the healthcare industry will leverage artificial intelligence and social determinants of health data to improve clinical decision-making."
-    publishedDateTime: 2021-01-22T16:13:00Z
-    webUrl: "https://healthitanalytics.com/news/2021-will-bring-ai-social-determinants-of-health-into-focus"
+  - title: "Trends that Will Define Workplace Learning in 2021"
+    excerpt: "Udemy highlights some key trends on how workplace learning took shape around the globe and what it means for your organization in 2021."
+    publishedDateTime: 2021-01-22T00:19:00Z
+    webUrl: "https://www.cxotoday.com/ai/trends-that-will-define-workplace-learning-in-2021/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 24
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-942954932.jpg"
-        width: 690
-        height: 400
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/09/leadership-skills.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Leading-Edge Use Cases For AI In 2021, With IBM’s Bob Lord"
-    excerpt: "This podcast is sponsored by IBM Watson Advertising. Brands have long been sold the vision that artificial intelligence will one day supercharge their marketing plans, but results have been mixed. In this episode, Bob Lord, IBM’s SVP of cognitive appli ..."
-    publishedDateTime: 2021-01-20T20:27:00Z
-    webUrl: "https://www.adexchanger.com/podcast/leading-edge-use-cases-for-ai-in-2021-with-ibms-bob-lord/"
-    type: article
-    provider:
-      name: AdExchanger
-      domain: adexchanger.com
-    quality: 19
 
 secured: "dOW1kiS7SLef0cDExJrwNBQHnN+RVJdWJe+mYK+pCkKFaaRr2lENUNZxgnlIPE1Frd3Nxkby/li3JfYeSBho5KrPDs+O1wArb2r4cznAQKNiqoKcJS3UXV40FBh4dGg8DzZQ+jSBLws7fIuKtPag0ZNQeIjV+KLjENhFHDTx5juWA7EGjT8EgyoF/djOMW0pWL2FANT/xwC8LbMXMAAt/8pTUnkwLlPyafqnJeX/OoVoR5Iy+i4fcpx3fQ6rrDsby6tXpb0mNgRteAWQGhR2w5a+UX/RmXyd00uVH7dxQiu++oXSp1ue1UKvubxr0dutfixrqyp9yvm5JVqh3feeH8o25Sbbop0ENpMtN3JvC3OsNFXSGoEmbYD8LRuPu5Y5HqkYRaO8Ne3Z4wLAWaZn8z67H/PlzFxqYXVi2JhEK66jdJzL+aNHBNYHxBfPgq4QR6duqcnEfTPAqCQR+J8nlqP7MuJDwi91OAfARrjNNjtaj6j2ejs32KFzYIJkAPtBjPYgFz8OUURT6mtYvhLBBQ==;HdxebZWeCZHMSzmiqKqETw=="
 ---

@@ -221,20 +221,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market - Global Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "The Global Image Recognition Market Size Is Expected To Grow from an Estimated Value of USD 26.2 Billion in 2020 to USD 53.0 Billion by 2025, at a CAGR of 15.1% The image recognition industry is driven by various factors,"
-    publishedDateTime: 2021-01-19T13:58:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-6e4e0177dd3b452f9e307d2135d69062"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Robot Assisted Surgical Systems Market to Reach USD 17.80 Billion | Size, Share, Industry Analysis and Global Forecast to 2027"
     excerpt: "Growing demand for robot assisted minimally invasive surgeries is predicted to acquire the highest accuracy and success rate and boost market growth."
     publishedDateTime: 2021-01-21T13:52:00Z

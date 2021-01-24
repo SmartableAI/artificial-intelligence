@@ -46,22 +46,6 @@ related:
         width: 760
         height: 429
         isCached: true
-  - title: "GM’s Cruise self-driving startup raises $2 billion led by Microsoft"
-    excerpt: "GM announced that Cruise, its self-driving startup, has raised a new $2 billion financing round led by Microsoft. The software giant is putting some skin in the self-driving game. GM Cruise Unlike other automakers having their automated driving divisions,"
-    publishedDateTime: 2021-01-19T14:39:00Z
-    webUrl: "https://electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/"
-    ampWebUrl: "https://electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/19/gm-cruise-self-driving-startup-raises-2-billion-led-microsoft/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 106
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/cruise-bolt-2000.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The building blocks of Microsoft’s responsible AI program"
     excerpt: "The post The building blocks of Microsoft’s responsible AI program appeared first on The AI Blog.\n"
     publishedDateTime: 2021-01-19T22:49:11Z
@@ -238,20 +222,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
-    publishedDateTime: 2021-01-19T14:19:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/dunnhumby-extends-machine-learning-automation-tool-built-on-microsoft-azure/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 71
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
     excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
     publishedDateTime: 2021-01-20T00:25:00Z
@@ -330,38 +300,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "GM, Cruise to partner with Microsoft for self-driving vehicles"
-    excerpt: "General Motors Co. and its autonomous partner Cruise LLC have entered a long-term strategic relationship with Microsoft Corp."
-    publishedDateTime: 2021-01-19T14:14:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2021/01/19/gm-cruise-partner-microsoft-self-driving-tech/4209677001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/4209677001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4209677001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 61
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDTN/842c4705-0be7-4daa-9053-51e3ad844d37-Cruise_car_in_Hayes_Valley_San_Francisco.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft allows users more control over their voice clips"
-    excerpt: "Microsoft has given customers more control over whether their voice data is used to improve products and now, people using Cortana will be able to decide whether or not the audio recordings can be used by the tech giant to improve its speech recognition algorithms."
-    publishedDateTime: 2021-01-19T13:24:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-allows-users-more-control-over-their-voice-clips-679108"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-allows-users-more-control-over-their-voice-clips-679108"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-allows-users-more-control-over-their-voice-clips-679108"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 61
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/01/microsoft-1604214907-1611062553.jpg"
-        width: 715
-        height: 401
-        isCached: true
   - title: "General Motors Cruise, Microsoft Team on Self-Driving Vehicles"
     excerpt: "Microsoft is part of a group of companies investing $2 billion into General Motors Cruise, the carmaker's autonomous-vehicles effort."
     publishedDateTime: 2021-01-19T19:56:00Z
@@ -603,22 +541,6 @@ related:
         width: 400
         height: 284
         isCached: true
-  - title: "Microsoft collaborates with Yellow Messenger to transform voice virtual assistants"
-    excerpt: "Yellow Messenger has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services and NLP tools."
-    publishedDateTime: 2021-01-19T13:41:00Z
-    webUrl: "https://www.dqindia.com/microsoft-collaborates-with-yellow-messenger-to-transform-voice-virtual-assistants/"
-    ampWebUrl: "https://www.dqindia.com/microsoft-collaborates-with-yellow-messenger-to-transform-voice-virtual-assistants/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-collaborates-with-yellow-messenger-to-transform-voice-virtual-assistants/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 53
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/voice-stuff-e1523893561803_opt.jpg"
-        width: 850
-        height: 460
-        isCached: true
   - title: "Cruise to use Azure as Microsoft invests $2bn in autonomous vehicle company"
     excerpt: "Microsoft will invest $2bn in self-driving car company Cruise, entering into a partnership that will see it offer cloud and Edge support. Cruise was acquired by GM back in 2016, but is operated as a somewhat independent company."
     publishedDateTime: 2021-01-20T12:28:00Z
@@ -665,20 +587,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
-  - title: "GM Teams Up Wtih Microsoft On Cruise Self-driving Vehicle"
-    excerpt: "General Motors announced Tuesday it is joining forces with Microsoft on its Cruise autonomous driving venture, with the tech giant coming on board as an investor and technology partner as it pushes to commercialize self-driving technology."
-    publishedDateTime: 2021-01-19T14:10:00Z
-    webUrl: "https://www.ibtimes.com/gm-teams-wtih-microsoft-cruise-self-driving-vehicle-3125592"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 41
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/19/general-motors-which-unveiled-a-new-corporate-logo.jpg"
-        width: 768
-        height: 768
-        isCached: true
   - title: "Microsoft Give Users of Cortana Control Over Voice Recording Access"
     excerpt: "Microsoft says users of Cortana and other voice-enabled service can now opt in or out of allowing the company to accessing audio recordings."
     publishedDateTime: 2021-01-19T15:20:00Z
@@ -774,20 +682,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cruise, GM partner with Microsoft to commercialise self-driving vehicles"
-    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize"
-    publishedDateTime: 2021-01-19T14:30:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/cruise-gm-partner-with-microsoft-to-commercialise-self-driving-13994822"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 40
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13994818/16x9/991/557/190d297206f03536d799cd76e571acde/GI/a-self-driving-gm-bolt-ev-is-seen-during-a-media-event-where-cruise--gm-s-autonomous-car-unit--showed-off-its-self-driving-cars-in-san-francisco-2.jpg"
-        width: 991
-        height: 557
-        isCached: true
   - title: "Cruise, GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
     excerpt: "Microsoft will join General Motors, Honda and institutional investors in a combined new equity investment of more than $2 billion in Cruise."
     publishedDateTime: 2021-01-20T16:00:00Z
@@ -858,19 +752,19 @@ related:
         width: 763
         height: 765
         isCached: true
-  - title: "GM, Microsoft lead $2 billion in funding for Cruise, team up on technology"
-    excerpt: "General Motors Cp. and Microsoft Corp. are leading a $2 billion investment round in self-driving car startup Cruise in a deal that will bring the software giant’s cloud and edge-computing capabilities to the venture."
-    publishedDateTime: 2021-01-19T14:54:00Z
-    webUrl: "https://www.crainsdetroit.com/mobility/gm-microsoft-lead-2-billion-funding-cruise-team-technology"
+  - title: "Microsoft to integrate Teams across SAP solutions"
+    excerpt: "Enterprise application software provider SAP and Microsoft have announced to integrate video conference and collaboration platform Teams with SAPs intelligent suite of solutions. The companies also expanded an existing partnership to accelerate the adoption of SAP S/4HANA on Microsoft Azure."
+    publishedDateTime: 2021-01-24T05:49:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-integrate-teams-across-sap-solutions.html"
     type: article
     provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 37
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
     images:
-      - url: "https://s3-prod.crainsdetroit.com/styles/800x600/s3/Cruise%20car%20in%20San%20Francisco%20streets.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-integrate-teams-across-sap-solutions-2021-01-24.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "GM, Microsoft lead $2 billion in funding for Cruise, team up on technology"
     excerpt: "General Motors and Microsoft are leading a $2 billion investment round in self-driving car startup Cruise in a deal that will bring the software giant’s cloud and edge-computing capabilities to the venture."

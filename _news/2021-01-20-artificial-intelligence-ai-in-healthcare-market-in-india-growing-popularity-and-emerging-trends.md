@@ -208,20 +208,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market - Global Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "The Global Image Recognition Market Size Is Expected To Grow from an Estimated Value of USD 26.2 Billion in 2020 to USD 53.0 Billion by 2025, at a CAGR of 15.1% The image recognition industry is driven by various factors,"
-    publishedDateTime: 2021-01-19T13:58:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-6e4e0177dd3b452f9e307d2135d69062"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global AI-Enabled Medical Imaging Solutions Market (2020 to 2030) - Analysis and Forecast - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The global AI-enabled medical imaging solutions market was valued at $636."
     publishedDateTime: 2021-01-22T16:44:00Z
