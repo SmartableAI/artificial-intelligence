@@ -52,22 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
-  - title: "Microsoft teams up with Cruise on development of self-driving cars"
-    excerpt: "Microsoft is looking to leverage its prowess in cloud computing to help usher in the era of autonomous vehicles, with the company announcing a partnership with Cruise, the self-driving arm of General Motors."
-    publishedDateTime: 2021-01-20T06:28:00Z
-    webUrl: "https://newatlas.com/automotive/microsoft-cruise-cloud-computing-self-driving-cars/"
-    ampWebUrl: "https://newatlas.com/automotive/microsoft-cruise-cloud-computing-self-driving-cars/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/microsoft-cruise-cloud-computing-self-driving-cars/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 91
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/1a141c2/2147483647/strip/true/crop/733x489+104+151/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2Faf%2F9214c1d142a489deaae29125220c%2Fcruise-av-san-francisco-960x640.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why Microsoft’s self-driving car strategy will work"
     excerpt: "Self-driving car startup Cruise has just gotten a $2 billion infusion from Microsoft, which actually stands to gain more from the deal."
     publishedDateTime: 2021-01-22T15:06:00Z
@@ -138,20 +122,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/09/microsoft-to-do-lede-surfacego.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
-    publishedDateTime: 2021-01-20T06:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
     excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."
@@ -301,15 +271,17 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Cruise, GM Partner With Microsoft For Use Of Cloud Computing In Self-driving Vehicles"
-    excerpt: "(RTTNews) - Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of"
-    publishedDateTime: 2021-01-20T05:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cruise-gm-partner-with-microsoft-for-use-of-cloud-computing-in-self-driving-vehicles-1029984576"
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
+    excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
+    publishedDateTime: 2021-01-24T22:29:00Z
+    webUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
+      name: Windows
+      domain: compsmag.com
+    quality: 50
   - title: "Microsoft, GM, Cruise Partner on Self-Driving Cars"
     excerpt: "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,"
     publishedDateTime: 2021-01-20T12:00:00Z
@@ -391,20 +363,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Cruise and GM Team Up with Microsoft to Commercialize Self-Driving Vehicles"
-    excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their software and hardware engineering excellence,"
-    publishedDateTime: 2021-01-20T06:09:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-government-business-and-finance-driverless-cars-products-and-services-e03d35b54491631c08c07f2e49fde999"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Cruise and GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their"
     publishedDateTime: 2021-01-21T08:45:00Z
@@ -472,15 +430,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
-  - title: "Microsoft joins GM to build self-driving cars, invests in $2bn fund"
-    excerpt: "Before Apple begins its electric car journey, Microsoft on Tuesday teamed up with Cruise, the self-driving subsidiary of General Motors (GM)"
-    publishedDateTime: 2021-01-20T06:42:00Z
-    webUrl: "https://www.thestatesman.com/technology/microsoft-joins-gm-build-self-driving-cars-invests-2bn-fund-1502947538.html"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 21
   - title: "Microsoft joins self-driving space with investment in GM's Cruise"
     excerpt: "Cruise and General Motors entered a long-term strategic relationship with Microsoft to accelerate the commercialisation of self-driving vehicles. As part of the partnership, Microsoft will join General Motors,"
     publishedDateTime: 2021-01-20T08:38:00Z

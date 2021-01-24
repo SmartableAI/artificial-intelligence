@@ -3,8 +3,8 @@ category: news
 title: "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU"
 excerpt: "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,"
 publishedDateTime: 2021-01-12T17:47:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "56euFvVLhZM5J0FBCteZ9ZUW8t+jkUNM25picnpYMLy54w2uKVdTbRYtSgZce3Km2fV4ADwGzg4nHgiyEnZb21CyekSmB2W07+t9k7/ENXEDXFOxFwgwYAt9H8jODknRWeIOwY3YikHzqQppB45SfkHGTWapCKh1N+QmIoZIJj29DgMW+xuk4O5Y1o7/JFCGFkXhU25PjNVW+MwiSWJ9mf79fE5equ3JQ8Uaf4Swx8DXnxxbmgM0S1u4vFAWwv1mQi3ruBtl//fu5EAAILnhurUnmephbkp6QUgByWd+p6Zy/aCDclhPU2WImodlLAWxgQLkfGHOFfTDlPMjnYsSBhrapBZi/l0C8sno/yREDjk=;TuqNBUL/HDUmKZe3N4MKbA=="
+secured: "TG0VkrhQCq3DND4YVGjzh49gUOJQghIMIjLq8piACZ6m54GB+XIkevppIERGsXJopRsPPHl7rtuKdXk8HpFgS+5qrBMgk1ROtSecGtdMrE9+miVmyCVzDQbFBMvsIHdooovnHTILv13xSDDs3JWY9aDfGD2+DOW0OuvFIG6ZIG+6xT6dDrkXGJT/dTp/1AI/KmffLVzm8t4+Ufw5RilVUoQTHk5HDvJVXQNsbkKz3nr0+Ruwk/OrYcyjSfaknWybv9W0aD5EKpEVKBUW7ruz7bLRumtMh4mUyYVxsbp4lqAbvN9Smg7i8z3XdKmY+FShN6fsjKeV6Yar3LbivHOp6hBrzQUVY9aa1op2q8MLfXQ=;imY32doXO1vpBX01Lvu24w=="
 ---
 

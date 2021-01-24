@@ -101,15 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Sidelines Second Artificial Intelligence Researcher"
-    excerpt: "Google artificial intelligence researcher Margaret Mitchell has been locked out of corporate systems, making her the second outspoken critic at the company to be sidelined after colleague Timnit Gebru departed in acrimonious circumstances last month."
-    publishedDateTime: 2021-01-20T06:53:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-20/google-sidelines-second-artificial-intelligence-researcher"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 49
   - title: "Google sidelines second AI researcher"
     excerpt: "A union called the move an \"attack on the people who are trying to make Google's technology more ethical.\". Read more at straitstimes.com."
     publishedDateTime: 2021-01-21T03:26:00Z

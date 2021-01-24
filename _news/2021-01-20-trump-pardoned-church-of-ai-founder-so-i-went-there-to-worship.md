@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/trump-pardoned-church-of-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

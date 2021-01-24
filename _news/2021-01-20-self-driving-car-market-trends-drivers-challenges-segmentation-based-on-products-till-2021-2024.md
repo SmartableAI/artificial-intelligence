@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Improvement, Orientation and Forecast To 2030 | Apple Inc, BioTrust ID B.V."
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Voice Recognition | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2021-01-20T05:21:00Z
-    webUrl: "https://eturbonews.com/2639129/voice-recognition-market-improvement-orientation-and-forecast-to-2030-apple-inc-biotrust-id-b-v/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 0
 
 secured: "v+Utc4oVUMgB9TlwLhr8YAY4wIz1kz3hincn2CfwaxRP5yaVlSp8vbKGUgAJHhTN+3UYCHB+iwXOwJ5fGoIHcy8H6D1UDebMMY2DpLZHq3GVnOlTLUavAGq6aS0nJ/oE7zfglApxhkhRqJ5aBIjkWYWhs8fVnxBUNNBUzzn7oSWDUTzBkj5fwYNfHh0TkDuvQ9YQ7SYY9IFiWTAOD0ZbWpoqO1nJLwsOB0ordnWyGM0D0kh3Jjz2te8uJ+yWqNPOYleRlgp9epEWDKEOa9EmEhk1hQ5qjKvPT+1TT8DGI+kiqxTyiv9CzilvjDs2OpB8Yk5fYuH6Ppy27NUIEn+plP3X0Um+ql2m/3CRi/ux/AU=;WLs+pLyFj47O1vVHLi8goA=="
 ---

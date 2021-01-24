@@ -111,15 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Pardons Embattled Self-Driving Engineer Anthony Levandowski"
-    excerpt: "The Trump administration granted a full pardon to Anthony Levandowski, the former head of Google’s self-driving vehicle division."
-    publishedDateTime: 2021-01-20T06:35:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/20/trump-pardons-embattled-self-driving-engineer-anthony-levandowski/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Pardon for Ex-Google Exec Who Took Self-Driving Car Secrets to Uber"
     excerpt: "A long-running Silicon Valley soap opera took an unexpected twist on Wednesday after outgoing President Donald Trump pardoned a former Google engineer for"
     publishedDateTime: 2021-01-22T15:47:00Z

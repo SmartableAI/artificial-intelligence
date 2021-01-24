@@ -1,31 +1,29 @@
 ---
 category: news
-title: "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
-excerpt: "The IDC report recognizes the advantages of 4Paradigm machine learning platform and AutoML products in technological accumulation, enterprise-level product layout, commercial implementation ..."
-publishedDateTime: 2021-01-21T05:02:00Z
-originalUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020"
-webUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020"
-ampWebUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020?amp"
+title: "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
+excerpt: "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A"
+publishedDateTime: 2021-01-21T05:53:00Z
+originalUrl: "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
+webUrl: "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "m0FSyCHwyYXB620bQJC8NuWpSTg54kdPakd+D37gpt/hMOM+Yckq8iu//aZqcPv6xlBOYEkfH39p54Xgj1YYhsmHAHLJbHJjtI2SUWqnKOmUDn+ITLbh/xjKV8pbj2kRfUyEpdtxoaXdnBG71x7runweK6f78JwEo/XXc9e5CGzd92wzd5L6hLNra0forJTT/lsQGIyuqRzEh1eIJ57F9S7A60sp2BIIbinNho9Wf7IxTj2/JmE4oqwt3tUN2Ao7O8rXln6u33WDutSIrmtfnYUJymAeZ8Or0tc6c661T2jtgTm2RV/6M0OAq8NSHEV+t3lmEwDgCtuXUgxSsIlmAxyChLJOLAD0mUNbP+rYNi0=;078m8pNryc3utgg5qlTC5w=="
+secured: "V+Q60polCjsXeEMVeT9TMjYQdUFcGN31V/uXrD0Bpwp0g5mHrnB3E1opynYjCt3wx3z9GfC4DVqSiGakxNNGBxyB1jpm+gbrDRe8qp+OBlekYrHKoOiYCbVh69wrp28Lw1Hm1ROh6/0tFwjacOlSphax7QyzEO6yExnqtZ4Cf134duJQwTrpLPkYEZYyk/gCIqNyKH8YTkWQ6TXNmCVrtJY2CtYYg9V0EoeJOmLCHo3TEnf1F0hSlokF7bmQcnxgL/cq1iKurHa1PwZs6+wogBvMe4tES5xwJVBmT8/1/ABr+lZnotSYFQUW9vpWTlzWIkJX0/2OPkYII7RS+6nOZ4pbx9QnuTD7KMJgrCZL8PM=;3p3GfRedTUNmdMM3pIzwUw=="
 ---
 

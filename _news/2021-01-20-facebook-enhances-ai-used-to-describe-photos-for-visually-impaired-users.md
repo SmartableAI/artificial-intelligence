@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
 type: article
 quality: 88
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -162,15 +162,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facebook AI now better describe photos for visually impaired"
-    excerpt: "Facebook has announced new improvements in its artificial intelligence (AI) technology to generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users. Way back in 2016,"
-    publishedDateTime: 2021-01-20T05:29:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/facebook-ai-now-better-describe-photos-for-visually-impaired.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 19
 
 secured: "tHL7jvpvkg8UflGHMIjSpPJEgCaRLU4mgyj8Ydcxv+GmrGbMq/v6Z7ffq9o3EpZzj0+h6BQ2QUeXyPFQ+WkcDp5HDKdXhm0NcVULD+7UJFxPL7uqYg9qVB3WBSrXZfGYDSZKg4d68FDzEHmz7znxmuhyQMiTVw635bRTTHHMxovki3OS8Uc+95Z7pBDx9DIwNTUEBPN66SoUxyqcjR/QN+M84h3VkzSCzu7RMB3r6DBZXbCYcixdWLvXGZ+/6IU0kbRxW2XyY+vNgVg//NCnrfF/4HFpAIQC8aXjyyeSrS4b5SHPlxdFNgIl8pt/wP4Q2MCXGyGZe64Gj7HQhA5GcEsSTXICBllcPKiI0LUiGPzu7vAJTSURL4pHxs+oUayD/aXgaci398vApZwhtN9vbD+4H6kiZmzCP6RXa2I1MV7PMSbkyamgMS4r0bdYIwd8OTIC2LXd5aArgbxWAQ6j7bkX0hwf0lhra0b8PEBkR6uMr7/Xe/6icAKU+1SgMaMGEuAyTrr9LqNms6J2sMnuNw==;IDv4EbGuuH6nbMpt5Qimsw=="
 ---

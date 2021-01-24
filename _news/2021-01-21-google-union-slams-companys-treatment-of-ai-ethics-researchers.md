@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Sidelines Second Artificial Intelligence Researcher"
-    excerpt: "Google artificial intelligence researcher Margaret Mitchell has been locked out of corporate systems, making her the second outspoken critic at the company to be sidelined after colleague Timnit Gebru departed in acrimonious circumstances last month."
-    publishedDateTime: 2021-01-20T06:53:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-20/google-sidelines-second-artificial-intelligence-researcher"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 49
   - title: "Google locks out another top AI ethicist"
     excerpt: "Google has locked the corporate employee account of ethical AI team leader Margaret Mitchell, and is investigating her activity, according to Bloomberg. The move comes about a month after another prominent AI researcher,"
     publishedDateTime: 2021-01-21T09:32:00Z

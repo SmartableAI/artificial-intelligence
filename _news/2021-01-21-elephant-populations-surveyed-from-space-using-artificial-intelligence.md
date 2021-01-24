@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 807
         isCached: true
+  - title: "New AI System Accelerates Speech Therapy"
+    excerpt: "TikTalk, a new, artificial intelligence-based (AI) system can accelerate speech therapy with unparalleled lesson customization and innovative training for K-6-aged children using highly engaging video games to encourage more frequent home practice."
+    publishedDateTime: 2021-01-23T18:33:00Z
+    webUrl: "https://www.unite.ai/new-ai-system-accelerates-speech-therapy/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 56
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:945/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/01/speech3.jpg"
+        width: 945
+        height: 600
+        isCached: true
 
 secured: "JfD8i8NWnspFV1zNa3RKQIikUmPUh9V9MdrFgvK/Gl6b6TtCXodwRdNBKU93vN8RdtI9b2vyxuACp2cmFJm/eK4oMLYQAS3zIARCk6e96iIoRFftJ6k5Kpi61K32ytMWSUCUjmWklKko7dA3m+6PSF4w8pzvE88MHfoxhXmQcrpeXCDIMTnU/xb7BEwlaOJ6XfWCvkAvQpOKEuVBSGBx4f3ZpMMTpJvVU/QTpHQWCh0I2qiQCst/B2CWZoIgEpY1DriG7Sdb85H+cPrxyqcZQ6ObUcDY7vO3pUr/+lP8wLm6j9+T4lvRP4tpbvAV/poFvMYKvEqmQM05/YjvJEkmpH/UPacATMjJgvphVjwNc3pmwi1qfTeWAlyVpSNHCA9/9hYPjRI8E07MnOhRIGtDitUFUeIvZyf6Y4idi2n6JuBoskxqHgpG+ugyomsMx/8BBM4d+QWHszLgZzXwAKGEYEGJVZUQGyJk6AiXHR+wDo52h87IP3Lx8tHm6QVYHH9MsCbebnhjUc+wKJhQP9LlqA==;6UB0G9w7UOipvA5Jka62+Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026-2021-01-22"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Improvement, Orientation and Forecast To 2030 | Apple Inc, BioTrust ID B.V."
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Voice Recognition | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2021-01-20T05:21:00Z
-    webUrl: "https://eturbonews.com/2639129/voice-recognition-market-improvement-orientation-and-forecast-to-2030-apple-inc-biotrust-id-b-v/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 0
 
 secured: "Pbhh/tT7H0ZoiqSEAoGp5Ht8mlFKGDNh1RN/DDqx+VE26iCuahWIBA1N4vMXQ+2SGmtQPDhhV1YbqXy6bdadWlPUrkK4f1yAJ2L0d7670XHYGYPnekwlS5AYmz6rWOSDv7g7VHOuDUGK6kNTAz63G8akjtDis8gHp716RQ81wMWFcjweQJk1fqjhri0du3GDEltmYVaCUskNeWKHDlwzJnNsiwKJm72bLsrl0b0W52+wGIl7xYYfiXZqSbQXwkTYlWdTROusSxytX1fBZAtpuYal8IQSRDwZTmLOu0WjZT8aLdKE8bNivHpImTpNGzpxKpxOaJs8Mwdzxzb0WFv07/hE7j96jhdGMXhRvtCH3kw=;IOH3BBUEFjHiFX3gapvEfA=="
 ---

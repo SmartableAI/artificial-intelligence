@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-t
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
 type: article
 quality: 87
-heat: 110
+heat: 112
 published: true
 
 provider:
