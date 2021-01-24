@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Make AI evolution inclusive in India"
+    excerpt: "The disproportionately dominant role played by men in the development of this technology, which leads to gender stereotypes and biases, is concerning The last few years have witnessed the evolution of"
+    publishedDateTime: 2021-01-24T18:41:00Z
+    webUrl: "https://www.dailypioneer.com/2021/columnists/make-ai-evolution-inclusive-in-india.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/make-ai-evolution-inclusive-in-india-2021-01-25.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Atos, IBM and Red Hat team up on new industrial automation services"
     excerpt: "ICT company Atos is expanding its strategic alliance with IBM to develop joint offerings focused on automation in manufacturing, logistics and supply chain. One of the new cloud-based applications will help manufacturers and waste management companies control their energy consumption,"
     publishedDateTime: 2021-01-20T16:00:00Z

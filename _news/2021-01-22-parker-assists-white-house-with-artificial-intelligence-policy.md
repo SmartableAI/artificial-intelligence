@@ -24,6 +24,17 @@ images:
     height: 1000
     isCached: true
 
+related:
+  - title: "Parker Assists White House with Artificial Intelligence Policy"
+    excerpt: "Artificial intelligence is playing an increasing role in society, with applications ranging from national security to health care and many points in between. Now, under an executive order signed"
+    publishedDateTime: 2021-01-24T12:21:00Z
+    webUrl: "https://indiaeducationdiary.in/parker-assists-white-house-with-artificial-intelligence-policy/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 19
+
 secured: "Iu7crw2kTOdRUCWyKLDHQ1iyj5xxKb9R41Na1cm0BXlIKyTQnjzD+Hx8IRQ0dMFCeo65D2Yt0EVVaYBLrLdfa72oinmHHIlsQOpJtVoV/V99CRN1U4y4HUCaVhYH/4huMiWhQnNEek9iG3RoA3kseWP/h7HooNBRY7z3LtBztUC8AbEVBCn7hXvOsGbgavBkTF/If5V/IfpNH3QIgccGKT4FsA1kE/WMPPlvttFOtzP0O10DqVdjKbD9SSlHIaQEHfmx9KPwDQ/oXKlH+lJlzh0tujlA/NKC/yRDtrElZ20ZE7u9Kwg2cGtz9A2JPHczTeSIxc/G1r18PkTOzZhRgqYCP4X2ySs7QmyVpV+TRWqtQafR5E0d8X4i3pBdNWh1rnS+j6Gwjp5Hfpk+H0kE5QpD+RlWQYNs/2ttLzUkJ5VCSgTwnqIOSu67yOBr1jPw1ECq38KaJZn45bxRI3FSoS/hdCaDpE9qd29Ii4B2nJI0BYeyi7mG26dEy6fNyc2SBmcuI2DnMcQhiC6+Eg3hYA==;qfaQMJH3/ThmwTGLg3iJLg=="
 ---
 

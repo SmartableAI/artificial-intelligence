@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of
 cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking.amp"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -21,45 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving startup Aurora partners with heavy truck company Paccar"
-    excerpt: "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday."
-    publishedDateTime: 2021-01-20T00:38:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/"
+  - title: "This self-driving forklift shows how logistics can be safer and more efficient in the future"
+    excerpt: "Meet the AFL, a forklift that puts algorithms to use by making a load-lifting truck that’s safer and more efficient. For starters, it redesigns the basic framework of a forklift truck by shifting the payload to the center of the vehicle to make it more stable."
+    publishedDateTime: 2021-01-22T23:30:00Z
+    webUrl: "https://www.yankodesign.com/2021/01/22/this-self-driving-forklift-shows-how-logistics-can-be-safer-and-more-efficient-in-the-future/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 13
     images:
-      - url: "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.yankodesign.com/images/design_news/2021/01/the-atmoblue-smart-n95-mask-uses-dual-fans-to-give-you-99-9-clean-air-and-is-shipping-now/ATMOBLUE_smart_air_purifier_that_blocks_99_percent_of_toxic_air-510x314.jpg"
+        width: 510
+        height: 314
         isCached: true
-  - title: "PCAR Moves Higher on Self-Driving Truck Deal"
-    excerpt: "PACCAR (PCAR) stock is eyeing fresh highs this morning, following a collaboration with self-driving car startup Aurora"
-    publishedDateTime: 2021-01-20T15:32:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2021/01/20/pcar-moves-higher-on-self-driving-truck-deal"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 24
-    images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/mergers/bigstock-isometric-arrow-formed-by-two--253666525.jpg?sfvrsn=15a1db06_4"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "Paccar’s push for a self-driving truck gets boost from Silicon Valley partnership"
-    excerpt: "A new partnership between Bellevue-based Paccar and autonomous-driving startup Aurora Innovation represents a major bet that the future of self-driving vehicles will start with long-haul trucks, not cars."
-    publishedDateTime: 2021-01-20T02:58:00Z
-    webUrl: "https://www.seattletimes.com/business/local-business/paccars-push-for-a-self-driving-truck-gets-boost-from-silicon-valley-partnership/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 0
 
 secured: "tzFH3JCGuCKuCk1uzhMoyJYQz13AzdPBIDsdrTGZIzb9d8CjKPD5rVS8wzdIWWs/Es2u+wCPYHsBokiT5fgSKZi0TRUdBgPu+C+9T+NVErWwdhJ9Ja42+KV/lVxlRzmLYbKFoKan/nyk/VohtZJpxmXxwY3Zlu8OlFCXujosk7XYeG2P0aQY1S8qgiNUmvwI9MOtHz9OSNQs1VpEyMaW7kUq1TGPZOzoxP7CJQnw3YiGifzKuX8vTIorJIFOjsxmySW870l2MNT/6UcjCy4rINhHKtOtrQcivMvlom1VUcjc4ICHBXv+Us/hq4E1EHQ6BzzfhDsJGWr+eG26c4XnTfku9iVE6v69dBcFH3qZ5jq0eaeF2wC+2z4srs/sDG9PRL81NDh8hMS258t8eHhJjDiKSUi2mhVc+1A0WUnnHXzk7L85/wn3ZeHrwjMLeMwMo0OQQOP1/7kaL1vObc0SvTfrFKduG9L/CZ41aaLutf9pysZkwqfq1wdCBjyGlwBnOQAKLf2sAHikRLrO8BJOZw==;xrlCSAFVjNIWB42YUrWkoA=="
 ---

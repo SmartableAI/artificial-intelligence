@@ -142,19 +142,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Cruise, GM partner with Microsoft to ramp up self-driving vehicles"
-    excerpt: "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles."
-    publishedDateTime: 2021-01-20T00:25:00Z
-    webUrl: "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO"
+  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
+    publishedDateTime: 2021-01-20T06:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800"
-        width: 800
-        height: 533
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
     excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."
@@ -170,17 +170,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
-    publishedDateTime: 2021-01-19T23:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Microsoft (MSFT) Invests in Self-Driving Electric Car Venture"
     excerpt: "Microsoft (MSFT) has entered into a long-term strategic relationship with the Cruise unit of GM to develop self-driving electric vehicles."
     publishedDateTime: 2021-01-20T17:44:00Z
@@ -336,20 +325,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
-  - title: "GM joins with Microsoft to speed up self-driving cars"
-    excerpt: "General Motors and Microsoft are joining forces to accelerate the development of self-driving vehicles.America’s largest carmaker and one of the world’s leading technology companies will lead a $2"
-    publishedDateTime: 2021-01-20T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/gm-joins-with-microsoft-to-speed-up-self-driving-cars-lc5zm8r5x"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 41
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1e6c8afc-5a8d-11eb-86f4-4fa0aa4e7fd3.jpg?crop=5079%2C2857%2C0%2C265&resize=685"
-        width: 685
-        height: 385
-        isCached: true
   - title: "Microsoft, GM, Cruise Partner on Self-Driving Cars"
     excerpt: "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,"
     publishedDateTime: 2021-01-20T12:00:00Z
@@ -445,20 +420,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "GM, Cruise and Microsoft Partner for Self-Driving Vehicles"
-    excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their software and hardware engineering excellence,"
-    publishedDateTime: 2021-01-20T00:44:00Z
-    webUrl: "https://www.autoconnectedcar.com/2021/01/gm-cruise-and-microsoft-partner-for-self-driving-vehicles/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 39
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2020/11/cruisewalmart.jpg"
-        width: 408
-        height: 256
-        isCached: true
   - title: "Cruise and GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their"
     publishedDateTime: 2021-01-21T08:45:00Z
@@ -544,15 +505,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 21
-  - title: "Yellow Messenger and Microsoft strengthen collaboration to transform voice virtual assistants"
-    excerpt: "Yellow Messenger, the world’s leading conversational AI platform, has announced a collaboration with Microsoft to transform its voice automation solution using Azure AI Speech Services"
-    publishedDateTime: 2021-01-19T23:29:00Z
-    webUrl: "https://indiaeducationdiary.in/yellow-messenger-and-microsoft-strengthen-collaboration-to-transform-voice-virtual-assistants/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 8
 
 secured: "06BlWu/nGARtitQDIB3DwY+pS/FsJQQn142jiD9QaHh/V5s2BH+RIEVo1BHomfBSDcbb2RoyLlMA6GaFKYC3lIEy3j1ZPbjfmfseE9587FbNFjgXvAgUjUUW69wjXVGBISoeqpb6uEEkQIRgBYyVy3kMyAe7Nr2E7bIxno05C+hW70z1cEul88NUwj1kftUfIqN2SQJVjgAiACYd8U2JkZbTYrXM54UPa0E1nEwzvFAOBih7/73YWEwlZwpmCJyiXdDG64cZYSbHyM/oGdIMCuTGJf/9Wukpn2H9m0MQfI+KSt/YsoiFZDxepF+nRKcdTFmEP9ZksUnthuNCw41hG1oNfMEu5zYNcpIZAfSVv/Vwp7bkMgQpNgLmEE2q4Y2MbVjr8+cHPgkmztMMWtOEfoIp+Qg9IQvXJPPCXIbpZ4BNiLvGDClmFLDG1FXQ/UMxYkjpwaHOdCzjLFgPQKPDfEwAotutjgA7f/R04rs1raVBwz4DVBxT+Eda0+CxhmWXNxgqtRYUxzaBqvN9TwXIRA==;ChVbPXJERLQk7XaGwybwLw=="
 ---

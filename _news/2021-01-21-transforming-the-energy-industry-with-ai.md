@@ -27,19 +27,14 @@ images:
 
 related:
   - title: "Okschain Reveals Ambitious Strategy To Transform Finance, AI & Alternative Energy"
-    excerpt: "Tallinn, Estonia, Jan. 23, 2021 (GLOBE NEWSWIRE) -- Uzbek technology company to release wallet, lending, investing and learning hubs built on the Stellar blockchain Uzbekistan-based blockchain project <a href=' target='_blank'>Okschain has announced an ambitious plan for 2021,"
-    publishedDateTime: 2021-01-24T08:06:00Z
-    webUrl: "https://menafn.com/1101480870/Okschain-Reveals-Ambitious-Strategy-To-Transform-Finance-AI-Alternative-Energy"
+    excerpt: "Tallinn, Estonia, Jan. (GLOBE NEWSWIRE) -- Uzbek technology company to release wallet, lending, investing and learning hubs built on the Stellar blockchain"
+    publishedDateTime: 2021-01-23T18:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19286217/okschain-reveals-ambitious-strategy-to-transform-finance-ai-alternative-energy"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
   - title: "Understanding the reasons behind the Huge Energy And Power Demands of Artificial Intelligence"
     excerpt: "The high energy consumption of artificial intelligence models, especially in neural network training (e.g. BERT) leads to huge carbon footprint. Spiking Neural network (SNN) has been proposed to start age of Green AI."
     publishedDateTime: 2021-01-24T11:47:00Z

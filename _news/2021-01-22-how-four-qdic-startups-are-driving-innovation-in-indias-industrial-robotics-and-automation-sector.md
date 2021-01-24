@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
 type: article
 quality: 60
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://i.insider.com/5f9325c64743a3001216b5e9?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Make AI evolution inclusive in India"
+    excerpt: "The disproportionately dominant role played by men in the development of this technology, which leads to gender stereotypes and biases, is concerning The last few years have witnessed the evolution of"
+    publishedDateTime: 2021-01-24T18:41:00Z
+    webUrl: "https://www.dailypioneer.com/2021/columnists/make-ai-evolution-inclusive-in-india.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/make-ai-evolution-inclusive-in-india-2021-01-25.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Google vs Australia, Rockets On Oil Rigs, India’s Quantum Labs And More In This Week’s Top News"
     excerpt: "Developing radical new technology is inherently risky, but that doesn’t make breaking this news any easier. Today, I’m sad to share that Loon will be winding down,” wrote Alastair Westgarth, CEO, Loon."

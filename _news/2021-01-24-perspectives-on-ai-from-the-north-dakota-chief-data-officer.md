@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-24T15:01:00Z
 originalUrl: "https://www.forbes.com/sites/cognitiveworld/2021/01/24/perspectives-on-ai-from-the-north-dakota-chief-data-officer/"
 webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/01/24/perspectives-on-ai-from-the-north-dakota-chief-data-officer/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

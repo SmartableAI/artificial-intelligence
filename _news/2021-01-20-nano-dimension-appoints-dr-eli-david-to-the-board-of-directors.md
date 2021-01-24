@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-20T14:42:00Z
 originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-executive-changes-industrial-products-and-services-corporate-news-cc5505311f4135f29c2b3553a37665c3"
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-executive-changes-industrial-products-and-services-corporate-news-cc5505311f4135f29c2b3553a37665c3"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Associated Press

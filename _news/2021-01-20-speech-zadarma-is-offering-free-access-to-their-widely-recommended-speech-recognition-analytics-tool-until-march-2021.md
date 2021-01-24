@@ -41,20 +41,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Social Assistance Market Employs Big Data Analytics To Gather Insights For Social Services"
-    excerpt: "The Business Research Company’s Social Assistance Global Market Report 2021: COVID-19 Impact and Recovery to 2030"
-    publishedDateTime: 2021-01-19T23:58:00Z
-    webUrl: "https://www.wboc.com/story/43194685/social-assistance-market-employs-big-data-analytics-to-gather-insights-for-social-services"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 14
-    images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20266660_G.png?lastEditedDate=1611038615000"
-        width: 900
-        height: 455
-        isCached: true
 
 secured: "qCLDOKJr3e157PhhW1lviTZ4PxtJVYSIl6T1cD4wrtcKUBGacK5HpYilDwE27R/Hn5bHwPtGkmziKEsR558QNpqNYuROYfOb6QN1eM9APTPccP0L0T/yWhCkrT1dryh2tWlshFi/ThES6CZIo0ywHPdPpuyjoUWysDo7nK4V4ZbHWqbtfHrirdZ+IA20/2pbcLgVlBvjCWeHMQxSsXeNyyXxpViZkrjVRzFSkgIlIFtinLElYBlc4xN7Ota56iTrhC43tTuNgR8oXkSARft9k0ZEFkgn/FQzQnekAL/y8oKEOqDYj4r4HuptpHO+bzTnJIT/ptPptvUTLzG/RDEdqxX5SvBzT6JctaBMBNN6s6E=;vXGzLP73uKX6187WSaI76Q=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-24T03:00:00Z
 originalUrl: "https://www.gizmodo.com.au/2021/01/developing-algorithms-that-might-one-day-be-used-against-you/"
 webUrl: "https://www.gizmodo.com.au/2021/01/developing-algorithms-that-might-one-day-be-used-against-you/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Gizmodo Australia

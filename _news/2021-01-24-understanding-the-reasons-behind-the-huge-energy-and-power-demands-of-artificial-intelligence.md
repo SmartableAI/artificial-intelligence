@@ -42,19 +42,14 @@ related:
         height: 1129
         isCached: true
   - title: "Okschain Reveals Ambitious Strategy To Transform Finance, AI & Alternative Energy"
-    excerpt: "Tallinn, Estonia, Jan. 23, 2021 (GLOBE NEWSWIRE) -- Uzbek technology company to release wallet, lending, investing and learning hubs built on the Stellar blockchain Uzbekistan-based blockchain project <a href=' target='_blank'>Okschain has announced an ambitious plan for 2021,"
-    publishedDateTime: 2021-01-24T08:06:00Z
-    webUrl: "https://menafn.com/1101480870/Okschain-Reveals-Ambitious-Strategy-To-Transform-Finance-AI-Alternative-Energy"
+    excerpt: "Tallinn, Estonia, Jan. (GLOBE NEWSWIRE) -- Uzbek technology company to release wallet, lending, investing and learning hubs built on the Stellar blockchain"
+    publishedDateTime: 2021-01-23T18:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19286217/okschain-reveals-ambitious-strategy-to-transform-finance-ai-alternative-energy"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
 
 secured: "huiDSKewmHZuS7k0S0UaatKbpboVfQbkZmiCJ4vX7uAlMzEXmH/IWnG1UnHNvSLeUGt5AmZh1GTgAznV6t7wgk+XmDKaG5/YP/L+F9LwkR2a6PLppTktlROySqyy5a1vTa4MqeTQoBCkdQroGrHFXiA2veyBkZkWdZJR1aOdvkppkVixQsQ/u86J2C14gw5kDbEOXeUUgvU3ofjxUNe8RRyRDbR75Zp48WvTt421mVee0YvvyDjYQd+qNtFeyhLsIVgDX41wGtKEb6sBNLKMzntdTgfwKbgb14kSzdhEYPbr5jQpavTnk/pDlseJI6VlSP5trlCObaBL1Rlig9NHwgRvMQYuHIpHA2P3WomafHc9CaYi45+1WKm/9sy3+u9J2IboPl/RPU0aNYnv5IExQKqxCt1PMp97QxabsWNHBWu91PHh3Y3qhi3hF1RQz9V4prt4WdUmuDCKK3XoQfUrziw8cD0xKA0fn4MDUYzyMVYe34UOW8GMQhhAGKfHucmnIY6uo0CNVVzckC4uAO2AuA==;EnmRcd8A4nXYmJOGWRQURg=="
 ---

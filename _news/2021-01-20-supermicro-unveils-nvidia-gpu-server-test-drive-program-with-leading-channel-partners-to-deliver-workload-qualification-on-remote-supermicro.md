@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
-publishedDateTime: 2021-01-20T14:33:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
+excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
+publishedDateTime: 2021-01-20T09:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
+webUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
 type: article
-quality: 0
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -97,6 +101,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "IEs3EG6z8SjpuMJWA4qOyHAMdkBQ2IJ7Le/s9lk/H40HGPFMpq9+XMJX2Z/hIxjjzfPsou2ErT+1Mt17CGKs+TAxFIzDEpf54qaPeFM9XQAezyKpuJObmI2tzWAlIUkZdPMqIVVC7d08Sc+kJKfYXssUdALjhvXoKRJRH5ttqdcBpDzK2mCpqVkze1Ky6oICn4Q/CXcEdH1PMRc1ueV27IJbc1KnwVxFlVmmRCMZoBu0ovwITIiSms944NZ7WxOc8vkxgLSNxUSizLrzE6oTIZ/7q3JhPhyTvcWEvVAfdLXIENPTBQM0R0is9tDVClhPoGmUy66CV3RQ7+TZVtw2ftfeES7uFx2GzgA3WrQbU9k=;kY9lIN/IbfBUeo0QBLld8g=="
+secured: "m6AKzqD/pYbEAnq/MzAoOmet8I6fh7oh0TlXUc2mQ9/AtDf6ww5abKIf8cUxIY0uHKo/l/DbyYXUutTePuYeJSHKfDvfqxzg7zfKb040HVFWiP+3jhCWkxmivSvTpbBC/TRTQVTHkyzn1boYRuzn1oiwJVtHOEhO48EiGW6g92lI36bNskrWJ7rEKqV3T4ytQDH3k77M8JWZcPGe6LKjkXNUjFv2C4IeTO1fbIvMdKsyrYajMt92HJrNW7CMCqm9xis7erk6NLL5LXc7+GnLHquVsO2qTF/l6FoBPJxwo2YxrJZnh/SSZKTFtd1n79DOOvNRQbkjxRVNC3yfWAoegSD+VVvU2f2jtKz/20gMckg=;0ihhfJ4PE6pORwr0y/J5XA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.yankodesign.com/2021/01/22/this-self-driving-forklift-
 webUrl: "https://www.yankodesign.com/2021/01/22/this-self-driving-forklift-shows-how-logistics-can-be-safer-and-more-efficient-in-the-future/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 510
     height: 314
     isCached: true
+
+related:
+  - title: "Self-driving big rigs could be future of long-haul trucking"
+    excerpt: "Now there are companies thinking much bigger in the ever-growing world of artificial intelligence: self-driving tractor-trailers. San Diego-based in TuSimple is getting ready to launch a fleet of self-driving big rigs."
+    publishedDateTime: 2021-01-20T04:19:00Z
+    webUrl: "https://www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking"
+    ampWebUrl: "https://www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/self-driving-big-rigs-could-be-future-of-long-haul-trucking.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 24
 
 secured: "4TvJCXRFEpysq4V47OfyMk4QbwwZFCyi/1N1uLsLggDNjwBqlCtrca/5/yOCBFOt2XYGc3W+/T3NyG1VNqqSYTeao0uop2+vQQFHEme3YwvtsSpXoRdPxuzaGCRcdLQsjIoRpb7/T2QIA7KzJp66UdBmpXktCif0m+qq3xaiHvbanoFT0StmD3r3lSB/SzhImT2dGzmA2QOa4XS5+kHeyEj9rO5NmwR4v1biHGZUOWujLB+ldk5TwcJVTKguyFps552QWfH6DT0MqyPfg3iQuhMEMB+mTx9znq2zIJDDfsGPPz3DUXvfE23TSihibsX5HLZOZfVEhpu1ejXelzvbqAV3zmupI0sptyV/XC32j7LccWx1TXrWv33J5ftEy67xHxt87GWsaxR2R8/+4ttCZOvk7vfv0SQ/x8EyLgw0FYeSI1HxBNZs6IycCkshn9AqN0ucKGzoC5KTTGKvuqbwsYN/Xe7wBQeLSTcvg1UTrJn976gszhDK+x6n/OqAFDOZ/5hzrOUq2Vvqfq/7hFyp8w==;pco5g1v6xG8Y8QChiq4iGw=="
 ---

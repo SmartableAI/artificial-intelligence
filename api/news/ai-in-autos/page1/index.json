@@ -315,6 +315,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles.md",
+      "title": "Cruise, GM partner with Microsoft to ramp up self-driving vehicles",
+      "excerpt": "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO",
+      "originalUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream.md",
       "title": "Microsoft Teaming With GM to Bring Driverless Cars Into ‘Mainstream’",
       "excerpt": "Microsoft is throwing the dice and betting that General Motors’ driverless car and electric vehicles technology will soon be “mainstream.” In an announcement Tuesday, the software giant said it’s teaming up with GM and its self-driving car subsidiary Cruise to speed up the commercialization of autonomous cars,",
@@ -667,22 +711,13 @@
       "title": "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources",
       "excerpt": "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA?edition-redirect=ca",
+      "webUrl": "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA",
+      "originalUrl": "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547727620&r=LYNXMPEH0D073&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1441,49 +1476,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-baidu-geely-forge-smart-electric-vehicle-venture.md",
-      "title": "Baidu, Geely forge smart electric vehicle venture",
-      "excerpt": "Chinese internet giant Baidu announced plans to supply automaker Zhejiang Geely Holding with its intelligent driving technologies as part of a joint venture to manufacture smart electric vehicles (EV).",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture",
-      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/09/Baidu_autonomous_taxi.jpg?fit=602%2C360&#038;ssl=1",
-          "width": 602,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp",
-      "publishedDateTime": "2021-01-11T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

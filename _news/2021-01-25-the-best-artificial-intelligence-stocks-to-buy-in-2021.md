@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-24T16:34:00Z
 originalUrl: "https://www.fool.ca/2021/01/24/the-best-artificial-intelligence-stocks-to-buy-in-2021/"
 webUrl: "https://www.fool.ca/2021/01/24/the-best-artificial-intelligence-stocks-to-buy-in-2021/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Motley Fool Canada

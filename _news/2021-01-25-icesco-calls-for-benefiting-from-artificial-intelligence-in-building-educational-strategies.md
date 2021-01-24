@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-24T16:16:00Z
 originalUrl: "https://www.bna.bh/en/ICESCOcallsforbenefitingfromArtificialIntelligenceinbuildingeducationalstrategies.aspx?cms=q8FmFJgiscL2fwIzON1%2bDk8CAgWIdaYGPIFC8TNXXgw%3d"
 webUrl: "https://www.bna.bh/en/ICESCOcallsforbenefitingfromArtificialIntelligenceinbuildingeducationalstrategies.aspx?cms=q8FmFJgiscL2fwIzON1%2bDk8CAgWIdaYGPIFC8TNXXgw%3d"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: bna.bh

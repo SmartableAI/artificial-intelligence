@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/multi-account-model-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/multi-account-model-deployment-with-amazon-sagemaker-pipelines/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: AWS
@@ -27,36 +27,6 @@ images:
     width: 471
     height: 611
     isCached: true
-
-related:
-  - title: "Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines"
-    excerpt: "We recently announced Amazon SageMaker Pipelines, the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). SageMaker Pipelines is a native workflow orchestration tool for building ML pipelines that take advantage of direct Amazon SageMaker"
-    publishedDateTime: 2021-01-19T23:51:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/07/ML-1682-1.jpg"
-        width: 800
-        height: 284
-        isCached: true
-  - title: "Labeling mixed-source, industrial datasets with Amazon SageMaker Ground Truth"
-    excerpt: "Prior to using any kind of supervised machine learning (ML) algorithm, data has to be labeled. Amazon SageMaker Ground Truth simplifies and accelerates this task. Ground Truth uses pre-defined templates to assign labels that classify the content of images or videos or verify existing labels. Ground Truth"
-    publishedDateTime: 2021-01-19T23:34:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/labeling-mixed-source-industrial-datasets-with-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/19/Amazon-SageMaker-Ground-Truth-7.jpg"
-        width: 785
-        height: 378
-        isCached: true
 
 secured: "pmQ23H9v5wEwWMcvzEtOtgZgrHfo9oRCCJZzmT/p8BOgT/H/+YElyoWdYBl1V083rZ9rAkxdbwX30qHJar0CvFAfX8rFSp1Bxm2uEA1g0NmHjokdbW8gvfXjZQ3KLluD0dfOoDdwX432nxIol/5tYb+cQAH9e4k56nm3EhywGh15gYpiB8qmpzkPcAx/6IkLyrgFUmwsKm9VZ1e/pTsQhRhJsqXmQfWEKIV6PH8kAF6ItxMIEsrIGAh5T68M7e4W/hGYzmHeURi1l4AWjfXb1wBXaYXlo8YMi/QmsXdfg0JP71KadvAPjb5je/T4p9TdZUeM9l6K5kYJk+8LKvdQzP1s0VmYY4m5KSKcFXLtAzI=;/bqEFJa29xGSjMebo7FFzw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-01-24T15:46:00Z
 originalUrl: "https://www.compsmag.com/news/hacking/latest-news-2020-artificial-intelligence-ai-in-cyber-security-market-by-coronavirus-covid19/"
 webUrl: "https://www.compsmag.com/news/hacking/latest-news-2020-artificial-intelligence-ai-in-cyber-security-market-by-coronavirus-covid19/"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Windows

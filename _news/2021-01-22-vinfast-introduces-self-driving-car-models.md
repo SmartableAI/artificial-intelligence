@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "PCAR Moves Higher on Self-Driving Truck Deal"
+    excerpt: "PACCAR (PCAR) stock is eyeing fresh highs this morning, following a collaboration with self-driving car startup Aurora"
+    publishedDateTime: 2021-01-20T15:32:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2021/01/20/pcar-moves-higher-on-self-driving-truck-deal"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 24
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/mergers/bigstock-isometric-arrow-formed-by-two--253666525.jpg?sfvrsn=15a1db06_4"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "VinFast Launches 3 Brand New Electric Autopilot Models And Affirms Vision To Be The Global Smart Electric Vehicles Company"
     excerpt: "VinFast’s strategic vision to become a global high-tech automobile brand; Three new Smart EV models: VF31, VF32, VF33; In particular, VF32 and VF33 will recieve orders in US and Canadian and European market in November 2021;"
     publishedDateTime: 2021-01-22T13:22:00Z
