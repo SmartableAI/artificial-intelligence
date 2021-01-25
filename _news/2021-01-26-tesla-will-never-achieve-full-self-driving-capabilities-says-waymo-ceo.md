@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 835
         isCached: true
+  - title: "Tesla and Waymo jab at each other over who has the best self-driving tech"
+    excerpt: "Tesla and Waymo took to media and social media to spar over who has the best self-driving technology. Waymo on Tesla Waymo and Tesla have widely different approaches to developing full self-driving technology,"
+    publishedDateTime: 2021-01-25T18:05:00Z
+    webUrl: "https://electrek.co/2021/01/25/tesla-waymo-jab-each-other-best-self-driving-tech/"
+    ampWebUrl: "https://electrek.co/2021/01/25/tesla-waymo-jab-each-other-best-self-driving-tech/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-waymo-jab-each-other-best-self-driving-tech/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 103
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk gives replay to Waymo boss for doubting Tesla's full self-driving system"
     excerpt: "Tesla CEO Elon Musk has countered recent remarks by CEO of Google’s self-driving unit Waymo that Tesla has taken a misguided approach to develop..|News Track"
     publishedDateTime: 2021-01-25T10:05:00Z
@@ -74,7 +90,18 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 54
+  - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
+    excerpt: "Tesla Inc. is going down the wrong road to autonomous vehicles and is \"not a competitor at all\" to Alphabet Inc.'s Waymo self-driving unit. That's what Waymo CEO John Krafcik told Germany's Manager Magazin in an article published last week. “It is a ..."
+    publishedDateTime: 2021-01-25T16:53:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.html"
+    ampWebUrl: "https://www.bizjournals.com/phoenix/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
 
-secured: "XosTDyDuk37ptgnE7/b6TMEvdplVPmFgSf6Qfgr7bUFQL25yS8rLXyfcF7lPsLpHBGK1D/mm099R6o0uzXszt0sZBPrr4YIxyDf+agNKBMRxJ+4ghclAU7HbVEFmLJIH0uchfp09BQYZtHM2rrIy/pNHRNVovTNbRLQ+UlhcZNYuWJr0J5QUk90d0CjnEXfMOAagGGCHYOtISYf7rXDFT5E073jKd35dcVGN2PdLIyjM0LGxOt4atViABoW3LqySop1dvycvMmfY8LtiF9bAYmjNHTQMg90HBa5KIMoKuLl7rur67rJ/Di9ZV6eFPAo+p/YUJizF/Pez9of5h6M32o6qdSa7WL93Jo9uadHRf+U=;3K/Tw+bUXjT35Fo6fXNKLQ=="
+secured: "TiOHvRLA0oQkSqBMc2EWvhag/4tTYA/M1HwjGdBMx6+wn8G1jLIyG4bI0F9oHwov1O1oVf1Qhucd8vIscAnnX+fq5YMnvCxiegMTatNUJeUCid1Es9Eb0lU7uZU67d+86saTEChJMcmCBlyOw5cCKYtRUFSs4V39bKsA9V9myywCXrC70KWPfs8ewWIXIvCVhO8l9nRRoG6nI+uIc8pLhLhrU+U/cg2RkCvBeUt7DMMMqnHqbSUVLZCe7zUZ8p2XXseekxVL8NP6Nbpd96N8plbj0uA62y0G7+rAUJQJLDAAj9/3yDWkyJ7UcNUddge1zT/6MLFTsWa36O1RXsslnqXIoNT/FEUiiBOp8oMKc0jsHDHTaN0zAQEbinz9XzodXyQM5U8MGkKM4VBzP+0tZSr17Mv+igqj2il5QwmA1DXczKaWOgcrLmemueMxH6eDrq2qMY4XE6I/gBluAfpWwPlOZJQSaRdNzTZ5fdjQSidyr49HYxbrUcG1KiNzud7/EKQUnN0XyiJTFt49yBtkNQ==;xSaAON1la1tK0uTNB3d/vg=="
 ---
 

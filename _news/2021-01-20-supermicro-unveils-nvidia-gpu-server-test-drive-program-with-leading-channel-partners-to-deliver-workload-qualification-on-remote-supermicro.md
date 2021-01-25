@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
-publishedDateTime: 2021-01-20T14:33:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
+excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
+publishedDateTime: 2021-01-20T09:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
+webUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "EMSn11fFPKDNlteM9ERYz0H708MCgpjKqA3TbPwMqPFt4z7WNN2Co9oFzV9k5OBzN8P0sJQhGd76/FvAhxisbXY9Ax76uceDx7y8puMvX5TMhA0M/pyuixlccoUcZ+pkcLfj5nvDIXQWUg619FZk4ecp5s5XrzEjwqmPaMksMYzRdCq7CC4EMQvGCBjm6EYf5+t+Zru4/th1JczhQV1wzCfCR/hHZLGLh52X0sEZE3ShU4oIOcYBbjWlGBdU9FxhSDc5fyZCYJUy59iiJDnKp8OWxCEfApJezu4dJSxRL7uwYxdI88U9wcVqo0Ayy+odR98Nt8cl7Y8Vx9qlw5wiYN17CiWKI3Bxz9+07Zfsnjw=;mCC9AVvJA+TRMKF7RppgEQ=="
+secured: "aV8aup4Lcv/RduTisQCJTLmPOQFufyUxhbR4jt5TJ4jvjT0VF1ByDneqKkj43ArU7RvIv0FcvW6XKHoYNCbprEqn4q4ke6Uj6mWMBRuKvHRTJ1oqWk1g2/t74qbOUn8tYaoCh6/QqJx5NDJKog5lNyLDiMtPuM8B0TCVlg9LSMwgB81JVhXm5LwRKsNUvvrFpi2kikVLSI08YqUc5foLc4GVAaJ88zH+Xk4NsouJSGzTzMIZcW3xN5RYMdufbcOoOaMYPBdouj/sR4RBLqZYCWRrKDLe517jRFsOpimU52iSyfjjOW7b+DVY/m19hvA9sL9xYeQenR5fg1rOVx8eMfutwjsad+3RHYB2xa4pHuQ=;RrjdyevneN47GViarVLo/Q=="
 ---
 

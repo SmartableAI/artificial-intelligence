@@ -24,22 +24,6 @@ images:
     height: 432
     isCached: true
 
-related:
-  - title: "European Parliament calls for human control on Artificial Intelligence"
-    excerpt: "The European Parliament Wednesday in a report said Artificial Intelligence (AI) must be subject to human control, allowing humans to correct or disable it in case of unforeseen behaviour.<br />The report,"
-    publishedDateTime: 2021-01-21T06:15:00Z
-    webUrl: "https://menafn.com/1101465505/European-Parliament-calls-for-human-control-on-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-
 secured: "XHsOtqN0nAx+l2QpPOjF+MnhnezE+j6PUboD0+Tlz6jlKgVmZi/TYNwJsq+5OGNTRcqQ8fq2wiZhw5EnnvbuUl0XQnvojK6UB7Y5A0fi0QWVVUiW316fLnZhgujtjrBm7oQ+GsWBlwqf1j4nys7cQRmq4PGKbrmrsWSktbKyc4qep+QaV33JR3CcXxJFk/UQaa9RFjM6apeH9Y0lHChiLBso0nSBXYbKy05/eb1z8s7keWpwop80eglmQGzfLYYYgNFk3qZzdowzLNy+Xc7ESfJun9L35xj7cIqZR92Ko/Fa7xvlSu0sabs0ItjopuDWutn6YHXG71FxbE6Oulr2Hcld+UL8QkVSpfKK42GP1Smui1l/RC9NoAItyYp2hvdkif6dcDmBOWmFuVE+ti0iaBUuLo6UyJ9/2zNCIC/9ueXFPNVX+bKe+dmVK/dPbw8Ne5YSZJuJ2aKQCYXUKlx/rTQg2cDb1QVnl2mT0I/3g9Zfc1I+svSb7DJXFjbUuY/shFYoYdZ+mV2FrnLQuEi3CA==;lxsfIHp7H1d+m5uMpiR5MA=="
 ---
 

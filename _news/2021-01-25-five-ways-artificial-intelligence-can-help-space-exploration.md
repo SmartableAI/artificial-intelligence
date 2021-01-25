@@ -8,7 +8,7 @@ webUrl: "https://theconversation.com/five-ways-artificial-intelligence-can-help-
 ampWebUrl: "https://theconversation.com/amp/five-ways-artificial-intelligence-can-help-space-exploration-153664"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/five-ways-artificial-intelligence-can-help-space-exploration-153664"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.theconversation.com/files/379734/original/file-20210120-15-ni8svg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=320&fit=crop"

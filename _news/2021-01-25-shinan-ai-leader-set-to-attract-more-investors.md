@@ -3,13 +3,13 @@ category: news
 title: "Shinan AI leader set to attract more investors"
 excerpt: "Shinhan AI CEO Bae Jin-soo will place a focus on attracting more retail investors for its artificial intelligence (AI) platforms during his second term. The AI arm of Shinhan Financial Group was launched in 2019 under a group-wide vision of developing more accurate,"
 publishedDateTime: 2021-01-25T07:32:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/175_303018.html"
-webUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/175_303018.html"
+originalUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/602_303018.html"
+webUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/602_303018.html"
 ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: koreatimes.co.kr
 
 topics:
+  - IBM AI
   - AI
 
 images:
@@ -25,6 +26,24 @@ images:
     height: 489
     isCached: true
 
-secured: "oEM86/r4a4VT+4m5CKL20tNqwi22crFfULiAhOozs3cvHQgZEzfVtAxD1io2AoKeW76mSllbpBMS6DZaWzBx3jJrp1ZSzyBBENEw7gzHzoES9/pQn7+0XP9vD9LZwPBJCfyuQZf7QeYTOxe/0CI2w392254wol66ZjgVT9JCC37OWbMBhZcORmioTmH58iY+bp6ZApoXgtBU0UQ/2okYoUWKF3cNIKZtczDsDQIs+dDK8ovIaYgosREXH//76y396Wd7fAIydQawRpS0kkb21K37Far10moRqbFcLvB+b96usMSRnW+9vqi0TZkAt8zcJwHjUMCAYCjDzX/4e+u1ETaASCWEHAsP894ITd2w94w=;oNM4rXDmEvlaAIi4v5FR/A=="
+related:
+  - title: "US leads race in artificial intelligence as China rises to the top - survey"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday."
+    publishedDateTime: 2021-01-25T11:22:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 55
+    images:
+      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb718a16-caa7-5490-8675-dcef913ff589&operation=CROP&offset=0x67&resize=1280x720"
+        width: 651
+        height: 366
+        isCached: true
+
+secured: "45ykQbZzE8RKWp2pbSFJ/ZVOL3KmAlLtMjYT1X0s5HvkVKArMGiLGiXemC/EHm+6f7Ij7nYDDR7kVygc4vPeb9TZiQMIuqUTg/JPodDZqhj3M5DIdsjtn325KDlBpT5F3rfd67r+OWrnsQvZ2u6osJZloLIfQKN9gl/Y/8nYtOw8sOX5J0ZAcF8izxNI3Blf9E3CcTPnV1zwNZhR/dhyy54B9Pcdvlbo3qMRzBn+/JJcvXM8/N8nxu3j5XGSbeZ00t9lo5nGWU76YtA0jgYTyXH+d9KREMhdON+AVoa0rgu4g5vINUMcpuM4BUS23bxEshYGChMXtnmkhVGsVxF+Df1tk6YgH2QFP9CCz3Cmz2Y=;ANMuURB+f9376gJGVTdMtQ=="
 ---
 

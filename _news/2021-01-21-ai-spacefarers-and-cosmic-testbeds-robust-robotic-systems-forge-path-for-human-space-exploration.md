@@ -40,7 +40,7 @@ related:
     provider:
       name: The Conversation
       domain: theconversation.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.theconversation.com/files/379734/original/file-20210120-15-ni8svg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=320&fit=crop"
         width: 320

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

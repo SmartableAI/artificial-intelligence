@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -48,6 +48,6 @@ related:
         height: 320
         isCached: true
 
-secured: "4xd7F+KZWC7QHtK23zXQOs1i3staSV7H8ueCMKNXh4Vp5T8i0EZOmqFpJN6QsKYiKGG+L5jgPWg5q6AOSmx4NHeSH2mgbBZeAs9SQQV+DYE9+rHiD2PM8nsmrgcYOFbxyzcO21U3/R1dsHmLzhv4qci28w/V9MQzMBP5cHZi21iMUkIKnYpgWwtRNCQUctQocld23rZ5Gps3dcmTV0yKIbV/Vb2mw4OX8si6rkRhUpcLVgTkO7reGNZQ+Bf82CMS7GN54i1o8j2mctT6BT41SitLC8Z8EmA2y67ObmnWxTlq/XPzbQtxqf0+EF9JC5GxeHnmNpGucOqJcnJyL4fjBMSN0nsVX5FXy4A8mh6jpHs=;chW9A8MoQ0WisOvPdyrxGw=="
+secured: "lgYntjBbsLRTTCC92MoAW71OWyDSjqmaTcSByvH2ZywQ2j6jJT+6IHRko/qfG61G+Xdo+VVPmQIrEtAz/rPhQWWuMtnZGcnSHQ4RMHlzponOvx6NlpTDhWc1Tn2+QwwFXdR8nZJqTq8qWjoHBGkgEX46MraCAdrA6cgCAN7fKplUGuR1oTfsG3wIviR73LxNigEfgtpQNRbg9ryR+M64i5hlGAcZjIIYpR400kM1TzpDShDwew7/Uo0cBc3XLJq73GGekm+O4T9buugdSl4QO4erdwoKhwS+BKhFN3r5XHoL1fWHbnaGu3ML3WCA6xc0dVGai5DOoFQiZFY5th5STelFZ4/ZgvkhQr3rGE7h0/QkhnaiV776nXrej60EvQP+zSTNVNmO1OIp4L3bF2XtsxxVlh9sNQ4j4bp0GjjoAi3Zjk5s9/jFJbq/P+NM2b+m6FHKqawcu5Yq+J+qtlGyhrmcrl4w4ljfGISryWeubs31bMtYrDWOxo+hzOyiObjFbR7t7jBQOxY++vibsq3sVw==;XNlzE0kN5Bkyjg0ARu1lhA=="
 ---
 

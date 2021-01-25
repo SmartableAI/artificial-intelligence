@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azu
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/"
 type: article
 quality: 115
-heat: 285
+heat: 295
 published: true
 
 provider:
@@ -53,6 +53,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
+        width: 1200
+        height: 601
+        isCached: true
+  - title: "Why Microsoft’s self-driving car strategy will work"
+    excerpt: "Self-driving car startup Cruise has just gotten a $2 billion infusion from Microsoft, which actually stands to gain more from the deal."
+    publishedDateTime: 2021-01-22T23:03:00Z
+    webUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/?via=indexdotco"
+    ampWebUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
         width: 1200

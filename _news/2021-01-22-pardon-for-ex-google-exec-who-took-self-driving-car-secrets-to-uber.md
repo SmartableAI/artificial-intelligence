@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump pardons Anthony Levandowski, the engineer who stole self-driving car secrets from Google"
-    excerpt: "Tech billionaire Peter Thiel — previously one of Trump's top allies in Silicon Valley — was among those the White House listed as supporters of Levandowski's pardon."
-    publishedDateTime: 2021-01-21T02:17:00Z
-    webUrl: "https://www.cnbc.com/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 62
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106648265-1596584130509-UBER-LEVANDOWSKI.JPG?v=1596584247"
-        width: 4393
-        height: 2928
-        isCached: true
   - title: "Trump pardons former Google self-driving car engineer Anthony Levandowski"
     excerpt: "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.Read MoreRead"
     publishedDateTime: 2021-01-21T07:09:00Z

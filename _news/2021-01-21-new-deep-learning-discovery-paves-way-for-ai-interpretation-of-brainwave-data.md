@@ -31,19 +31,16 @@ related:
       domain: businessinsider.com
     quality: 81
   - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-    excerpt: "Interpreting the results of electroencephalogram (EEG) graphs, which are used to visualize brain activity of everything from meditation"
-    publishedDateTime: 2021-01-25T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-301213520.html"
+    excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising"
+    publishedDateTime: 2021-01-25T13:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
     excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising recent approach to train deep neural networks, to directly learn what EEG looks like,"
     publishedDateTime: 2021-01-21T21:00:00Z

@@ -1,29 +1,32 @@
 ---
 category: news
-title: "Synaptics’ AI SoC for Video, Vision and Voice Wins Best Embedded Processor Award"
-excerpt: "SAN JOSE, Calif., Jan. 25, 2021 (GLOBE NEWSWIRE) -- Synaptics® Incorporated (Nasdaq: SYNA), today announced its VideoSmart™ VS680 solution has"
-publishedDateTime: 2021-01-25T16:32:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-1030000125"
-webUrl: "https://markets.businessinsider.com/news/stocks/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-1030000125"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Synaptics-AI-SoC-for-Video-Vision-and-Voice-Wins-Best-Embedded-Processor-Award-1030000125"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Synaptics-AI-SoC-for-Video-Vision-and-Voice-Wins-Best-Embedded-Processor-Award-1030000125"
+title: "Synaptics' AI SoC for Video, Vision and Voice Wins Best Embedded Processor Award"
+excerpt: "SAN JOSE, Calif., Jan 25, 2021 (GLOBE NEWSWIRE via COMTEX) -- SAN JOSE, Calif., (GLOBE NEWSWIRE) -- Synaptics(R) Incorporated (Nasdaq:"
+publishedDateTime: 2021-01-25T17:42:00Z
+originalUrl: "https://www.marketwatch.com/press-release/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-2021-01-25-11184235"
+webUrl: "https://www.marketwatch.com/press-release/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-2021-01-25-11184235"
 type: article
-quality: 64
-heat: 64
+quality: 62
+heat: 62
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
-secured: "XUWcyqxXEy/CPHD3Vxn50sh9Ut7QiyP22plKrzKZ39S4smbHCdNjnFm3M98xe5mmbWWkagIeSIMQRfhINqhFEzjqrUFt3YragAbgMU+PfabmU0SnXX/ebSQqBQ6AR/Q/4Y4c8X0cDd1bpNWNK9OjJmBNs1HzeQCXWpIt2zl6riuAoQiS3/DDFGg44qfaB4WShHq8vaCJ5i1v/cubbsYjzIftA2uaFVmHqN0Ekr4OjHKxHRMNSCDA2SB7feDmfesDdRpfnoVIVSJRJNni15Jc51SNm5WfkZ5Ax0UdBeF3+dT9c0BPF8VjLvpWbIPY0hgg0u+xu8kwuViEZ/y2tDQ82Gk7fBXPUCOeDFpoYVSXRE4=;0DHHT+jrgsXqGteJgIkrsw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "7AWc6FbuPXvZMvoCPlJqLu0b9nZyiHVGVyV4BLFp8weXIpi9q2T89vmyQKT/IjbbjGtyW1EWCESxTtb0e0vTCLvSaGPsBGtGYJPIsou3dsZSJIKFWjyv9/Fvhm0tgV4JKuEt8J9HD1++B/2H3g1PIJfHYkQVsbVhmz0XOQF74LbUl21jcSXRGHGaWS+4d+BBBjnAe7/1jKrLRYfijPrXD+cIDRhnNLuS362t5AuIFFEtSxaPkAxkGeTCxaE2lekbfW6DRCtND88EJH5cRFusl9msECbJ7XAFyby0xlJgJVC7+KOCY9RN2eBAu/oErFZncB79mUq6hEA7068e3i2RildTp10x+LPiJTeiPfViPZI=;maisHPoUt3+JAl05MZx6AA=="
 ---
 

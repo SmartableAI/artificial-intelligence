@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/21/1016460/transforming-the
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence will transform the future of dentistry"
+    excerpt: "The COVID-19 pandemic has disrupted life in all kinds of ways, which has caused damage in a myriad of areas – including our oral health. The past year has"
+    publishedDateTime: 2021-01-25T18:12:00Z
+    webUrl: "https://londonlovesbusiness.com/how-artificial-intelligence-will-transform-the-future-of-dentistry/"
+    type: article
+    provider:
+      name: londonlovesbusiness.com
+      domain: londonlovesbusiness.com
+    quality: 37
+    images:
+      - url: "https://londonlovesbusiness.com/wp-content/uploads/2020/02/Dentist.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Okschain Reveals Ambitious Strategy To Transform Finance, AI & Alternative Energy"
     excerpt: "Tallinn, Estonia, Jan. (GLOBE NEWSWIRE) -- Uzbek technology company to release wallet, lending, investing and learning hubs built on the Stellar blockchain"
     publishedDateTime: 2021-01-23T18:32:00Z

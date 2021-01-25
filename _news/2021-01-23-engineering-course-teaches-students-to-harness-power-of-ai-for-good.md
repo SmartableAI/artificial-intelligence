@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-22T19:52:00Z
 originalUrl: "https://hub.jhu.edu/2021/01/22/ethical-artificial-intelligence-deep-fakes/"
 webUrl: "https://hub.jhu.edu/2021/01/22/ethical-artificial-intelligence-deep-fakes/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/Artificial_intelligence_012221.jpg?itok=AI9ZgdXv"

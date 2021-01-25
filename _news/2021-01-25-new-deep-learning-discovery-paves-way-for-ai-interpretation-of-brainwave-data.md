@@ -1,28 +1,28 @@
 ---
 category: news
 title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-excerpt: "Interpreting the results of electroencephalogram (EEG) graphs, which are used to visualize brain activity of everything from meditation"
-publishedDateTime: 2021-01-25T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-301213520.html"
-webUrl: "https://www.prnewswire.com/news-releases/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-301213520.html"
+excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising"
+publishedDateTime: 2021-01-25T13:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-1029998995"
 type: article
-quality: 51
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare"
@@ -55,6 +55,6 @@ related:
       domain: businesswire.com
     quality: 31
 
-secured: "YixHOGiLfV5H3rnirfDcDfcefmIgEJppLFAxMSDIDwbEvKCvc/O/e72jgEZYHqT8TmHNjEn9NDg8icQzpo+u2dSOSH5UKHMGAlrBglo+dtEt3fCYSUfjbE10C96b2vldoRZP0gvxDdWWGZGkJu6+y0s47ohMdS7pceESHwujb8aH/pgXOXRIM9v6NDdwD/O7Tz3UOJd97tev9Z/fBYDI3Ve/ZeBXl6WAjNqvl4zQ2wYl7kP5w7obllumdvanRpeL9uM6ytIUxm6lWu3SJPQOfxZO4zFIDcUnAGwRHceItcf/Sczai94USOvPUKxMOew2nEVcQzZVRKpRzXvGQlRx27+P1u9Gc1Nyps8xNVKKn9Y=;2RyYCf05RirXFgBD0VsnbQ=="
+secured: "udKT68cRCJrp8AB4Fgm5mwB9XKwJOeFvF9A6fNuXidCCW1BHZs+haK4TFam+GQ420CaEDr5z4WkAfD85egqCwHvFVd0jgSx4ciDQHGfHNGr3VS4dR87O7Sw8jovGo7tXJLE5SNuUg8aiw7h21iefn9FhJNYpoKERNbLgSJm86utsYgKdj/oUkDQHOJQdlFf1VTUd6Hw36GebLoL/q6Ixad0uJ40RCP07MQttSGWsPxXtmCSuVgrvl2tBTHrAW1A+vyKlN23oa3p5eHVpwW4nyiaq/Ipm66my7fATscHDFh6WeTZKYwXFDHMIAYMI2S4y2P1xW+Y0+cNZ85cb6HHniHaeJIlhdHECGMBI1Nt/6cw=;q8NxR5sQ9yMSetrfjPjvkw=="
 ---
 

@@ -33,7 +33,7 @@ related:
     provider:
       name: HUB
       domain: jhu.edu
-    quality: 39
+    quality: 41
     images:
       - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/Artificial_intelligence_012221.jpg?itok=AI9ZgdXv"
         width: 2400

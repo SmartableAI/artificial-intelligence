@@ -3,10 +3,10 @@ category: news
 title: "Python remains most popular programming language to learn"
 excerpt: "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly."
 publishedDateTime: 2021-01-25T15:56:00Z
-originalUrl: "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/"
-webUrl: "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
 type: article
 quality: 89
 heat: 99
@@ -46,6 +46,6 @@ related:
         height: 500
         isCached: true
 
-secured: "BesipnwgqEELmRR4+T9qTr7ZQNQfTSYe7UaweVvcYTixWr1KbEN68IFNfWwuPUmdwr+kfwfzglk4GwLL1Wb0inI/8EgahL7UPr+iICeRSP3cBHqIJZoHxKteal6Wy4/sFLji7xGf4gCwXrPwExkulI5WD9TZxXKx0KYmxRRlcAX5MU4HGl79KYy8Jqam9v7dFY3C+ro/EwiLhz8S9V/cDRU5gY+/ie/fl9DoPSy8qy4PB9KGS4oDbMDFo5klWzKFRHw83fCXce2EVirGRQeia9q8K6pRCYPR+4vV7kU1mQa17FDAH9kXkRHtm/f8s9r6Nf9ngGvD59rzGTxyQ1Zyrsxgi0lg1+KP/EhlF1mEpMU=;CrUGlHFGJ6xEW4mqCNcuQw=="
+secured: "sQ4psvvPxGTd/jhR8wzX/SEpvsIL/gSbcKW+QTTuF/DpzI0oFWHL9lZCU0gyEyw7wGoyERleTu3T61zokgpTWEd+2WejVanV4CTONMQZFPDXot1VsxuUSmmJmSQiVuoOYACDtHqW1vcMwiQ+lzBrTuFjIMhQ+TLFu7bEgITSfZ/8rs4TidxLIZxgP4FZ4OIr6XKqPhFqFA9Ql+a3ubgU06U4tdBddavrIpYCOMBl2IVl5WBi2wjv6AIlgGdW4B3VqLFGXRLa8srcpoGS9qRwoXXCB38ShqanAPKSW+3jk7HUiu296P5Px8159N1btNQS+y2Olg5lk4nhJzyHwwBPGLN+t8DLT0x21aB2ouhhab0=;QLWabst3IJG8wyEIxqsIAA=="
 ---
 

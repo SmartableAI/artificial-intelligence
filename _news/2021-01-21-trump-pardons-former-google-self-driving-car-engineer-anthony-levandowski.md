@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/trump-pardons-former-go
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: Business Insider
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Trump pardons Anthony Levandowski, the engineer who stole self-driving car secrets from Google"
-    excerpt: "Tech billionaire Peter Thiel — previously one of Trump's top allies in Silicon Valley — was among those the White House listed as supporters of Levandowski's pardon."
-    publishedDateTime: 2021-01-21T02:17:00Z
-    webUrl: "https://www.cnbc.com/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 62
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106648265-1596584130509-UBER-LEVANDOWSKI.JPG?v=1596584247"
-        width: 4393
-        height: 2928
-        isCached: true
   - title: "Pardon for Ex-Google Exec Who Took Self-Driving Car Secrets to Uber"
     excerpt: "A long-running Silicon Valley soap opera took an unexpected twist on Wednesday after outgoing President Donald Trump pardoned a former Google engineer for"
     publishedDateTime: 2021-01-22T15:47:00Z

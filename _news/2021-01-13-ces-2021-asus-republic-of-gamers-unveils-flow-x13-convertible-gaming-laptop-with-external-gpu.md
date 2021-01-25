@@ -3,14 +3,11 @@ category: news
 title: "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU"
 excerpt: "The new 13-inch gaming PC converts between a laptop and tablet via a 360-degree hinge and gets a performance boost from an external GPU."
 publishedDateTime: 2021-01-12T18:50:00Z
-originalUrl: "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
-webUrl: "https://www.techrepublic.com/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/"
 type: article
-quality: 77
-heat: 87
-published: true
 
 provider:
   name: TechRepublic
@@ -30,17 +27,6 @@ images:
     height: 801
     isCached: true
 
-related:
-  - title: "ROG unveils Flow X13 convertible gaming laptop, XG Mobile external GPU"
-    excerpt: "The top-of-the-line GPU is based on the new NVIDIA Ampere architecture, which combines CUDA cores for programmable shading with second generation RT cores for advanced ray tracing and third generation Tensor cores that offer greater throughput for AI ..."
-    publishedDateTime: 2021-01-13T14:23:00Z
-    webUrl: "https://pressoffice.mg.co.za/content/rW1xLv594rQvRk6m"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 19
-
-secured: "UlvW5WkReNN+Ng7l6CPYwAGHSoVcYB8nia+eRUKrDRwIPVXUCSo230ulsmomMTYCBONJ8wIRVwBrzCo/DF9EsBPkuAwl7AC+qg3yP94sFXhO1w65FZNakk9Dynn4v26h9F5E/YdxlnQ2Na8dyZEZEy3c3I4783T4+4TK0PJW+wqueBf51b/KL5VRQ4px8qp4H0V49JdbYqM22QDxwd8CXEJ8r+Hh1wkC2S1xj5Ds0h1GfwiFDxZzocw2uj3J66CrwwJ4MybBbYC6EvEcmhMc5I1AUa6EJ2Npr7xc86ECWFf8J+KqeIG+ZC9JQhg9gqf/3B7RMfOBqLhFjTlW27llrwHbxuipwRDcR/7luPETJ3f5D6RSVb4H/KyJ+UtWBwY1pfvebyJ74NrIzaAk8WTJPgozOd+qVptnaA2zcjm972mQvbmozlSpqTKcxkSHb1w7k1kZg7Tc5g82PqHVmE0QHyZD9RZ1TtFF+a112rQffDhlZvktOE4d03Nb9JpE1v3GlDYhGCN47h4R/hFYge8iKQ==;nZyZ3OeSfNWjHMhrTWAgUg=="
+secured: "rbc7XTr/6nahaNV7sGNq0EZPksdBV0oEJ0rXVa73FgmJEvuKYuKYM4KvCqFMaMs6qU+3q+N+RdO/wrjbfDeIybrCUVRlMxg5ZRo51/woCKKwfY9iiMHQoWGw4PqNhdspfdNioZjFiK2rMHWDCH9J6MU2rBjM2X8MVBGntuvc+BoHZYMBUxA7rTjnCtNifw+/35QZBPNDlNNYCEuwUVxf0sr28ei3fYejQSksCj/lqJozNoNrWwGPqv/Nx1Fhd2XC4bWZbUJf2g6LtVL+ld9jY7AWhJlf3w7xOxAcgzkKBbnczxVgY0X0SUx0c2qeQA5IJ4La3DC/OAvksyAzlpqPNn7Ex7vLM/b4ZNkdzOuJDjQ=;2OVxZBqvnw8DBuA1bwTl/Q=="
 ---
 
