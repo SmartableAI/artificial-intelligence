@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
 type: article
 quality: 60
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
+    excerpt: "Taiwan's largest and one of the world's leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site ( A MiR500 Robot Lowers Transport Costs at Schneider Electric Talking to Machines - New Operating Concepts With Artificial Intelligence Incremental Steps to Creating Value With Industrial Data Analytics Warehouses Turn to Automation to Meet Permanent Peak Demand ITRI's featured technologies include the Dual Arm Robot System (DARS),"
+    publishedDateTime: 2021-01-21T20:19:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/01/21/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021/16132/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 49
   - title: "Make AI evolution inclusive in India"
     excerpt: "The disproportionately dominant role played by men in the development of this technology, which leads to gender stereotypes and biases, is concerning The last few years have witnessed the evolution of"
     publishedDateTime: 2021-01-24T18:41:00Z

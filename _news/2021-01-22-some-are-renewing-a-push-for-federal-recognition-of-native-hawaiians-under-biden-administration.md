@@ -66,20 +66,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 39
-  - title: "Some are renewing a push for federal recognition of Native Hawaiians under Biden administration"
-    excerpt: "The new administration is opening the door for federal recognition for Native Hawaiians, allowing greater self-determination and control similar to other Native American tribes."
-    publishedDateTime: 2021-01-21T06:37:00Z
-    webUrl: "https://www.kitv.com/story/43207592/some-are-renewing-a-push-for-federal-recognition-of-native-hawaiians-under-biden-administration"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 27
-    images:
-      - url: "https://KITV.images.worldnow.com/images/20275420_G.jpeg?lastEditedDate=1611187699000"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "2nezhmUHAKMKIjFc8+vNwBXCuk4irtzsYyW53c04Z32imHMTusiuOSH1/qgy9IzlQY4hlydaQtkUjbucaxT7AHVxT+LTFeaJZIoqZViqAx33E0tgPiVO5IaEnOntKkWH2cje5eA4nRbo7f7p8SjDMLdfnZ/CuNYJLE0tuIe5opuZZTrK4NlT5JmTzcHlF3T3jqEho8t691+uPkJhTP6yzRLpLtsU0HagvoRAx25Y4Grko1HK1M40lul0WpROwtUe/sJq6bE93Ng/sbkReyECokXqu4XbBqyIoWyMSxq4spVDEMUjAGly8uBt7waCTfWfTFhtWlmyt3iwnufWw9/0j7YTKaTl5/v0zMdlJZP6CCI=;GgZjxEZwJPIZO9RclDmrYw=="
 ---

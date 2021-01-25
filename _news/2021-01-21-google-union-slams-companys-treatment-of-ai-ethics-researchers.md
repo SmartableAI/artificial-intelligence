@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/103724796-GettyImages-461180134.jpg?v=1532564092"
         width: 3000
         height: 1978
+        isCached: true
+  - title: "Controversial Google Investigation Centers On AI Ethicist Data Breach"
+    excerpt: "Google has now officially launched an investigation into AI ethicist Margaret Mitchell, reports indicate. The investigation itself seems reasonably"
+    publishedDateTime: 2021-01-25T22:30:00Z
+    webUrl: "https://www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 57
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/04/Google-Pixel-Event-Logo-2017-AH-4-AH-2019.jpg"
+        width: 1600
+        height: 1000
         isCached: true
   - title: "Google Suspends Second AI Ethics Researcher: Union"
     excerpt: "Google has suspended an artificial intelligence ethics researcher weeks after dismissing another member of the team, a recently formed union said. The Alphabet Workers Union, which was created by employees of Google's parent firm,"

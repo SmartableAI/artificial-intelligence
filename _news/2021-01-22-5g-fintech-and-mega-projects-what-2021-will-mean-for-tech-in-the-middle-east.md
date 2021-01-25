@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5g-fintech-and-mega-project
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 15
-  - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
-    excerpt: "BOSTON, MA / ACCESSWIRE / January / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
-    publishedDateTime: 2021-01-21T07:00:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/625144msn/wevo-selected-for-masschallenge-fintech-2021-program"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "N5VHNyI5XbPH6zbvRTl/a6VO1rlxF6316XR5rvFO/81yuEr1P3WnebKcGe549ZQSwPAkg4dEYj38D18/7M9Gr9nTkhLaUpW9XE7BNLGIqkKTNq4GtayVIfT2SuT3md0ERSuBGQk7he6Po9/ZaInugfRLMONT80k1RhsxgM3dfIQzFEn220nv+jKzs8mwX5YNBkyZpiSKpN3bZUxHGwR1xjKcgedsgRR53zNZ0hP6/G41aEcDydIkUPNb/XB+A2FPdIEWa2og4l/R18sQS/lpqZ5aAr4VTEiWX4Il/LQEN4pbN+eRfXeIRlOgjJ6smI1i04ZhRYgGw2zO8Uy6m43fUJy51fHXnurJLk4p2j7E2PAM+HYm7TX/caYZ6SvdQMimABAPJEz9rSgRPXSIGuA8m7d4U8Y1E3TxR247u2yRflxTl4E602DQF/EDz5YsRuZB3Jg9vjAR8bOLCgkEz2YVm2TZjTDEquveH2VGf/As2zHhMdegKe9v/1OZHA10ea9HAFV85bWe6ra9yBSbhzhWDw==;GY1nv30aKa9QRKf6qgqgrQ=="
 ---

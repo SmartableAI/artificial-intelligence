@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Capitol riot boosts facial recognition app"
+    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
+    publishedDateTime: 2021-01-25T22:15:00Z
+    webUrl: "https://madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.html"
+    ampWebUrl: "https://madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 39
   - title: "Study reveals facial recognition of mask-clad travelers improving"
     excerpt: "To determine the effectiveness of facial recognition technology at accurately identifying masked travelers during the COVID-19 pandemic, a team from the U.S. Department of Homeland Security (DHS) Science and Technology Directorate (S&T) conducted a series of tests on biometric systems and matching algorithms."
     publishedDateTime: 2021-01-25T14:55:00Z

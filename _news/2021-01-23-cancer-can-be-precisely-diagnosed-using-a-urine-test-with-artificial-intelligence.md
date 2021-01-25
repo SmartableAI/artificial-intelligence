@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cancer can be precisely diagnosed using a urine test with artificial intelligence"
-    excerpt: "The Korea Institute of Science and Technology(KIST) announced that the collaborative research team led by Dr. Kwan Hyi Lee from the Biomaterials Research Center and Professor In Gab Jeong from Asan Medical Center developed a technique for diagnosing prostate cancer from urine within only twenty minutes with almost 100% accuracy."
-    publishedDateTime: 2021-01-21T05:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/nrco-ccb011821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/253780_web.jpg"
-        width: 505
-        height: 659
-        isCached: true
 
 secured: "GmdpwzYC6JYT4VOXY4cdm3iH+sy0YgJTTxq/R4HUFWBIb2dwG19Z3E9Ad/s5Efl+R75vSWDKrhvxH388wInt+vUVLg3DFResW+kjcE4KCITPPB82D5JtXxN55HNofQy9tnsjmzF2oJ+aePWHhLGq55VVqH833PNMcz+M87drTbagEHNxxsFWvvLpjxbMD+zcEfBr9STk7oXqBQMAIyqwq+dlQ3x7t2t+M6BKIYNRIcsGJUtVrVIOMIX8Utlt3ZrivoRt1iCsNNgE3YQXYcdtLMu0w0rQoaT52UovOkCRXBPnaTwC0hu3c6oDVmOcOf/5Dm/9bEqq9rjuj7TroIqYgVdRs4jdmplvZb259VpBmlQ=;X1yZcWI6bfxIyLp80ka1RQ=="
 ---

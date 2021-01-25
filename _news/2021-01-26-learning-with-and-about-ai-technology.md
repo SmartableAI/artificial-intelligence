@@ -6,9 +6,9 @@ publishedDateTime: 2021-01-25T19:37:00Z
 originalUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 webUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 71
+heat: 101
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+  - Google AI
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202101/child-homework.png"
@@ -42,44 +44,34 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
-    excerpt: "Taiwan's largest and one of the world's leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site ( A MiR500 Robot Lowers Transport Costs at Schneider Electric Talking to Machines - New Operating Concepts With Artificial Intelligence Incremental Steps to Creating Value With Industrial Data Analytics Warehouses Turn to Automation to Meet Permanent Peak Demand ITRI's featured technologies include the Dual Arm Robot System (DARS),"
-    publishedDateTime: 2021-01-21T20:19:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/01/21/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021/16132/"
+  - title: "How Your Business Can Benefit From AI Technology"
+    excerpt: "Looking for smart ways to run your business is a huge part of being a business owner in this day and age. Today, it’s all about incorporating technology into your daily operations to work"
+    publishedDateTime: 2021-01-25T14:53:00Z
+    webUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/"
+    ampWebUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
+    cdnAmpWebUrl: "https://thedigitallifestyle-com.cdn.ampproject.org/c/s/thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 49
-  - title: "First global standards for securing AI on the way"
-    excerpt: "ETSI SAI is the first standardisation initiative dedicated to securing AI. In the report, the problem of securing AI-based systems and solutions is unpacked, with a focus on machine learning (ML), and challenges in terms of confidentiality,"
-    publishedDateTime: 2021-01-21T07:05:00Z
-    webUrl: "https://www.itweb.co.za/content/GxwQD71Z4eVMlPVo"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
+      name: thedigitallifestyle.com
+      domain: thedigitallifestyle.com
+    quality: 57
     images:
-      - url: "https://lh3.googleusercontent.com/1YtEKuSUxY1qBWaY9BcRMo0kAZsEstuV54ChHg8orspy0dBbN7B7eSFrgvBWoeFiV1wxPXJPcX7SyEW80CBMFErnuDspmB6JJ6FqTQ=w816-h428"
-        width: 761
-        height: 428
+      - url: "https://i2.wp.com/thedigitallifestyle.com/w/wp-content/uploads/2021/01/012521_1445_HowYourBusi1.png?fit=500%2C333&ssl=1"
+        width: 500
+        height: 333
         isCached: true
-  - title: "Global Medical Alert System Markets, 2020-2025: Revolution Brought by Emerging Technologies - IoT & AI - ResearchAndMarkets.com"
-    excerpt: "The “Global Medical Alert System Market (2020-2025) by System Type, Connection Type, End-user, Offering, Technology, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-25T11:49:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-health-care-policy-health-care-reform-artificial-intelligence-b15efc25b16c44b6a9abae41604c495d"
+  - title: "Learning with – and about – AI technology | MIT News"
+    excerpt: "MIT News. Between distance learning, spending more time at home, and working parents trying to keep their kids occ"
+    publishedDateTime: 2021-01-25T19:51:00Z
+    webUrl: "https://www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Windows
+      domain: compsmag.com
+    quality: 41
 
-secured: "39bAwYgVJPwxUqmRQNx5gVuMYqiJgBzfX5RqceFwxjOAoaPSdFaBtXtz/xhLwgIvfy/4+4kyez1CBi6abbyfsm9bp1fZKsRiH5B/HioRPuga45JiNxdIpqbQlklbS6Yq+uSmSRS8seyXIGvKJSM+smShcXw5qba9zYaxlLGylFOMFrH1O02ljQSanb4sLegnl/7l5IfQSwxs4Jv6hHhO0mT2EuKLIOoxsnWSIeO1fqijnChF4CCLraGGOF/UaLBRbQFZN+sfOu2B7aB7m/sPglJcG5+02O2BHmrIrqDaWtCXIgQRPVX/z5i3pfwWAW9V6SOEzXkVTAm+I7x2lI6xXciG99IqvJxKtCMtwypU/vs=;fXtKb5RdLCZ22fHXMkZMfA=="
+secured: "+FquoOUUorcYFjBgAyFYBXA7sAbvzhHefn/ZdhWVhu5F6btnD4gOzp+gNFD3XqjA7vz2yrTVy5gAjq704pGYS1vbefdul7dZIMFH82DG8+Ib8krZhY+8mpZwjurV7CCnL4smx2wT4/tmzFMuUHl01cMfz4/0oP4WkYXSzsvvzUxlswc3+b/r7Ddz1zf7ckTPWcU/gM8ozl0McrEtoGqWmzgb5E7mS4ULZuOPOMujWjRiqI1NOcoiDDjX8LMlzZsnN5QoAk9YS9YR/Nule0sZ57T31Ij23KtTe5tmVynhqVk9E+zI0C2M0WuBzU8EBfKlcirilVocQg28zcgm+f/ERH7xdXtFJInUBoW1FjDpQv20Cy8aMRR+M1HDJuiqeV70Xj/gmLSVR3/cNtaOJU2kuFZdMX3316BCCA54Bk+WlvsKBXCllmokodoQuoDYEIWg17rsDSjL71poEbftzphSWDyxRvXwDhJ7tzL4u3Osle+7Heu74lqsJn4J+pdIr10rFVqMeYte0fFgXCOyfu21+Q==;wRG9C/uiNAlgGsN4Who8UA=="
 ---
 

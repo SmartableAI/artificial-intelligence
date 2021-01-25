@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "European Parliament calls for human control on Artificial Intelligence"
-    excerpt: "The European Parliament Wednesday in a report said Artificial Intelligence (AI) must be subject to human control, allowing humans to correct or disable it in case of unforeseen behaviour.<br />The report,"
-    publishedDateTime: 2021-01-21T06:15:00Z
-    webUrl: "https://menafn.com/1101465505/European-Parliament-calls-for-human-control-on-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "utXHpVRSQfKcVFduZngUx6umFNSTyKmUG6bdBHqx8HcPp+6zsTA1xTBwnoUfetB2i0BKKArXGZj5n1SfZqc+AI5NRxyCUoVDMQSQp1o1ZhnVISt/7jmvdWvbDX3xLkjjZBH0MwZ4+/907giSY0H8MmfDwF9BvU5X/34s3QUoO4DGVAsgv+n9kvYKNwKrBJ8Qlrkiej9yQ9aNfgz2ihhON2OpCjqT2Oe0vQJ/Ng6U15+5j8bjIePEN/HhL1vcAlhLTUdgWBnY+aEANdJDOQ8+A6hkaaHnr6ssw9fjxxwMaN/81PJjRoFhg4MpBr36RdBaIn32VI+VdF+wBpPG8tOOKkZ+fnTqoZUaYzGPVZzzxYJws6yTlPg1R3sgaFQ/owcWW3cW1LC0O4FLnI8oOKKhlG1kaOJZ0aoFRfBr22Q5wNeysw6H7H4OmID675VkDMr0OlZWYRJzW2Z2Nz0SnFUvNzyjHrtECH8zESFK8LU80l/ehrrtRJIEqpFmUPeZ/qDfVT7TNAzcidMJjmnKjOjRoQ==;M9XPDo6DatpZ4qrZNZXumQ=="
 ---

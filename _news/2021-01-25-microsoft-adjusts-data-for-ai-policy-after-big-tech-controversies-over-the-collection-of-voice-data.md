@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
-    publishedDateTime: 2021-01-21T05:29:00Z
-    webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 88
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Microsoft’s new vision-language model outranks humans at image captioning"
     excerpt: "Microsoft researchers have developed a new object-attribute detection model for image encoding: VinVL (visual features in vision-language) Vision-language (VL) systems make it possible to search relevant images for a text query (or vice versa)."
     publishedDateTime: 2021-01-25T19:03:00Z
@@ -266,6 +252,17 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
+    excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
+    publishedDateTime: 2021-01-25T22:27:00Z
+    webUrl: "https://detroit.cbslocal.com/2021/01/25/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/"
+    ampWebUrl: "https://detroit.cbslocal.com/2021/01/25/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/01/25/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "SAP and Microsoft expand partnership and integrate Microsoft Teams across solutions"
     excerpt: "SAP SE (NYSE: SAP) and Corp. announced plans to integrate Teams with SAP’s intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Azure."
     publishedDateTime: 2021-01-22T14:09:00Z

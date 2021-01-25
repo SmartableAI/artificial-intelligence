@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-ch
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 796
     height: 417
     isCached: true
+
+related:
+  - title: "US Holds Lead in Global AI Race, China Closing In"
+    excerpt: "The United States is leading the world in the development and use of AI with China close behind, according to a new report. The new report from the Center of Data Innovation, analyzed the AI capabilities of the United States,"
+    publishedDateTime: 2021-01-25T21:38:00Z
+    webUrl: "https://www.meritalk.com/articles/us-holds-lead-in-global-ai-race-china-closing-in-report/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 37
+    images:
+      - url: "https://www.meritalk.com/wp-content/uploads/2021/01/Grace-Dille.jpg"
+        width: 486
+        height: 486
+        isCached: true
 
 secured: "FCYaQ0Nc3iVpKh8daHeC3Z7NBvYCjSlN82ntnKW8zTI/udQ26PKBZqfoF7QqVAIzNP5I62k9phK/hhc+KXy72PO1KVYQglpnBCuD9n7nDvxMsJIBskYo8i1XMjvFj9PBefNupEapYCvolc1SQN9RHDMLQDuIe6S4DgiURXgsJDincoojQhU5hVg6Qmnrd5VOygnDFMa+2uyGmJ1FPrbxFAg1cISRAe+kphnChulhRQ/Krzk0GcMaLjASdedpiY9M2YVhZclBu35RMuwleNSxiAp0Lf0kl3ShKbhgUCoO8y/Gxb7VQHZn4mtdJtvmjE799Fk5qkXw+13+S4EqEqs64uk8wrRADzx/i7Ykn7KWpQyWIgux9ofv1Kbqr+RzcIzDnZLkB2hXE8NKKkK3+TjEtmEpFT8y2aSOdFW5zoMfsBzGw1wA5e4bXNAZt+P6zT2x9vxPYV1PBMcD3HeLogc4fHWLVkJgv5aijx/QO5AxRP2VolGE1YqXvtzU9id54TTFB1FgnmM7DcI4u74vaEW2ZA==;q7rDRff0rDjF6QnL3MrIOA=="
 ---

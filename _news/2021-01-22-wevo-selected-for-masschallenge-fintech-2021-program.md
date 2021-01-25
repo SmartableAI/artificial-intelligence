@@ -68,15 +68,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 15
-  - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
-    excerpt: "BOSTON, MA / ACCESSWIRE / January / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
-    publishedDateTime: 2021-01-21T07:00:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/625144msn/wevo-selected-for-masschallenge-fintech-2021-program"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "XmvFlrqkYBpF0EYD0WfEnpclCqGRJGv7qFnuQ7aw+eD3GsKqgWZKoKl434HDTH3ysU8YLOaWU2lqWGh/uJNS1w7p9FuJnTj3a5vNGIvWRkAFUwV6BSEd0Jlt10EN2rPM8Cq8LFFXRCnUZTZDobL2xkNpJ5GogKAuGrajuiI/nOT87o9Fj//5wdMQIvGMy9hnlqcNCr+w9qQQewNCY3bDmctQaBKfns7uIVAEHUwtOfnyIYIHYnuUQt7xCBfpj1NpnNqZU40WLEjgKN8KedpNlLw68bfQZ1BqNHKiO0rR/WBr163BlNA/gfvd7i+yZmVHT+KRb629Cz/HgDQhqiP/oeVDu4zLMzeCchgsiumjPN0=;rr3VaQ1hHet4X5aKFDkVEg=="
 ---

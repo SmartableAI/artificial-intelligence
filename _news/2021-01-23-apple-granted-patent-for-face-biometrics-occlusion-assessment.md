@@ -53,6 +53,20 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Apple Adapts Biometric Tech to Face Masks in New Patent"
+    excerpt: "Apple has received a patent for a new facial recognition system that could potentially be used to help identify covered faces"
+    publishedDateTime: 2021-01-25T21:42:00Z
+    webUrl: "https://mobileidworld.com/apple-adapts-biometric-tech-face-masks-new-patent-71202102/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
+        isCached: true
   - title: "Facial recognition and other biometrics targeted in data privacy legislation, but what will feds do?"
     excerpt: "Data privacy legislation is advancing in the U.S., though somewhat unpredictably, with different ramifications for biometrics vendors in different states."
     publishedDateTime: 2021-01-25T20:06:00Z

@@ -91,6 +91,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Waymo CEO Says Tesla Autopilot Will Never Be True Self-Driving and Elon Musk Responds"
+    excerpt: "In the buzzing world of autonomous driving, Tesla has always been sort of an anomaly. Not only does the company build everything in-house, from hardware to processors to artificial intelligence capabilities,"
+    publishedDateTime: 2021-01-25T22:30:00Z
+    webUrl: "https://observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/"
+    ampWebUrl: "https://observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 67
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1183851342.jpg?quality=80&strip"
+        width: 4800
+        height: 2895
+        isCached: true
   - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
     excerpt: "\"We manufacture a completely autonomous driving system,\" Waymo CEO John Krafcik told an interviewer. \"Tesla is an automaker that is developing a really good driver assistance system.\""
     publishedDateTime: 2021-01-25T12:00:00Z
@@ -114,6 +130,6 @@ related:
       domain: bizjournals.com
     quality: 54
 
-secured: "iRUKtNqK0V0cuWQXs/U9CIWmR01lkNm3t6uCjJ7UjAtY5rdFlzO3l/B2m5HrYUVX+gBffBw4DzAwwLW61aiRXn1vq2P3et8FjcPP5oDDrsIpdITJELRVHWeRg+RUKX+x0sJyI59MDdMIdYGM0tVHfkpArU+Fjl/CLG7GOMs+NJaxb01bB6jC+4MOaVpcrAoWju+SPCsHIIKxDmK+S5B2ZtvEof7EKwMzHgl2jZTLY3atL2wH7NIloTazoEVdjmFbFxaGd1iM5QsxIHFZTcfpsdVlEEv8tRPM5MyqSu5WJnZNXNi8AF/qGhR2CfL3OgdLnWsMIIyxjYSideb3nUnkJdBC9K1jfUTcKIV1wHqFA8o=;brh6KC3pNrejswYiALg2VA=="
+secured: "sZX7NM6k04tUI26iYIYX1BNiWf3PB+6sfUaS5WJ3DQjPAbGqliI1rvHIcCQS1LW/1Hl2zHXY7Dqj8k/g+e65Af7k4sSCVvmuvSHbml5wNl++3XneuRUDfGoq7k3cIV1I1Uq143OZJN+TBaVkzF+VYumDrpl0RNj2mw/NobvFAtIw2baDLUFmQJ6oRrB3wHdyUith7zr+LQkivY1uARt5tTv1W6Q+XSxmvIkBWT+kq2OFIWH0dGPa3cUp/qpnBwTgoPM//PmJe5bZrSVWCf7Z43MyjvYtigoPyuAv9xkVxfKQtRKeXo2E1cZfO3FL8p5zFMXPtOWZuXbajzoZj5dJTY9rwGl63fEPgT9jtl9fkMhrjLFLGnx5Lp98DjuxVSngBPn9kbY+S/Y3Upv7Kw6FxZ4ymOi0NcMcA5wFmmJ46FaqcOIgybARBBsxSx6IEOgXQYhFecXLh27S5JLvq3t3DHWGpIh0BtCFh90uDyffHrKbU5ZZdTJGWcF3hHUphXyChbuzQU7aHzToM5ohbk6qVA==;yG5y+IAl+lqf1D3g+Si50g=="
 ---
 

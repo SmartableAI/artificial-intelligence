@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-how-ai-can-make-the-world-more-fair-for-gifted-kids.md",
+      "title": "How AI can make the world more fair for ‘gifted’ kids",
+      "excerpt": "A team of researchers from Las Vegas recently developed an AI model capable of judging a human pianist’s skill level. On the surface, it might not sound like the kind of breakthrough research that could change the world overnight.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/vintage-robot-796x398.jpg",
+          "width": 796,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
+      "publishedDateTime": "2021-01-25T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails.md",
+      "title": "Governance: Companies mature in their use of AI know that it needs guardrails",
+      "excerpt": "Quality governance ensures responsible data models and AI execution, as well as helps the data models stay true to the business objectives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "originalUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/12/8e1d6f91-444f-48f0-9ca3-63f372177fca/resize/1200x/575c039bb49d89ee4e7c9a4c55fc6480/istock-1216236910.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "publishedDateTime": "2021-01-25T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms.md",
+      "title": "Researchers propose LEAF, a frontend for developing AI classification algorithms",
+      "excerpt": "Researchers at Google propose LEAF, a frontend that provides superior audio classification results compared with previous techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-clock.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/amp/",
+      "publishedDateTime": "2021-01-25T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-natural-language-processing-market-is-booming-worldwide-with-ibm-microsoft-google-amazon-web-services.md",
       "title": "Natural Language Processing Market is Booming Worldwide with IBM, Microsoft, Google, Amazon Web Services",
       "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Natural Language Processing Market Insights Forecast to 2025 This report provides a detailed overview of key factors in the Global Natural Language Processing Market and factors such",
@@ -139,6 +292,59 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-learning-with-and-about-ai-technology.md",
+      "title": "Learning with — and about — AI technology",
+      "excerpt": "MIT Media Lab Personal Robots group head Cynthia Breazeal joined MIT Education Arcade Director Eric Klopfer for a conversation about AI's role in K-12 education as part of a new webinar series from MIT Open Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/learning-and-about-ai-technology-0125",
+      "originalUrl": "https://news.mit.edu/2021/learning-and-about-ai-technology-0125",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202101/child-homework.png",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T11:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Google AI"
       ]
     },
     {
@@ -307,7 +513,7 @@
       "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -358,7 +564,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -562,8 +768,8 @@
       "title": "Python remains most popular programming language to learn",
       "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
@@ -580,8 +786,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
       "publishedDateTime": "2021-01-25T07:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -605,7 +811,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Google AI",
         "AI"
       ]
     },
@@ -920,7 +1126,7 @@
       "originalUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1063,188 +1269,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-100-years-later-the-future-of-robots-still-lies-in-science-fiction.md",
-      "title": "100 Years Later, The Future Of Robots Still Lies In Science Fiction",
-      "excerpt": "Every year there is some version of this remembrance on the internet, dated January 25th and full of science fiction references and doom-saying. This is the 2021 version. Today marks the 100th anniversary of the first use of the term \"robot\" to describe a non-human,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/",
-      "originalUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600da4573c6f05ba1eaa23c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/",
-      "publishedDateTime": "2021-01-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market.md",
-      "title": "Here’s How Data and Machine Learning Startups Are Helping Pakistani Retail Market",
-      "excerpt": "Pakistan is primarily a consumption-driven economy and has one of the fastest-growing retail markets. Coupled with one of the youngest",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/",
-      "originalUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2021/01/big_data_retail_igg_pp.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/amp/",
-      "publishedDateTime": "2021-01-25T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai.md",
-      "title": "Intel’s Neuromorphic Chip Just Got More Accessible for Mainstream AI",
-      "excerpt": "While the promise of neuromorphic computing going mainstream is still mostly unrealized, there are steps being taken to bring it closer to reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/",
-      "originalUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_neuromorphic.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/amp/",
-      "publishedDateTime": "2021-01-25T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19.md",
-      "title": "\"Thousands\" of Sophia the robot units to be sold to help people cope with COVID-19",
-      "excerpt": "The Hong Kong-based maker of Sophia the robot plans to sell thousands of units amid the ongoing COVID-19 pandemic in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19",
-      "originalUrl": "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/sophia-the-robot_1typ.620.png",
-          "width": 620,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1",
-      "publishedDateTime": "2021-01-25T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

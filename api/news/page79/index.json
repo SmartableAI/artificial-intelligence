@@ -2,6 +2,255 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-11-20-fireeye-acquires-respond-software-for-186m-announces-400m-investment.md",
+      "title": "FireEye acquires Respond Software for $186M, announces $400M investment",
+      "excerpt": "The security sector is ever frothy and acquisitive. Just last week Palo Alto Networks grabbed Expanse for $800 million. Today it was FireEye’s turn, snagging Respond Software, a company that helps customers investigate and understand security incidents,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/",
+      "originalUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1175886963.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/amp/",
+      "publishedDateTime": "2020-11-19T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-let-your-robots-off-the-leash-or-lose-ai-experts.md",
+      "title": "Let Your Robots Off The Leash – Or Lose: AI Experts",
+      "excerpt": "Army experiments, soldiers tried to micromanage their drones and ground robots, slowing their reaction times and restricting their tactics. Can AIs earn troops’ trust?",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/",
+      "originalUrl": "https://breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/11/Secu3t_wiring_inj_hi-z_stepper1-300x218.png",
+          "width": 300,
+          "height": 218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/amp/",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/amp/",
+      "publishedDateTime": "2020-11-19T15:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-forter-raises-125-million-at-a-13-billion-valuation-to-combat-ecommerce-fraud-with-ai.md",
+      "title": "Forter raises $125 million at a $1.3 billion valuation to combat ecommerce fraud with AI",
+      "excerpt": "Forter, an automated ecommerce fraud detection platform, has raised $125 million at a valuation of more than $1.3 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Screenshot_2020-11-19-Ecommerce-Fraud-Detection-Ecommerce-Fraud-Protection-Forter.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/amp/",
+      "publishedDateTime": "2020-11-19T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-uber-shops-for-self-driving-partners-or-even-selling-its-project.md",
+      "title": "Uber Shops For Self-Driving Partners Or Even Selling Its Project",
+      "excerpt": "Reports suggest that Uber is talking to Aurora about selling its self-driving project, or otherwise finding a major partner. Uber is in a special position as the world's #1 brand in rides and may pull this off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/",
+      "publishedDateTime": "2020-11-19T14:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-us-regulators-open-process-to-ensure-self-driving-car-safety.md",
+      "title": "U.S. regulators open process to ensure self-driving car safety",
+      "excerpt": "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE",
+      "originalUrl": "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541788378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1EJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM",
+      "publishedDateTime": "2020-11-19T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-facebook-says-its-getting-better-at-using-ai-to-take-down-hate-speech.md",
       "title": "Facebook says it's getting better at using AI to take down hate speech",
       "excerpt": "(CNN)Facebook has spent years building and deploying artificial intelligence to stamp out hate speech on its massive social network. The company says it's now using the technology to proactively ...",

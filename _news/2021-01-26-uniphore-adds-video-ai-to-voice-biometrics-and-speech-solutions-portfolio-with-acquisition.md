@@ -53,6 +53,20 @@ related:
         width: 721
         height: 420
         isCached: true
+  - title: "Apple Adapts Biometric Tech to Face Masks in New Patent"
+    excerpt: "Apple has received a patent for a new facial recognition system that could potentially be used to help identify covered faces"
+    publishedDateTime: 2021-01-25T21:42:00Z
+    webUrl: "https://mobileidworld.com/apple-adapts-biometric-tech-face-masks-new-patent-71202102/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
+        isCached: true
   - title: "Facial recognition and other biometrics targeted in data privacy legislation, but what will feds do?"
     excerpt: "Data privacy legislation is advancing in the U.S., though somewhat unpredictably, with different ramifications for biometrics vendors in different states."
     publishedDateTime: 2021-01-25T20:06:00Z
@@ -68,6 +82,6 @@ related:
         height: 432
         isCached: true
 
-secured: "z180GPejfbI4aNOmeR5DWjPnoQBe4d037ffjmOPVRaWn+J4C/V1nWlKimcYcqtrklFOldYGDOvB3KYjwdTslAUCUhJp0XVtz+3ieV6uY9pdIVSR5zwQpM+dw2IIYChgyn7ZFM/JiPRP4Av7eJdvrlr0PA6jcfkY+eATCb1BnJ1dgPIBXP1N5YzV53Cato6xxgbmvrEpMFqjlLFdFhAAZYdN1sR8EPfye5shDvYPXaxf2QrAgqNJdKcaid0j3vqhTarAbJG/FWaB6FrMU7hdnSiEEHzgwSCOerkeKrH76qB8s/Sdei1Z7Hm1CrP2xIBeOiEfD0h+g9NEARlu9YzLDg3Mndj/qUWoEjRdLjQi9JyI=;st0JHRgQCKyyDFL+7wPE2A=="
+secured: "9AnkMglPJOscBHQDe+tUdYYaViRQHd99Rc9iaoWaiz+vmT8CjZDWBbtdH+O1n5AitH4kGqg1deWdsBHV2HpXrwVYd2S/fQSbagRKvDCEX6nfP8W9wNQHWP3L3sR4C5W+2EBFRum+q4smmjZmPXS33EiYHd8ddEqMg5iIfFNFLE10mIbrhibl7k4N/jXVyqPEZWH2Y3WsbNUWFedIjOcGqPt0p5TaXCuOBr5yya++dj4Lb3PUdjohVwPW6vpSBFhJBDHOsBHzb7tvlYtAALQiFFTxBQN7x8+mDoCqiUdVpn1WXdzqZhAGsekSm7fSjHYfCPc6pOU5ujXlux0IZ0GTJmNnEshhn201Y1w/NeVsrwDdkAOD8lCYGIbBGhIGtNNJ4AaKs7ChbE0+DsKLQje72Qxxl5Vr39G2/KRBsnibq37OBhJ1eNc7po4V8rgHXaQ0yJA5kMqX2QxLQn+GDeT6OnRKZmIb/ymPYwerNHgQ3q3SrO69b9Z5GZoa2zO/CJ6K7Cnyzek9c1dkUwouQk0vYQ==;AVK962yffZFotK66r7r3Rg=="
 ---
 

@@ -101,6 +101,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Waymo CEO Says Tesla Autopilot Will Never Be True Self-Driving and Elon Musk Responds"
+    excerpt: "In the buzzing world of autonomous driving, Tesla has always been sort of an anomaly. Not only does the company build everything in-house, from hardware to processors to artificial intelligence capabilities,"
+    publishedDateTime: 2021-01-25T22:30:00Z
+    webUrl: "https://observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/"
+    ampWebUrl: "https://observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 67
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1183851342.jpg?quality=80&strip"
+        width: 4800
+        height: 2895
+        isCached: true
   - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
     excerpt: "Tesla Inc. is going down the wrong road to autonomous vehicles and is \"not a competitor at all\" to Alphabet Inc.'s Waymo self-driving unit. That's what Waymo CEO John Krafcik told Germany's Manager Magazin in an article published last week. “It is a ..."
     publishedDateTime: 2021-01-25T16:53:00Z

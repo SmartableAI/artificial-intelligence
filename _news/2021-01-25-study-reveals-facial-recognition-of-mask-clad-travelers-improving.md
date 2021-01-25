@@ -33,6 +33,17 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Capitol riot boosts facial recognition app"
+    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
+    publishedDateTime: 2021-01-25T22:15:00Z
+    webUrl: "https://madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.html"
+    ampWebUrl: "https://madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 39
 
 secured: "rZFUAYruLamn3Z8lEz2tzdPEbw62OY1iOMYpzTYvy/iXL2lCZYZVc1m5ryiVnxWp+fFKJyzu/dxgzKbvc+osl81Rw3TxxPiwXDDbRxoorqk2VQiL+4EdMefTON2C21IlIOLX5iuIzDyOG4bzPXyTFmV6iA0yPXj8PQ7Hl3u13mJ/buY/Bbw0tSG4yJPFsLvH9m8LXxx4oV3Bw0l9MDR5qAaAJZ+ao+PfWSOYQ6N3Ed8KioCQa1OJ9dSc9IOCxWi3fkP6qnB5KA0hupO1wxo16JTk5ykZl0WnBbPY/BOWVsHHFyKyI1a5MFviXu7rO6c+HIIWbV49SQ4wlk9ULTw7d3MSnAdHM9EX/Y7uuGUXq3nlGwOzTV/TVe8GF5CIhyHdrXylz/ELagqPw5QzTOYyAART/f37wi8wImCbK/9l8/GiVczsXZmEToZx0nSh1tTjoLuhjVZMPOeh387qMd4QPOn+vliKSaUQs2WrOHkrFTkt1LRVFORtBrnNc6qfvcFwj0acA6DTZ3B3ajg4kosLOw==;D+JtIag1y0fbiA06fKYn/A=="
 ---

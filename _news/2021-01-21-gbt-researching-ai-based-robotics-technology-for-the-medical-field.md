@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-m
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
 type: article
 quality: 69
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -33,49 +33,39 @@ related:
     provider:
       name: Massachusetts Institute of Technology
       domain: mit.edu
-    quality: 67
+    quality: 71
     images:
       - url: "https://news.mit.edu/sites/default/files/images/202101/child-homework.png"
         width: 800
         height: 534
         isCached: true
-  - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
-    excerpt: "Taiwan's largest and one of the world's leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site ( A MiR500 Robot Lowers Transport Costs at Schneider Electric Talking to Machines - New Operating Concepts With Artificial Intelligence Incremental Steps to Creating Value With Industrial Data Analytics Warehouses Turn to Automation to Meet Permanent Peak Demand ITRI's featured technologies include the Dual Arm Robot System (DARS),"
-    publishedDateTime: 2021-01-21T20:19:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/01/21/itri-exhibits-innovations-in-ai-and-robotics-at-ces-2021/16132/"
+  - title: "How Your Business Can Benefit From AI Technology"
+    excerpt: "Looking for smart ways to run your business is a huge part of being a business owner in this day and age. Today, it’s all about incorporating technology into your daily operations to work"
+    publishedDateTime: 2021-01-25T14:53:00Z
+    webUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/"
+    ampWebUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
+    cdnAmpWebUrl: "https://thedigitallifestyle-com.cdn.ampproject.org/c/s/thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 49
-  - title: "First global standards for securing AI on the way"
-    excerpt: "ETSI SAI is the first standardisation initiative dedicated to securing AI. In the report, the problem of securing AI-based systems and solutions is unpacked, with a focus on machine learning (ML), and challenges in terms of confidentiality,"
-    publishedDateTime: 2021-01-21T07:05:00Z
-    webUrl: "https://www.itweb.co.za/content/GxwQD71Z4eVMlPVo"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
+      name: thedigitallifestyle.com
+      domain: thedigitallifestyle.com
+    quality: 57
     images:
-      - url: "https://lh3.googleusercontent.com/1YtEKuSUxY1qBWaY9BcRMo0kAZsEstuV54ChHg8orspy0dBbN7B7eSFrgvBWoeFiV1wxPXJPcX7SyEW80CBMFErnuDspmB6JJ6FqTQ=w816-h428"
-        width: 761
-        height: 428
+      - url: "https://i2.wp.com/thedigitallifestyle.com/w/wp-content/uploads/2021/01/012521_1445_HowYourBusi1.png?fit=500%2C333&ssl=1"
+        width: 500
+        height: 333
         isCached: true
-  - title: "Global Medical Alert System Markets, 2020-2025: Revolution Brought by Emerging Technologies - IoT & AI - ResearchAndMarkets.com"
-    excerpt: "The “Global Medical Alert System Market (2020-2025) by System Type, Connection Type, End-user, Offering, Technology, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-25T11:49:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-health-care-policy-health-care-reform-artificial-intelligence-b15efc25b16c44b6a9abae41604c495d"
+  - title: "Learning with – and about – AI technology | MIT News"
+    excerpt: "MIT News. Between distance learning, spending more time at home, and working parents trying to keep their kids occ"
+    publishedDateTime: 2021-01-25T19:51:00Z
+    webUrl: "https://www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Windows
+      domain: compsmag.com
+    quality: 41
 
 secured: "135eQVVbJ33lMsHTBcl8str7kI6SteoOqOi/APVy/rlx6rPTOyLkrYBXd8XzzgP+8d4zYtMMnDLbZnwrhjYFZO2Gk67ooRk8nBWg6cSxBkh/vP9FoobZe9wLkXDdLvjxQltIu5wnDQ6dfe+8I5Fgwn5Mg/5zHWi/r00TsHWDuGDb5U/fQ5jsrjGWJKikMkDqGoskIxHshfrGbEmLbnTmQWLQkn7XVbBqo+jXq+SCxX2ahXs3QBfYJtmUsN0dFe4MCIl24MvNv/zeu0mXZ9XBH4RPWvT5y0QEsy1n0y35hEBnF2wdekoELYOLw3J7kGgdVsA33xokH/aUM0fYzmcHjXdtebSHpBSX75ylR/LDq3o=;bBEC73qmaLHqFbetvhYt3g=="
 ---

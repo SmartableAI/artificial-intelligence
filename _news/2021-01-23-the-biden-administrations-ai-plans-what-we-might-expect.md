@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/22/1016652/biden-administra
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/amp/"
 type: article
 quality: 159
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 39
-  - title: "Some are renewing a push for federal recognition of Native Hawaiians under Biden administration"
-    excerpt: "The new administration is opening the door for federal recognition for Native Hawaiians, allowing greater self-determination and control similar to other Native American tribes."
-    publishedDateTime: 2021-01-21T06:37:00Z
-    webUrl: "https://www.kitv.com/story/43207592/some-are-renewing-a-push-for-federal-recognition-of-native-hawaiians-under-biden-administration"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 27
-    images:
-      - url: "https://KITV.images.worldnow.com/images/20275420_G.jpeg?lastEditedDate=1611187699000"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Some are renewing a push for federal recognition of Native Hawaiians under Biden administration"
     excerpt: "As President Biden took the oath of office at the U.S. Capitol back in Hawaii the State Capitol was surrounded by a sea of Hawaiian flags. For Kumu Hina Wong it’s a reminder that a changing of the guard does not change history."
     publishedDateTime: 2021-01-21T16:58:00Z

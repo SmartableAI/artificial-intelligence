@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Luminar Is a Great Bet on the Future of Self-Driving Cars"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips We may still be years away from an autonomous vehicle takeover, but this"
+    publishedDateTime: 2021-01-25T21:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lazr-stock-is-a-great-bet-on-the-future-of-self-driving-cars-1029999019"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/lazr-stock-is-a-great-bet-on-the-future-of-self-driving-cars-1029999019"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lazr-stock-is-a-great-bet-on-the-future-of-self-driving-cars-1029999019"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "The real self-driving revolution remains years away"
     excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving --"
     publishedDateTime: 2021-01-21T16:33:00Z

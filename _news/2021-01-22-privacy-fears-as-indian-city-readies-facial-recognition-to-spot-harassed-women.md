@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Privacy fears as Indian city readies facial recognition to spot harassed women"
-excerpt: "Jan 22 (Thomson Reuters Foundation) - A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations,"
-publishedDateTime: 2021-01-22T07:11:00Z
-originalUrl: "https://news.trust.org/item/20210122071135-tf64t"
-webUrl: "https://news.trust.org/item/20210122071135-tf64t"
+excerpt: "A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
+publishedDateTime: 2021-01-22T13:42:00Z
+originalUrl: "https://www.reuters.com/article/us-india-tech-women-trfn-idUSKBN29R0X5"
+webUrl: "https://www.reuters.com/article/us-india-tech-women-trfn-idUSKBN29R0X5"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0X5"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0X5"
 type: article
-quality: 35
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Thomson Reuters Foundation
-  domain: trust.org
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/7c0ab8e2-eb42-4e81-aa45-210429b4bcf7/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-    width: 1100
-    height: 697
-    isCached: true
 
 related:
   - title: "Privacy fears as Indian city Lucknow readies facial recognition to spot harassed women"
@@ -196,6 +196,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 17
 
-secured: "iqSeJI/94j+X3HSYWdNSMwlpWybC2GM1Tj0mHKAvIVLiWUyXHssQLoO1jExoAyuHrT26cRjUayu8s8imUoYzik0cSCAi89XhHoVFtKwc0EjArP+iLud/gItjnpUkOQYPf2whgEw8rVKxl5rPhq9hrP0VR4L/7qk0DMwDOsWGddtDMqyJW5ABJ7gguK0Pug2g2DpDxntgjoBzjpFEtvb0vS0WI47P1ai0Abcw6lp2hNLC6mLd8q5qzf1S3Q3VCp67rE/nNgKi3HzjgYsuqyY7Aoy+2OUxSmjh4rzcXcY2w70Uq2GC3D/8hSd3B16OJ1yLcUC4UpFfNpUB2P4R3wAqZ5Gdt2rR4oPnOHQ4tFbMm059IRArtbw3i33I8YIGWumtWNu3KTvMfEhJWGRYGJpuGL+y0/KSKYANp3/01btlCbYsszLNuvarH6Gkiun1sZ6jINXw9de6XcrP19bbO/did6gf5PBVqLOStc4qHWPpy4WLQt/wUehINwyqDBzOrP3CtB90ScM4HfirDzJTLKXJXQ==;e3cXkMAM3fyIQVcppVvDTg=="
+secured: "cWnYqA1WKdKIwCVZzsnwtIGxY0eDWbQ0CD2H7AAGba/0H4VjFCDkCDr2aOwRRuV6N0mz3baCzloV3xiws6JO5BHQ6CU8pZiScl9dDIElTEz+Ot6+ApHieQHVjp55ukJE8Zba+4gegPDHXw8Gj52rWJpU3hDAxKRirrmhbuAbAYLi/6oxN75QkYao2rZ4bu5wp4KDT2vErAiUpv2ZXVUkWTd+hhrxlM78rOgG28dkcJYEUpFIyteM2GUE9XGg9LejbMEEqgImNXnVwD9wx7ksqECqeuGXjJjdxQgfyMgOOyxowk9Wkt0E+cTQFdTJRonRMO0Zj04MyOOCSLas6NX7Ew2ZnB9+BORPrJRZ1Zx4spk=;Bv0zyASO1F/j7D9aC9+eDA=="
 ---
 

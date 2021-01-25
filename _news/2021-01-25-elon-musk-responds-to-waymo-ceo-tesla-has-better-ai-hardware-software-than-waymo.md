@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-respon
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/"
 type: article
 quality: 112
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://media.newstracklive.com/uploads/automobile-news/cars-news/Jan/25/big_thumb/jhjg_600e96985eb90.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Waymo CEO Says Tesla Autopilot Will Never Be True Self-Driving and Elon Musk Responds"
+    excerpt: "In the buzzing world of autonomous driving, Tesla has always been sort of an anomaly. Not only does the company build everything in-house, from hardware to processors to artificial intelligence capabilities,"
+    publishedDateTime: 2021-01-25T22:30:00Z
+    webUrl: "https://observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/"
+    ampWebUrl: "https://observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 67
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1183851342.jpg?quality=80&strip"
+        width: 4800
+        height: 2895
         isCached: true
   - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
     excerpt: "\"We manufacture a completely autonomous driving system,\" Waymo CEO John Krafcik told an interviewer. \"Tesla is an automaker that is developing a really good driver assistance system.\""

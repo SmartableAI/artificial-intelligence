@@ -67,7 +67,21 @@ related:
         width: 721
         height: 420
         isCached: true
+  - title: "Apple Adapts Biometric Tech to Face Masks in New Patent"
+    excerpt: "Apple has received a patent for a new facial recognition system that could potentially be used to help identify covered faces"
+    publishedDateTime: 2021-01-25T21:42:00Z
+    webUrl: "https://mobileidworld.com/apple-adapts-biometric-tech-face-masks-new-patent-71202102/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
+        isCached: true
 
-secured: "7M0Yu/0MqVZXNYa6WX7R3wlRNMc3cJ7xRy7QycBS3NCAyBUJhsJYkx/KwNKI+2FIK6jPgQC3K0TjEfKjD17UP84udckKoCh9CehkX4HjPb5bk/jIncUvqi4FmNlMuk3gn88lHUTLaydBGx9dn7ixAFeXyGHvY7gntE+zMI94MKALqA4RFGKkjeirfIfQLDawmvcAsbQhQx+T8ZZNRsrwrAOWOek3USgaNvhx02QTq7mWDchQlJHDjsP5f0XPBG/lLRs4yNWKzP2P97gM5FdY/N9FZByrPYzS71UIi6m5vaO81DHgc1zONz3QAYZrHQGFsNk0qlF4+HWRnFmKh4DQEoO6VBe8KzsvcAbWIbdGWuM=;Hvh6MUA6eBVgoae+3fZRAw=="
+secured: "8OtHH0ZmiYl6ZvaukeqaDZW+0L9iZHCd28TSjXjheT7a1OWwdyhZcrNbwFmg03KDl3eOM9fD8wKInq/t7lOMkAwdXpLrGnMYesAXWIZNvMXTmgQyOiYomJlbo4wa2OeBhEm7Tyz0P2x3Nd+dmDFUdar1TRT7H4dUEBK30g2D84zKCkHr+mOkJtO8AF/3fc3KN2NFFO/m3vHtD9EByvkx0atGi2QlhpLwujFTdlHnPM3YxCbgQPKiKhLDGA0AxHQXBRbUvM7TDHiXtbgKxK6M+R/qcqQpiUgcDHFBiwqobIWEm/pti4K4hb/aKxZ+byjK7z8AcI9UDYnVpOmBHO293AMQb2b3pxNuZ6u2k7WHUwLEHsZsS2onYHOCfrMcr9HkzFqWLhBcLCiQf/VYyjT3X3ZuTVEWHTcwGj2A+pj0xSYaIEBRyi1dZjlvRlYnmenOavsH1rOxyhj08yX6PzVUqk/TsijL0xAyUhtHFe/nsxPbWTvOIovh9ocJqQswbBvWy/NicaRCQEJSlbHL1dTE4g==;tyXsoeIqHlw7Gn5Ft044uQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.controleng.com/articles/designing-customized-robot-bra
 webUrl: "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Control Engineering
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Designing customized “brains” for robots"
-    excerpt: "MIT researchers have developed an automated way to design customized hardware that speeds up a robot’s operation. The system, called robomorphic computing, accounts for the robot’s physical layout in suggesting an optimized hardware architecture."
-    publishedDateTime: 2021-01-21T05:15:00Z
-    webUrl: "https://news.mit.edu/2021/robot-customized-hardware-0121"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 84
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202101/Robomorphic-01-press.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Designing customized \"brains\" for robots"
     excerpt: "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture."
     publishedDateTime: 2021-01-21T18:57:00Z

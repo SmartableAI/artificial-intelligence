@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
-    publishedDateTime: 2021-01-21T05:29:00Z
-    webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 88
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Microsoft To Do's task suggestion feature uses AI to improve productivity"
     excerpt: "Microsoft To Do for the web has a new Tasks that seem important feature that uses AI to suggests tasks you should take care of."
     publishedDateTime: 2021-01-22T15:22:00Z
@@ -270,6 +256,17 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
+    excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
+    publishedDateTime: 2021-01-25T22:27:00Z
+    webUrl: "https://detroit.cbslocal.com/2021/01/25/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/"
+    ampWebUrl: "https://detroit.cbslocal.com/2021/01/25/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/01/25/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "SAP and Microsoft expand partnership and integrate Microsoft Teams across solutions"
     excerpt: "SAP SE (NYSE: SAP) and Corp. announced plans to integrate Teams with SAP’s intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Azure."
     publishedDateTime: 2021-01-22T14:09:00Z
@@ -296,6 +293,6 @@ related:
       domain: openpr.com
     quality: 25
 
-secured: "fWL+j+IlcBecVW0MMjx9a9epVhB+zIa8LY5QVPsuO66FWffAJJN6anddWSHM8Qf5Lpj6g6v7Ieblt4NT4Gb7qo28yG/5R2nCMi/Pm1IbEcO2Pa9PEj1ePEVUV2EG13B0Dk2uMO7N0RP8qlY4j5HM8yw8wkkuSlW+nvpIlaLc/4Z/MGgZQnpqqtULP0z88j6SQ4EZwLKH2VR0LdnmghSyOwJ+ih6qWLzkVGDjIFvtakSWWbtWizNcHKS7usL1rG9VkJNN0csLxhrfLnfXL+P2IwUUehFgT54I5odrLjQz5L3Ze3t8+ev1g5xDAsBID5hSO43uM5iboynibg31xSbMQQ3LbOgZJyl9nJULrMqo+t8=;DH9e+rm4M3L/HLqdjmmTEA=="
+secured: "GZdE6QUWzHD1rfMiwvGwF14FxnvQ0oRkDViklOAGlEtuDgTqvl7c+jdKhzNI4vfqbwKRDRUsrZmx2mEmQqvkATcuBY6P8l/Qhaqu3iThQZlDNmV2nETDUANFjgOFjQm51xAKPEru3YswxaZGCZXijnwaO0kNSKmrwMduhGdy2fWTWZMEVRToh/tQdF5buMji7R0dOYqFVhSMnsj1/k7iywza/r0YchGSbEG4XcIdSIYqnIZsdHAR+BdwlRqfMmympNvE6+y4GWAAvWXJn4W/pR3q/acMna9Gm7i6kH9l/7I+3pQtonBMt4yKpIVXV05xa8S3P58igdoebBrOqOHQfnavuEsFVh04SV7yMU29uo29dsBbf79eNvxtV+SfwibHmp8ELB0LsLUYo48NVm1djXC8A7SDHdTAs9SLMnEhTc4LoS/+FXmz4O1SZf7bG3O54bNup1i69rM4c/0l4ZT2+CoalSsmE0fR0wd/eTQSQa/7xl2198xjRO64SAvVSQUR7zb0q3VURyEm4cdjlVGgyg==;gbKCYa1Rqzztk8ez25zfpQ=="
 ---
 

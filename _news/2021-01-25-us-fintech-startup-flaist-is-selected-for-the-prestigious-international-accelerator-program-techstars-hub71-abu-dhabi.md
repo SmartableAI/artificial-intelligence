@@ -67,15 +67,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
-    excerpt: "BOSTON, MA / ACCESSWIRE / January / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
-    publishedDateTime: 2021-01-21T07:00:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/625144msn/wevo-selected-for-masschallenge-fintech-2021-program"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "k3bNxHsIMS6BIBtBrrRi0fhM7VdTMFgvppy5GywZdDLPL/c7TgjD/5B+ivjg1F85W0qRIrVnyqjsEyUdbaiQb5beBs5APeNiBhzGO4ECDFkpkMAqaqDYEKYLk2b7wFIAbh+FpU8mrHPapfcyeGizGBluNXziizB/lar6L2fzbvbI+laLGy6IQS2ZU3x5cvVZqK7Ehf7QVk6cPwNmarpvNQu6cZedBE/OyZS470L1b1WKsKr+Hxt0Mp/IF2bAzBTGs6nccOvUjZb2g63a2yA8cSMaElsRcaKiwQPjjKB3A29/0PIM6VTJaMDI9BT9S90rfjXw4JM5jCon5s7XO5gGaVvh3E8dqB+wAJ6w1q3EpZg=;Q8sb6NyUkZMsDpHNhXr/Ng=="
 ---

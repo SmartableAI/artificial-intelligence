@@ -49,6 +49,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Rolls-Royce Germany is Undergoing Digital Transformation with Artificial Intelligence"
+    excerpt: "Rolls-Royce Germany will be leveraging artificial intelligence (AI) in a new partnership with Altair for its engineering, testing, and design of aerospace engines to reduce and accelerate certification and design iterations,"
+    publishedDateTime: 2021-01-25T20:59:00Z
+    webUrl: "https://www.aviationtoday.com/2021/01/25/rolls-royce-germany-undergoing-digital-transformation-artificial-intelligence/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 30
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/01/rolls-royce-largest.jpg"
+        width: 1280
+        height: 1040
+        isCached: true
   - title: "Understanding the reasons behind the Huge Energy And Power Demands of Artificial Intelligence"
     excerpt: "The high energy consumption of artificial intelligence models, especially in neural network training (e.g. BERT) leads to huge carbon footprint. Spiking Neural network (SNN) has been proposed to start age of Green AI."
     publishedDateTime: 2021-01-24T11:47:00Z

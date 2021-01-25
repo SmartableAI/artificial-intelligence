@@ -2,6 +2,213 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-21-understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs.md",
+      "title": "Understanding machine learning will go a long way toward higher adoption for SMBs",
+      "excerpt": "Expert says larger companies are more willing to spend money for top talent to achieve machine learning, whereas smaller companies aren't able to do so. Pre-configured solutions can help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "publishedDateTime": "2021-01-20T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai.md",
+      "title": "14 Tech Experts Predict Which Industries And Sectors Will Benefit Most From AI",
+      "excerpt": "Artificial intelligence and machine learning have made their way into many diverse industries, changing the way businesses handle everything from inventory to customer relations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60083be4a0f13c311ca97b8e%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/amp/",
+      "publishedDateTime": "2021-01-20T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-redacting-pii-from-application-log-output-with-amazon-comprehend.md",
+      "title": "Redacting PII from application log output with Amazon Comprehend",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships in text. The service can extract people, places, sentiments, and topics in unstructured data. You can now use Amazon Comprehend ML capabilities to detect and redact personally",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T10:04:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-new-ai-system-counts-endangered-elephants-from-space.md",
+      "title": "New AI system counts endangered elephants from space",
+      "excerpt": "Scientists have combined satellite cameras with a convolutional neural network (CNN) to detect African elephants moving through forests and grasslands.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Screenshot-2021-01-20-at-15.12.33-796x449.png",
+          "width": 796,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/",
+      "publishedDateTime": "2021-01-20T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-innovate-finance-the-uk-retains-european-fintech-investment-crown-in-2020.md",
       "title": "Innovate Finance: The UK Retains European Fintech Investment Crown in 2020",
       "excerpt": "Innovate Finance has published a note regarding Fintech investment in the UK. According to their numbers, the UK retains its title as the top investment destination in Europe for Fintech firms at with $4.",
@@ -398,6 +605,58 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.md",
+      "title": "Google investigates ethical AI team member over handling of sensitive data",
+      "excerpt": "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-idUSKBN29P0TW",
+      "originalUrl": "https://www.reuters.com/article/us-alphabet-google-research-idUSKBN29P0TW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548412512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J0F2",
+          "width": 1056,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29P0TW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0TW",
+      "publishedDateTime": "2021-01-20T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -898,49 +1157,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.md",
-      "title": "Google investigates ethical AI team member over handling of sensitive data",
-      "excerpt": "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1",
-      "originalUrl": "https://www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data-2021-1?amp",
-      "publishedDateTime": "2021-01-20T01:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-are-you-being-overcharged-by-clever-ai-watchdog-looks-at-whether-algorithms-hurt-competition.md",
       "title": "Are you being overcharged by clever AI? Watchdog looks at whether algorithms hurt competition",
       "excerpt": "To stop algorithms from charging unfair prices when we shop online, the UK's competition watchdog is launching a new investigation into the ways that AI systems might harm consumers – an issue that has so far lacked in-depth research and analysis,",
@@ -1040,205 +1256,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users.md",
-      "title": "Facebook enhances AI used to describe photos for visually impaired users",
-      "excerpt": "Facebook has announced new improvements to its artificial intelligence (AI) technology that is used to generate descriptions of photos posted on the social network for visually impaired users. The technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/01/20/320b9ac2-461d-41c8-a63f-477d00d43a01/nrp-cross-post-using-ai-to-improve-photo-descriptions-for-the-blind-banner-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "publishedDateTime": "2021-01-20T00:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-tencent-is-the-latest-tech-giant-to-team-up-with-carmaker-geely.md",
-      "title": "Tencent is the latest tech giant to team up with carmaker Geely",
-      "excerpt": "Hong Kong ()Chinese automaker Geely has just announced another big tie-up in its quest to build the cars of the future. The country's largest privately owned carmaker announced late Tuesday that it is partnering with Chinese social media and gaming giant Tencent (TCEHY) to develop features for smart cars,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/tencent-is-the-latest-tech-giant-to-team-up-with-carmaker-geely/ar-BB1cUPgw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210119223025-02-tencent-geely-auto-partnership-intl-hnk-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html",
-      "publishedDateTime": "2021-01-20T00:31:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html",
-        "domain": "com/2021/01/20/tech/geely-auto-tencent-partnership-intl-hnk/index.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-2021-technology-trend-review-part-two-ai-knowledge-graphs-and-the-covid-19-effect.md",
-      "title": "2021 technology trend review, part two: AI, knowledge graphs, and the COVID-19 effect",
-      "excerpt": "AI chips, MLOps, and ethics. Knowledge, and Graphs. COVID-19 as a mixed bag for technological progress and adoption",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/",
-      "originalUrl": "https://www.zdnet.com/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/05/04/c838f755-7efa-4ab2-ad10-b322acbf5234/istock-692654376.jpg",
-          "width": 770,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-technology-trend-review-part-two-artificial-intelligence-knowledge-graphs-and-the-covid-19-effect/",
-      "publishedDateTime": "2021-01-20T00:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-apple-patents-next-gen-face-id-which-uses-facial-heat-mapping.md",
-      "title": "Apple patents next gen Face ID, which uses facial heat mapping",
-      "excerpt": "Apple has just been granted a new patent that is related to its Face ID biometric security system. The patent details a next gen advancement in facial recognition technology, which apparently uses facial heat mapping for authentication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/",
-      "originalUrl": "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-9.34.42-PM.png",
-          "width": 1053,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

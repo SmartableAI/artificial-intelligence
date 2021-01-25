@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Hyundai DAL-E Is A Robot Salesperson For A Covid World"
+    excerpt: "Some automakers are offering contactless drop-off services, but Hyundai is going all-in with a robot approach."
+    publishedDateTime: 2021-01-25T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/"
+    ampWebUrl: "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f3a54417b9cd2875689f2%2F0x0.jpg"
+        width: 1200
+        height: 761
+        isCached: true
+  - title: "Hyundai's New Dealership Robot Will Narc On You For Not Wearing A Mask"
+    excerpt: "Yes, that wasn’t a misprint, Hyundai is launching DAL-e, a customer service robot that can safely communicate with patrons during the pandemic– the acronym stands for Drive you Assist you, Link with you-experience."
+    publishedDateTime: 2021-01-25T21:00:00Z
+    webUrl: "https://www.motor1.com/news/481998/hyundai-dealership-robot/"
+    ampWebUrl: "https://www.motor1.com/news/481998/hyundai-dealership-robot/amp/"
+    cdnAmpWebUrl: "https://www-motor1-com.cdn.ampproject.org/c/s/www.motor1.com/news/481998/hyundai-dealership-robot/amp/"
+    type: article
+    provider:
+      name: Motor1
+      domain: motor1.com
+    quality: 74
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/PExAX/s1/hyundai-customer-service-robot.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘Dal-E’ for Automated Customer Services"
     excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recogni"
     publishedDateTime: 2021-01-25T12:33:00Z

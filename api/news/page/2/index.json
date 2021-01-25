@@ -2,6 +2,188 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-25-100-years-later-the-future-of-robots-still-lies-in-science-fiction.md",
+      "title": "100 Years Later, The Future Of Robots Still Lies In Science Fiction",
+      "excerpt": "Every year there is some version of this remembrance on the internet, dated January 25th and full of science fiction references and doom-saying. This is the 2021 version. Today marks the 100th anniversary of the first use of the term \"robot\" to describe a non-human,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/",
+      "originalUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600da4573c6f05ba1eaa23c9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/",
+      "publishedDateTime": "2021-01-25T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market.md",
+      "title": "Here’s How Data and Machine Learning Startups Are Helping Pakistani Retail Market",
+      "excerpt": "Pakistan is primarily a consumption-driven economy and has one of the fastest-growing retail markets. Coupled with one of the youngest",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/",
+      "originalUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2021/01/big_data_retail_igg_pp.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/amp/",
+      "publishedDateTime": "2021-01-25T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai.md",
+      "title": "Intel’s Neuromorphic Chip Just Got More Accessible for Mainstream AI",
+      "excerpt": "While the promise of neuromorphic computing going mainstream is still mostly unrealized, there are steps being taken to bring it closer to reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/",
+      "originalUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_neuromorphic.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/amp/",
+      "publishedDateTime": "2021-01-25T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19.md",
+      "title": "\"Thousands\" of Sophia the robot units to be sold to help people cope with COVID-19",
+      "excerpt": "The Hong Kong-based maker of Sophia the robot plans to sell thousands of units amid the ongoing COVID-19 pandemic in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19",
+      "originalUrl": "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/sophia-the-robot_1typ.620.png",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1",
+      "publishedDateTime": "2021-01-25T01:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware-software-than-waymo.md",
       "title": "Elon Musk Responds To Waymo CEO: “Tesla Has Better AI Hardware & Software Than Waymo”",
       "excerpt": "In an interview with German business publication Manager Magazin, Waymo CEO John Krafcik said Tesla is not a competitor to Waymo.",
@@ -10,7 +192,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -745,7 +927,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1009,186 +1191,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-what-nonprofits-stand-to-gain-from-artificial-intelligence.md",
-      "title": "What Nonprofits Stand To Gain From Artificial Intelligence",
-      "excerpt": "Nonprofits have the opportunity to develop AI powerful algorithms to raise more funds, improve the efficiency of their resources and learn more about their members' needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37866b8beb90007c3a79a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-01-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-the-leader-of-the-alphabet-workers-union-looks-beyond-wages.md",
-      "title": "The Leader of the Alphabet Workers Union Looks Beyond Wages",
-      "excerpt": "How are you able to make Alphabet executives do anything they don ... Yeah, dozens have been messaging our union, and we’re having really great conversations with workers at other tech companies. I think that having a concrete example of an organization ...",
-      "sourceUrl": null,
-      "webUrl": "https://alphabetworkersunion.org/press/releases/retaliation-against-margaret-mitchell/",
-      "originalUrl": "https://www.bloombergquint.com/businessweek/alphabet-workers-union-leader-parul-koul-takes-on-google-googl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://alphabetworkersunion.org/img/static/og-banner.png",
-          "width": 1024,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-ai-could-make-healthcare-fairerby-helping-us-believe-what-patients-tell-us.md",
-      "title": "AI could make healthcare fairer—by helping us believe what patients tell us",
-      "excerpt": "A new study shows how training deep-learning models on patient outcomes could help reveal gaps in existing medical knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/pain-scale.png?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/amp/",
-      "publishedDateTime": "2021-01-22T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-how-four-qdic-startups-are-driving-innovation-in-indias-industrial-robotics-and-automation-sector.md",
-      "title": "How four QDIC startups are driving innovation in India's industrial robotics and automation sector",
-      "excerpt": "Today, businesses are well-aware of the potential and impact of emerging technologies in industrial robotics and automation in improving process efficiencies and transforming business operations. While the initial high cost of infrastructure and complex operations have been key deterrents,",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
-      "originalUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imagesac6-1611302832921.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp",
-      "publishedDateTime": "2021-01-22T00:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

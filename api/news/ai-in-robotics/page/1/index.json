@@ -114,7 +114,7 @@
       "originalUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -357,7 +357,7 @@
       "originalUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -392,21 +392,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-21-gbt-researching-ai-based-robotics-technology-for-the-medical-field.md",
-      "title": "GBT Researching AI based, Robotics Technology for the Medical Field",
-      "excerpt": "GBT is commencing new research that is targeting medical application robotics, empowered by its AI system. In this research, the Company will focus on the innovation and technological advancements that is offered by AI to enable medical robots achieving higher standards.",
+      "path": "_news/2021-01-21-designing-customized-robot-brains-for-critical-applications.md",
+      "title": "Designing customized robot brains for critical applications",
+      "excerpt": "While robots are stronger and moving faster than ever before, they still struggle with complex situations and their movements grind to a halt. “The hang up is",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60",
+      "webUrl": "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/",
+      "originalUrl": "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Robot_Brains.jpg",
+          "width": 645,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -416,11 +416,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T04:42:00-08:00",
+      "publishedDateTime": "2021-01-21T07:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Control Engineering",
+        "domain": "controleng.com",
         "images": null,
         "publishers": null,
         "authors": null

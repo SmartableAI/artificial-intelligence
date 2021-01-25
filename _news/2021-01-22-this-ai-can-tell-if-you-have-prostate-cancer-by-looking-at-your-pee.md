@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-hav
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/01/21152556/21-jan_grading-piano.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Cancer can be precisely diagnosed using a urine test with artificial intelligence"
-    excerpt: "The Korea Institute of Science and Technology(KIST) announced that the collaborative research team led by Dr. Kwan Hyi Lee from the Biomaterials Research Center and Professor In Gab Jeong from Asan Medical Center developed a technique for diagnosing prostate cancer from urine within only twenty minutes with almost 100% accuracy."
-    publishedDateTime: 2021-01-21T05:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/nrco-ccb011821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/253780_web.jpg"
-        width: 505
-        height: 659
         isCached: true
 
 secured: "LGTQjQXYYfLCo5izW3cSKuvVVJjpVDNcLlOKu/76JTDJg8/D8QNMIIHJg0JFFnvmo+wuAYS7hyf6n86QAiFE9untAyXW3HoKFp35GAiXohQEq/u0zJvXAGx9FSJvZdUUNIpx4f+WyeL211SdaTKjGGrhi9oG9K7gAgI/Y63lzRWhB5DIdodrdb3jFiKewu0R/MCz92m8MNT5AngRAsYodknQdqG918uHPXUYCoZME1xKWx+LduRcRJxsgurKkDs+HZu8UclnJjLaLA2ra5+SXE5B5s+RTqoipvf7MWsX2KiA0WSa307qpDGazTV8dLOaQ/9ACauLCy+Z5ShvRm+K00/gz6gqNJNtQmd60XaLpOkNpwXZ33DKvjT/vDJVv/BpGmquLFX4egW5IXEBCTezYrJjUVQW8MBO+SLT7Buw7rUxcPE12mRrtd1zGC2JgCFVezuaPV7cuEskzfqlfK/q6Zv3qCYSW6AdIOZUCQsUdI3erqLAp/OZ6NhVJoSt9F+acFZI28BG8LgJiR663NtHBA==;TKdSEkMDYyHkYgDFSUG3BA=="

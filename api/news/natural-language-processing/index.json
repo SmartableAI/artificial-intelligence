@@ -47,58 +47,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-25-python-remains-most-popular-programming-language-to-learn.md",
-      "title": "Python remains most popular programming language to learn",
-      "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/85083d05-b7b7-4832-a3b1-f1532b6d905e/resize/1200x/f816050b9bf16dda28145dfd5dcf70cd/fullstackdeveloperimage.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "publishedDateTime": "2021-01-25T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-22-cisco-uses-ai-to-add-hand-gestures-to-webex.md",
       "title": "Cisco uses AI to add hand gestures to Webex",
       "excerpt": "Cisco is bringing hand gestures to its Webex video conferencing software to make it easier for participants to express themselves even while on mute. Gestures and non-verbal cues have long been an important part of face-to-face meetings as they allow a speaker to emphasize or support their ideas and give the audience a chance to provide real-time feedback.",
@@ -878,50 +826,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-aws-expands-its-ai-powered-contact-center-intelligence-cci.md",
-      "title": "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)",
-      "excerpt": "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-google-trained-a-trillion-parameter-ai-language-model.md",
       "title": "Google trained a trillion-parameter AI language model",
       "excerpt": "They’re the part of the model that’s learned from historical training data. Generally speaking, in the language domain, the correlation between the number of parameters and sophistication has held up remarkably well.",
@@ -1425,6 +1329,111 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-openais-dall-e-turns-weird-text-into-weird-images.md",
+      "title": "OpenAI's DALL-E turns weird text into weird images",
+      "excerpt": "OpenAI is known for developing impressive AI models like GPT-2 and GPT-3, which are capable of writing believable fake news but can also become essential tools",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
+      "originalUrl": "https://www.techspot.com/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-06-image-6.jpg",
+          "width": 1460,
+          "height": 1172,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
+      "publishedDateTime": "2021-01-06T15:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-intel-is-using-its-realsense-tech-for-facial-recognition.md",
+      "title": "Intel is using its RealSense tech for facial recognition",
+      "excerpt": "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
+      "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F7daa7160-5050-11eb-a7fb-ebe8df925d58&client=amp-blogside-v2&signature=21ed96e62f4d4cf3a8e85595647849cb3e045c56",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
+      "publishedDateTime": "2021-01-06T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Designing customized “brains” for robots"
-    excerpt: "MIT researchers have developed an automated way to design customized hardware that speeds up a robot’s operation. The system, called robomorphic computing, accounts for the robot’s physical layout in suggesting an optimized hardware architecture."
-    publishedDateTime: 2021-01-21T05:15:00Z
-    webUrl: "https://news.mit.edu/2021/robot-customized-hardware-0121"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 84
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202101/Robomorphic-01-press.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Designing customized robot brains for critical applications"
     excerpt: "While robots are stronger and moving faster than ever before, they still struggle with complex situations and their movements grind to a halt. “The hang up is"
     publishedDateTime: 2021-01-21T15:01:00Z
