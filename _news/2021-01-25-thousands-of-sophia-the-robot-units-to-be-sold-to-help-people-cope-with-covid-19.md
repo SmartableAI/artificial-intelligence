@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-un
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/15/c7b2f24c-5bd6-4c2e-8da4-e5a71849d9c0/resize/1200x/b7ddd4e0c59a0375d3225b6af03e58de/istock-1213521693.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Sophia the robot could arrive in airports and shops across UK"
+    excerpt: "The company behind a life-size robot that uses artificial intelligence to hold conversations with humans is set to begin a mass rollout of the devices later this year as the pandemic increases demand for robots."
+    publishedDateTime: 2021-01-25T13:40:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/09/19/TELEMMGLPICT000143394584_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
         isCached: true
   - title: "Every household will have a Sophia robot by end of the year"
     excerpt: "HONG KONG: \"Social robots like me can take care of the sick or elderly,\" Sophia says as she conducts a tour of her lab in Hong Kong. \"I can help communicate, give therapy and prov"

@@ -24,22 +24,6 @@ images:
     height: 229
     isCached: true
 
-related:
-  - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
-    excerpt: "Atos and IBM (NYSE: IBM) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos' vertical decarbonized solution and service delivery assets,"
-    publishedDateTime: 2021-01-20T21:44:00Z
-    webUrl: "https://www.automation.com/en-us/articles/january-2021/atos-ibm-accelerate-digital-transformation-ai-red"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 13
-    images:
-      - url: "https://www.automation.com/getmedia/935322a3-830a-4623-a198-723ad042f3f9/IBM-Atos-news-Jan-20-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-
 secured: "Jpt0IhRY5WWXADcvpxS8nz/8l5VBhjEcJEne6sNbrZrncp/xOMnFBwiagJBlO083OBOuh0+8qxUflTEUbfrhcWLW4eS0G0vS70XoPihFe8i7KIrvrOiQSPsROqfIAtypxEWnOhNU0GJnW0lD6CMO8p1NdkWPB/8R4VLwGCAelxVM/6v4zw4tUm6FKy4CoaNYY1tehCRDiOnWRPl9KRd1E4JwdfB934jN+O4qbumhXWc+VTbypXcR0foxeYH0XdUrpy9orBuk5Sj2oEH0FV4puN7emgyuAHyDRWtb2pMul+PMI/WMkbLeWTwkKYHcwXA0+ULsVr1MMvuUR5O0CtsZ9IdmCzL+rnh2kjqWQV8YRlFaFxSMhzznmcutyDCcp9yCjrVkU9PVOpurEz8H1j34R0z3S+ycDfkCbSIsfYRaB1HQIUlIZyC3O9cDEcSeo9am9IvKeMYTU+NWPXTpvo93zcjQyuub6pcQA17K1cV4gQV6l5VIyHkMECgasbqd3uhVdj3M83OoKcQulwZ1Tsc6Jg==;uWWp3wZ0hUSpdVHKBUarvg=="
 ---
 

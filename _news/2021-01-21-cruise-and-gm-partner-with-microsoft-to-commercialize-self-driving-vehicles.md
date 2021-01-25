@@ -207,20 +207,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 42
-  - title: "GM, Microsoft team up on self-driving vehicles"
-    excerpt: "General Motors Co (GM) is teaming up with Microsoft Corp to accelerate its rollout of electric, self-driving vehicles. In the partnership announced on Tuesday, the companies said that Microsoft’s Azure cloud and edge computing platform would be used to “commercialize its unique autonomous vehicle solutions at scale."
-    publishedDateTime: 2021-01-20T22:38:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/01/21/2003750933"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 41
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Microsoft invests in GM's self-driving car company"
     excerpt: "GM-owned self-driving firm Cruise pushed its total value to $30 billion with Microsofts participation in a $2 billion equity investment. It was not divulged how much Microsoft infused in the equity investment and"
     publishedDateTime: 2021-01-21T10:25:00Z

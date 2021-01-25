@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
 type: article
 quality: 81
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -78,6 +78,36 @@ related:
       - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
         width: 1080
         height: 582
+        isCached: true
+  - title: "Use of facial recognition tech sparks privacy fears"
+    excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
+    publishedDateTime: 2021-01-25T01:34:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears-11611536778871.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/01/25/600x338/262f1b54-5e54-11eb-a9a9-2635882cf050_1611536777677_1611536858259.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Ban on facial recognition technology advances in Minneapolis"
+    excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
+    publishedDateTime: 2021-01-22T15:37:00Z
+    webUrl: "https://apnews.com/article/technology-media-social-media-minneapolis-5345d1193e4435aa9ce621aaf6d9c783"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Facial recognition tech deployed in UP to help women in distress"
     excerpt: "Facial recognition tech deployed in UP to help women in distress - The Lucknow police are deploying facial recognition technology backed by security cameras that will"

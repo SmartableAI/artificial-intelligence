@@ -3,14 +3,14 @@ category: news
 title: "Hyundai debuts DAL-e: your future customer service robot"
 excerpt: "Hyundai has introduced DAL-e, an automated robot the company hopes will serve humans in an \"intimate and personal way.\" DAL-e, short for \"Drive you, Assist you, Link with you-experience,\" is a compact robot measuring 1,"
 publishedDateTime: 2021-01-25T01:38:00Z
-originalUrl: "https://www.zdnet.com/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-webUrl: "https://www.zdnet.com/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
 type: article
 quality: 104
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai DAL-e AI-powered robot provides automated customer service"
+    excerpt: "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom."
+    publishedDateTime: 2021-01-25T13:06:00Z
+    webUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/"
+    ampWebUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/kia-robot-1.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘Dal-E’ for Automated Customer Services"
     excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recogni"
     publishedDateTime: 2021-01-25T12:33:00Z
@@ -47,7 +63,21 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Meet “DAL-e,” the Cutesy AI Robot That Will Help Hyundai With Customer Services"
+    excerpt: "Don’t worry, this little robot is way too cute to bring back memories of HAL 9000-infused nightmares to folks that grew up reading Arthur C. Clarke's Space Odyssey series. Instead, it could open a window into the future of seamless,"
+    publishedDateTime: 2021-01-25T14:21:00Z
+    webUrl: "https://www.autoevolution.com/news/meet-dal-e-the-cutesy-ai-robot-that-will-help-hyundai-with-customer-services-155021.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 50
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/meet-dal-e-the-cutesy-ai-robot-that-will-help-hyundai-with-customer-services-155021-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
-secured: "CIWgGOBfFJAe6WNtvyJjBg9I9qdiLW/GZpRN9guB51r6M+aR6PSvM+kH+W2diKuA5JyL7zJNpfVDYWhrHZf4iZ2B/I0VlzOLqxA/aHTKUQvCWbmIWbgr3/O0yNRu73ljMIhyq2Wz/Uax912/se3im0mDz+yp2qI6EwCXdoZJwdbLeswv6XHcMvwH65uQc6mQ90UPGJioj+vs8Z1YR13t/Rwwtk3hfJU54VqM56yPwSgkvPvtx3u6QpntoXTCAPfqNhAKKeN9zKF0qnGo0kuv/FU+ZgRQNkrVes2IOGIG7+vyobmHNs7lO5ldqNqFUkyoHa79ch76YNeeu9+mmXwiLx/X/Gby3shwvuP20xl5b4LciCRfSCX2QHV1zFRt5E9F1eUgRU+Y46pN7xVH/4FOIZliBAouJejCnAEjxhjr8ZL7eSWUVrL+dq2N203lGEYzYkwI4ucNZhc+2gw/lTgQW/r9C67mtyfe0xbP5pC9BZTx6sF+ppd4zZOmq+sadkIaLL7qP9h/DCQgLoxv1Y37dA==;/TR/8zmPaXHla7HGiDom0g=="
+secured: "xbPLdpsQfHGPMcO9DaGIzxT07d8qVaVM1p+RuJyo/px5PKUbm6mv0fOB8ofb/D7s0+tV1RR7vtOOwPbavesIxAjQlfhjajqH9YpJFbYrNzY/XvAdqT8UasYfb7CdHuKGTD5oGktd4oWNvyDCQwuIdaLzP6l6bMthX2ZBkSs1RQQm/Rta6OLn2ERbwinvVLih5Ca3cPHl9ekCP9Tz/TYQGCDPImZQ1CD+9QqVxOfa/kKM+ghJutIYkLyTvsIzybjMXxnaRq1mP0C9j2vWh5V/Erw3b/2Blk3z5Ha+JxZvwqNFqL7MDladivdabxH7zdCK/inJTD/9Ycg/BsdR0HWJjBdbNhfdQ2aDSwuD8UHnEqc=;9m/ZyVRoxAXvrT1dctWHAA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: koreatimes.co.kr
@@ -42,15 +42,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Here's Why Investors Should Pay Close Attention to Artificial Intelligence"
-    excerpt: "Artificial intelligence is ingrained into our lives. It’s influencing our shopping choices online, helping us book meetings, and even finding the best deals. The auto industry is using AI to create driverless cars."
-    publishedDateTime: 2021-01-20T21:24:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/01/20/here-s-why-investors-should-pay-close-attention-to-artificial-intelligence"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
 
 secured: "oEM86/r4a4VT+4m5CKL20tNqwi22crFfULiAhOozs3cvHQgZEzfVtAxD1io2AoKeW76mSllbpBMS6DZaWzBx3jJrp1ZSzyBBENEw7gzHzoES9/pQn7+0XP9vD9LZwPBJCfyuQZf7QeYTOxe/0CI2w392254wol66ZjgVT9JCC37OWbMBhZcORmioTmH58iY+bp6ZApoXgtBU0UQ/2okYoUWKF3cNIKZtczDsDQIs+dDK8ovIaYgosREXH//76y396Wd7fAIydQawRpS0kkb21K37Far10moRqbFcLvB+b96usMSRnW+9vqi0TZkAt8zcJwHjUMCAYCjDzX/4e+u1ETaASCWEHAsP894ITd2w94w=;oNM4rXDmEvlaAIi4v5FR/A=="
 ---

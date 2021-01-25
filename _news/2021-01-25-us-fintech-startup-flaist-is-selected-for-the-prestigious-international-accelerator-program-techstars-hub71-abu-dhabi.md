@@ -1,28 +1,24 @@
 ---
 category: news
 title: "US Fintech Startup, Flaist is Selected for the Prestigious International Accelerator Program, Techstars Hub71 Abu Dhabi"
-excerpt: "The fintech startup, Flaist, has announced it's been selected for the prestigious 2021 class of Techstars Hub71 Accelerator Program in Abu Dhabi. Techstars is a global platform for investment and innovation that helps entrepreneurs scale"
-publishedDateTime: 2021-01-25T12:24:00Z
-originalUrl: "https://www.lelezard.com/en/news-19613712.html"
-webUrl: "https://www.lelezard.com/en/news-19613712.html"
+excerpt: "The fintech startup, Flaist, has announced it's been selected for the prestigious 2021 class of Techstars Hub71"
+publishedDateTime: 2021-01-25T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19292996/us-fintech-startup-flaist-is-selected-for-the-prestigious-international-accelerator-program-techst"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19292996/us-fintech-startup-flaist-is-selected-for-the-prestigious-international-accelerator-program-techst"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19292996"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19292996"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "5G, fintech and mega-projects: What 2021 will mean for tech in the Middle East"
@@ -57,22 +53,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Fintech Advancement in the Time of COVID-19"
-    excerpt: "As with most years, I started 2020 with a sense of optimism, looking forward to another productive year at work and doing the Appetite for Disruption podcast with my co-host Troy Paredes. In fact, he"
-    publishedDateTime: 2021-01-20T23:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Novel-Coronavirus-SARS-CoV-2-COVID-19-600x511.jpg"
-        width: 600
-        height: 511
-        isCached: true
   - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
     excerpt: "BOSTON, MA / ACCESSWIRE / January 21, 2021 / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
     publishedDateTime: 2021-01-22T06:06:00Z
@@ -97,6 +77,6 @@ related:
       domain: morningstar.com
     quality: 4
 
-secured: "5xszs0OkjJqZfAJbiuljYGLMHkNCh60wqcrpKaBM/XrmZRyfX5cD6wvlEWslgRPaqIenIo21GfvfybCWEIZkz3q5kbnJA3K83vukVxQjyXx9E6Z7+NVHQeWSromyssplaEwKK/XxzPA/Uj2eZPC6REq47VT8o6LmsW8UlP3zzYiIf+il8AWmYUokZgvCniGXMiPCGMvNOy377wZrfX+K7GsO+azwwYMEhH7h9NXGxHH8czue9w4czAaemDpxybThyJ86lPWXcfxFdTzOmddIebRe5er7jAbfaC+uzzyAon3vDMJXPWI2aeGVacZUbzM5XFKRgkkPK12YGS1S7ji+lUmsxLi0k9H6k1ghgBGu2yk=;TqObTd9oeAh4xSvKXSTURA=="
+secured: "k3bNxHsIMS6BIBtBrrRi0fhM7VdTMFgvppy5GywZdDLPL/c7TgjD/5B+ivjg1F85W0qRIrVnyqjsEyUdbaiQb5beBs5APeNiBhzGO4ECDFkpkMAqaqDYEKYLk2b7wFIAbh+FpU8mrHPapfcyeGizGBluNXziizB/lar6L2fzbvbI+laLGy6IQS2ZU3x5cvVZqK7Ehf7QVk6cPwNmarpvNQu6cZedBE/OyZS470L1b1WKsKr+Hxt0Mp/IF2bAzBTGs6nccOvUjZb2g63a2yA8cSMaElsRcaKiwQPjjKB3A29/0PIM6VTJaMDI9BT9S90rfjXw4JM5jCon5s7XO5gGaVvh3E8dqB+wAJ6w1q3EpZg=;Q8sb6NyUkZMsDpHNhXr/Ng=="
 ---
 

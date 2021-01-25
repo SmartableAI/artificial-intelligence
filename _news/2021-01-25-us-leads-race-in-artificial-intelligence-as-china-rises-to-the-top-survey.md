@@ -42,15 +42,6 @@ related:
         width: 394
         height: 489
         isCached: true
-  - title: "Here's Why Investors Should Pay Close Attention to Artificial Intelligence"
-    excerpt: "Artificial intelligence is ingrained into our lives. It’s influencing our shopping choices online, helping us book meetings, and even finding the best deals. The auto industry is using AI to create driverless cars."
-    publishedDateTime: 2021-01-20T21:24:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/01/20/here-s-why-investors-should-pay-close-attention-to-artificial-intelligence"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
 
 secured: "EXbF9cvj6Rv5gEoqdLubxhPZJXMjtm3Ytf0qKTcflpgg8kBo5AE8wURNT7kEhGi0H5xwY4PJLcdJ/Z0t7+f1Hhvt6Jf4rcBvgDFb/mLZSCLwEB9ifRqWhBSioY+X7PjUPpIqZOwLT3/gTU7ESgqBGCUfbqqMjr80fRBs59i+G7ozpZg3Y8RrFdIJRpB2944tWSwLl+x40wposBhMZig6Zf+mzq8tJj5H+sAqfXb/wghwqZ3DqN1/OvCLd2vAUjjEMK1SNITTrzQXSfzJSM233J1pxfQJfYva+aeEkqZe4p+C5AJR9WoNnW/2qJJfvpHgwYJCVYCYP0kpn+Yi6P7nI3BMCxDofa+WNIE/L4Yv+JQ=;efpT74OSjl9dE0f1Ntpxcw=="
 ---

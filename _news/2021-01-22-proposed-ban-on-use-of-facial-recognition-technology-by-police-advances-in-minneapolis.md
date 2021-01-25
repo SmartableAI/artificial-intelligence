@@ -25,67 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Technologists Use Facial Recognition on Parler Videos"
-    excerpt: "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,"
-    publishedDateTime: 2021-01-20T21:34:00Z
-    webUrl: "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos"
-    ampWebUrl: "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos"
+  - title: "Ban on facial recognition technology by Minneapolis police advances"
+    excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. A council committee advanced the measure Thursday which will go to the full council Feb."
+    publishedDateTime: 2021-01-22T16:21:00Z
+    webUrl: "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/"
+    ampWebUrl: "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html"
+    cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
-    images:
-      - url: "https://video-images.vice.com/articles/6008765a4384dd009c120dbd/lede/1611167325556-capitol.jpeg?crop=1xw:0.842xh;0xw,0.077xh"
-        width: 1500
-        height: 842
-        isCached: true
-  - title: "This Site Published Every Face From Parler's Capitol Riot Videos"
-    excerpt: "Faces of the Riot used open source software to detect, extract, and deduplicate every face from the 827 videos taken from the insurrection on January 6."
-    publishedDateTime: 2021-01-21T00:33:00Z
-    webUrl: "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/"
-    ampWebUrl: "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/6008823e103a85a519187c3a/master/pass/parler-face-recognition-illustration.jpg"
-        width: 2095
-        height: 1178
-        isCached: true
-  - title: "Use of facial recognition tech sparks privacy fears"
-    excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
-    publishedDateTime: 2021-01-25T01:34:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears-11611536778871.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: WDIO
+      domain: wdio.com
     quality: 59
     images:
-      - url: "https://images.livemint.com/img/2021/01/25/600x338/262f1b54-5e54-11eb-a9a9-2635882cf050_1611536777677_1611536858259.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.wdio.com/wdioimages/repository/2021-01/minneapolis-police.png"
+        width: 800
+        height: 450
         isCached: true
-  - title: "This site posted every face from Parler’s Capitol Hill insurrection videos"
-    excerpt: "The site's creator tells WIRED that he used simple open source machine learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
-    publishedDateTime: 2021-01-23T11:40:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2021/01/this-site-posted-every-face-from-parlers-capitol-hill-insurrection-videos/"
+  - title: "Minneapolis a step closer to banning facial recognition technology"
+    excerpt: "There are concerns about it leading to a surveillance state, and that it could harm disadvantaged communities."
+    publishedDateTime: 2021-01-22T17:31:00Z
+    webUrl: "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
+    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
+    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 52
+      name: Bring Me The News
+      domain: bringmethenews.com
+    quality: 59
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/insurrection-faces-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MzMyNDc4ODA1MjU1ODE0/minneapolis-skyline.jpg"
+        width: 620
+        height: 359
+        isCached: true
+  - title: "Minneapolis City Council committee advances ordinance that would ban facial recognition"
+    excerpt: "Thursday, a Minneapolis City Council committee advanced an ordinance that would ban the use of facial recognition by the city. The council’s Public Health and Safety Committee voted unanimously to advance the legislation."
+    publishedDateTime: 2021-01-22T15:34:00Z
+    webUrl: "https://kstp.com/minnesota-news/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition/5986469/"
+    ampWebUrl: "https://amp.kstp.com/articles/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition-5986469.html"
+    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/minneapolis-city-council-committee-advances-ordinance-to-ban-facial-recognition-5986469.html"
+    type: article
+    provider:
+      name: KSTP
+      domain: kstp.com
+    quality: 51
+    images:
+      - url: "https://kstp.com/kstpImages/repository/2021-01/800minneapolisskyline.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Ban on Facial Recognition Technology Advances in Minneapolis"
     excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing."
@@ -96,34 +82,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Facial recognition system plans for Parliament shelved"
-    excerpt: "Given the ongoing Covid-19 situation and safe distancing measures introduced during Parliament sittings, plans for a facial recognition system to track MPs' attendance in Parliament have been shelved."
-    publishedDateTime: 2021-01-20T22:06:00Z
-    webUrl: "https://www.straitstimes.com/singapore/politics/facial-recognition-system-plans-for-parliament-shelved"
+  - title: "Minneapolis Considers Facial Recognition Tech Ban"
+    excerpt: "A controversial crime-fighting tool could soon be off limits in Minneapolis, reports Erin Hassanzadeh (2:06). WCCO 4 News At 10 - January 21, 2021"
+    publishedDateTime: 2021-01-22T04:51:00Z
+    webUrl: "https://minnesota.cbslocal.com/video/5222289-minneapolis-considers-facial-recognition-tech-ban/"
+    ampWebUrl: "https://minnesota.cbslocal.com/video/5222289-minneapolis-considers-facial-recognition-tech-ban/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/5222289-minneapolis-considers-facial-recognition-tech-ban/amp/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: CBS Local
+      domain: cbslocal.com
     quality: 39
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/20/dw-parl-facialrecognition-210120.jpg?itok=RXHCCkT0"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Ban on facial recognition technology advances in Minneapolis"
-    excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
-    publishedDateTime: 2021-01-22T15:37:00Z
-    webUrl: "https://apnews.com/article/technology-media-social-media-minneapolis-5345d1193e4435aa9ce621aaf6d9c783"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Ban on facial recognition technology advances in Minneapolis"
     excerpt: "MINNEAPOLIS (AP) - A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes."
     publishedDateTime: 2021-01-24T23:02:00Z
@@ -138,6 +107,17 @@ related:
         width: 980
         height: 574
         isCached: true
+  - title: "Proposed ban on facial recognition technology moves forward in Minneapolis"
+    excerpt: "Minneapolis is one step closer to banning police and other city departments from using facial recognition technology."
+    publishedDateTime: 2021-01-22T22:20:00Z
+    webUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis"
+    ampWebUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
+    type: article
+    provider:
+      name: Fox 9
+      domain: fox9.com
+    quality: 37
   - title: "Proposed ban on law enforcement facial recognition technology advances in Minneapolis"
     excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
     publishedDateTime: 2021-01-21T23:44:00Z
@@ -151,6 +131,45 @@ related:
       - url: "https://chorus.stimg.co/22251394/ows_89490f87_9bba_4404_b792_a88e9b90abaa.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Minneapolis City Council to consider banning use of facial recognition technology by police"
+    excerpt: "Plus: judge rejects bid to delay Chauvin trial; Minnesota dodges major post-holiday spike in COVID-19 cases; uneven mask compliance among high school athletes; and more."
+    publishedDateTime: 2021-01-22T12:04:00Z
+    webUrl: "https://www.minnpost.com/glean/2021/01/minneapolis-city-council-to-consider-banning-use-of-facial-recognition-technology-by-police/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 29
+    images:
+      - url: "https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/minnpost-app-icon.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Minneapolis City Council is considering banning the use of facial recognition technology by the police"
+    excerpt: "Minneapolis City Council is considering banning the use of facial recognition technology by the police MinnPost file photo by Jessica Lee"
+    publishedDateTime: 2021-01-22T16:18:00Z
+    webUrl: "https://www.compsmag.com/news/technology/minneapolis-city-council-is-considering-banning-the-use-of-facial-recognition-technology-by-the-police/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/minneapolis-city-council-is-considering-banning-the-use-of-facial-recognition-technology-by-the-police/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/minneapolis-city-council-is-considering-banning-the-use-of-facial-recognition-technology-by-the-police/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 23
+  - title: "Police authorities conclude facial and license plate recognition video surveillance tests"
+    excerpt: "The Unitary Police Service (SPU) announced today (Thursday) that they has completed with \"satisfactory results\" the first two rounds of testi"
+    publishedDateTime: 2021-01-21T10:32:00Z
+    webUrl: "https://www.macaubusiness.com/police-authorities-conclude-facial-and-license-plate-recognition-video-surveillance-tests/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 15
+    images:
+      - url: "https://macaubusiness.b-cdn.net/wp-content/uploads/2021/01/eyes-in-the-sky.jpeg"
+        width: 1000
+        height: 775
         isCached: true
 
 secured: "GFPCboB1/QYYepyCsn/e+PTW9OHdDcBj/4MEGIWK7UIWvNlJ2xbCFCJJDkL81SJqgAirBGcf5sn22WQZDd2U43N2D5mbFmLU4p+sZSRWhwSntc27dIg+l4Sjb3EVfbsgMxX8EdEl+8pwCPLzs1iUJE2E5HN5+ifYLOFuqkwLt1CU/clQ/myzPbBmnwrtJSm5dP72OlNbclsm+VR86EliFKdI9TthAfgE52pbOkrIZELse7vQuS/+TOddzagfiRzlW/EuNEZNEEq6iA98HMU7ms2cK3AhWARqw0IPBXX9CPEZfFTn8QdtTlf0GDTtmO/54KpCQWDgSrEhlaJ5d5jAhzBmzk+qeP3h4k6bBQk5QJFTNoXH4OePysoIMOlzExd5LiUzueV7kO71RGAN9EOs+qH1e4aIfCKpcI/1ZxYq2jIuj/D9bpbM+Eh6paf6pbc261909AaL4EBvLkDZ+jOxULgJ1pW6QhFhkppSOXTd3m6ijYJ81POLMzCv8Z5vKMayFuxc9kMvvHvwObjsYJWs4g==;/sIcR7pxyV7EruXZg9K8jA=="

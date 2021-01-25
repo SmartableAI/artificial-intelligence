@@ -57,36 +57,17 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Fintech Advancement in the Time of COVID-19"
-    excerpt: "As with most years, I started 2020 with a sense of optimism, looking forward to another productive year at work and doing the Appetite for Disruption podcast with my co-host Troy Paredes. In fact, he"
-    publishedDateTime: 2021-01-20T23:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171429-fintech-advancement-in-the-time-of-covid-19/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Novel-Coronavirus-SARS-CoV-2-COVID-19-600x511.jpg"
-        width: 600
-        height: 511
-        isCached: true
   - title: "US Fintech Startup, Flaist is Selected for the Prestigious International Accelerator Program, Techstars Hub71 Abu Dhabi"
-    excerpt: "The fintech startup, Flaist, has announced it's been selected for the prestigious 2021 class of Techstars Hub71 Accelerator Program in Abu Dhabi. Techstars is a global platform for investment and innovation that helps entrepreneurs scale"
-    publishedDateTime: 2021-01-25T12:24:00Z
-    webUrl: "https://www.lelezard.com/en/news-19613712.html"
+    excerpt: "The fintech startup, Flaist, has announced it's been selected for the prestigious 2021 class of Techstars Hub71"
+    publishedDateTime: 2021-01-25T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19292996/us-fintech-startup-flaist-is-selected-for-the-prestigious-international-accelerator-program-techst"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19292996"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19292996"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 15
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
     excerpt: "BOSTON, MA / ACCESSWIRE / January / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
     publishedDateTime: 2021-01-21T07:00:00Z

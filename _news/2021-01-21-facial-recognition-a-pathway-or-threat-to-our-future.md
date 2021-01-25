@@ -24,6 +24,17 @@ images:
     height: 281
     isCached: true
 
+related:
+  - title: "Study reveals facial recognition of mask-clad travelers improving"
+    excerpt: "To determine the effectiveness of facial recognition technology at accurately identifying masked travelers during the COVID-19 pandemic, a team from the U.S. Department of Homeland Security (DHS) Science and Technology Directorate (S&T) conducted a series of tests on biometric systems and matching algorithms."
+    publishedDateTime: 2021-01-25T14:55:00Z
+    webUrl: "https://insights.globalspec.com/article/15818/study-reveals-facial-recognition-of-mask-clad-travelers-improving"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
+
 secured: "6H9G/iKkFIQ6ovWHlEINbZC9zmXuSESCO7ieq6kBVfFKfibe5QeHIsCAW0jMTL123UTDr5phl8mUVeli7ln5zg7/woqfwHfVXxOfin8ObHs/IXe+6dAyyjsAhwsCaqIoKOWeUchEmG68D77y5xh4+sCABbWASO3h2aAECgCBTN8YfbCiURQAuuTapm+vg5PQiV5QkQM7nDPEOqw2GqritO2Ko2A165Mvelnbs96hD9St6FXW8Yu61ke5bNwU+PF8sD6/Zlh+JF+gpP0Phelp9Y2ZL5sQub/0vrvTIZVLZVwm833vF3RyXshcQxLCvdbUyz0qDpFflB/G/FiPYjixK8FMu06EZWPjsD9JS7J0/to=;AUvfv4kszRd2KzbyWEyYTQ=="
 ---
 

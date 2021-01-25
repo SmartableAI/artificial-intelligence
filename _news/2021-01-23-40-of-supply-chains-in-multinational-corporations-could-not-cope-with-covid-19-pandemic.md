@@ -46,6 +46,22 @@ related:
         width: 620
         height: 310
         isCached: true
+  - title: "Sophia the robot could arrive in airports and shops across UK"
+    excerpt: "The company behind a life-size robot that uses artificial intelligence to hold conversations with humans is set to begin a mass rollout of the devices later this year as the pandemic increases demand for robots."
+    publishedDateTime: 2021-01-25T13:40:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/09/19/TELEMMGLPICT000143394584_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Every household will have a Sophia robot by end of the year"
     excerpt: "HONG KONG: \"Social robots like me can take care of the sick or elderly,\" Sophia says as she conducts a tour of her lab in Hong Kong. \"I can help communicate, give therapy and prov"
     publishedDateTime: 2021-01-25T12:11:00Z

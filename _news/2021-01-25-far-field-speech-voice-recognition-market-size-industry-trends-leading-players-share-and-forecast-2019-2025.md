@@ -125,10 +125,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail and E-commerce Market Inclinations & Development Status Highlighted During Forecast Period"
-    excerpt: "Artificial Intelligence (AI) in Retail and E-commerce Market -, By Size, Supplier, Demand Analysis, Type, Statistics, Regions and Industry Key Manufacture \"The report on the global AI in retail and E-commerce market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-20T21:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-and-e-commerce-market-inclinations-development-status-highlighted-during-forecast-period-2021-01-20"
+  - title: "Facial Recognition Market Trends, Share, Growth Rate, Opportunities and Market Forecast to 2021 – 2024"
+    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
+    publishedDateTime: 2021-01-22T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-trends-share-growth-rate-opportunities-and-market-forecast-to-2021-2024-2021-01-21"
     type: article
     provider:
       name: MarketWatch
@@ -139,15 +139,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Trends, Share, Growth Rate, Opportunities and Market Forecast to 2021 – 2024"
-    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
-    publishedDateTime: 2021-01-22T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-trends-share-growth-rate-opportunities-and-market-forecast-to-2021-2024-2021-01-21"
+  - title: "Healthcare Artificial Intelligence Market Trends Global Industry Analysis, Top Manufacturers, Growth, Opportunities & Forecast to 2026"
+    excerpt: "Jan (Market Insight Reports) -- Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Healthcare"
+    publishedDateTime: 2021-01-25T14:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-trends-global-industry-analysis-top-manufacturers-growth-opportunities-forecast-to-2026-2021-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -333,6 +333,6 @@ related:
       domain: medgadget.com
     quality: 0
 
-secured: "4s625cENUbqr9EBoCzmwTN0JvPWhU38JUvEvxPfrOR6RienJXWgkSf4IDhvmZ/5rPNK0h0UmUeZbXYMeOns1zAI+9RBBBNa49FgES45WYUUZfK8PA3+ZiQLkGgX4YtWNdx+KI4lE0oADrkQW5ln5d/UgTJY6f35yOComnpa0kCkME1n0WSexveyPnrnfHSGKG3JBQnwmXHZsPtG+P2Zh2t1KCfGq4xpPwrwjmZFxqb4MqVvYWXKyT4TYw56uV1q0G/hjyOAtyPYOcU8SzcYIByQxfDdDfKB0JgYqlJmeZWJIKvuKHD6scNhzTd9nMRL6zH7bLU1z75RWkYHGa0i9UjMAAJGu3LiPphYpcb+z14U=;EcUL0YTmwi/lWgbahS3K7g=="
+secured: "WLImx8cbxTxkFayb47GtKkENBkTKv6h/5hc6flLGdg2XOCemQ3UJdgxcxIngxePUuJPYZNxgrC87HJobQCadlu2s0yQ9hAdoBA190kGYgWxWpbKVUZJfEz3crL3N8fyVUHldq1D4kIANj1UURT9uR73pZFwh2QKrtK6SZgyXBaArYqE/stajbCJzs4RstAsk25C9TdpbZRFvy8XdVLAcASQkvGMTHYkhoahF1pPqcD5JnyGBankgvciidac2/tuCbzFv2UpVrIgk4QVYBWrVS9hc9lBLBxPQKVReoJjoFnTmQYi+htO1AXh2YOr+R08U7I+mMU+yJZ3iNnr1vSHSqcO6R8k8+DlAtowDVCxfy8UzO0+r35MsYDXhUo8cbkmB4+plACCH+sYGqktLAom0qMlgCFU0hTTLtwP+l7EEaXVU72eiwyC4E+BU90Y/llnCjzPtmvfV7FbtXqfBQxzEPn2w/aawUwIBgwLLbX/CjmGWAepPZrDf1NrcYNx3Hwc5pFkfqMu2TbGfEG5QAdUNgw==;JnLqlqAhKMI5IGb3NrkOfg=="
 ---
 

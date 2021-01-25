@@ -193,20 +193,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 42
-  - title: "GM, Microsoft team up on self-driving vehicles"
-    excerpt: "General Motors Co (GM) is teaming up with Microsoft Corp to accelerate its rollout of electric, self-driving vehicles. In the partnership announced on Tuesday, the companies said that Microsoft’s Azure cloud and edge computing platform would be used to “commercialize its unique autonomous vehicle solutions at scale."
-    publishedDateTime: 2021-01-20T22:38:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/01/21/2003750933"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 41
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Microsoft invests in GM's self-driving car company"
     excerpt: "GM-owned self-driving firm Cruise pushed its total value to $30 billion with Microsofts participation in a $2 billion equity investment. It was not divulged how much Microsoft infused in the equity investment and"
     publishedDateTime: 2021-01-21T10:25:00Z
@@ -275,6 +261,6 @@ related:
       domain: openpr.com
     quality: 25
 
-secured: "xUesfd4+jipaZ1krqIJOXr3qz/d3ME4YQlFS5TxtJJygv2AO5ZHlfXh3ShUkDYMrUZEeFoJ2r4eRaFbDiSfnN1RTggLuoUchLFrMZhzfgARGDowICtOvFufXgexw/Up5SjyFVoEu0TmWgjqEfg50vzJtzWC0BhZRpB+Imld2Y+xTp4ZRw3UociwfrruV9KptUQDwuPsbLWLZhYEWEWPt4Qqax8dLqwuBhnJLNNa/NvA+AxSwXoBo2y9C+tC4G6POEE8W5gBSZ9bxneZoqVJpQzWL2af307zlzxeJhxJXGNKZeLHETCteDo2O/jIokNDjnNRvPLvQq8y2X1lKiV1FBusfMOTcY345xXxAdgK3ULw=;fV/rnYkWkAWtUEnVyVYlpw=="
+secured: "Ar861a+VRSHdUPODZ/Om5orwFhTbAKSBMjL8fTdwgrOjFfClcXy/Q8rF/08tI+21s/5z8ia2vqfnhm5r8IUrM0weTsdN9iuuIhf0Ad5JgjYvbkAnX2Qncly67hLc39NzY8F5LxYIyvEA8/IYM0/15Gs2txZg+QM8J8rg0iRIU5hKCI8xKo3A/tp5qN0CXHJNKATv53WmPMsjRXBgcpnYJJs+0ImE/E2OWhuakNWBnpaXqx1ZoajMoB0RJVYshPRc6tgn+J+dk+qqw0FEZ4+B6+rbHArXh/hgJRf4xE1Lgnjv7RkF78dwRG6+xACgV7qU/YO1C9w7gHXDa+uEwVQ8Xnu/jy6sV6UM08whMsBilvlhPsS4Mt18SLJM6dTbKmugvHa9c+xaNm+XxbH5DMQx+EUkhIxkyFVg3APZD0Dh/d1xqmpWiKl7H+gCFjbRCTKILDpnI3euGOAPw+5ew2fBSIyuYlHta1aicWFnTOtyRqU9WerMrRjp9FyB0pX7flhNi5KRq5zWdKFm4qAoW/PF7A==;WiXjUboJrtmfJhlhgxXdyg=="
 ---
 

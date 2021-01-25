@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sophia the robot could arrive in airports and shops across UK"
+    excerpt: "The company behind a life-size robot that uses artificial intelligence to hold conversations with humans is set to begin a mass rollout of the devices later this year as the pandemic increases demand for robots."
+    publishedDateTime: 2021-01-25T13:40:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/09/19/TELEMMGLPICT000143394584_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Makers of Sophia the robot plan to produce THOUSANDS of lifelike droids by the end of 2021 to provide company for people who are lonely and socially isolated during Covid-19 ..."
     excerpt: "Hong Kong-based Hanson Robotics, the firm behind the famous humanoid robot, Sophia, has revealed that four models, including Sophia, will be mass-produced this year."
     publishedDateTime: 2021-01-25T10:35:00Z
@@ -76,6 +92,6 @@ related:
         height: 382
         isCached: true
 
-secured: "yS2HTW4x90DSdZQzHm8kjRNDJ2YcRYm2e6J1ewhan2+Haf7XCPiZ9UIqq/S4akcA30LC5Xq9UQXzujky9mTy5AxFiPr3TQ4w70/JvwN87QwSo53CGF0mVfkxMOXHxOtKYFYqfyeo8ekel89K4RtuGZ797JugOO389f2lz4/vq920XzrtnA9PW5aFX16HEFD+5gdq5cHeHz2pIynnv3vueX66M0/NoJKLa9wRijW662I0QmpCJwZdL0hC7jmSvPzTfjPVrpuDK9xGRuIpifgsmsDpX9PtSaeWkUA68hMUm8rTU5noExDoercywI5XnxV9ZyGYlIyGmVVWxRBKPVG6YKR7r7w1Ahueuu1mJkRbpsA=;ltVDKcIkoAKofa+hWiC5cg=="
+secured: "fFFxyzNkfQk6hG46T3df5xocTxpqKOGo59WfmyfeH+8v4IY5dc61NyEnzHu1TwyHIW9qzXGllhlONECtCn9koc6Lo1BmBf4s2VnkGCFBirdA+T0csd1uOWbUT7sGorxQZ+rRQc1AmNw6vMKceuko/H+w1t+zd3s6DE1XrXll73noBaKLN9tCcXGbql9xkhHogRWIewKp1n3TxAOsPKSY5uztcr3OEK4v2SxPys3dD4WLSxuAtkyB5PVwPznVy5wABowyyJvakrAo1+jcJ+DCU+KkRdt4G6SepKXCheJhSyHp3qy2dI1MbcUluRvJpBx2dytfi1DZcsfHqW/PmFUDmBgl/8u9JAGvUuaMSe63gx2rmQ1DU0ozFeYgUT609LJO2yWrIDvVgPBrGRRGmtVTp5V7PnMY+AZGEwBEamopP1MOcU4oHJvddhI/rHnAju779MNJKpjnM3w5bgGEPBAqLlZxAIWuCx5YgbgLmpxx6MJ7+F9U4NmUlbURuIDPmsbh4hDZpGbj3pOrgCiAlj+kww==;eMsU6Xej16oDNP5LK/HjHw=="
 ---
 

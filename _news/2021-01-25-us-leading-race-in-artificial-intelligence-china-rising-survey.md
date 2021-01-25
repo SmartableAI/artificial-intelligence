@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/us-leading-race-in-artificial-intel
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-leading-race-in-artificial-intelligence-china-rising-survey-01611551104"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -20,16 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "US leads AI race with China close behind"
-    excerpt: "The US is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
-    publishedDateTime: 2021-01-25T06:45:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/01/25/us-leads-ai-race-with-china-close-behind/"
+  - title: "Credential Stuffing: AI’s Role in Slaying a Hydra"
+    excerpt: "Credential stuffing is a relatively inexpensive means of attack. But organizations trying to prevent breaches may do well to invest in AI against it."
+    publishedDateTime: 2021-01-25T13:02:00Z
+    webUrl: "https://securityintelligence.com/articles/ai-role-in-credential-stuffing/"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
+      name: Hack
+      domain: securityintelligence.com
+    quality: 37
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/01/Credential-Stuffing-.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "dXVa6Oi9FeRTcr1HGhUZxKRMh7vto91aFbySBqMvzO3oFygpzWbTX2j2RvE9nHUR/kzvBguV/5pSA0DbbVAOhWf4aJ4Yos4TOcANRkBHqosQc43oRv5xfD9/rf0dmHCeqz6Dbk3RYyQjslOY60+ady9Yuld4sGszpdu3zeaJEqLEKByESQ6ogQ1z1S0RmpkKEQo4Ucs5eVZkR21xx9nzcxnMq/zCWn8EUwE56BrNx2jjXOIiQtJExSJpqvW8lD779zKOM1vlF7ibVH6/QjY84Og9I4xwJP78AQxxARtfZWCpQWcksaqUzDZJsRargf1z+Klrr+hibZRZLK7YwHNUH7khN8yVWxUZqBtPyTffdzU=;SQMEj4BClWm0wGmkN/p5Og=="
+secured: "nxy6WTzYMvjx+crzSVUbEB5ZIQ03oLI/nPJAotaMMQcgWIRKIgA5AwyWEQRwRPnpbk7WiAOGOeZXqkjE0Tx1gjCcNXekpbBqKChP2Ag6xswRl3tBtlWWb2NRPExhNPVi5+WgikUmzwgm4JDP/5UxCOS+k2xoZPNvHeRZK9dj/NoSXDwrbjYDoQhIHTOhMU5naOFHqPQPy2GhvMnVa+FA79aYvExB9z+Wi411VOz7nSEQqgYdbcxZQ65ZKFiiP57CJ8ahRXvt/ZcbwwOL1ZNljZ/8s/cbikGq6mv83PbnmPEK7QESqDidhsxzHLoAWFOAldw5Xs94+/T34lvGAXdh0khC6aZ+/B18nHVO6JLuc5k=;ootNB2D4BDuI7PJJQAxWEQ=="
 ---
 

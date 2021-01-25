@@ -23,6 +23,22 @@ images:
     height: 602
     isCached: true
 
+related:
+  - title: "How artificial intelligence will change work"
+    excerpt: "MIT Professor Thomas Malone, Professor Daniela Rus, and Robert Laubacher collaborated on \"Artificial Intelligence and the Future of Work,\" a brief that provides"
+    publishedDateTime: 2021-01-25T14:39:00Z
+    webUrl: "https://www.controleng.com/articles/how-artificial-intelligence-will-change-work/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 37
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Malone_Rus.jpg"
+        width: 645
+        height: 350
+        isCached: true
+
 secured: "HvElym3oLVBnBbnym5j494Rx++iGf+TvXdD5CyQxKhtgS9vtqOp60ErFZz2yOyWeCCQ5X6c9xDvYFZYmr9UBrB+rc9VnL1iKZWWMB/pj+GVn/DcrA6o/DOd8fRnZwwl/9/Cl++GiQdlFFzXVlawUAXDO84GYNCetvvrmNmq7h7qJnCeQ4wguPTPvG4K2WH+MY3LZd1VdnmvfN9v3uELQmiXsGqCDH2akKDh7xgLspZK0fDwGmKsIf/vhwQVjlze1e1ktv4Aexb0BaU6LVFB9dglJpwrSg3DZKaYRpASFiCp58Y7NUhFWPMB3/9hze1mdXehRntIsfeoUbuy4nyosJbOdvdWq9pT8KvPPQArqpKXLT2wHRFGPtlXNleSS76hxg6KYohfkdBTAOP9j/q9Q6617j0c+aDYONAEYC9o0MyIIsNaCQf9DsdcILHo4dDHFBrPLeMjsPAkG6XYlWVJfzhAnr5XEGVopqfU1rB9goPZwKJziUf4qK4ky4kZOYUxbvtEcgDT2vRJXZvtFVYcPbQ==;8HFbFbW9xWuY1whxiEniKg=="
 ---
 

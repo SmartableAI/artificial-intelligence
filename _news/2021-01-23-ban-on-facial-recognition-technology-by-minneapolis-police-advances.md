@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--59
 cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html"
 type: article
 quality: 59
-heat: 129
+heat: 169
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Ban on Facial Recognition Technology Advances in Minneapolis"
+    excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing."
+    publishedDateTime: 2021-01-22T16:02:00Z
+    webUrl: "https://www.usnews.com/news/best-states/minnesota/articles/2021-01-22/ban-on-facial-recognition-technology-advances-in-minneapolis"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Minneapolis Considers Facial Recognition Tech Ban"
     excerpt: "A controversial crime-fighting tool could soon be off limits in Minneapolis, reports Erin Hassanzadeh (2:06). WCCO 4 News At 10 - January 21, 2021"
     publishedDateTime: 2021-01-22T04:51:00Z
@@ -70,6 +79,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Ban on facial recognition technology advances in Minneapolis"
+    excerpt: "MINNEAPOLIS (AP) - A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes."
+    publishedDateTime: 2021-01-24T23:02:00Z
+    webUrl: "https://www.weau.com/2021/01/24/ban-on-facial-recognition-technology-advances-in-minneapolis/"
+    type: article
+    provider:
+      name: WEAU
+      domain: weau.com
+    quality: 39
+    images:
+      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/zCXcMt6FemPyR2OAR4yKMWc2efs=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5JUAEHMN7JA3VKC7WRW3MC4ZRA.jpg"
+        width: 980
+        height: 574
+        isCached: true
   - title: "Proposed ban on facial recognition technology moves forward in Minneapolis"
     excerpt: "Minneapolis is one step closer to banning police and other city departments from using facial recognition technology."
     publishedDateTime: 2021-01-22T22:20:00Z
@@ -81,6 +104,34 @@ related:
       name: Fox 9
       domain: fox9.com
     quality: 37
+  - title: "Proposed ban on law enforcement facial recognition technology advances in Minneapolis"
+    excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
+    publishedDateTime: 2021-01-21T23:44:00Z
+    webUrl: "https://www.startribune.com/proposed-ban-on-law-enforcement-facial-recognition-technology-advances-in-minneapolis/600013504/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 32
+    images:
+      - url: "https://chorus.stimg.co/22251394/ows_89490f87_9bba_4404_b792_a88e9b90abaa.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Proposed ban on use of facial recognition technology by police advances in Minneapolis"
+    excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
+    publishedDateTime: 2021-01-22T02:14:00Z
+    webUrl: "https://www.startribune.com/proposed-ban-on-use-of-facial-recognition-technology-by-police-advances-in-minneapolis/600013504/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 31
+    images:
+      - url: "https://chorus.stimg.co/22251394/ows_89490f87_9bba_4404_b792_a88e9b90abaa.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Minneapolis City Council to consider banning use of facial recognition technology by police"
     excerpt: "Plus: judge rejects bid to delay Chauvin trial; Minnesota dodges major post-holiday spike in COVID-19 cases; uneven mask compliance among high school athletes; and more."
     publishedDateTime: 2021-01-22T12:04:00Z
